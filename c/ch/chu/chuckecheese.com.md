@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203203253id_/https%3A//www.chuckecheese.com/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020175903id_/https%3A//www.chuckecheese.com/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms and Privacy - Chuck E. Cheese's
 
 PRIVACY
 
-Effective Date: February 1, 2016
+Effective Date: August 25, 2017
 
 CEC Entertainment Concepts, L.P. and its subsidiaries (“CEC Entertainment”) are very respectful of the privacy concerns of the visitors to its site on the Internet. This privacy policy applies to [www.chuckecheese.com](https://www.chuckecheese.com/). This privacy policy describes how CEC Entertainment collects and uses the personal information you provide on our website [www.chuckecheese.com](https://www.chuckecheese.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -14,10 +14,6 @@ CEC Entertainment makes a special effort to encourage children to consult with t
 
 We do not seek to acquire information specifically from children under the age of 13 on the Chuck E. Cheese's website.
 
-CEC Entertainment has received TRUSTe’s Privacy and Children’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website [www.chuckecheese.com](https://www.chuckecheese.com/).
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions.
-
 If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
 CEC Entertainment  
@@ -26,7 +22,7 @@ Attn.: Marketing Department
 Phone number: 972-258-8507  
 Email address: guestrelations@cecentertainment.com 
 
-If you have an unresolved privacy or data concern that we have not addressed satisfactorily, please contact TRUSTe [here:](https://feedback-form.truste.com/watchdog/request)
+If you have an unresolved privacy or data concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 Information Collection and Use
 
@@ -48,6 +44,7 @@ We use this information to:
 
   * Complete party or event reservations
   * Send you an order confirmation
+  * Send Third Party’s email confirmation about  party’s 
   * Send you a newsletter
   * Send you marketing communication
   * Send you requested product or service information
@@ -70,11 +67,12 @@ Information Sharing
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. 
 
 Service Providers  
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, processing your payment, or offering customer services such as our Chat Feature. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, processing your payment, or offering customer services. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
 Legal Disclaimer  
 We may also disclose your personal information: 
 
+  * In certain situations, CEC Entertainment may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
   * as required by law, such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
   * if CEC Entertainment is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
@@ -90,35 +88,11 @@ Partner’s purpose
 
 Link to partner’s privacy policy
 
-Google Inc. (Invite Media, Inc.)
-
-User Internet usage/behavior (no PII)
-
-Advertising technology
-
-comScore (VoiceFive)
-
-Analytics, visitor traffic stats
-
-Market research, consumer survey
-
 Google Inc. (YouTube)
 
 Analytics, visitor traffic stats
 
 YouTube, website tools, ad platform, analytics
-
-comScore (ScorecardResearch)
-
-Analytics, visitor traffic stats
-
-Analytics
-
-Undertone
-
-User Internet usage/behavior (no PII)
-
-Ad network
 
 Microsoft (Atlas Solutions)
 
@@ -126,71 +100,29 @@ User Internet usage/behavior (no PII)
 
 Ad network, advertising
 
-MediaMind
-
-Site traffic
-
-Ad platform
-
-Specific Media LLC.
-
-User Internet usage/behavior (no PII)
-
-Ad network
-
 Twitter Inc.
 
 Page links
 
 Social sharing
 
-Collective
+Instagram
 
-User Internet usage/behavior (no PII)
+Page links, likes
 
-Ad network
+Social sharing
 
-Adobe (Analytics)
+Pinterest
 
-Analytics, visitor traffic stats
+Page links, pins
 
-Analytics
+Social sharing
 
 Facebook
 
 Page links, likes
 
 Social sharing
-
-Yahoo! Inc.
-
-User Internet usage/behavior (no PII)
-
-Ad platform
-
-24/7 Media
-
-User Internet usage/behavior (no PII)
-
-Ad platform
-
-ValueClick Media
-
-User Internet usage/behavior (no PII)
-
-Ad platform
-
-Millennial Media
-
-User Internet usage/behavior (no PII)
-
-Ad platform
-
-Criteo
-
-Optimization
-
-Retargeting
 
 Appnexus
 
@@ -210,51 +142,17 @@ User Internet usage/behavior (no PII)
 
 Ad platform
 
-Sizmek
-
-User Internet usage/behavior (no PII)
-
-Ad platform
-
-eXelate
-
-User Internet usage/behavior (no PII)
-
-Ad platform
-
-Optimizely
-
-Optimization
-
-Retargeting
-
-Simpli.fi
-
-Optimization
-
-Retargeting
-
-AdMedia
-
-User Internet usage/behavior (no PII)
-
-Ad network
-
 Google Adsense
 
 User Internet usage/behavior (no PII)
 
 Ad network
 
-Rocket Fuel
+The chart lists the names of some of our third party partners and support provider entities, which may provide administrative services to our Websites. These entities may change from time to time and we will update this list as soon as practicable following any changes.
 
-User Internet usage/behavior (no PII)
+If you have any inquiries regarding our partner’s privacy practices or how they use your child’s personal information, please contact us directly at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com). 
 
-Ad network
-
-The chart lists the names of some of our third party partners and support provider entities, which may provide administrative services to our Websites. These entities may change from time to time. If you have any inquiries regarding our partner’s privacy practices or how they use your child’s personal information, please contact us directly at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com). 
-
-User Access and Choice If your personal information changes, or if you no longer desire our service, you may update, or request deletion of personally identifiable information collected by contacting us by emailing our Customer Support at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com) or by contacting us by telephone or postal mail at the contact information listed below. To safeguard your information, we will also take steps to verify your identity before granting access or correction. Although we do not seek to collect information from children, parents may, after providing proper parental identification, request to review, update, or delete their own child's information that may have been submitted. To remove images from the site, we will send an email to the user with a link for removal and then proceed with deletion if the link is clicked on and deletion confirmed on that webpage. We will respond to your request to access within 30 days. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+User Access and Choice Upon your request CEC Entertainment will confirm for you whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may update, or request deletion of personally identifiable information collected by contacting us by emailing our Customer Support at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com) or by contacting us by telephone or postal mail at the contact information listed below. To safeguard your information, we will also take steps to verify your identity before granting access or correction. We will respond to your request to access within 30 days. Although we do not seek to collect information from children, parents may, after providing proper parental identification, request to review, update, or delete their own child's information that may have been submitted and refuse to allow CEC Entertainment to collect further information about their child by emailing our Customer Support at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com) or by contacting us by telephone or postal mail at the contact information listed below. Parents who provide information of their under 13 child can consent to collection and use of their child's personal information without consenting to the disclosure of that information to third parties. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 Opt-out Preferences  
 Out of respect for your privacy, you may choose to stop receiving our marketing emails by following the unsubscribe instructions included in these emails. We do send transactional emails when processing your orders and responding to your feedback/questions. You may not opt out of these emails as they are not promotional in nature. 
@@ -266,13 +164,21 @@ Tracking Technologies
 Technologies such as cookies, beacons, tags, and scripts are used by us and our tracking utility company who provides online customer support. These technologies are used in improving the user experience for completing forms for the reservation process, tracking behaviors so that we can provide relevant messaging and improve the overall experience, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
 Analytics / Log Files  
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. This data is used to track Internet usage and behavior so that we can retarget you with relevant messaging and to improve the user experience. 
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. This data is used to track Internet usage and behavior so that we can retarget you with relevant messaging and to improve the user experience. 
 
 Local Storage (HTML5)  
 Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity use Local Storage also known as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
 
 Behavioral Advertising/Retargeting  
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third-party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+
+Data Supplementation  
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include: 
+
+  * Address information about you from third party sources, such as the U.S. Postal Service, to verify your address so we can properly ship your order to you and to prevent fraud. 
+  * Purchased marketing data about our customers from third parties that is combined with information we already have about you, to create more tailored advertising and products. 
+
+
 
 Mobile Analytics  
 We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile application, as we do not collect any personal information through the application. 
@@ -294,7 +200,7 @@ California Civil Code Section 1798.83 allows our California customers to request
 [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com) or CEC Entertainment,1707 Market Place Blvd, Suite 200, Irving, TX 75063, Attn: Marketing Department, and include your name and the address to which you would like us to respond. We will attempt to provide you with the requested information within thirty (30) days of receipt. 
 
 Changes To This Policy  
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+We may update this privacy policy to reflect changes to our information practices at any time. Notice will be given when the privacy policy is changed. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 Contact Us  
 CEC Entertainment  
