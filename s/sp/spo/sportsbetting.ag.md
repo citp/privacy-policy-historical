@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbetting.ag privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905090802id_/http%3A//www.sportsbetting.ag/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbetting.ag privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020135031id_/https%3A//www.sportsbetting.ag/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ Sportsbetting.ag undertakes substantial efforts to protect the confidentiality o
 
 **3\. Consent to Privacy Policy**
 
-By opening an account with Sportsbetting.ag, you agree to the terms of this Privacy Policy. We may occasionally update this Privacy Policy and encourage you to periodically review it. If we change our privacy policy we will post the changes on this page. Your continued use of the Sportsbetting.ag services constitutes your agreement to this Privacy Policy and any updates. Our terms of service take precedence over any conflicting provision of this Privacy Policy - see our terms and conditions at [http://www.sportsbetting.ag/terms-conditions](https://web.archive.org/terms-conditions).
+By opening an account with Sportsbetting.ag, you agree to the terms of this Privacy Policy. We may occasionally update this Privacy Policy and encourage you to periodically review it. If we change our privacy policy we will post the changes on this page. Your continued use of the Sportsbetting.ag services constitutes your agreement to this Privacy Policy and any updates. Our terms of service take precedence over any conflicting provision of this Privacy Policy - see our terms and conditions at [//www.sportsbetting.ag/terms-conditions](https://web.archive.org/terms-conditions).
