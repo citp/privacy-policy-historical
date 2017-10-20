@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometheaterhifi.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619220508id_/http%3A//hometheaterhifi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometheaterhifi.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020034752id_/http%3A//hometheaterhifi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HomeTheaterHifi.com
 
@@ -6,7 +6,7 @@
 
 Scientific Design and Information, Inc. (“SDI”) is committed to protecting the privacy of its Website visitors, users and registrants (for purposes of the Privacy Policy, “users”) and their respective information. This Privacy Policy describes SDI’s privacy practices with respect to information collected by this Website.
 
-Use of the Website is conditioned on acceptance of this Privacy Policy. If you have any questions about this Privacy Policy or SDI’s information practices, please contact SDI at 650-366-1644 or send an email to [info@hometheaterhifi.com](mailto:info@hometheaterhifi.com). IFYOU DO NOT ACCEPT THIS PRIVACY POLICY, SDI DOES NOT GRANT YOU ANY LICENSE OR OTHER RIGHTS TO USE THE WEBSITE AND YOU SHOULD EXIT THIS WEBSITE.
+Use of the Website is conditioned on acceptance of this Privacy Policy. If you have any questions about this Privacy Policy or SDI’s information practices, please contact SDI at 650-366-1644 or send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9df4f3fbf2ddf5f2f0f8e9f5f8fce9f8eff5f4fbf4b3fef2f0). IFYOU DO NOT ACCEPT THIS PRIVACY POLICY, SDI DOES NOT GRANT YOU ANY LICENSE OR OTHER RIGHTS TO USE THE WEBSITE AND YOU SHOULD EXIT THIS WEBSITE.
 
 The Website is managed by SDI and its third party website management and hosting service providers (each, a “Provider”), each of which is bound by the terms of this Privacy Policy (SDI and its Providers, collectively, “SDI”). Further to SDI’s Terms of Use, if the Website contains links to other third party websites, such sites are governed by their respective terms of use and privacy policies.
 
@@ -20,7 +20,7 @@ Currently, SDI collects only the names and email addresses of users who voluntar
 
 Users in the European Union and other countries fully understand and unambiguously consent to the collection and processing of their respective personal information in the United States of America in accordance with the terms herein.
 
-If a user’s personally-identifiable information changes or if a user desires to terminate his/her newsletter registration, he/she can correct, update or remove all information provided to SDI via the registration information page or by emailing [info@hometheaterhifi.com](mailto:info@hometheaterhifi.com).
+If a user’s personally-identifiable information changes or if a user desires to terminate his/her newsletter registration, he/she can correct, update or remove all information provided to SDI via the registration information page or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#70191e161f30181f1d1504181511041502181916195e131f1d).
 
   2. **Means of Collecting Information; No Online Tracking**
 
@@ -52,7 +52,7 @@ From time to time, the Website may request contact and/or demographic informatio
 
 
 
-Subject to the terms herein, SDI employs industry-standard administrative, technical, organizational and physical measures in compliance with applicable laws and regulations to protect the security of its user information and to protect against unauthorized access thereto or unauthorized use or disclosure thereof. However, no Internet or email transmission is ever fully secure or error-free and, as set forth in the Terms of Use, SDI makes no warranty and assumes no liability for any such transmission or any damages incurred in connection therewith. If you have any questions about SDI’s Website security, please contact [info@hometheaterhifi.com](mailto:info@hometheaterhifi.com).
+Subject to the terms herein, SDI employs industry-standard administrative, technical, organizational and physical measures in compliance with applicable laws and regulations to protect the security of its user information and to protect against unauthorized access thereto or unauthorized use or disclosure thereof. However, no Internet or email transmission is ever fully secure or error-free and, as set forth in the Terms of Use, SDI makes no warranty and assumes no liability for any such transmission or any damages incurred in connection therewith. If you have any questions about SDI’s Website security, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fc95929a93bc949391998894999d88998e94959a95d29f9391).
 
 SDI cannot and does not guarantee or warrant the security and privacy of information provided by users on or through the Website. Each user discloses personal information on or through our Website wholly at his/her own risk and each acknowledges that he/she is aware of the security and privacy risks involved, including limitations of the security, privacy and authentication measures in the Website, threats of external interference such as eavesdropping, breaking passwords and hacking, and contamination by viruses.
 
