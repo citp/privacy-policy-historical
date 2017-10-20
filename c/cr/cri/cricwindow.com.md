@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricwindow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134120id_/http%3A//www.cricwindow.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricwindow.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020101855id_/https%3A//www.cricwindow.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of cricwindow.com
 
