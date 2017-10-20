@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the outdoorlife.tv privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619085608id_/http%3A//www.outdoorlife.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorlife.tv privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020084100id_/http%3A//www.outdoorlife.tv/privacy.html) for the most accurate reproduction.*
 
-# Outdoor Life - Privacy Policy
+# Privacy Policy | Outdoor Life TV
+
+## Privacy Policy
+
+Bonnier Corporation Privacy Policy
 
 **Bonnier Corporation Privacy Policy**
 
