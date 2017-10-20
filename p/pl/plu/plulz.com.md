@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plulz.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026200301id_/http%3A//spycasa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plulz.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020130352id_/http%3A//www.spycasa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy - Spycasa
+# Privacy and Cookie Policy
 
 This Privacy Policy governs the manner in which Spycasa collects, uses, maintains and discloses information collected from users (each, a “User”) of the spycasa.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Spycasa.
 
