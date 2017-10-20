@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030180527id_/https%3A//www.nph.org/ws/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020043627id_/https%3A//www.nph.org/ws/contact/privacy.php) for the most accurate reproduction.*
 
 # NPH International - Privacy Statement
 
@@ -21,8 +21,8 @@
 
 |   
 ---  
-Easter vacation at the beach   
-(NPH Honduras)   
+Getting our hands dirty in the pottery workshop.   
+(NPH Dominican Rep.)   
   
 NPH.org developed this Privacy Policy (the "Policy") as an extension of our commitment to help those in need, while serving our valued friends, donors, visitors, customers, and the companies, businesses and organizations they represent (collectively, "you") with the highest level of integrity. 
 
@@ -153,8 +153,5 @@ If you have any questions about this Privacy Policy or the NPH Site, you may con
 
 * * *
 
-|  |  |   
----|---|---  
-   
   
 
