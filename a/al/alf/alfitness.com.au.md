@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfitness.com.au privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525110451id_/http%3A//www.alfitness.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfitness.com.au privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020041239id_/http%3A//www.alfitness.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
