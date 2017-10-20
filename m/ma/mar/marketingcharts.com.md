@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingcharts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172216id_/http%3A//www.marketingcharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingcharts.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020025537id_/http%3A//www.marketingcharts.com/privacy) for the most accurate reproduction.*
 
-# Marketing Charts Privacy Policy
+# Marketing Charts Privacy Policy - Marketing Charts
 
 We are as mad at spam as you are. We get tons of it ourselves and wouldn’t even imagine adding to this constant barrage of unsolicited bulk email. So our privacy policy is quite simple: we won’t use your email address for any other purpose than the one for which you originally gave it to us: sending you our newsletter and sponsorship content. This may include contacting subscribers to update information once in a while, and, from time to time, inviting some readers to participate in a readership survey. Occasionally we also notify our readers of relevant events and products.
 
@@ -34,4 +34,4 @@ We have put security measures in place to protect the loss, misuse and alteratio
 
 Personally Identifiable Information provided to Marketing Charts LLC is subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders. We make every effort possible to preserve user privacy and anonymity; however, we may need to disclose personal information when required by law wherein such action is necessary to comply with judicial proceedings, court orders or legal processes served on our Website.
 
-— Marketing Charts LLC, 2016
+— Marketing Charts LLC, 2017
