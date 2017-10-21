@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the rci.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520193310id_/http%3A//www.rci.com/pre-rci-en_US/footer/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rci.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021174720id_/https%3A//www.rci.com/pre-rci-en_US/footer/privacy-policy.page) for the most accurate reproduction.*
 
-# RCI Privacy Notice | RCI.com
+# RCI Privacy Policy | RCI.com
 
 RCI, LLC is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Notice describes our practices in connection with information we collect through: websites we operate from which you are accessing this Privacy Notice (the " **Websites** "), any software applications we make available for use on or through computers and mobile devices (the " **Apps** "), and social media pages we control from which you are accessing this Privacy Notice (our " **Social Media Pages** "), (collectively, including the Websites, Apps and Social Media Pages, the " **Services** "). This Privacy Notice also applies to our offline collection of information. The information you provide helps us operate effectively and provide you with premium hospitality products, services and experiences.
 
-  
 Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. Please read the following to learn more about our privacy practices.
 
-  
 **Your Acceptance of Our Privacy Notice:** By using the Services, you accept the terms of this Privacy Notice and the ways we may use your information. If you do not accept this Notice's terms, please do not continue to use the Services.
 
-### What Information Is Collected and How Is It Collected?
+## What Information Is Collected and How Is It Collected?
 
-  1. **We may collect personal information (information that identifies you or relates to you as an identifiable person) about you such as your:**
+  1. We may collect personal information (information that identifies you or relates to you as an identifiable person) about you such as your: 
     * Name
     * Postal address (including billing and shipping addresses)
     * Telephone number
@@ -26,9 +24,7 @@ Our privacy practices may vary among the countries in which we operate to reflec
     * Special needs or conditions that may impact your stay
     * Demographic information
     * IP address
-
-**We may collect information from you when you interact with us such as when you:**
-
+  2. We may collect information from you when you interact with us such as when you: 
     * Register for a product or service
     * Contact us with a question or request, including by use of any Website chat features 
     * Use our Services 
@@ -39,7 +35,7 @@ Our privacy practices may vary among the countries in which we operate to reflec
     * Participate in any loyalty or other programs
     * "Like", "Follow" or otherwise connect with or post to one of our Social Media Pages
     * Provide services to us (for example, as a vendor or contractor) 
-  2. **Other Information We Collect about you:**
+  3. Other Information We Collect about you: 
     * **Cookies** : This Website uses "cookies". By using this Website and agreeing to this Notice, you consent to our use of cookies in accordance with this Notice's terms. Cookies are small text files this Website sends to your computer for record-keeping purposes and this information is stored in a file on your computer's hard drive. Cookies make web surfing and browsing easier for you by saving your preferences so we can use them to improve your next visit to this Website. 
       * One purpose of cookies is to simplify the use of the Website. A cookie may save a user's login details for example, so the user does not need to login every time. Cookies, by themselves, do not provide us with your personal information.
       * Cookies may be either "persistent" or "temporary" (or "session") cookies. A persistent cookie retains user preferences for a particular Website allowing them to be used in future browsing sessions and remains valid until its set expiry date (unless previously deleted by the user). A temporary cookie expires at the end of the user session, when the web browser is closed.
@@ -50,7 +46,7 @@ Our privacy practices may vary among the countries in which we operate to reflec
 
 
 
-### How Do We Use Your Information?
+## How Do We Use Your Information?
 
 The information we collect from you helps us identify ways we can continue to serve you in the best way possible and provide you with personalized products and services that suit your lifestyle. **We use personal information for the following purposes:**
 
@@ -68,9 +64,9 @@ The information we collect from you helps us identify ways we can continue to se
 
 We may also aggregate and/or anonymize personal information for research, to improve our products and services; and for other business purposes. Other than as described herein, RCI does not: (1) sell or rent your personal information, (2) use your personal information to make decisions about granting or extending consumer credit unless you submit a separate credit application and authorize us to use or disclose your information; or (3) use your personal information to act as a consumer reporting agency or furnish information about your credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics or mode of living to any consumer reporting agency.
 
-### How Do We Disclose Your Information?
+## How Do We Disclose Your Information?
 
-**Your information may be disclosed as follows:**
+### Your information may be disclosed as follows:
 
   * **Affiliates:** To other Wyndham businesses (our "Affiliates") which may jointly use the personal information for the purposes described in this Privacy Notice. A list of our primary Affiliates can be found in Wyndham's current Form [10-K](http://www.wyndhamworldwide.com/investors/earnings-financials/annual-report).
   * **Resorts or Business Partners:** We may share personal information with the owners and operators of RCI affiliated resorts in order to provide you with services, facilitate a booking you requested, generate leads in connection with their offers to sell timeshares to you, to facilitate their understanding of their owners’ exchange history and utilization, or to respond to your inquiry for further information about mini-vacations at resorts where a resort tour is either required or requested of you by the owner or operator of the resort. We may disclose your information to business partners, sponsors or other third parties in connection with administering promotions, sweepstakes or similar activities. You may be offered an opportunity to request additional information, materials or offers from the sponsor or other third party; should you make such a request, we will provide your personal information to the third party so that they can fulfill your request.
@@ -82,11 +78,11 @@ We may also aggregate and/or anonymize personal information for research, to imp
 
 
 
-### How Do We Safeguard Your Information?
+## How Do We Safeguard Your Information?
 
 **Security of Your Information:** We will take reasonable steps to protect the information you provide us from loss, misuse and unauthorized access, disclosure, alteration and destruction. We have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure your information from loss, misuse, unauthorized access or disclosure, alteration or destruction. Unfortunately, no security system is 100% secure, thus we cannot ensure the security of information you provide to us via the Services.
 
-### Other Important Information
+## Other Important Information
 
   * **Information Provided on Someone Else's Behalf:** If you provide us with information about someone else, please ensure you have the person's permission to do so for the purposes detailed in this Privacy Notice.
   * **Links to Websites:** The Services may have links to other websites not operated by us; we have no control over how these websites may collect your information and no responsibility or liability for the practices, policies and security measures implemented on these websites. You should read the privacy notices on those other websites before you submit your information through them.
@@ -98,7 +94,7 @@ We may also aggregate and/or anonymize personal information for research, to imp
 
 
 
-### Choices and Contact Us With Your Questions
+## Choices and Contact Us With Your Questions
 
   * **Marketing:** We may contact you by email, phone or postal mail with information about products or services offered by RCI or a third party that may be of interest to you. You can opt-out at any time by: 
     * Using the unsubscribe function in the email you receive from us; or
@@ -116,11 +112,11 @@ Attn: Legal Privacy
 
 
 
-### Notice to California Residents
+## Notice to California Residents
 
 If you are a resident of California, California Civil Code Section 1798.83 allows you to request information regarding the disclosure of your personal information by us to third parties for the third parties' direct marketing purposes. With respect to these entities, this Notice applies only to their activities within the State of California. To make such a request, please contact us at [feedback@rci.com](mailto:feedback@rci.com).
 
   * **Effective Date:** April 1, 2015
-  * **Last Updated Date:** July 18, 2016
+  * **Last Updated Date:** May 17, 2017
 
 
