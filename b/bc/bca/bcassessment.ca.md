@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcassessment.ca privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625012047id_/https%3A//www.bcassessment.ca/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcassessment.ca privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021121956id_/http%3A//www.bcassessment.ca/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
