@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the securedatarecovery.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023142629id_/https%3A//www.securedatarecovery.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securedatarecovery.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021171618id_/https%3A//www.securedatarecovery.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Secure Data Recovery Services
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=03864380-17e1-4afa-ad44-e38afd827deb "TRUSTe Privacy Certification")
 
-**Effective Date: 9/26/2016**
+**Effective Date: 6/6/2017**
 
   * This privacy policy applies to www.securedatarecovery.com owned and operated by Secure Data Recovery Services. This privacy policy describes how Secure Data Recovery Services collects and uses the personal information you provide on our web site: www.securedatarecovery.com and our Services. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Secure Data Recovery Services. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -16,17 +16,15 @@ We provide a detailed overview of our practices to help you use our website. Con
 
 The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Secure Data Recovery Services. 
 
-Secure Data Recovery Services complies with the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Secure Data Recovery Services has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Secure Data Recovery Services’ certification, please visit  https://safeharbor.export.gov/swisslist.aspx. 
+Secure Data Recovery Services participates in and has certified its compliance with the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Framework. Secure Data Recovery Services is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list). 
 
-Secure Data Recovery Services participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Secure Data Recovery Services is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list). 
+Secure Data Recovery Services is responsible for the processing of personal data it receives, under the Privacy Shield Frameworks, and subsequently transfers to a third party acting as an agent on its behalf. Secure Data Recovery Services complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. 
 
-Secure Data Recovery Services is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Secure Data Recovery Services complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Secure Data Recovery Services is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Secure Data Recovery Services may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Secure Data Recovery Services is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Secure Data Recovery Services may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
+Under certain conditions, more fully described on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 ## Collecting and Using Personal Information
 
@@ -74,7 +72,7 @@ We will retain your information for as long as your account is active or as need
 
 The security of your personal information is important to us. When you enter sensitive information (such as login credentials and credit card information) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [**legal@securedatarecovery.com**](mailto:legal@securedatarecovery.com "Email Our Legal Department"). 
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [legal@securedatarecovery.com](mailto:legal@securedatarecovery.com). 
 
 ## Cookie Collection
 
@@ -86,7 +84,7 @@ You may also consult your browser's documentation if you do not wish to receive 
 
 ## Tracking Technologies
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We [do/ do not] link this automatically collected data to other information we collect about you. 
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
 
 Our website also uses Google Analytics, a popular web traffic analytics tool. Google Analytics adds cookies to your computer when you visit SecureDataRecovery.com and collects information about the website traffic. See [**Google's privacy policy**](http://www.google.com/policies/privacy/ "Google privacy policy") for more information. 
 
@@ -122,6 +120,10 @@ Secure Data Recovery Services limits access to our customers' information to our
 
 Secure Data Recovery Services may sign confidentiality agreements if requested; the terms of those agreements may reinforce this agreement but will not supersede this agreement unless they contain an explicit statement to this effect. We maintain a strict non-disclosure agreement, and all of our employees and vendors comply with this agreement. 
 
+## Preferences
+
+You may sign-up to receive emails or newsletters or other communications from us. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or by contacting us at [legal@securedatarecovery.com](mailto:legal@securedatarecovery.com). 
+
 ## Links to 3rd Party Sites
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of Secure Data Recovery Services. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
@@ -146,5 +148,4 @@ Secure Data Recovery Services may apply changes or updates to this policy as nee
 
 If you have any questions or suggestions regarding our company or our terms of service, please contact us by e-mail: [**legal@securedatarecovery.com**](mailto:legal@securedatarecovery.com "Email Our Legal Department") or through our mailing address below: 
 
-8271 Melrose Ave., Suite 205  
-Los Angeles, CA 90046 
+3255 Cahuenga Blvd. West, #301 Los Angeles, CA 90068 
