@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608084922id_/http%3A//www.napier.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021030957id_/http%3A//www.napier.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -101,7 +101,7 @@ If you wish to enquire or apply to Edinburgh Napier University you will be asked
 
 We also have a press news list which you can join. To unsubscribe from this list email [EdNapierNews@napier.ac.uk](mailto:EdNapierNews@napier.ac.uk) with REMOVE in the subject line. 
 
-We maintain a database of our alumni and proactively keep them engaged about our alumni services. Find out more about how the University handles alumni data. 
+We maintain a database of our alumni and proactively keep them engaged about our alumni services. Find out more about how the University handles alumni data [here](https://alumni.napier.ac.uk/page.aspx?pid=187). 
 
 ## Events registration on externally hosted services
 
@@ -110,6 +110,8 @@ Please note that by registering for an event via a service such as [Eventbrite](
 Edinburgh Napier University is not affiliated with these companies/websites in any way and is using their services solely for the purposes of facilitating event ticketing and registration and does not accept any responsibility or liability for personal data which you have chosen to provide to such third party sites.
 
 ## Further information
+
+Privacy Notices for Students, Staff and all other ‘layered’ Privacy Notices can be accessed online [here](http://staff.napier.ac.uk/services/secretary/governance/DataProtection/Pages/statement.aspx).
 
 For further information, please see the University's [Data Protection Policy Statement](http://staff.napier.ac.uk/services/secretary/governance/DataProtection/Pages/default.aspx)
 
