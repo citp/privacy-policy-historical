@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powershow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155924id_/http%3A//www.powershow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powershow.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021175817id_/http%3A//www.powershow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PowerShow.com
 
@@ -35,7 +35,7 @@ We do not require visitors to register or provide any information before enterin
 
 **Unsubscribing from Our Email List**
 
-Every promotional e-mail you receive from PowerShow.com should offer you the means to easily unsubscribe from the PowerShow.com mailing list within 72 hours. If you have difficulties using this feature, or want to report any problems with its effectiveness, you may report any such problems and/or request that you be immediately unsubscribed by [contacting us](mailto:support@powershow.com). If you want to find out how and when you got on our mailing list, you may also contact us at this same email address. 
+Every promotional e-mail you receive from PowerShow.com should offer you the means to easily unsubscribe from the PowerShow.com mailing list within 72 hours. If you have difficulties using this feature, or want to report any problems with its effectiveness, you may report any such problems and/or request that you be immediately unsubscribed by [contacting us](http://powerpoint.crystalgraphics.com/contactus/inquiry). If you want to find out how and when you got on our mailing list, you may also contact us at this same email address. 
 
 **Aggregate Information**
 
@@ -55,15 +55,12 @@ Our policy is to occasionally provide electronic links to other sites which may 
 
 **How to Contact Us**
 
-Should you have other questions or concerns about our privacy policy, please don't hesitate to contact us at: 
-
-[E-mail address](mailto:support@powershow.com)  
-Phone (408) 496-6175 
+Should you have other questions or concerns about our privacy policy, please don't hesitate to [contact us](http://powerpoint.crystalgraphics.com/contactus/inquiry). 
 
 CrystalGraphics, Inc.  
-Marketing Department  
-706 More Avenue  
-Los Gatos, CA 95032
+1999 S. Bascom Avenue  
+Suite 700  
+Campbell, CA 95008 USA
 
 Your Friends at PowerShow.com 
 
