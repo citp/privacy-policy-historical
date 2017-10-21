@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeadvisor.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628052437id_/https%3A//www.homeadvisor.com/rfs/aboutus/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeadvisor.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022015521id_/https%3A//www.homeadvisor.com/rfs/aboutus/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # HomeAdvisor - Privacy Policy
 
