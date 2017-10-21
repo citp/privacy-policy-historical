@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 5apps.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812154534id_/https%3A//5apps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5apps.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021213448id_/https%3A//5apps.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | 5apps
+# Privacy Policy | 5apps | 5apps
+
+## Privacy Policy
 
 ### General Information
 
