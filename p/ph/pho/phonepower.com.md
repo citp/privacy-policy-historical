@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonepower.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622054449id_/http%3A//www.phonepower.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonepower.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021172232id_/http%3A//www.phonepower.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Phone Power - Privacy Policy | VoIP Service & FREE VoIP Phone Calls
 
@@ -26,7 +26,7 @@ All customer/visitor information, not just the sensitive information mentioned a
 
 **Notification of Changes:** If we make any changes to the Phone Power Privacy Policy, we will post those changes on Phone Power Web sites so customers/visitors are informed. We will always use information in accordance with the Phone Power Privacy Policy. 
 
-**Questions:** Any questions or comments regarding privacy should be sent to [support@phonepower.com](mailto:support@phonepower.com) or mailed to: 
+**Questions:** Any questions or comments regarding privacy should be sent to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e2e3631303b2e31293b2c703d3133) or mailed to: 
 
 **Customer Service**  
 PhonePower  
