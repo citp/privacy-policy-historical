@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playvil.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904114510id_/http%3A//www.playvil.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playvil.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021035242id_/http%3A//www.playvil.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Online Games
 
