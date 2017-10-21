@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the simplyearth.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809062423id_/http%3A//simplyearth.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyearth.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021034219id_/https%3A//simplyearth.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Simply Earth
-
-PRIVACY STATEMENT
+# Privacy Policy - Simply Earth
 
 \----
 
@@ -80,4 +78,4 @@ If you would like to: access, correct, amend or delete any personal information 
 Simply Earth  
 [Re: Privacy Compliance Officer]  
 N4640 County Road I Sheboygan Falls Wisconsin US 53085  
-\---- 
+\----
