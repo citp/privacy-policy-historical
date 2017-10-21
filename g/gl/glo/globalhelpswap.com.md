@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalhelpswap.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621070312id_/http%3A//globalhelpswap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalhelpswap.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021161632id_/http%3A//globalhelpswap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - globalhelpswap - free and low cost volunteering opportunities around the globe
 
@@ -83,4 +83,4 @@ The Data Protection Act 1998 was established to govern online electronic communi
 
  **8.  Contacting Us**
 
-We welcome and hope you do not hesitate to make any queries, comments or requests you may have regarding this Privacy Policy.   Please contact us at [paul@globalhelpswap.com](mailto:paul@globalhelpswap.com)
+We welcome and hope you do not hesitate to make any queries, comments or requests you may have regarding this Privacy Policy.   Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d4a4b5a1b894b3b8bbb6b5b8bcb1b8a4a7a3b5a4fab7bbb9)
