@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icebreakers.ws privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629095816id_/http%3A//www.icebreakers.ws/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icebreakers.ws privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022234843id_/https%3A//www.icebreakers.ws/privacy.html) for the most accurate reproduction.*
 
 # icebreakers.ws | Privacy Policy
 
