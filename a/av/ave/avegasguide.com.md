@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avegasguide.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223173001id_/http%3A//www.avegasguide.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avegasguide.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022090037id_/http%3A//www.avegasguide.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Las Vegas show tickets, Cheap Las Vegas hotels and more - avegasguide.com
 
