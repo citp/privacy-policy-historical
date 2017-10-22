@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oktatabyebye.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035717id_/http%3A//www.oktatabyebye.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oktatabyebye.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022163659id_/http%3A//www.oktatabyebye.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # OkTataByebye.com Privacy Policy
 
