@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617043309id_/http%3A//www.catererglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022064247id_/http%3A//www.catererglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Catererglobal.com
 
