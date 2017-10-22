@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationmalaysia.gov.my privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024141908id_/http%3A//educationmalaysia.gov.my/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationmalaysia.gov.my privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022040209id_/https%3A//educationmalaysia.gov.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,9 +17,9 @@ This policy (together with the terms of use of our website and any other documen
 
 “sensitive personal data” means any personal data consisting of information as to the physical or mental health or condition of a data subject, his political opinions, his religious beliefs or other beliefs of a similar nature, the commission or alleged commission by him of any offence or any other personal data as the Minister may determine by order published in the _Gazette_ ;
 
-"Declaration" is the declaration which is currently accepted by the Institution on your behalf. You can read a copy of this declaration [ **here**](http://educationmalaysia.gov.my/skin/frontend/base/default/documents/T&C_THIRDPARTYSUBMISSIONOFSTUDENTAPPLICATIONv2.0.pdf). 
+"Declaration" is the declaration which is currently accepted by the Institution on your behalf. You can read a copy of this declaration [ **here**](https://educationmalaysia.gov.my/skin/frontend/base/default/documents/T&C_THIRDPARTYSUBMISSIONOFSTUDENTAPPLICATIONv2.0.pdf). 
 
-"website" is any of [www.educationmalaysia.gov.my](http://www.educationmalaysia.gov.my/) or https://stars.educationmalaysia.gov.my or any other website, RSS feed or any other website, RSS feed or phone application operated by us from time to time.  
+"website" is any of www.educationmalaysia.gov.my or https://stars.educationmalaysia.gov.my or any other website, RSS feed or any other website, RSS feed or phone application operated by us from time to time.  
   
 ---  
 **1** | **Information which we collect about you**  
