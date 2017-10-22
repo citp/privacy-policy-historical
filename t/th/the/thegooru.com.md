@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thegooru.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017234112id_/https%3A//www.bettercloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegooru.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022174946id_/https%3A//www.bettercloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BetterCloud
 
 **BetterCloud TM**
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=10802bc3-ed76-4b94-a0df-247f69f75099 "TRUSTe Privacy Certification")  
-**Effective Date: September 27th, 2016**  
+**Effective Date: March  27th, 2017**  
 This Privacy Policy of BetterCloud, Inc., a Delaware Corporation, doing business under the trade name BetterCloudTM (“We”, “Us”, “Our”), describes Our privacy practices in relation to the use of Our web site, www.bettercloud.com (the “Site”), our platform and the related applications and services offered by Us (the “Services”) to you (“You” or “Your”).
 
 We comply with the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland.  We certify that We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Our certification, please visit <http://www.export.gov/safeharbor/>.
@@ -76,7 +76,7 @@ We will use proprietary and third-party products and certain software tools to m
 
 **Information Related to Data Collected through the Service**
 
-We collect information under the direction of Our customers, and have no direct relationship with the individuals whose personal data is processed by the Services.
+We collect information under the direction of Our customers, and have no direct relationship with the individuals whose personal data is processed by the Services. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.
 
 **Service Provider, Sub-Processors/Onward Transfer**.
 
