@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infocities.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017162444id_/http%3A//www.ecity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infocities.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022204551id_/http%3A//ecity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ECity
 
 Privacy Policy
 
@@ -46,7 +46,7 @@ Beware that, when communicating with others via the Internet, disclosing persona
 
 Privacy Policy Changes
 
-eCity will post any changes to this Privacy Policy on this page or on the eCity.com website. Accordingly, you can always come to this page or that site to learn the information eCity gathers, how eCity may use that information, and whether eCity will disclose it to anyone.
+eCity will post any changes to this Privacy Policy on this page or on the eCity website. Accordingly, you can always come to this page or that site to learn the information eCity gathers, how eCity may use that information, and whether eCity will disclose it to anyone.
 
 Contact eCity
 
