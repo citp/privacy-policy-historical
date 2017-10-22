@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservamome.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621162516id_/http%3A//conservamome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservamome.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022041657id_/http%3A//conservamome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ConservaMom
 
