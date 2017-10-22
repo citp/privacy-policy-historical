@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citruspay.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619235315id_/http%3A//www.citruspay.com/citrus-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citruspay.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023010338id_/http%3A//www.citruspay.com/citrus-privacypolicy.html) for the most accurate reproduction.*
 
 # Citrus
 
@@ -111,7 +111,7 @@ We do not disclose or share your Personal Information with any third party until
 **  In case you have any grievance relating to the collecting, receiving, possessing, storing, dealing or handling of Personal Information provided by you, you may contact our Grievance Officer at the following address:**
 
  ** Attn: Mr. Prashanth Susarla,  
-The Grievance Officer, LazyPay  
+The Grievance Officer,  
 PayU Payments Private Limited,  
 Pearl Tower, 4th Floor, Plot No 51,  
 Sector 32, Institutional Area,  
