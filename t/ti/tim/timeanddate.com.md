@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628190957id_/https%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022110715id_/https%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for timeanddate.com
 
@@ -43,49 +43,3 @@ PO Box 27 Forus
 NO-4064 Stavanger  
 Norway  
 [webmaster@timeanddate.com](mailto://webmaster@timeanddate.com)
-
-### timeanddate.com
-
-  1. [ About Us ](https://web.archive.org/company/)
-  2. [ Contact Us ](https://web.archive.org/information/contact.html)
-  3. [ Feedback ](https://web.archive.org/information/feedback.html)
-  4. Privacy Statement 
-  5. [ Copyright ](https://web.archive.org/information/copyright.html)
-  6. [ Logo Use ](https://web.archive.org/information/logo.html)
-  7. [ GeoNames ](https://web.archive.org/information/geonames.html)
-  8. [ Support Us ](https://web.archive.org/information/contribute.html)
-  9. [ Ad Blockers ](https://web.archive.org/information/ad-blocker.html)
-  10. [ Work Here ](https://web.archive.org/information/jobs.html)
-  11. [ Advertise ](https://web.archive.org/information/advertising.html)
-  12. [ Credits ](https://web.archive.org/information/credits.html)
-  13. [ Disclaimer ](https://web.archive.org/information/disclaimer.html)
-
-
-
-[ Index ](https://web.archive.org/information/)
-
-## You might also like
-
-[](https://web.archive.org/astronomy/moon/full-moon-names.html)
-
-### [Full Moon Names](https://web.archive.org/astronomy/moon/full-moon-names.html)
-
-Full Moons had given names in many ancient cultures. The Full Moon names we use today often reflect nature like Harvest Moon. [more](https://web.archive.org/astronomy/moon/full-moon-names.html)
-
-[](https://web.archive.org/astronomy/sights-to-see.html)
-
-### [2017 / 2018 Cosmic Calendar](https://web.archive.org/astronomy/sights-to-see.html)
-
-List of cosmic events in 2017 an 2018 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. [more](https://web.archive.org/astronomy/sights-to-see.html)
-
-[](https://web.archive.org/calendar/months/)
-
-### [12 Months of the Year](https://web.archive.org/calendar/months/)
-
-Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. [more](https://web.archive.org/calendar/months/)
-
-[](https://web.archive.org/time/europe/general-information.html)
-
-### [Time Zones and DST in Europe](https://web.archive.org/time/europe/general-information.html)
-
-Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia. [more](https://web.archive.org/time/europe/general-information.html)
