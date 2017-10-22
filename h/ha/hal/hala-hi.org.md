@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hala-hi.org privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124054020id_/http%3A//www.hala-hi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hala-hi.org privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022111413id_/http%3A//www.hala-hi.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Health And Life Africa Healthy-living Initiative (HALA)
+# Privacy Policy | Health And Life Africa Healthy-living Initiative (HALA)
 
 Health And Life Africa Healthy-living Initiative (HALA) has created this statement to demonstrate our firm commitment to your privacy. This document explains how we gather, use, and protect your information.
 
