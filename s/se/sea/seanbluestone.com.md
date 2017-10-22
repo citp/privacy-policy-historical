@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seanbluestone.com privacy policy that was archived on 2016-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160720190105id_/http%3A//www.seanbluestone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seanbluestone.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022231327id_/http%3A//www.seanbluestone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,3 +22,5 @@ At our discretion, we may include or offer third party products or services on o
 **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. Childrens Online Privacy Protection Act Compliance We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.
+
+**DISCLOSURE: Sean Bluestone is a pen-name I use to protect my privacy online.  **
