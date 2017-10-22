@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the markmanson.net privacy policy that was archived on 2017-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170129065918id_/https%3A//markmanson.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the markmanson.net privacy policy that was archived on 2017-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171022225108id_/https%3A//markmanson.net/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><head><link rel="stylesheet" type="text/css" href="http://markmanson.net/wp-content/cache/minify/e452c.default.include.57a7d5.css" media="all">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta property="fb:app_id" content="308502612619041">
 <meta property="fb:pages" content="349841488478164">
 <meta property="fb:article_style" content="Article Style">
 <meta property="article:author" content="Mark Manson">
-<title>Privacy Policy - Mark Manson</title>
+<meta name="msvalidate.01" content="CAF8EF279C0F01B302738C1D3927FC04">
+<title>Privacy Policy | Mark Manson</title>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
@@ -16,14 +17,15 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="theme-color" content="#ffffff">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="https://markmanson.net/xmlrpc.php">
+<link rel="pingback" href="http://markmanson.net/xmlrpc.php">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
- 
+
+<meta name="robots" content="noindex,follow">
 <link rel="canonical" href="https://markmanson.net/privacy-policy">
 <link rel="publisher" href="https://www.google.com/+MarkMansonnet">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - Mark Manson">
+<meta property="og:title" content="Privacy Policy | Mark Manson">
 <meta property="og:description" content="Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
 
@@ -76,65 +78,104 @@
 
  …
 ">
-<meta name="twitter:title" content="Privacy Policy - Mark Manson">
+<meta name="twitter:title" content="Privacy Policy | Mark Manson">
 <meta name="twitter:site" content="@IAmMarkManson">
 <meta name="twitter:creator" content="@IAmMarkManson">
- 
+<script async="" src="http://www.googletagmanager.com/gtm.js?id=GTM-TB9Q3N3"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/markmanson.net\/","name":"Mark Manson - Author. Entrepreneur. Life Enthusiast.","potentialAction":{"@type":"SearchAction","target":"https:\/\/markmanson.net\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Person","url":"https:\/\/markmanson.net\/privacy-policy","sameAs":["https:\/\/www.facebook.com\/Markmansonnet\/","https:\/\/www.linkedin.com\/in\/markmanson","https:\/\/www.google.com\/+MarkMansonnet","https:\/\/es.pinterest.com\/iammarkmanson\/","https:\/\/twitter.com\/IAmMarkManson"],"@id":"#person","name":"Mark Manson"}</script>
+
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="alternate" type="application/rss+xml" title="Mark Manson » Feed" href="https://markmanson.net/feed">
 <link rel="alternate" type="application/rss+xml" title="Mark Manson » Comments Feed" href="https://markmanson.net/comments/feed">
-<link rel="stylesheet" id="footenote_css-css" href="https://markmanson.net/wp-content/plugins/jquery-hover-footnotes/footnote-voodoo.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="selection-sharer-css" href="https://markmanson.net/wp-content/plugins/selection-sharer/css/selection-sharer.css?ver=0.1" type="text/css" media="all">
-<link rel="stylesheet" id="alpc-general-css" href="https://markmanson.net/wp-content/plugins/a-leaky-paywall-customization/includes/css/general-styles.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="tipsy-css" href="https://markmanson.net/wp-content/plugins/a-leaky-paywall-customization/includes/css/tipsy.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="https://markmanson.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="stag-google-Montserrat-css" href="https://fonts.googleapis.com/css?family=Montserrat:400,700" type="text/css" media="all">
-<link rel="stylesheet" id="parent-style-css" href="https://markmanson.net/wp-content/themes/ink/style.css?ver=1.0.9" type="text/css" media="all">
-<link rel="stylesheet" id="child-style-css" href="https://markmanson.net/wp-content/themes/ink-child/style.css?ver=1.0.9" type="text/css" media="all">
-<link rel="stylesheet" id="moon-ray-forms-css" href="https://markmanson.net/wp-content/themes/ink-child/assets/css/moon-ray-forms.min.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="fancybox-style-css" href="https://markmanson.net/wp-content/themes/ink-child/assets/js/fancybox2/source/jquery.fancybox.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-ui-css" href="https://markmanson.net/wp-content/themes/ink-child/assets/css/jquery-ui.min.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="https://markmanson.net/wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.2" type="text/css" media="all">
-<script type="text/javascript" src="https://markmanson.net/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/plugins/jquery-hover-footnotes/footnote-voodoo.js?ver=4.7.2"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/plugins/a-leaky-paywall-customization/includes/js/jquery.tipsy.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/plugins/a-leaky-paywall-customization/includes/js/jquery.blockUI.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/themes/ink-child/assets/js/superfish.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/themes/ink-child/assets/js/waypoints.min.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/themes/ink-child/assets/js/fancybox2/source/jquery.fancybox.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/themes/ink-child/assets/js/audiojs/audio.min.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/themes/ink-child/assets/js/modernizr-custom.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/themes/ink-child/assets/js/jquery-ui.min.js?ver=1.0.0"></script>
+<link rel="stylesheet" id="stag-google-Montserrat-css" href="http://fonts.googleapis.com/css?family=Montserrat:400,700" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-style-css" href="http://markmanson.net/wp-content/themes/ink-child/assets/js/fancybox2/source/jquery.fancybox.css?ver=4.8.2" type="text/css" media="all">
+<script type="text/javascript" src="http://markmanson.net/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/plugins/jquery-hover-footnotes/footnote-voodoo.js?ver=4.8.2"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/plugins/a-leaky-paywall-customization/includes/js/jquery.tipsy.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/plugins/a-leaky-paywall-customization/includes/js/jquery.blockUI.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/themes/ink-child/assets/js/superfish.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/themes/ink-child/assets/js/waypoints.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/themes/ink-child/assets/js/fancybox2/source/jquery.fancybox.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/themes/ink-child/assets/js/audiojs/audio.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/themes/ink-child/assets/js/modernizr-custom.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/themes/ink-child/assets/js/jquery-ui.min.js?ver=1.0.0"></script>
 <link rel="https://api.w.org/" href="https://markmanson.net/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://markmanson.net/xmlrpc.php?rsd">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://markmanson.net/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://markmanson.net/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.7.2">
+<meta name="generator" content="WordPress 4.8.2">
 <link rel="shortlink" href="https://markmanson.net/?p=16939">
 <link rel="alternate" type="application/json+oembed" href="https://markmanson.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmarkmanson.net%2Fprivacy-policy">
 <link rel="alternate" type="text/xml+oembed" href="https://markmanson.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmarkmanson.net%2Fprivacy-policy&amp;format=xml">
 <meta property="fb:pages" content="349841488478164">
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	window.dataLayer = window.dataLayer || [];
 
-  ga('create', 'UA-42186413-1', 'auto');
-  
-  ga('set', 'dimension4', 'Has Not Paid');
-  
-  ga('require', 'linkid', 'linkid.js');
-  ga('require', 'displayfeatures');
-  
-  
-  ga('send', 'pageview');
-  
-</script>
-<style type="text/css" media="screen">div.printfriendly a,div.printfriendly a:link,div.printfriendly a:hover,div.printfriendly a:visited{text-decoration:none;border:none;}</style>
-<style type="text/css" media="screen">div.printfriendly{margin:0px 0px 35px 12px;}div.printfriendly a,div.printfriendly a:link,div.printfriendly a:visited{font-size:14px;color:#6D9F00;vertical-align:bottom;}.printfriendly a{box-shadow:none;}.printfriendly a:hover{cursor:pointer;}.printfriendly a img{border:none;padding:0;margin-right:6px;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none;}.printfriendly a span{vertical-align:bottom;}.pf-alignleft{float:left;}.pf-alignright{float:right;}div.pf-aligncenter{display:block;margin-left:auto;margin-right:auto;text-align:center;}</style>
-<style type="text/css" media="print">.printfriendly{display:none;}</style>
+	window.dataLayer.push({
+		'postType' : 'page',
+'isLoggedIn' : 'false'
+	});
+	</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TB9Q3N3');</script>
+
+<style type="text/css" media="screen">
+      div.printfriendly a, div.printfriendly a:link, div.printfriendly a:hover, div.printfriendly a:visited {
+        text-decoration: none;
+        border: none;
+      }
+    </style>
+<style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 35px 12px;
+            position: relative;
+            z-index: 1000;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            font-size: 14px;
+            color: #6D9F00;
+            vertical-align: bottom;
+          }
+          .printfriendly a {
+            box-shadow:none;
+          }
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+<style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
 <script type="text/javascript">
 	window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
 	window._wp_rp_wp_ajax_url = "https://markmanson.net/wp-admin/admin-ajax.php";
@@ -145,14 +186,156 @@
 	window._wp_rp_post_title = 'Privacy+Policy';
 	window._wp_rp_post_tags = [];
 </script>
-<link rel="stylesheet" href="https://markmanson.net/wp-content/plugins/related-posts/static/themes/vertical-m.css?version=3.6.1">
-<style type="text/css">.related_post_title{font-size:16px;margin-top:0px;margin-bottom:5px;min-height:20px;margin:0px;padding:0px 0px 5px;}ul.related_post{}ul.related_post li{word-wrap:break-word;font-family:sans-serif;font-weight:700;line-height:140%;margin-top:4px;text-align:left;padding:2px;width:140px!important;}ul.related_post li a{}ul.related_post li img{border:1px solid #FFF!important;box-shadow:none!important;margin:0px!important;background:none repeat scroll 0px 0px #F0F0F0;outline:1px solid #DDD;width:auto!important;padding:2px!important;height:140px!important;}</style>
-<style type="text/css" media="screen"></style><style type="text/css">.comments-link{display:none;}</style><meta name="generator" content="Ink 1.0.1">
+<style type="text/css">
+.related_post_title {
+font-size: 16px;
+margin-top: 0px;
+margin-bottom: 5px;
+min-height: 20px;
+margin: 0px;
+padding: 0px 0px 5px;
+}
+ul.related_post {
+}
+ul.related_post li {
+word-wrap: break-word;
+font-family: sans-serif;
+font-weight: 700;
+line-height: 140%;
+margin-top: 4px;
+text-align: left;
+padding: 2px;
+width: 140px !important;
+}
+ul.related_post li a {
+}
+ul.related_post li img {
+border: 1px solid #FFF !important;
+box-shadow: none !important;
+margin: 0px !important;
+background: none repeat scroll 0px 0px #F0F0F0;
+outline: 1px solid #DDD;
+width: auto !important;
+padding: 2px !important;
+height: 140px !important;
+}</style>
+<style type="text/css"> .comments-link { display: none; } </style><meta name="generator" content="Ink 1.0.1">
 <meta name="generator" content="StagCustomizer 1.0">
-<style id="stag-custom-css" type="text/css">body,.site{background-color:#ffffff;}body{font-family:"default";}a,.archive-header__title span,.footer-menu a:hover{color:#1c93c5;}h1,h2,h3,h4,h5,h6,.button,.stag-button,input[type="submit"],input[type="reset"],.button-secondary,legend,.rcp_subscription_level_name{font-family:"Montserrat";}.post-grid{border-color:#ffffff;}.entry-content{font-family:"EquityB";line-height:1.35;font-size:22px;}.caps{font-family:"EquityBsmallcapsbold";}.entry-content em{font-family:"EquityBitalic";margin-right:2px;}.entry-content strong{font-family:"EquityBbold";}.textwidget p,.textwidget ul,.textwidget dl,.textwidget table,.textwidget blockquote,.entry-content p,.entry-content ul,.entry-content dl,.entry-content table,.entry-content blockquote,.page-content p,.page-content ul,.page-content dl,.page-content table,.page-content blockquote,.comment-content p,.comment-content ul,.comment-content dl,.comment-content table,.comment-content blockquote{margin-bottom:2rem;}.single .entry-meta,.single .entry-footer,.single .post-navigation,.single .comments-area,.page .entry-meta,.page .entry-footer,.page .post-navigation,.page .comments-area,.page-content,.entry-content,.page-header,.contact-form{max-width:780px;margin-left:auto;margin-right:auto;}.textwidget h5,.entry-content h5,.page-content h5,.comment-content h5,.single .entry-content h2{font-size:40px;margin-top:4rem;margin-bottom:1.5rem;}blockquote{margin-left:-25px;clear:both;color:#777;width:90%;}.stag-divider{border:0;height:1px;background:#363f48;margin:3em 0;}.site-description{font-family:"Montserrat";font-size:16px;color:white;margin-left:3px;}.single .entry-meta,.page .entry-meta{font-size:20px;}ol,ul{list-style:inherit;margin-left:40px;}li{margin:10px 0 10px 0;}button,.button,input[type="reset"],input[type="submit"],input[type="button"]{display:inline-block;background:#1c93c5;color:#ffffff;padding:8px 15px;padding:0.5rem 0.9375rem;-moz-transition:all 150ms;-o-transition:all 150ms;-webkit-transition:all 150ms;transition:all 150ms;line-height:1.3;}.site-title,.custom-logo{display:inline-block;vertical-align:middle;}</style>
-<script type="text/javascript" src="https://pf-cdn.printfriendly.com/ssl/main.js"></script></head>
+<style id="stag-custom-css" type="text/css">
+		body,
+		.site {
+			background-color: #ffffff;
+		}
+		body {
+			font-family: "default";
+		}
+		a,
+		.archive-header__title span,
+		.footer-menu a:hover {
+			color: #1c93c5;
+		}
+		h1, h2, h3, h4, h5, h6, .button, .stag-button, input[type="submit"], input[type="reset"], .button-secondary, legend, .rcp_subscription_level_name {
+			font-family: "Montserrat";
+		}
+		.post-grid {
+			border-color: #ffffff;
+		}
+		.entry-content { 
+  font-family: "EquityB";
+  line-height: 1.35;
+  font-size: 22px;
+} 
+
+.caps { 
+  font-family: "EquityBsmallcapsbold";
+}
+
+.entry-content em {
+  font-family: "EquityBitalic";
+  margin-right: 2px; 
+}
+
+.entry-content strong {
+  font-family: "EquityBbold";
+}
+
+.textwidget p, .textwidget ul, .textwidget dl, .textwidget table, .textwidget blockquote, .entry-content p, .entry-content ul, .entry-content dl, .entry-content table, .entry-content blockquote, .page-content p, .page-content ul, .page-content dl, .page-content table, .page-content blockquote, .comment-content p, .comment-content ul, .comment-content dl, .comment-content table, .comment-content blockquote { 
+  margin-bottom: 2rem;
+}
+
+.single .entry-meta, .single .entry-footer, .single .post-navigation, .single .comments-area, .page .entry-meta, .page .entry-footer, .page .post-navigation, .page .comments-area, .page-content, .entry-content, .page-header, .contact-form {
+max-width: 780px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.textwidget h5, .entry-content h5, .page-content h5, .comment-content h5, .single .entry-content h2 {
+font-size: 40px;
+margin-top: 4rem;
+margin-bottom: 1.5rem;
+}
+
+blockquote {
+margin-left: -25px;
+clear: both;
+color: #777;
+width: 90%;
+}
+
+.stag-divider {
+border: 0;
+height: 1px;
+background: #363f48;
+margin: 3em 0;
+}
+
+.site-description {
+font-family: "Montserrat";
+font-size: 16px;
+color: white;
+margin-left: 3px;
+}
+
+.single .entry-meta, .page .entry-meta { 
+font-size: 20px;
+}
+
+ol, ul {
+list-style: inherit;
+margin-left: 40px;
+
+}
+
+li {
+margin: 10px 0 10px 0; 
+}
+
+button, .button, input[type="reset"], input[type="submit"], input[type="button"] {
+display: inline-block;
+background: #1c93c5;
+color: #ffffff;
+/*border: 3px solid #1c93c5;*/
+padding: 8px 15px;
+padding: 0.5rem 0.9375rem;
+-moz-transition: all 150ms;
+-o-transition: all 150ms;
+-webkit-transition: all 150ms;
+transition: all 150ms;
+line-height: 1.3;
+}
+
+.site-title, .custom-logo {
+display: inline-block;
+vertical-align: middle;
+}
+	</style>
+<script type="text/javascript" src="http://cdn.printfriendly.com/printfriendly.js"></script></head>
 <body class="page-template-default page page-id-16939 unknown header-normal stagtools" data-layout="1-2-2-2">
-<script src="https://optassets.ontraport.com/tracking.js" type="text/javascript" async="true" onload="_mri=&quot;8091&quot;,_mr_domain=&quot;postmasculine.ontraport.net&quot;,mrtracking();"></script>
+
+<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-TB9Q3N3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script src="http://optassets.ontraport.com/tracking.js" type="text/javascript" async="true" onload="_mri=&quot;8091&quot;,_mr_domain=&quot;postmasculine.ontraport.net&quot;,mrtracking();"></script>
 <nav class="site-nav">
 <div class="site-nav--scrollable-container">
 <i class="stag-icon icon-times"></i>
@@ -160,30 +343,38 @@
 <h4 class="widgettitle">Menu</h4>
 <ul id="menu-nav" class="primary-menu sf-menu"><li id="menu-item-17057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17057"><a href="https://markmanson.net/archive">Articles</a>
 <ul class="sub-menu">
-<li id="menu-item-15434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15434"><a href="https://markmanson.net/about">About</a></li>
 <li id="menu-item-17058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17058"><a href="https://markmanson.net/best-articles/">Best Articles</a></li>
 <li id="menu-item-15435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15435"><a href="https://markmanson.net/archive">Complete Archive</a></li>
+<li id="menu-item-15434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15434"><a href="https://markmanson.net/about">About</a></li>
 <li id="menu-item-15440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15440"><a href="/downloads">Downloads</a></li>
 </ul>
 </li>
 <li id="menu-item-15441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15441"><a href="https://markmanson.net/books">Books</a></li>
-<li id="menu-item-20422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20422"><a href="/audio">Audio</a></li>
+<li id="menu-item-20422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20422"><a href="/audio">Audio</a>
+<ul class="sub-menu">
+<li id="menu-item-22836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22836"><a href="/audio/commentary-subtle-art-not-giving-fuck">Subtle Art Audio Commentary</a></li>
+<li id="menu-item-22835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22835"><a href="/audio/commentary-models">Models Audio Commentary</a></li>
+<li id="menu-item-22838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22838"><a href="/audio">Audio Archive</a></li>
+</ul>
+</li>
 <li id="menu-item-20459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20459"><a href="/courses">Courses</a>
 <ul class="sub-menu">
 <li id="menu-item-20461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20461"><a href="/courses/connection-course">Conversations &amp; Connection</a></li>
 <li id="menu-item-20462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20462"><a href="/courses/overcome-anxiety-course">Overcome Anxiety</a></li>
 <li id="menu-item-20463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20463"><a href="/courses/dating-relationships-course">Dating &amp; Relationships</a></li>
+<li id="menu-item-22235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22235"><a href="/courses/blogging-writing-course">Blogging &amp; Writing</a></li>
+<li id="menu-item-22785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22785"><a href="/courses/escape-plan">Long-Term Travel</a></li>
 <li id="menu-item-20423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20423"><a href="/videos">Video Bonuses</a></li>
 </ul>
 </li>
-<li id="menu-item-20465" class="site-navigation__subscription menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20465"><a href="/subscribe">Subscription</a>
+<li id="menu-item-20465" class="site-navigation__subscription menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20465"><a href="/subscribe?from=main-nav">Subscription</a>
 <ul class="sub-menu">
-<li id="menu-item-20425" class="site-navigation__subscribe menu-item menu-item-type-custom menu-item-object-custom menu-item-20425"><a href="/subscribe">Subscribe</a></li>
+<li id="menu-item-20425" class="site-navigation__subscribe menu-item menu-item-type-custom menu-item-object-custom menu-item-20425"><a href="/subscribe?from=main-nav">Subscribe</a></li>
 <li id="menu-item-20424" class="site-navigation__log-in menu-item menu-item-type-custom menu-item-object-custom menu-item-20424"><a href="/log-in">Log In</a></li>
 </ul>
 </li>
 <li id="menu-item-20426" class="site-navigation__your-profile menu-item menu-item-type-custom menu-item-object-custom menu-item-20426"><a href="/profile">Your Profile</a></li>
-</ul> </nav> 
+</ul> </nav>
 </div>
 </nav>
 <div class="site-nav-overlay"></div>
@@ -195,14 +386,24 @@
 <p class="site-description">Author. Thinker. Life Enthusiast.</p>
 </div>
 <a href="#" id="site-navigation-toggle" class="site-navigation-toggle"><i class="stag-icon icon-bars"></i></a>
-</header> 
+</header>
 <main id="main" class="site-main page-cover page-cover--16939">
 <div class="page-cover__background"></div>
-<style type="text/css" scoped="">.page-cover--16939{color:#333333;}.page-cover--16939 input{color:#333333;border-color:#333333;}.page-cover--16939 a:not(.stag-button):not(.ui-tabs-anchor){color:#1c93c5;}</style>
+<style type="text/css" scoped="">
+		
+		
+		
+		
+				.page-cover--16939 { color: #333333; }
+		.page-cover--16939 input { color: #333333; border-color: #333333; }
+		
+				.page-cover--16939 a:not(.stag-button):not(.ui-tabs-anchor) { color: #1c93c5; }
+		
+			</style>
 <article id="post-16939" class="post-16939 page type-page status-publish hentry">
 <header class="entry-header">
 <h1 class="entry-title">Privacy Policy</h1>
-</header> 
+</header>
 <div class="entry-content">
 <p>
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
@@ -238,10 +439,10 @@ We will make readily available to customers information about our policies and p
 </ul>
 <p>
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</p>
-</div> 
- 
-</article> 
-</main> 
+</div>
+
+</article>
+</main>
 <footer id="colophon" class="site-footer" role="contentinfo">
 <div class="footer-widgets-container">
 <div class="inside">
@@ -253,38 +454,57 @@ We are committed to conducting our business in accordance with these principles 
 <p>Hi there. This is the part of the website where I put a big toothy grin on my face and scream “BUT WAIT! THERE’S MORE!” at you in hopes to hold your attention for more than 30 milliseconds. </p>
 <p>Because wait, there actually <em>is</em> more. If you’d like to check out some online courses I’ve put together, if you’d like to get special subscribers-only articles and responses from me, and if you’re interested in hearing me answer reader questions like I’m Anne fucking Landers and talk a bit more about my own experiences, my business ventures, and what I eat for breakfast on Sundays, well, then there actually is more. A lot more.</p>
 <p>Become a subscriber to the site and get all that extra cool stuff. Just click the pretty, pretty button below to get started.</p>
-<p style="text-align: center; margin-top: 43px;"><a class="button learn-more-button" href="https://markmanson.net/subscribe">Click Me</a></p>
+<p style="text-align: center; margin-top: 43px;"><a class="button learn-more-button" href="/subscribe?from=footer-widget">Click Me</a></p>
 </div>
 </article>
 </section>
 </aside> </div>
 </div>
-</div> 
+</div>
 <div class="copyright">
 <div class="inside">
 <div class="grid">
 <div class="unit one-of-two site-info">
-© 2017 Infinity Squared Media LLC </div> 
+© 2017 Infinity Squared Media LLC </div>
 <div class="unit one-of-two footer-navigation print-no">
 <ul id="menu-footer-menu" class="footer-menu"><li id="menu-item-15933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15933"><span class="divider">/</span><a href="https://markmanson.net/terms-and-conditions">Terms and Conditions</a></li>
 <li id="menu-item-15934" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-15934"><span class="divider">/</span><a href="https://markmanson.net/privacy-policy">Privacy Policy</a></li>
 <li id="menu-item-15935" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15935"><span class="divider">/</span><a href="https://markmanson.net/affiliates">Affiliates</a></li>
 <li id="menu-item-15936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15936"><span class="divider">/</span><a href="https://markmanson.net/contact">Contact</a></li>
-<li id="menu-item-15937" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15937"><span class="divider">/</span><a href="/subscribe">Subscribe</a></li>
+<li id="menu-item-15937" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15937"><span class="divider">/</span><a href="/subscribe?from=footer-nav">Subscribe</a></li>
 <li id="menu-item-15938" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15938"><span class="divider">/</span><a href="/log-in">Login</a></li>
 </ul> </div>
 </div>
 </div>
-</div> 
-</footer> 
-</div> 
-</div> 
-<script>jQuery(document).ready(function ($) { $('p').selectionSharer();});</script> <script type="text/javascript">
+</div>
+</footer>
+</div>
+</div>
+<script>jQuery(document).ready(function ($) { $('p').selectionSharer();});</script>
+<script>
+		var path = window.location.pathname;
+		// remove slash from start of path
+		path = encodeURIComponent(path.substr(1));
+
+		var href = '/courses/dating-relationships-course?from=below-article&from-url=' + path;
+
+		jQuery(document).ready(function($) {
+			if (document.cookie.indexOf('contact_id=') >= 0) {
+				$('.footer-opt-in').html('<div class="opt-in-text">\
+						<h3 class="footer-opt-in-header">How to Stop Fucking Up Your Romantic Relationships</h3>\
+						<p class="opt-in-copy">Whether you’re single and still looking for someone special or you’re already in a relationship that you feel could be better, my <strong>Dating and Relationships Course</strong> provides you with the tools you need to create the intimacy you want in your life.</p>\
+						<p class="opt-in-copy">I cover communication styles, values, compatibility, generating trust, and dealing with potential conflicts and break ups, in 10 high-quality video lessons.</p>\
+						<p class="opt-in-copy"><a href="' + href + '"><button>Learn More Here</button></a></strong></p>\
+					</div>');
+			}
+		});
+	</script>
+<script type="text/javascript">
 
           var pfHeaderImgUrl = '';
           var pfHeaderTagline = '';
           var pfdisableClickToDel = '0';
-          var pfHideImages = '0';
+          var pfImagesSize = 'full-size';
           var pfImageDisplayStyle = 'right';
           var pfDisableEmail = '0';
           var pfDisablePDF = '0';
@@ -292,19 +512,14 @@ We are committed to conducting our business in accordance with these principles 
           var pfCustomCSS = '';
       (function() {
             var e = document.createElement('script'); e.type="text/javascript";
-        if('https:' == document.location.protocol) {
-        js='https://pf-cdn.printfriendly.com/ssl/main.js';
-        }
-        else{
-        js='http://cdn.printfriendly.com/printfriendly.js';
-        }
-            e.src = js;
+            e.src = 'http://cdn.printfriendly.com/printfriendly.js';
             document.getElementsByTagName('head')[0].appendChild(e);
         })();
       </script>
- 
+
 <script>
 // the below is a minified inline version of the scrolldepth plugin
+/*
 !function(e,n,t){"use strict";var r,o,a,l,i={minHeight:0,elements:[],percentage:!0,userTiming:!0,pixelDepth:!0,nonInteraction:!0,gaGlobal:!1,gtmOverride:!1},c=e(n),p=[],s=0;e.scrollDepth=function(u){function h(e){l?l({event:"ScrollDistance",eventCategory:"Scroll Depth",eventAction:e,eventLabel:"Baseline",eventValue:1,eventNonInteraction:!0}):(r&&n[a]("send","event","Scroll Depth",e,"Baseline",1,{nonInteraction:!0}),o&&_gaq.push(["_trackEvent","Scroll Depth",e,"Baseline",1,!0]))}function g(e,t,i,c){l?(l({event:"ScrollDistance",eventCategory:"Scroll Depth",eventAction:e,eventLabel:t,eventValue:1,eventNonInteraction:u.nonInteraction}),u.pixelDepth&&arguments.length>2&&i>s&&(s=i,l({event:"ScrollDistance",eventCategory:"Scroll Depth",eventAction:"Pixel Depth",eventLabel:D(i),eventValue:1,eventNonInteraction:u.nonInteraction})),u.userTiming&&arguments.length>3&&l({event:"ScrollTiming",eventCategory:"Scroll Depth",eventAction:e,eventLabel:t,eventTiming:c})):(r&&(n[a]("send","event","Scroll Depth",e,t,1,{nonInteraction:u.nonInteraction}),u.pixelDepth&&arguments.length>2&&i>s&&(s=i,n[a]("send","event","Scroll Depth","Pixel Depth",D(i),1,{nonInteraction:u.nonInteraction})),u.userTiming&&arguments.length>3&&n[a]("send","timing","Scroll Depth",e,c,t)),o&&(_gaq.push(["_trackEvent","Scroll Depth",e,t,1,u.nonInteraction]),u.pixelDepth&&arguments.length>2&&i>s&&(s=i,_gaq.push(["_trackEvent","Scroll Depth","Pixel Depth",D(i),1,u.nonInteraction])),u.userTiming&&arguments.length>3&&_gaq.push(["_trackTiming","Scroll Depth",e,c,t,100])))}function v(e){return{"25%":parseInt(.25*e,10),"50%":parseInt(.5*e,10),"75%":parseInt(.75*e,10),"100%":e-5}}function f(n,t,r){e.each(n,function(n,o){-1===e.inArray(n,p)&&t>=o&&(g("Percentage",n,t,r),p.push(n))})}function m(n,t,r){e.each(n,function(n,o){-1===e.inArray(o,p)&&e(o).length&&t>=e(o).offset().top&&(g("Elements",o,t,r),p.push(o)),-1===e.inArray("25% "+o,p)&&e(o).length&&t>=parseInt(.25*e(o).offset().top,10)&&(g("Elements","25% "+o,t,r),p.push("25% "+o)),-1===e.inArray("50% "+o,p)&&e(o).length&&t>=parseInt(.5*e(o).offset().top,10)&&(g("Elements","50% "+o,t,r),p.push("50% "+o)),-1===e.inArray("75% "+o,p)&&e(o).length&&t>=parseInt(.75*e(o).offset().top,10)&&(g("Elements","75% "+o,t,r),p.push("75% "+o))})}function D(e){return(250*Math.floor(e/250)).toString()}function y(e,n){var t,r,o,a=null,l=0,i=function(){l=new Date,a=null,o=e.apply(t,r)};return function(){var c=new Date;l||(l=c);var p=n-(c-l);return t=this,r=arguments,0>=p?(clearTimeout(a),a=null,l=c,o=e.apply(t,r)):a||(a=setTimeout(i,p)),o}}var d=+new Date;u=e.extend({},i,u),e(t).height()<u.minHeight||(u.gaGlobal?(r=!0,a=u.gaGlobal):"function"==typeof ga?(r=!0,a="ga"):"function"==typeof __gaTracker&&(r=!0,a="__gaTracker"),"undefined"!=typeof _gaq&&"function"==typeof _gaq.push&&(o=!0),"function"==typeof u.eventHandler?l=u.eventHandler:"undefined"==typeof dataLayer||"function"!=typeof dataLayer.push||u.gtmOverride||(l=function(e){dataLayer.push(e)}),u.percentage?h("Percentage"):u.elements&&h("Elements"),c.on("scroll.scrollDepth",y(function(){var r=e(t).height(),o=n.innerHeight?n.innerHeight:c.height(),a=c.scrollTop()+o,l=v(r),i=+new Date-d,s=3;return p.length>=4+u.elements.length+s?void c.off("scroll.scrollDepth"):(u.elements&&m(u.elements,a,i),void(u.percentage&&f(l,a,i)))},500)))}}(jQuery,window,document);
 
 jQuery(function() {
@@ -313,20 +528,19 @@ jQuery(function() {
     pixelDepth: false
   });
 });
+*/
 </script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/markmanson.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201704"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/plugins/ricg-responsive-images/js/picturefill.min.js?ver=3.0.1"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/themes/ink/assets/js/lib/fitvids/jquery.fitvids.min.js?ver=1.1.1"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/themes/ink/assets/js/jquery.custom.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-includes/js/wp-embed.min.js?ver=4.7.2"></script>
-<script type="text/javascript" src="https://markmanson.net/wp-content/plugins/selection-sharer/js/selection-sharer.js?ver=0.1"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201742"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/plugins/ricg-responsive-images/js/picturefill.min.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/themes/ink/assets/js/lib/fitvids/jquery.fitvids.min.js?ver=1.1.1"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-includes/js/wp-embed.min.js?ver=4.8.2"></script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/plugins/selection-sharer/js/selection-sharer.js?ver=0.1"></script>
 <script>
 		jQuery(document).on('click', function(e) {
 		  if (!jQuery(e.target).closest('.filter-topics__topics, .filter-topics').length) {
@@ -339,127 +553,25 @@ var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a
 		});
 		</script>
 <script>
-	jQuery(document).ready(function(){
-		jQuery("#fb_button").on('click', function(e) {
-		  	ga('send', 'event', 'Social', 'Clicked Facebook Share Button', window.location.pathname);
-		});
+	jQuery(document).ready(function() {
+		jQuery( "a[href='/subscribe?from=main-nav'], a[href='/subscribe?from=footer-widget'], a[href='/subscribe?from=video-post'], a[href='/subscribe?from=fixed-nav']" ).attr("href", function(i, href) {
+				var path = window.location.pathname;
 
-		jQuery("#tweet_button").on('click', function(e) {
-		  	ga('send', 'event', 'Social', 'Clicked Twitter Share Button', window.location.pathname);
-		});
+				// remove slashes in from start and end of path
+				path = path.replace(/^\/|\/$/g, '');
 
-		jQuery("#gplus_button").on('click', function(e) {
-		  	ga('send', 'event', 'Social', 'Clicked Google Plus Button', window.location.pathname);
-		});
-
-		// GA event when people submit opt-in forms
-		jQuery(".opt-in-form").on("submit", function(e) {
-		  e.preventDefault();
-
-		  var _this = this;
-
-		  // check if google-analytics.js is loaded. If not, submit, if it is, send event with hitCallback.
-		  if (!(ga.hasOwnProperty('loaded') && ga.loaded === true)) {
-		  	_this.submit();
-		  } else {
-		  		ga('set', 'metric2', 1);
-		  		ga('set', 'dimension1', 'Subscribed to Email List');
-
-				ga('send', 'event', {
-					'eventCategory': 'Form submission',
-					'eventAction': 'Newsletter opt-in',
-					'eventLabel': window.location.pathname,
-					'hitCallback': function () {
-						_this.submit();
-					}
-				});
-		  }
-		}); // end opt-in-form on submit
-
-		// send events when you click on link to subscribe page
-		subscribeLinkEvent(".fixed-header-nav__subscribe a", "in fixed header nav");
-		subscribeLinkEvent(".main-navigation .site-navigation__subscribe a", "in main nav");
-		subscribeLinkEvent(".footer-navigation .site-navigation__subscribe a", "in footer nav");
-		subscribeLinkEvent(".front-page-subscribe-link a", "in front page intro");
-		subscribeLinkEvent(".footer-widgets .learn-more-button", "in footer widget");
-
-		clickEventSimple('.site-header__search-icon', 'Navigation', 'Clicked on Search Icon in Fixed Header', window.location.pathname);
-
-		clickEventHitCallback('.site-header__search-results', '.search-results__default a', 'Navigation', 'Clicked on Default Link in Header Search Results Section', 'href');
-		clickEventHitCallback('.site-header__search-results', '.search-results__results a', 'Navigation', 'Clicked on Search Result in Header Search Results Section', 'href');
-
-		function clickEventSimple(jQuerySelector, eventCategory, eventAction, eventLabel) {
-			jQuery(jQuerySelector).on('click', function(e) {
-
-				// ugly, but I just want to block this event from happening if the search is active in case of search icon click
-				if (jQuerySelector === '.site-header__search-icon') {
-					// I check when it does NOT have the search-active parent. By the time this runs, the code that adds/removes .search-active has already run
-					if (jQuery('.site-header__search-icon').parents('.search-active').length) {
-						ga('send', 'event', {
-							'eventCategory': eventCategory,
-							'eventAction': eventAction,
-							'eventLabel': eventLabel
-						});
-					}
-				} else {
-					ga('send', 'event', {
-						'eventCategory': eventCategory,
-						'eventAction': eventAction,
-						'eventLabel': eventLabel
-					});
+				// to prevent an empty path on the homepage
+				if ( path == '' ) {
+					path = 'homepage';
 				}
-			});
-		}
 
-		// has both container and jQuerySelector because the search results don't exist yet on page load
-		function clickEventHitCallback(container, jQuerySelector, eventCategory, eventAction, eventLabel) {
-			jQuery(container).on('click', jQuerySelector, function(e) {
-				var _this = this;
+				path = encodeURIComponent(path);
 
-				if (ga.hasOwnProperty('loaded') && ga.loaded === true) {
-	 				e.preventDefault();
-
-	 				if (eventLabel === 'href') {
-	 					eventLabel = jQuery(_this).attr('href');
-	 				}
-
-					ga('send', 'event', {
-						'eventCategory': eventCategory,
-						'eventAction': eventAction,
-						'eventLabel': eventLabel,
-						'hitCallback': function () {
-							document.location = jQuery(_this).attr('href');
-						}
-					});
-				}
-			});
-		}
-
-		function subscribeLinkEvent(jQuerySelector, eventLabelEnd) {
-			jQuery(jQuerySelector).on('click', function(e) {
-				var _this = this;
-
-				if (ga.hasOwnProperty('loaded') && ga.loaded === true) {
-	 				e.preventDefault();
-
-					var eventLabel = 'Clicked subscribe link ' + eventLabelEnd;
-
-					ga('send', 'event', {
-						'eventCategory': 'Link',
-						'eventAction': 'Clicked on Subscribe Link',
-						'eventLabel': eventLabel,
-						'hitCallback': function () {
-							document.location = jQuery(_this).attr('href');
-						}
-					});
-				}
-			});
-		}
-
-		
-	}); // end ready
+	  			return href + '&from-path=' + path;
+		});
+	});
 	</script>
- 
+
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 879521602;
@@ -474,6 +586,7 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/879521602/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d29a85834b","applicationID":"3087216","transactionName":"ZVdWMBFWVkcAVxFcCVwddQcXXldaTkQEUgM=","queueTime":0,"applicationTime":511,"atts":"SRBVRllMRUk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="http://markmanson.net/wp-content/cache/minify/e452c.default.include-footer.52be84.js"></script>
 
- </body></html>
+
+</body></html>
