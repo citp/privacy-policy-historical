@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cnova.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100649id_/http%3A//www.cnova.com/en/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnova.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022053203id_/http%3A//www.cnova.com/en/privacy-cookies-policy) for the most accurate reproduction.*
 
-# Privacy & Cookies policy – CNOVA
+# Privacy & Cookies policy | CNOVA
 
 **Privacy**
 
