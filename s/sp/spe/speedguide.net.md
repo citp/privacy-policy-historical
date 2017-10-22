@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114220348id_/http%3A//www.speedguide.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022180317id_/https%3A//www.speedguide.net/privacy.php) for the most accurate reproduction.*
 
 # SpeedGuide.net :: Privacy Policy
 
@@ -37,4 +37,4 @@ All changes to our Privacy Policy will be posted in this Privacy statement so th
 **Contacting the Website**   
 If you wish to learn more about our efforts to protect your privacy, please feel free to send questions and comments to: **[webmaster](mailto:webmaster@speedguide.net) **
 
-[](https://web.archive.org/web/20170114220348id_/http%3A//www.speedguide.net/privacy.php?print=friendly) [](https://web.archive.org/forums/)
+[](https://web.archive.org/web/20171022180317id_/https%3A//www.speedguide.net/privacy.php?print=friendly) [](https://web.archive.org/forums/)
