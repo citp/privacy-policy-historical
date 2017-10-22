@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkcontent.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622193116id_/http%3A//bookmarkcontent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkcontent.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022163430id_/http%3A//bookmarkcontent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Bookmark Content
 
