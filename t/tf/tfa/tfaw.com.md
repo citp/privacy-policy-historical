@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfaw.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621054614id_/http%3A//www.tfaw.com/Help/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfaw.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023003139id_/https%3A//www.tfaw.com/Help/Privacy-Policy) for the most accurate reproduction.*
 
 # TFAW.com: Home > Help > Privacy Policy
 
@@ -81,7 +81,7 @@ As noted in Section I of this Privacy Policy, this Site may link directly to sit
 
 **REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION COLLECTED FROM CHILDREN UNDER 13**
 
-Parents of children under age 13 may review, change, or delete personal information about their kids from our records at any time. If you would like to review, change, or delete your child's personal information, please [contact us](http://www.tfaw.com/Help/Getting-Help). If you have requested deletion of your child's information, we will immediately delete your child's information from our database and refrain from collecting any other personally identifiable information from your child. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose. 
+Parents of children under age 13 may review, change, or delete personal information about their kids from our records at any time. If you would like to review, change, or delete your child's personal information, please [contact us](https://www.tfaw.com/Help/Getting-Help). If you have requested deletion of your child's information, we will immediately delete your child's information from our database and refrain from collecting any other personally identifiable information from your child. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose. 
 
 **Privacy Policy Changes**
 
