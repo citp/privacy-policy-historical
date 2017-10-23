@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sevenpoint2.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613072124id_/http%3A//www.sevenpoint2.com/privacy.html%3Fcountry%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenpoint2.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023092700id_/http%3A//sevenpoint2.com/privacy_sc.html) for the most accurate reproduction.*
 
-# Alkaline Diet
-
-### UPDATED 7-21-11
+# Alkaline Diet - Privacy Policy
 
 This Privacy Policy governs your use of this website and any content, products or services made available from or through this website including any sub domains thereof ("Website"). The Website is made available by SEVENPOINT2,LLC. (Hereinafter referred to as "Company").
 
@@ -10,15 +8,15 @@ By visiting this Website and requesting information, products or services offere
 
 This Website is intended for users who are located in the United States of America. The Privacy Policy shall be interpreted under the laws of the United States.
 
-### PURPOSE OF THE PRIVACY POLICY.
+## PURPOSE OF THE PRIVACY POLICY.
 
 This Policy describes the information collection, use, and dissemination practices of Company, its parent, subsidiaries and registered d/b/a companies (Collectively Referred herein after as "Company") and all related Websites owned or registered to Company. It governs Company's right to collect, use, store and disclose information provided by You on its (a) this Website, (b) Company's other Websites, (c) on various Third Party websites, and (d) Company's other information collection and distribution practices, including the acquisition of your information from and to Third Parties. Company is not responsible for the information collection or privacy practices of third party websites or applications which company does not own or control.
 
 By providing us with Personal Information about yourself on our Website or in the course of using our services, you consent to the transfer of your Personal Information, and any other data we acquire about you from third-party service providers and marketers for commercial use.
 
-### INFORMATION COLLECTION, USE, AND DISSEMINATION PRACTICES.
+## INFORMATION COLLECTION, USE, AND DISSEMINATION PRACTICES.
 
-**1.0. Collection of Information.**
+1.0. Collection of Information.
 
 1.1. User Direct Information. Each time you provide or transmit information via the Website, Company may obtain and collect personal information about you, including, but not limited to, your name, email address, mailing address, social security number, credit card information, bank account information and telephone or cell phone number (collectively referred to as "Personal Information").
 
@@ -46,7 +44,7 @@ f. New Technology. The use of technology on the Internet, including cookies and 
 
 1.7. Credit Card Information and Bank Account Information. Company may, in certain instances, collect credit card numbers, bank account information and related information when an individual places an order on Company's Website. When the credit card or bank account information is submitted to Company, such information is encrypted and is protected with SSL encryption software. Company will use the credit card information or bank account information for purposes of processing and completing the transaction you requested on the Website, and the credit card information or bank account information will be disclosed to third parties as necessary to complete the requested purchase transaction.
 
-**2.0. Use of Personal Information.**
+2.0. Use of Personal Information.
 
 2.1. General Use. The following paragraphs describe how Company currently uses Personal Information, but Company may change or broaden its use at any time. As noted below, Company may update this policy from time to time. Company may use Personal Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, mobile marketing, online banner advertising, and package stuffers, among other possible uses.
 
@@ -78,7 +76,7 @@ You may remove your information from Company's database. If you remove your info
 
 2.11. Storage of Personal Information. Company stores the Personal Information in a database on its' computers. Company computers have security measures (such as a firewall and password protections) in place to protect against the loss, misuse, and alteration of the information under Company's control. Not withstanding such measures, Company cannot guarantee that its security measures will prevent its computers from being illegally accessed, and the Personal Information on them stolen or altered.
 
-**3.0. Other Use of Personal Information.** Company may use your Personal Information in the following ways:
+3.0. Other Use of Personal Information. Company may use your Personal Information in the following ways:
 
 3.1. Public Forums. When you contribute to a public area or feature of our Website, such as a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Website, the information that you submit will be made available to the general public and will not be considered "Personal Information" for purposes of this Privacy Policy. For this reason, we recommend that you do not submit any sensitive information, including your full name, home address, phone number, other information that would enable other users to locate you or your financial information on these areas of our Website. Instead, make up a username that does not disclose your personal identity.
 
@@ -98,7 +96,7 @@ You may remove your information from Company's database. If you remove your info
 
 3.9. Data Summary. Company may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
 
-**4.0. Privacy Practices of Third Parties.**
+4.0. Privacy Practices of Third Parties.
 
 4.1. Advertiser cookies and web beacons. Advertising agencies, advertising networks, and other companies who place advertisements on the Websites and on the internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Company does not control the use of such technology and Company has no responsibility for the use of such technology to gather information about you.
 
@@ -106,8 +104,8 @@ You may remove your information from Company's database. If you remove your info
 
 4.3. Affiliations/Merger/Sale. Company further reserves the right to disclose, transfer or sell your Personal Information to companies who are affiliated with Company in Company's sole discretion. If Company changes ownership through an acquisition, merger, sale or other change of business status, it reserves the right to transfer or assign the right to use your Personal Information collected from the Website.
 
-**5.0. Foreign use of the Website.** To the extent that you are accessing the Website while domiciled outside of the United States, you acknowledge that the Personal Information you are providing Company is collected and stored in the United States and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States.
+5.0. Foreign use of the Website. To the extent that you are accessing the Website while domiciled outside of the United States, you acknowledge that the Personal Information you are providing Company is collected and stored in the United States and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States.
 
-**6.0. California User Consumer Rights.** In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](http://www.ftc.gov.).
+6.0. California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](http://www.ftc.gov./).
 
-If you have questions about this policy, please contact us at [Info@SevenPoint2.com](mailto:Info@SevenPoint2.com)
+**If you have questions about this policy, please contact us at[Info@SevenPoint2.com](mailto:Info@SevenPoint2.com)**
