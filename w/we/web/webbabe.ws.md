@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webbabe.ws privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622122406id_/http%3A//webbabe.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbabe.ws privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023215411id_/http%3A//webbabe.ws/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows, Free Porn Chat - webbabe_ws
 
