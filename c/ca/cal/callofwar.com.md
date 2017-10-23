@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callofwar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213738id_/https%3A//www.callofwar.com/index.php%3Fid%3D276) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callofwar.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023195208id_/https%3A//www.callofwar.com/index.php%3Fid%3D276) for the most accurate reproduction.*
 
 # None
 
@@ -57,9 +57,9 @@ If you have given us consent to process personal data, you can withdraw this con
 
  **4. **Contact and Data Deletion Requests****
 
-Bytro Labs provides the possibility to directly delete or correct your own personal data ingame[](https://web.archive.org/web/20170606213738id_/https%3A//www.callofwar.com/index.php%3Fid%3D276?id=62). You have to be logged in to your account to enter the settings menu and then scroll down to the "Delete Account" option to delete your personal data.
+Bytro Labs provides the possibility to directly delete or correct your own personal data ingame[](https://web.archive.org/web/20171023195208id_/https%3A//www.callofwar.com/index.php%3Fid%3D276?id=62). You have to be logged in to your account to enter the settings menu and then scroll down to the "Delete Account" option to delete your personal data.
 
-For any queries about data protection you can also contact us [here](https://www.callofwar.com/index.php?id=279) or directly via e-mail to support(at)bytro.com. You can also send your request to us by mail at the following mailing address:
+For any queries about data protection you can also contact us [here](http://www.callofwar.com/index.php?id=279) or directly via e-mail to support(at)bytro.com. You can also send your request to us by mail at the following mailing address:
 
 Bytro Labs GmbH
 
