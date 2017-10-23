@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whenonearth.net privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604060933id_/http%3A//whenonearth.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whenonearth.net privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023203613id_/http%3A//whenonearth.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | When On Earth - For People Who Love Travel
 
@@ -35,7 +35,7 @@ If we provide you with any mailings or other communication, you can always opt o
 
 You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled.
 
-You have the right to remove your personal information from our databases. To do this, please delete your WhenOnEarth.net account. If you have any problems or questions, please let us know by contacting us here contact@whenonearth.net and we will assist you with the process of deleting your account. For security purposes will not process any deletion requests via email. Deleting your WhenOnEarth.net account personally allows us to verify your identity.
+You have the right to remove your personal information from our databases. To do this, please delete your WhenOnEarth.net account. If you have any problems or questions, please let us know by contacting us here [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will assist you with the process of deleting your account. For security purposes will not process any deletion requests via email. Deleting your WhenOnEarth.net account personally allows us to verify your identity.
 
 ### Accessing and updating your personal information
 
