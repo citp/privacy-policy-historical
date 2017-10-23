@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tatapower.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172931id_/http%3A//www.tatapower.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatapower.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023201444id_/https%3A//www.tatapower.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Tata Power :: Privacy Policy
+# Tata Power
 
 TATA POWER is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you, we receive from you, on the Internet.
 
@@ -10,8 +10,8 @@ There are times, however, when we may need information from you, such as your na
 
 If you register with one of TATA POWER's website, they may use this information to provide you with customer information about TATA POWER's offering in support of your needs. A technology called cookies may be used to provide you with tailored information. A cookie is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognise you when you return. You may set your browser to notify you when you receive a cookie. Registering with any TATA POWER website online signifies your unconditional consent to receive such cookies.
 
-At times we conduct on-line surveys to better understand the needs and profile of our visitors. When we conduct a survey, we will try (but are not obligated) to let you know how we will use the information at the time we collect information from you on the Internet. 
+At times we conduct on-line surveys to better understand the needs and profile of our visitors. When we conduct a survey, we will try (but are not obligated) to let you know how we will use the information at the time we collect information from you on the Internet.
 
-You recognise and understand that there is no compulsion on you to provide us with your personal information and any and all personal information provided by you to us is with your full consent, own wish and desire to provide such personal information. You also understand that we are under no obligation to verify the source from which the personal information about you is provided to us, and they are deemed to be provided by you, unless you demonstrate to us within a period of fifteen (15) days from the date of providing of such information to us, to our satisfaction, that the information was provided to us without your free consent. 
+You recognise and understand that there is no compulsion on you to provide us with your personal information and any and all personal information provided by you to us is with your full consent, own wish and desire to provide such personal information. You also understand that we are under no obligation to verify the source from which the personal information about you is provided to us, and they are deemed to be provided by you, unless you demonstrate to us within a period of fifteen (15) days from the date of providing of such information to us, to our satisfaction, that the information was provided to us without your free consent.
 
 TATA POWER's Web site may contain links to other sites such as TATA POWER partners and affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
