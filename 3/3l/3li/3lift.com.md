@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3lift.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623213259id_/http%3A//triplelift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3lift.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023060804id_/http%3A//triplelift.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Triplelift
 
@@ -156,5 +156,5 @@ We reserve the right to make changes to our Privacy Policy. Please look at the d
 For any questions about this Privacy Policy or TripleLift’s privacy practices, please contact us by email at privacy@triplelift.com, or by mail at:
 
 Triple Lift, Inc., c/o Privacy  
-36 E 31st St., FL. 8  
-New York, NY 10016
+400 Lafayette St., FL 5  
+New York, NY 10003
