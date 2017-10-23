@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skinnerinc.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612123255id_/https%3A//www.skinnerinc.com/connect/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnerinc.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023022058id_/https%3A//www.skinnerinc.com/connect/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skinner Auctioneers
 
 Skinner, Inc. values the privacy of all users of our website (skinnerinc.com). Accordingly, we have adopted the following privacy policy.
 
-Please read this policy carefully. It tells you, among other things, what information we gather from you, how we may use or disclose that information, and what efforts we take to protect it. Contact us at _[iskinner@skinnerinc.com](http://www.cloudflare.com/email-protection#5c35323a331c2f37353232392e35323f723f3331)_ if you have any questions regarding this policy’s contents or to correct your personal information.
+Please read this policy carefully. It tells you, among other things, what information we gather from you, how we may use or disclose that information, and what efforts we take to protect it. Contact us at _[iskinner@skinnerinc.com](https://www.cloudflare.com/email-protection#5c35323a331c2f37353232392e35323f723f3331)_ if you have any questions regarding this policy’s contents or to correct your personal information.
 
 ## Types of Information Collected
 
