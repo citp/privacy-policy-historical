@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hclib.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623031858id_/http%3A//www.hennepin.us/your-government/open-government/accessibility-privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hclib.org privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023102332id_/http%3A//www.hennepin.us/your-government/open-government/accessibility-privacy-security) for the most accurate reproduction.*
 
 # Privacy and security | Hennepin County
 
@@ -71,6 +71,6 @@ Except for authorized law enforcement investigations, no other attempts are made
 
 ## Contact information
 
-The county uses a system that allows a large number of county employees to publish and manage content on the county website. When contact information about a program or service is needed, that information is provided on the right side of the web page 
+The county uses a system that allows a large number of county employees to publish and manage content on the county website. When contact information about a program or service is needed, that information is provided on the right side of the web page.
 
-To comment about this policy or the site in general, contact the web team at [webteam@hennepin.us](mailto:webteam@hennepin.us). 
+To comment about this policy or the site in general, contact the web team at [webteam@hennepin.us](mailto:webteam@hennepin.us).
