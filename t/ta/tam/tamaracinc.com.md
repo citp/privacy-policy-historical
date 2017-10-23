@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620233826id_/http%3A//tamaracinc.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023234341id_/http%3A//www.tamaracinc.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Tamarac - Legal Notice
 
