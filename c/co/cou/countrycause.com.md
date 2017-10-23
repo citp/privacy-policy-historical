@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrycause.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201601id_/http%3A//countrycause.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrycause.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023045019id_/http%3A//countrycause.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ We have taken security measures, consistent with international information pract
 
 **1.2 Links to Business Partner**  
 At the CountryCause Web site, there are a number of links to companies with whom we have a relationship. CountryCause is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.  
-Some of the web search services provided herein are provided by providers of third party web search services. For information on the web search services data collection, please visit the end user privacy statements of CodeFuel at http://www.codefuel.com/legal/end_user_privacy_policy and Bing http://go.microsoft.com/fwlink/?LinkId=521839, both as updated from time to time and at any successor locations.
+Some of the web search services provided herein are provided by providers of third party web search services. For information on the web search services data collection, please visit the end user privacy statements of CodeFuel at http://www.codefuel.com/legal/end_user_privacy_policy and Bing at http://go.microsoft.com/fwlink/?LinkId=521839, both as updated from time to time and at any successor locations.
 
 **1.3 Other Privacy Considerations**  
 Please remember that information you submit in a discussion group or forum will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
