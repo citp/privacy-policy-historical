@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japantourist.jp privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000416id_/https%3A//en.japantravel.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantourist.jp privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023055703id_/https%3A//en.japantravel.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Policies | Japan Travel
 
@@ -63,7 +63,7 @@ Please contact the department below for any issues concerning personal informati
 
 #### Japan Travel KK - Marketing Department
 
-  * **Address:** 1-3-4 Nishi-Azabu, Minato-ku KN134Bldg. 4F 106-0031 Tokyo
+  * **Address:** Seika Bldg. 5F, 3-5-17 Kojimachi, Chiyoda-ku, 102-0083 Tokyo
   * **Hours:** 9:30-18:30 (Weekdays)
   * **Phone:** +81-3-4588-2676
   * **Email:** marketing@japantravel.com
