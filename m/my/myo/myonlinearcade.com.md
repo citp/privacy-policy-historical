@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myonlinearcade.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614171457id_/http%3A//myonlinearcade.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlinearcade.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024013824id_/http%3A//myonlinearcade.com/privacypolicy) for the most accurate reproduction.*
 
 # My Online Arcade Privacy Policy
 
@@ -39,6 +39,6 @@ _<http://www.myonlinearcade.com/termsandconditions>_
 
 . Our contact email for questions is 
 
-_[support@myonlinearcade.com](mailto:support@myonlinearcade.com)_
+_[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#0d7e787d7d627f794d60746263616463686c7f6e6c6968236e6260)_
 
 .
