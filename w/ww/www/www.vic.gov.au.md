@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202539id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023083440id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Victorian Government
 
@@ -12,7 +12,7 @@ This privacy statement applies only to the www.vic.gov.au website and not to any
 
 www.vic.gov.au only requests you to provide personal information for the purposes of responding to your feedback. The purpose for collecting personal information is to provide feedback and answer queries that you have in respect of a particular site or the information you are trying to obtain and www.vic.gov.au will only use and/or disclose the information for these purposes. It is possible to provide feedback without providing your personal information although if you do this, we are unable to respond to you about your feedback or your query.
 
-Personal information that is collected by www.vic.gov.au will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Privacy and Data Protection Act 2014 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/d1ed49bf522e96b8ca257e9200156142!OpenDocument).
+Personal information that is collected by www.vic.gov.au will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Privacy and Data Protection Act 2014 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/9748efd5425ed362ca25810f0014bb3e!OpenDocument).
 
 www.vic.gov.au uses a secure system to transmit your personal information via our feedback form. This means that any data you transmit using this form is encrypted and unable to be read by anyone outside our secure system.
 
@@ -43,7 +43,7 @@ You will know if www.vic.gov.au is collecting personal information from you beca
 
 The first exception is where someone else provides www.vic.gov.au with your personal information. www.vic.gov.au cannot prevent this. However, you are entitled to access and correct any personal information about you collected by www.vic.gov.au.
 
-The second exception is where www.vic.gov.au collects statistics using software techniques such as web server log file analysis, clickstream data, cookies and web beacons. For an explanation of these techniques, and how they are used on www.vic.gov.au, see Web measurement services used by www.vic.gov.au below. Such statistics may qualify as personal information under the _Privacy and Data Protection Act 2014 (Vic)_. However, these statistics are not used to identify individual users of www.vic.gov.au.
+The second exception is where www.vic.gov.au collects statistics using software techniques such as web server log file analysis, clickstream data, cookies and web beacons. For an explanation of these techniques, and how they are used on www.vic.gov.au, see Web measurement services used by www.vic.gov.au below. Such statistics may qualify as personal information under the [Privacy and Data Protection Act 2014 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/9748efd5425ed362ca25810f0014bb3e!OpenDocument). However, these statistics are not used to identify individual users of www.vic.gov.au.
 
 ## Internet Use Risk
 
@@ -109,4 +109,16 @@ Please be aware that privacy policies provided by social media websites may not 
 
 Also we advise that personally identifiable information or other information you share via social media or applications may be accessible by non-government third parties.
 
-This page was updated 6 January 2015.
+## Family Safety Victoria
+
+In addition to the privacy and security statement above, the following is applicable to Family Safety Victoria.
+
+Family Safety Victoria endorses fair information handling practices and uses of information in compliance with its obligations under the Privacy and Data Protection Act 2014 (Vic) and the Health Records Act 2001 (Vic).
+
+Family Safety Victoria collects your information to enable it to undertake its functions and activities. Any personal information and health information (being information capable of identifying you as an individual) that you provide to Family Safety Victoria will only be used or disclosed in accordance with relevant laws, including the [Privacy and Data Protection Act 2014](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/9748efd5425ed362ca25810f0014bb3e!OpenDocument) and the Health Records Act 2001. This privacy statement explains how your information will be treated when you engage with Family Victoria Safety. The practices outlined in this privacy statement should be read subject to any rights Family Safety Victoria may have to handle your information in accordance with law.
+
+[Family Safety Victoria](http://www.vic.gov.au/familyviolence/family-safety-victoria.html) may disclose your personal and health information to other organisations for the purposes of undertaking its functions or activities and for the purposes of reporting to the [Victorian Department of Health and Human Services](https://dhhs.vic.gov.au/) (the DHHS) as required. The types of organisations to which [Family Safety Victoria](http://www.vic.gov.au/familyviolence/family-safety-victoria.html) may disclose your information for the purposes of undertaking its functions or activities include the DHHS, Victorian health services, other Victorian service providers, or other administrative offices established in relation to the DHHS.
+
+[Family Safety Victoria](http://www.vic.gov.au/familyviolence/family-safety-victoria.html) may also disclose your personal or health information to the DHHS for the purposes of seeking corporate support services (including but not limited to in relation to the handling of privacy complaints) from the DHHS.
+
+This page was updated 21 July 2017.
