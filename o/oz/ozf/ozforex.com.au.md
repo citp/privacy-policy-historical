@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ozforex.com.au privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525182723id_/https%3A//www.ofx.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozforex.com.au privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023033150id_/https%3A//www.ofx.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OFX
-
-### Privacy Policy
 
 #### Effective date: May 31, 2016
 
