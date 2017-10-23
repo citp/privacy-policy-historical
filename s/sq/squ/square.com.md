@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the square.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201107id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the square.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023175841id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Users Who Apply or Sign Up for a Square Account
 
@@ -10,7 +10,7 @@
 
 **Last updated: May 27, 2016**
 
-The Privacy Policy describes the information Square, Inc. and our affiliates (collectively, “Square,” “we,” and “us”) collect when a person or business (“you,” “your”) applies or signs up for a Square account; accesses or uses in any manner any Square application, product, service, feature, technology, content, or website (collectively, “Services”); or otherwise contacts or interacts with us.
+This Privacy Policy describes the information Square, Inc. and our affiliates (collectively, “Square,” “we,” and “us”) collect when a person or business (“you,” “your”) applies or signs up for a Square account.
 
 #### Scope and Consent
 
@@ -18,7 +18,7 @@ By applying or signing up for a Square account, including through a computer or 
 
 #### Amendment
 
-We may amend this Privacy Policy from time to time by posting a revised version and updating the “Last updated” date above. The revised version will be effective at the time we post it. We will provide you with reasonable prior notice of substantial changes in how we use your information, including by email at the email address you provide. Where these changes would cause material detriment to you, you may of course cancel your account at any time. We encourage you to review this Privacy Policy whenever you use our Services to stay informed about our information practices and the choices available to you and to contact us if you have any questions about these changes. Your continued use of our Services constitutes your acceptance of any amendment of this Privacy Policy.
+We may amend this Privacy Policy from time to time by posting a revised version and updating the “Last updated” date above. The revised version will be effective at the time we post it. We will provide you with reasonable prior notice of substantial changes in how we use your information, including by email at the email address you provide. Where these changes would cause material detriment to you, you may of course cancel your account at any time. We encourage you to review this Privacy Policy whenever you access or use in any manner any Square application, product, service, feature, technology, content, or website (collectively, “Services”) to stay informed about our information practices and the choices available to you and to contact us if you have any questions about these changes. Your continued use of our Services constitutes your acceptance of any amendment of this Privacy Policy.
 
 #### Collection of Information
 
