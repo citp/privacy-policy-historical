@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627011735id_/http%3A//www.operationsmile.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023223248id_/http%3A//www.operationsmile.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Operation Smile
 
@@ -32,9 +32,9 @@ In addition to maintaining privacy and security controls over information you sh
 
 **Email Privacy**
 
-We are committed to keeping your email address confidential. Operation Smile complies fully with the federal [CAN-SPAM Act of 2003](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business). We will not share, sell, rent, lease, swap or authorize any third party to use your email address for any purpose without your permission. We will use your email address solely to communicate information related to Operation Smile and will maintain any information you send via email to us in accordance with applicable federal law.
+We are committed to keeping your email address confidential. Operation Smile complies fully with the federal [CAN-SPAM Act of 2003](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business). We will not share, sell, rent, lease or swap your email address for any purpose without your permission. We will use your email address solely to communicate information related to Operation Smile and will maintain any information you send via email to us in accordance with applicable federal law.
 
-If you received an email from us, your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving email communications from us, or you have donated to us, purchased from us or otherwise have an existing relationship with us.
+If you received an email from us, your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving email communications from us, you have donated to or purchased from us or otherwise have interacted with us.  On occasion, we may use third-party services and platforms to acquire and communicate with constituents that may have an existing relationship with us. 
 
 We respect your time and attention by controlling the frequency of our emails. However, you may modify your email preferences at any time. Each email sent contains an easy, automated way for you to change your expressed interests, or to cease receiving email from us altogether. If you would like to modify your preferences, simply follow the instructions at the end of any email you receive from us.
 
