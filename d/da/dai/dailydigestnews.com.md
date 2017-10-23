@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydigestnews.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506070336id_/http%3A//dailydigestnews.com/site.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydigestnews.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023221612id_/http%3A//dailydigestnews.com/site.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Daily Digest News | Privacy
 
