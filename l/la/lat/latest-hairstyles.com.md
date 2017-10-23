@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the latest-hairstyles.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521033840id_/http%3A//www.latest-hairstyles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latest-hairstyles.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023181600id_/http%3A//www.latest-hairstyles.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Latest-Hairstyles.com
 
 [](http://www.latest-hairstyles.com/)
-
-**PRIVACY POLICY FOR LATEST-HAIRSTYLES.COM**
 
 Effective Date: August 16, 2013
 
