@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507173745id_/https%3A//www.physicsforums.com/threads/physics-forums-privacy-policy.797829) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023071128id_/https%3A//www.physicsforums.com/threads/physics-forums-privacy-policy.797829) for the most accurate reproduction.*
 
 # Physics Forums Privacy Policy | Physics Forums - The Fusion of Science and Community
 
@@ -50,6 +50,9 @@
 > 
 > Data on users, such as the times at which they posted and the number of posts they have made, are publicly available. In contrast, information about threads and posts read by users is not publicly available. This information is stored both in the cookies in your browser (if you are logged in), and on the server in the form of web server logs. Neither form of information is publicly available.
 > 
+> For the Tapatalk PF mobile app for iOS and andriod please see this policy on user data  
+>  <https://tapatalk.com/byo-privacy-policy.php>
+> 
 > **Removal of user accounts, posts and name changes**
 > 
 > Once created, user accounts will not be removed on demand. Account removal is at the discretion of the site owners. It may be possible for a member name to be changed.
@@ -57,8 +60,6 @@
 > Post removal and visibility is at the discretion of site owners.
 > 
 > Physicsforums.com does not guarantee that a name will be changed on request. 
-
-Last edited: May 7, 2017 at 7:58 AM
 
   2. 
   
