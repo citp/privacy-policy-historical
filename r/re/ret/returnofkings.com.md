@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the returnofkings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210541id_/http%3A//www.returnofkings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnofkings.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023142657id_/https%3A//www.returnofkings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Return Of Kings
 
 Return Of Kings is owned and operated by Kinds Media LLC (“we” “our” or “us”). This document is to inform you how information about you is collected, used, and shared with others. We also want you to know about the choices you have when you visit us at http://www.returnofkings.com (the “Site”). If you have questions or comments about this policy, please contact us at tips@returnofkings.com.
 
@@ -51,5 +51,3 @@ Our business is located in the United States, which may not offer a level of pri
 We may revise this privacy policy from time-to-time in our sole discretion.  Please visit this Site and review our privacy policy periodically for changes.  By continuing to access or use our Site after changes become effective, you agree to be bound by the terms of the revised privacy policy.
 
 Effective:  December 13, 2014
-
-Dec 13, 2014
