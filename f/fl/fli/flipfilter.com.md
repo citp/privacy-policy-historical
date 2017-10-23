@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipfilter.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621194119id_/http%3A//www.flipfilter.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipfilter.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023093745id_/http%3A//www.flipfilter.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FlipFilter
 
