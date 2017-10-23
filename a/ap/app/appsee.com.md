@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the appsee.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209081311id_/https%3A//www.appsee.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsee.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023233038id_/https%3A//www.appsee.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Appsee
 
-**_Appsee Privacy Policy_**
-
-**Last Revised: February 16, 2015**
+**Last Revised: February 24, 2017**
 
 Shift 6 Ltd. (“ **Shift 6** ”, “ **Company** ”, “ **we** ”, “ **our** ” or “ **us** ”) respects the privacy of the subscribers of its Services and/or its website ("the “ **Subscriber** ” or “ **you** ”) and is fully committed to protect the personal information that users share with it in connection with the use of the Site and/or Service.
 
@@ -16,7 +14,7 @@ Capitalized terms which are not defined herein, shall have the meaning ascribed 
 
 
 
-BY ACCESSING AND/OR USING THE SERVICE AND/OR THE SITE AND/OR BY OPENING AN ACCOUNT AND/OR BY INSTALLING APPSEE SDK, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY, INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, PLEASE DO NOT INSTALL, ACCESS, OR USE THE SERVICE AND/OR THE SITE IN ANY MANNER WHATSOEVER, AND PROMPTLY ERASE, REMOVA AND UNINSTNALL THE SERVICES (INCLUDING THE APPSEE SDK) AND ANY PART THEREOF FROM YOUR SYSTEMS.
+BY ACCESSING AND/OR USING THE SERVICE AND/OR THE SITE AND/OR BY OPENING AN ACCOUNT AND/OR BY INSTALLING APPSEE SDK, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY, INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, PLEASE DO NOT INSTALL, ACCESS, OR USE THE SERVICE AND/OR THE SITE IN ANY MANNER WHATSOEVER, AND PROMPTLY ERASE, REMOVE AND UNINSTALL THE SERVICES (INCLUDING THE APPSEE SDK) AND ANY PART THEREOF FROM YOUR SYSTEMS.
 
 Please note: you are not obligated by law to provide us with any Personal Information. You hereby acknowledge and agree that you are providing us with Personal Information at your own free will, for the purposes described in Section 4 below, and that we may retain such Personal Information in accordance with this Privacy Policy and any applicable laws and regulations.
 
