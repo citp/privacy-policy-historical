@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media-newswire.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621130239id_/http%3A//www.media-newswire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-newswire.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023192236id_/http%3A//media-newswire.com/privacy.html) for the most accurate reproduction.*
 
 # Media-Newswire.com - Press Release Distribution - PR Agency
 
