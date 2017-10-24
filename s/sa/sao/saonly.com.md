@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saonly.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624182343id_/http%3A//www.saonly.com/Privacy-Policy-i158.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saonly.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024175418id_/http%3A//saonly.com/Privacy-Policy-i158.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cheap sexy lingerie wholesale saonly.com
 
