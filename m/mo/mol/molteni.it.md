@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the molteni.it privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511220553id_/http%3A//www.molteni.it/am/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molteni.it privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024122805id_/http%3A//www.molteni.it/am/policy/privacy) for the most accurate reproduction.*
 
 # Molteni&C
 
