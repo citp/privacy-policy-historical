@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the terapad.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109023420id_/https%3A//www.htl.london/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapad.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024123938id_/https%3A//www.htl.london/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HTL
-
-## HTL Support Privacy Policy
 
 This privacy policy sets out how HTL Support uses and protects any information that you give HTL Support when you use this website.
 
