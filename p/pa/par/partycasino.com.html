@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the partycasino.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606164955id_/https%3A//www.partycasino.com/en/p/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the partycasino.com privacy policy that was archived on 2017-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171024194339id_/https%3A//www.partycasino.com/en/p/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="en en-us  account-plugin default-layout" lang="en" data-srvid="130.135.171" data-domain=".partycasino.com" data-env="prod"><head>
     <meta charset="utf-8">
@@ -13,10 +13,713 @@
     
     
     <style>
+.live-chat-section.live-chat-disabled {
+    display: none !important;
+}
+
+.live-contact-section.live-chat-disabled {
+    display: block !important;
+}
+
+.live-contact-section {
+    display: none !important;
+}
+
+.live-chat-flexsection.live-chat-disabled {
+    display: none !important;
+}
+
+.live-chat-flexsection {
+    display: flex !important;
+}
+
+.live-contact-flexsection.live-chat-disabled {
+    display: flex !important;
+}
+
+.live-contact-flexsection {
+    display: none !important;
+}
+</style>
+<style>
+.livewidget__event-time-period {
+    display:inline-block !important;
+    vertical-align:inherit !important;
+}
+
+.livewidget__event-video {
+    display:inline-block !important;
+    vertical-align:inherit !important;
+}
+</style>
+<style>
+.msg-box.Error{
+color:#FF3B30;
+}
+
+.msg-box li:first-child, .msg-box p:first-child{
+font-weight: normal;
+}
+</style>
+<style>
 #playerinbox .pc-toggle-component.showtnc .toggle .ui-icon.ui-icon-triangle-1-e:before{content: "\e909" !important;}
 .side-panel .panel-content .game-description{display:none !important;}
 /*added 6/6/17*/
 #playerinbox li > a:not([class*=btn-]) {background: transparent !important; margin: 0; padding: 0; display: inline; font-size: inherit !important;}
+#playerinbox table strong, #playerinbox table b {color: inherit;}
+#here.inbox-envelop:before {color: #f00a47;}
+.home-carousel .tnc-carousel{ position: absolute; color: #fff; bottom: 3px; right: 25px; width:40%; padding: 5px 50px; text-align:center; border-radius: 3px; font-weight: 300; font-size: 11px; }
+.home-carousel .feature-carousel-list{ margin-bottom: -60px; height: 450px; }
+.user-authenticated .feature-carousel-list{ margin-bottom: -40px }
+.home-carousel .feature-carousel-list .bg-carousel-teaser{ height: 450px; }
+.home-carousel .feature-carousel-list .slick-dots{ bottom: 75px; }
+.home-carousel .feature-carousel {pointer-events: none;}
+.user-state .usr-username a:before { content: "";  background: url('https://scmedia.itsfogo.com/$-$/da55ba873ecc4913b188b4d2391826e8.svg');  background-size: contain; width: 17px; height: 17px;  float: left;  top: -4px; position: relative; margin-bottom: -5px; margin-right: 8px;}
+.hidecarousel .feature-carousel-background , .hidecarousel .feature-carousel {height: 0; overflow: hidden; opacity: 0;}
+.showcarousel .feature-carousel-background , .showcarousel .feature-carousel {height: auto; opacity: 1;}
+
+/*3/10*/
+.bg-body-img-center.feature-carousel-background img {
+  left: 50%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  -moz-transform: translate(-50%, 0);
+  -ms-transform: translate(-50%, 0);
+  -o-transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+  transform: translate(-50%, 0);
+  height: auto;
+  width: auto;
+}
+</style>
+<style>
+.registration-standalone #header .header-logo{
+    margin-top: 17px;
+}
+</style>
+<style>
+/*Sliding Animations*/
+@-moz-keyframes slideinfromtop {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@-webkit-keyframes slideinfromtop {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@-o-keyframes slideinfromtop {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@keyframes slideinfromtop {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@-moz-keyframes slideinfrombottom {
+  0% {
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@-webkit-keyframes slideinfrombottom {
+  0% {
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@-o-keyframes slideinfrombottom {
+  0% {
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@keyframes slideinfrombottom {
+  0% {
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@-moz-keyframes slideouttotop {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
+@-webkit-keyframes slideouttotop {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
+@-o-keyframes slideouttotop {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
+@keyframes slideouttotop {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
+@-moz-keyframes slideouttobottom {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+@-webkit-keyframes slideouttobottom {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+@-o-keyframes slideouttobottom {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+@keyframes slideouttobottom {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+@-moz-keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes fadeout {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes fadeout {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-o-keyframes fadeout {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes fadeout {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.in {
+  -webkit-animation-timing-function: ease-out;
+  -moz-animation-timing-function: ease-out;
+  -o-animation-timing-function: ease-out;
+  animation-timing-function: ease-out;
+  -webkit-animation-duration: 350ms;
+  -moz-animation-duration: 350ms;
+  -o-animation-duration: 350ms;
+  animation-duration: 350ms;
+}
+.out {
+  -webkit-animation-timing-function: ease-in;
+  -moz-animation-timing-function: ease-in;
+  -o-animation-timing-function: ease-in;
+  animation-timing-function: ease-in;
+  -webkit-animation-duration: 225ms;
+  -moz-animation-duration: 225ms;
+  -o-animation-duration: 225ms;
+  animation-duration: 225ms;
+}
+.slideup.out {
+  -webkit-animation-name: slideouttotop;
+  -moz-animation-name: slideouttotop;
+  -o-animation-name: slideouttotop;
+  animation-name: slideouttotop;
+}
+.slideup.in {
+  -webkit-animation-name: slideinfrombottom;
+  -moz-animation-name: slideinfrombottom;
+  -o-animation-name: slideinfrombottom;
+  animation-name: slideinfrombottom;
+}
+.slidedown.out {
+  -webkit-animation-name: slideouttobottom;
+  -moz-animation-name: slideouttobottom;
+  -o-animation-name: slideouttobottom;
+  animation-name: slideouttobottom;
+}
+.slidedown.in {
+  -webkit-animation-name: slideinfromtop;
+  -moz-animation-name: slideinfromtop;
+  -o-animation-name: slideinfromtop;
+  animation-name: slideinfromtop;
+}
+.fade.out {
+  -webkit-animation-name: fadeout;
+  -moz-animation-name: fadeout;
+  -o-animation-name: fadeout;
+  animation-name: fadeout;
+}
+.fade.in {
+  -webkit-animation-name: fadein;
+  -moz-animation-name: fadein;
+  -o-animation-name: fadein;
+  animation-name: fadein;
+}
+
+/*! Real Time Communications */
+#rtmsNotify .real-time-toast {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.4);
+  box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.4);
+  padding: 3px;
+  position: relative;
+  height: 72px;
+  /*margin: @standard-padding/4;*/
+  width: 287px;
+  position: fixed;
+  right: 22px;
+  z-index: 9000;
+}
+#rtmsNotify .real-time-toast [class^="btn"] {
+  position: absolute;
+  left: 85px;
+  top: 44px;
+}
+#rtmsNotify .real-time-toast a + a {
+  left: 81px;
+  position: absolute;
+  top: 49px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+#rtmsNotify .real-time-toast > div {
+  display: inline-block;
+  width: 173px;
+}
+#rtmsNotify .real-time-toast > div p {
+  font-size: 13px;
+  margin-bottom: 6px;
+}
+#rtmsNotify .real-time-toast h1,
+#rtmsNotify .real-time-toast h2,
+#rtmsNotify .real-time-toast h3,
+#rtmsNotify .real-time-toast h4,
+#rtmsNotify .real-time-toast h5,
+#rtmsNotify .real-time-toast h6 {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  position: absolute;
+  top: 50px;
+  left: 78px;
+}
+#rtmsNotify .real-time-toast [class*="ui-icon"] {
+  position: absolute;
+  right: 6px;
+  top: 6px;
+}
+#rtmsNotify .real-time-toast [class*="ui-icon"]:before {
+  color: #7a7a7a;
+  font-size: 11px;
+}
+#rtmsNotify .real-time-toast img {
+  display: inline-block;
+  padding-right: 5px;
+  vertical-align: top;
+  width: 58px;
+  margin: 5.5px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-top {
+  top: 22px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-top ~ .rtm-toast-top:nth-of-type(2) {
+  top: 122px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-top ~ .rtm-toast-top:nth-of-type(3) {
+  top: 222px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-top ~ .rtm-toast-top:nth-of-type(4) {
+  top: 322px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-top ~ .rtm-toast-top:nth-of-type(5) {
+  top: 422px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-top ~ .rtm-toast-top:nth-of-type(6) {
+  top: 522px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-top ~ .rtm-toast-top:nth-of-type(7) {
+  top: 622px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-top ~ .rtm-toast-top:nth-of-type(8) {
+  top: 722px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-top ~ .rtm-toast-top:nth-of-type(9) {
+  top: 822px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-top ~ .rtm-toast-top:nth-of-type(10) {
+  top: 922px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-bottom {
+  bottom: 22px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-bottom ~ .rtm-toast-bottom:nth-of-type(2) {
+  bottom: 122px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-bottom ~ .rtm-toast-bottom:nth-of-type(3) {
+  bottom: 222px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-bottom ~ .rtm-toast-bottom:nth-of-type(4) {
+  bottom: 322px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-bottom ~ .rtm-toast-bottom:nth-of-type(5) {
+  bottom: 422px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-bottom ~ .rtm-toast-bottom:nth-of-type(6) {
+  bottom: 522px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-bottom ~ .rtm-toast-bottom:nth-of-type(7) {
+  bottom: 622px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-bottom ~ .rtm-toast-bottom:nth-of-type(8) {
+  bottom: 722px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-bottom ~ .rtm-toast-bottom:nth-of-type(9) {
+  bottom: 822px;
+}
+#rtmsNotify .real-time-toast.rtm-toast-bottom ~ .rtm-toast-bottom:nth-of-type(10) {
+  bottom: 922px;
+}
+#rtmsNotify .real-time-toast.light {
+  background-color: #ffffff;
+}
+#rtmsNotify .real-time-toast.light a:not([class^="btn"]),
+#rtmsNotify .real-time-toast.light h1,
+#rtmsNotify .real-time-toast.light h2,
+#rtmsNotify .real-time-toast.light h3,
+#rtmsNotify .real-time-toast.light h4,
+#rtmsNotify .real-time-toast.light h5,
+#rtmsNotify .real-time-toast.light h6 {
+  color: #000000;
+}
+#rtmsNotify .real-time-toast.dark {
+  background-color: #0f0f0f;
+}
+#rtmsNotify .real-time-toast.dark a:not([class^="btn"]),
+#rtmsNotify .real-time-toast.dark h1,
+#rtmsNotify .real-time-toast.dark h2,
+#rtmsNotify .real-time-toast.dark h3,
+#rtmsNotify .real-time-toast.dark h4,
+#rtmsNotify .real-time-toast.dark h5,
+#rtmsNotify .real-time-toast.dark h6 {
+  color: #ffffff;
+}
+#rtmsNotify .real-time-popup [class*="ui-icon"] {
+  /*padding: 11px;*/
+  /*left: 395px;*/
+  top: -33px;
+  /*color: @real-time-close-icon;*/
+  right: 5.5px;
+  /*&:before {
+            font-size: 22px;
+        }*/
+}
+#rtmsNotify .real-time-popup [class*="ui-icon"]:hover {
+  color: #ffcc00;
+}
+#rtmsNotify .real-time-popup .wrapper {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.4);
+  box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.4);
+  padding: 3px;
+  position: relative;
+  float: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width: 420px;
+}
+#dialog-box#rtmsNotify .real-time-popup .wrapper {
+  width: 420px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border: 0;
+  background: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  position: fixed;
+}
+#rtmsNotify .real-time-popup.light a:not([class^="btn"]),
+#rtmsNotify .real-time-popup.light h1,
+#rtmsNotify .real-time-popup.light h2,
+#rtmsNotify .real-time-popup.light h3,
+#rtmsNotify .real-time-popup.light h4,
+#rtmsNotify .real-time-popup.light h5,
+#rtmsNotify .real-time-popup.light h6 {
+  color: #000000;
+}
+#rtmsNotify .real-time-popup.dark .wrapper {
+  background-color: #0f0f0f;
+}
+#rtmsNotify .real-time-popup.dark a:not([class^="btn"]),
+#rtmsNotify .real-time-popup.dark h1,
+#rtmsNotify .real-time-popup.dark h2,
+#rtmsNotify .real-time-popup.dark h3,
+#rtmsNotify .real-time-popup.dark h4,
+#rtmsNotify .real-time-popup.dark h5,
+#rtmsNotify .real-time-popup.dark h6 {
+  color: #ffffff;
+}
+#rtmsNotify .real-time-popup .img-text-overlay {
+  left: 11px;
+  position: absolute;
+  top: 11px;
+  width: 50%;
+}
+#rtmsNotify .real-time-popup .img-text-overlay a:not([class^="btn"]),
+#rtmsNotify .real-time-popup .img-text-overlay h1,
+#rtmsNotify .real-time-popup .img-text-overlay h2,
+#rtmsNotify .real-time-popup .img-text-overlay h3,
+#rtmsNotify .real-time-popup .img-text-overlay h4,
+#rtmsNotify .real-time-popup .img-text-overlay h5,
+#rtmsNotify .real-time-popup .img-text-overlay h6 {
+  color: #ffffff;
+}
+#rtmsNotify .real-time-popup .img-text-overlay p,
+#rtmsNotify .real-time-popup .img-text-overlay h1,
+#rtmsNotify .real-time-popup .img-text-overlay h2,
+#rtmsNotify .real-time-popup .img-text-overlay h3,
+#rtmsNotify .real-time-popup .img-text-overlay h4,
+#rtmsNotify .real-time-popup .img-text-overlay h5,
+#rtmsNotify .real-time-popup .img-text-overlay h6 {
+  float: none;
+  margin: 0;
+  padding: 0;
+}
+#rtmsNotify .real-time-popup .real-time-popup-headline {
+  padding: 22px 22px 0;
+  font-weight: 700;
+}
+#rtmsNotify .real-time-popup .real-time-popup-scroll-area {
+  min-height: 50px;
+  max-height: 210px;
+  padding: 22px 0;
+}
+#rtmsNotify .real-time-popup.light .wrapper {
+  background-color: #ffffff;
+}
+#rtmsNotify .real-time-popup.light .wrapper a:not([class*=btn-]) {
+  color: #1283e0;
+}
+#rtmsNotify .real-time-popup .text {
+  padding: 0 22px;
+  /*.real-time-text(@width: 100%);*/
+}
+#rtmsNotify .real-time-popup .button-area {
+  text-align: center;
+  padding: 0 22px 22px;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-box;
+  display: -o-box;
+  display: box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  -o-justify-content: center;
+  justify-content: center;
+  -webkit-lines: single;
+  -webkit-box-lines: single;
+  -moz-box-lines: single;
+  -ms-box-lines: single;
+  -o-box-lines: single;
+  box-lines: single;
+  -webkit-flex-wrap: nowrap;
+  -moz-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  -o-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+#rtmsNotify .real-time-popup .button-area [class*=btn] {
+  -moz-flex-basis: 50%;
+  -ms-flex-basis: 50%;
+  -webkit-flex-basis: 50%;
+  -ms-flex: 0 1 50%;
+  flex-basis: 50%;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+  -ms-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: block;
+}
+#rtmsNotify .real-time-popup .button-area [class*=btn] + [class*=btn] {
+  margin-left: 22px;
+}
+#rtmsNotify .real-time-popup p > span {
+  display: block;
+}
+#rtmsNotify .real-time-popup.light .mCSB_scrollTools .mCSB_draggerRail {
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#rtmsNotify .real-time-popup.light .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#rtmsNotify .real-time-popup.light .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar {
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+#rtmsNotify .real-time-popup.light .mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,
+#rtmsNotify .real-time-popup.light .mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar {
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+#rtmsNotify .real-time-popup.light .mCSB_scrollTools [class*=mCSB_button] {
+  color: #000000;
+}
+#dialog-box.real-time-popup {
+  width: 420px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border: 0;
+  background: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  position: fixed;
+}
+#rtms-overlay {
+    z-index: 10000;
+}
+
+#rtms-box {
+    z-index: 10000;
+}
+
+#rtms-box.real-time-popup {
+    width: 420px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border: 0;
+    background: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    position: fixed;
+}
+
+#rtms-box .ui-icon-closethick {
+    color: #acacac;
+    cursor: pointer;
+    position: absolute;
+    right: 13px;
+    top: 13px;
+}
 </style>
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PNRJN8"></script><script type="application/ld+json">
 {
@@ -30,7 +733,7 @@
   },
   "url": "https://casino.partycasino.com/en/casino/home",
   "description": "Online casino offering many games including blackjack, roulette, slots, video poker and much more.",
-  "logo": "https://casino.partycasino.com/assets/images/shared/brand-logo.dn3wm9.png",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/PartyCasino_Logo.png",
   "sameAs": [
     "https://www.facebook.com/PartyCasino/",
     "https://twitter.com/partycasino",
@@ -40,9 +743,11 @@
 }
 </script>
 
+<meta name="msvalidate.01" content="E2AE798EE576696651B2789BCD3A563E">
+
 
     
-    <link href="/assets/account/styles/bundles/account.bundle.YF_dPa.css" media="screen, print, projection" rel="stylesheet" type="text/css">
+    <link href="/assets/account/styles/bundles/account.bundle.GkRyWx.css" media="screen, print, projection" rel="stylesheet" type="text/css">
 
     
 
@@ -56,9 +761,9 @@
 
 </head>
 <body>
-    <script id="client-config" type="text/javascript">window.bwin = window.bwin || {}; window.bwin.config = {"language":{"nativeName":"English","routeValue":"en"},"chat":{"isEnabled":false,"isPushChatEnabled":false},"chatUserData":{"AccountName":"","EmailAddress":"","LoyaltyCategory":"UNKNOWN","MoneyCategory":"U","UserGender":"","UserName":""},"login":{"durationInMilliseconds":null,"remainingTimeInMilliseconds":null,"limitReachedUrlPath":"/en/login-duration-limit-reached"}};</script>
+    <script id="client-config" type="text/javascript">window.bwin = window.bwin || {}; window.bwin.config = {"portalConfig":{"isHighValuePerson":false,"chatToolboxVersion":"v1","accountDomainUrl":"https://www.partycasino.com/en","regLabelFloating":false,"livePersonChatConfig":{"accountId":"104221","livePersonPushChatShowInvite":false,"isLivePersonPushChatEnabled":false,"supportedEvents":[],"supportedLanguages":[]}},"userInfo":{"AccountName":"","Sso":""},"rtms":{"Host":"https://rtms-fe.partygaming.com/gateway","KeepAliveMilliseconds":5000,"ReconnectMilliseconds":15000},"login":{"durationInMilliseconds":null,"remainingTimeInMilliseconds":null,"limitReachedUrlPath":"/en/login-duration-limit-reached"},"language":{"nativeName":"English","routeValue":"en"},"chatUserData":{"AccountName":"","EmailAddress":"","LoyaltyCategory":"UNKNOWN","MoneyCategory":"U","UserGender":"","UserName":""},"chat":{"isEnabled":true,"isPushChatEnabled":false,"gmsHost":"https://livechat.partycasino.com","gmsChatServicePath":"/genesys/1/service","gmsCometdPath":"/genesys/cometd","host":"https://livechat.partycasino.com","gweTrackerScriptPath":"/server/resources/js/build/GTC.min.js","gweCometdPath":"/server/cometd","dslResourcePath":"/chat/dsl/domain-model.xml","debugLevel":"info","httpTimeoutInMilliseconds":15000,"webSiteLanguage":"EN","webSiteUrl":"partycasinocom","brand":"PARTY","channel":"WC","frontend":"pp","product":"CASINO","isChatAgentAvailable":true,"cookieDomain":".partycasino.com","remoteLoggerUrl":"/log"},"appInfo":{"brandId":"PARTY","channelId":"WC","frontendId":"pp","productId":"CASINO"}};</script>
     
-<script type="text/javascript">var dataLayer = [{'browser.userAgent':'Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)','component.cmsLinkID':null,'component.cmsLinkName':null,'page.betfinderResults':null,'page.cmsGuid':null,'page.domain':'.partycasino.com','page.externalLink':null,'page.frontend':'desktop','page.host':'www.partycasino.com','page.language':'en','page.name':'/p/legal/privacy-policy','page.redirectedFrom':null,'page.referrer':null,'page.siteSection':'Account','page.trackerID':null,'user.hasPositiveBalance':false,'user.isAuthenticated':false,'user.isExisting':false,'user.profile.accountID':null,'user.profile.country':'US','user.profile.currency':'USD','user.profile.loyaltyStatus':null,'user.profile.userID':null,'user.session.abTestGroup':null,'user.session.geoIPCountry':'US','user.session.internalCampaign':null,'user.state.liveBettingUserState':null}];</script><script data-rel="GoogleTagManagerConfiguration" type="application/json">{"ContainerId":"GTM-PNRJN8","DataLayerName":"dataLayer","NotTrackedQueryStrings":["sessionKey"]}</script>
+<script type="text/javascript">var dataLayer = [{'browser.userAgent':'Mozilla/5.0 (compatible; NLI_IAHarvester/3.3.0 +http://www.nli.ie/)','component.cmsLinkID':null,'component.cmsLinkName':null,'page.betfinderResults':null,'page.cmsGuid':null,'page.domain':'.partycasino.com','page.externalLink':null,'page.frontend':'desktop','page.host':'www.partycasino.com','page.language':'en','page.name':'/p/legal/privacy-policy','page.redirectedFrom':null,'page.referrer':'https://casino.partycasino.com/en/casino/home?wm=2796416','page.siteSection':'Account','page.trackerID':'2796416','user.hasPositiveBalance':false,'user.isAuthenticated':false,'user.isExisting':false,'user.profile.accountID':null,'user.profile.chid':0.0,'user.profile.country':'US','user.profile.currency':'USD','user.profile.fvid':0.0,'user.profile.loyaltyStatus':null,'user.profile.mid':0,'user.profile.opid':0,'user.profile.prestage':null,'user.profile.pvid':0.0,'user.profile.stage':null,'user.profile.userID':null,'user.profile.vid':0,'user.session.abTestGroup':null,'user.session.geoIPCountry':'US','user.session.internalCampaign':null,'user.state.liveBettingUserState':null}];</script><script data-rel="GoogleTagManagerConfiguration" type="application/json">{"ContainerId":"GTM-PNRJN8","DataLayerName":"dataLayer","NotTrackedQueryStrings":["sessionKey"]}</script>
 <script>
             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -102,7 +807,7 @@ document.cookie = 'cmshn=1; expires=' + imsgdt.toGMTString() + '; domain=partyca
         </ul>
             <span class="ui-icon info-message-close">&nbsp;</span>
     </div>
-    <div class="info-message " data-item="cIEegatchEe01bUvISuw7A==">
+    <div class="info-message display-none" data-item="cIEegatchEe01bUvISuw7A==">
         <ul>
             <li>
                 <span class="icon Information"></span>
@@ -120,6 +825,36 @@ $("#hotFix-loginpopup_position").parent("li").hide();
 });
 
 console.log("hotFix-loginpopup_position  was applied");
+</script>
+            </li>
+        </ul>
+    </div>
+    <div class="info-message display-none" data-item="uBVu193t1kyCTbh+6/fJ0w==">
+        <ul>
+            <li>
+                <span class="icon Information"></span>
+                <script id="hotFix-openRegistrationOnNotUserStateButton">
+document.addEventListener("DOMContentLoaded", function(){
+$("#hotFix-openRegistrationOnNotUserStateButton").parent("li").hide();
+$(document).delegate("[href*='registration']:not([data-registration-in-popup])", "click", function (e) {
+
+if($("html").hasClass("client-layout")){
+  return true;
+}
+
+var url = $(this).attr("href");
+if ($.deparam.querystring(url)[".box"] === undefined) {
+   url =  $.param.querystring(url, { ".box": "1" });
+}
+if ($.deparam.querystring(url)["_layout"] === undefined) {
+   url = $.param.querystring(url, { _layout: "layouts/portaloverlaylayout" });
+}
+$.bwin.showPopup(url);
+e.preventDefault();
+});
+console.log("hotFix-openRegistrationOnNotUserStateButton  was applied");
+	
+});
 </script>
             </li>
         </ul>
@@ -152,9 +887,9 @@ console.log("hotFix-loginpopup_position  was applied");
 <li class="usr-form" id="auth-form-container">
 
 
-<form action="/en/authentication/login/index" autocomplete="off" method="post"><input name="__RequestVerificationToken" type="hidden" value="TC0AkXggrj6_Zup2oPnE6Xj33V0P4DBN9qxu7Ssh9HooSdDvbn9jrVXuxawJ-Wo2WTdWMw2"><input id="productId" name="productId" type="hidden" value=""><input id="channelId" name="channelId" type="hidden" value=""><input id="isInterceptorOverlay" name="isInterceptorOverlay" type="hidden" value="False">            <a href="/en/authentication/login/index?ReturnUrl=http%3A%2F%2Fwww.partycasino.com%2Fen%2Fp%2Flegal%2Fprivacy-policy&amp;IsEmbeddedPopUpPage=True" class="btn-s1 dialog-link" data-dialog-width="500" data-dialog-height="260" title="Log in">Log in</a>
+<form action="/en/authentication/login/index" autocomplete="off" method="post"><input name="__RequestVerificationToken" type="hidden" value="pep33ICytRoYzHaO4sTqKZ57tWG9KecUAO2XlR8wFtsxog3PnqKDy3wx4L4cOM0L75z4hA2"><input id="productId" name="productId" type="hidden" value=""><input id="channelId" name="channelId" type="hidden" value=""><input id="isInterceptorOverlay" name="isInterceptorOverlay" type="hidden" value="False">            <a href="/en/authentication/login/index?ReturnUrl=http%3A%2F%2Fwww.partycasino.com%2Fen%2Fp%2Flegal%2Fprivacy-policy&amp;IsEmbeddedPopUpPage=True" class="btn-s1 dialog-link" data-dialog-width="500" data-dialog-height="260" title="Log in">Log in</a>
 </form>
-</li>            <li><a class="usr- btn-s3 register .registration-in-popup" data-registration-in-popup="true" href="https://www.partycasino.com/en/registration?_layout=layouts%2fportaloverlaylayout&amp;.box=1">Sign Up</a></li>
+</li>            <li><a class="usr- btn-s3 register .registration-in-popup" data-registration-in-popup="true" href="https://www.partycasino.com/en/registration?_layout=layouts%2fportaloverlaylayout&amp;.box=1&amp;wm=3066900">Sign Up</a></li>
             <li><a class="usr-link" href="https://www.partycasino.com/en/account/contact">Help</a></li>
 
 </ul>
@@ -167,9 +902,10 @@ console.log("hotFix-loginpopup_position  was applied");
     <div class="header-bar">
         <div class="product-navigation" data-trid-zone="ProductNav">
             <ul>
-            <li><a href="https://casino.partycasino.com/en/casino/home" title="Get the real casino feeling with our fantastic games">Games</a></li>
+            <li><a href="https://casino.partycasino.com/en/casino/home" title="Get the real casino feeling with our fantastic games">Casino</a></li>
+            <li><a href="https://www.partycasino.com/en/p/promotions">Offers</a></li>
             <li><a class="displaymenuitems" href="https://casino.partycasino.com/en/casino/p/download" title="Download">Download</a></li>
-            <li><a href="https://www.partycasino.com/en/p/loyalty" title="Loyalty">Loyalty</a></li>
+            <li><a href="https://www.partycasino.com/en/p/cashback" title="Cashback">Cashback</a></li>
             <li><a href="https://www.partycasino.com/en/p/vip" title="VIP">VIP</a></li>
             <li><a href="https://www.partycasino.com/en/p/why-choose-us" title="Why Choose Us">Why Choose Us</a></li>
 
@@ -181,6 +917,7 @@ console.log("hotFix-loginpopup_position  was applied");
             </div>
 
         <div id="plugin-wrapper">
+
             <div id="main-wrap" class="container">
                 
 
@@ -596,8 +1333,8 @@ console.log("hotFix-loginpopup_position  was applied");
         
 <div class="content-message-container">
         <div class="content-message" data-id="logo" data-closed-cookie-key="fm" data-show-on-next-session="False">
-                        <div class="pc-image px-1 no-margin pc-component">    <section>
-<img src="https://scmedia.itsfogo.com/$-$/df8fb1ed03204ee1a1d66eccfd72cbfa.png" alt="partycasino-logo-w141" width="141" height="18">    </section>
+                        <div class="pc-image pt-1 no-margin pc-component">    <section>
+<img src="https://scmedia.partycasino.com/$-$/df8fb1ed03204ee1a1d66eccfd72cbfa.png" alt="partycasino-logo-w141" width="141" height="18">    </section>
 </div>
         </div>
 </div>
@@ -639,6 +1376,10 @@ console.log("hotFix-loginpopup_position  was applied");
                 <div class="meta-navigation">
                     <h4><span>Useful Links</span></h4>
                     <ul>
+	<li><a href="https://www.partycasino.com/en/p/reload-bonuses">What are Bonuses?</a>
+	</li>
+	<li><a href="https://www.partycasino.com/en/p/free-spins">What are Free Spins?</a>
+	</li>
 	<li><a href="https://www.partycasino.com/en/p/legal/responsible-gaming" title="Responsible Gaming">Responsible Gaming</a>
 	</li>
 	<li><a href="https://www.partycasino.com/en/p/about-us" title="About us">About us</a>
@@ -656,6 +1397,8 @@ console.log("hotFix-loginpopup_position  was applied");
 	</li>
 	<li><a href="https://www.partycasino.com/en/p/legal/game-fairness" title="Game Fairness">Game Fairness</a>
 	</li>
+	<li><a href="https://www.partycasino.com/en/p/Compliance/SystemFairness" title="System Fairness">System Fairness</a>
+	</li>
 	<li><a href="https://www.partycasino.com/en/p/legal/privacy-policy" title="Privacy Policy">Privacy Policy</a>
 	</li>
 	<li><a href="https://www.partycasino.com/en/p/legal/privacy-policy#cookies" title="Cookies">Cookies</a>
@@ -672,6 +1415,7 @@ console.log("hotFix-loginpopup_position  was applied");
                         <li><span>English</span></li>
                         <li><a href="/de/p/legal/privacy-policy">Deutsch</a></li>
                         <li><a href="/ru/p/legal/privacy-policy">русский</a></li>
+                        <li><a href="/en-ca/p/legal/privacy-policy">English (Canada)</a></li>
                 </ul>
             </div>
     </div>
@@ -684,7 +1428,7 @@ console.log("hotFix-loginpopup_position  was applied");
     <img title="iTech Labs" alt="iTech Labs" src="https://scmedia.itsfogo.com/$-$/ef1a3e751ba649038d73e953ba99008f.png">
 </a>
 
-<a href="//www.egba.eu/" title="EGBA" alt="EGBA" target="_blank">
+<a href="http://www.egba.eu/" title="EGBA" alt="EGBA" target="_blank">
     <img title="EGBA" alt="EGBA" src="https://scmedia.itsfogo.com/$-$/aa00e8eb57044d5ca8d7e520c162ebe0.png">
 </a>
 
@@ -692,11 +1436,11 @@ console.log("hotFix-loginpopup_position  was applied");
     <img title="Remote Gambling | Government of Gibraltar" alt="Remote Gambling | Government of Gibraltar" src="https://scmedia.itsfogo.com/$-$/6a6a0aa110de4875b1f7229615efca90.png">
 </a>
 
-<a href="//www.ecogra.org/certificates/certificate.aspx?cid=250" title="eCogra" alt="eCogra" target="_blank">
+<a href="http://www.ecogra.org/certificates/certificate.aspx?cid=250" title="eCogra" alt="eCogra" target="_blank">
     <img title="eCogra" alt="eCogra" src="https://scmedia.itsfogo.com/$-$/6c18e95723da4cb796c4958298e465e4.png">
 </a>
 
-<a href="//www.gamblingcommission.gov.uk/home.aspx" title="Gambling Commission" alt="Gambling Commission" target="_blank">
+<a href="http://www.gamblingcommission.gov.uk/home.aspx" title="Gambling Commission" alt="Gambling Commission" target="_blank">
     <img title="Gambling Commission" alt="Gambling Commission" src="https://scmedia.itsfogo.com/$-$/f38d3330667d4d01b5c6d1676315d292.png">
 </a>
             </div>
@@ -727,6 +1471,99 @@ console.log("hotFix-loginpopup_position  was applied");
 
         
 <div class="content-message-container">
+        <div class="content-message" data-id="currencyconvertor" data-closed-cookie-key="fd" data-show-on-next-session="False">
+                        <div class="pc-text pc-component">        <section class="text"><script>
+function toCurrency(theValue, symbol, position, separator){
+  theSymbol = symbol;
+  digits = theValue.toFixed(0).split(".");//change the toFixed() number to add decimals
+  if(symbol == "$"){
+    if(theValue.toString().length > 4) {
+      digits[0] = digits[0].split("").reverse().join("").replace(/(\d{3})(?=\d)/g, "$1"+ separator ).split("").reverse().join("");
+    }else{
+      digits[0] = digits[0].split("").reverse().join("").replace(/(\d{4})(?=\d)/g, "$1"+ separator ).split("").reverse().join("");
+    }
+  }else{
+    digits[0] = digits[0].split("").reverse().join("").replace(/(\d{3})(?=\d)/g, "$1"+ separator ).split("").reverse().join("");
+  }
+  
+  if(position == "end"){
+    var finishedVal = digits.join(".") + ' ' + theSymbol;
+  } else{
+    finishedVal = theSymbol + digits.join(".");
+  }  
+  return finishedVal;
+}
+var forEachCurrency = function (array, callback, scope) {
+  for (var i = 0; i < array.length; i++) {
+    callback.call(scope, i, array[i]); // passes back stuff we need 
+  }
+};
+
+var parseQueryString = function(url) {
+  var urlParams = {};
+  url.replace(
+    new RegExp("([^?=&]+)(=([^&]*))?", "g"),
+    function($0, $1, $2, $3) {
+      urlParams[$1] = $3;
+    }
+  );
+  return urlParams;
+}
+var urlToParse = location.search;  
+var result = parseQueryString(urlToParse);
+if(result.currency) {
+ var curentcurrency = result.currency;
+} else{
+  var curentcurrency = "USD" ; //dynamic currency change this base on the currency
+}
+var curentcurrencyall = document.querySelectorAll('.cformat');
+changeCurrency();
+function changeCurrency() {
+
+  forEachCurrency(curentcurrencyall, function (i, z) {
+    
+    var valcurrency = z.getAttribute('data-currency');
+    var curentcurrencyvall = valcurrency.split('|');
+
+    if(curentcurrency == 'GBP') {
+      var convertText = toCurrency(Number(curentcurrencyvall[2]),"£","start",",")
+    }else if(curentcurrency == 'EUR'){
+      var convertText = toCurrency(Number(curentcurrencyvall[1]),"€","end",".")
+    } else{
+      var convertText = toCurrency(Number(curentcurrencyvall[0]),"$","start", " ")
+    } 
+
+    z.textContent  = convertText;  
+
+  });
+
+}
+</script></section>
+</div>
+        </div>
+        <div class="content-message" data-id="hotfix_inboxclaimnow" data-closed-cookie-key="fd" data-show-on-next-session="False">
+                        <div class="pc-text display-none pc-component">        <section class="text"><script id="hotFix-classicDepositPageOnInboxDisclaimer">
+document.addEventListener("DOMContentLoaded", function () {
+    $(document).delegate("#playerInbox #ClaimButton", "click", function (e) {
+        if (document.activeElement.outerHTML.toString().indexOf("BONUS_OFFER") !== -1 &&
+            document.activeElement.outerHTML.toString().indexOf("false") !== -1) {
+            var bzindex = document.activeElement.outerHTML.toString().split(',').length - 2;
+            var bzlen = document.activeElement.outerHTML.toString().split(',')[bzindex].length;
+            var inboxbonuscode = document.activeElement.outerHTML.toString().split(',')[bzindex].substring(1, bzlen - 1);
+            document.activeElement.setAttribute('data-bonuscode', inboxbonuscode);
+            event.preventDefault();
+            $.bwin.depositPopup.showDepositPopup({ element: $(document.activeElement) });
+            var localScope = $(event.target).scope();
+            localScope.$parent.$apply(function () {
+                localScope.$parent.vm.showInboxViewer = false;
+            });
+        }
+       console.log("hotFix-classicDepositPageOnInboxDisclaimer  was applied");
+    });
+});
+</script></section>
+</div>
+        </div>
         <div class="content-message" data-id="hotfixforloyaltyiframe" data-closed-cookie-key="fd" data-show-on-next-session="False">
                         <div class="pc-text pc-component">        <section class="text"><style>
 #withdraw-frame {
@@ -736,27 +1573,26 @@ height: 505px !important;
 </style></section>
 </div>
         </div>
-        <div class="content-message" data-id="live-chat-styles" data-closed-cookie-key="fd" data-show-on-next-session="False">
-                        <div class="pc-text display-none pc-component">        <section class="text"><style>.live-chat-section.live-chat-disabled{ display:none !important; }.live-contact-section.live-chat-disabled{ display:block !important; }.live-contact-section{ display:none !important; }.live-chat-flexsection.live-chat-disabled{ display:none !important; }.live-chat-flexsection{ display:flex !important; }.live-contact-flexsection.live-chat-disabled{ display:flex !important; }.live-contact-flexsection{ display:none !important; }</style></section>
+        <div class="content-message" data-id="inboxcolorfix" data-closed-cookie-key="fd" data-show-on-next-session="False">
+                        <div class="pc-text pc-component">        <section class="text"><style>
+.contrast-bg p {
+    color: #000!important;
+}
+.inbox .read-section b, .inbox .read-section strong {
+    color: #000;
+}
+#playerinbox .inbox .read-section .text ul, #playerinbox .inbox .read-section .text ol {
+    display: block!important;
+}
+#playerinbox  .read-section .button.pm-right {
+    float: none;
+}
+
+</style></section>
 </div>
         </div>
-        <div class="content-message" data-id="pullchathack" data-closed-cookie-key="fd" data-show-on-next-session="False">
-                        <div class="pc-text pc-component">        <section class="text"><script type="text/javascript">
- window.addEventListener("message",
-      function (e) {
-          var message = $.deparam(unescape(e.data)) || {};
-           
-          if (message.action === "openPullChat") {
-              $.bwin.chatToolbox.openPullChat();
-          }
-
-          if (message.action === 'linkPopup') {
-              var chatWindow = e.source;
-              window.chatWindowService.windowObj = chatWindow;
-          }
-      },
-  false);
-</script></section>
+        <div class="content-message" data-id="live-chat-styles" data-closed-cookie-key="fd" data-show-on-next-session="False">
+                        <div class="pc-text display-none pc-component">        <section class="text"><style>.live-chat-section.live-chat-disabled{ display:none !important; }.live-contact-section.live-chat-disabled{ display:block !important; }.live-contact-section{ display:none !important; }.live-chat-flexsection.live-chat-disabled{ display:none !important; }.live-chat-flexsection{ display:flex !important; }.live-contact-flexsection.live-chat-disabled{ display:flex !important; }.live-contact-flexsection{ display:none !important; }</style></section>
 </div>
         </div>
 </div>
@@ -774,7 +1610,7 @@ height: 505px !important;
     
     <script data-rel="trackerIds" type="application/json">["trackerid","wmid","wm"]</script>
     
-    <script src="/assets/account/scripts/bundles/account.bundle.z4rDR8.js" type="text/javascript"></script>
+    <script src="/assets/account/scripts/bundles/account.bundle.Ke6Jix.js" type="text/javascript"></script>
 <script type="text/javascript">
 (function($){"use strict"; $(document).ready(function() {
 var cookieName="clsd-itms",options={domain:".partycasino.com",secure:!0,path:"/",expires:365};$(".info-message .info-message-close").click(function(n){var r,i,t;(n.preventDefault(),n.stopPropagation(),r=$(this).parents(".info-message"),i=r.data("item"),r.remove(),i!="")&&($(document).trigger("closeInfoMessage"),t=$.cookie(cookieName),t=t==undefined?i:t+i,$.cookie(cookieName,t,options))})
