@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collegefuckfest.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506205023id_/http%3A//realgfs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegefuckfest.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024174049id_/http%3A//collegefuckfest.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY STATEMENT
 
-**REALGFS.COM**  
+**COLLEGEFUCKFEST.COM**  
 
 
 **PRIVACY POLICY STATEMENT**  
