@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seewalds.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324135612id_/http%3A//www.seewalds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seewalds.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024025908id_/http%3A//www.seewalds.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — The Seewald Family
+# Privacy Policy — Seewalds.com
 
 ### What information do we collect?
 
@@ -14,28 +14,28 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience -- your information helps us to better respond to your individual needs
+  * To personalize your experience -- your information helps us to better respond to your individual needs.
 
-  * To improve our website -- we continually strive to improve our website offerings based on the information and feedback we receive from you
+  * To improve our website -- we continually strive to improve our website offerings based on the information and feedback we receive from you.
 
-  * To improve customer service -- your information helps us to more effectively respond to your customer service requests and support needs
+  * To improve customer service -- your information helps us to more effectively respond to your customer service requests and support needs.
 
   * To process transactions -- Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
   * To administer a contest, promotion, survey or other site feature.
 
-  * To send periodic emails -- The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+  * To send periodic emails -- The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional news, updates, related product or service information, etc.
 
 
 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, We include detailed unsubscribe instructions at the bottom of each bulk-sent email. Emails that are not bulk may not have unsubscribe links on them.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each bulk-sent email. Emails that are not bulk may not have unsubscribe links on them.
 
 ### How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and, if applicable, then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -51,7 +51,7 @@ If you prefer, you can choose to have your computer warn you each time a cookie 
 
 ### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information without your consent. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information without your consent. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ### Third party links
 
@@ -63,7 +63,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 ### Children's Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not knowingly collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 ### Online Privacy Policy Only
 
@@ -71,7 +71,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [seewalds.com/terms](http://www.seewalds.com/terms).
+Please also visit our [Terms and Conditions](https://web.archive.org/terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [seewalds.com/terms](http://www.seewalds.com/terms).
 
 ### Your Consent
 
@@ -81,7 +81,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on September 22, 2015
+This policy was last modified on October 11, 2017
 
 ### Contacting Us
 
