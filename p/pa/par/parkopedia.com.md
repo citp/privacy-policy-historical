@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the parkopedia.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025042046id_/http%3A//en.parkopedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkopedia.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024163915id_/https%3A//www.parkopedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  * [About Us](https://web.archive.org/about-us/)
-  * [FAQ](https://web.archive.org/faq/)
-  * [Testimonials](https://web.archive.org/testimonials/)
-  * [Contact Us](https://web.archive.org/contact-us/)
-  * [Twitter](https://web.archive.org/external/http://twitter.com/parkopedia)
-
-
 
 This Privacy Policy (the "Policy") is inferred into the Terms and Conditions of the Website. Therefore the User must read and agree to this Policy prior to using the services provided by the Website. This Policy applies to all of the services offered by the Website. If you have any queries regarding this Policy please [contact us](https://web.archive.org/contact-us/) prior to using any of the services.
 
@@ -27,21 +19,21 @@ To enable the Website to perform the full range of services the Website may coll
 
 **1.4** \- Communications. When any communication, of any form, electronic or non electronic, is sent to the Website, the website may retain these communication in order to keep an accurate history of all correspondence which will help the Website provide the User with a complete and through service.
 
-**1.5** \- Associated Sites. The Website may from time to time use its services in connection with other web sites. Personal information that is provide to those sites may be sent to the Website in order to deliver the best service possible. Any information gathered in this way is processed in accordance with this Policy. 
+**1.5** \- Associated Sites. The Website may from time to time use its services in connection with other web sites. Personal information that is provided to those sites may be sent to the Website in order to deliver the best service possible. Any information gathered in this way is processed in accordance with this Policy. 
 
 2\. The User's Choice
     
 
-When a User registers for the service he provides his Registration Details (as defined in the Terms and Conditions) if the Website intends to use the Registration Details in a manner different than the purpose for which it was collected, then the Website will seek the Users prior permission. Such permission maybe declined, in which case the Website may not be able to provide those services to you.
+When a User registers for the service he provides his Registration Details (as defined in the Terms and Conditions). If the Website intends to use the Registration Details in a manner different than the purpose for which it was collected, then the Website will seek the User's prior permission. Such permission may be declined, in which case the Website may not be able to provide those services to you.
 
 3\. Personal Information
     
 
 The Website will only share personal information with a third party in the following instances:
 
-**3.1** \- the Website has the Users permission. The Website requires that the User opt-in for the sharing of any sensitive personal information as stated in this Policy at clause 2.
+**3.1** \- the Website has the User's permission. The Website requires that the User opt-in for the sharing of any sensitive personal information as stated in this Policy at clause 2.
 
-**3.2** \- The Website have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to
+**3.2** \- The Website has a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to
 
 **3.2.1** \- satisfy any applicable law, regulation, legal process or enforceable governmental request, enforce applicable [Terms and Conditions](https://web.archive.org/terms-and-conditions/), including investigation of potential violations thereof,
 
@@ -57,13 +49,3 @@ The Website will only share personal information with a third party in the follo
     
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [contact us](https://web.archive.org/contact-us/).
-
-5\. Payments
-    
-
-We do not store credit card details.
-
-6\. Changes to the Policy
-    
-
-The Website may amend the Policy from time to time. If we make any material changes to the Policy, Users will be notified by a prominent message on the website.
