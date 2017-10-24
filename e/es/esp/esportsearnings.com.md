@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esportsearnings.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312030824id_/http%3A//www.esportsearnings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esportsearnings.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024235800id_/https%3A//www.esportsearnings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: e-Sports Earnings
 
@@ -83,8 +83,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Twitter: @GGBeyond  
 Email: inquiry -at- esportsearnings.com
-
-Last updated January 11, 2017
 
   
 
