@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.oh.us privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612051624id_/http%3A//state.oh.us/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.oh.us privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024025555id_/http%3A//state.oh.us/policies) for the most accurate reproduction.*
 
 # Ohio.gov | Policies | Privacy Notice
 
