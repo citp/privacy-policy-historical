@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the easyauctionjapan.com privacy policy that was archived on 2017-03-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170307121027id_/http%3A//www.easyauctionjapan.com/Privacy_Policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyauctionjapan.com privacy policy that was archived on 2017-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171024121842id_/https%3A//www.easyauctionjapan.com/Privacy_Policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/Product"><head>
         <meta name="verify-v1" content="pKphm41FOdpwOlwkNJfcCYy/tnT2dhP3CGRpbmmqCNg=">
@@ -78,29 +78,30 @@
 				} 
 				else {
 					language="en";
+				}				 
+				   
+				if (site == "A"){
+					window.location="search.php?key="+searchstrvalue+"&new="+newvalue+"&typeofshop="+typeofshopvalue+"&signenglish="+signenglishvalue+"&jte="+jtevalue + "&language="+language ;
 				}
-				
-				if (site == "E"){
+				else if (site == "E"){
 					window.location = "./mbokCategory.php?desc=" + searchstrvalue + "&catId=" + mbok_searchindex;
 				}
-				else{
-						if(site == "C"){
-							window.location="shopping_yahoo.php?key="+searchstrvalue+"&category_id="+category_id;
-						}
-						else if(site == "D"){
-							window.location="amazon_search.php?key="+searchstrvalue+"&category_id="+amazon_searchindex;
-						}
-						else{ 
-							window.location="search.php?key="+searchstrvalue+"&new="+newvalue+"&typeofshop="+typeofshopvalue+"&site="+site+"&rakuten="+rakuten+"&signenglish="+signenglishvalue+"&jte="+jtevalue + "&language="+language ;
-						}
-				}		
+				else if(site == "B"){
+					window.location="shopping_raku_search.php?key="+searchstrvalue+"&pg=1&rakuten="+rakuten;
+				}
+				else if(site == "C"){
+					window.location="shopping_yahoo_search.php?key="+searchstrvalue+"&category_id="+category_id;
+				}
+				else if(site == "D"){
+					window.location="shopping_amazon_search.php?key="+searchstrvalue+"&category_id="+amazon_searchindex;
+				}	 			 		
 			}
 		</script>
 <link rel="stylesheet" type="text/css" href="js/jquery/autolist/css/jquery.autolist.css"></head>
 <body>		
 
 	<div style="width:100%; height:50px;  text-align:center; margin:0 auto; background-color:#F842B1; ">
-		<a href="http://www.easyauctionjapan.com/news.php">
+		<a href="https://www.easyauctionjapan.com/news.php">
 	    	<img style=" height:50px;" src="themes/default/images/ad_20151121.gif" alt="">
 		</a>
 	</div>
@@ -145,7 +146,7 @@
 		</div>
 		
 		
-	 	<form action="http://www.easyauctionjapan.com/search.php" name="searchform" id="searchform" method="post">
+	 	<form action="https://www.easyauctionjapan.com/search.php" name="searchform" id="searchform" method="post">
             <table style=" height:40px; vertical-align:top; margin:0px; border-spacing:0px;  border-collapse:collapse; table-layout:fixed;">
                 <tbody><tr>
                     <td>
@@ -162,7 +163,7 @@
                         </ul>
                     </td>
                     <td style="width:120px; text-align:center;">
-	                    &nbsp;<font style="color:#0d3a74;">March 07 2017<br>Tuesday 21:10</font>
+	                    &nbsp;<font style="color:#0d3a74;">October 24 2017<br>Tuesday 21:18</font>
                     </td>
                 </tr>
             </tbody></table>
@@ -171,11 +172,11 @@
 
 		 	<div class="shallow" style="width:900px;">
    		<select name="site" id="site" onchange="changelocations(this.value)">
-        <option value="A">yahoo auction</option>
-        <option value="E">Mbok auction</option>
-        <option value="C">yahoo shopping</option>
-        <option value="B">rakuten</option>
-        <option value="D">amazon</option>
+	        <option value="A">yahoo auction</option>
+	        <option value="E">Mbok auction</option>
+	        <option value="C">yahoo shopping</option>
+	        <option value="B">rakuten</option>
+	        <option value="D">amazon</option>
         </select>
         <select name="new" id="new">
      		<option value="0">Auction ID Search</option>
@@ -525,13 +526,13 @@ padding:2px 0;
 
 		/*if (null == popWindow){
 
-		popWindow = window.open('http://www.easyauctionjapan.com/Translate.htm','Calculat','width=650,height=500');
+		popWindow = window.open('https://www.easyauctionjapan.com/Translate.htm','Calculat','width=650,height=500');
 
 		}else{
 
 		popWindow.close();*/
 
-		 window.open('http://www.easyauctionjapan.com/Translate.htm','','width=650,height=500');
+		 window.open('https://www.easyauctionjapan.com/Translate.htm','','width=650,height=500');
 
 		//}
 
@@ -543,13 +544,13 @@ padding:2px 0;
 
 		/*if (null == popcalObj){
 
-		popcalObj = window.open('http://www.easyauctionjapan.com/Calculat.htm','cal','width=620,height=750');
+		popcalObj = window.open('https://www.easyauctionjapan.com/Calculat.htm','cal','width=620,height=750');
 
 		}else{
 
 		popcalObj.close();*/
 
-		 window.open('http://www.easyauctionjapan.com/calculatPage.php','','width=620,height=750');
+		 window.open('https://www.easyauctionjapan.com/calculatPage.php','','width=620,height=750');
 
 		//}
 
@@ -571,21 +572,21 @@ padding:2px 0;
                  <span style="padding-left:55px;"> <g:plusone size="small"></g:plusone></span>
                 </span><span style="color:#000000;">Japan auction , eBay Japan</span>
         <div class="fmenu" style="text-align:center;">
-          <a href="http://www.easyauctionjapan.com/sub_Aboutus.php" title="About Us" hidefocus="true">About Us</a> | 
+          <a href="https://www.easyauctionjapan.com/sub_Aboutus.php" title="About Us" hidefocus="true">About Us</a> | 
 
           <a href="mypage.php?act=Transactionlist&amp;Steps=Run/Outbid/Canseled auction, Purchase Order" title="Your Account " hidefocus="true">Your Account </a> | 
 
-          <a href="http://www.easyauctionjapan.com/teams.php" title="User Agreement" hidefocus="true">User Agreement &amp; Disclaimer</a> | 
+          <a href="https://www.easyauctionjapan.com/teams.php" title="User Agreement" hidefocus="true">User Agreement &amp; Disclaimer</a> | 
 
-          <a href="http://www.easyauctionjapan.com/Privacy_Policy.php" title="Privacy Policy" hidefocus="true">Privacy Policy</a> |
+          <a href="https://www.easyauctionjapan.com/Privacy_Policy.php" title="Privacy Policy" hidefocus="true">Privacy Policy</a> |
 
           <a href="sitemap.php" title=" Site Map" hidefocus="true"> Site Map</a> | 
 
-          <a href="http://www.easyauctionjapan.com/sub_Contact.php" title="Contact Us" hidefocus="true">Contact Us</a> |  
+          <a href="https://www.easyauctionjapan.com/sub_Contact.php" title="Contact Us" hidefocus="true">Contact Us</a> |  
 
           <a href="#" title="Search">Search  </a> | 
 
-          <a href="http://www.easyauctionjapan.com/sub_links.php" title=" Link"> Link  </a>         
+          <a href="https://www.easyauctionjapan.com/sub_links.php" title=" Link"> Link  </a>         
           </div>
 	  </div>
 
