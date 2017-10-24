@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lonak.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627014843id_/http%3A//lonak.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonak.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024231542id_/http%3A//lonak.com/privacy.asp) for the most accurate reproduction.*
 
-# Lonak - Privacy
+# Lonak - سیاست حفظ اسرار
 
 **  
 Lonak privacy policy**
