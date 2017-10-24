@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617062158id_/http%3A//www.copyright.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024182415id_/http%3A//www.copyright.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Copyright Clearance Center
 
 [](http://privacy.truste.com/privacy-seal/Copyright-Clearance-Center/validation?rid=a670a051-838d-4688-8877-e91e43bbe22d "TRUSTe online privacy certification")
 
-Effective: January 12, 2017
+Effective: July 20, 2017
 
 This privacy policy applies to www.copyright.com owned and operated by Copyright Clearance Center (“CCC”). This privacy policy describes how Copyright Clearance Center collects and uses the personal information you provide on our web site: www.copyright.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -30,8 +30,6 @@ If you have identified yourself, or are identified by your employer to CCC as be
 Please note that we may use outside shipping and printing companies to fulfill orders, and a credit card processing company to bill you for goods and services. These companies are not authorized by CCC to retain, share, store or use the personally identifiable information that they receive from CCC for any other purposes. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.
 
 Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to CCC.
-
-We reserve the right to disclose your personally identifiable information as required by law, such as to comply with a subpoena, or similar legal process and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process.
 
 If CCC is involved in a merger, acquisition, or sale of all or a portion of its assets you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
 
