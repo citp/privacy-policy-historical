@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydeals247.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920221907id_/http%3A//www.mydeals247.com/my_deals/privacy_policy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeals247.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024203617id_/http%3A//www.mydeals247.com/my_deals/privacy_policy) for the most accurate reproduction.*
 
-# MyDeals247 - Bargain Online, Paid Ads, Volume Deals, and Real-time Jobs
+# MyDeals247 - B2B Real-Time Marketplace | Bargain online
 
 Privacy Policy
 
@@ -8,19 +8,23 @@ Privacy Policy
 
 MyDeals247.com is owned and operated by MyDeals247 ECommerce Private Limited. This privacy policy describes how we handle your personal information. By using MyDeals247.com (the "Site") you consent to the storage, processing, transfer and disclosure of your personal information as described in this privacy policy. This policy is effective as of May 31, 2011. 
 
+Since myADs is a personalised advertisement platform, we ask the gender information to differentiate the ads (to be more specific). We don't use the gender information for any other purpose. It's a great value add for the users to see the relevant ads. 
+
 2\. Collection
 
 To receive notifications, updates or request additional information about MyDeals247 or this Site, we may collect the following information:
 
-  * name, contact information, email address, address, company and user ID;
-  * correspondence sent to or from us;
-  * Connecting with social networking sites such as Facebook, Twitter, LinkedIn and related
-  * any additional information you choose to provide; and
-  * other information from your interaction with our Site, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the Site, ad data, IP address and standard web log information.
+name, contact information, email address, address, company and user ID;
 
+correspondence sent to or from us;
 
+Connecting with social networking sites such as Facebook, Twitter, LinkedIn and related
 
-If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States.
+any additional information you choose to provide; and
+
+other information from your interaction with our Site, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the Site, ad data, IP address and standard web log information.
+
+If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the Singapore.
 
 3\. Tell-A-Friend / Buy it for a Friend or colleague or relative or someone whom you know
 
@@ -76,11 +80,6 @@ _Facebook Connect:_   The MyDeals247 Site allows users to access Facebook Conne
 
 Conversely, if you are not currently registered as a MyDeals247 user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join. Once you register on the MyDeals247 site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into "My Profile" and clicking on "My Facebook Profile." Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.
 
-_Notice of Privacy Rights to California Residents:_   California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the Act) and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request,   
-(1) the categories of Personally Identifiable Information we collect and what third parties we share that information with;  
-(2) the names and addresses of those third parties; and   
-(3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliated Businesses or Marketing Partners. The request should be sent to the attention of our legal department, and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.
-
 12.General
 
 We may update this policy at any time by posting amended terms on this site. All amended terms automatically take effect 2 days after they are initially posted on the site. For questions about this policy, email us at  support@MyDeals247.com. 
@@ -89,6 +88,15 @@ We may update this policy at any time by posting amended terms on this site. All
 
 If you come across any abuse or violation, please email us at  support@MyDeals247.com
 
-14.Contacting Us
+14.Grievance Officer
 
-Whether youre a new or loyal customer, business owner, marketer, publisher, media member or job seeker we did like to stay connected and want to hear from you! Please write us at  support@MyDeals247.com
+In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below: 
+
+Mr.Vamsi Krishna MyDeals247 Ecommerce Private Limited, 2nd floor, Vasanth nagar Bangalore- 560056.Karnataka,India Phone: +91- 9019086171
+
+**Email:** vkrishna@mydeals247.com  
+**Time:** Mon – Fri (9:00 AM – 6:00 PM) 
+
+15.Contacting Us
+
+Whether youre a new or loyal customer, business owner, marketer, publisher, media member we we'd like to stay connected and want to hear from you! Please write us at  support@MyDeals247.com
