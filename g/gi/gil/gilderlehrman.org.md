@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilderlehrman.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623120717id_/http%3A//gilderlehrman.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilderlehrman.org privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024143242id_/http%3A//gilderlehrman.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Gilder Lehrman Institute of American History
 
@@ -96,5 +96,5 @@ The Gilder Lehrman Institute of American History
 49 West 45th Street, 6th Floor  
 New York, New York 10036  
 United States  
-Email: [info@gilderlehrman.org](mailto:info@gilderlehrman.org)  
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aac3c4ccc5eacdc3c6cecfd8c6cfc2d8c7cbc484c5d8cd)  
 Phone: 646-366-9666
