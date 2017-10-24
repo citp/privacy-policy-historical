@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the h2owirelessnow.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228163304id_/https%3A//www.h2owirelessnow.com/mainControl.php%3Fpage%3DPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h2owirelessnow.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024062234id_/https%3A//www.h2owirelessnow.com/mainControl.php%3Fpage%3DPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | H2O Wireless
 
