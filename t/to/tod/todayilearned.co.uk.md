@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayilearned.co.uk privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623170143id_/http%3A//www.todayilearned.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayilearned.co.uk privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024184939id_/http%3A//www.todayilearned.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Today I Learned Something New
 
