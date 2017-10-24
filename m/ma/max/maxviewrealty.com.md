@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxviewrealty.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043612id_/http%3A//www.maxviewrealty.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxviewrealty.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024032109id_/http%3A//www.maxviewrealty.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Shanghai house for rent, Expats Living in Shanghai, - Maxview Realty
 
