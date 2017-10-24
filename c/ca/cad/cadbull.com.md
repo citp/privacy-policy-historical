@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cadbull.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624013040id_/http%3A//cadbull.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadbull.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024131040id_/http%3A//cadbull.com/privacy-policy) for the most accurate reproduction.*
 
 # Cadbull | Privacy policy
 
-Thank you for visiting the [www.Cadbull.com](https://web.archive.org/web/20170624013040id_/http%3A//cadbull.com/www.Cadbull.com). Cadbull  has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the Cadbull site.
+Thank you for visiting the [www.Cadbull.com](https://web.archive.org/web/20171024131040id_/http%3A//cadbull.com/www.Cadbull.com). Cadbull  has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the Cadbull site.
 
 By using the Cadbull site and accepting the User Agreement you also agree to this Privacy Policy. If you do not agree to this Privacy Policy, you must not use the Cadbull site. This policy covers how we use your personal information.
 
