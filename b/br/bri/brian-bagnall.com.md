@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brian-bagnall.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015181603id_/http%3A//brian-bagnall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brian-bagnall.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024050005id_/http%3A//brian-bagnall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Brian-Bagnall.com
 
@@ -8,8 +8,9 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 **Personal Information Our Company Collects and How It Is Used**
 
-**Introduction:** Our Company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.  
-Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances.
+**Introduction:** Our Company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+
+**Registration:** Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances.
 
 However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion.
 
@@ -68,9 +69,9 @@ If you have additional questions, comments or concerns, please contact us by ope
 You may also mail your concerns to us at the following address:
 
 Bagnall & Associates, LLC  
-340 S. Lemon Ave.  
-Suite 2241  
-Walnut, CA 91789  
+2885 Sanford Ave. SW  
+Suite 36097  
+Grandville, MI 49418  
 USA
 
-Last updated: March 10, 2015
+Last updated: August 17, 2017
