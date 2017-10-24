@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the finditclassifieds.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114132404id_/http%3A//finditclassifieds.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finditclassifieds.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024102608id_/http%3A//finditclassifieds.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Find It Classifieds | Privacy Policy
 
-Effective **08/05/2009**
+Updated **09/04/2017**
 
-**Privacy Notice Table Of Contents:**
+ **Privacy Notice Table Of Contents:**
 
   * Our Commitment To Privacy
   * The Information We Collect
@@ -36,6 +36,8 @@ Phone number
 **The Way We Use Information:**
 
 We use the information you provide about yourself when placing an ad only to sell your item or service. We do not share this information with outside parties except to advertise your ad on our site. 
+
+It is our general governing principal is not to retain unnecessary data. As a result, our policies dictate that stale accounts older than 360 days and advertisements beyond 90 days be automatically deleted to reduce our data storage requirements unless requested law enforcement. Simply put, we are low budget and don't care to retain your ad old data because that gets expensive and don't and we don't share it.
 
 You can register with our website if you would like to have the ability to modify or mark ads as sold. Information you submit on our website will not store passed the expiration date of your ad unless you fill out the registration form. 
 
