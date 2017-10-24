@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chucktv.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630200043id_/http%3A//chucktv.net/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chucktv.net privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024030751id_/http%3A//chucktv.net/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ChuckTV.net
 
