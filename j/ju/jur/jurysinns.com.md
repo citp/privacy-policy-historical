@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326071056id_/https%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024091424id_/https%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
 
 # Jurys Inn | Privacy & Security Policy
 
