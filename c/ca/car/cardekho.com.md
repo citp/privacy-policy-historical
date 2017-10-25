@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the cardekho.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624093953id_/https%3A//www.cardekho.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardekho.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025020111id_/https%3A//www.cardekho.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarDekho.com
 
-Girnar Software Private Limited and its affiliates, subsidiaries & associate companies as mentioned in this Privacy Policy (hereinafter referred individually and/ or collectively as “ **Girnar** ) is/are concerned about the privacy of the data and information of the users accessing, offering, selling or purchasing products or services on **Girnar** websites, mobile sites or mobile applications or otherwise doing business with **Girnar**. This Privacy Policy applies to **Girnar** which includes all its affiliates, subsidiaries & associate companies and help you understand how we collect, use, store, process, transfer and protect all your information when you visit any of our Website (defined below) and use our products and services.
+Girnar Software Private Limited and its affiliates, subsidiaries & associate companies as mentioned in this Privacy Policy (hereinafter referred individually and/ or collectively as “ **Girnar** ) is/are concerned about the privacy of the data and information of the users accessing, offering, selling or purchasing products or services on **Girnar** websites, mobile sites or mobile applications or otherwise doing business with **Girnar**. This Privacy Policy help you understand how we collect, use, store, process, transfer and protect all your information when you visit any of our Website (defined below) and use our products and services.
 
 THIS PRIVACY POLICY IS AN ELECTRONIC RECORD IN THE FORM OF ELECTRONIC CONTRACT IN TERMS OF INFORMATION TECHNOLOGY ACT, 2000 AND RULES MADE THEREUNDER (AS AMENDED FROM TIME TO TIME) AND DOES NOT REQUIRE ANY PHYSICAL SIGNATURE OR SEAL.
 
-The term “We”/ “Us” / “Our” used in this document refer to **Girnar** and "You" / "Your" / "Yourself" refer to the users, who visit or access or use (collectively “usage”) any of **Girnar** website, mobile site and mobile application (individually and collectively, “Website”).
+This Privacy Policy is applicable to www.cardekho.com, “CarDekho” mobile application or mobile website (the “ **App** ”) and CarDekho chrome extension (the “ **Chrome Extension** ”, a CarDekho extension for the Google Chrome browser). 
+
+The term “We”/ “Us” / “Our” used in this document refer to **Girnar** or CarDekho and "You" / "Your" / "Yourself" refer to the users, who visit or access or use or avail any service or product (collectively “ **usage** ”) on or through website/mobile site/App/Chrome Extension (individually and collectively, “ **Website** ”).
 
 ## TERMS AND CONDITIONS:
 
@@ -40,9 +42,13 @@ We collect Your information during your usage to Website or when you avail any o
 
 We may receive Your Information from third parties such as social media, and in such case, the information We collect may include your user name associated with that social media, any information or content the social media has the right to share with us, such as your profile picture, email address or friends list, and any information you have made public in connection with that social media. When you access the Website or otherwise deal with any **Girnar** entity through social media, you are authorizing **Girnar** to collect, store, use and retain such information and content in accordance with the terms of this Privacy Policy.
 
-Non-personal information may be collected through various ways such through the use of cookies. **Girnar** may store temporary or permanent "cookies" on Your computer. You can erase or choose to block these cookies from Your computer. You can configure Your computer’s browser to alert You when we attempt to send You a cookie with an option to accept or refuse the cookie. If You have turned cookies off, You may be prevented from using certain features of the Website. Further, we may use third-party service providers to serve ads on Girnar behalf across the internet and sometimes on the Website. They may collect Non- personal information about Your visits to the Website, and Your interaction with the products and services on the Website.
+Information may be collected through various ways such through the use of cookies. **Girnar** may store temporary or permanent "cookies" on Your computer. "Cookies" are files situated on Your mobile/ computer/device's hard disk that assist Us in providing customised services. A cookie helps Us analyse Your preferences, for example, recording the number of times You have used the Website, and help us in tailoring Our services to suit Your interests. Further, there are certain features of the Website that are available only through the use of a "cookie". These "cookies" may be used whether You register on the Website or not. You can erase or choose to block these cookies from Your computer. You can configure Your computer’s browser to alert You when we attempt to send You a cookie with an option to accept or refuse the cookie. If You have turned cookies off, You may be prevented from using certain features of the Website. Further, we may use third-party service providers to serve ads on **Girnar** behalf across the internet and sometimes on the Website. They may collect Non- personal information about Your visits to the Website, and Your interaction with the products and services on the Website. 
 
 Your Information will mostly be stored in electronic form however certain data may be stored in physical form. We may store, collect, use and process Your Information in countries other than Republic of India subject to compliance under applicable laws. We may enter into agreements with third parties (in or outside of India) to store or process Your Information and such third parties may have their own security measures to safeguard Your Information.
+
+**Browser Add-on:** Add-on or Extensions are software programs that can modify and/or enhance the functionality of browsers. You can add CarDekho Extensions to your browser (Chrome, Firefox etc.) for a more personalised experience like better price comparison, trending products, price drop alerts, exclusive coupons, etc. Add-on / Extension can access your data on all the websites you visit, the tabs and the browsing activity of the browser. Add-on / Extension is stored locally to provide a better user experience for You. We would capture Your email address so as to notify You with relevant information. We would also capture other details to provide You a better user experience. 
+
+When You add CarDekho to Google Chrome as Chrome Extension, You explicitly permit Us as well as third parties, to the extent apply, to display notifications, read and change Your browsing history, read and change Your bookmarks, manage Your apps, extensions and themes, detect Your physical locations, read all Your data on the website and other changes.
 
 ### Purpose of Collection, Storage, Processing:
 
@@ -58,6 +64,8 @@ Your Information will mostly be stored in electronic form however certain data m
   * To implement information security practices, to determine any security breaches, contaminant or computer virus, to investigate/prevent/take action illegal activities and suspected fraud.
 
 
+
+You permit us to collect Chrome Extension usage statistics to help improve user experience and if You want to opt-out of Google Analytics tracking, the same can be done by visiting http://tools.google.com/dlpage/gaoptout or user can set up a filter in Adblock Plus or similar ad blocker tools like AdBlock, uBlock or Adblock Pro. 
 
 ### Sharing, Transfer or Disclosure:
 
@@ -121,14 +129,6 @@ Registered office address: F-130, GF, Street No.7, Pandav Nagar Delhi - 110091, 
 
   * 3)
 
-Girnarsoft Education Services Private Limited 
-
-CIN: U80302RJ2015PTC047265
-
-Registered office address: Girnar 21, Govind Marg, Moti Doongari Road, Dharm Singh Circle, Jaipur, Rajasthan- 302004, India 
-
-  * 4)
-
 Girnarsoft Automobiles Private Limited 
 
 CIN: U50300RJ2010PTC032194
@@ -148,7 +148,7 @@ If you have any concern related to this Privacy Policy or collection, storage, r
 : legal@girnarsoft.com
   * Telephone Number
 
-: 0124-6510130
+: 0124-3041400
   * Working Days
 
 : Monday to Friday
