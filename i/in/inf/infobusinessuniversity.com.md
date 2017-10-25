@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobusinessuniversity.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622183736id_/http%3A//e1kad.com/Legal/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobusinessuniversity.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025081747id_/http%3A//e1kad.com/Legal/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
