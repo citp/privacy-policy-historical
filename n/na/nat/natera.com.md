@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natera.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630235431id_/http%3A//natera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natera.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025031756id_/http%3A//www.natera.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Natera
 
