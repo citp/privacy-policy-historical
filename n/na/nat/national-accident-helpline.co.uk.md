@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national-accident-helpline.co.uk privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316100546id_/https%3A//www.national-accident-helpline.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national-accident-helpline.co.uk privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025025341id_/https%3A//www.national-accident-helpline.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | National Accident Helpline
 
@@ -82,12 +82,6 @@ To find out more about Hotjar’s privacy policy here: <https://www.hotjar.com/p
 2.4 We will keep your information for a period of 6 years (or such longer period as we deem reasonably necessary) after which we will take reasonable steps to remove and delete your information from our records and IT systems.
 
 ### 3\. Where we store your information
-
-3.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-3.2 All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-3.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 3.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
