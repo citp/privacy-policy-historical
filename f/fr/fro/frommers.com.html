@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the frommers.com privacy policy that was archived on 2017-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622133235id_/http%3A//www.frommers.com/about/about_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frommers.com privacy policy that was archived on 2017-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171025044513id_/http%3A//www.frommers.com/about/about_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <!-- STANDARD LAYOUT -->
@@ -10,20 +10,20 @@
   <link rel="icon" type="image/gif" href="http://www.frommers.com/favicon.gif">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <meta name="viewport" content="width=device-width,initial-scale = 1,user-scalable = no,maximum-scale = 1">
-  <link href="/assets/application-f998055d388cd30bb50b2693b0f168d2.css" media="all" rel="stylesheet" type="text/css">
+  <link href="/assets/application-b20c08bb726bda1c450863096c972190.css" media="all" rel="stylesheet" type="text/css">
   <link href="/assets/searchform-ba140d20c508633e5e6c9bdcb2137fae.css" media="all" rel="stylesheet" type="text/css">
-  <link href="/assets/homepage-b8fe09f8bd358e46576e42ff351e15df.css" media="all" rel="stylesheet" type="text/css">
+  <link href="/assets/homepage-28c5b1069d0df947e2f83382f96ae16a.css" media="all" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
   <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=004229160529753215653:javsnb4r2yc"></script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56379ca64cacc2ff" async="async"></script>
-  <script src="/assets/application-0306d5b4935d01c9ce87b0858ef85925.js" type="text/javascript"></script>
+  <script src="/assets/application-69341dd1ff13d456e3e29b915eb68e0d.js" type="text/javascript"></script><style>[data-columns]::before{display:block;visibility:hidden;position:absolute;font-size:1px;}</style><style type="text/css"></style>
   <meta content="authenticity_token" name="csrf-param">
-<meta content="OygT+tR/Uqp2eWs1lGSF1gg+TSnDCzP8u8UNOdlnveY=" name="csrf-token">
+<meta content="/vrhty+tfDOGNsAimc76k5NXvoSgBcH/PdtUdkTStFE=" name="csrf-token">
       <meta name="description" content="Since 1957, Frommer's global experts have published trusted advice and news on where to stay, 
     tips on what to do, restaurant reviews, vacation tips, and maps.">
     <meta name="title" content="About | Frommer's">
 <script type="text/javascript" src="/ads/dfp/global_ad_definition.js?loc=aboutfrommers"></script>
-</head>
-<body class="has-leaderboard">
+<style>[data-columns]::before{display:block;visibility:hidden;position:absolute;font-size:1px;}</style></head>
+<body class="has-leaderboard" style="">
   <input type="checkbox" id="nav-trigger" class="nav-trigger">
   <label for="nav-trigger"> </label>
   <div id="body-wrapper">
@@ -85,97 +85,10 @@
       </span>
     </span>
   </div>
-  <div id="signedIn" class="userActions">
-  <span>
-    <a href="/auth/process.php">Sign Out</a>
-  </span>
-</div>
-<div id="signedOut" class="userActions">
-  <span>
-    <a href="/auth/frommers-login.php">Sign In</a>
-    <a href="/auth/frommers-register.php" class="util">Register</a>
+  <span id="login-box">
   </span>
 
-</div>
-
-
-<script type="text/javascript">
-var Cookie = {
-  create: function(name, value, days) {
-    if (days) {
-      var date = new Date();
-      date.setTime(date.getTime()+(days*24*60*60*1000));
-      var expires = "; expires="+date.toGMTString();
-    }
-    else var expires = "";
-    document.cookie = name+"="+value+expires+"; path=/";
-  },
-
-  read: function(name) {
-    var nameEQ = name + "=";
-    var ca = document.cookie.split(';');
-    for(var i=0;i < ca.length;i++) {
-      var c = ca[i];
-      while (c.charAt(0)==' ') c = c.substring(1,c.length);
-      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-    }
-    return null;
-  },
-
-  erase: function(name) {
-    Cookie.create(name,"",-1);
-  }
-}
-
-var User = {
-  getCurrentUser: function() {
-    var username = Cookie.read('cookname');
-    if (username!="" && username!=null) {
-      return username.split('+').join(' ');
-    } else {
-      return false;
-    }
-  },
-
-  signOut: function() {
-    Cookie.erase('cookname');
-  },
-
-  isSignedIn: function() {
-    var username = User.getCurrentUser();
-    return (username != null && username != "");
-  },
-
-  showSignedIn: function(username) {
-    //$('#signedInUser').text("Welcome " + username);
-    $('#signedIn').addClass('active');
-    $('#signedOut').removeClass('active');
-  },
-
-  showSignedOut: function() {
-    $('#signedIn').removeClass('active');
-    $('#signedOut').addClass('active');
-  },
-
-  updateUI: function() {
-    var username = User.getCurrentUser();
-    if (username) {
-      User.showSignedIn(username);
-    } else {
-      User.showSignedOut();
-    }
-  }
-}
-
-<!-- $(function() { -->
-  // $('a#signOut').click(function() {
-  //   User.signOut();
-  // });
-
-  User.updateUI();
-<!-- }); -->
-</script>
-
+  <script src="/assets/login-box.js"></script>
 
 </div>
 
@@ -197,41 +110,35 @@ var User = {
                         <a href="slideshows/848142-frommer-s-best-places-to-go-in-2017"><strong>Top Places to Go in 2017</strong></a>
                       </span>
                     </span>
-                      <span class="menu-section two-cols first" data-columns="">
-                          <div class="column size-1of2">
+                      <span class="menu-section two-cols first" data-columns="1"><div class=""><div class="column size-1of2">
                                   <span class="menu-subhead  reset-styles">All Regions</span>
                                   <span class="reset-styles"><a href="/destinations/asia ">Asia</a></span>
                                   <span class="reset-styles"><a href="/destinations/australia-and-the-south-pacific">Australia &amp; South Pacific</a></span>
                                   <span class="reset-styles"><a href="/destinations/caribbean-and-the-atlantic ">Caribbean &amp; Atlantic</a></span>
                                   <span class="reset-styles"><a href="/destinations/central-and-south-america ">Central &amp; South America  </a></span>
                                   <span class="reset-styles"><a href="/destinations/europe ">Europe</a></span>
-                          </div>
-                          <div class="column size-1of2">
+                          </div><div class="column size-1of2">
                                   <span class="reset-styles"><a href="/destinations/middle-east-and-africa ">Middle East &amp; Africa </a></span>
                                   <span class="reset-styles"><a href="/destinations/north-america    ">North America </a></span>
                                   <span class="reset-styles"><a href="/destinations/mexico">Mexico</a></span>
                                   <span class="reset-styles"><a href="/destinations/usa ">USA</a></span>
                                   <span class="reset-styles"><a href="/destinations/canada">Canada</a></span>
-                          </div>
-                      </span>
+                          </div></div></span>
 
-                        <span class="menu-section two-cols second" data-columns="">
-                            <div class="column size-1of2">
+                        <span class="menu-section two-cols second" data-columns="1"><div class=""><div class="column size-1of2">
                                     <span class="menu-subhead  reset-styles">Top Picks</span>
                                     <span class="reset-styles"><a href="/destinations/paris  ">Paris </a></span>
                                     <span class="reset-styles"><a href="/destinations/washington-d-c ">Washington, D.C. </a></span>
                                     <span class="reset-styles"><a href="/destinations/rome ">Rome</a></span>
                                     <span class="reset-styles"><a href="/destinations/san-francisco  ">San Francisco  </a></span>
                                     <span class="reset-styles"><a href="/destinations/miami">Miami</a></span>
-                            </div>
-                            <div class="column size-1of2">
+                            </div><div class="column size-1of2">
                                     <span class="reset-styles"><a href="/destinations/new-york-city ">New York City</a></span>
                                     <span class="reset-styles"><a href="/destinations/las-vegas  ">Las Vegas</a></span>
                                     <span class="reset-styles"><a href="/destinations/los-angeles  ">Los Angeles</a></span>
                                     <span class="reset-styles"><a href="/destinations/hong-kong ">Hong Kong</a></span>
                                     <span class="reset-styles"><a href="/destinations/london">London</a></span>
-                            </div>
-                        </span>
+                            </div></div></span>
 
                     <span class="right-sub-menu">
                       <span class="menu-section">
@@ -260,35 +167,30 @@ var User = {
                         <a href="/microsites/cruise-inspiration"><strong>Cruise Inspiration: Top Picks</strong></a>
                       </span>
                     </span>
-                      <span class="menu-section two-cols first" data-columns="">
-                          <div class="column size-1of2">
+                      <span class="menu-section two-cols first" data-columns="1"><div class=""><div class="column size-1of2">
                                   <span class="reset-styles"><a href="/trip-ideas/arts-and-culture">Arts &amp; Culture</a></span>
                                   <span class="reset-styles"><a href="/trip-ideas/beach-water-sports">Beach &amp; Water Sports</a></span>
                                   <span class="reset-styles"><a href="/deals/cruise">Cruise</a></span>
                                   <span class="reset-styles"><a href="/trip-ideas/cultural-immersion">Cultural Immersion</a></span>
                                   <span class="reset-styles"><a href="/trip-ideas/food-and-drink">Food &amp; Drink</a></span>
                                   <span class="reset-styles"><a href="/trip-ideas/outdoor-adventure">Outdoor &amp; Adventure</a></span>
-                          </div>
-                          <div class="column size-1of2">
+                          </div><div class="column size-1of2">
                                   <span class="reset-styles"><a href="/trip-ideas/road-trip">Road Trips</a></span>
                                   <span class="reset-styles"><a href="/trip-ideas/national-park">National Parks</a></span>
                                   <span class="reset-styles"><a href="/trip-ideas/winter-sport">Winter Sports</a></span>
                                   <span class="reset-styles"><a href="/trip-ideas/disabled">Travelers with Disabilities</a></span>
                                   <span class="reset-styles"><a href="/trip-ideas/family">Family &amp; Kids</a></span>
                                   <span class="reset-styles"><a href="/trip-ideas/gay-lesbian">GLBT</a></span>
-                          </div>
-                      </span>
+                          </div></div></span>
 
-                        <span class="menu-section two-cols second" data-columns="">
-                            <div class="column size-1of2">
+                        <span class="menu-section two-cols second" data-columns="1"><div class=""><div class="column size-1of2">
                                     <span class="reset-styles"><a href="/trip-ideas/honeymoon">Honeymoons</a></span>
                                     <span class="reset-styles"><a href="/trip-ideas/senior">Senior</a></span>
                                     <span class="reset-styles"><a href="/trip-ideas/single">Single</a></span>
                                     <span class="reset-styles"><a href="/trip-ideas/student">Student</a></span>
                                     <span class="reset-styles"><a href="/trip-ideas/women">Women</a></span>
                                     <span class="reset-styles"><a href="/slideshows"><strong>All Slideshows</strong></a></span>
-                            </div>
-                        </span>
+                            </div></div></span>
 
                     <span class="right-sub-menu">
                       <span class="menu-section">
@@ -307,38 +209,35 @@ var User = {
 
 
             <div class="with-sub-menu menu-item">
-              <a href="/community/forum-main">Forums<span class="indic">&nbsp;</span></a>
+              <a href="/forums">Forums<span class="indic">&nbsp;</span></a>
               <div class="sub-menu" id="destinations-sub-menu">
                 <div class="wrapped-body-inner">
                   <div class="sub-menu-wrapper">
                     <span class="left-sub-menu-area">
                       <span class="left-menu-image-wrap reset-styles">
                         <img alt="223152_211916158861264_5519016_n" src="/system/media_items/attachments/000/855/313/s150/223152_211916158861264_5519016_n.jpg?1438877940">
-                        <a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a428c6c78-b220-4ba6-a576-ddd1cd491cea#plckforumid=Cat%3A428c6c78-b220-4ba6-a576-ddd1cd491ceaForum%3A3f612058-d8ab-412c-96be-01c3fdab8083&amp;plckforumpage=Forum&amp;plckdiscussiononpage=1&amp;plckf"><strong>Trip Ideas: Outdoor and Adventure</strong></a>
+                        <a href="/forums/categories/trip-ideas"><strong>Trip Ideas: Outdoor and Adventure</strong></a>
                       </span>
                     </span>
-                      <span class="menu-section two-cols first" data-columns="">
-                          <div class="column size-1of2">
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a490b37fe-df1f-48d6-9962-7c9469f538f6">Asia</a></span>
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3af0ee5816-de0f-4f61-bc55-9c056548ba87">Australia &amp; the South Pacific</a></span>
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3acf6d08a2-bd94-4c47-922e-fe0fa5d9c613">Caribbean &amp; the Atlantic</a></span>
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a7d096af8-516d-4283-9a0f-997eb675ab44">Central &amp; South America</a></span>
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3aa19af3d3-c3e0-4eee-971f-8903a8a70689">Europe</a></span>
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3aa2df5d43-86d7-4547-907d-9b652d8436d3">Middle East &amp; Africa</a></span>
-                          </div>
-                          <div class="column size-1of2">
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3aef20d44e-b150-4855-ad94-974a9082fbb0">Canada</a></span>
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3ae96b8f74-7a63-4a73-8298-a443b10f3043">Mexico</a></span>
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a66593304-ae86-4766-bd7c-d6bee7f61653">United States</a></span>
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a428c6c78-b220-4ba6-a576-ddd1cd491cea">Trip Ideas</a></span>
-                                  <span class="reset-styles"><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3ae979736f-48b2-4fa2-b33a-874e7352b58e">Tips, Tools &amp; Deals</a></span>
-                          </div>
-                      </span>
+                      <span class="menu-section two-cols first" data-columns="1"><div class=""><div class="column size-1of2">
+                                  <span class="reset-styles"><a href="/forums/categories/asia">Asia</a></span>
+                                  <span class="reset-styles"><a href="/forums/categories/australia-and-the-south-pacific">Australia &amp; the South Pacific</a></span>
+                                  <span class="reset-styles"><a href="/forums/categories/caribbean-and-the-atlantic">Caribbean &amp; the Atlantic</a></span>
+                                  <span class="reset-styles"><a href="/forums/categories/central-and-south-america">Central &amp; South America</a></span>
+                                  <span class="reset-styles"><a href="/forums/categories/europe">Europe</a></span>
+                                  <span class="reset-styles"><a href="/forums/categories/middle-east-and-africa">Middle East &amp; Africa</a></span>
+                          </div><div class="column size-1of2">
+                                  <span class="reset-styles"><a href="/forums/categories/north-america-canada">Canada</a></span>
+                                  <span class="reset-styles"><a href="/forums/categories/north-america-mexico">Mexico</a></span>
+                                  <span class="reset-styles"><a href="/forums/categories/north-america-united-states">United States</a></span>
+                                  <span class="reset-styles"><a href="/forums/categories/trip-ideas">Trip Ideas</a></span>
+                                  <span class="reset-styles"><a href="/forums/categories/tips-tools-and-deals">Tips, Tools &amp; Deals</a></span>
+                          </div></div></span>
 
 
                     <span class="right-sub-menu">
                       <span class="menu-section">
-                          <span class="reset-styles"><a href="/community/forum-main">All Forums »</a></span>
+                          <span class="reset-styles"><a href="/forums">All Forums »</a></span>
                       </span>
                     </span>
 
@@ -360,14 +259,12 @@ var User = {
                         <a href="/deals/cruise/how-to-pick-the-best-cruise-itinerary"><strong>Cruise News: How to Pick the Best Cruise Itinerary</strong></a>
                       </span>
                     </span>
-                      <span class="menu-section two-cols first" data-columns="">
-                          <div class="column size-1of2">
+                      <span class="menu-section two-cols first" data-columns="1"><div class=""><div class="column size-1of2">
                                   <span class="reset-styles"><a href="http://www.booking.com/index.html?aid=382845;label=frommers-headerlink">Hotel Deals</a></span>
                                   <span class="reset-styles"><a href="/deals/vacations">Vacations</a></span>
                                   <span class="reset-styles"><a href="/deals/cruises">Cruises</a></span>
                                   <span class="reset-styles"><a href="/deals/car-rentals">Car Rentals</a></span>
-                          </div>
-                      </span>
+                          </div></div></span>
 
 
                     <span class="right-sub-menu">
@@ -394,31 +291,26 @@ var User = {
                         <a href="/trip-ideas/arts-and-culture/how-to-craft-the-perfect-itinerary-for-any-destination"><strong>How to Craft the Perfect Itinerary for Any Destination</strong></a>
                       </span>
                     </span>
-                      <span class="menu-section two-cols first" data-columns="">
-                          <div class="column size-1of2">
+                      <span class="menu-section two-cols first" data-columns="1"><div class=""><div class="column size-1of2">
                                   <span class="reset-styles"><a href="/tips/airfare">Airfares &amp; Airports</a></span>
                                   <span class="reset-styles"><a href="/tips/cruise">Cruise News</a></span>
                                   <span class="reset-styles"><a href="/tips/entry-requirements-customs">Entry Requirements &amp; Customs</a></span>
                                   <span class="reset-styles"><a href="/tips/car-bus-rail">Car, Bus, Rails News</a></span>
                                   <span class="reset-styles"><a href="/tips/money-and-currency">Money &amp; Currency</a></span>
                                   <span class="reset-styles"><a href="/tips/health-and-travel-insurance">Health &amp; Travel Insurance</a></span>
-                          </div>
-                          <div class="column size-1of2">
+                          </div><div class="column size-1of2">
                                   <span class="reset-styles"><a href="/tips/hotel-news">Hotel News</a></span>
                                   <span class="reset-styles"><a href="/tips/miscellaneous">News &amp; Travel Briefing </a></span>
                                   <span class="reset-styles"><a href="/tips/packing-tips">Packing Tips</a></span>
                                   <span class="reset-styles"><a href="">Packages</a></span>
                                   <span class="reset-styles"><a href="/community/blogs"><strong>Blogs</strong></a></span>
-                                  <span class="reset-styles"><a href="/community/blogs/arthur-frommer-online">-Arthur Frommer Online</a></span>
-                          </div>
-                      </span>
+                                  <span class="reset-styles"><a href="/blogs/arthur-frommer-online">-Arthur Frommer Online</a></span>
+                          </div></div></span>
 
-                        <span class="menu-section two-cols second" data-columns="">
-                            <div class="column size-1of2">
-                                    <span class="reset-styles"><a href="/community/blogs/passportable">-Passportable</a></span>
+                        <span class="menu-section two-cols second" data-columns="1"><div class=""><div class="column size-1of2">
+                                    <span class="reset-styles"><a href="/blogs/passportable">-Passportable</a></span>
                                     <span class="reset-styles"><a href="/slideshows"><strong>All Slideshows</strong></a></span>
-                            </div>
-                        </span>
+                            </div></div></span>
 
                     <span class="right-sub-menu">
                       <span class="menu-section">
@@ -447,13 +339,11 @@ var User = {
                         <a href="/microsites/american-vacations"><strong>Great Vacations in the U.S.A.</strong></a>
                       </span>
                     </span>
-                      <span class="menu-section two-cols first" data-columns="">
-                          <div class="column size-1of2">
+                      <span class="menu-section two-cols first" data-columns="1"><div class=""><div class="column size-1of2">
                                   <span class="reset-styles"><a href="/microsites/caribbean">Best of the Caribbean</a></span>
                                   <span class="reset-styles"><a href="/microsites/mexico">Best of Mexico</a></span>
                                   <span class="reset-styles"><a href="/microsites/cruise-inspiration">Cruise Inspiration</a></span>
-                          </div>
-                      </span>
+                          </div></div></span>
 
 
                     <span class="right-sub-menu">
@@ -472,11 +362,6 @@ var User = {
 
               <div class=" menu-item">
                <a href="/podcast"> Travel Show</a>
-              </div>
-
-
-              <div class=" menu-item">
-               <a href="/6for60">6 for 60 Contest</a>
               </div>
 
 
@@ -759,25 +644,7 @@ var User = {
       <div class="list-destinations-more-links">
         <div class="trip-ideas">
           <span class="title-li"><a href="/trip-ideas/">Trip Ideas</a><span class="list-control"></span></span>
-          <span class="footer-link-list" data-columns="">
-            <span><a href="/trip-ideas/arts-and-culture/">Arts &amp; Culture</a></span>
-            <span><a href="/trip-ideas/beach-water-sports/">Beach &amp; Water Sports</a></span>
-            <span><a href="/macrosite/cruises/mainstream-lines">Cruise</a></span>
-            <span><a href="/trip-ideas/cultural-immersion/">Cultural Immersion</a></span>
-            <span><a href="/trip-ideas/food-and-drink/">Food &amp; Drink</a></span>
-            <span><a href="/trip-ideas/outdoor-adventure/">Outdoor &amp; Adventure</a></span>
-            <span><a href="/trip-ideas/road-trips/">Road Trips</a></span>
-            <span><a href="/trip-ideas/national-park/">National Parks</a></span>
-            <span><a href="/trip-ideas/winter-sport/">Winter Sports</a></span>
-            <span><a href="/trip-ideas/disabled/">Travelers with Disabilities</a></span>
-            <span><a href="/trip-ideas/family-kids/">Family &amp; Kids</a></span>
-            <span><a href="/trip-ideas/gay-lesbian/">Gay &amp; Lesbian</a></span>
-            <span><a href="/trip-ideas/honeymoons/">Honeymoons</a></span>
-            <span><a href="/trip-ideas/senior/">Senior</a></span>
-            <span><a href="/trip-ideas/single/">Single</a></span>
-            <span><a href="/trip-ideas/student/">Student</a></span>
-            <span><a href="/trip-ideas/women/">Women</a></span>
-          </span>
+          <span class="footer-link-list" data-columns="3"><div class="column size-1of3"><span><a href="/trip-ideas/arts-and-culture/">Arts &amp; Culture</a></span><span><a href="/trip-ideas/cultural-immersion/">Cultural Immersion</a></span><span><a href="/trip-ideas/road-trips/">Road Trips</a></span><span><a href="/trip-ideas/disabled/">Travelers with Disabilities</a></span><span><a href="/trip-ideas/honeymoons/">Honeymoons</a></span><span><a href="/trip-ideas/student/">Student</a></span></div><div class="column size-1of3"><span><a href="/trip-ideas/beach-water-sports/">Beach &amp; Water Sports</a></span><span><a href="/trip-ideas/food-and-drink/">Food &amp; Drink</a></span><span><a href="/trip-ideas/national-park/">National Parks</a></span><span><a href="/trip-ideas/family-kids/">Family &amp; Kids</a></span><span><a href="/trip-ideas/senior/">Senior</a></span><span><a href="/trip-ideas/women/">Women</a></span></div><div class="column size-1of3"><span><a href="/macrosite/cruises/mainstream-lines">Cruise</a></span><span><a href="/trip-ideas/outdoor-adventure/">Outdoor &amp; Adventure</a></span><span><a href="/trip-ideas/winter-sport/">Winter Sports</a></span><span><a href="/trip-ideas/gay-lesbian/">Gay &amp; Lesbian</a></span><span><a href="/trip-ideas/single/">Single</a></span></div></span>
         </div>
 
         <div class="deals">
@@ -790,20 +657,8 @@ var User = {
           </span>
         </div>
         <div class="forums">
-          <span class="title-li"><a href="/community/forum-main/">Forums</a><span class="list-control"></span></span>
-          <span class="footer-link-list" data-columns="">
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a490b37fe-df1f-48d6-9962-7c9469f538f6">Asia</a></span>
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3af0ee5816-de0f-4f61-bc55-9c056548ba87">Australia &amp; South Pacific </a></span>
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3acf6d08a2-bd94-4c47-922e-fe0fa5d9c613">Caribbean &amp; the Atlantic</a></span>
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a7d096af8-516d-4283-9a0f-997eb675ab44">Central &amp; South America</a></span>
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3aa19af3d3-c3e0-4eee-971f-8903a8a70689">Europe</a></span>
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3aa2df5d43-86d7-4547-907d-9b652d8436d3">Middle East &amp; Africa</a></span>
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3aef20d44e-b150-4855-ad94-974a9082fbb0">Canada</a></span>
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3ae96b8f74-7a63-4a73-8298-a443b10f3043">Mexico</a></span>
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a66593304-ae86-4766-bd7c-d6bee7f61653">United States</a></span>
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a428c6c78-b220-4ba6-a576-ddd1cd491cea">Trip Ideas</a></span>
-            <span><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3ae979736f-48b2-4fa2-b33a-874e7352b58e">Tips, Tools &amp; Deals</a></span>
-          </span>
+          <span class="title-li"><a href="/forums">Forums</a><span class="list-control"></span></span>
+          <span class="footer-link-list" data-columns="2"><div class="column size-1of2"><span><a href="/forums/categories/asia">Asia</a></span><span><a href="/forums/categories/caribbean-the-atlantic">Caribbean &amp; the Atlantic</a></span><span><a href="/forums/categories/europe">Europe</a></span><span><a href="/forums/categories/canada">Canada</a></span><span><a href="/forums/categories/united-states">United States</a></span><span><a href="/forums/categories/tips-tools-deals">Tips, Tools &amp; Deals</a></span></div><div class="column size-1of2"><span><a href="/forums/categories/australia-the-south-pacific">Australia &amp; South Pacific </a></span><span><a href="/forums/categories/central-south-america">Central &amp; South America</a></span><span><a href="/forums/categories/middle-east-africa">Middle East &amp; Africa</a></span><span><a href="/forums/categories/mexico">Mexico</a></span><span><a href="/forums/categories/trip-ideas">Trip Ideas</a></span></div></span>
         </div>
 
         <div class="tips-tools">
@@ -964,8 +819,8 @@ var google_conversion_value = 0;
       }
   </script>
 
-      <div id="spinner">
-  <span id="loading"></span>
+      <div id="spinner" style="display: none;">
+  <span id="loading"><div class="spinner" aria-role="progressbar" style="position: relative; width: 0px; z-index: 2000000000; left: 0px; top: 0px;"><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-0-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(0deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-1-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(30deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-2-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(60deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-3-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(90deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-4-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(120deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-5-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(150deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-6-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(180deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-7-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(210deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-8-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(240deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-9-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(270deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-10-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(300deg) translate(6px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-11-12 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 8px; height: 2px; background: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(330deg) translate(6px, 0px); border-radius: 1px;"></div></div></div></span>
   <span class="loading">Loading...</span>
   <div class="clearfix"></div>
 </div>
@@ -997,6 +852,7 @@ var _sf_async_config = { uid: 47501, domain: 'frommers.com', useCanonical: true 
 
   var subscribed = GetURLParameter('subscribed');
   var success = GetURLParameter('success');
+  var confirmed = GetURLParameter('confirmed');
 
   if(subscribed) {
     $('#subscribed-banner').toggle('true');
@@ -1005,6 +861,10 @@ var _sf_async_config = { uid: 47501, domain: 'frommers.com', useCanonical: true 
 
   if(success) {
     $('#thankyou-banner').toggle('true');
+  }
+
+  if(confirmed) {
+    $('#confirmed-banner').toggle('true');
   }
 
   $('div.message-banner').delay(5000).fadeOut('fast');
@@ -1123,22 +983,22 @@ var _sf_async_config = { uid: 47501, domain: 'frommers.com', useCanonical: true 
 
             <ul>
               <li class="with-sub-menu menu-item" data-menu-id="">
-                <a href="/community/forum-main">Forums<span class="indic">&nbsp;</span></a>
+                <a href="/forums">Forums<span class="indic">&nbsp;</span></a>
                 <div class="sub-menu" id="destinations-sub-menu">
                       <div class="columns with-2columns">
                         <div class="col1">
                           <ul class="sub-nav">
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a490b37fe-df1f-48d6-9962-7c9469f538f6">Asia</a></li>
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3af0ee5816-de0f-4f61-bc55-9c056548ba87">Australia &amp; the South Pacific</a></li>
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3acf6d08a2-bd94-4c47-922e-fe0fa5d9c613">Caribbean &amp; the Atlantic</a></li>
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a7d096af8-516d-4283-9a0f-997eb675ab44">Central &amp; South America</a></li>
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3aa19af3d3-c3e0-4eee-971f-8903a8a70689">Europe</a></li>
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3aa2df5d43-86d7-4547-907d-9b652d8436d3">Middle East &amp; Africa</a></li>
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3aef20d44e-b150-4855-ad94-974a9082fbb0">Canada</a></li>
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3ae96b8f74-7a63-4a73-8298-a443b10f3043">Mexico</a></li>
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a66593304-ae86-4766-bd7c-d6bee7f61653">United States</a></li>
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3a428c6c78-b220-4ba6-a576-ddd1cd491cea">Trip Ideas</a></li>
-                                        <li><a href="/community/forum-main?plckForumPage=ForumCategory&amp;plckCategoryId=Cat%3ae979736f-48b2-4fa2-b33a-874e7352b58e">Tips, Tools &amp; Deals</a></li>
+                                        <li><a href="/forums/categories/asia">Asia</a></li>
+                                        <li><a href="/forums/categories/australia-and-the-south-pacific">Australia &amp; the South Pacific</a></li>
+                                        <li><a href="/forums/categories/caribbean-and-the-atlantic">Caribbean &amp; the Atlantic</a></li>
+                                        <li><a href="/forums/categories/central-and-south-america">Central &amp; South America</a></li>
+                                        <li><a href="/forums/categories/europe">Europe</a></li>
+                                        <li><a href="/forums/categories/middle-east-and-africa">Middle East &amp; Africa</a></li>
+                                        <li><a href="/forums/categories/north-america-canada">Canada</a></li>
+                                        <li><a href="/forums/categories/north-america-mexico">Mexico</a></li>
+                                        <li><a href="/forums/categories/north-america-united-states">United States</a></li>
+                                        <li><a href="/forums/categories/trip-ideas">Trip Ideas</a></li>
+                                        <li><a href="/forums/categories/tips-tools-and-deals">Tips, Tools &amp; Deals</a></li>
                           </ul>
                         </div>
                       </div>
@@ -1186,14 +1046,14 @@ var _sf_async_config = { uid: 47501, domain: 'frommers.com', useCanonical: true 
                                         <li><a href="/tips/packing-tips">Packing Tips</a></li>
                                         <li><a href="">Packages</a></li>
                                         <li><a href="/community/blogs"><strong>Blogs</strong></a></li>
-                                        <li><a href="/community/blogs/arthur-frommer-online">-Arthur Frommer Online</a></li>
+                                        <li><a href="/blogs/arthur-frommer-online">-Arthur Frommer Online</a></li>
                           </ul>
                         </div>
                       </div>
                       <div class="columns with-2columns">
                         <div class="col1">
                           <ul class="sub-nav">
-                                        <li><a href="/community/blogs/passportable">-Passportable</a></li>
+                                        <li><a href="/blogs/passportable">-Passportable</a></li>
                                         <li><a href="/slideshows"><strong>All Slideshows</strong></a></li>
                           </ul>
                         </div>
@@ -1226,13 +1086,6 @@ var _sf_async_config = { uid: 47501, domain: 'frommers.com', useCanonical: true 
             <ul>
                   <li data-menu-id="destinations" class="menu-item">
                     <a href="/podcast"> Travel Show</a>
-                  </li>
-            </ul>
-
-
-            <ul>
-                  <li data-menu-id="destinations" class="menu-item">
-                    <a href="/6for60">6 for 60 Contest</a>
                   </li>
             </ul>
 
