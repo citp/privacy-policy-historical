@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftmdaily.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625203952id_/http%3A//ftmdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftmdaily.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025104946id_/http%3A//ftmdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Followthemoney.com
 
@@ -70,6 +70,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://www.ftmdaily.com](http://www.ftmdaily.com/)  
 PO BOX 1911, Fayetteville, AR, 72702  
 (800) 609-5530  
-info@ftmdaily.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on June 4, 2014
