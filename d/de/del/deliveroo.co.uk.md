@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliveroo.co.uk privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311122453id_/https%3A//deliveroo.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.co.uk privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025140728id_/https%3A//deliveroo.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Deliveroo
 
@@ -52,4 +52,4 @@ Any changes to our Privacy Policy will be posted to the Website and, where appro
 
 #### 7\. CONTACT
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to Roofoods Limited, 22-24 Torrington Place, London, WC1E 7HJ, United Kingdom; or call on tel +44 203 322 3444 
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to Roofoods Limited, 1 Cousin Lane, London, EC4R 3TE, United Kingdom; or call on tel +44 203 699 9977 
