@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrologyanswers.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608062919id_/https%3A//astrologyanswers.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrologyanswers.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025193441id_/https%3A//astrologyanswers.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | AstrologyAnswers.com
 
 **Effective Date June 20, 2014.**
 
