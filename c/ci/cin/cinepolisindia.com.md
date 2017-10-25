@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinepolisindia.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005845id_/http%3A//www.cinepolisindia.com/content/docs/Cinepolis-India-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinepolisindia.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025072917id_/http%3A//cinepolisindia.com/content/docs/Cinepolis-India-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Introduction
 
