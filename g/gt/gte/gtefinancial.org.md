@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtefinancial.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021928id_/https%3A//www.gtefinancial.org/File%2520Library/GTE/PDFs/Privacy-Disclosure-2015.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtefinancial.org privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025090305id_/http%3A//www.gtefinancial.org/File%2520Library/GTE/PDFs/Privacy-Disclosure-2015.pdf) for the most accurate reproduction.*
 
 # FACTS
 
