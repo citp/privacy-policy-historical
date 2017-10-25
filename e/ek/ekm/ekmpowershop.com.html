@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ekmpowershop.com privacy policy that was archived on 2017-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170329024337id_/https%3A//www.ekm.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ekmpowershop.com privacy policy that was archived on 2017-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171025062309id_/https%3A//www.ekm.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB" class="ie10-plus"><!--<![endif]--><!--[if !IE]><!--><!--<![endif]--><head>
 
@@ -11,7 +11,7 @@
 		<meta name="description" content="Privacy Policy">
 		<meta http-equiv="Content-Style-Type" content="text/css">
 		<meta http-equiv="content-language" content="en">
-		<link rel="shortcut icon" href="favicon.ico?v=92810012017">
+		<link rel="shortcut icon" href="favicon.ico?v=14092017">
 
 		
 			<link rel="icon" type="image/png" href="/images/design/en-AU/favicon.png">
@@ -32,7 +32,7 @@
 		<!--[if IE]><link rel="stylesheet" href="//uifw.ekmsecure.com/3.2.0/styles/ie/ie.css"><![endif]-->
 		<!--[if gt IE 8]><link rel="stylesheet" href="//uifw.ekmsecure.com/3.2.0/styles/ie/ie9.css"><![endif]-->
 
-		<link rel="stylesheet" href="/style/css/styles.css?v=92810012017">
+		<link rel="stylesheet" href="/style/css/styles.css?v=14092017">
 
 		<!-- Social Plugins -->
 		
@@ -72,7 +72,7 @@
 
 		
 			<!-- optimizely split test code -->
-			<script src="//cdn.optimizely.com/js/568150481.js"></script>
+			<script src="https://cdn.optimizely.com/js/568150481.js"></script>
 		
 
 		<!-- html5--><!--[if IE]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -121,6 +121,111 @@
 						<script type="text/javascript">_googWcmGet(callback, '0333 004 0333', {timeout:3000});</script>
 					
 
+<!-- DEMO REQUEST NEW 2017 ////////////////////////////////// -->
+
+
+	<script>
+	$j( document ).ready(function() {
+
+
+	  $j('.demo-generic').on('click', function(){
+
+	    $j('.request-demo-popout-generic').toggleClass('open');
+	    $j('.bg-overlay-generic').toggleClass('open');
+
+	    if ( $j(window).width() < 740 ) {
+	    	$j('.container').hide();
+	    }
+
+	  })
+
+	   $j('.request-demo-popout__close-generic').on('click', function(){    
+	    $j('.request-demo-popout-generic').toggleClass('open');
+	    $j('.bg-overlay-generic').toggleClass('open');
+
+	    if ( $j(window).width() < 740 ) {
+	    	$j('.container').show();
+	    }
+	  })
+
+	   $j('.bg-overlay-generic').on('click', function(){
+	    $j('.request-demo-popout-generic').toggleClass('open');
+	    $j('.bg-overlay-generic').toggleClass('open');
+
+	    if ( $j(window).width() < 740 ) {
+	    	$j('.container').show();
+	    }
+	  })
+	});
+
+	 $j(window).on('load resize', function () {
+    	if ( $j(window).width() > 740 ) {
+	    	$j('.container').show();
+	    }
+  	});
+
+
+	</script>
+
+	
+
+
+
+
+<div class="bg-overlay-generic"></div>
+
+<div class="request-demo-popout-generic">
+  <a class="request-demo-popout__close-generic"><i class="uifw-icon uifw-icon-times"></i></a>
+  
+
+  <div class="request-demo-popout__info cf">
+      <img src="/images/images-new/uk-new/demo-staff.png">
+      <div class="request-demo-popout__info-right">
+        <strong>Request a Demo</strong>
+        <p>Enter your number and one of our friendly ecommerce experts will be in touch. <b>All fields are required</b>.</p>
+      </div>
+  </div>
+
+  <form action="/mailer.asp?formmail=contactus" class="request-demo-popout__form" method="POST" id="call-back-request">
+
+      <input type="hidden" name="Department" value="callbackRequest">
+      <input type="hidden" name="Redirect" value="/privacy.asp?sent=true">
+      <input type="hidden" name="Subject" value="NEW Customer Callback Request - UK">
+      <input type="hidden" name="Message" value="There is a customer callback request from ekm.com - from /privacy.asp callback request button.">
+
+      <div class="row">
+        <label for="">Your Name</label>
+        <input type="text" name="Name" class="text-field" data-validation="required" id="name" data-validation-error-msg="Ooops, we need your name">
+      </div><!-- row -->
+
+      
+        <div class="row">
+          <label for="">Telephone Number <span class="required"></span></label>
+          <input type="tel" name="Telephone" class="text-field" data-validation="number" data-validation-error-msg="Oops, you haven't entered a correct number">
+        </div><!-- row -->
+
+      
+
+      <div class="row">
+        <label for="">Email Address </label>
+        <input type="text" name="email" data-validation="email" class="text-field">
+      </div><!-- row -->
+      
+
+      <div class="row" style="display:none;">
+        <label for="">Email Address <span class="required">*</span></label>
+        <input type="text" name="EmailAddress" class="text-field" req="">
+      </div><!-- row -->
+
+      <div class="row buttons">
+        <button type="submit" class="uifw-frm-button blue send">Book Demo</button>
+      </div>
+
+    </form>
+</div>
+
+<!-- DEMO REQUEST NEW 2017 ////////////////////////////////// -->
+
 	<div class="container">
 
 		<div id="lean_overlay"></div>
@@ -153,7 +258,11 @@
 							<a href="http://www.ekm.com/blog/">Blog</a>
 							<a href="/contact.asp">Contact</a>
 					   	</div>
-					    <a href="free-trial-signup.asp" class="get-started ease" title="Get Started" onclick="dataLayer.push({'event': 'gtm_virtualPageView', 'virtualURL': '/index.asp?cta=mobileHeaderGetStarted'});"><span>Get Started<i class="uifw-icon uifw-icon-chevron-right"></i></span></a>
+					    <a href="free-trial-signup.asp" class="get-started ease" title="Get Started" onclick="dataLayer.push({'event': 'gtm_virtualPageView', 'virtualURL': '/index.asp?cta=mobileHeaderGetStarted'});">
+					    <span>Get Started<i class="uifw-icon uifw-icon-chevron-right"></i></span></a>
+						<a class="demo ease demo-generic" title="Request a demo" onclick="dataLayer.push({'event': 'gtm_virtualPageView', 'virtualURL': '/index.asp?cta=mobileHeaderGetDemo'});">
+							<span>Request a Demo<i class="uifw-icon uifw-icon-chevron-right"></i></span>
+						</a>
 				 	</nav>
 
 					<div class="logo">
@@ -169,13 +278,28 @@
 		<header class="site-head">
 			<div class="demo-bar">
 				<div class="new-site-inner cf">
+					<div class="demo-bar-left">
+						<a class="demo-bar-left-inner" href="ourcustomers_testimonials.asp" onclick="dataLayer.push({'event': 'gtm_virtualPageView', 'virtualURL': 'header-Trustpilot-Link'});">
+							<img src="/images/header/tp-grey.svg" alt="Trustpilot">
+							<div class="stars">
+								<i class="iconnew-star-new"></i>
+								<i class="iconnew-star-new"></i>
+								<i class="iconnew-star-new"></i>
+								<i class="iconnew-star-new"></i>
+								<i class="iconnew-star-new"></i>
+							</div>
+							<strong>Excellent</strong>
+							<span>9.2 out of 10</span>
+						</a>
+					</div>
 					<div id="google_translate_element"></div>
-					Speak to one of our experts today
-					<span itemscope="" itemtype="http://schema.org/Organization">
-						<a href="tel:03330040333" rel="nofollow" itemprop="telephone" class="tel-no ease">0333 004 0333</a>
-					</span>
-					or
-					<a href="#" class="callback ease" rel="nofollow"><strong><i class="uifw-icon uifw-icon-phone-square"></i> Request a Demo</strong></a>
+					<div class="demo-bar-right">Speak to one of our experts today
+						<span itemscope="" itemtype="http://schema.org/Organization">
+							<a href="tel:03330040333" rel="nofollow" itemprop="telephone" class="tel-no ease">0333 004 0333</a>
+						</span>
+						or
+						<a class="demo-generic ease" rel="nofollow"><strong><i class="uifw-icon uifw-icon-phone-square"></i> Request a Demo</strong></a>
+					</div>
 				</div>
 			</div>
 			<div class="header-main cf">
@@ -236,7 +360,7 @@
 
 <div class="content">
 <h1>Privacy &amp; Cookies</h1>
-<p>At Ekm Systems Ltd we are committed to protecting and respecting the privacy or all our customers and visitors.</p>
+<p>At EKM we are committed to protecting and respecting the privacy or all our customers and visitors.</p>
 
 		<p>The information collected from customers when signing up is used for billing and administration purposes only and will be kept confidential. Contact information collected will be contact details and payment information (credit or debit card).</p>
 
@@ -246,9 +370,9 @@
 
 		<p>Any personal information contained within our customer's websites and online shops is their own responsibility. We have taken security measures to ensure that our customers are protected against loss, alteration or misuse.</p>
 
-		<p>Customers are responsible for ensuring that only authorised personnel access their accounts. If for any reason you are concerned about this, please contact us on <a href="mailto:abuse@ekmpowershop.com">abuse@ekmpowershop.com</a>. Should you have any queries relating to this Privacy Policy, please contact us at <a href="mailto:sales@ekmpowershop.com">sales@ekmpowershop.com</a>.</p>
+		<p>Customers are responsible for ensuring that only authorised personnel access their accounts. If for any reason you are concerned about this, please contact us on <a href="mailto:abuse@ekm.com">abuse@ekm.com</a>. Should you have any queries relating to this Privacy Policy, please contact us at <a href="mailto:sales@ekm.com">sales@ekm.com</a>.</p>
 
-        <h2>Cookies set by ekmPowershop</h2>
+        <h2>Cookies set by EKM</h2>
 
 		<p>When browsing the internet and using online services, this sometimes involves placing small amounts of information on your web enabled device, this includes small files known as cookies. They cannot be used to identify you personally.</p>
 		<p>Cookies are used to improve services for you, for example:</p>
@@ -261,7 +385,7 @@
 		<p>You can read more about these small files yourself, at this useful website <a href="http://www.aboutcookies.org/" target="_blank">About Cookies</a>.</p>
 
 
-        <p>ekmPowershop uses cookies in several places. We've listed each of them below with more details about why we use them and how long they will last.</p>
+        <p>EKM uses cookies in several places. We've listed each of them below with more details about why we use them and how long they will last.</p>
 
         <table width="100%" cellspacing="0" cellpadding="10" class="cookie-table">
                   <tbody><tr>
@@ -302,8 +426,8 @@
                   </tr>
     </tbody></table>
 
-        <h2>Logging in to the ekmPowershop system</h2>
-        <p>After viewing our website and logging into our ekmPowershop.com system, you will receive more cookies to allow for a more bespoke user experience, these cookies are listed below.
+        <h2>Logging in to the EKM system</h2>
+        <p>After viewing our website and logging into an EKM shop account, you will receive more cookies to allow for a more bespoke user experience, these cookies are listed below.
 
         </p><table border="0" cellspacing="0" cellpadding="10" class="cookie-table">
           <tbody><tr>
@@ -378,7 +502,7 @@
         </tbody></table>
 
         <h2>Third Party Cookies</h2>
-        <p>We use a number of third party suppliers who may also set cookies on their websites. ekmPowershop doesn't control the usage of these cookies. You should check the third party websites for more information about these.</p>
+        <p>We use a number of third party suppliers who may also set cookies on their websites. EKM doesn't control the usage of these cookies. You should check the third party websites for more information about these.</p>
         <table border="0" cellspacing="0" cellpadding="10" class="cookie-table">
           <tbody><tr>
             <th align="left" bgcolor="#e5e5e5" scope="col" width="170">Third Party</th>
@@ -406,7 +530,7 @@
         </tbody></table>
 
             <h2>Analytics</h2>
-    We use the following services on ekmPowershop.com to monitor our visitors. This is so we can ensure you are getting the best possible experience from our website. If you would like more information on these particular services a link is provided.
+    We use the following services on ekm.com to monitor our visitors. This is so we can ensure you are getting the best possible experience from our website. If you would like more information on these particular services a link is provided.
 
     <h3 class="cookie-service-hr">Hotjar</h3>
 
@@ -447,7 +571,7 @@
 								<li><a href="/features/overview.asp">Features</a></li>
 								<li><a href="/ourcustomers_shops.asp">Showcase</a></li>
 								<li><a href="ecommerce/cost">Pricing</a></li>
-								<li><a href="/ecommerce/website">Tour</a></li>
+								<li><a href="/ecommerce/website">EKM Tour</a></li>
 							</ul>
 						</li><!--
 
@@ -494,7 +618,7 @@
 			<div class="new-site-inner">
 				<span>Designed &amp; built</span>
 				<i class="iconnew-made-uk"></i>
-				<span>in Great Britain</span>
+				<span>in the UK</span>
 			</div>
 		</div>
 
@@ -566,6 +690,12 @@
 
 			
 
+			<div class="row">
+				<label for="">Email Address</label>
+				<input type="text" name="email" class="text-field">
+			</div><!-- row -->
+			
+
 			<div class="row" style="display:none;">
 				<label for="">Email Address <span class="required">*</span></label>
 				<input type="text" name="EmailAddress" class="text-field">
@@ -582,9 +712,18 @@
 
 
 	<!-- Scripts -->
-	<script src="/js/scripts.min.js?v=92810012017"></script>
+	<script src="/js/scripts.min.js?v=14092017"></script>
 
 	
+
+	<script src="../js/scripts/jquery.form-validator.min.js"></script>
+	<script>
+
+	  $.validate({
+	  	
+	  });
+
+	</script>
 
 
 
