@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630101854id_/http%3A//www.theglobeandmail.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025130146id_/https%3A//www.theglobeandmail.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Globe and Mail
 
