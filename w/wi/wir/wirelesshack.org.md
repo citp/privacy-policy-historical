@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelesshack.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624124139id_/http%3A//www.wirelesshack.org/privacy-policy-for-www-wirelesshack-org.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelesshack.org privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026003703id_/http%3A//www.wirelesshack.org/privacy-policy-for-www-wirelesshack-org.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.wirelesshack.org | WirelesSHack
 
@@ -113,12 +113,18 @@ The owner of this website, is a participant in the Amazon Services LLC Associate
 
   The owner of this website, wirelesshack.org, is a participant in the Amazon Services LLC Associates Program, Amazon.com.ca, Inc, Amazon EU Associates Programme an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking www.wireleshack.org to Amazon properties including, but not limited to, Amazon.com, Amazon.ca, Amazon.co.uk, Amazon EU Associates Programme, Amazon.it, Amazon.es, Amazon.fr endless.com, myhabit.com, smallparts.com, or amazonwireless.com Amazon.ca, Amazon.co.uk and other sites worldwide.
 
+  When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to, the eBay Partner Network.
+
     Kodi Disclaimer  
 Kodi is a free Open Source media player which we at www.wirelesshack.org are not affiliated with.
 
-  We at www.wirelesshack.org also do not have any affiliation with any Kodi 3rd party add-ons.
+  We at www.wirelesshack.org also do not have any affiliation with any Kodi add-ons, 3rd party or otherwise.
+
+  We also do not store any programs or addons for download.
 
   **Any Kodi add-on should only be used to stream public domain content.**
+
+  [Read here for information on Public Domain films and movie list. ](https://en.wikipedia.org/wiki/List_of_films_in_the_public_domain_in_the_United_States)
 
   All Kodi tutorials on www.wirelesshack.org should only be used with content that it bought and owned personally or is in the public domain.
 
