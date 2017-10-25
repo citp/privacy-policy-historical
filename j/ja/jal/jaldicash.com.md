@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaldicash.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025241id_/http%3A//jaldicash.com/T%26C/PrivatePolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaldicash.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025102111id_/http%3A//jaldicash.com/T%26C/PrivatePolicy.pdf) for the most accurate reproduction.*
 
 # Weizmann Impex Service Enterprise Ltd
 
