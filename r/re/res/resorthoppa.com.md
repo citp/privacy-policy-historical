@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the resorthoppa.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530142406id_/http%3A//www.resorthoppa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resorthoppa.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025092109id_/https%3A//www.hoppa.com/en/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Hoppa
+# Privacy Policy | hoppa
 
 **1\. SCOPE**
 
-Resorthoppa (UK) Limited, with its registered address at 1st Floor, West Lodge, Station Approach, West Byfleet, Surrey KT14 6NG, company number 04933736 complies with data protection legislation such as the Data Protection Act 1998. This regulates the processing of personal data relating to you and grants you various rights in respect of your personal data.
+Resorthoppa (UK) Limited, with its registered address at 6th Floor, Crown House, One Crown Square, Church Street East, Woking, Surrey, GU216HR, company number 04933736 complies with data protection legislation such as the Data Protection Act 1998. This regulates the processing of personal data relating to you and grants you various rights in respect of your personal data.
 
 The aim of this statement is to tell you how we will use any personal data you provide through the hoppa.com website or hoppa app. Please read it carefully before you proceed.
 
@@ -85,7 +85,7 @@ In the event that the hoppa business is transferred or integrated with another b
 
 **10\. YOUR RIGHT TO ACCESS INFORMATION**
 
-You are entitled to see the information held about you. If you wish to do this, please contact us at Resorthoppa (UK) Limited, 1st Floor, West Lodge, Station Approach, West Byfleet, Surrey KT14 6NG. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10, or local currency equivalent based on the Pound Sterling exchange rate) to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
+You are entitled to see the information held about you. If you wish to do this, please contact us at Resorthoppa (UK) Limited, 6th Floor, Crown House, One Crown Square, Church Street East, Woking, Surrey, GU216HR. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10, or local currency equivalent based on the Pound Sterling exchange rate) to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
 
 **11\. CHANGES TO THIS PRIVACY POLICY**
 
@@ -93,4 +93,4 @@ If our privacy policy changes in any way, we will place an updated version on th
 
 **12\. CONTACTING US**
 
-If you have any questions about this statement or your personal information, please contact us at Resorthoppa (UK) Limited, 1st Floor, West Lodge, Station Approach, West Byfleet, Surrey KT14 6NG.
+If you have any questions about this statement or your personal information, please contact us at Resorthoppa (UK) Limited, 6th Floor, Crown House, One Crown Square, Church Street East, Woking, Surrey, GU216HR.
