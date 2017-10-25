@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbna.co.uk privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406220049id_/https%3A//www.mbna.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.co.uk privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025194619id_/https%3A//www.mbna.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | MBNA
 
@@ -83,7 +83,7 @@ If you would like to learn more about these practices, view the privacy notices 
 
 <http://www.infectiousmedia.com/cookie-policy/>
 
-Read about the Internet Advertising Bureau’s Online Behavioural Advertising Framework at: [iabeurope.eu/news](https://www.iabeurope.eu/news/)
+Read about the Internet Advertising Bureau’s Online Behavioural Advertising Framework at: [iabeurope.eu/news](http://www.iabeurope.eu/category/all-news/news/)
 
 To learn more about privacy and behavioural advertising, visit: [youradchoices.com](http://youradchoices.com/) or [youronlinechoices.com](http://youronlinechoices.com/)
 
