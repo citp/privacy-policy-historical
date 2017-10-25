@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darkufo.blogspot.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625152309id_/http%3A//www.spoilertv.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkufo.blogspot.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025170830id_/http%3A//www.spoilertv.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # SpoilerTV Privacy Policy
 
