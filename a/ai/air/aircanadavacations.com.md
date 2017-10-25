@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aircanadavacations.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102456id_/http%3A//vacations.aircanada.com/en/contact_us/security_and_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aircanadavacations.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025075935id_/http%3A//vacations.aircanada.com/en/contact_us/security_and_privacy) for the most accurate reproduction.*
 
 # Air Canada Vacations | Security & Privacy
 
@@ -73,15 +73,15 @@ We use Google Analytics on our website to track your actions and to help us opti
 
 Data collected by Google for the purposes of Google Analytics will be treated according to [Google’s Privacy Policy]{http://www.google.com/privacy/privacy-policy.html}. If you would like to opt out of being tracked by Google Analytics, then you can do so using the [Google Analytics Opt-out Browser Add-on]{<http://tools.google.com/dlpage/gaoptout>}.
 
-**Google AdWords**
+**Advertising**
 
-We use Google Adwords to advertise our website and services through third party vendors (including Google and DoubleClick) to prospective customers, occasionally using the re-marketing feature to target and advertise to people that may have completed certain actions on our website (tracked through the use of cookies).
+We partner with a third party (including Google AdWords, Facebook and Instagram) to advertise our website and services through third party vendors (including Google and DoubleClick) to prospective customers, occasionally using the re-marketing feature to target and advertise to people that may have completed certain actions on our website (tracked through the use of cookies).
 
 An example is if you added a hotel to your shopping cart, but didn’t complete checkout, we may show you advertisements for a period of time to encourage you to come back and complete your booking.
 
-Data collected will be used in accordance with the [Google privacy policy for Google ads and the Google display network]{http://www.google.com/privacy/ads/privacy-policy.html}.
+Data collected will be used in accordance with the [Google privacy policy](http://www.google.com/privacy/ads/privacy-policy.html) for Google ads and the Google display network and the [Facebook Cookies Policy](https://www.facebook.com/policies/cookies/).
 
-If you would like to opt out of interest-based advertising, then you can do so using the [Google Ad Preferences]{<http://www.google.com/settings/ads>}
+If you would like to opt out of interest-based advertising, then you can do so using the [Google Ad Preferences](http://www.google.com/settings/ads) and the [Facebook Ad Settings](https://www.facebook.com/ads/preferences).
 
 **Email “Beacons”**
 
