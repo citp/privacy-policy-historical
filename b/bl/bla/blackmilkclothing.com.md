@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108145549id_/https%3A//blackmilkclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025143358id_/https%3A//blackmilkclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Black Milk Clothing
+# Privacy policy
 
-The Privacy Statement applies to the collection, storage, use and dissemination by Black Milk Clothing Pty Ltd (ACN 87 140 574 009) ( **Black Milk, we, our, us** ) of your ( **You, Your** ) personal information.
+The Privacy Statement applies to the collection, storage, use and dissemination by BlackMilk Clothing Pty Ltd (ACN 87 140 574 009) ( **BlackMilk, we, our, us** ) of your ( **You, Your** ) personal information.
 
 Access to Blackmilkclothing.com ( **Site** ) is conditional on your acceptance of the terms of this Privacy Statement. This Privacy Policy forms part of the Terms of Use and by using the Site, you agree to comply with these terms. This Privacy Policy applies only to information collected through our Site and not to information collected offline.
 
-At Black Milk Clothing, we treat your privacy, and any Personal Information (as defined in the _Privacy Act 1988 (Cth)_ ) that you give to us, with the utmost care and respect. The following Privacy Policy explains the information we collect and what we use it for.
+At BlackMilk Clothing, we treat your privacy, and any Personal Information (as defined in the  _Privacy Act 1988 (Cth)_ ) that you give to us, with the utmost care and respect. The following Privacy Policy explains the information we collect and what we use it for.
 
-As we value your privacy, we take the necessary precautions to comply with the _Privacy Act 1988 (Cth)_.
+As we value your privacy, we take the necessary precautions to comply with the  _Privacy Act 1988 (Cth)_.
 
 #### What information do we collect?
 
@@ -58,7 +58,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 #### Changes to Privacy Policy
 
-If Black Milk Clothing decides to change our Privacy Policy, we will post those changes on this page, and update the Privacy Policy modification date below.
+If BlackMilk Clothing decides to change our Privacy Policy, we will post those changes on this page, and update the Privacy Policy modification date below.
 
 This policy was last modified in July 2012.
 
@@ -68,7 +68,7 @@ If you have any questions about this Privacy Policy please contact us using the 
 
 [hello@blackmilkclothing.com](mailto:hello@blackmilkclothing.com)
 
-Black Milk Clothing Pty Ltd,  
+BlackMilk Clothing Pty Ltd,  
 PO Box 2443,  
 Fortitude Valley BC,  
 QLD Australia 4006
