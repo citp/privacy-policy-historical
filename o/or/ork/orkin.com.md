@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226145126id_/https%3A//www.orkin.com/globals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025055731id_/https%3A//www.orkin.com/globals/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,6 +66,8 @@ Orkin, Inc. will disclose your personal information or any of its log file infor
 
 
 Additionally, Orkin, Inc. may disclose your information to certain selected third-party vendors who assist us in the permitted uses of the information collected.
+
+We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [http://networkadvertising.org/](http://go.bazaarvoice.com/E0y0P0CfGRe0E0bD3009e0D).
 
 Orkin, Inc. uses reasonable precautions to keep the information disclosed to us secure. Orkin, Inc. reserves the right to transfer information in connection with the sale of all or part of Orkin, Inc. capital stock or assets to any third party. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. Orkin, Inc. also provides “links” to a wide variety of other websites on the Internet. We are not responsible for their Privacy Policies or how those websites manage information about their users. We strongly urge you to check with those websites to determine their privacy policy.
 
