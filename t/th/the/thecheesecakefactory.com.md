@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecheesecakefactory.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612222216id_/http%3A//www.thecheesecakefactory.com/corporate-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecheesecakefactory.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026101935id_/http%3A//www.thecheesecakefactory.com/corporate-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,13 @@ This policy describes how we may collect and use information provided to us by p
 
 **OUR INFORMATION VALUES**
 
-If you provide us with information about yourself or your company, we believe that you have the right to know why we are collecting that information, and how we use it. If, for any reason, you want to opt out of the marketing use of your information, we believe that we have an obligation to comply with your request.
+If you provide us with information about yourself or your company, we believe that you have the right to know why we are collecting that information, and how we use it. If, for any reason, you want to opt out of the marketing use of your information, we have an obligation to comply with your request.
 
 **THE INFORMATION WE COLLECT**
 
 Personal Information
 
-"Personal information" includes any information identifiable in nature, and may include: your company information, your name, your address, your e-mail, your financial information (such as credit card numbers) and your employment related information (such as a resume or references). You may visit and use this website without providing Personal Information. We will collect Personal Information only if you provide it to us. If you do not want us to have your Personal Information, please do not provide it to us.
+"Personal information" includes any information identifiable in nature, and may include: your company information, your name, your address, your e-mail, and your employment related information (such as a resume or references). You may visit and use this website without providing Personal Information. We will collect Personal Information only if you provide it to us. If you do not want us to have your Personal Information, please do not provide it to us.
 
 You may provide us with Personal Information through various methods, including (without limitation):
 
@@ -22,23 +22,27 @@ Transactions and Activity - If you become a registered user or if you conduct tr
 
 Email and other voluntary communications - You may also choose to communicate with us through email, via our website, by telephone, in writing, or through other means. We collect the information in these communications, and such information may be personally identifiable.
 
+Location Information - When you use a smart phone or other mobile device to access the website, use a computer to access our website or use our mobile application, we may collect information about your physical location.
+
 Employment Related Information - We may retain Personal Information you submit because you are interested in a career with us. We will use this information only for purposes related to your potential employment with us.
 
-Except for employment related information, which we will use only for purposes related to your potential employment with us, we may use Personal Information for various purposes, including (without limitation): helping to establish and verify the identity of website users; opening, maintaining, administering and servicing users' accounts or memberships; processing, servicing or enforcing transactions and sending related communications; providing services and support to website users; improving the website, including tailoring it to users' preferences; providing users with product or service updates, promotional notices and offers, and other information about The Cheesecake Factory; responding to your questions inquiries, comments and instructions; maintaining the security and integrity of our systems.
+Publicly Available Information - We collect information that is publicly available. For example, we may collect information you submit to a blog, a chat room, or a social network like Facebook, Twitter or Google+. We may also collect information about you from other companies and organizations. By gathering additional information about you, we can correct inaccurate information and give you product recommendations and special offers that are more likely to interest you.
 
 Other Information
 
-When you visit our website, we automatically collect data about the type of browser you are using, your domain name (the name of your internet service provider, or your company name), the time and length of your visit, the pages you view and the order in which you view them, and the site you last visited before coming to thecheesecakefactory.com. We use this information only to improve our site's content and structure. You will remain anonymous to us unless you provide us with your Personal Information.
+When you visit our website, we automatically collect data about the type of browser you are using, your domain name (the name of your internet service provider, or your company name), your internet protocol (IP) address, the time and length of your visit, the pages you view and the order in which you view them, and the site you last visited before coming to thecheesecakefactory.com. We use this information only to improve our site's content and structure. You will remain anonymous to us unless you provide us with your Personal Information.
 
 We may also employ the use of "cookie" technology. A "cookie" is a small file that we may place on your hard drive to identify you when you visit our website. We use this technology to provide you a more customized browsing experience, and to determine your eligibility to use certain products or services. You may set your browser to refuse the "cookie," but there may be pages on our site you will not be able to access if you do.
 
-Marketing partners and other third parties also may collect information about your activity on our sites and on third-party sites using tracking technologies.  Tracking data collected by these third parties are used to decide which ads you see on third-party sites and applications, but do not identify you personally.  You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers here [http://www.aboutads.info/choices/].
+Marketing partners and other third parties also may collect information about your activity on our sites and on third-party sites using tracking technologies. Tracking data collected by these third parties are used to decide which ads you see on third-party sites and applications, but do not identify you personally. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers here [<http://www.aboutads.info/choices/>].
 
 We may also collect aggregated data, which is data from which the identity of an individual cannot be determined. We may use aggregated data at our discretion.
 
 Use of Personal Information and Other Information
 
-We may engage other companies to perform a variety of functions, such as to fulfill orders, assist with promotions, provide technical assistance, etc. (collectively, "Related Companies"). Related Companies may use your information only to the extent necessary for these companies to fulfill their functions, and for no other purpose. We will not make your information available to any unrelated business or activity for any reason.
+Except for employment related information, which we will use only for purposes related to your potential employment with us, we may use Personal Information for various purposes, including (without limitation): helping to establish and verify the identity of website users; opening, maintaining, administering and servicing users' accounts or memberships; processing, servicing or enforcing transactions and sending related communications; providing services and support to website users; improving the website, including tailoring it to users' preferences; providing users with product or service updates, promotional notices and offers, and other information about The Cheesecake Factory; responding to your questions inquiries, comments and instructions; maintaining the security and integrity of our systems.
+
+We may engage other companies to perform a variety of functions, such as to fulfill orders, assist with promotions, provide technical assistance, etc. (collectively, "Related Companies"). Related Companies may use your information only to the extent necessary for these companies to fulfill their functions, and for no other purpose. Except as otherwise stated herein, we will not make your information available to any unrelated business or activity for any reason.
 
 We reserve the right to use or disclose any information as needed to satisfy any law, regulation or other legal request, to protect the integrity of the website, to fulfill your requests or to cooperate in any law enforcement investigation or any other investigation related to public safety.
 
@@ -48,10 +52,22 @@ This website is directed toward and designed for use only by persons aged 13 or 
 
 **SECURITY**
 
-This website employs commercial firewall technology that uses Secure Socket Layer protection and 128-bit encryption to maintain the security of your information. We may assign you a login identification name and password to access our services. We will not disclose such identifying information to any individual without your authorization.
+This website employs commercial firewall technology that uses Secure Socket Layer protection and 128-bit encryption to maintain the security of your information. We may assign you a login identification name and password to access our services. We will not disclose such identifying information to any individual without your authorization. The Cheesecake Factory protects your information using commercially reasonable technical, physical, and administrative security measures to reduce the risk of loss, misuse, unauthorized access, disclosure or modification of your information. Some of our safeguards include firewalls, data encryption, physical access controls, and administrative informational controls. While we have employed security technologies and procedures to assist safeguarding your personal information, no system or network can be guaranteed to be 100% secure. If required by law, we shall notify you in the event that any of your Personal Information or other information you provided is compromised.
+
+**DATA PROCESSING AND STORING**
+
+The Cheesecake Factory and its third-party service providers may process or store your personal information in the United States of America, Canada, and/or other countries around the world. Regardless of the company or person who processes your information and where it is processed, we will take steps to protect your information in accordance with applicable data protection laws and this Privacy Policy.
 
 **CHOICE AND CONTROL**
 
-In order to provide service to you, we may send you communications related to your transactions, security or the administration of this website. From time to time, we may also send you other messages or updates about The Cheesecake Factory, our website and promotions or other activities. If you do not wish to receive non-transaction/security related communications from The Cheesecake Factory, please contact us where specified in the Contact section, below.
+In order to provide service to you, we may send you communications related to your transactions, security or the administration of this website. From time to time, we may also send you other messages or updates about The Cheesecake Factory, our website and promotions or other activities. If you do not wish to receive non-transaction/security related communications from The Cheesecake Factory, please contact us where specified in the [Contact](https://web.archive.org/connect) section, below.
 
-You may also request information about your account with us, including a copy of your customer profile. We will provide this information to you on your request, and will update and correct your profile if you wish to make changes.
+You may also update information about your account with us, including a copy of your customer profile. We will update and correct your profile if you wish to make changes.
+
+**ACCESSING YOUR INFORMATION**
+
+Under the Personal Information and Electronic Documents Act of Canada and related Canadian provincial legislation, you have the right, under certain circumstances, to access information we hold about you, including a copy of your customer profile. Any such access request must be writing and provided to us at the email or postal addresses described in the "Contact Us" section below. Any such access request may be subject to a small administrative fee to meet our costs in providing you with details of the information we hold about you.
+
+**CONTACT US**
+
+We welcome your questions, comments and concerns about privacy. You may use [Contact Us](https://web.archive.org/connect) to ask The Cheesecake Factory a privacy question or correct Personal Information or other information you have provided to us. You can contact The Cheesecake Factory’s Privacy Officer at [PrivacyOfficer@thecheesecakefactory.com](mailto:PrivacyOfficer@thecheesecakefactory.com).
