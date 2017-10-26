@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shetakesontheworld.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623165707id_/http%3A//shetakesontheworld.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shetakesontheworld.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027000441id_/http%3A//www.shetakesontheworld.com/legal) for the most accurate reproduction.*
 
 # Legal | She Takes on The World
 
@@ -69,6 +69,6 @@ You may choose to restrict the collection or use of your personal information: I
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 
-**We’re here to help**
+**We’re here to help 🙂**
 
 Again, we’re here to answer any questions you may have. Just send them [questions@shetakesontheworld.com](mailto:questions@shetakesontheworld.com). Thanks so much for being part of our community, and for taking the time to read this Terms of Use and Privacy Policy.
