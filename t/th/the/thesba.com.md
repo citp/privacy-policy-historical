@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesba.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626170359id_/http%3A//www.newtekone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesba.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026173121id_/http%3A//www.newtekone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Newtek
 
@@ -88,7 +88,7 @@ We do not share with our alliance partners personal consumer credit related info
 
 **How You Can Access or Correct Your Information**
 
-If you would like to verify and/or edit or update the personal information we have on file for you, please [Contact Us](http://216.119.106.68/index.php/company/contact/) providing details on the information you would like to review and/or edit or update and contact information so that we can talk with you and get the information to you for review.
+If you would like to verify and/or edit or update the personal information we have on file for you, please [Contact Us](https://www.newtekone.com/index.php/company/contact/) providing details on the information you would like to review and/or edit or update and contact information so that we can talk with you and get the information to you for review.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before providing such information or making requested corrections.
 
@@ -122,8 +122,8 @@ We reserve the right to change this Privacy Policy, and any of the policies desc
 
 Should you have other questions or concerns about our Privacy Policy, please contact us as follows:
 
-  * For website content properties, [Contact Us](http://216.119.106.68/index.php/company/contact/)
-  * For Privacy and Security concerns, [Contact Us](http://216.119.106.68/index.php/company/contact/)
+  * For website content properties, [Contact Us](https://www.newtekone.com/index.php/company/contact/)
+  * For Privacy and Security concerns, [Contact Us](https://www.newtekone.com/index.php/company/contact/)
 
 
 
