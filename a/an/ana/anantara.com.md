@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anantara.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607103209id_/http%3A//www.anantara.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anantara.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026063231id_/http%3A//www.anantara.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Anantara Hotels | Minor International PCL
 
