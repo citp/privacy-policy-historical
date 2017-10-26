@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yumgoggle.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623211411id_/http%3A//yumgoggle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yumgoggle.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026174411id_/http%3A//yumgoggle.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - Yum Goggle
 
@@ -42,3 +42,5 @@ Whenever you are asked to fill in a form on the website, look for the box that y
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
+
+Yum Goggle is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
