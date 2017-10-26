@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macroplant.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626174809id_/https%3A//macroplant.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macroplant.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026235451id_/https%3A//macroplant.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Macroplant
 
