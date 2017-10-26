@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430123350id_/http%3A//www.brookes.ac.uk/About-Brookes/Structure-and-governance/Policies/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027012421id_/http%3A//www.brookes.ac.uk/about-brookes/structure-and-governance/policies-and-financial-statements/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Oxford Brookes University
 
@@ -8,9 +8,9 @@
 
 We collect information about you when you visit this website and voluntarily provide us with personal details in order to enquire about, apply for or access the courses, services and facilities we offer. You may choose to provide these personal details by completing an online form or by contacting us by email or by other means. We also collected information about how you use our website and what services you access.
 
-**Cookies**
+ **Cookies**
 
-Information about your usage of our website is collected using cookies. See our [cookie policy](https://web.archive.org/About-Brookes/Structure-and-governance/Policies/Cookie-policy/ "cookies policy") for further details.
+Information about your usage of our website is collected using cookies. See our [cookie policy](https://web.archive.org/about-brookes/structure-and-governance/policies-and-financial-statements/cookie-policy/ "cookies policy") for further details.
 
  **Phone**
 
@@ -22,7 +22,7 @@ We collect and store information about you in order to respond to your enquiry o
 
 We will also use the information we gather to improve your experience of using our website.
 
-We will not share your information with third parties unless this is permitted or required by law or is otherwise indicated, for instance in our [cookie policy](https://cms-staging.brookes.ac.uk/About-Brookes/Structure-and-governance/Policies/Cookie-policy/ "cookies policy").
+We will not share your information with third parties unless this is permitted or required by law or is otherwise indicated, for instance in our [cookie policy](https://www.brookes.ac.uk/About-Brookes/Structure-and-governance/policies-and-financial-statements/Cookie-policy/ "cookies policy").
 
 ## Access to your information and contacting us
 
