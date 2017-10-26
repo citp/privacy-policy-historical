@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karupsha.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616015445id_/http%3A//www3.karupsha.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karupsha.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026210118id_/http%3A//www.karupsha.com/privacy) for the most accurate reproduction.*
 
 # Karup's Hometown Amateurs - Privacy Policy
 
