@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruth.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511163406id_/https%3A//www.thetruth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruth.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026223733id_/https%3A//www.thetruth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | truth
 
