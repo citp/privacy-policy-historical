@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scbwi.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627184702id_/http%3A//www.scbwi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scbwi.org privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026214440id_/http%3A//www.scbwi.org/privacy-policy) for the most accurate reproduction.*
 
 # SCBWI | Privacy Policy
 
