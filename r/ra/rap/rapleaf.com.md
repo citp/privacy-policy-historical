@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625173539id_/http%3A//www.towerdata.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026182005id_/http%3A//www.towerdata.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The TowerData Privacy Policy is our way of ensuring the safety and accuracy of Internet users' personal information, whether gathered on this site, by our clients, or by our partners.
 
-We are in the data technology business and understand the importance of personal information security. We only work with companies that protect the personal information they collect from their existing or potential customers.  We respect your privacy and are committed to safeguarding it.  This “Privacy Policy” discloses how we gather and use personal information and our compliance with Privacy Shield and US-Swiss Safe Harbor Framework.
+We are in the data technology business and understand the importance of personal information security. We only work with companies that protect the personal information they collect from their existing or potential customers.  We respect your privacy and are committed to safeguarding it.  This “Privacy Policy” discloses how we gather and use personal information and our compliance with EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework.
 
 ## How We Gather Information
 
@@ -54,11 +54,11 @@ To access your data or for questions or comments related to TowerData’s privac
 
 We self-certify compliance with Privacy Shield - <https://www.privacyshield.gov/list>
 
-TowerData complies with the [EU-U.S. Privacy Shield Framework](http://www.privacyshield.gov/) and the [U.S.-Swiss Safe Harbor Framework](http://www.export.gov/safeharbor) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TowerData has certified that it adheres to the Privacy Shield Principles of Notice, Choice, and Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Resource, Enforcement and Liability. A description of these programs may be found at the following links: [https://www.privacyshield.gov](https://www.privacyshield.gov/) and [http://2016.export.gov/safeharbor/swiss/. ](http://2016.export.gov/safeharbor/swiss/)
+TowerData complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. TowerData has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 ## Onward Transfer
 
-Any data processed by TowerData will not be further disclosed to third parties except where permitted or required by the processing contract. TowerData complies with the Privacy Shield Principles or the U.S.-Swiss Safe Harbor Framework for all personal data from the EU, including the onward transfer liability provisions. Any information TowerData's client (acting as the EU or Swiss controller) identifies as sensitive will be treated accordingly.
+Any data processed by TowerData will not be further disclosed to third parties except where permitted or required by the processing contract. TowerData complies with the Privacy Shield Principles for all personal data from the EU and Switzerland, including the onward transfer liability provisions. Any information TowerData's client (acting as the EU or Swiss controller) identifies as sensitive will be treated accordingly.
 
 ## Data Security
 
@@ -66,18 +66,18 @@ TowerData maintains physical, electronic and administrative safeguards to help p
 
 ## Enforcement
 
-TowerData has a designated individual who is responsible for the internal supervision of TowerData's privacy policies. TowerData educates relevant employees about compliance with the Privacy Shield Principles and has self-assessment procedures in place to ensure its compliance. The DMA serves as TowerData's third-party dispute resolution provider, as required under the Privacy Shield and Safe Harbor Privacy Principles.
+TowerData has a designated individual who is responsible for the internal supervision of TowerData's privacy policies. TowerData educates relevant employees about compliance with the Privacy Shield Principles and has self-assessment procedures in place to ensure its compliance. The Data & Marketing Association (DMA) serves as TowerData's third-party dispute resolution provider, as required under the Privacy Shield Framework. 
 
-If you believe TowerData is not complying with the Privacy Shield or Safe Harbor principles or this policy, contact our company by at:
+If you believe TowerData is not complying with the Privacy Shield principles or this policy, contact our company at:.
 
-TowerData, Inc.   
+TowerData, Inc.   
 Attn: Privacy Shield  
 379 Park Avenue South, 5th Floor  
 New York, NY 10016, USA  
 Email: [privacyshield@towerdata.com ](mailto:privacyshield@towerdata.com)  
 Phone: +1.646.742.1771
 
-If your inquiry with TowerData has not been satisfactorily addressed, you may contact the DMA Privacy Shield/Safe Harbor Dispute Resolution Program at:
+If your inquiry with TowerData has not been satisfactorily addressed, you may contact the DMA Privacy Shield Dispute Resolution Program at:
 
 DMA Privacy Shield  
 1333 Broadway, Suite #301  
