@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huotop.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625161539id_/http%3A//huotop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huotop.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026201420id_/http%3A//huotop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free eBook Download
 
