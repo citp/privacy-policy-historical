@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multicare.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607165945id_/https%3A//www.multicare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multicare.org privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026045252id_/https%3A//www.multicare.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MultiCare Health System
 
