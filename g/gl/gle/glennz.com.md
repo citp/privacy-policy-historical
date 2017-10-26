@@ -1,59 +1,86 @@
-> *The following text is extracted and transformed from the glennz.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209213305id_/http%3A//store.glennz.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glennz.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026155418id_/https%3A//store.glennz.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# GlennzTees
+# Glennz Tees Privacy Policy
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+PRIVACY STATEMENT
 
-Updated 02/01/13
+\----
 
-Glennz Tees, LLC Privacy Policy
+SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-Glennz Tees, LLC the owner and operator of glennz.com respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of any of our websites or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.  
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.  
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-By using any of our websites, you are accepting the practices described in this Privacy Policy.
+SECTION 2 - CONSENT
 
-If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
+How do you get my consent?  
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.  
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-In General. We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through any of our websites, the information may be sent to servers located in the United States and other countries around the world.
+How do I withdraw my consent?  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at walter@glennz.com or mailing us at:  
+Glennz Tees - Wholesale  
+800 Interchange Blvd, Suite 102 Austin Texas US 78721
 
-We may collect and store any personal information you enter on any of our websites or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, and other demographic information.
+SECTION 3 - DISCLOSURE
 
-We may also periodically obtain both personal and non-personal information about you from business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-Use of cookies and other technologies to collect information. We use various technologies to collect information from your computer and about your activities on our sites.
+SECTION 4 - SHOPIFY
 
-Information collected automatically. We automatically collect information from your browser when you visit any of our websites. This information includes your IP address, browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address. Cookies. When you visit any of our websites, we may assign your computer one or more cookies to facilitate access to our sites and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our sites, such as the web pages you visit, the links you click, and the searches you conduct on our sites. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our websites.
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.  
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-How we use the information we collect In general. We may use information that we collect about you to:
+Payment:  
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.  
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
+For more insight, you may also want to read Shopify’s Terms of Service (http://www.shopify.com/legal/terms) or Privacy Statement (http://www.shopify.com/legal/privacy).
 
-deliver the products and services that you have requested; manage your account and provide you with customer support; perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, or other third parties; develop and display content and advertising tailored to your interests on our sites and other sites; enforce our terms and conditions; manage our business and perform functions as otherwise described to you at the time of collection.
+SECTION 5 - THIRD-PARTY SERVICES
 
-Financial information. We may use financial information or payment method to process payment for any purchases or sales made on any of our websites, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.  
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.  
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.  
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.  
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our websites or while using our services. Personal information. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+Links  
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
+Google analytics:  
+Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at
 
-Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis and supporting our websites' functionality. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes. Other Situations. We also may disclose your information: In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our websites' terms and conditions or other agreements or policies. In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+SECTION 6 - SECURITY
 
-Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-We will occasionally update this Privacy Policy to reflect changes in our practices and services.
+SECTION 7 - COOKIES
 
-How to contact us
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.  
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).  
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
+_secure_session_id, unique token, sessional  
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.  
+PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
 
-If you have any questions about this Privacy Policy or our information-handling practices, please contact us by e-mail or postal mail as follows:
+SECTION 8 - AGE OF CONSENT
 
-Glennz Tees 800 Interchange Blvd, Suite 102 Austin, TX 78721 United States of America legal@glennz.com
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-Linked Information
+SECTION 9 - CHANGES TO THIS PRIVACY POLICY
 
-Cookies:
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.  
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
+QUESTIONS AND CONTACT INFORMATION
 
-Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. When you sign in to your account on our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
-
-As you browse Glennz, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with glennz.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.
-
-You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
-
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at walter@glennz.com or by mail at  
+Glennz Tees - Wholesale  
+[Re: Privacy Compliance Officer]  
+800 Interchange Blvd, Suite 102 Austin Texas US 78721  
+\---- 
