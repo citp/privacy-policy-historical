@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myawesomebeauty.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611202636id_/https%3A//myawesomebeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myawesomebeauty.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026030235id_/https%3A//myawesomebeauty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
