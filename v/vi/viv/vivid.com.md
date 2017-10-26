@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206002050id_/http%3A//www.vivid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026042040id_/https%3A//www.vivid.com/privacy/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Vivid | Celeb Sex Tapes | Vivid Video
-
-## Privacy Statement for Vivid Entertainment, Inc.
+# Vivid | Celebrity Sex Tapes | Vivid Privacy Policy
 
 Vivid Entertainment, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
@@ -18,8 +16,6 @@ Financial information that is collected is used to check the users' qualificatio
 
 Should the user utilize chat rooms, forums, message boards, and/or news groups, please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Opting Out – Revocation of Consent To Email Procedure
+Opting Out - Revocation of Consent To Email Procedure The Site also offers all Members and Users a procedure for opting out if the Member or User subsequently chooses to revoke or withdraw any consent to receive offers by sending an e-mail to support@vividcash.com and clearly stating that the Member or User has revoked or withdrawn consent to receive any future Offers. Members and Users may also Unsubscribe to Opt-In emails via Unsubscribe links at the bottom of a generated email to the Member or User.
 
-The Site also offers all Members and Users a procedure for opting out if the Member or User subsequently chooses to revoke or withdraw any consent to receive offers by sending an e-mail to support@vividcash.com and clearly stating that the Member or User has revoked or withdrawn consent to receive any future Offers. Members and Users may also Unsubscribe to Opt-In emails via Unsubscribe links at the bottom of a generated email to the Member or User.
-
-You can send email to support@vividcash.com You can send mail to the following postal address: Consumer Protection Dept. 26500 W, Agoura Rd, Calabasas, Ca. 91302
+You can send email to support@vivid.com You can send mail to the following postal address: Consumer Protection Dept. 26500 W, Agoura Rd, Calabasas, Ca. 91302
