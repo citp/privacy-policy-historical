@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ama.ab.ca privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121184018id_/https%3A//ama.ab.ca/about-ama/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ama.ab.ca privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026060422id_/https%3A//ama.ab.ca/about-ama/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-SAVE $42 when you buy a Plus membership. Use promo code SAVINGS. Excludes Gift memberships. [Read More](https://ama.ab.ca/membership-rewards/compare-memberships/) close
 
 _[Click here for the Alberta Motor Association Website Usage and Privacy Statement.](https://web.archive.org/about-ama/internet-privacy-statement/)_
 
