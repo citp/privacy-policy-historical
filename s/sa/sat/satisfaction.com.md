@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420214840id_/https%3A//www.satisfaction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026101845id_/https%3A//www.satisfaction.com/privacy-policy) for the most accurate reproduction.*
 
 # Satisfaction - Privacy Policy
 
@@ -6,7 +6,9 @@
 
 **WE SHARE YOUR CONCERNS ABOUT SAFEGUARDING YOUR PERSONAL INFORMATION**
 
-Satisfaction Adult Store facilitates the operation of the shopping website located at Satisfaction.com (referred to later as the “Site,” “we,” or “us”). We fully understand the need to protect your personal information while online and we have developed this policy as a means to provide you with the utmost privacy possible. This Privacy Policy (referred to later as “Policy”) describes our practices regarding the collection and use of information throughout out the Site. By using the Site or obtaining any product or service through this Site, you agree the limited collection and use of information as outlined in this Policy. If you do not agree to this Policy, please do not use the Site.
+We fully understand the need to protect your personal information while online and we have developed this policy as a means to provide you with the utmost privacy possible. Under no circumstances will we share or sell any of your personal information, including your email address.
+
+Satisfaction Adult Store facilitates the operation of the shopping website located at Satisfaction.com (referred to later as the “Site,” “we,” or “us”). This Privacy Policy (referred to later as “Policy”) describes our practices regarding the collection and use of information throughout out the Site. By using the Site or obtaining any product or service through this Site, you agree the limited collection and use of information as outlined in this Policy. If you do not agree to this Policy, please do not use the Site.
 
 We may from time to time update this Policy to reflect changing technology and other factors. We will notify you of changes to the Policy by posting the updated Policy on this page. We ask that you bookmark and periodically review this page to ensure that you remain familiar with the most current version of the Policy. You can determine when this Policy was last revised by checking the “LAST REVISED” legend at the bottom of the Policy.
 
@@ -46,7 +48,9 @@ We work with third parties who provide services, including but not limited to we
 
 Subject to applicable law, we reserve the right to release information concerning any Site visitor where such visitor is believed to be in violation of his or her obligations to us, is partaking (or is suspected of partaking) in any illegal activity, in response to civil subpoenas and discovery requests, to protect the interests of the Site, our customers or others, and as otherwise permitted or required by law as regards to these special cases.
 
-The Site seeks to use reasonable security measures to help protect against the loss, misuse and alteration of personally identifiable information that is under our control. While no security system, or system of transmitting data over the Internet, can be guaranteed to be 100% secure, we seek to protect your personally identifiable information through several sources. First, all pages containing personal information are encrypted using secure https protocol. Second, customer credit card numbers are not visible in their entirety (i.e., XXXX XXXX XXXX 1234) when entered. Third, we use Stripe for all payment processing. Stripe one of the world’s leading credit card processing companies. Your credit card information is never stored on our servers- It is sent directly and securely to Stripe. We cannot guarantee the means by which information is transmitted between your computer and the Site servers, or any information provided to us or to any third party through or in connection with the Site. You provide all such information at your own risk, but please remember that these risks can be minimized by using responsible browsing habits such as the use of https, anti-virus software and similar protection measures.
+The Site seeks to use reasonable security measures to help protect against the loss, misuse and alteration of personally identifiable information that is under our control. While no security system, or system of transmitting data over the Internet, can be guaranteed to be 100% secure, we seek to protect your personally identifiable information through several sources. First, all pages containing personal information are encrypted using secure https protocol. Second, all customer credit/debit card information is encrypted in its entirety. Third, we use PayPal for all payment processing. PayPal is one of the world’s most secure card processing companies. Your credit/debit card information is never seen by us or stored on our servers; It is sent directly and securely to PayPal. 
+
+We cannot guarantee the means by which information is transmitted between your computer and the Site servers, or any information provided to us or to any third party through or in connection with the Site. You provide all such information at your own risk, but please remember that these risks can be minimized by using responsible browsing habits such as the use of https, anti-virus software and similar protection measures.
 
 If you have signed up for an account with the Site, you may update your mailing address, email address, name changes or telephone number by clicking “my account” located at the top of the page. This takes you to a page with your account information and preferences. Please take the time to make sure your information is accurate for timely delivery as well as keeping your mailing preferences updated.
 
@@ -82,4 +86,4 @@ Can I create an online account and not receive marketing or promotional emails f
 
 Yes. After setting up an account, you can log in and set your preference to not receive promotional emails.
 
-LAST REVISED: January 13, 2017
+LAST REVISED: August 10, 2017
