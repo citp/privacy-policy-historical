@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamebookers.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107114450id_/https%3A//help.gamebookers.com/en/general-information/security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebookers.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026070503id_/https%3A//help.gamebookers.com/en/general-information/security/privacy-policy) for the most accurate reproduction.*
 
 # Help - General Information - Privacy Policy
 
