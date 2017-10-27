@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingandroid.org privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531080646id_/http%3A//www.everythingandroid.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingandroid.org privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027221843id_/http%3A//www.everythingandroid.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
