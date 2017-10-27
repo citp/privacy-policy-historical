@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torahbabies.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523173616id_/http%3A//torahbabies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torahbabies.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027171559id_/http%3A//torahbabies.com/privacy) for the most accurate reproduction.*
 
 # Privacy » Torah Babies » Learning to Grow in Torah!
 
@@ -141,3 +141,7 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 **and we will promptly remove you from ALL correspondence.**
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+Are you looking for a GREAT book that will uplift, entertain, and encourage you?  Then look no further…
+
+[](https://www.amazon.com/T-S-44-Button-Tree-Prophet/dp/1520767854/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=torahbabies-20&linkId=ab5e4298ec650628ff21123d8c3cee04)
