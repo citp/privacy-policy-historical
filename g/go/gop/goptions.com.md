@@ -1,32 +1,57 @@
-> *The following text is extracted and transformed from the goptions.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204165612id_/http%3A//www.goptions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goptions.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027174604id_/http%3A//www.goptions.com/disclaimers) for the most accurate reproduction.*
 
-# Privacy Policy | Goptions.com
+# Privacy Policy and Disclaimers - Binary Options and Forex Trading Reviews, Tips & Strategies
 
-**GOptions does its utmost to ensure the privacy, confidentiality and security of its clients are preserved both throughout their interaction with the company and afterwards, to the fullest extent achievable by the company.**
+This website is not a binary trading website and is not owned by any binary options firm. All operations on this site are intended for informational and entertainment purposes only. No trading is offered or solicited by GOptions.com.
 
-1\. When clients register with **[GOptions](http://www.goptions.com/)** they acknowledge their willingness to share with the company certain private information which we use for the purpose of confirming the client’s identity and ensuring the security of their deposits and trading account. This information is collected in line with our stringent verification procedures which are used to deter international money laundering operations and to ensure the security and safety of our customer’s trading activity throughout.
+Binary options companies are not regulated by any government regulatory agencies in the United States of America. Please take notice that unregulated trading activity by U.S. citizens is considered unlawful. All users trade at their own risk.
 
-2\. Our clients undertake to supply us with true, updated and accurate information about their identity. Furthermore  they are required to state categorically that they are registering and trading on their own behalf and are not seeking at any time to act any manner which could be considered fraudulent nor are they seeking to impersonate any other individuals for any purposes whatsoever.
+Risk Disclosure: GOptions.com does not accept any liability for loss or damage as a result of reliance on the information contained within this website, including but not limited to educational content, quotes, charts, and news. Please be aware of the risks inherent with binary options trading, Forex trading, and trading on financial markets in general. Never invest more money than you can safely risk and are comfortable with losing.
 
-3\. GOptions’ data collection procedures include the collection of client’s freely disclosed information as shared with the company, in addition to the placement of cookies for the purposes of gathering data about the manner in which client’s interact with the GOptions website. These tools for gathering client’s information are employed for the purpose of ensuring the customer’s own security and all data collected by the company is shared only with individuals within the company who are involved with the verification of customer account information for the express purpose of ensuring the customer’s confidentiality and security.
+The risks involved in trading binary options are high; such trades may not be suitable for all investors. GOptions takes no responsibility for any trading losses you might face as a result of using the information hosted on this website.
 
-4\. GOptions will never disclose any private or otherwise confidential information in regards to our clients and former clients to third parties without the express, written consent of our clients, except in such specific cases in which disclosure is a requirement under law, or is otherwise necessary in order to perform verification analysis on the client’s identity for the purposes of safeguarding their account and securing their personal information.
+## What information do we collect from our users?
 
-5\. By registering with GOptions and through the voluntary interaction they undertake with GOptions’ products and services the clients confirm and agree that they consent to the use of all or part of the information they provide concerning their GOptions trading account, the transactions they undertake through it and the interactions which they perform with the company on behalf of the company. All interactions the customer undertakes with the company will be stored by the company for the purposes of record and as such may be employed by the company in such cases that disputes arise between clients and .
+We collect information only when users are ordering or registering on our site, at which point you may be asked to enter your name or e-mail address. Otherwise, users may visit our website anonymously.
 
-6\. GOptions does its utmost to ensure the confidentiality of its clients personal information including the implementation of data protection procedures designed to ensure client confidentiality. GOptions ensures that its data protection policy is regularly updated in order to ensure that client’s confidential information is continually safeguarded.
+Google, as a third party vendor, uses cookies to serve ads on our site. Users may be able to opt out of receiving some Google cookies through the Google ad and content network privacy policy.
 
-7\. From time to time GOptions may contact clients whether by phone or email for the purpose of offering them further information about GOptions binary options trading or financial market trading. In addition the company may, on occasion, seek to contact clients, whether by phone or by email, for the purpose of informing them of unique promotional offerings provided by GOptions for the client. Clients consent to the receipt of such contact when they consent to our terms and conditions of use when registering with GOptions.
+## Why do we collect this information?
 
-Any person wishing to opt out of further contact with GOptions at anytime whatsoever is entitled to do so, simply by contacting the company whether by phone or email and requesting that no further contact on behalf of the company will be made.
+We may use the information collected in one or more of the following ways:
 
-8\. GOptions uses re-marketing as a tool for marketing online  
-Third-party vendors may show our ads on sites across the Internet.
+  * Personalization: Your information may help us better tailor the website to your unique needs.
+  * Improvement: We consistently seek to improve our site based on the information and feedback we collect from visitors.
+  * Customer Service: The information collected can help us better support our users.
+  * Sending Emails: If you supply us with your email address, we may use it to send information, news, and updates pertaining to our website.
+  * Site Features: Information may be used to help run promotions, surveys, contests, or similar efforts.
 
-As such, please note that cookies will be used from time to time for track and analysis. If provided, we may make use of your personal information without your express knowledge and you waive your right to such use in the following manner:
 
-We won’t be collecting any personally identifiable information (PII) including, but not limited to, email addresses, telephone numbers, and credit card numbers. GOptions won’t associate personally identifiable information with remarketing lists, cookies, data feeds, or other anonymous identifiers.
 
-We won’t associate targeting information, such as demographics or location, with any personally identifiable information collected from the ad or its landing page or share any personally identifiable information with any third party through remarketing tags or any product data feeds which might be associated with our ads or send Google precise location information without obtaining people’s consent.
+If at any time you would like to unsubscribe from receiving future emails, we include unsubscribe instructions at the bottom of each email.
 
-We won’t use remarketing list with any sensitive information about our site or app visitors, whether we collected it directly or associated it with a visitor, based on the visitor’s profile or behavior on our site or app. Restrictions on list creation may apply to both individual webpages and entire websites or apps and Ad content will not imply knowledge of personally identifiable or sensitive information.
+## Do you use cookies? And what are cookies, anyway?
+
+Yes. Cookies are small files that are transferred to your hard drive through your web browser that enable the site or service provider systems to recognize your browser on future visits, as well as capture or remember certain information.
+
+## Do you sell my information to third parties?
+
+In no way do we share any identifiable personal information to any outside parties. However, this information may be provided to certain trusted third parties who assist us in operating our website and providing services, as long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. In addition, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third party links
+
+We may choose to  offer third party products or services on our website. These third party sites have separate and independent privacy policies. We have no responsibility or liability for the content and activities of these linked sites. That said, as we are committed to the integrity of our site and want to give our users a positive experience, so we welcome any feedback you may have about these sites and their policies.
+
+## California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+## Children’s Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old.
+
+## Privacy Policy Consent and Updates
+
+By using our site, you consent to our web site privacy policy. If we should alter our privacy policy, those changes will be updated on this page.
+
+ **Affiliate Disclosure** – _The publishers of this website may earn money via advertisements and affiliate links, which may be found on any page on this site_.
