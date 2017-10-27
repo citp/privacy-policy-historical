@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621223631id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027040350id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -55,12 +55,6 @@ OfferStation reserves the right to modify, update, and change this policy at our
 ## UBER Standard Chartered Credit Card Promotion
 
 ](http://www.offerstation.com/offers-promotions/180577/uber-standard-chartered-credit-card-promotion.htm)
-
-[
-
-## Sakae Sushi Standard Chartered Promotion
-
-](http://www.offerstation.com/dining-food-offers/174727/sakae-sushi-standard-chartered-promotion.htm)
 
   
 
