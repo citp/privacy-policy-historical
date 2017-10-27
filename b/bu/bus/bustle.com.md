@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustle.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526044746id_/https%3A//www.bustle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustle.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027072900id_/https%3A//www.bustle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -116,7 +116,7 @@ We otherwise store all of our information, including your IP address information
 
 If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
- _California Privacy Rights_ : Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 158 West 27th Street, 11th Floor New York, NY 10001.
+ _California Privacy Rights_ : Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 315 Park Ave S, 11th Floor New York, NY 10010, USA.
 
 ## How Can I Delete My Account?
 
