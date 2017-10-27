@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martinarchery.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626222947id_/http%3A//martinarchery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinarchery.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027020414id_/http%3A//martinarchery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Martin Archery
 
@@ -42,7 +42,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-509-529-2554 or via email.
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-231-275-1026 or via email.
 
 ###### Can't find what you're looking for?
 
