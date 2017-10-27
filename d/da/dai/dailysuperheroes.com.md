@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailysuperheroes.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618095610id_/http%3A//dailysuperheroes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysuperheroes.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027052908id_/http%3A//dailysuperheroes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [support@dailysuperheroes.com](mailto:support@dailysuperheroes.com). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b3c0c6c3c3dcc1c7f3d7d2dadfcac0c6c3d6c1dbd6c1dcd6c09dd0dcde). 
 
 At http://dailysuperheroes.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://dailysuperheroes.com/ and how we use it.
 
