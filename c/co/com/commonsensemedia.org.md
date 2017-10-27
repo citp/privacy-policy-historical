@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625192818id_/https%3A//www.commonsensemedia.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027023929id_/https%3A//www.commonsensemedia.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Common Sense Media
 
 [En Español](https://web.archive.org/about-us/our-mission/politica-de-privacidad-0)
-
-**Our updated privacy policy explains how we protect donor's information. Please read the full privacy policy for details!**
 
 At Common Sense Media, we value your privacy. And since privacy policies can be very long, here's a summary of the key concepts of the full [Common Sense Media Privacy Policy](https://web.archive.org/about-us/our-mission/privacy-policy#privacy-policy).
 
