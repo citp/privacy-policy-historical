@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightlog.in privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613100041id_/http%3A//rightlog.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightlog.in privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027233319id_/https%3A//rightlog.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - rightlog.in
 
