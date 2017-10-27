@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mariaandros.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628043655id_/http%3A//www.mariaandros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariaandros.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027042719id_/http%3A//www.mariaandros.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maria Andros
 
-Video Marketing Queen, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
+Maria Andros International. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
 
 Video Marketing Queen, Inc. (hereinafter referred to as “COMPANY”) has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
 
@@ -59,7 +59,7 @@ MariaAndros.com is not structured to attract children. Accordingly, we do not in
 
 We are committed to privacy are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and COMPANY Web sites are constantly evolving to meet these demands.
 
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at support@videomarketingqueen.com.
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at support@mariaandros.com.
 
 While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
