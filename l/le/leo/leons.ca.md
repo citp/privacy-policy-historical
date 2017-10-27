@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the leons.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045413id_/http%3A//www.leons.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leons.ca privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027204543id_/http%3A//www.leons.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Leon's | Leon's
-
-[ ](http://www.leons.ca/)
-
-_Your Postal Code:_ **** **** **Delivery Available**
 
 Why does Leon's collect visitor information?
 
@@ -91,8 +87,17 @@ Yes. You can set your browser not to accept cookies, but remember that cookies m
 
 How do I correct or update information about me and my order(s)?
 
-To change, correct, or update information about you or your order prior to shipment, please access the "My Account" area of our website. Alternatively, contact us at [**customercare@leons.ca**.](mailto:customercare@leons.ca)  
+To change, correct, or update information about you or your order prior to shipment, please access the "My Account" area of our website. Alternatively, contact us at [**customercare@leons.ca**.  
+](mailto:customercare@leons.ca)[](mailto:customercare@leons.ca)
 
+Can I cancel my order?
+
+If you have NOT received your merchandise, you may cancel all or part of your order without a charge or fee by contacting us within 48 hours of your delivery date.  Note: Orders containing special order items cannot be cancelled.  
+
+
+What is your return policy?
+
+All sales are final. However if you discover concealed damages you have 72 hours to report it. Just call the customer service department of the Leon's store nearest you. 
 
 Can I have my name removed from Leon's active records? How?
 
