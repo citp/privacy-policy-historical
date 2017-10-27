@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seradata.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613010453id_/http%3A//seradata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seradata.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027205600id_/http%3A//www.seradata.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Seradata
+# Privacy Policy - Seradata
 
 Seradata (“We”) commit ourselves to protecting and respecting your privacy when visiting our website.
 
