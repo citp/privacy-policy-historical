@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmusicasia.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201129id_/http%3A//getmusicasia.com/getmusicasia-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmusicasia.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027160810id_/http%3A//getmusicasia.com/getmusicasia-privacy-policy) for the most accurate reproduction.*
 
 # Getmusic Asia - Privacy Policy - Getmusic Asia
 
@@ -131,7 +131,7 @@ Sometimes UM websites contain links to third party websites for your convenience
 If you have any questions or comments about this privacy policy, if you wish to access any personal data UM holds about you, or if you wish to make a complaint about how UM has handled personal data about you, please contact Getmusic Asia’s Privacy Officer by one of the following methods:
 
 by telephone: (852) 2301 5798;  
-by email: [info@getmusicasia.com](mailto:info@getmusicasia.com)  
+by email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0e676068614e696b7a637b7d676d6f7d676f206d6163)  
 by letter: Level 28, Millenium City 6, 392 Kwun Tong Road, Kwun Tong, Kowloon, Hong Kong SAR.
 
 ## 11\. Changes to this Privacy Policy.
