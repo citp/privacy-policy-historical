@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vixenval.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024075112id_/http%3A//www.mifrabv.com/index-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vixenval.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027063617id_/http%3A//www.mifrabv.com/index-2.html) for the most accurate reproduction.*
 
 # ----Index----
 
