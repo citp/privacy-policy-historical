@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the samsungknox.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630170020id_/https%3A//www.samsungknox.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungknox.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027070007id_/http%3A//www.samsungknox.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Samsung Knox
-
-## Privacy Policy
 
 This "Privacy Policy" describes how Samsung collects, processes and protects your personal information. Samsung's Privacy Policy applies to all Services provided by Samsung or Samsung's Subsidiaries (as described in more detail in Samsung Service Terms and Conditions) and any Services or products that display or refer to this Privacy Policy, regardless of whether you use the Services through Samsung's website, your mobile phone, mobile device, TV, PC or any other equipment suitable to use the Services. This Privacy Policy does not apply to any Services or products which provide for their own privacy policy.
 
