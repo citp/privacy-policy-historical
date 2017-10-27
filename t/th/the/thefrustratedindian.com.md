@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefrustratedindian.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118111503id_/http%3A//www.thefrustratedindian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrustratedindian.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027233319id_/https%3A//rightlog.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Frustrated Indian
+# Privacy Policy - rightlog.in
 
 Your privacy is very important to us.  
 Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.  
@@ -16,4 +16,4 @@ The following outlines our privacy policy.
 
 
 
-We are committed to operating thefrustratedindian.com in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+We are committed to operating rightlog.in in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
