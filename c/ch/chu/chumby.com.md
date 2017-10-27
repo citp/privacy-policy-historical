@@ -1,16 +1,28 @@
-> *The following text is extracted and transformed from the chumby.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627101156id_/http%3A//www.chumby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chumby.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027223657id_/http%3A//www.chumby.com/privacy) for the most accurate reproduction.*
 
-# None
+# Chumby
+
+Unbrick your Sony dash! Details 
+
+[_here_](http://forum.chumby.com/viewtopic.php?id=9752)
+
+.
+
+Info on how to install chumby onto your Sony dash 
+
+[_here_](http://forum.chumby.com/viewtopic.php?id=9843)
+
+.
 
 ## Privacy Policy; Your California Privacy Rights
 
-**Updated: February 17, 2013**
+**Updated: March 2015**
 
-Blue Octy LLC (" **Blue Octy** ", " **us** " or " **we** ") respects the privacy of the visitors to its Website, the home page of which is located at http://www.chumby.com (" **Website** "). This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Website and Services. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Terms of Use for the chumby Services that you can find here: <http://www.chumby.com/terms>
+Blue Octy LLC (“ **Blue Octy** ”, “ **us** ”, or “ **we** ”) respects the privacy of the visitors to its Website, the home page of which is located at http://www.chumby.com ( “ **Website** ” ). This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Website and Services. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Terms of Use for the chumby Services that you can find here: <http://www.chumby.com/terms>
 
-" **Personal Information** " is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing. 
+“ **Personal Information** ” is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing. 
 
-" **Anonymous Information** " means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect and use Personal Information and Anonymous Information as described in this Privacy Policy. 
+“ **Anonymous Information** ” means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect and use Personal Information and Anonymous Information as described in this Privacy Policy. 
 
 **Notice to California Residents - Your California Privacy Rights (As Provided by California Civil Code section 1798.83).**
 
@@ -20,7 +32,7 @@ A California resident who has provided Personal Information to a business with w
 
 By submitting Personal Information through our Website, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy. 
 
-YOUR PERSONAL INFORMATION MAY BE PROCESSED BY BLUEOCTY IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. 
+YOUR PERSONAL INFORMATION MAY BE PROCESSED BY BLUE OCTY IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. 
 
 ## Collection of Personal Information
 
@@ -53,9 +65,9 @@ When you access the Services with your chumby Device or Virtual chumby, the chum
 
 Depending on the Applications you may use on your chumby Device or Virtual chumby and how you use such Applications, the Services may also store parts of the data that you access with your chumby Device or Virtual chumby for a limited amount of time and/or transactional data that you have entered for authorization purposes. 
 
-An " **Internet protocol address** " or " **IP Address** " is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow. 
+An “ **Internet protocol address** ” or “ **IP Address** ” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow. 
 
-" **Cookies** " are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. Blue Octy may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly. 
+“ **Cookies** ” are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. Blue Octy may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly. 
 
 Blue Octy may also contract with third parties in order to promote the products and/or services of these third parties by placing ads on the Website or providing it through the Services. We may use information that was posted by Registered Users, or information (including Personal Information) that was collected by the Services in connection with your use of the chumby Device or Virtual chumby as described above, to tailor the display of ads or the provision of Applications to the interest of the Registered Users. Clicking on such ads or selecting them otherwise, or using the Applications that contain the ads, may direct you to the website of the third party and the third party may also use Cookies in connection with these ads. Please be advised that Blue Octy is not responsible for these other websites or any content on these other websites and that this Privacy Policy does not govern your visit of these other websites. 
 
@@ -63,7 +75,7 @@ Blue Octy may also contract with third parties in order to promote the products 
 
 We may receive Personal Information about you from other sources like telephone or fax, or from third parties that provide services for us in connection with the Services and community. 
 
-We may receive Personal Information and/or Anonymous Information about you from certain third parties that provide our products or services by way of co-branded or private-labeled products or services (" **Third Parties** ”, “ **Third Party Products** ”, and “ **Third Party Services** ”, respectively). If you use a Third Party Product or Third Party Service, then the applicable Third Party may supply us with your Personal Information and/or Anonymous Information in connection with your use of such Third Party Product or Third Party Service. 
+We may receive Personal Information and/or Anonymous Information about you from certain third parties that provide our products or services by way of co-branded or private-labeled products or services (“ **Third Parties** ”, “ **Third Party Products** ”, and “ **Third Party Services** ”, respectively). If you use a Third Party Product or Third Party Service, then the applicable Third Party may supply us with your Personal Information and/or Anonymous Information in connection with your use of such Third Party Product or Third Party Service. 
 
 We may add all of the above information to the information we have already collected from you via our Website in order to improve the Services we provide and our community. 
 
@@ -79,7 +91,7 @@ One idea behind the chumby Device, Virtual chumby, and Services is that the memb
 
 Please be also aware that Applications may share Personal Information that you enter when using them with other Registered Users. Please choose the Personal Information you enter into such Applications accordingly. The same applies to Virtual chumbys that you may set up on a website: Since a "Virtual chumby" is a virtual representation of a chumby Device that you can set up for others to access, any Personal Information that might be displayed on the Virtual chumby will be seen by other Registered Users that can access it - please be aware of this fact and be careful when setting up Virtual chumbys. 
 
-If your Registered User Account is a sub-account of another Registered User Account (an " **Owned chumby Account** "), the Registered User of such Registered User Account will be able to access your Registered User Account and all information stored therein and will be able to modify such information. 
+If your Registered User Account is a sub-account of another Registered User Account (an “ **Owned chumby Account** ”), the Registered User of such Registered User Account will be able to access your Registered User Account and all information stored therein and will be able to modify such information. 
 
 ## Feedback
 
@@ -91,7 +103,7 @@ Except as otherwise stated in this Privacy Policy, we do not trade, rent, or sha
 
 We provide your Personal Information to third party service providers who work on behalf of or with Blue Octy to provide some of the services and features of the Services (such as, but not limited to, the fulfillment of orders made in the chumby Online Store) and to help us communicate with the members of the chumby Network. However, these service providers do not have any independent right to share this information (expect pursuant to a legal requirement such as a subpoena or warrant). 
 
-Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, " **Affiliates** "), we may in the future. We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. 
+Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “ **Affiliates** ”), we may in the future. We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. 
 
 If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
 
@@ -103,7 +115,7 @@ If you use a Third Party Product or Third Party Service, then we may supply the 
 
 We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive newsletters or promotional e-mails from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). 
 
-Despite your indicated e-mail preferences, we may send you administrative e-mails regarding our Services and products (such as, but not limited to, status e-mails in connection with purchases you make through the chumby Online Store) or notices of any updates to our Terms of Use or Privacy Policy. If you do not want to receive such e-mails, you have to delete your Registered User Account with us or refrain from ordering through the chumby Online Store. 
+Despite your indicated e-mail preferences, we may send you administrative e-mails regarding our Services and products (such as, but not limited to, status e-mails in connection with purchases you make through the chumby Online Store), or notices of any updates to our Terms of Use or Privacy Policy. If you do not want to receive such e-mails, you have to delete your Registered User Account with us or refrain from ordering through the chumby Online Store. 
 
 You may change any of the Personal Information in your account by editing your Registered User Account. 
 
@@ -127,4 +139,4 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 
 This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our Services. Continued use of our Services following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-Updated: February 2013
+Updated: March 2015
