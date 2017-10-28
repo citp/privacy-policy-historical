@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecookedpea.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085310id_/http%3A//video.thecookedpea.com/privacyTCP.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecookedpea.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028084331id_/http%3A//video.thecookedpea.com/privacyTCP.html) for the most accurate reproduction.*
 
 # Privacy | The Cooked Pea
 
