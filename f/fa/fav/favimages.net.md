@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favimages.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628102151id_/http%3A//favimages.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favimages.net privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028162602id_/http%3A//favimages.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fav Images - Amazing Pictures
 
