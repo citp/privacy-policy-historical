@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydaypowerblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173726id_/https%3A//everydaypowerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaypowerblog.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028185257id_/https%3A//everydaypowerblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Everyday Power Blog
 
@@ -36,7 +36,7 @@ If you do not accept cookies, you may not be able to use some features of our Se
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: 
 
 **Do Not Track Disclosure**
 
