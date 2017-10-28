@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the mamasandpapas.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714201402id_/http%3A//www.mamasandpapas.com/help/terms/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasandpapas.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028065826id_/https%3A//www.mamasandpapas.com/en-gb/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Help - Mamas & Papas
-
-  * 1\. When do we collect personal data from you?
-  * 2\. What personal data do we collect from you?
-  * 3\. How do we use the personal data we collect from you?
-  * 4\. Who will we disclose your personal data to?
-  * 5\. How do we protect your information?
-  * 6\. Where do we store your personal data?
-  * 7\. What about "cookies"?
-  * 8\. What should you do if you no longer wish to receive marketing material from us?
-  * 9\. Can you see and change the personal data we hold?
-  * 10\. Email a friend
-  * 11\. Your Consent
-  * 12\. Change to this Policy
-
-
+# Privacy Policy | Mamas & Papas
 
 At Mamas & Papas, we are committed to protecting your personal information. We have published this data protection guide to ensure that you are fully aware of how and why we collect information from you and to whom such information is disclosed.
 
@@ -25,7 +10,7 @@ This Privacy Policy sets out the types of personal information we may collect fr
 
 By using the Mamas & Papas website, you are consenting to the practices stated in this Privacy Policy below.
 
-## 1\. When do we collect personal data from you?
+## When do we collect personal data from you?
 
 There are a number of occasions on which personal data may be collected from you. These include;
 
@@ -46,7 +31,7 @@ There are a number of occasions on which personal data may be collected from you
 
 back to top
 
-## 2\. What personal data do we collect from you?
+## What personal data do we collect from you?
 
 Depending on how and for what purpose we are collecting personal data from you, this will include one or more of the following items;
 
@@ -68,7 +53,7 @@ You must ensure all personal data you provide to us is true and accurate when pr
 
 back to top
 
-## 3\. How do we use the personal data we collect from you?
+## How do we use the personal data we collect from you?
 
 We and, where applicable, other companies in the Mamas & Papas group, use the personal data you provide us with for the following purposes;
 
@@ -79,7 +64,7 @@ We and, where applicable, other companies in the Mamas & Papas group, use the pe
   * Processing a refund or exchange
   * Repairing your product
   * Sending you information in relation to your product
-  * Entering you in the competition or prize draw for which you have completed an entry form 
+  * Entering you in the competition or prize draw for which you have completed an entry form
   * Investigating and responding to any complaint or other correspondence we receive from you
   * Monitoring and reviewing our products and service
   * Administering, developing and improving our website
@@ -95,7 +80,7 @@ We and, where applicable, other companies in the Mamas & Papas group, use the pe
 
 back to top
 
-## 4\. Who will we disclose your personal data to?
+## Who will we disclose your personal data to?
 
 In order to fulfil the purposes set out above, we may disclose your personal data to the following third parties;
 
@@ -120,7 +105,7 @@ The personal information you are required to provide when you register should be
 
 back to top
 
-## 5\. How do we protect your information?
+## How do we protect your information?
 
 We take a range of appropriate technical and organisational measures which are intended to prevent unauthorised or unlawful processing of personal data and accidental loss or destruction of, or damage to, personal data. The following are only examples of the various steps we take to protect your personal data.
 
@@ -128,15 +113,15 @@ When you pay for your order online, we work with a reputable third party payment
 
 We require all third parties to whom any personal data is disclosed to keep it secure, treat it as confidential information and only use it for the purpose of providing their services and to fully comply with all applicable provisions of the Data Protection Act 1998.
 
-We will not disclose your personal data to any third party except as set out in this Privacy Policy. 
+We will not disclose your personal data to any third party except as set out in this Privacy Policy.
 
 back to top
 
-## 6\. Where do we store your personal data?
+## Where do we store your personal data?
 
 Your personal data may be stored, used and otherwise processed within the UK and/or any other country(ies) of the European Economic Area (EEA). EEA countries are all member states of the European Union together with Norway, Iceland and Liechtenstein.
 
-We and other companies in the Mamas & Papas group may also store, use or otherwise process personal data outside the EEA. Data protection laws may not be as strong outside the EEA as they are in the EEA. Personal data will not be transferred to a country outside the EEA unless (1) the country to which it is transferred is one which the European Commission considers to provide an adequate level of data protection or (2) the personal data is transferred to a United States company which has signed up to the Safe Harbour scheme or (3) the personal data is transferred to a company which is required by our contract with them only to deal with the data in accordance with our instructions and to maintain appropriate security to protect the personal data which we are satisfied they have.
+We and other companies in the Mamas & Papas group may also store, use or otherwise process personal data outside the EEA. Data protection laws may not be as strong outside the EEA as they are in the EEA. Personal data will not be transferred to a country outside the EEA unless (1) the country to which it is transferred is one which the European Commission considers to provide an adequate level of data protection or (2) the personal data is transferred to a United States company which has signed up to the Privacy Shield scheme or (3) the personal data is transferred to a company which is required by our contract with them only to deal with the data in accordance with our instructions and to maintain appropriate security to protect the personal data which we are satisfied they have.
 
 Our mail server is located in the UK. E-mail addresses, names and postal information are processed through this server. The third party who handles this processing has entered into a contract with us which meets the above requirements.
 
@@ -144,36 +129,46 @@ Credit card payments are processed by a separate company in the United States of
 
 back to top
 
-## 7\. What about "cookies"?
+## What about "cookies"?
 
-For full details of our Cookie policy please [click here](https://web.archive.org/help/terms/cookiePolicy)
-
-## 8\. What should you do if you no longer wish to receive marketing material from us?
-
-When you create a shopping account while ordering online, you will be given the option of receiving information from Mamas & Papas online, by post, e-mail or, when available, via SMS, about products, promotions, special offers and other details which we feel may be of interest to you. In the event that you do not wish to receive such information, please ensure that you do not tick the appropriate box as you go through the registration process.
-
-If you do not wish to receive further marketing information from us or other Mamas & Papas group companies such as details of new products, promotions and special offers from us, please sign in to the My Account page on our website and change you communication preferences, call our Customer Services team on 0345 268 2000 or send an email to unsubscribe@mamasandpapas.com. If you unsubscribe from email communications, it may take up to fourteen working days for this to take effect.
-
-## 9\. Can you see and change the personal data we hold?
-
-You are generally entitled to ask us what personal data of yours is being held or processed by us, for what purpose and to whom it may be or has been disclosed. We will charge a fee to respond to such a request. We promise to respond to your request within 40 days of receiving your written request and fee. In certain limited circumstances as permitted by the Data Protection Act 1998, we are entitled to refuse your request.
-
-If you believe that any of your personal data which we are processing is inaccurate or incorrect please contact us immediately.
-
-If you wish to contact us for any of the above reasons, please e-mail us at myexperience@mamasandpapas.com or write to us at Customer Services, Data Requests, Mamas & Papas (Retail) Ltd, Colne Bridge Road, Huddersfield HD5 0RH.
+For full details of our Cookie policy please [click here](https://web.archive.org/en-gb/cookie-policy)
 
 back to top
 
-## 10\. Email a friend
+## What should you do if you no longer wish to receive marketing material from us?
 
-E-mailing a friend enables you to easily notify your friends or family members about a product or service which may be of interest to them. We do not retain e-mail addresses provided by you when using this service.
+When you create a shopping account while ordering online, you will be given the option of receiving information from Mamas & Papas online, by post, e-mail or, when available, via SMS, about products, promotions, special offers and other details which we feel may be of interest to you. In the event that you do not wish to receive such information, please ensure that you do not tick the appropriate box as you go through the registration process. 
 
-## 11\. Your Consent
+If you do not wish to receive further marketing information from us or other Mamas & Papas group companies such as details of new products, promotions and special offers from us, please sign in to the My Account page on our website and change you communication preferences, call our Customer Services team on 0345 268 2000, or send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you unsubscribe from email communications, it may take up to fourteen working days for this to take effect.
+
+back to top
+
+## Can you see and change the personal data we hold?
+
+You are generally entitled to ask us what personal data of yours is being held or processed by us, for what purpose and to whom it may be or has been disclosed. We will charge a fee to respond to such a request. We promise to respond to your request within 40 days of receiving your written request and fee. In certain limited circumstances as permitted by the Data Protection Act 1998, we are entitled to refuse your request. 
+
+If you believe that any of your personal data which we are processing is inaccurate or incorrect please contact us immediately.
+
+If you wish to contact us for any of the above reasons, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write to us at Customer Services, Data Requests, Mamas & Papas (Retail) Ltd, Colne Bridge Road, Huddersfield HD5 0RH.
+
+back to top
+
+## Email a friend
+
+E-mailing a friend enables you to easily notify your friends or family members about a product or service which may be of interest to them. We do not retain e-mail addresses provided by you when using this service. 
+
+back to top
+
+## Your Consent
 
 Until you opt-out to communications from Mamas & Papas, you are consenting to the collection, processing and potential communication from other companies in the Mamas & Papas group.
 
-## 12\. Change to this Policy
+back to top
 
-This Privacy Policy was last updated July 2014. Please visit this page regularly to keep informed of any new updates.
+## Change to this Policy
 
-©Mamas & Papas (Retail) Ltd 
+This Privacy Policy was last updated March 2017. Please visit this page regularly to keep informed of any new updates. 
+
+©Mamas & Papas (Retail) Ltd
+
+back to top
