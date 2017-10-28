@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dhubs.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409131556id_/https%3A//www.3dhubs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dhubs.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028184432id_/https%3A//www.3dhubs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 3D Hubs
 
