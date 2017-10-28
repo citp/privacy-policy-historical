@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bloggingmomof4.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617155422id_/http%3A//bloggingmomof4.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingmomof4.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028175859id_/http%3A//bloggingmomof4.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy • Blogging Mom of 4
 
 _These policies are valid starting from Jan 1, 2013._
 
-This blog, Blogging Mom of4, is a personal blog written and edited by me. For questions about this blog, please [contact Dawn](http://bloggingmomof4.com/contact/).
+This blog, Blogging Mom of4, is a personal blog written and edited by me. For questions about this blog, please [contact Dawn](https://bloggingmomof4.com/contact/).
 
 **Disclaimer Policy**
 
