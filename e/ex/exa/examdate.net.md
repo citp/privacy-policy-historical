@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the examdate.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063327id_/http%3A//examdate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examdate.net privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028162215id_/http%3A//examdate.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Examdate.co.in
 
-Privacy Policy for Examdates.net If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sarkarinaukricom@gmail.com. At Examdates.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Examdates.net and how it is used.
+Privacy Policy for Examdates.net If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) At Examdates.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Examdates.net and how it is used.
 
 **Log Files**
 
