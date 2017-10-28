@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peacockgapclubhouse.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525000300id_/http%3A//www.peacockgapclubhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacockgapclubhouse.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028033222id_/http%3A//www.peacockgapclubhouse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Peacock Gap Clubhouse
+# Privacy Policy
 
 Peacock Gap Holdings LLC ("Peacock Gap Golf Club") takes your privacy seriously. Earning and maintaining your trust is important to us. We want you to understand what information we gather from you, how this information is used and protected, and what choices you have about how your information is used. This Privacy Policy discloses the privacy practices of www.PeacockGapGolfClub.com (the "Website"). By using the Website, you agree, without limitation or qualification, to be bound by this Privacy Policy.
 
