@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigticket.ae privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625164648id_/http%3A//bigticket.ae/content/12-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigticket.ae privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028044728id_/http%3A//bigticket.ae/content/12-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Big Ticket
 
