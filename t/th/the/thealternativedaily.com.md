@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thealternativedaily.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629044029id_/http%3A//www.thealternativedaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thealternativedaily.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028213419id_/http%3A//www.thealternativedaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ This children’s privacy statement explains our practices with respect to the o
 
 Your information is stored at the list server that delivers thealternativedaily.com content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail and postal mail to those who would like to receive thealternativedaily.com and affiliated material.
 
-All of the messaging or emails that are sent to you by thealternativedaily.com include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.
+All of the messaging or emails that are sent to you by thealternativedaily.com include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communication that we send you.
 
 **Postal Address**
 
