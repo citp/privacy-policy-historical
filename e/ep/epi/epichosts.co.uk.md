@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623230742id_/https%3A//www.epichosts.co.uk/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029001359id_/https%3A//www.epichosts.co.uk/legal.htm) for the most accurate reproduction.*
 
 # EpicHosts - UK's #1 Budget Host :: Get ANYTHING hosted NOW! Games, Websites, Radio Stations, and more!
 
-This Privacy Policy governs the manner in which EpicHosts collects, uses, maintains and discloses information collected from users (each, a "User") of the https://www.epichosts.co.uk website ("Site"). This privacy policy applies to the Site and all products and services offered by EpicHosts.
+This Privacy Policy governs the manner in which EpicHosts collects, uses, maintains and discloses information collected from users (each, a "User", "You") of the EpicHosts.co.uk website ("Site"). This privacy policy applies to the Site and all products and services offered by EpicHosts.
 
 #### Personal identification information
 
@@ -66,68 +66,64 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 This document was last updated on February 5, 2013.
 
-By placing an order with EpicHosts, in sole agreement upon submitting a transaction (once you press the 'Pay Now' button when using PayPal for example, or once a transaction is complete) and tick the agreement confirmation checkbox if applicable, you confirm that you are bound in agreement to the terms and conditions written below:
+The Terms & Conditions paragraphed below explains your agreement and the workings of the EpicHosts.co.uk website ("Site", "EpicHosts"). These Terms & Conditions apply to the site and all products/services offered by EpicHosts. By successfully paying an EpicHosts invoice, therefore placing an order on our site, you oblige that you (each, "Client", "Customer", "Company") are legally bound in agreement to the terms and conditions written below:
 
 #### General Terms & Conditions
 
-EpicHosts is relatively a non-profit business, used as a personal project for experience in hosting, businesses and handling customers. All monies received go to the founder of the project, staff and bills that maintain the company. Our servers are located in UK, France, Germany and Canada.
+EpicHosts is an internet and technology hosting company of which their main purpose is serving web hosting, VPSes, game servers, radio/voice servers and other virtual products. Our servers are located in UK, France, Germany and Canada, however the choice of country is limited to certain products.
 
-The service is run by Ben Gough / Terrum, and solely by HIM, with no intention to transfer ownership without clear consent or accept responsibility for any impersonation taking place regarding us or any of our staff. It is your responsibility to make sure you are at 'epichosts.co.uk' or 'www.epichosts.co.uk' for manual fraudulent checking so please check your address bar regularly. It is also your responsibility to ensure e-mails and other sorts of communication are made ONLY through the methods shown on the support page of our site.
+The business is run by ONE individual named Ben Gough ("Terrum"), registered as a sole trader with UK's tax firm; HMRC. At this time EpicHosts does not hire support or sales staff, therefore it is your responsibility to make sure you are communicating with EpicHosts staff only. We recommend checking your address bar to ensure you are only visiting 'epichosts.co.uk' or 'www.epichosts.co.uk' to avoid inaccurate, outdated or potentially fraudlent information along with any form of service we provide. We cannot be held responsible for any impersonators or any result caused by communication with impersonators.
 
-Our security method is trusted with a DDoS mitigation and protection feature, related to any sorts of large attacks from many sources. It is setup to saturate uploads from many sources within a time frame, then eventually block the sources. However, we are not responsible for any damage to your server or services, and we do not provide free backups of our services. Critical data of such should be kept in customers' safety for easy accessibility of having a backup of your service. Automatic backups can be provided with our services for an extra cost. If we find that your service is sending/receiving abusive packets, your account and service(s) will be terminated and your ISP may be notified. Any received attacks that are not properly taken care of by the customer, which are affecting our services, will also have to be suspended temporarily or terminated permanently.
-
-The FTP Server is maintained by FileZilla, a highly secured and very lightweight server. For best use and compatibility, we recommend the FileZilla Client to connect to our FTP.
+Our security consists of a DDoS mitigation and protection feature provided by CISCO, configured by the datacenter to withstand many various strengths and types of attacks. However, we are not responsible for any damage to your server or services caused by any attack, and we do not provide free backups of our services. Critical data as such should be kept in customers' safety away from our servers to ensure a customer does not lose their data during incidents including but not limited to an attack, outage, corruption or hardware failure. Automatic backups can be provided with our services for an extra cost. We have an automated system in place to block any suspicious incoming/outgoing activity such as port scans, DDoS attacks and more. If we find that your service is sending/receiving abusive packets, your account and/or service(s) may automatically or manually become blocked or suspended/terminated, therefore disallow ANY access to the content or service by the client or visitors for the security of our services and clients. If multiple abusive have been issued, your service may be permanently terminated and any necessary authorities, along with your ISP, may become notified depending on the severity of the issue.
 
 The VPSes we host are unmanaged, unless the Managed VPS addon is purchased alongside with the VPS. Removal of the 'Terrum' account on your VPS, if applicable, is also a breach of our terms and can cause a suspension of your VPS. We require access to VPSes to perform security updates, network changes and other necessary changes that are either requested by the customer or our ISP. The creation of more than one user account per VPS or service is prohibited unless permission given otherwise.
 
-All interactive chat web applications are not allowed to be hosted on our web hosting plans, you are however authorised to use such applications pre-hosted but not on the web hosting server. This includes but is not limited to chat applications written in PHP, Perl, CGI, Python, Ruby, etc. in addition to IRC or IRC bots. Any web application that provides 'real-time' chat is not permitted. Shoutboxes, chatboxes, live chat/live help (such as but not limited to LiveZilla) and other web based chat programs are prohibited. Such terms are put into place due to these applications being more prone to easily going over any fair usage limits. Such applications will automatically be blocked by our servers if detected, and a possible suspension of service if found to be bypassing these automated detections or for multiple infringements. Web hosting plans are not for storage of data such as archives, music or videos and should only be used for website hosting content.
+Our web hosting plans are not to be used for storage of data including but not limited to archives, music or videos and should only be used for website hosting content. This is monitored on a scheduled basis and, should we find any incriminating data, you may be contacted or your service automatically suspended. Please refer to the 'Termination and Suspension' section below for more information.
 
 #### Refunds
 
-This genuine host accepts a 7 day money-back guarantee, within reason. If you are not satisfied we may ask for your opinion on improving our services, or assure you of our true services that you may not have experienced, in case one has misunderstood or became frustrated. We may also use any non-personal information given through any communication method or dispute for training purposes, to help improve our support of hosting and other future purposes.
+This genuine host accepts a 7 day money-back guarantee, within reason. If you are not satisfied we may ask for your opinion on improving our services, or encourage you of our true services that you may not have experienced, in case one has misunderstood or became frustrated. We may also use any non-personal information given through any communication method or dispute for training purposes, to help improve our support of hosting and other future purposes.
 
 The decision to whether you are eligible to a refund is always down to the staff of EpicHosts.
 
 The customer is responsible for the understanding of a properly described service, and the necessity of a service. Funds are held with us until a professional agreement is made with the outcome of the refund and/or request.
 
-A surcharge (processing fee) of 7% will be deducted from all refunds and transactions sent from us to a customer as per PayPal fees (if applicable), setup fees and other charges that may have been obtained during the handling and funding of the mentioned service.
+A surcharge (processing fee) of 7% will be deducted from all refunds and transactions sent from us to a customer due to PayPal refund fees and other potential charges involved during the handling and/or funding of such service(s).
 
-Please note that Renewals, VPSes, Pre-installed services, Web Hosting services, Exchanged services, Domain names, Dedicated servers/machines, Backups and/or any of the hosting addons/plan-upgrades are non-refundable. This is due to the funds being forwarded for promotional reasons, licenses, IP rental and other sorts of additions used within your process that are funded by the customer.
+Please note that Renewals, VPSes, Pre-installed services, Exchanged services, Domain names, Dedicated servers/machines, Backups and any of the hosting addons/plan-upgrades are non-refundable. This is due to the funds being instantly used for the activation of your service, licensing, IP rental and any other possible additions used to process your service. All other services NOT mentioned in this paragraph are refundable within the 7 day money-back guarantee mentioned above. 
 
 #### Payment
 
-If any payment required from a customer is not received by the due date, we acquire the full right to terminate your service and gain a lock of access to any service until it has been renewed or extended, therefore leaving the decision down to us whether content will be kept within a time period.
+You acknowledge that should we not receive renewal payment prior to the date of expiry we reserve the right to suspend services immediately without notice. Occasionally we may provide a 7 day grace period whereby we hold your information/data on our servers during suspension/expiration until renewal, but should this not apply to you or should the period expire without payment we reserve the right to purge all information/data pertaining to your account with us.
 
-We are entitled to recover (on a full indemnity basis) any costs and charges (including legal costs) incurred in recovering any amounts owed by you to EpicHosts.
+A service along with any of its data can be destroyed without warning after expiration or during suspension to save resource or recycle stock for processing of future orders. We are entitled to recover (on a full indemnity basis) any costs and charges (including legal costs) incurred in recovering any amounts owed by you to EpicHosts.
 
-You acknowledge that should we not receive renewal payment prior to the date of expiry we reserve the right to suspend services immediately without notice. We may provide a 7 day grace period whereby we will hold your information and data on our servers, but should this period expire without payment we reserve the right to purge all data pertaining to your account with us.
+Any interlinking services, such as domains linked to web hosting, will be held by us until renewal or a related service has been purchased, as an interlinked service no longer belongs to a customer after expiration of its parent service.
 
-Any interlinking services, such as Domains linked to Web Hosting, will be held by us until renewal or a relevant service has been purchased, as an interlinked service no longer belongs to a customer after expiration.
-
-All payment methods shown on the footer of every page of our site are responsible for any errors in transaction and are absolutely out of our control. If you have an issue with a payment, it is recommended that you contact the payment provider for support. By default PayPal is a recommended method which accepts cards (without needing to sign up).
-
-All payments are a one-off unless described otherwise (subscriptions, contracts, etc) but we do not possess the ability to process transactions without access to the payment account itself. We will therefore not be responsible for any automated payments (subscriptions, contracts, etc) that are left unattended as we do not control such activity. Ensure you contact your payment provider to cancel or suspend any automated payments as renewals are strictly non-refundable (See 'Refunds')
+All payment methods are a one-off unless described otherwise (subscriptions, contracts, etc) which are handled by the merchants themselves. Therefore we do not possess the ability to process and/or charge or create transactions from your account - any subscriptions/contracts are an agreement between YOU and the MERCHANT. We cannot be responsible for ANY non-one-off payments that are left unattended or uncancelled as there is no way for EpicHosts staff to acknowledge a cancellation of a subscription/contract without prior notice. A customer must make sure to contact the appropriate payment merchant to cancel or postpone any automated payments before the end of any service's cycle as renewals are strictly non-refundable (See 'Refunds')
 
 #### Server maintenance
 
-We might have, from time to time, to perform maintenance, upgrades or replacements of any hardware/software or content to our services and machines. We reserve the right to suspend access to any service during the required time to perform maintenance, upgrade or exchange the server, allowing us to quickly and safely finish the maintenance without any interruption or interference of a running service. Maintenance usually lasts no longer than 48 hours.
+We might have, from time to time, to perform maintenance, upgrades or replacements of any hardware/software or content to our services and machines. We reserve the right to suspend access to any service during the required time to perform maintenance, upgrade or exchange the server, allowing us to quickly and safely finish the maintenance without any interruption or interference of a running service. Maintenance usually lasts no longer than a few minutes to a few hours, depending on the severity of the maintenance and whether it is planned or unplanned.
 
-In this event, customers will be informed via e-mail of any planned maintenance. Any unplanned/planned maintenance will be posted on our [Facebook page](https://www.facebook.com/EpicHosts).
+Customers may be informed via e-mail of any planned maintenance. Any unplanned maintenance may be posted on our [Facebook page](https://www.facebook.com/EpicHosts).
 
 #### Setup
 
-It is our responsibility to ensure that any applied hosting package application is completed and activated ready for full use. After completion, all our services are unmanaged unless agreed that managed support will be given. We will not be responsible for any misconfigurations or loss of data due to unauthorised exposure or accidental damage. Re-installations and re-services can be quoted by contacting us for a fee. Quoted times for account activation are estimates and we do not guarantee or imply activation within the quoted time frame. We may delay or refuse activation if:
+It is our responsibility to ensure that any applied hosting package application is completed and activated ready for full use. After completion, all our services are unmanaged unless agreed that managed support will be given. We will not be responsible for any misconfigurations or loss of data due to unauthorised exposure or accidental damage. Re-installations and re-services can be quoted by contacting us for a fee. The customer assumes full responsibility for any third-party software installation and configuration on their service, with no guarantee of support from us for the appointed third-party software. Quoted times for account activation are estimates and, whilst we always do our best to get a service delivered on time, we do not promise activation within the quoted time frame. We may delay or refuse activation if:
 
+\- Stock is being created,  
+\- A large queue of orders is undergoing,  
 \- Payment is not cleared or received in full,  
 \- We believe the order, information or payment is fraudulent,  
-\- You have any funds outstanding with relation to any other account,  
-\- There is any other reason which we deem unsatisfactory to our terms or beliefs, in which case we would explain within reason to you as soon as possible.
+\- You have any funds outstanding with relation to your current or any other account,  
+\- There is any reason which we deem your transaction as unsatisfactory to our terms or beliefs, of which reasoning would be dislosed with you.
 
 #### Termination and Suspension
 
 You may request to have your hosting terminated (cancelled) at any time by advising us via a method of contact on our site. We will only process a refund if we find it is applicable to the state of your current service(s) with us.
 
-We may suspend any or all of your services where we have reason to suspect a violation of our terms and conditions whilst we investigate the suspected violation. We may also suspend your services where we have reason to suspect any type of illegitimate activity including, but not limited to, overdue invoices (lack of payment on any invoice without a notification of cancellation), unlawful content, copyright infringement, payment reversals, unfair usage and services affecting other customers or users on our servers. We reserve the full right to suspend a service at any time with the decision of its final status. You may also be charged an overdue/outstanding 'non-cancellation' fee for any suspended services that do not have a written cancellation logged.
+We may suspend any or all of your services, with or without compensation, where we have reason to suspect a violation of our terms and conditions whilst we investigate the suspected violation. We may also suspend your services where we have reason to suspect any type of illegitimate activity including, but not limited to, overdue invoices (lack of payment on any invoice without a notification of cancellation), unlawful content, copyright infringement, payment reversals, unfair usage and services affecting other customers or users on our servers. We reserve the full right to suspend a service at any time with the decision of its final status. You may also be charged an overdue/outstanding 'non-cancellation' fee for any suspended services that do not have a written cancellation logged.
 
 #### Violations
 
@@ -137,6 +133,6 @@ If a customer violates our terms and conditions we may terminate or suspend (tem
 
 If we decide to change our terms, we will update accordingly along with the modification date below. We reserve the full right to make changes to our Terms & Conditions at any time, you also agree that all changes made to the terms are taken place immediately, without notification needed, towards all services.
 
-This document was last updated on April 2, 2015
+This document was last updated on March 18, 2017
 
 E-mail: [privacy@epichosts.co.uk](mailto:privacy@epichosts.co.uk)
