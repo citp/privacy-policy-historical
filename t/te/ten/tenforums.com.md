@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenforums.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629184737id_/https%3A//www.tenforums.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenforums.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028084507id_/https%3A//www.tenforums.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Windows 10 Forums - Privacy Policy
 
