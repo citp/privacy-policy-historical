@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628170130id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028062858id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
 
 # SalesVantage.com Privacy Policy Statement
 
