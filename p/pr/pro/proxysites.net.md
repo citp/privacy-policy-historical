@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxysites.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121235926id_/http%3A//www.proxysites.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxysites.net privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029045842id_/http%3A//www.proxysites.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ProxySites.net
 
