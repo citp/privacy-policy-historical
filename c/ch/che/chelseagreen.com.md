@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the chelseagreen.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628214301id_/http%3A//www.chelseagreen.com/terms-of-use-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseagreen.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029200723id_/http%3A//www.chelseagreen.com/terms-of-use-privacy-notice) for the most accurate reproduction.*
 
 # Chelsea Green Publishing - Terms of Use & Privacy Notice
 
-We, at Chelsea Green Publishing, value your patronage and personal privacy. We respect the private nature of the information you provide to us and accept the responsibility of protecting that information. This privacy policy may be changed at any time, and we therefore encourage you to revisit this page periodically. If you want to communicate with us about our Policy, please e-mail us at [web@chelseagreen.com](mailto:web@chelseagreen.com).
+We, at Chelsea Green Publishing, value your patronage and personal privacy. We respect the private nature of the information you provide to us and accept the responsibility of protecting that information. This privacy policy may be changed at any time, and we therefore encourage you to revisit this page periodically. If you want to communicate with us about our Policy, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#61160403210209040d120400061304040f4f020e0c).
 
 Chelsea Green Publishing will never sell or rent your information to third parties. The email address you provide to Chelsea Green Publishing may be used by Chelsea Green Publishing for any reason including, but not limited to, editorial purposes, site communication, and notification of changes to our site. We will not sell or rent your email address to anyone for any reason. At times it is necessary for Chelsea Green Publishing to furnish your personal information to our third party service partners, such as when conducting an e-commerce transaction or sending our e-newsletters.
 
-We collect the e-mail addresses of registered users, but this information is used solely for the purpose of our e-mail newsletters and gift reminders, and for no other mailings. To remove your e-mail address from the newsletter subscriber list, please send an email to [web@chelseagreen.com](mailto:web@chelseagreen.com)
+We collect the e-mail addresses of registered users, but this information is used solely for the purpose of our e-mail newsletters and gift reminders, and for no other mailings. To remove your e-mail address from the newsletter subscriber list, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6f180a0d2f0c070a031c0a0e081d0a0a01410c0002)
 
 ## Security
 
@@ -32,7 +32,7 @@ Certain sections of Chelsea Green Publishing require that visitors register by p
 
 Volunteered information is kept strictly confidential. Chelsea Green Publishing does not share or sell personally identifiable information to other companies. However, information that is voluntarily provided may be used internally. Additionally, Chelsea Green Publishing may choose, on occasion, to include third-party offers in our mailings. We maintain appropriate and reasonable safeguards to ensure the integrity, security, and privacy of the information in our possession.
 
-You may opt not to be included in the e-mail announcements or mailings when you register for one of our offerings. If a particular registration form does not have this option, or, if you'd like to be removed from our lists for any reason, notify Chelsea Green directly by e-mailing [web@chelseagreen.com](mailto:web@chelseagreen.com). Please include your name, e-mail address so that we can effectively remove you from the database.
+You may opt not to be included in the e-mail announcements or mailings when you register for one of our offerings. If a particular registration form does not have this option, or, if you'd like to be removed from our lists for any reason, notify Chelsea Green directly by e-mailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#483f2d2a082b202d243b2d292f3a2d2d26662b2725). Please include your name, e-mail address so that we can effectively remove you from the database.
 
 ## Cookies
 
