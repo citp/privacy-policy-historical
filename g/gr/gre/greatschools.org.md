@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623030302id_/https%3A//www.greatschools.org/gk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029181639id_/https%3A//www.greatschools.org/gk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GreatSchools
 
@@ -44,7 +44,7 @@ From time to time, GreatSchools may email our newsletter subscribers a request t
 
 #### Choice/Opt Out
 
-Users who no longer wish to receive our newsletters or other communications can unsubscribe using the tools provided in every email message we send or from the [subscription management page](http://www.greatschools.org/gsr/login/).
+Users who no longer wish to receive our newsletters or other communications can unsubscribe using the tools provided in every email message we send or from the [subscription management page](https://web.archive.org/gsr/login/).
 
 #### User Surveys
 
