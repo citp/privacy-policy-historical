@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolmonies.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630015332id_/http%3A//lolmonies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolmonies.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029062328id_/http%3A//lolmonies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LoL Monies | Monetize the World
 
