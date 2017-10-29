@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendingmoms.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626062306id_/http%3A//www.trendingmoms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendingmoms.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029065051id_/http%3A//www.trendingmoms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Trending Moms
 
