@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smodv.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630050309id_/http%3A//www.smodv.com/p/legal/smod_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smodv.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029171536id_/http%3A//www.smodv.com/p/legal/smod_privacy_policy) for the most accurate reproduction.*
 
 # Angry Frog! Privacy Policy | Legal | Resources
 
