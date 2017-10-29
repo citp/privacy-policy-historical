@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the infor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133627id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infor.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029135017id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
 
 # Infor Privacy Policy
 
 ## Infor Privacy Policy
 
-Last Updated: September 7, 2016
+Last Updated: July 10, 2017
 
 ### Your Privacy Rights
 
@@ -15,7 +15,7 @@ This website is operated by Infor ("Infor" "we" "us" or "our"). This Privacy Pol
 **Jump to section:**
 
   * Scope and Consent
-  * EU-U.S. Privacy Shield and U.S.-Swiss Safe Harbor
+  * Privacy Shield
   * Other Important Information
   * How We Collect Your Personal information
   * How We Use the Personal information We Collect
@@ -41,22 +41,17 @@ Each time you access this Site, you are consenting to the information practices 
 
 Infor honors your choices. You can choose whether you wish to receive promotional emails, SMS messages, telephone calls and postal mail from us by using the Opt out methods described below (see "How You Can Opt Out of Marketing Communications"). If we determine that your explicit consent is needed, we will obtain that consent before or at the time of data collection.
 
-## EU-U.S. Privacy Shield
+## Privacy Shield
 
-Infor, which includes its respective successors, subsidiaries, divisions and groups, participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Infor is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List at [https://www.privacyshield.gov/list](https://www.privacyshield.gov/).
+Infor, which includes its respective successors, subsidiaries, divisions and groups, complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  Infor has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-Infor is responsible for the processing of personal data it receives, and under Privacy Shield, we may subsequently transfer that data to a third party acting as an agent on our behalf. Infor complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Infor is responsible for the processing of personal data it receives, and under Privacy Shield, we may subsequently transfer that data to a third party acting as an agent on our behalf. Infor complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Infor is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Infor may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 Under certain conditions, more fully described on the Privacy Shield website [[https://www.privacyshield.gov](https://www.privacyshield.gov/)], you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
-
-##   
-U.S.-Swiss Safe Harbor 
-
-Infor complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Infor has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Infor's certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 ## Other Important Information
 
