@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4icu.org privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618105233id_/http%3A//www.4icu.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4icu.org privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029201952id_/http%3A//4icu.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
