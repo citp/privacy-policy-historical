@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629172538id_/http%3A//outreach.com/privacy.aspx%3Fref%3DFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029170900id_/http%3A//outreach.com/privacy.aspx%3Fref%3DFooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
