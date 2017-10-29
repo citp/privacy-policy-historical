@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423064917id_/https%3A//www.cedexis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029075024id_/https%3A//www.cedexis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cedexis - RUM-Optimized Global Traffic Management
 
@@ -27,7 +27,7 @@ This policy, covering Cedexis, Inc. and its subsidiaries Cedexis Ltd and Cedexis
 
 ### Website Visitors
 
-Cedexis collects information automatically about visits to our Websites, including portals for customer who use our services (“Portals”). Such information may include, for example, the browser used, referring site, and the time and date of each web request. We collect this information to understand how visitors use our Websites. We also collect traffic data, like IP addresses and cookie data and other tracking information as described in our [Cookie Policy](http://www.cedexis.com/cookie-policy/). We also collect information you provide to us, such as your name, title, company, email address and phone number, when you contact us using the contact information or forms included on our Websites.
+Cedexis collects information automatically about visits to our Websites, including portals for customer who use our services (“Portals”). Such information may include, for example, the browser used, referring site, and the time and date of each web request. We collect this information to understand how visitors use our Websites. We also collect traffic data, like IP addresses and cookie data and other tracking information as described in our [Cookie Policy](http://cedexis.wpengine.com/cookie-policy/). We also collect information you provide to us, such as your name, title, company, email address and phone number, when you contact us using the contact information or forms included on our Websites.
 
 Other third parties who provide us with services may also collect information described above about your online activities over time and across different Web sites when you visit our Websites.
 
@@ -37,7 +37,7 @@ Information, including username, name, e-mail address, and phone number, is coll
 
 ### Cookies
 
-A “cookie” is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our Websites. Cedexis’ Website visitors have choices related to cookies and tracking technologies as described in our [Cookie Policy](http://www.cedexis.com/cookie-policy/).
+A “cookie” is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our Websites. Cedexis’ Website visitors have choices related to cookies and tracking technologies as described in our [Cookie Policy](http://cedexis.wpengine.com/cookie-policy/).
 
 Cookies may also be used by Cedexis and our customers and partners on their websites in connection with our Customer Services. Use of cookies on our customers’ and partners’ websites are covered by their privacy policies. We provide choices related to Cedexis Radar and Impact measurement activity, including as collected through cookies, as described in the Choices section below.
 
@@ -49,7 +49,7 @@ Cedexis Radar, Openmix, and Impact are Customer Services provided by Cedexis to 
 
 Cedexis undertakes reasonable security measures to protect data to guard against unauthorized access to personal data. If you use our Portal, you are responsible for safeguarding your username and password. For Customer Services, Cedexis’ security practices are governed by its agreements with its customers and partners.
 
-If you learn of a security issue with our Websites or our Customer Services, please contact us at [support@cedexis.com](https://web.archive.org/web/20170423064917id_/https://www.cedexis.com/privacy-policy/support@cedexis.com).
+If you learn of a security issue with our Websites or our Customer Services, please contact us at [support@cedexis.com](https://web.archive.org/web/20171029075024id_/https://www.cedexis.com/privacy-policy/support@cedexis.com).
 
 ### Data Retention and Disaster Recovery
 
@@ -79,7 +79,7 @@ If you have an account in connection with our Customer Services, you can use the
 
 If desired, users can opt-out of Cedexis Radar or Impact measurement activity by enabling the Do Not Track configuration settings offered by major browsers. If Do Not Track is enabled in these browsers, Radar and Impact will not collect analytics data nor any identifiable information about the user to be used as part of any aggregated performance measurements. While we make efforts to respond to major web browser signals as described above, there are many ways through which web browser signals and other similar mechanisms can indicate your choice to disable tracking, and we may not be aware of or honor every web browser setting or every mechanism.
 
-When you visit our Websites, we and others give you choices described in our [Cookie Policy](http://www.cedexis.com/cookie-policy/) about use of mechanisms for tracking, including tracking of your online activities over time and across different websites and online services by third parties. While we and others give you choices described in the [Cookie Policy](http://www.cedexis.com/cookie-policy/), there are many ways through which web browser signals and other similar mechanisms can indicate your choice to disable tracking, and we may not be aware of or honor every mechanism.
+When you visit our Websites, we and others give you choices described in our [Cookie Policy](http://cedexis.wpengine.com/cookie-policy/) about use of mechanisms for tracking, including tracking of your online activities over time and across different websites and online services by third parties. While we and others give you choices described in the [Cookie Policy](http://cedexis.wpengine.com/cookie-policy/), there are many ways through which web browser signals and other similar mechanisms can indicate your choice to disable tracking, and we may not be aware of or honor every mechanism.
 
 Our marketing emails tell you how to “opt-out” of receiving further marketing emails. If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you.
 
