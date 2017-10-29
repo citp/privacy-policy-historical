@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distance.eu privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616185902id_/http%3A//distance.eu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distance.eu privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029165451id_/http%3A//distance.eu/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ PRIVACY POLICY
 
 ## I. Introduction
 
-DISTANCE Spółka z ograniczoną odpowiedzialnością [Limited liability company] Sp. k. [limited partnership], with its registered office in Poznań (61-886) at ul. Półwiejska 33, registered in the Register of Entrepreneurs kept by the District Court in Poznań – Nowe Miasto i Wilda, 8th Commercial Division of the Krajowy Rejestr Sądowy [National Court Register] under number 0000449678 (hereinafter “DISTANCE”) pays special attention to proper handling of personal data of its users who have registered on the service. Therefore DISTANCE collects only the information necessary for provision of its services. Presented Privacy Policy of our service explains in detail how we protect your privacy.
+DISTANCE S.A., with its registered office in Poznań (61-886) at ul. Półwiejska 33, registered in the Register of Entrepreneurs kept by the District Court in Poznań – Nowe Miasto i Wilda, 8th Commercial Division of the Krajowy Rejestr Sądowy [National Court Register] under number 0000449678 (hereinafter “DISTANCE”) pays special attention to proper handling of personal data of its users who have registered on the service. Therefore DISTANCE collects only the information necessary for provision of its services. Presented Privacy Policy of our service explains in detail how we protect your privacy.
 
 ## II. General Information
 
