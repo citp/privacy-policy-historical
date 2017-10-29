@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-generic-meds.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529082450id_/http%3A//www.all-generic-meds.com/index.php/agm_en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-generic-meds.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029023241id_/http%3A//www.all-generic-meds.com/index.php/agm_en/policy) for the most accurate reproduction.*
 
 # Privacy Policy Online Pharmacy
 
