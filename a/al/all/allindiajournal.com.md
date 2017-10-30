@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allindiajournal.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630092721id_/http%3A//www.allindiajournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiajournal.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030072654id_/http%3A//www.allindiajournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All India Journal
 
