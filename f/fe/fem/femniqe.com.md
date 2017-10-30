@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femniqe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142428id_/http%3A//www.femniqe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femniqe.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031001824id_/http%3A//www.femniqe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Femniqe
 
@@ -28,4 +28,11 @@ We will not sell or share your personal information with third parties. We will 
 
 ###### Contact Information
 
-Concerns or questions about this privacy policy can be directed to femniqe@gmail.com for further clarification.
+Concerns or questions about this privacy policy can be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for further clarification.
+
+  * Bio
+  * Latest Posts
+
+
+
+Lead editor here at Femniqe and a fitness addict that find blueberries irresistible! 🙂
