@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the befuck.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309153334id_/http%3A//www.befuck.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befuck.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030123815id_/http%3A//befuck.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of Befuck.com (the “Website”), including information you provide when using it.
 
