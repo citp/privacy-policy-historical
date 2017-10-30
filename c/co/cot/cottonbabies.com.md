@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cottonbabies.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194904id_/https%3A//www.cottonbabies.com/index.php%3FcPath%3D402) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonbabies.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030200006id_/https%3A//www.cottonbabies.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cotton Babies - Your Natural Parenting Store | Page: 0
+# Privacy Policy – Cotton Babies
 
 **Cotton Babies Privacy Policy**
 
@@ -32,9 +32,9 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 **Research & Statistical Analysis**
 
-We may, from time to time, use your personal or other information to perform research and statistical analysis to help us evaluate and improve our sites, services, and product offerings. Cotton Babies may perform such research and analysis itself or may use third-party vendors and services, such as Google Analytics. As of the date of this Privacy Policy, Cotton Babies has implemented Google Analytics’ Demographics and Interests Advertising Features. For more information about how your information may be used in connection with our implementation of Google Analytics (including information on how you may opt-out of sharing your information or control how your information is shared), please visit //www.google.com/policies/privacy/partners/.
+We may, from time to time, use your personal or other information to perform research and statistical analysis to help us evaluate and improve our sites, services, and product offerings. Cotton Babies may perform such research and analysis itself or may use third-party vendors and services, such as Google Analytics. As of the date of this Privacy Policy, Cotton Babies has implemented Google Analytics’ Demographics and Interests Advertising Features. For more information about how your information may be used in connection with our implementation of Google Analytics (including information on how you may opt-out of sharing your information or control how your information is shared), please visit <http://www.google.com/policies/privacy/partners/>.
 
-For additional information on opting-out of sharing your information and on protecting your information and safety online, generally, you may choose to visit the Network Advertising Initiative’s “Consumer Opt-Out” page ([//www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/)) and Google’s “Safety Center” (https://www.google.com/safetycenter/).
+For additional information on opting-out of sharing your information and on protecting your information and safety online, generally, you may choose to visit the Network Advertising Initiative’s “Consumer Opt-Out” page (<http://www.networkadvertising.org/choices/>) and Google’s “Safety Center” (https://www.google.com/safetycenter/).
 
 Cotton Babies has also implemented Google AdWords conversion tracking to gather anonymous data (i.e., information that does not contain your personal information) to help us better analyze the effectiveness of our marketing efforts and to help us learn how to better reach our customers. Google AdWords conversion tracking uses a pixel tag (a tiny graphic image) placed on our site that can track activity on the site and can be used to measure the effectiveness of our marketing efforts. These pixel tags may be used in conjunction with cookies. Also, when you purchase items on our sites, anonymous sales conversion information (that does not contain your personal information) may be transmitted to Google Analytics using javascript. To learn more about conversion tracking, please visit <https://support.google.com/adwords/answer/1722022?hl=en>.
 
@@ -88,21 +88,18 @@ Cotton Babies’ sites and services may contain links to other websites or servi
 
 Cotton Babies’ sites are hosted in the United States. If you are located outside of the United States please be aware that the laws in your location governing the collection and use of your personal information may differ from U.S. law. If you do share your personal information with us, please note that you are voluntarily transferring your information to the United States, that you consent to that transfer, that you agree to be bound by this Privacy Policy, and that you agree to waive, to the fullest extent permitted by law, any other rights or protections you may have under the laws of your location or any other jurisdiction outside of the United States.
 
-**Enforcement of This Privacy Policy**
-
-If you have questions regarding this policy, you should contact us by using our Web form.
-
 **Changes to This Privacy Policy**
 
 We encourage you to periodically review this policy to be informed of how Cotton Babies is protecting your information.
 
+**Enforcement of This Privacy Policy**
+
+If you have questions regarding this policy, you should contact us by using the information below.
+
 **Contacting Us**
 
-Cotton Babies welcomes your comments regarding this Privacy Policy. If you have questions about this policy, please contact us by phone at 1.888.33.BABIES (1.888.332.2243) (Monday through Friday, 9 a.m. CT - 5 p.m. CT) or by e-mail at [contactus@cottonbabies.com](mailto:contactus@cottonbabies.com). If you have a technical or general support question, please visit //support.cottonbabies.com to learn more about Cotton Babies support offerings. For other inquiries, please call the number above or visit [//www.cottonbabies.com/contact_us.php](https://www.cottonbabies.com/contact_us.php).
+Cotton Babies welcomes your comments regarding this Privacy Policy. If you have questions about this policy, please contact us by phone at 1.888.33.BABIES (1.888.332.2243) (Monday through Friday, 9 a.m. CT - 5 p.m. CT) or by e-mail at [contactus@cottonbabies.com](mailto:contactus@cottonbabies.com).
 
 Cotton Babies Privacy, Cotton Babies, Inc., 1299 N. Highway Dr, Fenton, MO 63026
 
-© 2012-2016 Cotton Babies, Inc. All rights reserved.
-
-
-
+© 2012-2017 Cotton Babies, Inc. All rights reserved.
