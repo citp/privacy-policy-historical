@@ -1,58 +1,123 @@
-> *The following text is extracted and transformed from the tripl.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101070354id_/http%3A//en.tripl.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripl.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030112728id_/https%3A//ewii.com/en/international/privacy-policy) for the most accurate reproduction.*
 
-# Personal data policy
+# Privacy policy | EWII
 
-This website is owned and maintained by:
+This privacy policy applies to the EWII Group Companies listed below: 
 
-EWII Mobility A/S  
-CVR no. 34 88 67 84   
+  * EWII
+  * EWII A/S
+  * EWII Bredbånd A/S
+  * EWII Teknik A/S
+  * EWII Energi A/S
+  * EWII Telecare A/S
+  * EWII Mobility A/S
+  * EWII Production A/S
+  * EWII Fuel Cells A/S
+  * TREFOR Varme A/S
+  * TREFOR Vand A/S
+
+
+
+### EWII takes your privacy seriously
+
+As the EWII Group processes personal data, we have adopted this personal data and privacy policy to give you an insight into how we process your data.
+
+### Fair and transparent processing
+
+When we ask you to provide us with your personal data, we will tell you which data we process about you and for what purposes in accordance with the applicable data protection regulation.   
+You will receive this information at the time when your personal data are collected.
+
+## The types of data we use
+
+EWII uses data about you to make our services better and to ensure the quality of our products and services as well as in our ongoing communication with you.  
+Which data we use depends on the specific purpose, but they may include:
+
+  * General personal data such as contact information
+  * Meter and consumption data
+  * Civil registration number
+  * Sensitive data
+  * Biometric information
+  * Data on your interests and habits
+  * Traffic data on your use of the Internet
+  * Transaction data
+  * Unique numbers of network devices
+
+
+
+## We collect and store your personal data for specific purposes
+
+We collect and store your data for specific purposes or for other legitimate business purposes.
+
+Data are collected when we need to:
+
+  * Process information about your purchase and delivery of our service
+  * Fulfil your request for products or services
+  * Improve our products and services
+  * Customise our communication and marketing to you
+  * Manage your relationship with us
+  * Comply with legal requirements
+
+
+
+
+### We only process relevant and necessary personal data
+
+EWII only processes data about you that are relevant and adequate in relation to the purposes defined above. The purpose is decisive for the type of data about you relevant to us. This also applies to the extent of the personal data we use, meaning that we will not process more data than those required for the specific purpose. 
+
+EWII only collects, processes and stores the personal data necessary to fulfil our purpose. In addition, legislation may dictate particular types of data that we must collect and store for our business operations. The type and extent of the personal data we process may also be determined by the need to meet a contractual or other legal obligation.
+
+### Disclosure of your personal data
+
+We disclose and make available your data to other companies in the EWII Group as well as to other external suppliers and business partners to the necessary and relevant extent. In such cases, your personal data will only be processed in accordance with EWII's instructions to such third party, just as the company in the EWII Group responsible for processing the data and the third party that processes the data on behalf of EWII will conclude a data processing agreement.
+
+We may disclose and make available your personal data to consolidated undertakings and external undertakings for purposes such as registration of customer relations, invoicing, case handling and other administrative processes as well as in connection with market surveys, marketing and the like.
+
+### We will ask for your consent before we process your personal data
+
+We will obtain your consent before we process your personal data for the purposes outlined above, unless we are otherwise entitled to process them, e.g. where processing is necessary for the performance of our agreement with you.
+
+Your consent is voluntary, and you may withdraw it at any time by contacting us. Use the contact details below if you would like more information.
+
+### We protect your personal data and have adopted internal information security rules
+
+EWII takes IT and data security seriously, and we have adopted internal rules on information security that contain instructions and measures to protect your personal data from being destroyed, lost or changed, to prevent unauthorised disclosure and to ensure that no unauthorised persons gain access to or knowledge of them.
+
+### You have a right of access to your personal data
+
+You have the right at any time to know which data we process about you, where they come from and what we use them for. You can also be informed of how long we store your personal data, and who will receive data about you if we disclose data in Denmark and abroad.
+
+At your request, we will inform you of access to the data processed about you. 
+
+Access may, however, be restricted out of consideration for other people's privacy, trade secrets and intellectual property rights.
+
+Contact us if you wish to have access to your data. Our contact details are shown below.
+
+### You have the right to have inaccurate personal data rectified or deleted
+
+If you believe that the personal data we process about you are inaccurate, we would very much like to hear from you. You have the right to have inaccurate or incorrect data rectified. Please contact us and describe the inaccuracies and how we should correct your data.  
+In some cases, we have an obligation to delete your personal data. This applies, for example, if you withdraw your consent. If you believe that your data are no longer required for the purpose for which we collected them, you may ask to have them deleted.   
+When you submit a request for rectification or deletion of your personal data, we will investigate whether the conditions have been fulfilled and, if that is the case, we will meet your request as quickly as possible. You should also contact us if you suspect that your personal data are being processed in violation of the law or other legal obligations.
+
+###  You have the right to object to our processing of your personal data
+
+You have the right to object to our processing of your personal data. You can also object to our disclosure of your data for marketing purposes. Use the contact details at the bottom to submit your objection.  
+If your objection is justified, we will stop processing your personal data.
+
+###  Contact
+
+Enquiries concerning this privacy policy or other enquiries about EWII's processing of your personal data may be directed to:
+
+**EWII**  
 Kokbjerg 30  
-DK-6000 Kolding  
-Tel.: +45 70 211 205
+DK-6000 Kolding
 
-EWII Mobility A/S registers your personal data at tripl.com so that we can provide our customers and visitors to the site with the best possible service.
+Telephone: +45 70 50 50 50  
+Email: ewii@ewii.com
 
-You should be aware that you accept our personal data and cookie policy and use of cookies when you visit tripl.com.
+[Read the terms of use of ewii.com](https://web.archive.org/en/international/terms-of-use)
 
-We do not collect data that are not described in our personal data policy and we never collect personal data without you having provided this information yourself – e.g. by registering, buying goods or taking part in a survey or questionnaire.
+###  EU General Data Protection Regulation
 
-**EWII Mobility’s personal data policy**
+On 25 May 2018, the EU's General Data Protection Regulation will enter into force in Denmark. In anticipation of this, EWII has prepared an FAQ to answer any questions you may have on the impact of this new Regulation on EWII's processing of your personal data. 
 
-When you visit tripl.com, EWII Mobility collects your personal data. Below you can see the data we collect, how we process this information and who you can contact if you have any questions or comments about our guidelines.
-
-Please be advised that you automatically accept our guidelines by visiting tripl.com.
-
-We do not collect data that are not described in our personal data policy, just as we do not collect data that can be referred to you without first informing you as to how this can be avoided.
-
-In general, you should be aware that as an internet user you leave an electronic trail that can be traced by others.
-
-EWII Mobility stores registered personal data for as long as necessary in order to provide quality service to visitors to tripl.com.
-
-You can always gain access to your registered personal data. You can at any time object to any registration of your personal data in accordance with the Danish Act on Processing of Personal Data.
-
-The personal information we collect falls into two categories:
-
-  1. Data that can be referred to you as an individual
-  2. Non-personal data
-
-
-
-**Personal referable data**
-
-We never collect personal referable data without you first having supplied these data. For example by registering with us, buying a product or participating in a survey or questionnaire.
-
-Everyone is welcome to visit tripl.com, but to derive maximum benefit from all functions and offers you will be required to identify yourself in a number of situations. For example, you provide personal referable data in the following situations:
-
-  * **Newsletters:**  
-In order to receive newsletters from EWII Mobility it is necessary for you to provide your email address – otherwise we cannot send our newsletters to you.
-  * **Questionnaires:**   
-To gain a better understanding of our users, we sometimes carry out questionnaire surveys at tripl.com. The subject matter may vary, but you can always participate without revealing your identity – just as responding to the questionnaire is entirely voluntary. Your visit to or your options at trefor.dk are not affected by your decision to take part/not take part in our questionnaires.  
-You should never take part in surveys or questionnaires at tripl.com that do not have a clearly identifiable sender.
-  * **Competitions and special offers:  
-**We have competitions or special offers at tripl.com, and in this connection we typically collect names and email addresses. If this information is to be shared with other companies, it will be clearly stated in the competition/special offer material. Subsequent contact by EWII or others may be a condition for participating in the competition. This will be clearly stated in the competition/special offer material. Participation in competitions and acceptance of special offers are always on a voluntary basis.
-
-
-
-**Non Personal data**
-
-We collect a range of digital information in connection with your visit to tripl.com. None of this information is individually traceable and can only be traced back to the computer providing internet access.
+[Read our FAQs on the General Data Protection Regulation here](https://web.archive.org/en/international/general-data-protection)
