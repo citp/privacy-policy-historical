@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the games-kids.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630192636id_/http%3A//www.games-kids.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games-kids.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030180031id_/http%3A//www.games-kids.com/privacy-policy.html) for the most accurate reproduction.*
 
 # CONTACT - GAMES KIDS ONLINE
-
-### Cookie Policy
 
 Like many websites, our Service uses "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We do not link the information we store in cookies to any Personal Information you submit while using our Services.
 
@@ -20,8 +18,6 @@ Privacy matters but it can be confusing. This page explains our approach to priv
 
 
 These are just the key points.
-
-### Privacy Policy
 
 This is the privacy policy of the site Games-kids.com and tells you how we use your personal information collected on this site. Please read this privacy policy before using the site or send your personal information. By using Games-kids.com site, you agree to the practices described in this Privacy Policy. These practices may be changed, and any changes made will be posted here and all modifications will only apply to activities and future and not retroactively. We encourage you to visit this page whenever you visit the site Games-kids.com to ensure that you are aware of the changes to this Privacy Policy and to inform you about how we use your information private. This privacy policy is applicable only to this website and for no other partner sites.
 
