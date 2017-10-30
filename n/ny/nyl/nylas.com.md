@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the nylas.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523100528id_/https%3A//nylas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nylas.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030130457id_/https%3A//www.nylas.com/privacy-policy) for the most accurate reproduction.*
 
-# Nylas Mail - The best free email app | Nylas - The best free email app
+# Nylas Privacy Policy | Nylas - The cloud communications API
+
+###### Last updated October 23, 2017
 
 Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service. So, please make sure that you have read and understand our Terms of Service.
 
 ## Revisions to this Privacy Policy
 
-Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above to indicate when those changes will become effective. 
+Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above to indicate when those changes will become effective.
 
 ## Collection and Use of Information
 
 ### Information Collected or Received from You
 
-Account Information. If you create an Account, we’ll collect certain information that can be used to identify you (“ **PII** ”), such as your name and email address. We may also collect certain information that is not PII, because it cannot be used by itself to identify you, such as credit card information.
+The Nylas APIs. If you use a SaaS application that is powered by the Nylas APIs, we may collect your email credentials (i.e. email address(es), which are PII, and associated passwords) for those email inboxes that you want to access through the App. By authenticating to Nylas via your SaaS application, you’re permitting Nylas to make a copy of the entire contents of the applicable email inbox, calendar, and contact book. Nylas will perpetually connect to, and synch any changes to, your applicable email inboxes as long as the connection between your SaaS application and Nylas is authorized.
 
-Using the App. If you download and install the App, we’ll collect your email credentials (i.e. email address(es), which are PII, and associated passwords) for those email inboxes that you want to access through the App. By inputting your email credentials, you’re permitting Nylas to make a copy of the entire contents of the applicable email inbox, calendar, and contact book. Nylas will perpetually connect to, and synch any changes to, your applicable email inboxes.
+Using Nylas Mail. If you download and install the Nylas Mail application, we’ll collect certain information that can be used to identify you (“ **PII** ”), such as your name and email address. We may also collect certain information that is not PII, because it cannot be used by itself to identify you, such as credit card information.
+
+If you are using the legacy N1 applicaiton, we’ll also collect your email credentials (i.e. email address(es), which are PII, and associated passwords) for those email inboxes that you want to access through the App. By inputting your email credentials, you’re permitting Nylas to make a copy of the entire contents of the applicable email inbox, calendar, and contact book. Nylas will perpetually connect to, and synch any changes to, your applicable email inboxes.
 
 Information Collected Using Cookies and other Web Technologies. Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information.
 
