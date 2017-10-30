@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michiganlottery.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101041112id_/https%3A//info.michiganlottery.com/Privacy.aspx%3Fpopup%3D1%26LNG%3DENU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganlottery.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030234740id_/https%3A//info.michiganlottery.com/Privacy.aspx%3Fpopup%3D1%26LNG%3DENU) for the most accurate reproduction.*
 
 # Michiganlottery.com
 
