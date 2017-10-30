@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the updatetube.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117190232id_/http%3A//www.updatetube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updatetube.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030132511id_/http%3A//updatetube.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Police
+# Privacy policy
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of Updatetube.com (the “Website”), including information you provide when using it.
 
