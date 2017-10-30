@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writeworld.org privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321090920id_/http%3A//writeworld.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writeworld.org privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030060157id_/http%3A//writeworld.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Write World
 
