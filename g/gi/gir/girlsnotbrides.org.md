@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the girlsnotbrides.org privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609083102id_/http%3A//www.girlsnotbrides.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsnotbrides.org privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030200344id_/http%3A//www.girlsnotbrides.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Girls Not Brides
 
-Preservation of your privacy is important to _Girls Not Brides_ and we are committed to letting you know how we use your personal information and using it responsibly. This privacy policy (“the Privacy Policy”) should be read in conjunction with the [www.girlsnotbrides.org](http://www.girlsnotbrides.org/ "Girls not Brides") Website Terms and Conditions.
+Preservation of your privacy is important to _Girls Not Brides_ and we are committed to letting you know how we use your personal information and using it responsibly. This privacy policy (“the Privacy Policy”) should be read in conjunction with the [www.girlsnotbrides.org](https://www.girlsnotbrides.org/ "Girls not Brides") Website Terms and Conditions.
 
-The website [www.girlsnotbrides.org](http://www.girlsnotbrides.org/ "Girls not Brides")  (“the Website”), is owned and operated by _Girls Not Brides: The Global Partnership to End Child Marriage_ , a company limited by guarantee registered in England and Wales (Reg No.: 8570751) and a registered charity in England and Wales (Reg No: 1154230).
+The website [www.girlsnotbrides.org](https://www.girlsnotbrides.org/ "Girls not Brides")  (“the Website”), is owned and operated by _Girls Not Brides: The Global Partnership to End Child Marriage_ , a company limited by guarantee registered in England and Wales (Reg No.: 8570751) and a registered charity in England and Wales (Reg No: 1154230).
 
 References to ‘ _Girls Not Brides_ ‘, ‘we’, ‘us’ or ‘our’ in this Privacy Policy are references to _Girls Not Brides: The Global Partnership to End Child Marriage_.
 
@@ -68,6 +68,6 @@ _Girls Not Brides_ accepts no liability for any misuse of your personal informat
 **5.     Other Information**  
 5.1    If you would like us to correct or update any information about you, then please Contact us at [info@GirlsNotBrides.org](mailto:%20info@GirlsNotBrides.org)  
 5.2    This Privacy Policy may be updated from time to time, so please check it periodically.  
-5.3    Links within our sites to other websites are not covered by this Privacy Policy but are addressed in our [Terms and Conditions](http://www.girlsnotbrides.org/terms-conditions/ "Terms and Conditions").
+5.3    Links within our sites to other websites are not covered by this Privacy Policy but are addressed in our [Terms and Conditions](https://www.girlsnotbrides.org/terms-conditions/ "Terms and Conditions").
 
-This Privacy Policy should be read in conjunction with the Website Terms and Conditions for [www.girlsnotbrides.org](http://www.girlsnotbrides.org/ "Girls not Brides")
+This Privacy Policy should be read in conjunction with the Website Terms and Conditions for [www.girlsnotbrides.org](https://www.girlsnotbrides.org/ "Girls not Brides")
