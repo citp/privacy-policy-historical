@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missmollysays.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525171535id_/http%3A//missmollysays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missmollysays.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030172516id_/https%3A//missmollysays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Miss Molly Says
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://missmollysays](http://missmollysays.com/privacy-policy/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://missmollysays](https://missmollysays.com/privacy-policy/)
 
 **Your Consent**
 
@@ -79,6 +79,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on 06/12/12
 
-http://missmollysays.com
+https://missmollysays.com
 
 This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://www.rhinosupport.com/zendesk.htm) and save!
