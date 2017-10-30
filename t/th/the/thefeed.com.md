@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefeed.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203718id_/https%3A//thefeed.com/15152714/policies/30370056.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefeed.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030182702id_/https%3A//thefeed.com/15152714/policies/30370056.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
