@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the releasingfestevent.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625024546id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the releasingfestevent.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030190625id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
 
-# Learning Strategies | Privacy Policy
+# Privacy Policy
 
 Privacy Policy 
 
@@ -17,7 +17,7 @@ We collect and store the following information: the name of the domain from whic
 
 We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful. 
 
-In some instances we use cookies to advertise online through third-party vendors, including Google and Facebook, to show our ads on sites across the Internet. These third-party vendors use cookies to serve ads based on someone's past visits to our website. You can opt out of Google's use of cookies by visiting [Google's Ads Settings](http://www.google.com/settings/ads). 
+In some instances we use cookies to advertise online through third-party vendors, including Google and Facebook, to show our ads on sites across the Internet. These third-party vendors use cookies to serve ads based on someone's past visits to our website. You can opt out of Google's use of cookies by visiting [Google's Ads Settings](https://www.google.com/settings/ads). 
 
 If you identify yourself by sending an email or ordering from our site: 
 
