@@ -1,58 +1,125 @@
-> *The following text is extracted and transformed from the mobilecommercedaily.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129103944id_/http%3A//www.mobilecommercedaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilecommercedaily.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031224401id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
 
-# Revised: Napean LLC's privacy policy - Mobile Commerce Daily
+# Privacy Policy - Industry Dive
 
-**NAPEAN**
+### PRIVACY POLICY
 
-**Mobile Marketer and Mobile Commerce Daily Privacy Policy  
-**Mobile Marketer and Mobile Commerce Daily are publications of Napean LLC. This privacy policy represents our steadfast commitment to combine the highest quality news, analysis, information, service and products with the utmost degree of integrity in dealing with visitors to our Web sites, blogs and newsletters. This policy governs how we collect, store and use information about our visitors. It will be continuously reexamined with the advent of new technologies, new business practices and the changing needs of our visitors.
+#### Effective Date: 28 November 2016
 
-Our sites collect no personally identifying information except when that information is knowingly provided by you, such as when you request a product or service that requires registration or billing information. This information also enables us to improve your Web site experience and to refine and customize your experience on our sites.
+This privacy policy explains how Industry Dive Inc. (“we,” “us,” “our”), affiliates, and subsidiaries, will collect, use, and share the information that you provide to us through your use of our mobile applications and websites that link to this privacy policy (collectively, our “Properties”). Below is a summary of the key provisions in our privacy policy. We encourage you to read the full privacy policy to understand our information practices.
 
-Occasionally, we may also ask for information in polls and surveys to enable us to provide the services and/or products you request and to better meet your needs and preferences. At such times, we will inform you as to why we are collecting this information, and we will explain how it is being used.  
-We will take appropriate measures to ensure the security and privacy of any personally identifiable information that we collect.
+When you use our Properties or otherwise interact with us, you may provide personal information (such as contact information). We may also receive personal information about you from third parties. We may collect or allow third parties to collect non-personal information including, for example, information about how you use our Properties and information about your device such as your IP address and location data. To learn more about the information that we collect, please click here.
 
-We will provide appropriate mechanisms for you to review and correct, upon request, any personally identifiable information that we collect from you. To ensure the integrity of the request, we will require that it be made in a manner that can be verified.
+We may use personal and non-personal information for a variety of purposes, including to maintain security, improve our business, personalize your experience with our Properties, and deliver more relevant advertising. To learn more about how we use your information, please click here.
 
-From time to time we may share personally identifiable information with companies or organizations that we believe might have a product or service of interest to you. We may also disclose your personally identifiable information to outside individuals and/or companies who help us: bring you the products and services we offer; create, operate, and maintain the Web site(s); and with specialized services such as payment processing, shipping, mail and email distribution, mobile messaging, Web site(s) hosting, monitoring, analytics, sweepstakes and promotions management, survey and mobile payment processing. However, we will offer you the opportunity to “opt-out” of having this information shared with third parties that are not affiliated with Napean LLC by writing to us at help@mobilemarketer.com.
+We may share personal information that we collect with third parties for their direct marketing or other purposes, with affiliates and service providers that help us operate our business, to comply with the law or to respond to legal inquiries, as part of a corporate change like an acquisition or merger, and in other cases. To learn more about how we share your information and the choices you have, please click here.
 
-We may disclose your personally identifiable information when legally required to do so, to cooperate with law enforcement investigations or other legal proceedings, to protect against misuse or unauthorized use of the Web site(s), to limit our legal liability and protect our rights or to protect the rights, property or safety of users of the Web site(s) or the public. In addition, if and when we go through a business transition, such as a merger, acquisition by another company or a financing, investment, support or funding, sharing or sale of all or a portion of our assets, your personally identifiable information will likely be among the assets shared or transferred. If we engage in any of these types of transactions, your personally identifiable information will be subject to our privacy policy in effect at the time of the transfer or sharing of such information.
+You can review or request updates to the personal information that you have provided to us. To learn more about reviewing or updating your personal information, please click here.
 
-We may place “cookies” in the browser file of your computer. A cookie does not contain permanently identifying personal information. It is used to provide an enhanced user experience, making your navigation through our sites easier by saving your passwords, purchases and preferences while you are at our sites.
+We may change this privacy policy from time to time. We will post changes in this policy, and suggest that you periodically revisit this policy to stay informed of any changes.
 
-Cookies also show how visitors use our sites and enable us to make improvements based on actual visitor traffic patterns. The use of cookies in this manner is an industry standard.
+We may permit third-party services to collect information about your online activities over time and across different websites including to provide more relevant ads to you across the Internet. To learn more about this practice and the choices that you can make, please click here.
 
-This privacy policy may be revised from time to time, and you are urged to review it periodically.
+If you have questions regarding our privacy policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bad3d4dcd5fad3d4decfc9cec8c3ded3ccdf94d9d5d7).
 
-**Terms of service**  
-Use of this site constitutes agreement to the following terms of service:
+### Data Collection
 
-The content displayed on our sites, blogs and newsletters is the property of Napean LLC or its licensors, and is protected by copyright and other intellectual property laws. It may be used only for your personal and non-commercial use with this exception:
+_Personal Information_
 
-You may occasionally reproduce, distribute, display or transmit an insubstantial portion of Napean LLC’s proprietary content for a noncommercial purpose and without charge to a limited number of individuals, provided you include all copyright notices and do not alter the content in any way.
+When accessing our Properties, you may voluntarily provide personal information during your visit or by contacting us. We may collect this information when you visit our site to read or download information, as well as when you sign up for our newsletters. We may also receive personal information about you from third parties, such as partners, affiliates, service providers, and subsidiaries. We may combine this information with the information that you provide to us.
 
-However, you may not post any such content to forums, newsgroups, mail lists, electronic bulletin boards or other sites without the prior written consent of Napean LLC.
+The personal information that we collect and store may include the following information about you:
 
-Napean LLC’s sites, blogs and newsletters and their content are provided “as is,” without any warranties whatsoever, expressed or implied. Napean LLC assumes no legal liabilities associated with your use of its sites, blogs and newsletters or their content.
+Contact information, including your first and last name, email address, and phone number;   
+Occupation information, including your company name, your title, and any other information you directly provide to us via our registration form.
 
-Also, Napean LLC’s sites provide hyperlinks to external sites for the convenience of our visitors and advertisers. Such a hyperlink does not imply that Napean LLC endorses the content or operation of external sites. You are solely responsible for how you use any external site to which you might link from this site.
+_Non-Personal Information_
 
-Furthermore, Napean LLC assumes no liability for your use of a service or product purchased or obtained from an area of this site or from a “co-branded” site operated by a company or person not directly affiliated with Napean LLC. In such areas or sites you may be asked to provide certain information, including credit card or other payment mechanism. You agree not to hold Napean LLC responsible or liable for any loss or damage of any sort incurred as a result of your dealings with third parties who operate these areas or co-branded sites.
+When you use our Properties we may collect various non-personal information, including, but not limited to, the date and time you access our Properties, the website from which you linked to our Property, IP address, Web pages visited, links clicked, your operating system and browser type, and your mobile device identifier. Such information is used for a variety of purposes such as operating and improving our Properties, analyzing demographic and statistical research about website usage, customizing offers, and to monitor the Properties for compliance with our terms of service and the law, as well as other purposes.
 
-The laws of the State of New York and the United States of America apply to these terms of service, no matter where this site is viewed.
+This non-personal information may be collected through various technologies, including but not limited to cookies and web beacons. To learn more about the use of this information, please see the interest-based advertising section below.
 
-These terms of service may be revised from time to time. Use of this site constitutes agreement to the terms of service that are posted at the time of use.
+_Location Information_
 
-**Permissions to link or post**  
-Permission is granted for linking to the sites or individual pages or articles within the sites. To request permission for posting an article on another site, contact the Napean LLC chairman Mickey Alam Khan at mickey@napean.com. Please detail the reason for the request and specify the URL (Web address) of the site where the article will be posted. The name, telephone number and email address of someone to contact for further information (if needed) should also be noted in the email.
+We may also collect geolocation data pertaining to your mobile device, which may be linked to a device identifier or IP address. We may use this information to provide our services to you and to provide more relevant advertising content to you on our Properties. If you do not want to provide your location to us, please use the settings available on your mobile device to limit this sharing. Please note that if you limit sharing of geolocation data, certain features of the mobile application may not work.
 
-In most cases, permission will be granted for posting the text only, without images. When posting an article on another site, the article cannot be truncated or altered in any way, except that type may be changed to accord with the style of the site or a PDF document. However, the relative sizes between headline/byline/body/copyright must remain proportional. We require a link to the page of this site where the article originally appeared.
+Third _Parties_
 
-Finally, Mickey Alam Khan must be notified when and exactly where an article is posted so that it can be reviewed in context. So please specify the URL (Web address). Permission for posting is granted only after this review.
+We may use analytics services provided by third parties, including Google Analytics. To learn more about how Google Analytics collects and processes data and the choices Google may offer to control these activities, you may visit http://www.google.com/intl/en/policies/privacy/partners/.
 
-Thank you for reading this document. We hope you enjoy your visit to our site(s) and thank you for your time. We look forward to your repeated visits.
+We may also permit third parties to collect information on our Properties and combine that information with information collected on other non-affiliated websites or applications over time to personalize advertising. Please see below for more information on this practice and your choices.
 
-© Napean LLC. All rights reserved.
+### Data Use
 
-  
+We may use both personal and non-personal information that we collect from you for the purposes provided in this policy. Among other uses, we may use your information in the following ways:
 
+  * To operate, maintain, and improve our Properties, including to maintain security;
+  * If you identify yourself by sending us an e-mail containing personal information, to respond to your message;
+  * To provide you with more relevant advertising content;
+  * For our statistical, research, recordkeeping, and reporting purposes;
+  * For our own marketing purposes;
+  * To personalize and improve your experience of our Properties;
+  * To monitor our Properties for compliance with our Terms of Service; and
+  * For any other purpose identified at the point of collection.
+
+
+
+### Data Sharing
+
+We may share personal information:
+
+  * With third parties, including for their direct marketing purposes (please see below for your choices related to this sharing);
+  * With our affiliates and with service providers that help us operate our business;
+  * With government entities as needed to provide our services and where required by law; 
+  * As part of an acquisition or merger with another company, a partial or total sale of assets, or another corporate change, including at bankruptcy;
+  * Pursuant to a subpoena, court order, or other legal process;
+  * To investigate, respond to or resolve problems or inquiries (including law enforcement requests) or protect, enforce, or defend our rights, assets and/or interests;
+  * To prevent or respond to a violation of any law, regulation, or our Terms of Service; or
+  * With your consent or as otherwise disclosed at the time of collection.
+
+
+
+### Your Choices
+
+As noted above, we may disclose your information to third parties for their direct marketing purposes. If you would like to opt out of such disclosures, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+When we send email messages, we include our address, contact information, and a link that you can use to unsubscribe from future messages. You can also go directly to your account profile to manage your subscription preferences.
+
+### Update Personal Information
+
+If you wish to review or update the personal information you have previously provided to us, such as your name or email address, please visit your account profile (which is linked from each of our newsletter emails) to request changes to your personal information.
+
+### Third Party Websites
+
+Our Properties may contain links to third-party websites or mobile applications. Please be aware that we do not control these linked websites and that this Privacy Policy does not apply to those websites. We encourage you to read the privacy policy of any third-party property that you visit before you provide any information to that property’s owner.
+
+### Interest-Based Advertising
+
+We may use third-party advertising companies to serve ads when you visit our Properties. These companies may collect information about your visits to our Properties and other websites and/or apps in order to provide advertisements about goods and services of interest to you. We may also partner with ad networks and other companies that serve ads on behalf of us and others on non-affiliated digital properties. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information these ad networks collect about your visits to our Properties and other non-affiliated web sites or apps over time. In connection with this activity, we adhere to the Digital Advertising Alliance (“DAA”) Self-Regulatory Principles.
+
+You may visit www.aboutads.info/choices to learn more about interest-based advertising and how to opt-out of this form of advertising on your web browser by companies participating in the DAA self-regulatory program.
+
+If you wish to opt-out of interest based advertising in mobile apps on your device by companies that participate in the DAA’s AppChoices app, you may download that app onto your device and exercise your choice. AppChoices is available at the links below:
+
+[DAA AppChoices iOS](https://itunes.apple.com/us/app/appchoices/id894822870?mt=8)  
+[DAA AppChoices Android](https://play.google.com/store/apps/details?id=com.DAA.appchoices&hl=en)  
+[Ad Privacy Manager iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=551047372&mt=8)  
+[Ad Privacy Manager Android](https://play.google.com/store/apps/details?id=com.truste.mobile.consumer&hl=en)
+
+You may also be able to limit data collection by third parties by using your mobile device settings. Please note that electing to opt out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, please note that if you use a different browser or erase cookies from your browser, or use a different mobile device, you may need to renew your opt-out choices.
+
+### Children
+
+Our Properties are not intended for children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+
+### Changes to Our Privacy Policy
+
+We may change this privacy policy from time to time. We will post changes in this policy, and suggest that you periodically revisit this policy to stay informed of any changes.
+
+### Security
+
+We take reasonable measures to help protect data we collect from unauthorized access and use.
+
+### Contact Us
+
+If you have questions regarding our privacy policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f464149406f46414b5a5c5b5d564b46594a014c4042).
