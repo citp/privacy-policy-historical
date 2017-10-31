@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidemex.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025025148id_/http%3A//insidemex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidemex.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031115412id_/http%3A//www.insidemex.com/privacy-policy) for the most accurate reproduction.*
 
 # Mexico Meetings Network | The meeting planner's guide to Mexico
 
