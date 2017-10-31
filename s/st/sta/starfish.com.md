@@ -1,81 +1,57 @@
-> *The following text is extracted and transformed from the starfish.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210736id_/http%3A//www.intellisync.com/pages/_utility/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfish.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031135837id_/http%3A//starfish.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Starfish.com
 
-Announcing
-
-Wireless Email Express
-
-|  | 
-
-Ideal for the smaller enterprise - your ticket to fast, low-hassle wireless email!  
-  
----|---  
-  
-  
+Starfish.com ("us", "we", or "our") operates [http://www.starfish.com](http://www.starfish.com/) (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We take your privacy very seriously. We believe in protecting your information in the same way we want ours protected.  
 
 
-## Privacy Policy
+By accessing and using the Site, you agree that you have read and understand this Privacy Policy and that you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy. 
 
-Intellisync believes strongly that every person has the right to privacy. When using our website, services and/or products, you may give us information. Intellisync asks for and maintains information on its visitors and customers to provide a better, more personal experience.   
-Privacy is very important to Intellisync. This privacy statement describes the conduct and practices of Intellisync as it applies to our clients and visitors.  
+### What information do we collect, and how?
 
+We may collect certain identifying information from or about you in connection with your use of or submissions to the Site, including, but not limited to, your name, address, date of birth, email addresses, and credit card number (together, "Collected Information"). In addition, we may retain the content of, and metadata regarding, any correspondence you may have with us or our representatives, regardless of the mode of communication by which such correspondence was made. This information helps us to improve the Site and the online content, materials, and services that we make available on the Site, and to more effectively and efficiently respond to both current and future inquiries. 
 
-Information Collection
+As with many other websites, the web servers used to operate the Site may collect certain data pertaining to you and the equipment and communications method that you use to access the Internet and our Site and store it in log files. For security reasons and to confirm the integrity of the Site, we may combine components of these data with Collected Information, which may identify you. Unless otherwise described in this Privacy Policy or our Terms and Conditions of Use, such identifying information will be used solely for our business purposes. In addition, the information we collect may reveal such things as the Internet protocol ("IP") address assigned to your computer, specific pages that you accessed on the Site or prior to visiting the Site, and the length of time you spent at the Site. We may use this information to help administer the Site and the servers that provide the Site, generate statistical information, monitor and analyze Site traffic and usage patterns, and improve the Site's content and content delivery, including any online content, materials, and services that we describe or make available on the Site. 
 
-Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, other contact information, title, birth date, gender, occupation, industry, personal interests, other information when needed to provide a service you requested.  
-When you browse our website, you do so anonymously, unless you have previously indicated that you wish Intellisync to remember your login and password. We don't automatically collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. But we do not link your IP address to any personal information unless you have logged in to our website. Like many other commercial websites, the Intellisync website may use a standard technology called a "cookie" to collect information about how you use the site. Please go to "Cookies and Tracking Technology" below for more information.  
-Intellisync collects personal information when you register with Intellisync for an Intellisync account, when you use certain Intellisync products or services, when you register to attend a seminar or participate in an online survey, when you ask to be included in an email or other mailing list, or you submit an entry for a sweepstakes or other promotions, or when you submit your personal information to Intellisync for any other reason. From time to time, Intellisync receives personal information from business partners and vendors. Intellisync only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Policy and applicable laws.  
-Access to certain Intellisync web pages require a login and a password. The use of those web pages, and the information or programs downloadable from those sites, may be governed by a written agreement between your employer and Intellisync. Unless you request deletion of your personal information as specified below, your personal information may be retained by Intellisync to verify compliance with the agreement, log software licenses granted, to track software downloaded from those pages, or track usage of other applications available on those pages.
+Technologies such as: cookies or similar technologies, are used by Starfish.com, our marketing and analytics partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
-Notice
+We use cookies for remembering user settings and items added to our shopping cart. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-When personal information is collected, we will inform you at the point of collection the purpose for the collection. Intellisync will not transfer your personal information to third parties without your consent, except under the limited conditions described under the discussion entitled "Information Sharing and Disclosure" below.  
-If you choose to provide us with your personal information, we may only transfer that information, within Intellisync or to Intellisync's third party service providers with your permission. Upon receiving your permission, we may transfer your information across borders and from your country or jurisdiction to other countries or jurisdictions around the world.  
-We will always give you the opportunity to "opt out" of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information in accordance with this Policy unless you take affirmative action to indicate that you do not consent, for instance by clicking or checking the appropriate option or box at the point of collection. In some cases, when applicable, we will provide you with the opportunity to "opt in." This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. 
 
-Cookies and Tracking Technology
+Our Site may include links to other web sites whose privacy practices may differ from those of Starfish.com. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
 
-Intellisync employs cookies in order for its server to recognize a return visitor as a unique user. Cookies are small text files placed in the 'Cookies' folder on a visitor's hard disk and allow for Intellisync to remember the visitor. The cookies placed by the Intellisync server are readable only by Intellisync, and cookies cannot access, read or modify any other data on a computer. All web-browsers offer the option to refuse any cookie, and if a visitor refuses the Intellisync cookie then Intellisync does not gather any information on that visitor.
+Our web site includes widgets, such as Google Maps and embedded video players. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
-Information Collected
+In addition, our Site may use a third party web analytics service. These features may record mouse clicks, mouse movements, and scrolling activity as you navigate through the website. Furthermore, we do not track your browsing habits across websites we do not own. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
-The Intellisync system will gather information such as what kind of browser a visitor is on, what operating system they are using, their IP address, and their clickstream information (for example, which pages they have viewed and how long they have been there). Note that information is only gathered while the visitor is on the website in question -- in this case [www.Intellisync.com](http://www.intellisync.com/). Intellisync monitors how a visitor arrives at the website, but cannot and will not gather information about other sites the visitor has been on. 
+### How will we use the information you provide us?
 
-At times, Intellisync may ask for more specific contact information to be entered as a means of registration before accessing a certain part of the site. Intellisync uses this information to understand its visitors and, with permission, to provide visitors with updates on the company and its products. A visitor may always option to not enter any information about themselves.  
+In addition to the uses described above or in our Terms and Conditions of Use, we may use the information that we collect from or about you to analyze and improve the content, materials and services that we make available on the Site, to notify you of changes made to the Site, to evaluate user needs and customize the Site content delivered to you according to those needs, to send you promotional materials that you request from us, and for other legitimate and lawful business purposes. If you contact us for support or assistance, we may use information about you or your system that you provide or that we collect for purposes such as verifying whether your system meets the minimum requirements needed to use the Site and our various services. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We may store Collected Information in the United States, or we may transfer it to other countries. 
 
+If you wish to subscribe to our promotional emails, we will use your name and email address to send them to you. Out of respect for your privacy, you may choose to stop receiving our promotional emails by following the unsubscribe instructions included in these emails. 
 
-Information Usage
+### With whom do we share the information we collect?
 
-Intellisync collects identifying information when you use certain Intellisync products or services, when you visit Intellisync.com web pages or microsite web pages, or when you enter promotions or contests.  
-Intellisync also automatically receives and records information on our server logs from your browser including your IP address, cookie information, time stamp (time page accessed as well as time spent per web page), as well as the specific pages you requested.   
-The only time Intellisync, its partners, subsidiaries, agents, officers or employees would provide specific information to anyone is if required to do so by law, and even then only to the proper authorities.
+We will share your personal information with third parties only in the ways that are described in this privacy policy or the Notice of Privacy Practices. We do not sell your personal information to third parties. 
 
-Information Sharing and Disclosure
+We may share Collected Information with our authorized agents in order to provide services to you, and for any other lawful business reasons. If all or part of Starfish.com is sold, merged, or otherwise transferred to another entity, we may transfer Collected Information to such entity as part of that transaction. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. In certain situations, the Site. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
 
-Because Intellisync is a global company, your personal information may be shared with other Intellisync offices or subsidiaries around the world. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.  
-Your personal information is never shared outside Intellisync without your permission, except under conditions explained below. Inside Intellisync, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Intellisync, its subsidiaries, affiliates or agents are located.  
-Intellisync may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of Intellisync to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners (unless you have opted out of these types of communications). We will also disclose your personal information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our websites.
+We may disclose Collected Information to the proper authorities if we become subject to a subpoena or court order or if we are otherwise legally required to disclose such information, such as bankruptcy proceedings. We may also use and disclose information about you to establish or exercise our legal rights, to enforce the Terms and Conditions of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person. 
 
-Data Security
+We may provide your personal information to companies that provide services to help us with our business activities. These companies are authorized to use your personal information only as permitted by law and only as necessary to provide these services to us. 
 
-Your Intellisync account information is password-protected for your privacy and security. Intellisync safeguards the security of the data you send us with physical, electronic, and managerial procedures. In certain areas of our websites, Intellisync uses industry-standard SSL-encryption to enhance the security of data transmissions. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
+### How do we protect information collected?
 
-Children and Privacy
+Starfish.com maintains certain commercially reasonable security measures to protect Collected Information, both during transmission and once we receive it. When you enter sensitive information (such as credit card number) on our site, we encrypt the transmission of that information using secure socket layer technology (SSL). However, the storage and communication of Collected Information can never be completely secure. Hence we do not guarantee that information that you transmit or otherwise supply to us, or any communications conducted on or through the Site, is or will be totally secure. If you become aware of any breach of Site security, this Privacy Policy, or the Terms and Conditions of Use, please notify us immediately. 
 
-Our websites do not target and are not intended to attract children under the age of 13. Intellisync does not knowingly solicit personal information from children under the age of 13 or send them requests for personal information.
+From time to time, we may change our privacy practices and this Privacy Policy, because of changes in relevant and applicable legal or regulatory requirements, our business practices, or in our attempts to better serve your needs and those of our other customers. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-Third Party Sites
+### Contact Us
 
-Intellisync's website contains links to other sites. Intellisync does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.  
-Our website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with a Intellisync logo, even though they are not operated or maintained by Intellisync. Although we choose our business partners carefully, Intellisync is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
+If you have any questions about this Privacy Policy, please contact us. 
 
-Changes to this Privacy Policy
+BY ACCESSING OR USING THE SITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND CONSENT TO OUR PRIVACY PRACTICES AND TO THE USES AND DISCLOSURES OF INFORMATION THAT WE COLLECT ABOUT YOU, AND YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF USE APPLICABLE TO YOU. 
 
-Intellisync will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site.
-
-Questions or Suggestions
-
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy@Intellisync.com](mailto:privacy@Intellisync.com).  
-This document was last updated October 14, 2004  
+Last updated: (September 26, 2017).  
 
