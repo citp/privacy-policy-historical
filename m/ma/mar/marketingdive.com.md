@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingdive.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623050815id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingdive.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031224401id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Industry Dive
 
@@ -20,7 +20,7 @@ We may change this privacy policy from time to time. We will post changes in thi
 
 We may permit third-party services to collect information about your online activities over time and across different websites including to provide more relevant ads to you across the Internet. To learn more about this practice and the choices that you can make, please click here.
 
-If you have questions regarding our privacy policy, please contact us at: [info@industrydive.com](mailto:info@industrydive.com).
+If you have questions regarding our privacy policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bad3d4dcd5fad3d4decfc9cec8c3ded3ccdf94d9d5d7).
 
 ### Data Collection
 
@@ -81,7 +81,7 @@ We may share personal information:
 
 ### Your Choices
 
-As noted above, we may disclose your information to third parties for their direct marketing purposes. If you would like to opt out of such disclosures, please contact us at info@industrydive.com.
+As noted above, we may disclose your information to third parties for their direct marketing purposes. If you would like to opt out of such disclosures, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 When we send email messages, we include our address, contact information, and a link that you can use to unsubscribe from future messages. You can also go directly to your account profile to manage your subscription preferences.
 
@@ -122,4 +122,4 @@ We take reasonable measures to help protect data we collect from unauthorized ac
 
 ### Contact Us
 
-If you have questions regarding our privacy policy, please contact us at: [info@industrydive.com](mailto:info@industrydive.com).
+If you have questions regarding our privacy policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f464149406f46414b5a5c5b5d564b46594a014c4042).
