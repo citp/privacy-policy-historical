@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501031026id_/http%3A//pioneerthinking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031125932id_/http%3A//pioneerthinking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pioneer Thinking
 
@@ -26,7 +26,7 @@ Pioneer Thinking provides its visitors with a discussion board. When you become 
 
 When subscribing to our newsletter, we request your name and email address. We do not sell, trade, lend or otherwise share our newsletter subscriber list with anyone, ever! Our subscriber list is used for the sole purpose of delivering our newsletter and site updates to you.
 
-Readers who no longer wish to receive our newsletter can send us an email, with “Unsubscribe” in the subject. newsletter@pioneerthinking.com or by clicking the link provided at the bottom of your copy of the newsletter.
+Readers who no longer wish to receive our newsletter can send us an email, with “Unsubscribe” in the subject. [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by clicking the link provided at the bottom of your copy of the newsletter.
 
 **Surveys or Contests**
 
@@ -48,4 +48,4 @@ Terms of Use
 
 Please see our Online Agreement for other terms and conditions governing your use of www.pioneerthinking.com
 
-E-mail:[webmaster@pioneerthinking.com](mailto:webmaster@pioneerthinking.com)
+E-mail:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2453414649455750415664544d4b4a414156504c4d4a4f4d4a430a474b49)
