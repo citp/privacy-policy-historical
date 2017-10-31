@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the chennaispider.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911020934id_/http%3A//www.chennaispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaispider.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101001104id_/http%3A//www.chennaispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ChennaiSpider.com privacy policy
-
-  
-
 
 * * *
 
@@ -50,20 +47,3 @@ We would request you please provide us as much information as possible to resolv
 
   
 
-
-Online People
-
-### Like Us?
-
- **Active Members**  
- _ **Today**_
-
-
-
-
- _ **Last 7 Days**_
-
-
-
-
-[ more...](https://web.archive.org/members/TopPerformers.aspx)
