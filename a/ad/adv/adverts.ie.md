@@ -1,8 +1,24 @@
-> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621103526id_/https%3A//help.adverts.ie/hc/en-us/articles/201323532-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031075541id_/https%3A//help.adverts.ie/hc/en-us/articles/201323532-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – Adverts.ie
 
-**Last Update**   **13/10/2006**    
+**Update 17/07/2017  **Added the following cookies to our list:
+
+srview  
+last_online  
+peek_used_once
+
+Removed the following cookies from our list as they are no longer in use:
+
+adverts_show_signup  
+adverts_show_fb_invite  
+adverts_show_fb_invite_munster  
+iePinning_www.adverts.ie  
+ajs_cid  
+app_notice_off  
+user_token
+
+**Update**   **13/10/2006**    
 Added the "Sale of Company" policy to bring Adverts in line with other Distilled SCH companies.
 
 You should carefully read our full Privacy Policy before deciding to become a member of Adverts.ie ("the Site") or using the Site. This Privacy Policy sets out how we collect, use and protect any information you give us when you use the Site. If you give us any information by which you can be identified when using the Site then we will use it only in accordance with this Privacy Policy.
@@ -192,16 +208,10 @@ Cookie Name | Typical Value | Purpose | Expires
 advertsid | Randomly generated hexadecimal string | Used to identify user session | On browser exit  
 adverts_uid | Randomly generated number | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user logout or 1 year  
 adverts_uid_hash | Randomly generated hexadecimal string | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user logout or 1 year  
-adverts_show_signup | The user page view count or a 'no show' string | Used to display the signup popup after a certain number of page views. | 1 year  
-adverts_show_fb_invite | The user page view count or a 'no show' string | Used to display the facebook invite friends popup after a certain number of page views. | 1 year  
-adverts_show_fb_invite_munster | The user page view count or a 'no show' string | Used to display the facebook invite friends popup to munster users after a certain number of page views. | 1 year  
 touch_off | "1" | Disables the touch site and forces the use of the full site | On browser exit  
 strap_*_* | "1" | Ensure a strapline won't be seen after being dismissed | 3 years  
-iePinning_www.adverts.ie | "hidden" | Remembers when the user has dismissed the prompt to use the "site pinning" feature in Internet Explorer 9. | 30 days  
 fb_login | "1" | Indicates that the user logged in via Facebook | On user logout or browser exit  
 fbsr_116958691666039 | Alphanumeric string | The user's Facebook session information, if the user is logged in via Facebook | On user logout or browser exit  
-ajs_cid | Comma-separated list of numbers | A list of categories the user has recently visited | 30 days  
-app_notice_off | 1 or 0 | Whether the user has dismissed or otherwise interacted with the notice regarding the app being available for their device | 1 year  
   
 cookie_notice
 
@@ -210,18 +220,6 @@ cookie_notice
 pool.distilled.ie
 
 |  pool.distilled.ie |  Used for communicating between distilled media sites such as boards.ie and Adverts.ie |  1 year   
-  
-user_token
-
-| 
-
-Randomly generated hexadecimal string
-
-| 
-
-Used to identify user when recording user's recently viewed ads
-
-| 1 year  
   
 location_search         
 
@@ -247,6 +245,16 @@ last location on map refine
 
 | 1 year  
 ---|---|---|---  
+  
+srview
+
+| 
+
+"grid" or "list" 
+
+| Remembers the preferred search result view type. | 1 year  
+ last_online |  Timestamp | Last time the user was online.  | 1 year  
+ peek_used_once |  1 or 0 | Whether the user has been shown the quick peek help tooltip. |  1 year  
   
 In addition to the above cookies set by Adverts.ie, cookies may also be set by a number of our site partners:
 
