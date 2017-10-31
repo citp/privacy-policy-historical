@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630053058id_/https%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031112916id_/https%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | District Lines
 
@@ -87,20 +87,3 @@ Orlando, FL 32810
 USA  
 help@districtlines.com  
 877-739-1173 
-
-Applies only to:  
-\- https://www.districtlines.com/alexi-murdoch  
-\- https://www.districtlines.com/dispatch  
-\- https://www.districtlines.com/guster  
-\- https://www.districtlines.com/state-radio 
-
-We wanted to let you know about retargeting and analytical tools that this store uses and how you can opt out.
-
-**Ad Roll:**  
-As you browse this website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with this website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit [this page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners? targeted advertising. 
-
-**Google Analytics:  
-**This website uses Google Analytics tracking cookies to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalized and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on the website and strive to give you more of the things you enjoy reading, watching or purchasing.
-
-**Browsing The Web Without Being Tracked:**  
-Most sites on the internet are tracking your browsing habits with analytic and retargeting tools, even if they don't clearly disclose it. People who are concerned about privacy and wish to surf the web without being tracked by any site or cookie should use a browser that facilitates anonymous browsing like [Google Chrome](https://www.google.com/intl/en/chrome/browser/) in [Incognito Mode](https://support.google.com/chrome/answer/95464?hl=en) .
