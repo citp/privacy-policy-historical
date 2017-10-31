@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628204302id_/http%3A//www.covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031143539id_/http%3A//www.covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Covers.com
 
@@ -274,6 +274,8 @@ A Person shall be able to challenge the accuracy and completeness of the Persona
 9.6 A Person can obtain information or seek access to his or her Personal Information by contacting a designated representative at Covers Media Group Ltd. principal office. 
 
 9.7 An employee can obtain information or seek access to his or her Personal Information by contacting his or her immediate supervisor within Covers Media Group Ltd.. 
+
+9.8 Third parties may collect information via email/messages from Covers.com to use according to their own privacy policies. One such third party company is LiveRamp. To opt out of LiveRamp for the Covers website please click [here](http://www.aboutads.info/choices). To opt out of LiveRamp for the Covers App please click [here](http://www.aboutads.info/appchoices). 
 
 **Principle 10 - Challenging Compliance**
 
