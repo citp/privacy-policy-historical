@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegcooking.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627080041id_/http%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegcooking.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031154010id_/https%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PETA
 
