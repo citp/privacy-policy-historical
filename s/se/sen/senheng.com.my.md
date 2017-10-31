@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senheng.com.my privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622104611id_/http%3A//senheng.com.my/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senheng.com.my privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101002000id_/http%3A//www.senheng.com.my/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Senheng
 
@@ -71,7 +71,7 @@ If you would like to make any inquiries or complaints or request access or corre
 Customer Service  
 Address: 44B, Jalan Pandan 3/2, Pandan Jaya, 55100 Kuala Lumpur  
 Tel : 03-9281 4040  
-Email: ccc@senheng.com.my
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 As a a subscriber of our Portal, you may correct or update your personal data by clicking on the 'My Account' link at the top of any page, entering your ID, password and birth date when prompted and clicking the Edit Information button. The changes you make will be reflected in our databases instantly. If you wish to deactivate your account, you may contact our member services group through the 'My Account' section, or the 'Contact Us' section.
 
