@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the hdtracks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120934id_/http%3A//www.hdtracks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdtracks.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031173710id_/http%3A//www.hdtracks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HDtracks - The World's Greatest-Sounding Music Downloads
 
 ### HDTRACKS.COM TAKES YOUR PRIVACY SERIOUSLY.
 
 Our website, www.HDtracks.com, and our HDtracks Store ("Digital Store") is the Internet’s Hi-Def Digital Download Store (TM). In order to make our Digital Store better for you we may collect information about you, your household (but not children under 18), and your use of your music collection. This Privacy Policy, which HDtracks has the right to amend from time to time, describes how and why we collect information from you, how we handle that information, and how and why we use that information. This Privacy Policy is part of our Terms of Service and applies to all information we collect or receive from you and your household.
+
+[](http://secure.trust-guard.com/privacy/2296)
 
 ### INFORMATION WE COLLECT AND WHY WE COLLECT IT
 
