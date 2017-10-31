@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getdpd.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326184343id_/https%3A//getdpd.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdpd.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031103353id_/https%3A//getdpd.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# DPD - Website Privacy Policy - Digital Product Delivery
+# Website Privacy Policy
 
 The last update to our Privacy Policy was posted on December 12, 2013. This document governs the privacy policy of our Website, www.getdpd.com. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
 
