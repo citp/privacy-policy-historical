@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nibbledish.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203233125id_/http%3A//nibbledish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nibbledish.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031213036id_/http%3A//nibbledish.com/privacy) for the most accurate reproduction.*
 
 # Chicken Recipes, Crock Pot Recipes, Chili Recipe & more @ Nibbledish!
 
