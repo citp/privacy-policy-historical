@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcc.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409172100id_/http%3A//www.fxcc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcc.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031224249id_/https%3A//www.fxcc.com/privacy-policy) for the most accurate reproduction.*
 
 # FXCC Privacy Policy | How we use information we may collect
 
@@ -28,7 +28,17 @@ In addition we may process your personal data for marketing purposes and there a
 
 
 
-If you do not want us to use your personal information in this way, please send an email to [account@fxcc.com](mailto:accounts@fxcc.com) asking not to be contacted for any marketing purposes or specifying which of the above you do not wish to be contacted about. Please include your name, address and postcode along with any account number or other reference you may have. If you are an on-line subscriber, you may update your account to amend your marketing preferences at any time.
+If you do not want us to use your personal information in this way, please send an email to [accounts@fxcc.com](mailto:accounts@fxcc.com) asking not to be contacted for any marketing purposes or specifying which of the above you do not wish to be contacted about. Please include your name, address and postcode along with any account number or other reference you may have. If you are an on-line subscriber, you may update your account to amend your marketing preferences at any time.
+
+#### Our Cookie Policy
+
+To provide you with a better experience we sometimes use cookies. A cookie is a text file made up of letters and numbers that allows us to distinguish your browser/device from another visitor's browsers/device without uniquely identifying the individual person using the computer. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information.
+
+You have the right to decide whether to accept or reject cookies by setting or amending your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our website though your access to some functionality and areas of our website may be restricted. As the means by which you can refuse cookies through your web browser controls vary from browser-to-browser, you should visit your browser’s help menu for more information.
+
+If you continue to use this website without changing the cookie settings of your web browser then you are consenting to our cookie policy
+
+To learn more about cookies and how to manage them via your browser/device please visit [www.aboutcookies.org](http://www.aboutcookies.org/)
 
 #### Disclosure of your information
 
@@ -67,4 +77,4 @@ Limassol, Cyprus
 
 Tel: +357 25 870 750  
 Fax: +357 25 870 753  
-E-mail: accounts@fxcc.com 
+E-mail: [info@fxcc.com](mailto:info@fxcc.com)
