@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the princetonol.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626135017id_/http%3A//princetonol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonol.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031050947id_/http%3A//princetonol.com/privacy) for the most accurate reproduction.*
 
-# Princeton New Jersey: Princeton Online :: Privacy Policy
+# Privacy Policy :: Privacy Policy
 
 We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, our website tracking software collects and stores certain information automatically. Here is how we handle information about your visit to our website.
 
