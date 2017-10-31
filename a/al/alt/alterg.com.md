@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alterg.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111512id_/http%3A//www.alterg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alterg.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031233130id_/http%3A//www.alterg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy from AlterG
 
