@@ -1,38 +1,16 @@
-> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131619id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031035721id_/http%3A//www.xs-software.com/privacypolicy.html) for the most accurate reproduction.*
 
-# XS Software | Welcome
+# XS Software | Privacy Policy
 
-Partnership
-
-Our products
-
-    Massive multiplayer games united in a single portal
-    Original game play and fascinating design
-    Different genres for every type of player
-    40+ languages
-    25 million registered players
-    2,000,000 active players
-    Easy localizable games. Code/Design/Text completely separate
-
-Featured game
-
-[ ](http://www.xs-software.com/viewproduct.php?id=4&go=browser)
-
-Nemexia is a web-based online space strategy game. Each player starts with single planet and a small amount of resources and ships. Then you can develop your own personal empire. Do not misss to develop your economic and military structure. Play with thousands other players from all over the ...
-
-## Privacy And Policy
-
-### Data privacy policy
-
-This privacy policy informs you of which personal data is being collected by XS Software JSCo as part of our Internet services and games. It also explains how that data is processed and used. The protection of your personal information is important to us.
+This privacy policy informs you of which personal data is being collected by XS Software JSCo.("XS Software", “us”, “our”,”the Site“, „The Company“ or "we") as part of our Internet services and games. It also explains how that data is processed and used. The protection of your personal information is important to us. 
 
 Your data is protected against unauthorized access and loss through the use of various electronic, technical, physical, administrative and contractual measures.
 
 XS Software has taken the necessary technical and organizational precautions to ensure that the regulations for data privacy are respected both internally as well as by external service providers.
 
-### Collection of data
+#### Collection of data
 
-#### XS Software collects personal data
+**XS Software collects personal data**
 
   * provided by you upon registration at one of our websites or for one of our games;
   * if these are provided by you during an inquiry;
@@ -41,12 +19,9 @@ XS Software has taken the necessary technical and organizational precautions to 
 
 
 
-XS Software also collects user data to the extent that it is necessary for the performance of services or for the billing of these services. This refers in particular to game processes, game scores and information regarding the use and settlement of services.
+XS Software also collects user data to the extent that it is necessary for the performance of services or for the billing of these services. This refers in particular to game processes, game scores and information regarding the use and settlement of services. 
 
-  
-
-
-#### Within the context of the use of our websites, forums and games, XS Software collects the following non-personal information:
+**Within the context of the use of our websites, forums and games, XS Software collects the following non-personal information:**
 
   * IP addresses including time and date;
   * cookies, local Flash data;
@@ -54,13 +29,13 @@ XS Software also collects user data to the extent that it is necessary for the p
 
 
 
-This data is used in statistical analysis for anonymous data records.
+This data is used in statistical analysis for anonymous data records. 
 
-IP addresses and the corresponding times of usage are saved for a maximum of three months. These are stored to secure data and ensure our system's stability and reliability. In certain situations, XS Software may use your IP address and the corresponding date and time to track and stop use of multiple accounts for fraudulent purposes. In cases such as these, XS Software will seek the consent for such use within the framework of the relevant game conditions.
+IP addresses and the corresponding times of usage are saved for a maximum of three months. These are stored to secure data and ensure our system's stability and reliability. In certain situations XS Software may use your IP address and the corresponding date and time to track and stop use of multiple accounts for fraudulent purposes. In cases such as these, XS Software will seek the consent for such use within the framework of the relevant game conditions.
 
-### Use of your data
+#### Use of your data
 
-#### We use your personal data
+**We use your personal data**
 
   * to provide our services and settle payments;
   * to anonymously or pseudonymous adjust our offer to meet our users demands and improve our services;
@@ -68,40 +43,44 @@ IP addresses and the corresponding times of usage are saved for a maximum of thr
 
 
 
-We also use this information to communicate with you. This includes, in particular, the provision of assistance and support as well as the provision of important contract information. Subject to your consent, we keep you informed about news, events and promotions either via e-mail or text message.
+We also use this information to communicate with you. This includes, in particular, the provision of assistance and support as well as the provision of important contract information. Subject to your consent, we keep you informed about news, events and promotions either via e-mail or text message. 
 
-### Data transfer
+#### Data transfer
 
 We will treat your data with the strictest confidentiality and will not disclose it to any third parties. However, we may be required by law to disclose your information in certain situations (such as to an investigating authority) where the transfer takes place only within the framework required by legal conventions.
 
 In individual cases, subsidiaries, parent companies or third parties may provide services on our behalf. This mainly concerns the handling of payment transactions by external service providers (PayPal, Global Collect, etc.) and, in the case of default, by a debt collection company. These external companies are obligated to treat your data confidentially and securely, and only to use your data to the extent necessary to fulfill the tasks for which they are responsible.
 
-### Right of revocation, deletion of data
+#### Social Media (Features), Widgets and SDK-s
 
-If you have given us consent to process personal data, you can withdraw this consent at any time.
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-XS Software deletes your personal data insofar as it is no longer needed or required, or if you have requested the deletion of this data. Please note that data cannot be deleted if there are legal storage requirements or this data is required by us for the billing of our services.
+#### iOS and Android Platforms
 
-### Information, viewing, and deletion of data
+When you use any of the XS Software games or applications on a mobile platform, we may collect and record certain information such as your unique device ID (persistent / non-persistent), hardware type, media access control (“MAC”) address, international mobile equipment identity (“IMEI”), the version of your operating system (“OS”), your device name, your email address (if you have connected to Facebook or Google+), and your location (based on your Internet Protocol (“IP”) address). This information is useful to us for troubleshooting and helps us understand usage trends.
 
-At <http://xs-software.com/contacts.php> you can request to see data which we have recorded. You can also request to have this data changed or deleted. You can also send your request to us by mail at the following mailing address:
+We may collect your location based information for the purpose of providing you with the correct version of the application. We will not share this information with any third party. If you no longer wish to allow us to track or use this information, you may turn it off at the device level. Please note, the application may not work properly if we are unable to tell where you are coming from (Country specific). In addition, we create a unique user ID to track your use of our Service. This unique user ID is stored in connection with your profile information to track the XS Software games you are playing.
 
-XS Software JSCo
+#### Facebook Connect, Game Center and Google+
 
-130 Simeonovsko chausse blvd.
+You can log in to our site using sign-in services (“SN Service”) such as Facebook Connect , Apple’s Game Center, or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name, email address, and resume to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-1700 Sofia, Bulgaria
+We may collect and record information through the SN Service in accordance with the policies and terms of that SN Service. The information we collect when you connect your user account to an SN Service may include: (1) your name, (2) your SN Service user identification number and/or user name, (3) locale, city, state and country, (4) sex, (5) birth date, (6) email address, (7) profile picture or its URL, and (8) the SN Service user identification numbers for your friends that are also connected to XS Software game(s). If you want us to delete the data we receive from Facebook, Game Center or Google+ about you, please contact us at support@awesome-x.com.
 
-For general questions about XS Software's Data Privacy Policy and data protection in general, please contact us at support@xs-software.com If possible, please remember to include your user ID, e-mail address and, if needed, the relevant game(s).
+#### Invite a Friend
 
-  
-  
----  
-Sofia, January 1, 2010  
-| XS Software JSCo  
-| 130 Simeonovsko chausse blvd.  
-| 1700 Sofia, Bulgaria  
-**Tel:** | +359 895 52 52 77  
-**Fax:** | +359 24 897 361  
-**CEO:** | Hristo Tenchev  
-**VAT ID No.:** | BG200757660
+XS Software may offer you the opportunity to invite your contacts from a SN Service (such as your Facebook friends) so that those contacts can be located in XS Software games and/or you can invite them to join you in XS Software games. Such contact information will be used only for the purpose of sending communications to the addressee. You or the third party may contact us at support@awesome-x.com to request the removal of this information from our database to the extent XS Software stores any of this information.
+
+#### Push Notifications
+
+We may occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
+
+#### Information, viewing, and deletion of data
+
+At xs-software.com you can request to see data which we have recorded. You can also request to have this data changed or deleted. You can also send your request to us by mail at the following mailing address:
+
+XS Software JSCo.  
+Bulgaria, Sofia 1113  
+15-17 Tintiava Str
+
+For general questions about XS Software’s Data Privacy Policy and data protection in general, please contact us at support@xs-software.com If possible, please remember to include your user ID, e-mail address and, if needed, the relevant game(s). 
