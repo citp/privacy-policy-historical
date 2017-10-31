@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whynotad.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610044043id_/http%3A//www.whynotad.com/topic/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whynotad.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031102948id_/http%3A//www.whynotad.com/topic/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
