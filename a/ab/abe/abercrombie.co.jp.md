@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abercrombie.co.jp privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201518id_/http%3A//www.abercrombie.co.jp/en_JP/AF-ca-privacy-and-terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abercrombie.co.jp privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031071349id_/http%3A//www.abercrombie.co.jp/en_JP/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
 
-# AF-ca-privacy-and-terms
+# privacy-and-terms
 
 Updated: June 2017
 
@@ -9,6 +9,8 @@ In order to make your visits to the various online channels of Abercrombie & Fit
 This privacy policy statement applies only to the information collected online through Abercrombie.co.jp, Abercrombie & Fitch microsites or mobile sites (collectively our “Websites”), our communications, social media sites and accounts, or mobile applications that Abercrombie & Fitch provides for download to your mobile device ("Apps") that expressly adopt, and display or link to, this policy.
 
 The information you provide through our Websites, Apps, communications and through social media sites and accounts is collected by Abercrombie & Fitch Stores, Inc. and processed by Abercrombie & Fitch Stores, Inc., Abercrombie & Fitch Management Co., AFH Japan GK, and AFH HK DTC Limited.
+
+### Contents
 
   * What is Personal Data
   * Information We Collect Online
@@ -29,7 +31,11 @@ The information you provide through our Websites, Apps, communications and throu
 
 
 
+### What is Personal Data
+
 This policy will more specifically address the personal data we collect, transfer, use, and disclose, which generally includes name, address, telephone number, email address, date of birth, billing and payment information, account information, and other information that specifically relates to you, which we collect in the course of providing our marketing communications, goods, and services to you.
+
+### Information We Collect Online
 
 #### 1\. General Browsing
 
@@ -97,6 +103,8 @@ To create an account on our Websites/Apps or to participate in certain features,
 
 This privacy policy does not cover the privacy and security practices of social media sites where you have Personal Social Media Accounts. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
 
+### Mobile Application
+
 We offer Apps for download to your mobile device that provide you with various interactive features.
 
 The collection and means of collecting information, as well as the use and sharing of information, through any currently existing or future App are discussed in this policy.
@@ -112,6 +120,8 @@ In addition:
 
 
 
+### Information Collected on Pages Abercrombie & Fitch Has on Social Media Sites
+
 Personal information may be collected directly by Abercrombie & Fitch through social media accounts (“Social Media Pages”) and may also be collected by the social media site hosting the Abercrombie & Fitch Social Media Page.
 
 Personal Information collected directly by Abercrombie & Fitch: The collection of personal information directly by Abercrombie & Fitch on our Social Media Pages will include the type of information addressed under "What is Personal Data" above. Examples of how personal information may be directly collected on Abercrombie & Fitch Social Media Pages include providing information through an application or form which has a link to this privacy policy. We will use and share the information we collect on our Social Media Pages in the manner specified below in "Using Information We Collect” and in "Information We Share With Third Parties."
@@ -119,6 +129,8 @@ Personal Information collected directly by Abercrombie & Fitch: The collection o
 Personal Information collected by the social media sites: This privacy policy does not cover the privacy and security practices of the social media sites on which Abercrombie & Fitch has Social Media Pages. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
 
 The social media sites where Abercrombie & Fitch has Social Media Pages may provide aggregate information and analysis to Abercrombie & Fitch about your use of our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.
+
+### Using Information We Collect
 
 We use the information collected through our Websites, Apps, and communications for the following purposes:
 
@@ -159,6 +171,8 @@ We use the information collected through our Websites, Apps, and communications 
 
 Please note that if you do not provide us with the required personal information, we may not be able to provide the information, products or services you need or process your request.
 
+### Information We Share with Third Parties
+
 #### 1\. Email Addresses
 
 We do not sell, or grant rights to external third parties, to use your email address for their own marketing purposes.
@@ -181,7 +195,11 @@ You should also be aware that we may disclose specific information about you if 
 
 We may disclose the information that you provide to us (including, without limitation, your personal data) to any member of our group, which means our subsidiaries, our ultimate holding company and the subsidiaries of our holding company (including our affiliated companies). A&F and its affiliates will not subscribe you to their ongoing marketing email or text message programs unless you have separately consented to receive such marketing emails or texts from a given affiliate. These members may use information provided by you for marketing purposes or to serve personalized messaging on our Websites, Apps, and communications.
 
+### Storage of Information
+
 All of the information gathered through our Websites, Apps, and communications that you provide to us is sent to the United States and Japan. We store and process your personal data and any other information that we collect from you through our Websites, Apps, and communications in the United States, Japan, and Japan. Our third party service providers who offer services to us from time to time may also store and process your personal data in the United States, Japan, and Japan. We, and our third party service providers mentioned above, may need to disclose your personal data that we store if required to do so under any applicable laws, rules or regulations.
+
+### Cookies and Advertising
 
 #### What Are Cookies, Pixel Tags and URL Links, and How Are These Used on Our Websites or in Our Emails?
 
@@ -195,7 +213,11 @@ In addition, our email communications to you may include a "click-through URL" l
 
 We contract with third party advertising companies to serve you online display and banner advertisements on other websites. To serve this advertising, these third parties may place, use or rely on technology, such as cookies and/or Pixel Tags, to collect information about your interactions with our Websites and Apps and interactions with other websites. These advertising companies may use and share the information gathered to deliver our ads more tailored to your interests on other websites that are a part of their online advertising networks and/or search engines. We receive aggregate information from these third parties to gauge our advertising effectiveness. To opt out you can click on the icon that may appear on some of our advertising served through these technologies. We may use more than one third party company for placing this advertising, which would require you to opt out of each company.
 
+### Consent
+
 By submitting your personal data to us through our Websites, Apps, and communications, you are agreeing that we may collect, use and disclose your personal data in accordance with the purposes and uses identified in this policy.
+
+### Opt-Out
 
 #### 1\. Collection of Location Information
 
@@ -226,17 +248,27 @@ If you do not wish to receive marketing materials from us via postal mail, pleas
 
 If you would like to make sure that we do not disclose your name and postal mailing address to unaffiliated third parties for their marketing purposes, please email us at [Privacy_Policy@Abercrombie.com](mailto:Privacy_Policy@Abercrombie.com) and ask us not to share your postal address with unaffiliated companies, including the postal address
 
+### Accessing and Updating Your Personal Data
+
 We prefer to keep personal data of those who create an account on our Websites and Apps accurate and up to date. To do this, we provide you with the opportunity to update or modify your personal data. Just sign into your account with your email address and password, and you will see an overview page where you can update your information. You may also email or write to us if you think that personal data that we hold about you needs to be updated.
 
 Upon your written request, we will inform you of the personal data relating to you that we hold and the use and general disclosure of your personal data. We will also give you a copy of the personal data we have retained.
 
 Please send your written request to the email address or postal address provided under "Questions About Privacy" below. In your written request, please include your name, address, phone number, and email address so that we may verify whether we retain any personal data about you.
 
+### Privacy of Children
+
 Our Websites are not directed at children under the age of 18, and we do not knowingly collect any personal information from children under the age of 18. The children’s products we sell on our Websites are intended for purchase by adults only. No one under the age of 18 should provide personal data on our Websites or at our stores. n the past, our affiliated company, abercrombie kids, collected personal information from children under the age of 18 with the consent of the child’s parent or guardian. Any such personal information collected by abercrombie kids has been deleted, and abercrombie kids no longer has any information concerning that child.
+
+### Links
 
 For your convenience and enjoyment, our Websites and Apps may contain links to other websites operated by third parties ("Third Party Sites"). We do not monitor and are not responsible for the privacy practices or the content of such Third Party Sites. We would urge you to review the privacy policies of each Third Party Site to ensure that you are comfortable with the privacy policies and practices.
 
+### Updates to Privacy Policy
+
 As we continue to offer our customers new and different types of content and services, we may revise this privacy policy to reflect the changes that we have made to our information collection, use, disclosure or transfer practices. We will notify you that we have revised our privacy policy by placing a notice on our Websites/Apps. Should there be a material change to our information collection, use or disclosure practices, it will be applied only to information collected on a going forward basis. By submitting personal data to us after the changes coming into effect, you are agreeing that we may collect, use, disclose, and transfer your personal data in accordance with the purposes and uses identified and to the transferees specified in the updated privacy policy.
+
+### Security Statement
 
 We limit the number of employees that have access to the databases that contain personal information. 
 
@@ -244,16 +276,16 @@ Our Websites are designed to accept orders from web browsers that allow communic
 
 While we implement the above security measures on our Websites/Apps, you should be aware that 100% security is not always possible.
 
+### Questions About Privacy
+
 If, for any reason, you are accessing a country specific website for a country in which you are not located (e.g. utilizing a proxy server) please contact Customer Service to view the policies and terms specific to your jurisdiction.
 
 If you have any questions, comments or concerns regarding our privacy practices or our legal compliance with the Japanese Act on Protection of Personal Information or other applicable privacy law or regulation, please email us at [Privacy_Policy@Abercrombie.com](mailto:Privacy_Policy@Abercrombie.com) or write to us at the address set out below:
 
-Attn: Privacy Policy Manager
+Attn: Privacy Policy Manager  
+Abercrombie & Fitch Stores, Inc.  
+6301 Fitch Path  
+New Albany, Ohio 43054 USA  
 
-Abercrombie & Fitch Stores, Inc.
-
-6301 Fitch Path
-
-New Albany, Ohio 43054 USA
 
 Privacy_Policy@Abercrombie.com
