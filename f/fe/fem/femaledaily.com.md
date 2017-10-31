@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femaledaily.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607163902id_/http%3A//femaledaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femaledaily.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031132331id_/http%3A//femaledaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Female Daily
 
