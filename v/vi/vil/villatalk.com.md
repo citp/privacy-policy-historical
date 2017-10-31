@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villatalk.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322204909id_/http%3A//www.villatalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villatalk.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031221816id_/https%3A//www.villatalk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VillaTalk
 
@@ -9,6 +9,10 @@ Log files are maintained and analysed of all requests for files on this website'
 **Our Commitment to Children's Privacy**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+Email 
+
+VillaTalk will only use your email for system messages (like password resets) and for notifications (which you control in account settings). 
 
 **Cookies**
 
