@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostsalestoday.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630054327id_/http%3A//www.theinvisibleclose.com/articles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostsalestoday.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031235344id_/http%3A//www.theinvisibleclose.com/articles/privacy) for the most accurate reproduction.*
 
 # Step into the Spotlight with a Talk that you Love, Offers that Sell and the Confidence that comes with being Ready! | Lisa Sasevich
 
