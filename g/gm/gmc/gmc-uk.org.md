@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623203547id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101034342id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy and Cookies policy
 
@@ -245,6 +245,8 @@ ASP.NET_SessionId | This cookie is necessary for site functionality. | Session
 MobileNoDetect | This cookie is set to allow a mobile device to use a link to visit the main website. | Session  
 _atuvc | This cookie is an Addthis.com cookie set when using the Share functionality for Facebook and Twitter. | Persistent  
 GMCAcceptCookie | This is set when you click on 'Accept cookies'   | Persistent  
+_utma, _utmb, utmc, _utmz | These are Google Analytics cookies used to collect information about which pages are popular and number of visitors to our site. The cookies collect information in an anonymous form. We use the information to compile reports and to help us improve the site. | Persistent  
+_hjClosedSurveyInvites, _hjDonePolls, _hjMinimizedPolls, _hjDoneTestersWidgets, _hjMinimizedTestersWidgets, _hjDoneSurveys, _hjIncludedInSample, _hjShownFeedbackMessage | These are Hotjar analytics cookies used to collect information on page usage. The cookies collect information in an anonymous form. We use the information to compile reports and to help us improve the site. | Persistent  
   
 #####  The GMC Mobile website: [http://www.gmc-uk.org/mobile]
 
@@ -262,6 +264,8 @@ WT_FPC | This is our analytics provider Webtrends’ cookie used to collect info
 ASP.NET_SessionId | This cookie is necessary for site functionality. | Session  
 _atuvc | This cookie is an Addthis.com cookie set when using the Share functionality for Facebook and Twitter. | Persistent  
 GMCAcceptCookie  | This is set when you click on 'Accept cookies'    | Persistent   
+_utma, _utmb, utmc, _utmz | These are Google Analytics cookies used to collect information about which pages are popular and number of visitors to our site. The cookies collect information in an anonymous form. We use the information to compile reports and to help us improve the site. | Persistent  
+_hjClosedSurveyInvites, _hjDonePolls, _hjMinimizedPolls, _hjDoneTestersWidgets, _hjMinimizedTestersWidgets, _hjDoneSurveys, _hjIncludedInSample, _hjShownFeedbackMessage | These are Hotjar analytics cookies used to collect information on page usage. The cookies collect information in an anonymous form. We use the information to compile reports and to help us improve the site. | Persistent  
   
 ##### The GMC Consultation website: [https://gmc.e-consultation.net/econsult/]
 
@@ -290,6 +294,8 @@ Ccp_user2965                      | Captures candidate user
 Ccp_name2965   | Captures candidate name - only set if user registers to use the site and allows user to apply for jobs. | Session  
 Wedeputy_reg_username_3552 | Captures candidate username - only set if user registers to use the site and allows user to apply for jobs. | Session  
 Wedeputy_reg_email_3552 | Captures candidate email address - only set if user registers to use the site and allows user to apply for jobs. | Session  
+_utma, _utmb, utmc, _utmz | These are Google Analytics cookies used to collect information about which pages are popular and number of visitors to our site. The cookies collect information in an anonymous form. We use the information to compile reports and to help us improve the site. | Persistent  
+_hjClosedSurveyInvites, _hjDonePolls, _hjMinimizedPolls, _hjDoneTestersWidgets, _hjMinimizedTestersWidgets, _hjDoneSurveys, _hjIncludedInSample, _hjShownFeedbackMessage | These are Hotjar analytics cookies used to collect information on page usage. The cookies collect information in an anonymous form. We use the information to compile reports and to help us improve the site. | Persistent  
   
 ##### GMC Connect: [https://webcache.gmc-uk.org/filescanner/upload]
 
