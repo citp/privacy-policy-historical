@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mheducation.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630054033id_/http%3A//www.mheducation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mheducation.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101174341id_/http%3A//www.mheducation.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Center
 
@@ -80,7 +80,7 @@ If you wish to opt out of the use of data collected on our site to send you targ
 
 **_We may market to you as a customer, depending on your location, however you always have the option to change your marketing preferences._**
 
-Depending on your location, we may use your PII to provide you with materials that we believe are of interest. In some locations, such as the European Union, we will only market to you if you request such materials. In all instances, you may choose to change these preferences at any time by contacting our [customer service](http://www.mheducation.com/contact.html) or by sending an email to [McGraw-Hill Education's local privacy official](http://www.mheducation.com/privacy/customer-privacy-contacts.html). McGraw-Hill Education will not share your PII with third parties for marketing purposes unless the organization is acting on our behalf and is contractually bound to only use your PII for those purposes. Please note, whatever preferences you select for marketing, you may still receive some transactional emails related to the services or products you purchase or use.
+Depending on your location, we may use your PII to provide you with materials that we believe are of interest. In some locations, such as the European Union, we will only market to you if you request such materials. In all instances, you may choose to change these preferences at any time by contacting our [customer service](https://www.mheducation.com/contact.html) or by sending an email to [McGraw-Hill Education's local privacy official](https://www.mheducation.com/privacy/customer-privacy-contacts.html). McGraw-Hill Education will not share your PII with third parties for marketing purposes unless the organization is acting on our behalf and is contractually bound to only use your PII for those purposes. Please note, whatever preferences you select for marketing, you may still receive some transactional emails related to the services or products you purchase or use.
 
 * * *
 
@@ -107,8 +107,8 @@ Depending on your location, we may use your PII to provide you with materials th
 
 **_You may review and correct your PII by contacting customer service._**
 
-  1. Reviewing & correcting your information – We strive to ensure that information we have about you is accurate and current. If you want to review the PII you have provided to us, or believe that the information we have about you is inaccurate, you should contact our [customer service](http://www.mheducation.com/contact.html) to review or update your PII.
-  2. Choice – With limited exceptions, you may choose to change how we use your PII at any time by contacting [customer service](http://www.mheducation.com/contact.html). However, if the PII is required to provide you with the service or process a transaction, you may not be able to opt-out without canceling the transaction or service.
+  1. Reviewing & correcting your information – We strive to ensure that information we have about you is accurate and current. If you want to review the PII you have provided to us, or believe that the information we have about you is inaccurate, you should contact our [customer service](https://www.mheducation.com/contact.html) to review or update your PII.
+  2. Choice – With limited exceptions, you may choose to change how we use your PII at any time by contacting [customer service](https://www.mheducation.com/contact.html). However, if the PII is required to provide you with the service or process a transaction, you may not be able to opt-out without canceling the transaction or service.
 
 
 
@@ -124,7 +124,7 @@ MHE takes every precaution to protect your information. When you submit personal
 
 **_Can you delete your PII?_**
 
-**_You may request, via[customer service](http://www.mheducation.com/contact.html), that we delete your PII, however it may limit your abilities to use our products or services._**
+**_You may request, via[customer service](https://www.mheducation.com/contact.html), that we delete your PII, however it may limit your abilities to use our products or services._**
 
 At your request, in some instances, we may delete or de-identify your information. However, you should be aware that doing this may limit your use of our services. For example, if you request the deletion of your account within an ecommerce portal, you may be required to re-enter this information should you wish to make another purchase.
 
