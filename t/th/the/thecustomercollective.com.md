@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecustomercollective.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623072028id_/http%3A//thecustomercollective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecustomercollective.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101131847id_/http%3A//thecustomercollective.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
