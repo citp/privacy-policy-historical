@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uknakedmen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154047id_/http%3A//www.uknakedmen.com/tour/%3Fprivacy%26uvar%3DMC4yLjM5LjEyNi4wLjAuMC4wLjA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uknakedmen.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101202650id_/http%3A//www.uknakedmen.com/tour/%3Fprivacy%26uvar%3DMC4yLjM5LjEyNi4wLjAuMC4wLjA) for the most accurate reproduction.*
 
 # British Gay Porn - UK Naked Men - The Best of British - British Gay Porn - UK Naked Men - The Best of British
 
 #### Privacy Policy
 
-UK Naked Men is a trading name (DBA) of La Coute Ltd & Jonno Media LLC. All further mentions of UK Naked Men or UKNakedMen refer to the aforementioned entities. 
+UK Naked Men is a trading name (DBA) of Jonno Media LLC. All further mentions of UK Naked Men or UKNakedMen refer to the aforementioned entities. 
 
 Data Security and Privacy Policy
 
