@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626221313id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101195811id_/https%3A//www.myfico.com/Policy/PrivacyPolicy.aspx%3Fcm_sp%3Dmobile-_-chrome-_-privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
