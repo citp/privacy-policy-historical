@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlsgogames.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629063441id_/http%3A//www.girlsgogames.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgogames.co.uk privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101193629id_/http%3A//www.girlsgogames.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Games for Girls, Girl Games, Play Girls Games Online!
+# privacy policy | Games for Girls, Girl Games, Play Girls Games Online!
 
   * [Home](https://web.archive.org/)
   * privacy policy
