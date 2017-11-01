@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thesleepdoctor.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317225513id_/https%3A//www.thesleepdoctor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesleepdoctor.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101120515id_/http%3A//www.thesleepdoctor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Sleep Doctor
 
 **Privacy Policy**
 
-_Effective Date: March, 201_ 6
+_Effective Date: March, 2016_
 
 The following Privacy Policy governs the online information collection practices of Mindworks, LLC (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the **www.thesleepdoctor.com** website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
@@ -29,6 +29,18 @@ We may also make some content, products and services available through our Site 
 Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
+
+**Mailing Policy**
+
+When you enter your email address to receive information about our services, promotions, newsletters, press releases, free reports, get information from taking quizzes or offers, we use your email address and any other information you give us to provide you with the information, products, or services you request, and will continue to communicate with you via email until you unsubscribe (using the ‘unsubscribe’ instructions provided with each email communication or other methods listed on this website). You need only click ‘unsubscribe’ at the bottom of the email and you will be able to immediately unsubscribe from further communication. If you have subscribed or requested information using more than one email address you will need to unsubscribe from each email address.
+
+When you request information by submitting email or other identifying information, we use your email address and any other information you give us to provide you with the information, products or services that you requested, until you unsubscribe (using the ‘unsubscribe’ instructions provided with each email, and/or on the site where you signed up), or until the information or service is no longer available.
+
+When you send an email to an internal email address on our site to interact with Mindworks, LLC or thesleepdoctor.comwe use your email address to reply to your question, and we may store your communication and our reply for any future correspondence. Beyond our initial reply, we won’t use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
+
+We value your privacy and will never use your email address or other information to provide you with any unsolicited messages or information (unless it is a required part of the service you are requesting or the product you are purchasing), nor will we share it with or sell, rent or lease it to any third party for such use.
+
+Should Mindworks, LLC ever be sold or transferred to another party your information will be included in the sale and this privacy policy will remain in effect until such time it is amended, updated or replaced by the new owner.
 
 **Google Analytics**
 
