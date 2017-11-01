@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factinate.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624164416id_/http%3A//www.factinate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factinate.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101052634id_/http%3A//www.factinate.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Factinate
 
@@ -51,7 +51,7 @@ All personal information is protected. Factinate Ltd. commits to security measur
 
 **ACCESSING INFORMATION**
 
-If an individual believes that any of their personal information on the website is inaccurate, and it is information that the user cannot change, you can contact Factinate Ltd. at [hello@factinate.com](mailto:hello@factinate.com) to request changes.
+If an individual believes that any of their personal information on the website is inaccurate, and it is information that the user cannot change, you can contact Factinate Ltd. at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f69e939a9a99b6909795829f98978293d895999b) to request changes.
 
 **GENERAL**
 
