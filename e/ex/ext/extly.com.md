@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extly.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503051248id_/http%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extly.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101111432id_/https%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Extly Extensions
 
@@ -66,6 +66,6 @@ Access and support services to all Extly's extensions for 1-Year. The Extly Club
 
 [ ](http://www.extly.com/ "Extly.com - Extensions for Joomla!, autotweet, social content management, auto tweet, modules for search and extensions for SobiPro.")
 
-Copyright © 2007-2016 Extly.com - Joomla! Extensions. All Rights Reserved.
+Copyright © 2007 - 2017 Extly, CB. All rights reserved.
 
 Joomla! name is used under a limited license from Open Source Matters in the United States and other countries. Extly.com is not affiliated with or endorsed by Open Source Matters or the Joomla! project.
