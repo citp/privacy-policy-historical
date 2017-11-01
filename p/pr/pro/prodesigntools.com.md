@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodesigntools.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150018id_/http%3A//prodesigntools.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodesigntools.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101200644id_/http%3A//prodesigntools.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ProDesignTools
 
