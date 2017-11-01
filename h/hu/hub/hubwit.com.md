@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubwit.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127081130id_/http%3A//hubwit.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubwit.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101185618id_/http%3A//hubwit.com/eng/privacy) for the most accurate reproduction.*
 
 # Hubwit - The digital services ecommerce
 
