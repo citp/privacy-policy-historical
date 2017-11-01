@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624123243id_/http%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101204646id_/http%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Smart Insights Digital Marketing Advice
+# Privacy Policy | Smart Insights
 
 At Smart Insights, we aim to be open about the way our site works to collect user data, we are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
