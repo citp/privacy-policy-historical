@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djliker.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630085146id_/http%3A//djliker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djliker.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101195313id_/http%3A//djliker.com/privacy.php) for the most accurate reproduction.*
 
 # dj Liker : Auto liker | facebook Auto liker | Photo Auto liker | Status Auto liker | Increase Facebook Likes
 
@@ -38,7 +38,7 @@ Personal information collected may include your name, email address, phone numbe
 
 #### Sharing Your Personal Information
 
-  * If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: support@djliker.com   
+  * If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: supp[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)   
 This document was last updated on July 25, 2016.
 
 
