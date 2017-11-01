@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sampleroom.ph privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630230635id_/http%3A//www.sampleroom.ph/index.php%3Froute%3Dinformation/information%26information_id%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sampleroom.ph privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101194828id_/http%3A//www.sampleroom.ph/index.php%3Froute%3Dinformation/information%26information_id%3D10) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ It is your sole responsibility to check the Site from time to time to view any s
 
 Any changes to this Privacy Policy (other than as set forth in this paragraph) or waiver of the rights of 8 CLOVER MEDIA, INC. hereunder shall not be valid or effective except in a written agreement bearing the physical signature of Sample Room's Managing Director or other duly authorized representative. No purported waiver or modification of this Privacy Policy by Sample Room via telephonic or email communications shall be valid.
 
-Should you wish to terminate your account due to a modification to this Privacy Policy, you may do so by sending an email with the subject line "Termination" to the following email address: customer@sampleroom.ph.
+Should you wish to terminate your account due to a modification to this Privacy Policy, you may do so by sending an email with the subject line "Termination" to the following email address: [[email protected]](http://www.sampleroom.ph/cdn-cgi/l/email-protection)
 
 ###  2\. types of information collected; uses of collected information
 
@@ -47,7 +47,7 @@ When creating your account, you may decide to enroll in our regular email alert 
 
 In addition, if you use our Website to send information or a product to another person, we may store your personal information. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
 
-**Tell-a-friend policy.** If you choose to use our referral service, we may ask you for your friend's first and last name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. 8 CLOVER MEDIA, INC. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at customer@sampleroom.ph to request that we remove this information from our database.
+**Tell-a-friend policy.** If you choose to use our referral service, we may ask you for your friend's first and last name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. 8 CLOVER MEDIA, INC. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [[email protected]](http://www.sampleroom.ph/cdn-cgi/l/email-protection) to request that we remove this information from our database.
 
 **Non-personally identifiable information.** Non-Personally Identifiable Information is information that does not identify a specific User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags.
 
@@ -95,11 +95,11 @@ We may also aggregate all survey responses and anonymize the data and make such 
 
 ###  5\. updating and correcting personal information
 
-We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "settings" section of the site, or sending us an email at customer@sampleroom.ph. Please indicate your name, address and email address, and what information you would like to update when you contact us.
+We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "settings" section of the site, or sending us an email at [[email protected]](http://www.sampleroom.ph/cdn-cgi/l/email-protection) Please indicate your name, address and email address, and what information you would like to update when you contact us.
 
 We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.
 
-Should you wish to terminate your account for any reason, you may do so by sending an email with the subject line "Termination" to the following email address: customer@sampleroom.ph.
+Should you wish to terminate your account for any reason, you may do so by sending an email with the subject line "Termination" to the following email address: [[email protected]](http://www.sampleroom.ph/cdn-cgi/l/email-protection)
 
 ###  6\. user choices on collecting and use of information
 
@@ -107,7 +107,7 @@ As discussed above, you can always choose not to provide information, although i
 
 As a condition of purchase of our Samples, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers.
 
-You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of Samples. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our Samples and services, including other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by emailing us at customer@sampleroom.ph or by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our emails, or by changing your account settings. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
+You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of Samples. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our Samples and services, including other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by emailing us at [[email protected]](http://www.sampleroom.ph/cdn-cgi/l/email-protection) or by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our emails, or by changing your account settings. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
 ###  7\. security of information
 
