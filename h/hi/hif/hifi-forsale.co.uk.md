@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the hifi-forsale.co.uk privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502051351id_/http%3A//www.hifi-forsale.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifi-forsale.co.uk privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101160715id_/http%3A//www.hifi-forsale.co.uk/privacy.php) for the most accurate reproduction.*
 
 # HiFi Forsale - Privacy Statement
 
-[](http://www.hifi-forsale.co.uk/new-equipment.php?start=1)
-
-[](http://www.hifi-forsale.co.uk/latest-ads.php?end=1)
-
-[](https://www.divineaudio.co.uk/)
+[](http://www.audiovenue.com/)
 
 **Privacy Statement**
 
