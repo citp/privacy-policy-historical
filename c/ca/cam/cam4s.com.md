@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4s.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224453id_/http%3A//www.cam4s.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4s.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101091316id_/http%3A//www.cam4s.com/privacy) for the most accurate reproduction.*
 
 # CAM4 Privacy Policy
 
@@ -61,4 +61,4 @@ In addition, we may sell or transfer assets or portions of our business as we co
 
 Questions regarding this Privacy Policy should be directed to [contact](https://web.archive.org/contact/)
 
-Surecom Corporation NV | Landhuis Joonchi, Kaya Richard J Beaujon z/n | P.O. Box 837, Willemstad, Curacao | 00-5999-7331800
+Surecom Corporation NV | Landhuis Joonchi, Kaya Richard J Beaujon z/n | P.O. Box 837, Willemstad, Curacao | 00-5999-7331800 TLE Opportunities LLC DBA Leading Edge Media, 3840 E Robinson Rd., Suite 418, Amherst, NY 14228
