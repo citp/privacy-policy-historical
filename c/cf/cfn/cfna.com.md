@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfna.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203000112id_/https%3A//www.cfna.com/cfna-fastload-content/images/personalservices/documents/privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfna.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102002415id_/https%3A//www.cfna.com/cfna-fastload-content/images/personalservices/documents/privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
@@ -93,7 +93,7 @@ companies. See the notice titled "IMPORTANT PRIVACY CHOICES FOR CONSUMERS.” If
 California or Vermont, we do not disclose your personal information for nonaffiliates to market to you. If your billing
 address is in Vermont, we do not disclose information about your creditworthiness for our affiliates’ everyday business
 purposes or to market to you.
-                                                                                                             CFNA 10/2016
+                                                                                                             CFNA 10/2017
 
 
 PRIVACY AND THE USE OF THIS WEBSITE:
@@ -126,7 +126,7 @@ This Site automatically collects information pertaining to your access. Such inf
 (An IP address indicates the location of your computer on the Internet.) CFNA does not link an IP address to any
 personally identifiable information.
 6. Changes to This Policy
-This Privacy Policy is effective as of October 1, 2015, and updates and replaces any previous Privacy Policy for this Site.
+This Privacy Policy is effective as of October 1, 2010, and updates and replaces any previous Privacy Policy for this Site.
 If we decide to change or update this Privacy Policy, we will post the revised Privacy Policy on this Site so that you will
 always be aware of what information we collect, use and distribute. Changes are effective when posted on this Site. You
 should review this Privacy Policy from time to time to be aware of any such changes. Your continued use of this Site
@@ -155,8 +155,8 @@ information will continue to be treated in accordance with this Privacy Policy b
 you are notified and provided an opportunity to change your preferences.
 10. Data Security
 This Site incorporates various physical, electronic and administrative procedures to safeguard the confidentiality of your
-personal information. Access to your personal information is restricted. Only employees who need access to your
-personal information to perform a specific job are granted access to your personal information.
+personal information. Access to your personal information is restricted. Only employees who need access to your personal
+information to perform a specific job are granted access to your personal information.
 11. User Name and Password
 Many areas of this Site require that you log in with the use of a User Name and Password as an additional security
 measure that helps protect your confidential information. This allows CFNA to verify who you are thereby allowing you
