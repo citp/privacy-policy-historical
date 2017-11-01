@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponpress.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501235552id_/http%3A//couponpress.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponpress.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101131546id_/http%3A//couponpress.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Coupon Script - CouponPress
 
