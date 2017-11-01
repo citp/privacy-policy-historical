@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autodvdgps.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610044151id_/http%3A//www.autodvdgps.com/adg-help-51-articles.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodvdgps.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101015607id_/http%3A//www.autodvdgps.com/adg-help-51-articles.html) for the most accurate reproduction.*
 
 # Car DVD Player, Car Electronics, Car Accessories at Qualir
 
