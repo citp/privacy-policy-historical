@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockinvestingbasics.net privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311192007id_/http%3A//stockinvestingbasics.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockinvestingbasics.net privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101043442id_/http%3A//stockinvestingbasics.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Stock Investing Basics
 
