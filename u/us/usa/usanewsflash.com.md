@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usanewsflash.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051820id_/http%3A//www.usanewsflash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usanewsflash.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101133028id_/http%3A//www.usanewsflash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy * USA Newsflash
 
@@ -20,4 +20,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 **COPYRIGHT**
 
-Every single content and article on this website is copyrighted. If you want to use our content, contact us at newsflashusa@yahoo.com
+Every single content and article on this website is copyrighted. If you want to use our content, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
