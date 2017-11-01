@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessdirectory.bz privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626171052id_/http%3A//www.businessdirectory.bz/page/100/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdirectory.bz privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101220747id_/http%3A//www.businessdirectory.bz/page/100/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
