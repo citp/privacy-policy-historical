@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website-traffic-hog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060627id_/http%3A//website-traffic-hog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-traffic-hog.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101205132id_/http%3A//website-traffic-hog.com/privacy.php) for the most accurate reproduction.*
 
 # Website-Traffic-Hog and Mailer - Free Traffic Exchange and Mailer
 
@@ -81,4 +81,4 @@ doing business as Website Traffic Hog LLC
 
 ~:~:~:~:~:~:~:~:~:~
 
-[Member Login](http://www.website-traffic-hog.com/login.php) | [Contact Us](mailto:marty@website-traffic-hog.com) | [FAQ ](http://website-traffic-hog.com/faqs.php)| [ Terms and Conditions](http://website-traffic-hog.com/terms.php) | [ Privacy Policy](http://website-traffic-hog.com/privacy.php)
+[Member Login](http://www.website-traffic-hog.com/login.php) | [Contact Us](http://hotwebsitetraffic.com/support/) | [FAQ ](http://website-traffic-hog.com/faqs.php)| [ Terms and Conditions](http://website-traffic-hog.com/terms.php) | [ Privacy Policy](http://website-traffic-hog.com/privacy.php)
