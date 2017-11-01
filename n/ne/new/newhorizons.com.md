@@ -1,118 +1,92 @@
-> *The following text is extracted and transformed from the newhorizons.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408043023id_/http%3A//www.newhorizons.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhorizons.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102004020id_/http%3A//www.newhorizons.com/about-new-horizons/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New Horizons
+# New Horizons Worldwide > About New Horizons > Privacy Policy
 
-* * *
+**PRIVACY SHIELD POLICY**
 
-**Privacy Policy for New Horizons Computer Learning Centers, Inc. (Effective April 30, 2012)**
+This Privacy Shield Policy (“Policy”) applies to all personal information received by New Horizons Computer Learning Centers, Inc. (“New Horizons”, “we”, “our”, or “us”) in the United States from the European Economic Area (EEA) (which includes the member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) and from Switzerland. This Policy also applies to all personal information previously received under the U.S.-EU Safe Harbor Framework and still held by New Horizons. This Policy sets out our practices for collecting, using, maintaining, protecting and disclosing that personal information.
 
-This statement discloses the privacy practices for the New Horizons Computer Learning Centers, Inc. websites and informs you about:
+**DEFINITIONS**
 
-\- what personally identifiable information is collected;
+For purposes of this Policy, the following definitions shall apply:  
+“Agent” means any third party that collects or uses personal information under the instructions of, and solely for, New Horizons or to which New Horizons discloses personal information for use on New Horizons’ behalf. “New Horizons” means New Horizons Computer Learning Centers, Inc., New Horizons Franchising Group, Inc., and any predecessors and successors in the United States.
 
-\- what organization is collecting the information;
+“Personal information” means any information or set of information that identifies or could be used by or on behalf of New Horizons to identify (together with other information) a living individual. Personal information does not include information that is anonymized or aggregated. 
 
-\- how the information is used and disclosed to third parties;
+“Sensitive information” means any personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, information that concerns health or sex life, and information about criminal or administrative proceedings and sanctions.
 
-\- what choices are available to you regarding collection, use, distribution, and correction of the information; and
+**EU-U.S. PRIVACY SHIELD**
 
-\- what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control.
+New Horizons participates in and complies with the EU-U.S. Privacy Shield Framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. New Horizons has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability, which are the basis for the principles of this Policy. If there is any conflict between this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view New Horizons’ certification, please visit <https://www.privacyshield.gov/>.
 
-“Personal information” is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone number or email address.
+**U.S.-SWISS SAFE HARBOR**
 
-This Privacy Policy is incorporated into and subject to the terms of our Terms of Use at [http://www.newhorizons.com/termsofuse](https://web.archive.org/TermsAndConditions.aspx "blocked::http://www.newhorizons.com/termsofuse") and you agree to be bound by its terms and conditions. This policy only addresses our activities from our servers. Other sites (including those that we link to and third party sites or services which we co-brand, such as email) may have their own policies, which we do not control, and thus are not addressed by this policy.
+New Horizons complies with the U.S.-Swiss Safe Harbor Framework (“Safe Harbor”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. New Horizons has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfers, Security, Data Integrity, Access, and Enforcement, which are the basis for the principles of this Policy. If there is any conflict between this Policy and the Safe Harbor Principles, the Safe Harbor Principles shall govern. To learn more about the U.S.-Swiss Safe Harbor, and to view New Horizons’ certification, please visit <http://www.export.gov/safeharbor>.
 
-## Introduction
+**PRINCIPLES**
 
-To provide you with the best possible service, New Horizons from time to time may ask for personal information. You may update or access the personal information you provide for your profile at any time on [www.newhorizons.com](http://www.newhorizons.com/), (collectively, with the E-Tips site (defined below),and the NH Learning Management System site, the "NH Website"). This can be done by logging on to any NH Website and selecting either "Edit Your Profile", "Change my Profile" or "Edit Your User Information." For security measures, in order to protect your information, you must first enter your user name and password before you can make any changes to your user profile. When you update your user profile, your new information will update our records that day.
+**Notice**  
+New Horizons receives personal information about individuals in the EEA and Switzerland collected by New Horizons and its franchisees. This personal information may include basic contact information like name and email address, billing information, and courses and training taken by students. 
 
-This policy is to make you aware as to who is collecting the information, what type of information is gathered and tracked, what the information is for, and with whom the information is shared.
+New Horizons uses this information to provide our educational and training-related services to franchisees, customer support for such services, to bill customers, and to correspond with customers. This information also facilitates our affiliates’ and franchisees’ services.
 
-Attention: [www.newhorizons.com](http://www.newhorizons.com/) is the main home page to New Horizons Computer Learning Centers, Inc., which has the general privacy policy for the NH Website. This policy illustrates customer information that could be collected throughout the NH Website. It is possible that not all personal information outlined in this policy will be used, but we want you to be aware of our policy and understand our procedures.
+New Horizons also receives information about employees of New Horizons who are located in the European Union, and which is transferred in the context of the employment relationship. New Horizons uses this information for internal employment and human resources purposes. New Horizons commits to cooperate in investigations by and to comply with the advice of competent EU authorities.
 
-## Information Gathered and How it is Used
+New Horizons will subject all personal information received via the Privacy Shield and U.S.-Swiss Safe Harbor Framework to their respective Privacy Principles. 
 
-There are areas in which you can browse on the NH Website without giving us personal information. There are, however, certain elective areas of the NH Website, where, prior to entry, you will be asked for personal information. This information will be used by New Horizons to correspond with you, provide service and support, present a more personalized experience as you navigate the sites, process your orders, or supply you with requested information. The NH Website may ask for the following information when collecting information through the registration process (or new member registration form) that allows access to the NH Website: user's first and last name, email address, mailing address, phone number and center location preference. The NH Website also provides the ability to request information and an Information Request Form will also ask for personal information from you. The information you provide through the Information Request Form is shared with the Affiliate or Franchise center, (collectively "Network Members"), the user has specified to engage in transactions or provide future services. We contractually require that the Network Members agree to abide by the restrictions on use and disclosure of personal information set out in this Privacy Policy. If you submit Personal Information in response to a Career Opportunity, please be advised that your personal information will be distributed within the company so that the hiring manager can contact you and potentially discuss an employment opportunity with you.
+New Horizons is subject to the investigative and enforcement authority of the Federal Trade Commission (FTC), is obliged to disclose personal information in response to lawful requests by public authorities, for law enforcement, and national security purposes, and has potential liability for onward transfers to third parties.
 
-If you take advantage of the "Live Help" feature used on any of the sites, please be advised that this feature is managed and provided by a third party contractor. This one-on-one technical help is provided as a courtesy to New Horizons customers. If you take advantage of the opportunity, a live person will gather your user name to facilitate the service, but will be contractually prohibited from disclosing your user name to others.
+Additionally, an individual may be allowed to invoke binding arbitration to resolve disputes under certain limited conditions.
 
-If you wish to receive information on how to become a New Horizons Franchisee, New Horizons will collect from the Franchise Information Registration Form on the NH Website your name, address, email address, what territory you are interested in, time frame on when you would like to invest in your own business, and how you heard about us. The purpose for collecting this information is to enable our sales teams to respond to your inquiries with a better understanding of what type of training you are interested in purchasing.
+**Choice**  
+New Horizons will offer individuals the opportunity to choose whether their information is to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. An individual may opt-out of such uses of their personal information by contacting us at the address given below. New Horizons does not disclose personal information to non-agent third parties. If this changes, New Horizons will offer an opt-out to individuals. New Horizons will not use sensitive personal information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual unless New Horizons has received the individual’s affirmative and explicit consent (opt-in). New Horizons will treat as sensitive any personal information received from a third party where the third party identifies and treats it as sensitive.
 
-If you register with [http://www.newhorizonsetips.com](http://www.newhorizonsetips.com/) (the "E-Tips site"), you will receive weekly information via e-mail which is based on four different categories, depending upon the preferences you select. In addition, you may elect to receive promotional offers from New Horizons and from other third parties.
+**Data Integrity**  
+New Horizons will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. New Horizons will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete and current.
 
-If you register with [http://lms.nhcms.net](http://lms.nhcms.net/) (the “NH Learning Management System site”), you may receive emails from the system confirming and reminding you of various actions you have taken with us.  This includes confirming a class registration or reminding you of an upcoming class.
+**Transfers to Agents**  
+New Horizons contracts with third parties who perform business functions on our behalf. New Horizons uses these third parties to manage its IT system infrastructure, provide live, online support to customers, and to manage email lists. These entities may have access to personal information if needed to perform their functions for New Horizons. New Horizons does not disclose personal information to non-agent third parties.
 
-## With Whom New Horizons Shares Information
+For information received under the Privacy Shield, New Horizons will require its agents to safeguard personal information consistent with this Policy by contract, obligating the agent to provide at least the same level of protection as is required by the Privacy Shield Principles. 
 
-Except as specified herein or unless New Horizons has your permission or is required by law, New Horizons will not sell, rent, lease or otherwise provide your personal information to others from ways different than stated in this privacy statement.
+Under certain circumstances, New Horizons may bear liability for onward transfers of personal data where its agent processes personal data inconsistent with the Privacy Shield Principles, unless New Horizons proves that it is not responsible for the event giving rise to the damage.
 
-Please remember that when you submit information to a discussion group or some other public forum, the information submitted will be deemed public information and will not be considered confidential.
+For information received under the U.S.-Swiss Safe Harbor, New Horizons will obtain appropriate assurances from its agents that they will safeguard personal information consistent with this Policy. Examples of appropriate assurances that may be provided by agents include the following: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Privacy Shield and U.S.-Swiss Safe Harbor Principles, the Swiss Federal Act on Data Protection, its own Privacy Shield or Safe Harbor certification, or another European Commission or Swiss FDPIC adequacy finding. 
 
-When you give us personal information for the E-Tips site, it is compiled on our behalf by a third party who has been contractually obligated not sell it or transfer it to anyone else. Instead, it is used to provide you with promotional offers from either New Horizons or third parties, but only at your direction.
+**Access and Correction**  
+Upon request, New Horizons will grant individuals reasonable access to personal information that it holds about them. In addition, New Horizons will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. An individual may request to access their information, or otherwise correct, amend, or delete their information by contacting us at the address given below. 
 
-As a general practice, we do not provide your personally identifiable information to third parties. So, for example, we do not sell your email address or your name and personal demographic information to mass marketers. However, by registering your profile on the NH Website, you may receive emails automatically generated from the NH Website that are directly related to your activity on the NH Website and are not used for marketing materials and purposes. Further, on particular pages where we ask for your personally identifiable information, we may explicitly tell you that the data we are collecting on that page will be shared with third parties, in which case those disclosures shall override anything to the contrary in this policy. We will not share your information with a third party who does not contractually agree to maintain the confidentiality of that information using reasonable security measures.
+**Security**  
+New Horizons will take reasonable and appropriate precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-In some situations, we share your personally identifiable information with third parties who provide services to our site in order to enhance the functionality available to you on our web site, and to provide you with information on new products and services. Further, in some cases, we use your personally identifiable information to provide information to you, such as to send newsletters to you that you request or to personalize the site in accordance with your requests.
+**Enforcement**  
+New Horizons will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that New Horizons determines is in violation of this policy will be subject to disciplinary action. New Horizons is subject to the investigative and enforcement authority of the FTC.
 
-## Cookies and Other Technologies
+**Dispute Resolution—Privacy Shield**  
+In compliance with the Privacy Shield, New Horizons commits to resolve complaints about your privacy and our collection or use of your personal information. EU individuals with inquiries or complaints regarding this Policy should first contact New Horizons at the address given below. New Horizons will investigate and attempt to resolve complaints regarding use and disclosure of personal information by reference to the principles contained in this Policy.
 
-The NH Website may collect anonymous information from your communication connection itself, which consists of network routing, equipment information like browser type, date, and time. Our system will also search your computer to see if there are "cookies" previously set by the NH Website. A cookie is a piece of data stored on the user's computer tied to information about the user.
+New Horizons commits to cooperating with European Data Protection Authorities (“DPAs”).
 
-The data we collect from "Cookie" technology on our site contains no personal information and is used in the aggregate to improve our services, product offerings and Website content, as well as to analyze traffic to our public website.
+New Horizons has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to the International Centre for Dispute Resolution (“ICDR”), the international division of the American Arbitration Association (“AAA”), a non-profit alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the ICDR web site at <http://info.adr.org/safeharbor> for more information and to file a complaint. Under certain limited conditions, an individual may be able to invoke binding arbitration as provided under the Privacy Shield to address an otherwise unresolved complaint.
 
-We also use cookies to keep track of your personalization options so that we can deliver content specific to your interests each time you visit us. These cookies are not tied to your personal information.
+**Dispute Resolution—U.S.-Swiss Safe Harbor**  
+In compliance with the U.S.-Swiss Safe Harbor Principles, New Horizons commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this Policy should first contact New Horizons at the address given below. New Horizons will investigate and attempt to resolve complaints regarding use and disclosure of personal information by reference to the principles contained in this Policy.
 
-We do not offer an opt-out on our site for cookies, however browsers do provide you with information and control over cookies. Although you are not able to disable the cookie feature on this site, you are always free to decline our cookies if your browser permits, but some parts of the NH Website may not work properly if you do.
+New Horizons has further committed to refer unresolved privacy complaints under the U.S.-Swiss Safe Harbor Principles to the ICDR/AAA. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the ICDR web site at <http://info.adr.org/safeharbor> for more information and to file a complaint.
 
-## Choice/Opt-out
+**CONTACT INFORMATION**
 
-If you decide to submit an Information Request Form, you will occasionally receive information on products, services, or special deals through announcement messages or newsletters. If you do not wish to receive our marketing materials and promotion communications, you may opt-out when submitting your personal information by sending us an email at [webmaster@newhorizons.com](mailto:webmaster@newhorizons.com). If you chose to opt out please be advised that you will not be able to access the NH Website.
-
-## Compliance with U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor Framework Privacy Principles.
-
-To the extent that the NH Website is used to collect, process or store personal data belonging to individuals located in, or employed by entities located in the European Union (“EU Parties”), or Switzerland, our handling of that data adheres to both the US-EU Safe Harbor Principles and the U.S.-Swiss Safe Harbor Frameworks (“Safe Harbor”). Although we use reasonable efforts to verify the accuracy of data submitted by users of the NH Website, users are expected to update their personal information by going to the NH Website when necessary to ensure that their personal data is accurate, complete and current. We are committed to cooperating with data protection authorities located in Europe and Switzerland to resolve and remedy any disputes that arise regarding data connected to individuals located in (or employed by entities located in) Europe and Switzerland.
-
-To learn more about the Safe Harbor program, and to view the New Horizons Computer Learning Centers Inc. certification, please visit  <http://www.export.gov/safeharbor/>.  
-
-## Links
-
-We occasionally place links to relevant, outside resources within the NH Website. Be aware New Horizons is not responsible for the privacy practices or the content of such other sites. We encourage you to investigate and ask questions before disclosing information to third parties. If you do not want your information to be used, do not share your information with those sites. Third party links include learning centers outside the United States on the NH Website.
-
-On the [http://www.newhorizons.com](http://www.newhorizons.com/) website, under "Company," the investor relations and career centers, and under "Student Resources", the Exam Prep and Learning Port, are hosted by a third party. New Horizons is not responsible for the privacy practices of these third parties.
-
-## Security
-
-Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, all employees are kept up-to-date on our security and privacy practices.
-
-We have established and maintain reasonable security procedures to protect the confidentiality, security and integrity of your personally identifiable information. “Perfect security,” however, does not exist on the Internet. Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
-
-## Legal Disclaimer
-
-We reserve the right to disclose your personally identifiable information as required by a court of competent jurisdiction and/or when we believe that disclosure is necessary to protect our rights and/or comply with any judicial proceeding, court order.
-
-## Public Forum
-
-The community forums hosted in the NH Website are monitored by New Horizons and visible to the Network Members. Any information you place on these message boards is public information. New Horizons may, in its sole discretion, delete any inappropriate postings. The community forum is an added benefit for you to communicate with others on specific technical topics. New Horizons is not responsible for the content of the postings in these forums, but reserves the right to manage content as set out in the NH Website Terms of Use.
-
-The community forum on [https://lms.nhcms.net](https://lms.nhcms.net/) is hosted by Logical Operations and branded New Horizons. Please note that any information you place on these message boards is public information. New Horizons may, in its sole discretion, delete any inappropriate postings. The community forum is an added benefit for you to communicate with others on specific technical topics. New Horizons does not reply to the postings.
-
-## Policy Updates
-
-We may update this policy from time to time, to ensure we are using, collecting, and providing information in the same manner that is disclosed. If we decide to use personal information in a manner different than disclosed, we will use reasonable efforts to post any material changes on our NH home page thirty (30) days before implementing them, thus providing you an opportunity to opt-out, if you determine that you are no longer interested in allowing access to your personal information.
-
-## Contact Information
-
-Questions or suggestions regarding this statement, the practices of this site, or any experience while visiting this Website should be directed to:
-
-[privacy.policy@newhorizons.com](mailto:privacy.policy@newhorizons.com)
-
-or
+Questions regarding this Policy should be submitted to New Horizons by mail to:
 
 Privacy Liaison  
 New Horizons Computer Learning Centers, Inc.  
 1900 S. State College Blvd. Suite 450  
 Anaheim, CA 92806-6135  
-+1 (714) 940-8000
++1 (714) 940-8000  
+Or by e-mail to: [privacy.policy@newhorizons.com](mailto:privacy.policy@newhorizons.com)
 
-  
+ **LIMITATIONS & CHANGES**
 
+We may also be required to disclose an individual’s personal information in response to a lawful request by public authorities or in connection with a legal obligation. Adherence by New Horizons to these Privacy Shield and Safe Harbor Principles may also be limited to the extent necessary to meet national security, public interest or law enforcement obligations, and to the extent expressly permitted by an applicable law, rule or regulation. This Policy may be amended from time to time, consistent with the requirements of the Privacy Shield and Safe Harbor Principles. The amended Policy will be made publicly available via New Horizons’ website.
+
+_Effective Date: 12/15/2016_
