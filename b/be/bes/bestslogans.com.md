@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bestslogans.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010224id_/http%3A//www.bestslogans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestslogans.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101090429id_/http%3A//www.bestslogans.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**With effect from: 1st January, 2016**
+**With effect from: 1st January, 2017**
 
-At Best Slogans (BS), we take the privacy of our customers very seriously. We may ask you to provide personally identifiable information to access premium areas of our website or when requesting for a service. All information thus collected will be used strictly in accordance with the terms laid out in this privacy policy. 
+At Best Slogans, we take the privacy of our customers very seriously. We may ask you to provide personally identifiable information to access premium areas of our website or when requesting for a service. All information thus collected will be used strictly in accordance with the terms laid out in this privacy policy. 
 
-BS reserves the right to update this policy from time-to-time without prior notice. It is your responsibility to read the policy periodically and take note of the changes. Continued use of the website, after policy updates, implies that you have read the revised statement and consent to the changes. 
+Best Slogans reserves the right to update this policy from time-to-time without prior notice. It is your responsibility to read the policy periodically and take note of the changes. Continued use of the website, after policy updates, implies that you have read the revised statement and consent to the changes. 
 
 **Information we collect:**   
 It includes personally identifiable information such as:
@@ -29,7 +29,7 @@ We institute special physical, electronic and managerial measures to protect pri
 However, no security system is full-proof. We disclaim responsibility for any information lost, misused or corrupted as a result of an interception of our security systems. We shall also not be liable for data lost or corrupted during transit over the internet. 
 
 **Use of Cookies**  
-BS makes use of cookies. A cookie is a small text-only file that requests permission to be stored on the User's hard drive. Once stored on your hard drive, it keeps track of your internet activity. It analyses web traffic, or informs you when you visit a particular site etc. 
+Best Slogans makes use of cookies. A cookie is a small text-only file that requests permission to be stored on the User's hard drive. Once stored on your hard drive, it keeps track of your internet activity. It analyses web traffic, or informs you when you visit a particular site etc. 
 
 Cookies allow web applications to respond to you as an individual. It creates for a more targeted web experience by customizing the operations to your needs, likes and dislikes as it records information of your preferences. Basically, a cookie does not allow unauthorized access to your computer or personal information, except for the information you volunteer to share. It helps us provide a better web experience to Users, by monitoring web page traffic, the web pages with maximum traffic as well as those that users don't find very useful. Information collected by cookies is strictly used for statistical analysis, after which it is permanently deleted from our systems. 
 
