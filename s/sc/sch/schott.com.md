@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schott.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609074529id_/http%3A//www.schott.com/english/company/legal3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schott.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102000822id_/http%3A//www.schott.com/english/company/legal3.html) for the most accurate reproduction.*
 
 # SCHOTT Group - Privacy Statement | EN | SCHOTT AG
 
