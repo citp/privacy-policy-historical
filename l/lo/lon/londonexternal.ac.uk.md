@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630203559id_/http%3A//www.londoninternational.ac.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101232530id_/http%3A//www.londoninternational.ac.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy policy & Cookies | University of London International Programmes
 
@@ -12,6 +12,8 @@ As a general rule, the University of London International Programmes website emp
 
 On occasion summary statistics may be disclosed to third-parties, however, it is important to understand that the data doesn't provide any personal information (e.g. email addresses) and isn't attributed to individuals. The primary purpose for collecting the information, which is used on an aggregate basis, is to improve the content and functionality of our website.
 
+In addition to website analytics, we also collect data to deliver targeted advertising based on your use of the site, and to attribute actions taken on the site back to engagement with the University's advertising across the web. This data does not include any personally identifiable information, but may include information such as whether you view a particular web page, which tools or multimedia content you interact with on the site, and whether or not you make an enquiry or application (but strictly not any of the personal details you enter). This data may be shared with our agency partners who run digital advertising on behalf of the University.
+
 ***Note:** This data is protected from public access and can only be viewed and disclosed by authorised personnel.
 
 ###  Cookies
@@ -20,28 +22,9 @@ Cookies are small data structures used by a website to 'request' information fro
 
 There are various instances where the University of London International Programmes website(s) uses cookies, e.g. for website analytics (see above), and other instances where it requires the use of cookies for functionality and authentication purposes, e.g. in the online application process and for access to the student portal.
 
-Some of the following cookies will be added to your browser when visiting the University of London International Programmes website - [www.londoninternational.ac.uk](http://www.londoninternational.ac.uk/) \- these may vary depending on what areas of the site you visit and the resources you access, e.g. whether you play a video or not.  
- 
+We also use cookies to deliver targeted advertising based on your use of our site and to measure the performance of our advertising. Information about this and your options for opting out of advertising cookies is available from the [Network Advertising Initiative](http://optout.networkadvertising.org/#!/). Alternatively, consult the documentation for your web browser or mobile device for further options to control which cookies you allow. Advertising technologies which may set cookies on this site include (but are not limited to) AdWords, DoubleClick, and social media platforms (including Facebook, Twitter, and others).
 
-londoninternational.ac.uk:  **_utavc   _utma _utmb _utmc _utmz**
-
-**Google Analytics** \- which we use to help better understand how our website is used (see above).
-
-doubleclick.net: **id**
-
-**Doubleclick by Google** \- this is generally used to track visitors from our online advertising.
-
-addthis.com: **psc** | **uid** | **uit** | **uvc**
-
-**Add This -** which provides a social networking widget.
-
-youtube.com: **PREF** | **VISITOR_INFO1_LIVE** | **use_hitbox**
-
-**YouTube -** most of the videos on our website are taken from our YouTube channel.
-
-If you have access to the student portal and/or a VLE, then please read the statements relevant to these systems.
-
-Student portal - [cookies statement](http://my.londoninternational.ac.uk/london/portal/portal_content/cookies2)
+If you have access to the student portal and/or a VLE, then please read the statements relevant to these systems on the portal or VLE.
 
 **How to control and delete cookies**
 
