@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianxv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144509id_/http%3A//www.asianxv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianxv.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102160223id_/http%3A//www.asianxv.com/privacy-policy) for the most accurate reproduction.*
 
 # Asian Porn Videos & HD Sex videos - AsianXV
 
@@ -49,7 +49,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 #### YOUR RIGHTS
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at contact@asianxv.com.
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 #### OPT-IN AND USER COMMUNICATION
 
