@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egscans.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104754id_/http%3A//egscans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egscans.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102155427id_/http%3A//egscans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: EGScans
 
@@ -32,11 +32,11 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Easy Going Scans may collect and use Users’ PII for the following purposes:
 
-  * **To improve customer service**  
+  *  **To improve customer service**  
 Information you provide helps us respond to User customer service requests and support User needs more efficiently.
-  * **To improve Egscans.com**  
+  *  **To improve Egscans.com**  
 We may use feedback you provide to improve our products and services.
-  * **To send periodic emails**  
+  *  **To send periodic emails**  
 Easy Going Scans may use User email addresses to respond to inquiries, questions, and/or other requests.
 
 
