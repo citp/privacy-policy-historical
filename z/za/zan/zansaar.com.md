@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zansaar.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612111358id_/http%3A//www.zansaar.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zansaar.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102203117id_/http%3A//www.zansaar.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy @ Zansaar.com
 
@@ -124,7 +124,7 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 
  **How can you correct inaccuracies in the information?**
 
-Our sites allow you to correct or update any information you have provided online. In the event of loss of access details you can send an e-mail to [customersupport@zansaar.com](mailto:customersupport@zansaar.com).
+Our sites allow you to correct or update any information you have provided online. In the event of loss of access details you can send an e-mail to [[email protected]](http://www.zansaar.com/cdn-cgi/l/email-protection#32514741465d5f5740414742425d40467248535c415353401c515d5f).
 
  **Policy Updates**
 
