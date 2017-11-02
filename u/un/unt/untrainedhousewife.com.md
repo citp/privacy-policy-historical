@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627081507id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102065229id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
