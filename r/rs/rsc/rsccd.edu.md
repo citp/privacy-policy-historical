@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsccd.edu privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127041228id_/http%3A//www.rsccd.edu/Discover-RSCCD/Pages/RSCCD-Privacy-Act-Notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsccd.edu privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102220049id_/https%3A//rsccd.edu/Discover-RSCCD/Pages/RSCCD-Privacy-Act-Notice.aspx) for the most accurate reproduction.*
 
 # Discover RSCCD
 
@@ -17,7 +17,7 @@ RSCCD may use various technology tools to gather information about the user’s 
 
 **Third Party Vendors**
 
-RSCCD may work with third party vendors to provide services on our website. RSCCD takes reasonable steps to protect your personal information from third party vendors and only releases this information to provide services the user has requested. RSCCD partners with Versign™ to use SSL certificates (Secure Sockets Layer (SSL) encryption) when a secure connection is required. Within the RSCCD district we use firewalls and database encryption. RSCCD works hard to make sure your personal information is secure.
+RSCCD may work with third party vendors to provide services on our website. RSCCD takes reasonable steps to protect your personal information from third party vendors and only releases this information to provide services the user has requested. RSCCD partners with Verisign™ to use SSL certificates (Secure Sockets Layer (SSL) encryption) when a secure connection is required. Within the RSCCD district we use firewalls and database encryption. RSCCD works hard to make sure your personal information is secure.
 
 **Consent**
 
