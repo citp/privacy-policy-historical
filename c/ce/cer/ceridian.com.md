@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100804id_/http%3A//www.ceridian.com/about-us/corporate/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102143348id_/http%3A//www.ceridian.com/about-us/corporate/privacy-policy.html) for the most accurate reproduction.*
 
 # Ceridian Privacy Policy
 
-[[Printable version of this information - PDF](https://web.archive.org/Assets/ceridian2/documents/about/Ceridian-Ten-Privacy-Principles-082616.pdf "Ten Privacy Principles")]
+[[Printable version of this information - PDF](https://web.archive.org/Assets/ceridian2/documents/about/Ceridian-Ten-Privacy-Principles-082616.pdf "Ceridian’s Ten Privacy Principles")]
 
 ## Ceridian’s Ten Privacy Principles:
 
@@ -19,8 +19,8 @@
 
 
 
-[Corporate Privacy Policy](https://web.archive.org/about-us/corporate/corporate-privacy-policy.html "Corporate Privacy Policy") [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/corporate-global-privacy-policy-privacy-101416.pdf "Ceridian Global Privacy Policy Updated 101416")]
+[Corporate Privacy Policy](https://web.archive.org/about-us/corporate/corporate-privacy-policy.html "Corporate Privacy Policy") [Printable PDF]
 
-[Web Privacy Notice](https://web.archive.org/about-us/corporate/web-privacy-notice.html "Web Privacy Notice") [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/Web-Privacy-Notice-082516.pdf "Web Privacy Notice")]
+[Web Privacy Notice](https://web.archive.org/about-us/corporate/web-privacy-notice.html "Web Privacy Notice") [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/Web-Privacy-Notice-08312017%20v1.pdf "Web Privacy Notice")]
 
-Data Privacy Complaint Form [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/Data%20Privacy%20Complaint%20Form.pdf "Data Privacy Complaint Form")]
+Data Privacy Complaint Form [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/Data%20Privacy%20Complaint%20Form.pdf "Data Privacy Complaint Form")]
