@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoemetro.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630032557id_/http%3A//www.shoemetro.com/t-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoemetro.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102123633id_/http%3A//www.shoemetro.com/t-security.aspx) for the most accurate reproduction.*
 
 # Security Policy
 
@@ -82,7 +82,7 @@ ShoeMetro collects various types of personal information about you both online (
 
 ShoeMetro may permit third parties to track the individual visitors to its website and the activities of those visitors on the website over time. Currently, ShoeMetro does not offer the option for its website visitors to make a “Do Not Track” election and does not have the capability to respond to electronic “Do Not Track” signals. ShoeMetro reserves the right to add such capability to its website at any time in the future and will notify website visitors of this change in capability through an update to this Privacy Policy.
 
-ShoeMetro has chosen to provide you with a cost-free means to opt-out of such sharing, which you can accomplish by emailing us at sales@shoemetro.com. If you would like to instruct us to no longer share your personal information with third parties who will use it for direct marketing purposes, please send an email to [sales@shoemetro.com](mailto:sales@shoemetro.com).
+ShoeMetro has chosen to provide you with a cost-free means to opt-out of such sharing, which you can accomplish by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you would like to instruct us to no longer share your personal information with third parties who will use it for direct marketing purposes, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4033212c25330033282f252d2534322f6e232f2d).
 
 If you have any questions about this opt-out procedure, please write to the email address provided above.
 
@@ -90,4 +90,4 @@ If you have any questions about this opt-out procedure, please write to the emai
 
 This Privacy Policy is effective as of February 8, 2017. Please check here periodically for notice of updates to this Privacy Policy.
 
-If you have any concerns about the Terms of Use or Privacy Policy, contact us at: sales@shoemetro.com.
+If you have any concerns about the Terms of Use or Privacy Policy, contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
