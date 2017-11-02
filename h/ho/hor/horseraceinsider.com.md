@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseraceinsider.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630042400id_/http%3A//www.horseraceinsider.com/Horse-Racing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseraceinsider.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102042541id_/http%3A//www.horseraceinsider.com/Horse-Racing/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
