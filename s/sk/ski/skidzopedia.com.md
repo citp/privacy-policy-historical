@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skidzopedia.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504030124id_/http%3A//www.skidzopedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skidzopedia.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102225147id_/http%3A//www.skidzopedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skidzopedia
 
