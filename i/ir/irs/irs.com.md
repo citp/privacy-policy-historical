@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irs.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905220607id_/http%3A//www.irs.com/pages/irscom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102222317id_/https%3A//www.irs.com/irscom-privacy-policy) for the most accurate reproduction.*
 
 # IRS.com Privacy Policy | US Tax Center
 
@@ -128,3 +128,5 @@ However, under the law, a business is not required to provide the above-describe
 As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure — typically by opting-in to receive information from a third party. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to such use when you provide personal information on our website. Please note that whenever you opt-in to receive future communications from a third party, your information will be subject to the third-party’s privacy policies and practices. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policies and practices of any party that collects your information to determine how that entity will handle your information.
 
 California customers may request further information about our compliance with this law by e- mailing [privacy@remarkmedia.com](mailto:privacy@remarkmedia.com) or contacting us as otherwise specified in our Terms. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
+
+##  What to Do if You Owe Back Taxes 
