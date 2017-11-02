@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apply-4-jobs.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505135706id_/http%3A//www.apply-4-jobs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apply-4-jobs.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102203710id_/http%3A//www.apply-4-jobs.com/privacy_policy) for the most accurate reproduction.*
 
 # Apply-4-Jobs - Your Path to a Better Job
 
@@ -24,8 +24,7 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to info@Apply-4-Jobs.com 
 
 Address:  
-955 Massachusetts Ave  
-Ste 401  
+625 Massachusetts Ave  
 Cambridge, MA 02139  
 
 
