@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the visaeurope.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014224212id_/https%3A//www.visaeurope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visaeurope.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102181917id_/https%3A//www.visaeurope.com/privacy) for the most accurate reproduction.*
 
 # Privacy
+
+**To learn more about how Visa uses your data for anonymous marketing reports, and to OPT-OUT of this,please click here.**
 
 We at VISA EUROPE want you to have the information you need to make your own decisions about your privacy. This Privacy Policy applies to visaeurope.com, visaeurope.at, visa.de, visa.gr, visaitalia.com, visa.nl, visa.no, visa.pl, visaeurope.es, visa.se, visaeurope.ch and visa.com.tr and affiliated websites owned and managed by VISA Europe (the “Sites”).
 
@@ -61,6 +63,37 @@ VISA EUROPE reserves the right to change, modify or amend this policy at any tim
 ## Access rights
 
 You have the right to ask us to give you a statement about the personal data we process about you, to rectify your data, or to delete your information, to withdraw your consent given for processing of personal data, or to remove you from our mailing lists.
+
+## Visa Advertising Solutions (Visa Audiences) Opt-out
+
+### How to opt-out
+
+In order to process your Visa transactions and deliver the security protections and other benefits you expect from Visa, we require four key pieces of information when a Visa card is used: the account number associated with the card; the location of the transaction; the time and date of the transaction; and the amount of the transaction.
+
+The primary use of this data is to ensure Visa delivers on its promise of a secure, convenient and reliable payments experience. Another way we may use this data is for the creation of anonymous marketing reports that we provide to other companies. Anonymous reports compile data from a large cardholder population and contain no account level or other identifiable data. These companies use these anonymized reports to improve their marketing efforts. For example, a report may show that one postcode tends to spend more at auto parts stores than compared to other postcodes. The data used in these reports is combined and processed so that the reports cannot identify you or your specific Visa purchases.
+
+If you do not want us to use your card number as part of the pool of anonymised data used in Visa Advertising Solutions, you may choose to opt out by clicking [here](https://marketingreportoptout.visa.com/OPTOUT/request.do).
+
+Please note that your data will be transferred to the USA in order to facilitate your opt-out. We have taken steps to ensure that our hosting providers, provide the necessary level of protection for your information.
+
+### Limitations of this opt-out
+
+If you choose to exercise this anonymous marketing opt-out, it will only impact our use of data from your registered card number in Visa's anonymous marketing initiatives. This opt-out will not stop our use of data in other aspects of Visa's business, such as:
+
+  * Processing transactions
+  * Risk and fraud prevention
+  * Maintenance and development of our systems
+  * Reporting on the state of our business
+  * Designing and operating our other products and services, or
+  * Providing information to card issuers, acquiring institutions and other Visa system stakeholders such as merchants and co-branded card partners.
+
+
+
+In addition, this opt-out will not affect any of your preferences or the choices provided to you by the financial institution issuing your card. Please contact your financial institution if you want to change your preferences or choices regarding its use of your information.
+
+### How to maintain your opt-out choice
+
+Because card numbers are not unique to you and may be reused, your opt-out will be honored for a period of **five years**. After the five year period, if your card number has not changed, you will need to resubmit your card number. If your card account number changes for any reason and you want to have your new card number registered for this marketing opt-out, you will need to submit the new card number. To opt out, please click [here](https://marketingreportoptout.visa.com/OPTOUT/request.do).
 
 ## How to contact us
 
