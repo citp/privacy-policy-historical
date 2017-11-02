@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055751id_/http%3A//www.alternativeapparel.com/support/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102185544id_/http%3A//www.alternativeapparel.com/support/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alternative Apparel
 
