@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webmastergrade.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122140839id_/http%3A//www.webmastergrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmastergrade.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102071345id_/http%3A//www.webmastergrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ WebmasterGrade | Free Online Resources for Webmasters & Designers
-
-## Privacy Policy
 
 Our privacy policies at Webmastersgrade.com are very simple. We do not share or sell the information of our online customers and visitors to third parties. Take a brief look of our policies given below:
 
