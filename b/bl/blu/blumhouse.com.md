@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blumhouse.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627134942id_/http%3A//www.blumhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blumhouse.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102145254id_/http%3A//www.blumhouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Blumhouse.com
 
