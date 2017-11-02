@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobirum.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103121id_/http%3A//www.mobirum.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobirum.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102011949id_/http%3A//mobirum.com/footer/privacy) for the most accurate reproduction.*
 
 # mobirum
 
