@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420031702id_/http%3A//www.contactatonce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102143911id_/https%3A//www.contactatonce.com/privacy) for the most accurate reproduction.*
 
 # Contact At Once! Privacy Policy
 
@@ -110,7 +110,7 @@ Our websites, apps and Services may use the following types of cookies:
 
 ·         Pixel tags (also called beacons or pixels) – these are small blocks of code installed on (or called by) a webpage or application, which can retrieve certain information about your device and browser, including device type, operating system, browser type and version, website visited, time of visit, referring website, IP address and other similar information. ****
 
-·          Software Development Kits (also called SDKs) - function like pixels and cookies, but operate in the mobile application context where pixels and cookies cannot always function. The application developer can install pieces of code (the SDK) into the application to collect certain information about user interaction with the application and information about the user device and network information. 
+·         Software Development Kits (also called SDKs) - function like pixels and cookies, but operate in the mobile application context where pixels and cookies cannot always function. The application developer can install pieces of code (the SDK) into the application to collect certain information about user interaction with the application and information about the user device and network information. 
 
 **Third-party technologies:**
 
@@ -120,7 +120,7 @@ Contact At Once! may use third-party service providers who are authorized to pla
 
 Web browsers are usually set to accept cookies. However, if you prefer not to receive cookies, you typically have the option of setting your browser to refuse cookies. If your browser is set to refuse cookies, it is likely that some of the functionality offered by Contact At Once! will not be available or will not work as effectively for you. 
 
-For further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
+For further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](https://www.youronlinechoices.eu/). 
 
 **Do Not Track**
 
@@ -162,7 +162,7 @@ With respect to personal data received or transferred pursuant to the Privacy Sh
 
 EU individuals have the right to access personal data about them, and to limit use and disclosure of their personal data.  With our Privacy Shield certification, Contact At Once! has committed to respect those rights.  Because our personnel has limited ability to access personal data our customers submit through our Services, if you wish to request access to or to limit use and/or disclosure of your personal data, please contact us with the name of the Contact At Once! customer through which you used our Services.  We will refer your request to that customer, and will support them as needed in responding to your request. 
 
-Any inquiries or complaints regarding our Privacy Shield compliance may be directed to privacy@contactatonce.com.  We will respond within 45 days and provide appropriate recourse at no cost to you.  If we fail to respond within that time, or if our response does not address your concern, you may contact JAMS at [www.jamsadr.com](http://www.jamsadr.com/), an independent third-party dispute resolution mechanism based in the United States.  If neither Contact At Once! nor JAMS resolves your complaint, the Privacy Shield Panel, a binding arbitration mechanism provided under the Privacy Shield program, may be available to you.
+Any inquiries or complaints regarding our Privacy Shield compliance may be directed to privacy@contactatonce.com.  We will respond within 45 days and provide appropriate recourse at no cost to you.  If we fail to respond within that time, or if our response does not address your concern, you may contact JAMS at [www.jamsadr.com](https://www.jamsadr.com/), an independent third-party dispute resolution mechanism based in the United States.  If neither Contact At Once! nor JAMS resolves your complaint, the Privacy Shield Panel, a binding arbitration mechanism provided under the Privacy Shield program, may be available to you.
 
 Contact At Once! continues to comply with the underlying principles of the US-Swiss Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal data from Switzerland.  Contact At Once! has certified, under its parent company LivePerson, Inc., that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program and to view the parent company LivePerson, Inc’s certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).  If you have an unresolved privacy or data use concern, please contact us at [privacy@contactatonce.com](mailto:privacy@contactatonce.com). 
 
