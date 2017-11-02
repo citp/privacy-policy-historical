@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3essentials.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123430id_/http%3A//www.3essentials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3essentials.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102051954id_/http%3A//www.3essentials.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – 3essentials
 
@@ -25,4 +25,4 @@
 Suite 101  
 Morrisville, NC 27560
 
-**Effective Date of Privacy Policy: December 15, 2009**
+ **Effective Date of Privacy Policy: December 15, 2009**
