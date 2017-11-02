@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090912id_/http%3A//www.azed.gov/newade/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102030250id_/http%3A//www.azed.gov/adeinfo/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Arizona Department of Education - Arizona Department of Education
+# Privacy Policy - ADE Information - Arizona Department of Education
 
-In accordance with state and federal law, the Arizona Department of Education (ADE) provides this privacy policy to explain when information may be collected from you, how it will be used, when it might be shared, and how it will be protected. Your privacy is of the utmost importance to ADE; if you have any questions regarding this policy, please [contact us](http://www.azed.gov/feedback/).
+In accordance with state and federal law, the Arizona Department of Education (ADE) provides this privacy policy to explain when information may be collected from you, how it will be used, when it might be shared, and how it will be protected. Your privacy is of the utmost importance to ADE; if you have any questions regarding this policy, please [contact us.](http://www.azed.gov/adeinfo/contact/)
 
-This privacy policy is provided in compliance with [A.R.S. § 41-4152 et seq.](http://www.azleg.gov/ars/41/04152.htm) and applicable federal law. This policy applies to all public websites and web-based applications owned and operated by ADE. In the policy below, all websites and applications will be referred to as “sites”.
+This privacy policy is provided in compliance with all applicable state and federal law. This policy applies to all public websites and web-based applications owned and operated by ADE. In the policy below, all websites and applications will be referred to as “sites”.
 
 ### Provided Services
 
@@ -16,7 +16,7 @@ If at any time you choose not to proceed with a transaction offered through an A
 
 ### Online Collection of Information
 
-This site does not collect information about you or your personal online activities unless you voluntarily participate in an activity that asks for such information. In other words, this site collects user information only when voluntarily submitted by the user. The information requested by this site is identical to the information that would be requested if you were conducting business with the Arizona Department of Education in person at an ADE office.
+This site does not collect information about you or your personal online activities, unless you voluntarily participate in an activity that asks for such information. In other words, this site collects user information only when voluntarily submitted by the user. The information requested by this site is identical to the information that would be requested if you were conducting business with the Arizona Department of Education in person at an ADE office.
 
 #### Site Analytics and Login Tokens
 
