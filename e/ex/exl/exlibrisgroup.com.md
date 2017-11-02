@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exlibrisgroup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104019id_/http%3A//www.exlibrisgroup.com/category/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exlibrisgroup.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102205446id_/http%3A//www.exlibrisgroup.com/category/Privacy) for the most accurate reproduction.*
 
 # Ex Libris the bridge to knowledge, Privacy Policy
 
