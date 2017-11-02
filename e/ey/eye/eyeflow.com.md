@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeflow.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503200242id_/http%3A//eyeflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeflow.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102213555id_/http%3A//eyeflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eyeflow Internet Marketing
 
@@ -58,4 +58,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 1013 East Carson St  
 Pittsburgh, PA 15203  
 412-253-0841  
-info@eyeflow.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
