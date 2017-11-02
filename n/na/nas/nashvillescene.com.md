@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashvillescene.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041923id_/http%3A//www.nashvillescene.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashvillescene.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102113342id_/http%3A//www.nashvillescene.com/privacy-policy) for the most accurate reproduction.*
 
 # Nashville Scene
 
