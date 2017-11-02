@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolglow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163321id_/http%3A//coolglow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolglow.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102164618id_/http%3A//coolglow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coolglow.com
 
