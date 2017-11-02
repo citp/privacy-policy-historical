@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmobivideos.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211204548id_/http%3A//socialmobivideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmobivideos.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102163550id_/http%3A//socialmobivideos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Mobi Videos
 
