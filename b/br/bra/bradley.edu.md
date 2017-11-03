@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradley.edu privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122092451id_/http%3A//www.bradley.edu/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradley.edu privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103144229id_/https%3A//www.bradley.edu/legal/privacy) for the most accurate reproduction.*
 
 # Bradley University: Privacy Policy
 
