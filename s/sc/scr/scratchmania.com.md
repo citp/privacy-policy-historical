@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scratchmania.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111705id_/http%3A//www.scratchmania.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchmania.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103085634id_/http%3A//www.scratchmania.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
 
 # ScratchMania - Privacy and Security Policy
 
@@ -41,7 +41,7 @@ The Company may, from time to time, offer you special promotions. These promoti
 
 As part of the account registration process, We also offer our customers registering with us the opportunity to "opt out" from keeping them informed of future events, offers and promotions from ScratchMania. Visitors interested in opting out can simple click on the unsubscribe button in our marketing mailers or should 'uncheck' the relevant box in the registration process. You may update Your marketing preferences at any time through by contacting our friendly Customer agents.
 
-If you have chosen to receive information on future events, offers and promotions by SMS message to your cellular telephone, You may "opt out" from receiving such information at any time by sending an email to [support@ScratchMania.com](mailto:support@ScratchMania.com) or contacting our customer service agents replying with the word "STOP". To opt out of third party analytics please email us at [support@ScratchMania.com](mailto:support@ScratchMania.com) and include your device identifier, and once processed, our third party analytics provider will discontinue any analytics  on that particular device.
+If you have chosen to receive information on future events, offers and promotions by SMS message to your cellular telephone, You may "opt out" from receiving such information at any time by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c4f494c4c534e487c6f5f4e5d485f54715d52555d125f5351) or contacting our customer service agents replying with the word "STOP". To opt out of third party analytics please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3744424747584543776454455643545f7a56595e561954585a) and include your device identifier, and once processed, our third party analytics provider will discontinue any analytics  on that particular device.
 
 About us
 
