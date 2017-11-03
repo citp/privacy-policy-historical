@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the onlinesignature.in privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608230949id_/http%3A//www.onlinesignature.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesignature.in privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103203403id_/https%3A//onlinesignature.com/privacy) for the most accurate reproduction.*
 
-# 
-
-## Privacy Policy
+# Privacy Policy - OnlineSignature.com
 
 #### Information we collect
 
-We may collect the following information when your register on or fill outa form on our site, onlinesignature.in : First name, last name Contact information, such as e-mail address Other information relevant to our surveys or offers
+We may collect the following information when you register or fill outa form on our site, onlinesignature.in : First name, last name Contact information, such as e-mail address Other information relevant to our surveys or offers
 
 #### Collected information uses
 
