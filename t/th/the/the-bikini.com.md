@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103849id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104005454id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # the-Bikini.com Information page. Micro bikinis for sexy women
 
@@ -62,7 +62,7 @@ What We Do with Information Gathered When You Acquire Our Partners' Products:
 www.the-bikini.com will never sell or share personal information collected from the distribution of www.the-bikini.com products or gathered on any www.the-bikini.com Web site with third parties, except if the product or service in question is developed or owned by a www.the-bikini.com partner or licensee. 
 
 Third Party Advertising.  
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [here](http://www.networkadvertising.org/optout_nonppii.asp). 
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [here](https://www.networkadvertising.org/optout_nonppii.asp). 
 
 Third Party Cookies   
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "Cookie" on your browser. 
@@ -76,4 +76,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20170606103849id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20171104005454id_/http%3A//www.the-bikini.com/contact/). 
