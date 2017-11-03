@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcmoment.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232247id_/http%3A//www.rcmoment.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcmoment.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103213847id_/https%3A//www.rcmoment.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,3 +32,21 @@
 
 
 ### Prices do not include taxes. Taxes are paid by Buyer upon invoice from Our Company unless Buyer provides a valid exemption certificate acceptable to the taxing authority or unless Our Company is forbidden by law from collection of said taxes from Buyer. Import or export licenses are to be secured by Buyer. 
+
+  * Follow us
+  * [ ](https://www.facebook.com/rcmomentfans/)
+  * [ ](https://www.pinterest.com/rcmoment/)
+  * [ ](https://vk.com/rcmomentshop)
+  * [ ](https://twitter.com/rcmoment)
+  * [ ](https://www.instagram.com/rcmoment/)
+  * [ ](http://rcmoment.polyvore.com/)
+  * [ ](https://plus.google.com/u/5/b/113242564279936803435/113242564279936803435)
+  * [ ](http://rcmoment.blogspot.hk/)
+  * [ ](https://www.youtube.com/channel/UCqEEY3tcYZofmdVoOLIiiUw)
+
+
+
+Newsletter
+
+Enter Email Address get special discounts   
+and exclusive promotions!
