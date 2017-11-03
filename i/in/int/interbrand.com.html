@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the interbrand.com privacy policy that was archived on 2017-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629064628id_/http%3A//interbrand.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interbrand.com privacy policy that was archived on 2017-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171103073304id_/http%3A//interbrand.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
-
+	<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=2&amp;cb=958422776"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K5SGSC"></script><script type="text/javascript">
+        ajaxurl = 'http://interbrand.com/wp-admin/admin-ajax.php';
+	</script>
 	<link type="text/css" rel="stylesheet" href="http://interbrand.com/wp-content/themes/interbrand/vendor/reset-css/reset.css">
 	
 <!-- This site is optimized with the Yoast SEO plugin v4.5 - https://yoast.com/wordpress/plugins/seo/ -->
@@ -28,7 +30,7 @@
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//s.w.org">
-		<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K5SGSC"></script><script type="text/javascript">
+		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/interbrand.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
 			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script><script src="http://interbrand.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8" type="text/javascript" defer=""></script>
@@ -102,13 +104,59 @@ img.emoji {
 <div class="page-wrapper">
 <header id="mainHeader">
 		<!--Navigation-->
-		
+		        
+    <script type="text/javascript" src="http://interbrand.com/wp-content/themes/interbrand/vendor/jquery/dist/jquery.js"></script>
+
+                    
+        <script>
+            $( document ).ready(function() {
+                if ((localStorage["location_city"] == null) || (localStorage["location_url"] != '/')) {
+                    localStorage.location_city = 'Global';
+                    localStorage.location_url = '/';
+                }
+
+                $(".selected-location").html(localStorage.location_city);
+                $("[data-location='" + localStorage.location_city + "']").addClass('active');
+
+                $(".location").click(function () {
+                    var city = $(this).data("location");
+                    var url = $(this).data("path");
+
+                    localStorage.location_city = city;
+                    localStorage.location_url = url;
+
+                    window.location.href = url;
+                });
+            });
+        </script>
+    
 <div class="main-container">
 <!-- SVG requires IE8 fallback conditional -->
-<a href="http://interbrand.com"><img id="mainLogo" src="http://interbrand.com/wp-content/themes/interbrand/img/interbrand-logo.png"></a>
+    <a id="mainLogo" href="http://interbrand.com">
+        <object class="logo" type="image/svg+xml" data="http://interbrand.com/wp-content/themes/interbrand/img/interbrand-logo.svg">
+            <img src="http://interbrand.com/wp-content/themes/interbrand/img/interbrand-logo.png" alt="Interbrand">
+        </object>
+    </a>
 
+
+    <div id="desktopNav">
+        <ul class="nav-list ">
+            <li><a data-route="work" href="http://interbrand.com/work/"><div class="text-block text-small">Work</div></a></li>
+            <li><a data-route="views" href="http://interbrand.com/views/"><div class="text-block text-small">Views</div></a></li>
+                            <li><a data-route="best-brands" href="http://interbrand.com/best-brands/"><div class="text-block text-small">Best Brands</div></a></li>
+                        <li><a data-route="services" href="http://interbrand.com/services/"><div class="text-block text-small">Services</div></a></li>
+            <li><a data-route="about" href="http://interbrand.com/about/"><div class="text-block text-small">About</div></a></li>  <!-- class="sub first" -->
+            <li><a data-route="contact" href="http://interbrand.com/contact/"><div class="text-block text-small">Contact</div></a></li>
+        </ul>
+    </div>
+
+            <div class="regions-toggle">
+                            <div id="region-name" class="selected-location region-name"></div>
+                <div class="icon-location"></div>
+                    </div>
+    
     <div class="search-toggle">
-        <div class="search-icon"></div>
+        <div class="search-icon icon-search"></div>
     </div>
     <div class="nav-toggle">
         <div class="hamburger">
@@ -118,7 +166,6 @@ img.emoji {
             <div class="line line4"></div>
         </div>
     </div>
-
 </div>
 
     <div id="search">
@@ -134,30 +181,85 @@ img.emoji {
             </div>
         </div>
     </div>
+
+            <div id="regions">
+        <div class="regions-wrapper">
+            <div class="regions-box">
+                                    <div class="col-100 double-margin-bottom">
+                        <a href="/" data-location="Global" data-path="/" class="location hover-red text-medium leading-small">Global</a>
+                    </div>
+                                <div class="col-100 base-margin-bottom">Regional</div>
+                <div class="is-flex">
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/cn/" data-location="Beijing" data-path="/cn/" class="location hover-red text-medium leading-small">Beijing</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/cincinnati/" data-location="Cincinnati" data-path="/cincinnati/" class="location hover-red text-medium leading-small">Cincinnati</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/de/" data-location="Cologne" data-path="/de/" class="location hover-red text-medium leading-small">Cologne</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/au/" data-location="Melbourne" data-path="/au/" class="location hover-red text-medium leading-small">Melbourne</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/mx/" data-location="Mexico City" data-path="/mx/" class="location hover-red text-medium leading-small">Mexico City</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/it/" data-location="Milan" data-path="/it/" class="location hover-red text-medium leading-small">Milan</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/in/" data-location="Mumbai" data-path="/in/" class="location hover-red text-medium leading-small">Mumbai</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/fr/" data-location="Paris" data-path="/fr/" class="location hover-red text-medium leading-small">Paris</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/kr/" data-location="Seoul" data-path="/kr/" class="location hover-red text-medium leading-small">Seoul</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/cn/" data-location="Shanghai" data-path="/cn/" class="location hover-red text-medium leading-small">Shanghai</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/au/" data-location="Sydney" data-path="/au/" class="location hover-red text-medium leading-small">Sydney</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/br/" data-location="São Paulo" data-path="/br/" class="location hover-red text-medium leading-small">São Paulo</a>
+                        </div>
+                                            <div class="col-25 base-margin-bottom">
+                            <a href="/ca/" data-location="Toronto" data-path="/ca/" class="location hover-red text-medium leading-small">Toronto</a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+    
     <nav id="mainNav">
         <div class="nav-list-wrapper">
             <div class="bg"></div>
-            <ul class="nav-list transition-all center">
+            <ul class="nav-list transition-all">
                 <!-- <li class="selected"><div class="text-block"><input class="search text-large helvetica" placeholder="Search"></div></li> -->
                 <!-- <li id="resultsInsert" class="text-small"></li> -->
                 <li><a data-route="work" href="http://interbrand.com/work/"><div class="text-block text-large">Work</div></a></li>
                 <li><a data-route="views" href="http://interbrand.com/views/"><div class="text-block text-large">Views</div></a></li>
                                     <li><a data-route="best-brands" href="http://interbrand.com/best-brands/"><div class="text-block text-large">Best Brands</div></a></li>
                                 <li><a data-route="services" href="http://interbrand.com/services/"><div class="text-block text-large">Services</div></a></li>
-                <li><a data-route="newsroom" href="http://interbrand.com/newsroom/"><div class="text-block text-large">Newsroom</div></a></li>
+                <li><a data-route="newsroom" href="http://interbrand.com/newsroom/"><div class="text-block text-large">News</div></a></li>
+                <li><a data-route="about" href="http://interbrand.com/about/"><div class="text-block text-large">About</div></a></li>  <!-- class="sub first" -->
                 <li><a data-route="join" href="http://interbrand.com/join/"><div class="text-block text-large">Join</div></a></li>
                 <li><a data-route="offices" href="http://interbrand.com/offices/"><div class="text-block text-large">Offices</div></a></li>
                 <li><a data-route="contact" href="http://interbrand.com/contact/"><div class="text-block text-large">Contact</div></a></li>
-                <li><a data-route="about" href="http://interbrand.com/about/"><div class="text-block text-large">About</div></a></li>  <!-- class="sub first" -->
-                <li><a><div class="color-black text-block text-large">—</div></a></li>  <!-- class="sub first" -->
-                <li><a data-route="health" href="http://interbrandhealth.com/" target="_blank"><div class="text-block text-large">Interbrand Health</div></a></li>
-                <li><a data-route="designforum" href="http://www.interbranddesignforum.com/" target="_blank"><div class="text-block text-large">Interbrand Design Forum</div></a></li>
-                <li><a data-route="hmkm" href="http://www.hmkm.com/" target="_blank"><div class="text-block text-large">HMKM</div></a></li>
+
+                <li><a><div class="color-white text-block text-large">—</div></a></li>
+
+                <li><a data-route="health" href="http://interbrandhealth.com/" target="_blank"><div class="text-block text-medium">InterbrandHealth</div></a></li>
+                <li><a data-route="designforum" href="http://www.interbranddesignforum.com/" target="_blank"><div class="text-block text-medium">Interbrand Design Forum</div></a></li>
+                <li><a data-route="hmkm" href="http://www.hmkm.com/" target="_blank"><div class="text-block text-medium">HMKM</div></a></li>
+                <li><a data-route="brandchannel" href="http://www.brandchannel.com/" target="_blank"><div class="text-block text-medium">brandchannel</div></a></li>
             </ul>
         </div>
 
     </nav>
-
 
 		</header>
 
@@ -228,67 +330,109 @@ Last updated on: April 8th, 2014</h3>
 		<div class="content-container">
 			<div class="row base-margin-top is-flex">
 			<div class="col-25">
+				<div class="text-large base-padding-bottom">Pages</div>
 				<ul>
-					<li><a href="http://interbrand.com/work/" class="hover-red">Work</a></li>
-
-
-					<li><a href="http://interbrand.com/views/" class="hover-red">Views</a></li>
-									<li><a href="http://interbrand.com/best-brands/" class="hover-red">Best Brands</a></li>
-									<li><a href="http://interbrand.com/contact/" class="hover-red">Contact</a></li>
-					<li><a href="http://interbrand.com/about/" class="hover-red">About</a></li>
+					<li><a data-route="work" href="http://interbrand.com/work/"><div class="hover-red text-tiny">Work</div></a></li>
+					<li><a data-route="views" href="http://interbrand.com/views/"><div class="hover-red text-tiny">Views</div></a></li>
+											<li><a data-route="best-brands" href="http://interbrand.com/best-brands/"><div class="hover-red text-tiny">Best Brands</div></a></li>
+										<li><a data-route="services" href="http://interbrand.com/services/"><div class="hover-red text-tiny">Services</div></a></li>
+					<li><a data-route="newsroom" href="http://interbrand.com/newsroom/"><div class="hover-red text-tiny">News</div></a></li>
+					<li><a data-route="about" href="http://interbrand.com/about/"><div class="hover-red text-tiny">About</div></a></li>  <!-- class="sub first" -->
+					<li><a data-route="join" href="http://interbrand.com/join/"><div class="hover-red text-tiny">Join</div></a></li>
+					<li><a data-route="offices" href="http://interbrand.com/offices/"><div class="hover-red text-tiny">Offices</div></a></li>
+					<li><a data-route="contact" href="http://interbrand.com/contact/"><div class="hover-red text-tiny">Contact</div></a></li>
 				</ul>
 			</div>
 
 			<div class="col-25">
+				<div class="text-large base-padding-bottom">Offices</div>
 				<ul>
-					<li><a href="http://interbrand.com/services/" class="hover-red">Services</a></li>
-					<li><a href="http://interbrand.com/join/" class="hover-red">Join</a></li>
-					<li><a href="http://interbrand.com/offices/" class="hover-red">Offices</a></li>
-					<li><a href="http://interbrand.com/newsroom/" class="hover-red">Newsroom</a></li>
-				</ul>
+					
+											<li><a href="http://interbrand.com/offices/beijing" class="hover-red text-tiny"> Beijing </a></li>
+											<li><a href="http://interbrand.com/offices/buenos-aires" class="hover-red text-tiny"> Buenos Aires </a></li>
+											<li><a href="http://interbrand.com/offices/canada" class="hover-red text-tiny"> Canada </a></li>
+											<li><a href="http://interbrand.com/offices/cincinnati" class="hover-red text-tiny"> Cincinnati </a></li>
+											<li><a href="http://interbrand.com/offices/cologne" class="hover-red text-tiny"> Cologne </a></li>
+											<li><a href="http://interbrand.com/offices/india" class="hover-red text-tiny"> India </a></li>
+											<li><a href="http://interbrand.com/offices/japan" class="hover-red text-tiny"> Japan </a></li>
+											<li><a href="http://interbrand.com/offices/london" class="hover-red text-tiny"> London </a></li>
+											<li><a href="http://interbrand.com/offices/madrid" class="hover-red text-tiny"> Madrid </a></li>
+											<li><a href="http://interbrand.com/offices/melbourne" class="hover-red text-tiny"> Melbourne </a></li>
+											<li><a href="http://interbrand.com/offices/mexico-city" class="hover-red text-tiny"> Mexico City </a></li>
+											<li><a href="http://interbrand.com/offices/milan" class="hover-red text-tiny"> Milan </a></li>
+											<li><a href="http://interbrand.com/offices/new-york" class="hover-red text-tiny"> New York </a></li>
+											<li><a href="http://interbrand.com/offices/new-zealand" class="hover-red text-tiny"> New Zealand </a></li>
+											<li><a href="http://interbrand.com/offices/paris" class="hover-red text-tiny"> Paris </a></li>
+											<li><a href="http://interbrand.com/offices/san-francisco" class="hover-red text-tiny"> San Francisco </a></li>
+											<li><a href="http://interbrand.com/offices/sao-paulo" class="hover-red text-tiny"> São Paulo </a></li>
+											<li><a href="http://interbrand.com/offices/seoul" class="hover-red text-tiny"> Seoul </a></li>
+											<li><a href="http://interbrand.com/offices/shanghai" class="hover-red text-tiny"> Shanghai </a></li>
+											<li><a href="http://interbrand.com/offices/singapore" class="hover-red text-tiny"> Singapore </a></li>
+											<li><a href="http://interbrand.com/offices/sydney" class="hover-red text-tiny"> Sydney </a></li>
+														</ul>
 			</div>
 
 												
 							<div class="col-25">
+					<div class="text-large base-padding-bottom">Follow</div>
 					<ul>
 											<li>
-							<a href="https://www.linkedin.com/company/interbrand" class="linkedin footer-icon hover-red" target="_blank">LinkedIn</a>
+							<a href="https://www.linkedin.com/company/interbrand" class="icon-linkedin hover-red text-tiny" target="_blank">LinkedIn</a>
 						</li>
 																<li>
-							<a href="https://twitter.com/interbrand" class="twitter footer-icon hover-red" target="_blank">Twitter</a>
+							<a href="https://twitter.com/interbrand" class="icon-twitter hover-red text-tiny" target="_blank">Twitter</a>
 						</li>
 																<li>
-							<a href="https://www.facebook.com/interbrand" class="facebook footer-icon hover-red" target="_blank">Facebook</a>
+							<a href="https://www.facebook.com/interbrand" class="icon-facebook hover-red text-tiny" target="_blank">Facebook</a>
 						</li>
 																<li>
-							<a href="http://instagram.com/interbrand" class="instagram footer-icon hover-red" target="_blank">Instagram</a>
+							<a href="http://instagram.com/interbrand" class="icon-instagram hover-red text-tiny" target="_blank">Instagram</a>
 						</li>
 										</ul>
 				</div>
 			
 			<div class="col-25">
+				<div class="text-large base-padding-bottom">Companies</div>
 				<ul>
-																																																																																							<li>
-						<a href="http://www.brandchannel.com" class="hover-red" target="_blank">brandchannel</a>
+					<li>
+						<a href="http://interbrandhealth.com/" class="hover-red text-tiny" target="_blank">InterbrandHealth</a>
 					</li>
 					<li>
-						<a href="http://interbrand.com/privacy/" class="hover-red" target="_blank">Privacy Policy</a>
+						<a href="http://www.interbranddesignforum.com/" class="hover-red text-tiny" target="_blank">Interbrand Design Forum</a>
 					</li>
-
 					<li>
-						<a href="http://interbrand.com/sitemap/" class="hover-red" target="_blank">Site Map</a>
+						<a href="http://www.hmkm.com/" class="hover-red text-tiny" target="_blank">HMKM</a>
+					</li>
+					<li>
+						<a href="http://www.brandchannel.com" class="hover-red text-tiny" target="_blank">brandchannel</a>
 					</li>
 				</ul>
 			</div>
 		</div>
 		</div>
 		<div class="copyright bold">
+			<div class="row">
+									<div class="col-50 copyright-description text-tiny"></div>
+							</div>
 
-							<div class="col-50 pull-left copyright-description"></div>
-			
-			<div class="col-50 pull-right copyright-year">
-								© 2017 Interbrand. All Rights Reserved.
+			<div class="row">
+				<div class="col-50 left copyright-year text-tiny">
+										© 2017 Interbrand. All Rights Reserved.
+				</div>
+
+				<div class="col-50 right text-tiny privacy-policy">
+						<ul>
+							<li>
+								<a href="http://interbrand.com/privacy/" class="hover-red text-tiny" target="_blank">Privacy Policy</a>
+							</li>
+
+							<li>
+								<a href="http://interbrand.com/sitemap/" class="hover-red text-tiny" target="_blank">Site Map</a>
+							</li>
+						</ul>
+				</div>
 			</div>
+
 		</div>
 
 	</div>
@@ -314,10 +458,9 @@ Last updated on: April 8th, 2014</h3>
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=958422776';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
 </script>
-
 </body></html>
