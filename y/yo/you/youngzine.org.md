@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngzine.org privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602015446id_/http%3A//youngzine.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngzine.org privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103200100id_/http%3A//youngzine.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Youngzine
 
