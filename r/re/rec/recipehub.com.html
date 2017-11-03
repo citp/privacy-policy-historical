@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the recipehub.com privacy policy that was archived on 2017-02-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170211230829id_/http%3A//www.recipehub.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recipehub.com privacy policy that was archived on 2017-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171103204417id_/http%3A//www.recipehub.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,7 +14,7 @@
     <link rel="apple-touch-icon" sizes="114x114" href="/images/touch-icon-iphone4.png">
     <link href="/images/recipehub.ico" type="image/x-icon" rel="icon">
     <link href="/images/recipehub.ico" type="image/x-icon" rel="shortcut icon">
-<!--- <link rel="stylesheet" type="text/css" href="style2013.css"> --->
+    <link rel="stylesheet" type="text/css" href="style2013.css">
     <link rel="stylesheet" type="text/css" href="http://download.recipehub.com/info/generalinc/sharedContent/wwwStyles.css">
 
     <!--[if IE]>
@@ -22,100 +22,9 @@
     <![endif]-->
     <link rel="stylesheet" type="text/css" href="rssbox/rssdisplaybox.css">
     <link rel="stylesheet" type="text/css" href="rssbox/feed.css">
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PVDZT8"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://a81ff99cf61f04fe85c6.cdn.recipehub.com/recipes.js?_q=18293%40A_0wACAmPnfKeISeaFfceOCKc"></script><script type="text/javascript" src="rssbox/virtualpaginate.js"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PVDZT8"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="rssbox/virtualpaginate.js"></script>
     <script type="text/javascript" src="rssbox/rssdisplaybox.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-
-
-    <script>
-    (function(){
-    "use strict";
-        var LOADED_RR_KEY='bs-c92486d7-f4c3-43b6-8c8c-190420cd8b13-rr',
-        LOADED_KEY='bs-c92486d7-f4c3-43b6-8c8c-190420cd8b13',
-        cache=(function(){
-        var ls=window.localStorage;
-        var pfx="c92486d7-f4c3-43b6-8c8c-190420cd8b13_";
-        return {
-    get:function(name,ttl){
-            if(!ls) return;
-            var x=ls.getItem(pfx+name),
-                y=Number.parseInt(ls.getItem(pfx+name+"_ts"));
-            if(ttl && isNaN(y)) return false;
-            if((-new Date().getTime() - y) > ttl*1000) return;
-            return x;
-        },set:function(key,value){
-            if(!ls) return ;
-            if(value == null){
-                ls.removeItem(pfx+key);
-                ls.removeItem(pfx+key+ "_ts");
-            }else {
-                ls.setItem(pfx + key,value);
-                ls.setItem(pfx + key + "_ts",new Date().getTime());
-            }
-        }
-        }
-    })()
-    ;
-    var loadrsrc=function(u){
-        var d=document;
-        var h=d.getElementsByTagName('head')[0],
-            l =d.createElement('link');
-        l.type = 'text/css';
-        l.rel = 'stylesheet';
-        l.href = u;
-        h.appendChild(l);
-    }
-        var lr=cache.get("rr",604800)
-        if(lr){
-            loadrsrc("http://a81ff99cf61f04fe85c6.cdn.recipehub.com" + lr);
-            window[LOADED_RR_KEY]=true;
-        }
-        var seed=cache.get("seed",86400),
-            nextSeed=Math.floor(new Date().getTime() / 86400000),
-        buildParam=function(){
-            var state= seed || nextSeed,
-            ts = state,
-            nextV = function(){ var x=state; x ^= x << 13; x ^= x >> 17; x ^= x >> 5; state=x; return x; },
-            chars="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=".split(""),
-            sz=Math.max(nextV() % 60,25),parts=[ts,"%40"];
-            if(ts ==  nextSeed && seed !== nextSeed)  cache.set("seed",nextSeed);
-            for(var i=0;i<sz;++i){parts.push(chars[nextV() % chars.length])}
-            return parts.join("");
-        },checkLoaded=function(){
-            if(!window[LOADED_KEY]){
-                cache.set("rr",null);
-                var seed=cache.get("seed",86400);
-                if(seed){ cache.set("seed",parseInt(seed)+1); }
-            }
-        },
-        newQ=buildParam(),
-        initJs="http://a81ff99cf61f04fe85c6.cdn.recipehub.com/recipes.js?_q=".replace(/_q=/,function(){ return "_q=" + newQ}),
-        newnode=document.createElement("script");
-        newnode.src=initJs;
-        if(window[LOADED_RR_KEY]){
-            newnode.async=1;
-        }
-        var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(newnode,x);
-        window.setTimeout(checkLoaded,120000);
-        newnode.onload=checkLoaded; newnode.onerror=checkLoaded;
-
-    })();
-    </script>
-    <noscript>
-    <link type="text/css" rel="stylesheet" href="http://a81ff99cf61f04fe85c6.cdn.recipehub.com/recipes.js?_q=308743%40ygvtvVF3SHpxyEtmLV5tLguVMHL3SBrxMgvkpX8gLXMIZ0" />
-    </noscript>
-
-
-    <script>
-        var data_a81ff99cf61f04fe85c6=[{
-    			renderInline:true
-        },
-        [{ source:"dfp",banner:1,path:'/1058165/recipehub-srv-336',unit_id:'ros-right-rectangle'},'336x280','#content div.col-2','child','first',{add_style:[".top300 {display:none;}"]},''],
-    		[{ source:"dfp",banner:1,path:'/1058165/recipehub-srv-728',unit_id:'ros-top-728'},'728x90','.main-box #header .clear','-','after',{add_style:[".top728 {display:none;}"],css_style:'margin: 0px auto'},''],
-        [{ source:"dfp",banner:1,path:'/1058165/recipehub-srv-336',unit_id:'ros-lowright-rectangle'},'336x280','#content div.col-2','child','last',{add_style:[".bottom300 {display:none;}"]},'']
-    	];
-    </script>
-
 
 
 <script src="/news/js/libs/modernizr-1.7.min.js"></script>
@@ -176,10 +85,20 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1385143841682-0');
               </div><!--/row-1-->
               <div class="clear"> </div>
               <div class="top728">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- RecipeHub.728.top -->
-<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-4659644490955201" data-ad-slot="7671711562"></ins>
+<!-- BEGIN JS TAG - [Recipehub.com] - Default < - DO NOT MODIFY -->
+<script src="http://ib.adnxs.com/ttj?id=10950056" type="text/javascript"></script>
+<!-- END TAG -->
+
+
+<!---  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+<!--- RecipeHub.728.top -->
+<!---
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4659644490955201"
+     data-ad-slot="7671711562"></ins>
 <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+-->
 </div>
               <div class="row-2"><!-- row-2 nav-box begin -->
                 <div class="nav-box">
@@ -416,26 +335,13 @@ google_ad_height = 60;
      data-ad-slot="4020133548"></ins>
 <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
 -->
+<!-- BEGIN JS TAG - Side 300 < - DO NOT MODIFY -->
+<script src="http://ib.adnxs.com/ttj?id=10950060" type="text/javascript"></script>
+<!-- END TAG -->
 
-<script type="text/javascript">
-<!--//<![CDATA[
-   document.MAX_ct0 ='';
-   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("zoneid=121880");document.write("&amp;nodis=1");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-   }
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=121880&amp;nodis=1&amp;cb=46882448190&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20170211230829id_/http%253A//www.recipehub.com/privacy.html"></script>
+
+
+
 
 </div>
 
@@ -511,11 +417,13 @@ bk_doJSTag(16127, 6);
 <!-- footer -->
       <div id="footer">
         <div class="footerAd">
-<!-- Conversant Media 468x60 and 728x90 Banner CODE for RecipeHub -->
-<script type="text/javascript">var vclk_options = {sid:69563,media_id:1,media_type:5,version:"1.4"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=69563&amp;media_id=1&amp;media_type=5&amp;version=1.4&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=69563&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=69563&m=1&tp=5&d=s&c=1&vcm_acv=1.4" width="728" height="90" border="1"></a></noscript>
-<!-- Conversant Media 468x60 and 728x90 Banner CODE for RecipeHub -->
-</div>
+<!-- BEGIN JS TAG - Bottom Footer < - DO NOT MODIFY -->
+<script src="http://ib.adnxs.com/ttj?id=10950131" type="text/javascript"></script>
+<!-- END TAG -->
 
+
+
+</div>
         <ul class="footer-nav">
           <li><a href="/" class="first">home</a></li>
           <li><a href="/browse.html">Recipe Categories</a></li>
