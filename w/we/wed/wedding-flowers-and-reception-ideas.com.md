@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedding-flowers-and-reception-ideas.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503084157id_/http%3A//www.wedding-flowers-and-reception-ideas.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding-flowers-and-reception-ideas.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103154441id_/http%3A//www.wedding-flowers-and-reception-ideas.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,4 +64,11 @@ We use third-party advertising companies to serve ads when you visit our website
 
 You can find additional information in Appendix A of the NAI Self-Regulatory principles for publishers (PDF). Please note that the NAI may change this sample language at any time.
 
-| 
+| **Share this page:  **  
+
+
+What's This?
+
+| | | |   
+---|---|---|---|---  
+| | | 
