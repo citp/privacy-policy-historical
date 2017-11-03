@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ustream24.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082950id_/http%3A//ustream24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustream24.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103202956id_/http%3A//ustream24.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Policy – UStream24
+# Privacy & Policy – Ustream24 com
 
 We takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
