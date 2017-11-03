@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the realcouples.co.uk privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211040032id_/http%3A//realcouples.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcouples.co.uk privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103180642id_/http%3A//www.realcouples.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**WHAT TYPE OF INFORMATION IS COLLECTED?**
+# Terms and Conditions
 
 **PERSONAL INFORMATION**  
 We only collect personal information from visitors to our Web site when they voluntarily provide it to us.  
@@ -17,6 +15,3 @@ marketing, promotional and advertising purposes.
 **DISCLOSURE**  
 We will not disclose or use any of your personal information except when we believe in good faith that the law requires it, or when we have reason to  
 believe that disclosing this information is necessary to enforce any of our content or digital property.
-
-**CONTACT US**  
-You may contact us via email [Here](mailto:realsexpass@gmail.com)
