@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codexcoder.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614002041id_/https%3A//www.codexcoder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codexcoder.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103151927id_/https%3A//www.codexcoder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CodexCoder
+# Privacy Policy | CodexCoder
 
 CodexCoder values more for your privacy and security information that you share with us via CodexCoder. We become pleased if you feel pleasant to use our site. It is essential to make you inform how we collect, use, maintain, and retain your data. Our privacy policy only collects your personal identification. We do not use this privacy policy for other entities that are not owned, or controlled by our agents, or employees. Requested to take a view on the below privacy policy.
 
