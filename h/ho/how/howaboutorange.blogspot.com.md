@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howaboutorange.blogspot.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607001354id_/http%3A//howaboutorange.blogspot.com/p/privacy-policy-for-how-about-orange-if.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howaboutorange.blogspot.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103201637id_/http%3A//howaboutorange.blogspot.com/p/privacy-policy-for-how-about-orange-if.html) for the most accurate reproduction.*
 
 # Privacy | How About Orange
 
