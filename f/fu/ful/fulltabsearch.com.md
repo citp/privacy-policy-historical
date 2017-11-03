@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltabsearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105107id_/http%3A//fulltabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltabsearch.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103121124id_/http%3A//fulltabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # FullTab | Privacy Policy
 
