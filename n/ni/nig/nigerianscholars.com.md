@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nigerianscholars.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606220246id_/http%3A//nigerianscholars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianscholars.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103030542id_/https%3A//nigerianscholars.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy – Nigerian Scholars
+
+* * *
 
 If you require any more information or have any questions about our privacy policy, please feel free to please feel free to [contact us](https://nigerianscholars.com/contact "contact us").
 
