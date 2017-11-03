@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 99bitcoins.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518125839id_/https%3A//99bitcoins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99bitcoins.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103150123id_/https%3A//99bitcoins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 99 Bitcoins
 
 We care about your privacy, and for that matter we hereby details our privacy policy regarding your Content and details we may hold.
 
-This Policy is incorporated to and considered a part of our [Terms of Use](https://web.archive.org/terms-of-use).
+This Policy is incorporated to and considered a part of our [Terms of Use](https://web.archive.org/terms-of-use/).
 
 #### COLLECTION OF INFORMATION
 
@@ -84,7 +84,7 @@ This Policy is incorporated to and considered a part of our [Terms of Use](https
 
 
 
-####  **THIRD PARTY LINKS**
+#### **THIRD PARTY LINKS**
 
   22. Occasionally, at our discretion, we may include or offer third party products or services on our Website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
