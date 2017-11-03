@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wipro.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608163510id_/http%3A//www.wipro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wipro.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103183031id_/http%3A//www.wipro.com/privacy-policy) for the most accurate reproduction.*
 
 # Wipro Home - Privacy Policy
 
