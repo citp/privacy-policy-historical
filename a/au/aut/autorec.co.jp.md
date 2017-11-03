@@ -1,59 +1,46 @@
-> *The following text is extracted and transformed from the autorec.co.jp privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621044253id_/http%3A//www.autorec.co.jp/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autorec.co.jp privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103122642id_/http%3A//www.autorec.co.jp/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | AUTOREC
 
 | __  Order by Types  
 ---  
-[](https://web.archive.org/used-cars-list.php?category=3)| [SUV](https://web.archive.org/used-cars-list.php?category=3) (100)  
-[](https://web.archive.org/used-cars-list.php?category=1)| [Sedan](https://web.archive.org/used-cars-list.php?category=1) (64)  
-[](https://web.archive.org/used-cars-list.php?category=6)| [Mini van](https://web.archive.org/used-cars-list.php?category=6) (70)  
-[](https://web.archive.org/used-cars-list.php?category=4)| [Hatchback](https://web.archive.org/used-cars-list.php?category=4) (141)  
-[](https://web.archive.org/used-cars-list.php?category=8)| [Truck](https://web.archive.org/used-cars-list.php?category=8) (82)  
-[](https://web.archive.org/used-cars-list.php?category=7)| [Bus](https://web.archive.org/used-cars-list.php?category=7) (5)  
-[](https://web.archive.org/used-cars-list.php?category=5)| [Van](https://web.archive.org/used-cars-list.php?category=5) (23)  
-[](https://web.archive.org/used-cars-list.php?category=2)| [Coupe](https://web.archive.org/used-cars-list.php?category=2) (22)  
-[](https://web.archive.org/used-cars-list.php?category=9)| [Motor cycle](https://web.archive.org/used-cars-list.php?category=9) (4)  
-[](https://web.archive.org/used-cars-list.php?category=99)| [Other](https://web.archive.org/used-cars-list.php?category=99) (10)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=3)| [SUV](http://www.autorec.co.jp/used-cars-list.php?category=3) (73)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=1)| [Sedan](http://www.autorec.co.jp/used-cars-list.php?category=1) (49)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=6)| [Mini van](http://www.autorec.co.jp/used-cars-list.php?category=6) (52)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=4)| [Hatchback](http://www.autorec.co.jp/used-cars-list.php?category=4) (124)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=8)| [Truck](http://www.autorec.co.jp/used-cars-list.php?category=8) (69)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=7)| [Bus](http://www.autorec.co.jp/used-cars-list.php?category=7) (0)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=5)| [Van](http://www.autorec.co.jp/used-cars-list.php?category=5) (15)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=2)| [Coupe](http://www.autorec.co.jp/used-cars-list.php?category=2) (16)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=9)| [Motor cycle](http://www.autorec.co.jp/used-cars-list.php?category=9) (4)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=99)| [Other](http://www.autorec.co.jp/used-cars-list.php?category=99) (9)  
 __  Order by Makes  
 ---  
-[](https://web.archive.org/toyota.php)| [ Toyota](https://web.archive.org/toyota.php) (179)  
-[](https://web.archive.org/nissan.php)| [ Nissan](https://web.archive.org/nissan.php) (68)  
-[](https://web.archive.org/used-cars-list.php?maker=HONDA)| [ Honda](https://web.archive.org/used-cars-list.php?maker=HONDA) (25)  
-[](https://web.archive.org/used-cars-list.php?maker=MAZDA)| [ Mazda](https://web.archive.org/used-cars-list.php?maker=MAZDA) (26)  
-[](https://web.archive.org/used-cars-list.php?maker=MITSUBISHI)| [ Mitsubishi](https://web.archive.org/used-cars-list.php?maker=MITSUBISHI) (29)  
-[](https://web.archive.org/used-cars-list.php?maker=SUBARU)| [ Subaru](https://web.archive.org/used-cars-list.php?maker=SUBARU) (7)  
-[](https://web.archive.org/used-cars-list.php?maker=SUZUKI)| [ Suzuki](https://web.archive.org/used-cars-list.php?maker=SUZUKI) (27)  
-[](https://web.archive.org/used-cars-list.php?maker=ISUZU)| [ Isuzu](https://web.archive.org/used-cars-list.php?maker=ISUZU) (13)  
-[](https://web.archive.org/used-cars-list.php?maker=DAIHATSU)| [ Daihatsu](https://web.archive.org/used-cars-list.php?maker=DAIHATSU) (17)  
-[](https://web.archive.org/used-cars-list.php?maker=LEXUS)| [ Lexus](https://web.archive.org/used-cars-list.php?maker=LEXUS) (2)  
-[](https://web.archive.org/used-cars-list.php?maker=HINO)| [ Hino](https://web.archive.org/used-cars-list.php?maker=HINO) (2)  
-[](https://web.archive.org/used-cars-list.php?maker=YANMAR)| [ Yanmar](https://web.archive.org/used-cars-list.php?maker=YANMAR) (1)  
-[](https://web.archive.org/used-cars-list.php?maker=MERCEDES%20BENZ)| [ Mercedes benz](https://web.archive.org/used-cars-list.php?maker=MERCEDES%20BENZ) (15)  
-[](https://web.archive.org/used-cars-list.php?maker=BMW)| [ BMW](https://web.archive.org/used-cars-list.php?maker=BMW) (18)  
-[](https://web.archive.org/used-cars-list.php?maker=VOLKSWAGEN)| [ Volks Wagen](https://web.archive.org/used-cars-list.php?maker=VOLKSWAGEN) (9)  
-[](https://web.archive.org/used-cars-list.php?maker=LANDROVER)| [ Land Rover](https://web.archive.org/used-cars-list.php?maker=LANDROVER) (5)  
-[](https://web.archive.org/used-cars-list.php?maker=JAGUAR)| [ Jaguar](https://web.archive.org/used-cars-list.php?maker=JAGUAR) (1)  
-[](https://web.archive.org/used-cars-list.php?maker=AUDI)| [ Audi](https://web.archive.org/used-cars-list.php?maker=AUDI) (2)  
-[](https://web.archive.org/used-cars-list.php?maker=VOLVO)| [ Volvo](https://web.archive.org/used-cars-list.php?maker=VOLVO) (8)  
-[](https://web.archive.org/used-cars-list.php?maker=PEUGEOT)| [ Peugeot](https://web.archive.org/used-cars-list.php?maker=PEUGEOT) (7)  
-[](https://web.archive.org/used-cars-list.php?maker=FORD)| [ Ford](https://web.archive.org/used-cars-list.php?maker=FORD) (4)  
-[](https://web.archive.org/used-cars-list.php?maker=CHEVROLET)| [ Chevrolet](https://web.archive.org/used-cars-list.php?maker=CHEVROLET) (1)  
-[](https://web.archive.org/used-cars-list.php?maker=CHRYSLER)| [ Chrysler](https://web.archive.org/used-cars-list.php?maker=CHRYSLER) (4)  
-[](https://web.archive.org/used-cars-list.php?maker=FIAT)| [ Fiat](https://web.archive.org/used-cars-list.php?maker=FIAT) (2)  
-[](https://web.archive.org/used-cars-list.php?maker=ALFA%20ROMEO)| [ Alfa Romeo](https://web.archive.org/used-cars-list.php?maker=ALFA%20ROMEO) (2)  
+[](http://www.autorec.co.jp/toyota.php)| [ Toyota](http://www.autorec.co.jp/toyota.php) (142)|  [](http://www.autorec.co.jp/nissan.php)| [ Nissan](http://www.autorec.co.jp/nissan.php) (46)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=HONDA)| [ Honda](http://www.autorec.co.jp/used-cars-list.php?maker=HONDA) (22)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=MAZDA)| [ Mazda](http://www.autorec.co.jp/used-cars-list.php?maker=MAZDA) (26)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=MITSUBISHI)| [ Mitsubishi](http://www.autorec.co.jp/used-cars-list.php?maker=MITSUBISHI) (17)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=SUBARU)| [ Subaru](http://www.autorec.co.jp/used-cars-list.php?maker=SUBARU) (10)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=SUZUKI)| [ Suzuki](http://www.autorec.co.jp/used-cars-list.php?maker=SUZUKI) (26)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=ISUZU)| [ Isuzu](http://www.autorec.co.jp/used-cars-list.php?maker=ISUZU) (7)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=DAIHATSU)| [ Daihatsu](http://www.autorec.co.jp/used-cars-list.php?maker=DAIHATSU) (17)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=LEXUS)| [ Lexus](http://www.autorec.co.jp/used-cars-list.php?maker=LEXUS) (3)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=HINO)| [ Hino](http://www.autorec.co.jp/used-cars-list.php?maker=HINO) (2)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=YANMAR)| [ Yanmar](http://www.autorec.co.jp/used-cars-list.php?maker=YANMAR) (1)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=MERCEDES%20BENZ)| [ Mercedes benz](http://www.autorec.co.jp/used-cars-list.php?maker=MERCEDES%20BENZ) (12)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=BMW)| [ BMW](http://www.autorec.co.jp/used-cars-list.php?maker=BMW) (14)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=VOLKSWAGEN)| [ Volks Wagen](http://www.autorec.co.jp/used-cars-list.php?maker=VOLKSWAGEN) (4)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=LANDROVER)| [ Land Rover](http://www.autorec.co.jp/used-cars-list.php?maker=LANDROVER) (1)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=JAGUAR)| [ Jaguar](http://www.autorec.co.jp/used-cars-list.php?maker=JAGUAR) (1)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=AUDI)| [ Audi](http://www.autorec.co.jp/used-cars-list.php?maker=AUDI) (2)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=VOLVO)| [ Volvo](http://www.autorec.co.jp/used-cars-list.php?maker=VOLVO) (5)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=PEUGEOT)| [ Peugeot](http://www.autorec.co.jp/used-cars-list.php?maker=PEUGEOT) (6)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=FORD)| [ Ford](http://www.autorec.co.jp/used-cars-list.php?maker=FORD) (3)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=CHEVROLET)| [ Chevrolet](http://www.autorec.co.jp/used-cars-list.php?maker=CHEVROLET) (1)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=CHRYSLER)| [ Chrysler](http://www.autorec.co.jp/used-cars-list.php?maker=CHRYSLER) (3)|  [](http://www.autorec.co.jp/used-cars-list.php?maker=FIAT)| [ Fiat](http://www.autorec.co.jp/used-cars-list.php?maker=FIAT) (1)  
+[](http://www.autorec.co.jp/used-cars-list.php?maker=ALFA%20ROMEO)| [ Alfa Romeo](http://www.autorec.co.jp/used-cars-list.php?maker=ALFA%20ROMEO) (1)|   
 __  Other Categories  
 ---  
-[](https://web.archive.org/used-cars-list.php?newstocks=45)| [New Arrivals](https://web.archive.org/used-cars-list.php?newstocks=45)  
-[](https://web.archive.org/used-cars-list.php?handle=L)| [Left Hand Drive](https://web.archive.org/used-cars-list.php?handle=L)  
-[](https://web.archive.org/used-cars-list.php?category=98)| [Vehicle for Handicapped](https://web.archive.org/used-cars-list.php?category=98)  
-[](https://web.archive.org/used-cars-list.php?gear=m)| [5Gear Manual](https://web.archive.org/used-cars-list.php?gear=m)  
-[](https://web.archive.org/used-cars-list.php?fuel=2)| [Diesel Engine](https://web.archive.org/used-cars-list.php?fuel=2)  
-[](https://web.archive.org/used-cars-list.php?fuel=7)| [Hybrid](https://web.archive.org/used-cars-list.php?fuel=7)  
-[](https://web.archive.org/brand-new-car.php)| [Brand-new Car](https://web.archive.org/brand-new-car.php)  
-[](https://web.archive.org/truck.php)| [Classified Truck](https://web.archive.org/truck.php)  
+[](http://www.autorec.co.jp/used-cars-list.php?newstocks=45) | [New Arrivals](http://www.autorec.co.jp/used-cars-list.php?newstocks=45) | [](http://www.autorec.co.jp/used-cars-list.php?handle=L) | [Left Hand Drive](http://www.autorec.co.jp/used-cars-list.php?handle=L)  
+[](http://www.autorec.co.jp/used-cars-list.php?category=98) | [Vehicle for Handicapped](http://www.autorec.co.jp/used-cars-list.php?category=98) | [](http://www.autorec.co.jp/used-cars-list.php?gear=m) | [5Gear Manual](http://www.autorec.co.jp/used-cars-list.php?gear=m)  
+[](http://www.autorec.co.jp/used-cars-list.php?fuel=2) | [Diesel Engine](http://www.autorec.co.jp/used-cars-list.php?fuel=2) | [](http://www.autorec.co.jp/used-cars-list.php?fuel=7) | [Hybrid](http://www.autorec.co.jp/used-cars-list.php?fuel=7)  
+[](http://www.autorec.co.jp/brand-new-car.php) | [Brand-new Car](http://www.autorec.co.jp/brand-new-car.php) | [](http://www.autorec.co.jp/truck.php) | [Classified Truck](http://www.autorec.co.jp/truck.php)  
   
 Japanese Used Motor Vehicle Exporters Association 
 
+[JUMVEA SAFE TRADE](http://www.autorec.co.jp/escrow-service.php)  
+100% Delivery Guarantee Service  
+Protect yourself and your investment!  
 ﻿
 
 Autorec Privacy Policy
@@ -157,7 +144,7 @@ This Privacy Policy is governed by the laws of Japan. The Aichi District Court o
 
   11. Questions and Suggestions 
 
-If you have any questions regarding privacy, security, opting-out of e-mail offers or understanding howyour Personal Information is being used, please contact our Customer Support at +81-567-56-3170. If you do not receive acknowledgement of your inquiry in a prompt fashion or within 10 days, or your inquiry has not been properly addressed, you may contact us from [Mail us](https://web.archive.org/web/20170621044253id_/http%3A//www.autorec.co.jp/inquiry.php). 
+If you have any questions regarding privacy, security, opting-out of e-mail offers or understanding howyour Personal Information is being used, please contact our Customer Support at +81-567-56-3170. If you do not receive acknowledgement of your inquiry in a prompt fashion or within 10 days, or your inquiry has not been properly addressed, you may contact us from [Mail us](https://web.archive.org/web/20171103122642id_/http%3A//www.autorec.co.jp/inquiry.php). 
 
   
 
