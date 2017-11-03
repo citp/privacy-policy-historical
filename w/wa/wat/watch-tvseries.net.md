@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the watch-tvseries.net privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207101949id_/http%3A//www.watch-tvseries.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-tvseries.net privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103190904id_/http%3A//www.watch-tvseries.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Watch-TVSeries collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://Watch-TVSeries.net](http://watch-tvseries.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Watch-TVSeries.
+This Privacy Policy governs the manner in which Watch-TVSeries collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://Watch-TVSeries.NET](http://watch-tvseries.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Watch-TVSeries.
 
  **Personal identification information**
 
@@ -58,7 +58,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Watch-TVSeries](http://watch-tvseries.net/)  
-[http://Watch-TVSeries.net](http://watch-tvseries.net/)  
+[http://Watch-TVSeries.NET](http://watch-tvseries.net/)  
 admin@watch-tvseries.net
 
 This document was last updated on February 20, 2012
