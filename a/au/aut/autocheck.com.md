@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autocheck.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062316id_/http%3A//www.autocheck.com/vehiclehistory/autocheck/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocheck.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103193516id_/http%3A//www.autocheck.com/vehiclehistory/autocheck/en/privacy) for the most accurate reproduction.*
 
 # Your data safety and personal privacy | AutoCheck.com
 
@@ -18,7 +18,7 @@ This policy applies to AutoCheck® located at [www.autocheck.com](http://www.aut
 
 Experian collects identifying and billing information including name, address, credit card information and e-mail address when consumers register for our AutoCheck service.
 
-The credit card information you provide is only used for billing and customer support purposes. Experian shares this information with a credit card processing company that bills you for the transaction(s). If you do not provide all the required information, your purchase transaction(s) will not be completed and you will not receive an AutoCheck report(s). Please fill in all the required information to ensure your purchase is completed. [no new paragraph] Experian will not willfully disclose any credit card information for any other purpose, unless required to do so by law.
+The credit card information you provide is only used for billing and customer support purposes. Experian shares this information with a credit card processing company that bills you for the transaction(s). If you do not provide all the required information, your purchase transaction(s) will not be completed and you will not receive an AutoCheck report(s). Please fill in all the required information to ensure your purchase is completed. Experian will not willfully disclose any credit card information for any other purpose, unless required to do so by law.
 
 Any personally identifiable information you provide to us in connection with ordering your AutoCheck report online may be used by Experian Automotive to notify you of new products, product changes and enhancements. We may use collected information to make changes to our products, as deemed necessary, and to continue to ensure your security and privacy online.
 
