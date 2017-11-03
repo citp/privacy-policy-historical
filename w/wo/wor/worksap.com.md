@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksap.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426004908id_/http%3A//www.worksap.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksap.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104005051id_/http%3A//www.worksap.com/website-privacy-policy) for the most accurate reproduction.*
 
 # WEBSITE PRIVACY POLICY | WORKS APPLICATIONS
 
