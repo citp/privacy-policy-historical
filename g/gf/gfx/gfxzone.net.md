@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfxzone.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630200413id_/http%3A//gfxzone.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxzone.net privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103151858id_/http%3A//gfxzone.net/privacy-policy) for the most accurate reproduction.*
 
 # BuzzGFX Privacy Policy - BuzzGFX
 
@@ -6,7 +6,7 @@
 
 Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. A recent law change requires us (along with banks, brokerage houses, and other financial institutions) to disclose our Privacy Policy to you – which we are more than happy to do. We hope that by taking a few minutes to read it, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@buzztheme.net.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At www.buzztheme.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.buzztheme.net and how it is used. 
 
