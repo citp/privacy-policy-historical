@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoozin.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509013947id_/http%3A//whoozin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoozin.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103085622id_/http%3A//whoozin.com/privacy) for the most accurate reproduction.*
 
 # Track RSVPs & Sell Tickets for Events Online | Whoozin
 
