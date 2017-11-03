@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsgirl.com.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630041213id_/http%3A//www.sportsgirl.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsgirl.com.au privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103021021id_/http%3A//www.sportsgirl.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
