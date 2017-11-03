@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiestamericana.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131216id_/http%3A//www.fiestamericana.com/en/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiestamericana.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103194207id_/http%3A//www.fiestamericana.com/en/security-and-privacy) for the most accurate reproduction.*
 
 # Security Content
 
