@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icaew.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072031id_/http%3A//www.icaew.com/en/icaew-policies/website-and-email-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icaew.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103220955id_/http%3A//www.icaew.com/en/icaew-policies/website-and-email-privacy-policy) for the most accurate reproduction.*
 
 # Website and email privacy policy | ICAEW terms and conditions | ICAEW
 
@@ -29,7 +29,7 @@ The implementation of the privacy policy is directly supervised by our senior ma
 
 To use this website, you only need to give your membership number/student number/other identification ID (provided by us) and password.
 
-We do not collect any financial information on this website. If you make a debit or credit card payment online eg, to pay subscriptions or fees, to join a faculty or special interest group, or to purchase any of our services or products, you will be taken to a secure payment service provider who will take your payment on our behalf and return you to this website when your order has been completed.
+We do not collect any financial information on this website. If you make a debit or credit card payment online eg, to pay subscriptions or fees, to join a Faculty or Community, or to purchase any of our services or products, you will be taken to a secure payment service provider who will take your payment on our behalf and return you to this website when your order has been completed.
 
 We may ask you to complete surveys, questionnaires or comments on the website from time to time. These will always be voluntary, but we may use the information from them to personalise the website and to target marketing to relevant users. This policy should be read in conjunction with our [Community terms and conditions](https://web.archive.org/en/icaew-policies/community-ion-terms-and-conditions). 
 
