@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertytravel.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607222637id_/http%3A//www.libertytravel.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertytravel.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103165509id_/http%3A//libertytravel.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Liberty Travel
 
