@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214215156id_/https%3A//www.princeedwardisland.ca/en/information/website-privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103172517id_/https%3A//www.princeedwardisland.ca/en/information/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Prince Edward Island
 
@@ -63,18 +63,29 @@ The computer systems of the Government of Prince Edward Island use hardware and 
 
 ### Whom do I contact if I have questions about privacy?
 
-Access and Privacy Services Office  
-[apso@gov.pe.ca](mailto:apso@gov.pe.ca)  
+**Access and Privacy Services Office**  
 PO Box 2000  
 1st Floor, Sullivan Building  
 Charlottetown, PE   C1A 7N8  
-Phone: (902) 569-7590
+Phone: (902) 569-7590  
+Email: [apso@gov.pe.ca](mailto:apso@gov.pe.ca)
 
 ### Whom do I contact if I have questions about security?
 
-Information Technology Shared Services  
-[ITsecurity@gov.pe.ca](mailto:ITsecurity@gov.pe.ca)  
+**Information Technology Shared Services**  
 PO Box 2000  
 5th Floor, Sullivan Building  
 Charlottetown, PE   C1A 7N8  
-Phone: (902) 569-7508
+Phone: (902) 569-7508  
+Email: [ITsecurity@gov.pe.ca](mailto:ITsecurity@gov.pe.ca)
+
+### Whom do I contact if I have questions about the privacy of my health information?
+
+**Manager, Health Privacy and Information Access**  
+PO Box 2000, 16 Garfield Street  
+Charlottetown, PE   C1A 7N8  
+Telephone: (902) 368-4942  
+Fax: (902) 368-6136  
+Email:  [healthprivacy@ihis.org](mailto:healthprivacy@ihis.org)            
+Feedback: [Compliments and Complaints](https://web.archive.org/en/service/send-health-pei-compliments-and-complaints-online)  
+Website: [Privacy and Your Personal Health Information](https://web.archive.org/en/information/health-pei/privacy-and-your-personal-health-information)
