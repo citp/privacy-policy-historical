@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turboflirt.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505123723id_/http%3A//www.turboflirt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turboflirt.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103194645id_/http%3A//www.turboflirt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TurboFlirt - Completely Free Online Dating, Simple and Easy for Use...
 
