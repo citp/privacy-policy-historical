@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624045350id_/http%3A//www.hsabank.com/hsabank/company-information/privacy-and-opt-out-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103183143id_/http%3A//www.hsabank.com/hsabank/company-information/privacy-and-opt-out-notice) for the most accurate reproduction.*
 
 # Privacy Policy and Opt-Out Notice - HSA Bank
 
@@ -12,8 +12,8 @@ You have the right as an HSA Bank customer to prevent the sharing of your nonpub
 
 Sincerely,   
   
-Charlotte E. Kienbaum  
-SVP, Director of Operations and Contact Center
+Tim Patneaude  
+Senior Vice President, Chief Operating Officer
 
 Rev. 03/16
 
