@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theresurgent.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620201424id_/http%3A//theresurgent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theresurgent.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103212611id_/http%3A//theresurgent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Resurgent
+# Privacy Policy & DMCA | The Resurgent
 
 Last updated: December 28, 2015
 
@@ -95,6 +95,9 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 **Contact Us**
 
 If you have any questions about this Privacy Policy, please contact us.
+
+**DMCA**  
+For DMCA violations, please email mail at theresurgent dot com
 
   
 
