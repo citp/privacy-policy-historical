@@ -1,31 +1,63 @@
-> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231220id_/http%3A//intelligencetest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104003517id_/https%3A//www.intelligencetest.com/privacy.html) for the most accurate reproduction.*
 
-# IQ Test Labs - free online testing.
+# IQ Test Labs - Privacy policy
 
-IQ Test Labs has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website:
+IQ Test Labs (http://www.intelligencetest.com) has created this privacy statement in order to demonstrate our firm commitment to privacy.
 
-http://www.IntelligenceTest.com
+Contact form
 
-  
-Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+This form requires users to provide contact information and is used to reply to user questions. Users are not opted into receiving future mailings by using this form, in any circumstance.
 
-This site contains links to other sites. IQ Test Labs is not responsible for the privacy practices or the content of such Web sites.
+* * *
 
-The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Questionnaire
 
-Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Our site's test registration form asks users to give us contact information (like their name and email address). This information is optional. We use contact information from the registration form to send users their test results. Users may also opt-in to receive the IQ Test Labs newsletter, using this form.
 
-We run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Therefore, the user's contact information will be used for the following purposes only:
 
-Public Forums  
-Our site makes or will make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+(a) To send users their test results and account information.
 
-Choice/Opt-Out  
-Our site provides users the opportunity to opt-out of receiving communications from us.  
-This can be achieved by following the instructions to opt-out which will be placed in our communications.
+(b) To send users the IQ Test Labs newsletter if they have specifically opted in to receive it.
 
-Correct/Update  
-This site gives users the option for changing and modifying information previously provided. Use this [contact form](http://www.intelligencetest.com/cf.htm) if you wish to change any of the information which you have previously given us.
+* * *
 
-  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use this [contact form](http://www.intelligencetest.com/cf.htm).
+Newsletter
+
+Our site's newsletter subscription form requires users to give us contact information (like their name and email address), in order to receive the IQ Test Labs newsletter. IQ Test Labs makes use of a double confirmation method for our newsletter subscription.
+
+Therefore, the user's contact information will be used for the following purposes only:
+
+(a) To send users the IQ Test Labs newsletter.
+
+* * *
+
+Demographic information and third parties
+
+IQ Test Labs will never sell or give emails or any contact information or demographical information to third parties.
+
+* * *
+
+External links
+
+This site contains links to other sites. IQ Test Labs is not responsible for the privacy practices or the content of such web sites.
+
+* * *
+
+Advertising cookies
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to this site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings.
+
+* * *
+
+Opt-Out
+
+Our site provides users the opportunity to opt-out of receiving communications from us. This can be achieved by following the instructions to opt-out which are placed in the IQ Test Labs newsletter. If users have opted-in to receive the IQ Test Labs newsletter but would like to opt-out before receiving it please use this contact [form](https://web.archive.org/web/20171104003517id_/https%3A//www.intelligencetest.com/cntct.html).
+
+* * *
+
+Correct/Update
+
+This site gives users the option for changing and modifying information previously provided. Use this contact [form](https://web.archive.org/web/20171104003517id_/https%3A//www.intelligencetest.com/cntct.html) if you wish to change any of the information which you have previously given us.
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can use this contact [form](https://web.archive.org/web/20171104003517id_/https%3A//www.intelligencetest.com/cntct.html).
