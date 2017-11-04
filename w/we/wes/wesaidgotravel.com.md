@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesaidgotravel.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608153140id_/http%3A//www.wesaidgotravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesaidgotravel.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104015203id_/http%3A//wesaidgotravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Said Go Travel
 
@@ -42,7 +42,8 @@ If you disable cookies off, some features will be disabled It won’t affect the
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising,  
+or other uses.
 
 ##### Third-party links
 
@@ -130,5 +131,7 @@ We allow third party companies to serve ads and/or collect certain anonymous inf
 
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 wesaidgotravel.com  
-lisa@wesaidgotravel.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 Last Edited on 2016-02-18
+
+[](https://www.pinterest.com/pin/create/button/)
