@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american-classifieds.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003028id_/http%3A//american-classifieds.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american-classifieds.net privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104111429id_/http%3A//www.american-classifieds.net/privacypolicy.php) for the most accurate reproduction.*
 
 # American Classifieds
 
