@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipkings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102655id_/http%3A//gossipkings.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipkings.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104062849id_/http%3A//gossipkings.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
