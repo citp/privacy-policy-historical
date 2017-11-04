@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the loginradius.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322120858id_/http%3A//www.loginradius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginradius.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104050858id_/https%3A//www.loginradius.com/privacy) for the most accurate reproduction.*
 
-# LoginRadius Privacy Policy
-
-  * Introduction
-  * Operation of LoginRadius Website
-  * Operation of LoginRadius Services
-  * Information that We Collect
-  * How We Use the Information We Collect
-  * When We Disclose Information
-  * Security
-  * Your Rights
-  * Business Relationship with Social ID Providers
-  * Changes to This Privacy Policy
-  * Contact and Questions
-
-
+# Privacy Policy | LoginRadius
 
 #### Introduction
 
@@ -38,7 +24,8 @@ We aim to collect and use such information as is required to enable us to manage
 
 Two types of information may be collected through the Website and our Services: Personal Information and Non-Personal Information. This Privacy Policy does not extend to the collection, use, or disclosure of the following information which is currently not limited by applicable privacy laws: (a) information that is publicly available, such as names, addresses, telephone numbers, and electronic addresses when listed in a directory or made available through directory assistance; or (b) Non-Personal Information (as defined further below).
 
-" _Personal Information_ " is personally identifiable information, such as your name, address, email address, credit card information, birth date, and gender. At the time of collection, we will clearly identify the information being collected and the purposes for which it will be used. It is always the Customer’s choice whether or not to provide Personal Information, but if the Customer chooses not to provide certain requested Personal Information, in some instances the Customer may not be able to register to use the Website, or be able to access and use the Website at all.   
+" _Personal Information_ " is personally identifiable information, such as your name, address, email address, credit card information, birth date, and gender. At the time of collection, we will clearly identify the information being collected and the purposes for which it will be used. It is always the Customer’s choice whether or not to provide Personal Information, but if the Customer chooses not to provide certain requested Personal Information, in some instances the Customer may not be able to register to use the Website, or be able to access and use the Website at all.
+
 In other instances, the Customers’ choice not to provide certain Personal Information may mean that the Customer will not be able to use certain features of the Website or the Service. We may collect Personal Information through registration processes, communications with the Customer, information downloads, service use, user support, and surveys.
 
 " _Non-Personal Information_ " is information of an anonymous nature, such as an Internet Protocol Address (IP Address), the domain used to access the Website, and the type and version of browser or operating system being used by visitors to the website. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors, what pages users access or visit, and average time spent on the Website is not considered Personal Information.
@@ -78,11 +65,11 @@ We may update this Privacy Policy by posting a new version on our website. If we
 
 #### Contact and Questions
 
-If you have any questions about this Privacy Policy, please contact:  
+If you have any questions about this Privacy Policy, please contact:   
 Email: privacy [at] loginradius [dot] com
 
 Address: General Counsel,   
-c/o LoginRadius Inc.  
-4120-10230 Jasper Ave NW  
-Edmonton AB  
-Canada T5J 4P6
+c/o LoginRadius Inc.   
+200 - 1281 W Georgia Street   
+Vancouver BC   
+Canada V6E 3J7
