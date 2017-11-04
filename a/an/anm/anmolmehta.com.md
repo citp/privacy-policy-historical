@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anmolmehta.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061612id_/http%3A//anmolmehta.com/privacy-policy-for-anmolmehtacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anmolmehta.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105002232id_/http%3A//anmolmehta.com/privacy-policy-for-anmolmehtacom) for the most accurate reproduction.*
 
 # Privacy Policy for AnmolMehta.com
 
