@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shyav.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045545id_/http%3A//shyav.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shyav.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104222753id_/http%3A//shyav.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ShyAV
-
-## **Asian Scandal, JAV Full, Korean Bj, Homemade Porn. 全球最强自拍偷拍外流站 每天准时加新片**
 
 This document details important information regarding the use and disclosure of User Data collected on our site.
 
