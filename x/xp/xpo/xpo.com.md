@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xpo.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624013123id_/http%3A//www.xpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpo.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104204751id_/http%3A//www.xpo.com/privacy-policy) for the most accurate reproduction.*
 
 # | XPO Logistics
 
 Protecting your information online is of the utmost importance to XPO Logistics, Inc. (together, “XPO Logistics”, we, “us”, or “our”). This privacy policy (the “Privacy Policy”) explains what information we collect about you, how we will and will not use the information you entrust to us, with whom we may share such information, and what choices you have regarding our use of such information. This Privacy Policy applies to information collected through the XPO Logistics website located at [www.xpo.com](http://www.xpo.com/) (the “Site”), any mobile applications associated with the Site or otherwise offered by XPO Logistics (the “Mobile Applications”), all interactive features, applications, widgets, blogs, social networks and social network “tabs”, and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other technology or any associated content, material, software or functionality contained on the Site or Mobile Applications(collectively the “Software” and, together with the Mobile Applications and the Site, the “System”). For purposes of this Privacy Policy, “XPO Logistics” shall include XPO Logistics, Inc. and all of its affiliates, subsidiaries, directors, officers, agents, and employees.
 
-This Privacy Policy is incorporated into and is a part of the terms of use of the Site [here](http://www.xpo.com/website-terms-use) (the “[Terms of Use](http://www.xpo.com/website-terms-use)”). We encourage you to become familiar with the terms and conditions of both this Privacy Policy and the Terms of Use. By accessing and using the System, or any part thereof, you agree that you have read and understand this Privacy Policy, and that in exchange for access to the System, you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy.
+This Privacy Policy is incorporated into and is a part of the terms of use of the Site [here](http://www.xpo.com/website-terms-use) (the “ [Terms of Use](http://www.xpo.com/website-terms-use)”). We encourage you to become familiar with the terms and conditions of both this Privacy Policy and the Terms of Use. By accessing and using the System, or any part thereof, you agree that you have read and understand this Privacy Policy, and that in exchange for access to the System, you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy.
 
 **Your Consent**
 
@@ -83,4 +83,9 @@ BY ACCESSING OR USING THE SYSTEM, OR ANY PORTION THEREOF, YOU ACKNOWLEDGE THAT Y
 
 This Privacy Policy was last modified on October 30, 2015.
 
-Para conocer el Aviso de privacidad de México oprima aquí: [Aviso de Privacidad Mexico](https://web.archive.org/sites/default/files/legal/Aviso%20de%20Privacidad%20Mexico%20Oct%202016.pdf)
+Para conocer el Aviso de privacidad de México oprima aquí:
+
+  * [Aviso de Privacidad Mexico - Cadena de Suministro](https://web.archive.org/sites/default/files/legal/Aviso%20de%20Privacidad%20Mexico%20Oct%202016.pdf)
+  * [Aviso de Privacidad Mexico - Intermodal](https://web.archive.org/sites/default/files/Aviso_de_Privacidad_Mexico_XPO_INTERMODAL.pdf)
+
+
