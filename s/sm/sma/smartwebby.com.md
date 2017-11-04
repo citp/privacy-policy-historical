@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartwebby.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608024628id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwebby.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104105825id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # SmartWebby.com Privacy Policy
 
@@ -56,7 +56,7 @@ If your personally identifiable information changes (such as zip code, phone, em
 
 ### Contact Information 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us using our [customer service](https://web.archive.org/web/20170608024628id_/http%3A//www.smartwebby.com/contactus.asp) input form. 
+If you have any questions or suggestions regarding our privacy policy, please contact us using our [customer service](https://web.archive.org/web/20171104105825id_/http%3A//www.smartwebby.com/contactus.asp) input form. 
 
 **Website Programming Special:** Get 2 years monthly maintenance FREE with any ASP.net or PHP project above $5000 - worth $2000!
 
