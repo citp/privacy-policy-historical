@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629210841id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104041717id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
 
 # University of Glasgow - Legal statements - Privacy
 
@@ -6,15 +6,15 @@ This statement outlines the information gathered during your visit to the Univer
 
 ### Data Protection Act
 
-The gathering, storage, use, release and disposal of personal information is regulated by the Data Protection Act 1998. The University's policy and guidelines with respect to the Act, are published by the [Data Protection and Freedom of Information Office](https://web.archive.org/services/dpfoioffice/).
+The gathering, storage, use, release and disposal of personal information is regulated by the Data Protection Act 1998. The University's policy and guidelines with respect to the Act, are published by the [Data Protection and Freedom of Information Office](https://web.archive.org/myglasgow/dpfoioffice/).
 
 ### Surveillance and monitoring
 
-Staff, students and visitors should be aware that the University operates CCTV and similar equipment to monitor safety and security and to aid the prevention and detection of crime. In addition, the University may monitor postal, telecommunications, data communications, and other communications as permitted by the relevant legislation and University Regulations. Pleas see: [Monitoring & Surveillance (CCTV/WebCam)](https://web.archive.org/services/dpfoioffice/a-ztopics/monitoringsurveillancecctvwebcam/).
+Staff, students and visitors should be aware that the University operates CCTV and similar equipment to monitor safety and security and to aid the prevention and detection of crime. In addition, the University may monitor postal, telecommunications, data communications, and other communications as permitted by the relevant legislation and University Regulations. Pleas see: [Monitoring & Surveillance (CCTV/WebCam)](https://web.archive.org/myglasgow/dpfoioffice/a-ztopics/monitoringsurveillancecctvwebcam/).
 
 ### Freedom of Information (Scotland) Act
 
-The records of the University of Glasgow are subject to the terms of the Freedom of Information (Scotland) 2002 Act. The Act gives individuals a general right of access to all types of recorded information, of any age, held by the University. The University's policy and guidelines with respect to the Freedom of Information Act (Scotland) 2002 are published by the [Data Protection and Freedom of Information Office](https://web.archive.org/services/dpfoioffice/).
+The records of the University of Glasgow are subject to the terms of the Freedom of Information (Scotland) 2002 Act. The Act gives individuals a general right of access to all types of recorded information, of any age, held by the University. The University's policy and guidelines with respect to the Freedom of Information Act (Scotland) 2002 are published by the [Data Protection and Freedom of Information Office](https://web.archive.org/myglasgow/dpfoioffice/).
 
 ## The information collected
 
