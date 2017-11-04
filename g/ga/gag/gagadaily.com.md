@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagadaily.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222748id_/https%3A//gagadaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagadaily.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104130328id_/https%3A//gagadaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gaga Daily
 
