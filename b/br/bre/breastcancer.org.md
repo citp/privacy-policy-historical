@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003612id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104095721id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-  * [](http://www.facebook.com/share.php?u=http://www.breastcancer.org/about_us/bco_commitment/privacy_statement)
-  * [](http://twitter.com/home?status=Currently%20reading)
-  * Print
 
 
 
@@ -14,7 +11,7 @@ This Privacy Policy applies to Breastcancer.org and Breasthealth.org, owned and 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=803bdd75-a454-4a40-9211-c6f6f8822673 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=803bdd75-a454-4a40-9211-c6f6f8822673)
 
 Please note that you are authorized to use this web site only if you agree to this Privacy Statement, and your use of this web site constitutes your acceptance of this Privacy Statement.
 
@@ -70,7 +67,7 @@ We partner with a third party to either display advertising on our web site or t
   * We will share your personal information with third parties only in the ways that are described in this privacy policy.
   * We do not rent, sell, or otherwise provide your personally identifiable information to third parties for marketing purposes, without your consent. If you do not want to share your personal information with these companies, [contact us here](http://www.breastcancer.org/contact_us).
   * We may share your personally identifiable information with our authorized service providers, for example, those who process credit card transactions for us, or handle our email, or support our web site functionality. These companies are authorized to use your personal information only as necessary to provide these services to us.
-  * In certain situations, Breastcancer.org may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose your personally identifiable information in response to a subpoena, court order, similar legal process or in response to a request from a law enforcement or other government agency, to establish or exercise our legal rights or to defend against claims.
+  * In certain situations, Breastcancer.org may be required to disclose personal data in response to lawful requests by public authorities, including to meet law enforcement requirements. We may disclose your personally identifiable information in response to a subpoena, court order, similar legal process or in response to a request from a law enforcement or other government agency, to establish or exercise our legal rights or to defend against claims.
   * We reserve the right to transfer all personally identifiable information in our possession to a successor organization in the event of a merger, acquisition or a sale of all or a part of our assets. You will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
   * If you opt-in to receive marketing and promotional communications from us or from our sponsors, your identity and contact information (but no medical information) may be used to send you messages about products or services that may be of interest to you. At any time, you can “opt out” of receiving promotional email messages, or having your identity and contact information provided to our sponsors, by contacting us at [comments@breastcancer.org](mailto:comments@breastcancer.org). It may take us ten (10) days to process your request. Even after opting out, you may continue to receive email from third parties to whom your address was provided before you opted out. You will be responsible for contacting these third parties directly, to request that they stop sending you promotional email.
   * We may send you messages regarding your subscription, an order or a contribution by you, or other transactional or relationship messages, without offering you the opportunity to opt out of receiving them.
@@ -92,7 +89,7 @@ Upon request, Breastcancer.org will provide you with information about whether w
 
 ## 7\. Retention of Personally Identifiable Information
 
-We will maintain the personally identifiable information that you provide for so long as we, in our sole discretion, believe is necessary or appropriate to carry out the purposes for which the information was collected, or to comply with applicable laws, contracts or other rules or regulations.
+We will retain your information for as long as your account is active or as needed to provide you services. We will maintain the personally identifiable information that you provide for so long as we, in our sole discretion, believe is necessary or appropriate to carry out the purposes for which the information was collected, or to comply with applicable laws, contracts or other rules or regulations.
 
 ## 8\. Choice/Opt-out
 
