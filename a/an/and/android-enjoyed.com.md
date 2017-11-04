@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the android-enjoyed.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603224229id_/https%3A//www.android-enjoyed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the android-enjoyed.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104210604id_/https%3A//www.android-enjoyed.com/privacy-policy) for the most accurate reproduction.*
 
 # Android Enjoyed - Privacy Policy
 
 ### 1\. Openness and transparency
 
-Android Enjoyed, Digital Marketing and Solutions ("DMS") is committed to protecting your privacy and respects and upholds your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use, holding and disclosure of personal information by Android Enjoyed as set out in this policy.
+Android Enjoyed, Digital Marketing and Solutions Pty. Ltd. ("DMS") is committed to protecting your privacy and respects and upholds your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use, holding and disclosure of personal information by Android Enjoyed as set out in this policy.
 
 ### 2\. Personal information
 
@@ -68,7 +68,7 @@ Android Enjoyed will take such steps as are reasonable in the circumstances to e
 
 ### 9\. Contact information
 
-If you require further information regarding this policy or wish to make a complaint about a breach of the APPs by Android Enjoyed, please contact us at [cs@android-enjoyed.com](mailto:cs@android-enjoyed.com) or call us on [+61 2 8294 7094](https://web.archive.org/web/20170603224229id_/https%3A//www.android-enjoyed.com/+61282947094) or send mail to: **Attn: Privacy Officer, Digital Marketing and Solutions, 84 Hotham St. Preston. Vic. 3072**. A senior member of staff will review your complaint within 5 business days and respond to you in writing advising what action(s) Android Enjoyed will take as a result of your complaint.
+If you require further information regarding this policy or wish to make a complaint about a breach of the APPs by Android Enjoyed, please contact us at [cs@android-enjoyed.com](mailto:cs@android-enjoyed.com) or call us on [+61 2 8294 7094](https://web.archive.org/web/20171104210604id_/https%3A//www.android-enjoyed.com/+61282947094) or send mail to: **Attn: Privacy Officer, Digital Marketing and Solutions Pty. Ltd., 84 Hotham St., Preston,. Victoria 3072**. A senior member of staff will review your complaint within 5 business days and respond to you in writing advising what action(s) Android Enjoyed will take as a result of your complaint.
 
 ### 10\. Android Enjoyed website
 
