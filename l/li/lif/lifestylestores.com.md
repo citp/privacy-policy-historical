@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylestores.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054019id_/http%3A//www.lifestylestores.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylestores.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104172632id_/http%3A//www.lifestylestores.com/privacypolicy) for the most accurate reproduction.*
 
 # Online Shopping at Lifestyle
 
@@ -179,7 +179,7 @@ Bangalore - 560 037, Karnataka, India.
 
 Phone: 080-41796565 (Extn: 5228)
 
-Email: [help@lifestylestores.com](https://web.archive.org/web/20170606054019id_/http%3A//www.lifestylestores.com/help@lifestylestores.com)
+Email: [help@lifestylestores.com](https://web.archive.org/web/20171104172632id_/http%3A//www.lifestylestores.com/help@lifestylestores.com)
 
 Time: Mon – Sat (9:00 - 17:00)
 
