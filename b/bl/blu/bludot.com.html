@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the bludot.com privacy policy that was archived on 2017-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622224305id_/http%3A//www.bludot.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bludot.com privacy policy that was archived on 2017-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171104024652id_/http%3A//www.bludot.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-44RK"></script><script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-44RK"></script><script>
 window['optimizely'] = window['optimizely'] || [];
 window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
 </script>
@@ -68,12 +68,14 @@ window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
 <script type="text/javascript" src="http://www.bludot.com/js/varien/menu.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.bludot.com/js/google/ga.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/js/lyonscg/redesign.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/js/lyonscg/varnish/loader.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/skin/frontend/enterprise/bludot_v4/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/skin/frontend/enterprise/bludot_v4/js/scripts.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/skin/frontend/base/default/js/fancybox/jquery.fancybox.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/skin/frontend/enterprise/bludot_v4/js/lyonscg/sticky-nav.js"></script>
+<script type="text/javascript" src="http://www.bludot.com/skin/frontend/enterprise/bludot_v4/js/lyonscg/nav-menu.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/skin/frontend/enterprise/bludot_v4/js/enterprise/catalogevent.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/skin/frontend/enterprise/default/js/enterprise/wishlist.js"></script>
 <script type="text/javascript" src="http://www.bludot.com/skin/frontend/enterprise/bludot_v4/js/accessibility.js"></script>
@@ -114,17 +116,25 @@ optionalZipCountries = ["AT","CO","DK","PH","SA","SG","LK","AE"];
 </head>
 <body class=" cms-page-view cms-privacy-policy cms-privacy-policy" itemscope="" itemtype="http://schema.org/WebPage" style="">
 
-<!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
-//<![CDATA[
-    var _gaq = _gaq || [];
-    
-_gaq.push(['_setAccount', 'UA-17069129-1']);
-_gaq.push(['_trackPageview']);
-    //]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
-    <!-- Google Analytics Ecom code -->
+    var dLayer = {"email":""};
+    cookieName = "CUSTOMER_EMAIL";
+    var emailCookie = Mage.Cookies.get(cookieName);
+    if(emailCookie) {
+        dLayer.email = emailCookie;
+    }
+
+    var dataLayer = window.dataLayer = window.dataLayer || [];
+    dataLayer.push(dLayer);
+
+    var dLayer2 =
+        {event: "setEmail","HashedEmail":""}
+    ;
+    if(emailCookie)
+    { dLayer2.HashedEmail = emailCookie; }
+
+    dataLayer.push(dLayer2);
+</script>    <!-- Google Analytics Ecom code -->
     <script type="text/javascript">
         //<![CDATA[
         var _ch = _ch || [];
@@ -133,12 +143,12 @@ _gaq.push(['_trackPageview']);
     <!-- End Google Analytics Ecom code -->
 
 <!-- Google Tag Manager -->
-<noscript><iframe src='//www.googletagmanager.com/ns.html?id=GTM-44RK'
+<noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-44RK'
 height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-44RK');</script>
 <!-- End Google Tag Manager -->
 
@@ -178,208 +188,241 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <a id="customer-service" class="quick-link" href="http://www.bludot.com/customer-service/">Customer Service</a>
                 <a id="email-signup" class="quick-link" href="#">Email Sign-Up</a>
                 <a id="find-a-store" class="quick-link" href="http://www.bludot.com/store_locator/">Find a store</a>
-                <div id="sign-in" class="quick-link"><span class="register-lnk"><span style="display: none" class="placeholder" data-id="ACCLINKS" data-name="account.links" data-info="MDoyOjYxNGI2YTcyYmQ3NGRiNjE6clNvQ2JOdmJoY2VSWkdMTjdLWng0S1ZGdkQ5bHBoSHlCL215azVLTCtzUXg5R2ZGQVp3YU1nZ2FNSElYM1d2MjgzUTByZ1FKc1Mza0RUUGZGT0FiWGMveUFqZFF4VEhkSGJEaDduK1FoeGp0YTR5UGJteVhIYTRZN3VacFpoY1dVcEtDVWQrWTkyTG5QM090L0dZRnpqOXZEQWQwb3VXNEVCdUs1dGZoOE1ObGdubTJSaWJuYW52NXF4bnVlZUh6THVjdVNZUXJYb09TS2RsWVp1QmlMR1Y2Wnp6VXhuWkJteUVhUVR6QkV4clN4S0o2a0hMcmZaR2NWSUxsTWNlaEFmbEtLZGs5N1VmamNDTXl6bWROZWZWb0srWlNpS0tNclRuVzNHNzFkQjg0SkNoVzdURUxSbzYwbFBLYnlvd2M5OGZTak5jTXdmTVF6cERzajJubTFOU2Q4WUJKYWpZZjU2NEF3by9VZk5rYW01eTJjeThWVmxGSUd0aWxoUnJCOGdZYzZhbTVjaEFYd0htQmo1SUp2YXF3M3VGbGhvdXo0bEVZaU52alZwa2NxU3JIVXJNZGo4Yjd2MHBaV085cW1xT0hOQXNJV3F1Z0JtVVl2ZjhweHlvOVdHRnQrZXpzYzZITUpjbTY4TWpwdGVhemp0OVp4ZnkwMVNTS1pvdjcremNXMk9HYWJCMXZUamF3amFHWVEvZzEzTWYyNDNLZk5lVkg0SmorbG5vSXZEZ3JDU0tKZ21oUFdNRlpFeEFUd2JMSkUzdDd5MXdPU095M0Y4MmFqVlpVcHpnNGdXM2xGOVNBbWkwWi9uVlhad3RXZ1BrT0xwOUFwNVRwc3gzd3RodDB4U2NmeWRad3VISU04LzJDYzUzOE1zK3FxM29nSmNqQ09JLzlZc0xrZU55S3l3emhBdlhVUEFiVVFrV2VQc1JhOWZpUlRabUw4QTRtcnpPUDdRPT0="></span>
+                <div id="sign-in" class="quick-link"><span class="register-lnk"><span style="display: none" class="placeholder" data-id="ACCLINKS" data-name="account.links" data-info="MDoyOmFkZGEzOWMzM2Q4YWY5ODk6VFRPQXBBa2doaDdKN2NldkVDR21zTnI4dTNKZDNwSFBoNG01ZEwvcHZOV2QwTzNyYWNvbndqdE1RS3ZKWE5wcW1MR1lpbCtRVWpucGNmMG1zMWN1dlJWeVo5Vk9NNlVza3JMWVpCaHFFeTNwSGZPV2luWHMvL1RLcmFCWHRzWWJWR0c3RDdTeCtTMElUOHdja0h4RUN0R0VLTml2NC9mSlovU2VzK2lJUXpuRkx2N043T3BSd3JubnNDSHBmYW9ycS9DY1M0MEpEems0M0hSUS9QQmw5N3VPazZjRU1lem1YeXlQUlRSSFpQRlhleUhUNzdHbTg0UG4xeEM5QSt3ZHgyM2ZOeXlBM1J6ZjFmQjg3eUhzU1NIRE01YmdHc1QySmhPdGlRN0ZqdFNvaWJyZjJVbTRXZDRYc0xhNXh4NnRzbk51UGtFQzdFb0hhVEtWdlVzSVYwanpyRVR6MTZORllJUVkwZkg4OFFjL3M5dElobzQ5RkptTzhkWnN2M1p1MzVzZVpGK2dmZVNRWWREMzFyTDZSajhoaFdGampqSEtJK0s0ajVnaUZpVW14dDMybWJ0N1QwRnVJMHVJRmdUdldWKzFOQk95aEg1V1Brck8wMHM4cDlha21BOVk5ME9ZY2ZkT2RJcjM2SzhkM29hcTBxR3ZHMmlHSzNlYi91K21Pc25LaFdocCtVMTQyUU1Pa2tGRnlPYkRXdnJFa3F1WXlRNCs4Qk01b040aDUyUGd4aWRqWkZ2Qjd3QXlTcFdoVDI5bTZjdk1LNFUvYnE3cFpKd1ZTbCs1NE1ENUdqQkxtUUlrYU9kMHFlbEVTVXMxSWRsSVBpV0o5NWtnN09wZXJPY0hiQm5hMm81cWZrZ2xrUmgyN0UrcVZGZHdJWUJRV3gwNUJCZC9lMTZYay9YSG5lMFNXR0Y1WkJVd29ZbktDaXlvMGtXVE5FREhRM081elpSb3VRPT0="></span>
 <span></span></span></div>
             </div>
 
             <nav aria-describedby="Navigation" id="nav-jump">
-                <ul id="top-links-optimizely" class="bold-version" style="">
-                            <li class="level0 nav-1 level-top first">
+                <div role="navigation" aria-label="Main menu">
+                <ul id="top-links-optimizely" class="bold-version" style="" role="menubar">
+                            <li class="level0 nav-1 level-top first" role="menuitem">
 <a href="http://www.bludot.com/new.html" class="level-top">
 <span>New</span>
 </a>
-</li><li class="level0 nav-2 level-top">
+</li><li class="level0 nav-2 level-top" role="menuitem">
 <a href="http://www.bludot.com/bestsellers.html" class="level-top">
 <span>Bestsellers</span>
 </a>
-</li><li class="level0 nav-3 level-top parent">
-<a href="http://www.bludot.com/modern-living-room-furniture.html" class="level-top">
+</li><li class="level0 nav-3 level-top parent" onmouseover="showSubmenu(3);" onmouseout="hideSubmenu(3);" aria-haspopup="true" role="menuitem">
+<a href="javascript:void(0)" class="level-top nopointer" onclick="showhideSubmenu(3);">
 <span>Living</span>
 </a>
-<ul class="level0">
-<li class="level1 nav-3-1 first">
+<ul class="level0" role="menu" aria-hidden="true">
+<li class="level1 nav-3-1 first" role="menuitem">
 <a href="http://www.bludot.com/modern-living-room-furniture/modern-sofas-sectionals-sleepers.html">
 <span>Sofas + Sleepers</span>
 </a>
-</li><li class="level1 nav-3-2">
+</li><li class="level1 nav-3-2" role="menuitem">
 <a href="http://www.bludot.com/modern-living-room-furniture/lounge-chairs.html">
 <span>Lounge Chairs</span>
 </a>
-</li><li class="level1 nav-3-3">
+</li><li class="level1 nav-3-3" role="menuitem">
 <a href="http://www.bludot.com/modern-living-room-furniture/modern-ottomans-stools-benches.html">
 <span>Ottomans + Stools + Benches</span>
 </a>
-</li><li class="level1 nav-3-4">
+</li><li class="level1 nav-3-4" role="menuitem">
 <a href="http://www.bludot.com/modern-living-room-furniture/modern-living-room-storage.html">
 <span>Storage</span>
 </a>
-</li><li class="level1 nav-3-5">
+</li><li class="level1 nav-3-5" role="menuitem">
 <a href="http://www.bludot.com/modern-living-room-furniture/modern-living-bookcases-shelving.html">
 <span>Bookcases + Shelving</span>
 </a>
-</li><li class="level1 nav-3-6">
+</li><li class="level1 nav-3-6" role="menuitem">
 <a href="http://www.bludot.com/modern-living-room-furniture/accent-coffee-tables.html">
 <span>Accent + Coffee Tables</span>
 </a>
-</li><li class="level1 nav-3-7">
+</li><li class="level1 nav-3-7" role="menuitem">
 <a href="http://www.bludot.com/modern-living-room-furniture/modern-living-rugs.html">
 <span>Rugs</span>
 </a>
-</li><li class="level1 nav-3-8">
+</li><li class="level1 nav-3-8" role="menuitem">
 <a href="http://www.bludot.com/modern-living-room-furniture/accessories.html">
 <span>Accessories</span>
 </a>
-</li><li class="level1 nav-3-9">
+</li><li class="level1 nav-3-9" role="menuitem">
 <a href="http://www.bludot.com/modern-living-room-furniture/living-room-lighting.html">
 <span>Lighting</span>
 </a>
-</li><li class="level1 nav-3-10 last">
+</li><li class="level1 nav-3-10 last" role="menuitem">
 <a href="http://www.bludot.com/modern-living-room-furniture/modern-living-room-furniture-view-all.html">
 <span>View All Living </span>
 </a>
 </li>
 </ul>
-</li><li class="level0 nav-4 level-top parent">
-<a href="http://www.bludot.com/modern-bedroom-furniture.html" class="level-top">
+</li><li class="level0 nav-4 level-top parent" onmouseover="showSubmenu(4);" onmouseout="hideSubmenu(4);" aria-haspopup="true" role="menuitem">
+<a href="javascript:void(0)" class="level-top nopointer" onclick="showhideSubmenu(4);">
 <span>Bedroom</span>
 </a>
-<ul class="level0">
-<li class="level1 nav-4-1 first">
+<ul class="level0" role="menu" aria-hidden="true">
+<li class="level1 nav-4-1 first" role="menuitem">
 <a href="http://www.bludot.com/modern-bedroom-furniture/modern-beds.html">
 <span>Beds</span>
 </a>
-</li><li class="level1 nav-4-2">
+</li><li class="level1 nav-4-2" role="menuitem">
 <a href="http://www.bludot.com/modern-bedroom-furniture/modern-dressers.html">
 <span>Dressers</span>
 </a>
-</li><li class="level1 nav-4-3">
+</li><li class="level1 nav-4-3" role="menuitem">
 <a href="http://www.bludot.com/modern-bedroom-furniture/modern-bedroom-accessories.html">
 <span>Accessories</span>
 </a>
-</li><li class="level1 nav-4-4">
+</li><li class="level1 nav-4-4" role="menuitem">
 <a href="http://www.bludot.com/modern-bedroom-furniture/modern-nightstands.html">
 <span>Nightstands + Night Side Tables</span>
 </a>
-</li><li class="level1 nav-4-5">
+</li><li class="level1 nav-4-5" role="menuitem">
 <a href="http://www.bludot.com/modern-bedroom-furniture/mattresses.html">
 <span>Mattresses</span>
 </a>
-</li><li class="level1 nav-4-6 last">
+</li><li class="level1 nav-4-6 last" role="menuitem">
 <a href="http://www.bludot.com/modern-bedroom-furniture/view-all-modern-bedroom-furniture.html">
 <span>View All Bedroom</span>
 </a>
 </li>
 </ul>
-</li><li class="level0 nav-5 level-top parent">
-<a href="http://www.bludot.com/modern-dining-room-furniture.html" class="level-top">
+</li><li class="level0 nav-5 level-top parent" onmouseover="showSubmenu(5);" onmouseout="hideSubmenu(5);" aria-haspopup="true" role="menuitem">
+<a href="javascript:void(0)" class="level-top nopointer" onclick="showhideSubmenu(5);">
 <span>Dining</span>
 </a>
-<ul class="level0">
-<li class="level1 nav-5-1 first">
+<ul class="level0" role="menu" aria-hidden="true">
+<li class="level1 nav-5-1 first" role="menuitem">
 <a href="http://www.bludot.com/modern-dining-room-furniture/modern-dining-tables.html">
 <span>Dining Tables</span>
 </a>
-</li><li class="level1 nav-5-2">
+</li><li class="level1 nav-5-2" role="menuitem">
 <a href="http://www.bludot.com/modern-dining-room-furniture/modern-dining-chairs.html">
 <span>Chairs</span>
 </a>
-</li><li class="level1 nav-5-3">
+</li><li class="level1 nav-5-3" role="menuitem">
 <a href="http://www.bludot.com/modern-dining-room-furniture/modern-stools-benches.html">
 <span>Stools + Benches</span>
 </a>
-</li><li class="level1 nav-5-4">
+</li><li class="level1 nav-5-4" role="menuitem">
 <a href="http://www.bludot.com/modern-dining-room-furniture/storage-cabinets.html">
 <span>Storage + Cabinets</span>
 </a>
-</li><li class="level1 nav-5-5 last">
+</li><li class="level1 nav-5-5 last" role="menuitem">
 <a href="http://www.bludot.com/modern-dining-room-furniture/modern-dining-room-furniture-view-all.html">
 <span>View All Dining</span>
 </a>
 </li>
 </ul>
-</li><li class="level0 nav-6 level-top parent">
-<a href="http://www.bludot.com/modern-office-furniture.html" class="level-top">
+</li><li class="level0 nav-6 level-top parent" onmouseover="showSubmenu(6);" onmouseout="hideSubmenu(6);" aria-haspopup="true" role="menuitem">
+<a href="javascript:void(0)" class="level-top nopointer" onclick="showhideSubmenu(6);">
 <span>Office</span>
 </a>
-<ul class="level0">
-<li class="level1 nav-6-1 first">
+<ul class="level0" role="menu" aria-hidden="true">
+<li class="level1 nav-6-1 first" role="menuitem">
 <a href="http://www.bludot.com/modern-office-furniture/modern-office-desks-tables.html">
 <span>Desks + Tables</span>
 </a>
-</li><li class="level1 nav-6-2">
+</li><li class="level1 nav-6-2" role="menuitem">
 <a href="http://www.bludot.com/modern-office-furniture/modern-office-chairs.html">
 <span>Chairs</span>
 </a>
-</li><li class="level1 nav-6-3">
+</li><li class="level1 nav-6-3" role="menuitem">
 <a href="http://www.bludot.com/modern-office-furniture/modern-office-storage.html">
 <span>Storage</span>
 </a>
-</li><li class="level1 nav-6-4">
+</li><li class="level1 nav-6-4" role="menuitem">
 <a href="http://www.bludot.com/modern-office-furniture/office-bookcases-shelving.html">
 <span>Bookcases + Shelving</span>
 </a>
-</li><li class="level1 nav-6-5">
+</li><li class="level1 nav-6-5" role="menuitem">
 <a href="http://www.bludot.com/modern-office-furniture/modern-office-task-lamps-lighting.html">
 <span>Lighting</span>
 </a>
-</li><li class="level1 nav-6-6">
+</li><li class="level1 nav-6-6" role="menuitem">
 <a href="http://www.bludot.com/modern-office-furniture/office-accessories.html">
 <span>Accessories</span>
 </a>
-</li><li class="level1 nav-6-7 last">
+</li><li class="level1 nav-6-7 last" role="menuitem">
 <a href="http://www.bludot.com/modern-office-furniture/modern-office-furniture-view-all.html">
 <span>View All Office</span>
 </a>
 </li>
 </ul>
-</li><li class="level0 nav-7 level-top">
+</li><li class="level0 nav-7 level-top" role="menuitem">
 <a href="http://www.bludot.com/modern-lighting.html" class="level-top">
 <span>Lighting</span>
 </a>
-</li><li class="level0 nav-8 level-top">
+</li><li class="level0 nav-8 level-top" role="menuitem">
 <a href="http://www.bludot.com/modern-outdoor-furniture.html" class="level-top">
 <span>Outdoor</span>
 </a>
-</li><li class="level0 nav-9 level-top">
-<a href="http://www.bludot.com/modern-rugs.html" class="level-top">
-<span>Rugs</span>
+</li><li class="level0 nav-9 level-top parent" onmouseover="showSubmenu(9);" onmouseout="hideSubmenu(9);" aria-haspopup="true" role="menuitem">
+<a href="javascript:void(0)" class="level-top nopointer" onclick="showhideSubmenu(9);">
+<span>Kids</span>
 </a>
-</li><li class="level0 nav-10 level-top parent">
-<a href="http://www.bludot.com/modern-accessories.html" class="level-top">
+<ul class="level0" role="menu" aria-hidden="true">
+<li class="level1 nav-9-1 first" role="menuitem">
+<a href="http://www.bludot.com/modern-kids-furniture/modern-kids-accessories.html">
 <span>Accessories</span>
 </a>
-<ul class="level0">
-<li class="level1 nav-10-1 first">
+</li><li class="level1 nav-9-2" role="menuitem">
+<a href="http://www.bludot.com/modern-kids-furniture/modern-kids-beds.html">
+<span>Beds</span>
+</a>
+</li><li class="level1 nav-9-3" role="menuitem">
+<a href="http://www.bludot.com/modern-kids-furniture/modern-kids-desks-chairs.html">
+<span>Desk + Chairs</span>
+</a>
+</li><li class="level1 nav-9-4" role="menuitem">
+<a href="http://www.bludot.com/modern-kids-furniture/modern-kids-dressers-nightstands.html">
+<span>Dressers + Nightstands</span>
+</a>
+</li><li class="level1 nav-9-5" role="menuitem">
+<a href="http://www.bludot.com/modern-kids-furniture/kids-modern-lounge-play.html">
+<span>Lounge + Play</span>
+</a>
+</li><li class="level1 nav-9-6 last" role="menuitem">
+<a href="http://www.bludot.com/modern-kids-furniture/modern-kids-organization-furniture.html">
+<span>Organization</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-10 level-top parent" onmouseover="showSubmenu(10);" onmouseout="hideSubmenu(10);" aria-haspopup="true" role="menuitem">
+<a href="javascript:void(0)" class="level-top nopointer" onclick="showhideSubmenu(10);">
+<span>Accessories</span>
+</a>
+<ul class="level0" role="menu" aria-hidden="true">
+<li class="level1 nav-10-1 first" role="menuitem">
+<a href="http://www.bludot.com/modern-accessories/modern-rugs.html">
+<span>Rugs</span>
+</a>
+</li><li class="level1 nav-10-2" role="menuitem">
 <a href="http://www.bludot.com/modern-accessories/modern-decorative-accessories.html">
 <span>Decorative Accessories</span>
 </a>
-</li><li class="level1 nav-10-2">
+</li><li class="level1 nav-10-3" role="menuitem">
 <a href="http://www.bludot.com/modern-accessories/modern-office-accessories.html">
 <span>Office Accessories</span>
 </a>
-</li><li class="level1 nav-10-3">
+</li><li class="level1 nav-10-4" role="menuitem">
 <a href="http://www.bludot.com/modern-accessories/modern-accessories-pillows.html">
 <span>Pillows</span>
 </a>
-</li><li class="level1 nav-10-4">
+</li><li class="level1 nav-10-5" role="menuitem">
 <a href="http://www.bludot.com/modern-accessories/modern-mirrors.html">
 <span>Mirrors</span>
 </a>
-</li><li class="level1 nav-10-5">
+</li><li class="level1 nav-10-6" role="menuitem">
 <a href="http://www.bludot.com/modern-accessories/framed-prints.html">
 <span>Framed Prints</span>
 </a>
-</li><li class="level1 nav-10-6 last">
+</li><li class="level1 nav-10-7 last" role="menuitem">
 <a href="http://www.bludot.com/modern-accessories/modern-accessories-view-all.html">
 <span>View All Accessories</span>
 </a>
 </li>
 </ul>
-</li><li class="level0 nav-11 level-top last">
+</li><li class="level0 nav-11 level-top last" role="menuitem">
 <a href="http://www.bludot.com/modern-furniture-sale.html" class="level-top">
 <span>Outlet</span>
 </a>
 </li>                </ul>
+                </div>
             </nav>
 
             <div class="quick-access" id="search-jump">
@@ -498,7 +541,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             window.location = '/Email_Signup_ThankYou/';
         }, 3000);
     });
-
 </script>
 <span style="display: none" class="placeholder" data-id="GLOBAL_MESSAGES" data-name="global_messages" data-info="MDoyOjgwMjk4YmJhMjFmNTc3MDc6VmJheUtjbVZBYVBRbGhnK1pjdmpnamxsT3lUcXYzQnRLcHVaRjNBNnlXdTBTSWx0ejVkZHl4N1VHS3FiMzU0bzMrUlg0SVk0THVicEdnYzNNT3lTbUE9PQ=="></span>
 <span></span>	    <div class="wrapper" style="">
@@ -594,7 +636,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </form>
     <div class="content-left">
         <ul>
-            <li id="first"><a href="#" onclick="getCatalogClick(this);">Get a Catalog</a></li>
+            <li id="first"><a onclick="event.preventDefault(); getCatalogClick(this);" style="cursor:pointer;">Get a Catalog</a></li>
             <li><a href="/store_locator/" id="new-nav-store-locator">Store Locator</a></li>
             <li><a href="/connect/" id="new-nav-connect">Connect</a></li>
             <li><a href="/connect/our-story/" id="new-nav-our-story">Our Story</a></li>
@@ -824,6 +866,7 @@ Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
                 jQuery('#exp37catalogForm').css('display', 'none');
                 clearhead.setCookie('optimizely-exp-37', true, 30);
                 jQuery(document).unbind('mouseup.exp37');
+                e.preventDefault();
             }
             jQuery('#getCatalogForm').bind('submit.exp37', function (e) {
                 var form = this;
@@ -887,7 +930,7 @@ Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
                         }
                     </style>
                     <div class="catalog-header">
-                        <a class="f-close" href="#">
+                        <a class="f-close" href="javascript:;">
                             <span>No Thanks</span>
                             <img src="http://www.bludot.com/skin/frontend/enterprise/bludot_v4/images/catalog-close-x.png" alt="Close Window">
                         </a>
@@ -897,7 +940,7 @@ Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
                     </div>
                     <div class="catalog-form-wrapper">
                         <div class="img-left">
-                            <img src="http://d2nfdohdbzm5u6.cloudfront.net/media//Catalog_Modal/Web_CatalogPopUp_Fall2016_Section_v3.jpg" alt="2016 Fall Catalog">                            <a class="privacy-policy-link" target="_blank" href="http://www.bludot.com/privacypolicy/" onclick="clearhead.setCookie('optimizely-exp-37', true, 30)" title="Privacy Policy">
+                            <img src="http://d2nfdohdbzm5u6.cloudfront.net/media//Catalog_Modal/Web_CatalogPopUp_Fall2016_Section_v3.jpg" alt="2016 Fall Catalog">                            <a class="privacy-policy-link" target="_blank" href="http://www.bludot.com/privacy_policy/" onclick="clearhead.setCookie('optimizely-exp-37', true, 30)" title="Privacy Policy">
                                 Privacy Policy
                             </a>
                         </div>
@@ -1038,9 +1081,10 @@ Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
 <script type="text/javascript">
     var catalogForm = new VarienForm('exp37catalogForm', true);
     new RegionUpdater('cf-country_id', 'cf-region', 'cf-state', {"US":{"AL":{"code":"AL","name":"Alabama"},"AK":{"code":"AK","name":"Alaska"},"AZ":{"code":"AZ","name":"Arizona"},"AR":{"code":"AR","name":"Arkansas"},"CA":{"code":"CA","name":"California"},"CO":{"code":"CO","name":"Colorado"},"CT":{"code":"CT","name":"Connecticut"},"DE":{"code":"DE","name":"Delaware"},"DC":{"code":"DC","name":"District Of Columbia"},"FL":{"code":"FL","name":"Florida"},"GA":{"code":"GA","name":"Georgia"},"HI":{"code":"HI","name":"Hawaii"},"ID":{"code":"ID","name":"Idaho"},"IL":{"code":"IL","name":"Illinois"},"IN":{"code":"IN","name":"Indiana"},"IA":{"code":"IA","name":"Iowa"},"KS":{"code":"KS","name":"Kansas"},"KY":{"code":"KY","name":"Kentucky"},"LA":{"code":"LA","name":"Louisiana"},"ME":{"code":"ME","name":"Maine"},"MD":{"code":"MD","name":"Maryland"},"MA":{"code":"MA","name":"Massachusetts"},"MI":{"code":"MI","name":"Michigan"},"MN":{"code":"MN","name":"Minnesota"},"MS":{"code":"MS","name":"Mississippi"},"MO":{"code":"MO","name":"Missouri"},"MT":{"code":"MT","name":"Montana"},"NE":{"code":"NE","name":"Nebraska"},"NV":{"code":"NV","name":"Nevada"},"NH":{"code":"NH","name":"New Hampshire"},"NJ":{"code":"NJ","name":"New Jersey"},"NM":{"code":"NM","name":"New Mexico"},"NY":{"code":"NY","name":"New York"},"NC":{"code":"NC","name":"North Carolina"},"ND":{"code":"ND","name":"North Dakota"},"OH":{"code":"OH","name":"Ohio"},"OK":{"code":"OK","name":"Oklahoma"},"OR":{"code":"OR","name":"Oregon"},"PA":{"code":"PA","name":"Pennsylvania"},"RI":{"code":"RI","name":"Rhode Island"},"SC":{"code":"SC","name":"South Carolina"},"SD":{"code":"SD","name":"South Dakota"},"TN":{"code":"TN","name":"Tennessee"},"TX":{"code":"TX","name":"Texas"},"UT":{"code":"UT","name":"Utah"},"VT":{"code":"VT","name":"Vermont"},"VA":{"code":"VA","name":"Virginia"},"WA":{"code":"WA","name":"Washington"},"WV":{"code":"WV","name":"West Virginia"},"WI":{"code":"WI","name":"Wisconsin"},"WY":{"code":"WY","name":"Wyoming"}}}, undefined, 'zip');
-</script><script type="text/javascript">
+</script>
+<script type="text/javascript">
     var varnishLoader = new Varnish.Loader(
-        'http://www.bludot.com/varnish/ajax/load/no_cache/1/uenc/aHR0cDovL3d3dy5ibHVkb3QuY29tL3ByaXZhY3lfcG9saWN5/',
+        'http://www.bludot.com/varnish/ajax/load/no_cache/1/uenc/aHR0cDovL3d3dy5ibHVkb3QuY29tL3ByaXZhY3lfcG9saWN5Lw,,/',
         'MDoyOjgwMjk4YmJhMjFmNTc3MDc6UlE3T0pKSE9Ram5wS3FWWXpxeW5oclgzRFc1Tmp1ZDVKS3FyQi9ZaVllL1o0N0N6U09XSFBMbkVuTmY3bFdhaUxHaEUrK2UraTI0eE5JQkJSYUdUNElkRVV4bWhWU2MwakxGQk9Oa1RGTlN1dmRnbVV0NHIxUjY3WktmYTNpeHlOSSt0OFVwQ2RnM1RXbmJtb2ZjQ2pjaTBZTEpNSzAyZU1WMXRCdFVuZlBHazZIS1ZENmgybVV0Q2U1S3BjNzgxc3EvL2xJQStEbE5xUHYySU1GRTJmSy9HS3d2V1IrdGhzSXhpdHhqV2ZvWnlMekNrdldORGxYYmVibWlIVGJKSEUxWkpOK2w1MHN6aXJVVjJUYXFOQ2c9PQ=='
     );
 
