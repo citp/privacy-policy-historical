@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104122id_/http%3A//fidm.edu/en/college%2Bpolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104101958id_/http%3A//fidm.edu/en/college%2Bpolicies) for the most accurate reproduction.*
 
 # en | FIDM.edu
 
@@ -10,7 +10,7 @@ All academic work submitted by a student must be original work.  Cheating or ac
 
 FIDM is committed to providing a workplace and school environment free of alcohol, illegal drugs, un-prescribed drugs, or paraphernalia used for these substances.  Violation of this policy may result in immediate dismissal from academic programs or college-related employment. All FIDM campuses are smoke-free environments.  Smoking includes, but is not limited to, cigarettes, cigars, snuff, smoking tobacco, smokeless tobacco, nicotine, nicotine-delivering devices, chemicals or devices that produce the same flavor or physical effect of nicotine substances; and any other tobacco innovation.  Information on substance abuse programs, prevention awareness, and all other counseling services is available upon request and accessible on the FIDM Portal.
 
-[Download or view the Substance Abuse Prevention Program Brochure (PDF)](https://web.archive.org/wps/wcm/connect/4c57fd00496919f08bcbdfa05019d420/Substance%2BAbuse%2BPrevention%2BBrochure%2Brev+9.20.16.pdf?MOD=AJPERES&CVID=ltprHrC)
+[Download or view the Substance Abuse Prevention Program Brochure (PDF)](https://web.archive.org/wps/wcm/connect/4c57fd00496919f08bcbdfa05019d420/Substance%2BAbuse%2BPrevention%2BBrochure%2Brev+9.13.17.pdf?MOD=AJPERES&CVID=lWm-pV0)
 
 ##### __Campus Conduct
 
@@ -22,6 +22,42 @@ Students are responsible for conducting themselves as professionals while in the
 
 FIDM is committed to the safety of its students, faculty, and staff.  Students are prohibited from bringing firearms onto any FIDM campus.  Students are prohibited from bringing firearms onto any FIDM campus. Illegal weapons or threatening gestures with an object that can be used as a weapon will lead to immediate dismissal.  Students are required to wear their valid FIDM Student Photo Identification cards where visible while on FIDM premises.  FIDM Student Photo ID cards may not be altered, copied, or forged and are non-transferable.  If a student is discovered loaning or altering a FIDM Student Photo ID card, that card will be confiscated and the student will face a mandatory appointment with the Coordinator of Student Affairs (LA), or Director of Education (SF, OC, SD).  Campus access is restricted to posted hours of operation. Please see FIDM Portal for hours of operation. Only registered students are permitted in the classroom. Authorized guests/visitors are not allowed on campus with prior approval and notification to Security from FIDM Staff for college business purposes (i.e., guest presenter, authorized vendor, campus meeting, etc.). All authorized visitors are required to check-in with the Security desk (LA)/Building Security (SF)/front desk (OC, SD) to obtain a guest/visitor pass. Students and faculty are not permitted to bring family, friends, or business acquaintances on campus.
 
+##### __Copyright
+
+**File sharing at FIDM**
+
+File sharing of copyrighted works, such as commercial music and videos, is illegal. Students should review FIDM’s Student Technology Use Policy, which can be found in FIDM’s College Catalog. Additional information about student use of technology use may be found in FIDM’s Student Handbook & Planner, Faculty channel on the ePortal, and at the FIDM Portal at [http://myfidm.fidm.edu](http://myfidm.fidm.edu/).
+
+##### Penalties for sharing copyrighted files
+
+There are civil and criminal penalties for violation of federal copyright laws, which may be summarized as follows:
+
+Copyright infringement is the act of exercising, without permission or legal authority, one or more of the exclusive rights granted to the copyright owner under section 106 of the Copyright Act (Title 17 of the United States Code). These rights include the right to reproduce or distribute a copyrighted work. In the file-sharing context, downloading or uploading substantial parts of a copyrighted work without authority constitutes an infringement.
+
+Penalties for copyright infringement include civil and criminal penalties. In general, anyone found liable for civil copyright infringement may be ordered to pay either actual damages or "statutory" damages affixed at not less than $750 and not more than $30,000 per work infringed. For "willful" infringement, a court may award up to $150,000 per work infringed. A court can, at its discretion, also assess costs and attorneys' fees. For details, see Title 17, United States Code, Sections 504, 505.
+
+Willful copyright infringement can also result in criminal penalties, including imprisonment of up to five years and fines of up to $250,000 per offense.
+
+For more information, please see the website of the U.S. Copyright Office at <http://www.copyright.gov/help/faq/>.
+
+##### Penalties for sharing copyrighted files
+
+  * Do not use file sharing software, (also known as peer-to-peer or p2p software) to download copyrighted media. You MUST have the copyright owner's permission or your download is illegal!
+  * Most programs that let you download songs and movies without payment share your computer's files to the Internet by default.
+  * Popular file sharing programs used to distribute and obtain media illegally include: DropBox, BitTorrent, Gnutella, Warez P2P and many others. While these sites are not illegal, they are used for illegal activities.
+  * Use legal downloading or subscription streaming services, such as Amazon, iTunes, YouTube, Netflix, to view media.
+  * Do not share media you obtained legally, except as the copyright holder permits (iTunes streaming, etc.). Most file sharing software, by default, finds, advertises and shares all music and movies on your computer regardless of whether you have the right to share/upload these files.
+  * Protect your computer from malicious software, by not installing file sharing software. While malware rarely installs file sharing software, that software is routinely exploited by criminals as provide a distribution channel for 'free' files that let them steal your information. Make sure you have obtained virus scanning and malware detection software above and beyond what Windows provides by default.
+
+
+
+##### Laws Governing Illegal File sharing
+
+  * [Higher Education Opportunity Act](http://ifap.ed.gov/dpcletters/GEN1008.html)
+  * [Digital Millennium Copyright Act (DMCA)](http://www.copyright.gov/legislation/dmca.pdf)
+
+
+
 ##### __Defacing FIDM Property
 
 Any student who defaces, vandalizes, or destroys FIDM property (including but not limited to library materials, computers, elevators, restrooms, parking structure, etc.) will be dismissed from the college.  All types of spray mount adhesive and spray paint are prohibited from being used on all FIDM campuses.
@@ -30,18 +66,18 @@ Any student who defaces, vandalizes, or destroys FIDM property (including but no
 
 FIDM is committed to providing a safe learning working environment for students and employees that is free of all forms of discrimination, harassment, exploitation, or intimidation. Sexual misconduct is a form of discrimination. All members of the college community should be aware that the college strongly opposes harassment and sexual misconduct and such behavior is prohibited by federal and state law and college policy. This policy applies to all FIDM community members, including students, faculty, administrators, staff, and third parties conducting business or having any official capacity with the college or on college property. FIDM is prepared to take prompt action to prevent and correct such behavior of individuals who engage in sexual harassment, as well as any other unlawful harassment based on factors such as race, ethnicity, religion, national origin, sexual orientation, gender identity, disability, or age. Violation of this harassment and sexual misconduct policy will not be tolerated and corrective action up to and including disqualification or termination may be taken. We encourage all students to report these incidents. FIDM is committed to protecting the privacy of all individuals involved in a report of sexual harassment, sexual misconduct, and sexual violence. Throughout the process of investigation of a report of harassment and sexual misconduct, every effort will be made to protect the privacy interests of all individuals, and respect and safeguard private information, to the extent possible consistent with the legal obligations of FIDM to investigate and respond effectively. Retaliation against a person who properly reports, complains about, or participates in the investigation of such harassment is strictly prohibited.
 
-FIDM’s harassment and sexual misconduct policy and procedures are available in full on the FIDM Portal (under College Policies FAQs). Reports of sexual misconduct and inquiries concerning FIDM’s policy may be directed to the Title IX Coordinator at 213-624-1200 x1830.
+FIDM’s harassment and sexual misconduct policy and procedures are available in full on the FIDM Portal (under College Policies FAQs). Reports of sexual misconduct and inquiries concerning FIDM’s policy may be directed to the Title IX Coordinator at 213-624-1200 ext. 3025.
 
 _**Affirmative Consent**_  
 In alignment with California statute, FIDM’s policy concerning sexual assault, domestic violence, dating violence, and stalking, includes an affirmative consent standard in the determination of whether consent was given by both parties to sexual activity.  “Affirmative consent” means affirmative, conscious, and voluntary agreement to engage in sexual activity.   It is the responsibility of each person involved in the sexual activity to ensure that he or she has the affirmative consent of the other or others to engage in the sexual activity.  Lack of protest or resistance does not mean consent, nor does silence mean consent.  Affirmative consent must be ongoing throughout a sexual activity and can be revoked at any time.  The existence of a dating relationship between the persons involved, or the fact of past sexual relations between them, should never by itself be assumed to be an indicator of consent.
 
-[FIDM Sexual Misconduct Grievance Policy and Procedures](https://web.archive.org/wps/wcm/connect/75abbbe5-8d2b-4e53-8ea5-9475c61ddb46/FIDM%2BSexual%2BMisconduct%2BGrieveance%2BPolicy%2Band%2BProcedures%2Brev+9.2016+v2.pdf?MOD=AJPERES&CVID=ltpqKdo&CVID=ltpqKdo) (PDF)  
-[Reporting Options and Resources for Sexual Assault and Relationship Violence](https://web.archive.org/wps/wcm/connect/6aa31ad6-865b-4407-ac2b-0e74de3b774a/Reporting%2BOptions%2BPacket%2Brev%2B5.2017.pdf?MOD=AJPERES&CVID=lLUOp13&CVID=l91lp71) (PDF)  
-[Sexual Assault Risk Reduction Tips](https://web.archive.org/wps/wcm/connect/25f2f8c9-1a7a-4062-8109-19b29182ef7b/Sexual+Assault+Risk+Reduction+Tips+Rev+1.2016.pdf?MOD=AJPERES&CVID=l91m4Mm&CVID=l91m4Mm) (PDF)
+[FIDM Sexual Misconduct Grievance Policy and Procedures](https://web.archive.org/wps/wcm/connect/75abbbe5-8d2b-4e53-8ea5-9475c61ddb46/FIDM%2BSexual%2BMisconduct%2BGrieveance%2BPolicy%2Band%2BProcedures%2Brev+9.2017.pdf?MOD=AJPERES&CVID=lWm-Plh&CVID=lWm-Plh&CVID=ltpqKdo) (PDF)  
+[Reporting Options and Resources for Sexual Assault and Relationship Violence](https://web.archive.org/wps/wcm/connect/6aa31ad6-865b-4407-ac2b-0e74de3b774a/Reporting+Options+9.15.17.pdf?MOD=AJPERES&CVID=lWBGt9t&CVID=lWBGt9t&CVID=l91lp71) (PDF)  
+[Sexual Assault Risk Reduction Tips](https://web.archive.org/wps/wcm/connect/25f2f8c9-1a7a-4062-8109-19b29182ef7b/Sexual+Assault+Risk+Reduction+Tips+Rev+1.2016.pdf?MOD=AJPERES&CVID=l91m4Mm&CVID=l91m4Mm&CVID=l91m4Mm) (PDF)
 
 ##### __Non-Discrimination Policy
 
-FIDM in compliance with Civil Rights Legislation does not discriminate in its educational programs or employment practices on the basis of race, religion, national or ethnic origin, gender, sexual orientation, age, veteran status, disability, pregnancy, or any other characteristic or condition protected by federal or state law. These practices include, but are not limited to, hiring, employment promotion and transfer, admissions policies, the administration of its scholarship and loan programs and participation in the benefits and services of educational programs or related activities sponsored by the College. This policy is in accordance to Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973), Age Discrimination Act of 1975, California SB-195 Equity in Higher Education Act, and any other applicable federal, state and local law. Inquiries concerning FIDM’s policy may be directed to the Title IX Coordinator at 213-624-1200 x1830.
+FIDM in compliance with Civil Rights Legislation does not discriminate in its educational programs or employment practices on the basis of race, religion, national or ethnic origin, gender, sexual orientation, age, veteran status, disability, pregnancy, or any other characteristic or condition protected by federal or state law. These practices include, but are not limited to, hiring, employment promotion and transfer, admissions policies, the administration of its scholarship and loan programs and participation in the benefits and services of educational programs or related activities sponsored by the College. This policy is in accordance to Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973), Age Discrimination Act of 1975, California SB-195 Equity in Higher Education Act, and any other applicable federal, state and local law. Inquiries concerning FIDM’s policy may be directed to the Title IX Coordinator at 213-624-1200 ext. 3025.
 
 ##### __Policies & Services for Students with Disabilities
 
@@ -142,10 +178,6 @@ When you apply to FIDM using the Online Application Form, FIDM requests personal
 
 When you submit an Information Request Form, FIDM requests personal information such as your name, address, telephone number, and email address, as well as demographic information such as high school or college graduation year. A FIDM representative will contact you to answer your question. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
 
-##### __Especially about Prom Advice Contests
-
-When you register for one of the contests hosted by Prom Advice, Prom Advice requests personal information such as your name and email address, as well as demographic information such as your date of birth, gender, and location. Prom Advice uses this information to notify you in the event that you are selected as a contest winner. Please see Prom Advice Contest Rules for more information. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
-
 ##### __Especially about Fashion Club
 
 When you sign up for Fashion Club, we request personal information, such as your name, home address, telephone number and email address, as well as demographic information such as your birth date and the year you plan to graduate from high school .
@@ -175,13 +207,9 @@ Los Angeles, CA 90015
 or 213.624.1200  
 or contact by email at: vpaganini@fidm.com
 
-##### __Especially about Ask Fashion Girl
+##### __Especially about Ask the Librarian
 
-When you submit an Ask Fashion Girl Form, FIDM requests personal information such as your name, address, and email address, as well as demographic information such as age, gender, and location. A FIDM representative will contact you to answer your question. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
-
-##### __Especially about Ask FIDM Cybrarian
-
-When you submit an Ask FIDM's Cybrarian Form, FIDM requests personal information such as your name, city, state, telephone number, fax, and email address. A FIDM representative will contact you to answer your question. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
+When you submit an Ask the Librarian Form, FIDM requests personal information such as your name, city, state, telephone number, fax, and email address. A FIDM representative will contact you to answer your question. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
 
 ##### __FIDM Student Portal
 
