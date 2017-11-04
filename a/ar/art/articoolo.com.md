@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articoolo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082344id_/http%3A//articoolo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articoolo.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104091729id_/http%3A//articoolo.com/privacy_policy) for the most accurate reproduction.*
 
 # Articoolo
 
@@ -68,4 +68,4 @@ Changes to Privacy Policy
 
 This Privacy Policy is subject to revisions from time to time, upon our sole discretion and without prior notice. Should you object to any such modifications, you must cease using our Services. Continued use of our Services following any such change will indicate your acknowledgement of such change and agreement to be bound by the revised Privacy Policy. All such changes will apply to previously collected information. Therefore, please make sure you check this Privacy Policy regularly.
 
-© Copyright 2015 Articoolo Inc. All Rights Reserved
+© Copyright 2015-2017 Articoolo Inc. All Rights Reserved
