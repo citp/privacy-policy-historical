@@ -1,85 +1,98 @@
-> *The following text is extracted and transformed from the helium.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902055547id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helium.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104183255id_/https%3A//www.helium.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Helium
+# Helium
 
-**What This Privacy Policy Covers**
+### Privacy Policy
 
-  * This policy covers how Helium treats personal information that Helium collects and receives at the sites at which this policy is posted, including information related to your past use of Helium products and services.
-  * This policy does not cover how Helium treats personal information that it obtains from other sources, such as offline, on other websites, or through email communications. This policy also does not apply to the practices of companies that Helium does not own or control, or to people that Helium does not employ or manage.
+This Privacy Policy governs the manner in which Helium Inc. ("Helium") collect, use, maintain and disclose information collected from users (each, a "User" or "you") on the www.helium.com website and all products and services offered by Helium ("Site"). 
 
+By using the Site or otherwise providing information to Helium, you agree to our Privacy Policy. If you do not agree with this policy or its terms, please do not visit or use our Site. The Helium Terms and Conditions are incorporated within the terms of this Privacy Policy. Please make sure you read and agree to them before using our Site. 
 
+Our Privacy Policy does not apply to products or services offered by other companies, individuals or business partners, or to information that you provide or that is collected by third parties using our technologies. These third parties may have their own privacy policies, which we encourage you to read before providing information to them. 
 
-**Information Collection and Use General**
+#####  This policy describes: 
 
-  * Helium collects personal information when you register, and complete your user profile with Helium. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
-  * When you register we ask for information such as your name and email. Once you register with Helium and sign in to our services, you are not anonymous to us. 
-  * To enable Helium to show more relevant and targeted content and advertising, we may also ask for demographic information like age, gender, location and income level, however, this information is optional.
-  * Helium automatically receives and records information on our server logs from your browser, including your IP address, Helium cookie information (if any), and the page you request.
-  * Helium uses information for the following general purposes: fulfill your requests for products and services, customize the content and advertising you see, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
-
-
-
-**Children**
-
-  * This site is designed for adult users, and Helium does not knowingly collect personal information from children under 13, nor does it allow children under age 13 to register for an account.
-  * If you are a parent and suspect that your child has provided Helium with personally identifiable information, please contact us at [help@helium.com](mailto:help@helium.com).
+  * What personally identifiable information we collect from you, how it is used and with whom it may be shared. 
+  * The security procedures in place to protect the misuse of your information. 
+  * What choices we offer, including how to update your personal information. 
 
 
 
-**Information Sharing and Disclosure**
+##### Personal Identification Information
 
-  * Helium is not in the business of renting or selling personal information you provide on this site with other people or nonaffiliated companies. Helium does share your information to provide products or services you've requested, when we have your permission, and under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Helium under confidentiality agreements. These companies may use your personal information to help Helium communicate with you about offers from Helium and our marketing partners. However, these companies do not have any independent right to share this information.
-    * We may share names and emails of members who join Helium as part of a co-branded partnership with Helium with that specific partner.
-    * We may share aggregate demographic information with third parties such as the media, advertisers, and government agencies. This aggregate information is typically in the form of statistics, such as numbers of Helium users in a particular age group. Such aggregate information is not traceable back to you as an individual.
-    * We may share your information to respond to subpoenas, court orders, or legal process or to otherwise cooperate with law enforcement agencies or officials, or to establish or exercise our legal rights or defend against legal claims; 
-    * We may share your information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Helium's terms of use, or as otherwise required by law.
-    * We will transfer information about you if Helium is acquired by or merged with another company. In this event, Helium will notify you before information about you is transferred and becomes subject to a different privacy policy.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our Site, register on the Site, or place an order. 
 
+##### Information You Give Us
 
+We will collect the personal information that you provide us. For example, we will ask you to provide personal information such as your name, address, email address, telephone number, and credit or debit card information as part of normal business transactions. Users may provide Helium information in the following scenarios: 
 
-**Cookies**
-
-  * Helium sets and accesses cookies on your computer. A cookie is a small bit of information used by the site to track your session. It does not contain any sensitive information. No other web sites can access cookies set by Helium, nor can the Helium sites access cookies set by other web sites.
+  * _Registration_ \- In order to use certain parts of the Site, you must first register. The registration form requires Users to give certain information (such as name and email address). At your option, you also may provide demographic information (such as your gender or age) about yourself, but it is not required. 
+  * _Orders_ \- To purchase products or items from us, you must provide contact information (like name and shipping address) and financial information (like credit card number and expiration date). 
+  * _Surveys & other communications_ \- From time-to-time our Site may request information. Participation in these is completely voluntary, and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code, age level). Contact information may be used to market to you about third party products and services. Your information also may be provided to third parties. Information may also be used for purposes of monitoring or improving the use and satisfaction of the Site, as well as for public posting and product reviews by other users. 
 
 
 
-**Account Information and Communications**
+#####  Information we get from your use of our website or services 
 
-  * You can edit your Helium Account Information at any time by logging in to the site and entering the My Helium area.
-  * You may opt out of receiving Helium emails by clicking on the “Unsubscribe” link. Please note that even if you do opt out of receiving marketing materials, we reserve the right, and will continue to send you certain infrequent communications relating to the Helium service and/or your account, such as service announcements and administrative messages, that are considered part of your Helium account, without offering you the opportunity to opt-out of receiving them.
+When you browse or use our Site, we collect information about the services you use, other websites you've visited and personal preferences. We also may collect your personal location while using our Site. This information includes: device-specific information (such as your operating system, mobile phone network, mobile device ID, and other device-specific unique device identifiers such as your computer's internet protocol (IP) address), user information, specific geographical location and browsing and interaction habits. Our Site may use "cookies" or similar technologies to enhance User experience. A cookie is a small file placed on your device or computer. It may be possible to refuse to accept cookies by activating the appropriate setting on your browser or mobile device. However, if you select this setting, you may be unable to access certain parts of our Site. We use these technologies to collect and store information about you when you interact with services or products that we offer. 
 
+##### Do Not Track
 
+Some browsers may offer a "Do Not Track" feature. This Site does not currently respond to "Do Not Track" signals. 
 
-**Confidentiality and Security**
+##### How we use collected information
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
-  * Your Helium Account Information is password-protected.
-  * In certain areas Helium uses industry-standard SSL encryption to protect data transmissions.
-  * Data you provide to us will be stored on our servers located either in our offices in Massachusetts, or elsewhere in the United States or abroad. By providing us with your information, you understand and consent to the international transfer of your data. 
-  * You should take steps to protect yourself as well. For example: 
-    * Do not share your password with anyone else, and take measures to prevent it from unauthorized access or disclosure.
-    * To learn more about how to protect yourself online, visit the government website www.onguardonline.gov.
+Helium collects and uses Users' personal information for the following purposes: 
 
-
-
-**Links and Third Party Ads**
-
-  * We may post links to other web sites as a service to you. These sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
-  * We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**please click here**](http://www.networkadvertising.org/consumer/opt_out.asp).
-  * The advertising we display may be targeted to users of particular services and content. So if you view or click on a targeted ad, the advertiser (or other companies affiliated with the advertiser) may assume that you meet the targeting criteria — for example, men aged 30-40.
+  * _To improve customer service_ \- Your information helps us to more effectively respond to your customer service requests and support needs. 
+  * _To improve our Site_ \- We continually strive to improve our Site offerings based on the information and feedback we receive from you. 
+  * _To process transactions_ \- We will use the information you provide to process your order. We do not share this information with outside parties except to the extent necessary to provide the service. 
+  * _To send periodic emails_ \- Your email address will be used to send you information and updates pertaining to your order. It also may be used to respond to your inquiries. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or you may contact us via our Site. 
+  * _Protect our rights or comply with legal process -_ We may disclose your personal information to enforce our rights arising from any contracts entered into between you and Helium; to comply with any court order, legal process, or respond to any governmental or regulatory request; or to protect Helium's rights or property or the safety of Helium, our customers, employees, or others. 
+  * _Sale or merger -_ We also may disclose your personal information to a buyer or other successor in the event of a merger, acquisition, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of Helium’s assets. 
+  * _To market other products of Services to You_ \- We may use your personal information in association with third party vendors, marketing firms or other companies to market or sell other non Helium products or services. 
 
 
 
-**Changes to This Privacy Policy**
+##### Accessing your personal information
 
-  * This policy is effective as of April 4, 2007. Helium may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Helium account or by placing a prominent notice on our site.
+You may log in to Helium to update your registration information. 
 
+Also, California law permits Users who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to the contact information below with "California Shine the Light Privacy Request" in the subject line and your full name, email address, postal address and specific services you have used in the body of your email. 
 
+##### How we protect your information
 
-**Questions**
+We adopt data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-  * To contact us for more information about this privacy policy or how your information is treated, please contact us by email at [help@helium.com](mailto:help@helium.com).
+While we use security measures to protect sensitive and personal information transmitted online, please be aware that no security measures are perfect or impenetrable. 
 
+##### Children's information
 
+Our Site is not directed to children under the age of 13, and our Terms and Conditions prohibit children under 13 from using our Site. We do not knowingly collect any information from children under 13. 
+
+##### Changes to this privacy policy
+
+Helium has the discretion to update this privacy policy at any time. When we do, we revise the updated date at the top of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications. 
+
+##### U.S. Website
+
+Helium operates in the United States of America, under U.S. law. Any information you choose to send to this Site or Helium will be subject to the laws of the United States. Some jurisdictions, such as the European Union, do not consider the U.S. legal system to offer protections that are "adequate" in their judgment. If you do not wish your information to subject to U.S. law, please do not send it to Helium. 
+
+Helium does not intend to offer its product or Services in any jurisdiction where the offering of such products or Services would be contrary to applicable local law, and any such offer of products or Services is void if illegal under applicable law. 
+
+##### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this Privacy Policy and our Terms and Conditions. If you do not agree to the Privacy Policy or our Terms and Conditions, please do not use our Site. Your continued use of the Site following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes. 
+
+##### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at: 
+
+Helium  
+1663 Mission Street, Suite 250  
+San Francisco  
+CA 94103
+
+##### Last Revised:
+
+01/27/2017
