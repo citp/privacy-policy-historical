@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harvest.org privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503120810id_/https%3A//www.harvest.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvest.org privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104075939id_/https%3A//www.harvest.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Harvest: Greg Laurie
 
