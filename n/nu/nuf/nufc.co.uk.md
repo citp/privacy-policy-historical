@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nufc.co.uk privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428010107id_/https%3A//www.nufc.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nufc.co.uk privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104125326id_/https%3A//www.nufc.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # NUFC - Privacy Policy
 
 icon_corner icon_start_stop icon_start_stop icon_start_stop icon_post icon_miss icon_save icon_card_red icon_save icon_start_stop icon_sub icon_card_yellow attack icon chevron-down icon chevron-left icon chevron-right icon chevron-up icon cross icon defence icon icon_disallowed_goal email icon facebook icon google icon instagram icon linkedin icon messenger icon pinterest icon play icon plus-thin icon plus icon search icon soundcloud icon sub-in icon sub-out icon tweet icon twitter icon icon_user__out icon_user_out vimeo icon whatsapp icon icon_start_stop youtube icon
 
-High Contrast is on. [Turn off](https://web.archive.org/web/20170428010107id_/https%3A//www.nufc.co.uk/turnOffHighContrast) You can turn high contrast on again via the link in the footer to our [accessibilty page](https://web.archive.org/accessibility)
+High Contrast is on. [Turn off](https://web.archive.org/web/20171104125326id_/https%3A//www.nufc.co.uk/turnOffHighContrast) You can turn high contrast on again via the link in the footer to our [accessibilty page](https://web.archive.org/accessibility)
 
 **About us**
 
