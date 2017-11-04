@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133259id_/http%3A//www.paydotcom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104165820id_/http%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
 
 # Sell Products Online, Sell Online, Affiliate Marketplace, Sell Products Online With Paypal, Affiliate Marketing, Merchant Accounts, Free Product Listing, Digital Products, Affiliate Network, Promote Products, Sell eBooks Online, Sell Software Online, Sell Digital Products Online, Merchant Account, Affiliates, Sell Books Online, Start your homebased business today. Paydotcom.com
 
 PAYDOTCOM
 
-**Firestarter Systems, LLC**
+**JVshare LLC**
 
 **PRIVACY POLICY**
 
 **\-- IMPORTANT -- PLEASE READ**
 
-This Privacy Policy (“Privacy Policy”) describes the commitment to your privacy on the part of Firestarter Systems, LLC (referred to collectively as “Firestarter Systems,” “we” and “us”). 
+This Privacy Policy (“Privacy Policy”) describes the commitment to your privacy on the part of JVshare LLC (referred to collectively as “JVshare LLC,” “we” and “us”). 
 
 **PERSONS OR PARTIES COVERED**
 
-This Privacy Policy applies to all visitors to any Firestarter Systems owned website (the “Website”), all subscribers to Firestarter Systems-sponsored lists and/or newsletters (whether paid or unpaid), all members and/or affiliates of memberships or membership sites sponsored by or owned by Firestarter Systems (whether paid or unpaid), all affiliates of any site sponsored or owned by Firestarter Systems (whether paid or unpaid), and all customers that purchase products and/or services via the Website or otherwise from Firestarter Systems. Persons who visit or view the Website, whether intentionally or unintentionally, whether solicited or unsolicited, are referred to herein as "Visitors" and are subject to this Privacy Policy. 
+This Privacy Policy applies to all visitors to any JVshare LLC owned website (the “Website”), all subscribers to JVshare LLC-sponsored lists and/or newsletters (whether paid or unpaid), all members and/or affiliates of memberships or membership sites sponsored by or owned by JVshare LLC (whether paid or unpaid), all affiliates of any site sponsored or owned by JVshare LLC (whether paid or unpaid), and all customers that purchase products and/or services via the Website or otherwise from JVshare LLC. Persons who visit or view the Website, whether intentionally or unintentionally, whether solicited or unsolicited, are referred to herein as "Visitors" and are subject to this Privacy Policy. 
 
-Subscribers to Firestarter Systems-sponsored lists and/or newsletters are referred to herein as "Subscribers" and are subject to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by and through the Website, or otherwise by Firestarter Systems are referred to herein as "Members" and are subject to this Privacy Policy. Individuals that order, attempt to order or receive products and/or services that are sold, advertised on or delivered from the Website, or otherwise by Firestarter Systems, even at no cost, are referred to herein as "Customers" and are subject to this Privacy Policy. 
+Subscribers to JVshare LLC-sponsored lists and/or newsletters are referred to herein as "Subscribers" and are subject to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by and through the Website, or otherwise by JVshare LLC are referred to herein as "Members" and are subject to this Privacy Policy. Individuals that order, attempt to order or receive products and/or services that are sold, advertised on or delivered from the Website, or otherwise by JVshare LLC, even at no cost, are referred to herein as "Customers" and are subject to this Privacy Policy. 
 
-If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: Support@goldwares.com. Please be advised that where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law. 
+If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please be advised that where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law. 
 
 **MINORS**
 
@@ -28,31 +28,31 @@ We do not knowingly collect information from individuals under eighteen (18) yea
 
 Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the Website. If you do not accept the terms of this Privacy Policy in their entirety, you have no right to visit the Website. 
 
-**ABOUT THE PERSONAL INFORMATION Firestarter Systems COLLECTS AND HOW IT IS USED**
+**ABOUT THE PERSONAL INFORMATION JVshare LLC COLLECTS AND HOW IT IS USED**
 
-Firestarter Systems routinely collects information about Visitors, Subscribers, Members and Customers. This information is obtained in various ways, such as: 
+JVshare LLC routinely collects information about Visitors, Subscribers, Members and Customers. This information is obtained in various ways, such as: 
 
 **VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER INFORMATION OBTAINED FROM REGISTRATION**
 
-For purposes of this Privacy Policy, “Registration” means that the Visitor, Subscriber, Member or Customer, as applicable, takes active, positive steps to communicate information to Firestarter Systems. This can include, without limitation, where the individual: (a) registers for a newsletter or subscribe to a mailing list; (b) participates in Visitor surveys; (c) participates in promotions, contests and/or sweepstakes offered by Firestarter Systems; (d) requests information from Firestarter Systems via an online form, email, mail or courier; (e) joins, or attempts to join, an affiliate program or other membership organization sponsored by Firestarter Systems; and/or (f) orders a product through the Website or otherwise from Firestarter Systems. 
+For purposes of this Privacy Policy, “Registration” means that the Visitor, Subscriber, Member or Customer, as applicable, takes active, positive steps to communicate information to JVshare LLC. This can include, without limitation, where the individual: (a) registers for a newsletter or subscribe to a mailing list; (b) participates in Visitor surveys; (c) participates in promotions, contests and/or sweepstakes offered by JVshare LLC; (d) requests information from JVshare LLC via an online form, email, mail or courier; (e) joins, or attempts to join, an affiliate program or other membership organization sponsored by JVshare LLC; and/or (f) orders a product through the Website or otherwise from JVshare LLC. 
 
 The information that you must supply in connection with Registration (as further described below) may include, without limitation, some or all of the following: (i) your full name; (ii) company name; (iii) e-mail address; (iv) mailing address (and billing address if different); (v) home telephone number; (vi) work telephone number; (vii) telecopier number; (viii) credit card information; and/or (ix) any other information requested on the applicable Registration form. 
 
 **VISITOR EMAIL INQUIRIES**
 
-Website Visitors that wish to communicate with Firestarter Systems do so under the following conditions: (a) they give their permission to be contacted by Firestarter Systems; and (b) they are subject to any ‘submission’ provisions contained in the Firestarter Systems Terms of Use, 
+Website Visitors that wish to communicate with JVshare LLC do so under the following conditions: (a) they give their permission to be contacted by JVshare LLC; and (b) they are subject to any ‘submission’ provisions contained in the JVshare LLC Terms of Use, 
 
-Firestarter Systems Purchase Agreement and/or this Privacy Policy. The email address that you use in connection with your inquiry shall be added to the Firestarter Systems database. 
+JVshare LLC Purchase Agreement and/or this Privacy Policy. The email address that you use in connection with your inquiry shall be added to the JVshare LLC database. 
 
 **CUSTOMER EMAIL OR TESTIMONIALS**
 
-If you are a Customer and you send an email to Firestarter Systems, or if you communicate with Firestarter Systems by phone or U.S. mail, Firestarter Systems shall collect information about your communication and by communicating with Firestarter Systems, you give your permission for Firestarter Systems to collect, archive, retrieve and otherwise use any information collected as Firestarter Systems sees fit. 
+If you are a Customer and you send an email to JVshare LLC, or if you communicate with JVshare LLC by phone or U.S. mail, JVshare LLC shall collect information about your communication and by communicating with JVshare LLC, you give your permission for JVshare LLC to collect, archive, retrieve and otherwise use any information collected as JVshare LLC sees fit. 
 
-Any communication which, in its sole discretion, Firestarter Systems deems to be a testimonial, may be publicized for commercial purposes. 
+Any communication which, in its sole discretion, JVshare LLC deems to be a testimonial, may be publicized for commercial purposes. 
 
 **INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS**
 
-Unless otherwise specified in the survey, you must assume that any information provided to Firestarter Systems as part of a survey in which you participate may be used as set forth herein below. 
+Unless otherwise specified in the survey, you must assume that any information provided to JVshare LLC as part of a survey in which you participate may be used as set forth herein below. 
 
 **INFORMATION OBTAINED FROM ELECTRONIC MEANS AND COOKIES**
 
@@ -66,47 +66,47 @@ We may collect certain non-personally identifiable information about you when yo
 
 The personal information that you submit to us remains your property, but by submitting such information to us you grant us the right, subject to applicable state and federal law, to use the personal information (other than credit card information) for marketing purposes. 
 
-You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Website and any and all offerings made available therein, or otherwise by Firestarter Systems. 
+You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Website and any and all offerings made available therein, or otherwise by JVshare LLC. 
 
 We also use contact information from your personal information to send you information about us, our products and services and to contact you about your billing account status. If you wish to stop receiving future communications from us, please see the Opt-Out/Unsubscribe section below. 
 
-You agree that by submitting your personal information to Firestarter Systems, you agree to receive e-mail marketing from Firestarter Systems and our third-party advertisers. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the “ATSR”). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the terms of the ATSR. 
+You agree that by submitting your personal information to JVshare LLC, you agree to receive e-mail marketing from JVshare LLC and our third-party advertisers. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the “ATSR”). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the terms of the ATSR. 
 
-In addition, by submitting your personal information to Firestarter Systems, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us (where, and to the extent that, such marketing is permitted by applicable law). As such, notwithstanding that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law. 
+In addition, by submitting your personal information to JVshare LLC, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us (where, and to the extent that, such marketing is permitted by applicable law). As such, notwithstanding that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law. 
 
-We reserve the right to release current or past personal information: (a) in the event that we believe that the Website, and any products, services or other offerings is/are being or has/have been used in violation of this Privacy Policy, the Firestarter Systems Terms of Use, Firestarter Systems Purchase Agreement, or to commit unlawful acts; (b) if the information is subpoenaed; or (c) if any entity comprising Firestarter Systems is sold or acquired. Moreover, you hereby consent to the disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time. Visitors should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personally identifiable information to be shared or transferred to third parties without permission. 
+We reserve the right to release current or past personal information: (a) in the event that we believe that the Website, and any products, services or other offerings is/are being or has/have been used in violation of this Privacy Policy, the JVshare LLC Terms of Use, JVshare LLC Purchase Agreement, or to commit unlawful acts; (b) if the information is subpoenaed; or (c) if any entity comprising JVshare LLC is sold or acquired. Moreover, you hereby consent to the disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time. Visitors should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personally identifiable information to be shared or transferred to third parties without permission. 
 
 We may also supplement the information we collect with information from other sources to assist us in evaluating and improving the Website, our products and/or services, and to determine your preferences so that we can tailor the Website and our products and/or services to your needs. 
 
 **CREDIT CARD INFORMATION**
 
-Notwithstanding the foregoing, we will not use your credit card information for any marketing purposes, or transfer same to any third party, other than as set forth in this paragraph. Firestarter Systems may: (a) transfer your credit card information to third party sellers where necessary to effectuate the purchase of products and/or services that you requested on the Website or otherwise from Firestarter Systems; (b) disclose your credit card information pursuant to a court order, litigation and/or fraud investigation; and (c) share with third parties the fact that we have credit card information on file for specific individuals. 
+Notwithstanding the foregoing, we will not use your credit card information for any marketing purposes, or transfer same to any third party, other than as set forth in this paragraph. JVshare LLC may: (a) transfer your credit card information to third party sellers where necessary to effectuate the purchase of products and/or services that you requested on the Website or otherwise from JVshare LLC; (b) disclose your credit card information pursuant to a court order, litigation and/or fraud investigation; and (c) share with third parties the fact that we have credit card information on file for specific individuals. 
 
 **INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS OR WEBSITE ADVERTISERS**
 
-The Website may contain third party provided banners, pop-ups, hyperlinked advertising and links to other third-party owned and/or operated websites. Firestarter Systems is not responsible for the privacy practices associated with such third party advertisers and/or websites. In some cases, you may be required to provide certain information to register or complete a transaction via such advertisers and/or at such websites. These third-party websites and advertisers have separate privacy and data collection practices and Firestarter Systems has no responsibility or liability relating to them. We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of such advertisers and/or websites. These third party entities are independent third parties and are not affiliated with us. 
+The Website may contain third party provided banners, pop-ups, hyperlinked advertising and links to other third-party owned and/or operated websites. JVshare LLC is not responsible for the privacy practices associated with such third party advertisers and/or websites. In some cases, you may be required to provide certain information to register or complete a transaction via such advertisers and/or at such websites. These third-party websites and advertisers have separate privacy and data collection practices and JVshare LLC has no responsibility or liability relating to them. We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of such advertisers and/or websites. These third party entities are independent third parties and are not affiliated with us. 
 
 **OPT-OUT/UNSUBSCRIBE**
 
-To stop receiving future e-mail communications from Firestarter Systems, please notify us by email at Support@firestartersystems.com. Firestarter Systems may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all Firestarter Systems e-mail lists, please notify us by email at Support@firestartersystems.com.
+To stop receiving future e-mail communications from JVshare LLC, please notify us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) JVshare LLC may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all JVshare LLC e-mail lists, please notify us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **DATA SECURITY**
 
 All collected information is stored in a technically and physically secure environment. When our registration/application process asks users to enter sensitive information (such as credit card number), and when we store and transmit such sensitive information, it is encrypted and protected with SSL encryption software. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect sensitive information and other personal information off-line. Unfortunately, no data transmission over the Internet, or otherwise, can be guaranteed to be 100% secure. As a result, while we strive to protect your sensitive information and other personal information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk. 
 
-Once we receive your transmission, we make reasonable efforts to ensure its security on our systems. Access to this personal information is strictly limited, and not accessible to the public. All of our users’ personal information, not just sensitive information, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personal information. Our employees are dedicated to ensuring the security and privacy of all Firestarter Systems user personal information. Employees not adhering to our written firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personal information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures. 
+Once we receive your transmission, we make reasonable efforts to ensure its security on our systems. Access to this personal information is strictly limited, and not accessible to the public. All of our users’ personal information, not just sensitive information, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personal information. Our employees are dedicated to ensuring the security and privacy of all JVshare LLC user personal information. Employees not adhering to our written firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personal information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures. 
 
 **CONTACT US**
 
 If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: 
 
-Support@firestartersystems.com 
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Firestarter Systems, LLC 
+JVshare LLC 
 
-3591 Richie Rd. 
+41 Watchung PLZ STE# 252 
 
-Verona, WI 53593 
+Montclair, NJ 07042-4117 
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
 
