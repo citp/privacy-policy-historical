@@ -1,172 +1,212 @@
-> *The following text is extracted and transformed from the eetimes.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221170123id_/http%3A//ubmcanon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eetimes.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104104951id_/http%3A//www.aspencore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · UBM
+# Privacy Policy
 
-Effective: November 22, 2013
+[](https://web.archive.org/)
 
-### Scope
+Effective Date: September 30, 2016
 
-Welcome to UBM Canon LLC (“UBM Canon” or “we”). 
+## INTRODUCTION
 
-UBM Canon is the leading B2B media company dedicated exclusively to the global advanced manufacturing sector, a $3.0 trillion business. We create face to face events and premier business and professional content and offer people in our business and professional communities a number of ways to connect directly with one another. We support the flow of information, commerce and innovation in such sophisticated segments as medical devices and pharmaceutical development. We address cutting edge developments in the broader areas of advanced engineering design and manufacturing, manufacturing processes and packaging. We help you succeed in an advanced, technology driven manufacturing world. 
+This Privacy Policy describes how **AspenCore** , our parent, its subsidiaries and/or affiliates (collectively, **"we"** **"us"** or **"our"** ) collect, use, and share information about you and applies to your use of any website that posts a link to this Privacy Policy ( **"Service"** ). This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below or at the time of collection).
 
-We publish this Privacy Policy to let you know how we collect and use data about you as individuals in your business and professional roles and to describe what choices you have.
+By using our Service, you agree to our [Terms of Use](https://web.archive.org/terms-of-use). By consenting to this Privacy Policy, you consent to our collection, use and disclosure practices, and other activities as described in this Privacy Policy. If you do not agree and consent, please discontinue use of the Service.
 
-This Privacy Policy covers information which you give us about yourself in a business or professional role as you 
+  1. ### COLLECTION OF INFORMATION
 
-  * register for or attend our face to face events that take place in the United States;
-  * subscribe to any of our print publications distributed around the world, access digital editions of those publications, or sign up for webinars or online venues offered to subscribers; or
-  * use one of our mobile apps.
+    1. #### Information You Provide To Us
 
+We collect information you provide directly to us via the Service. For example, we collect information when you use or register for our Service, subscribe to our magazines or newsletters, create a resume, post on our Service, follow other users, participate in promotional activities, enter a sweepstakes or contest, complete a survey, or communicate with us through the Service.
 
+Information we collect may include Personal Information: **“Personal Information”** is information, whether true or not, that can be used to identify you (whether alone or in combination), including your first and last name, e-mail address, billing address, shipping address, phone number, and fax number. You may choose to voluntarily submit certain other information to us through the Service, including Personal Information, but you are solely responsible for your own Personal Information in instances where we have not collected such information or requested that you submit such information to us.
 
-We will post or display a link to this UBM Canon LLC Privacy Policy on all our forms and all online pages to which it is applicable.
+Personal Information once **“de-identified”** may not be subject to this Privacy Policy and we and our Service Providers (defined below) may treat it as non-Personal Information and use it without obligation to you except as prohibited by applicable law.
 
-### Information That Identifies You
+    2. #### Information We Collect Automatically
 
-We rely on the information you provide to us as you register, contact us, participate in surveys, post comments to public areas of and interact with digital properties and assets, respond to email campaigns, participate in webinars or online events or attend face to face events. 
+We and our agents, vendors, consultants, marketing service providers, and other service providers (collectively, **“Service Providers”** ) may automatically collect certain information about you when you access or use our Service ( **“Usage Information”** ). Usage Information may include IP address, device identifier, Ad ID, browser type and version, operating system characteristics, information about your use of our Service, and data regarding network connected hardware (e.g., computer or mobile device). To the extent that Usage Information is Personal Information under applicable law or is combined with Personal Information, we will treat the combined information as Personal Information under this Privacy Policy.
 
-Once you have registered with us, we will create a profile for you. We will add information about how you interact with our offerings for example, your registrations or subscriptions, the events you attend, the content you access and the like. We may also add information to your profile from external sources.
+The methods that we and our Service Providers may use to collect Usage Information include:
 
-We may work to expand our communities by acquiring names and contact details from other sources that have compiled contact information. This information might be public information or data you provided to others with necessary permissions. We may also invite you to join our communities via third party social and professional networking sites.
+      * **Log Information:** We collect information about your use of our Service, such as IP address, browser type and version, internet service provider, referring/exit pages, operating system, cookies that may uniquely identify your browser or your account, and related data, and store it in log files.
 
-### Automatic Data Collection Technologies
+      * **Information Collected by Cookies and Other Tracking Technologies:** We and our partners may use cookies, web beacons, embedded scripts, location-identifying technologies, third party flash cookies, or other tracking technologies now and hereafter developed ( **“Tracking Technologies”** ) to collect information about interactions with our Service or e-mails, including information about your browsing and purchasing behavior. Further information about how we use cookies and tracking technologies, and how you can refuse them, is set out in Section 12 below.
 
-We also use cookies and common data collection technologies, including web beacons and clear GIFs associated with cookies, on our web pages, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis. 
+    3. #### Information from Other Sources
 
-Some of our web sites use Adobe Flash to provide video content, and the Adobe Flash Player has the ability to separately store information about that particular Flash application. We do not associate this Adobe Flash stored information with you as an individual. Please see the [Adobe Flash Player Help](http://helpx.adobe.com/flash-player.html) page for additional information about controlling the settings of the Adobe Flash Player on your computer.
+We may also obtain information about you from other sources and combine that with information we collect about you. To the extent we combine such information with Personal Information we collect directly from you on the Service, we will treat the combined information as Personal Information under this Privacy Policy. We are not responsible for the accuracy of the information provided by third parties or third party practices, although we will take reasonable measures to ensure that such information is accurate.
 
-We gather date, time, certain information about a user’s browser and system or device configuration and capabilities, navigation history and IP address for all visitors to our web sites. We use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences and their geographic locations.
+  2. ### USE OF INFORMATION
 
-Please see More Information About Cookies, below, for additional details about how we use cookies that identify you, which third party advertisers and advertising networks we allow to serve third party advertising displayed on our sites or to display our ads to you once you have left our web pages and how to control cookies or their use for serving targeted advertising.
+We may use information about you for any purposes not inconsistent with our statements under this Privacy Policy or prohibited by applicable law, including to:
 
-Our apps may gather information about the mobile device that you use to access content or your behavior at one of our face to face events.
+    * Facilitate, manage, personalize and improve your online experience;
 
-### How We Use Information That Identifies You
+    * Transact with you, respond to your comments, questions and requests, provide customer service, and send you informational notices;
 
-We use information about you:
+    * Prevent and address fraud, breach of policies or terms and threats or harm; and
 
-  * to provide the services, publications, and information you request and to manage your account with us.
-  * to deliver or display content that matches your professional interests and responsibilities.
-  * to contact you with information about and invitations for products and services – ours and other companies’ – directed to your professional interests and responsibilities.
-  * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you. 
-  * to give suppliers in our communities a limited opportunity to find you: We make contact data, including email addresses, available in a subscription-only data base for our exhibitors and sponsors. If you wish to find out whether contact information about you is in this data base or to have data removed, please email us at [canonprivacyrequests@ubm.com](mailto:canonprivacyrequests@ubm.com).
-  * for any other purpose that we tell you about when you give us the information.
+    * Send you newsletters and advertisements and communicate with you about products, services, offers, promotions, rewards, and events we think may be of interest to you.
 
+If you are a user from the U.S., we may use your Personal Information for direct marketing purposes. If you are a user from outside the U.S., we will not use your Personal Information for direct marketing purposes unless we have received your express consent. You have the right to opt-out from direct marketing and can require us to cease to use the data at any time for direct marketing purpose at no cost.
 
+Please see Section 12 for more information about how to manage our communications with you.
 
-### Your Choices
+  3. ### SHARING OF INFORMATION
 
-You have choices about:
+Please note that by using our Service, you agree to share your Personal Information and Usage Information, as described in this section.
 
-**Receiving email marketing messages from us.**
+    1. #### With Service Providers
 
-You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. 
+Our Service Providers may receive, or be given access to your information, including Personal Information and Usage Information, in connection with their work on our behalf. These Service Providers may be located in countries other than your country of residence. These Service Providers are prohibited from using your Personal Information for any purpose other than to provide this assistance, although we may permit them to use aggregate information which does not identify you or de-identified data for other purposes. We may also share information about you with our Service Providers as follows:
 
-To avoid confusion, please note that 
+      * To comply with the law, law enforcement or other legal process, and except as prohibited by applicable law, in response to a government request;
 
-  * We have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from UBM Canon LLC, you may send a request to [canonprivacyrequests@ubm.com](mailto:canonprivacyrequests@ubm.com).
-  * Affiliated companies within the UBM plc group, see [www.ubm.com](http://www.ubm.com/), use Canon brands to offer face to face events and digital offerings outside of the United States. These affiliates may publish separate privacy policies and so, collect and use data about you in other ways If you wish to remove your email address from another UBM affiliate’s list, kindly use the unsubscribe mechanism provided in emails you receive from that affiliate or contact that affiliate directly. 
-  * You may receive email marketing messages from us about other companies’ offerings as part of a partner marketing program. To opt out of a partner marketing email program, you may follow the instructions at the bottom of any email we send you as part of the program.
+      * To protect the rights, property, life, health, security and safety of us, the Service or any third party;
 
+      * With our affiliates for internal business purposes (for example, processing your orders, fulfilling your requests, providing customer service, and improving the Service);
 
+      * With our subsidiaries, affiliates, business partners, and other third parties for their own business purposes (for example, improving their products and services); and
 
-**Connecting directly with other companies for marketing purposes at our face to face events.**
+      * In connection with, or during negotiations of, any proposed or actual merger, purchase, sale or any other type of acquisition or business combination of all or any portion of our assets, or transfer of all or a portion of our business to another company.
 
-  * Sponsors of our face to face events receive the name, title and company of the people who register for the event.
-  * If you attend a special sponsored session at an event or sponsored conference, we will collect your full registration details on behalf of the sponsor(s) and provide the information to the sponsor.
-  * You otherwise control when to provide information, including your email address, to exhibitors or any third party at a face to face event. Please note, exhibitors may use equipment to scan that information from your badge, with your consent or participation. The badges cannot be read at a distance.
+Without limiting the foregoing, in our sole discretion, we may share aggregated information which does not identify you or de-identified information about you with third parties or affiliates for any purpose.
 
+    2. #### With Third Parties for Direct Marketing Purposes
 
+We may share your Personal Information with third parties for direct marketing purposes as set forth in Section 2. California residents have further rights, as set out in Section 13.
 
-**Connecting directly with other companies for marketing purposes in the digital world.**
+Direct marketing purposes may include, but are not limited to, the following:
 
-  * Your registration for digital events. We create specific online resources, for example, webinars or special digital editions, for vendors in our market sectors. If you register for one of these vendor branded (or co-branded with us) resources, we will collect your registration information on behalf of the vendor for that vendor’s own use. We may also keep a copy of that data as well. We will usually provide a link to the vendor’s privacy policy (as well as to this Privacy Policy) on the registration page.
-  * Your interests. We put you in touch with third parties when your behavior at a digital event or online indicates that you may be interested in a vendor’s offerings. In addition to providing you with our own editorial content, we offer you the opportunity to access others’ branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company so that they may contact you. We will put you in direct contact with another company or companies when you choose to: 
-    1. Access third party resources in certain registration only, or “gated” resource centers or directory services. If you log on and either access or click on a link to technical resources provided or sponsored by another company, we will provide your contact data to that company.
-    2. Subscribe to our vendor email newsletters and click on a vendor’s information and offerings.
-    3. As you attend a virtual event, we may give your name and contact data plus a record of your visits to the exhibitor(s) whose booth and resources you access.
+      * Sharing your Personal Information with third parties, including when you click on advertisements or articles on our Service or in emails we send to you;
 
+      * Rental of email lists to third parties for marketing use;
 
+      * Marketing emails sent by third parties; and
 
-If you want to know how a vendor or advertiser will use data about you, we urge you to check that vendor’s or advertiser’s privacy policy.
+      * Emails sent by us sponsored by third parties.
 
-We will use one or more cookies to track your interests in the digital resources listed above. Your registration for and log on to any of the above specific, gated activities will constitute you consent to be tracked as described and to be put in touch directly with any vendors you select. If you wish to withdraw that consent, simply do not attend the event or access the resources. 
+  4. ### SWEEPSTAKES, CONTESTS, AND PROMOTIONS
 
-**Making information you provide public.**
+We may offer sweepstakes, contests, and other promotions (each, a **“Promotion”** ) jointly sponsored or offered by third parties that may require submitting Personal Information. If you voluntarily choose to enter a Promotion, your Personal Information may be disclosed to third parties for administrative purposes, marketing purposes, and as required by law (e.g., on a winners list). By entering, you are agreeing to the official rules that govern that Promotion (see [Terms of Use](https://web.archive.org/terms-of-use) for rules governing giveaway Promotions), and may, except where prohibited by applicable law, allow the Promotion sponsor and/or other parties to use your name, voice and/or likeness in advertising or marketing materials.
 
-  * We offer web sites that allow you to publish content. Many of these sites require that you register if you wish to do so. We will publish the user name you provide at registration when you comment. Some sites allow you to create a public profile as well.
-  * Our online event venues also allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices in that venue.
-  * In addition, we may create online membership communities that allow you to create and publish your profile and other information. These communities may provide privacy controls which allow you to choose how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide. 
-  * Some of our apps allow you to publish information available to others who are also using the same app, for example, at a face to face event. We recommend that you understand how the app will work, what access it may have to your social media or other accounts, and what choices you may have.
+  5. ### INFORMATION YOU DISCLOSE PUBLICLY OR TO OTHERS
 
+The Service may permit you to post or submit written content, user profiles, resumes, audio or visual recordings, computer graphics, pictures, data, or other content, including Personal Information (collectively, **“User Content”** ). If you choose to submit User Content to any public area of our Service, your User Content will be considered “public” and will be accessible by anyone, including us, not subject to this Privacy Policy and may be used to the fullest extent permitted by applicable law. We encourage you to exercise caution when making decisions about what you disclose in such public areas. California minors should see Section 10 regarding potential removal of certain posted content.
 
+Additionally, the Service may offer you the option to send a communication to a friend. If so, we rely on you to only send to people that have given you permission to do so. By sending a communication to a friend, you represent that you have permission to provide your friend’s e-mail address. The friend’s information you provide (e.g., name, e-mail address) will be used to send the communication and not used by us for any other marketing purpose unless we obtain consent from that person. Your contact information and message may be included in the communication.
 
-**Keeping your account information is up to date.**
+  6. ### THIRD PARTY SERVICES AND SOCIAL FEATURES
 
-Please help us keep your account information up to date. To contact us about a print subscription, or to cancel the subscription, please check the UBM Canon LLC information (the “masthead”) inside the print publication. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.
+Our Service includes hyperlinks to websites, locations, platforms, or services operated by third parties ( **“Third Party Services”** ). These Third Party Services may use their own cookies, web beacons and other Tracking Technology to independently collect information about you and may solicit Personal Information from you.
 
-### More Information About Cookies
+Certain functionalities on the Service permit interactions that you initiate between the Service and certain Third Party Services, such as third party social networks ( **“Social Features”** ). Examples of Social Features include “liking” or “sharing” our content and otherwise connecting our Service to a Third Party Service. If you use Social Features, and potentially other Third Party Services, information you post or provide access to may be publicly displayed on our Service or by the Third Party Service that you use. Similarly, if you post information on a Third Party Service that references our Service (e.g., by using a hashtag associated with us in a tweet or status update), your post may be used on or in connection with our Service. Also, both we and the third party may have access to certain information about you and your use of our Service and the Third Party Service. To the extent we combine information from Third Party Services with Personal Information we collect directly from you on the Service, we will treat the combined information as Personal Information under this Privacy Policy.
 
-**Our cookies.**
+The information collected and stored by third parties remains subject to their privacy practices, including whether they continue to share information with us, the types of information shared, and your choices on what is visible to others on Third Party Services. We are not responsible for and make no representations regarding the policies or business practices of any third parties or Third Party Services and encourage you to familiarize yourself with and consult their privacy policies and terms of use.
 
-We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
+  7. ### ADVERTISING, ANALYTICS SERVICES, AND ONLINE TRACKING
 
-  * to recognize you automatically when you return to a gated community.
-  * to understand your interests in content, both our own content and that of other companies, on or across our web sites.
-  * to control access to gated online events including webinars and virtual events.
-  * to make an automated record of your interests within a digital property.
-  * to manage and follow up on email campaigns.
+We may engage and work with third parties to serve advertisements on our behalf on the Service and/or on Third Party Services and to provide analytics services about the use of our Service and the performance of our ads and content on Third Party Services. In addition, we may participate in online advertising networks and exchanges that display relevant advertisements to our Service visitors, on our Service and on Third Party Services and off of our Service, based on their interests as reflected in their browsing of the Service and certain Third Party Services. These entities may use cookies and other Tracking Technologies to automatically collect information about you and your activities, such as registering a unique identifier for your device and tying that to your online activities on and off of our Service. We may use this information to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the Service and Third Party Services and better understand your online activity.
 
+Some information about your browsing of the Service and certain Third Party Services may be collected across time and services and shared with third parties to deliver ads and/or other content to you on the Service and certain Third Party Services. We may receive information about Third Party Services that you have visited and use it for marketing purposes—a practice sometimes termed “(re)-targeting,” “interest-based advertising,” and “online behavioral advertising.”
 
+We are not responsible for third parties or Third Party Services associated with advertising and analytics services, and related tracking activities. Please consult their privacy policies and notices for information on their practices and see Section 12 regarding certain choices some of them may offer you. Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note there is no consensus among industry participants as to what “Do Not Track” means in this context. Like many online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-You may use the tools in your browser to decline, disable, or delete any cookies. 
+  8. ### DATA SECURITY
 
-You will still be able to log on to a gated digital property if you decline or delete the persistent cookie that enables automatic recognition but you will need to log on each time. 
+We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. In addition, we will not keep your Personal Information for longer than necessary for the purposes set out in this policy. Nevertheless, transmission via the Internet is not completely secure and we cannot guarantee the security of your information collected through our Service.
 
-**Third party advertising cookies.**
+Your Personal Information is stored on servers maintained with the assistance of a third party data storage provider. To help protect the privacy of data and personal information we collect and hold, our data storage provider maintains physical, technical, and administrative safeguards which are monitored, tested, and updated on an ongoing basis.
 
-We allow other companies, called third party ad servers, to serve ads on our digital properties. We currently allow the following companies to do so: 
+When we engage third-party service providers and when disclosure of Personal Information to such providers is necessary for the provision of such service, we ensure that such providers protect Personal Information in a manner consistent with this Privacy Policy and, where applicable, are responsible for ensuring that such third parties process EU Personal Information in a manner consistent with the Privacy Shield Principles discussed below.
 
-  * [Atlas](http://atlassolutions.com/privacy-policy)
-  * [Google’s DoubleClick](https://support.google.com/dfp_premium/answer/2839090?hl=en), and 
-  * [MediaPlex](http://www.mediaplex.com/opt-out). 
+  9. ### INTERNATIONAL TRANSFER
 
+We are based in the U.S. and the information we collect from the U.S. is governed by U.S. law. If you are accessing the Service from outside of the U.S., please be aware that information collected through the Service may be transferred to, processed, stored and used in the U.S. Your Personal Information may also be transferred to, processed, stored and used in other jurisdictions in which we have affiliates or Service Providers. Data protection laws in these jurisdictions may be different from those of your country of residence. Your use of the Service or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing and storage of your information, including Personal Information, in these jurisdictions, as set forth in this Privacy Policy.
 
+We comply with the Privacy Shield Framework, as set forth by the U.S. Department of Commerce in consultation with the European Commission, regarding the collection, use and retention of Personal Information received from the European Union. As we are a U.S. company, we have voluntarily decided to comply with the EU - U.S. Privacy Shield Framework and we are subject to the investigatory and enforcement powers of the Federal Trade Commission. We annually certify our adherence to the Privacy Shield Principles of notice; choice; accountability for onward transfer; security; data integrity and purpose limitation; access; and recourse, enforcement and liability. To learn more about the EU - U.S. Privacy Shield Framework, please visit https://www.privacyshield.gov/EU-US-Framework. To view Arrow's certification, please visit <https://www.privacyshield.gov/list>.
 
-We recommend that you click on the links we have provided here to visit each of their web sites for more information about the technologies they use and their privacy practices, including your ability to block their cookies or ad targeting. Please note that we do not control cookies and other data collection technologies that the ad servers may allow or that their advertisers may use.
+  10. ### CHILDREN'S PRIVACY
 
-Each of the third party ad serving companies that serve ads to our web sites is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/about-nai), [www.networkadvertising.org](http://www.networkadvertising.org/). The NAI offers useful information about ad networks and a single place to turn off targeted ad serving from any of its members.
+Our Service is not intended for children and is not targeted to children under the age of thirteen (13). If you are a child under the age of thirteen (13), you are not permitted to use the Service and should not send any information about yourself to us through the Service.
 
-We may add or change the list of third party ad servers from time to time without changing the effective date of this Policy itself. We urge you to check this section for changes regularly.
+We do not knowingly collect any personal information from children under the age of 13 and, if we learn that we have received information from a user under the age of 13, we will delete this information in accordance with the Children’s Online Privacy Protection Act (“COPPA”). If you are a parent or guardian and you believe that your child under the age of thirteen (13) has provided us with personal information without COPPA-required consent, please contact us at [privacy@aspencore.com](mailto:privacy@aspencore.com).
 
-### Disclosure of Information About You
+If you are a user in South Korea and you are aged under fourteen (14), you are not permitted to use the Service without the consent of your parent or legal guardian. You should not send any information about yourself to us through the Service unless your parent or legal guardian has given his or her consent. We do not knowingly collect any Personal Information from children in South Korea under the age of 14 without consent from a parent or legal guardian and, if we learn that we have received information from a user in South Korea under the age of 14 without requisite consent, we will delete this information. If you are a parent or legal guardian in South Korea and you believe that your child under the age of fourteen (14) has provided us with Personal Information without your consent, please contact us at [privacy@aspencore.com](mailto:privacy@aspencore.com).
 
-We reserve the right to disclose or transfer information about you to third parties in certain circumstances: to vendors that work on our behalf, to law enforcement or other entities that present valid legal process, to protect human safety or our networks or property, or as part of a sale or our merger of business assets.
+Any California residents under the age of eighteen (18) who have registered to use the Service, and who have posted content or information on the Service, can request removal by contacting us at [privacy@aspencore.com](mailto:privacy@aspencore.com) or by sending a letter to AspenCore, Inc., 1225 Franklin Ave., Suite 400, Garden City, NY 11530, with information detailing where the content or information is posted. We will make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified. This removal process cannot ensure complete or comprehensive removal. For instance, third-parties may have republished or archived content by search engines and others that we do not control.
 
-### Other Important Information
+  11. ### ACCESSING AND CHANGING INFORMATION
 
-UBM Canon LLC is a subsidiary of UBM plc. We may collect and process information on servers around the world.
+We will provide web pages or other mechanisms allowing you to correct or update some of the Personal Information you have provided us.
 
-We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
+Users from the EU, Singapore, Hong Kong, Japan, New Zealand, Mexico, and Australia have a right to access their Personal Information, request corrections and/or deletions, and oppose the use of their Personal Information for specific purposes, subject to exceptions allowed by law. Such users are also entitled to request information on the origin of their Personal Information, the recipients or types of recipients to whom their Personal Information is provided, the reason for which their Personal Information is being stored, and the ways in which their Personal Information has been or may have been used or disclosed by us within a year before the date of the request. If you would like to do so, please send your request in writing by sending an email to [privacy@aspencore.com](mailto:privacy@aspencore.com) or by sending a letter to AspenCore, Inc., 1225 Franklin Ave., Suite 400, Garden City, NY 11530. To protect your privacy and the privacy of others, we will need evidence of your identity before we can grant you access to information about you or change it, including your username and password, if applicable. You will not be charged for compliance with such a request.
 
-This Privacy Policy covers how we use information you provide. We cannot control how others may use information you may make public on our sites, for example, on professional networking sites or sites inviting user-generated content, in forums, at virtual events, or user-generated blogs.
+EU persons may request access to their Personal Information under this policy to the full extent required by applicable law in the home country of the person making the request. Such persons may request the correction, amendment, or deletion of their Personal Information that is inaccurate or has been processed in violation of the Privacy Shield Principles. We will reasonably fulfill such requests to the extent required by applicable law.
 
-Please note that virtual events may mimic face to face events by automatically displaying information about you to other participants in the event. We cannot control how other participants use that displayed information, so please take a moment to make sure you understand how a particular virtual event works and what choices you have within the environment.
+We will make good faith efforts to make requested changes in our then-active databases as soon as practicable (but may retain prior information for records to the extent not prohibited by applicable law). Please note that it is not always possible to completely remove or delete all of your information or public postings from our databases (California minors see Section 10) and that residual data may remain on backup media or for other reasons. We also may retain cached or archived copies of information about you for a certain period of time.
 
-Our products, services, events and offerings are directed to professionals. They are not intended for children under the age of thirteen. 
+  12. ### CHOICES: TRACKING AND COMMUNICATIONS OPTIONS
 
-### Changes
+    1. #### Tracking Technologies Generally
 
-We will post and date any changes to this Privacy Policy. Please check here periodically. Your continued use of our products and services covered by this Policy constitutes your consent to the practices in place at the time of your use.
+Our Service uses cookies to distinguish you from other users of our Service. This helps us to provide you with a good experience when you use our Service and also allows us to improve our Service. By continuing to use our Service, you are agreeing to our use of cookies. A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive.
 
-### How to Contact Us
+Regular cookies may generally be disabled or removed by tools available as part of most commercial browsers, and in some instances blocked in the future by selecting certain settings. Browsers offer different functionalities and options so you may need to set them separately. Please be aware that if you disable or remove cookies some parts of our Service may not work and that when you revisit our Service your ability to limit browser-based Tracking Technologies is subject to your browser settings and limitations.
 
-For questions about this Privacy Policy, please contact:
+When you are using our Service, you may notice that there is content from other websites which we add from time to time to improve the user experience. As a result, you may be sent cookies from these other websites. We do not control these cookies and we suggest you check these third-party websites for more information about the cookies they use and how you can manage them.
 
-[canonprivacyrequests@ubm.com](mailto:canonprivacyrequests@ubm.com) or 
+With respect to our mobile applications, you can stop all collection of information by uninstalling the app. Also, you may be able to exercise specific privacy choices, such as enabling or disabling location identifying services, by adjusting the permissions in your mobile device.
 
-UBM Canon LLC  
-Attn: UBM Legal  
-240 West 35th Street, 8th Floor  
-New York, New York, 10001
+    2. #### Analytics and Interest-Based Advertising
+
+Certain companies may participate in the Digital Advertising Alliance ( **“DAA”** ) AdChoices Program and may display an Advertising Option Icon for interest-based ads that links to an opt-out tool which allows you to exercise certain choices regarding targeting. You can learn more about the DAA AdChoices Program at [http://www.youradchoices.com](http://www.youradchoices.com/) and its opt-out program for mobile applications at <http://www.aboutads.info/appchoices>. In addition, certain advertising networks and exchanges may participate in the Network Advertising Initiative ( **“NAI”** ). NAI has developed a tool that allows consumers to opt-out of certain targeted advertising delivered by NAI members’ ad networks. To learn more about opting out of targeted advertising or to use the NAI tool, visit <http://www.networkadvertising.org/choices/>. Please be aware that, even if you are able to opt-out of certain kinds of targeted advertising, you will continue to receive non-targeted ads. We are not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs. However, we support the ad industry’s __2009 Self-regulatory Principles for Online Behavioral Advertising__ (<http://www.iab.net/media/file/ven-principles-07-01-09.pdf>) and expect that ad networks we directly engage to serve you interest-based ads will do so as well, though we cannot guarantee their compliance.
+
+    3. #### Communications
+
+You can opt-out of receiving promotional communications (e-mails or text messages) from us at any time by (i) for promotional e-mails, following the instructions as provided in e-mails to click on the unsubscribe link or changing your communication preferences by logging onto your account; and (ii) for text messages, following the instructions as provided in text messages from us to text the word, “STOP”. Please note that your opt-out is limited to the e-mail address or phone number used and will not affect subsequent subscriptions. If you opt-out of only certain communications, other subscriptions may continue. Even if you opt-out of receiving promotional communications, we may, subject to applicable law, continue to send you non-promotional communications, such as those about your account, transactions, servicing, or our ongoing business relations.
+
+Our mobile applications may send you notifications that may include alerts, sounds, and icon badges. These push notifications or in-app messages may include both operational messages and promotional messages regarding products, services and offers that may be of interest to you. These can be configured in Settings. As with e-mails, even if you opt-out of receiving promotional communications, we may continue to send you non-promotional push notifications, such as those about your use of the applications or our ongoing business relations.
+
+  13. ### YOUR CALIFORNIA PRIVACY RIGHTS
+
+California’s “Shine the Light” law permits customers in California to request certain details about how certain types of their information are shared with third parties and, in some cases, affiliates, for those third parties’ and affiliates’ own direct marketing purposes. Under that law, a business must either provide California customers certain information upon request or permit California customers to opt-in to, or opt-out of, this type of sharing.
+
+For our U.S. users, we may from time to time elect to share certain information about you collected by us on the Service with third parties or affiliates for those third parties’ or affiliates’ own direct marketing purposes. If you are a California resident, you may opt-out of such future sharing by contacting us at [privacy@aspencore.com](mailto:privacy@aspencore.com) or by sending a letter to AspenCore, Inc., 1225 Franklin Ave., Suite 400, Garden City, NY 11530. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address or mail address.
+
+  14. ### PRIVACY RIGHTS IN NON-U.S. JURISDICTIONS
+
+Users from outside the U.S. have the right to ask us not to process their Personal Information for marketing purposes. You can exercise your right to prevent such processing by unsubscribing from the emails you receive from us and any third parties. You can also exercise the right at any time by contacting us at [privacy@aspencore.com](mailto:privacy@aspencore.com) or by sending a letter to AspenCore, Inc., 1225 Franklin Ave., Suite 400, Garden City, NY 11530.
+
+Users from outside the U.S. also have the right to revoke their given consent regarding the use and sharing of their Personal Information. However, it is important to note that in some cases such request may not be immediately or fully executed because it is possible that we have a legal obligation to keep using your Personal Information. Also, you must consider that for certain purposes, the revocation of consent means that we cannot continue providing the services you requested. You can revoke your consent at any time by contacting us at [privacy@aspencore.com](mailto:privacy@aspencore.com) or by sending a letter to AspenCore, Inc., 1225 Franklin Ave., Suite 400, Garden City, NY 11530.
+
+Any EU person who is not satisfied with our compliance with the EU – U.S. Privacy Shield may contact us to resolve such complaints at compliance@arrow.com or by sending a letter to the addresses set forth below. If any EU person believes that such a complaint has not been resolved, he or she agrees first to try and settle the dispute by mediation, administered by the International Centre for Dispute Resolution under its Mediation Rules, before resorting to arbitration, litigation, or some other dispute resolution procedure. The rules governing these procedures and information regarding how to file a claim free of charge can be found here: http://info.adr.org/safeharbor/.
+
+Any EU person who remains dissatisfied may contact his or her national Data Protection Authority in the country where the person resides. We have agreed to cooperate and comply with appropriate EU Data Protection Authorities and the Department of Commerce in resolving such disputes. If an EU person remains dissatisfied and meets the pre-arbitration requirements of Annex I Part C of the EU – U.S. Privacy Shield Framework, the person may invoke binding arbitration pursuant to procedures in Annex I of the EU – U.S. Privacy Shield Framework Principles found here: https://www.privacyshield.gov/EU-US-Framework.
+
+  15. ### CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to revise and reissue this Privacy Policy at any time. Any changes will be effective immediately upon posting of the revised Privacy Policy. Subject to applicable law, your continued use of our Service indicates your consent to the privacy policy posted. If the changes are material, we may provide you additional notice, to your e-mail address.
+
+  16. ### CONTACT US
+
+For any requests relating to your Personal Information, or if you have any questions about this Privacy Policy posted at [www.aspencore.com](http://www.aspencore.com/), please contact us at:
+
+AspenCore, Inc.  
+1225 Franklin Ave., Suite 400  
+Garden City, NY 11530  
+[privacy@aspencore.com](mailto:privacy@aspencore.com)
+
+9201 East Dry Creek Road  
+Centennial, CO 80112  
+(Attention: Legal Counsel)
+
+European users can contact us at:
+
+Frankfurter Straße 211  
+63263 Neu-Isenburg  
+Germany  
+(Attention: Legal Counsel)
+
+
+
