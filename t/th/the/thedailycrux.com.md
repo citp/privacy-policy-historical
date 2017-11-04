@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailycrux.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628232606id_/http%3A//www.thedailycrux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailycrux.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104074246id_/http%3A//www.thedailycrux.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Crux
 
