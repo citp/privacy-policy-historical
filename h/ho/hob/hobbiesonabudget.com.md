@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hobbiesonabudget.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222201615id_/http%3A//hobbiesonabudget.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbiesonabudget.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104112857id_/http%3A//hobbiesonabudget.com/disclosure) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policy - Hobbies on a Budget
+# Disclosure & Privacy Policy
 
 This policy is valid from 06 June 2011
 
