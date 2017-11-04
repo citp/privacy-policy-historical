@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the betheme.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183650id_/https%3A//betheme.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betheme.me privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104181054id_/https%3A//betheme.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BeTheme
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 **What personal information do we collect from the people that visit our website?**  
-We do not collect information from visitors of our site.
+We do not collect information from visitors to our site.
 
 **When do we collect information?**  
 We collect information from you when you register on our site, place an order, subscribe to a newsletter or enter information on our site.
@@ -40,12 +40,12 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+If you turn cookies off, some features may be disabled. However, it won’t affect the user’s experience, but some of our services will not function properly.
 
 However, you can still place orders.
 
 **Third Party Disclosure**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+We do not sell, trade, or otherwise, transfer to outside parties your personally identifiable information.
 
 **Third party links**  
 We do not include or offer third party products or services on our website.
