@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanidolnet.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616051405id_/http%3A//americanidolnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanidolnet.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104233021id_/http%3A//americanidolnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - American Idol Net
 
@@ -18,7 +18,7 @@ We collect only the domain name, but not the e-mail address of visitors to our W
 
 The information we collect is used only for general web site statistics and to notify visitors about updates to our website if they have registered for that purpose.
 
-With respect to cookies: We do not set any cookies.
+With respect to cookies: our advertisers use cookies.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
