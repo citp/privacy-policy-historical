@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheels.ca privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612043046id_/http%3A//www.wheels.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheels.ca privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104232855id_/http%3A//www.wheels.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WHEELS.ca
 
@@ -103,7 +103,7 @@ If you do not wish to receive Marketing Offers, you may opt-out at any time from
   * follow the instructions at the bottom of any email Marketing Offer you receive.
   * inform your telemarketer at the time you are called with a Marketing Offer.
   * call Customer Service at 1-877-307-2043 and request that your personal information not be used for Marketing Offers.
-  * email Customer Service at leaddriversupport@metroland.com and request that your personal information not be used for Marketing Offers.
+  * email Customer Service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and request that your personal information not be used for Marketing Offers.
 
 
 
@@ -125,7 +125,7 @@ We will give you access to the information we retain about you within a reasonab
 
 **How to address concerns regarding your privacy.**
 
-DAV encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Policy. If you have a question concerning DAV’s Privacy Policy, would like a copy, or if you have any questions or concerns regarding the manner in which we or our Canadian, U.S. or other service providers treat your personal information, please contact Customer Service at: 1-877-307-2043, or email us at leaddriversupport@metroland.com.
+DAV encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Policy. If you have a question concerning DAV’s Privacy Policy, would like a copy, or if you have any questions or concerns regarding the manner in which we or our Canadian, U.S. or other service providers treat your personal information, please contact Customer Service at: 1-877-307-2043, or email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Customer Service can successfully deal with many issues. If you prefer, or if after contacting Customer Service your concerns or questions have not been resolved to your satisfaction, you can contact Torstar Corporation’s Chief Privacy Officer in writing as follows:
 
