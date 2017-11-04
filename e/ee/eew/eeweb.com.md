@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeweb.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610051225id_/http%3A//www.aspencore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeweb.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104104951id_/http%3A//www.aspencore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
