@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btc4free.site privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082908id_/http%3A//btc4free.site/faucet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btc4free.site privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104084627id_/http%3A//btc4free.site/faucet/privacy.html) for the most accurate reproduction.*
 
 # Bitcoin Faucet by COINGAINGURU - Privacy Policy
 
