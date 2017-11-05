@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the go.co privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610063846id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go.co privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105085413id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
 # Privacy | Neustar
 
 **Highlights of the Neustar Privacy Policy**
 
-_Updated: September 26, 2016_
+_Updated: October 10, 2017_
 
 Neustar uses Personal Information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These “Highlights” summarize Neustar’s privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Policy](https://web.archive.org/privacy/privacy-policy) and [Privacy Principles](https://web.archive.org/privacy/privacy-principles)
 
@@ -26,7 +26,7 @@ Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) o
 
 ### Cookies, Advertising IDs and Other Technologies
 
-Neustar may use [cookies](https://web.archive.org/privacy/privacy-policy#cookies), [web beacons](https://web.archive.org/privacy/privacy-policy#web-beacons), [pixel tags](https://web.archive.org/privacy/privacy-policy#pixel-tags), javascript, HTML5 local storage, or similar technologies, along with other information described in our Privacy Policy to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. In addition, we use Mobile Advertising IDs, also known as IDFA or IFA, in connection with [PlatformOneSM](https://web.archive.org/marketing/platformone) and other marketing services. Third parties with whom we partner may use cookies, web beacons, pixel tags, javascript, HTML5 local storage, or Flash LSOs to help us understand how visitors interact with our website or to deliver content, such as videos, or to personalize ads you see online based on your visits to our website.
+Neustar may use [cookies](https://web.archive.org/privacy/privacy-policy#cookies), [web beacons](https://web.archive.org/privacy/privacy-policy#web-beacons), [pixel tags](https://web.archive.org/privacy/privacy-policy#pixel-tags), javascript, HTML5 local storage, or similar technologies, along with other information described in our Privacy Policy to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. In addition, we use Mobile Advertising IDs, also known as IDFA or IFA, in connection with [PlatformOneSM](https://web.archive.org/marketing/identity) and other marketing services. Third parties with whom we partner may use cookies, web beacons, pixel tags, javascript, HTML5 local storage, or Flash LSOs to help us understand how visitors interact with our website or to deliver content, such as videos, or to personalize ads you see online based on your visits to our website.
 
 Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) or click on the links below to learn more about the technologies we use:
 
@@ -67,21 +67,17 @@ Aggregate Knowledge adheres to the European Interactive Digital Advertising Alli
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67 "TRUSTe Privacy")
 
-### EU-U.S. Privacy Shield
+### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
-Neustar and its subsidiaries, (i.e., .CO Internet S.A.S., NeuStar International Services, Inc., Aggregate Knowledge, Inc., and MarketShare Holdings, Inc.) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+Neustar and its subsidiaries (i.e., .CO Internet S.A.S., Neustar Information Services, Inc., Aggregate Knowledge, Inc., and MarketShare Holdings, Inc., together, “Neustar”) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List here: [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-Neustar is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Neustar is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Neustar complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Neustar is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Neustar is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [feedback-form](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-### Swiss Safe Harbor
-
-Neustar may receive Personal Information about residents of Switzerland in the course of providing our products and services. To the extent such information is transferred to the United States, we comply with the U.S. – Swiss Safe Harbor framework as administered by the U.S. Department of Commerce, and we have certified our adherence to the Safe Harbor principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Where we act as a processor for Swiss customer, we only use the data collected through our Service to provide the service for which our customer has engaged us. Not all of Neustar’s products and services are available in Europe at this time. Additional information about the Safe Harbor programs and our certifications are available at: http://www.export.gov/safeharbor.
+Under certain conditions, more fully described on the [Privacy Shield](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) website here, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 European residents may also opt-out of the use of AK Cookies for online advertising at: [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
