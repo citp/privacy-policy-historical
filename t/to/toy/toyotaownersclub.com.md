@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyotaownersclub.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620013303id_/http%3A//toyotaownersclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyotaownersclub.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105130302id_/http%3A//www.toyotaownersclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Toyota Owners Club UK
 
