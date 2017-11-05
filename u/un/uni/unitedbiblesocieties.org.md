@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedbiblesocieties.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227165934id_/https%3A//www.unitedbiblesocieties.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedbiblesocieties.org privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105133836id_/https%3A//www.unitedbiblesocieties.org/privacy) for the most accurate reproduction.*
 
 # Privacy - United Bible Societies
 
