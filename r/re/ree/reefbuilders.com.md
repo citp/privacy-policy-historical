@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reefbuilders.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611215100id_/http%3A//reefbuilders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reefbuilders.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105055846id_/https%3A//reefbuilders.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Reef Builders | The Reef and Marine Aquarium Blog
 
 Our Privacy Policy was last updated and posted on May 13, 2013. It governs the privacy terms of our Website, located at http://www.reefbuilders.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
