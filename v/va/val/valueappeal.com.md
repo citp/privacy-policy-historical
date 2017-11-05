@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valueappeal.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529025634id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueappeal.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105061610id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
 
-# Porch: Designs, remodel ideas, and costs for home projects
+# Porch | Privacy
 
-Effective Date 4/22/2016
+Effective Date 10/19/2016
 
 Your privacy is important to us and we are committed to protecting your information in accordance with the terms of this Privacy Policy.
 
@@ -10,7 +10,7 @@ Your privacy is important to us and we are committed to protecting your informat
 
 This Privacy Policy describes the collection, use and disclosure of information by Porch.com, Inc. (“Porch”, “we,” “us”) and other parties with respect to your use of all properties (Web sites, mobile application, telephone service or otherwise) owned or operated by Porch and our affiliates (collectively, the "Properties"), and all products and services available from Porch, home improvement service providers (“Pros”) or other third parties in connection with the Properties (individually and collectively with the Properties, the “Services”). By accessing or using the Services, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Services.
 
-All capitalized terms used but not defined in this Privacy Policy have the meanings given in our Terms of Use (located [here](https://web.archive.org/about/terms)). References to Porch (or “we” or “us”) also include Porch’s service providers and partners, to the extent that such service providers are collecting, using or disclosing information for or on behalf of Porch.
+All capitalized terms used but not defined in this Privacy Policy have the meanings given in our Terms of Use (located [here](https://web.archive.org/about/terms)). References to "you" mean you as a User and/or as a Pro, as the case my be. References to Porch (or “we” or “us”) also include Porch’s service providers and partners, to the extent that such service providers are collecting, using or disclosing information for or on behalf of Porch.
 
 ## Privacy Policy Updates
 
@@ -20,9 +20,9 @@ We may update this Privacy Policy at any time by posting a revised version. Any 
 
  **Information You Provide**
 
- _Information You Submit._ As a User, you can visit and browse the Properties without opening an account and entering personal information. (You will need to open an account if you would like to get a quote for home services or if you are a Pro.) When using the Services, you may elect to provide information about yourself, such as name, address, telephone number, email address, and payment details. You may provide this information, for example, when you create an account, post User Submissions, request or purchase products or services, communicate with a Pro, subscribe to our email programs, “Like” us on Facebook or otherwise connect us to your social networks, or complete other forms. In addition, if you are a Pro, you may provide information about yourself or your company, including for example, when you provide details to complete your account, post User Submissions, respond to service requests, communicate with Users, and provide information for background/reference checks.
+ _Information You Submit._ As a User, you can visit and browse the Properties without opening an account and entering personal information. You will need to open an account if you would like to get a quote for home services or if you are a Pro. When using the Services, whether as a User or as a Pro, you may elect to provide information about yourself, such as name, address, telephone number, email address, payment details and information about your use of the Services or your experiences with Porch, Pros, or Users. You may provide this information, for example, when you create an account, post User Submissions, request or purchase products or services, communicate with us, a Pro, or a User, subscribe to our email programs, “Like” us on Facebook or otherwise connect us to your social networks, or complete other forms. If you are a Pro, you may provide additional information about yourself or your company, including for example, when you provide details to complete your account, respond to service requests, and provide information for background/reference checks.
 
-In connection with the Services, you may also elect to provide Porch or Pros with reviews, comments, feedback, notes, photos, videos, know-how, techniques, or other information relating to you, your project, your household, your business, your real or personal property or otherwise.
+In connection with the Services, you may also elect to provide reviews, comments, feedback, notes, photos, videos, know-how, techniques, or other information relating to you, your project, your household, your business, your real or personal property or otherwise.
 
  _Social Networks._  If you use the social networking connection functions offered through the Services, we may access any of your social profile information that you have made available to be shared and to use it in accordance with this Privacy Policy. Please refer to your social network policies to manage information that is shared through that account.
 
@@ -46,13 +46,13 @@ Your browser may offer you a "Do Not Track" option, which allows you to signal t
 
  **Information Collected by Third Parties**
 
- _Online Activity._ You may get cookies or web beacons from our advertisers, tracking utilities, partner programs or other third parties with links on the Properties. While this is a standard practice in the industry, we have no control or access to these cookies or web beacons. Our Privacy Policy does not cover the use of these technologies by third parties or the use of such technologies on websites or mobile applications other than the Properties.
+ _Online Activity._ You may get cookies or web beacons from our advertisers, tracking utilities, partners or other third parties with links on the Properties. While this is a standard practice in the industry, we have no control or access to these cookies or web beacons. Our Privacy Policy does not cover the use of these technologies by third parties or the use of such technologies on websites or mobile applications other than the Properties.
 
- _Offline Activity._  Porch and Pros may collect text, photos, videos, measurements, comments, reviews, feedback, notes, ideas, know-how, techniques, data or information of any nature whatsoever before, during or after the provision of Services, or otherwise in connection with the Services, relating to you, your household, your real or personal property or otherwise.
+ _Offline Activity._  Porch and Pros may collect text, photos, videos, measurements, comments, reviews, feedback, notes, ideas, know-how, techniques, data or information of any nature whatsoever relating to you, your household, your real or personal property or otherwise, in connection with the Services provided by Porch or the services provided by Pros.
 
  **Information We Obtain From Third Parties**
 
-We may obtain information about you from third parties and use it to provide a customized experience, to suggest products or services that might be of interest to you, or to supplement or correct information that you have provided to us, and generally to improve our Services.
+We may obtain information about you from third parties and use it to provide a customized experience, to offer products or services that might be of interest to you, to supplement or correct information that you have provided to us, and generally to improve our Services.
 
  **Aggregate Information**
 
@@ -67,11 +67,12 @@ Any information we collect from you may be used in the following ways:
   * To provide the Services;
   * To improve the Services (for example, to personalize your experience to make it smoother and more relevant to you, and to improve the content and design of the Properties;
   * To process transactions, to provide and improve customer service, and to otherwise manage our customer relationships;
-  * To connect you with Pros and other companies that receive or help us meet your service requests;
-  * To help Pros select with whom they choose to work;
-  * To provide you with information about products and services that may be of interest to you, and to optimize our and our partners’ marketing campaigns;
+  * To connect Users with Pros and other companies that receive or help us meet service requests;
+  * To connect Pros with Users, to help Pros select with whom they choose to work and to provide Pros with more opportunities to receive service requests that might be of interest to them;
+  * To provide you with information about products and services from Porch and our partners that may be of interest to you, and to optimize our and our partners’ marketing campaigns;
+  * To provide you with complementary product and services that may be of interest to you, including discounts and other benefits from our partners;
   * To administer contests, promotions or sweepstakes;
-  * To prevent fraud and abuse, to address technical and security issues, and to otherwise protect Users, Pros, and our business;
+  * To prevent fraud and abuse, to comply with applicable laws and legal process, to address technical and security issues, to comply with applicable laws and legal process, and to otherwise protect Users, Pros, and our business;
   * To develop and deliver our advertising, products and services and analyze their effectiveness; and
   * To perform other functions described at the time the information is collected.
 
@@ -83,9 +84,9 @@ Information that you choose to provide in a public area of the Services (such as
 
  **Consent**
 
-We may share your information when you consent or direct Porch to do so. For example, if you choose to seek a Pro through the Services, we may provide your information to the Pro. The method of consent will be appropriate for the type of personal information involved and the purposes for which it is collected, used or disclosed. Depending on the circumstances, consent may be express (i.e., you specifically agree either verbally, in writing or electronically) or implied.
+We may share your information when you consent or direct Porch to do so. For example, if a User seeks a Pro through the Services, we may provide User information to the Pro and Pro information to the User. The method of consent will be appropriate for the type of personal information involved and the purposes for which it is collected, used or disclosed. Depending on the circumstances, consent may be express (i.e., you specifically agree either verbally, in writing or electronically) or implied.
 
- **Please note that, when you submit a request for products or services, you are requesting to be (and you expressly consent to be) contacted by Porch, companies that receive your service request, and Pros, as the case may be. You consent to be contacted by these parties by telephone, email, mail, text (SMS) messaging, fax, or other reasonable means at any of the residential, cell or fax phone numbers or addresses you provide, even if they are listed on a national "do not call" or “do not contact” list. You agree that these communications may include prerecorded, artificially voiced or autodialed telemarketing messages, and that they may be monitored and recorded for quality assurance and other reasons. You agree that these parties may contact you for the purposes of providing the products or services you have requested (as the case may be), marketing, addressing complaints, billing or other account-related matters, or other purposes reasonably related to the services you have requested. Your consent to receive marketing communications is not required as a condition of purchasing any goods or services.**
+ **Please note that, when you submit a request for products or services, you are requesting to be (and you expressly consent to be) contacted by Porch, companies that receive your service request, and Pros, as the case may be. You consent to be contacted by these parties by telephone, email, mail, text (SMS) messaging, fax, or other reasonable means at any of the residential, cell or fax phone numbers or addresses you provide, even if they are listed on a national "do not call" or “do not contact” list. You agree that these communications may include prerecorded, artificially voiced or autodialed telemarketing messages, and that they may be monitored and recorded for quality assurance and other reasons. You agree that these parties may contact you for the purposes of providing the products or services you have requested, marketing, addressing complaints, billing or other account-related matters, or other purposes reasonably related to the services you have requested. Your consent to receive marketing communications is not required as a condition of purchasing any goods or services.**
 
  **Service Providers**
 
@@ -93,15 +94,19 @@ We contract with other companies to provide services on our behalf. For example,
 
  **Co-Branded Partners**
 
-Some of our Services may be offered in conjunction with a third party. If you access or use our Services through a third party, or you access or use a third party’s services through the Properties, both Porch and the third party may receive information provided by you or collected in connection therewith. For example, If you sign-up with Porch through a Lowe's promoted or co-branded website or within a Lowe's store directly, Porch and Lowe’s may share your information with each other.
+Some of our Services may be offered in conjunction with a third party. If you access or use our Services through a third party, or you access or use a third party’s services through the Properties, both Porch and the third party may receive information provided by you or collected in connection therewith. For example, If you sign up with Porch through a Lowe's-promoted or co-branded website or within a Lowe's store, Porch and Lowe’s may share your information with each other.
 
  **Other Partner Programs**
 
-From time to time, we may partner with companies that, in conjunction with rewards programs or other membership programs, require that we disclose personal information about their members who visit our Property (for example, to earn points or discounts for purchases made on the Properties through links from the partner site). We will disclose your personal information to the partner companies when you consent to that disclosure, including consent implied by your agreement to the applicable membership or participation rules, as necessary to support your membership in these programs.
+From time to time, we may partner with third parties to offer discounts, rewards or other programs or promotions. We may disclose the personal information of the participants in the programs to those business partners. For example, if a discount is offered through a link between their website and our website, we may disclose information about our Users that visit their website or their users who visit our website. We will disclose your personal information to those business partners when you consent to that disclosure, including consent implied by your agreement to the applicable program rules.
+
+ **Pro Information**
+
+We may share a Pro’s business name, owner/proprietor name, business contact information and other information with third parties.
 
  **Compliance with Laws and Policies; Protection of Rights**
 
-We may release your information (including personally identifiable information) and aggregated information when we believe that doing so is appropriate to comply with applicable laws, regulations, subpoenas or court orders, or other legal requirements; to cooperate with government or law enforcement; to resolve disputes; to avoid legal liability; to comply with, enforce or investigate potential violations of our agreements, Terms of Use, Privacy Policy or other policies; to bill and collect amounts owed to us; to protect our rights, reputation, safety or property or that of Users or others; and to address fraud, security or technical issues.
+We may release your information (including personally identifiable information) and aggregated information when we believe that doing so is appropriate to comply with applicable laws, regulations, subpoenas, warrants or court orders, or other legal requirements; to cooperate with government or law enforcement; to resolve complaints or disputes; to avoid legal liability; to comply with, enforce or investigate potential violations of our agreements, Terms of Use, Privacy Policy or other policies; to bill and collect amounts owed to us; to protect our rights, reputation, safety or property or that of Users or others; and to address fraud, security or technical issues.
 
  **Sale/Merger**
 
@@ -155,7 +160,7 @@ The Services are not directed to children under 13, and we do not knowingly coll
 
 Our Services may contain links to other websites and services. Any information that you provide on another website or service is provided directly to the owner or operator of the website or service and is subject to that party's privacy policy. In addition, if you visit the Properties through a link or advertisement on another website, then that website may be collecting information from users who click on the link or banner, and the collected information will be subject to that website’s privacy policy. Our Privacy Policy does not apply to any such websites or services, and we are not responsible for their content, privacy or security practices and policies. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
 
- ** _Governing Law; Visitors Residing Outside The United States_**
+ **Governing Law; Visitors Residing Outside the United States**
 
 All of the Services are hosted in the United States. This Privacy Policy and the privacy practices of our Site will be subject exclusively to the laws of the State of Washington within the United States of America, without regard to conflict of law principles. If you reside outside of the United States, you are responsible for complying with local laws in connection with your use of the Services, and you consent to the collection, transfer, storage, and use of your personal information in the United States of America in accordance with this Privacy Policy.
 
