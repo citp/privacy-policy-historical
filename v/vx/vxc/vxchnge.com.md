@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vxchnge.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620223243id_/http%3A//www.vxchnge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vxchnge.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105152658id_/http%3A//www.vxchnge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | vXchnge
+# Privacy Policy - vxchnge
 
 ## What information do we collect?
 
@@ -52,7 +52,7 @@ This policy was last modified on 12/26/2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.vXchnge.com/contact/](https://web.archive.org/contact/ "Contact")
+<http://www.vxchnge.com/contact-us/>
 
 vXchnge  
 1580 Cleveland Street  
