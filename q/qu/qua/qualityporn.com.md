@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualityporn.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616081418id_/http%3A//www.qualityporn.com/page/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityporn.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105072615id_/http%3A//www.qualityporn.com/page/info/privacy_policy) for the most accurate reproduction.*
 
 # Quality Porn Privacy Policy
 
