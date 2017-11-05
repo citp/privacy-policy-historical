@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nkotb.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619034223id_/http%3A//nkotb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nkotb.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105235104id_/http%3A//www.nkotb.com/privacy) for the most accurate reproduction.*
 
 # New Kids On The Block > Privacy Policy
 
