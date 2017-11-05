@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollocamper.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626185311id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollocamper.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105082557id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Apollo Motorhome Holidays
 
@@ -119,7 +119,7 @@ If you have any queries or concerns about our privacy policy or the way we handl
 
 **Street address:** Apollo Motorhome Holidays, 698 Nudgee Road Northgate Queensland 4013 
 
-**Email address:** privacyofficer@apollocamper.com 
+**Email address:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Telephone:** 07 3265 9219 
 
