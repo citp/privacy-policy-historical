@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliv.co privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607040801id_/https%3A//www.deliv.co/deliv-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliv.co privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105092622id_/http%3A//www.deliv.co/deliv-privacy-policy) for the most accurate reproduction.*
 
 # Deliv Privacy Policy - Deliv
 
