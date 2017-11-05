@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ics-digital.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175658id_/http%3A//www.ics-digital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ics-digital.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105121001id_/https%3A//www.ics-digital.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
