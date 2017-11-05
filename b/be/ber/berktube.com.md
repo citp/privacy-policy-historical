@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berktube.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626042304id_/http%3A//www.berktube.com/footer.php%3Ff%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berktube.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105171616id_/http%3A//berktube.com/footer.php%3Ff%3Dprivacy_policy) for the most accurate reproduction.*
 
 # None
 
