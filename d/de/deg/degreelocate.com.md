@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the degreelocate.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627214245id_/https%3A//www.degreelocate.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreelocate.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105085651id_/http%3A//www.degreelocate.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Degree Locate
 
 This privacy policy applies to www.DegreeLocate.com. This privacy policy describes how DegreeLocate.com collects and uses the personal information you provide on our web site: www.DegreeLocate.com. It also describes the choices available to you regarding our use of your personal information. 
 
@@ -22,7 +22,7 @@ We may provide your personally identifiable information to companies that provid
 
 We share aggregated information with our partners to fulfill information requests in certain states which users shared information. 
 
-We may share your information with affiliates and redirect users to third-party Web sites. DegreeLocate.com does not control the content of or the information collected from these third-party Web sites. These third-party Web sites are not subject to DegreeLocate.com?s Privacy Policy. Redirects to third-party sites do not constitute sponsorship, endorsement, or approval by DegreeLocate.com of the content, policies, or practices of such sites. Therefore, we encourage you to review the privacy policies of these sites before you disclose your personally identifiable information to these other parties. We do not share Personally identifiable information with third parties other than as described in this privacy statement. 
+We may share your information with affiliates and redirect users to third-party Web sites. DegreeLocate.com does not control the content of or the information collected from these third-party Web sites. These third-party Web sites are not subject to DegreeLocate.com's Privacy Policy. Redirects to third-party sites do not constitute sponsorship, endorsement, or approval by DegreeLocate.com of the content, policies, or practices of such sites. Therefore, we encourage you to review the privacy policies of these sites before you disclose your personally identifiable information to these other parties. We do not share Personally identifiable information with third parties other than as described in this privacy statement. 
 
 ## Legal Disclaimer
 
@@ -36,7 +36,7 @@ We do not link this automatically collected data to other information we collect
 
 ## Cookies
 
-Technologies such as: cookies, beacons, tags and scripts are used by DegreeLocate.com and our partners, marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users? movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+Technologies such as: cookies, beacons, tags and scripts are used by DegreeLocate.com and our partners, marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
 We use cookies to make it easier for you to navigate our site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
@@ -58,7 +58,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
 ## Links to Other Sites
 
-If you click on a link to a third party site, including on an advertisement, you will leave DegreeLocate.com and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as DegreeLocate.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to DegreeLocate.com, you should read that site?s privacy statement before providing any personally identifiable information. 
+If you click on a link to a third party site, including on an advertisement, you will leave DegreeLocate.com and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as DegreeLocate.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to DegreeLocate.com, you should read that site's privacy statement before providing any personally identifiable information. 
 
 When you subscribe to our articles by email we use a third party email service provider whose privacy statement governs the collection and use of the personally identifiable information that you have entered. 
 
