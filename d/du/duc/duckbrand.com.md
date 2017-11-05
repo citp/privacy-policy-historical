@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145830id_/http%3A//duckbrand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105174643id_/http%3A//duckbrand.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Duck® Brand
 
@@ -11,7 +11,8 @@ If you have any questions about this privacy statement, or the content or practi
 ShurTech Brands, LLC  
 Web Site Privacy  
 32150 Just Imagine Drive  
-Avon, Ohio 44011
+Avon, Ohio 44011  
+
 
 ### Our Policy
 
@@ -88,5 +89,3 @@ By using any of ShurTech’s web sites and the content and services available to
 ### A SPECIAL NOTE TO PARENTS:
 
 We respect the privacy of all of our online users, especially children. We do not intend to collect personally identifiable information from children under 13. Our policy is intended to adhere to the Children's Advertising Review Unit (CARU) privacy guidelines. We encourage parents to monitor, supervise and join their children in online activities.
-
-; 
