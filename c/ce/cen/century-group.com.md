@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the century-group.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505191640id_/http%3A//www.century-group.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century-group.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105195415id_/http%3A//www.century-group.com/privacy) for the most accurate reproduction.*
 
-# Century Group - Executive Recruitment & Interim Services
+# CenturyGroup
 
 Welcome to www.century-group.com (the “Site”). This website privacy policy (“Policy”) describes how Century Group International and its subsidiaries (“We”, “we”, or “Century Group”) may use and disclose personally identifiable information that we may collect about you through the Site (“Personal Information”).
 
