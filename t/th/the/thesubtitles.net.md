@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesubtitles.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070017id_/http%3A//thesubtitles.net/blog/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesubtitles.net privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105170005id_/http%3A//thesubtitles.net/blog/policy) for the most accurate reproduction.*
 
 # The Subtitles Privacy Policy
 
