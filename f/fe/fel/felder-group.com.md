@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the felder-group.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630100656id_/http%3A//www.felder-group.com/fg-en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the felder-group.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105151415id_/http%3A//www.felder-group.com/fg-en/privacy-statement.html) for the most accurate reproduction.*
 
 # FELDER GROUP woodworking machines from Format Sliding Table Saws to Dust Extractors
 
