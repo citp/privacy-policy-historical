@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iscute.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628145922id_/http%3A//www.iscute.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iscute.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105193725id_/http%3A//www.iscute.com/privacy.php) for the most accurate reproduction.*
 
 # Cute & Funny Pictures @ isCute.com
 
@@ -21,7 +21,7 @@ We employ the use of tracking techniques used to monitor how people use this sit
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
-[](http://www.iscute.com/71q) [](http://www.iscute.com/7lx) [](http://www.iscute.com/7f0) [](http://www.iscute.com/7c4) [](http://www.iscute.com/6el) [](http://www.iscute.com/62e) [](http://www.iscute.com/619) [](http://www.iscute.com/6s9) [](http://www.iscute.com/7ng) [](http://www.iscute.com/6s5)
+[](http://www.iscute.com/69w) [](http://www.iscute.com/6w9) [](http://www.iscute.com/74c) [](http://www.iscute.com/6fv) [](http://www.iscute.com/6nc) [](http://www.iscute.com/7k2) [](http://www.iscute.com/6ob) [](http://www.iscute.com/6qa) [](http://www.iscute.com/6j1) [](http://www.iscute.com/7h2)
 
 [](http://m.maploco.com/details/a602fbjv)
 
