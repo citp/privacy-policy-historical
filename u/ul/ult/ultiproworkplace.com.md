@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultiproworkplace.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610115713id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultiproworkplace.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105130351id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ultimate Software Human Resource Systems
 
@@ -14,7 +14,7 @@ Ultimate Software respects the privacy of our customers, employees, website visi
 
 ## APEC
 
-Ultimate Software’s privacy practices, described in this Privacy Policy, comply with the APEC Cross Border Privacy Rules System (CBPS). The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC Cross Border Privacy Rules System can be found [here](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx "APEC Cross Border Privacy Rules System"). 
+Ultimate Software’s privacy practices, described in this Privacy Policy, comply with the APEC Cross Border Privacy Rules System (CBPS). The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC Cross Border Privacy Rules System can be found [here](https://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx "APEC Cross Border Privacy Rules System"). 
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=653d7c52-faa7-4f42-85b8-ba8fcea23ed9 "TRUSTe Privacy Certification")
 
@@ -41,11 +41,11 @@ Ultimate Software collects PII about a visitor to our website only when the visi
 _Website / Cookies and other Tracking Technologies_  
 In order to improve the content and format of our site, Ultimate Software uses website tracking software to automatically capture technical information that is then stored in our server’s log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site.
 
-Ultimate Software and its partners use cookies and similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+Ultimate Software and its partners use cookies and similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. To manage Flash cookies, please click here: [//www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 A cookie is a small amount of data which our website stores on your computer, and which we can later retrieve. The cookie cannot be read by a site other than ours. We use cookies for a number of administrative purposes; for example, to store your preferences for certain kinds of information. No cookie will contain information that will allow anyone to contact you via telephone, e-mail, or any other means. You can monitor our use of cookies on your computer by setting your Web browser to inform you when cookies are set, or you can prevent the cookies from being set entirely. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please understand that if you disable the use of cookies on your computer, you may be unable to access certain portions or services on our websites.
 
-We partner with third parties to manage our advertising on other sites. Our third party partners may use cookies or other similar technologies to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](http://preferences-mgr.truste.com/); if you are located in the European Union [click here](http://youronlinechoices.eu/). Please note you will continue to receive generic ads.
+We partner with third parties to manage our advertising on other sites. Our third party partners may use cookies or other similar technologies to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](https://preferences-mgr.truste.com/); if you are located in the European Union [click here](https://youronlinechoices.eu/). Please note you will continue to receive generic ads.
 
 _Job Applicants and Employees_   
 Ultimate Software collects PII from job applicants and employees of Ultimate Software for, among other things, legitimate human resource business reasons such as payroll administration, filling employment positions, maintaining accurate benefits records, meeting governmental reporting requirements, security, health and safety management, performance management, company network access, and authentication. 
