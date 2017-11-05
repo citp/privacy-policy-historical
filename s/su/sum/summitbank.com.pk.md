@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summitbank.com.pk privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506211017id_/http%3A//summitbank.com.pk/index.php/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitbank.com.pk privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106005934id_/http%3A//summitbank.com.pk/index.php/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Summit Bank
 
