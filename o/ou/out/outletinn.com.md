@@ -1,57 +1,25 @@
-> *The following text is extracted and transformed from the outletinn.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616032359id_/http%3A//www.outletinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outletinn.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105225933id_/http%3A//www.outletinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
 
-# outletinn Privacy policy. Online deals gear and deals equipment shop.
+# Privacy policy. outletinn, online deals gear and deals equipment shop
 
-**Website:** www.outletinn.com
+Tradeinn Retail Services S.L. is committed to protecting your privacy. We will only use the information that we collect about you lawfully. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. When you interact with us, whether by using our websites or communicating with us, we may collect the following information about you:   
+You may give us information about yourself if you sign up for an account on our websites, place an order for products, opt in to receive our newsletters and special offers, or correspond with us (by email, telephone, instant chat, social media or otherwise). This information may include your name, address or location, phone number and email address, date of birth, gender, purchase information, amongst other information.   
+We may receive information about you from other websites, including social media providers like Facebook and Twitter, advertising networks and analytics partners, and payment and delivery service providers, amongst others. The specific types of information that we may obtain depends on your settings for that account or website, and will be subject to their privacy policies. 
 
- **Company that owns:** [Tradeinn](http://www.tradeinn.com/ "tradeinn") (Tradeinn Retail Services SL).
+Each time you visit our websites, certain information will be created and automatically recorded by our IT systems. That information includes:   
+\- cookies: these small text files can help improve your experience with our websites and make it easier to interact with us. This may include storing your location or language preferences to save you having to re-enter information when returning to, or ensuring that items you wish to order don’t disappear as you navigate between pages on our websites;   
+\- device information: the information provided by your device will differ depending on which type of device you are using and the settings on that device, but includes the type of device you have, the device’s IP address, the browser you are using, your mobile network provider (for mobile devices), the pages you have visited, your time zone and country location, and crash or download error reports. 
 
- **Company Adress:** Crta. Palamós, 181-183 (Celra Centre), 17460 Celrà (Girona), Spain. 
+To make our websites work, including to allow you to order and receive products from our websites, administer your account and optimize your experience we need to use the information that we collect in a number of different ways. The key purposes for which we use your information are as follows:   
+\- to provide you with the products you have ordered: to order products, you need to register an account on our websites (which you may personalize). Your information (including name, address, phone number, email address) will be used so you can submit, and we can process and fulfill, that order. We may also use your information to communicate with you about your orders and account and provide you with customer support when needed. This may require us to provide your information to third parties including our delivery partners;   
+\- to administer, maintain, and optimize our websites, our services and your experience: we want you to have the best experience possible when you interact with us, including using our websites, products and services;   
+\- to provide you with customer services: if you contact our customer services team or provide us with feedback for any reason, whether by email, phone, chat, or otherwise, we will use your information (including your name, phone number, and email address) to help us categorize the communication, respond to you, and where appropriate, investigate, and resolve any issue or incident that you may have. We may also use your phone number or email address to let you know the status of your order or if there are any problems with it;   
+\- to update you on our latest offers, products, and news: where you have told us you would like to receive marketing communications or when you have made a purchase from our websites, unless you tell us otherwise, we will use your personal information (including your name, email address and address) to occasionally send you updates, news, and offers via email, post, or other forms of media;   
+\- to carry out research, analysis, and surveys on your use of our websites : we may carry out analysis of, and research into, the ways that you use our websites so we can optimize our websites and your experience. We may use third parties to carry out any research, analysis, and surveys;   
+\- for everyone’s safety, we need to ensure that our customers are genuine. To do this, we may use your personal information (including your name, address to confirm your identity and perform credit check or anti-fraud checks. We may use third party credit reference or fraud prevention agencies to perform these checks. 
 
-[www.tradeinn.com](http://www.tradeinn.com/ "tradeinn")
+By submitting data to us or using our websites, you consent to our use of your data in the manner set out in this privacy policy. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it and under what circumstances we disclose it. 
 
- **Managing Director:** David Martin Gaya 
+You can at any time check the information that we hold about you. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. If you have any questions/comments about privacy policy, you should email us at lopd@tradeinn.com. 
 
-**Commercial Register:** Registre mercantil de Girona - tomo 1123 / folio 108 / hoja GI20086 - Inscripción 1ª
-
- **VAT identification number:** ESB17527524
-
- **Legally responsible for the content of this website:** David Martin Gaya
-
-Tradeinn is committed to protecting your privacy. We will only use the information that we collect about you lawfully. We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future.
-
-The type of information we will collect about you when you place an order or register on our Websites includes:
-
-\- Address
-
-\- Phone Number
-
-\- Email Address
-
-\- Credit/Debit card details
-
-This information is already stored on our internal systems and our Websites simply verifies you as a customer of Tradeinn. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behaviour of visitors to our Websites. If you have any questions/comments about privacy, you should email us at customer@tradeinn.com.
-
-We use the information you provide for the following purposes:
-
-\- To send updates regarding the status of your enquiry or order.
-
-\- To send newsletters, offers and promotions, you have indicated that you do not object to being contacted for the purposes.
-
-When you place an order we need to know your name, email address, delivery address, credit or debit card number and the card's expiry date. This allows us to process and fulfill your order and to notify you of the status of your request. We may also ask for your telephone number which enables us to contact you urgently if there is a problem with your order.
-
-By submitting information to Tradeinn you consent to the collection and use of this information by Tradeinn. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it and under what circumstances we disclose it.
-
-We have designer our Websites to protect the information we collect online from unauthorized access. We safeguard your private information by implementing the appropriate physical, electronic and managerial procedure necessary to protect your privacy. To further protect your security, we also take the reasonable steps to verify your identity before granting access to your personal profile or making data changes. We are committed to protecting your privacy and have security measures in place to prevent unauthorized access to and disclosure of your personal information.
-
-Tradeinn Group has exclusive rights over the entire content and the use of the our stores website, graphics, images, texts, logos, GIFs and icons with the exception of trademarks, logos or content relating to shops or listed products. All reproduction, distribution, modification, retransmission or publication of these elements is strictly forbidden without the prior written accord of the company Tradeinn Group.  
-
-
-For statistical data, Tradeinn places a cookie (small text file) in your computer. Cookies are not harmful for your computer and can be read only by the websites that placed it in your computer. They are not virus spreaders, and cannot be used to search your hard drive. This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
-
-
-Our website uses social plugins ( "Plugins") of the facebook.com social network, which is operated by the Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. The plugins are marked with a Facebook logo or with the words "Facebook social Plugin".
-
-If you visit one of our websites, which contains such a plugin, your internet browser connects directly to the servers of Facebook. The content of the Plugin is transferred directly to your browser and is integrated to the website.
-
-By integrating the plugin, Facebook receives the information that a corresponding website of ours has been viewed. If you are logged into Facebook, Facebook can assign your visit to your account. If you interact with the plugins, for example you confirm the "Like" button or make a comment, the corresponding information from your browser is sent directly to Facebook and saved there as well.To find out the purpose and extent of the collection of data, the further processing and usage of your data by Facebook as well as your rights and possible settings in this regard to protect your privacy please consider the privacy statement of Facebook.
+Your e-mail address will be used to communicate with you about your order and products purchased. Your e-mail address will be used (after having given your consent) for our marketing purposes unless you unsubscribe. It is possible to unsubscribe at any time, via the My Account section. If you do not wish to receive information about our products or services you can unsubscribe by clicking the unsubscribe link available in all marketing emails sent by Tradeinn Retail Services S.L.
