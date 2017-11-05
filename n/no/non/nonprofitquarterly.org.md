@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527013400id_/https%3A//nonprofitquarterly.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105210306id_/https%3A//nonprofitquarterly.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Non Profit News For Nonprofit Organizations | Nonprofit Quarterly
+# Privacy Policy - Non Profit News | Nonprofit Quarterly
 
 The _Nonprofit Quarterly_ ( _NPQ_ ) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting [www.nonprofitquarterly.org](https://nonprofitquarterly.org/) or [our ordering website](https://online.icnfull.com/npc/?action=SUBSCRIPTION&base_country=US), or though social media correspondence (such as _NPQ_ ‘s [Facebook profile](https://www.facebook.com/TheNonprofitQuarterly/) or [Twitter account](http://www.twitter.com/npquarterly)), you are accepting the practices described in this Privacy Notice.
 
@@ -18,7 +18,7 @@ From time to time, we will send you e-mail announcements about new features, pro
 
 ### E-mail Communications
 
-We publish the [NPQ e-Newsletter](https://nonprofitquarterly.org/newsletters/) on a monthly basis, and the [Nonprofit Newswire](http://www.nonprofitquarterly.org/index.php?option=com_content&view=category&layout=blog&id=155&Itemid=136) daily.
+We publish the [NPQ e-Newsletter](https://web.archive.org/newsletters/) on a monthly basis, and the [Nonprofit Newswire](https://web.archive.org/newsletters/) daily.
 
 Occasionally we may send announcements about _NPQ_ events or products to the mailing list. We do not rent our e-mail list, although we may occasionally send an announcement, event, or product offering that we think may be of interest on behalf of a partner.
 
@@ -48,4 +48,4 @@ Attn: Website Privacy Request
 112 Water St Ste 400  
 Boston, MA 02109
 
-We can be reached via e-mail at [info@nonprofitquarterly.org](mailto:info@nonprofitquarterly.org).
+We can be reached via e-mail at [info@npqmag.org](mailto:info@npqmag.org).
