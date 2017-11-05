@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111635id_/http%3A//www.coacht.com/tennessee/article.cfm%3Fid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105171616id_/http%3A//www.coacht.com/tennessee/article.cfm%3Fid%3D36) for the most accurate reproduction.*
 
-# Privacy Statement for coacht.com :: Tennessee High School Sports
+# Privacy Statement for coacht.com :: CoachT.com Tennessee High School Sports
 
 **CoachT.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.
 
@@ -34,7 +34,7 @@ This site gives users the following options for removing their information from 
 
   
 
-  1. You can send email to [coacht@coacht.com](mailto:coacht@coacht.com)
+  1. You can send email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#74171b15171c0034171b15171c005a171b19)
 
   
 
@@ -45,7 +45,7 @@ This site gives users the following options for changing and modifying informati
 
   
 
-  1. email [coacht@coacht.com](mailto:coacht@coacht.com)  
+  1. email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#64070b05070c1024070b05070c104a070b09)  
 
   2. online form [Edit User Info](http://tennessee.coacht.com/boards/index.php?act=UserCP&CODE=00)  
 
@@ -58,4 +58,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
 Jim Thompson  
-coacht@coacht.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
