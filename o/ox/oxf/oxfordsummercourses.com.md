@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordsummercourses.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150518id_/http%3A//oxfordsummercourses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordsummercourses.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105183305id_/http%3A//oxfordsummercourses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Oxford Summer Courses
 
