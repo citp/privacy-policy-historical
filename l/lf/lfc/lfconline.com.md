@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302043958id_/http%3A//www.lfconline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105174945id_/http%3A//www.lfconline.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy - LFC Online
 
@@ -17,7 +17,7 @@ Examples of third-party cookies used
 Privacy   
 Your privacy is of the utmost importance to us. We gather certain types of information about our users, therefore we feel you should fully understand the terms and conditions surrounding the capture and use of that information. Please find below our privacy policy. 
 
-We are Footymad and we own and operate this website ('LFC Online', at lfconline.com). Our registered address is Digital House, Threshelfords Business Park, Inworth Road, Feering, Colchester, CO5 9SE.  Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve. 
+We are Footymad and we own and operate this website ('LFC Online', at lfconline.co.uk). Our registered address is Digital House, Threshelfords Business Park, Inworth Road, Feering, Colchester, CO5 9SE.  Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve. 
 
 Compliance with legislation   
 We operate and are registered in accordance with all applicable data protection legislation in England and Wales. 
