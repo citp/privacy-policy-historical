@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523061949id_/https%3A//telmar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105095804id_/https%3A//www.telmar.com/privacy-policy) for the most accurate reproduction.*
 
-# Telmar | Privacy Policy
+# Privacy Policy - Telmar Media Planning Solutions
 
 Effective September 1, 2009
 
@@ -47,10 +47,6 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 This privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Terms and Conditions:**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers and limitations of liability governing use of our website.
-
 **Your Consent:**
 
 By using our site you consent to our privacy policy.
@@ -61,4 +57,4 @@ We reserve the right to change our Privacy Policy at any time without notice. If
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please call us at or send us an email at[privacy@telmar.com.](mailto:privacy@telmar.com)
+Should you have other questions or concerns about these privacy policies, please call us at or send us an email at [privacy@telmar.com.](mailto:privacy@telmar.com)
