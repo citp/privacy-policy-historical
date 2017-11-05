@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201318id_/http%3A//www.vibrantmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105150243id_/http%3A//www.vibrantmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vibrant Media
 
@@ -78,7 +78,7 @@ Back to Top
 
 If you have any questions or comments about [www.vibrantmedia.com](http://www.vibrantmedia.com/ "Vibrant Media") or about this privacy policy, please contact:
 
-Via mail: Vibrant Media, Inc. 300 Park Avenue, 12th Floor, New York, NY 10022
+Via mail: Vibrant Media, Inc. 524 Broadway, 9th Floor, New York, NY 10012
 
 Via email: [intellitxtsupport@vibrantmedia.com](mailto:intellitxtsupport@vibrantmedia.com)
 
