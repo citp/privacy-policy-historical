@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailygrabs.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126024403id_/http%3A//dailygrabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygrabs.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105070828id_/http%3A//browze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
  **How Do We Use the Information That You Provide to Us?**
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at support@dailygrabs.ca
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
  **What Are Cookies?**
 
@@ -38,15 +38,15 @@ We may enter into alliances, partnerships or other business arrangements with th
 
  **Notice of New Services and Changes**
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at support@dailygrabs.ca
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
  **How Do We Secure Information Transmissions?**
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services, which are enabled by VeriSign, Inc. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact support@dailygrabs.ca if you have any questions or concerns.
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services, which are enabled by VeriSign, Inc. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) if you have any questions or concerns.
 
  **How Can You Access and Correct Your Information?**
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing support@dailygrabs.ca .
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) .
 
  **Certain Disclosures**
 
@@ -67,4 +67,4 @@ Our headquarters are located at 3956 Chesswood Dr North York ON, M3J 2W6 Canada.
 
  **Unsubscribe**
 
-You can unsubscribe from our email list by either emailing us directly at sales@dailygrabs.com and asking us to unsubscribe or in the email campaigns there is an option to unsubscribe from the email list.
+You can unsubscribe from our email list by either emailing us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and asking us to unsubscribe or in the email campaigns there is an option to unsubscribe from the email list.
