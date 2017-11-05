@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamez4tops.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628111403id_/http%3A//gamez4tops.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamez4tops.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105183450id_/http%3A//gamez4tops.com/privacy.html) for the most accurate reproduction.*
 
 # Top Gamez Online. Play Online Games. No Registration Required!
 
