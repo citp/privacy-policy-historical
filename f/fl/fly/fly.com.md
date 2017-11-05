@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050618id_/http%3A//www.fly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105190044id_/https%3A//www.fly.com/privacy) for the most accurate reproduction.*
 
 # Fly.com Privacy Policy
 
