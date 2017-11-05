@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 3dprintingindustry.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129030626id_/https%3A//3dprintingindustry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dprintingindustry.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105105246id_/https%3A//3dprintingindustry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 3D Printing Industry
+
+## **Privacy Policy**
 
 We are committed to ensuring that all personal data provided under various applications and notifications are handled in accordance with the relevant provisions of the Personal Data (Privacy) Ordinance in United-Kingdom.
 
