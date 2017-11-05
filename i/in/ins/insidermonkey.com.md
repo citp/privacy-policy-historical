@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidermonkey.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622211200id_/http%3A//www.insidermonkey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidermonkey.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105095948id_/http%3A//www.insidermonkey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insider Monkey
 
@@ -8,9 +8,9 @@ We have noticed that you are using **an ad blocker software**.
 
 Although advertisements on the web pages may degrade your experience, our business certainly depends on them and we can only keep providing you high-quality research based articles as long as we can display ads on our pages.
 
-To view this article, you can disable your ad blocker and refresh this page or simply [**login**](http://www.insidermonkey.com/login).
+To view this article, you can disable your ad blocker and refresh this page or simply [**login**](https://www.insidermonkey.com/login).
 
-We only allow registered users to use ad blockers. You can [**sign up for free by clicking here**](http://www.insidermonkey.com/signup) or you can [**login**](http://www.insidermonkey.com/login) if you are already a member.
+We only allow registered users to use ad blockers. You can [**sign up for free by clicking here**](https://www.insidermonkey.com/signup) or you can [**login**](https://www.insidermonkey.com/login) if you are already a member.
 
 Insider Monkey gathers two types of data about our users: personal information and tracking information. Currently, we do not require users to become members of Insider Monkey in order to have access to the free commentary, analysis and news available on Insider Monkey. However, if you would like to receive one or more of our newsletters and certain services we require you to register to become a member. In order to register, you will have to supply us with your email address and choose a unique User Name and Password and fill out the registration form. Tracking information is automatically collected about all visitors to our sites. This information consists of both individual and aggregated tracking information and is automatically gathered using "cookies." A cookie is a small data file containing information, such as a user's login name, that is written to the user's hard drive by a web server and used to track the pages visited. In addition to cookies placed by Insider Monkey or its agents, advertisers and third-party advertising vendors, including Google, that serve ads onto our web sites, and other third party partners may use their own cookies or other tracking technologies for advertising or other purposes. We cannot be responsible for the privacy policies or practices of any such advertisers and vendors. Insider Monkey is the sole owner of the information collected on insidermonkey.com
 
