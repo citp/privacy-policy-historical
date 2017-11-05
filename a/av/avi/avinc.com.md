@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the avinc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113536id_/https%3A//www.avinc.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avinc.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105232432id_/http%3A//www.avinc.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AeroVironment, Inc.
 
-**July 06 2015**
+**January 01 2015**
 
 AeroVironment, Inc. (“AV”) is dedicated to protecting consumer privacy. This notice explains how AV collects, uses, and discloses information about you when you subscribe to our services and you visit our Websites. **__**
 
@@ -14,7 +14,7 @@ AeroVironment, Inc. (“AV”) is dedicated to protecting consumer privacy. This
 2\. The nature, frequency, and purpose of any disclosure of information that we may make, including the types of persons or entities to whom the disclosure may be made.  
 3\. Your rights under the Communications Act, 47 U.S.C. § 338(i).   
 If you have questions about this Policy or other matters, you may contact us 24 hours a day, any day of the year, by phone (626) 357-9983, email privacy@avinc.com or mail:  
-AeroVironment, Inc., Privacy Policy?, 900 Innovators Way, Simi Valley, California 93065  
+AeroVironment, Inc., Privacy Policy?, 800 Royal Oaks Drive, Suite 210, Monrovia, California  91016.  
 **  
 I. Types of Information we collect and how we collect it**
 
@@ -43,7 +43,7 @@ AV also maintains standard web logs that record data about all visitors to our E
 • The pages you viewed on the EV Commerce Websites.  
 • The address of the website from which you linked.
 
-AV uses web log and clickstream information to help us design our site, to identify popular site features and to make the site more useful for visitors. Web logs are recorded in sequential files, and we normally do not attempt to identify individuals from these logs. However, we may use web logs to identify persons attempting to break into, disrupt, or damage our Site. We may share web log information with law enforcement personnel if we believe evidence exists, or is likely to occur, of a violation of federal, state or local laws or regulations.
+AV uses web log and click stream information to help us design our site, to identify popular site features and to make the site more useful for visitors. Web logs are recorded in sequential files, and we normally do not attempt to identify individuals from these logs. However, we may use web logs to identify persons attempting to break into, disrupt, or damage our Site. We may share web log information with law enforcement personnel if we believe evidence exists, or is likely to occur, of a violation of federal, state or local laws or regulations.
 
 Links to other websites: When you visit our website, you may find opportunities to link to websites of third parties. When you click through to these third party websites, AV’s Privacy Policy no longer applies. We recommend that you read the privacy policy for any third party websites.
 
@@ -79,7 +79,7 @@ You can choose not to receive marketing messages promoting AV or third party pro
 (1) clicking here to opt-out;   
 (2) e-mailing us at Opt-Out@avinc.com (please put “Opt-Out” in the subject line;   
 (3) following the “unsubscribe” instructions located near the bottom of any e-mails received; or   
-(4) writing us at AeroVironment, Inc. Attn: Opt-Out, 900 Innovators Way, Simi Valley, CA 93065. 
+(4) writing us at AeroVironment, Inc. Attn: Opt-Out, 800 Royal Oaks Drive, Suite 210, Monrovia, CA 91016. 
 
 If you are a current Customer, please include your name, customer ID # and phone number in the body of your e-mail or letter.    
 Upon receipt of your opt-out request, AV will take the required actions within a reasonable period of time; however, we can not and do not guarantee that such removal will be effective immediate.  
@@ -103,6 +103,6 @@ We support the guidelines and regulatory requirements provided in the Children�
 **  
 IX. Changes to this Privacy Policy**
 
-AV shares Customer Information in accordance with the Privacy Policy in effect at the time the information is collected. We reserve the right to change this Privacy Policy at any time. If we make a significant change with regard to our collection or use of information about our customers, we will note on the main page of our Web sites that this Policy has been updated and may take additional reasonable steps to notify you about the new or revised Policy. Whenever possible, we will reasonably attempt to notify you in some way 30 days before the effective date of the change. To comment on or ask about this Policy, contact us by phone (626) 357-9983, email privacy@avinc.com or postal mail to: AV Privacy Policy, AeroVironment, Inc., 900 Innovators Way, Simi Valley, CA 93065.
+AV shares Customer Information in accordance with the Privacy Policy in effect at the time the information is collected. We reserve the right to change this Privacy Policy at any time. If we make a significant change with regard to our collection or use of information about our customers, we will note on the main page of our Web sites that this Policy has been updated and may take additional reasonable steps to notify you about the new or revised Policy. Whenever possible, we will reasonably attempt to notify you in some way 30 days before the effective date of the change. To comment on or ask about this Policy, contact us by phone (626) 357-9983, email privacy@avinc.com or postal mail to: AV Privacy Policy, AeroVironment, Inc., 800 Royal Oaks Drive, Suite 210, CA 91016.
 
-© 2016 AeroVironment, Inc.
+© 2017 AeroVironment, Inc.
