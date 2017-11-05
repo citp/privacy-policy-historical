@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630093027id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105061610id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
 
 # Porch | Privacy
 
