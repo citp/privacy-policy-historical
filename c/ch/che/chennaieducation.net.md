@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chennaieducation.net privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202021635id_/http%3A//www.chennaieducation.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaieducation.net privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105173637id_/http%3A//www.chennaieducation.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
