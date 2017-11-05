@@ -1,90 +1,213 @@
-> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227192754id_/https%3A//www.craftsman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105135539id_/https%3A//www.craftsman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Craftsman
 
-### What Type of Information Do We Collect and How Do We Use It?
+_**Scope**_. This Privacy Policy applies to personal information collected online, used and disclosed by Stanley Black & Decker, Inc.’s affiliates including but not limited to CRAFTSMAN, Black+Decker, Bostitch, DEWALT, ELCO, Emglo, InnerSpace, Lista, Mac Tools, Porter-Cable, Powers, Proto, Stanley, Stanley FatMax, and Vidmar (collectively referred to as “Stanley Black & Decker”) in connection with its U.S.-based websites, microsites, mobile sites or mobile apps that expressly adopt, display or link to this Privacy Policy (collectively referred to as our “Sites”). It also applies to personal information we collect, use and disclose in connection with Stanley Black & Decker pages on social media sites, such as Facebook®, Twitter®, Google Plus® or others (collectively referred to as our “Social Media Pages”). 
 
-We may collect personally identifiable information ("PII" - for example, your full name, email address, mailing address, telephone number, mobile phone number or credit card number) from you when you voluntarily submit the information to us, such as when you purchase items from us, sign up for one of our services or programs or register with our Site. We may also collect PII from you--either directly or via a third party--in other ways, including, without limitation, if you choose to subscribe to our email program; participate in sweepstakes, contests, surveys, and polls; participate in our Personal Shopper program; post content or suggestions on this Site; or use any of this Site's other features that otherwise permit you to provide information or other content.
+**NOTE** : Stanley Black & Decker licenses the use of its trademarks to unrelated third parties which operate websites independently from Stanley Black & Decker. This Privacy Policy does not cover the websites of these third parties. These third parties have separate and independent privacy policies which we recommend you read carefully.
 
-We also may collect other information about you, including, without limitation, demographic information (such as number of household members, age, and gender) and information about your purchase preferences directly from you (whether online or offline) or from third parties such as public databases, social media platforms, data append services and others. In addition, we may collect information (such as your interests, hobbies, lifestyle choices, groups with which you are affiliated, products you want, like or own) from you as you use this Site and when you choose to provide this information to us through any interaction with this Site or otherwise.
+_**This Privacy Policy answers the following questions**_
 
-We may use the information we collect from and about you to: process and fulfill your order, notify you of your order status, prevent fraud and otherwise provide you with customer service; respond to your inquiries and requests; create an account and register you as a registered Site user ("Registered User") and/or Shop Your Way member ("Member"); for marketing purposes and to send you information regarding this Site and other Sears Holdings Sites, as well as about our products, programs or services; provide you with mobile alerts, if you have requested them; customize your experience on this Site and on other Sears Holdings Sites; provide you with relevant offers, products and services; permit you to use this Site's social networking features; or provide you with other services. Please note that message and data fees may apply if you register for mobile alerts. We may also use the PII we collect from and about you for our business purposes, such as data analysis, audits, developing new products and services, enhancing our Sites, improving our services, personalizing your experiences, identifying usage trends and determining the effectiveness of our promotional campaigns.
+: 
 
-We use single sign-on services that allow you to sign into this Site using your third-party social networking login credentials for accounts such as Facebook, Google or Yahoo. This allows you to link your existing social network profile to your Site account. Once connected, you will be able to post content on the third-party website from this Site and interact with your friends from the third-party site(s). Any information or content that you post to the third-party website will be subject to that website's own privacy policy. We may also access and use available information from your third-party social network profile, such as your name, location, profile picture and information, gender, list of friends, friends' profiles or postings, email address, wall postings and news feed.
+  1. _What information does Stanley Black & Decker collect about you on our Sites and Social Media Pages?_
+  2. _How do we use the information we collect about you?_
+  3. _How is technology used to serve our advertisements on other Sites that you visit and what choices do you have?_
+  4. _Does Stanley Black & Decker share your information with third parties?_
+  5. _What choices do you have over how Stanley Black & Decker uses your information?_
+  6. _How does Stanley Black & Decker secure your information on its Sites?_
+  7. _Will this Privacy Policy change?_
+  8. _How can I contact Stanley Black & Decker?_
 
-We may use your PII to allow you to send messages to a friend through this Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend's name and email address.
 
-Some Site features may make use of your device attributes and settings that will allow our Site to determine your physical location. Such technologies may include IP address mapping, WiFi, GPS signals, cell tower positioning or other technologies. We use this information to enhance and personalize your experience and provide you with offers, products and services that may be of interest to you. For example, this Site may help you find your closest store or send you messages that may be of interest to you based on your current location. Sears Holdings has no control over your device settings, but we do recommend enabling location services on your device so you can take advantage of the location based features and functionality offered by this Site.
+  1. _**What information does Stanley Black & Decker collect about you on our Sites and Social Media Pages?**_
 
-Non-PII may be collected from you by means of cookies, pixel tags (also called web beacons or clear gifs), local shared objects and other technologies. Cookies are small bits of information that this Site places on your computer. We and our third party service providers use these technologies to identify your IP address, browser type, device characteristics, domain name, referring urls and specific links and web pages through which you click. This data is collected automatically and utilized for data analytics, site operations, fraud prevention and to help us improve this Site and your overall experience. This technology also allows us to recognize you when you return to this Site and to provide you with a customized experience that we feel will be of value to you. We may use and disclose non-PII in any manner for any purpose, except where prohibited under applicable law.
+We may collect information about you from a variety of sources, including when:
 
-### What Information Do We Share and With Whom?
+    * you provide us information
+    * we observe or collect information through technology 
+    * we receive information about you from third parties
+    * we collect information on our Social Media Pages.
 
-We may share your PII with members of the Sears Holdings family of businesses to provide you with products or services that you have requested, to provide you with promotional offers we believe will be of interest to you and for any other purpose described in this Privacy Policy. The Sears Holdings family of businesses includes all Sears Holdings affiliates, as well as other selected third party businesses with which Sears Holdings or its affiliates have a relationship and which have agreed to appropriate restrictions on the disclosure and use of your information. We do not rent or sell your PII to marketers outside the Sears Holdings family of businesses, unless indicated in this Privacy Policy or you otherwise authorize us to do so.
+See the sections below for more information.
 
-Sears Holdings may make third party applications available to you on our Sites and you may choose to authorize us to share your information with the application and its publisher. We require third parties who publish applications on our Sites to give you notice of their own privacy policy, which you should review prior to authorizing the application to access your information.
+**Information You Provide**
 
-We may disclose your PII to identify you to anyone to whom you send messages through this Site. You may disclose your own PII on message boards, chat, profile pages, blogs and other social networking features and services to which you are able to post information and materials. Please note that any information you post or disclose through these services may be available to Site visitors and to the general public, depending on the particular service and any privacy settings in place (such as through your profile).
+We may ask you to provide information about yourself directly to our Sites, such as the following:
 
-We may share your PII with service providers and other third parties that need access to your information to provide operational or other support services, such as payment processors, shipping agents, and product fulfillment vendors. These third parties must agree to appropriate restrictions on the disclosure and use of your information. Unless otherwise disclosed to you, these third parties are prohibited from using your PII for their own marketing purposes.
+    * name
+    * email address
+    * mailing address 
+    * telephone number
+    * mobile phone number
+    * username and password
+    * personal preferences
+    * purchase and order information
+    * information on products you want, like or own • credit card number
+    * demographic information (for example, number of household members, country of residence, age and gender)
+    * information related to customer satisfaction, including surveys
+    * purchasing habits and other information, including registration of products purchased
+    * interests and hobbies
+    * resume, cover letter and similar employment-related materials
 
-We may provide information about you, which may include PII, to regulatory authorities and law enforcement officials in accordance with applicable law, when we otherwise believe in good faith that the law requires it or to respond to requests from government authorities. There may be instances when we may use or disclose your PII in order to protect or defend the legal rights, property or operations of Sears Holdings or our employees or agents; to protect the rights, privacy, safety or security of users, members or others; to protect against fraud; and to allow us to pursue available remedies or limit the damages that we may sustain.
+We may allow you to use your personal social media account, on social media sites (“Personal Social Media Account”), to provide information to us when you participate in certain features on our Sites, but we will ask your permission prior to doing so. This information may include any information you have shared on your Personal Social Media Accounts, such as the following:
 
-Sears Holdings may sell, transfer and/or share PII with third parties in connection with a merger, reorganization, joint venture, assignment, spin-off, transfer or sale or disposition of all or any portion of our business, and in the event of a store closing or bankruptcy.
+    * your name
+    * profile picture
+    * gender
+    * networks
+    * user ID
+    * list of friends
+    * language
+    * birthday
+    * education
+    * work history
+    * address
+    * interests
+    * likes
+    * country
 
-### Can I Disable Cookies?
+It is also possible that we will be able to continue collecting this information from your Personal Social Media Accounts should the information be revised by you later. You may choose not to provide us with certain requested information, but then you might not be able to take advantage of some of the features on our Sites.
 
-Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function.
+**Information Observed or Collected Through Technology**
 
-We may also use Flash Cookies, LSOs and other technologies to, among other things, collect and store information about your use of the Services, fraud prevention and other site operations. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html "Website Storage Settings Panel"). You can also control Flash LSOs by going to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html "Global Storage Settings Panel") and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the Services or our online content.
+a. Navigational Information. Navigational information, such as the following, is collected by us and our third party service providers when you use our Sites:
 
-If you do elect to disable cookies, please note that you may not be able to take full advantage of a personalized experience on this Site and on other Sears Holdings Sites.
+    * browser type and version
+    * operating system
+    * the Internet service provider used to access our Sites
+    * IP Address
+    * use of links to arrive at our Sites and the IP address from which you arrived
+    * web pages requested and viewed
+    * time spent on our Sites
+    * for our mobile websites and apps, technical information about the device used, such as screen size, cookie support by the device and how images may appear.
 
-### How Do We Handle Personally Identifiable Information Collected from Children?
+b. Location Information. Our Sites and emails include features that may require collecting different types of location information that we then use for the specific feature you have selected, such as:
 
-This Site is a general audience site and we do not knowingly collect personal information from children under 13 years of age. In the event a Sears Holdings Site or portion thereof is directed to children under 13, the Site will contain a Children's Online Privacy Policy that complies with the Children's Online Privacy Protection Act.
+    * Where to Buy and Store Locator. Our Sites may allow you to search for the nearest store that offers the Stanley Black & Decker product that you want and whether such nearby stores have certain of our items in stock. If you access one of our Sites through a mobile device and you have enabled location-based services, specific location information may be collected for these features. If you access these features through a desktop device, you may be able to choose to have your browser provide us your location information to respond to your request. The specificity of the desktop device location information can vary depending on the browser you are using and how you are connected to the internet.
+    * Email. Our emails may use your IP Address to determine the postal code where you are located when you open the email. This allows us to tailor content to you, such as a map of nearby stores carrying our products. The specificity of the location can vary depending on the device used to open our emails.
+    * Bluetooth® Enabled Products and Sites. This section applies to additional personal information that may be collected, used, and disclosed related to our Bluetooth® enabled products and related Sites (collectively our “Bluetooth® Enabled Products and Sites”). If you access our Bluetooth® Enabled Products and Sites through a mobile device, we may collect and use your mobile device’s location services and Bluetooth® capabilities to identify the date, time and location of your mobile device when it was last in Bluetooth® range of a registered, Bluetooth® Enabled Product. This is done to assist you in locating a registered Bluetooth® Enabled product. We may also collect location information about your registered Bluetooth® Enabled product as sent to us via other users’ mobile devices, and location information about other users’ registered Bluetooth® Enabled products as sent to us via your mobile device. (Bluetooth® is a registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Stanley Black & Decker is under license). 
 
-### I Am a Minor, How Can I Remove My Posted Content?
+If you do not consent to have your browser provide location information or you disable location-based services on your mobile device, we may ask you to manually select the region where you are located, or to enter your zip code; if you chose not to provide this information some features of the Sites may not be available. See the _“What choices do you have over how Stanley Black & Decker uses your information?”_ section below for the choices you have regarding collection of location information.
 
-If you are under 18 and a Registered User or Member, you may ask us to remove content or information that you have posted to the Site. To remove posted content or information on shopyourway.com, please write to [support@shopyourway.com](mailto:support@shopyourway.com "support@shopyourway.com"). To remove posted content or information from any other Site, please write to [CAPrivacyRights@Customerservice.sears.com](mailto:CAPrivacyRights@Customerservice.sears.com "CAPrivacyRights@Customerservice.sears.com"). Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.
+c. Cookies and other similar technology. We and our third party service providers use “cookies.” Cookies assign a unique identification to your device and are typically stored on your device by your web browser. We may also use pixel tags (also known as web beacons, web bugs, and clear GIFs) on the Sites and in emails. A pixel tag is a nearly invisible pixel-sized graphic image on a webpage or in an email message. 
 
-### What About Links to Other Sites?
+The information we and our third party service providers collect through cookies, pixel tags and similar technology includes the following:
 
-This Site may contain links to other websites or applications that are not owned and operated by Sears Holdings. In addition, some of our Sites feature content drawn directly from third party websites using a technique known as i-framing or simply "framing." These frames allow you to view and interact directly with the third party website from within our Site. Sears Holdings is not responsible for the privacy practices of non-affiliated websites or applications, including, without limitation, those that are linked to or framed on this Site. You should read the privacy statements of each and every website and application that collects PII.
+    * your interactions with our Sites and with our advertisements
+    * the time of your visit to our Sites
+    * items you put into your shopping cart and whether you purchase any or all of those items
+    * confirmation when you open email from us, including the time you open the email and whether you click on any links in the email
+    * sites you visit after visiting one of our Sites.
 
-### Interest-Based Ads - Online Advertisements
+For additional information on the use of cookies for advertising, see “3. How is technology used to serve our advertisements on other Sites that you visit and what choices do you have?”.
 
-This Site may display ads from other companies. We also partner with third-party service providers to serve ads on our behalf on other non-affiliated third party sites or apps. Some of the ads on this Site or on third party sites or apps may be personalized, meaning that they are intended to be relevant to you based on what we or the online advertising network serving the ad know about you or your device's browsing activity. For example, anonymous information collected by our ad networks or other third-party service providers across multiple sites that you visit may enable the ad network to predict your preferences and show you ads that are most likely to be of interest to you. We may share your information with our service providers to permit them to recognize and serve targeted ads to you across the different devices you use. Before we share your information, we transform, or “hash”, it so that it is not in personally identifiable form.
+Information Obtained from Third parties
 
-If you do not wish to receive personalized advertising from us on other mobile or desktop sites, please visit the Network Advertising Initiative Opt-Out [page](http://www.networkadvertising.org/managing/opt_out.asp "Network Advertising Initiative Opt-Out").You may download the AppChoices app at [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices/ "AppChoices app")
+We may combine information about you from other sources with the information we have collected about you on our Sites or Social Media Pages. 
 
-The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/ "General Information") for general information about the NAI and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
+For example, in connection with searching and applying for jobs with us, we use a third party to collect and process the applicant profiles and preferences, monitor website activity, maintain the database based in the U.S and provide plug-ins (such as LinkedIn) at your request. We require that the information you provide on pages hosted by these third parties be maintained by them in confidence. Information you voluntarily supply will be stored in a database, which will be accessed by authorized personnel of Stanley Black & Decker to address your inquiry or consider you for employment purposes with any of our affiliates. We may also keep the information for future consideration.
 
-To learn more about interest based advertising and to manage your preferences for Sears and Kmart branded online ads, please visit the [Sears Online Advertising Preference Center](http://www.sears.com/en_us/customer-service/policies/terms-of-use.html?adcell=customer%20service%20%3Etermsuse "Sears Online Advertising Preference Center") or the [Kmart Online Advertising Preference Center](http://www.kmart.com/en_us/customer-service/Policies/term-of-use.html?adcell=customer%20service%20%3E%20kterms_of_use "Kmart Online Advertising Preference Center").
+Information Collected on Stanley Black & Decker’s Social Media Pages
 
-These opt-out mechanisms rely on cookies to remember your choices with respect to ad-serving on websites. If you delete your cookies, use another computer or device, or change browsers, you will need to repeat this process. In addition, opting out of interest-based ads will not opt you out of all ads, but rather only those ads that are personalized to your interests based on activities observed on our Site and/or web sites or mobile apps not owned and operated by Sears Holdings.
+Personal information may be collected directly by us through our Social Media Pages. The type of information we would collect is similar to what is described above under “Information You Provide.” Personal information may also be collected by the social media site hosting our Social Media Pages. Our Privacy Policy does not cover the privacy and security practices of the social media sites on which Stanley Black & Decker has its Social Media Pages.
 
-### Is My Information Secure?
+  2. _**How do we use the information we collect about you?**_
 
-We maintain reasonable and appropriate physical, electronic and procedural safeguards to protect your PII. While we work very hard to protect your privacy, no method of security is 100% effective, and we cannot be responsible for the actions of those who may gain unauthorized access to your PII. Sears Holdings makes no warranties, express, implied or otherwise, as to the ultimate effectiveness of its reasonable and appropriate safeguards.
+The information we learn from you helps us personalize your experience with us and our communications to you, and helps us continually improve your experience on our Websites. 
 
-### How Can I Access My Information?
+We use the information you provide, information collected through your Personal Social Media Accounts and information collected on our Social Media Pages for things like:
 
-You can personalize your experience on this Site and other Sears Holdings Sites by becoming a Registered User or Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive information about special sales, promotions and other events. Once registered, you can submit, review and maintain your account profile information at any time by accessing your profile from within the particular Site. Your account information is accessible by using a password that you select or by using third-party social networking login credentials for accounts such as Facebook, Google or Yahoo if you choose to enable this feature.
+    * processing your order
+    * opening an online account
+    * improving and developing our products
+    * servicing our customers
+    * advertising and marketing, including emails and postal mail
+    * personalizing your experience when visiting our Sites
+    * responding to your inquiries
+    * market research and surveys
+    * conducting events, promotions, contests and sweepstakes
+    * warranty and product registration
+    * facilitating recalls
+    * using product registration to provide additional services you may select
+    * processing job applications
 
-### Can I "Opt-Out" of Receiving Promotional E-mails?
+We use navigational information gathered through technology for determining things like:
 
-From time to time, we may send you e-mails with promotional offers and messages. If you would no longer like to receive e-mails with promotional offers and messages from this Site, you can unsubscribe from these e-mails by following the unsubscribe link located at the bottom of each promotional e-mail. Please note that you may still receive transactional or relationship or other non-promotional e-mails (e.g. order confirmations, shipping notices, statements, important information regarding a product you have purchased).
+    * which parts of our Sites are most visited or used
+    * what products are browsed 
+    * how to improve and better transact business
+    * the effectiveness of our Sites • difficulties visitors may experience in accessing our Sites
+    * monitoring the number of visitors to our Sites
+    * average time spent on our Sites
+    * any programming errors or failures on any of our Sites
 
-### Where Is My Information Stored?
+We use information collected through cookies and similar technology to determine many of the same things listed for navigational information above. In addition cookies and similar technology are used for things like:
 
-Your PII may be stored and processed in any country where we have facilities or in which we engage service providers, and by using our Site, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country. This Site is controlled and operated by us from the United States and is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.
+    * personalizing your experience on our Sites
+    * serving tailored ads on other sites, as described below
+    * tailoring email marketing to you based on your preferences on or use of our Sites 
+    * determining return visitors
+    * keeping track of items in your cart
+    * measuring the effectiveness of our advertising.
 
-### How May I Contact You?
+Similar to the navigational information described above, the social media sites where we have our Social Media Pages may provide aggregate information and analysis to us about visitors to our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of, and interaction with content on, our Social Media Pages.
 
-If you have any questions about this Privacy Policy, please contact us at [PrivacyOffice@searshc.com](mailto:PrivacyOffice@searshc.com "Mail to PrivacyOffice@searshc.com"). Because email communications are not always secure, please do not include credit card or other financial information, health or prescription-related information or other sensitive information in your email to us. If you prefer to contact us via US Mail, please address your inquiry to:
+  3. _**How is technology used to serve our advertisements on other Sites that you visit and what choices do you have?**_
 
-Sears Holdings Management Corporation  
-ATTN: Legal Intake  
-3333 Beverly Road  
-Hoffman Estates, IL 60179 
+We contract with third party advertising companies to tailor online advertising to be directed to you on other websites. These third party advertising companies place, use, or rely on technology, such as cookies and pixel tags, to obtain information about your interactions with our Sites as well as with other websites. This information helps us select advertising to serve to you and where to serve it based on your experience on our Sites and other sites that you visit.
+
+For information about opt out programs that these third party advertising companies participate in, and the effect of opting out, click the following: DAA Opt Out [click here](http://www.aboutads.info/choices/). By clicking this website, you will then leave our Site for another online site where you may specify your preferences under that opt-out program. You can also click the preference icon that may appear on some of our advertising served through these technologies. You should also note that our systems may not recognize “Do Not Track” headers from some or all browsers.
+
+  4. _**Does Stanley Black & Decker share your information with third parties?**_
+
+We do not sell, rent, or trade your personal information to unrelated third parties except as set forth below. We may share your personal information with the following:
+
+    * our affiliates and brands so that they can provide information to you about their products, which includes the affiliates listed under “Scope” above and those specified at <http://www.stanleyblackanddecker.com/contact/contact-us>.
+    * our affiliates, licensees and third party service providers in order to perform tasks on our behalf such as the following: 
+      * facilitating your purchase
+      * assisting in servicing products
+      * product registrations
+      * responding to your requests and providing product information
+      * helping you exchange products
+      * providing and improving communications with you
+      * responding to investor relations requests
+      * cloud based and hosting services
+    * as required to cooperate with a subpoena, search warrant or other legally valid inquiry, court order or other legal process, or as required or permitted by law
+    * to protect the rights, property or safety of our Sites, our users or others, including where necessary for the establishment, exercise or defense of legal claims.
+
+If Stanley Black & Decker were ever merged with or acquired by another company, or if we acquire another business entity or are involved in a corporate reorganization or other change of control, or if we sell substantially all the assets of a division, affiliate or subsidiary, some or all of the personal information collected about you could be shared with the acquiring or acquired company.
+
+We may also share aggregate data about our sales, customers, traffic patterns, and other related Site information with third parties, but none of this data is connected to an individual’s personal information.
+
+  5. _**What choices do you have over how Stanley Black & Decker uses your information? **_
+
+We give you choices about the information we collect and how we communicate with you. 
+
+    1. **Email** : You may opt-out of our marketing emails by following the instructions listed in the email that you received. However, even if you opt-out you may still receive non-marketing emails, such as order/shipping confirmations or customer service communications.
+    2. **Location Information:**
+
+a. Mobile Device Location Information. Your mobile device settings may allow you to disable location-based services, which will prevent our Sites from accessing your precise mobile device location information. We recommend you review the help or user manual provided with your device for instructions.
+
+b. Desktop Device Location Information. Your desktop web browser may allow you to remove permission you granted through your desktop device for our Sites to access your location information and/or completely block requests for location information. We recommend you review the help or user manual provided with your browser for instructions.
+
+c. Email Location Information. Your email program may allow you to prevent the pixel tags or images in the emails you receive from us from downloading, which will also prevent our service provider from accessing your location information. You can also unsubscribe from receiving our emails, as described in the "Email" section above.
+
+    3. **Postal Marketing** : If you no longer want to receive marketing materials from us via regular postal mail, please contact us at (888) 331-4569, Option 2, and tell us that you want to be removed from the mailing list, including the postal address you wish to have removed. Or if you prefer to contact us via U.S. mail, please use the following postal address: Attn: Opt-Out Request Manager, Stanley Black & Decker, 701 E. Joppa Road, Mail Stop No. RP635, Towson, Maryland 21286, Attn.: Customer Service Dept.
+    4. **California Opt-Out Rights** : Under California law, if you are a resident of California and have previously communicated with us or purchased something from us, you may make a written request to Stanley Black & Decker about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, Stanley Black & Decker is allowed to provide you with a cost-free means to opt-out of such sharing rather than providing the information about these third parties. We are providing the opportunity to opt out, which you can do by sending an opt-out request that includes your name and all of the postal addresses and email addresses that you have provided to us to the following postal address: Attn: Opt-Out Request Manager, Stanley Black & Decker, 701 E. Joppa Road, Mail Stop No. RP635, Towson, Maryland 21286, Attn.: Customer Service Dept.
+  6. _**How does Stanley Black & Decker secure your information on its Sites?**_
+
+If you are using one of our Sites with an online store, we designed our online store to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology, which encrypts your information while it is being transmitted to us. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Sites. We also use firewalls and have implemented other reasonable technical, administrative and physical measures designed to protect the personal information in our custody or control from unauthorized access, use, modification and disclosure. While we implement the above security measures on our Websites, you should be aware that 100% security is not always possible.
+
+  7. _**Will this Privacy Policy change?**_
+
+We may make changes to this Privacy Policy at any time, so please review it periodically. If we make a material change to our information collection, use or disclosure practices specified in this Privacy Policy, it will be applied only to information collected on a going forward basis. We will update the effective date of the Privacy Policy at the time a change is made. 
+
+  8. _**How can I contact Stanley Black & Decker?**_
+
+If you have questions or concerns with respect to our Privacy Policy, please contact the Privacy Policy Manager by sending an email to PrivacyPolicyManager@sbdinc.com and include your question. Or if you prefer to contact the Privacy Policy Manager via U.S. mail, please use the following postal address: Stanley Black & Decker, Inc., 701 E. Joppa Road, Mail Stop No. TW230, Towson, Maryland 21286, Attn: R. Weyand.
+
+
+
+
+Effective as of: July 6, 2017
