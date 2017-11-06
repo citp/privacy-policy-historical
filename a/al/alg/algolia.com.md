@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the algolia.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514151728id_/https%3A//www.algolia.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algolia.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106030958id_/https%3A//www.algolia.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy policies | Algolia
+# PRIVACY POLICY | Algolia
 
 This privacy policy (the “Policy”) governs data and information collected by Algolia, Inc. (“Algolia US”) and its subsidiary, Algolia, SAS (“Algolia France”). Algolia US and Algolia France are collectively referred to as “Algolia”. This Policy also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
