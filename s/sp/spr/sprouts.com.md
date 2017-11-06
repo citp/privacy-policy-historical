@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprouts.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325012531id_/https%3A//www.sprouts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprouts.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106182747id_/https%3A//www.sprouts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sprouts Farmers Market
 
@@ -54,7 +54,7 @@ REST ASSURED THAT SPROUTS DOES NOT SELL YOUR PERSONAL INFORMATION TO THIRD PARTI
 
 **6\. CHILDREN'S PRIVACY.**  The Website is not intended for the use by anyone under the age of eighteen (18). Sprouts does not knowingly solicit and does not wish to receive any information from children.
 
-**7\. ACCESS TO PERSONAL INFORMATION.**  If you would like to review your Personal Information, contact Sprouts at customerrelations@sprouts.com or call 1-888-577-7688. If you need to make changes to, but not purge, your Personal Information, you may do so by calling Sprouts Customer Service at 1-888-7688, or by mail sent to Sprouts Customer Service, 11811 North Tatum Boulevard, Suite 2400, Phoenix, AZ 85268. You hereby agree that Sprouts may use and disclose any suggestions, ideas, concepts or information (other than your Personal Information) that you provide to Sprouts regarding this Policy, Sprouts' business or any other matter, without obligation to you or any third party.
+**7\. ACCESS TO PERSONAL INFORMATION.**  If you would like to review your Personal Information, contact Sprouts at customerrelations@sprouts.com or call 1-888-577-7688. If you need to make changes to, but not purge, your Personal Information, you may do so by calling Sprouts Customer Service at 1-888-577-7688, or by mail sent to Sprouts Customer Service, 11811 North Tatum Boulevard, Suite 2400, Phoenix, AZ 85268. You hereby agree that Sprouts may use and disclose any suggestions, ideas, concepts or information (other than your Personal Information) that you provide to Sprouts regarding this Policy, Sprouts' business or any other matter, without obligation to you or any third party.
 
 **8\. MERCHANT SERVICES.**  You may be able to access certain information related to third parties at the Website, or via hyperlinks, banner ads, or "click-throughs" from the Website, regarding the goods or services of third parties (collectively, "Merchant Services"). You understand and agree that your access to or use of Merchant Services is a matter entirely between you and the associated third parties, and Sprouts shall have no liability whatsoever for any such access or use.
 
