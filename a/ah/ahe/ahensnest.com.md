@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahensnest.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510120010id_/http%3A//ahensnest.com/privacy-policy-ahensnestcom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahensnest.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106022953id_/http%3A//ahensnest.com/privacy-policy-ahensnestcom) for the most accurate reproduction.*
 
 # Privacy Policy - A Hen's Nest - NW PA Mom Blog
 
