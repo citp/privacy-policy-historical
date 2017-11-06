@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110259id_/http%3A//www.ellusionist.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106102720id_/http%3A//www.ellusionist.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security | Ellusionist
 
@@ -6,11 +6,11 @@ We value your privacy, and promise never to sell or rent your email address or p
 
 The Ellusionist Store uses industry-standard SSL (128-bit Secure Sockets Layer) encryption to protect the confidentiality of your personal and credit card information during transmission over the Internet. Our privacy policy insures that your information is fully secure and protected. 
 
-Thank you for your interest in ellusionist.com (“ellusionist®”) and our website located at [http://www.ellusionist.com](http://www.ellusionist.com/).  We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information about visitors to our website.  By using this website, you consent to the following terms.
+Thank you for your interest in ellusionist.com (“ellusionist®”) and our website located at [www.ellusionist.com](https://www.ellusionist.com/).  We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information about visitors to our website.  By using this website, you consent to the following terms.
 
 **Children's Online Privacy Policy**
 
-ellusionist® has adopted special procedures applicable to personal information from children under the age of 13 in compliance with the Children's Online Privacy Protection Act of 1998. [Click to read the Children's Privacy Policy](http://www.ellusionist.com/privacy-security#cps). Any conflicting portions of our general Privacy Policy are superceded by this Policy. 
+ellusionist® has adopted special procedures applicable to personal information from children under the age of 13 in compliance with the Children's Online Privacy Protection Act of 1998. [Click to read the Children's Privacy Policy](https://www.ellusionist.com/privacy-security#cps). Any conflicting portions of our general Privacy Policy are superceded by this Policy. 
 
 **What we collect**
 
@@ -42,17 +42,17 @@ You may update your information by sending an email to [support@ellusionist.com]
 
 **Policy Changes**
 
-ellusionist® reserves the right to change this privacy policy, and will post any revisions on its website located at [http://www.ellusionist.com](http://www.ellusionist.com/).  We encourage you to review this Privacy Policy regularly for any changes.  Your continued use of this web site will be subject to the then-current privacy policy.
+ellusionist® reserves the right to change this privacy policy, and will post any revisions on its website located at [www.ellusionist.com](https://www.ellusionist.com/).  We encourage you to review this Privacy Policy regularly for any changes.  Your continued use of this web site will be subject to the then-current privacy policy.
 
 **Questions?**
 
-If you have any questions about our privacy practices, please feel free to contact us at[ http://esupport.ellusionist.com/](http://esupport.ellusionist.com/) or by phone at one of the numbers listed below.
+If you have any questions about our privacy practices, please feel free to contact us at[ //esupport.ellusionist.com/](https://esupport.ellusionist.com/) or by phone at one of the numbers listed below.
 
 * * *
 
 **Children's Online Privacy Policy**
 
-ellusionist® has adopted special procedures applicable to personal information from children under the age of 13 in compliance with the [Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm). Any conflicting portions of our general Privacy Policy are superceded by this Policy. 
+ellusionist® has adopted special procedures applicable to personal information from children under the age of 13 in compliance with the [Children's Online Privacy Protection Act of 1998](https://www.ftc.gov/ogc/coppa1.htm). Any conflicting portions of our general Privacy Policy are superceded by this Policy. 
 
 **Contact Information**
 
