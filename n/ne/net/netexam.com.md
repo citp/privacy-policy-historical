@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the netexam.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150527id_/http%3A//www.netexam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netexam.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106215528id_/http%3A//www.netexam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Netexam
 
 **MEDIA DEFINED, INC.** **  
-****PRIVACY POLICY – UPDATED JANUARY 2016**
+****PRIVACY POLICY – UPDATED JANUARY 2017**
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use personally identifiable information (“Personal Information”) that you provide to us and to assist you in making informed decisions when using our website and services (collectively, “Media Defined” or “Website”).
 
