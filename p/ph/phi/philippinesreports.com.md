@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philippinesreports.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503150233id_/http%3A//www.philippinesreports.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philippinesreports.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106033436id_/http%3A//www.philippinesreports.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
