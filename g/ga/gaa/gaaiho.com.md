@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaaiho.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070714id_/http%3A//gaaiho.com/index.php/en/about-zeon/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaaiho.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106062812id_/http%3A//www.gaaiho.com/index.php/en/about-zeon/legal/privacy-statement) for the most accurate reproduction.*
 
 # Gaaiho PDF│Expertly Create, Edit, Secure and Annotate PDF - Privacy Statement
 
