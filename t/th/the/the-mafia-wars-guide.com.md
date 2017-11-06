@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-mafia-wars-guide.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216194706id_/http%3A//www.the-mafia-wars-guide.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-mafia-wars-guide.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106143113id_/http%3A//www.the-mafia-wars-guide.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Mafia Wars Strategy Guide: Privacy Policy
 
