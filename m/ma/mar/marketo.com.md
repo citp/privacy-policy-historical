@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530094131id_/http%3A//legal.marketo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106034237id_/http%3A//legal.marketo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Marketo
 
@@ -145,7 +145,7 @@ Similarly, please note that we are not responsible for the collection, use and d
 
 * ### Sensitive Information
 
-We that you not send us or disclose any sensitive Personal Information ( _e.g._ , social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Sites or via other means. 
+We ask that you not send us or disclose any sensitive Personal Information ( _e.g._ , social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Sites or via other means. 
 
 * ### Changes to this Privacy Policy 
 
@@ -153,7 +153,7 @@ Marketo may amend this Privacy Policy from time to time. The “ _Effective Date
 
 * ### Privacy Shield Certification 
 
-Marketo complies with the EU-U.S. Privacy Shield Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries and Switzerland. Marketo has certified that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. To learn more about the Privacy Shield program, and to view Marketo’s certification, please visit <http://www.privacyshield.gov/> or see our Privacy Shield Notice at [http://legal.marketo.com/privacyshield.](http://legal.marketo.com/privacy-shield)
+Marketo complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries and Switzerland to the United States, respectively. Marketo has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Marketo’s certification, please visit <http://www.privacyshield.gov/> or see our Privacy Shield Notice at [http://legal.marketo.com/privacyshield.](http://legal.marketo.com/privacy-shield)
 
 * ### International Transfer of Data 
 
