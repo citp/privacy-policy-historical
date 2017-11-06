@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsaving.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142647id_/http%3A//dealsaving.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsaving.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106071818id_/http%3A//www.dealsaving.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy--dealsaving
 
