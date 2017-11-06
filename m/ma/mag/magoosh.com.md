@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magoosh.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163653id_/https%3A//magoosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magoosh.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106030702id_/https%3A//magoosh.com/privacy-policy) for the most accurate reproduction.*
 
 # Magoosh – Privacy Policy
 
