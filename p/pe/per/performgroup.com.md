@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performgroup.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620022138id_/http%3A//www.performgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performgroup.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106211405id_/http%3A//www.performgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Perform Group
 
