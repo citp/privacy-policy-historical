@@ -1,97 +1,163 @@
-> *The following text is extracted and transformed from the belfasttelegraph.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630163544id_/http%3A//www.belfasttelegraph.co.uk/legals/article1617183.ece) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belfasttelegraph.co.uk privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106115620id_/http%3A//www.belfasttelegraph.co.uk/service/privacy-and-cookie-policy-35669791.html) for the most accurate reproduction.*
 
-# Privacy Policy - Legals - Belfast Telegraph
+# Privacy and cookie policy - BelfastTelegraph.co.uk
 
-## Privacy Policy
+Independent News and Media Limited and its associated companies fully respect your right to privacy. 
 
-Tuesday, December 05, 2006 
+(Updated on 04/05/2017)
 
-**Privacy Policy**
+This Privacy and Cookie Policy applies to the operations of this website ("belfasttelegraph.co.uk website") operated by Independent News and Media Limited, which is part of Independent News & Media PLC, a company registered in the United Kingdom under number 1908967 and having its registered office at 39 Welbeck Street, London, W1G 8DR (hereinafter "INM"). For the purposes of this agreement "INM" shall mean Independent News & Media plus any Subsidiaries thereof and "Subsidiaries" has the meaning given to it by the Companies Act 2006. INM fully respect your right to privacy.
 
-_Please read this carefully_
+INM and its associated companies fully respect your right to privacy.
 
-Before using the Website (that is, any site operated by a company in the Independent News & Media group) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties. 
+**Data Protection: What information do we collect?**
 
-Independent News and Media Limited (together with its holding and associated companies where relevant), is hereinafter referred to as INM. 
+Our primary goal in collecting personal information is to provide you with the best and most useful content to help improve your online experience.
 
-**The basic principles**
+We collect certain kinds of information about our users for these reasons:
 
-By accessing and using the Website you are agreeing to be legally bound by the Terms & Conditions and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
+1\. To provide personalised services unique to individual users.
 
-IINM is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably. 
+2\. To help us to monitor and improve the services we offer.
 
-Knowing something about our users is, however, necessary to ensure that our service is continually improved. We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you. That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain the greatest possible free-to-user access to the Website. 
+3\. To sell advertising space on the site.
 
-We answer your important questions 
+4\. With user consent, to market services to individual users.
 
-**"What information do you collect about me?"**
+Visitors should be aware that each time they visit a website two general levels of information about their visit can be retained. The first level comprises statistical and other analytical information collected on an aggregate and non-individual specific basis of all browsers who visit the site, and the second is information that is personal or particular to a specific visitor who knowingly chooses to provide that information. It is policy of this website to respect and protect the privacy of our Customers and never wilfully disclose individually identifiable information about its Customers to any third party without first receiving that Customer's permission.
 
-We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual. 
+We may, however, occasionally email you with information or queries about your registration or accounts, for instance to request permissions or advise you of changes.
 
-We may also ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then entirely up to you whether you are happy to give us this information. 
+No personally identifiable information is collected about you on this website, apart from information which you volunteer (for example by emailing us, using our online forms or by making an inquiry about content or services).
 
-In the course of entering competitions, promotions and other offers you will be asked to give some details about yourself. You may also choose to e-mail us or make contact with us in other ways. Such contact gives us information about you. 
+Throughout this website you may have an opportunity to send us information relating to you such as through the "contact us" pages or any other area where you may send e-mails, request brochures, enter contests or respond to any promotions. By choosing to participate in these, you will be providing us with some level of personal information relating to you. This information will only be used by INM for:
 
-If you have any financial dealings or make purchases with our trading partners on co-branded sites, they will ask for certain information. This information may be shared with us. 
+  * the purposes for which it was provided by you;
+  * verification purposes and statistical analysis;
+  * to provide you with details of products, services, contests, competitions or promotions being provided or run by INM or any of its associated companies or any third party that we may select and which we may think would be of interest to you, in line with your request to receive this information.
 
-**"For what purposes do you collect and use this information?"**
 
-We use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the Website and audit its use. 
 
-The information about you as an identifiable individual, including contact details, may be used in the following ways: 
+ **What are Cookies**
 
-* to conduct market research and other surveys. 
+Cookies are small pieces of information, stored in simple text files, placed on your computer by a website. Cookies can be read by the website on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the website can ‘remember’ you on your return visit.
 
-* to create and draw to your attention editorial material and commercial opportunities that may be of interest to you. 
+Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the website. This website uses cookies to track usage and help improve features and services of the site.
 
-* to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also be able to share the information that they obtain about their users, which may include you. 
+Statistical and analytical information from cookies provides us with general and not individually specific information about the number of people who visit this website; the number of people who return to this site; the pages that they visit; where they were before they came to this site and the page in the site at which they exited. This information helps us monitor traffic on our website so that we can manage the site's capacity and efficiency. It also helps us to understand which parts of this site are most popular, and generally to assess user behaviour and characteristics in order to measure interest in and use of the various areas of the site.
 
-**"How private are my details?**
+**How we use Cookies**
 
-Apart from other companies in the INM group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. INM complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, or for any breach of security. 
+We collect information on our users through registration and the use of the website, through cookies, where you choose to disclose data in postings, and when you enter sales promotion and competitions.
 
-If you tell us that you do not want us to use your details, then data about your use of the Website would then only form part of aggregated statistics and would not be related to you as an individual. 
+We use cookies for a number of reasons:
 
-You can ask to see the information we have about you by e-mailing a request to customerservices@independent.co.uk. 
+1\. To gather statistics. We track how many 'unique users' we have and how often they visit our websites. We track how often different pages of our website are visited and which countries our visitors come from. Accurate statistics enable us to sell advertising and continue to provide a top quality service to you.
 
-**"What do I do if I am not happy for you to share information about me with others?"**
+2\. To track advertising response INM and its associated companies and third party advertisers generate statistical cookies to track ad impressions and click-through rates
 
-You may not wish us to share personal details about you with third parties outside the INM group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail customerservices@independent.co.uk at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy. Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order. 
+3\. Some cookies enable us to show you adverts that you might be more relevant to you, to control the number of times you see them, and measure how effective the ad campaign has been. We also utilise Google Remarketing in combination with Google Analytics to advertise online. Third-party vendors, including Google, show our advertisements on sites across the Internet. In addition, third-party vendors, including Google, use first-party cookies (such as Google Analytics cookie) and third-party cookies together to inform, optimise, and serve advertisements based on someone's past visits to our website.
 
-**Use of cookies on a website**
+4\. Flash cookies may be used to store user preferences for media player functionality and without them some video content may not render correctly.
 
-The basic principles 
+By using the site you are agreeing to the use of cookies as described.
 
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
+**Cookies we use**
 
-Two types of cookies are used on the Website: Session Cookies which are temporary cookies that remain in the cookie file of your browser until you leave the Website. Persistent Cookies which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of each specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. 
+There are two types of cookie you may encounter when using this site:
 
-**How we collect cookies on the Website and what information we collect**
+**FIRST PARTY COOKIES:** these are our own cookies, controlled by us and used to provide information about usage of our site.
 
-Session Cookies: To allow you to carry information across pages of the Website and avoid having to re-enter information. Persistent Cookies: To help us recognise you as a unique visitor (just a number) when you return to the Website and to allow us to tailor content, advertisements and the presentation of the Website to match your preferences. To compile anonymous, aggregated statistics that allow us to understand how users use the Website and to help us improve the structure of the Website. We cannot identify you personally in this way. 
+The following is a listing of the main cookies used on our site together with brief details of the information they store and for what purpose:
 
-**Third Party Cookies.**
+**Site performance cookies:** This type of cookie remembers your preferences/settings for tools found on an INM site.
 
-Third parties serve cookies via the Website. These are used for the following purposes: To serve advertisements on the Website and track whether these advertisements are clicked on by users. To control how often you are shown a particular advertisement. To count the number of anonymous users of the Website.To provide security within transactions. 
+**Analytics cookies:** Every time a user visits our website, web analytics software provided by a third party generates an anonymous analytics cookie. These cookies can tell us whether or not you have visited the site before. Your browser will tell us if you have these cookies, and if you don't, we generate new ones. This allows us to track how many individual unique users we have, and how often they visit the site. Unless you are signed in to an INM site, these cookies cannot be used to identify individuals; they are used for statistical purposes only. If you are logged in, we will also know the details you gave to us for this, such as username and email address.
 
-**Use of Web Beacons**
+**Registration cookies:** When you register with an INM site, we generate cookies that signal whether you are signed in or not. Our servers use these cookies to work out which account you are signed in with, and if you are allowed access to a particular service. It also allows us to associate any comments you post with your username. If you have not selected 'keep me signed in,' your cookies get deleted when you either close your browser or shut down your computer. While you are signed into this site, we combine information from your registration cookies with analytics cookies, which we could use to identify which pages you have seen on an INM site.
 
-Some of our web pages may contain electronic images know as web beacons (sometimes know as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. 
+**THIRD PARTY COOKIES:** these are cookies found in other companies’ internet tools which we are using to enhance our site, for example [Facebook](https://www.facebook.com/privacy/explanation) or [Twitter](https://twitter.com/privacy?lang=en), have their own cookies, which are controlled by them.
 
-**Disabling/Enabling Cookies.**
+A lot of the advertisements you see on this site are generated by third parties. Some of these third parties use their own anonymous cookies to track how many people have seen a particular ad, or to track how many people have seen it more than once. Visitors should be aware that INM is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests.
 
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the Website if cookies are disabled. 
+The companies that generate these cookies have their own privacy policies and INM has no access to read or write these cookies, other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website). These third party advertising cookies may be used by those third parties to anonymously target advertising to you on other websites, based on your visit to an INM site.
 
-**International transfer of personal data**
+If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. The following are links to the main third party advertising, analytics, survey and commenting platforms we use, each of which provides instructions on how to do this:
 
-As you will know, the internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way. 
+**Advertising: 16 trackers**
 
-**Further information**
+[Adobe Audience Manager](http://www.adobe.com/uk/privacy.html)  
+---  
+[Amazon Associates](https://affiliate-program.amazon.co.uk/gp/associates/join/landing/)  
+[AppNexus](https://www.appnexus.com/en/company/platform-privacy-policy)  
+[Criteo](http://www.criteo.com/privacy/)  
+[Doubleclick](https://www.google.com/policies/privacy/)  
+[Google Adsense](https://www.google.com/policies/privacy/)  
+[Google Publisher Tags](https://www.google.com/policies/privacy/)  
+[Grapeshot](https://www.grapeshot.com/privacy/)  
+[Integral Ad Science](https://integralads.com/privacy-policy/)  
+[Lotame](https://www.lotame.com/privacy/)  
+[Moat](https://moat.com/privacy)  
+[Onscroll](http://www.onscroll.com/)  
+[Rubicon](http://rubiconproject.com/privacy/)  
+[Scorecard Research Beacon](https://www.scorecardresearch.com/privacy.aspx?&newlanguage=1)  
+[Taboola](https://www.taboola.com/privacy-policy)  
+[Teads](https://teads.tv/privacy-policy/)  
+  
+**Site Analytics: 4 trackers**
 
-If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at [ customerservice@independent.co.uk](mailto:customerservice@independent.co.uk) . 
+**Essential: 4 trackers**
 
-**Company and data protection information**
+**Social Media: 1 tracker**
 
-The data controller of data on the Website is Independent News and Media Limited, which is a company in the Independent News &amp; Media group, registered in England and Wales under company number 1908967, whose registered office is at Independent House, 191 Marsh Wall, London E14 9RS, UK. VAT number GB 248 1845 43. Any queries or notices under the Data Protection Act should be addressed to the IT Director at the above address. 
+**Customer Functionality: 1 tracker**
 
-_Last updated: 3 May 2007_
+**How to manage your cookies**
+
+Most browsers and devices offer settings that allow you to choose whether browser cookies are set and to turn-off and/or delete them. For more information about these controls, visit your browser or device's help material. Certain parts of the INM services may not work properly if you have disabled browser cookie use and you might see more pop-ups and other intrusive advertising, as we won't be able to limit what you see using cookies. You will, however, still be able to view editorial content.
+
+Find out more about the use of cookies on [www.cookiecentral.com](http://www.cookiecentral.com/)
+
+All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
+
+If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to [www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk/)
+
+You can also visit the trade body representing these advertising bodies for more information on how to opt out of these cookies: [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)
+
+**Links to other websites**
+
+This website may provide links to third-party websites for your convenience and information. If you access those links, you will leave this website. INM is not responsible for the content of external internet sites. We encourage you to review the privacy statement of any company before submitting your personal information.
+
+**Stored Information**
+
+You may request at any time a copy of the personal information held about you and request its correction or deletion. To obtain a copy of this information, please send an email, including proof of identification, to [data.protection@belfasttelegraph.co.uk](mailto:data.protection@belfasttelegraph.co.uk)
+
+Upon receipt of your request and within 40 days we will inform you about the type of personal information we hold about you, the purposes for which we hold it and the possible recipients or types of recipients.
+
+INM reserve the right to charge a maximum administrative fee of £10.
+
+**Changes to this Statement**
+
+If there are updates to the details of this Privacy and Cookie Policy, we will post those changes and update the revision date at the top of this document, so you will always know what information we collect online, how we use it, and what choices you have.
+
+**Data Protection in the UK**
+
+More information on data privacy rights is available directly from the website of the [Information Commissioner’s Office](https://ico.org.uk/for-the-public/).
+
+**Contacting Us**
+
+If you have any questions about this Privacy Statement and Cookie Policy or you wish to make a complaint, please feel free to contact us through our [data.protection@belfasttelegraph.co.uk](mailto:data.protection@belfasttelegraph.co.uk)  email or write to us at:
+
+**INM Data Protection Officer**
+
+**INM**
+
+**Belfast Telegraph House,**
+
+**33 Clarendon Road,**
+
+**Clarendon Dock,**
+
+**Belfast,**
+
+**BT1 3BG**
