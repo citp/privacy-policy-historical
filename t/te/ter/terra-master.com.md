@@ -1,0 +1,113 @@
+> *The following text is extracted and transformed from the terra-master.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106092825id_/http%3A//www.terra-master.com/html/en/article_list_112.html) for the most accurate reproduction.*
+
+# Privacy Policy - Noontec TerraMaster,Inc. Network Attached Storage (NAS)
+
+TerraMaster. is committed to protecting the personal information that you decide to share with us. This privacy statement explains data collection and use practices of (1) the www.TerraMaster.com website (the “Site”); (2) TerraMaster products. By accessing the Site or registering your TerraMaster product, you are consenting to the information collection and use practices described in this privacy statement.
+
+**Collection of your Personal Information**
+
+TerraMaster. may ask you for information that personally identifies you (personal information) or allows TerraMaster. to contact you to provide a service or carry out a transaction that you have requested. The personal information we collect may include your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, information about your company, and credit card information. 
+
+The Site may also collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Website from which you linked directly to our site. This information is used to help improve the Site, analyze trends and administer the Site. TerraMaster. may collect information about your hardware and software in order to provide a requested service. TerraMaster. technical communities provide opportunities to interact with TerraMaster. employees, experts, and your peers in order to share knowledge and news about TerraMaster. products and related technologies. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, TerraMaster. advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
+
+**Use of your Personal Information**
+
+Your personal information that is collected by TerraMaster. may be used in the following ways:
+
+•to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized;
+
+•to provide you with more effective customer service;
+
+•to improve the Site
+
+•to improve related TerraMaster. products or services;
+
+•to make the Site easier to use by eliminating the need for you to repeatedly enter the same information, or by customizing the Site to your particular preference or interests;
+
+•to provide you with a more consistent experience in your interactions with TerraMaster. (information collected by www.TerraMaster.com may be combined with information collected by other TerraMaster. services);
+
+•to provide you with important information about the product or service that you are using, including critical updates and notifications;
+
+•to provide you with information about other TerraMaster. products and services; and
+
+•to share information with TerraMaster. partners so that they may send you information about their products and services.
+
+•to share site-visitation data with anonymous demographic information for research purposes, thus providing more relevant content;
+
+•with your approval, to combine site-visitation data with your personal information in order to provide you with personalized content (if you decline permission, TerraMaster. will not provide you the personalized service and won't merge your personal information with site-visitation data);
+
+•to customize links or similar technologies to track e-mail links that you click when you sign up for a newsletter or agree to receive promotional e-mail;
+
+•to associate that information with your personal information in order to provide you more focused e-mail communications or purchase information (each e-mail communication includes an unsubscribe link allowing you to stop delivery of that type of communication);
+
+•to offer individuals the ability to publicly display certain personal information, such as for a TerraMaster. partner who wishes to publish contact information as part of offering a business service (participation in such services is always optional);
+
+•to provide limited services on our behalf by other companies, such as Website hosting, packaging, mailing and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other services (only personal information they need to deliver the service will be provides to those companies, which information is required to be held in confidence and not used for any other purpose);
+
+•to disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on TerraMaster. or the Site; (b) protect and defend the rights or property of TerraMaster. and its family of Websites; or (c) act in urgent circumstances to protect the personal safety of TerraMaster. employees or agents, users of TerraMaster. products or services, or members of the public. 
+
+Personal information collected on the Site may be stored and processed in the United States or any other country in which TerraMaster. or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. TerraMaster. abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+
+**Control of your Personal Information**
+
+Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of TerraMaster. and its controlled subsidiaries and affiliates without your permission. As described below in the next section, you can access your personal information and make choices about how you wish to be contacted.
+
+Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to TerraMaster. in the context of other, separately operated, TerraMaster. products or services.
+
+www.TerraMaster.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. In some services offered by www. terra-master.com, contact with the customer is an intrinsic part of the service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service(s) you have chosen.
+
+**Security of your Personal Information**
+
+TerraMaster. is committed to protecting the security of your personal information. TerraMaster. uses a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, TerraMaster. stores the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when TerraMaster. transmits sensitive personal information (such as a credit card number) over the Internet, TerraMaster. protects it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+
+**Protection of Children's Personal Information**
+
+www.terra-master.com is a general audience site and does not knowingly collect any personal information from children.
+
+**Use of Cookies**
+
+TerraMaster. uses cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server but cannot be used to run programs or deliver viruses to your computer. Web beacons, or action tags, may be used to assist in delivering the cookie on the Site. This technology is a tool used to compile aggregated statistics about www. terra-master.com Website usage, such as how many visitors clicked on key elements (such as links or graphics) on a www. terra-master.com Web page, blog or a newsletter. We may share aggregated site statistics with partner companies.You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you may usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Site. 
+
+**Enforcement of this Privacy Statement**
+
+If you have questions regarding this statement, you should contact TerraMaster. 
+
+**Collection of TerraMaster Product Usage Information**
+
+When you use TerraMaster products, TerraMaster may collect different levels of information from you and/or your TerraMaster system. The type of information depends on how much information you wish to provide.
+
+•Register: if you choose to register your TerraMaster product with us, you will provide us with the following information: 
+
+oEmail address 
+
+oThe serial number of your TerraMaster Products 
+
+oThe Country where the system you use is. 
+
+If you choose not to register your TerraMaster product with us, identifiable information will not be transmitted.
+
+•Usage Sharing: if you agree to provide us with more information, your system will periodically report the following information regarding your usage of the TerraMaster products system: 
+
+oThe information of the disks installed in your system, including brand, model name, health, logs 
+
+oVolume and storage configuration of your TerraMaster system. 
+
+oThe TerraMaster TOS and package version. 
+
+oThe services running on your system 
+
+oThe information of external devices, including Wi-Fi adapters, DVB sticks, printers, UPS devices, DLNA players. 
+
+oUsers’ browsers to connect to TOS web interface 
+
+**Use of TerraMaster Product Usage Information:**
+
+The information collected from the TerraMaster TOS helps us provide you with content, services and a more personalized experience based on information you provide. It also helps us better understand how TerraMaster products are used and how we can improve our products in the future. No information collected from you or TerraMaster system will be rent or sold to any third parties.
+
+**Changes to this Statement**
+
+TerraMaster. may occasionally update this privacy statement. For material changes to this privacy statement, TerraMaster. will either notify you by placing a prominent notice on the home page of the Site or by directly sending you a notification. TerraMaster. encourages you to periodically review this privacy statement to stay informed about how personal information is collected and protected. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+
+**Contact Information**
+
+TerraMaster. welcomes your comments regarding this privacy statement. If you believe that TerraMaster. has not adhered to this privacy statement, please contact us electronically mail, support@terra-master.com. Will use commercially reasonable efforts to promptly determine and remedy the problem. 
