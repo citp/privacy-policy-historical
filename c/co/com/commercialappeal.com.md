@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercialappeal.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505133029id_/http%3A//static.commercialappeal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialappeal.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106191830id_/http%3A//static.commercialappeal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Commercial Appeal
 
