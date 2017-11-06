@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the file-upload.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629003853id_/https%3A//www.file-upload.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file-upload.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106033734id_/https%3A//www.file-upload.com/privacy.html) for the most accurate reproduction.*
 
-# File Upload - Free cloud storage for your data
+# File upload - Free File Hosting - File Sharing - File Secure - File Storage - Online Storage; Upload Mp3, Videos, Music , Books , Apps. Backup Files
 
 ### Personal identification information
 
