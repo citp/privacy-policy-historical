@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powervps.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427092859id_/http%3A//www.powervps.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powervps.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106102352id_/http%3A//www.powervps.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # PowerVPS - Privacy Policy - Powered by the Cloud
 
