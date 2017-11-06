@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinalite.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614152548id_/https%3A//sinalite.com/en_ca/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinalite.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106073252id_/https%3A//sinalite.com/en_ca/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
