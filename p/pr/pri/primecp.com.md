@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the primecp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141051id_/http%3A//www.primecp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primecp.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106092438id_/https%3A//www.primecp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Prime Publishing LLC Prime Publishing LLC
 
-## [Privacy Policy](http://www.primecp.com/privacy-policy/)
+## [Privacy Policy](https://www.primecp.com/privacy-policy/)
 
  **Privacy Policy / Your California Privacy Rights**  
 Revised and posted as of October 28, 2016
