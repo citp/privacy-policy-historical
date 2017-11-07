@@ -1,119 +1,335 @@
-> *The following text is extracted and transformed from the researchgate.net privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625034754id_/https%3A//www.researchgate.net/application.PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchgate.net privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107220137id_/https%3A//www.researchgate.net/privacy-policy) for the most accurate reproduction.*
 
-# ResearchGate
+# Privacy Policy | ResearchGate, the professional network for scientists.
 
-## SECTION I: General
+Last updated: October 23rd, 2017.
 
-This Statement is an addition to the [Terms and Conditions](https://www.researchgate.net/application.TermsAndConditions.html). Therefore, the general definitions and provisions of the Terms and Conditions apply. 
+This Privacy Policy (“
 
-The Provider operates the Service in full compliance with the Directive 95/46/EC and the German laws on privacy and data protection. The Provider respects your privacy and therefore protects your personal data. ResearchGate is not one a Web service that exists primarily in order to collect personal data. 
+ **Privacy Policy**
 
-For your convenience, the Provider has arranged all information on privacy and data protection in a "Questions & Answers" section. Nevertheless, this statement is a binding agreement between the Provider and each User. The User expressly consents to storage and processing of his/her personal data, as described and defined in this statement. 
+”) will be effective from 
 
-## SECTION II: Master Data
+December 1st, 2017
 
-### What is master data?
+. To review a copy of the Privacy Policy effective prior to 
 
-Master data, in this statement, means all data related directly to a User as a person, irrespective of your actual usage of the Service. This includes i.e. a User’s name, email address and other contact information, birthday, gender, research vita, information about what conferences the User attends and what ResearchGate Groups the User is a member of. 
+December 1st, 2017
 
-### What master data is collected and stored by ResearchGate?
+, click 
 
-ResearchGate stores data you enter and submit on the Web service; i.e., if you submit your academic career to your profile page, ResearchGate will store it. Or, if you join a group or a conference, ResearchGate will store that information. 
+[here](https://www.researchgate.net/privacy-policy/201708)
 
-### What master data is processed by ResearchGate and why?
+.
 
-ResearchGate will process your data in order to run the Web service, for example, if any internet user visits your profile page, we process your data in order to show your profile page. Very basic data (e.g. your name) is visible to all users. However, you can choose to make most of your data only visible to your closer friends. ResearchGate will also process your master data randomly to provide dynamic Web pages to you that are individually adapted considering your master data. Furthermore, ResearchGate reserves the right to process your master data to generate anonymous statistics. Such anonymous statistics will contain no information about any individual user. 
+ **Table of contents:**
 
-### Does ResearchGate process my email adress and send emails?
+  1. [Introduction](https://www.researchgate.net/privacy-policy#introduction)
+  2. [Information we collect and how we collect it](https://www.researchgate.net/privacy-policy#weCollect)
+  3. [How we use information we collect about you](https://www.researchgate.net/privacy-policy#informationUse)
+  4. [Sharing of Personal Information with third parties](https://www.researchgate.net/privacy-policy#sharing)
+  5. [Transfers of Personal Information outside of the European Economic Area](https://www.researchgate.net/privacy-policy#transfer)
+  6. [Security](https://www.researchgate.net/privacy-policy#security)
+  7. [Closing your account and retention of Personal Information](https://www.researchgate.net/privacy-policy#closing)
+  8. [Data subject rights](https://www.researchgate.net/privacy-policy#data)
+  9. [Objection](https://www.researchgate.net/privacy-policy#objection)
+  10. [Additional information](https://www.researchgate.net/privacy-policy#additional)
+  11. [Contact information](https://www.researchgate.net/privacy-policy#contact)
 
-ResearchGate will process your email address solely to send emails to you containing information or notifications about the Service. ResearchGate reserves the right to attach a minor part to such emails containing advertisements for products and services of any third party. 
 
-### How can I see what master data is stored and how can I change or delete it?
 
-You can see and edit your data on your profile pages. You can also delete all your master data but your name, your email address and your password. If you cancel your ResearchGate subscription (if you wish to do so, please contact ResearchGate by email, mail or fax), we will delete all your data. Unlike some other Web services, ResearchGate will definitely not store any personal data of former users. 
+ResearchGate’s mission is to connect the world of science and make research open to all. Any natural or legal person who, as a recipient of the Service, accesses or uses the Service for any purpose is a User (“
 
-## SECTION III: Traffic Data
+ **User**
 
-### What is traffic data?
+”, “
 
-Traffic data is data about your ResearchGate usage. This is mainly tracking information on log-in times, duration, and activities while logged in Traffic data also includes your IP address/es and information sent automatically by your Web browser such as your browser software, preferred languages, and the name of your operating system. 
+ **you**
 
-###  What traffic does ResearchGate collect and store? 
+”). Our registered Users (“
 
-ResearchGate collects your traffic data, as defined before, and will store that data for the duration of your session (a session starts when you log in and ends when you log out. The session automatically times out after approx. 60 minutes of inactivity). After your session ends, ResearchGate reserves the right to store traffic data for one day. During that period, your data is only connected to your IP address and not to your user account, which has your personal information. ResearchGate will not be able to attach any individual user’s name to traffic data. However, it is possible that someone else (i.e., your internet service provider) could do so. After this one day, ResearchGate will only store information about how many profile pages you viewed within thirty days. Only the number of pages are saved. Information about which pages you have viewed and when are not stored. 
+ **Members**
 
-###  What traffic data is processed by ResearchGate and why? 
+”) share their professional identities and credentials, display their academic publications, engage and collaborate with their networks, exchange knowledge and professional insights, post and view relevant content, and discover business and career opportunities. Some content is also visible to unregistered or logged-out Users (“
 
-During your session, ResearchGate needs to process traffic data to provide the Web service. After the session, ResearchGate reserves the right to process traffic data (within one day, as mentioned above) to generate anonymous statistics. ResearchGate uses this information to improve its services and user experience. ResearchGate may also process traffic data for security and fraud-detection reasons. The number of profile pages you viewed is a security measure for the protection of personal data. Processing this information helps ResearchGate detect and prevent "data harvesting", meaning automatic retrieval of profile pages to gain many users’ personal data. 
+ **Visitors**
 
-###  How can I view stored traffic data, change or delete it? 
+”). This Privacy Policy is intended to demonstrate and explain our commitment to protecting your privacy online with integrity, transparency, and security.
 
-Please contact the ResearchGate support team for any requests related to viewing, changing or deleting your traffic data. When you cancel your ResearchGate subscription, we automatically delete your personal traffic data. 
+This Privacy Policy sets forth the collection and use practices of ResearchGate GmbH, Invalidenstrasse 115, 10115 Berlin, Germany (“
 
-###  Does ResearchGate use external tracking software? 
+ **ResearchGate**
 
-We use Google Analytics, a web analytics service operated by Google, Inc., California, USA (“Google”). Google processes the data on behalf of ResearchGate. Google Analytics uses cookies, which are text files placed on your computer to help the website analyze how individuals use the site. Any information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States of America. Google will use this information for the purpose of evaluating your use of the site, compiling reports on website activity for website operators, and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law. For Google Analytics, your IP address will be masked by truncating the last octet, in order to protect your privacy. More information about data privacy & security in Google Analytics can be found [here](https://support.google.com/analytics/topic/2919631). Please see [Google’s terms and policies](https://www.google.com/intl/en/policies/) for further information. 
+”, “
 
-## SECTION IV: Cookies
+ **we**
 
-###  What are cookies? 
+”, “
 
-Cookies are small pieces of data that a website requests to be stored by your internet browser software on your computer. These data are then read by the site whenever you use the website again. Cookies can be overwritten and renewed, but if they are not, they expire after a given period of time. 
+ **us**
 
-###  ResearchGate cookies 
+”, or “
 
-ResearchGate uses cookies for functionality where the use is strictly necessary. The login cookie is set when you select “Keep me logged in” on the login dialog. If the cookie is set, you don’t need to log in manually on the same computer (using the same browser) each time you visit the ResearchGate website. While this is convenient, it’s also a security risk: anyone with access to the computer may log in to your ResearchGate account without a password. Thus, you must not tick the “Keep me logged in” box on a computer not used exclusively by you. 
+ **our**
 
-We also use targeting cookies so we can show you content that best suits you and is tailored to your scientific interests.
+”) for 
 
-###  Cookies from third parties 
+**Personal Information**
 
-The ResearchGate website may contain embedded content from third parties. When your internet browser downloads such embedded content, the remote server that hosts that content can set and read cookies (but it can only read cookies from that exact third party). 
+(defined below) we obtain and use in the course of providing the services rendered to you through the ResearchGate website available at https://www.researchgate.net, and through any of its web pages and associated applications which may be available on multiple devices, including mobile applications (“
 
-ResearchGate reserves the right to use certain Google services, operated by Google, Inc., California, USA (“Google”). The Google services may include Google Analytics, a web analytics service, Google Analytics Advertising Features, namely for Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, and integrated services that require Google Analytics to collect data via advertising cookies and anonymous identifiers, and Google’s DoubleClick Services. Google uses cookies to help analyze how individuals use the site. Any information generated by the cookies about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States of America. Google will use this information for the purpose of evaluating your use of the site, compiling reports on website activity for website operators, and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law. Your IP address will be masked in order to protect your privacy by truncating the last octet. More information about data privacy & security in Google Analytics can be found [here](https://support.google.com/analytics/topic/2919631). Please see Google’s page on [‘How Google uses data when you use our partners' sites or apps’](http://www.google.com/policies/privacy/partners/), and [Google’s terms and policies](https://www.google.com/intl/en/policies/) for further information. 
+ **Service**
 
-If you decide to log in through your Facebook or LinkedIn account (but only then), the respective provider may read or set cookies. Both Facebook Inc. and LinkedIn Corporation are companies located in California, USA. See the Facebook and LinkedIn websites for those services’ respective terms and policies. 
+”). This Privacy Policy may refer to the Users of ResearchGate’s Service as “Members”, “Visitors”, or “
 
-Google, Inc., Facebook Inc., and LinkedIn Corporation are each Safe Harbor certified; they have each notified the U.S. Department of Commerce that they adhere to the U.S.-EU Safe Harbor Framework developed by the U.S. Department of Commerce in coordination with the European Commission. The U.S.-EU Safe Harbor Framework provides guidance for U.S. organizations on how to provide adequate protection for personal data from the EU as required by the European Union's Directive on Data Protection. 
+ **you**
 
-###  Limiting the use of Cookies 
+” or through any second-person pronouns, such as “
 
-Most internet browsers allow you to adjust cookies acceptance settings, i.e. not to store cookies persistently. You are usually able to see the content of cookies and delete certain or all cookies. Many browsers also offer an ‘incognito mode’ that does not accept persistent cookies. Please consult your browser’s help section (or use a search engine) if you need assistance with these browser features. 
+ **yours**
 
-## SECTION V: Private Messages
+”, etc.
 
-###  How does ResearchGate process private messages? 
+ResearchGate reserves the right to modify this Privacy Policy at any time, in particular, to reflect changes in market conditions affecting ResearchGate’s activities, changes in technology, changes in relevant laws and regulatory requirements, and changes in ResearchGate’s system capabilities. In the event we modify this Privacy Policy, any new version shall be effective 30 days immediately after the posting of such revised Privacy Policy on the Service, unless stated otherwise. If we make material changes to this Privacy Policy, we will notify Members by email or other reasonable means, including through notifications on our Service. If you object to the new version, you should stop using our Service and/or close your account. If you continue to use our Service after having been provided with such notice you will be deemed to have acknowledged the Privacy Policy.
 
-Messages sent privately within ResearchGate will be processed in order to deliver them to the respective recipient(s). ResearchGate may also process the message (including eventual attachments) randomly in order to investigate it and extract information, such as – but not necessarily limited to – anti-SPAM and anti-virus checking. Results of such processing (but not the message content itself) may be stored permanently for ResearchGate’s own purposes. ResearchGate respects the confidentiality of private communications, therefore, the process is fully automated and, unless the fully automated processing indicates a security threat or abusive behavior, no person but the recipient(s) will be cognizant of the message. 
+ **A. Information you directly and voluntarily provide to us**
 
-###  Will ResearchGate share private messages with third parties? 
+In order for the Service to function, we need to collect from you and process certain data and/or information about your person or your scientific involvement (“
 
-Private messages will generally not be shared with any third party. ResearchGate may nevertheless be obliged to share or grant access to private messages if ordered to do so by a court or a competent judicial authority. 
+ **Personal Information**
 
-## SECTION VI: Transmission of data
+”).
 
-###  Will ResearchGate sell personal data to any third parties? 
+  *  **Registration**. If you choose to create a Member account on our Service, you will be required, during the registration process, to provide certain information, such as your name, an email address, and a password. By default, your real name will always be visible to Users of the Service, whether they are registered or not, but your password will always be kept secret.
+  *  **Other Personal Information**. We may require that you provide other information that can be used to identify and/or contact a natural person, including a name, postal address, telephone number, and email address. Also, for some features, you may be invited or required to provide information relating to yourself, including, for example, demographic information, such as gender, birthday, or occupation, and research vita, authorship of articles, academic or research expertise or interests, conferences you have attended, groups of which you are a member, or correspondence sent to us through the Service.
+  *  **Related information**. We may present biographical, publication, and other information to you that may relate to you or your work, and enable you to voluntarily incorporate it into your profile on the Service and associate it with your Personal Information.
+  *  **Sensitive information**. We do _not_ collect sensitive information such as information about your race, political views, religious views, or health conditions.
 
-No. ResearchGate will not sell or otherwise share personal data. 
 
-###  What about other third parties processing data on behalf of ResearchGate? 
 
-ResearchGate reserves the right to appoint third parties to certain tasks, such as database or software development. For that purpose, it might be necessary for personal data to be shared with and processed by such third parties. In this case, ResearchGate remains fully responsible for your personal data and will bind any and all third parties to a written agreement ensuring they comply with this statement on privacy and data protection. ResearchGate is committed to its user's privacy, hence we are dedicated to choosing a contractor that is trustworthy, and who will operate under the legal regime of the Directive 95/46/EC. 
+ **B. How we directly collect Personal Information**
 
-## SECTION VII: Privacy and Data Protection Supervision
+There are a number of ways in which we collect Personal Information from or about you. These may include, without limitation:
 
-###  Whom can I contact if I have a request or complaint about Privacy or Data Protection? 
+  *  **At time of registration**. When you register for the Service you will be required to provide Personal Information sufficient to establish a ResearchGate account.
+  *  **At time of creation of your researcher profile**. After registering for the Service and creating an account, you may want to provide us with supplementary Personal Information in order to create a detailed profile. You may be invited to associate certain information we present to you with your account, such as articles, institutional affiliation, and biographical information.
+  *  **Communications from you**. When you email or write to us, you may provide us with your name, contact details, and other Personal Information as part of your message.
+  *  **Customer Support**. You may provide us with Personal Information when you telephone or email us to request technical assistance with the Service or information that you would like to receive about our services.
+  *  **Email/Direct mail campaigns**. We may contact you from time to time to share information about new services, promotions, or special offers.
+  *  **Jobs and external communications**. If you contact us about a job or other corporate matters you may provide us with your name, email address, and other Personal Information.
+  *  **Third party providers**
 
-ResearchGate considers privacy and data protection to be very important issues, as they directly affect the trust between us and our valued users. Therefore, ResearchGate has implemented specific measures to supervise data protection issues. For any requests or complaints relating to privacy and data protection, please directly contact the data protection officer, Mr. Jay Monahan. 
+. When you choose to benefit from a service or offer presented by ResearchGate on behalf of a third party, you may share Personal Information with ResearchGate to enable us to pass it on to the third party.
 
-## SECTION VIII: Changes to Statement on Privacy and Data Protection
+> Please note: ResearchGate does not process any payment data. All payment data are collected and processed by third party providers, namely [Braintree](https://www.braintreepayments.com/en-de/legal) and [Stripe](https://stripe.com/payment-terms/legal).
+  *  **Other uses**. Our Service is a dynamic, innovative environment, which means we are always seeking to improve the services we offer you. We may introduce material new features, which may result in the collection of new information and in different ways; if we do so, we will inform you by updating this Privacy Policy.
 
-###  How does ResearchGate notify Users of changes in this Statement on Privacy and Data Protection? 
 
-By using the Service, you expressly agree to this Statement on Privacy and Data Protection. 
 
-When this Statement on Privacy and Data Protection changes, you will be informed at the time you login to ResearchGate for the first time after the change was made, and you will be requested to agree to the new Statement on Privacy and Data Protection. 
+ **C. Information we automatically collect**
 
-ResearchGate won't make any binding changes to this Statement on Privacy and Data Protection without your express consent. 
+We and service providers acting on our behalf store log files and use tracking technologies such as cookies, web beacons, tracking pixels, and local shared objects, also known as flash cookies, to collect information relating to you and your use of the Service.
 
-Last modified: September 18, 2015 (Information on cookie usage was updated)
+“Cookies” are small files that enable us to store and collect specific information related to you and your use of the Service on your computer or other end devices. They help us to analyze the number of people who use the Service, usage frequency, User behavior, advertising effectiveness, to increase security and tailor our Service to your needs and preferences.
+
+After you have logged in to your account on the Service, we use so-called “session cookies” to identify you during the course of your session. Upon the termination of your session, the session cookie is automatically deleted.
+
+We also use “persistent cookies” to record information about repeat Users of the Service. Persistent cookies are designed to help us continually improve the products and services we offer you. Persistent cookies do not contain Personal Information such as your name, IP address, etc.
+
+You can edit the settings of your browser to prevent cookies from being stored, to limit the storage of cookies to certain websites, or such that your browser informs you every time a cookie is sent. You can also delete cookies from your computer’s hard drive at any time. However, please note that if cookies are deactivated you will not be able to take advantage of some of ResearchGate’s features.
+
+In addition to cookies, ResearchGate uses so-called pixels, web beacons, clear GIFs, and other similar mechanisms (“
+
+ **Pixels**
+
+”). A Pixel is an image file or link to an image file added to the website code but not sent to your end device (e.g. PC, smartphone, etc.). Pixels are largely used for the same reasons as cookies, i.e. to analyze the number of people who use our Service or, if the User's email program allows HTML, to determine whether and when an email was opened. Pixels help us to check and optimize the effectiveness of our Service and offers as well as advertising campaigns served on ResearchGate. Pixels do not provide us with Personal Information and do not enable us to track Users. Pixels are usually used in conjunction with cookies. If you have deactivated the use of cookies in your browser, then Pixels will only report an anonymous website visit.
+
+We also use pixel-based and cookie-based conversion tracking technologies to, for example, measure the success of advertising campaigns served on ResearchGate. To this end we use technologies provided by Google.
+
+The information we automatically collect about you and your use of the Service includes:
+
+  * IP addresses;
+  * the type of computer or mobile device you are using;
+  * your operating system and version;
+  * your mobile device's identifiers, like your MAC Address, Identifier for Advertising (IDFA), and/or International Mobile Equipment Identity (IMEI);
+  * types of browser used;
+  * your browser language;
+  * referring and exit pages, and URLs;
+  * platform type;
+  * the number of clicks on a page or feature;
+  * domain names;
+  * country;
+  * landing pages accessed;
+  * pages viewed and the order of those pages; 
+  * the amount of time spent on particular pages or parts of pages; and
+  * information collected for performance purposes (e.g. average load, render time of pages, etc.).
+
+
+
+ **D. Information about you from third parties**
+
+We receive information about you and your activities on and off the Service from third party partners, such as information from advertisers about your experience or interactions with them. We also obtain information about you from publicly available sources, such as information regarding previous research published by you and affiliations that may be associated with your profile.
+
+ **Third party advertising including tailored advertising and analytics**
+
+We have advertising on our Service so we can continue to offer many of our features for free. We do not share Personal Information with third party advertisers for their direct marketing purposes unless you give us your prior consent.
+
+When advertisers or ad networks place advertisements on our Service, they may collect or we may share the following types of information from within our Service:
+
+  * performance data (such as the number of clicks on an advertisement);
+  * aggregated and/or de-identified information about you and other Users collectively that is not intended to specifically identify you (such as Users who live in Berlin);
+  * certain technical information (for example, IP addresses, non-persistent device identifiers such as Identifiers for Advertising (IDFAs), and de-identified persistent device identifiers such as a hashed Android ID); and
+  * other contextual data about your use of the Service (for example, your session length).
+
+
+
+Advertisers or ad networks may collect this information through the use of tracking technologies like browser cookies and web beacons (see explanations above), and they may use a single tracking technology or multiple tracking technologies at the same time.
+
+The information collected may be used to:
+
+  * measure how effective advertisements are;
+  * offer you targeted advertising in order to personalize your experience by showing you advertisements that are more relevant to you; and/or
+  * undertake web analytics to analyze traffic and other User activity to improve your experience.
+
+
+
+After clicking on a third-party advertisement, you may no longer be on a site hosted by ResearchGate. ResearchGate cannot be responsible for any third party, or its affiliates or agents, failing to use your Personal Information in accordance with such third party's privacy policy, or any contractual or other legal obligations to which such third party, its affiliates or agents, may be subject.
+
+ **E. Use of Google services**
+
+ResearchGate reserves the right to use certain Google services, operated by Google, Inc., California, USA (“
+
+ **Google**
+
+”). Google services may include Google Analytics, a web analytics service, Google Analytics Advertising Features, namely for remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, and integrated services that require Google Analytics to collect data via advertising cookies and anonymous identifiers, and Google’s DoubleClick Services. Any information generated by the cookies about your use of the Service (including your IP address) will be transmitted to and stored by Google on servers in the United States of America. Google will use this information for the purpose of evaluating your use of the Service, compiling reports on website activity for us, and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law. More information about Google’s data privacy and security can be found 
+
+[here](https://privacy.google.com/index.html)
+
+. Please see Google’s page on ‘
+
+[How Google uses data when you use our partners' sites or apps](https://www.google.com/policies/privacy/partners/)
+
+’, and Google’s terms and policies for further information.
+
+With respect to Google Analytics, the following additional safeguards apply: we have activated IP anonymization so that your IP address will be shortened by Google within the European Economic Area before the data is forwarded and stored in the USA; only in exceptional cases are IP addresses sent to a Google server in the USA and shortened there. Google will not combine your IP address collected via Google Analytics with other data that Google holds.
+
+To opt out from Google Analytics, please click 
+
+[here](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+.
+
+ **F. Communications**
+
+Many communications that you initiate through our Service (for example, an invitation sent to a non-Member) will list your name in the header of the message. Messages you initiate may also provide the recipient with aggregate information about your network (for example, how many people are in your network). Other communications that you initiate through the Service, like a request for a full-text, will list your name as the initiator but will not include your personal email address. Once you have connected with an individual, regardless of who sent the invitation, your contact information that you choose to include in your researcher profile will be shared with that individual.
+
+The Personal Information that you provide to us may reveal or allow others to identify aspects of your life that are not expressly stated on your profile (for example, your picture or your name may reveal your gender).
+
+We use the Personal Information described above to:
+
+  *  **Enable you to benefit from the Service**. We process your Personal Information in order to provide the Service in a way that is tailored to your interests. This allows us to administer your account with ResearchGate and customize the services ResearchGate provides to you through the Service. For example, we will process your Personal Information to provide dynamic web pages that are individually adapted to you.
+  *  **Conduct research**. We conduct research and development for the improvement of our Service and the User experience.
+  *  **Offer you tailored advertising content**
+
+. We aim at offering you advertising content that is the most relevant to you. In this context, we use, whether separately or combined, the Personal Information you provide, we collect, or we infer from your use of the Service and the Internet. This enables us to display advertisements that best match to your particular interests.
+
+In order to show these advertisements and measure their performance on and off our Service, we work with a variety of business partners.
+
+If you wish to opt out of being served targeted advertising, you may click the cross at the top right-hand side of ads you are served, or edit the settings of your browser(s). Please be aware that this will not opt you out of being served advertising. Only interest-based advertising will no longer be shown to you.
+  *  **Communicate with you**
+
+. We may use your Personal Information to communicate with you about ResearchGate and products or services by email, postal mail, telephone, text message, or other means.
+
+If you wish to stop receiving promotional communications from us, you can follow the unsubscribe instructions at the bottom of each email we send, contact us [here](https://www.researchgate.net/contact) or, if you have an account with us, change your [preferences](https://www.researchgate.net/account.AccountNotificationSettings.html) by signing into your account through the Service.
+  *  **Ensure the security of your Personal Information**. We process your Personal Information in order to avoid its accidental or unlawful destruction, as well as its loss, alteration, or unauthorized disclosure. For example, we process the number of profile pages you view so as to detect and prevent data harvesting. Likewise, we truncate the last octet of your IP address to prevent you from being identified.
+  *  **Generate statistics**
+
+. We use your Personal Information to generate statistics which pertain to reading behavior or achievements. We also generate statistics for internal purposes in order to constantly improve the Service and its features.
+
+You can object at any time to processing of your Personal Information for statistical purposes by contacting us [here](https://www.researchgate.net/contact).
+
+
+
+Generally, ResearchGate does not share the Personal Information collected - or that you provide to ResearchGate - with third parties unless we have obtained your prior consent. Note, however, that ResearchGate reserves the right to share the Personal Information it has about you with vendors, agents, and contractors who assist ResearchGate in administering the Service and in providing benefits to you. 
+
+We may also share Personal Information in response to legal process or when the law requires it (for example, in response to a court order) or, to the extent permitted by applicable law, to protect the rights, property or safety of ResearchGate, the Service, Users of the Service (including you), and others.
+
+ResearchGate may also disclose Personal Information as is necessary to identify, contact, or bring legal action against a person or entity who may be violating ResearchGate’s 
+
+[Terms of Service](https://www.researchgate.net/terms-of-service)
+
+, or who may be causing harm to, or interfering with, other Users of the Service. 
+
+In addition, in the event that assets of ResearchGate are transferred or sold to another entity, Personal Information may be transferred to the acquiring entity and/or to potential acquiring entities to the extent permitted by applicable law and we will seek your consent where required. 
+
+The Personal Information that ResearchGate collects from you and that you provide to ResearchGate is processed in Canada and is stored on servers in Canada. The Canadian Personal Information Protection and Electronic Documentation Act has been deemed to provide adequate and similar protection to that which applies within the European Economic Area. 
+
+Your Personal Information may also be transferred to any third parties as described in this Privacy Policy. Some of these third parties with whom your Personal Information will be shared are located outside of the European Economic Area, in countries whose data protection laws may not be as extensive as those which apply to us. 
+
+If we transfer your Personal Information to countries outside of the European Economic Area or which do not offer adequate and similar protection, we will ensure that we do this in accordance with applicable data protection regulations (for example, by putting in place an appropriate data transfer agreement). We will do this with a view to ensuring the level of protection which applies to your Personal Information processed in these countries is similar to that which applies within the European Economic Area.
+
+We will take all steps reasonably necessary to ensure your Personal Information is treated securely and in accordance with this Privacy Policy and applicable law. We use appropriate security measures to protect against unauthorized access, collection, use, disclosure, copying, and disposal of your Personal Information. 
+
+All pages are secured using SSL (Secure Socket Layer) technology, which encrypts data between our computer and your end devices. To make sure your Internet browser is using the latest security features, you may want to download the most recent version of it, which should have full SSL support. 
+
+You are responsible for maintaining the confidentiality of your User ID and password which relate to your access to certain pages of the Service and/or any account you set up with us. You agree to accept responsibility for all activities which occur in relation to the same. You should not permit other people to use your User ID or your password. Please contact us promptly if you believe your User ID or password may have been compromised. We will not be responsible to you if there is unauthorized access to your login details or unauthorized activity on the Service as a result of your login details becoming known by someone else, unless this was due to our negligence.
+
+Despite our efforts regarding security it is important to bear in mind that the Internet is not a secure means of communication. Personal Information communicated through the Internet may be intercepted by other people. We cannot guarantee the security of Personal Information sent to us through the Service. You accept that you use the Service at your own risk.
+
+If you have created an account through the Service, we will close your account upon your request. We may also close or disable inactive accounts or accounts that are used in violation of our 
+
+[Terms of Service](https://www.researchgate.net/terms-of-service)
+
+or any applicable law. 
+
+We will retain Personal Information from closed or inactive accounts to the extent and as long as it is necessary and relevant for our operations and/or to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our 
+
+[Terms of Service](https://www.researchgate.net/terms-of-service)
+
+, and/or take other actions otherwise permitted by law.
+
+In general, Personal Information from closed or inactive accounts will be deleted or anonymized one year after the account is closed or deactivated unless we have reasonable grounds to believe that the Personal Information should be retained for one of the purposes identified above. 
+
+You may be entitled to exercise some or all of the following rights free of charge (such rights may vary depending on the requirements of the applicable legislation):
+
+  * require (i) information about whether your Personal Information is retained and (ii) access to and/or (iii) duplicates of your Personal Information retained, including the purposes of the processing, the categories of Personal Information concerned, and the recipients or categories of recipients to whom the Personal Information is disclosed and where possible, the envisaged period for which the Personal Information will be stored, or, if not possible, the criteria used to determine that period;
+  * request proper rectification, removal, or restriction of your Personal Information, e.g. because (i) of the incomplete or inaccurate nature of the Personal Information, (ii) it is no longer needed for the purposes for which it was collected, (iii) the consent on which the processing was based has been withdrawn, or (iv) you have taken advantage of an existing right to object to the data processing; in case your Personal Information is processed by third parties, we will also forward your request for rectification, removal, or restriction to such third parties unless this proves impossible or involves disproportionate effort;
+  * receive the Personal Information concerning you, which you have provided to us, in a structured, commonly used, and machine-readable format and to transmit those data to another controller without hindrance from our side; where technically feasible you shall have the right to have the Personal Information transmitted directly from us to another controller;
+  * refuse to provide and – without impact to data processing activities that have taken place before such withdrawal – withdraw your consent to processing of your Personal Information at any time;
+  * not to be subject to any automatic individual decisions (automatic decisions based on data processing by automatic means, for the purpose of assessing several personal aspects) which produce legal effects on you or similarly significantly affect you.
+
+
+
+You may (i) exercise the rights referred to above or (ii) pose any questions or (iii) make any complaints regarding the data processing by contacting us 
+
+[here](https://www.researchgate.net/contact)
+
+.
+
+You have the right to object, at any time, to the processing of your Personal Information on legitimate grounds by contacting us 
+
+[here](https://www.researchgate.net/contact)
+
+.
+
+For your convenience, we have provided additional information on security and privacy in our Help Center to be found 
+
+[here](https://www.researchgate.net/deref/https%3A%2F%2Fexplore.researchgate.net%2Fdisplay%2Fsupport%2FSecurity%2Band%2Bprivacy?forcePage=false)
+
+.
+
+If you have any questions or concerns about this Privacy Policy, please email our Data Protection Officer at privacy@researchgate.net, contact us 
+
+[here](https://www.researchgate.net/contact)
+
+, or send a letter to: 
+
+Data Protection Officer
+
+ResearchGate GmbH
+
+Invalidenstrasse 115
+
+10115 Berlin, Germany
+
+In the event you still have requests or complaints, please contact the Berlin Commissioner for Data Protection and Freedom. 
