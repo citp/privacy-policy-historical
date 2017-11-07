@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414051204id_/https%3A//www.sugarsync.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107202746id_/https%3A//www.sugarsync.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SugarSync
 
@@ -42,7 +42,7 @@ Our website includes social media features, such as the Facebook "like" button a
 
 If you want to share files or photos that are stored on your account with others, you will need to provide email addresses or other contact information for such persons. We will use the information you provide only to enable such persons to view the shared files or photos and to use the services. We will not use this information for any other purpose. Please note that SugarSync may prevent the sharing of certain types of files or photos, depending upon what services you are using.
 
-If you wish to add contacts to your account we will collect their name, phone number, email address and a photo (if you wish to upload one for them). This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. You may at any time remove this information from your account. If your contacts wish to be removed from our system for any reason they may contact us at [support.sugarsync.com](https://web.archive.org/web/20170414051204id_/https%3A//www.sugarsync.com/en/support.sugarsync.com). [support.sugarsync.com](http://support.sugarsync.com/).
+If you wish to add contacts to your account we will collect their name, phone number, email address and a photo (if you wish to upload one for them). This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. You may at any time remove this information from your account. If your contacts wish to be removed from our system for any reason they may contact us at [support.sugarsync.com](https://web.archive.org/web/20171107202746id_/https%3A//www.sugarsync.com/support.sugarsync.com). [support.sugarsync.com](http://support.sugarsync.com/).
 
 You may utilize an import contacts feature to help you keep in touch with your contacts. When using the import contacts feature, we will prompt you for your login information which we do not store or use for any other purpose. You can then access your contacts to share files, folders and public links and to invite people from your email address books to join SugarSync. Emails sent through SugarSync will identify you as the sender.
 
