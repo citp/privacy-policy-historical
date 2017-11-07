@@ -1,141 +1,122 @@
-<!--The following is the downloaded HTML source of the creativematch.co.uk privacy policy that was archived on 2017-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170511143054id_/http%3A//www.creativematch.co.uk/front.cfm%3Faction%3Dshowpage%26page%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the creativematch.co.uk privacy policy that was archived on 2017-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171107060215id_/http%3A//www.creativematch.co.uk/front_x.cfm%3Faction%3Dshowpage%26page%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html><html lang="en"><head>
+
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	
-
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
-	<link href="/css/cm8.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+	<link href="/css/cm10.css" rel="stylesheet" type="text/css">
 	
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') +
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
+   
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+    
+    <script type="text/javascript">
+$('form').submit(function() {     
+	alert('submit');
+	this.action = '/news/search_x.cfm';
+	return true; 
+}); 
 </script>
- 
-<script type="text/javascript">
-googletag.cmd.push(function() {
-googletag.defineSlot('/4657082/120Button', [120, 120], 'div-gpt-ad-1360689160318-0').addService(googletag.pubads());
-googletag.defineSlot('/4657082/Leaderboard', [728, 90], 'div-gpt-ad-1358426079831-1').addService(googletag.pubads());
-googletag.defineSlot('/4657082/MPU', [300, 250], 'div-gpt-ad-1358426079831-2').addService(googletag.pubads());
-googletag.defineSlot('/4657082/Skycraper120', [120, 600], 'div-gpt-ad-1358426079831-3').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
-</script>
-
-<script language="JavaScript" type="text/JavaScript">
-	time = new Date();
-	if(time.getHours() > 11) {
-		stime = 'Good afternoon';
-	}
-	else {
-		stime = 'Good morning';
-	}
-// check web address
-String.prototype.trim=function(){
-    return this.replace(/^\s*|\s*$/g,'');
-}
-
-function validateAdd(){
-	ok='true';
-	lines = '';
-	document.SubmitYourSelfForm.yourself.value = document.SubmitYourSelfForm.yourself.value.trim();
-	if(document.SubmitYourSelfForm.yourself.value=='' || document.SubmitYourSelfForm.yourself.value=='www.' || document.SubmitYourSelfForm.yourself.value==null){
-	ok='false';
-	lines = lines + '- Please enter the address of your website \n (e.g. http://www.creativematch.co.uk) \n';
-	}
-
-
-	if(document.SubmitYourSelfForm.yourself.value.length>=1){
-		if(document.SubmitYourSelfForm.yourself.value.substring(0,4)!='http'){
-			document.SubmitYourSelfForm.yourself.value="http://"+document.SubmitYourSelfForm.yourself.value;
-		}
-	}
-
-	if(ok == 'true'){
-		return true;
-	}
-	if(ok == 'false'){
-		alert(stime+', and thank you for attempting to submit your website, \n we are sorry an error has occured, please correct the following: \n\n' + lines);
-		document.forms['SubmitYourSelfForm'].yourself.focus();
-		document.forms['SubmitYourSelfForm'].yourself.style.backgroundColor="DarkSalmon";
-		return false;
-	}
-}
-// check e-mail address
-function validateEmail() {
-
-	// email Regular Expression
-	var regex=/^([-a-zA-Z0-9_\+\&\'\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([-a-zA-Z0-9]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3}|museum)(\]?)$/g;
-//'
-	// run comparison
-	if (regex.test(document.SubscribeForm.emailadd.value))
-	{
-		document.SubscribeForm.submit();
-		return true;
-	}
-	else
-	{
-		alert(stime+', and thank you for attempting to add yourself to our newsletter, \n we are sorry an error has occured, please correct the following: \n\n "' + document.SubscribeForm.emailadd.value + '" does not appear to be a valid email address!');
-		document.SubscribeForm.emailadd.focus();
-		return false;
-	}
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
 }
 </script>
-<!-- (c) Creativematch 2016 -->
-		<title>creative directory, news, jobs, CVs, portfolios, training, flair competition, portfolios</title>
+  
+  <script>
+function myFunction() {
+    var x = document.getElementById("mynav");
+    if (x.className === "mynav") {
+        x.className += " responsive";
+    } else {
+        x.className = "mynav";
+    }
+}
+</script>
+
+  <style>
+
+
+	  
+
+	  
+	  /* Remove the jumbotrons default height */ 
+    .jumbotron {
+		height: 28vh;
+	 	}
+	  
+	  
+	@media screen and (max-width:680px) {
+		
+		.navbar {
+		font-size: 4.0vh;
+    }
+  	.jumbotron {
+		height: 34vh;
+	 	}
+	  }
+
+
+  </style>
+
+
+<!-- (c) Creativematch 2017 -->
+		<title>creative industry news, jobs, portfolios</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="description" content="creative social business network spanning design,  advertising and marketing, support services, jobs, news, training courses, services directory, search and upload CVs. Creative industry jobs in design, jobs in new media, digital jobs, advertising jobs, marketing news, PR, illustration, photography and print.">
-		<meta name="keywords" content="digital jobs, new media news, advertising news, PR jobs, illustration competition, photography competition, print, new media jobs, publish news, marketing, freelance, design jobs, permanent, jobs in the uk, training courses, portfolios, designers">
+		<meta name="description" content="creative social business network spanning design,  advertising and marketing, support services, jobs, news, training courses, services directory. Creative industry jobs in design, jobs in new media, digital jobs, advertising jobs, marketing news, PR, illustration, photography and print.">
+		<meta name="keywords" content="digital jobs, new media news, advertising news, PR jobs, print, new media jobs, publish news, marketing, freelance, design jobs, permanent, jobs in the uk, training courses, portfolios, designers">
 	</head>
 
 
 <body>
 
 
-<div id="header-wrap">
-	<div id="header">
-        <div id="logo"><a href="/"><img src="/images/logo.png" width="236" height="56" alt="creativematch" title="creativematch" border="0"></a></div>
-        
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="/"><img src="images/CM10_logo.png" alt="creatvematch news jobs portfolios pages"></a>
     </div>
-    <div id="nav-wrap">
-        <div id="navigation">
-            <ul id="navlist">
-                <li><a class="selected" href="/">home</a></li>
-                <li><a href="/directory/">directory</a></li>
-                <li><a href="/news/">news</a></li>
-                <li><a href="/jobs/">jobs</a></li>
-                <!-- <li><a  href="/search/?Resumes">CVs</a></li> --->
-                <li><a href="/portfolio/">portfolios</a></li>            
-                <!-- <li><a  href="/flair/">flair competitions</a></li> --->
-                <!-- <li><a  href="/training/">training courses</a></li> --->
-				<li><a href="/join.cfm"><strong>join now!</strong></a></li>
-            </ul>
-        </div>
-	</div>
-</div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="/news/">News</a></li>
+        <li><a href="/portfolio/">Portfolios</a></li>
+        <li><a href="/directory/">Pages</a></li>
+		</ul>
+       <ul class="nav navbar-nav navbar-right">
+        
+	<li><a href="/front.cfm?action=signup_default">SIGNUP</a></li>
+	<li><a href="/front.cfm?action=showpage&amp;page=update">LOGIN</a></li>
+
+      </ul>
+    </div>
+  </div>
+</nav>
 
 
-<div id="maincontainer">
-<div id="contentwrapper">
-<div id="contentcolumn">
 
-<div class="contentmargin">
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"3e213e4086dfa6ec08275e905","lid":"9b5a33b9b1"}) })</script> 
+			
+<div class="container" style="padding-top: 8.0vh">
+	<div class="row">
+		<div class="col-sm-6">
 	
-		<div id="leftcentrecol">
-			<div id="leftcentrecontent">
-				
 	<div>
 	<h1>Privacy and Statement of Intent</h1>
 <p>From time to time, you will be asked to submit personal information(e.g. name and email address etc) in order to receive or use services on our website. By entering your details in the fields requested, you enable creativematch to provide you with the services you select. Such information will treated in accordance with this policy.</p>
@@ -143,244 +124,160 @@ function validateEmail() {
 <p>During the course of any visit to creativematch we may set a 'cookie'. Most websites do this, as cookies enable us to provide you with a better service (like making sure the content you see is the content you have selected) and it also assists us to analyse the profile of our visitors.</p>
 <p>You can of course still visit the creativematch website with cookies disabled, but you may find some of the services are not available to you.</p>
 <p><strong>Storage and use of personal information</strong><br>
-When you supply any personal information to creativematch we have legal obligations regarding the way we deal with that data. We must collect it fairly and we must explain how we will use it <br>
+When you supply any personal information to creativematch we have legal obligations regarding the way we deal with that data. We must collect it fairly and we must explain how we will use it.<br>
 <br>
-We do not make this information available to any third parties or 'companies in our group'<br>
+We do not make this information available to any third parties or 'companies in our group'.<br>
 <br>
 The only exception to this is if we are required to by Law. This also covers the content you publish on creativematch. If any content is offensive, abusive, disruptive or in any way illegal - creativematch reserve the right to omit the content and restrict your access to the website. In extreme circumstances and where required by Law, creativematch may pass on the personal details of any user uploading content which may prove to be illegal.<br>
 <br>
-For safety and compliance with UK law, creativematch may store messaging transcript data<br>
+For safety and compliance with UK law, creativematch may store messaging transcript data.<br>
 <br>
 Where you have supplied a business or personal email address, creativematch may contact you with relevant offers from third parties, news and functionality updates on the web site. We keep these to a minimum and ensure they are relevant. We respect your privacy and as such NEVER provide your data for the express purpose of marketing to any third parties. All emails sent by creativematch comply with industry best practice, and you can of course unsubscribe using links in the email.<br>
 <br>
 <strong>Access to your personal information</strong><br>
-You have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. You can manage your own content using our content management systems, these enable you to correct any inaccuracies or delete information - 24hrs a day. However, if you wish to see a hard copy, you can request this by contacting the IT Director, Creativematch, 46 High Street, Esher KT10 9RB. Please send your request and include a cheque for £11.75 made payable to creativematch.<br>
+You have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. You can manage your own content using our content management systems, these enable you to correct any inaccuracies or delete information - 24hrs a day. However, if you wish to see a hard copy, you can request this by contacting us at editor@creativematch.co.uk and include your postal and email address. We will ask you to pay a £10.00 administration fee to cover our costs.<br>
 <br>
 <strong>Age restriction</strong><br>
-If you are under 16, please get your parent/guardian's permission beforehand whenever you provide personal information to us. Please do not provide us with personal information if you are under 16 years old.</p>
+Please do not use our website, or provide us with personal information if you are under 16 years old.</p>
 <p>&nbsp;</p> 
 	</div>
- 
-			</div>
+
 		</div>
-	
-		<div id="rightcentrecol">
-       			
-			
-<div class="rightnewsheader">
-	<a href="/news/">Recent news</a> &gt; 
-</div>
-<div class="rightnewslinks">
-	[<a href="/front.cfm?action=showpage&amp;page=news_pr">publish your news</a>]
-</div>
-
-
-
-<div class="rightnewscontent">
-
-	
-		<div class="rightnewsitem">
-			<div class="rightnewsimage">
-				<a href="/news/yopa-appoints-heavyweight-media-agency/103912/"><img src="/newsfiles/66522/55/YOPA--image.JPG" alt="YOPA appoints heavyweight media agency The Specialist Works"></a>
-			</div>
-			<div class="rightnewstitle">
-				<a href="/news/yopa-appoints-heavyweight-media-agency/103912/">YOPA appoints heavyweight media agency The Specialist Works...</a>
-			</div>
-		</div>
-	
-		<div class="rightnewsitemwhite">
-			<div class="rightnewsimage">
-				<a href="/news/butterflycannon-redesign-no7-lift-luminate/103911/"><img src="/newsfiles/63811/55/RESTORE-RENEW-Carton-Tube-Scatter-Shot-5x4-lr.jpg" alt="ButterflyCannon Redesign No7 Lift &amp; Luminate and Restore &amp; Renew"></a>
-			</div>
-			<div class="rightnewstitle">
-				<a href="/news/butterflycannon-redesign-no7-lift-luminate/103911/">ButterflyCannon Redesign No7 Lift &amp; Luminate and Restore &amp; Renew...</a>
-			</div>
-		</div>
-	
-		<div class="rightnewsitem">
-			<div class="rightnewsimage">
-				<a href="/news/equifax-and-twentyci-launch-pre/103910/"><img src="/newsfiles/49924/55/Ian-Lancaster.jpg" alt="Equifax and TwentyCi launch Pre-Movers marketing solution"></a>
-			</div>
-			<div class="rightnewstitle">
-				<a href="/news/equifax-and-twentyci-launch-pre/103910/">Equifax and TwentyCi launch Pre-Movers marketing solution...</a>
-			</div>
-		</div>
-	
-		<div class="rightnewsitemwhite">
-			<div class="rightnewsimage">
-				<a href="/news/bolser-ee-skybet-nhs-get/103909/"><img src="/newsfiles/47194/55/Bolser-Group-SHV2478.jpg" alt="Bolser, EE, Skybet &amp; NHS Get Mobile"></a>
-			</div>
-			<div class="rightnewstitle">
-				<a href="/news/bolser-ee-skybet-nhs-get/103909/">Bolser, EE, Skybet &amp; NHS Get Mobile...</a>
-			</div>
-		</div>
-			
-	
-</div>
-
-
-<div id="rightjobsheader">
-	<a href="/jobs/">New jobs</a> &gt; <br>
-</div>
-<div id="rightjobslinks">
-	[<a href="/front.cfm?action=showpage&amp;page=express_membership">advertise a job/vacancy</a>]
-</div>
-
-<div id="rightjobscontent">
-
-	
-		<div class="rightjobsitem">
-			» <a href="/jobs/retail-architect/42327/">Retail Architect</a>
-		</div>
-	
-		<div class="rightjobsitemwhite">
-			» <a href="/jobs/mid-weight-creative-artworker/42322/">Mid Weight Creative Artworker</a>
-		</div>
-	
-		<div class="rightjobsitem">
-			» <a href="/jobs/junior-html-email-developer/42316/">Junior HTML Email Developer</a>
-		</div>
-	
-		<div class="rightjobsitemwhite">
-			» <a href="/jobs/account-director/42308/">Account Director</a>
-		</div>
-	
-		<div class="rightjobsitem">
-			» <a href="/jobs/senior-account-manager/42305/">Senior Account Manager</a>
-		</div>
-			
-	
-</div>
-
-
-
-
-<div id="rightportheader">
-	<a href="/portfolio/">Portfolios</a> &gt; <br>
-</div>
-<div id="rightportlinks">
-	[<a href="/front.cfm?action=showpage&amp;page=Portfolio%20Set%20Up">add your portfolio</a>]
-</div>
-
+		<div class="col-sm-6">
 		
-<div id="rightportcontent">
-
-		<div id="rightportcontent-img">
-			<a href="/portfolio/un_titled/" title="Click here to view portfolio"><img src="/mycm/portfolio/27774/thumbs/port3.jpg" border="0" alt="Un.titled portfolio"></a>
-		</div>
-		<div class="rightportitem">
-			<a href="/portfolio/un_titled/" title="Click here to view this portfolio in detail"><b>Un.titled</b></a>
+  
+<div class="container-fluid bg-3 txt-center">
+	<h2><strong>Featured</strong> news and portfolios</h2>
+  		
+<div class="masonry-right">
+   
+     <div>
+      <a href="/news/clear-marketing-powers-new-multimillion/103973/">
+		<img src="/newsfiles/66734/450/Hoover-image.jpg" class="img-responsive" alt="Clear Marketing Powers New Multimillion Pound Hoover Campaign"></a>
+		<h2><a href="/news/clear-marketing-powers-new-multimillion/103973/">Clear Marketing Powers New Multimillion Pound Hoover Campaign</a>  [news]</h2>
+		<hr>
 		</div>
 		
-</div>
-
-			
-            	
-            
+     <div>
+      <a href="/news/heyhuman-launches-social-media-drive/103972/">
+		<img src="/newsfiles/66688/450/Still-from-June-s-Journey-film1.jpg" class="img-responsive" alt="HeyHuman launches social media drive for new murder mystery game"></a>
+		<h2><a href="/news/heyhuman-launches-social-media-drive/103972/">HeyHuman launches social media drive for new murder mystery game</a>  [news]</h2>
+		<hr>
 		</div>
-
-	
-
-</div>
-
-</div>
-</div>
-
-<div id="leftcol">
-	
-
-
-<div id="loginpanel">
-
-
-	<form action="/front.cfm?action=login_action" method="post" name="frmLogin">
-	<fieldset>
-		<legend>Login</legend>
-
-	<label for="loginuser" accesskey="u">Username</label>
-	<input type="text" name="usr" id="loginuser">
-	<label for="loginpwd" accesskey="p">Password</label>
-	<input type="password" name="pwd" id="loginpwd">
-	<button type="submit" name="submit" id="gobut">Go</button>
-
-
-	<div class="loginnote">
-	<a href="/front.cfm?action=forgetpw"><strong>»</strong> lost password</a>
+		
+     <div>
+      <a href="/news/the-market-creative-celebrates-choice/103971/">
+		<img src="/newsfiles/62788/450/Screen-Shot-2017-10-25-at-10-35-03.jpg" class="img-responsive" alt="The Market Creative celebrates choice with a new campaign for Silentnight"></a>
+		<h2><a href="/news/the-market-creative-celebrates-choice/103971/">The Market Creative celebrates choice with a new campaign for Silentnight</a>  [news]</h2>
+		<hr>
+		</div>
+		
+     <div>
+      <a href="/news/butterflycannon-create-grand-vintage-malt/103969/">
+		<img src="/newsfiles/63811/450/Credentials-Grand-Vintage-PENTAWARDS-WINNER-01.jpg" class="img-responsive" alt="ButterflyCannon create Grand Vintage Malt 1990, the first release from Glenmorangie’s Bondhouse No.1 Collection"></a>
+		<h2><a href="/news/butterflycannon-create-grand-vintage-malt/103969/">ButterflyCannon create Grand Vintage Malt 1990, the first release from Glenmorangie’s Bondhouse No.1 Collection</a>  [news]</h2>
+		<hr>
+		</div>
+		
+     <div>
+      <a href="/news/world-s-first-loyalty-program/103968/">
+		<img src="/newsfiles/65508/450/Screen-Shot-2017-10-06-at-10-12-21.jpg" class="img-responsive" alt="World's First Loyalty Program For Dogs"></a>
+		<h2><a href="/news/world-s-first-loyalty-program/103968/">World's First Loyalty Program For Dogs</a>  [news]</h2>
+		<hr>
+		</div>
+		
+     <div>
+      <a href="/news/chill-factore/103967/">
+		<img src="/newsfiles/65558/450/chillfactore01.jpg" class="img-responsive" alt="Chill Factore!"></a>
+		<h2><a href="/news/chill-factore/103967/">Chill Factore!</a>  [news]</h2>
+		<hr>
+		</div>
+		
+     <div>
+      <a href="/news/accommodation-for-students-looks-to/103966/">
+		<img src="/newsfiles/61910/450/AFS-image-3.jpg" class="img-responsive" alt="Accommodation for students looks to grow with digital Agency"></a>
+		<h2><a href="/news/accommodation-for-students-looks-to/103966/">Accommodation for students looks to grow with digital Agency</a>  [news]</h2>
+		<hr>
+		</div>
+		
+     <div>
+      <a href="/news/political-caricature-heads-for-thorpe/103965/">
+		<img src="/newsfiles/63726/450/Political-Caricature-Costume-Heads.jpg" class="img-responsive" alt="Political caricature heads for Thorpe Park"></a>
+		<h2><a href="/news/political-caricature-heads-for-thorpe/103965/">Political caricature heads for Thorpe Park</a>  [news]</h2>
+		<hr>
+		</div>
+		
+		<div>
+			<a href="/portfolio/nomizon_associates/" title="Click here to view portfolio">
+			<img src="/mycm/portfolio/56869/bigimages/johntoppin.jpg" border="0" alt="John Toppin - Nomizon Associates" width="100%"></a>
+			<h2><a href="/portfolio/nomizon_associates/" title="Click here to view this listing in detail">John Toppin - Nomizon Associates</a> [portfolio]</h2>
+		<hr>
 	</div>
-	</fieldset>
-	</form>
-
-
+				 
+		<div>
+			<a href="/portfolio/wax_communications/" title="Click here to view portfolio">
+			<img src="/mycm/portfolio/45223/bigimages/McVitie's_Dunk_Time.png" border="0" alt="Wax Communications" width="100%"></a>
+			<h2><a href="/portfolio/wax_communications/" title="Click here to view this listing in detail">Wax Communications</a> [portfolio]</h2>
+		<hr>
+	</div>
+				 
+		<div>
+			<a href="/portfolio/otm/" title="Click here to view portfolio">
+			<img src="/mycm/portfolio/54748/bigimages/tfl.gif" border="0" alt="OTM" width="100%"></a>
+			<h2><a href="/portfolio/otm/" title="Click here to view this listing in detail">OTM</a> [portfolio]</h2>
+		<hr>
+	</div>
+				 
+		<div>
+			<a href="/portfolio/design4retail/" title="Click here to view portfolio">
+			<img src="/mycm/portfolio/62759/bigimages/IMG_4409.jpeg" border="0" alt="Design4Retail" width="100%"></a>
+			<h2><a href="/portfolio/design4retail/" title="Click here to view this listing in detail">Design4Retail</a> [portfolio]</h2>
+		<hr>
+	</div>
+				 
+		<div>
+			<a href="/portfolio/nu_creative_ltd_nucreative_/" title="Click here to view portfolio">
+			<img src="/mycm/portfolio/63304/bigimages/portfolio_web6.jpg" border="0" alt="NU Creative Ltd (nucreative)" width="100%"></a>
+			<h2><a href="/portfolio/nu_creative_ltd_nucreative_/" title="Click here to view this listing in detail">NU Creative Ltd (nucreative)</a> [portfolio]</h2>
+		<hr>
+	</div>
+				 
+		<div>
+			<a href="/portfolio/smp_group_plc/" title="Click here to view portfolio">
+			<img src="/mycm/portfolio/51858/bigimages/webbigtut.jpg" border="0" alt="SMP Group Plc" width="100%"></a>
+			<h2><a href="/portfolio/smp_group_plc/" title="Click here to view this listing in detail">SMP Group Plc</a> [portfolio]</h2>
+		<hr>
+	</div>
+				 
+		<div>
+			<a href="/portfolio/evolve_creative_solutions_ltd/" title="Click here to view portfolio">
+			<img src="/mycm/portfolio/64948/bigimages/Retail_Cristina__1_.jpg" border="0" alt="Evolve Creative Solutions Ltd" width="100%"></a>
+			<h2><a href="/portfolio/evolve_creative_solutions_ltd/" title="Click here to view this listing in detail">Evolve Creative Solutions Ltd</a> [portfolio]</h2>
+		<hr>
+	</div>
+				 
+		<div>
+			<a href="/portfolio/real_print_management_limited/" title="Click here to view portfolio">
+			<img src="/mycm/portfolio/41540/bigimages/NHS-Poster1.jpg" border="0" alt="Real Print Management Limited" width="100%"></a>
+			<h2><a href="/portfolio/real_print_management_limited/" title="Click here to view this listing in detail">Real Print Management Limited</a> [portfolio]</h2>
+		<hr>
+	</div>
+				 
+  </div>
 </div>
-
-
-
-<div id="addprofilepanel">
-	<form action="/front.cfm?action=AddYourself" method="post" name="SubmitYourSelfForm" onsubmit="return validateAdd()">
-	<fieldset>
-		<legend>Add your profile</legend>
-					<input name="yourself" type="text" value="www.">
-
-					<button type="submit" name="submit" value="submit" id="gobut1">Go</button>
-					
-	</fieldset>
-	</form>
-</div>
-
-
-
-
-
-
-
-</div>
-
-<div id="rightcolumn">
-	
-</div>
-
-</div><br>
-
-<div id="footer">
-    <div id="footer-col-wrapper">
-    	<div id="footer-heading">
-          <div id="footer-creativematch"><h2>creativematch</h2></div>
-          <div id="footer-more">
-            <h2>social</h2></div>
-          <div id="footer-social"><h2>jobs</h2></div>
-        </div>
-          <div id="footer-left1">
-          	<ul>
-                <li><a href="/front.cfm?action=showpage&amp;page=cntct">Contact</a></li>
-                <li><a href="/front.cfm?action=feedback">Feedback</a></li>
-            	<li><a href="/front.cfm?action=about">About Us</a></li>
-                <li><a href="/front.cfm?action=showpage&amp;page=FAQMain">FAQs</a></li>
-                <li><a href="/front.cfm?action=showpage&amp;page=mtcs">Terms &amp; Conditions</a></li>
-          	</ul>          
-          </div>
-          <div id="footer-left2">
-          	<ul>
-                <li><a href="/front.cfm?action=showpage&amp;page=privacy">Privacy</a></li>
-                <li><a href="/front.cfm?action=showpage&amp;page=editorial_policy">Editorial Policy</a></li>
-            	<li><a href="/front.cfm?action=showpage&amp;page=advInd">Advertising</a></li>
-          	</ul>          
-          
-      </div>
-          <div id="footer-center">
-          	<ul>
-                <li><a href="http://twitter.com/creativematch"><img src="/images/social_twitter.png" width="16" height="16" alt="Twitter">Twitter</a></li>
-                <li><a href="http://www.linkedin.com/companies/creativematch"><img src="/images/social_linkedin.png" width="16" height="16" alt="LinkedIn">LinkedIn</a></li>
-          	</ul>          
-          </div>
-          <div id="footer-right">
-          	        
-          </div>
-    </div>
-</div>
-
-
-
-
+		</div>
+				</div>
+				</div>
+   <footer> 
+  <ul style="list-style: none; display: inline">
+			<li><a href="/front_x.cfm?action=showpage&amp;page=mtcs">Terms &amp; Conditions</a> |
+			<a href="/front_x.cfm?action=about">Our story</a> |
+			<a href="/front_x.cfm?action=showpage&amp;page=FAQMain">FAQs</a> | 
+			<a href="/front_x.cfm?action=showpage&amp;page=privacy">Privacy</a>  | 
+			<a href="/front_x.cfm?action=showpage&amp;page=editorial_policy">Editorial Policy</a></li>
+			<li>© creativematch 2017</li>
+		</ul>
+</footer>        
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
