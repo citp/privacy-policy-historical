@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the defender.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507210937id_/http%3A//www.defender.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defender.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107214909id_/http%3A//www.defender.com/privacy.jsp) for the most accurate reproduction.*
 
 # Defender Privacy Statement
-
-  | 
 
 **Defender Privacy Statement**
 
@@ -114,5 +112,3 @@ are the web sites of: **Defender Industries, Inc.**
 > Defender Industries, Inc. reserves the right to change this Privacy Policy at any time. 
 
 > **Effective Date: August 3, 2004**
-
-|  
