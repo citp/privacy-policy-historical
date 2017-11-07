@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceptronic.net privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614024918id_/http%3A//www.conceptronic.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptronic.net privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107121327id_/http%3A//www.conceptronic.net/privacy.php) for the most accurate reproduction.*
 
 # Conceptronic
 
