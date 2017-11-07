@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the toodledo.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200253id_/http%3A//www.toodledo.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toodledo.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107215029id_/https%3A//www.toodledo.com/info/privacy.php) for the most accurate reproduction.*
 
 # Toodledo » Privacy Policy
 
 ## Information Collection and Use
 
-This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves, such as their email address and other information. This information will never be shared or sold beyond what is described below. Users may remove themselves and their information from the website's database by [contacting us](https://web.archive.org/web/20170627200253id_/http%3A//www.toodledo.com/info/contact.php). This website and the advertisers on this website conform to the [Children's Online Privacy Protection Act](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy).
+This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves, such as their email address and other information. This information will never be shared or sold beyond what is described below. Users may remove themselves and their information from the website's database by [contacting us](https://web.archive.org/web/20171107215029id_/https%3A//www.toodledo.com/info/contact.php). This website and the advertisers on this website conform to the [Children's Online Privacy Protection Act](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy).
 
 ## Cookies
 
@@ -42,7 +42,7 @@ From time-to-time our site requests information from users via surveys. Particip
 
 ## Security
 
-This website takes precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. While we use best practices to protect your data, we cannot guarantee that your data is completely secure. We recommend that you do not store confidential information on our servers and that you make regular backups of your data using our backup tools. If you have any questions about the security at our website, you can [contact us](https://web.archive.org/web/20170627200253id_/http%3A//www.toodledo.com/info/contact.php). 
+This website takes precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. While we use best practices to protect your data, we cannot guarantee that your data is completely secure. We recommend that you do not store confidential information on our servers and that you make regular backups of your data using our backup tools. If you have any questions about the security at our website, you can [contact us](https://web.archive.org/web/20171107215029id_/https%3A//www.toodledo.com/info/contact.php). 
 
 ## Notification of Changes
 
