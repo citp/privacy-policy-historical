@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vote.gov privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513110205id_/https%3A//www.usa.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.gov privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107201726id_/https%3A//www.usa.gov/policies) for the most accurate reproduction.*
 
-# Privacy, Security, and Accessibility Policies | USA.gov
+# Privacy, Security, and Accessibility Policies | USAGov
 
 USA.gov doesn't collect personal information when you visit our web site unless you choose to provide that information.
 
@@ -50,7 +50,7 @@ USA.gov links to many websites created and maintained by other public and/or pri
 
 ### Social Media Sites
 
-USA.gov manages a presence on social media sites such as [Facebook](https://www.facebook.com/USAgov), [Twitter](https://twitter.com/USAgov), [YouTube](https://www.youtube.com/usagov), [Snapchat](https://www.snapchat.com/add/usagov), and others to share government information, and engage with the public. We do not collect any personally identifiable information through those sites, and we do not use personal information made available by the third-party sites.
+USA.gov manages a presence on social media sites such as [Facebook](https://www.facebook.com/USAgov), [Twitter](https://twitter.com/USAgov), [YouTube](https://www.youtube.com/usagov), [Snapchat](https://www.snapchat.com/add/usagov), [Instagram](https://www.instagram.com/usagov/), [Pinterest](https://www.pinterest.com/usagov/), and others to share government information, and engage with the public. We do not collect any personally identifiable information through those sites, and we do not use personal information made available by the third-party sites.
 
 Back to Top
 
@@ -62,6 +62,6 @@ We only share the information you give us with another government agency if your
 
 Back to Top
 
-Last Updated: March 29, 2017
+Last Updated: September 05, 2017
 
 ## What you think matters!
