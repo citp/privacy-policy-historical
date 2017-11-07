@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062926id_/http%3A//www.drjays.com/content/customerservice/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107224419id_/http%3A//drjays.com/content/customerservice/privacy_policy.html) for the most accurate reproduction.*
 
 # DrJays.com - Customer Service - Privacy
 
@@ -36,4 +36,4 @@ By using the Site, you indicate your agreement with the terms and conditions of 
 
 ### Contact Us
 
-Please [contact us](https://web.archive.org/content/customerservice/contact_us.html) with any questions or comments regarding our privacy policy. You can call us at **1-888-4-DRJAYS** or email us at [Service@DrJays.com](mailto:service@drjays.com).
+Please [contact us](https://www.drjays.com/content/customerservice/contact_us.html) with any questions or comments regarding our privacy policy. You can call us at **1-888-4-DRJAYS** or email us at [Service@DrJays.com](mailto:service@drjays.com).
