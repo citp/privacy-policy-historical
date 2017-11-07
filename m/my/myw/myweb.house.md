@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myweb.house privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508022248id_/http%3A//myweb.house//index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myweb.house privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107025926id_/http%3A//myweb.house//index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - MyWeb.House
 
@@ -6,7 +6,7 @@
 
 At http://myweb.house/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by http://myweb.house/ and how we use it.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at admin@myweb.house. An example of a privacy policy can be found at [buyproxies.io.](http://buyproxies.io/)
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) An example of a privacy policy can be found at [buyproxies.io.](http://buyproxies.io/)
 
  **Log Files**
 
