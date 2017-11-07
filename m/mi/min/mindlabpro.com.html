@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mindlabpro.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606033029id_/http%3A//www.mindlabpro.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindlabpro.com privacy policy that was archived on 2017-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171107040324id_/http%3A//www.mindlabpro.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="top" class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,13 +17,13 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://static.mindlabpro.com/media/css/99d23a940e93ab2cd3a1235f80243a7d.css" media="all">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.5"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://static.mindlabpro.com/media/js/ebfa02b3f38cc974939a6d3cbb1c65fe.js"></script>
+<link rel="stylesheet" type="text/css" href="http://static.mindlabpro.com/media/css/f2b8fcaa1129836dcfe6f25f6b9125b6.css" media="all">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.5"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://static.mindlabpro.com/media/js/ad484f76088f9f576e8c3a90845dea58.js"></script>
 <!--[if  (lte IE 8) & (!IEMobile)]>
-<link rel="stylesheet" type="text/css" href="http://static.mindlabpro.com/media/css/cd94dd2e9c581d806fff8acbc8206dff.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.mindlabpro.com/media/css/838fe723508f55877d6ec65c9ad82c3f.css" media="all" />
 <![endif]-->
 <!--[if (gte IE 9) | (IEMobile)]><!-->
-<link rel="stylesheet" type="text/css" href="http://static.mindlabpro.com/media/css/df85f4bb4b9e7cc049367e998d3f63fc.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://static.mindlabpro.com/media/css/621d82416750884c6055b41fadc2235e.css" media="all">
 <!--<![endif]-->
 
 <script type="text/javascript">
@@ -196,10 +196,18 @@ ga('send', 'pageview');
                                 _ddlLoaded = true;
                                 jQuery('#store-switcher').show();
                             } else {
-                                countryCode = data.selectedData.value;
-                                onChangeUrl = 'http://www.mindlabpro.com/privacy-policy/?geoip_country=%geoip_code%';
-                                url = onChangeUrl.replace('%geoip_code%', countryCode);
-                                setLocation(url);
+                                var countryCode = data.selectedData.value;
+                                var countryUrl = 'http://www.mindlabpro.com/privacy-policy/?geoip_country=%geoip_code%';
+                                $j.ajax({
+                                    url: "http://www.mindlabpro.com/storeswitcher/ajax/getCountryUrl/",
+                                    type: "POST",
+                                    data: { countryCode: countryCode,
+                                        countryUrl: countryUrl },
+                                    success: function(result) {
+                                        url = result.replace('%geoip_code%', countryCode);
+                                        setLocation(url);
+                                    }
+                                });
                             }
                         }
                     });
@@ -319,20 +327,24 @@ ga('send', 'pageview');
     <li><a href="http://www.mindlabpro.com/affiliates/">Affiliates</a></li>
     <li><a href="http://www.mindlabpro.com/terms-and-conditions/">Terms</a></li>
     <li><a href="http://www.mindlabpro.com/privacy-policy/">Privacy</a></li>
+    <li><a href="http://www.mindlabpro.com/inquiries/media/">Media</a></li>
+    <li><a href="http://www.mindlabpro.com/inquiries/wholesale/">Wholesale</a></li>
 </ul>
         <div id="copyright" class="group">
             <div class="m1c1 show-mobile">
                 <img class="responsive50 mob-centered m-mp10" src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-mobilefooterlogo.png" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-mobilefooterlogo@2x.png" alt="Advanced Nutraceuticals">
             </div>
             <div class="m1c1 _11c16 darkgrey-text caps gotham-bold xxxs-text footer-info m-mtop20">
-                <p class="lineheight-extra">© Mind Lab Pro® 2017. All Rights Reserved.<br class="display-desktop">
-                    Opti-Nutra Ltd.
-20-22 Wenlock Road
-London, N1 7GU
+                <p class="lineheight-extra">© Mind Lab Pro<span class="xxxxs-text registered-small">®</span> 2017. All Rights Reserved.<br class="display-desktop">
+                    Opti-Nutra Ltd.,
+20-22 Wenlock Road,
+London, N1 7GU,
 United Kingdom</p>
             </div>
             <div class="m1c1 _5c16 footer-info hide-mobile">
-                <img class="f-right" src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-footerlogo.png" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-footerlogo@2x.png" alt="Advanced Nutraceuticals">
+                <a href="http://www.optinutra.com/" target="_blank">
+                    <img class="f-right" src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-footerlogo.png" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-footerlogo@2x.png" alt="Advanced Nutraceuticals">
+                </a>
             </div>
         </div>
     </div>
@@ -349,7 +361,7 @@ United Kingdom</p>
         </script><script id="pap_x2s6df8d" src="https://affiliate.stackedbrands.com/scripts/trackjs.js" type="text/javascript"></script>
         <script type="text/javascript">
         <!--
-            PostAffTracker.setAccountId('0e20cb76');
+            PostAffTracker.setAccountId('default1');
             try {
                 var CampaignID = 'f4c782b0';
                 PostAffTracker.track();
