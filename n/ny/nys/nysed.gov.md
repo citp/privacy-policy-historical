@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506190351id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107210325id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
 
 # Internet Privacy Policy | New York State Education Department
 
@@ -42,6 +42,10 @@ NYSED does not knowingly collect personal information from children or create pr
 NYSED does not solicit information from children under the age of thirteen. If the NYSED receives information submitted by children under the age of thirteen, those communications are accorded the same protections as if the information had been submitted offline.
 
 The Children's Online Privacy Protection Act of 1998 (COPPA) imposes restrictions on commercial Websites, not government agency websites. Although COPPA does not apply to the NYSED Website, the NYSED practices are consistent with its mandates. If you would like more information about COPPA, please visit the Federal Trade Commission's official [COPPA page](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy).
+
+## Student Data Privacy
+
+NYSED is committed to promoting sound information practices and policies that will ensure the security and privacy of student data. For additional information, please visit our [Student Data Privacy](http://www.nysed.gov/student-data-privacy) website.
 
 ## Information and Choice
 
