@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weddingmapper.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221220601id_/http%3A//www.weddingmapper.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingmapper.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107063621id_/http%3A//www.weddingmapper.com/privacy) for the most accurate reproduction.*
 
-# Free Personalized and Interactive Wedding Maps, Local Wedding Planning Tools - Wedding Mapper
+# Wedding Mapper
 
 **Privacy Policy**
 
-Last Updated: December 8, 2006
+Last Updated: June 18th, 2010
 
 **SUMMARY**
 
@@ -25,6 +25,8 @@ We take the privacy of our users very seriously. Please read this Privacy Policy
 **Optional User Profile Information.** In the future, we may include optional user profile information. If we provide that as part of the service, you will be able to choose to provide us with additional optional information about yourself (for example, your name, address, age, etc.), which helps us deliver a more personalized experience to you. This information may be made available in your publicly available user profile page. 
 
 **Access To Your Personal Information.** In general, we make it easy for you to view your personally identifiable information in your user profile page, where you can add, edit, or delete it as you see fit. You can access your user profile page by logging in at this link: [http://www.WeddingMapper.com](http://www.weddingmapper.com/) and clicking on "User Information."
+
+**Third Party Advertising Networks.** Some of the advertisements that appear on the WeddingMapper.com web site are delivered to you by national internet advertising and application company such as Adify. This company utilizes certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site(s), including information about the banner ads they display, and cookie they place on your computer and your IP address. To opt out of information collection by Adify, or to obtain information about the technologies they use or their own privacy policy, please visit their website at: http://www.adify.com/adify-opt-out-program http://www.networkadvertising.org/managing/opt_out.asp
 
 **B. Information We Do Not Collect**
 
