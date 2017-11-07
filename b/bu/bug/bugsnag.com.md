@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bugsnag.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116183642id_/https%3A//docs.bugsnag.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugsnag.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107055441id_/https%3A//docs.bugsnag.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Bugsnag docs › Legal & security › Privacy Policy
+# Bugsnag docs › Legal & terms › Privacy Policy
 
 Details on how Bugsnag processes and stores your data.
 
-_Last modified March 26, 2015_
+_Last modified June 13, 2017_
 
 Bugsnag understands that privacy is important. This Privacy Policy applies to any and all products, services, applications, Applications, websites, or other affiliated ventures operated by Bugsnag, Inc. Throughout this Policy, “Bugsnag” and “We” refers to Bugsnag, Inc. and its affiliates. “You” refers to you, our customers and users - everyone who uses, subscribes to, publishes through, advertises through, joins, or visits Bugsnag. The “Bugsnag Platform” refers to the libraries, API, website and software-as-a-service platform You choose to download, integrate, and access at [https://bugsnag.com](https://bugsnag.com/).
 
@@ -17,7 +17,7 @@ Information You Provide: You may provide to Bugsnag personal information (such a
 “Cookies” Information: When You access the Bugsnag Platform, we may send one or more cookies - small text files containing a string of alphanumeric characters - to Your computer or mobile device. Bugsnag uses both Bugsnag cookies and third party cookies for the following purposes:
 
   * The Bugsnag “session” cookie allows Bugsnag to remember if You are logged into your Bugsnag dashboard.
-  * Analytics cookies that allow us to track aggregate analytics data about usage of [https://bugsnag.com](https://bugsnag.com/) and the effectiveness of any marketing campaigns we run.
+  * Analytics cookies that allow us to track aggregate analytics data about usage of [https://www.bugsnag.com](https://www.bugsnag.com/) and the effectiveness of any marketing campaigns we run.
   * Retargeting cookies that allow us to retarget advertisements at users who have visited the Bugsnag website.
 
 
@@ -50,7 +50,7 @@ You have full access to Your Employee Data, Error Data and Diagnostic Data.
 
 Bugsnag’s employees have access to Employee Data, Error Data and Diagnostic Data. Bugsnag employees will only ever access this data in order to help You with support requests, or to aid You in the integration of Bugsnag into Your Software. All Bugsnag Employees must adhere to Bugsnag’s Information Security Policy.
 
-Bugsnag uses encryption on all data in transit and multifactor authentication to secure your data. Access is limited to Bugsnag’s employees.
+Bugsnag uses encryption on all data in transit and at rest, as well as multi-factor authentication to secure your data. Access is strictly limited to Bugsnag employees.
 
 ## 4\. The Way Bugsnag Uses Information
 
@@ -78,7 +78,7 @@ Employee Data is stored for as long as Customers require access to their Bugsnag
 
 ## 7\. Where is Data Stored?
 
-All data and backups are currently stored on Amazon’s AWS, on US servers. Please see Amazon’s AWS Privacy Policy for further details: <http://aws.amazon.com/privacy/>.
+All data and backups are currently stored on the Google Cloud Platform, on US servers. Please see the Google Cloud Platform security portal for further details: <https://cloud.google.com/security/>.
 
 Bugsnag is a globally diverse company. Bugsnag employs U.S. and non-U.S. citizens. Every Bugsnag employee agrees to comply with the Bugsnag Information Security Policy.
 
@@ -98,18 +98,14 @@ If You wish to provide to Bugsnag personally identifiable information of childre
 
 If you are the parent or legal guardian of a child under 13 who has become a Bugsnag Platform member, then please contact Bugsnag at [privacy@bugsnag.com](mailto:privacy@bugsnag.com) to have that child‘s account terminated and information deleted.
 
-## 10\. EU Safe Harbor
-
-Bugsnag complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Bugsnag has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Bugsnag’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-## 11\. In the Event of Merger or Sale
+## 10\. In the Event of Merger or Sale
 
 In the event that Bugsnag is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from You as part of that merger, acquisition, sale, or other change of control.
 
-## 12\. Third Parties
+## 11\. Third Parties
 
 Except as otherwise expressly provided otherwise, this document addresses only the use and disclosure of information we collect from You or that You disclose to us. If You disclose Your information to others besides Bugsnag, whether they are users of the Bugsnag Platform or on other sites or services, different rules may apply to their use or disclosure of the information You disclose to them. Bugsnag does not control the privacy policies of third parties, and You are subject to the privacy policies of those third parties where applicable. We encourage You to ask questions before You disclose Your personal information to others.
 
-## 13\. Changes and Updates to this Privacy Policy
+## 12\. Changes and Updates to this Privacy Policy
 
 This Privacy Policy may be revised periodically without further notice to You and this will be reflected by a “last modified” date above. Please revisit this page to stay aware of any changes. In general, we only use Your data in the manner described in the Privacy Policy in effect when we received that personal information. Your continued use of the Bugsnag Platform constitutes Your agreement to this Privacy Policy and any future revisions.
