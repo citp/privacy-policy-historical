@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calgary.ca privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625063929id_/http%3A//www.calgary.ca/General/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calgary.ca privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107055305id_/http%3A//www.calgary.ca/General/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # The City of Calgary - Calgary.ca privacy statement
 
