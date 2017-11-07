@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milkround.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612094229id_/http%3A//www.milkround.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkround.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107090209id_/https%3A//advice.milkround.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Milkround
 
@@ -18,9 +18,9 @@
 
 **Who we are**
 
-Totaljobs Group Ltd., ​Blue Fin, 110 Southwark Street, London SE1 0TA operates the websites available at [milkround.com](http://web.archive.org/web/20160828195313/http:/www.milkround.com/) where we collect, use and disclose personal information in line with this Policy. Previously the Milkround Online Network was operated by Milkround Online Limited, which was merged to Totaljobs Group Ltd., so that Totaljobs automatically became data controller.
+Totaljobs Group Ltd., Blue Fin, 110 Southwark Street, London SE1 0TA operates the websites available at [milkround.com](http://web.archive.org/web/20160828195313/http:/www.milkround.com/) where we collect, use and disclose personal information in line with this Policy. Previously the Milkround Online Network was operated by Milkround Online Limited, which was merged to Totaljobs Group Ltd., so that Totaljobs automatically became data controller.
 
-We are part of the StepStone GmbH group of companies (the "StepStone Group"). StepStone is a global online job board company and operates online job portals to accurately match candidates with companies.
+We are part of the StepStone GmbH group of companies (the “StepStone Group”). StepStone is a global online job board company and operates online job portals to accurately match candidates with companies.
 
 **What this policy is for**
 
@@ -30,7 +30,7 @@ We reserve the right to change this privacy policy from time to time by changing
 
 **Your consent**
 
-By completing our registration forms (for example through our websites or mobile applications ("apps"), or by the continued use of our services), you consent to the use of your personal information in accordance with this Policy. This includes any sensitive personal information that you may provide, such as details of any medical conditions that you may publish as part of a CV, mention in a forum post or in an email to us.
+By completing our registration forms (for example through our websites or mobile applications (“apps”), or by the continued use of our services), you consent to the use of your personal information in accordance with this Policy. This includes any sensitive personal information that you may provide, such as details of any medical conditions that you may publish as part of a CV, mention in a forum post or in an email to us.
 
 ### **Collection of information**
 
@@ -130,7 +130,7 @@ If we sell part or all of our business, customer information may be one of the t
 
 Customer information will be used to take payment for products and services and may be used to verify credit details related to this payment. Permission to do so is implicit in providing financial details to process payment. Direct debit information may be retained for ease of renewal of services.
 
-If you apply for credit, then, in order to help us to make credit decisions about you, prevent fraud, check your identity and prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
+If you apply for credit, then, in order to help us to make credit decisions about you, prevent fraud, check your identity and prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors/
 
 ### **Data Transfers**
 
@@ -267,7 +267,7 @@ Most modern browsers are set to accept cookies by default, but you can change yo
 
 **Controlling OBA cookies**
 
-The "Your Online Choices" website [http://www.youronlinechoices.com](http://web.archive.org/web/20160828195313/http:/www.youronlinechoices.com/) provides more information about controlling cookies. It also provides an easy way to opt out of behavioural advertising from each (or all) of the networks represented by the European Interactive Digital Advertising Alliance [http://www.youronlinechoices.com/uk/your-ad-choices.](http://web.archive.org/web/20160828195313/http:/www.youronlinechoices.com/uk/your-ad-choices)
+The “Your Online Choices” website [http://www.youronlinechoices.com](http://web.archive.org/web/20160828195313/http:/www.youronlinechoices.com/) provides more information about controlling cookies. It also provides an easy way to opt out of behavioural advertising from each (or all) of the networks represented by the European Interactive Digital Advertising Alliance [http://www.youronlinechoices.com/uk/your-ad-choices.](http://web.archive.org/web/20160828195313/http:/www.youronlinechoices.com/uk/your-ad-choices)
 
 **Controlling Flash cookies**
 
