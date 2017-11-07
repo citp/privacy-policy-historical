@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediafunnel.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520211745id_/http%3A//mediafunnel.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediafunnel.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107194211id_/http%3A//mediafunnel.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – MediaFunnel
 
