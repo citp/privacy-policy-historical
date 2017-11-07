@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replacements.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123303id_/http%3A//www.replacements.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replacements.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107220148id_/https%3A//www.replacements.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Replacements, Ltd.
 
