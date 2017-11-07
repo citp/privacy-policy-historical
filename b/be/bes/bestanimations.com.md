@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605095147id_/http%3A//bestanimations.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107235349id_/http%3A//bestanimations.com/Privacy.html) for the most accurate reproduction.*
 
 # Best Animations - Privacy Policy
 
@@ -9,6 +9,10 @@ Personal identification information
 We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
 Non-personal identification information 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org.](http://www.networkadvertising.org/)
+
+We partner with Conversant to serve ads and/or collect certain information when you visit our website. Conversant may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [http://www.conversantmedia.com/legal/privacy.](http://www.conversantmedia.com/legal/privacy)
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
@@ -48,4 +52,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 webmaster.at.bestanimations.com 
 
-This document was last updated on November 6, 2015 
+This document was last updated on June 6, 2017 
