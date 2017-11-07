@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the admitcardx.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203029id_/http%3A//admitcardx.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admitcardx.in privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107221527id_/http%3A//www.sitjobs.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AdmitCardJobs.in
+# Privacy Policy - SIT Jobs 2017 Sarkari Naukri, Admit Card Result
 
 The privacy of our visitors on admitcardjobs.in is very important for us. If you require more details or have any query about our privacy frankly ask any question on our  **[contact us](http://www.admitcardjobs.in/contact-us/)** Page
 
