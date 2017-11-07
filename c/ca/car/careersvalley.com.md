@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231233950id_/http%3A//www.mirchibazaar.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107225604id_/http%3A//www.mirchibazaar.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MirchiBazaar
 
@@ -45,11 +45,11 @@ Cookies and Web Beacons
 [www.mirchibazaar.com](http://www.mirchibazaar.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 Specific info on statistical analytical cookies:  
-This website includes cookies by third party statistical analytical tools like that of google analytics which are used to evaluate visitors' use of the website and to compile statistical reports on website activity. We will never use these statistical analytics tools to track or to collect any Personally Identifiable Information of visitors of this website. 
+This website includes cookies by third party statistical analytical tools like that of google analytics which are used to evaluate visitors' use of the website and to compile statistical reports on website activity. We will never use these statistical analytics tools to track or to collect any Personally Identifiable Information of visitors of this website.
 
-Some of our advertising partners may use cookies and web beacons on our site. 
+Some of our advertising partners may use cookies and web beacons on our site.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.mirchibazaar.com](http://www.mirchibazaar.com/) send directly to your browsers. They may automatically receive your IP address when this occurs. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.mirchibazaar.com](http://www.mirchibazaar.com/) send directly to your browsers. They may automatically receive your IP address when this occurs.
 
 Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see on this website and elsewhere on internet.
 
