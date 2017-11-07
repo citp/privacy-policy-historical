@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarly.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627195920id_/https%3A//www.grammarly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarly.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107223208id_/https%3A//www.grammarly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grammarly
 
@@ -32,6 +32,8 @@ The Site and the Software also collect and receive information from your compute
 The Site also contains electronic images known as “web beacons” (or “single-pixel gifs”) and are used along with cookies to compile aggregated statistics to analyze how the Site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. Web beacons allow us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 We use a third party to gather information about how you and others use the Site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to better understand and optimize the Site.
+
+You may also log into Grammarly with a social networking credential, such as with your Facebook or Google+ account. We will ask permission to access basic information from that account, such as your name and email address. You can stop sharing that information with us at any time by removing Grammarly’s access to that account.
 
 Gathering this kind of information helps us administer our Products, provide convenient and personalized user access and improve the features and usability of our Products.
 
