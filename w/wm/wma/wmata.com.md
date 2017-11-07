@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507140232id_/https%3A//www.wmata.com/about/records/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107140503id_/https%3A//www.wmata.com/about/records/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer | WMATA
 
