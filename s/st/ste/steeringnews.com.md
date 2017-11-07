@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steeringnews.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222141856id_/http%3A//steeringnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steeringnews.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107204236id_/http%3A//steeringnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Steering News - Daily updated auto news haven
 
