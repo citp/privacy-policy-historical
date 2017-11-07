@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624103129id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107221048id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
 
-# Oodle Classifieds - Privacy Policy
+# Privacy Policy | Oodle Classifieds
 
 Privacy Policy
 
@@ -23,9 +23,9 @@ Oodle, or people that place listings on Oodle, may provide links to third party 
 
 Registration is required to place a listing through our service or to use other types of functionality that require the service to recognize a user (e.g., Oodle Alerts). If you decide to register or sign up for certain services, you will need to give us certain Personally Identifiable Information, such as a valid e-mail address and zip code. You will also have the option to provide other Personally Identifiable Information such as your address. This Personally Identifiable Information will be used to personalize and improve your experience of our service. This information will not be disclosed to any third-party without your explicit consent. 
 
-Registered users and users that provide their email address to Oodle may receive a copy of our newsletter and other occasional mailings from us regarding our service or the Sites. You may opt-out of receiving future mailings at any time by clicking the unsubscribe link on the email, or by updating your subscription information on the [Subscription Tab](http://www.oodle.com/account/subscription/) in the My Account section. 
+Registered users and users that provide their email address to Oodle may receive a copy of our newsletter and other occasional mailings from us regarding our service or the Sites. You may opt-out of receiving future mailings at any time by clicking the unsubscribe link on the email, or by updating your subscription information on the [Subscription Tab](https://www.oodle.com/account/subscription/) in the My Account section. 
 
-You can review and change your Personally Identifiable Information or password at any time on the [My Profile Tab](http://www.oodle.com/account/profile/) in the My Account section. 
+You can review and change your Personally Identifiable Information or password at any time on the [My Profile Tab](https://www.oodle.com/account/profile/) in the My Account section. 
 
 ### Cookies, Web Beacons and Scripts
 
@@ -78,7 +78,7 @@ Oodle may disclose information about its users if required to do so by law or in
 
   * Respond to a legal process (e.g., subpoenas, court orders).
   * Respond to claims that a listing or content violates the rights of third parties.
-  * Enforce our [Terms of Use](http://www.oodle.com/info/terms/).
+  * Enforce our [Terms of Use](https://www.oodle.com/info/terms/).
   * Protect the rights, property or personal safety of Oodle, its users or the general public.
 
 
@@ -100,11 +100,11 @@ The Sites are hosted in the United States. If you use the Sites from outside of 
 Oodle complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Oodle has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>  
 
 
-Privacy Complaints from European Union Citizens; in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at [abuse@oodle.com](http://www.oodle.com/info/help/?&node_id=2&mode=contact).  
+Privacy Complaints from European Union Citizens; in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at [abuse@oodle.com](https://www.oodle.com/info/help/?&node_id=2&mode=contact).  
 
 
 ### More Questions?
 
-If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](http://www.oodle.com/info/help/?&node_id=2&mode=contact). 
+If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](https://www.oodle.com/info/help/?&node_id=2&mode=contact). 
 
 Last update August 15, 2015
