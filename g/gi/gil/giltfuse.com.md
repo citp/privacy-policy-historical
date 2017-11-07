@@ -1,177 +1,147 @@
-> *The following text is extracted and transformed from the giltfuse.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007073321id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giltfuse.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107223340id_/https%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gilt Groupe | About
 
-Gilt Groupe Holdings, Inc. and its subsidiaries and affiliates (collectively, “GILT”), respect your concerns about privacy. This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. 
+Last updated July 17, 2017
 
-The phrase “personal information” refers to information by which you or the device you are using to connect to the Internet can be identified.
+Thank you for visiting our website for Gilt Groupe ("Gilt"), which is part of the Hudson's Bay Company family of company sites. We are committed to providing an exciting and safe online shopping experience and elevated level of personal service synonymous with Gilt. This commitment includes respecting and protecting the privacy of your personal information.
 
-Click on one of the links below to jump directly to the listed section:
+This privacy policy describes the types of information we collect from and about you when you visit our website (each a "Site"), use our mobile applications (each an "App"), visit or make a purchase at our stores (each a "Store"), or otherwise contact or interact with us offline ("Offline Services"). The Sites, Apps, Stores, and Offline Services are collectively referred to as the "Services." This privacy policy also explains how Gilt may use and share your personal information, as well as your ability to control certain uses of it.
 
-  * Information We Collect
-  * How We Use the Information We Collect
-  * Online Advertising and Tracking
-  * Information We Share
-  * Your Choices
-    * Sharing Information with Business Partners
-    * Email Marketing
-    * Web Analytics
-    * Targeted Advertising and Tracking
-    * Geo-Location Information
-    * Cookies
-    * California Residents
-  * Access and Correction
-  * Links to Other Websites
-  * Data Transfers
-  * How We Protect Personal Information
-  * Children’s Privacy
-  * Updates to this Privacy Notice
-  * How to Contact Us
+By using the Services, you agree to the collection, use, and disclosure of your information as described in this privacy policy, and agree to the Terms of Use which are incorporated by reference. If you do not agree, please do not access or use the Services.
 
+## FREQUENTLY ASKED QUESTIONS
 
+What information does Gilt collect?  
+What are my Tracking Options?  
+How does Gilt use the information collected?  
+What information does Gilt share with others?  
+How can I view, update, or remove my information?  
+What choices do I have about receiving communications from Gilt?  
+What are California Privacy Rights?  
+What about children's privacy?  
+What about security?  
+What about other websites?  
+Where is my data stored?  
+What if I live internationally?  
+How does Gilt communicate changes to this Policy?  
+Whom do I contact if I have additional questions or concerns about this policy?
 
-## Information We Collect
+#### Q: What information does Gilt collect?
 
-We may obtain personal information about you from various sources, including this and other GILT websites, mobile applications, when you call or email us or communicate with us through social media or our or our partners' live chat functionalities, or when you participate in events or other promotions. We also may obtain information about you from our parent, affiliate or subsidiary companies, business partners and other third parties.
+**A** : Gilt may collect information from or about you in the following ways:
 
-The types of personal information we may obtain include:
+From Gilt's Interactions With You: We collect information from and about you and your transactions and other interactions with us. This may include when you use the Services, create an online account with us, make a purchase, sign up for our catalogue, newsletters or email lists, participate in sweepstakes, contests or other promotion, participate in a product review, survey, or other similar programs, send a gift or virtual gift card to a person, or otherwise contact us. The personal information we collect may include your name, address, email address, telephone number, or other contact information, loyalty program membership information, gender, birthday, age, or other demographic information, your interests, and preferences.
 
-  * Your contact information (such as name, Twitter handle, postal and email address, or phone number)
-  * Contact information of friends or other people you would like us to contact
-  * Username and password for the account you may establish on our sites
-  * Payment details (including payment card number, security code, expiration date, cardholder name and billing address)
-  * Shipping information (including the shipping address and phone number)
-  * Demographic information (such as age, date of birth and gender)
-  * Information you provide by interacting with us through social media, including photographs
-  * Location information, such as the real-time geographic location of the device on which you install our mobile applications
-  * Shopping behavior and preferences, and a record of the purchases you make on our websites
-  * Other details that you may submit to us or that may be included in the information provided to us by third parties
+If you make a purchase from us, we may also collect a credit or debit card number or other financial information, CVV, and billing address. In addition, if you make a purchase at a designer boutique, restaurant, salon or other similar service offered within a section of a Gilt store that is leased by a third party) (each a "Boutique Service"), we and the Boutique Service may collect information such as your name, billing address, shipping address, telephone number, email address and payment or gift card information, and their privacy policies govern their use of your information.
 
+If you download one of our Apps, you may choose to permit the App to obtain your precise geolocation. In this case, we will determine your zip code from the precise location data received from your mobile device. We do not store precise location data; we only store the zip code associated with the location.
 
+Information You Provide About a Third Party: If you send someone else a communication from the Services (such as sending a gift or virtual gift card), we may collect information such as that person's name, telephone number, email, and/or shipping address.
 
-In addition, when you visit our websites or use our mobile applications, we may collect certain information by automated means, such as cookies, web beacons and other technologies. A “cookie” is a text file that websites send to a visitor‘s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. We also may use third-party website analytics tools (such as Omniture or Google), that collect information about visitor traffic on our sites and mobile applications. The information we may collect by automated means includes:
+Automatically on the Site or App: We, or our service providers, may use cookies, web beacons/pixel tags, log files, and other technologies to collect certain non-personal information about visitors to our Site or App, user of our online services, and interactions with our emails and online advertisements, and to allow Gilt to keep track of analytics and certain statistical information. For example, we may collect information such as your browser type, operating system type or mobile device model, viewed webpages, links that are clicked, IP address mobile device identifier or other unique identifier, sites visited before coming to our website, the amount of time you spend viewing or using the Site or App, the number of times you return, or other click-stream or site usage data, emails we send that you open, forward, or click through to our Site or App. Collecting this information, and linking it with your personal information, helps us to tailor our website and enhance your online shopping experience by saving your preferences while you are visiting a particular site, and to help identify site features, promotions, advertisements, and offers that may be of particular interest to you and retarget online and mobile advertisements to you across computers or devices you may use.
 
-  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type)
-  * URLs that refer visitors to our sites
-  * Dates and times of visits to our sites
-  * Information on actions taken on our sites (such as page views and site navigation patterns)
-  * A general geographic location (such as country and city) from which a visitor accesses our websites
-  * Search terms that visitors use to reach our sites
+From Third Party Sources: We may acquire information from other sources to update or supplement the information that you provide or that we collect automatically (such as information to validate or update your address or other demographic information), or when you connect with the company through a third party (including through social networks) based on your registration and privacy settings on those third party sites.
 
+Combination of Information: We may combine the information we receive from or about you, including information you provide to us and information we automatically collect through the Site or App, as well as information across other computers or devices that you use, with information we collect or receive about you from other online and offline sources, or from other third party sources.
 
+Third Party Analytics and Advertisements: We also may use third party advertisements, analytics, and tracking tools to better understand who is using the Site or App, how people are using the Site or App, how to improve the effectiveness of the Services and related content, and to help us or those third parties serve more targeted advertising to you across the Internet. These third parties may use technology such as cookies, web beacons, pixel tags, log files, flash cookies, or other technologies to collect and store non-personal information. They may also combine information they collect from your interaction with the Site or App with information they collect from other sources. We do not have access to, or control over, these third parties' use of cookies or other tracking technologies.
 
-## How We Use the Information We Collect
+#### Q: What are my Tracking Options?
 
-We may use the information we obtain about you to:
+A: Certain parts of the Site and App require cookies. You can set your browser or operating system settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or App or take full advantage of all of our offerings. Please refer to your Web browser's or operating system's website or "Help" section for more information on how to delete and/or disable your browser or operating system from receiving cookies or controlling your tracking preferences.
 
-  * Register you for membership at our websites, and manage and maintain your account on the sites
-  * Provide products or services you request
-  * Process, validate, confirm, verify, deliver and track your purchases (including by processing payment card transactions, arranging shipping and handling returns and refunds, and contacting you about your orders, including by telephone)
-  * Maintain a record of the purchases you make on our sites
-  * Respond to your questions and comments and provide customer support
-  * Communicate with you about our products, services, offers, events and promotions, and offer you products and services we believe may be of interest to you
-  * Enable you to communicate with us through our blogs, social networks and other interactive media
-  * Publish your testimonials about GILT, including on our websites and blogs, and on social networks (if we choose to publish your testimonial, we will include only your first name, last initial, city and state)
-  * Manage your participation in our events, sweepstakes and other promotions
-  * Tailor our products and services to suit your personal interests and the manner in which visitors use our sites, applications and social media assets
-  * Operate, evaluate and improve our business and the products and services we offer
-  * Analyze and enhance our marketing communications and strategies (including by identifying when emails sent to you have been received and read)
-  * Analyze trends and statistics regarding visitors’ use of our sites, mobile applications and social media assets, and the purchases visitors make on our sites
-  * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users
-  * Enforce our Website [Terms of Use](https://web.archive.org/company/websiteterms) and [Terms and Conditions](https://web.archive.org/company/termsOfUse)
-  * Comply with applicable legal requirements and industry standards and our policies
+Our system may not respond to Do Not Track requests or headers from some or all browsers. We may use cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use. To understand your choices for receiving more relevant advertising or to manage your settings, please review the information below:  
+To learn more about managing your privacy and storage settings and opting out from receiving third party advertiser cookies, you may visit the Network Advertising Initiative's opt-out page at <http://www.networkadvertising.org/managing/opt_out.asp>.  
+If you wish to prevent your data from being used by Google Analytics, Google has developed the Google Analytics opt-out browser add-on available at <https://tools.google.com/dlpage/gaoptout/>.  
+On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.
 
+#### Q: How does Gilt use the information collected?
 
+**A** : Gilt may use the information we collect from and about you for any of the following purposes
 
-In addition to the data uses described above, we may use the information collected through cookies and other automated means to uniquely identify the electronic shopping basket you may create on our sites and enable you to retrieve shopping baskets you previously created. We also may use cookies to identify and authenticate visitors.
+  * To validate, confirm, verify, deliver, install, and track your order (including to process payment card transactions, arrange for shipping, handle returns and refunds, maintain a record of the purchases you make, and contact you about your orders, including by telephone) or to service products you purchased from us.
+  * To enhance your online shopping experience, including as a way to recognize you and welcome you to the Site or App.
+  * To send you catalogs, information, newsletters, promotional materials and other offerings from Gilt or on behalf of our partners and affiliates.
+  * To provide you with customized Site or App content, targeted offers, promotions and advertising on the Site or App, through other third party sites or apps, or via email, text messages, or App push notifications that are offered by Gilt or other marketing partners that might be of interest to you.
+  * To improve our sites, products/services, customer service, and customer shopping experience.
+  * To use your data in an aggregated non-specific format for analytical and demographic purposes.
+  * To protect the security or integrity of the Site and our business, such as by protecting against and preventing fraud, unauthorized transactions, claims and other liabilities, and managing risk exposure, including by identifying potential hackers and other unauthorized users.
+  * To contact you when necessary or requested, including responding to your questions and comments and providing customer support.
+  * As otherwise described to you at the point of data collection.
 
-We may combine the information we collect with publicly available information and information we receive from our parent, affiliate or subsidiary companies, business partners and other third parties. We may use that combined information to enhance and personalize your shopping experience with us, to communicate with you about products, services and events that may be of interest to you, for other promotional purposes, and for other purposes described in this section.
 
-We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
 
-## Online Advertising and Tracking
+#### Q: What information does Gilt share with others?
 
-On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. We also engage with third-party advertising networks. Ad networks may include third-party ad servers, ad agencies, ad technology vendors and research firms. We are not responsible for the privacy practices of these third parties, and we encourage you to read their privacy policies, which may apply to these third-party programs. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. After you visit our websites, these ad networks may continue to track your online activities over time across third-party websites or online services by collecting information through automated means, including through the use of cookies, identifiers, web server logs, web beacons and other methods. Ad networks use this information to show you advertisements for GILT, our business partners, and other companies that participate in the ad networks. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors‘ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
+**A** : Gilt will never sell or rent your personal information to third parties. Gilt may share personal information we collect from and about you in the following ways:
 
-We do not sell or otherwise disclose personal information about you, except as described in this Privacy Notice.
+Hudson's Bay Company Family: We may share collected information within the Hudson's Bay Company family of affiliated companies (including Saks Fifth Avenue, Saks Fifth Avenue OFF 5TH, Hudson's Bay, Lord & Taylor, Gilt, Home Outfitters, and any future additions to the Hudson's Bay Company family of affiliated companies).
 
-We may share the personal information we collect with our parent, affiliate and subsidiary companies, business partners, ad network vendors and their participants, and other third parties for the purposes described in this Privacy Notice, and to communicate with you about products and services, offers, events and promotions. We also may share personal information with our service providers who perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
+Co-Marketing Partners: Certain areas of the Services may be provided to you in association with third parties, such as companies that provide products and services, rewards programs, conduct joint sales programs (such as our Boutique Services in our stores), sweepstakes, promotional campaigns, and other jointly sponsored events. Such Services will identify the third party. If you elect to register for any products and/or services provided during the Services, you either will be providing your information to both Gilt and such third party, or Gilt might share your information directly with such third party for that third party to fulfill their products and our products and services directly with you.
 
-We also may disclose information about you to respond to judicial process and provide information to law enforcement agencies in accordance with applicable law, or when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We also reserve the right to transfer personal information we have about you in the event we sell, merge or transfer all or a portion of our business or assets. Following such a sale, merger or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
+Other Third Parties: Gilt may share your information with select partners, affiliates, and other third parties that we believe may have offers or be of interest to you.
 
-## Your Choices
+Legal Disclosures; Safety: Gilt may transfer and/or disclose the information we receive from and about you to comply with a legal obligation; to provide information to law governmental authorities in accordance with applicable law, and when we believe in good faith that the law requires it. We also reserve the right to share information with legal authorities and other companies for fraud protection and credit risk reduction, to detect any technical or security vulnerabilities, to enforce our Terms of Use or other applicable policies, or to otherwise protect the rights, property, safety, or security of third parties, users of the Services, Gilt, or the public.
 
-We offer you certain choices about what information we collect from you, how we use and disclose the information, and how we communicate with you.
+Sale of Business: During the normal course of our business, we may sell or purchase assets. If another entity acquires all or a part of a business within the Hudson's Bay Company family of affiliated companies, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against a business within the Hudson's Bay Company family of companies, such information may be considered an asset of the company and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information provided through this website in a manner that is consistent with this Privacy Policy.
 
-You may withdraw any consent you previously provided to us or object at any time on legitimate grounds to the processing of your personal information. We will apply your preferences going forward. In some circumstances, withdrawing your consent to GILT’s use or disclosure of your personal information will mean that you cannot take advantage of certain GILT offerings or site features.
+Service Providers: We use third-party service providers to perform certain services on our behalf when the information is necessary for them to perform their duties. These third-party service providers are prohibited from using personal information for any other purpose and are contractually required to comply with all applicable laws and requirements, which may include Payment Card Industry Data Security Standards if they are processing payments for Gilt.
 
-Here are the choices we offer:
+Aggregate or Anonymous Non-Personal Information: We may also share or sell non-identifiable aggregate or anonymous information with our affiliates, agents, service providers, business partners, or other third parties for their marketing or analytics uses or for other lawful purposes. This type of non-identifiable and aggregate information cannot be used to identify you personally.
 
-### Sharing Information with Business Partners
+#### Q: How can I view, update or remove my information?
 
-You may direct us not to share the personal information we maintain about you with our business partners for those partners’ own purposes. To do so, please email us at [privacy@gilt.com](mailto:privacy@gilt.com). If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
+A: If you have registered for an account or made a purchase, you may view and update your account information by logging into the "Your Account" section of the website with your email address and password. Once logged in, you can view or update your name, address, telephone number or email address. You can also contact our Customer Service Department at the email address listed in the "Contact Us" section below to access or update any of this information.
 
-### Marketing Emails
+If you would like to remove or delete your profile or the personal information that Gilt has collected from or about you, please contact our Customer Service Department at the email address listed in the "Contact Us" section below. We will process your request within a reasonable period of time. Any information that you previously posted may still be publicly viewable. Gilt may keep certain information and content in our backup files and archives.
 
-You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in the marketing emails or by adjusting your email preferences using the online account you may establish on our sites.
+#### Q: What choices do I have about receiving communications from Gilt?
 
-### Web Analytics
+A: To receive promotional offers from the Hudson's Bay Company family of affiliated companies, you can sign up on our website or contact a Customer Service representative. If you register for an account or make a purchase, you will automatically receive promotional emails and direct mail from the Hudson's Bay Company family of affiliated companies. We provide our customers with the opportunity to "opt out" of having their information used for purposes not directly related to placement, processing, fulfillment or delivery of a product order. We provide you with the following options if you prefer to "opt out" of receiving information or materials that we think may be of interest to you:
 
-You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by [clicking here](http://www.omniture.com/en/privacy/product#optout) and [here](http://tools.google.com/dlpage/gaoptout) and selecting the opt-out link at the bottom of the linked site.  For opting out of the aggregation and analysis of data collected about you on our mobile sites, click [here](https://dev.flurry.com/secure/optOut.do "here") and [here](https://mixpanel.com/optout/ "here").
+Electronic Promotional Offers: At all times, you have the option of "opting out" of receiving promotional emails from the sender only by clicking the "unsubscribe" link in any of the promotional emails you receive. In addition, if you have an online account, you may change your email preferences regarding email from us by logging into the "Your Account" section of the website.
 
-### Targeted Advertising & Tracking
+Direct Mail Promotional Offers: If you would like to be removed from our Gilt catalog mailing list, please contact a Customer Service representative by email to stop receiving paper catalogs.
 
-You may exercise your choices with respect to how third-party ad networks with which we engage collect information about your web use by [clicking here](http://info.evidon.com/pub_info/3863). You can opt-out of receiving targeted ads on Facebook by [clicking here](https://www.facebook.com/ads/website_custom_audiences/). To exercise your choices with respect to targeted advertising and tracking on your mobile device, we recommend you explore your options to reset, limit or turn off your advertising ID on your particular device.  
+Push Notifications: When you use the App, you may receive push notifications. If you prefer not to receive push notifications, you may adjust your settings on your mobile device to control whether you want to receive these alerts.
 
-### Geo-Location Information
+App Geolocation Information: When you use the App on your mobile device, you may choose not to share your geolocation information with us by adjusting the device's location service settings.
 
-When you use a GILT application on your mobile device, you may choose not to share your precise geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
+Other Contact: In all cases, you may email us at the email address listed in the "Contact Us" section below.
 
-### Cookies
+If you receive marketing communications from one or more companies within the Hudson's Bay Company family of affiliated companies, you must opt-out individually from each of the companies from which you are receiving company-specific marketing communications.
 
-Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of our sites’ features. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics or targeted advertising opt-outs.
+#### Q: What are California Privacy Rights?
 
-### Your California Privacy Rights
+A: If you are a California resident, you may request information about our disclosure of personal information to third parties or affiliated companies for their direct marketing purposes of personal information to third parties or corporate affiliates for their direct marketing purposes. To make such request, please submit a written request to the following email address specifying that you want a copy of Gilt's "California Privacy Rights" notice: [privacy@gilt.com](mailto:privacy@gilt.com). Please include "Attn: California Privacy" in the subject line. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. Please allow up to 30 days for us to process your request. You may submit such a request once per year.
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. GILT permits California residents to opt out of having their information shared with third parties for direct marketing purposes. To opt out, please us at [privacy@gilt.com](mailto:privacy@gilt.com). 
+Non-affiliated third parties are independent from Gilt and if you wish to receive information about your disclosure choices or stop communications from such third parties, you will need to contact those non-affiliated third parties directly.
 
-## Access and Correction
+#### Q: What about children's privacy?
 
-You may obtain a copy of certain personal information we maintain about you or update or correct inaccuracies in that information using the online account you may establish on our websites. In addition, if you believe other personal information we maintain about you is inaccurate, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section of this Privacy Notice. If we deny an access request, we will notify you of the reasons for the denial.
+A: Protecting children's privacy is important to us, and the Site and App are not intended for children under the age of thirteen. We do not direct the Site or App to, nor do we knowingly collect any personal information from, such children. If Gilt learns that a child under the age of thirteen has provided personally identifiable information to the Site or App, it will use reasonable efforts to remove such information from its files.
 
-## Links to Other Websites
+#### Q: What about security?
 
-Our websites may contain links to other sites for your convenience and information. These sites may be operated by companies not affiliated with GILT. Linked sites may have their own privacy notices, which you should review if you visit those websites. We are not responsible for the content of any websites not affiliated with GILT, any use of those sites, or those sites’ privacy practices.
+A: We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Site visitors. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures. When you enter sensitive information (such as credit card information) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-## Data Transfers
+#### Q: What about other websites?
 
-This is a U.S. website subject to U.S. laws, including those governing the privacy and security of your information. When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. We will protect your information as described in this Privacy Notice.
+A: Our website may include links to third-party websites that are not affiliated with Gilt. These websites may send their own cookies to visitors, collect data or solicit your information. The privacy policies of these other websites may be very different from our policy. We are not responsible for the privacy practices of these other websites and cannot guarantee the security of any personal information you provide to or collected by such third party sites.
 
-GILT has certified compliance with the Safe Harbor privacy framework for the handling of personal information transferred from the European Union, Iceland, Liechtenstein, Norway or Switzerland to the U.S. [Click here](https://web.archive.org/company/safeharbor) to view our Safe Harbor Privacy Policy.
+#### Q: Where is my data stored?
 
-## How We Protect Personal Information
+A: Your personal information may be stored and processed on servers in the United States and is subject to the laws of the United States. The servers and databases in which information may be stored may be located outside the country from which you accessed this website and in a country where the data protection and other laws may differ from your country of residence. Your personal information may be disclosed in response to inquiries or requests from government authorities or to respond to judicial process in the countries in which we operate.
 
-We maintain administrative, technical and physical safeguards designed to assist us in protecting the personal information we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. For example, we use Secure Sockets Layer encryption to protect certain of your purchase information while in transit.
+#### Q: What if I live internationally?
 
-Please note that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard personal information will never be defeated or fail, or that those measures will always be sufficient or effective.
+A: Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed and stored in the United States, and allow Gilt to use and collect your personal information in accordance with this Privacy Policy.
 
-To further protect yourself, you should safeguard your GILT account user name and password and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to our sites. Please note that we will never ask for your GILT account user name or password via email.
+#### Q: How does Gilt communicate changes to this Policy?
 
-For additional details about the security measures we have implemented to safeguard personal information, please see our [Information Security Policy](https://web.archive.org/company/security).
+A: Any changes to our Privacy Policy will be noted on the home page of this website with a link to the revised policy. Your continued use of the Site following posting of changes to these terms will mean you accept these changes. If we change the policy in any material way, we will provide appropriate notice to you.
 
-## Children’s Privacy
+#### Q: Whom do I contact if I have additional questions or concerns about this policy?
 
-GILT does not direct its websites to children under the age of thirteen. We require registered users of the site to be at least eighteen years old. If we learn that a user is under eighteen years of age, we will promptly delete any personal information that the individual has provided to us.
-
-## Updates to this Privacy Notice
-
-This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our websites to notify you of any significant changes to our Privacy Notice and indicate at the bottom of the notice when it was most recently updated.
-
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@gilt.com](mailto:privacy@gilt.com). You also may write to us at:
-
-GILT Groupe Holdings, Inc.  
-Attn: Legal Department  
-225 Liberty Street, 31st Floor  
-New York, New York 10281
-
-Last Updated: August 26, 2016
+A: We welcome you to reach out if you have any questions or concerns regarding our privacy practices. Please feel free to contact Customer Service via email at [service@gilt.com](mailto:service@gilt.com). For all unsubscribe requests, contact [unsubscribe@gilt.com](mailto:unsubscribe@gilt.com). For privacy related questions, contact [privacy@gilt.com](mailto:privacy@gilt.com).
