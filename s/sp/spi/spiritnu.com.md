@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spiritnu.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314114359id_/http%3A//spiritnu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritnu.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107080932id_/http%3A//spiritnu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Spirit
+# [:en]Privacy Policy[:] – Spirit Nutrition
 
-INTRODUCTION
+[:en]INTRODUCTION
 
 Spirit Nutrition respects and understands consumers’ concerns about the privacy of their personal information. Spirit Nutrition is a leading company that understands the need to treat consumers’ information in a responsible manner. This Privacy Statement explains Spirit Nutrition’s commitment not only to your privacy, but to you as a valued customer. To that end, we have created this Privacy Statement to explain the types of personal and non-personal information we collect through the website spiritnu.com. We will discuss how we use this information and to whom and under what circumstances we disclose such information.
 
@@ -56,4 +56,4 @@ We maintain physical, electronic, and procedural safeguards to protect the perso
 
 CONTACT US
 
-If you have any questions about this Privacy Statement or the practices or activities associated with our Site, or if you’d like to have access to or correct your personal information in our database(s) or remove yourself from our database(s), please contact us at hello@spiritnu.com
+If you have any questions about this Privacy Statement or the practices or activities associated with our Site, or if you’d like to have access to or correct your personal information in our database(s) or remove yourself from our database(s), please contact us at hello@spiritnu.com[:]
