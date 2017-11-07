@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126163059id_/https%3A//www.travelzoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107202130id_/https%3A//www.travelzoo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelzoo
 
-Travelzoo Inc. is committed to protecting your privacy. Please read our privacy policy below to learn more.
+Please read this policy to learn more about our privacy practices.
 
 ## What This Privacy Policy ("Policy") Covers
 
-  * This Policy explains the privacy practices of Travelzoo Inc. and its family of related companies including licensees (collectively, "Travelzoo") and applies to your use of Travelzoo’s products and services, including the websites and Mobile Applications that link to this policy (collectively, the "Services"). For more information on our Services, [click here](http://www.travelzoo.com/privacy/productsandservices/).
+  * This Policy explains the privacy practices of Travelzoo and its family of related companies including licensees (collectively, "Travelzoo") and applies to your use of Travelzoo’s products and services, including the websites and Mobile Applications that link to this policy (collectively, the "Services"). For more information on our Services, [click here](http://www.travelzoo.com/privacy/productsandservices/).
   * This Policy covers how Travelzoo treats the personal information we collect and receive related to your use of our Services and Mobile App.
   * When we refer to "personal information", what we mean is any information about you that is personally identifiable like your name, address, email address, credit card information, precise location data, or phone number, and any other information that is not otherwise publicly available.
   * This Policy does not apply to the practices of people or companies that Travelzoo does not own, control, employ or manage, except where incorporated by reference within licensing arrangements with third parties.
@@ -54,7 +54,7 @@ Travelzoo Inc. is committed to protecting your privacy. Please read our privacy 
 
   * Travelzoo does not rent or sell personal information about you to third parties, however, we reserve the right to share the personal information we collect about you through our Services with third parties when we have your permission or under the following circumstances: 
     * If you are making a purchase on the Site, we often work with third parties and trusted business partners to securely collect your credit card, billing address and other verifying information. Our third parties partners are required to follow generally accepted industry standards to protect the personal information they receive and/or process on our behalf. While we strive to use commercially acceptable means to protect your personal information, no method of transmission over the Internet, or method of electronic storage, is 100% secure and thus we cannot guarantee its absolute security. We assume no liability for disclosure of personal information due to, among other things, errors in transmission or unauthorized third parties;
-    * When you use our website or mobile platform to make a hotel booking or to take advantage of any of our other products and services, we may share your personal information with the Hotel or other involved third parties to provide you with services, or require that you transact directly with a third party partner. Additionally, we may partner with other companies to provide inventory as part of our booking service. A partner consists of a third party company with which we have contracted in order to provide you with our Services featured on our publications or booking platform. Should we partner with a company to provide you a booking, we may share your personal information with that third party partner. Third parties which we have contracted with include but are not limited to Travelscape LLC and Getaroom. Please refer to the website of the third party you are booking with for its privacy policy;
+    * When you use our website or mobile platform to make a hotel booking or to take advantage of any of our other products and services, we may share your personal information with the Hotel or other involved third parties to provide you with services, or require that you transact directly with a third party partner. Additionally, we may partner with other companies to provide inventory as part of our booking service. A partner consists of a third party company with which we have contracted in order to provide you with our Services featured on our publications or booking platform. Should we partner with a company to provide you a booking, we may share your personal information with that third party partner. Third parties with which we have contracted include, but are not limited to, Travelscape LLC, Tourico Holidays, Inc. and Getaroom.com. Please refer to the website of the third party you are booking with for its privacy policy;
     * We may provide data to trusted partners who work on our behalf to communicate with you about offers from Travelzoo and our marketing partners, or to provide you with our location based services. Note, these companies do not have any right to use or share your personal data for any other purposes, however they may use aggregate data for statistical purposes;
     * We may also provide data to our third party analytics partners, such as Google Analytics, for the purposes of tracking usage information. We will share your personal information only as necessary for the third party to provide that service. To opt-out of Google Analytics use of your information, please visit: tools.google.com/dlpage/gaoptout
     * We may contract with third parties to analyze our customer data and/or handle web chat, email, customer services and other services. These third parties may monitor or record telephone calls in order to evaluate and improve the overall customer experience. The companies we employ to help us with these tasks may have access to personal data to perform their functions, but are not permitted to use it for other purposes; 
@@ -85,13 +85,13 @@ Travelzoo Inc. is committed to protecting your privacy. Please read our privacy 
 
 ## Local Storage - HTML5/Flash Cookies
 
-  * On Travelzoo and Fly.com we use Local Storage Objects (LSOs) such as HTML5 storage to store content information and preferences. We use Flash cookies on Travelzoo for the same purpose. On Fly.com, third parties with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity use LSOs such as HTML storage and Flash cookies to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+  * On Travelzoo we use Local Storage Objects (LSOs) such as HTML5 storage to store content information and preferences. We use Flash cookies on Travelzoo for the same purpose. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 
 
 ## Your Account Information and Preferences
 
-  * Travelzoo respects your right to control how your personal information is used. Travelzoo may give you the opportunity to request communications from vendors, partners, advertisers, and other service providers. For more information about these opportunities, to edit your personal information, to unsubscribe from receiving Travelzoo services you previously requested, or to update your account, please manage your subscriptions [here](https://web.archive.org/profiles/) or by logging into the "My Account" section on the website. To unsubscribe from receiving Fly.com marketing emails, please [click here](http://www.fly.com/unsubscribe). Users may also follow unsubscribe instructions included in each promotional email. If you have any issue accessing your profile page or account, or would like to deactivate your account, please see our customer support page [here](https://web.archive.org/help-faq/) or email us at [privacy_us@travelzoo.com](mailto:privacy_us@travelzoo.com). We will respond to your requests within ten business days.
+  * Travelzoo respects your right to control how your personal information is used. Travelzoo may give you the opportunity to request communications from vendors, partners, advertisers, and other service providers. For more information about these opportunities, to edit your personal information, to unsubscribe from receiving Travelzoo services you previously requested, or to update your account, please manage your subscriptions [here](https://web.archive.org/profiles/) or by logging into the "My Account" section on the website. Users may also follow unsubscribe instructions included in each promotional email. If you have any issue accessing your profile page or account, or would like to deactivate your account, please see our customer support page [here](https://web.archive.org/help-faq/) or email us at [privacy_us@travelzoo.com](mailto:privacy_us@travelzoo.com). We will respond to your requests within ten business days.
   * We reserve the right to send you certain communications relating to the Travelzoo Services or your account, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them.
   * Information about how to opt out of receiving communications to which you are currently subscribed is included in the email communications we send to you.
   * If you request termination of your Travelzoo account, it is our practice to deactivate your account and block further email deliveries to you in approximately ten business days. This delay is necessary to discourage users from engaging in fraudulent activity.
@@ -137,16 +137,18 @@ Travelzoo Inc. is committed to protecting your privacy. Please read our privacy 
 
 
 
-_Travelzoo Inc.  
+_Travelzoo  
 Privacy Policy Department  
 590 Madison Avenue  
 37th Floor  
 New York, NY 10022  
 _
 
-_Last Updated: 10/27/2016_
+_Last Updated: 03/28/2017_
 
-Extraordinary experiences at extraordinary prices.
+Deals so good, we can only show them to Travelzoo members. 
+
+Sign up now for free access to deals we negotiate on behalf of **millions of Travelzoo members** worldwide.
 
 Sign up for free to see this deal!  
 It takes seconds and gives you access to thousands of exclusively negotiated deals. 
