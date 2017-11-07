@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the canadianangelxo.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616072408id_/http%3A//canadianangelxo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianangelxo.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107111816id_/http%3A//canadianangelxo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how The Life of a Canadian Angel uses and protects any information that you give while using canadianangelxo.com Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement. 
+This privacy policy sets out how The Life of a Canadian Angel uses and protects any information that you give while using canadianangelxo.com Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
-The Life of a Canadian Angel may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 20. 2016.
+The Life of a Canadian Angel may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August 30. 2017.
 
 ## **What we collect**
 
@@ -41,13 +41,13 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 ## **Advertising**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. 
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements.
 
 In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
 ## **Links to other websites**
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+This website may contain links to other websites of interest. However, once you have used these links to leave this site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 ## **Controlling your personal information**
 
@@ -59,9 +59,5 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-## **Opt Out**
-
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
 
 If you have any questions about this Privacy Policy, please [contact me](http://canadianangelxo.com/contact).
