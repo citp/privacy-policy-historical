@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123025503id_/http%3A//profile.standardandpoors.com/content/SP_Global_PII_Privacy_Form) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107071854id_/http%3A//profile.standardandpoors.com/content/SP_Global_PII_Privacy_Form) for the most accurate reproduction.*
 
 # Privacy Notice for S&P Global Market Intelligence and S&P Indices
 
