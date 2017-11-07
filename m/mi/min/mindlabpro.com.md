@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindlabpro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033029id_/http%3A//www.mindlabpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindlabpro.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107040324id_/http%3A//www.mindlabpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mind Lab Pro®
 
