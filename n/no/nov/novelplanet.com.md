@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novelplanet.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629211212id_/http%3A//novelplanet.com/Message/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelplanet.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107214737id_/http%3A//novelplanet.com/Message/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NovelPlanet
 
