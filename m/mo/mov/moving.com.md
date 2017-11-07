@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614075643id_/http%3A//marketing.move.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107220208id_/https%3A//marketing.move.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Move Inc.
 
