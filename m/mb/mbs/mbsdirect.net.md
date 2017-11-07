@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbsdirect.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111849id_/http%3A//www.mbsdirect.net/disclaimer/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbsdirect.net privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108001009id_/http%3A//www.mbsdirect.net/disclaimer/privacy-policy.php) for the most accurate reproduction.*
 
 # MBS Direct | Course material fulfillment for the future of education
 
@@ -162,7 +162,7 @@ We reserve the right to modify or amend this policy at any time by posting the r
 
   13. ### Contacting Us
 
-If you have any questions or comments concerning this Privacy Policy, please contact MBS Customer Service at (800) 325-3252 or at [vb@mbsdirect.net](mailto:vb@mbsdirect.net "Contact MBS Customer Service via email").
+If you have any questions or comments concerning this Privacy Policy, please contact MBS Customer Service at (800) 325-3252 or at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a7d1c5e7cac5d4c3ced5c2c4d389c9c2d3 "Contact MBS Customer Service via email").
 
 
 
