@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtogettheguy.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618201802id_/http%3A//www.howtogettheguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtogettheguy.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107140522id_/http%3A//www.howtogettheguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get The Guy
 
@@ -60,6 +60,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
+  * You can unsubscribe from our emails at any time you choose with one click using the unsubscribe link included in the footer of every email we send you
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
   * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at [info@gettheguy.co.uk](mailto:info@gettheguy.co.uk)
