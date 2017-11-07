@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sainsburysenergy.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606053358id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sainsburysenergy.com privacy policy that was archived on 2017-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171107165025id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--[if lt IE 7 ]> <html class="no-js ie6"> <![endif]--><!--[if IE 7 ]>    <html class="no-js ie7"> <![endif]--><!--[if IE 8 ]>    <html class="no-js ie8"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><!--<![endif]--><head>
  
@@ -650,30 +650,65 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
              
                  
                  <h3>  
-                <a class="" role="menuitem" title="Nectar" href="/products-and-services/nectar.html">Nectar</a>
+                <a class="" role="menuitem" title="Sainsbury's Energy reviews" href="/products-and-services/reviews.html">Sainsbury's Energy reviews</a>
                   </h3> 
                 
                       
                      
              
           
-     
-        <ul>  
+    
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+            
+          
+    
+</div>
+<div class="menulinks section">  
+   
+
+
+        
+         
+            
+            
+            
+            
+            
+                     
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column "> 
+    <div class="mega-column-content"> 
+
+
             
              
                  
-                  
-                   
-                                
-                <li role="presentation">
-                    <a class="" role="menuitem" title="Terms &amp; conditions" href="/content/dam/Sainsbury/Documents/PDFs/SE-Nectar-TandC.pdf">
-                        <i class="fa fa-li fa-angle-right"></i>Terms &amp; conditions
-                    </a>                    
-                </li> 
+                 <h3>  
+                <a class="" role="menuitem" title="Manage Your Energy" href="/products-and-services/energy/manage-your-energy.html">Manage Your Energy</a>
+                  </h3> 
                 
-                  
-            
-        </ul> 
+                      
+                     
+             
+          
     
     
   
@@ -788,58 +823,6 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
                   
             
         </ul> 
-    
-    
-  
-  </div>
-</div>
-
-
-
-
- 
-            
-          
-    
-</div>
-<div class="menulinks section">  
-   
-
-
-        
-         
-            
-            
-            
-            
-            
-                     
-
-
-
-
-
-
-
-
-
- 
-
-<div class="mega-column "> 
-    <div class="mega-column-content"> 
-
-
-            
-             
-                 
-                 <h3>  
-                <a class="" role="menuitem" title="Sainsbury's Energy reviews" href="/products-and-services/reviews.html">Sainsbury's Energy reviews</a>
-                  </h3> 
-                
-                      
-                     
-             
-          
     
     
   
@@ -2872,6 +2855,8 @@ function acceptCookie(){
 <script>
     var currentbrandName = "sainsbury";
     var currentUcrn = "null";
+    var newUIHeader = false;
+    
     if(currentUcrn=='null'){
         currentUcrn = '';
     }
@@ -2885,13 +2870,79 @@ function acceptCookie(){
         setCookie('is_wtp', 'N', curr_date, '/'); 
     }
     $(document).ready(function(){
+        if(newUIHeader==true){
+            displayNewMenuAndLogoutMsg();
+        }else{
         displayLogoutMsg();        
+        }
         if((getCookie('treatmentcountcallnotneeded') == '' || document.cookie.indexOf('treatmentcountcallnotneeded') == -1) && getCookie('SE_Title') != '' && currentbrandName== 'britishgas') {   
             treatmentsCall_NS();
         }  
     });
+    function displayNewMenuAndLogoutMsg(){
+        if (getCookie('SE_Title')!='') {
+            try{
+                $("#logoutMsg").show();
+                if(currentbrandName=='britishgas'){
+                    var userName    = getCookie("SE_Title")+' '+getCookie("SE_Lastname");
+                    var defaultMenu = [{"icon":"dashboard","title":"Overview","href":"/my-account/premises/select"},{"icon":"home-move","title":"Moving home","href":"/discover/home-move/"},{"icon":"rewards","title":"Rewards","href":"/my-account/rewards"}];
+                    if(localStorage["britishgas.intellinavLinks"]!=undefined){
+                        defaultMenu = JSON.parse(localStorage["britishgas.intellinavLinks"]);
+                    }
+                    var secondMenu = [{"icon":"my-account-details","title":"My account details","href":"/Self-Service/Personal-Details-Entry/"},{"icon":"my-messages","title":"My messages","href":"/Your_Account/Your-Messages/"}];
+                    var loggedInMenu = '';
+                    $("li.last-menu .mega-column-new:eq(0)").css({"min-height":"24.5em"});
+                    if(defaultMenu.length>0){
+                        loggedInMenu = '<h3>'+userName+'</h3><ul>';
+                        $.each(defaultMenu, function(index,menudata){
+                            loggedInMenu = loggedInMenu+'<li role="presentation"><a href="'+menudata.href+'" title="'+menudata.title+'" role="'+menudata.icon+'" class="" tabindex="-1">'+menudata.title+'</a></li>';
+                        });
+                        loggedInMenu = loggedInMenu+'</ul>';
+                    }
+                    $("li.last-menu .mega-column-new .mega-column-content").eq(0).html(loggedInMenu);
+                    if(secondMenu.length>0){
+                        loggedInMenu = '<div class="mega-column-new border-right" style="min-height:24.5em;"><div class="cb"></div><div class="parsys menu-parsys-51"><div class="menulinks section"><div class="mega-column"><div class="mega-column-content"><h3> </h3><ul>';
+                        $.each(secondMenu, function(index,menudata){
+                            loggedInMenu = loggedInMenu+'<li role="presentation"><a href="'+menudata.href+'" title="'+menudata.title+'" role="'+menudata.icon+'" class="" tabindex="-1">'+menudata.title+'</a></li>';
+                        });
+                        loggedInMenu = loggedInMenu+'</ul></div></div></div></div></div>';
+                    }
+                    $("li.last-menu .mega-column-new:eq(0)").after(loggedInMenu);
+                } else {
+                    var megaColumn = $("li.last-menu div.mega-column-new");
+                    if(!(megaColumn.eq(1).find('img').length)){$(megaColumn).eq(1).remove();}
+                    $("li.last-menu div.mega-column div.mega-column-content ul li ").remove();
+                    $(".last-menu ul li div.mega-column").eq(2).remove();
+                    $(".last-menu ul li div.mega-column").eq(2).remove();
+                    var lastMegaMenuDivLength = $("li.last-menu div.mega-column").length  ;
+                    $("li.last-menu div.mega-column-new").css("height","auto");
+                    $("li.last-menu div.mega-wrapper").css("height","auto");
+                    var MegaMenuSize = 2;
+                    if(getCookie('is_wtp') != 'Y'){
+                        MegaMenuSize = 2;
+                    }else{
+                        MegaMenuSize = 1;
+                    $(".last-menu ul li div.mega-column").eq(1).remove();                         
+                    }
+                    if(lastMegaMenuDivLength<MegaMenuSize){
+                        for(index = 1;index<=(MegaMenuSize-lastMegaMenuDivLength);index++){
+                            $("li.last-menu div.mega-column-new").before("<div class='mega-column'><div class='mega-column-content'><h3><a role='menuitem' href='#'>sample1</a></h3></div></div>");
+                        }
+                    }
+                    var newmenu1= '.last-menu ul li .mega-column div.mega-column-content h3 a';
+                    if(getCookie('is_wtp') != 'Y'){
+                        $(newmenu1+':eq(0)').html("Update your details").attr({href:"/Self-Service/Personal-Details-Entry/",title: "Update your details"});
+                        $(newmenu1+':eq(1)').html("Log out").attr({href:"/Logout/Logout-Succesful/",title: "Log out"});
+                    } else {
+                        $(newmenu1+':eq(0)').html("Log out").attr({href:"/Logout/Logout-Succesful/",title: "Log out"});
+                    }
+                }
 
+            }catch(exception){}
+        }
+    }
     function displayLogoutMsg() {
+        
         if (getCookie('SE_Title') != '') {
             try{
             $("#logoutMsg").show();
@@ -3071,7 +3122,7 @@ function acceptCookie(){
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy.html+%28288ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,288,0,288&chxr=0,0,288&chd=t:42,48,49,56,56,58,59,60,60,63,65,65,68,75,75,76,78,79,81,83,84,84,87,88,90,102,103,105,107,108,110,111,112,113,120,121,122,123,124,127,131,132,132,253,254,254,255,255,256,256,257,257,258,259,259,260,260,261,261,264,265,265,266,266,267,267,268,269,269,270,270,271,272,272,274,275,275,276,277,278,283,285,286,286,287,287|2,7,6,69,69,0,10,2,4,1,2,4,1,7,7,2,1,2,1,36,3,3,15,2,2,5,2,2,2,1,9,1,1,2,5,4,1,1,1,1,0,0,140,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,3,1,0,1,0,1,0,1,0,0,1,0,1,0,0,0,7,0,6,5,0,3,5,3,0,1,0,1&chly=clickstreamcloud.jsp|globalSiteSearch.jsp|siteSearchJourney.jsp|megamenu.jsp|parsys.jsp|megamenusection.jsp|megamenusection.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|parsys.jsp|megamenusection.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|megamenusection.jsp|menulinks.jsp|parsys.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|megamenusection.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|parsys.jsp|org.apache.sling.servl...|cookiesPopup.jsp|parsys.jsp|text.jsp|image.jsp|globalFooter.jsp|parsys.jsp|text.jsp|list.jsp|list.jsp|text.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy.html+%28277ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,277,0,277&chxr=0,0,277&chd=t:32,36,37,45,45,46,47,48,48,50,51,53,53,56,57,58,60,61,63,71,71,72,74,74,76,87,87,89,91,91,93,93,94,95,99,100,101,101,102,105,108,109,109,237,237,238,238,239,239,240,240,241,241,242,243,243,244,244,245,248,249,249,250,250,251,251,252,252,253,254,254,254,255,255,257,258,259,259,260,260,267,268,269,269,276,277|1,8,7,58,58,1,8,2,4,1,1,2,2,14,7,2,1,2,1,2,28,1,2,12,2,2,3,1,1,1,1,6,1,1,4,3,0,1,1,1,0,0,147,0,1,0,1,0,1,0,1,0,1,0,0,0,0,1,3,1,0,1,0,1,0,1,0,1,0,0,0,1,0,1,8,0,5,6,0,4,10,9,0,7,1,0&chly=clickstreamcloud.jsp|globalSiteSearch.jsp|siteSearchJourney.jsp|megamenu.jsp|parsys.jsp|megamenusection.jsp|megamenusection.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|megamenusection.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|megamenusection.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|megamenusection.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|parsys.jsp|org.apache.sling.servl...|parsys.jsp|cookiesPopup.jsp|text.jsp|image.jsp|globalFooter.jsp|parsys.jsp|text.jsp|list.jsp|list.jsp|text.jsp&chs=600x500
 -->
 
 
