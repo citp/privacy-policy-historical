@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companyowl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150721id_/http%3A//www.companyowl.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companyowl.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107221749id_/http%3A//www.companyowl.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | CompanyOwl.com
 
