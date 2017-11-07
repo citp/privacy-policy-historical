@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mikehuckabee.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509020900id_/http%3A//www.mikehuckabee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikehuckabee.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107165720id_/http%3A//www.mikehuckabee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mike Huckabee
 
