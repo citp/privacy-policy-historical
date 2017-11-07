@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513062708id_/http%3A//www.americangreetings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107230234id_/https%3A//www.americangreetings.com/privacy) for the most accurate reproduction.*
 
 # AmericanGreetings.com Privacy Policy
 
-**Effective Date:** October 14, 2016
+**Effective Date:** May 3, 2017
 
 American Greetings Corporation, and its subsidiaries and affiliates, which include but are not limited to, AG Interactive, Inc., Cardstore.com, Inc., and AGC, LLC (collectively, "AG," "AG Companies," "we," "us," and "our") value our users and their privacy. This Privacy Notice applies to all websites (any, a "Site"), mobile applications (any, an "App"), social features, online services, widgets, downloads, or other outlets, that are owned or controlled by AG and that post or include a link to this Privacy Notice (individually, a "Platform," and collectively, the "Platforms"), regardless of whether accessed by computer, mobile device, or otherwise. By using our services, you accept the practices described in this Privacy Notice. The Platforms include, but are not limited to:
 
-  * American Greetings Website & Apps, [www.americangreetings.com](http://www.americangreetings.com/), owned or operated by AG Interactive, Inc.
-  * Blue Mountain Website & Apps, [www.bluemountain.com](http://www.americangreetings.com/), owned or operated by AG Interactive, Inc. and BMA Holdings, LLC
+  * American Greetings Website & Apps, [www.americangreetings.com](https://www.americangreetings.com/), owned or operated by AG Interactive, Inc.
+  * Blue Mountain Website & Apps, [www.bluemountain.com](https://www.americangreetings.com/), owned or operated by AG Interactive, Inc. and BMA Holdings, LLC
   * Cardstore Website & Apps, [www.cardstore.com](http://www.cardstore.com/), owned or operated by Cardstore, Inc.
   * justWink Website & Apps, [www.justwink.com](http://www.justwink.com/), owned or operated by AG Interactive, Inc. and AGC, LLC.
   * LiveGreetings Website & Apps, [www.livegreetings.com](http://www.livegreetings.com/), owned or operated by AGC, LLC
 
 
 
-This Privacy Notice applies only to information collected on or through the Platforms. It does not apply to any information collected offline by AG, unless specifically stated. This Privacy Notice explains AG's information practices in connection with the Platforms, such as the types of information we collect and how we may use that information. Please review this Privacy Notice carefully. In addition, please review the Terms of Service ("Terms of Service") <http://www.americangreetings.com/legal.pd>, which governs your use of the Platforms. Please note that certain features or services referenced in this Privacy Notice may not be offered on all of the Platforms, and certain features or services may not be offered on the Platforms at all times.
+This Privacy Notice applies only to information collected on or through the Platforms. It does not apply to any information collected offline by AG, unless specifically stated. This Privacy Notice explains AG's information practices in connection with the Platforms, such as the types of information we collect and how we may use that information. Please review this Privacy Notice carefully. In addition, please review the Terms of Service ("Terms of Service") [http://www.americangreetings.com/legal.pd](https://www.americangreetings.com/legal.pd), which governs your use of the Platforms. Please note that certain features or services referenced in this Privacy Notice may not be offered on all of the Platforms, and certain features or services may not be offered on the Platforms at all times.
 
 ## SUMMARY
 
@@ -291,8 +291,8 @@ If you have any questions, comments, or complaints about your privacy and our co
 AG Interactive, Inc.  
 [help@americangreetings.com](mailto:help@americangreetings.com)  
 800-711-4474 (between 9am and 5pm Eastern)  
-[Email Us](http://www.americangreetings.com/help/help_email.pd?Category=Security%20and%20Privacy&SubCat=Privacy%20Policy&QuestionID=223&ResponseID=0)  
-[Frequently Asked Questions](http://www.americangreetings.com/help/index.pd)
+[Email Us](https://www.americangreetings.com/help/help_email.pd?Category=Security%20and%20Privacy&SubCat=Privacy%20Policy&QuestionID=223&ResponseID=0)  
+[Frequently Asked Questions](https://www.americangreetings.com/help/index.pd)
 
 ### LEGAL SUPPORT
 
