@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627033759id_/http%3A//www.6pm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107230723id_/https%3A//www.6pm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 6pm.com
+# Privacy Policy
 
 Last updated: January 1, 2013. To see what has changed, [click here](https://web.archive.org/c/privacy-policy-changes-1).
 
