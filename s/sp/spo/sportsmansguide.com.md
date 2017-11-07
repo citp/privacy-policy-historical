@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126192805id_/http%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107202942id_/https%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
 
 # Sportsman's Guide - Outdoor Gear, Military Surplus, Survival Gear and more
 
@@ -31,7 +31,7 @@ South St. Paul, MN 55075-0239
   * To send you catalogs and other offerings to you via the mail and via e-mail - to identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you in communications you have requested.
   * To contact you about the status of your orders - you will receive order status updates through e-mail notification, including order and shipping confirmations. You will be able to track the location of your shipment through our online tracking system.
   * To notify you of product recalls or provide other information concerning products you have purchased.
-  * To provide a Personal Internet Account- you will be identified every time you log in with your personal customer number so in the future you will save time by not having to submit your information again.
+  * To provide a Personal Internet Account- you will be identified every time you sign in with your personal customer number so in the future you will save time by not having to submit your information again.
   * To provide invitations to join our Sweepstakes and giveaways.
   * To provide personalized, knowledgeable customer care - our customer service team will be able to assist you promptly and accurately by identifying you and your preferences.
   * To improve our merchandise selections, customer service, and overall customer shopping experience
