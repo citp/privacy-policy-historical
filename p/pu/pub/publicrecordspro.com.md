@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the publicrecordspro.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624014334id_/https%3A//www.peoplesmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicrecordspro.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107220803id_/https%3A//www.peoplesmart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PeopleSmart
+# Privacy Policy | PeopleSmart
 
 ##  What is covered by this privacy policy? 
 
@@ -18,11 +18,15 @@ If you choose to opt out of search results, that choice may affect the visibilit
 
 This site displays public records that are available in the real world, such as criminal history records from law enforcement agencies and bankruptcy records from courts. Original copies of public records can only be changed by those entities. Inflection obtains its public records through third party sources. Please note that exercising the opt-out option will not actually delete or change the original copies of such records. 
 
-**Note:** If you consent to the release of your information via another Inflection product or service (e.g., a background report on Goodhire.com), your public records will be shared for the purpose you specify. 
+**Note:** If you consent to the release of your information via another Inflection product or service (e.g., a background report on GoodHire.com), your public records will be shared for the purpose you specify. 
+
+##  User Data Supplementation 
+
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. Please see the “What This Policy Covers”. 
 
 ##  Your safety and privacy are very important to us 
 
-We want to minimize the risk of harm resulting from use of public records information. Please contact us if you are particularly at risk for certain types of harm as a result of your public records being available on this site. Inflection will work with you on mitigating the risk of any potential harm, including physical harm, threats to public officials such as law enforcement, and issues related to identity theft. Please send your request to our Privacy Department at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com) along with appropriate documentation. 
+We want to minimize the risk of harm resulting from use of public records information. Please contact us if you are particularly at risk for certain types of harm as a result of your public records being available on this site. Inflection will work with you on mitigating the risk of any potential harm, including physical harm, threats to public officials such as law enforcement, and issues related to identity theft. Please send your request to our Privacy Department at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com) along with appropriate documentation or call us at 1-888-906-4278. 
 
 ##  We Collect Information Related to Your Account and Identity 
 
@@ -58,13 +62,14 @@ This site makes use of tools such as cookies to collect various types of informa
 
 The methods we use to collect technical and analytics data include the following: 
 
+  * We use cookies and similar technologies, and our partners may, too. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html):
   * Technologies such as: cookies, beacons, tags and scripts are used by Inflection.com, Inc., our affiliates, and our analytics and service providers. These technologies are used in analyzing trends, administering the site, tracking your movements around the site, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by our service providers on an individual as well as aggregated basis.
   * We use cookies for our shopping cart, to remember your settings (e.g. language preference), for authentication, and for analyzing site usage. You can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
   * As is true of most web sites, we gather certain information automatically and store it in log files. This information may include your internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or your clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve the services we offer you, to improve marketing, analytics, and site functionality.
-  * We partner with third parties to manage our advertising on other sites. Our third-party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. To learn more about these practices, and about how to opt out of certain advertising, you can visit the [Google opt-out page](http://www.google.com/ads/preferences/), and the Network Advertising Initiative’s [opt-out system](http://www.networkadvertising.org/choices/). For a closer look into the third-party advertising and tracking cookies we use, you can consult our [About Our Cookies page](https://www.peoplesmart.com/about-our-cookies). This privacy resource provides useful information and options for opting out of these cookies. 
+  * We partner with third parties to manage our advertising on other sites. Our third-party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). If you are located in the European Union, please click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. To learn more about these practices, and about how to opt out of certain advertising, you can visit the [Google opt-out page](http://www.google.com/ads/preferences/), and the Network Advertising Initiative’s [opt-out system](http://www.networkadvertising.org/choices/). For a closer look into the third-party advertising and tracking cookies we use, you can consult our [About Our Cookies page](https://www.peoplesmart.com/about-our-cookies). This privacy resource provides useful information and options for opting out of these cookies. 
   * Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
   * Various browsers may offer their own management tools for removing content stored locally using HTML5.
-  * **Third Party Analytics.** We have engaged Inspectlet to analyse the activities of visitors to this website, and Inspectlet’s authorized use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website. Such access to and use of Personal Information by Inspectlet is governed by [Inspectlet’s Privacy Policy](https://www.inspectlet.com/legal#privacy). 
+  * **Third Party Analytics**. We have engaged Inspectlet to analyse the activities of visitors to this website, and Inspectlet’s authorized use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website. Such access to and use of Personal Information by Inspectlet is governed by Inspectlet’s Privacy Policy [[https://www.inspectlet.com/legal#privacy]](https://www.inspectlet.com/legal#privacy).
   * **Social media integration**. The site includes social media features operated by third parties, such as the Facebook Like button. These features may collect your IP address and other information about your browsing activity, including the page you are visiting on our site. The information those services collect is subject to their respective privacy policies.
 
 
@@ -77,7 +82,7 @@ Your information is only used to provide and market this service for visitors an
 
 **With Your Consent:** We may share your information when you give us permission. 
 
-**With Our Parent Company:** Inflection.com, Inc. owns a variety of products and services in addition to this site, including Identity.com, Goodhire.com, PeopleSmart.com, and other people search sites. Data collected under this privacy policy is shared with Inflection and stored alongside data from those other services. Your choices on one service may affect another service – for instance, opting out on PeopleSmart.com may mean that your records will not be available on Identity.com. 
+**With Our Parent Company:** Inflection.com, Inc. owns a variety of products and services in addition to this site, including Identity.com, GoodHire.com, PeopleSmart.com, and other people search sites. Data collected under this privacy policy is shared with Inflection and stored alongside data from those other services. Your choices on one service may affect another service – for instance, opting out on PeopleSmart.com may mean that your records will not be available on Identity.com. 
 
 **With Service Providers:** We use certain trusted third parties to provide services for us such as payments processing. We only share the minimum amount of information necessary to provide the service. In addition, any third-party service provider we use is required to give your information the same protections that are outlined here in this Privacy Policy. 
 
@@ -87,7 +92,7 @@ Your information is only used to provide and market this service for visitors an
 
 **Fraud and Abuse Prevention:** We partner with certain third party vendors to prevent fraud and abuse. When you make a purchase, we analyze your payment information and unique device identifiers (including, but not limited to, IP address, geographical location, browser and operating system settings) to identify suspected fraudulent activity and block it. We may share information associated with activity flagged as fraudulent (including, but not limited to, payment information, email addresses, and unique device identifiers) with our security partners or law enforcement for further investigation. 
 
-**Legal Process and Emergency Circumstances:** We may disclose or preserve for future disclosure your information if we believe, after due consideration, that doing so is reasonably necessary to protect Inflection's rights or property or to comply with a law, regulation, valid legal process, or to prevent imminent and serious bodily harm to a person. 
+**Legal Process and Emergency Circumstances:** In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose or preserve for future disclosure your information if we believe, after due consideration, that doing so is reasonably necessary to protect Inflection’s rights or property or to comply with a law, regulation, valid legal process, or to prevent imminent and serious bodily harm to a person. 
 
 If you are a law enforcement officer seeking information from Inflection about one of our users, please reference our [Law Enforcement Guidelines](https://www.inflection.com/privacy/additional-privacy-resources/law-enforcement-guide) for further information. 
 
@@ -95,7 +100,7 @@ Unless prohibited from doing so by law or court order, we will do our best to pr
 
 ##  How We Retain And Protect Your Information 
 
-We retain all of the information we collect or that you submit for purposes including fraud prevention, legal compliance, and to resolve disputes or enforce our agreements. If you use your account to opt out of public record searches, we will do our best to suppress your records from our people search products, in accordance with our opt-out policy. 
+We may retain your information for as long as your account is active, or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements. .If you use your account to opt out of public record searches, we will do our best to suppress your records from our people search products, in accordance with our opt-out policy. 
 
 Your information is stored on secure servers in Northern California. While we use acceptable industry-standard practices to protect your information, we cannot and do not guarantee that your information will be absolutely secure. Here are a few other steps we take to protect your information: 
 
@@ -110,21 +115,25 @@ Your information is stored on secure servers in Northern California. While we us
 
 ###  Access and corrections 
 
+Upon request, we will provide you with information about whether we hold any of your personal information.
+
 You may use your account to access, correct, or change any personal information you have provided to us or associated with your account. You may also email our Privacy Team at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com). We will do our best to promptly respond to your request. 
 
 ###  Deleting Your Account 
 
-You can delete your account through your PeopleSmart dashboard. Once deleted, you will no longer have access to any information in your account including your registration information and purchase history. 
-
-For information about opting out of our public records search records, [click here](https://web.archive.org/optout-go). We will do our best to promptly respond to your request. 
+In the event you want to delete an account that you have created, which includes your customer registration information, please contact our Privacy Team at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com). For information about opting out of our public records search records, [click here](https://web.archive.org/optout-go). We will do our best to promptly respond to your request. 
 
 ###  Communication Preferences 
 
-We may send you information about our products, notices regarding your account, and other messages related to this and other services we own, including marketing emails. You can unsubscribe from commercial emails by clicking on the unsubscribe link in those emails or by emailing [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com) with the email address you wish to unsubscribe from. Please note that you may still receive account and billing notices from us, if applicable. 
+We may send you information about our products, notices regarding your account, and other messages related to this and other services we own, including marketing emails. You can unsubscribe from commercial emails by clicking on the unsubscribe link in those emails, emailing [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com) with the email address you wish to unsubscribe from, or by calling 1-888-906-4278. Please note that you may still receive account and billing notices from us, if applicable. 
 
 ###  Data Sources 
 
 For information on data sources used by PeopleSmart.com, please visit [the Data Sources Education page](https://web.archive.org/data-sources-education). 
+
+##  Social Media Widgets 
+
+Our website includes social media, such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our website. These features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy statement of the company providing it. 
 
 ##  California’s ‘Do Not Track’ law 
 
@@ -150,14 +159,13 @@ Privacy Department
 P.O. Box 391146   
 Omaha, NE 68139 
 
+1-888-906-4278   
 [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com)
 
 ## TRUSTe
 
-The TRUSTe program covers only information that is collected through this website: [www.peoplesmart.com](http://peoplesmart.com/), and does not cover information that may be collected through software downloaded from the site. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. 
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=045c56a3-bdd5-4ae6-98fe-ae28e8f56dd2 "TRUSTe Privacy Certification")
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request). 
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=96b1f6ff-6271-4c8a-b552-77639a5ca6f4 "TRUSTe Privacy Certification")
-
-Effective Date Of This Policy: February 24, 2016
+Effective Date Of This Policy: August 25, 2017
