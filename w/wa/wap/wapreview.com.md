@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapreview.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429124031id_/http%3A//wapreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapreview.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107133709id_/http%3A//wapreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Wap Review
 
@@ -26,4 +26,4 @@ Google AdSense is used on Wapreview.com.  Adsense serves ads based on the conte
 If you prefer not to receive interest-based advertising, you can click the “Opt out” [button at the top of this page](http://www.google.com/privacy_ads.html), or click on the “Opt out” button on the [Google Ads Preferences Manager Page](http://www.google.com/ads/preferences/). Google also offers a number of options to [permanently save your opt-out settings](http://www.google.com/ads/preferences/plugin) in your browser. After you opt out, Google will not collect interest category information and you will not receive interest-based ads.
 
 **Affiliate Links**  
-Links to products and services on this site may be affiliate links. The prices you pay are the same or less than if you went directly to the seller's site but WapReview.com gets a small commission on products purchased.
+Links to products and services on this site may be affiliate links. The prices you pay are the same or less than if you went directly to the seller’s site but WapReview.com gets a small commission on products purchased.
