@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603123748id_/http%3A//www.nextag.com/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107221259id_/http%3A//www.nextag.com/info/privacyPolicy) for the most accurate reproduction.*
 
 # Nextag - Privacy Policy
 
@@ -33,7 +33,7 @@ You are not required to provide information about yourself when you visit our We
 
       * Social Media Widgets: Our Website includes Social Media Features, such as the Facebook and Twitter buttons and Widgets. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-      * Blog: Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at  [legalnotices@nextag.com](mailto:). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+      * Blog: Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at  [legalnotices@nextag.com](mailto:legalnotices@nextag.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
       * Survey / Contest: We may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address). We use this information to improve our site, notify you if you won a contest or to send you an email newsletter or other marketing materials. We use SurveyMonkey a third party service provider to conduct these surveys; that company is prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
 
@@ -133,9 +133,9 @@ Please note that opting out may prevent you from receiving email regarding updat
 
 In some cases you have the option to submit personal information in order to forward this information to our partners that have products or services in which you may be interested. In the event we share this information with our partners (e.g., service providers), we no longer have control over the use of such information and your rights regarding such use will be governed by the policies of our partners. You will then have to contact them directly with any opt-out request.
 
-Advertising Preferences: We may collect information about your interaction with our advertisements by using advertising cookies. We may also allow advertising partners to record that you have visited the Websites to allow us to provide you with relevant advertising on the partners' sites. To opt-out of our advertising cookies or partner advertising cookies, please click  [here]().
+Advertising Preferences: We may collect information about your interaction with our advertisements by using advertising cookies. We may also allow advertising partners to record that you have visited the Websites to allow us to provide you with relevant advertising on the partners' sites. To opt-out of our advertising cookies or partner advertising cookies, please click  [here](https://web.archive.org/info/adTargetingOptOut).
 
-Personalization Preferences: To change your preferences regarding your search and browsing history and our use of that information, including providing you with advertisements that may be of interest to you, please click  [here]().
+Personalization Preferences: To change your preferences regarding your search and browsing history and our use of that information, including providing you with advertisements that may be of interest to you, please click  [here](https://web.archive.org/accounts/privacy).
 
   8. SECURITY MEASURES TO PROTECT YOUR PERSONAL INFORMATION
 
