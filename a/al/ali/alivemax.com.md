@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alivemax.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629033459id_/https%3A//www.alivemax.com/cprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alivemax.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107060022id_/http%3A//alivemax.com/cprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
