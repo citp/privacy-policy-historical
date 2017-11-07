@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the consumersenergy.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620231740id_/https%3A//new.consumersenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersenergy.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107224851id_/https%3A//www.consumersenergy.com/privacy) for the most accurate reproduction.*
 
 # Customer Data Privacy Policy FAQ’s | Consumers Energy
 
 Note: The responses to the following Frequently Asked Questions (FAQ’s) are meant to provide a summary of Consumers Energy’s Customer Data Privacy Policy in a quick and easy to understand format.  See the links below for the specific rules and requirements of Consumers Energy’s actual Customer Data Privacy Policy.
 
-[Electric Data Privacy Tariff](https://www.consumersenergy.com/uploadedFiles/CEWEB/SHARED/Rates_and_Rules/electric-rate-book.pdf#page=122)
+[Electric Data Privacy Tariff](https://web.archive.org/~/media/CE/Documents/rates/electric-rate-book.ashx#page=122?la=en)
 
-[Gas Data Privacy Tariff](https://www.consumersenergy.com/uploadedFiles/CEWEB/SHARED/Rates_and_Rules/gas-rate-book.pdf#page=96)
+[Natural Gas Data Privacy Tariff](https://web.archive.org/~/media/CE/Documents/rates/gas-rate-book.ashx#page=96?la=en)
 
 What is the Customer Data Privacy Policy? 
 
