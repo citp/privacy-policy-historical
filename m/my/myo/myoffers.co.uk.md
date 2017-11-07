@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612180759id_/https%3A//www.myoffers.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107221705id_/https%3A//www.myoffers.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # MyOffers Privacy Statement
 
