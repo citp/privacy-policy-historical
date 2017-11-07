@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074559id_/http%3A//www.exclusivelyweddings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107111814id_/http%3A//www.exclusivelyweddings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Terms and Conditions | ExclusivelyWeddings.com
 
-### Effective: 4/1/09
+### Effective: 11/2/2017
 
 This privacy notice discloses the privacy practices for [www.exclusivelyweddings.com](https://web.archive.org/). This privacy notice applies solely to information collected by and for the use of Exclusively Weddings.
+
+We may from time to time contract with third party vendors to provide ads to our customers on our behalf via the Internet or to send direct mail or catalogs to customers whom we think may be interested in our products or services. In order to do so, such vendor may collect anonymous information about your visits to our website using a 'cookie'. A cookie is a small piece of data that is sent to your browser or mobile device by websites, mobile apps, and advertisements that you access or use. This data is stored on your browser or mobile device and helps website and mobile apps to remember things about you to improve your experience with the website. Third-party vendors may then pool the anonymous information that they collect from our website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail or a catalog. If you do not wish for cookies to be placed on your computer, most web browsers permit you to prevent that from taking place. However, please keep in mind that these technologies are an important part of how the website works; removing, rejecting or limiting the use of cookies or other similar technologies might affect the availability and functionality of the website. To opt-out of receiving our direct mail or catalogs, you may send us an email at service@exclusivelyweddings.com or call us at 1.800.759.7666.
 
 **Terms and Conditions**   
 Important Note: Descriptive, typographic, photographic or computer-generated errors are unintended and subject to correction. We cannot be liable for incorrect photos, typographical errors or discontinued merchandise. 
