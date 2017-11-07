@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apesir.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507051248id_/http%3A//apesir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apesir.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107104140id_/http%3A//apesir.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ape Sir
 
@@ -6,7 +6,7 @@
 
 Privacy Policy for apesir.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at apesir@apesir.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At apesir.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that are received and collected by apesir.com and how it is used.
 
