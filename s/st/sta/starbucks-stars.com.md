@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starbucks-stars.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630200202id_/https%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks-stars.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107215617id_/https%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbucks Coffee Company
 
-Last Revised: March 30, 2017
+Last Revised: September 11, 2017
 
 This Privacy Statement ("Statement") applies to the website located at starbucks.com, store.starbucks.com, Starbucks mobile applications, and any other websites or applications associated with Starbucks brands or products that direct the viewer or user to this Statement. In this Statement, the terms "Starbucks," "we," and "us" refers to Starbucks Corporation and its respective subsidiaries and affiliated companies. The term “your device" refers to any computer, tablet, smart phone or other device you are using to access our websites or to operate the Starbucks mobile applications. Websites that are owned and operated by Starbucks may contain links to websites that are owned and operated by other companies. This Statement does not apply to websites and services that are owned and operated by third parties. 
 
@@ -17,6 +17,7 @@ Your Choices
 How to Manage Your Account Information  
 Use by Children  
 California Residents  
+EU-U.S. Privacy Shield  
 Contact Us
 
 **_Information We Collect_**
@@ -151,6 +152,20 @@ We do not intend for our websites or online services to be used by anyone under 
 **_California Residents_**
 
 If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks Customer Service, P.O. Box 93490 Albuquerque, NM 87199. We will make every effort to promptly respond to your request.
+
+**_EU-U.S. Privacy Shield_**
+
+Starbucks Corporation, Starbucks Coffee Company (UK) Limited, Starbucks Coffee (Austria) GmbH, Starbucks Coffee (Netherlands) B.V., Starbucks Coffee France SAS each participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Starbucks is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List here: <https://www.privacyshield.gov/list>.
+
+Starbucks is responsible for the processing of personal data it receives, and subsequently transfers to a third party acting as an agent on its behalf, under the Privacy Shield Framework. Starbucks complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Starbucks is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Starbucks may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website here: <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8 "TRUSTe Privacy Certification")
 
 **_Contact Us_**
 
