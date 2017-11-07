@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630181935id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107222904id_/https%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | HowStuffWorks
+# Privacy Statement for HowStuffWorks.com | HowStuffWorks
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
