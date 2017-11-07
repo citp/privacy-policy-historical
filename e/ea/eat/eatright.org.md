@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eatright.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010904id_/http%3A//www.eatrightpro.org/resources/about-us/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatright.org privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107070700id_/http%3A//www.eatrightpro.org/resources/about-us/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This Privacy Statement covers all websites of the Academy of Nutrition and Dietetics and related organizational units.
 
-By accessing and using the websites you consent to the terms of this privacy policy. The Academy of Nutrition and Dietetics is committed to maintaining the confidence and trust of our members and other customers and users of the websites. The Academy maintains the following privacy policy to inform you of the Academy's collection, use and distribution of the personal information you provide online. The Academy may update or modify this privacy policy at any time, which update shall become effective upon posting of the new privacy policy on the websites. Please check this page periodically for updates to our privacy policy. Please direct any questions, comments or concerns to [webstrategy@eatright.org](mailto:webstrategy@eatright.org).
+By accessing and using the websites you consent to the terms of this privacy policy. The Academy of Nutrition and Dietetics is committed to maintaining the confidence and trust of our members and other customers and users of the websites. The Academy maintains the following privacy policy to inform you of the Academy's collection, use and distribution of the personal information you provide online. The Academy may update or modify this privacy policy at any time, which update shall become effective upon posting of the new privacy policy on the websites. Please check this page periodically for updates to our privacy policy. Please direct any questions, comments or concerns to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c7b0a2a5b4b3b5a6b3a2a0be87a2a6b3b5aea0afb3e9a8b5a0).
 
 ### What information does the Academy collect and how is it used?
 
@@ -88,8 +88,8 @@ The Academy of Nutrition and Dietetics (the Academy) also uses Personal Informat
 
 Academy provides member/customer names and preferred postal addresses (home or work as specified by each individual member/customer) and access to an email deployment (email addresses are never released) to list renters that may be used only for a one-time use mail/email piece approved by (the Academy). Phone numbers and fax numbers are not made available for rental. Email addresses are not released to any third party except contracted service providers who act on behalf of the Academy. The Academy reserves the right to send email communication to Academy members/ customers via email on behalf of a third party, subject to approval by the Academy. Academy members/ customers have the ability to opt out of such mailings and email communications, resulting in such customer's name and address not being included in mailing list rentals and customer's email address being excluded from third party communication.
 
-If you do not wish to receive screened third party offerings via email or postal mail, please email us at [membership@eatright.org](mailto:membership@eatright.org).
+If you do not wish to receive screened third party offerings via email or postal mail, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f8959d959a9d8a8b909188b89d998c8a919f908cd6978a9f).
 
 #### Tell Us What You Think
 
-The Academy of Nutrition and Dietetics welcomes your questions and comments about privacy. Please email [webstrategy@eatright.org](mailto:webstrategy@eatright.org).
+The Academy of Nutrition and Dietetics welcomes your questions and comments about privacy. Please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9cebf9feefe8eefde8f9fbe5dcf9fde8eef5fbf4e8b2f3eefb).
