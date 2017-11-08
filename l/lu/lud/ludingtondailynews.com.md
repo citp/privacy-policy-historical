@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ludingtondailynews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055112id_/http%3A//www.shorelinemedia.net/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ludingtondailynews.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108101723id_/http%3A//www.shorelinemedia.net/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | shorelinemedia.net
 
