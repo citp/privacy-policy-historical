@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hedgeco.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133811id_/http%3A//www.hedgeco.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hedgeco.net privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108061216id_/http%3A//www.hedgeco.net/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
