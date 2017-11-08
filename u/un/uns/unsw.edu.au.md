@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607024837id_/https%3A//www.unsw.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108190101id_/https%3A//www.unsw.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - UNSW Sydney
 
