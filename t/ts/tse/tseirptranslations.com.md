@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tseirptranslations.com privacy policy that was archived on 2016-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160724182023id_/http%3A//tseirptranslations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tseirptranslations.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108190502id_/http%3A//tseirptranslations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tseirp Translations
 
