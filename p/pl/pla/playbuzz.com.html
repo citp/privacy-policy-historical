@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the playbuzz.com privacy policy that was archived on 2017-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170614121323id_/http%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playbuzz.com privacy policy that was archived on 2017-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171109003917id_/http%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en"><head>        
 
 
-    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-CpsJA1RVGY0Bm" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//d3qxef4rp70elm.cloudfront.net/m.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 
         //Define googletags on first steps of the page
 
@@ -33,15 +33,15 @@
         <!--Favicon for apple touch device-->
         <link rel="apple-touch-icon-precomposed" href="//cdn.playbuzz.com/content/images/apple-touch-icon-new.png">
 
-<link href="//cdn.playbuzz.com/content/bundles/production/afb498d/libs/css" rel="stylesheet">
-<link href="//cdn.playbuzz.com/content/bundles/production/afb498d/pages/privacypolicy/css" rel="stylesheet">
+<link href="//cdn.playbuzz.com/content/bundles/production/f398b26/libs/css" rel="stylesheet">
+<link href="//cdn.playbuzz.com/content/bundles/production/f398b26/pages/privacypolicy/css" rel="stylesheet">
 
     
 
     
     
 
-<script src="//cdn.playbuzz.com/content/bundles/production/afb498d/libs/infra/js"></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/f398b26/libs/infra/js"></script>
     
 
     
@@ -69,7 +69,7 @@
     <meta property="fb:pages" content="501748733244604">
 
     <meta name="twitter:domain" content="www.playbuzz.com">
-    <meta name="twitter:site" content="@play_buzz">
+    <meta name="twitter:site" content="@playbuzz">
     
 
     <title>Privacy Policy | Playbuzz</title>
@@ -105,9 +105,13 @@
         })();
 
         function createGUID() { steps.push("2.1.1"); var e = []; var t = "0123456789abcdef"; for (var n = 0; n < 36; n++) { e[n] = t.substr(Math.floor(Math.random() * 16), 1) } e[14] = "4"; e[19] = t.substr(e[19] & 3 | 8, 1); e[8] = e[13] = e[18] = e[23] = "-"; var r = e.join(""); steps.push("2.1.2"); return r }
-        function getURLParam(_e) { var e = _e; if (e) e = e.toLowerCase(); var t = document.location.toString(); var n = t.split("?"); if (n.length <= 1) return null; var r = n[0]; var i = t.substr(r.length + 1); if (i.search("#") >= 0) { i = i.split("#")[0] } var s = {}; if (i) { var o = i.split("&"); try { for (var u = 0; u < o.length; u++) { var a = o[u].split("="); if (a.length > 1) { var f = a[0]; var l = a[1].toLowerCase(); if (e == f.toLowerCase()) return l; s[f] = l } } } catch (c) {
-    console.log('speed-exception', (c));
- } } else return null; return e == undefined ? s : null }
+        function getURLParam(_e) {
+            var e = _e; if (e) e = e.toLowerCase(); var t = document.location.toString(); var n = t.split("?"); if (n.length <= 1) return null; var r = n[0]; var i = t.substr(r.length + 1); if (i.search("#") >= 0) { i = i.split("#")[0] } var s = {}; if (i) {
+                var o = i.split("&"); try { for (var u = 0; u < o.length; u++) { var a = o[u].split("="); if (a.length > 1) { var f = a[0]; var l = a[1].toLowerCase(); if (e == f.toLowerCase()) return l; s[f] = l } } } catch (c) {
+                    console.log('speed-exception', (c));
+                }
+            } else return null; return e == undefined ? s : null
+        }
 
         function saveCookie(cookieObject) {
             if (canSaveCookie) {
@@ -118,8 +122,8 @@
             try {
                 localStorage.setItem("cookieCopy", JSON.stringify(cookieObject));
             } catch (e) {
-    console.log('speed-exception', (e));
-}
+                console.log('speed-exception', (e));
+            }
         }
 
         function getCookie() {
@@ -129,8 +133,9 @@
             try {
                 return JSON.parse(localStorage.getItem("cookieCopy"));
             } catch (e) {
-    console.log('speed-exception', (e));
- return null }
+                console.log('speed-exception', (e));
+                return null
+            }
         }
 
         try {
@@ -150,7 +155,7 @@
             var sid = cookie ? cookie.session : createGUID();
             var nick = cookie ? cookie.nickname : "Anonymous_user";
             var origin = cookie ? cookie.origin : "Anonymous";
-            var hasAccount = cookie ? cookie.hasAccounts == "true" : "false";
+            var hasAccounts = cookie ? cookie.hasAccounts == "true" : "false";
 
             // remove empty values which existed in previous versions
             if (uid == "") uid = createGUID();
@@ -189,7 +194,7 @@
 
             steps.push(3);
 
-            if(getURLParam("nativeId")) {
+            if (getURLParam("nativeId")) {
                 uid = getURLParam("nativeId");
             }
 
@@ -201,7 +206,7 @@
                     origin: origin || "Anonymous",
                     session: sid,
                     userId: uid,
-                    hasAccount: hasAccount,
+                    hasAccounts: hasAccounts,
                     version: cookieVersion
                 }, { expires: 365 });
 
@@ -215,49 +220,49 @@
             window.etlProperties = window.etlProperties || {};
             window.etlProperties.userId = etlUserId;
 
-            
+
 
             steps.push(4);
             try {
                 if (!window._cdtracker) {
-                    steps.push(4.1);                   
+                    steps.push(4.1);
                     steps.push(4.2);
                     $(document).ready(function () {
                             
-                            if (window.AwsBridge) {
+                        if (window.AwsBridge) {
 
-                                switch ('') {
-                                    case "hpLoaded":
-                                        AwsBridge.hpLoaded && AwsBridge.hpLoaded();
-                                        break;
-                                    case "codeGenPageLoaded":
-                                         AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
-                                        break;
-                                    case "searchResultsloaded":
+                            switch ('') {
+                                case "hpLoaded":
+                                    AwsBridge.hpLoaded && AwsBridge.hpLoaded();
+                                    break;
+                                case "codeGenPageLoaded":
+                                    AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
+                                    break;
+                                case "searchResultsloaded":
+                                    AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
+                                    break;
+                                case "articleEdited":
+                                    AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
+                                    break;
+                                case "externalFeedLoaded":
+                                    AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
+                                    break;
+                                case "editProfilePageLoaded":
+                                    AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
+                                    break;
+                                default:
+                                    if ('' != 'false') {
                                         AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
-                                        break;
-                                    case "articleEdited":
-                                         AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
-                                        break;
-                                    case "externalFeedLoaded":
-                                         AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
-                                        break;
-                                    case "editProfilePageLoaded":
-                                        AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
-                                        break;
-                                    default:
-                                        if ('' != 'false') {
-                                           AwsBridge.patternPageLoaded && AwsBridge.patternPageLoaded();
-                                        }
-                                        break;
-                                }
+                                    }
+                                    break;
                             }
-                            
+                        }
+                        
                     });
 
                 }
             } catch (err) {
-    console.log('speed-exception', (err));
+                console.log('speed-exception', (err));
 
                 console.error("Couldn't set up cooladata:", err);
                 Analytics.sendAnalyticsError("SDK load desktop", { line: "layout_169", error: err, steps: steps });
@@ -267,15 +272,15 @@
                 console.error("Couldn't generate cookie: ", e);
                 Analytics.sendAnalyticsError("SDK load desktop", { line: "layout_173", error: e, steps: steps });
             } catch (e) {
-    console.log('speed-exception', (e));
- }
+                console.log('speed-exception', (e));
+            }
             cookie = {};
 
             cookie.userId = createGUID();
             cookie.session = createGUID();
             cookie.nickname = "Anonymous_user";
             cookie.origin = origin || "Anonymous";
-            cookie.hasAccount = "false";
+            cookie.hasAccounts = "false";
             cookie.version = cookieVersion;
             cookie.created = (new Date()).getTime();
 
@@ -346,113 +351,6 @@
 
 
 
-    
-    
-
-<script>
-    
-    try {
-        // Random by Weights
-        var randomWeights = function (keyWeightObject) {
-
-            var items = Object.keys(keyWeightObject);
-            var weights = [];
-            for (var k in keyWeightObject) {
-                if (keyWeightObject.hasOwnProperty(k)) {
-                    weights.push(keyWeightObject[k]);
-                }
-            }
-
-            var total = 0;
-            var ranges = weights.slice(0);
-            for (var i = 0, len = weights.length; i < len; i++) {
-                ranges[i] = [total, total += ranges[i]];
-            }
-            var randomNumber = parseInt(Math.random() * total);
-            for (; randomNumber < ranges[--i][0];);
-            return items[i];
-        };
-
-        // Targeting
-        var adTargeting = [];
-
-        var targetingString = "";
-
-        var targetCollection = JSON.parse("{\"ABTEST\":{\"stickinessType\":\"user\",\"values\":{\"A\":1,\"B\":1,\"C\":1,\"D\":1,\"E\":6}},\"in_banner\":{\"stickinessType\":\"user\",\"values\":{\"Yes\":50,\"No\":50}}}");
-        // get user cookie
-        var userCookieObject = $.cookie("DFPTargetingByUser") || {};
-        // get session cookie
-        var sessionCookieObject = $.cookie("DFPTargetingBySession") || {};
-
-        var updateSessionCookie = false;
-
-        var updateUserCookie = false;
-
-        // targeting and cookie updating
-        for (var ABTestName in targetCollection) {
-            if (targetCollection.hasOwnProperty(ABTestName)) {
-
-                var targetValue = {};
-
-                switch (targetCollection[ABTestName].stickinessType) {
-
-                    case "none":
-                        // no stickiness so: generate random value and set to targeting
-                        targetValue[ABTestName] = randomWeights(targetCollection[ABTestName].values);
-                        break;
-
-                    case "session":
-                        if (ABTestName in sessionCookieObject) {
-                            targetValue[ABTestName] = sessionCookieObject[ABTestName];
-                        } else {
-                            // no cookie so: generate random value and set to targeting
-                            targetValue[ABTestName] = randomWeights(targetCollection[ABTestName].values);
-                            // set targeting to the session cookie object
-                            sessionCookieObject[ABTestName] = targetValue[ABTestName];
-                            updateSessionCookie = true;
-                        }
-                        break;
-
-                    case "user":
-                    default:
-                        if (ABTestName in userCookieObject) {
-                            targetValue[ABTestName] = userCookieObject[ABTestName];
-                        } else {
-                            // no cookie so: generate random value and set to targeting
-                            targetValue[ABTestName] = randomWeights(targetCollection[ABTestName].values);
-                            // set targeting to the user cookie object
-                            userCookieObject[ABTestName] = targetValue[ABTestName];
-                            updateUserCookie = true;
-                        }
-                }
-
-                targetingString = targetingString + ABTestName + "-" + targetValue[ABTestName] + ";";
-                window.adTargeting.push({ "target": ABTestName, "value": targetValue[ABTestName] });
-            }
-        }
-        // update the user cookie
-        if (updateUserCookie) {
-            $.cookie("DFPTargetingByUser", userCookieObject, { expires: 365 });
-        }
-        // update the session cookie
-        if (updateSessionCookie) {
-            $.cookie("DFPTargetingBySession", sessionCookieObject);
-        }
-        /// export
-        window.adTargeting = adTargeting;
-        window.adTargetingString = targetingString;
-
-    } catch (e) {
-    console.log('speed-exception', (e));
- /* ignore */ }
-
-    
-
-</script>
-
-    
-
-
 
 
 
@@ -466,34 +364,6 @@
     
 
 <script src="https://apis.google.com/js/client:platform.js" async="" defer=""></script>
-    
-<script type="text/javascript">
-
-    var _veroq = _veroq || [];
-
-    var getVeroInitProps = {
-        api_key: 'a41e0b1fb3be63fdff10bd22e8c5667fa1988639'
-    }
-
-    if (document.location.host.toLowerCase().indexOf('www.playbuzz.com') < 0) {
-        //getVeroInitProps.development_mode = true;
-    }
-
-    _veroq.push(['init', getVeroInitProps]);
-    
-    (function () {
-        var ve = document.createElement('script');
-        ve.type = 'text/javascript';
-        ve.async = true;
-        ve.src = '//d3qxef4rp70elm.cloudfront.net/m.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ve, s);
-    })();
-
-</script>
-
-
-
     
 </head>
 
@@ -510,7 +380,7 @@
     <div id="fb_pixel_facebook"></div>
 
             <header role="banner">
-<script>var PBS_Templates = JSON.parse("{\n\t\"flipCard\": \"3eb6e350-8ec6-4c48-9219-e1070fb726ad\",\n\t\"convo\": \"5be4f0ae-b5cf-4100-ad53-3c874a36dea5\",\n\t\"poll\": \"aa6cd7fd-831d-47a7-a44f-4c815bdc99d4\"\n}");</script>
+<script>var PBS_Templates = JSON.parse("{\n\t\"flipCard\": \"3eb6e350-8ec6-4c48-9219-e1070fb726ad\",\n\t\"convo\": \"5be4f0ae-b5cf-4100-ad53-3c874a36dea5\",\n\t\"poll\": \"aa6cd7fd-831d-47a7-a44f-4c815bdc99d4\",\n\t\"list\": \"ca71e085-ed0f-4f3f-af5c-f0d1a2ea04e8\",\n\t\"rankedList\": \"ef5de415-c8c4-4fb5-b5ad-427aab447724\"\n}");</script>
 
 <div id="pb-page-container">
     <nav class="navbar navbar-fixed-top pb-navbar pb-navbar-black">
@@ -544,102 +414,22 @@
             </div>
             <!--sidebar-->
             <nav class="pb-navbar-sidebar">
-                <h2>Formats</h2>
+                <h2>Latest Stories</h2>
                 <ul>
                     <li>
                         <a href="/Story">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-story-sm"></use>
-                            </svg>
-                            Story<span style="font-size:10px"> (NEW)</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/Convo">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-convo-sm"></use>
-                            </svg>
-                            Convo
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/VideoSnaps">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-video-snaps-sm"></use>
-                            </svg>
-                            Video Snaps
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/Swiper">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-swiper-sm"></use>
-                            </svg>
-                            Swiper
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/Reveal">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-flip-cards-sm"></use>
-                            </svg>
-                            Flip Cards
+                            Articles
                         </a>
                     </li>
                     <li>
                         <a href="/TestYourself">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-personality-quiz-sm"></use>
-                            </svg>
-                            Personality Quiz
+                            Quizzes
                         </a>
                     </li>
+
                     <li>
-                        <a href="/PlayBuzzPoll">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-poll-sm"></use>
-                            </svg>
-                            Poll
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/MultipleChoice">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-trivia-sm"></use>
-                            </svg>
-                            Trivia
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/RankList">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-ranked-list-sm"></use>
-                            </svg>
-                            Ranked List
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/List">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-list-sm"></use>
-                            </svg>
-                            List
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/Gallery">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-gallery-quiz-sm"></use>
-                            </svg>
-                            Gallery Quiz
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/Countdown">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-countdown-sm"></use>
-                            </svg>
-                            Countdown
+                        <a href="/Latest/English">
+                            All
                         </a>
                     </li>
                 </ul>
@@ -739,6 +529,23 @@
                                 </a>
                             </li>
                             <li class="media pb-navbar-formats-media ">
+                                <a class="pb-navbar-formats-link" href="/Create/BigPicture?pb_event_pageActionLabel=BigPicture" appendformatguid="true">
+                                    <div class="media-left">
+                                        <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
+                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-bigpicture-md"></use>
+                                        </svg>
+                                    </div>
+                                    <div class="media-body media-middle pb-navbar-formats-media-body">
+                                        <span>Big Picture</span>
+                                    </div>
+                                    <div class="media-right pb-media-right" style="-webkit-box-sizing:border-box;">
+                                        <svg class="pb-navbar-formats-plus-icon">
+                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-plus"></use>
+                                        </svg>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="media pb-navbar-formats-media ">
                                 <a class="pb-navbar-formats-link" onclick="pb.openFormatWithStory('convo')" href="#">
                                     <div class="media-left">
                                         <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
@@ -808,17 +615,18 @@
                             </li>
                             <li class="media pb-navbar-formats-media">
                                 <a id="pb-navbar-dropdown-formatall-btn" href="/create?pb_event_pageActionLabel=seeallformats" class="pb-navbar-formats-link pb-navbar-formats-all">
-                                    See All Formats
+                                    See All
                                 </a>
                             </li>
                         </ul>
                     </li>
                 </ul>
                 <ul class="nav navbar-nav pull-left">
+                    
                     <li id="pb-navbar-offering-menu" class="pb-dropdown-nav-hide dropdown">
                         <a class="dropdown-toggle pb-navbar-link" data-toggle="dropdown" role="button">
                             <span id="pb-navbar-offering-menu-btn">
-                                OFFERINGS<span class="caret"></span>
+                                OFFERINGS <span class="caret"></span>
                             </span>
                         </a>
                         <div id="pb-dropdown-offering-list" role="menu">
@@ -829,372 +637,30 @@
                             </ul>
                         </div>
                     </li>
-                    <li id="pb-navbar-discover-menu" class="pb-dropdown-nav-hide">
-                        <a class="pb-navbar-link" role="button">
-                            <span id="pb-navbar-discover-menu-btn">
-                                DISCOVER<span class="caret"></span>
+
+                    <li id="pb-navbar-latest-menu" class="pb-dropdown-nav-hide dropdown">
+                        <a class="dropdown-toggle pb-navbar-link" data-toggle="dropdown" role="button">
+                            <span id="pb-navbar-latest-menu-btn">
+                                LATEST STORIES <span class="caret"></span>
                             </span>
                         </a>
-                        <div class="pb-dropdown-menu-navbar" role="menu">
-                            <div class="pb-navbar-menu-content pb-navbar-container clearfix">
-                                <div class="pb-header-grid-content-column">
-                                    <div class="pb-navbar-title">
-                                        Formats
-                                    </div>
-                                    <ul class="list-unstyled pb-navbar-discover-formats">
-                                        <li>
-                                            <a href="/Story" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-story-sm"></use>
-                                                </svg>
-                                                Story<span style="font-size:10px"> (NEW)</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Convo" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-convo-sm"></use>
-                                                </svg>
-                                                <span>Convo</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/VideoSnaps" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-video-snaps-sm"></use>
-                                                </svg>
-                                                <span>Video Snaps</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Swiper" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-swiper-sm"></use>
-                                                </svg>
-                                                <span>Swiper</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Reveal" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-flip-cards-sm"></use>
-                                                </svg>
-                                                <span>Flip Cards</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/TestYourself" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-personality-quiz-sm"></use>
-                                                </svg>
-                                                <span>Personality Quiz</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/PlayBuzzPoll" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-poll-sm"></use>
-                                                </svg>
-                                                <span>Poll</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/MultipleChoice" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-trivia-sm"></use>
-                                                </svg>
-                                                <span>Trivia</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/RankList" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-ranked-list-sm"></use>
-                                                </svg>
-                                                <span>Ranked List</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/List" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-list-sm"></use>
-                                                </svg>
-                                                <span>List</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Gallery" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-gallery-quiz-sm"></use>
-                                                </svg>
-                                                <span>Gallery Quiz</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Countdown" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-formats">
-                                                    <use xlink:href="#pb-icon-format-countdown-sm"></use>
-                                                </svg>
-                                                <span>Countdown</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="pb-header-grid-content-column">
-                                    <div class="pb-navbar-title">
-                                        Trending Topics
-                                    </div>
-                                    <ul id="pb-navbar-discover-trending-column" class="text-center list-unstyled pb-navbar-discover-trending"></ul>
-                                </div>
-                                <div class="pb-header-grid-content-column">
-                                    <div class="pb-navbar-title">
-                                        Languages
-                                    </div>
-                                    <ul class="list-unstyled pb-navbar-discover-languages">
-                                        <li>
-                                            <a href="/Latest/German" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-flags">
-                                                    <use xlink:href="#pb-icon-flag-germany-circle"></use>
-                                                </svg>
-                                                <span>German</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Latest/English" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-flags">
-                                                    <use xlink:href="#pb-icon-flag-usa-circle"></use>
-                                                </svg>
-                                                <span>English</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Latest/French" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-flags">
-                                                    <use xlink:href="#pb-icon-flag-france-circle"></use>
-                                                </svg>
-                                                <span>French</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Latest/Hebrew" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-flags">
-                                                    <use xlink:href="#pb-icon-flag-israel-circle"></use>
-                                                </svg>
-                                                <span>Hebrew</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Latest/Italian" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-flags">
-                                                    <use xlink:href="#pb-icon-flag-italy-circle"></use>
-                                                </svg>
-                                                <span>Italian</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Latest/Portuguese" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-flags">
-                                                    <use xlink:href="#pb-icon-flag-brazil-circle"></use>
-                                                </svg>
-                                                <span>Portuguese</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Latest/Spanish" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-flags">
-                                                    <use xlink:href="#pb-icon-flag-spain-circle"></use>
-                                                </svg>
-                                                <span>Spanish</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Latest/Russian" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-flags">
-                                                    <use xlink:href="#pb-icon-flag-russia-circle"></use>
-                                                </svg>
-                                                <span>Russian</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Latest/Japanese" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-flags">
-                                                    <use xlink:href="#pb-icon-flag-japan-circle"></use>
-                                                </svg>
-                                                <span>Japanese</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/Latest/Chinese (Traditional)" type="button" class="btn pb-navbar-sub-link">
-                                                <svg class="pb-navbar-icon-flags">
-                                                    <use xlink:href="#pb-icon-flag-china-circle"></use>
-                                                </svg>
-                                                <span>Chinese</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+                        <div id="pb-dropdown-latest-list" role="menu">
+                            <ul class="dropdown-menu pb-dropdown-menu">
+                                <li><a href="/Story" type="button" class="btn pb-navbar-sub-link">Articles</a></li>
+                                <li><a href="/TestYourself" type="button" class="btn pb-navbar-sub-link">Quizzes</a></li>
+                                <li><a href="/Latest/English" type="button" class="btn pb-navbar-sub-link">All</a></li>
+                            </ul>
                         </div>
                     </li>
-                    <li id="pb-navbar-popular-tags" class="pb-dropdown-nav-hide">
-                        <a class="pb-navbar-link" role="button">
-                            <span id="pb-navbar-popular-tags-btn">
-                                POPULAR TAGS<span class="caret"></span>
-                            </span>
-                        </a>
-                        <div class="pb-dropdown-menu-navbar">
-                            <div class="pb-navbar-container pb-navbar-menu-content clearfix">
-                                <div class="pb-header-grid-content-column">
-                                    <div class="pb-navbar-title">
-                                        Pop
-                                    </div>
-                                    <ul class="text-center list-unstyled">
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Celebrities"></div>
-                                            <a href="/tags/Celebrities" class="pb-navbar-tag-link"></a>
-                                            <span>Celebrities</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="TV"></div>
-                                            <a href="/tags/TV" class="pb-navbar-tag-link"></a>
-                                            <span>TV</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Film"></div>
-                                            <a href="/tags/Film" class="pb-navbar-tag-link"></a>
-                                            <span>Film</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Music"></div>
-                                            <a href="/tags/Music" class="pb-navbar-tag-link"></a>
-                                            <span>Music</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Style"></div>
-                                            <a href="/tags/Style" class="pb-navbar-tag-link"></a>
-                                            <span>Style</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Sex"></div>
-                                            <a href="/tags/Sex" class="pb-navbar-tag-link"></a>
-                                            <span>Sex</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Community"></div>
-                                            <a href="/tags/Community" class="pb-navbar-tag-link"></a>
-                                            <span>Community</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Entertainment"></div>
-                                            <a href="/tags/Entertainment" class="pb-navbar-tag-link"></a>
-                                            <span>Entertainment</span>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="pb-header-grid-content-column">
-                                    <div class="pb-navbar-title">
-                                        Fun
-                                    </div>
-                                    <ul class="text-center list-unstyled">
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Cute"></div>
-                                            <a href="/tags/Cute" class="pb-navbar-tag-link"></a>
-                                            <span>Cute</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Funny"></div>
-                                            <a href="/tags/Funny" class="pb-navbar-tag-link"></a>
-                                            <span>Funny</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Retro"></div>
-                                            <a href="/tags/Retro" class="pb-navbar-tag-link"></a>
-                                            <span>Retro</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Food"></div>
-                                            <a href="/tags/Food" class="pb-navbar-tag-link"></a>
-                                            <span>Food</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Love"></div>
-                                            <a href="/tags/Love" class="pb-navbar-tag-link"></a>
-                                            <span>Love</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Animals"></div>
-                                            <a href="/tags/Animals" class="pb-navbar-tag-link"></a>
-                                            <span>Animals</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Holiday"></div>
-                                            <a href="/tags/Holiday" class="pb-navbar-tag-link"></a>
-                                            <span>Holiday</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Spiritual"></div>
-                                            <a href="/tags/Spiritual" class="pb-navbar-tag-link"></a>
-                                            <span>Spiritual</span>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="pb-header-grid-content-column">
-                                    <div class="pb-navbar-title">
-                                        Geek
-                                    </div>
-                                    <ul class="text-center list-unstyled">
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Art"></div>
-                                            <a href="/tags/Art" class="pb-navbar-tag-link"></a>
-                                            <span>Art</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Games"></div>
-                                            <a href="/tags/Games" class="pb-navbar-tag-link"></a>
-                                            <span>Games</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Internet"></div>
-                                            <a href="/tags/Internet" class="pb-navbar-tag-link"></a>
-                                            <span>Internet</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Sports"></div>
-                                            <a href="/tags/Sports" class="pb-navbar-tag-link"></a>
-                                            <span>Sports</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Books"></div>
-                                            <a href="/tags/Books" class="pb-navbar-tag-link"></a>
-                                            <span>Books</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Tech"></div>
-                                            <a href="/tags/Tech" class="pb-navbar-tag-link"></a>
-                                            <span>Tech</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="World"></div>
-                                            <a href="/tags/World" class="pb-navbar-tag-link"></a>
-                                            <span>World</span>
-                                        </li>
-                                        <li>
-                                            <div class="pb-navbar-tag-image" data-popular-tag-image="Politics"></div>
-                                            <a href="/tags/Politics" class="pb-navbar-tag-link"></a>
-                                            <span>Politics</span>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li id="pb-navbar-latest" class="pb-dropdown-nav-hide">
-                        <a class="pb-navbar-link" href="/Latest/English">
-                            <span id="pb-navbar-latest-btn">
-                                LATEST
+
+                    <li id="pb-navbar-about" class="pb-dropdown-nav-hide">
+                        <a class="pb-navbar-link" href="//publishers.playbuzz.com/about?utm_source=playbuzz.com&amp;utm_medium=navbar_dropdown&amp;utm_campaign=nav_bar">
+                            <span id="pb-navbar-about-us-btn">
+                                ABOUT US
                             </span>
                         </a>
                     </li>
+                    
                     <li class="navbar-form pb-navbar-search-form">
                         <form name="form" method="get" action="/search" autocomplete="off" class="form-group has-feedback">
                             <svg class="pb-navbar-icon-search">
@@ -1209,9 +675,105 @@
                         </form>
                     </li>
                 </ul>
-            </div>
-        </div>
-    </nav>
+
+                <div class="nav navbar-nav pull-right hidden-sm">
+                    <div id="pb-navbar-languages-menu" class="pb-dropdown-nav-hide dropdown">
+                        <a class="dropdown-toggle pb-navbar-link lang-btn" data-toggle="dropdown" role="button">
+                            <span id="pb-navbar-languages-menu-btn">
+                                <svg class="pb-navbar-icon-globe">
+                                    <use xlink:href="#pb-icon-core-globe"></use>
+                                </svg>
+                            </span>
+                            <span class="caret"></span>
+                        </a>
+                        <div id="pb-dropdown-languages-list" role="menu">
+                            <ul class="dropdown-menu pb-dropdown-menu pb-navbar-discover-languages">
+                                <li>
+                                    <a href="/Latest/German" type="button" class="btn pb-navbar-sub-link">
+                                        <svg class="pb-navbar-icon-flags">
+                                            <use xlink:href="#pb-icon-flag-germany-circle"></use>
+                                        </svg>
+                                        <span>German</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Latest/English" type="button" class="btn pb-navbar-sub-link">
+                                        <svg class="pb-navbar-icon-flags">
+                                            <use xlink:href="#pb-icon-flag-usa-circle"></use>
+                                        </svg>
+                                        <span>English</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Latest/French" type="button" class="btn pb-navbar-sub-link">
+                                        <svg class="pb-navbar-icon-flags">
+                                            <use xlink:href="#pb-icon-flag-france-circle"></use>
+                                        </svg>
+                                        <span>French</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Latest/Hebrew" type="button" class="btn pb-navbar-sub-link">
+                                        <svg class="pb-navbar-icon-flags">
+                                            <use xlink:href="#pb-icon-flag-israel-circle"></use>
+                                        </svg>
+                                        <span>Hebrew</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Latest/Italian" type="button" class="btn pb-navbar-sub-link">
+                                        <svg class="pb-navbar-icon-flags">
+                                            <use xlink:href="#pb-icon-flag-italy-circle"></use>
+                                        </svg>
+                                        <span>Italian</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Latest/Portuguese" type="button" class="btn pb-navbar-sub-link">
+                                        <svg class="pb-navbar-icon-flags">
+                                            <use xlink:href="#pb-icon-flag-brazil-circle"></use>
+                                        </svg>
+                                        <span>Portuguese</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Latest/Spanish" type="button" class="btn pb-navbar-sub-link">
+                                        <svg class="pb-navbar-icon-flags">
+                                            <use xlink:href="#pb-icon-flag-spain-circle"></use>
+                                        </svg>
+                                        <span>Spanish</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Latest/Russian" type="button" class="btn pb-navbar-sub-link">
+                                        <svg class="pb-navbar-icon-flags">
+                                            <use xlink:href="#pb-icon-flag-russia-circle"></use>
+                                        </svg>
+                                        <span>Russian</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Latest/Japanese" type="button" class="btn pb-navbar-sub-link">
+                                        <svg class="pb-navbar-icon-flags">
+                                            <use xlink:href="#pb-icon-flag-japan-circle"></use>
+                                        </svg>
+                                        <span>Japanese</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Latest/Chinese (Traditional)" type="button" class="btn pb-navbar-sub-link">
+                                        <svg class="pb-navbar-icon-flags">
+                                            <use xlink:href="#pb-icon-flag-china-circle"></use>
+                                        </svg>
+                                        <span>Chinese</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+    </div></div></nav>
     <div class="pb-page-overlay"></div>
 </div>
             </header>
@@ -1436,372 +998,18 @@
 <!--googleon: index-->
 
 
-<script src="//cdn.playbuzz.com/content/bundles/production/afb498d/libs/js"></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/f398b26/libs/js"></script>
 <script src="/bundles/Pages/PrivacyPolicy/js"></script>
 
 
 
-       <!--  Quantcast Tag -->
-        <script>
-  qcdata = {} || qcdata;
-       (function(){
-       var elem = document.createElement('script');
-       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-CpsJA1RVGY0Bm";
-       elem.async = true;
-       elem.type = "text/javascript";
-       var scpt = document.getElementsByTagName('script')[0];
-       scpt.parentNode.insertBefore(elem,scpt);
-     }());
-
-
-   var qcdata = {qacct: 'p-CpsJA1RVGY0Bm'};
-        </script>
-        <noscript>
-            <img src="//pixel.quantserve.com/pixel/p-CpsJA1RVGY0Bm.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
-        </noscript>
-        <!-- End Quantcast Tag -->
-
-    
-<script type="text/javascript">
-        (function () {
-            var _fbq = window._fbq || (window._fbq = []);
-            if (!_fbq.fbds_loaded) {
-                var fbds = document.createElement('script');
-                fbds.async = true;
-                fbds.src = 'https://connect.facebook.net/en_US/fbds.js';
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(fbds, s);
-                _fbq.fbds_loaded = true;
-            }
-            _fbq.push(['addPixelId', '568445403278652']);
-        })();
-        window._fbq = window._fbq || [];
-        window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=568445403278652&amp;ev=PixelInitialized" /></noscript>
+   
 
     
     
 
 
     
-
-    
-    
-<script src="//cdn.playbuzz.com/content/bundles/production/afb498d/pbads/dfp/js" async=""></script>
-
-
-
-
-<script>
-
-    var UTMDomains = {".google.":"org_search",".ask.":"org_search",".yahoo.":"org_search",".bing.":"org_search",".aol.":"org_search","yandex.":"org_search","duckduckgo.com":"org_search",".pinterest.com":"org_pinterest","facebook.com":"org_facebook"};
-    var UTMSponsoredArticles = {"d4b517e5-2d1f-4c03-9eef-b76424807775":"AmexCampaign","c5bd6434-3c8e-412d-b8dd-76a368de899d":"halifax","f71b8959-4bfe-48da-8df6-e1c7c6be26c2":"halifax","64426526-fe99-4050-8524-4bcb3b969f8f":"halifax"};
-    var InBannerCampaignId = "none";
-    var InQuestionCampaignIdDisregard = "none";
-    var InQuestionCampaignIdDisregardArray = []; 
-    var IsPBFeed = ("False" === "True");
-    var dfpTargeting = {};
-
-
-
-    if (InQuestionCampaignIdDisregard !== "none" && InQuestionCampaignIdDisregard.length>0) {
-        InQuestionCampaignIdDisregardArray = InQuestionCampaignIdDisregard.split(';'); 
-    }
-
-    try {
-        var sponsoredArticleIds = Object.keys(UTMSponsoredArticles);
-        if (typeof gameData !== 'undefined' && sponsoredArticleIds.indexOf(gameData.gameId) >= 0) {
-            dfpTargeting["userSuvey"] = UTMSponsoredArticles[gameData.gameId];
-        }
-    } catch (err) {
-        console.log("failed to set UTM Sponsored Articles UTM");
-    }
-
-    try {
-
-        // abtest targeting
-        for (var index = 0; index < window.adTargeting.length; ++index) {
-            dfpTargeting[window.adTargeting[index].target] = window.adTargeting[index].value;
-        }
-
-        // mobile targeting
-        dfpTargeting["MobileApp"] = "No";
-
-        // item targeting
-        if (window.gameData) {
-            dfpTargeting["name"] = window.gameData.gameId;
-            dfpTargeting["pattern"] = window.gameData.patternId;
-
-            if (window.gameData.tags) {
-
-                var dfpTags = [];
-                try {
-                    var predifinedTags = ["Celebrities", "Tv", "Film", "Music", "Style", "Sexy", "Cute", "Funny", "Retro", "Food", "Love", "Animals", "Holidays", "Art", "Books", "Games", "Tech", "Internet", "World", "Sports", "Politics" ,"News"];
-                    var itemTags = window.gameData.tags.split(',');
-                    dfpTags = itemTags.filter(function(tag) {
-                        return (predifinedTags.indexOf(tag) != -1);
-                    });
-
-                } catch (e) { console.log("failed to set dfp tags targeting", e); }
-
-            }
-
-            dfpTargeting["tags"] = dfpTags.toString();
-        }
-
-        // utm targeting
-        var pbUtmCookie = new UtmCookie();
-        var utmTerm = pbUtmCookie.getTerm(),
-            utmMedium = pbUtmCookie.getMedium(),
-            utmSource = pbUtmCookie.getSource();
-        if (utmMedium !== null) { dfpTargeting['utm_medium'] = utmMedium; }
-        if (utmTerm !== null) { dfpTargeting['utm_term'] = utmTerm; }
-        if (utmSource !== null) { dfpTargeting['utm_source'] = utmSource; }
-
-        // ads module targeting
-        if (window.pbads && window.pbads.loaded) {
-
-            // set largeplayer ( = pbads module loaded)
-            dfpTargeting["Largeplayer"] = "Yes";
-
-            // set abtest
-            try { var abtest = pbads.abtest.getActiveVariation();} catch (ex) { abtest = "NA"; }
-            dfpTargeting["pbadsabtest"] = abtest;
-
-        } else {
-            dfpTargeting["Largeplayer"] = "No";
-        }
-
-        try {
-            var taretingByUrl = Tools.getUrlParameterByName("pbads_preview");
-            if (taretingByUrl != null) { dfpTargeting["preview"] = taretingByUrl }
-        } catch(e) { console.log("failed set preview dfp targeting");  }
-
-        try {
-            //need to check if we have referer and according to the new rules decide if we should override the utm's?
-            var ReferredURL = "";
-            if (!Tools.getUrlParameterByName("utm_source")) {
-                //check if the referer is Playbuzz or not
-                if (ReferredURL.indexOf("playbuzz.com") == -1) {
-                    //meaning we got to Playbuzz but not from an internal URL
-                    //check if the referer domain is in predefined in UTM domains
-                    //if not - reset UTM's
-                    var isDomainInUTMList = false;
-                    var foundDomain = "";
-                    //check that we got a list of domains
-                    if (typeof(UTMDomains) == "object") {
-                        //get domains
-                        var UTMDomainsList = Object.keys(UTMDomains);
-                        for (UTMDomain in UTMDomainsList) {
-                            //check if referer domain contains UTM domain
-                            if (ReferredURL.indexOf(UTMDomainsList[UTMDomain]) >= 0) {
-                                //if match found - save the domain and mark that it was found
-                                foundDomain = UTMDomainsList[UTMDomain];
-                                isDomainInUTMList = true;
-                                break;
-                            }
-                        }
-                    }
-                    if (isDomainInUTMList) {
-                        dfpTargeting['utm_source'] = foundDomain;
-                        dfpTargeting['utm_medium'] = UTMDomains[foundDomain];
-                    } else {
-                        dfpTargeting['utm_source'] = "";
-                        dfpTargeting['utm_medium'] = "";
-                        dfpTargeting['utm_term'] = "";
-                    }
-                    //override UTM Cookie
-                    pbUtmCookie.cookie.utm_medium = dfpTargeting['utm_medium'];
-                    pbUtmCookie.cookie.utm_source = dfpTargeting['utm_source'];
-                    pbUtmCookie.setBrowserCookie();
-                } else {
-                    //meaning this is an internal playbuzz.com navigation
-                    if (!IsPBFeed) {
-                        pbMonetizationBridge.NextPageVisit();
-                    }
-                }
-            }
-        } catch(err) {
-            console.log("failed to set/reset pbads UTM targeting by Domain");
-        }
-        // set targeting from pbads targeting queue
-        if (window.pbads && window.pbads.targeting) {
-            try {
-                window.pbads.targeting.forEach(function(entry) {
-                    Object.keys(entry).forEach(function (key) {
-                        dfpTargeting[key] = entry[key];
-                    });
-                });
-            } catch (ex) { console.log("failed to set pbads queue targeting", ex); }
-        }
-
-
-    }
-    catch (ex) { console.warn("failed to set dfp targeting", ex); }
-
-</script>
-
-
-
-<script>
-
-    var enableAds = true;    
-
-
-    $(document).on('pbads.dfp.ready',function() {
-
-        // initiating dfp
-        try {
-            var dfpUnitsConfig= "{\"path\":\"pages_privacypolicy\",\"config\":{\"ad-bottom-1\":{\"adunit\":\"PlayBuzz_Quote_Default_BTF_W300X250\",\"dimensions\":\"300x250\"},\"ad-footer-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W728x90\",\"dimensions\":\"728x90\"},\"ad-top-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W300X250\",\"dimensions\":\"300x250\"}}}";
-            pbads.dfp.init('94166617', dfpTargeting, dfpUnitsConfig);
-
-        } catch (e) {
-            // log to console --> we need alert if we get this error
-            console.error("FATAL: failed to load dfp module", e);
-        }
-
-        // fetch dfp ads
-        try {
-
-            if (enableAds) {
-                    
-                // fetch units
-                pbads.dfp.fetch();
-
-                // refresh on game progress for each event configured in adRefreshRate 
-                if (window.gameData && (window.gameData.patternId === "TestYourself" ||
-                    window.gameData.patternId === "multipleChoice" || 
-                    window.gameData.patternId ==="Swiper" || 
-                    window.gameData.patternId ==="Reveal")) {
-
-                    if (typeof pbads.configuration !== 'undefined' &&
-                        typeof pbads.configuration.config !== 'undefined' &&
-                        typeof pbads.configuration.config.adRefreshRate!== 'undefined') {
-
-                        var adRefreshRate = pbads.configuration.config.adRefreshRate;
-
-                       
-                        for (var eventNum = 0; eventNum< adRefreshRate.length; eventNum++) {
-
-                            adRefreshRate[eventNum].eventSent = false;
-
-                            var ratePercent =   adRefreshRate[eventNum].RatePercent;
-                            var rateName = pbads.utils.converters.stringifyNumber(ratePercent);
-                            var eventName = "Game.Progress." + ratePercent;
-
-                            //Attach Game.Progress event (that will refhresh dfp ads) for each Refresh Rate interval
-                            $(document).on(eventName,null,{RateName:rateName},function(event) { 
-                                try { 
-                                    //change the query string after refresh (google requirements)
-                                    window.location.hash =event.data.RateName; 
-                                    pbads.dfp.refresh();
-                                } catch (e) { 
-                                    console.warn("failed to fetch dfp adunits", e); 
-                                }
-                            });
-
-                        }
-
-                    }
-
-
-                }
-            }// else {   //TODO: better handling for hiding empty ads             
-                //$(".adunit-wrapper").hide();                
-            //}
-
-        } catch (e) {
-            // log to console --> we need alert if we get this error
-            console.error("FATAL: failed to fetch dfp adunits", e);
-        }
-    });
-
-</script>
-
-
-
-
-
-
-<!-- Begin comScore Tag -->
-<script>
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "23242546" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=23242546&cv=2.0&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
-
-
-<script>    
-    if(jQuery('.game_details').length == 1)
-    {        
-        var dynx_itemid= jQuery('body[data-gameid]').attr('data-gameid');
-        var dynx_pagetype= 'offerdetail';
-        var dynx_totalvalue= 0;
-
-        var google_tag_params = {
-            dynx_itemid: dynx_itemid,
-            dynx_pagetype: dynx_pagetype,
-            dynx_totalvalue: parseFloat(dynx_totalvalue)
-        };
-        jQuery('.play_game_button').click(function(){
-            var dynx_pagetype= 'conversionintent';
-            var google_tag_params = {
-                dynx_pagetype: dynx_pagetype
-            };
-            try {
-                ga('set', 'dimension8','conversionintent');
-            } catch (e) {}
-            try {
-
-            } catch (e) {}
-            ga('send', 'event', 'page', 'visit', 'conversionintent', {
-                'nonInteraction': 1
-            });
-        });
-    }else
-    if(window.location.href.indexOf('/search?query')!=-1)/* for searchresults page */
-    {
-        var dynx_pagetype= 'searchresults';
-        var google_tag_params = {
-            dynx_pagetype: dynx_pagetype
-        };
-    }
-    else if(window.location.pathname == "/" )/* for home page */
-    {
-        var dynx_pagetype= 'home';
-        var google_tag_params = {
-            dynx_pagetype: dynx_pagetype
-        };
-    }else
-
-    {
-        var dynx_pagetype= 'other'; /* for other page */
-        var google_tag_params = {
-            dynx_pagetype: dynx_pagetype
-        };
-    }
-    try {
-        ga('set', 'dimension7', window.google_tag_params.dynx_itemid.toString());
-    } catch (e) {}
-    try {
-        ga('set', 'dimension8', window.google_tag_params.dynx_pagetype.toString());
-    } catch (e) {}
-    try {
-
-    } catch (e) {}
-    ga('send', 'event', 'page', 'visit', window.google_tag_params.dynx_pagetype.toString(), {
-        'nonInteraction': 1
-    });
-</script>
 
 
     <div class="adunit" id="ad-tags-placeholder"></div>
@@ -1868,7 +1076,7 @@
         //console.log("Performance: embedViewableTime - " + embedViewableTime);
         //console.log("Performance: articleLoadTime - " + articleLoadTime);
 
-        // send event
+        // send event        
         if (AwsBridge && AwsBridge.performanceAnalytics)
             AwsBridge.performanceAnalytics(embedStartTime, embedSetupTime, articleViewableTime, embedViewableTime, articleLoadTime, embedInjectionTime);
     });
@@ -1880,6 +1088,14 @@
         } catch (e) { console.log('failed to set performace analytics from embed', e) }
     });
 
+    window.addEventListener('message', function (event) {
+       
+        if (event.data && typeof event.data === 'string' && event.data.indexOf('analytics') !== -1) {
+            var parsedEvent = JSON.parse(event.data);
+            $(document).trigger('embedAnalytics', parsedEvent.eventData);
+        }
+    })
+    
     // on page ready calculate articleLoadTime
     $(document).ready(function () {
         try {
@@ -1904,9 +1120,397 @@
 
     
 
-<!-- AdBlock Detector -->
-    <script src="//cdn.playbuzz.com/content/bundles/production/afb498d/adblockdetector" async=""></script>
+    <!-- Ads Scripts -->  
 
+    
+
+
+
+
+
+<script>
+    
+    try {
+        // Random by Weights
+        var randomWeights = function (keyWeightObject) {
+
+            var items = Object.keys(keyWeightObject);
+            var weights = [];
+            for (var k in keyWeightObject) {
+                if (keyWeightObject.hasOwnProperty(k)) {
+                    weights.push(keyWeightObject[k]);
+                }
+            }
+
+            var total = 0;
+            var ranges = weights.slice(0);
+            for (var i = 0, len = weights.length; i < len; i++) {
+                ranges[i] = [total, total += ranges[i]];
+            }
+            var randomNumber = parseInt(Math.random() * total);
+            for (; randomNumber < ranges[--i][0];);
+            return items[i];
+        };
+
+        // Targeting
+        var adTargeting = [];
+
+        var targetingString = "";
+
+        var targetCollection = JSON.parse("{\"ABTEST\":{\"stickinessType\":\"user\",\"values\":{\"A\":1,\"B\":1,\"C\":1,\"D\":1,\"E\":6}},\"in_banner\":{\"stickinessType\":\"user\",\"values\":{\"Yes\":50,\"No\":50}}}");
+        // get user cookie
+        var userCookieObject = $.cookie("DFPTargetingByUser") || {};
+        // get session cookie
+        var sessionCookieObject = $.cookie("DFPTargetingBySession") || {};
+
+        var updateSessionCookie = false;
+
+        var updateUserCookie = false;
+
+        // targeting and cookie updating
+        for (var ABTestName in targetCollection) {
+            if (targetCollection.hasOwnProperty(ABTestName)) {
+
+                var targetValue = {};
+
+                switch (targetCollection[ABTestName].stickinessType) {
+
+                    case "none":
+                        // no stickiness so: generate random value and set to targeting
+                        targetValue[ABTestName] = randomWeights(targetCollection[ABTestName].values);
+                        break;
+
+                    case "session":
+                        if (ABTestName in sessionCookieObject) {
+                            targetValue[ABTestName] = sessionCookieObject[ABTestName];
+                        } else {
+                            // no cookie so: generate random value and set to targeting
+                            targetValue[ABTestName] = randomWeights(targetCollection[ABTestName].values);
+                            // set targeting to the session cookie object
+                            sessionCookieObject[ABTestName] = targetValue[ABTestName];
+                            updateSessionCookie = true;
+                        }
+                        break;
+
+                    case "user":
+                    default:
+                        if (ABTestName in userCookieObject) {
+                            targetValue[ABTestName] = userCookieObject[ABTestName];
+                        } else {
+                            // no cookie so: generate random value and set to targeting
+                            targetValue[ABTestName] = randomWeights(targetCollection[ABTestName].values);
+                            // set targeting to the user cookie object
+                            userCookieObject[ABTestName] = targetValue[ABTestName];
+                            updateUserCookie = true;
+                        }
+                }
+
+                targetingString = targetingString + ABTestName + "-" + targetValue[ABTestName] + ";";
+                window.adTargeting.push({ "target": ABTestName, "value": targetValue[ABTestName] });
+            }
+        }
+        // update the user cookie
+        if (updateUserCookie) {
+            $.cookie("DFPTargetingByUser", userCookieObject, { expires: 365 });
+        }
+        // update the session cookie
+        if (updateSessionCookie) {
+            $.cookie("DFPTargetingBySession", sessionCookieObject);
+        }
+        /// export
+        window.adTargeting = adTargeting;
+        window.adTargetingString = targetingString;
+
+    } catch (e) {
+    console.log('speed-exception', (e));
+ /* ignore */ }
+
+    
+
+</script>
+<script src="//cdn.playbuzz.com/content/bundles/production/f398b26/pbads/dfp/js" async=""></script>
+
+
+
+
+<script>
+
+    var UTMDomains = {".google.":"org_search",".ask.":"org_search",".yahoo.":"org_search",".bing.":"org_search",".aol.":"org_search","yandex.":"org_search","duckduckgo.com":"org_search",".pinterest.com":"org_pinterest","facebook.com":"org_facebook"};
+    var UTMSponsoredArticles = {"d4b517e5-2d1f-4c03-9eef-b76424807775":"AmexCampaign","c5bd6434-3c8e-412d-b8dd-76a368de899d":"halifax","f71b8959-4bfe-48da-8df6-e1c7c6be26c2":"halifax","64426526-fe99-4050-8524-4bcb3b969f8f":"halifax"};
+    var InBannerCampaignId = "none";
+    var InQuestionCampaignIdDisregard = "none";
+    var InQuestionCampaignIdDisregardArray = [];
+    var IsPBFeed = ("False" === "True");
+    var dfpTargeting = {};
+    var brealtimeConfig = { "utm_medium": ["bidder-test"] };   
+
+    if (InQuestionCampaignIdDisregard !== "none" && InQuestionCampaignIdDisregard.length>0) {
+        InQuestionCampaignIdDisregardArray = InQuestionCampaignIdDisregard.split(';');
+    }
+
+    try {
+        var sponsoredArticleIds = Object.keys(UTMSponsoredArticles);
+        if (typeof gameData !== 'undefined' && sponsoredArticleIds.indexOf(gameData.gameId) >= 0) {
+            dfpTargeting["userSuvey"] = UTMSponsoredArticles[gameData.gameId];
+        }
+    } catch (err) {
+        console.log("failed to set UTM Sponsored Articles UTM");
+    }
+
+    try {
+
+        // abtest targeting
+        for (var index = 0; index < window.adTargeting.length; ++index) {
+            dfpTargeting[window.adTargeting[index].target] = window.adTargeting[index].value;
+        }
+
+        // mobile targeting
+        dfpTargeting["MobileApp"] = "No";
+      
+        // item targeting
+        if (window.gameData) {
+            dfpTargeting["name"] = window.gameData.gameId;
+            dfpTargeting["pattern"] = window.gameData.patternId;
+
+            if (window.gameData.tags) {
+
+                var dfpTags = [];
+                try {
+                    var predifinedTags = ["Celebrities", "Tv", "Film", "Music", "Style", "Sexy", "Cute", "Funny", "Retro", "Food", "Love", "Animals", "Holidays", "Art", "Books", "Games", "Tech", "Internet", "World", "Sports", "Politics" ,"News"];
+                    var itemTags = window.gameData.tags.split(',');
+                    dfpTags = itemTags.filter(function(tag) {
+                        return (predifinedTags.indexOf(tag) != -1);
+                    });
+
+                } catch (e) { console.log("failed to set dfp tags targeting", e); }
+
+            }
+
+            dfpTargeting["tags"] = dfpTags.toString();
+        }
+
+        // utm targeting
+        var pbUtmCookie = new UtmCookie();
+        var utmTerm = pbUtmCookie.getTerm(),
+            utmMedium = pbUtmCookie.getMedium(),
+            utmSource = pbUtmCookie.getSource();
+        if (utmMedium !== null) { dfpTargeting['utm_medium'] = utmMedium; }
+        if (utmTerm !== null) { dfpTargeting['utm_term'] = utmTerm; }
+        if (utmSource !== null) { dfpTargeting['utm_source'] = utmSource; }
+
+        // ads module targeting
+        if (window.pbads && window.pbads.loaded) {
+
+            // set largeplayer ( = pbads module loaded)
+            dfpTargeting["Largeplayer"] = "Yes";
+
+            // set abtest
+            try { var abtest = pbads.abtest.getActiveVariation();} catch (ex) { abtest = "NA"; }
+            dfpTargeting["pbadsabtest"] = abtest;
+
+        } else {
+            dfpTargeting["Largeplayer"] = "No";
+        }
+
+        try {
+            var taretingByUrl = Tools.getUrlParameterByName("pbads_preview");
+            if (taretingByUrl != null) { dfpTargeting["preview"] = taretingByUrl }
+        } catch(e) { console.log("failed set preview dfp targeting");  }
+
+        try {
+            //need to check if we have referer and according to the new rules decide if we should override the utm's?
+            var ReferredURL = "www.playbuzz.com";
+            if (!Tools.getUrlParameterByName("utm_source")) {
+                //check if the referer is Playbuzz or not
+                if (ReferredURL.indexOf("playbuzz.com") == -1) {
+                    //meaning we got to Playbuzz but not from an internal URL
+                    //check if the referer domain is in predefined in UTM domains
+                    //if not - reset UTM's
+                    var isDomainInUTMList = false;
+                    var foundDomain = "";
+                    //check that we got a list of domains
+                    if (typeof(UTMDomains) == "object") {
+                        //get domains
+                        var UTMDomainsList = Object.keys(UTMDomains);
+                        for (UTMDomain in UTMDomainsList) {
+                            //check if referer domain contains UTM domain
+                            if (ReferredURL.indexOf(UTMDomainsList[UTMDomain]) >= 0) {
+                                //if match found - save the domain and mark that it was found
+                                foundDomain = UTMDomainsList[UTMDomain];
+                                isDomainInUTMList = true;
+                                break;
+                            }
+                        }
+                    }
+                    if (isDomainInUTMList) {
+                        dfpTargeting['utm_source'] = foundDomain;
+                        dfpTargeting['utm_medium'] = UTMDomains[foundDomain];
+                    } else {
+                        dfpTargeting['utm_source'] = "";
+                        dfpTargeting['utm_medium'] = "";
+                        dfpTargeting['utm_term'] = "";
+                    }
+                    //override UTM Cookie
+                    pbUtmCookie.cookie.utm_medium = dfpTargeting['utm_medium'];
+                    pbUtmCookie.cookie.utm_source = dfpTargeting['utm_source'];
+                    pbUtmCookie.setBrowserCookie();
+                } else {
+                    //meaning this is an internal playbuzz.com navigation
+                    if (!IsPBFeed) {
+                        window.NextPageVisit = true;
+                    }
+                }
+            }
+        } catch(err) {
+            console.log("failed to set/reset pbads UTM targeting by Domain");
+        }
+        // set targeting from pbads targeting queue
+        if (window.pbads && window.pbads.targeting) {
+            try {
+                window.pbads.targeting.forEach(function(entry) {
+                    Object.keys(entry).forEach(function (key) {
+                        dfpTargeting[key] = entry[key];
+                    });
+                });
+            } catch (ex) { console.log("failed to set pbads queue targeting", ex); }
+        }
+
+
+    }
+    catch (ex) { console.warn("failed to set dfp targeting", ex); }
+
+</script>
+
+
+
+<script>
+
+    var enableAds = true;    
+
+
+    $(document).on('pbads.dfp.ready',function() {
+
+        // initiating dfp
+        try {
+            var dfpUnitsConfig= "{\"path\":\"pages_privacypolicy\",\"config\":{\"ad-bottom-1\":{\"adunit\":\"PlayBuzz_Quote_Default_BTF_W300X250\",\"dimensions\":\"300x250\"},\"ad-footer-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W728x90\",\"dimensions\":\"728x90\"},\"ad-top-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W300X250\",\"dimensions\":\"300x250\"}}}";
+            pbads.dfp.init('94166617', dfpTargeting, dfpUnitsConfig);
+
+        } catch (e) {
+            // log to console --> we need alert if we get this error
+            console.error("FATAL: failed to load dfp module", e);
+        }
+
+        // fetch dfp ads
+        try {
+
+            if (enableAds) {
+                    
+                // fetch units
+                pbads.dfp.fetch();          
+                if (!IsPBFeed) {
+                    pbads.dfp.brealtimeConfig = brealtimeConfig;
+                }
+
+                if(window.handleAdRefreshRate){
+                    window.handleAdRefreshRate();
+                } else{
+                    window.adRefreshRate = true;
+                }
+
+                
+
+
+            }// else {   //TODO: better handling for hiding empty ads             
+                //$(".adunit-wrapper").hide();                
+            //}
+
+        } catch (e) {
+            // log to console --> we need alert if we get this error
+            console.error("FATAL: failed to fetch dfp adunits", e);
+        }
+    });
+
+</script>
+
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "23242546" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=23242546&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<script>
+    if (jQuery('.game_details').length == 1) {
+        var dynx_itemid = jQuery('body[data-gameid]').attr('data-gameid');
+        var dynx_pagetype = 'offerdetail';
+        var dynx_totalvalue = 0;
+
+        var google_tag_params = {
+            dynx_itemid: dynx_itemid,
+            dynx_pagetype: dynx_pagetype,
+            dynx_totalvalue: parseFloat(dynx_totalvalue)
+        };
+        jQuery('.play_game_button').click(function () {
+            var dynx_pagetype = 'conversionintent';
+            var google_tag_params = {
+                dynx_pagetype: dynx_pagetype
+            };
+            try {
+                ga('set', 'dimension8', 'conversionintent');
+            } catch (e) { }
+            try {
+
+            } catch (e) { }
+            ga('send', 'event', 'page', 'visit', 'conversionintent', {
+                'nonInteraction': 1
+            });
+        });
+    } else
+        if (window.location.href.indexOf('/search?query') != -1)/* for searchresults page */ {
+            var dynx_pagetype = 'searchresults';
+            var google_tag_params = {
+                dynx_pagetype: dynx_pagetype
+            };
+        }
+        else if (window.location.pathname == "/")/* for home page */ {
+            var dynx_pagetype = 'home';
+            var google_tag_params = {
+                dynx_pagetype: dynx_pagetype
+            };
+        } else {
+            var dynx_pagetype = 'other'; /* for other page */
+            var google_tag_params = {
+                dynx_pagetype: dynx_pagetype
+            };
+        }
+    try {
+        ga('set', 'dimension7', window.google_tag_params.dynx_itemid.toString());
+    } catch (e) { }
+    try {
+        ga('set', 'dimension8', window.google_tag_params.dynx_pagetype.toString());
+    } catch (e) { }
+    try {
+
+    } catch (e) { }
+    ga('send', 'event', 'page', 'visit', window.google_tag_params.dynx_pagetype.toString(), {
+        'nonInteraction': 1
+    });
+</script>        <!-- PBADS: NO ADS : Not Item page -->
+            <script type="text/javascript" src="//cdn.playbuzz.com/content/monetization/ads-module/production/26734c887e37c65677d42cdb708bf8d3fd54bbe6/ads-module.min.js" async=""></script>
+
+
+
+    <!-- /Ads Scripts -->   
 
 
 
