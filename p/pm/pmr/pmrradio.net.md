@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmrradio.net privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617095417id_/http%3A//www.pmrradio.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmrradio.net privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109001546id_/http%3A//pmrradio.net/privacy-policy) for the most accurate reproduction.*
 
 # Heider Official Online Store - Heider Pro5 PMR Radio Privacy Policy
 
