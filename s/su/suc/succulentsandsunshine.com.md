@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the succulentsandsunshine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170202id_/http%3A//www.succulentsandsunshine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the succulentsandsunshine.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108072009id_/https%3A//www.succulentsandsunshine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Succulents and Sunshine
+# Privacy Policy - Succulents and Sunshine
+
+Privacy Policy  2017-10-20T01:39:55+00:00 
 
 This privacy policy sets out how Succulents and Sunshine, LLC  uses and protects any information that you give while using www.succulentsandsunshine.com
-
-This page contains [affiliate links](https://web.archive.org/how-i-make-money/), but I love all the [products](https://web.archive.org/products-i-like/) I link to!
 
 We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
@@ -67,4 +67,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 **Opt Out**
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us: info at succulentsandsunshine . com
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us: [info@succulentsandsunshine.com](mailto:info@succulentsandsunshine.com)
