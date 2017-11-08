@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funfunky.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013719id_/http%3A//www.funfunky.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funfunky.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108154720id_/http%3A//www.funfunky.com/privacy.php) for the most accurate reproduction.*
 
 # FunFunky.com Privacy Policy
 
