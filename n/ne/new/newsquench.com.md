@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsquench.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521205916id_/http%3A//newsquench.com/site.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsquench.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108025932id_/http%3A//newsquench.com/site.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # NewsQuench | Privacy
 
@@ -18,27 +18,47 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-[](https://web.archive.org/article.php?n=lockheeds-fusion-reactor-in-trouble&id=123472)   
-[Lockheed's fusion reactor in trouble](https://web.archive.org/article.php?n=lockheeds-fusion-reactor-in-trouble&id=123472)   
+[](https://web.archive.org/article.php?n=u-s-pursues-direct-talks-with-north-korea-despite-trump&id=132810)   
+[U.S. pursues direct talks with North Korea, despite Trump](https://web.archive.org/article.php?n=u-s-pursues-direct-talks-with-north-korea-despite-trump&id=132810)   
   
-An updated technical report shows that the firm's reactor is 100 times larger than originally planned, and weighs a massive 2,000 tons.
+The talks aim to rein in North Korea's weapons programs, secure the release of U.S. prisoners held in North Korea, and more generally improve bilateral relations, Time will tell if they make progress on any of these objectives, however. 
 
-[](https://web.archive.org/article.php?n=new-cyborg-eye-could-help-the-blind-see&id=123470)   
-[New 'cyborg eye' could help the blind see](https://web.archive.org/article.php?n=new-cyborg-eye-could-help-the-blind-see&id=123470)   
-Aaron Sims - May 07, 2017   
-The retina is made of soft water droplets and biological cell proteins. Its components detect and react to light to create a grey scale image.
+[](https://web.archive.org/article.php?n=climate-change-is-harming-human-health&id=132790)   
+[Climate change is harming human health](https://web.archive.org/article.php?n=climate-change-is-harming-human-health&id=132790)   
+Harry Marcolis - Nov 02, 2017   
+A new report shows that climate change is triggering deadly events that are harming millions of people across the globe.
 
-[](https://web.archive.org/article.php?n=creative-people-physically-see-the-world-differently&id=123426)   
-[Creative people physically see the world differently](https://web.archive.org/article.php?n=creative-people-physically-see-the-world-differently&id=123426)   
-Jeremy Morrow - May 04, 2017   
-Scientists believe that there are five main personality traits: openness, extroversion, neuroticism, agreeableness and conscientiousness.
+[](https://web.archive.org/article.php?n=filipino-strongman-duterte-says-trump-needs-to-tone-down-north-korea-talk&id=132798)   
+[Filipino strongman Duterte says Trump needs to "tone down" North Korea talk](https://web.archive.org/article.php?n=filipino-strongman-duterte-says-trump-needs-to-tone-down-north-korea-talk&id=132798)   
+Joyce Clark - Nov 02, 2017   
+Philippine President Rodrigo Duterte is not known for mincing words, but he said that President Trump needs to stop threatening North Korea. Duterte will talk North Korea strategy with Trump and other regional leaders in the coming month.
 
-[](https://web.archive.org/article.php?n=samsung-receives-approval-to-test-autonomous-vehicles&id=123420)   
-[Samsung receives approval to test autonomous vehicles](https://web.archive.org/article.php?n=samsung-receives-approval-to-test-autonomous-vehicles&id=123420)   
-Alex Bourque - May 04, 2017   
-Although Samsung has been reticent about the project, it has developed a 'commercialized Hyundai vehicle with the latest cameras and sensors' that will be used in testing.
+[](https://web.archive.org/article.php?n=chinese-test-death-zone-spy-drones-that-are-nearly-invisible-to-radar&id=132784)   
+[Chinese test "death zone" spy drones that are nearly invisible to radar](https://web.archive.org/article.php?n=chinese-test-death-zone-spy-drones-that-are-nearly-invisible-to-radar&id=132784)   
+Vicky Webb - Nov 02, 2017   
+China is testing new bat-sized spy drones that cost less than $200 per drone, are almost invisible to radar, and fly as high as 12 miles above sea level. This altitude puts them in near space, high enough to evade the anti-aircraft fire that can shoot down other drones.
 
-[](https://web.archive.org/article.php?n=obama-ca&id=123410)   
-[Barack Obama reveals new presidential library](https://web.archive.org/article.php?n=obama-ca&id=123410)   
-Carmelo Sheppard - May 03, 2017   
-Former U.S. President, Barack Obama, revealed a new presidential library on Lake Michigan on Wednesday.
+[](https://web.archive.org/article.php?n=mexico-tourism-plummets-in-the-face-of-cartel-violence&id=132786)   
+[Mexico tourism plummets in the face of cartel violence](https://web.archive.org/article.php?n=mexico-tourism-plummets-in-the-face-of-cartel-violence&id=132786)   
+Paul Pate - Nov 02, 2017   
+Mexican tourism has suffered a big drop this year, and the cause appears to be rising cartel violence. Homicides, kidnappings, and other violent incidents at popular tourist destinations are causing many would-be visitors to stay away.
+
+[](https://web.archive.org/article.php?n=trump-plan-to-subsidize-coal-and-nuclear-plants-will-cost-10-6-billion-a-year&id=132792)   
+[Trump plan to subsidize coal and nuclear plants will cost $10.6 billion a year](https://web.archive.org/article.php?n=trump-plan-to-subsidize-coal-and-nuclear-plants-will-cost-10-6-billion-a-year&id=132792)   
+Mark Schwartz - Nov 02, 2017   
+The Trump administration has issued a plan to subsidize coal and nuclear plants that store fuel on-site. An independent report found that the plan would cost $10.6 billion a year and would prop up facilities that would go out of business due to falling market demand.
+
+[](https://web.archive.org/article.php?n=netflix-will-end-house-of-cards-early&id=132772)   
+[Netflix will end House of Cards early](https://web.archive.org/article.php?n=netflix-will-end-house-of-cards-early&id=132772)   
+Linda Mack - Nov 01, 2017   
+Within 24 hours of Kevin Spacey's admission to trying to pressure a 14-year-old boy to have sex with him in 1986, Netflix announced that it will not extend House of Cards past the upcoming sixth season. 
+
+[](https://web.archive.org/article.php?n=united-states-pledges-60-million-for-new-african-security-force&id=132768)   
+[United States pledges $60 million for new African security force](https://web.archive.org/article.php?n=united-states-pledges-60-million-for-new-african-security-force&id=132768)   
+Mae Owen - Nov 01, 2017   
+A new multi-nation African military force gearing up to combat human trafficking and terrorism in Africa will get $60 million from the United States for its first year, U.S. Secretary of State Rex Tillerson said Monday. 
+
+[](https://web.archive.org/article.php?n=auroras-at-jupiters-poles-act-independently&id=132764)   
+[Auroras at Jupiter's poles act independently](https://web.archive.org/article.php?n=auroras-at-jupiters-poles-act-independently&id=132764)   
+Laurel Kornfeld - Nov 01, 2017   
+Researchers take advantage of rare opportunity to observe polar regions through Juno mission and space telescopes.
