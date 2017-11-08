@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the view2.be privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131536id_/http%3A//www.view2.be/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the view2.be privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108122931id_/http%3A//www.view2.be/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
