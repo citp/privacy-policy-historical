@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damndelicious.net privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621000751id_/http%3A//damndelicious.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damndelicious.net privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108092500id_/http%3A//damndelicious.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Damn Delicious
 
@@ -65,4 +65,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact **contact@damndelicious.net**.
+If you believe that any information we are holding on you is incorrect or incomplete, please contact **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**.
