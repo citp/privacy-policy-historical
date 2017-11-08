@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the xhamster.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127090838id_/https%3A//xhamster.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xhamster.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108024456id_/https%3A//xhamster.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Política de privacidad
 
 _for Hammy Media, Ltd. d/b/a[www.xhamster.com](https://www.xhamster.com/), [www.xhamstercams.xxx](http://www.xhamstercams.xxx/)  
-Effective Date: January 27, 2017  
+Effective Date: November 08, 2017  
 Last Modified: September 27, 2011_
 
   1. General 
@@ -45,7 +45,7 @@ We also use Your information for the obvious purpose of providing Your User prof
   
 
   7. Transmittals from Us 
-    1. We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by clicking <https://xhamster.com/account_settings.php> or by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account.
+    1. We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by clicking <https://es.xhamster.com/my/edit/account> or by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account.
     2. If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
   
 
