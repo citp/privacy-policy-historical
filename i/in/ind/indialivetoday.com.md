@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indialivetoday.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125740id_/http%3A//www.indialivetoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialivetoday.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108163630id_/http%3A//www.indialivetoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | India Live Today
 
