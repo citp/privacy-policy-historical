@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the mutualfundssahihai.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108124850id_/http%3A//www.mutualfundssahihai.com/en/terms-of-use-and-privacy-notice) for the most accurate reproduction.*
+
+# Terms of Use & Privacy Notice
+
+Thank you for visiting [www.mutualfundssahihai.com](http://www.mutualfundssahihai.com/). We respect your privacy and consider it an important element of our service. Our privacy policy is straightforward: We do not collect personal information about you when you visit our website unless you volunteer to provide that information to us.
+
+If you visit our website just to browse, read pages or download information, we gather and store certain information about your visit automatically. This information cannot and does not identify you personally. The kind of information that is gathered automatically include the type of browser you are using (e.g. Internet Explorer, Firefox, etc.), the type of Operating system you are using (e.g. Windows or Mac OS) and the domain name of your Internet Service Provider, the date and time of your visit and the pages you visit. We sometimes use this non-personally identifiable information to improve our website(s) design, content and primarily to give you a better browsing experience.
