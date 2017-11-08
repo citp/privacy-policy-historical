@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topgear.com.ph privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623092313id_/http%3A//www.topgear.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgear.com.ph privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108014524id_/http%3A//www.topgear.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Summit Media Privacy Policy | Top Gear Philippines
 
@@ -6,13 +6,13 @@
 
 **
 
-FEATURE ARTICLE
+CAR NEWS
 
-5 thoughts about the new Toyota Wigo
+Toyota's SEMA 2017 cars include a turbocharged C-HR
 
 **
 
-](http://www.topgear.com.ph/features/feature-articles/toyota-wigo-list-a00187-20170622?ref=highlight)
+](http://www.topgear.com.ph/news/car-news/toyota-sema-2017-a00187-20171106?ref=highlight)
 
 Our Privacy Policy
 
