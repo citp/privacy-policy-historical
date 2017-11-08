@@ -1,78 +1,74 @@
-> *The following text is extracted and transformed from the dine.to privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131021514id_/http%3A//www.dine.to/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dine.to privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108035633id_/https%3A//corporate.yp.ca/en/legal-notice/privacy-statement) for the most accurate reproduction.*
 
-# Dine.TO Privacy Policy
+# Privacy Statement - Legal Notice - Yellow Pages Canada
 
-**Dine.TO** _a division of Yellow Media Limited_
+Yellow Pages Digital & Media Solutions Limited together with its subsidiaries « we », « us », « YP ») has created this privacy statement (the « Statement ») is firmly committed to the protection of your privacy. This Statement sets out how we collect, use and secure the personal information of individuals using any website owned by us (each, a « YP Website »). This Statement reflects the requirements of Canada’s Federal and Provincial privacy legislation as well as our continuous commitment to protecting your personal information.
 
-590 King Street West, 2nd floor (YP Offices)  
-Toronto, Ontario, M5V 1M3, Canada  
-Telephone (844) 581-2657
+BY USING A YP WEBSITE, YOU AGREE TO BE BOUND BY THE FOLLOWING PRIVACY STATEMENT. IF YOU DO NOT AGREE WITH THIS STATEMENT, DISCONTINUE ALL USE OF THIS SITE IMMEDIATELY.
 
-Dine.TO has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for Dine.TO. 
+**1.  What is « Personal Information » ?**
 
-**1\. Information Automatically Logged**
+Personal information is information about you that uniquely identifies you as an individual. Your name, address, e-mail address, or telephone number are all examples of personal information. However, the name, address and telephone number of an individual that appears in a telephone directory that is available to the public (where such individual can refuse to have such information appears in such directory) does not fall under the scope of personal information as it is publicly available information. Also, in some circumstances, some of this information may qualify as business information which is not covered by this Statement.
 
-We automatically track and collect the following categories of information when you visit our Site: (1) IP addresses; (2) domain servers; (3) types of computers accessing the Site; and (4) types of web browsers used to access the Site (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. 
+**2.  Collection of Personal Information**
 
-**2\. Advertisers**
+We do not automatically gather any personal information from users of YP Websites. Personal information is only obtained online if you supply it voluntarily, usually through contacting us via e-mail, applying online for a contest, answering online surveys, submitting a posting to a blog, forum, or review or registering for services. You are not required to supply personal information to view the content of any YP Website. You should also be aware that when you share personal information in public areas of a YP Website, this information may be seen and used by others users. We urge you to exercise good judgment when sharing personal information in these areas.
 
-We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by the ad company, and we do not have access to this information. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+If you decide not to provide us with personal information online, no material consequences will result, although you may be unable to participate in certain promotions, receive product information, or use portions of a YP Website that require personalized information or applications. YP Websites provides users the opportunity to opt-out of receiving communications from us at the point where we request contact information about you.
 
-**3\. Cookies**
+YP Websites may use cookies to track user traffic patterns. A cookie is a small data file that certain websites write to your hard drive when you visit them. The only personal information a cookie can contain is information you supply yourself. A cookie cannot read data from your hard disk or cookie files created by other websites. YP does not correlate this information with data about individual users, nor does it share this information or sell it to any third party. We only use cookies to tailor the visitor’s experience to the YP Websites. If you prefer not to receive cookies from a YP Website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. This could affect the areas of YP Website that are accessible to you.
 
-We also use "cookies" to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, and to store your password so you do not have to re-enter it each time you visit the Site.
+We may use software that receives and records the Internet Protocol (IP) address of the computer that has contacted YP Websites. We make no attempt to link these addresses with the identity of individuals visiting YP Websites.
 
-**DoubleClick DART Cookie**    
-\- Google, as a third party vendor, uses cookies to serve ads on www.dine.to.  
-\- Google's use of the DART cookie enables it to serve ads to users based on their visit to www.dine.to and other sites on the Internet.   
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>[ ](http://www.google.com/privacy_ads.html)
+We may also use service providers to serve third party’s advertisements on YP Websites or YP advertisements on other websites. In serving advertisements these providers may place cookies on your browser computer and may collect certain anonymous information about your visits to other websites or on YP Websites. This information may include browser type, IP address, domain name and the name of the web page from which you entered such websites, web activity and time of day. This information is used by these third parties to better understand and optimize the online advertising campaigns.
 
-Some of our advertising partners may use cookies and web beacons on our site. 
+From time to time, we analyze traffic and use YP Websites to determine which features and services people like and do not like so that we can improve what we do. We prepare aggregated user statistics or information summaries in order to describe our services to third parties such as prospective business partners and advertisers and for other lawful purposes.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.dine.to send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+**3.  Use and Sharing of Personal Information**
 
-Dine.TO has no access to or control over these cookies that are used by third-party advertisers. 
+We will generally collect and use personal information to administer our contests, promotions, surveys, reward programs and other services, to understand our customers' responses, needs and preferences, and to generally manage our business.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Dine.TO's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+We may also use personal information to contact our customers or suppliers with marketing or promotional materials regarding our products, programs and services or to assist our front-line staff in providing tailored sales offers to our customers. We may exchange or merge personal information with data obtained from third parties for the same purposes.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+Personal information may be shared with our agents or contractors in connection with services that they perform for us. Our written agreements with such agents and contractors ensure that personal information can only be used for the purposes for which it was shared with them, and that they handle the personal information in accordance with this Statement. Some of our agents and contractors are located outside of Canada and, as such, are subject to foreign laws, including laws that may require disclosure of personal information to government agencies in those countries.
 
-**4\. Forms**
+**4.  Your Consent**
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address). Contact information from the registration forms is used to send information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Statement as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. If you do not want your personal information to be collected, used or disclosed in this manner, then please either: 
 
-Our site may, in some cases, use an contact form for customers to request information, products, and services. We collect contact information (like their email address). Contact information from the forms is used to send promotional material in conjunction with a non-affiliated partner or sponsor to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings.
+do not submit your personal information to us;
 
-**5\. Reservation & Contact Forms**
+exercise opt-out procedures described above or as may be offered at the time of collection,
 
-Many of our establishment profile pages contain a link labelled "Contact" and "Reservations" used to send comments and reservation booking requests to an establishment. Because the message is sent on Dine.TO's letterhead, we need to track potential abuse, therefore a copy of your e-mail is forwarded to Dine.TO's postmaster, these copies are deleted after the message has been checked and we do not collect e-mail addresses from these forms.
+or refrain from exercising opt-in procedures described above or as may be offered at the time of collection
 
-**6\. Surveys, Contests & VIP Forms with Partners and Sponsors**
+If you have submitted personal information to us and wish to withdraw your consent to its retention, use or disclosure, please send an e-mail to privacy@yp.ca. You may withdraw your consent, subject to legal or contractual restrictions and reasonable notice. If you withdraw your consent, we may not be able to provide some products or services to you.
 
-Our site may request registration from users via surveys, contests and/or VIP Forms. Participation in these surveys, contests and/or VIP Forms is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information and supplementary information on your professional interests, opinions and preferences (e.g. practices, opinions on industry issues, feedback on the Dine.TO web site).
+Where permitted or required by law, we may collect, use or disclose your personal information without your consent, for example, to collect a debt you owe us, to comply with a legally permitted inquiry by a government agency, or to comply with a court order.
 
-We share Demographic Data with advertisers and other third parties only on an aggregate (i.e., non-personally-identifiable) basis.
+**5.  Safeguards and Retention**
 
-We share this information with partners and/or sponsors and will use the contact information to notify winners and send periodical email announcements in order to administer the co-branded products or services offered. Those partners and/or sponsors have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy.
+We use physical, organizational and technological safeguards to protect your personal information against theft, loss or unauthorized access, use, modification, disclosure or disposal. Generally speaking, you can visit YP Websites without revealing personal information. However, given that electronically submitted data is not 100% secure, we make no warranties as to the security of any personal information you submit online, which you do at your own risk.
 
-**7\. Opt-Out of Email Communications**
+**6.  Terms of Use & Changes to this Statement**
 
-If at any stage you wish no longer to receive any e-mails that you receive from Dine.TO and it's partners, you can opt-out by visiting <http://www.dine.to/newsletter_unsubscribe.php> or by unsubscribing via a link located in the actual email announcement or newsletter.
+Your use of YP Websites, and any disputes arising from it, is subject to this Statement and governed by our Terms of Use, including its choice of law provisions. We reserve the right to change and update the Policy and these changes will be made when appropriate, in a timely manner. We encourage you to examine our Policy from time to time to ensure you are aware of any changes we may have made.
 
-**8\. Our Disclosure of Your Information**
+**7.  Access and Contact**
 
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy.
+Upon written request, YP will provide you access to your personal information, subject to certain exceptions as provided by the applicable legislation. If you notice any errors or omissions in your personal information, please advise us in writing and we will promptly correct them where appropriate. If you have concerns regarding our Statement, the security of your personal information or our compliance with the applicable personal information protection legislation, please send a brief explanation of your concern to our Privacy Officer at:
 
-By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
+Privacy Officer  
+Yellow Pages Digital & Media Solutions Limited  
+16 Place du Commerce  
+Île des Sœurs  
+Verdun, Québec H3E 2A5  
+privacy@yp.ca
 
-**9\. Lost or Stolen Information**
+**8.   MyTime™ by Yellow Pages™ Services**
 
-You must promptly notify us if your personnal information is misused, or used without permission. In such an event, we will remove your full information from our server and update our records accordingly.
+The MyTime™ by Yellow Pages™ Services are made available by YP under licence from Melian Labs, Inc. You understand that in order to provide the MyTime™ by Yellow Pages™ Services, Melian Labs, Inc. will share information with third parties, which may include personal information that you supply in connection with your use of the MyTime™ by Yellow Pages™ Services.
 
-**10\. "Send a friend" and "Text message a friend" services**
+IN ADDITION TO AGREEING TO BE BOUND BY THIS PRIVACY STATEMENT, BY USING THE MYTIME™ BY YELLOW PAGES™ SERVICES, YOU AGREE TO BE BOUND BY MELIAN LABS, INC.’S PRIVACY POLICY AVAILABLE AT <http://www.mytime.com/terms/privacy>. IF YOU DO NOT AGREE WITH MELIAN LABS, INC.’S PRIVACY POLICY, DISCONTINUE ALL USE OF THE MYTIME™ BY YELLOW PAGES™ SERVICES IMMEDIATELY.
 
-Dine.TO may offer a service whereby you can e-mail or text message site content (for example, a particular restaurant information) to a friend or colleague. This will involve entering the e-mail address or mobile number of your friend. We do not use the e-mail addresses or mobile numbers you enter for any purpose other than to send your e-mail or text message. We do not store, rent or sell these mobile numbers or email addresses. 
-
-**12\. Updates and Changes to Policy**
-
-We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. 
+Amended: September 2017
