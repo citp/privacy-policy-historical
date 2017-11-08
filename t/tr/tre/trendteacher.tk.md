@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trendteacher.tk privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507135132id_/http%3A//guruhemat.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendteacher.tk privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108205747id_/http%3A//guruhemat.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Guru Hemat
+# Privacy Policy
+
+###  Privacy Policy 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [](mailto:erian.inzani.84@gmail.com).  
 At www.trendteacher.tk we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.trendteacher.tk and how we use it.  
@@ -37,3 +39,24 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 **Update**  
 This Privacy Policy was last updated on: Tuesday, September 20th, 2016. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+###  Postingan populer dari blog ini 
+
+### [How interesting the console decoration](http://guruhemat.blogspot.com/2017/07/how-interesting-console-decoration.html)
+
+Interior decoration styles are swiftly changing, motivating, and consuming. They are like creative riots that are leashed to just one single aspect- quenching the thirst for a aesthetic pleasure. Every frill and every curve business lead for an oasis of beauty that devours a person's thoughts. One spark of creativeness results the creation of decoration themes which were never even dreamed. Playing on a single tunes, the design of furniture takes on a pivotal role in rounding off a decor theme. Focus on an ever-so-gracious gaming system desk that graces a clear wall membrane and brings life to usually ignored areas. A stand is a just like a dark knight of the furniture world. It stands still in a single corner while participating in an important role in the complete setup. The desk handles to make its importance noticed in various ways. It operates like a ram boat with a range of picture frames cruising on its top surface. It becomes the centre of fascination when located under a… 
+
+### [Make More Room Space With Sizing Toilet Room](http://guruhemat.blogspot.com/2017/07/make-more-room-space-with-sizing-toilet.html)
+
+Closets can be made up of lots of materials. You're more than likely to get several types of wardrobe in your property. You will need an structured room to be able to acquire sufficient space to go about. You will need to make certain that there surely is sufficient space remaining so that you can prevent mishaps while walking inside your room especially in the center of the night. You are going to be in a posture to have significantly more space inside your bedroom if it's possible to obtain some of your previous products.   
+Storage is a major problem for each and every room in a home, especially closets. That is your decision, your space as well as your budget. The available space can help to make the almost all of your wardrobe an outstanding area of safe-keeping and corporation. While looking for an organizer, you will need to make enough space space designed for suspending baby clothes.   
+The drawers and shape of a wardrobe storage must be solid. Storage area drawers can be … 
+
+### [How to choose the right color](http://guruhemat.blogspot.com/2017/07/how-to-choose-right-color.html)
+
+**Color is Knocking Down your Door!**   
+It's a thrilling a chance to re-evaluate some rooms and brainstorm some new ideas! Well I've got some very nice advice for you! So, allows speak about three main areas that require a few of that love that great color selection will offer you. Springtime is in the air, virtually right nearby, and color brings a since of refreshing!   
+**Choosing your Strategy!**   
+Let's face it. Deciding what color choice to include at home can be either thrilling or frustrating if you are uncertain as to the place to start. So, when choosing, it will always be better to choose the bottom color that you'll use to build your aesthetic concept on. You might use this process whether you are redesigning your Living Room directly on right down to the Cellar. Choosing the bottom color(s) improves the visible psyche and aides in the conclusion of your selection process. **  
+****Choosing your Coloring Color!**   
+Making your coloring choices is fun and exciting! What really concerns i… 
