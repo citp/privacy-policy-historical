@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traegergrills.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612130626id_/http%3A//www.traegergrills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traegergrills.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108184218id_/http%3A//www.traegergrills.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,9 +45,9 @@ Cookies. A cookie is a string of information that is sent by a web site and stor
 
 We collect anonymous data when you visit most pages on the site. Your visit may automatically provide us with data that is not linked to your personal information, such as your IP (Internet Protocol) address, browser type, operating system, domain name, access times, and referring web site addresses. Some parts of the site use embedded pixel or Javascript technologies to facilitate your use of the Web site and to track general traffic. We use your anonymous data to obtain general statistics regarding the use of the site and its specific web pages and to evaluate how our visitors use and navigate our site on an aggregate basis. We do not link your anonymous data with personal data.
 
-We use Google Analytics, Google AdWords Conversion tracker, and other Google services that place cookies on a browser across the website. These cookies help us increase the websiteís effectiveness for our visitors. These cookies are set and read by Google. To opt out of Google tracking, please visit this page: <http://www.google.com/policies/technologies/ads/>
+We use Google Analytics, Google AdWords Conversion tracker, and other Google services that place cookies on a browser across the website. These cookies help us increase the websiteís effectiveness for our visitors. These cookies are set and read by Google. To opt out of Google tracking, please visit this page: <https://www.google.com/policies/technologies/ads/>
 
-We use AdWords remarketing to market our sites across the web. We place a cookie on a browser, and then a 3rd party (Google) reads these cookies and may serve an ad on a 3rd party site. You may opt out of this ad serving on Googleís opt out page. If you are concerned about 3rd party cookies served by networks, you should also visit the Network Advertising Initiative opt-out page: <http://www.networkadvertising.org/choices/>
+We use AdWords remarketing to market our sites across the web. We place a cookie on a browser, and then a 3rd party (Google) reads these cookies and may serve an ad on a 3rd party site. You may opt out of this ad serving on Googleís opt out page. If you are concerned about 3rd party cookies served by networks, you should also visit the Network Advertising Initiative opt-out page: <https://www.networkadvertising.org/choices/>
 
 Back to top ↑
 
@@ -84,6 +84,110 @@ Back to top ↑
 ### Your Consent
 
 By using our site, you consent to our online privacy policy.
+
+Back to top ↑
+
+### Traeger Grills App and WiFire Products
+
+Traeger Grills (“Traeger Grills”) respects the privacy of its customers.  This Policy describes our data practices which are specific to any Traeger Wifire™ enabled grill (a “Traeger Wifire Grill”) as well as the Traeger Wood Fired Grills App (the “App” and, together with the Traeger Wifire Grill, the “Traeger Wifire Products”). This Policy does not apply to our website generally or to any Traeger product or software application other than the Traeger Wifire Products.
+
+Traeger Wifire Products offer additional performance capabilities which include allowing you to control many features on your Traeger Wifire Grill from a single mobile phone or other supported device paired to your grill.  This Policy explains the circumstances under which Traeger Grills collects, uses and discloses information through your use of the Traeger Wifire Products.  By using Traeger Wifire Products you are agreeing to the terms of this Policy.
+
+You can use a Traeger Wifire Grill without connecting it to the Internet.  In that case, a Traeger Wifire Grill does not send any information to Traeger Grills or its service providers, though we may obtain information directly from your Traeger Wifire Grill if you return it to us or our dealers, including to provide warranty and other services.  However, if you choose to connect your Traeger Wifire Grill to the App or to the Internet then Traeger Grills and its service providers will have access to information collected by your Traeger Wifire Grill, and that information may be linked to information collected through the App and to information that we and our service providers and third parties collect about you from other sources, including through our other products or apps or our website.
+
+Any collected information is controlled by Traeger Pellet Grills, LLC, which is headquartered in the United States.  Our principal office is located at 1215 Wilmington Ave, Suite 200, Salt Lake City, UT 84106.
+
+**Personal Information and Other Information We Collect**
+
+Traeger Grills collects both “Personal Information” and “Other Information” about its customers.  Traeger Grills defines “Personal Information” as information that it can directly associate with a specific person without additional information. Examples of Personal Information include a name or an email address. Traeger Grills defines “Other Information” as information that it cannot directly associate with a specific person without the aid of additional information.
+
+We may combine Other Information and Personal Information and when we do we treat all of the combined information as Personal Information.  We combine the Personal Information and the Other Information that we collect through Traeger Wifire Products with information received from other sources, both online and offline.  For example, we may combine information collected from the Traeger Wifire Products with information we collect through your use of our website and other apps, in connection with Traeger sponsored events, or from your phone or email communications with us.
+
+**Technical and Usage Data**  
+We may collect a range of technical, usage and diagnostic information from your use of the Traeger Wifire Grill.  For example, we track how you use and control your Traeger Wifire Grill during each session and over time (such as temperature, cooking mode, use of the temperature probe and use of other features and accessories) and also collect and analyze technical and diagnostic metrics related to the grill’s use (such as the status and condition of moving and other grill components and the alignment of actual and target grill temperature). 
+
+If you use your Traeger Wifire Grill without the App and without connecting it to the Internet, the grill will not send any information to Traeger Grills or its service providers.  However, if you return your Traeger Wifire Grill to Traeger Grills or a dealer, we may collect the information stored on it, including for analytics purposes, to evaluate and better understand your warranty claim and to improve our products, and that information may be linked to other information about you, including Personal Information.  If you use your Traeger Wifire Grill with the App or connect your Traeger Wifire Grill to the Internet, Traeger Grills and its service providers will have access to technical and usage information that is collected by the Traeger Wifire Grill, and that information may be linked to additional information, including Personal Information, collected through the App and other sources. 
+
+**Personal Information**  
+Although it is not required in order to use the App, you must set up a user account in order to use the Traeger Wifire Grill control features of the App. As part of that process, you will be asked to provide certain Personal Information, including your name and your email address.  This information may be linked to technical and usage data described above and the other information discussed below, including location data.
+
+**Location Data**  
+The Traeger Wifire Products also may use your IP address to approximate your general geographic location.  We use this information for a variety of purposes, including for marketing, analytics and to improve our products.  We also may use your location to target you for special events or promotional offers, including events sponsored by Traeger Grills or recipes.
+
+**Log Data**  
+When you use the App, we or our service providers may automatically receive and record certain information from your mobile phone, tablet or other device.  This may include data such as the features you use on the App; software and hardware attributes (including device identifiers); IP address; date and time of use; and certain other tracking information.  To do this, we may use web logs or applications that recognize your device and gather information about its online activity.
+
+**Cookies, SDKs, and other online tracking mechanisms**  
+We use mechanisms to track and analyze how you use the App. We also may engage third parties who will do so on our behalf (see below in the section entitled “How We Share Information With Third Parties”).  These mechanisms can be used, for example, to collect information about your use of the App during a current session and over time; your device’s operating system and software attributes; your Internet service provider; and your IP address.  Such mechanisms may include cookies, web beacons, pixels, tags, scripts or other tracking mechanisms.  Some of these mechanisms, such as cookies, involve storing small files on your computer, mobile phone, tablet or other device.  Other mechanisms may involve transmission of information to a third-party server through other means.  For example, we may allow third parties to use an application software development kit (SDK) or server-to-server connection to collect this type of information.  An SDK is a piece of software code that we embed in our App to allow third parties to collect information about how users interact with the App, and a server-to-server connection enables us to exchange data with third parties when an SDK integration is not feasible or practical.
+
+The App currently does not have a “do not track” feature.
+
+**How We Use The Information That We Collect**
+
+Traeger Grills uses the information that we collect for a variety of purposes.  For example, we may use your information, including Personal Information, in the following ways:
+
+• To monitor the performance and stability of our products;
+
+• To enhance warranty and other services provided by us, including by contacting you regarding possible issues with your Trager Wifire Grill;
+
+• To fulfill orders you place for products sold by us;
+
+• To provide updates and services to the Traeger Wifire Products (including updates and upgrades to software);
+
+• To send you recipes, information about Traeger Wifire Products and other topics that we believe may be of interest to you;
+
+• To create and derive insights from your use of our products and other party’s products;
+
+• To improve our existing products and to develop new products;
+
+• To comply with legal and/or regulatory requirements; and
+
+• To respond to questions or requests.
+
+We use the Other Information that we collect for such purposes as: counting and recognizing users of the App; analyzing how customers use the Traeger Wifire Grill and the App; improving our existing products and developing new products; enabling additional analytics and research concerning our products; and managing our business.
+
+**Analytics providers**  
+We may work with certain third parties to collect Personal Information and/or Other Information and to engage in analysis, auditing, research and reporting of such information.  These third parties may use web logs, pixels, tags, SDKs, or other tracking mechanisms or set and access cookies on your computer, mobile phone, tablet, or other device to collect information from the App and the Traeger Wifire Grill, as well as the devices on which you run the App and the device through which your Traeger Wifire Grill is connected to the Internet.  We may also use service providers that enable us to better collect and control data from the App and your Traeger Wifire Grill and direct it to third-party analytics providers.  The use of online tracking mechanisms by these third parties is subject to those third parties’ own privacy policies, and not this Policy.
+
+**Sharing for legal and other purposes**  
+Traeger Grills also may use or share your information with third parties:
+
+• To respond to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims;
+
+• When we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to our property or the physical safety of any person, or violations of our recommended usage instructions and applicable terms and conditions;
+
+• To facilitate the financing or insuring of our business or a disposition of all or part of our business or assets; or
+
+• As otherwise permitted or required by applicable law.
+
+**Aggregated information**  
+From time to time, Traeger Grills may also create and then share anonymized and aggregated information about Traeger Wifire Grill users, such as by publishing a report on trends in the usage of Traeger Wifire Grill or the App.
+
+**Children’s Privacy**
+
+Traeger Wifire Products are not directed to children under the age of 13, and Traeger Grills does not knowingly collect any information from anyone under the age of 13.  We recommend that persons over 13 but under 18 years of age ask their parents for permission before using the Traeger Wifire Grill (or any other grill) or the App or sending any information about themselves to anyone over the Internet.
+
+**Security**
+
+Traeger Grills takes steps believed by it to be commercially reasonable to protect user personal data against loss or unauthorized access, use, modification, or deletion.  However, no security program is foolproof, and thus we cannot guarantee the absolute security of your Personal Information or your Other Information.
+
+**Special note for users from outside the United States**
+
+The information that Traeger Grills and third parties collect from the Traeger Wifire Products is transferred to and processed in the United States for the purposes described in this Policy.  Traeger Grills also may subcontract the processing of your data to, or otherwise share your data with, affiliates or third parties in the United States or countries other than your country of residence.  The data-protection laws in these countries may be different from, and less stringent than, those in your country of residence.  By using the Traeger Wifire Products, you expressly consent to such transfer and processing.
+
+**Additional information**
+
+We reserve the right to amend this Policy at any time.  We will make the revised Policy accessible through the App, so you should review the Policy periodically.  Any such amendments to this Policy may apply to information we collect in the future as well as any information we obtained prior to such amendment.  If we make a material change to the Policy, you will be provided with appropriate notice.
+
+If you have any questions or concerns about this Policy or about the information that Traeger Grills collects about you or if you would like to update or change that information, please send us an email by using the “Contact Us” link on the company’s website, www.traegergrills.com.
+
+You may also contact us at 1-800-872-3437.
+
+Or send a letter to:
+
+Customer Service  
+1215 Wilmington Ave, Suite 200   
+Salt Lake City, UT 84106
 
 Back to top ↑
 
