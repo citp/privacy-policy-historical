@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylifestyle.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501044744id_/http%3A//studylifestyle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylifestyle.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108100747id_/http%3A//studylifestyle.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
