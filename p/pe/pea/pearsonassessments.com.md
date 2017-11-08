@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024548id_/http%3A//pearsonassessments.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108210351id_/http%3A//www.pearsonassessments.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Back to Top
 
 **2\. Purpose**
 
-The purpose of this Site is to provide information about certain of our Assessment products and services and an avenue to contact us about these products and services and place online orders for our Talent Assessment and Learning Assessment products and services. Use of this Site is subject to the [Terms of Use](https://web.archive.org/website-terms-of-use.html) for this Site.
+The purpose of this Site is to provide information about certain of our Assessment products and services and an avenue to contact us about these products and services and place online orders for our Talent Assessment and Learning Assessment products and services. Use of this Site is subject to the [Terms of Use](https://www.pearsonassessments.com/website-terms-of-use.html) for this Site.
 
 Back to Top
 
