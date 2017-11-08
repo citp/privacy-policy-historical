@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adra.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164847id_/http%3A//www.adra.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adra.ca privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108095453id_/http%3A//www.adra.ca/privacy) for the most accurate reproduction.*
 
 # Privacy & Security – ADRA Canada
 
@@ -50,7 +50,7 @@ ADRA Canada
 Newcastle, Ontario  
 L1B 1C6
 
-Further information on privacy and your rights in regard to your personal information may be found on the Web Site of the Privacy Commissioner of Canada at [www.privcom.gc.ca](http://www.privcom.gc.ca/)
+Further information on privacy and your rights in regard to your personal information may be found on the Web Site of the Privacy Commissioner of Canada at [www.privcom.gc.ca](https://www.priv.gc.ca/en/)
 
 ## Mailing Lists and Newsletters:
 
