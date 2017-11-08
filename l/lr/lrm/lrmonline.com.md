@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lrmonline.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609063117id_/http%3A//lrmonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrmonline.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108130326id_/http%3A//lrmonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy + Terms — LRM Online
+# Privacy + Terms | lrmonline
 
-## Privacy Policy 
+## Privacy Policy
 
 ### Effective: April 14, 2016
 
@@ -12,9 +12,9 @@ Latino Review LLC is committed to protecting your privacy and maintaining a safe
 
 We use third-party companies to serve ads and/or collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to our Web site in order to provide advertisements on our Web site, other sites and other forms of media about goods and services that may be of interest to you. They may also use this information to track the effectiveness of those ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to http://www.net- workadvertising.org/optout_nonppii.asp ([http://www.networkadvertising.org/optout_nonppii.asp).](http://www.networkadvertising.org/optout_nonppii.asp\))
 
- **Links** : Be aware that when you click on ad banners, you may be redirected to other sites not operated by Latino Review LLC. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.
+**Links** : Be aware that when you click on ad banners, you may be redirected to other sites not operated by Latino Review LLC. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.
 
- **General Information Collected** : When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., AT&T, Verizon).
+**General Information Collected** : When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., AT&T, Verizon).
 
 The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web Site and to continually improve our services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
 
@@ -32,9 +32,9 @@ We will occasionally update this Privacy Policy as necessary to protect our user
 
 ### Questions?
 
-For any questions or comments concerning Latino Review LLC’s privacy policy, please write to: 
+For any questions or comments concerning Latino Review LLC’s privacy policy, please write to:
 
- **Latino Review LLC**
+**Latino Review LLC**
 
 3060 Peachtree Road
 
