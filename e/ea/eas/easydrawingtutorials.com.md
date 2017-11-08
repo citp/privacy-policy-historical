@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easydrawingtutorials.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608011152id_/http%3A//www.easydrawingtutorials.com/index.php/component/content/article/98-misc/159-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydrawingtutorials.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108024820id_/http%3A//www.easydrawingtutorials.com/index.php/component/content/article/98-misc/159-privacy-policy) for the most accurate reproduction.*
 
 # EasyDrawingTutorials
 
@@ -17,7 +17,9 @@ Google, as a third party vendor, uses cookies to serve ads on EasyDrawingTutoria
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and Amazon. These third-party ad servers or ad networks use technology to the advertisements and links that appear on EasyDrawingTutorials.com send directly to your browsers. They automatically receive your IP address when this occurs. Third-party ad networks may use other technologies, such as cookies, JavaScript or Web Beacons, to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see. EasyDrawingTutorials.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. EasyDrawingTutorials.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. EasyDrawingTutorials.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
+
+EasyDrawingTutorials.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
