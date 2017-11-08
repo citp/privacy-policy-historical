@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojotab.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607032658id_/http%3A//mojotab.com/search-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojotab.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108134028id_/http%3A//mojotab.com/search-policy.html) for the most accurate reproduction.*
 
 # 
 
