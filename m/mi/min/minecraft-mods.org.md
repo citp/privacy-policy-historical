@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-mods.org privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424095633id_/http%3A//minecraft-mods.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-mods.org privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108193427id_/http%3A//minecraft-mods.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Minecraft-Mods.org
 
