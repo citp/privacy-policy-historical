@@ -1,17 +1,55 @@
-> *The following text is extracted and transformed from the alkoonsoft.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alkoonsoft.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108184346id_/http%3A//alkoonsoft.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy | Manager Download Software
 
-* * *
+**Our Commitment To Privacy**
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+Your privacy is important to us at alkoonsoft.com . To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+**The Information We Collect:**
+
+This notice applies to all information collected or submitted on alkoonsoft.com. On some pages you can post comments, make requests, and register to receive materials. The types of personal information collected at these pages are:
+
+  * Name
+  * Email Address
 
 
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+On some pages, you can submit information about other people. For example, if you want to send information regarding a page or post on our website directly to another recipient, you will need to submit the recipient’s name and email address. In this circumstance, the types of personal information used (but not kept) are:
+
+  * Name
+  * Email Address
+
+
+
+**How We Use Information:**
+
+We do not share any information you provide to us to any 3rd parties unless required to do so by law. In the event that this policy changes, you will be notified via Email and a post will be put on our website informing all users of a change in Policy.
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+
+You can register with our website if you would like to receive information as well as updates on our new products reviews and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of US visitors and Z number of European visitors filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+**Our Commitment To Children’s Privacy:**
+
+Protecting the privacy of the very young is especially important.
+
+For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+**How You Can Access Or Correct Your Information**
+
+You can access all your personally identifiable information that we collect online and maintain by contacting us. We use this procedure to better safeguard your information.
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+**How To Contact Us**
+
+If you need to contact us regarding this privacy policy, or if you have any other questions, please don’t hesitate to contact us at contact@alkoonsoft.com
