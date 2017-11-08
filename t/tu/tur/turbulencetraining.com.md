@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbulencetraining.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214220638id_/http%3A//www.turbulencetraining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbulencetraining.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108181023id_/http%3A//www.turbulencetraining.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Turbulence Training
 
