@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hooch.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032533id_/http%3A//www.hivemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooch.net privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108230421id_/http%3A//www.hivemedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hive Media Group
+
+[](http://www.hivemedia.com/)
 
 ## PRIVACY POLICY
 
@@ -95,7 +97,7 @@ We only disclose or share your non-public personal information with third partie
 
 • To complete a merger or sale of assets. If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
-We do not control third parties’ collection or use of your information to serve interest­based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website http://www.networkadvertising.org/choices/. You may go to the Digital Advertising Alliance site to set advertising preferences for participating companies here: http://www.aboutads.info/choices/. If you are outside of the United States, you may set advertising choices for participating companies here: http://youronlinechoices.eu/.
+We do not control third parties’ collection or use of your information to serve interest based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website <http://www.networkadvertising.org/choices/>. You may go to the Digital Advertising Alliance site to set advertising preferences for participating companies here: <http://www.aboutads.info/choices/>. If you are outside of the United States, you may set advertising choices for participating companies here: <http://youronlinechoices.eu/>.
 
 #### Location of Collected Data
 
@@ -121,3 +123,5 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:  
 contact@hivemedia.com
+
+Scroll to top
