@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the due.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126084033id_/https%3A//due.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the due.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108214630id_/https%3A//due.com/privacy) for the most accurate reproduction.*
 
 # Due Privacy Policy
 
 Due Inc., knows that you care about how your personal information is used and shared, and we take your privacy seriously. Our primary goal is to provide you with exceptional service (see the [Terms of Use](https://due.com/terms/) for a definition), and we understand that you may have questions or concerns regarding your personal information and how it will be used.
 
-To make this privacy policy easy to find, we make it available from home page of the Due website at [https://due.com](https://due.com/) (the "website") and through our mobile applications. You may also email us at [privacy@due.com](mailto:privacy@due.com) with any privacy-related questions you have.
+To make this privacy policy easy to find, we make it available from home page of the Due website at [https://due.com](https://due.com/) (the “website”) and through our mobile applications. You may also email us at [support@due.com](mailto:support@due.com) with any privacy-related questions you have.
 
 #### APPLICABILITY OF PRIVACY POLICY
 
 This privacy policy applies to all information we collect through our web and mobile applications from Due users, including you.
 
-Throughout this policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user.
+Throughout this policy, we use the term “personal information” to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user.
 
 #### THE INFORMATION WE COLLECT
 
@@ -18,11 +18,11 @@ When you visit the website or use one of our mobile applications, we collect you
 
 If you open an account, we collect the following information from you:
 
-  * Account Information - text-enabled cellular/wireless telephone number, machine or mobile device ID and other similar information.
-  * Identification Information - your name, street address, email address, date of birth, and SSN (or other governmental issued verification numbers).
-  * Device Information - We also may obtain information about you: (a) from your mobile device such as your device type, machine or mobile device identification number, geo-location, time zone, language setting, browser type, and IP address, and (b) from third parties for purposes of transaction processing, identity verification, fraud detection or prevention and other similar purposes. For fraud prevention purposes, we also may link your machine ID with the machines of others who use your same payment cards.
-  * Social Web Information - including but not limited to your Facebook connect credentials (and information that you authorize Facebook share with us though permissions like this [http://developers.facebook.com/https://due.com/wp-content/themes/due/images/devsite/auth-dialog-example.png](http://developers.facebook.com/https://due.com/wp-content/themes/due/images/devsite/auth-dialog-example.png) ) and email account information. If you authorize Facebook Connect, the plug in allows us access to your friends' contact information. We also allow you to import data from other social web services, including but not limited to Twitter, Google+, Linkedin, email lists and email service providers. Social and e-mail contact information helps you connect to friends and contacts for invitation and payment transmission purposes (as well as helping us improve our services and fight fraud). Additionally, another Due user may mention you in a transaction in which you are not a party to by “tagging” your username in a transaction note. When you are mentioned in a transaction, a link to your Due profile will appear in the transaction note and you will receive a notification about the mentions. You may manage certain contact preferences and notifications in your account settings.
-  * Financial Information - bank account and routing numbers and credit cards linked to your Due account. Due does not share financial information with third party social networking services such as those listed in the prior bullet.
+  * Account Information – text-enabled cellular/wireless telephone number, machine or mobile device ID and other similar information.
+  * Identification Information – your name, street address, email address, date of birth, and SSN (or other governmental issued verification numbers).
+  * Device Information – We also may obtain information about you: (a) from your mobile device such as your device type, machine or mobile device identification number, geo-location, time zone, language setting, browser type, and IP address, and (b) from third parties for purposes of transaction processing, identity verification, fraud detection or prevention and other similar purposes. For fraud prevention purposes, we also may link your machine ID with the machines of others who use your same payment cards.
+  * Social Web Information – including but not limited to your Facebook connect credentials (and information that you authorize Facebook share with us though permissions like this [http://developers.facebook.com/[insert_php] bloginfo(‘template_directory’); [insert_php]/images/devsite/auth-dialog-example.png](http://developers.facebook.com/https://due.com/wp-content/themes/due/images/devsite/auth-dialog-example.png) ) and email account information. If you authorize Facebook Connect, the plug in allows us access to your friends’ contact information. We also allow you to import data from other social web services, including but not limited to Twitter, Google+, Linkedin, email lists and email service providers. Social and e-mail contact information helps you connect to friends and contacts for invitation and payment transmission purposes (as well as helping us improve our services and fight fraud). Additionally, another Due user may mention you in a transaction in which you are not a party to by “tagging” your username in a transaction note. When you are mentioned in a transaction, a link to your Due profile will appear in the transaction note and you will receive a notification about the mentions. You may manage certain contact preferences and notifications in your account settings.
+  * Financial Information – bank account and routing numbers and credit cards linked to your Due account. Due does not share financial information with third party social networking services such as those listed in the prior bullet.
 
 
 
@@ -38,9 +38,9 @@ We do not knowingly solicit or collect information from any individuals under th
 
 #### HOW WE USE COOKIES
 
-When you access the website, we, or companies we hire to track how our website is used, may place small data files called "cookies" on your computer.
+When you access the website, we, or companies we hire to track how our website is used, may place small data files called “cookies” on your computer.
 
-For example, we send a "session cookie" to your computer any time you log in to your Due account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page.
+For example, we send a “session cookie” to your computer any time you log in to your Due account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don’t need to ask you for your password on each page.
 
 You are free to decline Due cookies if your browser permits, but doing so may interfere with your use of the website.
 
@@ -84,9 +84,9 @@ We may share your personal information with:
   * Our parent company, Due Inc. and affiliates and subsidiaries it controls, but only for purposes allowed by this document.
   * Companies that Due Inc. plans to merge with or be acquired by or, in the event of any bankruptcy, a bankruptcy estate. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice and the opportunity to communicate preferences you may have, if applicable.
   * Law enforcement, government officials, or other third parties if Due is compelled to do so by a subpoena, court order or similar legal procedure, when it is necessary to do so to comply with law, or where the disclosure of personal information is reasonably necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of the Due User Agreement, or as otherwise required by law.
-  * Third party service providers who assist us in providing services to you or who provide fraud detection or similar services on our [or any vendor's] behalf.
-  * Your social web, if your Due account transactions are designated as "public" or ͞friends-only͟ payments such that other Due users can view your payments or when you otherwise request Due payments be posted to your social web. You may access our privacy controls to designate that all of your payments default to private as well. When you broadcast information to third-party services, such information is no longer under the control of Due and is subject to the terms of use and privacy policies of such third parties. Due does not send your personal information to third-party social networks unless you have specifically requested or authorized us to do so.
-  * Service providers under contract who help with parts of our business operations (for example, fraud prevention, payment processing, or technology services); Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
+  * Third party service providers who assist us in providing services to you or who provide fraud detection or similar services on our [or any vendor’s] behalf.
+  * Your social web, if your Due account transactions are designated as “public” or ͞friends-only͟ payments such that other Due users can view your payments or when you otherwise request Due payments be posted to your social web. You may access our privacy controls to designate that all of your payments default to private as well. When you broadcast information to third-party services, such information is no longer under the control of Due and is subject to the terms of use and privacy policies of such third parties. Due does not send your personal information to third-party social networks unless you have specifically requested or authorized us to do so.
+  * Service providers under contract who help with parts of our business operations (for example, fraud prevention, payment processing, payment transfers, or technology services); Our contracts dictate that these services providers only use your information in accordance with their privacy policies.
   * Other third parties with your consent or at your direction to do so.
 
 
@@ -109,7 +109,7 @@ Like many other websites, we may place small data files on your computer or othe
 
 
 
-We may use both session and persistent cookies. Session cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent cookies remain on your device until you erase them or they expire. We may tie the information gathered to our users' personally identifiable information.
+We may use both session and persistent cookies. Session cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent cookies remain on your device until you erase them or they expire. We may tie the information gathered to our users’ personally identifiable information.
 
 Some browsers make it possible for you to signal that you don’t want your internet browsing activity to be tracked. There is currently no consensus on how to best honor these signals, so we don’t respond to “do not track” requests at this time. Declining our cookies may interfere with your use of our Services.
 
@@ -121,9 +121,9 @@ We and our [cloud provider](https://aws.amazon.com/privacy/) protect your info
 
 When you enter financial information (such as a payment card number or your bank account information) on our Services, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-To the extent we transmit and store your cardholder data, we do so under the most stringent credit card security standard: PCI Compliance Level 1. A PCI-certified auditor verified and awarded us this level of security and compliance.
+To the extent we transmit and store your credit cardholder data, we do so under the most stringent credit card security standard: PCI Compliance Level 1. A PCI-certified auditor verified and awarded us this level of security and compliance.
 
-We work hard to secure your data, but nobody is perfect. If you discover a vulnerability in our Services, we would be grateful for your report and encourage you to let us know immediately. To report a bug, please email [privacy@due.com](mailto:privacy@due.com).
+We work hard to secure your data, but nobody is perfect. If you discover a vulnerability in our Services, we would be grateful for your report and encourage you to let us know immediately. To report a bug, please email [support@due.com](mailto:support@due.com).
 
 #### CHANGES TO OUR PRIVACY POLICY
 
@@ -131,4 +131,4 @@ Due is always improving. As the Due service evolves we may occasionally update t
 
 #### HOW TO CONTACT US
 
-If you have questions or concerns regarding this privacy policy, or any feedback pertaining to your privacy and the Due service that you would like us to consider, please email us at [privacy@due.com](mailto:privacy@due.com).
+If you have questions or concerns regarding this privacy policy, or any feedback pertaining to your privacy and the Due service that you would like us to consider, please email us at [support@due.com](mailto:support@due.com).
