@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eugeniekitchen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023122id_/http%3A//eugeniekitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eugeniekitchen.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108183654id_/http%3A//eugeniekitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eugenie Kitchen
 
