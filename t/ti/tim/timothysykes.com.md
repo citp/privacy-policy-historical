@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timothysykes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004416id_/http%3A//www.timothysykes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timothysykes.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108133645id_/https%3A//www.timothysykes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Timothy Sykes
 
@@ -14,7 +14,7 @@ Visitors may choose to interact with our Online Services in ways that require th
 
   * Register for an account;
   * Communicate with us, such as to provide feedback, request support, or ask for additional information;
-  * Subscribe to [newsletters](http://www.timothysykes.com/plans), register for seminars or training, or purchase goods or services;
+  * Subscribe to [newsletters](https://www.timothysykes.com/plans), register for seminars or training, or purchase goods or services;
   * Use interactive or social networking features of our Online Services, including setting up a public profile, submitting content (such as comments, articles, links, or other items), or using our chat feature; or
   * Otherwise interact with or use our Online Services.
 
@@ -72,6 +72,6 @@ As of the effective date listed above, there is no commonly accepted response fo
 
 From time to time, we may change this Privacy Policy. We will post the revised version of our Privacy Policy here, so we suggest that you check here periodically for the most up-to-date version of our Privacy Policy. If we make changes to or update this Privacy Policy, we will revise the Effective Date at the top of this page.
 
-If you have any questions regarding this Privacy Policy or any of the practices described in this Privacy Policy, you can [contact us](http://www.timothysykes.com/contact) at: admin@timothysykes.com.
+If you have any questions regarding this Privacy Policy or any of the practices described in this Privacy Policy, you can [contact us](https://www.timothysykes.com/contact) at: admin@timothysykes.com.
 
-Any disputes regarding this Privacy Policy will be resolved by arbitration as set forth in section 12 of the [Terms of Service that can be accessed here](http://www.timothysykes.com/terms-of-service/).
+Any disputes regarding this Privacy Policy will be resolved by arbitration as set forth in section 12 of the [Terms of Service that can be accessed here](https://www.timothysykes.com/terms-of-service/).
