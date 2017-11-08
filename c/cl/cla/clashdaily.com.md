@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clashdaily.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121823id_/http%3A//clashdaily.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashdaily.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108194600id_/http%3A//clashdaily.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy / Terms & Conditions
 
@@ -44,7 +44,7 @@ We may use the information Users provide about themselves when placing an order 
 
 The email address Users provide for order processing will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions.
 
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We do not rent, sell or barter your email address to third parties. Users may receive occasional emails from underwriters of this website; such sponsorships enable us to continue to bring you the latest news and information free of charge. If at any time the User would like to unsubscribe from receiving future emails, simply click the unsubscribe link at the bottom of each email or [contact us](http://libertyalliance.com/contact-us/) online.
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We do not rent, sell or barter your email address to third parties. Users may receive occasional emails from underwriters of this website; such sponsorships enable us to continue to bring you the latest news and information free of charge. If at any time the User would like to unsubscribe from receiving future emails, simply click the unsubscribe link at the bottom of each email.
 
 **How we protect your information**
 
