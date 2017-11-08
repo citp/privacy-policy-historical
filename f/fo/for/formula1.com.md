@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formula1.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128102936id_/https%3A//www.formula1.com/en/toolbar/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formula1.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109001935id_/https%3A//www.formula1.com/en/toolbar/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 **We take the privacy of all of our users seriously.**  
 This privacy policy (the “Privacy Policy”) outlines how we treat your personal information and forms part of the terms and conditions of the Site. This Privacy Policy applies only to this Site, and not to the collection and use of personal information by any third party via any website to which there are links on this Site. We are not responsible for the privacy policies of other websites, and encourage you to be aware when you leave our Site, and to read all applicable terms, conditions and privacy policies when using other websites.
 
-For the purpose of the Data Protection Act 1998, the data controller is Formula One Digital Media Limited of 6 Princes Gate, London SW7 1QJ. Formula One Digital Media Limited is registered in England and Wales with registered number 8915039.
+For the purpose of the Data Protection Act 1998, the data controller is Formula One Digital Media Limited of N° 2 St James’s Market, London, SW1Y 4AH. Formula One Digital Media Limited is registered in England and Wales with registered number 8915039.
 
 Questions, comments and requests regarding this privacy policy and how we use your personal data are welcomed and should be addressed to [admin@formula1.com](mailto:admin@formula1.com)
 
@@ -34,7 +34,7 @@ We operate a mailing list to send you Formula 1®-related news. We only send ema
 
 We reserve the right to disclose your personal information in the following circumstances:
 
-  1. to anyone who may take over the running of the Site or any Formula One group companies or subcontractors who operate a part of the Site on our behalf. Any other organisations who access your information in the course of providing services on our behalf will be governed by strict contractual restrictions to make sure that they protect your information and keep to data-protection and privacy laws which apply. We may also independently audit these service providers to make sure that they meet our standards;
+  1. to anyone who may take over the running of the Site or any Formula 1 companies or subcontractors who operate a part of the Site on our behalf. Any other organisations who access your information in the course of providing services on our behalf will be governed by strict contractual restrictions to make sure that they protect your information and keep to data-protection and privacy laws which apply. We may also independently audit these service providers to make sure that they meet our standards;
   2. to any law enforcement agency requesting it once we are reasonably satisfied as to the circumstances surrounding the request;
   3. or in order to enforce or apply our terms of use [Terms & Conditions](https://web.archive.org/en/toolbar/legal-notices.html) or terms and conditions of supply of goods or services and other agreements; or to protect our rights, property, or safety, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
   4. to comply with applicable laws and lawful government requests; and
