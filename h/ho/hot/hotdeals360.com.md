@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotdeals360.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623132710id_/https%3A//gadgets360.com/shop/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotdeals360.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108195012id_/https%3A//gadgets360.com/shop/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NDTV Gadgets360.com
 
