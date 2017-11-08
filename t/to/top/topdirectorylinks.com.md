@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topdirectorylinks.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510125854id_/http%3A//www.topdirectorylinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdirectorylinks.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108155119id_/http%3A//www.topdirectorylinks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Business – Investment – SEO
+# Privacy Policy
 
 Privacy Policy for http://www.topdirectorylinks.com 
 
