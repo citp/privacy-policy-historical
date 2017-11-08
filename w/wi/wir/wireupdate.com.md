@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wireupdate.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510005104id_/http%3A//www.wireupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wireupdate.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108194053id_/http%3A//www.wireupdate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WireUpdate | Update to the Minute NewsWire
 
