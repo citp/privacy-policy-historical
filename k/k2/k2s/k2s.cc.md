@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k2s.cc privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626201120id_/http%3A//k2s.cc/page/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k2s.cc privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108210607id_/https%3A//k2s.cc/page/policy.html) for the most accurate reproduction.*
 
 # Keep2Share Privacy Policy
 
