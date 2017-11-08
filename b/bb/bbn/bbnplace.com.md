@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbnplace.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507175223id_/http%3A//www1.bbnplace.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbnplace.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108124041id_/http%3A//www1.bbnplace.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
