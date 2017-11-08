@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opposingviews.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613081054id_/http%3A//www.opposingviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opposingviews.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108213607id_/http%3A//www.opposingviews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Opposing Views Inc., and its affiliates (the "Company") takes your privacy very seriously. This Privacy Policy is intended to inform you about the information that is collected from you when you visit [OpposingViews.com](http://www.opposingviews.com/), the mobile application, and any other affiliated Opposing Views owned or operated web sites or applications (collectively, the “Sites"). This policy documents how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. Note that our Terms of Use, which are binding on all users of the Sites, also apply to anyone who uses the Sites.
+Opposing Views and its affiliates (the "Company") takes your privacy very seriously. This Privacy Policy is intended to inform you about the information that is collected from you when you visit [opposingviews.com](http://www.opposingviews.com/), the mobile application, and any other affiliated Opposing Views owned or operated web sites or applications (collectively, the "Sites"). This policy documents how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. Note that our Terms of Use, which are binding on all users of the Sites, also apply to anyone who uses the Sites.
 
 If you access or use Opposing Views through mobile applications or sites, our [Mobile Terms of Services](http://www.opposingviews.com/mobile-terms) also applies.
 
@@ -16,11 +16,11 @@ You can browse the Sites without telling us who you are or revealing any persona
 
 We do NOT ask for governmental identification numbers, credit card numbers, or other financial account identifying numbers, codes, or passwords. If you receive an e-mail or any request for this type of information from anyone purporting to be acting by or on behalf of the Company, please notify us at once at [legal@opposingviews.com](mailto:legal@opposingviews.com).
 
-We collect some non-personal information automatically while you use the Sites, including your Internet protocol (“IP”) address, computer and connection information, browser type and version, operating system, platform, browsing history and any cookies we may have set to customize and identify your browser session. As you use the Sites we may also attempt to automatically determine some of the demographic information previously described from the content that you elect to view.
+We collect some non-personal information automatically while you use the Sites, including your Internet protocol ("IP") address, computer and connection information, browser type and version, operating system, platform, browsing history and any cookies we may have set to customize and identify your browser session. As you use the Sites we may also attempt to automatically determine some of the demographic information previously described from the content that you elect to view.
 
 As you use the Sites, we collect a record of the content that you have seen. We may use this information to learn what topics and views you are interested in, and to automatically determine demographic information about you. We may use this information to enhance the services, content, and advertising that we present to you.
 
-We will not ask for personally identifiable information in an e-mail, nor will we send you an e-mail with a link that directs you to a page where we ask for personally identifiable information. If you receive a request that directly asks for personally identifiable information, please notify us immediately at [legal@opposingviews.com](mailto:legal@opposingviews.com). We can be contacted via mail at Opposing Views, Inc., 8400 Delongpre Avenue, #301, Los Angeles, CA 90069.
+We will not ask for personally identifiable information in an e-mail, nor will we send you an e-mail with a link that directs you to a page where we ask for personally identifiable information. If you receive a request that directly asks for personally identifiable information, please notify us immediately at [legal@opposingviews.com](mailto:legal@opposingviews.com). We can be contacted via mail at Opposing Views, 145 S. Fairfax Ave., #405, Los Angeles, CA 90036.
 
 ### 3\. Children And Personal Information
 
@@ -48,7 +48,7 @@ We are not in the business of renting or selling personal information you provid
 
 We may share your information with service providers, and other companies and individuals we employ or retain under confidentiality agreements in order to help with our business operations. These companies may have access to your information as necessary to perform their functions, but do not have the independent right to share this information with any other third party.
 
-We may share personal information of members who join Opposing Views as part of a co-branded partnership with that specific partner. If you enter information through a business partner’s website or through a co-branded page, you consent to us sharing your personal information with the business partner, in which case both our Privacy Policy and the business partner’s privacy policies will control the collection and use of your personal information.
+We may share personal information of members who join Opposing Views as part of a co-branded partnership with that specific partner. If you enter information through a business partner's website or through a co-branded page, you consent to us sharing your personal information with the business partner, in which case both our Privacy Policy and the business partner's privacy policies will control the collection and use of your personal information.
 
 We may share aggregate demographic information with third parties such as the media, advertisers, and government agencies. This aggregate information is typically in the form of statistics, such as numbers of Opposing Views users in a particular age group. Such aggregate information is not traceable back to you as an individual.
 
@@ -68,7 +68,7 @@ Opposing Views sets and accesses cookies on your computer. A cookie is a small b
 
 You may be able to block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent you from logging in, or may prevent us from delivering some of our services to you.
 
-We may allow third-party advertisers to post advertisements on the Sites. These third parties may place cookies on certain pages of the Sites. We do not control these third parties or their cookies. This privacy policy does not cover third party advertisers’ use of cookies.
+We may allow third-party advertisers to post advertisements on the Sites. These third parties may place cookies on certain pages of the Sites. We do not control these third parties or their cookies. This privacy policy does not cover third party advertisers' use of cookies.
 
 ### 8\. Links And Third Party Sites And Ads
 
@@ -82,7 +82,7 @@ We use electronic, physical, and administrative safeguards, including firewalls 
 
 ### 10\. How to Opt Out
 
-You can opt-out of targeted advertising delivered on Sites by visiting http://www.networkadvertising.org/choices/ or http://www.aboutads.info/choices/ 
+You can opt-out of targeted advertising delivered on Sites by visiting <http://www.networkadvertising.org/choices> or [http://www.aboutads.info/choices](http://www.aboutads.info/choices/).
 
 You should take steps to protect yourself as well. For example:
 
@@ -97,4 +97,4 @@ We may change this Privacy Policy from time to time, and we will post the amende
 
 To contact us for more information about this privacy policy or how your information is treated, please contact us by email at [admin@opposingviews.com](mailto:admin@opposingviews.com).
 
-Last updated December 21, 2016
+Last Updated July 17, 2017
