@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060107id_/http%3A//www.lbc.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108210646id_/http%3A//www.lbc.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Global Radio Privacy Policy - LBC
 
 **About this Policy**
 
 **We are Global!**  
-We are part of “Global Limited” and we are obsessive about respecting the privacy of our listeners and customers.
+We are part of “Global Media and Entertainment Limited” and we are obsessive about respecting the privacy of our listeners and customers.
 
 This policy explains how we will collect information about you through interaction with us over the radio, on the TV, our charity activities or through any sales channel and what we will use it for. 
 
