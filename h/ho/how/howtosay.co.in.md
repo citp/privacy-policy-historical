@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtosay.co.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031842id_/http%3A//www.howtosay.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtosay.co.in privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108230906id_/http%3A//www.howtosay.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Service of - howtosay.co.in
 
@@ -80,7 +80,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
     If you have any questions about this Privacy Policy or any other dealings with this site, please contact us at:
     **howtosay.co.in**
     <http://www.howtosay.co.in/>
-    **support@howtosay.co.in**
+    **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
     
 
 _This document was last updated on Des 21, 2014_
