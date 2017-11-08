@@ -1,100 +1,71 @@
-> *The following text is extracted and transformed from the pornleep.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228045416id_/https%3A//www.plugrush.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornleep.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108202444id_/https%3A//www.plugrush.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Pages
+# Privacy Policy
 
-Our Privacy Policy is provided in english only.
+Our Privacy Policy describes how PlugRush (owned and operated by JMT Nordic AS) collects and uses the Personal Information you provide (automatically and/or manually) by using the PlugRush Platform. It also describes the options regarding our use of your personal information, how you can access it and how you can update it.
 
-  
+### Contents
+
+  * Colletion and Use of Personal Information
+  * Sharing of Personal Information
+  * Modification of Personal Information
+  * Payment Processors
+  * Cookies
+  * Security
+  * Changes
+  * Contact
 
 
-## What information do we collect?
 
-Updated: 23rd of February, 2011
+### Collection and Use of Personal Information
 
-We collect information from you when you register on our site.
+This Privacy Policy outlines the basis of how any Personal Information we gather or that you give us, will be processed and treated by us. It’s important for us that you read this information carefully.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or social security number. You may, however, visit our site anonymously.
+For each client in the system, we will collect the following Personal Information:
 
-## What do we use your information for?
+  * Username, password, email address
+  * Name, social security number, address, phone number
+  * Company name, company id
+  * Bank account number, credit card number, FirstChoicePay id, Paxum/PayPal account email
+  * IP address, browser, operating system
 
-Updated: 23rd of February, 2011
 
-Any of the information we collect from you may be used in one of the following ways:
 
-To personalize your experience; your information helps us to better respond to your individual needs.
+This info is used for tasks including (but not limited to) administering your account, providing customer service, fulfilling orders, provide documentation, marketing/newsletters, do research and analysis. Your Personal Information is collected in order for us to fulfill our agreement with you as stated in our Terms of Service.
 
-To improve our website; we continually strive to improve our website offerings based on the information and feedback we receive from you.
+Marketing emails/newsletters from us are opt-in. System emails about your account and its activity is opt-out. You may change any of these preferences in your account at any time.
 
-To process transactions; your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+### Sharing of Personal Information
 
-To send periodic emails; the email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+We do not transfer or sell your Personal Information to third parties. However, we will share parts of your Personal Information as described in this Privacy Policy, for the basis of fulfilling our Agreement with you as stated in our Terms of Service.
 
-## How do we protect your information?
+We may share your Personal Information in cases were we believe in good faith it is necessary, such as respond to an investigation, a court request, investigate fraud, protect the safety of you, others or PlugRush.
 
-Updated: 23rd of February, 2011
+### Modification of Personal Information
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+It’s important to keep your Personal Information up-to-date at all times to ensure that we can provide you our services. You may do this directly in your account on our Platform or by contacting us. Should you want to cancel your account, you may contact us and we’ll close it for you. The Personal Information will be kept for as long as laws and regulations so require.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential.
+### Payment Processors
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+We use FirstChoicePay, Paxum and PayPal for processing funds in and/or out of your account. We share some Personal Information with them, in order to fulfill your load/withdrawal requests. Credit cards are not stored in PlugRush. For more information, please visit their respective Privacy Policies.
 
-## Do we use cookies?
+### Cookies
 
-Updated: 23rd of February, 2011
+A cookie is a text file that is stored by a website on a users’ computer. We use them to keep you logged into our system (Session cookie) and for record keeping (Persistent cookie). Your Personal Information is not kept in cookies.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+PlugRush may implement third-party services into our website and our Privacy Policy does not cover their use of cookies.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+### Security
 
-## Do we disclose any information to outside parties?
+At PlugRush, we follow industry standards for the safety of your Personal Information and all transmission in our Platform is secured with SSL. Even though we do our absolute best to protect your Personal Information, it’s important to be aware of the fact that there is no method of communicating online, that is 100% safe.
 
-Updated: 23rd of February, 2011
+### Changes to the Privacy Policy
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Should there be any changes in our practices of collecting, using or sharing Personal Information, we will update this Privacy Policy accordingly. We recommend that you periodically review our Privacy Policy for changes. Should there be any substantial updates, we will inform of them on our website prior to the changes to become effective.
 
-## California Online Privacy Protection Act Compliance
+### Contact
 
-Updated: 23rd of February, 2011
+Write us at the following addresses:
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Account' page.
-
-## Childrens Online Privacy Protection Act Compliance
-
-Updated: 23rd of February, 2011
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-## Online Privacy Policy Only
-
-Updated: 23rd of February, 2011
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-## Terms and Conditions
-
-Updated: 23rd of February, 2011
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.plugrush.com/terms_of_service](https://web.archive.org/terms_of_service).
-
-## Your Consent
-
-Updated: 23rd of February, 2011
-
-By using our site, you consent to our privacy policy.
-
-## Changes to our Privacy Policy
-
-Updated: 23rd of February, 2011
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-## Contacting Us
-
-Updated: 23rd of February, 2011
-
-If there are any questions regarding this privacy policy you may contact us using the information below:
-
-[https://www.plugrush.com/contact_us](https://web.archive.org/contact_us)
+Email address: privacy@plugrush.com  
+PlugRush, Langarinden 5, 5132 Nyborg, Bergen, Norway
