@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picphotos.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021412id_/http%3A//picphotos.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picphotos.net privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108201723id_/http%3A//picphotos.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
