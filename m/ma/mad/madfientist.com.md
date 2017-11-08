@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madfientist.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615204039id_/http%3A//madfientist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madfientist.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108113448id_/http%3A//madfientist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mad Fientist
 
