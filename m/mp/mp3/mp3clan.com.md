@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3clan.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607204516id_/http%3A//mp3clan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3clan.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109062701id_/http%3A//mp3clan.com/privacy.php) for the most accurate reproduction.*
 
 # Mp3Clan Legal Disclaimer | Music download
 
