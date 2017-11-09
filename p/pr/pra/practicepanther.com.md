@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicepanther.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618083758id_/https%3A//www.practicepanther.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicepanther.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109050729id_/https%3A//www.practicepanther.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • PracticePanther.com
 
