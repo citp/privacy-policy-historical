@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155530id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109183942id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -81,7 +81,7 @@ SPAM includes, but is not limited to, unsolicited e-mails and/or postings in dis
 
 The only acceptable methods of referring someone to our UniqueRewards.com Rewards Online Program are through communication with family and friends, as well as through establishing a link to our web site on a member-owned Web site. 
 
-To report spam, send an e-mail to: [abuse@UniqueRewards.com](mailto:abuse@UniqueRewards.com)
+To report spam, send an e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f5e5d4a4c5a7f6a51564e4a5a6d5a485e4d5b4c115c5052)
 
 Canceling: 
 
@@ -89,7 +89,7 @@ You may cancel your Membership at anytime by clicking on the "Terminate Account"
 
 Changes To The Privacy Policy: 
 
-By registering to use the UniqueRewards service, you agree to accept this privacy policy and are aware that UniqueRewards' s privacy policy is subject to change. We strongly advise our members to check back periodically to this page. We also welcome any feedback from you; please e-mail us at: [support@UniqueRewards.com](mailto:support@UniqueRewards.com) if you have any comments regarding the information provided or suggestions for improvements that can be made to this privacy policy. 
+By registering to use the UniqueRewards service, you agree to accept this privacy policy and are aware that UniqueRewards' s privacy policy is subject to change. We strongly advise our members to check back periodically to this page. We also welcome any feedback from you; please e-mail us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c9babcb9b9a6bbbd899ca7a0b8bcac9bacbea8bbadbae7aaa6a4) if you have any comments regarding the information provided or suggestions for improvements that can be made to this privacy policy. 
 
 |  | 
 
