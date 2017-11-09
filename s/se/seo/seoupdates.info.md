@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoupdates.info privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511180031id_/http%3A//seoupdates.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoupdates.info privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109200204id_/http%3A//seoupdates.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : SEO Updates : SEO Tips and Tricks
 
