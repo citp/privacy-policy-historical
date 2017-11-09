@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novelupdates.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628160603id_/http%3A//www.novelupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelupdates.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109082356id_/http%3A//www.novelupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Novel Updates
 
@@ -73,6 +73,8 @@ Novel Updates is a participant in the Amazon Services LLC Associates Program, a
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
+We do not specifically market to children under 13.
+
 #### Changes to this privacy policy
 
 Novel Updates has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -83,6 +85,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 #### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at novelupdates@yahoo.com.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on June 25, 2015
