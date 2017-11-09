@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemongo.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618070833id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemongo.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109135045id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pokemon.com
 
@@ -403,7 +403,7 @@ back to top
 
 At any time, a parent can contact our customer service department to access, change or delete the personal information that we have collected from his or her kid as follows:
 
-  * **To access, change or delete the personal information about your child on the Services, log into the http://[support.pokemon.com](https://web.archive.org/us/) Site and submit a customer service request, or contact us at The Pokémon Company International, Attention: Privacy Policy Administrator, 601 108th Avenue, NE, Suite 1600, Bellevue, WA 98004, legalnotices@pokemon.com.**
+  * **To access, change or delete the personal information about your child on the Services, log into the http://[support.pokemon.com](https://web.archive.org/us/) Site and submit a customer service request, or contact us at The Pokémon Company International, Attention: Privacy Policy Administrator, 601 108th Avenue, NE, Suite 1600, Bellevue, WA 98004, , legalnotices@pokemon.com.**
 
 
 
