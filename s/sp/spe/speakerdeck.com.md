@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakerdeck.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202409id_/https%3A//speakerdeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakerdeck.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109023125id_/https%3A//speakerdeck.com/privacy) for the most accurate reproduction.*
 
 # Speaker Deck - Share Presentations without the Mess
 
