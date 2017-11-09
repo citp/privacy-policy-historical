@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 100percentdesign.co.uk privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606102804id_/http%3A//www.100percentdesign.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 100percentdesign.co.uk privacy policy that was archived on 2017-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171109071012id_/http%3A//www.100percentdesign.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB" class="no-js"><head>
 			<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -25,8 +25,16 @@
 			<meta property="og:type" content="article">  
 			<meta property="og:site_name" content="100% Design 2017">  
 			<meta property="og:title" content="Privacy Policy">  
-			<meta property="schema:name" content="Privacy Policy">  
+			<meta property="schema:name" typeof="http://schema.org/WebPage" content="Privacy Policy">  
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=2&amp;cb=137068721"></script><script type="text/javascript" async="" defer="" src="//analytics.showoff.asp.com/piwik.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5GP2WJ5"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-2268845-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-2268845-1');
+</script> 
 
 			
 			<link rel="stylesheet" href="/themes/100percentdesign2016/includes/styles/100percentdesign2016.css">
@@ -35,7 +43,7 @@
 			<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
 			
-			<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" async="" defer="" src="//analytics.showoff.asp.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+			<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 			<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
 
 			
@@ -66,23 +74,15 @@
 			
 
 			
-			<script src="/includes/javascript/showoff.global.js"></script>
-					<script>
-						(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-						m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-						})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-						ga('create', 'UA-2268845-1', 'auto');
-						ga('require', 'autotrack');
-						ga('send', 'pageview');
-						window.addEventListener('popstate', function(event) {
-						    ga('send', 'pageview');
-						});
-						$.getScript('/includes/javascript/autotrack.js');
-					</script>
-				
+			<script src="/includes/javascript/showoff.global.js"></script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GP2WJ5');</script>
+<!-- End Google Tag Manager -->
 			<script>
-				$script('/includes/javascript/magnificPopup/jquery.magnific-popup.min.js', function(){ $script('/includes/javascript/ASPModal.js'); });
+				$script('/includes/javascript/magnificPopup/jquery.magnific-popup.min.js', function(){ $script('/includes/javascript/ASPModal.old.js'); });
 
 				jQuery(document).ready(function(){
 
@@ -123,8 +123,36 @@
 						//open email share in modal
 						if(data.ShareTo.indexOf('__share/email') == 0)
 							openRemoteModal(data.ShareTo);
-						else
-							window.open(data.ShareTo,'_blank','width=620,height=440');
+						else{
+
+						var popupBlockerChecker = {
+									check: function(popup_window){
+											var _scope = this;
+											if (popup_window) {
+													if(/chrome/.test(navigator.userAgent.toLowerCase())){
+															setTimeout(function () {
+																	_scope._is_popup_blocked(_scope, popup_window);
+															 },200);
+													}else{
+															popup_window.onload = function () {
+																	_scope._is_popup_blocked(_scope, popup_window);
+															};
+													}
+											}else{
+													_scope._displayError();
+											}
+									},
+									_is_popup_blocked: function(scope, popup_window){
+											if ((popup_window.innerHeight > 0)==false){ scope._displayError(); }
+									},
+									_displayError: function(){
+											alert("Popup Blocker is enabled! Please add this site to your exception list.");
+									}
+							};
+
+							var popup = window.open(data.ShareTo,'_blank','width=620,height=440');
+							popupBlockerChecker.check(popup);
+						}
 					}
 
 				});
@@ -146,7 +174,7 @@
 			<div class="header__dates">
 				<div class="panel panel--default panel--id-27"> 
  <div class="panel__body"> 
-  <p>20-23 September 2017 | Olympia London</p> 
+  <p>19-22 September 2018 | Olympia London</p> 
  </div> 
 </div>
 			</div>
@@ -154,7 +182,7 @@
 				<div class="header__actions">
 					<div class="panel panel--default panel--id-28"> 
  <div class="panel__body"> 
-  <p><a class="ck-button-black" href="https://registration.n200.com/survey/02waekz809l07" target="_blank" title="https://registration.n200.com/survey/02waekz809l07">Register Now </a>&nbsp;&nbsp;&nbsp;<a class="ck-button" href="exhibiting/stand-enquiry" target="_self" title="exhibiting/stand-enquiry">Exhibit in 2017</a></p> 
+  <p><a class="ck-button" href="visit/register-your-interest-for-100-design-2018" target="_self" title="visit/register-your-interest-for-100-design-2018">Sign up to our newsletter</a>&nbsp; &nbsp;&nbsp;&nbsp;<a class="ck-button" href="exhibiting/stand-enquiry" target="_self" title="exhibiting/stand-enquiry">Exhibit in 2018</a></p> 
  </div> 
 </div>
 				</div>
@@ -168,9 +196,10 @@
 				<ul class="menu menu--custom js-menu js-menu-custom"><li title="Home" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/welcome" target="_self" class="menu__item__link ">Home</a>
-	</li><li title="Register Now" class="menu__item">
-    <a href="https://registration.n200.com/survey/02waekz809l07" target="_blank" class="menu__item__link">Register Now</a>
-</li><li title="Visit" class="menu__item">
+	</li><li title="Sign up to our newsletters" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/visit/register-your-interest-for-100-design-2018" target="_blank" class="menu__item__link ">Sign up to our newsletters</a>
+	</li><li title="Visit" class="menu__item">
     <a href="http://#" target="_self" class="menu__item__link">Visit</a>
 <ul class="menu--sub-menu menu--sub-menu--level-1"><li title="About" class="menu__item">
 		
@@ -178,21 +207,21 @@
 	</li><li title="Visiting and Tickets" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/visit/visiting" target="_self" class="menu__item__link ">Visiting and Tickets</a>
-	</li><li title="Getting there" class="menu__item">
-		
-	    <a href="http://www.100percentdesign.co.uk/visit/getting-there" target="_self" class="menu__item__link ">Getting there</a>
 	</li><li title="Video" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/video" target="_self" class="menu__item__link ">Video</a>
 	</li><li title="Gallery" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/gallery" target="_self" class="menu__item__link ">Gallery</a>
-	</li><li title="Press" class="menu__item">
+	</li><li title="Press Releases" class="menu__item">
 		
-	    <a href="http://www.100percentdesign.co.uk/contacts/press" target="_self" class="menu__item__link ">Press</a>
+	    <a href="http://www.100percentdesign.co.uk/contacts/press" target="_self" class="menu__item__link ">Press Releases</a>
 	</li><li title="eporta" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/news/trade-visitor-weve-made-it-easier-than-ever-for-you-to-source-at-100-design-heres-how-" target="_self" class="menu__item__link ">eporta</a>
+	</li><li title="Contact Us" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/visit/contact-us" target="_self" class="menu__item__link ">Contact Us</a>
 	</li></ul></li><li title="Exhibit" class="menu__item">
     <a href="http://#" target="_self" class="menu__item__link">Exhibit</a>
 <ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Stand Enquiry" class="menu__item">
@@ -207,6 +236,9 @@
 	</li><li title="Exhibitor FAQs" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/exhibiting/exhibitor-faqs" target="_self" class="menu__item__link ">Exhibitor FAQs</a>
+	</li><li title="Exhibitor Warning " class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/exhibiting/exhibitor-warning" target="_self" class="menu__item__link ">Exhibitor Warning </a>
 	</li></ul></li><li title="Show sections" class="menu__item">
     <a href="http://#" target="_self" class="menu__item__link">Show sections</a>
 <ul class="menu--sub-menu menu--sub-menu--level-1"><li title="100% Interiors" class="menu__item">
@@ -215,64 +247,77 @@
 	</li><li title="100% Workplace" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/show-sectors/workplace" target="_self" class="menu__item__link ">100% Workplace</a>
-	</li><li title="100% Kitchens &amp; Bathrooms" class="menu__item">
+	</li><li title="100% Kitchens, Bathrooms &amp; Bedrooms" class="menu__item">
 		
-	    <a href="http://www.100percentdesign.co.uk/show-sectors/kitchens--bathrooms" target="_self" class="menu__item__link ">100% Kitchens &amp; Bathrooms</a>
+	    <a href="http://www.100percentdesign.co.uk/show-sectors/kitchens--bathrooms" target="_self" class="menu__item__link ">100% Kitchens, Bathrooms &amp; Bedrooms</a>
 	</li><li title="100% Design &amp; Build" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/show-sectors/design--build" target="_self" class="menu__item__link ">100% Design &amp; Build</a>
 	</li><li title="Emerging Brands" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/show-sectors/emerging-brands" target="_self" class="menu__item__link ">Emerging Brands</a>
-	</li><li title="Product Gallery" class="menu__item">
-		
-	    <a href="http://www.100percentdesign.co.uk/products" target="_self" class="menu__item__link ">Product Gallery</a>
-	</li></ul></li><li title="What's On" class="menu__item">
-    <a href="http://#" target="_self" class="menu__item__link">What's On</a>
-<ul class="menu--sub-menu menu--sub-menu--level-1"><li title="News" class="menu__item">
-		
-	    <a href="http://www.100percentdesign.co.uk/news" target="_self" class="menu__item__link ">News</a>
-	</li><li title="Projects &amp; Installations" class="menu__item">
-		
-	    <a href="http://www.100percentdesign.co.uk/whats-on/projects--installations" target="_self" class="menu__item__link ">Projects &amp; Installations</a>
-	</li><li title="New Designers" class="menu__item">
-		
-	    <a href="http://www.100percentdesign.co.uk/whats-on/new-designers" target="_self" class="menu__item__link ">New Designers</a>
-	</li><li title="Talks with 100% Design" class="menu__item">
-		
-	    <a href="http://www.100percentdesign.co.uk/whats-on/talks-with-100-design" target="_self" class="menu__item__link ">Talks with 100% Design</a>
 	</li><li title="Design London" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/whats-on/design-london" target="_self" class="menu__item__link ">Design London</a>
-	</li><li title="Clerkenwell Presents" class="menu__item">
+	</li><li title="Product Gallery" class="menu__item">
 		
-	    <a href="http://www.100percentdesign.co.uk/whats-on/clerkenwell-presents" target="_self" class="menu__item__link ">Clerkenwell Presents</a>
-	</li><li title="LuxuryMade" class="menu__item">
+	    <a href="http://www.100percentdesign.co.uk/products" target="_self" class="menu__item__link ">Product Gallery</a>
+	</li><li title="Full Exhibitor List" class="menu__item">
 		
-	    <a href="http://www.100percentdesign.co.uk/whats-on/luxurymade" target="_self" class="menu__item__link ">LuxuryMade</a>
+	    <a href="http://www.100percentdesign.co.uk/exhibitor-list" target="_self" class="menu__item__link ">Full Exhibitor List</a>
+	</li></ul></li><li title="What's On" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/whats-on/dealer-day" target="_self" class="menu__item__link ">What's On</a>
+	<ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Talks with 100% Design" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/whats-on/talks-with-100-design" target="_self" class="menu__item__link ">Talks with 100% Design</a>
+	</li><li title="Projects &amp; Installations" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/whats-on/projects--installations" target="_self" class="menu__item__link ">Projects &amp; Installations</a>
+	</li><li title="Design London" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/whats-on/design-london" target="_self" class="menu__item__link ">Design London</a>
 	</li><li title="Late Night" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/whats-on/Late-night" target="_self" class="menu__item__link ">Late Night</a>
+	</li><li title="Clerkenwell Presents" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/whats-on/clerkenwell-presents" target="_self" class="menu__item__link ">Clerkenwell Presents</a>
 	</li><li title="Food &amp; Drink" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/whats-on/restaurant" target="_self" class="menu__item__link ">Food &amp; Drink</a>
+	</li><li title="Picfair competition" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/news/100-design-and-picfair-launch-design-photography-competition-for-london-design-festival" target="_self" class="menu__item__link ">Picfair competition</a>
+	</li><li title="Dealer Day" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/whats-on/dealer-day" target="_self" class="menu__item__link ">Dealer Day</a>
+	</li></ul></li><li title="News" class="menu__item">
+    <a href="http://#" target="_self" class="menu__item__link">News</a>
+<ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Show News" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/news" target="_self" class="menu__item__link ">Show News</a>
+	</li><li title="Emerging Brands Spotlight" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/whats-on/emerging-brands-spotlight" target="_self" class="menu__item__link ">Emerging Brands Spotlight</a>
+	</li><li title="New Designers" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/whats-on/new-designers" target="_self" class="menu__item__link ">New Designers</a>
 	</li></ul></li><li title="Sponsors &amp; supporters" class="menu__item">
     <a href="http://" target="_blank" class="menu__item__link">Sponsors &amp; supporters</a>
 <ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Sponsors" class="menu__item">
 		
 	    <a href="http://www.100percentdesign.co.uk/sponsors-1s2l" target="_self" class="menu__item__link ">Sponsors</a>
-	</li></ul></li><li title="Contacts" class="menu__item">
-    <a href="http://#" target="_self" class="menu__item__link">Contacts</a>
-<ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Sales" class="menu__item">
+	</li><li title="Media Partners" class="menu__item">
 		
-	    <a href="http://www.100percentdesign.co.uk/contacts/sales" target="_self" class="menu__item__link ">Sales</a>
-	</li><li title="Marketing and Operations" class="menu__item">
+	    <a href="http://www.100percentdesign.co.uk/partners/media-partners" target="_self" class="menu__item__link ">Media Partners</a>
+	</li><li title="Event Partners" class="menu__item">
 		
-	    <a href="http://www.100percentdesign.co.uk/contacts/marketing-and-operations" target="_self" class="menu__item__link ">Marketing and Operations</a>
-	</li><li title="Press" class="menu__item">
+	    <a href="http://www.100percentdesign.co.uk/partners/event-partners" target="_self" class="menu__item__link ">Event Partners</a>
+	</li></ul></li><li title="Jobs" class="menu__item">
 		
-	    <a href="http://www.100percentdesign.co.uk/contacts/press" target="_self" class="menu__item__link ">Press</a>
-	</li></ul></li></ul>
+	    <a href="http://www.100percentdesign.co.uk/jobs" target="_self" class="menu__item__link ">Jobs</a>
+	</li></ul>
 			</div>
 		</nav>
 		<div class="page-title">
@@ -338,6 +383,8 @@
      <p>Media 10 creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we do not track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.</p> 
      <p><strong>SHARING OF THE INFORMATION</strong></p> 
      <p>Media 10 Ltd uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.</p> 
+     <p><strong>PHOTOGRAPHY AND FILMING</strong></p> 
+     <p>As a&nbsp;visitor&nbsp;I agree to my image or likeness of, being used in the photographing, recording and filming of on-site activities. This may come in the form of organiser promotional material, sponsor, exhibitor and media partner coverage. I understand that this media may be shared post-show in print, online and on broadcast television.</p> 
      <p><strong>SECURITY</strong></p> 
      <p>Media 10 Ltd operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.</p> 
      <p><strong>OPT-IN / OUT POLICY</strong></p> 
@@ -370,13 +417,13 @@
 		<div class="advert">
 			<div class="panel panel--default panel--id-3107"> 
  <div class="panel__body">  
-  <div class="w-icatcher-image w-icatcher-image--id-uid_E6667"> 
+  <div class="w-icatcher-image w-icatcher-image--id-uid_182E2"> 
    <script type="text/javascript" src="/__widgets/slider/jquery.bxslider.min.js"></script> 
    <script type="text/javascript">
 								$(document).ready(function(){
-									$(".w-icatcher-image--id-uid_E6667 .w-icatcher-image__list").bxSlider({
-										pause:999999
-										, mode:"horizontal"
+									$(".w-icatcher-image--id-uid_182E2 .w-icatcher-image__list").bxSlider({
+										pause:5000
+										, mode:"fade"
 										, randomStart:true
 										, auto: true
 										, controls: false
@@ -390,7 +437,23 @@
    <ul class="w-icatcher-image__list"> 
     <li class="w-icatcher-image__list__item"> 
      <div class="w-icatcher-image__list__item__image">
-      <a href="http://www.newdesigners.com/" target="_blank"><img src="__media/static_728x90_v1-2.jpg" alt=""></a>
+      <a href="https://registration.n200.com/survey/02waekz809l07?actioncode=AD200" target="_self"><img src="__media/Banners-2017/100bannerad.gif" alt=""></a>
+     </div> </li> 
+    <li class="w-icatcher-image__list__item"> 
+     <div class="w-icatcher-image__list__item__image">
+      <a href="http://iconsubscriptions.com/" target="_self"><img src="__media/ICON3.png" alt=""></a>
+     </div> </li> 
+    <li class="w-icatcher-image__list__item"> 
+     <div class="w-icatcher-image__list__item__image">
+      <a href="http://onofficesubscriptions.com/" target="_self"><img src="__media/OO_Banner3.png" alt=""></a>
+     </div> </li> 
+    <li class="w-icatcher-image__list__item"> 
+     <div class="w-icatcher-image__list__item__image">
+      <a href="https://www.eporta.com/" target="_self"><img src="__media/100_web_banner.gif" alt=""></a>
+     </div> </li> 
+    <li class="w-icatcher-image__list__item"> 
+     <div class="w-icatcher-image__list__item__image">
+      <a href="http://12thliving.it/" target="_self"><img src="__media/Ramfil-Leaderboard-2.png" alt=""></a>
      </div> </li> 
    </ul> 
   </div>  
@@ -440,7 +503,7 @@
       <div class="js-library-summary" searchgroup="95465A93-sponsors" data-cachestatic="0"></div> 
      </div> 
      <ul class="l-sponsors-list__items js-library-list" searchgroup="95465A93-sponsors" searchrefresh=".js-l-sponsors-list-count"> 
-      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="5151" data-title="Eporta" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/eporta"> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="5151" data-title="Eporta" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/eporta"> 
        <div class="l-sponsors-list__items__item__display-title"> 
        </div> 
        <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/eporta.png');"> 
@@ -449,25 +512,131 @@
        <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/eporta.png');"> 
         <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/eporta"><img src="__media/libraries/sponsors/Inverted/eporta.png" alt=""></a> 
        </div> </li> 
-      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="6518" data-title="Framery" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/office-blueprint"> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="6518" data-title="Framery" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/framery"> 
        <div class="l-sponsors-list__items__item__display-title"> 
        </div> 
-       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Framery_Logo.png');"> 
-        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/office-blueprint"><img src="__media/libraries/sponsors/Framery_Logo.png" alt=""></a> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/framery-logo-black.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/framery"><img src="__media/libraries/sponsors/framery-logo-black.png" alt=""></a> 
        </div> 
-       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Framery_Logo.png');"> 
-        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/office-blueprint"><img src="__media/libraries/sponsors/Framery_Logo.png" alt=""></a> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Framery-new2.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/framery"><img src="__media/libraries/sponsors/Framery-new2.png" alt=""></a> 
        </div> </li> 
-      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="5226" data-title="MDD" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/mdd"> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="5226" data-title="MDD" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/mdd"> 
        <div class="l-sponsors-list__items__item__display-title"> 
        </div> 
-       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/MDD_web-logo.png');"> 
-        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/mdd"><img src="__media/libraries/sponsors/MDD_web-logo.png" alt=""></a> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/mdd_logo_WEB.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/mdd"><img src="__media/libraries/sponsors/mdd_logo_WEB.png" alt=""></a> 
        </div> 
-       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/mdd_footer.png');"> 
-        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/mdd"><img src="__media/libraries/sponsors/mdd_footer.png" alt=""></a> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/mdd_logo_WEB-INVERTED.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/mdd"><img src="__media/libraries/sponsors/mdd_logo_WEB-INVERTED.png" alt=""></a> 
        </div> </li> 
-      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3347" data-title="New Designers" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/new-designers"> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7908" data-title="RAMFIL" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/ramfil"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/logoRAMFIL.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/ramfil"><img src="__media/libraries/sponsors/logoRAMFIL.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/logoRAMFIL-inverted3.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/ramfil"><img src="__media/libraries/sponsors/logoRAMFIL-inverted3.png" alt=""></a> 
+       </div> </li> 
+     </ul> 
+     <div class="l-sponsors-list__pagination l-sponsors-list__pagination--bottom"> 
+      <input type="hidden" class="js-library-pagination" searchgroup="95465A93-sponsors" data-searchcriteria="categories=A674522A-5056-B731-4C325E6665E119EE"> 
+     </div> 
+    </div> 
+   </div><br> &nbsp;<p></p> 
+ </div> 
+</div> <div class="panel panel--default panel--id-3518"> 
+ <div class="panel__header"> 
+  <h4 class="panel__header__title"> Event Partners </h4> 
+ </div> 
+ <div class="panel__body"> 
+  <p><script type="text/javascript">$script('/__includes/js/librarysearch.js');</script>
+   </p><div class="js-librarylistwrapper" data-totalcount="10" data-librarytitle="Sponsors"> 
+    <div class="l-sponsors-list l-sponsors-list--grid"> 
+     <div class="l-sponsors-list__loading"> 
+      <div class="loader loader--overlay js-w-library-loading" searchgroup="95315252-sponsors"> 
+       <span class="loader__icon"></span> 
+       <span class="loader__text">Loading</span> 
+      </div> 
+     </div> 
+     <div class="l-sponsors-list__summary"> 
+      <div class="js-library-summary" searchgroup="95315252-sponsors" data-cachestatic="0"></div> 
+     </div> 
+     <ul class="l-sponsors-list__items js-library-list" searchgroup="95315252-sponsors" searchrefresh=".js-l-sponsors-list-count"> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7771" data-title="ACID" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/acid"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/ACIDLOGO-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/acid"><img src="__media/libraries/sponsors/ACIDLOGO-web.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/ACIDLOGO-web-inverted3.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/acid"><img src="__media/libraries/sponsors/ACIDLOGO-web-inverted3.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4689" data-title="BIID" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/biid"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/BIID-Logo-forweb.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/biid"><img src="__media/libraries/sponsors/BIID-Logo-forweb.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/BIID-Logo-forweb.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/biid"><img src="__media/libraries/sponsors/Inverted/BIID-Logo-forweb.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4825" data-title="Clerkenwell Design Week" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/clerkenwell-design-week"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/CDW-LOGO-WEB2.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/clerkenwell-design-week"><img src="__media/libraries/sponsors/CDW-LOGO-WEB2.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/CDW-LOGO-WEB2.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/clerkenwell-design-week"><img src="__media/libraries/sponsors/Inverted/CDW-LOGO-WEB2.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7205" data-title="Design Joburg" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/design-joburg"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Design_Joburg-logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design-joburg"><img src="__media/libraries/sponsors/Design_Joburg-logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Design_Joburg-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design-joburg"><img src="__media/libraries/sponsors/Design_Joburg-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3522" data-title="Design London" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/design-london"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Designlondon.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design-london"><img src="__media/libraries/sponsors/Designlondon.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/Designlondon.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design-london"><img src="__media/libraries/sponsors/Inverted/Designlondon.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7204" data-title="Design Shanghai" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/design-shanghai"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Design_Shanghai-logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design-shanghai"><img src="__media/libraries/sponsors/Design_Shanghai-logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Design_Shanghai-logo-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design-shanghai"><img src="__media/libraries/sponsors/Design_Shanghai-logo-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="5151" data-title="Eporta" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/eporta"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/eporta.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/eporta"><img src="__media/libraries/sponsors/eporta.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/eporta.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/eporta"><img src="__media/libraries/sponsors/Inverted/eporta.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3520" data-title="London Design Festival" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/london-design-festival"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/LDF_Logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/london-design-festival"><img src="__media/libraries/sponsors/LDF_Logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/LDF_Logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/london-design-festival"><img src="__media/libraries/sponsors/Inverted/LDF_Logo.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3347" data-title="New Designers" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/new-designers"> 
        <div class="l-sponsors-list__items__item__display-title"> 
        </div> 
        <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/New_Designers_logo.png');"> 
@@ -476,9 +645,484 @@
        <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/New_Designers_logo.png');"> 
         <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/new-designers"><img src="__media/libraries/sponsors/Inverted/New_Designers_logo.png" alt=""></a> 
        </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="5153" data-title="The Society of British and International Design (SBID)" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/the-society-of-british-and-international-design-sbid"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/LOGO1.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/the-society-of-british-and-international-design-sbid"><img src="__media/libraries/sponsors/LOGO1.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/LOGO1.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/the-society-of-british-and-international-design-sbid"><img src="__media/libraries/sponsors/Inverted/LOGO1.png" alt=""></a> 
+       </div> </li> 
      </ul> 
      <div class="l-sponsors-list__pagination l-sponsors-list__pagination--bottom"> 
-      <input type="hidden" class="js-library-pagination" searchgroup="95465A93-sponsors" data-searchcriteria="categories=A674522A-5056-B731-4C325E6665E119EE"> 
+      <input type="hidden" class="js-library-pagination" searchgroup="95315252-sponsors" data-searchcriteria="categories=A6793C93-5056-B731-4C6A3B40F42D4B21"> 
+     </div> 
+    </div> 
+   </div><br> &nbsp;<p></p> 
+ </div> 
+</div> <div class="panel panel--default panel--id-5162"> 
+ <div class="panel__header"> 
+  <h4 class="panel__header__title"> Media Partners </h4> 
+ </div> 
+ <div class="panel__body"> 
+  <p><script type="text/javascript">$script('/__includes/js/librarysearch.js');</script>
+   </p><div class="js-librarylistwrapper" data-totalcount="49" data-librarytitle="Sponsors"> 
+    <div class="l-sponsors-list l-sponsors-list--grid"> 
+     <div class="l-sponsors-list__loading"> 
+      <div class="loader loader--overlay js-w-library-loading" searchgroup="9533C97D-sponsors"> 
+       <span class="loader__icon"></span> 
+       <span class="loader__text">Loading</span> 
+      </div> 
+     </div> 
+     <div class="l-sponsors-list__summary"> 
+      <div class="js-library-summary" searchgroup="9533C97D-sponsors" data-cachestatic="0"></div> 
+     </div> 
+     <ul class="l-sponsors-list__items js-library-list" searchgroup="9533C97D-sponsors" searchrefresh=".js-l-sponsors-list-count"> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3509" data-title="A1 Lighting Magazine" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/a1-lighting-magazine"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/A1-LIGHTING-LOGO.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/a1-lighting-magazine"><img src="__media/libraries/sponsors/A1-LIGHTING-LOGO.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/A1-LIGHTING-LOGO.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/a1-lighting-magazine"><img src="__media/libraries/sponsors/Inverted/A1-LIGHTING-LOGO.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3508" data-title="A1 Retail Magazine" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/a1-retail-magazine"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/A1_RETAIL.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/a1-retail-magazine"><img src="__media/libraries/sponsors/A1_RETAIL.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/A1_RETAIL_Invert.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/a1-retail-magazine"><img src="__media/libraries/sponsors/Inverted/A1_RETAIL_Invert.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3449" data-title="Abitare" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/abitare"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Abitare_logo_black.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/abitare"><img src="__media/libraries/sponsors/Abitare_logo_black.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/Abitare_logo_black.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/abitare"><img src="__media/libraries/sponsors/Inverted/Abitare_logo_black.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="6935" data-title="Absolutely Home" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/absolutely-home"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Absolutely-Home-logo.eps');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/absolutely-home"><img src="__media/libraries/sponsors/Absolutely-Home-logo.eps" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Absolutely-Home-inverted-logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/absolutely-home"><img src="__media/libraries/sponsors/Absolutely-Home-inverted-logo.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7089" data-title="Archello" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/archello"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Archello-logo2.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/archello"><img src="__media/libraries/sponsors/Archello-logo2.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Archello-logo-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/archello"><img src="__media/libraries/sponsors/Archello-logo-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4716" data-title="Archetech" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/archetech"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/arch-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/archetech"><img src="__media/libraries/sponsors/arch-web.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/arch-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/archetech"><img src="__media/libraries/sponsors/Inverted/arch-web.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3511" data-title="Archinect" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/archinect"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Archinect-UK-Logo-2.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/archinect"><img src="__media/libraries/sponsors/Archinect-UK-Logo-2.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/Archinect-UK-Logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/archinect"><img src="__media/libraries/sponsors/Inverted/Archinect-UK-Logo.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4713" data-title="Architect's Choice" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/architect-choice"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Architects-Choice-Masthead.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/architect-choice"><img src="__media/libraries/sponsors/Architects-Choice-Masthead.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/Architects-Choice-Masthead.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/architect-choice"><img src="__media/libraries/sponsors/Inverted/Architects-Choice-Masthead.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3510" data-title="Architects' Datafile" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/architects-datafile"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/ADF-logo-vector.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/architects-datafile"><img src="__media/libraries/sponsors/ADF-logo-vector.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/ADF-logo-vector.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/architects-datafile"><img src="__media/libraries/sponsors/Inverted/ADF-logo-vector.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3503" data-title="Architonic" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/architonic"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Architonic-new.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/architonic"><img src="__media/libraries/sponsors/Architonic-new.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/Architonic-new.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/architonic"><img src="__media/libraries/sponsors/Inverted/Architonic-new.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4715" data-title="Art Of Design" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/art-of-design"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/aod-web2.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/art-of-design"><img src="__media/libraries/sponsors/aod-web2.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/aod-web2.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/art-of-design"><img src="__media/libraries/sponsors/Inverted/aod-web2.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3512" data-title="Bar Magazine" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/bar-magazine"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/bar_logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/bar-magazine"><img src="__media/libraries/sponsors/bar_logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/bar_logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/bar-magazine"><img src="__media/libraries/sponsors/Inverted/bar_logo.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7088" data-title="Bustler" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/bustler"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/bustler_logo.jpg.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/bustler"><img src="__media/libraries/sponsors/bustler_logo.jpg.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/bustler_logo-inverted2.jpg.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/bustler"><img src="__media/libraries/sponsors/bustler_logo-inverted2.jpg.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7091" data-title="CovetED" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/coveted"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/CovetED-logo1.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/coveted"><img src="__media/libraries/sponsors/CovetED-logo1.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/CovetED-logo-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/coveted"><img src="__media/libraries/sponsors/CovetED-logo-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7096" data-title="Creative Barcode" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/creative-barcode"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/CB_logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/creative-barcode"><img src="__media/libraries/sponsors/CB_logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/CB_logo-inverted-NEW.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/creative-barcode"><img src="__media/libraries/sponsors/CB_logo-inverted-NEW.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3513" data-title="Darc" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/darc"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/DARC_LOGO.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/darc"><img src="__media/libraries/sponsors/DARC_LOGO.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/DARC_LOGO.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/darc"><img src="__media/libraries/sponsors/Inverted/DARC_LOGO.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4717" data-title="Design Buy Build" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/design-buy-build"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/dbblogonew-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design-buy-build"><img src="__media/libraries/sponsors/dbblogonew-web.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/dbblogonew-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design-buy-build"><img src="__media/libraries/sponsors/Inverted/dbblogonew-web.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3666" data-title="Design Diffusion" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/Media%20Partner"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/DDN_LOGO-edit.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/Media%20Partner"><img src="__media/libraries/sponsors/DDN_LOGO-edit.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/DDN_LOGO-edit.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/Media%20Partner"><img src="__media/libraries/sponsors/Inverted/DDN_LOGO-edit.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4851" data-title="Design Milk" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/design-milk"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/DMLogoTM-outlines.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design-milk"><img src="__media/libraries/sponsors/DMLogoTM-outlines.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/DMLogoTM-outlines.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design-milk"><img src="__media/libraries/sponsors/Inverted/DMLogoTM-outlines.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3670" data-title="Design42day" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/design42day"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/dd42day.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design42day"><img src="__media/libraries/sponsors/dd42day.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/dd42day.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/design42day"><img src="__media/libraries/sponsors/Inverted/dd42day.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="6814" data-title="Despoke" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/despoke"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/despoke-logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/despoke"><img src="__media/libraries/sponsors/despoke-logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/despoke-logo-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/despoke"><img src="__media/libraries/sponsors/despoke-logo-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7524" data-title="DETAIL" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/detail"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/DETAIL-web-300.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/detail"><img src="__media/libraries/sponsors/DETAIL-web-300.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/DETAIL-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/detail"><img src="__media/libraries/sponsors/DETAIL-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7119" data-title="Dezeen" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/dezeen"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Dezeen-Logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/dezeen"><img src="__media/libraries/sponsors/Dezeen-Logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Dezeen-Logo-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/dezeen"><img src="__media/libraries/sponsors/Dezeen-Logo-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4856" data-title="EK&amp;amp;B" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/ekb"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/EKBBUSINESS-logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/ekb"><img src="__media/libraries/sponsors/EKBBUSINESS-logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/EKBBUSINESS-logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/ekb"><img src="__media/libraries/sponsors/Inverted/EKBBUSINESS-logo.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4855" data-title="EKBB" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/ekbb"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/EKBB-logo300.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/ekbb"><img src="__media/libraries/sponsors/EKBB-logo300.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/EKBB-logo300.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/ekbb"><img src="__media/libraries/sponsors/Inverted/EKBB-logo300.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4688" data-title="Elle Decor Italia" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/elle-decor-italia"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/logo-ELLE-DECOR-for-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/elle-decor-italia"><img src="__media/libraries/sponsors/logo-ELLE-DECOR-for-web.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/logo-ELLE-DECOR-for-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/elle-decor-italia"><img src="__media/libraries/sponsors/Inverted/logo-ELLE-DECOR-for-web.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7208" data-title="eSociety" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/esociety"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/eSociety-logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/esociety"><img src="__media/libraries/sponsors/eSociety-logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/eSociety-logo-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/esociety"><img src="__media/libraries/sponsors/eSociety-logo-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="6816" data-title="Grand Designs Magazine" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/grand-designs-magazine"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/GD-logo1.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/grand-designs-magazine"><img src="__media/libraries/sponsors/GD-logo1.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/GD-logo-inverted2.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/grand-designs-magazine"><img src="__media/libraries/sponsors/GD-logo-inverted2.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7095" data-title="Home Designer and Architect" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/home-designer-and-architect"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Home-Designer-and-Architect-logo-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/home-designer-and-architect"><img src="__media/libraries/sponsors/Home-Designer-and-Architect-logo-web.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Home-Designer-and-Architect-logo-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/home-designer-and-architect"><img src="__media/libraries/sponsors/Home-Designer-and-Architect-logo-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="5140" data-title="Hospitality Interiors" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/hospitality-interiors"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/logo-HI.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/hospitality-interiors"><img src="__media/libraries/sponsors/logo-HI.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/logo-HI.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/hospitality-interiors"><img src="__media/libraries/sponsors/Inverted/logo-HI.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7207" data-title="Hospitality Magazine" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/hospitality-magazine"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Hospitality-magazine-logo-b&amp;w.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/hospitality-magazine"><img src="__media/libraries/sponsors/Hospitality-magazine-logo-b&amp;w.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Hospitality-magazine-logo-inverted-NEW.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/hospitality-magazine"><img src="__media/libraries/sponsors/Hospitality-magazine-logo-inverted-NEW.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3673" data-title="Icon" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/icon"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/icon_logo_black2015.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/icon"><img src="__media/libraries/sponsors/icon_logo_black2015.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/icon_logo_black2015.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/icon"><img src="__media/libraries/sponsors/Inverted/icon_logo_black2015.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3667" data-title="IFDM" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/ifdm"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/IFDM_vector.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/ifdm"><img src="__media/libraries/sponsors/IFDM_vector.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/IFDM_vector.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/ifdm"><img src="__media/libraries/sponsors/Inverted/IFDM_vector.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4714" data-title="Interior Design Today" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/interior-design-today"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Interior-Design-Today-Masthead.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/interior-design-today"><img src="__media/libraries/sponsors/Interior-Design-Today-Masthead.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/Interior-Design-Today-Masthead.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/interior-design-today"><img src="__media/libraries/sponsors/Inverted/Interior-Design-Today-Masthead.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3450" data-title="Living" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/living"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Living_logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/living"><img src="__media/libraries/sponsors/Living_logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/Living_logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/living"><img src="__media/libraries/sponsors/Inverted/Living_logo.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3515" data-title="OFAS" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/ofas"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/OFAS-logo-black.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/ofas"><img src="__media/libraries/sponsors/OFAS-logo-black.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/OFAS-logo-black.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/ofas"><img src="__media/libraries/sponsors/Inverted/OFAS-logo-black.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3672" data-title="OnOffice" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/onoffice"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Onoffice_Logo_Black.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/onoffice"><img src="__media/libraries/sponsors/Onoffice_Logo_Black.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/Onoffice_Logo_Black.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/onoffice"><img src="__media/libraries/sponsors/Inverted/Onoffice_Logo_Black.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="6934" data-title="On-Trade Progress" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/on-trade-progress"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/ONTRADEPROGRESSLOGO-300x300.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/on-trade-progress"><img src="__media/libraries/sponsors/ONTRADEPROGRESSLOGO-300x300.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/ONTRADEPROGRESSLOGO-inverted-3.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/on-trade-progress"><img src="__media/libraries/sponsors/ONTRADEPROGRESSLOGO-inverted-3.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7093" data-title="Open City" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/open-city"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/Open-City-logo--1-1.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/open-city"><img src="__media/libraries/sponsors/Open-City-logo--1-1.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Open-City-logo-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/open-city"><img src="__media/libraries/sponsors/Open-City-logo-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7097" data-title="RIBA J" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/riba-j"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/RIBA-J-logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/riba-j"><img src="__media/libraries/sponsors/RIBA-J-logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/RIBA-J-logo-inverted-NEW.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/riba-j"><img src="__media/libraries/sponsors/RIBA-J-logo-inverted-NEW.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="3517" data-title="SalaBa&amp;ntilde;o" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/salaba%C3%B1o"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/sala-bano-magazine-1.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/salaba%C3%B1o"><img src="__media/libraries/sponsors/sala-bano-magazine-1.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/sala-bano-magazine-1.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/salaba%C3%B1o"><img src="__media/libraries/sponsors/Inverted/sala-bano-magazine-1.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4672" data-title="Sleeper" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/sleeper"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/sleeper_logo_2014-BLACK.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/sleeper"><img src="__media/libraries/sponsors/sleeper_logo_2014-BLACK.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/Sleeper.jpg');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/sleeper"><img src="__media/libraries/sponsors/Inverted/Sleeper.jpg" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7628" data-title="SPACE" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/space"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/SPACE-LOGO-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/space"><img src="__media/libraries/sponsors/SPACE-LOGO-web.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/SPACE-LOGO-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/space"><img src="__media/libraries/sponsors/SPACE-LOGO-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4863" data-title="Studio" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/studio"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/studio-logo-300.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/studio"><img src="__media/libraries/sponsors/studio-logo-300.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/studio-logo-300.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/studio"><img src="__media/libraries/sponsors/Inverted/studio-logo-300.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="6815" data-title="The Clerkenwell Post" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/the-clerkenwell-post"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/The-Clerkenwell-Post-Logo.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/the-clerkenwell-post"><img src="__media/libraries/sponsors/The-Clerkenwell-Post-Logo.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/The-Clerkenwell-Post-Logo-inverted.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/the-clerkenwell-post"><img src="__media/libraries/sponsors/The-Clerkenwell-Post-Logo-inverted.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4718" data-title="The World Of Hospitality" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/the-world-of-hospitality"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/woh-hr-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/the-world-of-hospitality"><img src="__media/libraries/sponsors/woh-hr-web.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/woh-hr-web.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/the-world-of-hospitality"><img src="__media/libraries/sponsors/Inverted/woh-hr-web.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="5122" data-title="The World Of Interiors" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/the-world-of-interiors"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/WOI.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/the-world-of-interiors"><img src="__media/libraries/sponsors/WOI.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/WOI.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/the-world-of-interiors"><img src="__media/libraries/sponsors/Inverted/WOI.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="7092" data-title="v2com" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/v2com-41it"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/v2com-logo1.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/v2com-41it"><img src="__media/libraries/sponsors/v2com-logo1.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/v2com-logo-inverted1.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/v2com-41it"><img src="__media/libraries/sponsors/v2com-logo-inverted1.png" alt=""></a> 
+       </div> </li> 
+      <li class="l-sponsors-list__items__item js-library-item" data-content-i-d="4819" data-title="Warehouse Home" data-content-type="Entry" data-image="" data-library-type="template-library-sponsor" data-library-name="Sponsors" data-library-i-d="1092" data-slug="sponsors/warehouse-home"> 
+       <div class="l-sponsors-list__items__item__display-title"> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo" style="background-image: url('__media/libraries/sponsors/LOGO-HI-RES.png');"> 
+        <a class="l-sponsors-list__items__item__logo__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/warehouse-home"><img src="__media/libraries/sponsors/LOGO-HI-RES.png" alt=""></a> 
+       </div> 
+       <div class="l-sponsors-list__items__item__logo--inverted" style="background-image: url('__media/libraries/sponsors/Inverted/LOGO-HI-RES.png');"> 
+        <a class="l-sponsors-list__items__item__logo--inverted__link js-librarylink-entry" href="http://www.100percentdesign.co.uk/sponsors/warehouse-home"><img src="__media/libraries/sponsors/Inverted/LOGO-HI-RES.png" alt=""></a> 
+       </div> </li> 
+     </ul> 
+     <div class="l-sponsors-list__pagination l-sponsors-list__pagination--bottom"> 
+      <input type="hidden" class="js-library-pagination" searchgroup="9533C97D-sponsors" data-searchcriteria="categories=A67B922D-5056-B733-49C662C67B89ED02"> 
      </div> 
     </div> 
    </div><br> &nbsp;<p></p> 
@@ -502,7 +1146,10 @@
 	    <a href="http://www.100percentdesign.co.uk/privacy-policy" target="_self" class="menu__item__link is-active">Privacy Policy</a>
 	</li><li title="Media 10" class="menu__item">
     <a href="http://www.media-ten.com/" target="_blank" class="menu__item__link">Media 10</a>
-</li></ul>
+</li><li title="Jobs" class="menu__item">
+		
+	    <a href="http://www.100percentdesign.co.uk/jobs" target="_self" class="menu__item__link ">Jobs</a>
+	</li></ul>
 			</div>
 		</footer>
 		<div class="w-modal-search">
@@ -513,8 +1160,8 @@
 						<div class="w-search__form__title">
 								Search
 							</div>
-							<div class="form__group"><div class="form__group__controls"><input class="w-search__form__input" id="q" type="text" name="q" placeholder="Search"></div></div>
-							<div class="form__group"><div class="form__group__controls"><button class="w-search__form__submit" name="searchSubmitButton" id="searchSubmitButton" type="submit">Search</button></div></div>
+							<div class="p-form__group form__group"><div class="p-form__group__controls form__group__controls"><input class="w-search__form__input" id="q" type="text" name="q" placeholder="Search"></div></div>
+							<div class="p-form__group form__group"><div class="p-form__group__controls form__group__controls"><button class="w-search__form__submit" name="searchSubmitButton" id="searchSubmitButton" type="submit">Search</button></div></div>
 				</form>
 			</div>
 			
@@ -531,7 +1178,7 @@
 		 <div class="w-zone-login__form-wrapper">
 			
 			<form action="__zone/dologin" class="w-zone-login__form zoneloginform" method="post">
-				<input value="LOGIN" id="formID" type="hidden" name="formID"> <div class="form__group"><div class="form__group__title"><label required="required" for="username" class="form__group__title__label">Username *</label></div><div class="form__group__controls"><input autocomplete="off" class="w-zone-login__form__input" id="username" type="text" required="required" name="username" placeholder="Username"></div></div> <div class="form__group"><div class="form__group__title"><label required="required" for="password" class="form__group__title__label">Password *</label></div><div class="form__group__controls"><input autocomplete="off" class="w-zone-login__form__input" id="password" type="password" required="required" name="password" placeholder="Password"></div></div> <div class="form__group"><div class="form__group__controls"><button class="button w-zone-login__form__submit" name="loginSubmitButton" id="loginSubmitButton" type="submit">Login</button></div></div> 
+				<input value="LOGIN" id="formID" type="hidden" name="formID"> <div class="p-form__group form__group"><div class="p-form__group__title form__group__title"><label required="required" for="username" class="p-form__group__title__label form__group__title__label">Username *</label></div><div class="p-form__group__controls form__group__controls"><input autocomplete="off" class="w-zone-login__form__input" id="username" type="text" required="required" name="username" placeholder="Username"></div></div> <div class="p-form__group form__group"><div class="p-form__group__title form__group__title"><label required="required" for="password" class="p-form__group__title__label form__group__title__label">Password *</label></div><div class="p-form__group__controls form__group__controls"><input autocomplete="off" class="w-zone-login__form__input" id="password" type="password" required="required" name="password" placeholder="Password"></div></div> <div class="p-form__group form__group"><div class="p-form__group__controls form__group__controls"><button class="button w-zone-login__form__submit" name="loginSubmitButton" id="loginSubmitButton" type="submit">Login</button></div></div> 
 		    </form>
 			<a href="javascript:js_zone.lostpassword();" class="w-zone-login__lostpassword">Forgotten your password?</a>
 			
@@ -539,7 +1186,7 @@
     </div>
 </div></div><script type="text/javascript">
 				$script('/includes/javascript/magnificPopup/jquery.magnific-popup.min.js', function(){
-					$script('/includes/javascript/ASPModal.js', function(){
+					$script('/includes/javascript/ASPModal.old.js', function(){
 						$script('/includes/javascript/modules/zone/zone.js', function(){
 		        			js_zone.init();
 		        		});
@@ -551,38 +1198,68 @@
 		
 		<div class="communities"></div>
 		<script>
-			var product = 1;
+			var product     = 1;
 			var productUUID = '1FB89F06-5056-B76E-FE418E6C8273C9EB';
-			var siteUUID = '1FCA7923-5056-B733-4952CD9FD93042DE';
-		</script>
-		
-		
-			<script>
-				$script('/__includes/communities/javascripts/site.js', function () {
-					$script('/__includes/communities/javascripts/communities.js');
+			var siteUUID    = '1FCA7923-5056-B733-4952CD9FD93042DE';
+			var baseURL     = 'https://engage.showoff.asp.com/' + siteUUID;
+
+			$.ajax(
+				{ url       : baseURL+'/setEngageCookies'
+				, headers   : { "engage_productuuid":productUUID , "engage_siteuuid":siteUUID }
+				, xhrFields : { withCredentials: true }
+				, success   : function()
+					{
+						$script
+							( '/__includes/communities/javascripts/site.js'
+							, function(){ $script('/__includes/communities/javascripts/engage.js'); }
+							);
+					}
+				// TODO: remove/change this once switched over to new version...
+				, error : function()
+					{
+						var product     = 1;
+						var productUUID = '1FB89F06-5056-B76E-FE418E6C8273C9EB';
+						var siteUUID    = '1FCA7923-5056-B733-4952CD9FD93042DE';
+						var baseURL     = 'https://engage.showoff.asp.com/';
+
+						$script
+							( '/__includes/communities/javascripts/site.js'
+							, function(){ $script('/__includes/communities/javascripts/communities.js'); }
+							);
+					}
 				});
 			</script>
-		
+	
 						<!-- Piwik -->
 						<script type="text/javascript">
 							var _paq = _paq || [];
 							var piwikPageTracked = piwikPageTracked || false;
 							// tracker methods like 'setCustomDimension' should be called before 'trackPageView'
 							if (!piwikPageTracked) {
-
+								var libType = '';
 								//loop through page tags and set custom dimensions for contentID and Tags
 								var tagArray = [];
 								for(i=0; i < tagArray.length ; i++){
-									_paq.push(['trackEvent','General','Tags','View',null,{dimension7:'51',dimension9:tagArray[i]}]);
+									if(libType != '')
+										_paq.push(['trackEvent','General','Tags','View',null,{dimension7:'51',dimension9:tagArray[i],dimension13:'Page',dimension14:''}]);
+									else
+										_paq.push(['trackEvent','General','Tags','View',null,{dimension7:'51',dimension9:tagArray[i],dimension13:'Page'}]);
 								}
 
 								//loop through page tags and set custom dimensions for contentID and prod cats
 								var catArray = [];
 								for(i=0; i < catArray.length ; i++){
-									_paq.push(['trackEvent','General','Product Categories','View',null,{dimension7:'51',dimension10:catArray[i]}]);
+									if(libType != '')
+										_paq.push(['trackEvent','General','Product Categories','View',null,{dimension7:'51',dimension10:catArray[i],dimension13:'Page',dimension14:''}]);
+									else
+										_paq.push(['trackEvent','General','Product Categories','View',null,{dimension7:'51',dimension10:catArray[i],dimension13:'Page'}]);
 								}
 								//track page as well as contentId
-								_paq.push(['trackPageView',null,{dimension7:'51'}]);
+								if(libType != '')
+									_paq.push(['trackPageView',null,{dimension7:'51',dimension13:'Page',dimension14:''}]);
+								else
+									_paq.push(['trackPageView',null,{dimension7:'51',dimension13:'Page'}]);
+
 							}
 
 							_paq.push(['enableLinkTracking']);
@@ -600,7 +1277,7 @@
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=137068721';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
