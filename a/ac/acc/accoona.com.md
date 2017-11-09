@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accoona.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011122059id_/http%3A//www.accoona.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accoona.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109202504id_/http%3A//www.accoona.com/privacy) for the most accurate reproduction.*
 
-# Local Online Business Directory & Yellow Pages | Accoona - Seattle, WA
+# Local Online Business Directory & Yellow Pages | Accoona - Ashburn, VA
 
 THE FOLLOWING PRIVACY STATEMENT DETAILS THE Accoona.com PLEDGE TO KEEP YOUR INFORMATION PRIVATE. Any questions in regards to Accoona.com privacy practices should be sent via email to info@Accoona.com.
 
