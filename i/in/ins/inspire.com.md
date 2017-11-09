@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspire.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404040743id_/http%3A//www.inspire.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspire.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109162826id_/https%3A//www.inspire.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Inspire
 
@@ -16,21 +16,19 @@ We also collect "clickstream" data as you use different features of our Site so 
 
 **What We Do With Your Personal Information**
 
-We use personal information that you provide to us in several ways. First, we use it to confirm your Membership, to understand better who is visiting our Site and using our Service, and to enable us to present content, including advertising, which might suit your interests.
+We use personal information that you provide to us in several ways. First, we use it to confirm your Membership, and to understand better who is visiting our Site and using our Service, to help us improve the Service and present content which better suits your interests.
 
-Second, we may use the personal information you give us to send you information about ClinicaHealth and the Service, as well as material on behalf of some of our third parties with whom we have a business relationship. By third parties, we mean, for example, entities such as health associations and advertisers that link to our Site or that make use of our Service. The information we send you may, on occasion, contain advertising or requests either from us or from a third party on whose behalf we would send the information. For example, we may contact you to see whether you are interested in being considered for an upcoming clinical trial that is being sponsored by a pharmaceutical company.
+Second, we may use the personal information you give us to send you information about ClinicaHealth and the Service, as well as material on behalf of third parties with whom we have a business relationship. By third parties we mean, for example, entities such as health associations and advertisers that link to our Site or that make use of our Service. The information we send you may, on occasion, contain advertising or requests either from us or from a third party on whose behalf we would send the information. For example, we may contact you to see whether you are interested in being considered for an upcoming clinical trial that is being sponsored by a pharmaceutical company.
 
-Third, when you confirm your registration, your profile becomes visible to users of the Service and your profile may be found by users of the Service using the Service's search features. You can control how your profile and the data it contains are shared using the privacy settings available to you in the account section of the Site.
+Third, when you register for the Service, your profile becomes visible to users of the Service and your profile may be found by users of the Service. You can control how your profile and the data it contains are shared on the Site by using the privacy settings available to you in the account settings section of the Site. Additionally, when you post information on the Site forums, such as by creating or replying to journal entries, discussions or messages, that information is considered to have been publicly disclosed by you, and is therefore no longer considered personal information for purposes of this agreement.
 
-Fourth, we may share personal information with entities that are not part of the ClinicaHealth family on an aggregate or other basis that does not disclose your identity or contain individually identifiable personal information.
+Fourth, we may share personal information with entities that are not part of the ClinicaHealth family, including technical infrastructure service providers and academic researchers, on an aggregate or other basis that does not reveal individually identifiable personal information not publicly disclosed by you. These entities are required to adhere to strict confidentiality and data security requirements consistent with this Privacy Policy and our specific agreements with them.
 
-Fifth, ClinicaHealth may disclose personal information to appropriate persons in circumstances where we have a good faith belief that a user is likely to cause bodily harm to him or herself or others.
+Fifth, ClinicaHealth may disclose personal information that you give us to appropriate persons in circumstances where we have a good faith belief that a user is likely to cause bodily harm to themselves or others.
 
 Sixth, ClinicaHealth may share your email address and profile information with the organizations (for example, non-profit organizations) that sponsor Inspire groups that you join.
 
-Otherwise, we do not share, sell, or otherwise disclose personal information that is individually identifiable (including your e-mail address or your personal information) to any other company that we do not control without your prior consent, except as required by law (see Legal Process, below). For example, we do not rent our Member list to other companies. We may, however, provide other companies with aggregated data about our Members that does not contain contact or other individually identifiable personal information. Thus, for example, we may inform a health association of the number of Members we have on this Service, or the number of Members registered for our Service in a particular geographical region.
-
-Finally, it is possible that by posting a message on the Service or communicating with other Members, you will disclose your own personal information.
+Otherwise, we do not share, sell, or otherwise disclose individually identifiable personal information to any entity that we do not control, without your prior consent, except as required by law (see Legal Process, below). For example, we do not rent our Member lists to other entities, however we may provide them with aggregate data about our Members that does not contain contact or other individually identifiable personal information. Examples of such aggregate data include counts of members belonging to a specific community or in a particular geographic region.
 
 **Your Choices**
 
