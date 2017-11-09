@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065249id_/http%3A//www.redcross.org.uk/en/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109182048id_/http%3A//redcross.org.uk/en/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | British Red Cross
 
-At the British Red Cross we are committed to protecting your privacy. When you interact with us by phone, mail, in person or online, we sometimes receive personal information about you. This page, together with [our website terms and conditions](https://web.archive.org/en/Header-Footer-Links/Terms-and-conditions), tells you about how we collect, use and store your personal information.
+At the British Red Cross we are committed to protecting your privacy. When you interact with us by phone, mail, in person or online, we sometimes receive personal information about you. This page, together with [our website terms and conditions](https://web.archive.org/Header-Footer-Links/Terms-and-conditions), tells you about how we collect, use and store your personal information.
 
 Please read this policy carefully to understand how we collect, use and store your personal data.
 
