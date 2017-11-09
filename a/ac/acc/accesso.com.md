@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the accesso.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625122743id_/https%3A//accesso.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accesso.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109082958id_/https%3A//accesso.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | accesso Technology Group
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=f64648a0-10c5-46e7-84ae-0642ae821a41)
 
 _accesso_   **PRIVACY  POLICY**
 
