@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041206id_/http%3A//www.financialexpress.net/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109235930id_/http%3A//www.financialexpress.net/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
