@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plugin-alliance.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614210519id_/https%3A//www.plugin-alliance.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugin-alliance.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109120803id_/https%3A//www.plugin-alliance.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Plugin Alliance
 
