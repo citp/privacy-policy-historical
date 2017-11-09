@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younghollywoodtv.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522151629id_/http%3A//younghollywoodtv.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younghollywoodtv.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109063018id_/http%3A//younghollywoodtv.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - YOUNG HOLLYWOOD TV
 
