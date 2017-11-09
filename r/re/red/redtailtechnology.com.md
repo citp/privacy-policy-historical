@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtailtechnology.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511191830id_/http%3A//corporate.redtailtechnology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtailtechnology.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109225134id_/http%3A//corporate.redtailtechnology.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Redtail Technology
 
@@ -103,8 +103,8 @@ After registering, you may review and request to make changes to your Personal I
 If you have any questions regarding these Terms or your use of the Site, please contact us here:
 
 **Redtail Technology, Inc.**  
-11285 Pyrites Way  
-Suite B Gold River, California 95670  
+3131 Fite Circle  
+Sacramento, California 95827  
 (800) 206-5030 (toll free) (916) 352-6538 (fax) support@redtailtechnology.com
 
 Copyright © 2003-2017, Redtail Technology, Inc. **All rights reserved.**
