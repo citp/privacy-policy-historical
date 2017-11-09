@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shuttle.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511125415id_/http%3A//www1.shuttle.com/page%3FpageName%3DprivacyPolicy%26lg%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shuttle.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109222606id_/http%3A//www1.shuttle.com/page%3FpageName%3DprivacyPolicy%26lg%3Den) for the most accurate reproduction.*
 
 # Shuttle Inc. Website :: Privacy Policy
 
