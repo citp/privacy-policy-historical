@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karupspc.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629102302id_/http%3A//www3.karupspc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karupspc.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109082006id_/http%3A//www3.karupspc.com/privacy) for the most accurate reproduction.*
 
 # Karup's Private Collection - Privacy Policy
 
