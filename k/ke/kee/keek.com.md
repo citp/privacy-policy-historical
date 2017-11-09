@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the keek.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629021341id_/http%3A//docs.peeks.com/site/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keek.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109034908id_/http%3A//docs.peeks.com/site/policies/privacy) for the most accurate reproduction.*
 
 # Privacy : Peeks
 
-Last updated: **April 2016** Peeks Inc. (“ **us** “, “ **we** “, or “ **our** “) operates the http://www.Peeks.com website and the mobile application Peeks (collectively the “ **Service** “). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not use or share your Personal Information with anyone except as described in this Privacy Policy.
+Last updated: **April 2016** Peeks Social Inc. (“ **us** “, “ **we** “, or “ **our** “) operates the http://www.Peeks.com website and the mobile application Peeks Social (collectively the “ **Service** “). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not use or share your Personal Information with anyone except as described in this Privacy Policy.
 
-By using the Service, or by choosing to submit Personal Information to Peeks, you agree to the collection, use, and disclosure of information in accordance with this policy. If you do not agree with any terms of this Privacy Policy, please do not use this Site or submit any Personal Information to Peeks.
+By using the Service, or by choosing to submit Personal Information to Peeks Social, you agree to the collection, use, and disclosure of information in accordance with this policy. If you do not agree with any terms of this Privacy Policy, please do not use this Site or submit any Personal Information to Peeks Social.
 
 Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www.Peeks.com](http://www.peeks.com/).
 
@@ -13,7 +13,7 @@ Unless otherwise defined in this Privacy Policy, terms used in this Privacy Poli
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email and phone number, and other information about you as an identifiable individual (“ **Personal Information** “). We collect Personal Information when you voluntarily provide it through our Services, or when you provide it to us through other means. For example, we may collect Personal Information when you:
 
   * Provide us with information through our Service;
-  * Create an account either as a Peeks User, or as a Merchant Broadcaster;
+  * Create an account either as a Peeks Social User, or as a Merchant Broadcaster;
   * Use the Service to make a purchase;
   * Use the Service to make a payment or tip in accordance with our Payment Terms;
   * Contact us through e-mail, telephone, mail, or other correspondence;
@@ -23,7 +23,7 @@ While using our Service, we may ask you to provide us with certain personally id
 
 
 
-For Users who register as a Peeks User, the Personal Information we may collect may include:
+For Users who register as a Peeks Social User, the Personal Information we may collect may include:
 
   * When you create an account, your first and last name, contact information, such as your address, telephone number, or e-mail address;
   * Your country and date of birth;
@@ -57,7 +57,7 @@ Cookies are files with small amount of data, which may include an anonymous uniq
 
 #### How We Use and Disclose Personal Information
 
-The Personal Information we collect may be used by Peeks for the purposes for which it was collected, as provided in this Privacy Policy, or for other purposes that are disclosed to you and to which you consent. For example, we may use or disclose your Personal Information to:
+The Personal Information we collect may be used by Peeks Social for the purposes for which it was collected, as provided in this Privacy Policy, or for other purposes that are disclosed to you and to which you consent. For example, we may use or disclose your Personal Information to:
 
   * Operate our Service in accordance with our Terms of Use, Payment Terms and other policies;
   * Facilitate, complete or confirm, a purchase you choose to make using the Service, including facilitating payment for your purchase;
@@ -78,7 +78,7 @@ If you have provided us with your Personal Information, but later decide you no 
 
 We reserve the right to transfer any Personal Information we have about you in the event that we merge with or are acquired by a third party or should any such transaction be proposed. We may also use, or disclose your Personal Information to third parties, if we have reason to believe that using or disclosing such information is necessary to: (i) conduct investigations of possible breaches of law; (ii) identify, contact, or bring legal action against someone who may be violating an agreement they have with us; (iii) investigate security breaches or cooperate with government authorities pursuant to a legal matter; or (iv) to protect our rights, safety or property. Lastly, we may disclose your Personal Information for any other purpose to which you Consent.
 
-Personal Information collected online may also be combined with information you have provided to Peeks through other sources such as over the telephone.
+Personal Information collected online may also be combined with information you have provided to Peeks Social through other sources such as over the telephone.
 
 #### Streams
 
@@ -113,7 +113,7 @@ Some or all of the Personal Information we collect may be stored or processed on
 
 #### Access and Rectification
 
-You have a right to request access to your Personal Information and to request a correction to it if you believe it is inaccurate. If you have submitted Personal Information to Peeks and would like to have access to it, or if you would like to have it removed or corrected, please contact us using the contact information provided below. We will use reasonable efforts to comply with your request; however, in some cases we may not be able to allow you to access certain Personal Information in certain circumstances, for example if it contains Personal Information of other persons, or for legal reasons. In such cases, we will provide you with a reasonable explanation of why it is not possible to grant access to your Personal Information.
+You have a right to request access to your Personal Information and to request a correction to it if you believe it is inaccurate. If you have submitted Personal Information to Peeks Social and would like to have access to it, or if you would like to have it removed or corrected, please contact us using the contact information provided below. We will use reasonable efforts to comply with your request; however, in some cases we may not be able to allow you to access certain Personal Information in certain circumstances, for example if it contains Personal Information of other persons, or for legal reasons. In such cases, we will provide you with a reasonable explanation of why it is not possible to grant access to your Personal Information.
 
 #### Links to Other Sites
 
@@ -129,4 +129,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 #### Contact Us
 
-If you have any questions about this Privacy Policy, please contact our Privacy Officerat 184 Front Street East, Suite 701, Toronto, ON M5A 4N3,or at [privacy@peeks.com](mailto:privacy@peeks.com).
+If you have any questions about this Privacy Policy, please contact our Privacy Officer at 181 University Ave, Suite 2000, Toronto, ON M5A 4N3, or at [privacy@peeks.com](mailto:privacy@peeks.com).
