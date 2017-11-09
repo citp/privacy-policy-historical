@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624123408id_/http%3A//www.medicalnewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109015509id_/https%3A//www.medicalnewstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # MNT - Privacy Policy
 
@@ -34,13 +34,13 @@ We may share your information with third parties who provide services on our beh
 
 ## Personal information access, retention and choice
 
-Upon request Healthline will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [privacypractices@healthline.com](https://web.archive.org/web/20170624123408id_/http%3A//www.medicalnewstoday.com/privacypractices@healthline.com) or go to the “Edit your Profile” section on your account on our Services or call us at (+1) 415-281-3100.
+Upon request Healthline will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [privacypractices@healthline.com](https://web.archive.org/web/20171109015509id_/https%3A//www.medicalnewstoday.com/privacypractices@healthline.com) or go to the “Edit your Profile” section on your account on our Services or call us at (+1) 415-281-3100.
 
 You may also access, correct, or request deletion of your personal information by contacting us through the above options. We will respond to these requests within a reasonable timeframe. 
 
 We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements. 
 
-You may sign-up to receive newsletter or other communications from us. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or at your member profile on our website or by contacting us at [privacypractices@healthline.com](https://web.archive.org/web/20170624123408id_/http%3A//www.medicalnewstoday.com/privacypractices@healthline.com).
+You may sign-up to receive newsletter or other communications from us. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or at your member profile on our website or by contacting us at [privacypractices@healthline.com](https://web.archive.org/web/20171109015509id_/https%3A//www.medicalnewstoday.com/privacypractices@healthline.com).
 
 We also partner with third parties and partners to display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click here. Please note you will continue to receive generic ads.
 
@@ -52,7 +52,7 @@ We may also disclose your personal information as required by law, such as to co
 
 ## Security
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [privacypractices@healthline.com](https://web.archive.org/web/20170624123408id_/http%3A//www.medicalnewstoday.com/privacypractices@healthline.com). 
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [privacypractices@healthline.com](https://web.archive.org/web/20171109015509id_/https%3A//www.medicalnewstoday.com/privacypractices@healthline.com). 
 
 ## Changes to this policy
 
@@ -62,7 +62,7 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 Healthline Media, Inc.  
 Telephone Number: (+1) 415-281-3100  
-E-mail address: [privacypractices@healthline.com](https://web.archive.org/web/20170624123408id_/http%3A//www.medicalnewstoday.com/privacypractices@healthline.com)  
+E-mail address: [privacypractices@healthline.com](https://web.archive.org/web/20171109015509id_/https%3A//www.medicalnewstoday.com/privacypractices@healthline.com)  
 660 Third Street, 2nd Floor  
 San Francisco, CA 94107
 
