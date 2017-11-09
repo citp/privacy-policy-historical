@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191013id_/http%3A//tradingmarkets.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109142841id_/https%3A//tradingmarkets.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement - TradingMarkets.com
 
