@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the boatingmag.tv privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511103202id_/http%3A//www.boatingmag.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatingmag.tv privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109221148id_/http%3A//www.boatingmag.tv/privacy.html) for the most accurate reproduction.*
 
-# Boat Reviews, Boat Tests, Boating Tips and More | Boating Magazine
+# Privacy Policy | Boating Magazine
 
-**Bonnier Corporation Privacy Policy**
+## Privacy Policy
+
+Bonnier Corporation Privacy Policy
 
 _This policy was last updated on April 13, 2015._
 
