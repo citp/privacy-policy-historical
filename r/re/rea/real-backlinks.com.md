@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the real-backlinks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162431id_/http%3A//www.real-backlinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the real-backlinks.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109180642id_/http%3A//www.real-backlinks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -107,5 +107,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 This document was last updated on May 5, 2015
 
-[ ](http://www.semrush.com/sem/?ref=15097101&refer_source=real-backlinks-hp-en&utm_source=berush&utm_medium=promo&utm_campaign=banner "SEMrush")   
+[ ](http://www.semrush.com/sem/?ref=15097101&refer_source=real-backlinks-hp-hi&utm_source=berush&utm_medium=promo&utm_campaign=banner "SEMrush")   
 Find keywords, competitors...
