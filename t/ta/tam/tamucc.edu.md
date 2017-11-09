@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamucc.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123515id_/http%3A//www.tamucc.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamucc.edu privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109064542id_/http%3A//www.tamucc.edu/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Texas A&M University Corpus Christi
 
