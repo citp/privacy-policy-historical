@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thethyroidsecret.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615160319id_/http%3A//www.thethyroidsecret.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethyroidsecret.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109070245id_/http%3A//www.thethyroidsecret.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Thyroid Secret
 
