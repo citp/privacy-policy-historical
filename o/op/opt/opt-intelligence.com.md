@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opt-intelligence.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014853id_/http%3A//www.opt-intelligence.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opt-intelligence.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109084255id_/http%3A//www.opt-intelligence.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of Opt-Intelligence
+# Privacy Policy - Opt-Intelligence
 
 ## Overview
 
@@ -82,7 +82,6 @@ Business Affairs
 Opt-Intelligence, Inc.  
 37 W. 37th Street, 5th Floor  
 New York, New York 10018  
-Email: [privacy@opt-intelligence.com](mailto:privacy@opt-intelligence.com)  
-
+Email: [privacy@opt-intelligence.com](mailto:privacy@opt-intelligence.com)
 
 This Privacy Policy was last revised on and is effective as of June 23, 2014.
