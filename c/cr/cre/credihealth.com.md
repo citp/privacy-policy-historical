@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the credihealth.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327052930id_/https%3A//www.credihealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credihealth.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109171546id_/http%3A//www.credihealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Credihealth - Privacy Policy
+# Credihealth - Your Medical Assistant
 
 **Credihealth respects consumer privacy!**
 
@@ -116,13 +116,10 @@ Your feedback is always welcome. If you have any questions or concerns about our
 
 You may reach out to us as follows:
 
-Toll-free number: 1800-1022-733 [Monday to Saturday: 9 AM - 7 PM]
+Phone Number: 8010-994-994 [Monday to Saturday: 9 AM - 7 PM]
 
 Email:  support@Credihealth.com
 
 © Credi Health Private Limited 2013-16
 
 Version date: 15th January 2016
-
-Credihealth Pvt. Ltd. - 463, Udyog Vihar Phase V, Gurgaon, Haryana-122016  
-Copyright 2013-16 © Credi Health Private Limited. All rights Reserved. 
