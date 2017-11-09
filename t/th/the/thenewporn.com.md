@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thenewporn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140632id_/http%3A//www.thenewporn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewporn.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109023647id_/http%3A//thenewporn.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Police
+# Privacy policy
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of Thenewporn.com (the “Website”), including information you provide when using it.
 
