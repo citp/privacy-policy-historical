@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidshare-search-engine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151631id_/http%3A//ww43.rapidshare-search-engine.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidshare-search-engine.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109195557id_/http%3A//ww43.rapidshare-search-engine.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
