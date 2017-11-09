@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the logoground.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609140756id_/http%3A//logoground.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoground.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109193034id_/http%3A//www.logoground.com/privacy.php) for the most accurate reproduction.*
 
 # LogoGround Privacy Policy
-
-Privacy Policy 
 
 LogoGround.com does not collect personally identifiable information from you during your visit unless you offer such information when contacting LogoGround, creating an account or making a purchase.
 
@@ -10,7 +8,7 @@ When you sign up as a designer or when you make a purchase, you provide details 
 
 LogoGround will use your contact information only for communicating with you regarding your LogoGround account, your logos or your purchases. 
 
-When you purchase a logo, your name, surname and email address will be made available to the designer.
+When you purchase a logo, your name, surname and email address will not be made available to the designer, unless you choose to make this information available. Your username will be made available to the designer, therefor choosing your email address as your username will reveal your email address to the designer.
 
 Logos that you purchased from LogoGround as well as your company name may be shown in our client list and portfolio of past work, in any medium, unless you request exclusion by completing the exclusion form.
 
@@ -20,4 +18,4 @@ When you register as a seller on LogoGround you are required to supply your real
 
 As a registered user you will have access to email preference settings which specify under which circumstances LogoGround may email you.
 
-If you log in with the "Remember me" option checked we will set a cookie on your computer which enables us to identify you when you return to the web site. The cookie does not contain your name, username, password, contact details or any other potentially sensive information.
+If you log in with the "Remember me" option checked we will set a cookie on your computer which enables us to identify you when you return to the web site. The cookie does not contain your name, username, password, contact details or any other potentially sensive information
