@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectors4all.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152242id_/http%3A//www.vectors4all.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectors4all.net privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109185756id_/http%3A//www.vectors4all.net/privacy.html) for the most accurate reproduction.*
 
 # Free Vector :: Free Clip Art :: Free Images
 
@@ -52,6 +52,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Vectors4all](http://www.vectors4all.net/)  
 [www.vectors4all.net](http://www.vectors4all.net/)  
-vectors4all@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on May 20, 2013
