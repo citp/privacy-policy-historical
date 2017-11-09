@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623212621id_/http%3A//www.sustrans.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109021029id_/https%3A//www.sustrans.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Sustrans
 
@@ -105,7 +105,7 @@ We cannot ensure or warrant the security of any information you transmit to us o
 
 On receipt of proof of identity and a written request, we will provide you with a copy of any information that we hold about you. Please write to:
 
-Graham Clifton Coles
+Graeme Clifton Coles
 
 Sustrans  
 Rosebery House  
@@ -119,7 +119,7 @@ We will reply within forty calendar days.
 
 If you have any queries or comments about this privacy policy, please send a letter to:
 
-Graeme Cliftoncoles
+Graeme Clifton Coles
 
 Sustrans  
 Rosebery House  
