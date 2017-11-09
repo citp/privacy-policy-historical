@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iclipart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153109id_/http%3A//www.iclipart.com/privacy.php%3Fadv%3D%26desktop%3D%26rows%3D5%26cols%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclipart.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109224350id_/http%3A//www.iclipart.com/privacy.php%3Fadv%3D%26desktop%3D%26rows%3D5%26cols%3D5) for the most accurate reproduction.*
 
 # Detailed information about our website privacy policy | iCLIPART.com
 
