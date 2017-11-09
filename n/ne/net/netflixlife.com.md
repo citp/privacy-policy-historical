@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netflixlife.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628022105id_/http%3A//fansided.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflixlife.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109024943id_/https%3A//fansided.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ _This Privacy Policy is effective on January 22,  2015._
 
 Your privacy is very important to us. Our Privacy Policy spells out FanSided’s commitment to respecting the privacy of the members and visitors to our site. We reserve the right to change this policy at any time, which we’ll do through online posting or an email message sent directly to you. We are very careful with what we do with your information.
 
-This Privacy Policy describes how FanSided collects and uses the personal information you provide to us on our network of websites: [fansided.com/network](http://fansided.com/network). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This Privacy Policy describes how FanSided collects and uses the personal information you provide to us on our network of websites: [fansided.com/network](https://fansided.com/network). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Collection and Use of Personal Information
 
