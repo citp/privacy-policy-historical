@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kia.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162917id_/http%3A//www.kia.ca/legal%3Fsourceid%3Dlanding-drop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kia.ca privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109192146id_/http%3A//www.kia.ca/legal%3Fsourceid%3Dlanding-drop) for the most accurate reproduction.*
 
 # Legal Information | Kia Canada
 
