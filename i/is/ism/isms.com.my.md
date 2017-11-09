@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isms.com.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122053id_/http%3A//www.isms.com.my/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isms.com.my privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109120427id_/http%3A//www.isms.com.my/policy.php) for the most accurate reproduction.*
 
 # Bulk SMS Malaysia Policy | SMS Marketing | Online SMS Solution | Send SMS
 
@@ -97,13 +97,13 @@ Call us
 
 | 
 
-+603-79801388  
++603-27803880  
   
 Fax us
 
 | 
 
-+604-6468367
++604-6115620
 
 | 
 
@@ -123,10 +123,11 @@ Write to us
 
 | 
 
-No. 40-1, Persiaran Bayan Indah Bayan Bay, 11900 Bayan Lepas, Penang, Malaysia
+Unit 1-3-31, i-Avenue,  
+No. 1, Jalan Tun Dr Awang, 11900 Bayan Lepas, Penang, Malaysia
 
 | 
 
-No.B-2-7, Block B,Kuchai Exchange,  
+No.B-2-7, Block B, Kuchai Exchange,  
 Jalan Kuchai Maju 13, Kuchai Lama 58200,   
 Kuala Lumpur, Malaysia
