@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneywise.co.uk privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422194514id_/http%3A//moneywise.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneywise.co.uk privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109021620id_/https%3A//www.moneywise.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Moneywise
 
@@ -54,10 +54,10 @@ We do not knowingly collect personal information from children.
 
 If you have any queries concerning your personal information please contact us by writing to:
 
-The Data Protection Officer   
-Moneywise Publishing Limited   
-Standon House   
-21 Mansell Street   
+The Data Protection Officer  
+Moneywise Publishing Limited  
+Standon House  
+21 Mansell Street  
 London, E1 8AA
 
 The Data Protection Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
