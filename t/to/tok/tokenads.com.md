@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokenads.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616094257id_/http%3A//woobi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokenads.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109211531id_/http%3A//woobi.com/privacy) for the most accurate reproduction.*
 
 # privacy | Woobi
 
