@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mundomedia.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511192440id_/http%3A//www.mundomedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mundomedia.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109225212id_/https%3A//www.mundomedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy with MUNDOmedia
 
@@ -44,7 +44,7 @@ This Privacy Policy applies to the information that we collect or receive from y
 
 2.1 Discretion to Use Your Individual Information. WE MAY USE YOUR INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN OUR SOLE DISCRETION. The following paragraphs in this Section 2 describe how we currently use your Individual Information, but we may change or broaden our use at any time. As noted, we may update this Privacy Policy from time to time. We may use your Individual Information to provide promotional offers to you by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses. 
 
-2.2 Email. We use your Individual Information to provide promotional offers by email to you. We may maintain separate email lists for different purposes. If you wish to end your email subscription from a particular list, you need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all of our email lists, you must send an email to [unsubscribe@mundomedia.com](mailto:unsubscribe@mundomedia.com). 
+2.2 Email. We use your Individual Information to provide promotional offers by email to you. We may maintain separate email lists for different purposes. If you wish to end your email subscription from a particular list, you need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all of our email lists, you must send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd88938e889f8e9e8f949f98bd9088939992909899949cd39e9290). 
 
 2.2(a) Content of Email Messages. In certain commercial email messages sent by us, an advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to us. The "Subject:" line of our email messages will usually contain a line provided from the advertiser to us. 
 
@@ -72,7 +72,7 @@ This Privacy Policy applies to the information that we collect or receive from y
 
 3.4 Summary Data. We may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons. 
 
-3.5 Access. You have access to your Individual Information collected to provide an opportunity for you to correct, amend, or delete such information. Access can be obtained by contacting [legal@mundomedia.com](mailto:legal@mundomedia.com) or [legal@mundomedia.com](mailto:legal@mundomedia.com). We may also grant advertising clients and email services providers' access to your email address to verify the origin of your Individual Information collected. 
+3.5 Access. You have access to your Individual Information collected to provide an opportunity for you to correct, amend, or delete such information. Access can be obtained by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1d71787a7c715d7068737972707879747c337e7270) or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e58980828489a588908b818a8880818c84cb868a88). We may also grant advertising clients and email services providers' access to your email address to verify the origin of your Individual Information collected. 
 
 3.6 Other. We may also disclose your Individual Information:   
 • Where the information is public; or  
@@ -100,9 +100,9 @@ You acknowledge that personal information will be collected and stored by us in 
 
 **6\. Unsubscribe Procedures.**
 
-1\. Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to [unsubscribe@mundomedia.com](mailto:unsubscribe@mundomedia.com) or (2) follow the instructions in each promotional email message sent by the Company. 
+1\. Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f1849f828493829283989394b19c849f959e9c94959890df929e9c) or (2) follow the instructions in each promotional email message sent by the Company. 
 
-2\. Unsubscribe from all of our email lists. We reserve the right to add your Individual Information to multiple lists maintained by us. To globally unsubscribe from all of our lists, send an email to [unsubscribe@mundomedia.com](mailto:unsubscribe@mundomedia.com). 
+2\. Unsubscribe from all of our email lists. We reserve the right to add your Individual Information to multiple lists maintained by us. To globally unsubscribe from all of our lists, send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#71041f020413021203181314311c041f151e1c141518105f121e1c). 
 
 3\. Unsubscribe from a particular SMS messaging campaign. To unsubscribe from a particular SMS messaging campaign on a cell phone, send "STOP" to the SMS message received by you. In addition, other methods to unsubscribe may be set forth on the Website where signed up for the SMS messaging campaign. 
 
@@ -116,10 +116,10 @@ We exercise reasonable efforts to safeguard the security and confidentiality of 
 
 **9\. Additional Terms.**
 
-California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. Sec. 1798.83 of the California Civil Code, grants residents of the State of California the right to request from a business with whom the California resident has an established business relationship, once a year, certain information with respect to the types of personal information that the business shares with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by contacting us as set forth in the How to Contact Us section. 
+California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Sec. 1798.83 of the California Civil Code, grants residents of the State of California the right to request from a business with whom the California resident has an established business relationship, once a year, certain information with respect to the types of personal information that the business shares with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by contacting us as set forth in the How to Contact Us section. 
 
 **10\. How to Contact Us**
 
-You may reach us by email at [legal@mundomedia.com](mailto:legal@mundomedia.com). 
+You may reach us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d3bfb6b4b2bf93bea6bdb7bcbeb6b7bab2fdb0bcbe). 
 
 © Mundo Media Ltd. All rights reserved. 
