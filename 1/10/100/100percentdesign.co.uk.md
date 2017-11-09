@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102804id_/http%3A//www.100percentdesign.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109071012id_/http%3A//www.100percentdesign.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 100% Design 2017 - The UK's biggest trade event for architects and designers
 
@@ -71,6 +71,10 @@ Media 10 creates aggregate reports on user demographics and traffic patterns for
 **SHARING OF THE INFORMATION**
 
 Media 10 Ltd uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+**PHOTOGRAPHY AND FILMING**
+
+As a visitor I agree to my image or likeness of, being used in the photographing, recording and filming of on-site activities. This may come in the form of organiser promotional material, sponsor, exhibitor and media partner coverage. I understand that this media may be shared post-show in print, online and on broadcast television.
 
 **SECURITY**
 
