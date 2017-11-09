@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgebee.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012718id_/http%3A//www.edgebee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgebee.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109192957id_/http%3A//www.edgebee.com/privacy) for the most accurate reproduction.*
 
 # Edgebee - Privacy policy
 
