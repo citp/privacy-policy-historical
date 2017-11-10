@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyagario.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507221705id_/http%3A//easyagario.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyagario.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110183649id_/http%3A//easyagario.com/privacy.txt) for the most accurate reproduction.*
 
 # 
 
