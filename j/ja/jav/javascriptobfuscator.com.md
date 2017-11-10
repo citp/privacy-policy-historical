@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javascriptobfuscator.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172636id_/http%3A//www.javascriptobfuscator.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javascriptobfuscator.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110024130id_/http%3A//www.javascriptobfuscator.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Javascript Obfuscator
 
@@ -24,11 +24,6 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-  By e-mail: [info@javascriptobfuscator.com](mailto:info@javascriptobfuscator.com)
+  By e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e474048416e444f584f5d4d5c475e5a414c485b5d4d4f5a415c004d4143)
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
-
-**Where we live and work**
-
-  
-
