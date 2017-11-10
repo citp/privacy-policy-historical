@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jakpost.travel privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430040850id_/http%3A//jakpost.travel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakpost.travel privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110074719id_/http%3A//jakpost.travel/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Jakarta Travel Ideas
 
@@ -100,5 +100,5 @@ If you have any questions about this web site or our privacy policy, please cont
 **Individual contacts:**
 
 Abid Kaleemullah – CEO and Author  
-[abid.kaleem@jakpost.travel](https://web.archive.org/web/20170430040850id_/http://jakpost.travel/privacy-policy/abid.kaleem@jakpost.travel)  
+[abid.kaleem@jakpost.travel](https://web.archive.org/web/20171110074719id_/http://jakpost.travel/privacy-policy/abid.kaleem@jakpost.travel)  
 Tel: +62-21-579-6749
