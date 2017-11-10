@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbuzzclub.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506064650id_/http%3A//www.socialbuzzclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbuzzclub.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110075758id_/http%3A//www.socialbuzzclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Media Marketing Tools
 
