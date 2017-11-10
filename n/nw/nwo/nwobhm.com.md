@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwobhm.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424125134id_/http%3A//nwobhm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwobhm.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110193152id_/http%3A//nwobhm.com/privacy) for the most accurate reproduction.*
 
 # Privacy •NWOBHM Encyclopedia – New Wave Of British Heavy Metal
 
