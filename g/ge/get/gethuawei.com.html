@@ -1,422 +1,706 @@
-<!--The following is the downloaded HTML source of the gethuawei.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119050107id_/http%3A//www.gethuawei.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gethuawei.com privacy policy that was archived on 2017-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171110174400id_/http%3A//www.hihonor.com/us/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-52JHHB"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<title>Privacy Policy - Huawei Official Store</title>
-<meta name="description" content="Privacy policy and terms for GetHuawei.com">
-<meta name="keywords" content="">
-<meta name="robots" content="INDEX,FOLLOW">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-<link rel="icon" href="http://www.gethuawei.com/media/favicon/default/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.gethuawei.com/media/favicon/default/favicon.ico" type="image/x-icon">
-<link href="//fonts.googleapis.com/css?family=Istok+Web:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-<!--[if lt IE 7]>
-<script type="text/javascript">
-//<![CDATA[
-    var BLANK_URL = 'http://www.gethuawei.com/js/blank.html';
-    var BLANK_IMG = 'http://www.gethuawei.com/js/spacer.gif';
-//]]>
-</script>
-<![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.gethuawei.com/media/css/138804baf357842dee1a7d2d0f572887.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.gethuawei.com/media/css/b7a26e284359d23f1f110550ce326e7c.css" media="print">
-<script type="text/javascript" src="http://www.gethuawei.com/media/js/3a3fb9386216a0427d0f141aed6c0f73.js"></script>
-<!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.gethuawei.com/media/css/b3f04dd11790f86b83557592f3d949f5.css" media="all" />
-<![endif]-->
-<!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.gethuawei.com/media/js/f26dbd8611596ffbfd15bc97814d8fca.js"></script>
-<![endif]-->
-<!--[if lt IE 9]>
-<script type="text/javascript" src="http://www.gethuawei.com/media/js/aa8ac476a71fad3a40d8651cfa414370.js"></script>
-<![endif]-->
+<!DOCTYPE html><html lang="en-US" style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Privacy Policy</title>
+    <meta name="keywords" content="Privacy Policy">
+    <meta name="description" content="Discover HONOR's latest Smartphones,accessories,EMUI ,Fan club, Support and more at the Official HONOR Website.">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="/favicon.ico">
 
-<script type="text/javascript">
-//<![CDATA[
-Mage.Cookies.path     = '/';
-Mage.Cookies.domain   = '.www.gethuawei.com';
-//]]>
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-optionalZipCountries = ["HK","IE","MO","PA"];
-//]]>
-</script>
-<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate({"Add to Wishlist":"Add to Favs"});
-        //]]></script>
-
-<!-- For Facebook sharing -->
-<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/hcp/html/mTag.js?site=5438027"></script></head>
-<body class=" cms-page-view cms-privacy-policy">
-
- 
-    <noscript>
-        <div class="global-site-notice noscript">
-            <div class="notice-inner">
-                <p>
-                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
-                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
-            </div>
-        </div>
-    </noscript>
-<div class="wrapper">
- <div class="page"> <!-- ESI START DUMMY COMMENT [] -->
-<!-- ESI URL DUMMY COMMENT -->
-
- <div class="header-container">
-    <div class="jqMessageBox" style="display:none">
-            </div>
-    <div class="center-block">
-
-
-        <div class="header-panel">		 
-            <div class="push-button"><a href="javascript:;" id="jqCorraMenu"></a></div>
-
-                        
-
-                        
-        </div>
-        <div class="header">
-            <div class="branding">
-                                    <h1 class="logo"><a href="http://www.gethuawei.com/" title="Huawei" class="logo"><img src="http://www.gethuawei.com/skin/frontend/enterprise/huawei/images/logo.png" alt="Huawei"></a></h1>
-                                            </div>
-
-            <div class="utilty-navigation" id="jqUtilityNav">
-                
-<div class="top-cart">
-                                <div class="block-title no-items">
-            <strong id="cartHeader"><a class="jqCartLink" href="http://www.gethuawei.com/checkout/cart/">My Cart (<span>0</span>)</a></strong>
-        </div>
-</div>  
-                                        <div class="signin-link"> <a href="https://www.gethuawei.com/customer/account/login/">sign in / register</a> </div> 
- 
-
-            </div>
-<form id="search_mini_form" action="http://www.gethuawei.com/catalogsearch/result/" method="get">
-    <div class="form-search">
-        <label for="search">Search:</label>
-        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128" placeholder="search">
-	<button type="submit" title="Search" class="button"><span><span>&nbsp;</span></span></button>        <div id="search_autocomplete" class="search-autocomplete"></div>
-        <script type="text/javascript">
-        //<![CDATA[
-            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'SEARCH');
-            searchForm.initAutocomplete('http://www.gethuawei.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
-			//
-            jQuery(document).ready(function() {
-                var timeOut = '';
-                jQuery('form#search_mini_form input#search').css('color','#d8d8d8')
-                jQuery('form#search_mini_form input#search').blur(function(){			  
-                    if (jQuery(this).val() == "SEARCH"){
-                            jQuery(this).css('color','#d8d8d8')
-                    }else{
-                            jQuery(this).css('color','#686868')
-                    }
-                    setTimeout(function(){clearTimeout(timeOut);},650);
-                    //;
-                })
-                jQuery('form#search_mini_form input#search').focus(function(){
-                        jQuery(this).css('color','#686868');
-                        if(jQuery(this).closest('#jqPushMenuSearch').length > 0){
-                            timeOut = setTimeout(function(){jQuery('#search').focus();},150)
-                        }
-                })
-			  
-            });
-        //]]>
-        </script>
-    </div>
-</form>
-
-        </div>
-<div class="mds-main-menu-wrapper">
-    <div class="mds-main-menu">
-    	<div class="pushmenu-header">
-            <div class="section"><a href="http://www.gethuawei.com/" class="home-icon">&nbsp;</a></div>
-            <div class="section" id="jqPushmenuCart"><a href="#" class="close-pushmenu" id="jqClosePushMenu">X</a></div>
-        </div>
-        <div class="pushmenu-search" id="jqPushMenuSearch">
-        	<div class="support-block">Support: 1-888-548-2934&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-			<a onclick="window.open('https://sales.liveperson.net/hc/5438027/?cmd=file&amp;file=visitorWantsToChat&amp;site=5438027&amp;byhref=1&amp;imageUrl=http://www.gethuawei.com/chaticon', 'windowname1', 'width=350, height=600'); return false;" href="javascript: void(0)">Live Chat 
-			</a>
-        	</div>
-        </div>
-        <ul class="nav hMenu">
-                       
-            <li class="level0 nav-2 level-top parent product-menu-wrapper">
-            <a class="level-top parent products-menu"> Products <span>Get the details</span> </a>
-             <ul class="level0">
-    <li>
-        <h2><a href="/smartphones" style="color: #333333; font-size: 16px; font-style: normal;">Smartphones</a></h2>
-        <ul>
-            <li><a href="/nexus6p"> Nexus 6P <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/p8lite"> Huawei P8 lite <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/huawei-gx8"> Huawei GX8 <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/huawei-ascend-mate-2"> Huawei Ascend Mate 2 <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/huawei-snapto"> Huawei SnapTo <span class="right-icon">&gt;</span></a></li>
-        </ul>
-    </li>
-    <li>
-        <h2><a href="/tablets" style="color: #333333; font-size: 16px; font-style: normal;">Tablets</a></h2>
-        <ul>
-            <li><a href="/huawei-matebook"> Huawei MateBook <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/huawei-mediapad-t1-8-0-pro"> MediaPad T1 8.0 Pro <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/huawei-mediapad-t1-8-0"> MediaPad T1 8.0 <span class="right-icon">&gt;</span></a></li>
-        </ul>
-    </li>
-    <li>
-        <h2><a href="/wearables" style="color: #333333; font-size: 16px; font-style: normal;">Wearables</a></h2>
-        <ul>
-            <li><a href="/huawei-watch"> Huawei Watch <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/huawei-talkband-b2"> TalkBand B2 <span class="right-icon">&gt;</span></a></li>
-        </ul>
-    </li>
-    <li>
-        <h2><a href="/accessories" style="color: #333333; font-size: 16px; font-style: normal;">Accessories</a></h2>
-        <ul>
-            <li><a href="/accessories/cases">Cases <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/accessories/power-data">Power &amp; Data <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/accessories/headset">Headsets <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/huawei-bluetooth-speaker">Speakers <span class="right-icon">&gt;</span></a></li>
-            <li><a href="/accessories/bands">Bands <span class="right-icon">&gt;</span></a></li>
-        </ul>
-    </li>
-</ul>              
-            </li>
-            
-             <li class="level0 nav-1 first level-top parent unlock-menu-wrapper">
-            	<a class="level-top parent">Offers <span>Get a Better Deal</span></a>
-             <ul class="level0">
-<li><a href="http://www.gethuawei.com/offers-promotions">Offers &amp; Promotions <span class="right-icon">&gt;</span></a></li>
-</ul>                 
-            </li>
-            
-            <!--<li class="level0 nav-4 level-top community-menu-wrapper">
-                        </li>-->
-            
-            <li class="level0 nav-3 level-top parent support-menu-wrapper">
-            <a class="level-top parent support-menu"> Support <span>Get in touch</span> </a>
-             <ul class="level0">
-    <!-- li><a onclick="window.open('https://sales.liveperson.net/hc/5438027/?cmd=file&amp;file=visitorWantsToChat&amp;site=5438027&amp;byhref=1&amp;imageUrl=http://www.gethuawei.com/chaticon', 'windowname1', 'width=350, height=600'); return false;" href="javascript: void(0)">Live Chat <span class="right-icon">&gt;</span></a></li -->
-    <li><a href="http://www.gethuawei.com/faq">FAQs <span class="right-icon">&gt;</span></a></li>
-    <li><a href="http://www.gethuawei.com/product-registration">Product Registration <span class="right-icon">&gt;</span></a></li>
-    <li><a href="http://www.gethuawei.com/warranty">Warranty <span class="right-icon">&gt;</span></a></li>
-    <li><a href="http://www.gethuawei.com/shipping-policy">Shipping Policy <span class="right-icon">&gt;</span></a></li>
-    <li><a href="http://www.gethuawei.com/return-policy">Return Policy <span class="right-icon">&gt;</span></a></li>
-    <li class="first"><a href="http://www.gethuawei.com/contact-huawei">Contact Us <span class="right-icon">&gt;</span></a></li>
-    <li><a href="http://www.gethuawei.com/recycling-program">Recycling Program <span class="right-icon">&gt;</span></a></li>
-</ul>               
-            </li>           
-                       
-            <li class="level0 nav-5 last level-top parent about-menu-wrapper">
-            <a class="level-top parent about-menu"> About Huawei <span>Get to know us</span> </a>
-             <ul class="level0">
-<li><a href="http://www.gethuawei.com/about-us">Who We Are <span class="right-icon">&gt;</span></a></li>
-<li><a href="http://www.gethuawei.com/press-center">Press Center <span class="right-icon">&gt;</span></a></li>
-</ul>                
-            </li>
-        </ul>
-    </div>
-</div>
-
-    </div>
-
-
-</div>
- 
-<!-- ESI END DUMMY COMMENT [] -->
- <div id="turpentine-esi-block-32471874e319cc34086302687e7597ba5a76d7fd123a365822d9cc31507caeb4" style="display: none">
-    <script type="text/javascript">
-        (function() {
-            var blockTag = "turpentine-esi-block-32471874e319cc34086302687e7597ba5a76d7fd123a365822d9cc31507caeb4", esiUrl = "http:\/\/www.gethuawei.com\/turpentine\/esi\/getBlock\/method\/ajax\/access\/private\/ttl\/0\/hmac\/bdfa3d31777bc312c1ea6f82b596cc7e781a633f23de5ab2fab242dc063021ac\/data\/TBZlKGpB-rnhRwPckVu.6PHXd22DO5pH0vI6z3MlXwvKU7HLxVjGbM-OycHZYXIMNobA-4DP19Q76GJrNAJwcLSL8c9BkpdM7GEKYpxiaJG4em2Qy03n6os4Hol-Eq9lyvv8KiLZzO7QIJ6A0uvNDzPiV7ryewSoZOfbLFSqIikADAk0nf5AvXho1vWW1u0Mf09nW7WRH2.qwPzgkz44t71BMzAqpMxWiAfooMWbm4aZ1nSCB9aUgxhch8lru-22Va41bXQm1KNr5qjCfX-a4p6HLU5nFyvr0f7WeXBlPkoIzFlbWJ1xivBdVUn.iQ1GWd4IZtbjNtxcs0E54mikwvET5NSOR6YM\/";
-            if (typeof Ajax === 'object' && typeof Ajax.Updater === 'function') {
-                new Ajax.Updater(
-                    blockTag,
-                    esiUrl,
-                    {
-                        method: "get",
-                        evalScripts: true,
-                        onSuccess: function() {
-                            $(blockTag).appear({
-                                duration: 0.3
-                            });
-                        }
-                    }
-                );
-            } else if (typeof jQuery === 'function') {
-                jQuery.ajax(
-                    {
-                        url: esiUrl,
-                        type: "get",
-                        dataType: "html"
-                    }
-                ).done(function() {
-                    $(blockTag).fadeIn(300);
-                });
-            }
-        })();
-    </script>
-</div>   <div class="main  col1-layout">
-   <div class="col-main"> <div class="std"><div id="turpentine-esi-block-d37680917b8236356c5f85169d29f0d7c3010d502445e8731c02ac2e2d22224d" style="display: none">
-    <script type="text/javascript">
-        (function() {
-            var blockTag = "turpentine-esi-block-d37680917b8236356c5f85169d29f0d7c3010d502445e8731c02ac2e2d22224d", esiUrl = "http:\/\/www.gethuawei.com\/turpentine\/esi\/getBlock\/method\/ajax\/access\/private\/ttl\/0\/hmac\/0611bb98d863f018e88260dc31091677c9576517291f007e3b25201abfbbdd6f\/data\/etJzqbyfbVB88inOsOWUrneMrBB-ecWs1q1YOL0YJAEIs366OnR-Be6U4g9dvAvB0rW0DWv1BTj25drkcRelkCazI3kylCJKgHM.PcrkkdwqH3-HzAn8ZxMPiIKItm.iismHKWqKjEvxYquwEWm79Zl2XTqlb8PPZS-zMtvKwKmQY1pjzHj0wu.-i00YE-iXGtRaG1bb-v0V3sMa4nBpX6WEXGDVVrR5FV0N634V7SzG-P9JyUlC-jDHOFmy1SsQ7BH83xDu91nK-La8Zup2PhDCu-WqQ72hgh0s7sF21anZ6NU5PmOxYKiry-iCBd.fcbB9cuuleaS7jPEpDdWR-sDwPPwwBNqk\/";
-            if (typeof Ajax === 'object' && typeof Ajax.Updater === 'function') {
-                new Ajax.Updater(
-                    blockTag,
-                    esiUrl,
-                    {
-                        method: "get",
-                        evalScripts: true,
-                        onSuccess: function() {
-                            $(blockTag).appear({
-                                duration: 0.3
-                            });
-                        }
-                    }
-                );
-            } else if (typeof jQuery === 'function') {
-                jQuery.ajax(
-                    {
-                        url: esiUrl,
-                        type: "get",
-                        dataType: "html"
-                    }
-                ).done(function() {
-                    $(blockTag).fadeIn(300);
-                });
-            }
-        })();
-    </script>
-</div><section style="margin-bottom: 1rem; margin-top: 2rem;">
-<div class="row">
-<div class="columns small-12 medium-12">
-
-<strong>Privacy Policy</strong><br><br>Huawei Device USA, Inc. (hereinafter referred to as Huawei) is a company that highly values your personal data and privacy. Please do not submit or provide any personal or privacy data to Huawei before you have comprehensively read, understand and agree to this privacy policy. <br><ol>
-<li><span style="line-height: 1.22;">How Huawei uses your personal data; 2. </span></li>
-<li><span style="line-height: 1.22;">How Huawei uses cookies; 3. </span></li>
-<li><span style="line-height: 1.22;">How Huawei discloses your personal data; 4. </span></li>
-<li><span style="line-height: 1.22;">How to update, change or check your personal data; 5. </span></li>
-<li><span style="line-height: 1.22;">How Huawei protects your personal data; 6. </span></li>
-<li><span style="line-height: 1.22;">How Huawei treats personal data from children; 7. </span></li>
-<li><span style="line-height: 1.22;">Third party services providers; 8. </span></li>
-<li><span style="line-height: 1.22;">Data transfer; 9. </span></li>
-<li><span style="line-height: 1.22;">How Huawei updates this policy; and 10. </span></li>
-<li><span style="line-height: 1.22;">How to contact Huawei. </span></li>
-</ol><span style="line-height: 1.22;">Please note this privacy policy applies to consumer electronic products of Huawei including without limitation, feature phones, smart phones, tablets, home devices, data cards, mobile phones or computer applications, tools and software, along with corresponding websites, products and services. This policy describes the main strategy of Huawei, however, one simple policy cannot address all of your concerns. Thus Huawei may give you additional information that is specific to a product or service that supplements this privacy policy which will act as notice to you when Huawei is processing personal data for specific purposes. Please pay attention to our notifications when using Huawei products or services. <br><br><strong>1. How Huawei uses your personal data </strong><br><br><strong>1.1 How, when and for what purpose does Huawei collect and make use of your personal data? <br></strong><br>strong&gt;Creating an account, purchase, registering of products or services<br> We receive and store any information you enter on GetHauwei.com or give us in any other way. When you submit requests online to create an account, purchase, register your products or services, including fulfillment of your purchase order, delivery of your products or services, product activation or verification, changes upon your request, providing technical support or authorized updates, etc, we may ask you to submit data that is necessary to fulfill such a request, such as your email address, physical address, phone number, product information, date of purchase, form of payment, etc, this is to enable us to better serve you. <br><br><strong>Taking part in promotions or market surveys</strong> <br><br>After receiving your approval, we may ask you to submit information so we can contact you about products and services that may interest you and invite you to take part in our promotions and market surveys. Such information will include your contact information, mobile phone number, email address, etc. You may ask Huawei not to use your personal information for promotional or market survey purposes. You can unsubscribe by going to your account page and unsubscribe or click on the unsubscribe link that is contained in the email or newsletter that you receive. <br><br><strong>Sharing contents with your friends or inviting your friends to join in </strong><br><br>You may use our services to share contents of GetHauwei.com with your friends or invite your friends to join in. Huawei will not save such information or use such information. <br><br><strong>Update </strong><br><br>Huawei may collect system and application information from your devices. We do this so that we can timely inform you about helpful system or application update notices. Such information collected includes the name of the device, version of the system and applications, versions of the operating system and internet browsers, setting of region and language, device identification numbers (IMEI, ESN, MEID, SN), identification number of your carrier network, etc. The sole purpose that Huawei collects such information is to notify you about system or application updates. <br><br><strong>Trouble shooting</strong> <br><br>When use of your device fails or encounters abnormal performance issues and you choose to send relevant information to Huawei so that Huawei and/or Huaweis partners can provide you with trouble shooting services, Huawei will collect relevant information, including model number of the device, name and version of the application, device identification number, error logs, etc. <br><br><strong>Data synchronization, share and storage</strong> <br><br>Huawei provides some services that allow you to synchronize, share and store data. Huawei will collect and store data that you choose to upload or download. <br><br><strong>1.2 Location based services </strong><br><br>Huawei may collect and use the precise or fuzzy geo-location data from your device when you request certain location-based services, such as: when you search search for weather based on specific geo-locations for instance. The information collected may include the ID, type and model of your devices, and the real-time geo-location information of your device (including Global Positioning System information GPS, Wi-Fi or ID number of the signal tower of your carrier network). You can turn on, change, or turn off your GPS information by GPS settings, but you may not have the right to control Wi-Fi and ID numbers of the signal tower of your carrier network as this depends on your carriers policy. Huawei collects geo-location information by means of anonymity to provide and improve location based products and services. <br><br><strong>1.3 Collect and use of non-personal information</strong> <br><br>Non-personal information refers to the information that does not identify a specific person, such as how many people visited our website or how may website pages have been visited. Huawei collects such information to understand how people use our website, products or services and to improve our customers needs. Huawei may, at its own discretion, collect, use, transfer or disclose non-personal information for any purpose. <br><br><strong>2. Cookies policy </strong><br><br>To make our websites function properly, we sometimes place small data files on your computer or mobile devices, known as cookies. A cookie is a simple text file that is stored on your computer or mobile device by a websites server and only that server will be able to retrieve or read the contents of that cookie. Each cookie is unique to your web browser. It will contain some anonymous information such as a unique identifier and the site name and some digits and numbers. It allows a website to remember things like your preferences or whats in your shopping basket. <br><br>Most big websites or internet service providers do this in order to improve your user experience by enabling that website to remember you, either for the duration of your visit (using a session cookie) or for repeat visits (using a persistent cookie). Cookies help the site remember your settings  language, font size and other preferences for how you want to view the site on your computer or mobile devices - so you dont have to keep re-entering them whenever you come back to us. If a website doesnt use cookies, it will think you are a new visitor every time you move to a new page on the site  for example, when you enter your login details and move to another page it wont recognize you and it wont be able to keep you logged in. <br><br>Our cookies are not used to identify you personally. Theyre just there to make the site work better for you. You can control and/or delete cookies as you wish  for details, see AboutCookies.org. You can delete all the cookies already on your computer and you can set most browsers to block them being placed. But if you do this, you may have to manually adjust some preferences every time you visit our websites. <br><br>Instructions on how to change your browser settings are available at the following links: <br><br>Internet Explorer - http://support.microsoft.com/kb/260971 <br>Google Chrome - https://support.google.com/chrome/answer/95647?hl=en-GB&amp;p=cpn_cookies <br>Mozilla Firefox - https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&amp;redirectslug=Cookies <br>Safari - http://support.apple.com/kb/PH5042 <br>Opera - http://www.opera.com/help/tutorials <br><br> Huawei does not use cookies for any other purpose than those presented here and does not use them to collect any personal data for any other purpose. <br><br><strong>3. How Huawei discloses your personal data</strong> <br><br>Huawei will not sell or disclose your personal information to 3rd parties except in the following circumstances: <br><br>(i) Your explicit permission to disclose your information is given to Huawei. In this instance, and after obtaining your approval, Huawei may share your personal information with other companies. <br>(ii) To other Huawei subsidiaries or authorized suppliers and service providers. Huawei may need to provide you certain services through authorized suppliers and service providers (Authorized 3rd Parties), thus Huawei will share some of your personal information with Authorized 3rd Parties to enrich our services and fulfill your requirements, such as, when you decide to purchase Huawei products online, Huawei will submit your personal information to relevant logistic service providers so as to allow them to deliver the products to you or allow our Authorized 3rd Parties to provide you with other customer services. Huawei strictly forbids Huawei subsidiaries or Authorized 3rd Parties to use shared personal information for any other purpose. <br>(iii) When required by law or by governmental authorities. Huawei may disclose your personal information when required by law, legal proceedings, litigation or public, governmental authorities. <br>(iv) Circumstances may arise where, whether for strategic or other business reasons, Huawei decides to sell, buy, merge or otherwise reorganize its business. Such a transaction may involve the disclosure or your personal information to prospective or actual purchasers, or the receipt of it from sellers. It is Huaweis practice to seek appropriate protection for information in these types of transactions. <br><br><strong>4. How to update, change or check your personal data</strong> <br><br>You are responsible for the accuracy of the personal information that you submit. Huawei will use commercial best efforts to keep your personal information accurate. Should you wish to delete or amend such information, you can do so by modifying your information within your account or you can also call our customer service to assist you at 1-888-548-2934. <br><br><strong>5. How Huawei protects your personal data</strong> <br><br>To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of your information, Huawei utilizes reasonable and appropriate physical, technical, and administrative procedures to safeguard the information we collect and process. For instance, technically, Huawei uses anti-virus software, data encryption, and monitoring of our system to protect the data center from cyber attacks. To protect your information physically, Huawei restricts access to your information to only those people who need such information for a business purpose. To protect your information structurally, Huawei makes sure its employees understand the importance of protecting personal data by providing awareness training about security and privacy protection. Although we take reasonable measures to protect your personal data, please note that no security measures could be 100% perfect or unbreakable. <br><br><strong>6. How Huawei treats personal data from children </strong><br><br>Huawei does not knowingly collect personal information from children without requiring that the child seek prior parental consent, as required by applicable law. Huawei encourages parents and guardians to take an active role in their childrens online and mobile activities and interests. The definition of child or children should take into account applicable laws as well as national and regional cultural customs. <br><br><strong>7. Third party service providers </strong><br><br>For your convenience and to enrich your experience, GetHauwei.com may contain links to third-party websites, products, and services. You can choose to use such links, use the services or purchase products from these third parties; however Huawei does not control the privacy and data protection measures of these third parties. Information collected by third parties, which may include such things as location data or contact details, is governed by the third partys privacy policy. Huawei encourages you to learn about the privacy practices of these third parties. <br><br><strong>8. Data transfer </strong><br><br>Huawei products and services may be provided using resources and servers located in various countries around the world. Therefore your personal information may be transferred across international borders outside the country where you use our services, those countries may not have laws providing specific protection for personal data or that have different legal rules regarding data protection. In such cases, Huawei takes steps to ensure that there is a legal basis for such a transfer and that adequate protection for your personal data is provided as required by applicable law, for example, by using standard agreements approved by relevant authorities (where necessary) and by requiring the use of other appropriate technical and organizational information security measures. <br><br><strong>9. Update of this policy </strong><br><br>Huawei may from time to time amend or update this privacy policy. If Huawei modifies its policy, we will post the updated version here. If Huawei makes significant changes that materially alter the policy, we may also notify you by other means, such as sending an email or posting a notice on GetHauwei.com and/or social media pages prior to the changes taking effect. <br><br><strong>10. Contact Huawei </strong><br><br>If you have any comments or questions about our Privacy Policy, any concerns or a complaint regarding our collection and use of your data or a possible breach of your privacy, please go to <a title="Contact Huawei" href="http://www.gethuawei.com/contact-huawei">www.gethuawei.com/contact-huawei</a> or call us at 1-888-548-2934. We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to address your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in timely and appropriate manner. <br> <br><strong>Recent updated: June 6, 2014 <br><br>Copyright © 2014 Huawei Device USA, Inc. All rights reserved.</strong></span></div>
-</div>
-</section></div> </div>
-  </div>
-   <!-- ESI START DUMMY COMMENT [] -->
-<!-- ESI URL DUMMY COMMENT -->
-
- 
-
-<div class="footer-container">
-	<div class="center-block">
-    	<div class="footer-nav">
-        	
-			<div class="footer-logo"><img alt="" src="http://www.gethuawei.com/skin/frontend/enterprise/huawei/images/logo-footer.jpg"></div>
-<div class="social-icons">
-<ul>
-<li class="follow-us">Follow Us On:</li>
-<li class="twitter"><a href="http://www.twitter.com/HuaweiDeviceUSA" target="_blank">&nbsp;</a></li>
-<li class="facebook"><a href="http://www.facebook.com/HuaweiDeviceUSA" target="_blank">&nbsp;</a></li>
-<li class="google-plus"><a href="http://www.google.com/+HuaweiDeviceUSA" target="_blank">&nbsp;</a></li>
-<li class="you-tube"><a href="http://www.youtube.com/HuaweiDeviceUSA" target="_blank">&nbsp;</a></li>
-<li class="instagram"><a href="http://www.instagram.com/huaweideviceusa" target="_blank">&nbsp;</a></li>
-</ul>
-</div>
-<div class="customer-support">Customer Support:&nbsp;&nbsp;&nbsp; <span class="phone-no">1-888-548-2934</span></div>        </div>
-    	<div class="footer">
-          <div class="company-links link-blocks">
-            <h3>company info</h3>
-            <div class="links">
-<div class="block-title"><strong><span>Company</span></strong></div>
-<ul>
-<li><a href="/about-us">Who We Are</a></li>
-<li><a href="/press-center">Press Center</a></li>
-</ul>
-</div>          </div>
-          <div class="quick-links link-blocks">
-            <h3>support</h3>
-                        <ul class="links">
-    <li><!-- Start of LiveChat (www.livechatinc.com) code --> 
-<script type="text/javascript"> 
-window.__lc = window.__lc || {}; 
-window.__lc.license = 6861791; 
-(function() { 
-  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true; 
-  lc.src = ('https:' == document.location.protocol ? 'https://&#39; : 'http://&#39;) + 'cdn.livechatinc.com/tracking.js'; 
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s); 
-})(); 
-</script> 
-<!-- End of LiveChat code --> </li>
-    <li><a href="http://www.gethuawei.com/faq">FAQs</a></li>
-    <li><a href="http://www.gethuawei.com/product-registration">Product Registration</a></li>
-    <li><a href="http://www.gethuawei.com/warranty">Warranty</a></li>
-    <li><a href="http://www.gethuawei.com/shipping-policy">Shipping Policy</a></li>
-    <li><a href="http://www.gethuawei.com/return-policy">Return Policy</a></li>
-    <li class="first"><a href="http://www.gethuawei.com/contact-huawei">Contact Us</a></li>
-    <li><a href="http://www.gethuawei.com/recycling-program">Recycling Program</a></li>
-</ul>          </div>
-          <div class="account-links link-blocks">
-            <h3>account</h3>
-            <ul class="links">
-                        <li class="first"><a href="https://www.gethuawei.com/customer/account/" title="My Account">My Account</a></li>
-                                <li class=" last"><a href="https://www.gethuawei.com/sales/guest/form/" title="Track Order">Track Order</a></li>
-            </ul>
-          </div>
-                      <div class="newsletter-block"><form action="https://www.gethuawei.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
-    <div class="form-subscribe">
-    <div class="form-subscribe-header">
-        <label for="newsletter">sign up for our newsletter:</label>
-    </div>
-    <div class="note">Subscribe to our newsletter for all the latest updates and special offers.</div></div>
-        
-    <div class="v-fix">
-        <input name="email" type="text" id="newsletter" placeholder="Enter email address" class="input-text required-entry validate-email">
-        <input type="hidden" name="source" value="footer">
-        <button type="submit" title="Subscribe" class="button with-right-arrow"><span><span>Submit</span></span></button>
-    </div>
-   
+        <script id="facebook-jssdk" src="//web.archive.org/web/20170611003914/http://connect.facebook.net/zh_CN/sdk.js#xfbml=1&amp;version=v2.7"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KM5CKL"></script><script charset="UTF-8" src="/us/wp-content/themes/honor/js/??vendor/jquery-1.11.1.min.js,site.js,vendor/modernizr-2.6.2.min.js"></script>
     
-</form>
-<script type="text/javascript">
-//<![CDATA[
-    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');	
-//]]>
-</script>
-</div>
-          </div>
-          <div class="copyright">
-          <a href="#" class="desktop-copy-right">Copyright © Huawei Technologies Co., Ltd. 1998-2016. All Rights Reserved.</a>
-          <p style="display: inline-block;"><a href="http://www.gethuawei.com/privacy-policy"> Privacy Policy</a> <a href="http://www.gethuawei.com/terms-of-use">Terms of Use</a> <a class="is-link" href="http://www.gethuawei.com/sitemap">Sitemap</a></p>         <a href="#" class="mobile-copy-right">Copyright © Huawei Technologies Co., Ltd. 1998-2016. All Rights Reserved.</a>
-          </div>
+        <link rel="stylesheet" href="/us/wp-content/themes/honor/??css/font-awesome.min.css,css/font.css,css/normalize.css,css/bootstrap.min.css,css/jasny-bootstrap.min.css,css/swiper_min.css,css/video-js.min.css,style.css,css/topnav.css,css/ipad.css,css/mobile.css,css/we.css,us/css/nav.css">
+    
+        
+    <!--[if lt IE 9]>
+    <script src="/us/wp-content/themes/honor/us/js/??html5shiv.min.js,respond.min.js"></script>
+    <![endif]-->
+    <script>var SITE = 'us';</script>
+<link rel="stylesheet" href="/us/wp-content/themes/honor/css/languages/us.css">
+<script type="application/ld+json">
+        { "@context" : "http://schema.org",
+            "@type" : "Organization",
+            "name" : "Honor",
+            "url" : "http://www.hihonor.com",
+            "logo": "http://www.hihonor.com/us/wp-content/uploads/2015/12/Honor_logo.png",
+            "sameAs" : ["https://plus.google.com/101133321497040317767/about",
+                "https://www.facebook.com/honorglobal/",
+                "https://www.twitter.com/honor_usa",
+                "https://www.instagram.com/honorglobal/",
+                "https://www.youtube.com/honorglobal" ]
+        }
+    </script>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KM5CKL"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer',sites_array[SITE]['ga_code']);</script>
+    <script>
+        //////////////////////////////////////////////////////us login///////////////////////////////////////////////////////
+        //配置
+        window.us = {
+            //PC注册
+            signUp1 : 'https://club-us.hihonor.com/user/frame?ifmUrl=https://hwid9.hihonor.com/CAS/portal/userRegister/ifmRegbyphone.html?reqClientType=40&loginChannel=40000000&countryCode=us&service=http://www-forum.honor.cn:80/forum/user/sysAuthority?referer=http://www-forum.honor.cn:80/forum/iframe/callback?backUrl=http://www-forum.honor.cn/forum/index&lang=en-us&themeName=blue&bizIfmUrl=http://www-forum.honor.cn:80/forum/user/frame&loginUrl=https://hwid9.hihonor.com:443/CAS/portal/login.html',
+            //手机注册
+            signUp2 : 'https://club-us.hihonor.com/user/frame?ifmUrl=https://hwid9.hihonor.com/CAS/mobile/standard/register/wapRegister.html?reqClientType=40&loginChannel=40000000&countryCode=us&service=https://club-us.hihonor.com/user/sysAuthority?referer=https://club-us.hihonor.com/iframe/callback?backUrl=https://club-us.hihonor.com/index&lang=en-us&themeName=blue&bizIfmUrl=https://club-us.hihonor.com/user/frame',
+
+            logIn : 'https://club-us.hihonor.com/user/login',//登陆
+            logOut : 'https://club-us.hihonor.com/user/siteExitSys',//登出
+
+            Profile : 'https://hwid7.vmall.com/CAS/portal/userCenter/index.html?service=https%3A%2F%2Fclub-us.hihonor.com%2Fuser%2FsysAuthority&loginChannel=40000000&reqClientType=40',
+            Account : 'https://store.hihonor.com/us/customer/account/edit/',
+            Order : 'https://store.hihonor.com/us/sales/order/history/',
+            MyCommunity : 'https://club-us.hihonor.com/user/center',
+
+            defaultHead : '/us/wp-content/themes/honor/us/images/home/head_ico.png',//默认头像
+            infoCookie :{
+                username : decodeURIComponent(getCookie('username')),
+                HeadPortraitCookieName : decodeURIComponent(getCookie('HeadPortraitCookieName')).split('"')[1],
+            },
+            errInfo:{
+                a:'Please login first',
+            }
+        }
+
+        var loginState = !!us.infoCookie.username;
+        $(function(){
+            var js_navsearch = $('.js-navsearch'),
+                    honor_loginbtn =$('.honor-loginbtn'),
+                    navuser_ul =$('.navsearch-item>ul'),
+                    signUpWap = $('.signUpWap')
+            if(loginState){
+                js_navsearch.addClass('logining');
+                js_navsearch.find('img').attr('src',us.infoCookie.HeadPortraitCookieName||us.defaultHead);
+                honor_loginbtn.text('Logout');
+                honor_loginbtn.attr('href',us.logOut);
+                navuser_ul.find('li:first>a').attr('href',us.Profile);
+                navuser_ul.find('li:first+li>a').attr('href',us.Account);
+                navuser_ul.find('li:first+li+li>a').attr('href',us.Order);
+                navuser_ul.find('li:first+li+li+li>a').attr('href',us.MyCommunity);
+                signUpWap.css('display','none');
+            }else{
+                honor_loginbtn.text('Login');
+                honor_loginbtn.attr('href',us.logIn);
+                navuser_ul.click(function(){
+                    alert(us.errInfo.a);
+                });
+                signUpWap.attr('href',us.signUp2);
+            }
+        })
+
+        function getCookie(name){
+            if (document.cookie.length>0){
+                c_start=document.cookie.indexOf(name + "=");
+                if (c_start != -1){
+                    c_start = c_start + name.length+1;
+                    c_end   = document.cookie.indexOf(";",c_start);
+                    if (c_end == -1) c_end = document.cookie.length;
+                    return decodeURIComponent(document.cookie.substring(c_start, c_end));
+                }
+            }
+            return "";
+        }
+    </script>
+<style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:25px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:15px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:19px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:13px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:13px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:17px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(http://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(http://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
+
+<body>
+<!-- mobile nav -->
+<div class="mobile-navbox visible-xs visible-sm">
+    <div class="mobile-nav-thead">
+        <div class="row">
+            <div class="col-xs-5"><img src="http://www.hihonor.com/us/wp-content/uploads/2016/11/logo-wap.png" class="img-responsive" title="For The Brave"></div>
+            <div class="col-xs-7">
+                <ul class="mobile-search-menu">
+                    <li><a href="javascript:void(0)" class="js-mobile-userbtn mobile-xsuser" data-msearch="#mnavuser"><span class="headiconbox"><img src="/us/wp-content/themes/honor/us/images/home/head_ico.png" class="head-img" alt="user name"><i class="red-dot"></i></span><i class="nav-user-icon"></i></a></li>
+                    <li><a href="https://store.hihonor.com/us/checkout/cart/"><i class="nav-vmall-icon"></i></a></li>
+                    <li><a href="javascript:void(0)" class="js-mobile-menubtn mobile-xsbtn" data-mobile-menu="#mobile-menucontent"><span class="mobile-menuline"></span></a></li>
+                </ul>
+            </div>
+        </div>
     </div>
-  
-</div>
-<!-- Live chat code here -->
-<!-- BEGIN LivePerson Monitor. Placed under Live Chat code.-->
-<script type="text/javascript">// <![CDATA[
-var lpMTagConfig = {'lpServer' : "sales.liveperson.net",'lpNumber' : "5438027",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);
-// ]]></script>
-<!-- END LivePerson Monitor. --> 
-<!-- ESI END DUMMY COMMENT [] -->
-  
+    <!-- mobile user -->
+    <div class="mobile-usercontent">
+        <div class="navsearch-item" id="mnavuser">
+            <ul>
+                <span class="navsearch-arrow"></span>
+                <li><i class="icona"></i><a href="javascript:;">My Profile</a></li>
+                <li><i class="iconb"></i><a href="javascript:;">My Account</a></li>
+                <li><i class="iconc"></i><a href="javascript:;">My Order</a></li>
+                <li><i class="icond"></i><a href="javascript:;">My Community</a></li>
+            </ul>
+            <a href="https://club-us.hihonor.com/user/login" class="honor-loginbtn">Login</a>
+        </div>
+    </div>
+    <!-- mobile menu content-->
+    <div class="mobile-menucontent" id="mobile-menucontent">
+        <div class="mobile-searchbox">
+            <a href="#" class="mobile-searchicon"></a><a href="javascript:;" class="mobile-searchicon-close"></a><input type="text" class="mobile-sinput" placeholder="Honor 8">
+        </div>
+        <ul class="mobile-menulist">
+            <li class="nomore"><a href="https://store.hihonor.com/us">Store</a></li>
+            <li class="hasmore">
+                <a href="javascript:void(0)" title="Product">Product<i class="icon-add"></i></a>
+                <ul>
+                    <li class="mobile-threenav-item js-threesub-nav">
+                        <a href="javascript:void(0)" title="All Smartphones">All Smartphones<i class="icon-add"></i></a>
+                        <ul>
+                            <li><a href="https://store.hihonor.com/us/honor-8" title="Honor 8">Honor 8</a></li>
+                            <li><a href="https://store.hihonor.com/us/honor-6x" title="Honor 6x">Honor 6x</a></li>
+                            <li><a href="https://store.hihonor.com/us/honor-5x" title="Honor 5x">Honor 5x</a></li>
 
- </div>
+                        </ul>
+                    </li>
+                    <li class="mobile-threenav-item js-threesub-nav">
+                        <a href="javascript:void(0)" title="All Accessories">All Accessories<i class="icon-add"></i></a>
+                        <ul>
+                            <li><a href="https://store.hihonor.com/us/honor-engine-earphones-plus" title="Engine Earphones">Engine Earphones</a></li>
+                            <li><a href="https://store.hihonor.com/us/honor-5x-flipcover" title="Honor 5X Flipcover">Honor 5X Flipcover</a></li>
+                            <li><a href="https://store.hihonor.com/us/honor-hybrid-earphones-am175" title="Hybrid Earphones">Hybrid Earphones</a></li>
+                            <li><a href="https://store.hihonor.com/us/honor-selfie-stick" title="Honor Selfie Stick">Honor Selfie Stick</a></li>
+                        </ul>
+                    </li>
+                    <li class="mobile-threenav-item js-threesub-nav">
+                        <a href="javascript:void(0)" title="All Wearables">All Wearables<i class="icon-add"></i></a>
+                        <ul>
+                            <li><a href="https://store.hihonor.com/us/honor-band-z1" title="Honor Band Z1">Honor Band Z1</a></li>
+                        </ul>
+                    </li>
+                    <!--<li class="mobile-threenav-item js-threesub-nav">
+                          <a href="javascript:void(0)" title="All Tablets">All Tablets<i class="icon-add"></i></a>
+                        <ul>
+                            <li><a href="#" title="Honor Note">Honor Note</a></li>
+                          </ul>
+                      </li>-->
+                </ul>
+            </li>
+          <li class="nomore"><a href="http://club-us.hihonor.com/" title="Community">Community</a>
+            </li>
+            <!--<li class="hasmore">
+                <a href="javascript:void(0)" title="Community">Community<i class="icon-add"></i></a>
+                <ul>
+                    <li><a href="https://club-us.hihonor.com/index" title="community">Community</a></li>
+                    <li><a href="http://www.hihonor.com/us/blogs/" title="blog">Blog</a></li>
+                </ul>
+            </li>
+            <li class="nomore"><a href="http://www.hihonor.com/us/brand/" title="Brand">Brand</a></li>-->
+            <li class="hasmore">
+                <a href="javascript:void(0)" title="Brand">About<i class="icon-add"></i></a>
+                <ul>
+                    <!--<li><a href="http://www.hihonor.com/us/brand/" title="community">Brand</a></li>
+                    <li><a href="http://www.hihonor.com/us/brand/" title="community">Brand</a></li>
+                    <li><a href="http://www.hihonor.com/us/brand/" title="community">Brand</a></li>-->
+                    <li><a href="http://www.hihonor.com/us/brand/index.html" title="brand">Brand Pursuits</a></li>
+                    <li><a href="http://www.hihonor.com/us/blogs/index.html" title="blog">Blog</a></li>
+                    <li><a href="http://store.hihonor.com/us/press-contacts/" title="press center">Press Center</a></li>
+                </ul>
+            </li>
+            <li class="nomore"><a href="http://www.hihonor.com/us/support/" title="Support">Support</a></li>
+        </ul>
+        <div class="mobile-signitem">
+            <a href="https://club-us.hihonor.com/user/login" class="honor-loginbtn" title="login">Login</a>
+            <a class="signUpWap" href="https://club-us.hihonor.com/user/frame?ifmUrl=https://hwid9.hihonor.com/CAS/mobile/standard/register/wapRegister.html?reqClientType=40&amp;loginChannel=40000000&amp;countryCode=us&amp;service=https://club-us.hihonor.com/user/sysAuthority?referer=https://club-us.hihonor.com/iframe/callback?backUrl=https://club-us.hihonor.com/index&amp;lang=en-us&amp;themeName=blue&amp;bizIfmUrl=https://club-us.hihonor.com/user/frame" title="sign up">SIGN UP</a>
+        </div>
+        <ul class="mobile-tipbox">
+            <li><div class="mobile-tipbox-return"></div>Quick link</li>
+            <li><a href="" target="_blank" class="ui-link"></a></li>
+            <li class="group-0">
+                <ul><li><a href="https://web.archive.org/web/20170609123654/https://store.hihonor.com/us/honor-5x" target="_blank" class="ui-link">Honor 5X</a></li><li><a href="https://web.archive.org/web/20170609123654/https://store.hihonor.com/us/honor-8" target="_blank" class="ui-link">Honor 8</a></li><li><a href="https://web.archive.org/web/20170609123654/http://www.hihonor.com/us/support/software-list/index.html" target="_blank" class="ui-link">software</a></li><li><a href="https://web.archive.org/web/20170609123654/http://www.hihonor.com/us/support/manual-list/index.html" target="_blank" class="ui-link">Manual</a></li><li><a href="https://web.archive.org/web/20170609123654/https://store.hihonor.com/us" target="_blank" class="ui-link">Store</a></li></ul>
+            </li>
+            <li class="group-1">
+                <ul>
+                    <!--<li><a href="" target="_blank" class="ui-link">sdf</a></li>
+                    <li><a href="" target="_blank" class="ui-link">Accessories</a></li>
+                    <li><a href="" target="_blank" class="ui-link">Service Help</a></li>
+                    <li><a href="" target="_blank" class="ui-link">Campaign</a></li>
+                    <li><a href="" target="_blank" class="ui-link">Brand</a></li>-->
+                </ul>
+            </li>
+        </ul>
+    </div>
 </div>
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-52JHHB"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-52JHHB');</script>
-<!-- End Google Tag Manager --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d1e8c927fc","applicationID":"5504121","transactionName":"b1dTZRcHXxZTBxUPVlYdcFIRD14LHQcMFRZIU1ZUShBYAEU=","queueTime":0,"applicationTime":226,"atts":"QxBQE18dTBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<!-- main nav -->
+<div class="visible-md visible-lg header-box">
+    <div class="honor-nav">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-2">
+                    <div class="honor-logo"><a href="/us/"><img src="http://www.hihonor.com/us/wp-content/uploads/2016/10/honor_logo_icon.png" title="For The Brave"></a></div>
+                </div>
+                <div class="col-sm-10">
+                    <ul id="nav-cont" class="navwrap">
+                        <li class="navAndSearch">
+                            <div class="nav-list">
+                                <a href="https://store.hihonor.com/us">Store<i class="nav-line"></i></a>
+                                <a href="javascript:void(0)" class="js-nav" data-sec-menu="#product">Product<i class="nav-line"></i></a>
+                        <a href="http://club-us.hihonor.com/">Community<i class="nav-line"></i></a>
+                        <a href="javascript:void(0)" class="js-nav" data-sec-menu="#brand">About<i class="nav-line"></i></a>
+                                <!-- <a href="http://www.hihonor.com/us/brand/" >Brand<i class="nav-line"></i></a>
+                                <a href="javascript:void(0)" class="js-nav" data-sec-menu="#community">Community<i class="nav-line"></i></a>
+                                <a href="javascript:void(0)" class="js-nav" data-sec-menu="#brand">Brand<i class="nav-line"></i></a>-->
+                                <a href="http://www.hihonor.com/us/support/">Support<i class="nav-line"></i></a>
+                            </div>
+                            <div class="nav-search-wrap">
+                                <div class="input-wrap">
+                                    <input class="nav-input-txt" type="text" placeholder="Honor 8">
+                                    <div class="ico"></div>
+                                    <a class="close" href="javascript:;" title="close"></a>
+                                    <ul class="tipbox">
+                                        <li class="group-0">
+                                    <div class="lititle">Quick link</div>
+                                            <ul><li><a href="https://web.archive.org/web/20170609123654/https://store.hihonor.com/us/honor-5x" target="_blank" class="ui-link">Honor 5X</a></li><li><a href="https://web.archive.org/web/20170609123654/https://store.hihonor.com/us/honor-8" target="_blank" class="ui-link">Honor 8</a></li><li><a href="https://web.archive.org/web/20170609123654/http://www.hihonor.com/us/support/software-list/index.html" target="_blank" class="ui-link">software</a></li><li><a href="https://web.archive.org/web/20170609123654/http://www.hihonor.com/us/support/manual-list/index.html" target="_blank" class="ui-link">Manual</a></li><li><a href="https://web.archive.org/web/20170609123654/https://store.hihonor.com/us" target="_blank" class="ui-link">Store</a></li></ul>
+                                        </li>
+                                        <li class="group-1">
+                                    <div class="lititle">Suggested Searches</div>
+                                            <ul>
+                                                <!--<li><a href="" target="_blank">111</a></li>
+                                                <li><a href="" target="_blank">Accessories</a></li>
+                                                <li><a href="" target="_blank">Service Help</a></li>
+                                                <li><a href="" target="_blank">Campaign</a></li>
+                                                <li><a href="" target="_blank">Brand</a></li>-->
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-search">
+                            <a href="javascript:;"><i class="nav-search-icon"></i></a>
+                            <a href="https://store.hihonor.com/us/checkout/cart/"><i class="nav-vmall-icon"></i></a>
+                            <a href="javascript:;" class="js-navsearch" data-search-navbtn="#navuser"><span class="headiconbox"><img src="/us/wp-content/themes/honor/us/images/home/head_ico.png" class="head-img" alt="user name"><i class="red-dot"></i></span><i class="nav-user-icon"></i></a>
+                        </li>
+                    </ul>
+                </div>
 
-</body></html>
+            </div>
+        </div>
+
+    </div>
+    <!-- sec content nav -->
+    <div id="nav-cont-wrap">
+        <div class="container">
+            <div class="nav-cont-wrap">
+                <!-- product item -->
+                <div class="subnav-item" id="product">
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <h3><a href="#" title="All Smartphones">All Smartphones</a></h3>
+                                    <ul class="subnav-text">
+                                        <li><a href="https://store.hihonor.com/us/honor-8" class="js-treemunu" title="Honor 8" data-treeimg="#honor8">Honor 8</a></li>
+                                        <li><a href="https://store.hihonor.com/us/honor-6x" class="js-treemunu" title="Honor 6X" data-treeimg="#honor6x">Honor 6X</a></li>
+                                         <li><a href="https://store.hihonor.com/us/honor-5x" class="js-treemunu" title="Honor 5X" data-treeimg="#honor5x">Honor 5X</a></li>
+
+                                    </ul>
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3><a href="#" title="All Accessories">All Accessories</a></h3>
+                                    <ul class="subnav-text">
+                                        <li><a href="https://store.hihonor.com/us/honor-engine-earphones-plus" class="js-treemunu" title="Engine Earphones" data-treeimg="#honorearphones">Engine Earphones</a></li>
+                                        <li><a href="https://store.hihonor.com/us/honor-5x-flipcover" class="js-treemunu" title="Honor 5X Flipcover" data-treeimg="#honor5xfli">Honor 5X Flipcover</a></li>
+                                        <li><a href="https://store.hihonor.com/us/honor-hybrid-earphones-am175" class="js-treemunu" title="Hybrid Earphones" data-treeimg="#hybridearphones">Hybrid Earphones</a></li>
+                                        <li><a href="https://store.hihonor.com/us/honor-selfie-stick" class="js-treemunu" title="Honor Selfie Stick" data-treeimg="#honorselfiestick">Honor Selfie Stick</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3><a href="#" title="All Wearables">All Wearables</a></h3>
+                                    <ul class="subnav-text">
+                                        <li><a href="https://store.hihonor.com/us/honor-band-z1" class="js-treemunu" title="Honor Band Z1" data-treeimg="#bandz1">Honor Band Z1</a></li>
+
+                                    </ul>
+                                </div>
+                               
+                            </div>
+                        </div>
+                        <div class="col-sm-2">
+                            <div class="treeshow-itembox">
+                                <div class="treeshow-item" id="honor8" style="display:block"><a href="https://store.hihonor.com/us/honor-8"><img src="/us/wp-content/uploads/2016/08/menu-honor-8.png" class="img-responsive center-block" title="Honor 8"></a></div>
+                                <div class="treeshow-item" id="honor6x" style="display:block"><a href="https://store.hihonor.com/us/honor-6x"><img src="/us/wp-content/uploads/2017/01/menu-6x.jpg" class="img-responsive center-block" title="Honor 6x"></a></div>
+                                <div class="treeshow-item" id="honor5x" style="display:block"><a href="https://store.hihonor.com/us/honor-5x"><img src="/us/wp-content/uploads/2016/08/menu-honor-5X.png" class="img-responsive center-block" title="Honor 5x"></a></div>
+
+                                <div class="treeshow-item" id="honorearphones"><a href="https://store.hihonor.com/us/honor-engine-earphones-plus"><img src="/us/wp-content/uploads/2016/08/menu-honor-engine-earphone-plus.png" class="img-responsive center-block" title="Engine Earphones"></a></div>
+                                <div class="treeshow-item" id="honor5xfli"><a href="https://store.hihonor.com/us/honor-5x-flipcover"><img src="/us/wp-content/uploads/2016/08/menu-honor-5X-flipcover.png" class="img-responsive center-block" title="Honor 5X Flipcover"></a></div>
+                                <div class="treeshow-item" id="hybridearphones"><a href="https://store.hihonor.com/us/honor-hybrid-earphones-am175"><img src="/us/wp-content/uploads/2016/08/menu-honor-hybrid-earphones-AM175.png" class="img-responsive center-block" title="Hybrid Earphones"></a></div>
+                                <div class="treeshow-item" id="honorselfiestick"><a href="https://store.hihonor.com/us/honor-selfie-stick"><img src="/us/wp-content/uploads/2016/08/menu-honor-selfie-stick.png" class="img-responsive center-block" title="Honor Selfie Stick"></a></div>
+                                <div class="treeshow-item" id="bandz1"><a href="https://store.hihonor.com/us/honor-band-z1"><img src="/us/wp-content/uploads/2016/08/menu-honor-band-Z1.png" class="img-responsive center-block" title="Honor Band Z1"></a></div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+                <!-- community item -->
+                <div class="subnav-item" id="community">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <ul class="subnav-text">
+                                <li><a href="https://club-us.hihonor.com/index" class="js-treemunu" title="community" data-treeimg="#communityimg">Community</a></li>
+                                <li><a href="http://www.hihonor.com/us/blogs/" class="js-treemunu" title="blog" data-treeimg="#blogimg">Blog</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-10">
+                            <div class="treeshow-itembox">
+                                <div class="treeshow-item" id="communityimg" style="display:block">
+                                    <a href="https://club-us.hihonor.com/index"><img src="/us/wp-content/uploads/2016/08/community1.png" class="img-responsive center-block" title="community"></a>
+                                </div>
+                                <div class="treeshow-item" id="blogimg">
+                                    <a href="http://www.hihonor.com/us/blogs/"><img src="/us/wp-content/uploads/2016/08/blog1.png" class="img-responsive center-block" title="blog"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- brand item -->
+                <div class="subnav-item" id="brand">
+                    <div class="row">
+                        <div class="col-sm-2 col-sm-offset-6">
+                            <ul class="subnav-text" style="border:0;">
+                                <li><a href="http://www.hihonor.com/us/brand/index.html" class="js-treemunu" title="brand">Brand Pursuits</a></li>
+                                <li><a href="http://www.hihonor.com/us/blogs/index.html" class="js-treemunu" title="blog">Blog</a></li>
+                                <li><a href="http://store.hihonor.com/us/press-contacts/" class="js-treemunu" title="press center">Press Center</a></li>
+                            </ul>
+                        </div>
+                        <!--<div class="col-sm-10">
+                            <div class="treeshow-itembox">
+                                <div class="treeshow-item" id="brandimg" style="display:block">
+                                    <a href="http://www.hihonor.com/us/brand/"><img src="/us/wp-content/uploads/2016/08/brand1.png" class="img-responsive center-block" title="Brand"/></a>
+                                </div>
+                                <div class="treeshow-item" id="eventimg">
+                                    <a href="http://www.hihonor.com/us/brand/"><img src="/us/wp-content/themes/honor/us/images/home/nav_brand.jpg" class="img-responsive center-block" title="Event"/></a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- search content nav -->
+    <div id="navsearch-box">
+        <div class="navsearch-item" id="navuser">
+            <ul>
+                <span class="navsearch-arrow"></span>
+                <li><i class="icona"></i><a href="javascript:;">My Profile</a></li>
+                <li><i class="iconb"></i><a href="javascript:;">My Account</a></li>
+                <li><i class="iconc"></i><a href="javascript:;">My Order</a></li>
+                <li><i class="icond"></i><a href="javascript:;">My Community</a></li>
+            </ul>
+            <a href="https://club-us.hihonor.com/user/login" class="honor-loginbtn">Login</a>
+        </div>
+    </div>
+</div>
+<div class="container parameters-box" id="main">
+<div class="parameters-textbox termsbox">
+<h1>
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>Privacy Policy – United States</strong></span><br>
+		</h1>
+<p>
+			<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Last Revised: May 11, 2016</strong></span>
+		</p>
+<p>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">Through this Privacy Policy (the “Policy”) we, Huawei Device USA, Inc. (together with our affiliates, “Huawei”, "us", "we") would like to inform you about the way we collect and process your personal data and information. Please note this Policy applies to, hihonor.com/us, gethuawei.com, Huawei's other online locations, apps and social media (collectively, the "Sites"), Huawei's consumer electronic products branded as "Huawei" or "Honor" ("Products"), and services and software provided by Huawei and certain third parties ("Services") in connection with the Products. Huawei may provide you with information regarding additional policies that apply to specific Sites, Products or Services (e.g., certain devices, operating systems, or apps) or portions thereof, which supplement this Policy and will act as notice to you when Huawei is collecting and processing information from those Sites, Products or Services. Please pay attention to our notifications when using our Products or Services. </span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#acceptance">1. Acceptance of Privacy Policy</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#types">2. Types of Information We Collect</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#collect">3. How Your Information Is Collected</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#personal">4. How We Use Your Personally Identifiable Information</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#non-personally">5. How We Use Your Non-Personally Identifiable Information</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#non-promotional">6. Non-Promotional Communications With You</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#disclosures">7. Disclosures To Third Parties</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#track">8. How We Respond to "Do Not Track" Signals</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#update">9. Request to Update Your Information</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#children">10. Children</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#links">11. Links</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#security">12. Security</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#changes">13. Changes To This Policy</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><a href="#contact">14. Questions and Contact</a></span>
+		</p>
+<h3 id="acceptance">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>1. Acceptance of Privacy Policy</strong></span><br>
+		</h3>
+<p>
+			<span style="font-family: verdana, geneva, sans-serif; font-size: 10pt;">Each time you access, use or browse the Sites, Products or Services; interact with Huawei; or participate in any events, promotions, sweepstakes, surveys, questionnaires, or other activities sponsored by Huawei (collectively, "Activities"), you signify your acceptance of the then-current Policy. If you do not accept this Policy, please do not provide information to Huawei; access, use or browse the Sites, Products or Services; or participate in any Activities. </span>
+		</p>
+<h3 id="types">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>2. Types of Information We Collect</strong></span><br>
+		</h3>
+<p>
+			We collect certain personally identifiable information about you, which includes, without limitation, information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual, such as such as first and last name, email addresses, delivery and billing addresses, telephone numbers, fax numbers, user names and passwords, dates of birth, transaction history, date/time of purchase, Product information and error logs, refund history, credit and debit card information, bank account information, the precise or approximate geo-location of your Product, refund and repair information relating to your Product, comments or feedback regarding the Sites, Products or Services, and other non-public information. We use this information for various purposes, for example to process your order, to send you relevant marketing messages and to invite you to our Activities, and in other ways that are further detailed below.&nbsp;</p>
+<p>			We also collect certain non-personally identifiable information, including, without limitation, information that does not personally identify you as the individual to whom the information relates, such as information that is aggregated by Huawei or a third party, or information that is not linked to contact information or other personally identifiable information about you. This may include information about your use of the Sites, Products and Services, such as your IP address(es), usage statistics, performance statistics, browsing and navigational history when visiting the Sites and, general geographic location such as the city from which your computer or device is connecting to the Internet, webpages requested and visited, timestamps, sites you visit prior to and after visiting the Sites, type of operating system you use on your computer (e.g., Microsoft Windows or Mac OS) or device (e.g., iOS or Android) to access the Sites, the type of browser you use (e.g., Firefox, Chrome, Internet Explorer, Safari), the domain name of your internet service provider; and information regarding your Internet location if and when you see Huawei ads and whether you click on such ad.</p>
+<p>			In addition, Huawei may collect information regarding your age, gender, zip code, occupation, interests, purchase preferences, language preferences, account IDs and passwords for the Sites, and content you access, view, click on or search for when on the Sites, the device from which you access such content and the length of time for which you view same, information regarding the number of times you share content on the Sites through social plugins such as Facebook, Twitter, Instagram, YouTube, Pinterest, LinkedIn and Google+ as well as other information regarding your sharing of such content, information regarding what you purchased or placed in your shopping cart when on the Site, how you interact with content through the Sites, Products or Services, information regarding what you access, input, save, send and/or receive on or through the Products or Services, and other information regarding the Sites, Products and Services and your use of same, as further described below. In the event that such information is maintained in a manner that identifies your name or contact information, it will be treated as personally identifiable information; otherwise, such information will be treated as non-personally identifiable information. Huawei may combine personally identifiable information collected through the Sites, Products and Services and with information available from other sources (such as offline records or publicly available information). We will treat the combined information as personally identifiable information.
+		</p>
+<h3 id="collect">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>3. How Your Information Is Collected</strong></span><br>
+		</h3>
+<h4>
+			<span style="font-size: 14pt; font-family: verdana, geneva, sans-serif;"><strong>Personally Identifiable Information that You Give Us or That is Generated by Your Actions</strong></span><br>
+		</h4>
+<p>
+			When you make use of the Sites, Products and Services we collect certain personally identifiable information about you. For example, you may choose to provide us with personally identifiable information when you create an account or profile on the Sites or on your Product or Service, purchase Products or Services, register or return your Products or Services, have your purchases fulfilled, have your Products or Services delivered, conduct Product or Service activation or verification, make changes to or use your Huawei account, request and receive technical support or authorized updates, communicate or interact with customer service or other Huawei personnel, participate in an Activity, or when you provide other information to us through the Sites or otherwise. This information may include your delivery or billing address, user ID, password, order number, telephone number, your payment details when ordering from the Sites, your email-address, gender, date of birth, certain personal preferences, and other personally identifiable information described in Section 2 above. Similarly, you may have the option to backup your Product to a cloud Service offered by Huawei, and doing so may result in the sharing of certain personally-identifiable information with Huawei.<br>
+			Actions that you take such as making a purchase on the Sites, returning a Product or Service, or requesting technical support, may automatically create certain personally identifiable information that we collect, such as transaction and order history, order numbers, return history, and ticket numbers. The Sites may provide you with an option to log into the Sites using your profile information from a social network that you are registered with, by using such a method to log in, Huawei may collect your username, email and/or password associated with your account on such social network
+		</p>
+<h4>
+			<span style="font-size: 14pt; font-family: verdana, geneva, sans-serif;"><strong>Information Collected through Technology</strong></span><br>
+		</h4>
+<p>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">Your personally identifiable information and non-personally identifiable information may be collected through a wide range of technologies, many of which are detailed below. In the event that such information is maintained in a manner that identifies your name or contact information or is combined with personally identifiable information, it will be treated as personally identifiable information; otherwise, such information will be treated as non-personally identifiable information.</span>
+		</p>
+<p>
+			<span style="font-size: 12pt; font-family: verdana, geneva, sans-serif;"><strong>Cookies And Other Identifiers</strong></span>
+		</p>
+<p>
+			We use various technologies to collect information when you visit our Sites, which includes cookies, web beacons, pixels, gifs, tags, browser web storage, application data caches or similar technologies or other identifiers from your device or browser ("Collection Technology"). When you visit the Sites, your web browser may store cookies on your computer or device, or your computer or device may be exposed to other Collection Technology which work independently or in conjunction with cookies. Our cookies and other Collection Technology will enable the Sites to "remember" you, either during your single visit (using a "session cookie") or for repeated visits (using a "persistent cookie"), and may be used to analyze the way you interact with our website in order to optimize our services, to improve your experience and to provide you with personalized advertisements. Cookies may help the Sites remember your settings, such as font size, and other preferences for how you want to view the website on your computer or mobile device. Further, some of the interactive features of the Sites also rely on Collection Technology placed by third parties. The following are examples of the types of cookies that we use and for what purpose:</p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>•&nbsp;&nbsp;Essential cookies</strong>. These cookies are used to facilitate essential functionalities on the Sites, such as to keep your shopping basket during the checkout process or to facilitate payment.</span></p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>•&nbsp;&nbsp;Functional cookies</strong>. We use these cookies to provide a smooth experience on the Sites, for example by saving your preferences and storing your shopping basket for later visits.</span></p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>•&nbsp;&nbsp;Performance and analytics cookies</strong>. These cookies help us to understand the behavior of the visitors to the Sites to optimize our services and to improve your experience.</span></p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>•&nbsp;&nbsp;Social media</strong>. </span>The Sites may provide you with social plug-ins from various social networks such as Facebook, Twitter, Instagram, YouTube, Pinterest, LinkedIn and Google+. These plug-ins might rely on cookies, which could, among other things, be used to offer certain functionalities, but also to track your behavior on the Sites and across the web. We have no control over how these social network use cookies and kindly refer you to the privacy policies of those social networks for detailed information about the collection and transfer of personal data, what rights you have and any options you may have with respect to privacy settings.</p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>•&nbsp;&nbsp;Advertisements</strong>. Some of the cookies on the Sites are used for advertisement purposes. This enables us to show our advertisements on partner websites to visitors who are interested in our products. Retargeting technologies analyze your cookies and display advertisements based on your past surfing behavior. Further details about our marketing and use of retargeting technologies are discussed below.&nbsp;</span></p>
+<p>			You can change your browser settings to delete or prevent cookies from being stored on your computer or mobile device without your explicit consent. The ‘help’ section in your browser should provide information on how to manage your cookie settings. Find out how this works for your browser here:</p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>Explorer</strong>: <a href="https://support.microsoft.com/en-gb/gp/cookies/en" target="_blank">support.microsoft.com/gp/cookies/en</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>Firefox</strong>: <a href="https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&amp;redirectslug=Cookies" target="_blank">support.mozilla.com/en-US/kb/Cookies</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>Chrome</strong>:<a href="https://support.google.com/chrome/answer/95647?hl=en" target="_blank">google.com/support/chrome/bin/answer.py?hl=en&amp;answer=95647</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>Safari</strong>: <a href="https://support.apple.com/kb/PH5042?locale=en_US" target="_blank">support.apple.com/kb/PH5042</a></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>Adobe (flash cookies)</strong>: <a href="https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html" target="_blank">helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html</a></span></p>
+<p>			<span style="font-size: 12pt; font-family: verdana, geneva, sans-serif;"><strong>Automatic Collection from the Sites – Server Logs/Browsers</strong></span></p>
+<p>			A visit to the Sites automatically may result in certain data being sent from your browser to our servers, which, among other purposes, makes it possible to optimize our services and personalize and improve your experience on the Sites. This information may include information you enter on the Sites, your IP address, date and time of your visit, referral URL (the site from which you originate) and information about the browser you used (browser type and version, operating system, etc.), as well as other non-personally identifiable information described in Section 2 above. Please note that if you are logged into your Huawei account certain information such as the content you access, view, click on or search for when on the Sites, the devices from which you access such content, the length of time for which you view same information, and the content in your shopping cart on the Sites, may become personally identifiable.
+		</p>
+<p>
+			<span style="font-size: 12pt; font-family: verdana, geneva, sans-serif;"><strong>Automatic Collection from Products and Services</strong></span>
+		</p>
+<p>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">Registration and use of the Products and Services also may result in certain data being sent from the Product or Service to us. This information may include hardware model, device name, MAC address, IMEI number, MEID number, IMSI number, Electronic Serial Number, Mobile Serial Number, and other distinctive identifiers for Products and Services, information regarding the operating system of the Product and certain of the selected settings with respect to the Products and Services; the apps and software that you download to the Products; the cellular carrier that provides the Product with cellular services, your service provider’s network ID (public land mobile network), certain information and content sent and/or received through the Products or Services; websites visited through the Products or Services; how you interact with content and apps through the Products or Services; information regarding what you access, input and/or save on or through the Products or Services, and general usage and performance information and statistics relating to the Product or Service.&nbsp;</span></p>
+<p>			<span style="font-size: 12pt; font-family: verdana, geneva, sans-serif;"><strong>Location Based Services through Products and Services</strong></span></p>
+<p>			We also may collect and use the geo-location data from the Products or Services when you use certain location-based service features, such as when you search for weather based on specific geo-locations or try to track a lost or stolen Product using geo-location. The information collected using these location-based service features also may include the ID, type and model of the Product, and the real-time geo-location information of the Product (including Global Positioning System information, GPS, Wi-Fi or ID number of the signal tower of your carrier network). You can turn on, change, or turn off your GPS information by going into the GPS settings on the Product, but you may not have the right to control Wi-Fi and ID numbers of Product or the signal tower of your carrier network as this depends on your carrier’s policy.</p>
+<p>			<span style="font-size: 12pt; font-family: verdana, geneva, sans-serif;"><strong>Google Analytics</strong></span></p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">The Sites may use Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses cookies and other Collection Technology to collect and store anonymous information about you, which may include non-personally identifiable information. You can read Google Analytics’ privacy policy at <a href="http://www.google.com/analytics/learn/privacy.html" target="_blank">http://www.google.com/analytics/learn/privacy.html</a> and Google Analytics Terms of Use at <a href="http://www.google.com/analytics/tos.html" target="_blank">http://www.google.com/analytics/tos.html</a>. You can opt-out from being tracked by Google Analytics in the future by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser at: <a href="http://tools.google.com/dlpage/gaoptout?hl=en" target="_blank">http://tools.google.com/dlpage/gaoptout?hl=en</a>.</span></p>
+<p>			<span style="font-size: 14pt; font-family: verdana, geneva, sans-serif;"><strong>Troubleshooting</strong></span>
+		</p>
+<p>
+			If the Products or a Site experiences any errors, you may be able to send the error information to Huawei so that Huawei or Huawei's partners can troubleshoot the errors. If you opt to do so, Huawei may collect relevant information about the error, such as your Product model, application name and version, Product identification number, and error logs
+		</p>
+<h4>
+			<span style="font-size: 14pt; font-family: verdana, geneva, sans-serif;"><strong>Other Means of Collection</strong></span><br>
+		</h4>
+<p>
+			Huawei also may acquire personally identifiable and non-personally identifiable information from other sources (such as offline records or publicly available information), from third parties that provide you with cellular or wireless networks, products, software or apps that you utilize with your Products and Services; from third parties such as our business partners, Activities partners and sponsors, vendors, merchants and other third parties; or from the owners or operators of sites or applications where our advertisements appear, some of which partner with Huawei or with an advertisement network used by Huawei. Non-personally identifiable information also may be obtained by these other sources from inferences based upon the sites you visit; third party data; information you share on other sites, social media platforms and applications; or demographics derived from profiles or accounts that you create, to the extent permitted in their privacy policies.
+		</p>
+<h3 id="personal">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>4. How We Use Your Personally Identifiable Information</strong></span><br>
+		</h3>
+<p>
+			<span style="font-size: 14pt; font-family: verdana, geneva, sans-serif;"><strong>For the Purposes Provided</strong></span><br>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">We may use the personally identifiable information you provide for the purposes for which you provided it. For example, we will use your information to process and respond to your requests, orders and inquiries and provide services to you; deliver your Products and Services to you, to administer and process payments; to register, activate, validate and/or update your Products or Services; to provide maintenance or to troubleshoot the Sites or your Products or Services; and to send you notices regarding your transactions. &nbsp;</span>
+		</p>
+<p>
+			<span style="font-size: 14pt; font-family: verdana, geneva, sans-serif;"><strong>Promotional Activities</strong></span></p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">We may use your information to provide you with the promotional services you have requested from us. This may include processing your submissions and using your contact information in connection with Activities. You can unsubscribe from promotional emails by clicking on the unsubscribe link that is contained in each such email or by sending us a message at <a href="mailto:honor.us@huawei.com">honor.us@huawei.com</a>.&nbsp; For Honor products contact us at support.us@hihonor.com.</span></p>
+<p>			<span style="font-size: 14pt; font-family: verdana, geneva, sans-serif;"><strong>Marketing and Improvements</strong></span></p>
+<p>			We may use your information for marketing and survey purposes. Below you can find a more detailed description of the information we use and how we use it.</p>
+<p>			<span style="font-size: 12pt; font-family: verdana, geneva, sans-serif;"><strong>•&nbsp;&nbsp;Analytics Information</strong></span></p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">The way you interact with our brand provides us valuable information about your interests and preferences. To learn about you and your interests, we monitor and analyze your overall interactions with our brand using various kinds of information, such as your age, your location, your demographics and interests, your orders on the Sites and your product reviews, your social media accounts, and how you use the Sites, Products and Services and information regarding your browsing and viewing preferences on the Sites. We use this information to develop, deliver, and improve the Sites, Products, Services and our advertising.&nbsp;</span></p>
+<p>			<span style="font-size: 12pt; font-family: verdana, geneva, sans-serif;"><strong>•&nbsp;&nbsp;Marketing Communications</strong></span></p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">When you provide us with contact details such as your email, phone number, or social media account, or when you connect your social media account to the Sites by logging into the Sites through your social media account, you authorize us to use your contact details to send you promotional messages we think may be relevant to you. If you no longer want to receive promotional messages via a specific email address, phone number or social media network, we offer you an easy way in each promotional message to unsubscribe from receiving such messages. Please note that unsubscribe requests may take up to ten (10) business days to become effective. In addition, you can send us a message to opt-out from our promotional messages. For Huawei products contact us at <a href="mailto:supportusa@huawei.com">supportusa@huawei.com</a>. For Honor products contact us at support.us@hihonor.com. Promotional messages we send you may contain new developments, advertisements and commercial information about our products and services, events, promotions and other Activities, as well as other announcements, promotions, and newsletters. We may use your information to personalize such promotional messages. We may also use different means such as email, social media etc. for opinion research and to learn about your experience with our brand. Depending on the situation, these messages may be tailored to your individual preferences and interests as described above.</span>
+		</p>
+<p>
+			<span style="font-size: 14pt; font-family: verdana, geneva, sans-serif;"><strong>Other Purposes</strong></span>
+		</p>
+<p>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">We also use the information we collect to diagnose problems with the Sites, Products and Services; for administration and improvement of the Sites, Products and Services, and to enhance the user experience with respect to the Sites, Products and Services; to provide you with updates and upgrades for the Sites, Products and Services; to send important notices such as communications about Activities, changes to our terms, conditions, and policies; to better serve you; to invite you to complete market surveys; for fraud prevention, internal operations, legal compliance, and other public and security related purposes; to customize content; to analyze our business operations and market share; to improve the security of Huawei's networks and services; to activate your after-sale Services; and to enforce the Terms of Use and any supplemental terms and/or policies of Huawei. In so far as required under applicable law, we will ask for your consent if we wish to use your personally-identifiable information for other purposes than those listed in this Policy.</span>
+		</p>
+<h3 id="non-personally">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>5. How We Use Your Non-Personally Identifiable Information</strong></span><br>
+		</h3>
+<p>
+			We may use non-personally identifiable information in similar ways as we use your personally-identifiable information, but we reserve the right to use your non-personally identifiable information for any legal purpose. Some examples of how we may use your non-personally identifiable information is for the following marketing purposes:</p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">Your non-personally identifiable information may be used to analyze and develop advertisements and advertising campaigns, provide you with special offers and promotions and determine the effectiveness of same, optimize and determine the effectiveness of content and advertisements, analyze your interactions with the content and advertisements you are presented with, and how same relates to your visits to the Sites and use of the Products and Services.</span></p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">Your non-personally identifiable information also may be used by Huawei in conjunction with retargeting technologies which allow us to show advertisements or targeted content to you on the Sites, Products or Services or on our partner's websites or apps. Retargeting technologies analyze your cookies and other Collection Technology, and display advertisements based on your past surfing behavior, past ads that you have viewed and non-personally identifiable information collected over time by us and third parties. Some of Huawei's third party partners may participate in the Digital Advertising Alliance’s Self-Regulatory Program for Online Behavioral Advertising and allow consumers the ability to opt-out of targeted advertising based on web activity tracking. For more information regarding the foregoing, please visit http://www.aboutads.info/choices/. Please note that even if Huawei's third party partners participate in the Digital Advertising Alliance’s Self-Regulatory Program for Online Behavioral Advertising and you opt of targeted advertising based on web activity tracking, you still may receive standard advertisements from us and targeted advertisements from third parties after clicking the link and following the instructions provided therein. You may need to re-click the link and follow the instructions provided therein if you delete cookies or other Collection Technology or use a different computer, device or browser. Please check the Cookies Policy for further information on cookies and instructions on how to disable retargeting.&nbsp;</span>
+		</p>
+<h3 id="non-promotional">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>6. Non-Promotional Communications With You</strong></span><br>
+		</h3>
+<p>
+			You authorize Huawei to send email to you, telephone you and/or send you direct mail to respond to your communications, communicate with you about your transactions with Huawei or technical information about the Sites, or provide you with other non-promotional communications about us, the Sites, Products or Services. You may not opt out of such communications
+		</p>
+<h3 id="disclosures">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>7. Disclosures To Third Parties</strong></span><br>
+		</h3>
+<p>
+			We use various companies, including some of our affiliates, as service providers which process data and perform other functions on our behalf, such as hosting providers, payment providers, repair centers, logistic companies, merchants and vendors engaged for the purpose of managing, administering or executing an Activity, and other agents, vendors, advertisers, consultants. We may share your information with these companies, and these companies may use your information on our behalf as set out in this Policy.</p>
+<p>			Huawei also may disclose the information it collects to others: (i) to confirm or update information provided by you; (ii) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of Huawei’s business or operations (including without limitation in connection with bankruptcy or any similar proceedings); (iii) that are cellular carriers that use information to provide services that you request from them;&nbsp; (iii) that are its business partners, strategic partners, Activities sponsors or partners for our internal purposes; or (vi) as otherwise authorized by you.</p>
+<p>			Huawei does not share personally-identifiable information with third parties for the purpose of allowing the third party to directly market to you, without obtaining your prior consent.</p>
+<p>			Your geo-location data and other information regarding the Products or Services and your use thereof, may be shared with third party apps, cellular networks, Wi-Fi providers, websites, operating systems, services and software that you utilize with your Products or Services. Please review the privacy policies of the apps, cellular networks, Wi-Fi providers, websites, services and software that you utilize with your Products or Services, prior to using same.<b> </b>Please note that you can opt-out from sharing your location information with third party apps by turning the GPS feature off in the Product's settings.</p>
+<p>			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">We also may share your information when we believe you have acted in violation of the Terms of Use or supplemental terms and/or policies of Huawei, to investigate, prevent or take action regarding suspected illegal activities, fraud or potential threats, or to exercise legal rights or defend against claims, when we believe that doing so may protect your safety or the safety of Huawei, or others, or as otherwise permitted or required by law. We may disclose your information in the event that we are ordered to do so through a valid court order, subpoena or official request from a law enforcement agency or court.&nbsp;</span></p>
+<p>			The Sites may provide you with social plug-ins from various social networks such as Facebook, Twitter, Instagram, YouTube, Pinterest, LinkedIn and Google+. If you choose to interact through social media, your activity on the Sites may also be available to these social networks. If you are logged-in to one of these social networks when you visit the Sites, the social network might add some information about the Sites, Products or Services to your respective profile and/or your use thereof. If you are interacting with one of the social plug-ins on our websites, this information will be transferred to the social network. Please read the privacy policies of these social networks for detailed information about the collection and transfer of personal data, what rights you have and how you can achieve satisfactory privacy settings.
+		</p>
+<p>
+			Additionally, we may take personally identifiable information and de-identify it and share it in a de-identified or aggregated form with third parties, advertisers and/or business partners to analyze the Sites’ usage or demographics, or improve our products or services, improve our user experience, or for similar purposes. We will not re-identify such data and we will ask our contracting parties to agree to keep the data in its de-identified form
+		</p>
+<h3 id="track">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>8. How We Respond to “Do Not Track” Signals</strong></span><br>
+		</h3>
+<p>
+			Huawei does not alter the practices detailed herein based upon your selection of the "Do Not Track" setting or other "opt out" setting or feature that may be offered by your browser; however, Huawei reserves the right to do so in the future without notice to you.
+		</p>
+<h3 id="update">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>9. Request to Update Your Information</strong></span><br>
+		</h3>
+<p>
+			Please note that you are responsible for keeping your information current and up-to-date. You may update your information by contacting us.&nbsp; For Huawei products contact us at <a href="mailto:supportusa@huawei.com">supportusa@huawei.com</a>. For Honor products contact us at <a href="mailto:support.us@hihonor.com">support.us@hihonor.com</a>. We will use reasonable efforts to process any change you request; provided, however, that requests to delete information are subject to Huawei's internal reporting, processing and retention policies and all applicable legal obligations. When we can process change requests, we will do so for free, except where it would require a disproportionate effort and or if a fee is allowed under applicable law
+		</p>
+<h3 id="children">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>10. Children</strong></span><br>
+		</h3>
+<p>
+			The Sites, Products and Services are not directed toward children under 13 years, nor do we knowingly collect personally-identifiable information from children without requiring that the child seek prior parental consent, as required by applicable law.&nbsp; If you are under 13 years of age, you are not permitted to submit any personally identifiable information to Huawei. If we accidently collect data of children under 13 years of age, we will delete the data as soon as possible after you make us aware of same by emailing us. For Huawei products contact us at <a href="mailto:supportusa@huawei.com">supportusa@huawei.com</a>. For Honor products contact us at <a href="mailto:support.us@hihonor.com">support.us@hihonor.com</a>. &nbsp;We encourage parents and guardians to take an active role in their children’s online and mobile activities and interests
+		</p>
+<h3 id="links">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>11. Links</strong></span><br>
+		</h3>
+<p>
+			<span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;">You may have the opportunity to follow links on the Sites to other sites that may be of interest to you. Huawei endeavors to only link to reputable organizations. Because other sites may not be hosted or controlled by Huawei, we are not responsible for the privacy practices of those sites or the content provided thereon. Therefore, the privacy policies with respect to other sites may differ from those applicable to the Sites. We encourage you to review the privacy policies of each other site. This Policy only applies to information collected and maintained by Huawei.</span>
+		</p>
+<h3 id="security">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>12. Security</strong></span><br>
+		</h3>
+<p>
+			We are committed to protecting your personally identifiable information and have taken reasonable technical and organizational measures to protect your information against any loss, alteration, access or misuse. Huawei will retain your personally identifiable information in accordance with its internal reporting, processing and retention policies and applicable law. No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Huawei to intercept or access transmissions or private communications unlawfully. While we strive to protect personally identifiable information, neither Huawei nor our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is at your own risk. Personally identifiable information collected by Huawei may be stored and processed in the United States, Germany or any other country in which Huawei or its affiliates or service providers maintain facilities. By using the Sites, Products or Services, you expressly consent to any such transfer of information outside of the United States. Although we take your privacy duly in account, we advise you to make sure your device has been reset and all data has been wiped in the event that you are sending your Product back for repairs or return.
+		</p>
+<h3 id="changes">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>13. Changes To This Policy</strong></span><br>
+		</h3>
+<p>
+			This Policy may be revised from time to time in order to keep pace with new developments and opportunities relating to the Internet and to stay in line with current laws, among other reasons. Should the Policy be revised, Huawei will post the changes on the Sites and the new Policy will be effective immediately upon posting. When required by law, any material changes in the manner that we use or share personally identifiable information will apply only to information collected after posting of the revised Policy, unless we provide notice, have other communications with you or otherwise obtain your consent in accordance with applicable law. You can determine when the Policy was last revised by referring to the "Last Revised" legend at the top of this page
+		</p>
+<h3 id="contact">
+			<span style="font-family: verdana, geneva, sans-serif;"><strong>14. Questions and Contact</strong></span><br>
+		</h3>
+<p>
+			If you have any questions or concerns about our Sites, Products or Services, our use of your information or this Policy, please contact us.&nbsp; For Huawei products contact us at <a href="mailto:supportusa@huawei.com">supportusa@huawei.com</a> or by calling 1-888-548-2934. For Honor products contact us at <a href="mailto:support.us@hihonor.com">support.us@hihonor.com</a> or by calling 1-844-524-6667<strong>.</strong>
+		</p>
+<h4 style="text-align: right;">
+			<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Copyright © 2016 Huawei Device USA, Inc. All rights reserved</strong></span><br>
+		</h4>
+<p></p></div>
+</div>
+<div id="my_honor_post_DOCID" style="display:none">4755</div><!-- foot -->
+<div id="video-dialog" class="modal fade" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <a href="#" class="close-video-btn">Close X</a>
+            </div>
+            <div class="modal-body">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 no-wrapp">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <div class="video-content">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <div class="honor-footbox">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="row">
+                                                <div class="col-sm-3 foot-parent"><h3><a class="foot-title js-footertitle" href="javascript:void(0)" onclick="ga('send', 'button', '+About Honor');">About Honor<i class="icon-add"></i></a></h3>
+<ul class="foot-list">
+<li><a href="http://www.hihonor.com/us/brand/" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Brand Pursuits');" title="Brand Pursuits">Brand Pursuits</a></li>
+<li><a href="/us/blogs" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Blog');" title="Blog">Blog</a></li>
+<li><a href="http://club-us.hihonor.com/" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Community');" title="Community">Community</a></li>
+<li><a href="https://store.hihonor.com/us/press-center" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Press Center');">Press Center</a></li>
+</ul>
+</div><div class="col-sm-3 foot-parent"><h3><a class="foot-title js-footertitle" href="javascript:void(0)" onclick="ga('send', 'button', '+Products');">Products<i class="icon-add"></i></a></h3>
+<ul class="foot-list">
+<li><a href="https://store.hihonor.com/us/honor-8" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Honor 8');">Honor 8</a></li>
+<li><a href="https://store.hihonor.com/us/honor-6x" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Honor 6X');">Honor 6X</a></li>
+<li><a href="https://store.hihonor.com/us/honor-5x" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Honor 5X');" title="Honor 5X">Honor 5X</a></li>
+<li><a href="https://store.hihonor.com/us/honor-band-z1" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Honor Band Z1');" title="Honor Band Z1">Honor Band Z1</a></li>
+<li><a href="https://store.hihonor.com/us/honor-hybrid-earphones-am175" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Hybrid Earphones');" title="Hybrid Earphones">Hybrid Earphones</a></li>
+<li><a href="https://store.hihonor.com/us/honor-engine-earphones-plus" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Engine Earphones');" title="Engine Earphones">Engine Earphones</a></li>
+<li><a href="https://store.hihonor.com/us/selfie-stick" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Selfie Stick');" title="Selfie Stick">Selfie Stick</a></li>
+</ul>
+</div><div class="col-sm-3 foot-parent"><h3><a class="foot-title js-footertitle" href="http://www.hihonor.com/us/support/" onclick="ga('send', 'button', '+Support');">Support<i class="icon-add"></i></a></h3>
+<ul class="foot-list">
+<li><a href="https://store.hihonor.com/us/help-faq" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+FAQ');" title="FAQ">FAQ</a></li>
+<li><a href="https://store.hihonor.com/us/warrantypolicy" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Warranty Policy');" title="Warranty Policy">Warranty Policy</a></li>
+<li><a href="https://store.hihonor.com/us/about-returnspolicy" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Returns Policy');" title="Returns Policy">Returns Policy</a></li>
+<li><a href="https://store.hihonor.com/us/shippingpolicy" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Shipping Policy');" title="Shipping Policy">Shipping Policy</a></li>
+<li><a href="https://store.hihonor.com/us/recycling-program" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Recycling Program');" title="Recycling Program">Recycling Program</a></li>
+<li><a href="http://www.hihonor.com/us/support/manual-list/" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Manuals');" title="Manuals">Manuals</a></li>
+<li><a href="http://www.hihonor.com/us/support/software-list/" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Downloads');" title="Downloads">Downloads</a></li>
+</ul>
+</div>                                            </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="footer-right">
+                        <img src="/us/wp-content/themes/honor/us/images/home/foot_logo.png" class="img-full center-block" alt="For The Brave" title="For The Brave">
+                        <!--share-->
+                        <p class="contact-us hidden-xs">
+                            Contact us : <a class="js-toemail-btn" data-email-addr="support.us@hihonor.com" data-email-body="Please drop your comments below: (Come from the page of support.us@hihonor.com )" data-email-title="I want to feedback" href="javascript:void(0)">support.us@hihonor.com</a>
+                        </p>
+                        <ul class="honor-share">
+                            <li>
+                                <a href="https://twitter.com/honor_usa" target="_black"><i class="twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/honorusa/" target="_black"><i class="instagram"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/usahonor/" target="_black"><i class="facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/channel/UCoxBR2s_VJx_UzIroSLpwPQ/feed" target="_black"><i class="youtube"></i></a>
+                            </li>
+                        </ul>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Privacy -->
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-7">
+                                        <ul><li><a href="http://www.hihonor.com/us/privacy-policy/" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Privacy Policy');" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="http://www.hihonor.com/us/limited-warranty/" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Limited-warranty');" title="Limited-warranty">Limited-warranty</a></li>
+<li><a href="http://www.hihonor.com/us/recycling-program/" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Recycling-program');" title="Recycling-program">Recycling-program</a></li>
+<li><a href="http://www.hihonor.com/us/terms-of-use/" onclick="ga('send', 'button', 'http://www.hihonor.com/us/privacy-policy/+Terms of Use');" title="Terms of Use">Terms of Use</a></li>
+</ul>                                    </div>
+                <div class="col-sm-5">
+                    <p>
+                        Copyright © 2017 Huawei Device USA, Inc. All rights reserved.
+                                                			<a href="/global/worldwide/" title="USA" class="country"><i><img src="/us/wp-content/themes/honor/us/images/home/usa_icon.png" class="img-responsive" alt="USA"></i><span>USA</span></a>		                                                <!-- <a href="/global/worldwide/" title="USA" class="country"><i><img src="/us/wp-content/themes/honor/us/images/home/usa_icon.png" class="img-responsive" alt="USA"/></i><span>USA</span></a> -->
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- js in this -->
+<script type="text/javascript" charset="UTF-8" src="/us/wp-content/themes/honor/js/??vendor/bootstrap.min.js,vendor/jasny-bootstrap.min.js,vendor/jquery-ui.js,vendor/jquery.bxslider.min.js,swiper_jquery_min.js,vendor/jquery.placeholder.min.js,vendor/video.js,vendor/jquery.foggy.min.js,util.js,honor.global.js,load.js,plugins.js"></script><input class="btn btn-primary btn-lg" type="hidden" id="testButton" data-toggle="modal" data-target="#myModal"><div style="font-size: 16px;" class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"><div class="modal-dialog" style="max-width: 600px;"><div class="modal-content"><div style="border-bottom:none" class="modal-header"><h4 class="modal-title" id="myModalLabel"></h4></div><div class="modal-body" style="text-align: center;">The server is under maintenance, please visit later :(</div><div style="border-top:none;text-align: center;" class="modal-footer"><button type="button" class="" style="border: 1px solid #00b2e6;border-radius: 14px;width: 76px;height: 28px;background: #00b2e6;color: #FFF;font-size: 14px;line-height: 16px;" data-dismiss="modal">Close</button></div></div></div></div><div class="grey-bg"></div>
+
+<script type="text/javascript" src="/us/wp-content/themes/honor/us/js/main.js"></script>
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/0F7S7QWJ0Ac.js?version=42#channel=fbbd1f199b618&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div></body></html>
