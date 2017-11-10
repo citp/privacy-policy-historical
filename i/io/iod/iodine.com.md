@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050328id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110134540id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Iodine.com
 
@@ -12,23 +12,23 @@
 
 Your Shared Data may be shared with our Partners.
 
-Private Data [ __]
+Private Data []
 
-On Iodine, we’ll sometimes ask you for information that identifies you personally (such as your name or email address). We mark this Private Data with a lock symbol [ __]. We only share Private Data with your permission, or in some standard ways that we tell you about very clearly in our Privacy Policy.
+On Iodine, we’ll sometimes ask you for information that identifies you personally (such as your name or email address). We mark this Private Data with a lock symbol []. We only share Private Data with your permission, or in some standard ways that we tell you about very clearly in our Privacy Policy.
 
   * For example
   * Your name, your email address
 
 
 
-Shared Data [ __]
+Shared Data []
 
-Shared Data is any information you provide on Iodine that’s not Private Data. This includes any demographic info or real-life experience that you choose to submit (such as your age, gender, medications, conditions, or drug ratings and reviews). If you don’t see a lock symbol [ __] next to the field you’re completing, the information you enter is Shared Data. It’s shared publicly on Iodine to help other users. Also, unless you opt out, we share it with trusted Iodine partners, such as medical researchers and collaborators.
+Shared Data is any information you provide on Iodine that’s not Private Data. This includes any demographic info or real-life experience that you choose to submit (such as your age, gender, medications, conditions, or drug ratings and reviews). If you don’t see a lock symbol [] next to the field you’re completing, the information you enter is Shared Data. It’s shared publicly on Iodine to help other users. Also, unless you opt out, we share it with trusted Iodine partners, such as medical researchers and collaborators.
 
   * For example
   * Female, 61
   * Takes **lisinopril** for high **blood pressure.**
-  * 'I started having a dry cough after taking this medication, and I’m thinking about switching.'
+  * ‘I started having a dry cough after taking this medication, and I’m thinking about switching.’
 
 
 
@@ -37,7 +37,7 @@ Statistical Data
 We share statistics about our users publicly on Iodine and with trusted Iodine partners, such as medical researchers and collaborators.
 
   * For example
-  * '53% of women aged 35-54 thought this medication was worth it.'
+  * ‘53% of women aged 35-54 thought this medication was worth it.’
 
 
 
@@ -46,7 +46,7 @@ We share statistics about our users publicly on Iodine and with trusted Iodine p
   *  **Don’t publicly share information** that can be used to identify or contact you. For example, don’t write your name in a review about a medication.
   *  **Share as much or as little about your experiences as you want.** For example, you can post comments about a medication without sharing your age, gender, or medical conditions.
   *  **Opt out of sharing Shared Data** with trusted Iodine partners.
-  *  **Look next to the** [ __] any time you submit information to see your opt-out status.
+  *  **Look next to the** [] any time you submit information to see your opt-out status. 
 
 
 
@@ -129,7 +129,7 @@ We use this information to provide and improve our services.
 
 “Private Data” is any personally identifying information we ask you for or automatically collect. This is information that’s so specific that one piece of information alone (such as your full name or email address, or the location of your computer) can be used to identify or contact you.
 
-If we ask you for personally identifying information, you’ll see the [ __]. This lets you know that the information you are submitting is Private Data.
+If we ask you for personally identifying information, you’ll see the []. This lets you know that the information you are submitting is Private Data.
 
   * Examples of Private Data we may ask you for: Your name or email address
   * Example of Private Data we collect automatically: Your [IP address](http://en.wikipedia.org/wiki/IP_address) (which can identify your computer’s location)
@@ -138,13 +138,13 @@ If we ask you for personally identifying information, you’ll see the [ __]. Th
 
 We won’t share Private Data with anyone unless it’s permitted in this Privacy Policy. If not, we’ll ask your permission first.
 
-If you see the [ __], the information you’re submitting is Private Data.
+If you see the [], the information you’re submitting is Private Data.
 
 We only share Private Data with your permission, or in some standard ways that we tell you about very clearly in this Privacy Policy
 
 ###### Shared Data
 
-“Shared Data” is any information you provide that isn’t Private Data. If you don’t see the [ __], the information you’re submitting is Shared Data.
+“Shared Data” is any information you provide that isn’t Private Data. If you don’t see the [], the information you’re submitting is Shared Data.
 
 Shared Data may include:
 
@@ -158,11 +158,11 @@ Your User Submissions are shared with everyone because you post them publicly on
 
 We also share Shared Data with trusted third parties (including academic and commercial organizations, collaborators, and customers) for specific purposes, such as medical research. We refer to these trusted third parties as our “Partners.” You can opt out of sharing your Shared Data with our Partners, but only if you submit that Shared Data via the Site. You cannot opt-out of sharing your Shared Data with our Partners if you submit that Shared Data via an Iodine App.
 
-Even if you have an Iodine Account, your opt-out is not associated with a particular login or user account. Therefore, if you opt out via the Site, we’ll track your opt-out choice by placing a cookie on your device that will tell us that you have opted out. If you delete the Iodine cookie from your device, please remember that you’ll have to opt out again on Iodine to opt out of sharing any new Shared Data that you submit after deleting the cookie. You can hover over the [ __] on the Site to check your opt-out status.
+Even if you have an Iodine Account, your opt-out is not associated with a particular login or user account. Therefore, if you opt out via the Site, we’ll track your opt-out choice by placing a cookie on your device that will tell us that you have opted out. If you delete the Iodine cookie from your device, please remember that you’ll have to opt out again on Iodine to opt out of sharing any new Shared Data that you submit after deleting the cookie. You can hover over the [] on the Site to check your opt-out status.
 
 While using Iodine, you might share multiple pieces of real-life information that could identify you, if combined. It’s also possible to include personally identifying information in free-text fields this information will still be treated as Shared Data, so be careful. It’s your choice whether to provide Shared Data and what to include when you post publicly.
 
-If you don’t see the [ __], the information you’re submitting is Shared Data.
+If you don’t see the [], the information you’re submitting is Shared Data.
 
 Shared Data includes anything you post publicly on Iodine.
 
@@ -218,11 +218,7 @@ You can:
 
 
 
-You choose what to submit and share on Iodine. You can 
-
-opt out
-
-of sharing your Shared Data with our Partners.
+You choose what to submit and share on Iodine. You can opt out of sharing your Shared Data with our Partners.
 
 ###### The security of your information
 
@@ -262,15 +258,13 @@ If you use Iodine outside of the United States, any information you give us will
 
 ###### Child privacy
 
-Our services are not intended or designed for children under 13, and we do not knowingly collect personally identifiable information from anyone under 13. If you find out that your child has provided us with personal information without your consent, contact us at 
-
-[privacy@iodine.com](mailto:privacy@iodine.com)
-
-. If we find out that a child under 13 has provided us with personal information, we’ll take steps to delete that information from our files as soon as possible.
+Our services are not intended or designed for children under 13, and we do not knowingly collect personally identifiable information from anyone under 13. If you find out that your child has provided us with personal information without your consent, contact us at [privacy@iodine.com](mailto:privacy@iodine.com). If we find out that a child under 13 has provided us with personal information, we’ll take steps to delete that information from our files as soon as possible.
 
 We’re committed to protecting the privacy of children and complying with privacy laws.
 
 ###### Questions?
+
+Contact us at [privacy@iodine.com](mailto:privacy@iodine.com) if you have any questions about our Privacy Policy.
 
 ###### Opt-out
 
@@ -292,6 +286,16 @@ Opt out of sharing your Shared Data to:
 
 
 
-Remember: Since we track your opt-out with a cookie, if you delete your cookies you’ll need to opt out again via the Site. You can look next to the [ __] on the Site any time to check your opt-out status.
+Remember: Since we track your opt-out with a cookie, if you delete your cookies you’ll need to opt out again via the Site. You can look next to the [] on the Site any time to check your opt-out status.
 
 Your Shared Data may be shared with our Partners.
+
+What is your question about?
+
+Your question
+
+Your email
+
+We need your email to send you an answer.
+
+Disclaimer: We don't provide medical advice. If you think you might have a medical emergency, call your doctor or 911 immediately.
