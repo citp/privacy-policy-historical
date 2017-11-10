@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the desperateseller.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041657id_/http%3A//www.desperateseller.co.uk/privacypolicy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desperateseller.co.uk privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110215212id_/http%3A//www.desperateseller.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Disclaimer & Copyright | DesperateSeller.co.uk
-
-\---------------------------------------------------------------------------------------------- 
+# Privacy policy | DesperateSeller.co.uk
 
 Please read this Privacy Policy carefully before using the Site.
 
 ### Introduction
 
-This privacy policy (“Policy”) applies to the use of this website and any other associated website owned or operated by DesperateSeller.co.uk Ltd or any of its subsidiary companies (together being the “Site”). If you do not accept this privacy policy, you should not use this Site.
+This privacy policy ("Policy") applies to the use of this website and any other associated website owned or operated by DesperateSeller.co.uk Ltd or any of its subsidiary companies (together being the "Site"). If you do not accept this privacy policy, you should not use this Site.
 
 We have updated our Policy. This Policy has been designed to provide greater transparency and has been set out so that it is easier to read and understand. We will continue to treat your personal information with care and respect.
 
@@ -17,9 +15,9 @@ We collect personal information from you (such as name, address, telephone numbe
 
 ### 1\. About Us
 
-1.1 ”We/us/our” means where the context so requires DesperateSeller.co.uk Ltd (company number 04369782) whose registered offices are at Rowan House, Hill End Lane, St. Albans, Hertfordshire, AL4 0RA. If you have any questions regarding this Policy then you may contact the Legal Department at Rowan House, Hill End Lane, St. Albans, Hertfordshire, AL4 0RA . 
+1.1 "We/us/our" means where the context so requires DesperateSeller.co.uk Ltd (company number 04369782) whose registered offices are at Rowan House, Hill End Lane, St. Albans, Hertfordshire, AL4 0RA. If you have any questions regarding this Policy then you may contact the Legal Department at Rowan House, Hill End Lane, St. Albans, Hertfordshire, AL4 0RA . 
 
-1.2 We respect your privacy and we are committed to protecting it and to complying with applicable data protection and privacy laws including the Data Protection Act 1998 (the “Act”). We have provided this Policy statement to help you understand how we collect, use and protect your personal information when you visit any Site. 
+1.2 We respect your privacy and we are committed to protecting it and to complying with applicable data protection and privacy laws including the Data Protection Act 1998 (the "Act"). We have provided this Policy statement to help you understand how we collect, use and protect your personal information when you visit any Site. 
 
 1.3 By visiting the Site you are accepting this Policy and you expressly consent to our use and disclosure of your personal information as disclosed in this Policy. However, you may visit and browse the Site without disclosing any personally identifiable information about yourself. 
 
@@ -42,9 +40,9 @@ The type of personal information we collect could include your name and address,
 
 2.4 We may store, process and/or transfer personal information to countries outside of the EEA, especially to servers in the US. If you do not agree to this procedure you should not use our products or services. Your personal information, on some occasions, is transferred outside the EEA to a carefully selected third party, for our data management and business purposes, in particular, for certain outsourced data processing undertaken by organisations on our behalf. By using our products and/or services you consent to our transferring your personal information to countries outside the EEA, if necessary, for our legitimate business purposes as outlined above. We will take reasonable steps to ensure your personal information is adequately protected. The data protection standards required by US law are not equivalent to EEA standards. To comply with the adequacy requirements of the European Data Protection Directive 95/46/EC, any above mentioned third party will be a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union or have entered into an agreement with us that includes the EC model clauses approved by the European Commission. 
 
-2.5 We automatically track certain personal information based upon your behaviour on the Site using cookies and other devices. We use this personal information to do internal research on our users’ demographics, interests, and behaviour to better understand our users. This personal information may include the address of the webpage that you just came from (whether this is on the Site or not), which webpage/website you next go to (whether this is on the Site or not), what browser you are using, and your IP address. 
+2.5 We automatically track certain personal information based upon your behaviour on the Site using cookies and other devices. We use this personal information to do internal research on our users' demographics, interests, and behaviour to better understand our users. This personal information may include the address of the webpage that you just came from (whether this is on the Site or not), which webpage/website you next go to (whether this is on the Site or not), what browser you are using, and your IP address. 
 
-2.6 We use data collection devices such as “cookies” on certain pages of the Site. "Cookies" are small text files placed on your hard drive that assist us in providing customised services. You may decline our cookies if your browser permits, although in this case you may not be able to use certain features on the Site. For further information on Cookies see DesperateSeller.co.uk Ltd use of Cookies below. 
+2.6 We use data collection devices such as "cookies" on certain pages of the Site. "Cookies" are small text files placed on your hard drive that assist us in providing customised services. You may decline our cookies if your browser permits, although in this case you may not be able to use certain features on the Site. For further information on Cookies see DesperateSeller.co.uk Ltd use of Cookies below. 
 
 2.7 Please note that we will not hold your personal information for any longer than is reasonably necessary or required by law. 
 
@@ -68,7 +66,7 @@ In your correspondence to us, please set out what it is that you would like to s
 
 3.4 We may transfer, sell or assign any of the personal information described in this Policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business (or any part of our group). 
 
-3.5 We have the appropriate security measures in place in relation to how your personal information is stored and used, and who can see it. We use industry standard practices to safeguard the confidentiality of your personal, identifiable information, including “firewalls” and “secure socket layers”. While such measures help stop any unauthorised disclosure of your information, no security system is impenetrable and we cannot guarantee the security of our system. 
+3.5 We have the appropriate security measures in place in relation to how your personal information is stored and used, and who can see it. We use industry standard practices to safeguard the confidentiality of your personal, identifiable information, including "firewalls" and "secure socket layers". While such measures help stop any unauthorised disclosure of your information, no security system is impenetrable and we cannot guarantee the security of our system. 
 
 3.6 In addition, the transmission of personal information via the internet is not completely secure. Once we have received your personal information, we will use strict procedures and security measures to try to prevent unauthorised access. However, we cannot guarantee the security of your personal information, any more than any other company can. Please note therefore that any transmission of your personal information to the Site is at your own risk and we cannot accept any liability for the loss, theft or misuse of any personal information which you have provided to us if there is a security breach. 
 
@@ -84,7 +82,7 @@ In your correspondence to us, please set out what it is that you would like to s
 
 ### 5\. Online Interactive Facilities
 
-5.1 If at any time the Site offers any chat functionality, notice board facilities, forums, newsgroups etc. (“Online Interactive Facilities”) we may collect the personal information that you disclose. Such personal information will be used in accordance with this Policy. Please note that we cannot be responsible for other parties’ use of the personal information which you make available to such third parties through any Online Interactive Facilities on the Site. Please be careful about what personal information you disclose in this way. 
+5.1 If at any time the Site offers any chat functionality, notice board facilities, forums, newsgroups etc. ("Online Interactive Facilities") we may collect the personal information that you disclose. Such personal information will be used in accordance with this Policy. Please note that we cannot be responsible for other parties' use of the personal information which you make available to such third parties through any Online Interactive Facilities on the Site. Please be careful about what personal information you disclose in this way. 
 
 5.2 If you post or send offensive, inappropriate, illegal or objectionable content while you are in any of our Online Interactive Facilities, we may use your personal information to stop such behaviour, and where we believe that you are, or may be, in breach of any applicable laws, we may use your personal information to inform the police or requisite law enforcement agencies. 
 
@@ -92,15 +90,15 @@ In your correspondence to us, please set out what it is that you would like to s
 
 The law on cookies changed in May 2011. Under the revised regulations, the requirement is not just to provide clear information about the cookies but also to obtain consent from users or subscribers to store a cookie on their device. It has been designed to protect online privacy by making consumers aware of how personal information about them is collected by websites, and enabling them to choose whether or not they want it to happen. Please read on for more information. 
 
-6.1 What is a cookie? A cookie is a small piece of data that is sent from our web server to your browser, which is saved on the hard drive of your computer, smartphone or other device (“your device”).
+6.1 What is a cookie? A cookie is a small piece of data that is sent from our web server to your browser, which is saved on the hard drive of your computer, smartphone or other device ("your device").
 
 A cookie cannot:  
-• read data off your hard disk or read cookie files created by other sites;  
-• damage your system;  
-• run programmes on your computer; or  
-• deliver viruses.
+* read data off your hard disk or read cookie files created by other sites;  
+* damage your system;  
+* run programmes on your computer; or  
+* deliver viruses.
 
-You can change your browser settings to refuse cookies or alert you when a cookie is being sent at any time. If you do choose not to accept cookies, some features of the Site may not work as intended (e.g. services accessed while logged in, customised areas of the Site). We do not use cookies to identify you personally, except when you opt to use the ‘Remember me’ facility when logging in.
+You can change your browser settings to refuse cookies or alert you when a cookie is being sent at any time. If you do choose not to accept cookies, some features of the Site may not work as intended (e.g. services accessed while logged in, customised areas of the Site). We do not use cookies to identify you personally, except when you opt to use the 'Remember me' facility when logging in.
 
 There are two broad classes of cookie: session and permanent.
 
@@ -111,13 +109,13 @@ Permanent Cookies
 These are stored on your computer and are not deleted when the browser is closed. This is so they can retain your preferences for a particular website, allowing those preferences to be used in future browsing sessions. Permanent cookies can be used to analyse users' surfing behaviour within the Site, so that we can improve our services and allows us to prioritise our enhancements to the Site. 
 
 6.2 We use cookies to:  
-• remember that you have used the Site before; this means we can identify the number of unique visitors we receive to different parts of the Site. This allows us to make sure we have enough capacity for the number of users that we get and make sure that the Site runs fast enough;  
-• keep you logged in for the duration of your visit, which enables you to complete certain actions on the Site, for example, move from one page to another within the Site, adding cars to a shortlist, using watchlists, viewing catalogues and using Simulcast.  
-• store your preferences or your user name and password so that you do not need to input these every time you visit the Site;  
-• customise elements of the layout and/or content of the pages of the Site for you;  
-• collect statistical information about how you use the Site so that we can improve the Site;  
-• gather information about the pages on the Site that you visit, and also other information about other websites that you visit, so as to place you in a "market segment"; and  
-• enable basic web traffic analysis using Google Analytics.
+* remember that you have used the Site before; this means we can identify the number of unique visitors we receive to different parts of the Site. This allows us to make sure we have enough capacity for the number of users that we get and make sure that the Site runs fast enough;  
+* keep you logged in for the duration of your visit, which enables you to complete certain actions on the Site, for example, move from one page to another within the Site, adding cars to a shortlist, using watchlists, viewing catalogues and using Simulcast.  
+* store your preferences or your user name and password so that you do not need to input these every time you visit the Site;  
+* customise elements of the layout and/or content of the pages of the Site for you;  
+* collect statistical information about how you use the Site so that we can improve the Site;  
+* gather information about the pages on the Site that you visit, and also other information about other websites that you visit, so as to place you in a "market segment"; and  
+* enable basic web traffic analysis using Google Analytics.
 
 We also use some cookies from trusted third party sources to enable us to provide you with certain features on the Site, for example our live chat facility which uses cookies to enable the chat software to work. When you access the Site you will receive a message advising you that if you continue to use the Site, you are consenting to cookies being placed on your device in order to maximise your experience on the Site and allow us to make improvements.
 
@@ -152,7 +150,7 @@ We do use some cookies from trusted third party sources to enable us to provide 
 
 August 2014 
 
-\---------------------------------------------------------------------------------------------- 
+* * *
 
 ## Disclaimer
 
@@ -162,7 +160,10 @@ We endeavor to make all reviews, profiles and critiques as accurate, objective a
 
 The information provided by DesperateSeller.co.uk is on an 'as is' basis without any warranty whatsoever. DesperateSeller.co.uk disclaims all warranties, either expressed or implied, including the warranties of suitability or fitness for a particular purpose. DesperateSeller.co.uk disclaim all liability for any damages whatsoever including direct or indirect, incidental, consequential, loss of business profits or special damages, even if DesperateSeller.co.uk have been advised of the possibility of such damages. 
 
-\---------------------------------------------------------------------------------------------- 
+* * *
+
+  
+
 
 ## Copyright Notice
 
@@ -176,11 +177,8 @@ DesperateSeller.co.uk explicitly acknowledges copyrights on material where it ha
 
 References to other Web sites or pages herein have been made in accordance with the conditions which we impose on others. It is never our intention to disguise authorship. We believe that it is in the interest of Internet users that such references are made so long as there is not an unfair attempt to exploit other people's work. 
 
-\---------------------------------------------------------------------------------------------- 
+* * *
 
-**Data Protection**  
-DesperateSeller.co.uk Ltd is a registered member of the Data Protection Act 1998.   
-[ ](http://www.ico.gov.uk/for_organisations/data_protection.aspx)
+## Data Protection
 
-  
-
+DesperateSeller.co.uk Ltd is a registered member of the Data Protection Act 1998. 
