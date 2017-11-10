@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedmaxpc.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604134103id_/http%3A//speedmaxpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedmaxpc.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110043648id_/http%3A//speedmaxpc.com/privacy-policy) for the most accurate reproduction.*
 
 # SpeedMaxPc Privacy Policy » Speedmaxpc
 
@@ -44,5 +44,4 @@ We may change this Privacy Policy at any time without notice to you in order to 
 **Acceptance of Terms**  
 By using the SpeedMaxPc.com services, and web site, or purchasing SpeedMaxPc products you are consenting to the practices relating to information collection and use that are described in this Privacy Policy.
 
-**Opting Out of Our Website, Services & Products**  
-You may opt out of SpeedMaxPc website and or products at anytime, click here to learn more about uninstalling our software >>> [How to Uninstall SpeedMaxPc Video](http://speedmaxpc.com/videos/uninstall-speedmaxpc/ "How to Uninstall SpeedMaxPc Software")
+**Update:** 7/2/2017. To all users of the Speedmaxpc.com website and software application. If you do not agree to our cookie and tracking policies by means of web adverts via Google, you can opt of advert tracking at any time.  We  encourage you to visit the to Google Analytics (tracking) [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.
