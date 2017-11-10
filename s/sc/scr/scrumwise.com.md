@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrumwise.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105345id_/http%3A//www.scrumwise.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrumwise.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110174221id_/http%3A//www.scrumwise.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Scrumwise - Privacy policy
 
