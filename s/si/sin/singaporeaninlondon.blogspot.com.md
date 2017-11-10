@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporeaninlondon.blogspot.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508070025id_/http%3A//singaporeaninlondon.com/2007/07/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporeaninlondon.blogspot.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110151344id_/http%3A//singaporeaninlondon.com/2007/07/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
