@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613034809id_/http%3A//www.eatwisconsincheese.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110132427id_/http%3A//www.eatwisconsincheese.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eat Wisconsin Cheese
 
