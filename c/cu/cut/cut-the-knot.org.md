@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cut-the-knot.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611042907id_/http%3A//cut-the-knot.org/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cut-the-knot.org privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110184939id_/https%3A//www.cut-the-knot.org/Privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,16 +12,16 @@ Pages at our site that carry Java applets offer those applets for personal use. 
 
 The only time you become identifiable is when you send us email. We may use your email address to communicate with you on the topic of your request but not otherwise. We shall not give or sell your email address to any other party.
 
-The Interactive Mathematics Miscellany site works with reputed third parties that serve ads to this site: [google.com](http://www.google.com/), [HotChalk.com](http://www.hotchalk.com/) and [ValueClick.com](http://www.fastclick.com/). These companies do attempt to track your page selections with the purpose of determining your interests and browsing habits. The idea is that this information may help them serve you better, for example, by displaying ads that, in their view, may be of greater interest to you than the alternatives. While this information may be deemed personal, there is no way that those companies identify you as an individual. The practice is known as the behavioral ad serving.
+The Interactive Mathematics Miscellany site works with reputed third parties that serve ads to this site: [google.com](https://www.google.com/), [HotChalk.com](https://www.hotchalk.com/) and [ValueClick.com](https://www.fastclick.com/). These companies do attempt to track your page selections with the purpose of determining your interests and browsing habits. The idea is that this information may help them serve you better, for example, by displaying ads that, in their view, may be of greater interest to you than the alternatives. While this information may be deemed personal, there is no way that those companies identify you as an individual. The practice is known as the behavioral ad serving.
 
-All major ad serving networks participate in the [Network Advertising Initiative](http://www.networkadvertising.org/). The NAI allows web users to opt-out from behavioral advertising and provide a http://www.networkadvertising.org/managing/opt_out.aspspecial tool that individuals may use to opt-out from behavioral campaigns of specific companies or all together.
+All major ad serving networks participate in the [Network Advertising Initiative](https://www.networkadvertising.org/). The NAI allows web users to opt-out from behavioral advertising and provide a https://www.networkadvertising.org/managing/opt_out.aspspecial tool that individuals may use to opt-out from behavioral campaigns of specific companies or all together.
 
-You are welcome to apply [that tool](http://www.networkadvertising.org/managing/opt_out.asp) to the adds that appear at this site. 
+You are welcome to apply [that tool](https://www.networkadvertising.org/managing/opt_out.asp) to the adds that appear at this site. 
 
-If you suspect that any of our pages do not comply with the stated policy please let us know of any infraction via the [Mail Notification Page](http://www.cut-the-knot.org/MailNotificationPage.shtml). We promise a swift action.
+If you suspect that any of our pages do not comply with the stated policy please let us know of any infraction via the [Mail Notification Page](https://www.cut-the-knot.org/MailNotificationPage.shtml). We promise a swift action.
 
 Thank you for using our site.
 
-[|Front page|](http://www.cut-the-knot.org/front.shtml) [|Contents|](http://www.cut-the-knot.org/content.shtml) [|Store|](http://astore.amazon.com/ctksoftwareinc)
+[|Front page|](https://www.cut-the-knot.org/front.shtml) [|Contents|](https://www.cut-the-knot.org/content.shtml)
 
-Copyright © 1996-2017 [Alexander Bogomolny](http://www.cut-the-knot.org/index.shtml)
+Copyright © 1996-2017 [Alexander Bogomolny](https://www.cut-the-knot.org/index.shtml)
