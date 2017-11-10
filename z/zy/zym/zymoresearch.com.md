@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zymoresearch.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604232825id_/http%3A//www.zymoresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zymoresearch.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110034103id_/http%3A//www.zymoresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
