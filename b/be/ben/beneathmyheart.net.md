@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beneathmyheart.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612231414id_/http%3A//www.beneathmyheart.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beneathmyheart.net privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110035456id_/http%3A//www.beneathmyheart.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Beneath My Heart
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.beneathmyheart.net%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 Privacy Policy for [BENEATHMYHEART.NET](http://beneathmyheart.net/).
 
@@ -19,4 +17,4 @@ We use third party advertisements on [BENEATHMYHEART.NET](http://beneathmyheart.
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.beneathmyheart.net%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/)
