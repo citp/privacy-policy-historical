@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serenahotels.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504104208id_/http%3A//www.serenahotels.com/privacy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serenahotels.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110033424id_/http%3A//www.serenahotels.com/privacy-en.html) for the most accurate reproduction.*
 
 # 
 
@@ -24,8 +24,10 @@ We also collect certain technical information from your computer each time you r
 
 Should you apply for employment with the Serena Group of Hotels by submitting an application and/or resume on-line, specific information will be collected but will ONLY be used only for the purposes of considering your application for the posted position.
 
+  
 **How we use your personal information**  
-Information we collect on our web sites may be used to enhance your experience in the following ways:
+Information we collect on our web sites may be used to enhance your experience in the following ways:  
+
 
 To confirm your hotel reservations
 
@@ -33,7 +35,7 @@ To request your evaluation of your stay with us
 
 To send you emails that relate to your stay with us
 
-To process credit card payments
+To process credit card payments. _Kindly note for online payment refunds via creditdebit cards, these will be effected less transactional fee charges._
 
 To respond to your customer-service enquiries or requests
 
