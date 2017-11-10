@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freelibrary.org privacy policy that was archived on 2017-02-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170228155514id_/https%3A//libwww.freelibrary.org/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freelibrary.org privacy policy that was archived on 2017-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171110154129id_/https%3A//libwww.freelibrary.org/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 	  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -20,24 +20,45 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css">
 
     
-            <link href="/assets/css/bootstrap-utilities.css?v2.1" rel="stylesheet">
+            <link href="/assets/css/bootstrap-utilities.css?v2.2" rel="stylesheet">
         
 
-    <!-- Google Analytics tracking code revised 5/12/2010 -->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-9995830-1']);
-        _gaq.push(['_setDomainName', 'freelibrary.org']);
-        _gaq.push(['_trackPageview']);
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+    <!-- Google Analytics tracking code revised 7/1/2017-->
+    <script>
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', 'UA-9995830-1', 'auto');  
+    ga('require', 'eventTracker');
+    ga('require', 'outboundLinkTracker', {
+      events: ['click', 'contextmenu'],     //track clicks and right-mouse clicks
+      shouldTrackOutboundLink: function(link) {
+        return link.hostname.indexOf('freelibrary.org') < 0;    //exclude tracking outbound links to anything under the freelibrary.org domain
+      }
+    });
+    ga('require', 'socialWidgetTracker');
+    ga('send', 'pageview');
     </script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script>
+    <script async="" src="/assets/js/libs/autotrack.js"></script>
+    
+    <!-- Hotjar Tracking Code for https://libwww.freelibrary.org -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:465473,hjsv:5};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script><script async="" src="//static.hotjar.com/c/hotjar-465473.js?sv=5"></script>
 </head>
 <body>
     <div id="header" class="header clearfix hidden-print">
+        
+            <div class="alert alert-warning alert-dismissable header-notices hidden">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close" id="alertMsg"><span aria-hidden="true">×</span></button>
+                <p>The Free Library will be closed on Saturday, November 11, in observance of Veterans Day. </p>
+            </div>
         
 
         <noscript>
@@ -51,14 +72,14 @@
         <div class="navbar">
           <a href="#" class="navbar-toggle navbar-toggle-menu collapsed" data-toggle="collapse" data-target="#navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="fa fa-bars fa-2x"></span></a>
 
-          <a href="/mobile/branches.cfm" class="navbar-toggle"> <span class="sr-only">Locations</span> <span class="fa fa-map-marker fa-2x"></span></a>
+          <a href="/locations/" class="navbar-toggle"> <span class="sr-only">Locations</span> <span class="fa fa-map-marker fa-2x"></span></a>
 
           <a href="#" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#searchbox_mobile"> <span class="sr-only">Toggle search</span> <span class="fa fa-search fa-2x"></span></a>
 
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-3">
-            <h1 id="logo"><a href="http://www.freelibrary.org" onclick="_gaq.push(['_trackEvent', 'Header', 'Logo', '']);">Free Library of Philadelphia</a></h1>
+            <h1 id="logo"><a href="http://www.freelibrary.org" ga-on="click" ga-event-category="Header" ga-event-action="Logo">Free Library of Philadelphia</a></h1>
             <!-- Switch to homepage -->
             <a href="#page_title" class="sr-only">Skip to Content</a>
         </div>
@@ -94,36 +115,36 @@
         <div class="col-sm-3 btn-group btn-group-vertical hidden-sm hidden-xs">
 
           <ul id="loginOptions" class="list-unstyled account_links">
-            <li style="margin-top: 5px;"><a class="btn btn-info modal-link" href="https://know.freelibrary.org/MyResearch/Home" title="Log In" onclick="_gaq.push(['_trackEvent', 'Header', 'LogIn', '']);">Log In</a>&nbsp;
-            <a class="btn btn-danger modal-link" href="https://freelibrary.formstack.com/forms/donate" title="Donate" onclick="_gaq.push(['_trackEvent', 'Header', 'Donate', '']);">Donate</a></li>
-            <li style="margin-top: 5px;"><a class="text-muted" href="https://know.freelibrary.org/MyResearch/register" title="Get a Library Card" onclick="_gaq.push(['_trackEvent', 'Header', 'LibraryCard', '']);">Get a Library Card</a></li>
+            <li style="margin-top: 5px;"><a class="btn btn-info modal-link" href="https://know.freelibrary.org/MyResearch/Home" title="Log In" ga-on="click" ga-event-category="Header" ga-event-action="LogIn">Log In</a>&nbsp;
+            <a class="btn btn-danger modal-link" href="https://freelibrary.formstack.com/forms/donate" title="Donate" ga-on="click" ga-event-category="Header" ga-event-action="Donate">Donate</a></li>
+            <li style="margin-top: 5px;"><a class="text-muted" href="https://know.freelibrary.org/MyResearch/register" title="Get a Library Card" ga-on="click" ga-event-category="Header" ga-event-action="LibraryCard">Get a Library Card</a></li>
           </ul>
         </div>
       </div>
       </div>
       <div class="navbar-collapse collapse hidden-md hidden-lg" id="navbar-collapse-1">
         <ul class="nav navbar-nav navbar-nav-menu list-unstyled hidden-md hidden-lg">
-          <li><a class="btn btn-info" href="https://know.freelibrary.org/MyResearch/Home" title="Log In" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'LogIn']);"><span class="fa fa-user fa-lg"></span> Log In</a></li>
-          <li><a href="https://know.freelibrary.org/MyResearch/register" title="Get a Library Card" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'LibraryCard']);">Get a Library Card</a></li>
-          <li><a href="/calendar/" target="_top" onclick="_gaq.push(['_trackEvent', 'Header', 'Events', '']);">Events</a></li>
-          <li><a target="_top" href="/programs/" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'Programs']);">Programs &amp; Services</a></li>
-          <li><a href="/explore/" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'Explore']);">Explore</a></li>
-          <li><a href="/faq/aska.cfm" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'Ask']);">Ask</a></li>
-          <li><a href="/blog/" target="_top" onclick="_gaq.push(['_trackEvent', 'Header', 'Blog', '']);">Blog</a></li>
-          <li><a target="_top" href="/about/" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'About']);">About the Library</a></li>
-          <li><a target="_top" href="/support/" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'Support']);">Support the Library</a></li>
+          <li><a class="btn btn-info" href="https://know.freelibrary.org/MyResearch/Home" title="Log In" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="LogIn"><span class="fa fa-user fa-lg"></span> Log In</a></li>
+          <li><a href="https://know.freelibrary.org/MyResearch/register" title="Get a Library Card" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="LibraryCard">Get a Library Card</a></li>
+          <li><a href="/calendar/" target="_top" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="Events">Events</a></li>
+          <li><a target="_top" href="/programs/" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="Programs">&gt;Programs &amp; Services</a></li>
+          <li><a href="/explore/" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="Explore">Explore</a></li>
+          <li><a href="/faq/aska.cfm" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="Ask">Ask</a></li>
+          <li><a href="/blog/" target="_top" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="Blog">Blog</a></li>
+          <li><a target="_top" href="/about/" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="About">About the Library</a></li>
+          <li><a target="_top" href="/support/" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="Support">Support the Library</a></li>
         </ul>
       </div>
 
         <div class="nav-main-container hidden-sm hidden-xs">
           <div class="container-fluid">
             <ul class="nav nav-main row list-inline text-center">
-              <li><a href="/branches/brnlist.cfm" onclick="_gaq.push(['_trackEvent', 'Header', 'Locations', '']);">Locations</a></li>
-              <li><a href="/calendar/" onclick="_gaq.push(['_trackEvent', 'Header', 'Events', '']);">Events</a></li>
-              <li><a href="/programs/" onclick="_gaq.push(['_trackEvent', 'Header', 'Programs', '']);">Programs &amp; Services</a></li>
-              <li><a href="/about/" onclick="_gaq.push(['_trackEvent', 'Header', 'About', '']);">About</a></li>
-              <li><a href="/support/" onclick="_gaq.push(['_trackEvent', 'Header', 'Support', '']);">Support the Library</a></li>
-              <li><a href="/blog/" onclick="_gaq.push(['_trackEvent', 'Header', 'Blog', '']);">Blog</a></li>
+              <li><a href="/locations/" ga-on="click" ga-event-category="Header" ga-event-action="Navigation" ga-event-label="Locations">Locations</a></li>
+              <li><a href="/calendar/" ga-on="click" ga-event-category="Header" ga-event-action="Navigation" ga-event-label="Events">Events</a></li>
+              <li><a href="/programs/" ga-on="click" ga-event-category="Header" ga-event-action="Navigation" ga-event-label="Programs">Programs &amp; Services</a></li>
+              <li><a href="/about/" ga-on="click" ga-event-category="Header" ga-event-action="Navigation" ga-event-label="About">About</a></li>
+              <li><a href="/support/" ga-on="click" ga-event-category="Header" ga-event-action="Navigation" ga-event-label="Support">Support the Library</a></li>
+              <li><a href="/blog/" ga-on="click" ga-event-category="Header" ga-event-action="Navigation" ga-event-label="Blog">Blog</a></li>
             </ul>
           </div>
         </div>
@@ -131,7 +152,7 @@
         <div class="nopadding  navbar-collapse collapse hidden-md hidden-lg" id="searchbox_mobile">
           <div class="container-fluid findaskexplore nopadding hidden-md hidden-lg">
             <div class="findbox">
-              <h1 class="notopmargin nobottommargin"><a href="https://know.freelibrary.org" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'Catalog']);">Find</a></h1>
+              <h1 class="notopmargin nobottommargin"><a href="https://know.freelibrary.org" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="Catalog">Find</a></h1>
 
 <form id="QuickSearchMobile" name="QuickSearchMobile" action="" method="post" onsubmit="return validateSearch('QuickSearchMobile');">
   <div class="pull-right search-btn">
@@ -158,9 +179,9 @@
 </form>
 
 <p>Search our
-  <a href="https://know.freelibrary.org" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'Catalog']);">catalog</a>,
-  <a href="/databases/" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'Databases']);">databases</a>, or
-  <a href="/databases/featured.cfm?subjects=digital-media" onclick="_gaq.push(['_trackEvent', 'Header', 'Mobile', 'Digital Media']);">digital media</a>
+  <a href="https://know.freelibrary.org" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="Catalog">catalog</a>,
+  <a href="/databases/" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="Databases">databases</a>, or
+  <a href="/databases/featured.cfm?subjects=digital-media" ga-on="click" ga-event-category="Header" ga-event-action="Mobile" ga-event-label="Digital Media">digital media</a>
 </p>
 
             </div>
@@ -300,39 +321,39 @@
                 <div class="col-md-3 col-sm-3" style="font-size:18px;">
                     <ul class="list-unstyled">
                         <li>
-                            <p><a href="/calendar/" onclick="_gaq.push(['_trackEvent', 'Footer', 'Calendar of Events', '']);" target="_top"><span class="fa fa-calendar fa-lg"></span> Calendar of Events</a></p>
+                            <p><a href="/calendar/" ga-on="click" ga-event-category="Footer" ga-event-action="Events" target="_top"><span class="fa fa-calendar fa-lg"></span> Calendar of Events</a></p>
                         </li>
                         <li>
-                            <p><a href="/blog/" onclick="_gaq.push(['_trackEvent', 'Footer', 'Blog', '']);" target="_top"><span class="fa fa-comments fa-lg"></span> Blog</a></p>
+                            <p><a href="/blog/" ga-on="click" ga-event-category="Footer" ga-event-action="Blog" target="_top"><span class="fa fa-comments fa-lg"></span> Blog</a></p>
                         </li>
                     </ul>
                 </div>
                 <div class="col-md-3 col-sm-3 hidden-xs">
                     <ul class="list-unstyled">
-                      <li><a href="http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&amp;institution=12274&amp;type=1&amp;language=1" onclick="_gaq.push(['_trackEvent', 'Footer', 'Contact Us', '']);" target="_blank">Contact Us</a></li>
-                      <li><a href="/spacerental/" onclick="_gaq.push(['_trackEvent', 'Footer', 'Space Rental', '']);">Space Rental</a></li>
-                      <li><a href="/extras/" onclick="_gaq.push(['_trackEvent', 'Footer', 'Extras', '']);" target="_top">Extras</a></li>
-                      <li><a href="/rss/rssmenu.cfm" onclick="_gaq.push(['_trackEvent', 'Footer', 'RSS', '']);">RSS</a></li>
-                      <li><a href="http://freelibraryshop.com/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Footer', 'Shop', '']);">Library Shop</a></li>
+                      <li><a href="http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&amp;institution=12274&amp;type=1&amp;language=1" ga-on="click" ga-event-category="Footer" ga-event-action="Contact Us" target="_blank">Contact Us</a></li>
+                      <li><a href="/spacerental/" ga-on="click" ga-event-category="Footer" ga-event-action="Space Rental">Space Rental</a></li>
+                      <li><a href="/extras/" ga-on="click" ga-event-category="Footer" ga-event-action="Extras" target="_top">Extras</a></li>
+                      <li><a href="/rss/rssmenu.cfm" ga-on="click" ga-event-category="Footer" ga-event-action="rss">RSS</a></li>
+                      <li><a href="http://freelibraryshop.com/" target="_blank" ga-on="click" ga-event-category="Footer" ga-event-action="Shop">Library Shop</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3 col-sm-3 hidden-xs">
                     <ul class="list-unstyled">
-                        <li><a href="/policies/terms-of-use/" onclick="_gaq.push(['_trackEvent', 'Footer', 'Terms of Use', '']);">Terms of Use</a></li>
-                        <li><a href="/policies/privacy/" onclick="_gaq.push(['_trackEvent', 'Footer', 'Your Privacy', '']);">Site Privacy</a></li>
-                        <li><a href="/about/siteguide/" onclick="_gaq.push(['_trackEvent', 'Footer', 'Site Guide', '']);">Site Guide</a> </li>
-                        <li><a href="/misc/smartlogin.cfm" onclick="_gaq.push(['_trackEvent', 'Footer', 'Employee Intranet', '']);">Employee Intranet</a></li>
+                        <li><a href="/policies/terms-of-use/" ga-on="click" ga-event-category="Footer" ga-event-action="Terms">Terms of Use</a></li>
+                        <li><a href="/policies/privacy/" ga-on="click" ga-event-category="Footer" ga-event-action="Privacy">Site Privacy</a></li>
+                        <li><a href="/about/siteguide/" ga-on="click" ga-event-category="Footer" ga-event-action="Site Guide">Site Guide</a> </li>
+                        <li><a href="/misc/smartlogin.cfm" ga-on="click" ga-event-category="Footer" ga-event-action="Intranet">Employee Intranet</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3 col-sm-3">
                     <ul class="list-unstyled social bottom2">
                         <li>
-                          <a href="http://www.facebook.com/freelibrary" onclick="_gaq.push(['_trackEvent', 'Footer', 'Social', 'Facebook']);" target="_blank" class="fa-2x fa fa-facebook-square" title="Facebook"></a>
-                          <a href="http://twitter.com/FreeLibrary" onclick="_gaq.push(['_trackEvent', 'Footer', 'Social', 'Twitter']);" target="_blank" class="fa-2x fa fa-twitter-square" title="Twitter"></a>
-                          <a title="Instagram" href="https://instagram.com/freelibrary/" onclick="_gaq.push(['_trackEvent', 'Footer', 'Social', 'Instagram']);" target="_blank" class="fa-2x fa fa-instagram"></a>
-                          <a href="http://www.youtube.com/user/freelibraryofphilly" onclick="_gaq.push(['_trackEvent', 'Footer', 'Social', 'Youtube']);" target="_blank" class="fa-2x fa fa-youtube-play" title="YouTube"></a>
-                          <a href="/rss/rssmenu.cfm" onclick="_gaq.push(['_trackEvent', 'Footer', 'Social', 'RSS']);" target="_blank" class="fa-2x fa fa-rss-square" title="RSS"></a>
-                          <a href="http://eepurl.com/cgqh_j" onclick="_gaq.push(['_trackEvent', 'Footer', 'Social', 'Newsletter']);" target="_blank" class="fa-2x fa fa-envelope" title="Newsletter"></a></li>
+                          <a href="http://www.facebook.com/freelibrary" ga-on="click" ga-event-category="Footer" ga-event-action="Social" ga-event-label="Facebook" target="_blank" class="fa-2x fa fa-facebook-square" title="Facebook" alt="Facebook"></a>
+                          <a href="http://twitter.com/FreeLibrary" ga-on="click" ga-event-category="Footer" ga-event-action="Social" ga-event-label="Twitter" target="_blank" class="fa-2x fa fa-twitter-square" title="Twitter" alt="Twitter"></a>
+                          <a title="Instagram" href="https://instagram.com/freelibrary/" ga-on="click" ga-event-category="Footer" ga-event-action="Social" ga-event-label="Instagram" target="_blank" class="fa-2x fa fa-instagram" alt="Instagram"></a>
+                          <a href="http://www.youtube.com/user/freelibraryofphilly" ga-on="click" ga-event-category="Footer" ga-event-action="Social" ga-event-label="YouTube" target="_blank" class="fa-2x fa fa-youtube-play" title="YouTube" alt="YouTube"></a>
+                          <a href="/rss/rssmenu.cfm" ga-on="click" ga-event-category="Footer" ga-event-action="Social" ga-event-label="rss" target="_blank" class="fa-2x fa fa-rss-square" title="RSS" alt="RSS"></a>
+                          <a href="http://eepurl.com/cgqh_j" ga-on="click" ga-event-category="Footer" ga-event-action="Social" ga-event-label="Newsletter" target="_blank" class="fa-2x fa fa-envelope" title="Newsletter" alt="Newsletter"></a></li>
                     </ul>
                     <ul class="list-unstyled">
                         <li class="hidden-xs">
