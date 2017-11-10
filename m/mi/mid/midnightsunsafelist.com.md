@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midnightsunsafelist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073736id_/http%3A//midnightsunsafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midnightsunsafelist.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110030637id_/http%3A//midnightsunsafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # .MidnightSunSafelist.com
 
