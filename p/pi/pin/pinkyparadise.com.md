@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkyparadise.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120000202id_/http%3A//www.pinkyparadise.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkyparadise.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110151724id_/http%3A//www.pinkyparadise.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
