@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the praguepost.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232903id_/http%3A//www.praguepost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the praguepost.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110032236id_/https%3A//www.praguepost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Prague Post
 
-Privacy Policy applies to all of the services provided at the [Praguepost.com](http://www.praguepost.com/) web sites. This Privacy Policy is subject to change.
+Privacy Policy applies to all of the services provided at the [Praguepost.com](https://www.praguepost.com/) web sites. This Privacy Policy is subject to change.
 
 ## 1\. Collected information
 
