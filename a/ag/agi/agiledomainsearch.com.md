@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agiledomainsearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020551id_/http%3A//agiledomainsearch.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agiledomainsearch.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110115809id_/http%3A//agiledomainsearch.com/terms-privacy) for the most accurate reproduction.*
 
 # Terms & Privacy
 
-**JLCO Group** (“us”, “we”, or “our”) operates the http://agiledomainsearch.com website (the “Service”).
+**Navy Digital** (“us”, “we”, or “our”) operates the http://agiledomainsearch.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -48,7 +48,7 @@ We will disclose your Personal Information where required to do so by law or sub
 
 ## Business Transaction
 
-If JLCO Group is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
+If Navy Digital is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
 ## Security
 
