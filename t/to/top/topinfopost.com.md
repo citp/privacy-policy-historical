@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topinfopost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143931id_/http%3A//www.topinfopost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topinfopost.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110012056id_/http%3A//www.topinfopost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TIP
 
@@ -68,7 +68,7 @@ Users are advised to take caution and good judgement before clicking any shorten
 
   * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
   * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
-  * [Privacy and Electronic Communications Regulations 2003 – The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx)
+  * [Privacy and Electronic Communications Regulations 2003 – The Guide](https://templatearchive.com/guide-to-the-privacy-latest/)
   * [Twitter Privacy Policy](http://twitter.com/privacy)
   * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
   * [Google Privacy Policy](http://www.google.com/privacy.html)
