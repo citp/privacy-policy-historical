@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecourts.gov.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102022id_/http%3A//ecourts.gov.in/ecourts_home/static/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecourts.gov.in privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110132447id_/http%3A//www.ecourts.gov.in/ecourts_home/static/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - eCourt India Services
 
