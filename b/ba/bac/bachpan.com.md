@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bachpan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141841id_/http%3A//www.bachpan.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachpan.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110133450id_/http%3A//www.bachpan.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Indian Baby Names, Hindu Baby Names, Indian Boy and Girl Names, Hindu Boy and Girl Names
 
@@ -188,7 +188,5 @@ Basweshwar nagar
 Bangalore, KA 560079 
 
 India
-
-info@bachpan.com
 
 Last Edited on 2015-08-09 
