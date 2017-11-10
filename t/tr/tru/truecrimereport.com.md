@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecrimereport.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050046id_/http%3A//www.truecrimereport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecrimereport.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110042717id_/http%3A//www.truecrimereport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - True Crime Report
 
@@ -54,7 +54,7 @@ We may combine personally identifiable information and automatic information we 
 
 We may also use personally identifiable information to send you advertisements, promotions and information about the Site, Voice Media Group and our partners. 
 
-We may disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our Terms of Use or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our Site, or anyone else who could be harmed by such activities. We may also disclose personally identifiable information when we reasonably believe that the law requires it. 
+We may disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our [Terms of Use](https://web.archive.org/terms-of-use) or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our Site, or anyone else who could be harmed by such activities. We may also disclose personally identifiable information when we reasonably believe that the law requires it. 
 
 If you chose to provide your personally identifiable information for the purposes of a third-party contest, promotion, poll, survey or newsletter, your personally identifiable information will be given to Voice Media Group and to the third-party advertiser/sponsor involved with the relevant contest, promotion, poll, survey or newsletter and/or its agents and affiliates. For rules or requirements for contests, promotions, polls, surveys and/or newsletters, please see the applicable page on our Site. 
 
@@ -90,4 +90,4 @@ If your personally identifiable information changes, you may correct and/or upda
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef9f9d86998e8c968e8b828681869c9b9d8e9b809daf9980868c8a828a8b868e889d809a9fc18c8082), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
