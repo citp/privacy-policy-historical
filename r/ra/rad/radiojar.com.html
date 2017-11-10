@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the radiojar.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606050742id_/http%3A//www.radiojar.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radiojar.com privacy policy that was archived on 2017-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171110012639id_/http%3A//www.radiojar.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js csstransitions"><head>
         <meta charset="UTF-8">
@@ -33,7 +33,7 @@
         <script src="/product/js/jquery.cookie.js"></script>
         <script src="/product/js/jquery.cookiecuttr.js"></script>
 
-        <link rel="stylesheet" type="text/css" href="/product/css/styles.css?v=1.025.35t">
+        <link rel="stylesheet" type="text/css" href="/product/css/styles.css?v=1.025.65t">
 		<link rel="publisher" href="https://plus.google.com/+Radiojar/">
         <script src="/product/js/modernizr.custom.js"></script>
         <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -448,10 +448,10 @@
 
                         <div class="row" id="copyright">
                             <div class="large-6 medium-6 columns align-left large-centered medium-centered text-center">
-                                Radiojar | © 2016 Radiojar SA
+                                Radiojar | © 2017 Radiojar SA
                                 <script type="text/javascript">
                                     if ("GR"=="US") {
-                                        document.write("<br/><a style='font-size:12px' href='/RJ-BS-2015.pdf'>Annual statement 2015 (US)</a>")
+                                        document.write("<br/><a style='font-size:12px' href='/RJ-BS-2016.pdf'>Annual statement 2016 (US)</a>")
                                     }
                                 </script>
                             </div>
@@ -490,7 +490,7 @@
                 window.location = "https://" + document.URL.substring(7);
             }
             var authToken = "";
-            var version = "1.025.35t";
+            var version = "1.025.65t";
             var cCountry = "US";
             var cCurrency = "USD";
         </script>
@@ -515,7 +515,7 @@
         
         
 
-        <script src="/product/js/index-scripts.js"></script>
+        <script src="/product/js/index-scripts.js?v=1.025.65t"></script>
 
     <script>
     window.intercomSettings = {
@@ -526,36 +526,47 @@
 
 
     <script type="text/javascript">
-    
-      var _gaq = _gaq || [];
-      
-      _gaq.push(['_setAccount', 'UA-23572788-2']);
-      _gaq.push(['_trackPageview']);
-    
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    var _gaq = _gaq || [];
+
+    _gaq.push(['_setAccount', 'UA-23572788-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-   
-        var gaTrackEvent = function(category, action, label, value, callbackFunction) {
-            if (document.location.hostname != "localhost") {
-				if (window.urchinTracker){
-					callbackFunction();     
-				}else{
-					_gaq.push(['_set','hitCallback',callbackFunction]);
-                    if(value != null) {
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+    var gaTrackEvent = function (category, action, label, value, callbackFunction) {
+        if (document.location.hostname != "localhost") {
+            if (window.urchinTracker) {
+                callbackFunction();
+            }
+            else {
+                try {
+                    _gaq.push(['_set', 'hitCallback', callbackFunction]);
+                    if (value != null) {
                         _gaq.push(['_trackEvent', category, action, label, value]);
                     } else {
                         _gaq.push(['_trackEvent', category, action, label]);
                     }
-				}
-            } else {
-                console.log(document.location.hostname + ": " + category + "/" + action+"/" +label);
-				callbackFunction();
+                } catch (error) {
+                    console.log(error);
+                } finally {
+                    callbackFunction();
+                }
             }
         }
-    
+        else {
+            console.log(document.location.hostname + ": " + category + "/" + action + "/" + label);
+            callbackFunction();
+        }
+    }
+
 </script>
 
 
