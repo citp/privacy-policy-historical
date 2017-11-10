@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kwqc.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511214622id_/http%3A//www.kwqc.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwqc.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110140028id_/http%3A//www.kwqc.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-Posted: Fri 1:50 PM, Oct 04, 2013  | 
+Posted: Wed 3:24 PM, Mar 04, 2015  | 
 
 Updated: Thu 3:10 PM, May 11, 2017 
 
