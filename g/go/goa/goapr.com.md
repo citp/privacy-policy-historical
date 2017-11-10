@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goapr.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100007id_/http%3A//www.goapr.com/support/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goapr.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110200433id_/http%3A//www.goapr.com/support/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
