@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the astraweb.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511130715id_/http%3A//www.news.astraweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astraweb.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110203122id_/http%3A//www.news.astraweb.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
 **1)** We will not share, rent, sell or trade your information to any third party except partners that are working with us for the purpose of billing. These parners and their respective privacy policies are available at:
 
-PayPal 
+Multicards 
 
-[Privacy Policy](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)  
-Multicards [Privacy Policy](http://www.multicards.com/en/pages/privacy.html)
+[Privacy Policy](http://www.multicards.com/en/pages/privacy.html)
 
 Your billing information is stored 
 
-_only_ by the partner you have chosen to make payment with. We do not store your credit card, bank account or paypal details on our servers. 
+_only_ by the partner you have chosen to make payment with. We do not store your credit card or bank account details on our servers. 
 
 **2)** We will not send you unsolicited email. You will only be contacted via email for billing purposes or service-impacting announcements.
 
