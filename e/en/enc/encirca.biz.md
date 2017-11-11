@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054357id_/https%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111083135id_/https%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EnCirca
 
