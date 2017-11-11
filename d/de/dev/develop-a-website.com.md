@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the develop-a-website.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512035419id_/http%3A//www.develop-a-website.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the develop-a-website.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111174554id_/http%3A//www.develop-a-website.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | develop-a-website.com
 
