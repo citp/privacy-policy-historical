@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaultaffiliates.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630004857id_/http%3A//vaultmedia.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaultaffiliates.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111151131id_/http%3A//vaultmedia.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy | Vault Media
 
