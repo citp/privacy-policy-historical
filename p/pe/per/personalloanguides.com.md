@@ -1,19 +1,41 @@
-> *The following text is extracted and transformed from the personalloanguides.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105134237id_/http%3A//personalloanguides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalloanguides.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111155241id_/http%3A//www.personalloanguides.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Personal Loan Guides
+# Privacy Policy - Personal Loan Guides
 
-The privacy of our visitors is important to us.
+## Privacy Policy:
 
-We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit this site, and how we safeguard your information.  We never sell your personal information to third parties.
+PLG (" **PLG** ") operates PersonalLoanGuides.com and may operate other websites. It is PLG's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-**Log Files**  
-As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+### Website Visitors
 
-**Cookies and Web Beacons**  
-We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+Like most website operators, PLG collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. PLG's purpose in collecting non-personally identifying information is to better understand how PLG's visitors use its website. From time to time, PLG may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We also use third party advertisements on this website to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.
+PLG also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on PersonalLoanGuides.com blogs/sites. PLG only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+### Gathering of Personally-Identifying Information
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+Certain visitors to PLG's websites choose to interact with PLG in ways that require PLG to gather personally-identifying information. The amount and type of information that PLG gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [PersonalLoanGuides.com](http://www.personalloanguides.com/) to provide a username and email address. Those who engage in transactions with PLG are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, PLG collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with PLG. PLG does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+### Aggregated Statistics
+
+PLG may collect statistics about the behavior of visitors to its websites. PLG may display this information publicly or provide it to others. However, PLG does not disclose personally-identifying information other than as described below.
+
+### Protection of Certain Personally-Identifying Information
+
+PLG discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on PLG's behalf or to provide services available at PLG's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using PLG's websites, you consent to the transfer of such information to them. PLG will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, PLG discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when PLG believes in good faith that disclosure is reasonably necessary to protect the property or rights of PLG, third parties or the public at large. If you are a registered user of an PLG website and have supplied your email address, PLG may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with PLG and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. PLG takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. PLG uses cookies to help PLG identify and track visitors, their usage of PLG website, and their website access preferences. PLG visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using PLG's websites, with the drawback that certain features of PLG's websites may not function properly without the aid of cookies.
+
+### Business Transfers
+
+If PLG, or substantially all of its assets, were acquired, or in the unlikely event that PLG goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of PLG may continue to use your personal information as set forth in this policy.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by PLG and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, PLG may change its Privacy Policy from time to time, and in PLG's sole discretion. PLG encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a PersonalLoanGuides.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
