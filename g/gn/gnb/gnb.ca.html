@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the gnb.ca privacy policy that was archived on 2016-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160526083730id_/http%3A//www2.gnb.ca/content/gnb/en/admin/privacy.html.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gnb.ca privacy policy that was archived on 2017-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171112004549id_/http%3A//www2.gnb.ca/content/gnb/en/admin/privacy.html.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta charset="utf-8">
 	<meta name="description" content="Privacy">
 	<meta name="keywords" content="Privacy">
@@ -19,9 +20,24 @@
 	
 
 
+	    
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MGVPDD"></script><script type="text/javascript" src="/etc/clientlibs/granite/clientlibrarymanager.min.js"></script>
+<script type="text/javascript">
+GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.min.js","c":[]},{"p":"/etc/clientlibs/granite/utils.min.js","c":[]},{"p":"/etc/clientlibs/granite/jquery/granite.min.js","c":[]},{"p":"/etc/clientlibs/foundation/jquery.min.js","c":[]},{"p":"/etc/clientlibs/foundation/shared.min.js","c":[]},{"p":"/libs/cq/ui/rte.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/ui/widgets.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/searchpromote/widgets.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/ui/widgets/themes/default.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/ui/widgets/themes/default.min.css","c":["extjs","ie6"]},{"p":"/libs/cq/searchpromote/widgets/themes/default.min.css","c":[]},{"p":"/etc/clientlibs/foundation/searchpromote/themes/default.min.css","c":[]},{"p":"/libs/cq/analytics/widgets/themes/default.min.css","c":["extjs","ie6"]}],false);
+</script><script src="/etc/clientlibs/granite/jquery.min.js" type="text/javascript"></script><link type="text/css" rel="stylesheet" href="/libs/cq/ui/widgets/themes/default.min.css"><link type="text/css" rel="stylesheet" href="/libs/cq/searchpromote/widgets/themes/default.min.css"><link type="text/css" rel="stylesheet" href="/etc/clientlibs/foundation/searchpromote/themes/default.min.css"><link type="text/css" rel="stylesheet" href="/libs/cq/analytics/widgets/themes/default.min.css">
+<script src="/etc/clientlibs/granite/utils.min.js" type="text/javascript"></script>
+<script src="/etc/clientlibs/granite/jquery/granite.min.js" type="text/javascript"></script>
+<script src="/etc/clientlibs/foundation/jquery.min.js" type="text/javascript"></script>
+<script src="/etc/clientlibs/foundation/shared.min.js" type="text/javascript"></script>
+<script src="/libs/cq/ui/rte.min.js" type="text/javascript"></script>
+<script src="/libs/cq/ui/widgets.min.js" type="text/javascript"></script>
+<script src="/libs/cq/searchpromote/widgets.min.js" type="text/javascript"></script>
+<script src="/libs/cq/ui/widgets/themes/default.min.js" type="text/javascript"></script>
+
+        
 	<link rel="stylesheet" href="/etc/designs/gnb-bootstrap/clientlibs-all.min.css" type="text/css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MGVPDD"></script><script type="text/javascript" src="/etc/designs/gnb-bootstrap/clientlibs-all.min.js"></script>
-    
+<script type="text/javascript" src="/etc/designs/gnb-bootstrap/clientlibs-all.min.js"></script>
+       
 	<script src="http://www.google.com/jsapi" type="text/javascript"></script>
 
 
@@ -37,10 +53,14 @@
 
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
+    <!--START : Force IE compatibility mode off using tags-->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<!--END : Force IE compatibility mode off using tags-->
+    
 	<title>Privacy</title>
-	<script type="text/javascript">
-    	google.load('visualization', '1', {packages:['orgchart']}); 
+	<script>
+        //google.load('visualization', '1', {packages:['orgchart']}); 
     	jQuery(document).ready(function($)
     	{
         	$('#mainnav a:has(br)').add('#departmentNav a:has(br)').css({
@@ -146,7 +166,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</div>
     	<div class="col-sm-9 col-md-8">
 			<div id="topRightNav" class="visible-lg">
-        		<div class="parbase keywordsearch">
+        		<div class="keywordsearch parbase">
 
 
 
@@ -164,11 +184,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <input type="hidden" name="cof" value="FORID:11"> 
     <input type="hidden" name="ie" value="UTF-8">
     <input type="image" class="searchButton" src="/etc/designs/gnb/images/icon_search.gif" alt="Search" value="Search">
-</form></div>
+</form>
+<!-- START css/js for all auto complete -->
+<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/css/lightness/jquery-ui-1.10.2.custom.min.css"/>-->
+<!--<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>-->
+<style>
+.ui-autocomplete li.ui-menu-item{
+	font-size : 90%;
+}
+</style>
+<!-- END css/js for all auto complete -->
+<script>
+$(function () {
+  $("#q").autocomplete({
+      source: function (request, response) {
+        $.ajax({
+          url: "http://clients1.google.com/complete/search?q=" + request.term + "&hl=en&client=partner&source=gcsc&partnerid=004686105439310941724:3leejyo91sk&ds=cse&nocache=" + Math.random().toString(),
+          dataType: "jsonp",
+          success: function (data) {
+            response($.map(data[1], function (item) {
+              return {
+                label: item[0],
+                value: item[0]
+              };
+            }));
+          }
+        });
+      },
+      autoFill: true,
+      minChars: 0,
+      select: function (event, ui) {
+      $(this).closest('input').val(ui.item.value);
+      $(this).closest('form').trigger('submit');
+      }
+    });
+});
+</script></div>
 
      		</div>
      		<div id="topCentreNav">
-                <div class="globalnav globalNav">
+                <div class="globalNav globalnav">
 
 
 
@@ -192,14 +247,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
     <!--START of department/services/search-->      
     
-    	<li class="visible-sm visible-md"><a href="/content/gnb/en/search.html">Search</a></li>   
-    	<li class="visible-xs visible-sm visible-md"><a href="/content/gnb/en/services.html">Services</a></li>      
-    	<li class="visible-xs visible-sm visible-md"><a href="/content/gnb/en/corporate/government_websites.html">Departments</a></li>   
+    <li class="visible-sm visible-md"><a href="http://www2.gnb.ca/content/gnb/en/search.html">Search</a></li>   
+    	<li class="visible-xs visible-sm visible-md"><a href="http://www2.gnb.ca/content/gnb/en/services.html">Services</a></li>      
+    	<li class="visible-xs visible-sm visible-md"><a href="http://www2.gnb.ca/content/gnb/en/corporate/government_websites.html">Departments</a></li>   
     
     <!--END of department/services/search-->    
 
 	<!--START of languageSwitcher-->        
-    <li><div class="languageSwitcher parbase languageswitcher">
+    <li><div class="languageSwitcher languageswitcher parbase">
 
 
 
@@ -215,169 +270,161 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!--END of languageSwitcher-->       
   
     <!--START of home/contacts page-->    
-    <li><div class="stacked page gnbpage">
+    <li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/contacts.html">Contacts</a></div>
 </li>
-    <li class="visible-sm visible-md visible-lg"><div class="stacked leftcontent page gnbpage">
+    <li class="visible-sm visible-md visible-lg"><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en.html">GNB Home</a></div>
 </li>
-	<li class="visible-xs"><span class="glyphicon glyphicon-home"></span><a href="/content/gnb/en.html"> GNB</a></li>
+    
+    	<li class="visible-xs"><span class="glyphicon glyphicon-home"></span><a href="/content/gnb/en.html"> GNB</a></li>
+    
+    
+
     <!--END of home/contacts page-->    
 </ul>
 </div>
 <!-- department panel  **************************************************-->
-<div id="panel_dep" class="hidden-xs hidden-sm hidden-md" style="">
+<div id="panel_dep" class="hidden-xs hidden-sm hidden-md">
   <div id="bkgr_top"></div>
   <div id="bkgr_span">
-<ul class="first_list"><li><div class="h2"><div class="stacked leftcontent page gnbpage">
+<ul class="first_list"><li><div class="h2"><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments.html">Departments</a></div>
-</div></li><li><div class="stacked leftcontent page gnbpage">
+</div></li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/aboriginal_affairs.html">Aboriginal Affairs</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/10.html">Agriculture, Aquaculture and Fisheries</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/education.html">Education and Early Childhood Development</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/nbemo.html">Emergency Measures Organization</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
-<a href="/content/gnb/en/departments/energy.html">Energy and Mines</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+<a href="/content/gnb/en/departments/erd.html">Energy and Resource Development</a></div>
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/elg.html">Environment and Local Government </a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/executive_council.html">Executive Council Office</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li></ul><ul><li><div class="h2"><div class="inv">Departments</div></div></li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/finance.html">Finance</a></div>
-</li></ul><ul><li><div class="h2"><div class="inv">Departments</div></div></li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/health.html">Health</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
-
-
-<a href="/content/gnb/en/departments/human_resources.html">Human Resources</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/intergovernmental_affairs.html">Intergovernmental Affairs</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
-<a href="/content/gnb/en/departments/justice.html">Justice</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
-
-
-<a href="/content/gnb/en/departments/natural_resources.html">Natural Resources</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+<a href="/content/gnb/en/departments/jps.html">Justice and Public Safety</a></div>
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/attorney_general.html">Office of the Attorney General</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/premier.html">Office of the Premier</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
-
-
-<a href="/content/gnb/en/departments/opportunities-nb.html">Opportunities NB</a></div>
-</li></ul><ul><li><div class="h2"><div class="inv">Departments</div></div></li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/post-secondary_education_training_and_labour.html">Post-Secondary Education, Training and Labour</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
-
-
-<a href="/content/gnb/en/departments/public_safety.html">Public Safety</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li></ul><ul><li><div class="h2"><div class="inv">Departments</div></div></li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/snb.html">Service New Brunswick</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/social_development.html">Social Development</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/thc.html">Tourism, Heritage and Culture </a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/dti.html">Transportation and Infrastructure</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
+
+
+<a href="/content/gnb/en/departments/treasury_board.html">Treasury Board</a></div>
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/departments/women.html">Women's Equality</a></div>
-</li></ul><ul><li><div class="h2"><div class="stacked leftcontent page gnbpage">
+</li></ul><ul><li><div class="h2"><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/redirects/legislature.html">Legislature</a></div>
-</div></li><li><div class="stacked leftcontent page gnbpage">
+</div></li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/redirects/legislature/auditor_general.html">Auditor General</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/redirects/legislature/child_and_youth_advocate.html">Child and Youth Advocate</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/redirects/legislature/commissioner_of_officiallanguages.html">Commissioner of Official Languages</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
-<a href="/content/gnb/en/redirects/legislature/_conflict_of_interestcommissioner.html">Conflict of Interest Commissioner</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+<a href="/content/gnb/en/redirects/legislature/_conflict_of_interestcommissioner.html">Office of the Integrity Commissioner</a></div>
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/redirects/legislature/_consumer_advocateforinsurance.html">Consumer Advocate for Insurance</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/redirects/legislature/elections_new_brunswick.html">Elections New Brunswick</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/redirects/legislature/legislative_assembly.html">Legislative Assembly</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/redirects/legislature/_lieutenant-governor.html">Lieutenant-Governor</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/redirects/legislature/office_of_the_accesstoinformationandprivacycommissioner.html">Office of the Access to Information and Privacy Commissioner</a></div>
-</li><li><div class="stacked leftcontent page gnbpage">
+</li><li><div class="leftcontent stacked gnbpage page">
 
 
-<a href="/content/gnb/en/redirects/legislature/ombudsman.html">Ombudsman</a></div>
-</li><li><div class="h2"><div class="stacked leftcontent page gnbpage">
+<a href="/content/gnb/en/redirects/legislature/ombud.html">Ombud</a></div>
+</li><li><div class="h2"><div class="leftcontent stacked gnbpage page">
 
 
 <a href="/content/gnb/en/redirects/courts.html">Courts</a></div>
-</div></li><li><div class="h2"><div class="stacked page gnbpage">
+</div></li><li><div class="h2"><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/corporate/government_websites.html">Government Websites</a></div>
@@ -389,62 +436,62 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- end of department panel  **************************************************-->
 
 <!-- category panel  **************************************************-->
-<div id="panel_cat" class="hidden-xs hidden-sm hidden-md" style="">
+<div id="panel_cat" class="hidden-xs hidden-sm hidden-md">
   <div id="bkgr_top1"></div><!--changed bkgr_top ==>bkgr_top1-->
     <div id="bkgr_span1"><!--changed bkgr_span ==>bkgr_span1-->
-<ul class="first_list"><li><div class="stacked page gnbpage">
+<ul class="first_list"><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/basic_needs.html">Basic Needs</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/business.html">Business</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/community_and_culture.html">Community and Culture</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/driving_and_vehicles.html">Driving and Vehicles</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/education.html">Education</a></div>
-</li></ul><ul><li><div class="stacked page gnbpage">
+</li></ul><ul><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/employment.html">Employment</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/environment_and_landplanning.html">Environment and Land Planning</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/health.html">Health</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/identification.html">Identification</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/land_and_property.html">Land and Property</a></div>
-</li></ul><ul><li><div class="stacked page gnbpage">
+</li></ul><ul><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/recreation_and_sports.html">Recreation and Sports</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/safety_and_courts.html">Safety and Courts</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/tourism.html">Tourism</a></div>
-</li><li><div class="stacked page gnbpage">
+</li><li><div class="stacked gnbpage page">
 
 
 <a href="/content/gnb/en/services/your_government.html">Your Government</a></div>
@@ -521,9 +568,61 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 function goToSearch(obj, sLang){
-	location.href='/content/gnb/' + sLang + '/services.html?keyword=' + document.getElementById('searcher').value;
+    location.href='http://www2.gnb.ca/content/gnb/' + sLang + '/services.html?keyword=' + document.getElementById('searcher').value;
 } 
-</script></div>
+</script>
+
+<!-- START Javascript -->
+<!-- START css/js for all auto complete -->
+<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css" />-->
+<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/css/lightness/jquery-ui-1.10.2.custom.min.css" />-->
+<!--<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js" ></script>-->
+<style>
+.ui-autocomplete li.ui-menu-item{
+	font-size : 90%;
+}
+</style>
+
+<!-- END css/js for all auto complete -->
+<script>
+$(function() {
+    var fullpath = location.pathname;
+    var pathsplit = fullpath.split(".");
+    //getting path without selectors
+    var path = pathsplit[0] + ".html";
+    var auto_service_search = path.replace(".html", "/_jcr_content.auto_service_search");
+    $("#searcher").autocomplete({
+        source: function(request, response) {
+            $.ajax({
+                url: auto_service_search,
+                dataType: "json",
+                data: {
+
+                    term: request.term
+                },
+                success: function(result) {
+                    response(
+                        $.map(result, function(item) {
+                            return {
+
+                                label: item.data,
+                                value: item.data
+                            }
+                        })
+                    );
+                }
+            });
+        },
+        minLength: 1,
+        select: function(event, ui) {
+      		$(this).closest('input').val(ui.item.value);
+            //$(this).closest('form').trigger('submit');
+            $('#btnSearch').click();
+        }
+    });
+})
+</script>
+<!-- END Javascript --></div>
 
      		</div>
      	</div>
@@ -533,19 +632,19 @@ function goToSearch(obj, sLang){
 	</header>  
 
  </div>
-<div id="heightDivDep" class="hidden-xs hidden-sm hidden-md" style="height: 406px; display: none;"></div>
-<div id="heightDivCat" class="hidden-xs hidden-sm hidden-md" style="height: 150px; display: none;"></div>
+<div id="heightDivDep" class="hidden-xs hidden-sm hidden-md"></div>
+<div id="heightDivCat" class="hidden-xs hidden-sm hidden-md"></div>
     	<!--END of header-->
   		<!--START  of content-->
  		<div id="main_content_wrapper">
 			
 
 
-        
+
 
 
 <div id="mainNav">
-	<div class="parsys iparsys mainNav_ipar"><div class="iparys_inherited"><div class="parsys iparsys mainNav_ipar"><div class="mainnav parbase list section">
+	<div class="mainNav_ipar iparsys parsys"><div class="iparys_inherited"><div class="mainNav_ipar iparsys parsys"><div class="mainnav list parbase section">
 
 
 
@@ -561,7 +660,6 @@ function goToSearch(obj, sLang){
 
 
 <nav class="navbar navbar-custom" role="navigation"><div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#gnb-navbar-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button><a class="navbar-brand visible-xs visible-sm" href="/content/gnb/en.html">Government of New Brunswick</a></div><div class="collapse navbar-collapse mainnav1" id="gnb-navbar-collapse"><div class="visible-xs"><form action="/content/gnb/en/search.html" title="Search" method="get" id="keyword_search_form" class="navbar-form" role="search"><div class="input-group"><input type="text" class="form-control" aria-labelledby="q" placeholder="Search" name="q"><input type="hidden" name="cx" value="004686105439310941724:vjorlpwulkq"><input type="hidden" name="as_sitesearch" value=""><input type="hidden" name="cof" value="FORID:11"><input type="hidden" name="ie" value="UTF-8"><div class="input-group-btn"><button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i><span class="sr-only">submit</span></button></div></div></form></div><ul class="nav navbar-nav" id="mainnav"><li class=""><a href="/content/gnb/en/gateways/for_residents.html">For Residents</a></li><li class=""><a href="/content/gnb/en/gateways/for_business.html">For Business</a></li><li class=""><a href="/content/gnb/en/gateways/visiting_nb.html">Visiting NB</a></li><li class=""><a href="/content/gnb/en/gateways/your_government.html">Your Government</a></li><li class=""><a href="/content/gnb/en/gateways/employment.html">Employment</a></li><li class=""><a href="/content/gnb/en/news.html">News</a></li><li class="last "><a href="/content/gnb/en/gateways/about_nb.html">About NB</a></li></ul></div></nav><div class="clearfloat"></div></div>
-
 </div>
 </div>
 </div>
@@ -571,14 +669,13 @@ function goToSearch(obj, sLang){
 
 <br>
 
-<span class="printHeader">Government of New Brunswick</span>
-      
+<span class="printHeader">Government of New Brunswick</span>      
     		<!--START  of content-->
     		<div class="row">
       			<div class="col-sm-12">
         			
                 		<div id="pageToolbar" style="float:right;width:260px;margin:0 25px 0 0;" class="hidden-xs hidden-sm hidden-md">
-                    		<div class="pagetools pageToolbar">
+                    		<div class="pageToolbar pagetools">
 
 
 
@@ -679,7 +776,7 @@ setActiveStyleSheet(title);
         			 
             			<div id="mainContent">
                     	<div class="pageHeader"><h1>Privacy</h1></div>
-                    		<div class="parsys mainContent_par"><div class="text parbase section">
+                    		<div class="mainContent_par parsys"><div class="text parbase section">
 
 <div class="text"><p>The Government of New Brunswick takes the privacy of its Internet users seriously. We are committed to safeguarding the privacy of our users while providing a personalized and valuable service. This Privacy Statement explains the website data processing practices of the Government of New Brunswick website <a href="http://www.gnb.ca/">http://www.gnb.ca.</a></p>
 <p><b>Information Collected: Non-Personal&nbsp;</b></p>
@@ -743,7 +840,7 @@ e-mail: <a href="mailto:corporate.communications@gnb.ca">corporate.communication
 	<div id="footer">
 		<div class="row">        
     		<div id="footerToolbar" class="col-sm-12 hidden-xs hidden-sm hidden-md">
-        		<div class="parbase footertools footerToolbar">
+        		<div class="footerToolbar footertools parbase">
 
 
 
@@ -780,17 +877,17 @@ e-mail: <a href="mailto:corporate.communications@gnb.ca">corporate.communication
 
 		<div class="row">        
     		<div id="footerNav" class="col-sm-12 hidden-xs hidden-sm hidden-md">
-        		<div class="parsys iparsys footerNav_ipar"><div class="iparys_inherited"><div class="parsys iparsys footerNav_ipar"><div class="parbase section footernav">
+        		<div class="footerNav_ipar iparsys parsys"><div class="iparys_inherited"><div class="footerNav_ipar iparsys parsys"><div class="footernav parbase section">
 
 <div class="footerNavSection right_border">
-    <div class="parbase sectiontitle footer1_title">
+    <div class="footer1_title sectiontitle parbase">
 
 
 
 
 GNB.ca</div>
     
-    <div class="parbase gnblist footer1_list list">
+    <div class="footer1_list gnblist list parbase">
 
 
 
@@ -800,14 +897,14 @@ GNB.ca</div>
     
 </div>
 <div class="footerNavSection right_border">
-    <div class="parbase sectiontitle footer2_title">
+    <div class="footer2_title sectiontitle parbase">
 
 
 
 
 News &amp; Media</div>
     
-    <div class="parbase gnblist list footer2_list">
+    <div class="footer2_list gnblist list parbase">
 
 
 
@@ -817,14 +914,14 @@ News &amp; Media</div>
     
 </div>
 <div class="footerNavSection right_border">
-    <div class="parbase sectiontitle footer3_title">
+    <div class="footer3_title sectiontitle parbase">
 
 
 
 
 Government</div>
     
-    <div class="parbase gnblist footer3_list list">
+    <div class="footer3_list gnblist list parbase">
 
 
 
@@ -834,14 +931,14 @@ Government</div>
     
 </div>
 <div class="footerNavSection">
-    <div class="parbase sectiontitle footer4_title">
+    <div class="footer4_title sectiontitle parbase">
 
 
 
 
 Resources</div>
     
-    <div class="footer4_list parbase gnblist list">
+    <div class="footer4_list gnblist list parbase">
 
 
 
@@ -853,7 +950,6 @@ Resources</div>
 
 <div class="clearFloats"></div>
 </div>
-
 </div>
 </div>
 </div>
@@ -864,7 +960,7 @@ Resources</div>
 
 		<div class="row">        
     		<div id="footerDisclaimer" class="col-sm-12">
-        		<div class="sitefooter siteFooter parbase">
+        		<div class="siteFooter sitefooter parbase">
 
 
 
@@ -886,7 +982,7 @@ Resources</div>
 
 <div class="row">
     <div class="col-lg-7 col-md-7 visible-md-block visible-lg-block">
-		<span>All content © 2016 Government of New Brunswick. All rights reserved.</span>
+		<span>All content © 2017 Government of New Brunswick. All rights reserved.</span>
   	</div>      
 	<div class="col-lg-5 col-md-5">
 		<div id="siteFooterNav" class="right">
@@ -905,7 +1001,7 @@ Resources</div>
 <div id="myModal" class="modal fade" role="dialog">
   	<!-- START of modal-dialog -->  
 	<div class="modal-dialog">
-		<form class="form-horizontal bv-form" role="form" id="FeedbackForm" method="GET" accept-charset="utf-8" novalidate="novalidate"><button type="submit" class="bv-hidden-submit" style="display: none; width: 0px; height: 0px;">submit button</button>
+		<form class="form-horizontal" role="form" id="FeedbackForm" method="GET" accept-charset="utf-8">
 			<!-- START of modal-content-->
     		<div class="modal-content">
       			<!-- START of modal-header-->  
@@ -917,27 +1013,27 @@ Resources</div>
       			<!-- START of modal-body-->    
       			<div class="modal-body">
 					<!-- START of name-->
-					<div class="form-group has-feedback">
+					<div class="form-group">
 						<label class="control-label col-sm-2" for="name">Name</label>
     					<div class="col-sm-10">
-      						<input class="form-control" type="text" id="name" name="name" placeholder="Name" required="" title="Lütfen işaretli yerleri doldurunuz" data-bv-field="name"><i class="form-control-feedback" data-bv-icon-for="name" style="display: none;"></i>
-    					<small class="help-block" data-bv-validator="notEmpty" data-bv-for="name" data-bv-result="NOT_VALIDATED" style="display: none;">Name is required</small></div>
+      						<input class="form-control" type="text" id="name" name="name" placeholder="Name" required="" title="Lütfen işaretli yerleri doldurunuz">
+    					</div>
   					</div>
                     <!-- END of name-->
 					<!-- START of email-->
-					<div class="form-group has-feedback">
+					<div class="form-group">
 						<label class="control-label col-sm-2" for="email">Email</label>
     					<div class="col-sm-10">
-      						<input class="form-control" type="email" id="email" name="email" placeholder="Email" required="" title="Lütfen işaretli yerleri doldurunuz" data-bv-field="email"><i class="form-control-feedback" data-bv-icon-for="email" style="display: none;"></i>
-    					<small class="help-block" data-bv-validator="notEmpty" data-bv-for="email" data-bv-result="NOT_VALIDATED" style="display: none;">Email address required</small><small class="help-block" data-bv-validator="emailAddress" data-bv-for="email" data-bv-result="NOT_VALIDATED" style="display: none;">The input is not a valid email address</small></div>
+      						<input class="form-control" type="email" id="email" name="email" placeholder="Email" required="" title="Lütfen işaretli yerleri doldurunuz">
+    					</div>
   					</div>
                     <!-- END of email-->
 					<!-- START of comments-->
-					<div class="form-group has-feedback">
+					<div class="form-group">
   						<label class="control-label col-sm-2" for="comments">Comments</label>
 						<div class="col-sm-10">
-  							<textarea class="form-control" rows="4" id="comments" name="comments" wrap="hard" required="" data-bv-field="comments"></textarea><i class="form-control-feedback" data-bv-icon-for="comments" style="display: none;"></i>
-                        <small class="help-block" data-bv-validator="notEmpty" data-bv-for="comments" data-bv-result="NOT_VALIDATED" style="display: none;">Comment is required</small></div>
+  							<textarea class="form-control" rows="4" id="comments" name="comments" wrap="hard" required=""></textarea>
+                        </div>
 					</div>
                     <!-- END of comments-->
 					<!-- START of address-->
@@ -1088,16 +1184,18 @@ $(document).ready(function(){
 		</div><!--main_content_wrapper-->          
 	</div><!--container-->          
 <!--Start of Google Analytics-->
-<script src="/etc/designs/gnb/js/tracking_dam_v4.js" type="text/javascript"></script>
+<script src="/etc/designs/gnb/js/tracking_dam_v4.js"></script>
 
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-17231199-1");
-		pageTracker._trackPageview();
-	</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-17231199-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 
 <!--End of Google Analytics-->    
