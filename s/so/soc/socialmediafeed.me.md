@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediafeed.me privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108144259id_/https%3A//socialmediafeed.me/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediafeed.me privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111153711id_/https%3A//socialmediafeed.me/website/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SocialMediaFeed.me | View Latest Social Media Feed from Instagram Popular People Online
 
@@ -17,7 +17,7 @@ Like most website operators, SocialMediaFeed.me collects non-personally-identify
 
 All photographic and video content on SocialMediaFeed.me comes from Instagram and was publicly available at the time of its appearing on our site. The content is owned by those who posted it and carries the copyright attributed by that owner. You can control your content's visibility by changing your Instagram settings to prevent your content from appearing on third-party sites like SocialMediaFeed.me. Visit Instagram's help center to learn more about [controlling your visibility](https://help.instagram.com/116024195217477/).
 
-If you would like to prevent your profile from appearing specifically on SocialMediaFeed.me, please submit a removal request. For all other inquiries please contact us at 
+If you would like to prevent your profile from appearing specifically on SocialMediaFeed.me, please open the [Submit Profile Removal Request](https://web.archive.org/website/removalform)
 
 ###### Aggregated Statistics
 
