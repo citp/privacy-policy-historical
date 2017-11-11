@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turkishsubs.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620104506id_/http%3A//www.turkishsubs.com/683-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turkishsubs.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111163359id_/http%3A//www.turkishsubs.com/683-2) for the most accurate reproduction.*
 
 # Privacy Policy - Everything About Turkish Culture
 
@@ -25,7 +25,7 @@ Our website is scanned on a regular basis for security holes and known vulnerabi
 
 We use regular Malware Scanning.
 
-We do not use an SSL certificate
+We use an SSL certificate and renew it every year.
 
 **•** We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
 
@@ -135,9 +135,6 @@ A statement by you, made under penalty of perjury, that the information submitte
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+If there are any questions regarding this privacy policy, you may contact us using our page below.
 
-> [News](http://www.turkishsubs.com/)
-
-  
-Contact Us Menu
+> [Contact Us](http://www.turkishsubs.com/contact-us/)
