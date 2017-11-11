@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the add-site.co.uk privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511120655id_/http%3A//www.add-site.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the add-site.co.uk privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111133343id_/http%3A//www.add-site.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice :
 
@@ -10,4 +10,4 @@ We may collect your name, job title, contact information including email address
 We makes every effort to ensure that your purchase experience at our website is secure. We use the most powerful Secure Socket Layers (SSLs) encryption techniques to protect against loss, misuse or alteration of your user information. It simply adds security to the entire stream of data between the your internet browser and our system, therefore, giving you a sense of confidence in providing us with your card number. In addition, we use internet fraud screening to protect credit card transactions.   
 And when you register on our website, We caution you to choose a password that is difficult to guess, but easy for you to remember. Please protcet your account info, If you find any shadiness about your account,please contact us, we will check the problem for you. Refer to credit card payment,we obtains credit card authorization information directly from the card-issuing bank for verification before completing any transaction.
 
-[](http://www.add-site.co.uk/mens-clothing-trousers-c-1_5.html)
+[](http://www.add-site.co.uk/perfect-styles-balmain-studded-baroque-mini-dress-on-sale-p-760.html)
