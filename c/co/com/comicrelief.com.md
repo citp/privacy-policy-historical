@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607142111id_/http%3A//www.comicrelief.com/privacy-policy%3Ftabs-0-row1_col1-0%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111225609id_/http%3A//www.comicrelief.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Comic Relief
+# Privacy policy | Comic Relief
 
-## Privacy Policy
-
-## Privacy Policy
-
-### Statement Of Intent
+### Statement of intent
 
 When you supply any personal information to Comic Relief, we have legal obligations under the Data Protection Act 1998 in the way we deal with that information. In particular, we must:
 
-  * Collect the information fairly
+  *  Collect the information fairly
   * Let you know how we will use it
   * Keep the information secure
 
@@ -18,11 +14,11 @@ When you supply any personal information to Comic Relief, we have legal obligati
 
 We are committed to protecting and respecting your privacy. Whenever you provide personal information we will treat your information in accordance with this privacy policy, and in accordance with the Data Protection Act 1998.
 
-### Information We May Collect From You
+### Information we may collect from you
 
 When you donate, register online, contact us, or interact with us in any other way, Comic Relief may sometimes receive personal information about you, such as your:
 
-  * Name
+  *  Name
   * Email address
   * Postal address
   * Telephone number
@@ -32,11 +28,11 @@ When you donate, register online, contact us, or interact with us in any other w
 
 When you visit our site, we also sometimes use cookies, and collect information about your visit. For more details, please see the ‘Cookies’ and ‘How we use your information’ sections below.
 
-### How We Use Your Information
+### How we use your information
 
 We use your information in a number of ways, such as:
 
-  * Sending you information about Comic Relief, our supporters and beneficiaries for marketing purposes, including via Facebook
+  *  Sending you information about Comic Relief, our supporters and beneficiaries for marketing purposes, including via Facebook
   * Processing a donation that you have made
   * Processing an order from our online shop
   * Dealing with entries into competitions
@@ -67,7 +63,7 @@ By providing personal information to us, you consent that we may transfer your i
 
 If you are under 16, please make sure you have your parent or guardian's permission before you provide us with any personal information. Children under 16 must not provide us with personal information without this permission.
 
-### Third Party Websites
+### Third party websites
 
 This website may contain links to third party websites. This policy only applies to this website so if you follow a link to a third party site, please make sure you read the privacy policy on that site. We do not accept any responsibility for third party sites.
 
@@ -85,21 +81,19 @@ Email: [info@comicrelief.com](mailto:info@comicrelief.com)
 
 Phone: 020 7820 2000
 
-### Who We Are
+### Who we are
 
 This site is owned and operated by Comic Relief whose place of business is 89 Albert Embankment, London, SE1 7TP, UK. Comic Relief is the operating name of Charity Projects, a charity registered in England & Wales with number 326568 and in Scotland with number SC039730, and a company limited by guarantee registered in England with number 1806414. Comic Relief Limited is a subsidiary of Charity Projects and a limited company registered in England with number 1967154. Our registered offices are Hanover House, 14 Hanover Square, London W1S 1HP. Our VAT number is 773865187.
 
 Any changes we make to this privacy policy will be posted on this page, so please check back from time to time.
 
-## Cookies
-
-## Cookies
+### Cookies
 
 Cookies are small pieces of information (in the form of text files) which are sent from our website to your computer or mobile phone and which are stored on your device's hard drive. They help you use our site more effectively, and help us assess how our site is used.
 
 Most internet browsers (such as Internet Explorer, Mozilla Firefox or Google Chrome) give users options about cookies through their browser settings. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to and use our site.
 
-You can find out more about cookies and how to remove them from your browser at [www.aboutcookies.org](http://www.aboutcookies.org/)
+You can find out more about cookies and how to remove them from your browser at [www.aboutcookies.org](http://www.aboutcookies.org/)
 
 Please note that if you remove some of our cookies, you may not be able to use our site as effectively.
 
@@ -107,9 +101,7 @@ During your visits to our site you may notice some cookies that are not related 
 
 Here are a list of the main cookies that we use on this site, and what they do. By using this site, you agree that we can place these cookies on your device:
 
- 
-
-### Our Cookies
+**Our cookies**
 
 Cookie name
 
@@ -149,7 +141,7 @@ cookie-agreed-en
 
 This is only ever true and is used to remember whether the user has closed the cookie banner notice already so it doesn't pop up again.  
   
-### Third Party Cookies
+**Third party cookies**
 
 _Worldpay_  
   
@@ -185,7 +177,7 @@ __utma
 
 We use a service called Google Analytics which collects information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited.
 
-For more information about these cookies, please visit: <http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html>  
+For more information about these cookies, please visit the [Google website](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html).  
   
 __utmb  
   
