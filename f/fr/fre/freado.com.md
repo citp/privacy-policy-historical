@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freado.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510213631id_/http%3A//www.freado.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freado.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111034457id_/http%3A//www.freado.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Freado
+# Privacy Policy – Freado
 
 ## Our Commitment To Privacy
 
