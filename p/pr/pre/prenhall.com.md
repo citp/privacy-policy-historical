@@ -1,58 +1,53 @@
-> *The following text is extracted and transformed from the prenhall.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503070639id_/https%3A//www.pearsonhighered.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prenhall.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111103321id_/https%3A//www.pearson.com/us/higher-education/products-services-institutions/smarthinking-online-tutoring/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Smarthinking Privacy Policy from Pearson
 
-### 1\. Applicability
+The Smarthinking website is intended to provide tutoring and college-level academic support to students over the age of 13. The Smarthinking Privacy Policy details the commitment of Smarthinking, Inc. to our users' privacy. Please review the following policy to understand how the information you provide Smarthinking, Inc. ("Smarthinking") will be treated.
 
-This Privacy Policy explains the way Pearson Education, Inc. (“Pearson” or “we”) collects, uses, maintains and discloses information collected from each user (“User” or “you”) of the www.pearsonhighered.com website (“Site”). This Privacy Policy applies to the Site and any personally identifiable information collected by Pearson through this Site.
+## Who we are and how to reach us
 
-This Privacy Policy applies only to this Site. Other websites, including other Pearson websites linked through or to this Site, may have their own privacy policies and practices. Your use of any other website is subject to the privacy policy of that website.
+Smarthinking is the sole provider of this website. You may contact us directly if you have any questions regarding the content and material on this website, or the collection, use, correction or deletion of any personal or non-personal information provided over this website. Please contact us at: 
 
-### 2\. Purpose
+**Smarthinking, Inc.**  
+1919 M St, NW Suite 600  
+Washington, DC 20036   
+888-430-7429  
+[info@smarthinking.com](mailto:info@smarthinking.com)
 
-The purpose of this Site is to provide information about our Higher Education products and services and an avenue for you to contact us and request additional information. Use of this Site is subject to the [Terms of Use](https://web.archive.org/terms-of-use.html) for this Site.
+##### Usage Eligibility
 
-### 3\. Collection and Use of Personal Information
+The Smarthinking service is intended for students over the age of 13. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website services will be canceled without notice if at any time we discover that you provide false information, or violate any term of this Privacy Policy or our Terms of Usage Use Agreement . If necessary, and in accordance with applicable law, Smarthinking will cooperate with local, state and/or federal authorities to protect its users, parents, partners, affiliates, subsidiaries and operational providers or to prevent unauthorized use of the site.
 
-Users are not required to provide personally identifiable information (“Personal Information”) to visit and browse this Site.
+##### Personal information
 
-If a User sends us an email or completes one of the contact forms on this Site, we may collect Personal Information, including: first and last name associated with the User’s title or role, address, email address, phone number, organization name and any other additional information the user voluntarily chooses to provide. Such Personal Information may be used to respond to emails and inquiries, market our products and services, request feedback, fulfill requests, such as requests for access to examination/sample copies of our products, and assure compliance with the Terms of Use of this Site.
+The only personal information this website obtains about you is information voluntarily provided by you. You are free to visit Smarthinking; however, if you would like to use the Smarthinking service, you must register. When you register with us, we will request certain personal information including email, phone number, ZIP/postal code, country and, if your school does not provide the Smarthinking service to you, credit card information. Response to our surveys is entirely voluntary and not required for receipt of services.
 
-The Internet is a global environment. Through use of this Site and submission of information to us electronically, you consent to trans-border and international transmission of any data you choose to submit, including transmission within and to the United States.
+This information is used by Smarthinking for (1) billing and account purposes; (2) demographic assessments of and provision of services to the user population; (3) empirical research; (4) communication with you; and (5) internal auditing purposes. Only strictly authorized Smarthinking employees have access to this personal information. It may be given to an institutional administrator or a professor if the service is provided through your school or by a textbook publisher. 
 
-### 4\. Protection of Personal Information
+In addition to registration information, all electronic text-based conversations between you and Smarthinking’s tutors are digitally captured and stored in Smarthinking’s databases. They may be given to your school administrator, professor, and empirical researchers. Smarthinking may request personal information at other times to better serve your individual needs. As stated above, Smarthinking will not collect any personally identifiable information that you do not voluntarily provide. Smarthinking will not disclose any of your personal information, except when we have your permission or under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce the Registration Agreement or the Terms of Use, (iii) respond to claims that any content on Smarthinking violates the rights of third parties, (iv) protect the rights, property, or personal safety of Smarthinking, its users or the public, or (v) respond to the request of your institutional administrators if the service is paid for by them.
 
-We use appropriate commercially reasonable data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of Personal Information.
+Your schools' administrators are within their rights to request access to your personal information and electronic conversations with Smarthinking tutors. Your school, in turn, is subject to the Family Education Rights and Privacy Acts of 1974 (FERPA) restrictions on further disclosure. For further information on FERPA rules and responsibilities, contact your school. 
 
-### 5\. Information Sharing and Disclosure
+Smarthinking also reserves the right to replicate written comments about the service sent to its representatives on our website and/or in promotional materials and/or in business development materials, along with your name and institution. Your email address and any personal information besides your name and institution will not be used at any time without your agreement. If you do not want your name to accompany your comments, please state this in your written correspondence with Smarthinking, Inc. and its representatives. 
 
-Except as specifically stated in this Privacy Policy, it is our policy not to share or disclose Personal Information collected through this Site with third parties other than affiliates of Pearson and other companies and organizations who perform work for us under contract or sell products or services that complement our products and services and who are committed to protect the privacy of Personal Information in a manner consistent with this Privacy Policy. We may disclose a User’s Personal Information: (a) with the User’s consent; (b) in response to a subpoena, court order or legal process, to the extent permitted or required by law; (c) as otherwise required by law; (d) to protect the security of the User and other persons, our systems and the data we hold, consistent with applicable law; (e) in connection with a sale, joint venture or other transfer of some or all of our company or its assets; (f) to address actual or suspected fraud or other illegal activities; or (g) in order to enforce the site’s Terms of Use or any contract between us and such User.
+Smarthinking contains links to other sites and some features of the Smarthinking Service may be offered in conjunction with a partner company. Smarthinking is not responsible for the privacy practices or the content of such websites and companies. 
 
-### 6\. Information Access and Correction
+In order to provide partner company features, it may be necessary for either you or Smarthinking to share your voluntarily provided personal information with this company. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
 
-Users may [contact us](mailto:dataprivacy@pearson.com) to access, correct or update other Personal Information submitted or collected through this Site or to opt out of receiving marketing communications about our products and services.
+##### Non-personal Information
 
-### 7\. Information from Children
+Certain non-personal information of visitors is also recorded by the standard operation of Smarthinking’s Internet servers. This information is primarily used to provide visitors to Smarthinking with an enhanced online experience. Information tracked includes the type of browser being used by the visitor, the type of operating system, and the domain name of the visitor's Internet service provider. Smarthinking may disclose aggregated user statistics in order to describe the Smarthinking service to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
-This Site is not directed to children, including anyone under the age of thirteen (13). Pearson will not knowingly collect or process any Personal Information from anyone under the age of thirteen (13) through this Site.
+##### How to add, change, or delete personal information
 
-### 8\. Non-Personally Identified Information
+You have access to your membership profile collected and maintained by our website. We strive to ensure that the information we obtain and use about our members and visitors is accurate. Therefore, you may add, change, or delete personal information on your profile or registration for other activities. Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your membership information and e-mail address. You may change, update or delete certain information in your membership file through the Smarthinking web page: Simply log in to your account, enter the "About Me" page, and change your information as necessary.
 
-We may collect non-personally identified information about Users whenever they interact with this Site. Such non-personally identified information may include the browser name, the type of computer and technical information about the Users’ means of connection to our site, such as the operating system, internet service provider and IP address (a number automatically assigned to the User’s computer by their internet service provider). This information is generally collected for system administration purposes, to monitor activity levels and for security purposes. We reserve the right to link IP addresses and other non-personally identifiable information in order to protect the integrity of this Site, to monitor compliance with our Terms of Use and for security purposes.
+##### Use of Cookies
 
-### 9\. Web Analytics
+This site requires cookies. Smarthinking uses cookies to establish a session. We do not use cookies for tracking purposes. Cookies do not allow the website to access personal information that you haven't already provided.
 
-We may use third party web analytical services, including Google Analytics and Adobe Analytics, to collect anonymous visitor information, including IP addresses, browser types, referring pages, pages visited and time spent on a particular site. While these analytical services collect and report information on any anonymous basis, they may use cookies and collect IP addresses to gather web trend information. We use this web trend information for system administration and marketing purposes and to identify problems and improve service. For further information about Google Analytics, and for links to Google’s Privacy Policy and an opt-out tool for Google Analytics, go to <http://www.google.com/intl/en/analytics/privacyoverview.html>. For further information about Adobe Analytics, for links to Adobe Analytics’ Privacy Policy and an opt-out tool for Adobe Analytics, go to <http://www.adobe.com/privacy/analytics.html>.
+##### Our Security Procedures
 
-### 10\. Cookies and Do-Not-Track Signals
+We are committed to safeguarding the privacy of all users. We require our employees to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. We have a digital certificate that is signed by a recognized certificate authority. 
 
-The use of cookies is a common practice for websites. Cookies are small text files that a website transfers to a computer’s browser. Cookies may identify your computer, browser and internet specifications and collect information about use of the Site. This Site may use cookies to measure traffic patterns, personalize content, control security and track use and access of information on this Site. Users may choose to set their web browser to refuse cookies or to alert them when cookies are being sent, but this may result in some part of this Site not functioning properly. This site does not respond to web browser “do not track” signals or comparable signals or mechanisms.
-
-### 11\. Changes to the Privacy Policy
-
-This Privacy Policy may be revised from time to time through an updated posting. We will identify the effective date of the revision in the posting. Continued use of this Site following the effective date of the posting will indicate the User’s acceptance of such changes.
-
-### 12\. Contact Information
-
-Please [contact us](mailto:dataprivacy@pearson.com) about any questions or concerns about this Privacy Policy or the protection of Personal Information provided through this Site.  
- 
+Please be advised that once you leave our website, your use of the Internet will be governed by the privacy policies, if any, of the particular website that you are accessing. Smarthinking is not responsible for the content, activities, or privacy practices on the other sites.
