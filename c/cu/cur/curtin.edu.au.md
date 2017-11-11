@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curtin.edu.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607122520id_/http%3A//rim.curtin.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curtin.edu.au privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111185047id_/http%3A//rim.curtin.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Privacy
 
@@ -68,7 +68,7 @@ The University will comply in circumstances where it is required to do so under 
 
 ## Complaints
 
-Staff, students and other people the University deals with may make a complaint about a breach of privacy through the Integrity and Standards Unit (ISU) Complaints Portal, please see the ISU Complaints Portal webpage for more details.Staff and students may make a complaint about a breach of privacy through the Integrity and Standards Unit (ISU) portal, please see the _[ISU Complaints Portal](http://complaints.curtin.edu.au/management/report.cfm)_ web page for more details.
+Staff, students and other people the University deals with may make a complaint about a breach of privacy through the Integrity and Standards Unit (ISU) portal, please see the _[ISU Complaints Portal](http://complaints.curtin.edu.au/management/report.cfm)_ web page for more details.
 
 ## Enquiries
 
