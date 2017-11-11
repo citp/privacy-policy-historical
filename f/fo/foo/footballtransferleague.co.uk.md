@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballtransferleague.co.uk privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422203858id_/http%3A//www.footballtransferleague.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballtransferleague.co.uk privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111184931id_/http%3A//www.footballtransferleague.co.uk/privacy) for the most accurate reproduction.*
 
 # Football Transfer League - Privacy Policy
 
