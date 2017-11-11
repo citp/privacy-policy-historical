@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoabella.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608160154id_/http%3A//whoabella.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoabella.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111073230id_/http%3A//whoabella.com/privacy) for the most accurate reproduction.*
 
 # WHOABella Privacy Policy | WhoaBella!
 
