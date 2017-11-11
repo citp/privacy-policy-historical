@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myelitehub.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204002300id_/http%3A//elitemarketingpro.com/compliance/emp-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myelitehub.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111085654id_/http%3A//elitemarketingpro.com/compliance/emp-privacy.html) for the most accurate reproduction.*
 
 # Elite Marketing Pro - Privacy Policy
 
