@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newarkadvocate.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421221041id_/http%3A//static.newarkadvocate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newarkadvocate.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111192202id_/http%3A//static.newarkadvocate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | newarkadvocate.com
 
