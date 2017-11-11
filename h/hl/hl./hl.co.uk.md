@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hl.co.uk privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217122730id_/http%3A//www.hl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hl.co.uk privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111055004id_/http%3A//www.hl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy notice | Hargreaves Lansdown
 
@@ -14,13 +14,13 @@ This notice (together with our Statutory disclosures and any other documents ref
 For the purpose of the Data Protection Act 1998, the data controllers in respect of the websites listed below (the “ **HL Websites** ”) are as follows:   
 
 
-[www.hl.co.uk](http://www.hl.co.uk/home "www.hl.co.uk") and [www.hargreaveslansdownjobs.co.uk](http://www.hargreaveslansdownjobs.co.uk/home "www.hargreaveslansdownjobs.co.uk") \- Hargreaves Lansdown Asset Management Limited (“ **HLAM** ”) (a company registered in England and Wales under company number 01896481, whose registered office is at One College Square South, Anchor Road, Bristol BS1 5HL);  
+[www.hl.co.uk](http://www.hl.co.uk/home "www.hl.co.uk") and [www.hargreaveslansdownjobs.co.uk](https://web.archive.org/web/20171111055004id_/http%3A//www.hl.co.uk/?a=8733770 "www.hargreaveslansdownjobs.co.uk") \- Hargreaves Lansdown Asset Management Limited (“ **HLAM** ”) (a company registered in England and Wales under company number 01896481, whose registered office is at One College Square South, Anchor Road, Bristol BS1 5HL);  
 
 
 [www.hl.co.uk/company-pensions](http://www.hl.co.uk/company-pensions "www.hl.co.uk/company-pensions"), [www.pensiontime.co.uk](http://new.pensiontime.co.uk/home "www.pensiontime.co.uk"), [www.corporate-vantage.co.uk](http://www.corporate-vantage.co.uk/home "www.corporate-vantage.co.uk") and [www.mycompanyplan.co.uk](http://www.mycompanyplan.co.uk/ "www.mycompanyplan.co.uk") \- Hargreaves Lansdown Advisory Services Limited (a company registered in England and Wales under company number 03509545, whose registered office is at One College Square South, Anchor Road, Bristol BS1 5HL) and HLAM, together trading as Hargreaves Lansdown Corporate Solutions; and   
 
 
-[www.hlmarkets.co.uk](http://www.hlmarkets.co.uk/ "www.hlmarkets.co.uk")\- Hargreaves Lansdown Stockbrokers Limited (a company registered in England and Wales under company number 01822701, whose registered office is at One College Square South, Anchor Road, Bristol BS1 5HL).   
+[www.hlmarkets.co.uk](http://www.hlmarkets.co.uk/ "www.hlmarkets.co.uk")\- Hargreaves Lansdown Asset Management Limited (a company registered in England and Wales under company number 01822701, whose registered office is at One College Square South, Anchor Road, Bristol BS1 5HL).   
 
 
 By visiting the HL Websites or using our mobile and/or tablet apps (collectively referred to as “our sites”) you are accepting and consenting to the practices described in this notice.
