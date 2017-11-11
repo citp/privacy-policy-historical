@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triadmedianetwork.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227222510id_/http%3A//www.triadmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triadmedianetwork.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111114906id_/http%3A//www.triadmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Triad Media
 
