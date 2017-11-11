@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the wnyt.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616223723id_/http%3A//wnyt.com/article/stories/s1641598.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnyt.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111163141id_/http%3A//wnyt.com/about-us/newschannel-13-privacy-policy/1641598) for the most accurate reproduction.*
 
-# WNYT.com - NewsChannel 13 Privacy Policy
-
-This is the Privacy Policy for the Hubbard Broadcasting (“Station”) website.  Your privacy is important to us, and we provide this Privacy Policy regarding our online collection, use and disclosure practices to help you to make informed decisions regarding use of this website, and exercising choices regarding our collection, use and disclosure of the personal information about you from this website.
-
-This Privacy Policy is incorporated by reference into and is subject to the terms of the [Hubbard Broadcasting Terms of](http://corporate.hubbardradio.com/terms-of-use/) Use.
+# NewsChannel 13 Privacy Policy | WNYT.com
 
 **The Information We Collect**
 
