@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnb.ca privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526083730id_/http%3A//www2.gnb.ca/content/gnb/en/admin/privacy.html.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnb.ca privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112004549id_/http%3A//www2.gnb.ca/content/gnb/en/admin/privacy.html.html) for the most accurate reproduction.*
 
 # Privacy
 
