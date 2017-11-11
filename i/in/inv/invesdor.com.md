@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invesdor.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405225802id_/https%3A//www.invesdor.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invesdor.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111031833id_/https%3A//home.invesdor.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Invesdor
+# Privacy policy
 
 This Privacy Policy is applicable to the services ("Service") provided by Invesdor Ltd. ("Invesdor").
 
@@ -58,7 +58,7 @@ In order to exercise Your rights please contact Invesdor at [info@invesdor.com]
 
 The data controller of the Personal Information that You submit to Invesdor or that Invesdor may otherwise collect in or in connection with the Service is:
 
-Invesdor Ltd. (Business ID: 2468896-2), a limited liability company duly established under the laws of Finland, having its principal place of business at Hiilikatu 3, 00180 Helsinki, Finland.
+Invesdor Ltd. (Business ID: 2468896-2), a limited liability company duly established under the laws of Finland, having its principal place of business at Salomonkatu 17 A, 00100 Helsinki, Finland.
 
 In matters relating to Your privacy and any Personal Information submitted to or collected by Invesdor, please contact Invesdor by sending email to the address [info@invesdor.com](mailto:info@invesdor.com).
 
