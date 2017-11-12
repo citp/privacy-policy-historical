@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbalance.com.au privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611104752id_/http%3A//www.newbalance.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.com.au privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112235606id_/http%3A//www.newbalance.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -120,7 +120,7 @@ Some examples of how we use cookies are to:
 
 Cookies do not contain any Personal Information and they do not give us access to your computer.
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your Internet browser (such as Internet Explorer or Firefox) settings. Most browsers are initially set to accept cookies. Each browser is a little different, so check your browser Help menu to learn the correct way to modify your cookie settings. However, if you choose to turn cookies off, you won't be able to purchase on our site or have access to many features that make your site experience more efficient and convenient. However, you can still place orders over the telephone by calling Customer Care toll-free at 1800 580 363. 
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your Internet browser (such as Internet Explorer or Firefox) settings. Most browsers are initially set to accept cookies. Each browser is a little different, so check your browser Help menu to learn the correct way to modify your cookie settings. However, if you choose to turn cookies off, you won't be able to purchase on our site or have access to many features that make your site experience more efficient and convenient. However, you can still place orders over the telephone by calling Customer Care toll-free at (03) 9582 5582. 
 
 Pixel tags and Web beacons are tiny graphic images that allow us or preferred service providers to track non-personally identifiable analytic information about your visit to our Service (such as pages viewed or links clicked). Pixel tags and Web beacons also let us know when you have opened an HTML email from us. Using this information we are able to understand how Visitors and Members use our service. This allows us to learn what pages are most attractive to our Visitors, which parts of the Service are the most interesting and what kind of offers our Members like to see. 
 
@@ -128,7 +128,7 @@ At present, New Balance does not respond to "Do Not Track" (DNT) signals and ope
 
 ## WHAT IS THE NEW BALANCE CHILDREN'S PRIVACY POLICY?
 
-We do not knowingly ask for Personal Information from anyone under the age of 13 (a "Child"). If a Child submits Personal Information to us and we know that the person providing the information is a Child, we will not use it for any purpose. We will use commercially reasonable efforts to delete the information as soon as we discover it and we will not disclose it to third parties. If you become aware that a Child has provided Personal Information to our site, please email us [nbcustomercare@newbalance.com.au](mailto:%20nbcustomercare@newbalance.com.au) or call Customer Care toll-free at 1800 580 363. 
+We do not knowingly ask for Personal Information from anyone under the age of 13 (a "Child"). If a Child submits Personal Information to us and we know that the person providing the information is a Child, we will not use it for any purpose. We will use commercially reasonable efforts to delete the information as soon as we discover it and we will not disclose it to third parties. If you become aware that a Child has provided Personal Information to our site, please email us [nbcustomercare@newbalance.com.au](mailto:%20nbcustomercare@newbalance.com.au) or call Customer Care toll-free at (03) 9582 5582. 
 
 While New Balance's policy prohibits children under 13 from registering with the Service, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address and other Personal Information without parental permission.
 
@@ -160,4 +160,4 @@ Accounts may be created during the ordering process. You can login to or manage 
 
 ## What if I have more questions about the New Balance Privacy Policy?
 
-If you have any questions or concerns including a request to be added to or taken off a list, please contact Customer Care toll-free at 1800 580 363 or email [nbcustomercare@newbalance.com.au](mailto:%20nbcustomercare@newbalance.com.au).
+If you have any questions or concerns including a request to be added to or taken off a list, please contact Customer Care toll-free at (03) 9582 5582 or email [nbcustomercare@newbalance.com.au](mailto:%20nbcustomercare@newbalance.com.au).
