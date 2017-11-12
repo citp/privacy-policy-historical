@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazdigital.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061009id_/http%3A//www.mazdigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazdigital.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112092408id_/http%3A//www.mazdigital.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -123,4 +123,4 @@ Pleasantville, NY 10570
 This document is the sole statement of the Privacy Policy for the Services and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
-Copyright © 2016 MAZ Digital Inc.
+Copyright © 2017 MAZ Digital Inc.
