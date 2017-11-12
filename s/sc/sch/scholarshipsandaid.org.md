@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scholarshipsandaid.org privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408043333id_/http%3A//www.scholarshipsandaid.org/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipsandaid.org privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113002849id_/http%3A//scholarshipsandaid.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Scholarships and Aid - Latest Scholarships & Financial Aid for Students and Graduates
+# Privacy Policy | Scholarships and Aid
 
 This privacy policy document outlines the types of personal information received and collected by Scholarshipsandaid.org,  and how it is used.
 
@@ -27,8 +27,7 @@ Scholarshipsandaid.org uses cookies to store information about visitors prefere
 – Google’s use of the DART cookie enables it to serve ads to users based on their visit to Scholarshipsandaid.org and other sites on the Internet.  
 – Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Scholarshipsandaid.org’ privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
