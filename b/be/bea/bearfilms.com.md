@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearfilms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120508id_/http%3A//www.bearfilms.com/tour/pages.php%3Fid%3Dprivacy-policy%26nats%3DMC4yLjQxLjEzMi4wLjAuMC4wLjA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearfilms.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112030158id_/http%3A//www.bearfilms.com/tour/pages.php%3Fid%3Dprivacy-policy%26nats%3DMC4yLjQxLjEzMi4wLjAuMC4wLjA) for the most accurate reproduction.*
 
 # Videos BearFilms.com - Pictures and Videos of Hairy Gay Men
 
