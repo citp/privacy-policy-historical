@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstanaldate.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529171204id_/http%3A//www.firstanaldate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstanaldate.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112222837id_/http%3A//www.firstanaldate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
