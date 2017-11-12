@@ -1,103 +1,126 @@
-> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513225107id_/http%3A//www.petplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112054141id_/http%3A//www.petplace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PetPlace
 
-Embrace Pet Insurance values its relationship with you. Protecting the privacy of your information is of the greatest importance to us. The following provides details of our practices and procedures for protecting the security of nonpublic, personally identifiable information about you.
+**Effective September 28, 2017**
 
-  * Whether you are a current, former, or potential customer, Embrace Pet Insurance treats your personal information with the same high level of confidentiality and security.
-  * We never sell your personal information.
-  * We only share your personal information as necessary to provide the insurance products and services you have requested, to contact you about Embrace Pet Insurance's products and services, as directed by you, as permitted by law, or as described in this privacy statement.
+PetPlace.com values its relationship with you. Like you, we understand the importance of privacy. Protecting the privacy of your information is of great importance to us. We do not sell your information such as email address, but we may share your information as outlined in this Privacy Policy.
+
+This policy describes how PetPlace collects, uses, and shares information about you and applies to your use of our website located at www.petplace.com as well as any online service location that posts a link to this Privacy Policy and all features, content, and other services that we own, control and make available through such online service location (collectively referred to as “Service” hereafter). This includes when you sign up for a newsletter, take advantage of offerings that may be presented from time to time, participate in contests or surveys, or other activity in which you engage the Service. 
+
+**The Information We Collect and Its Use**
+
+**Information Provided by You**  
+PetPlace and our agents, vendors, consultants, affiliates, and other service providers (collectively “Service Providers”) may collect information you provide directly via the Service. For example, we and our Service Providers collect information from you in order to provide you with the information you request from us such as category specific newsletter, or to verify a comment you make to content we post, or to respond to an inquiry you make of us on the Service. We and our Service Providers may ask you to provide personal information when you comment on an article of content, request information, sign up to receive our newsletters, or sign up to receive offers from third parties partnering with the Service.
+
+The Information we collect may include Personal Information. Personal Information is information that can be associated with a specific person and used to identify that person (whether alone or in combination), such as first and last name, postal address, email address, telephone number, among other personally identifiable information. We may also collect details about your pet(s). Personal information does not include information that has been “de-identified” so that it cannot reasonably be linked to a specific individual.  Personal Information, once “de-indentified” is not subject to this Privacy Policy and we and our Service Providers may treat it as non-Personal Information and use it without obligation to you except as prohibited by applicable law.
+
+**Information Collected Automatically  
+**You may browse our website at www.petplace.com  anonymously and find information about pet health, breeds, pet insurance, pet products or other related information as may be available on the site. We, and our Service Providers, may automatically collect information about you when you access or use the Service (“Usage Information”). Usage Information may include IP address, device identifier, browser type, operating system, data regarding network connected hardware, and information about your use of the Service. To the extent that we combine Usage Information with your Personal Information, we will treat the combined information as Personal Information under this Privacy Policy. The methods that may be used on the Service to collect Usage Information include:
+
+**Log Information:** Log information is data about your use of the Service, such as IP address, browser type, internet service provider, referring/exit pages, operating system, date/time stamps, and related data, which is stored in log files. 
+
+**Information Collected by Tracking Technologies:** Cookies, web beacons (also known as “tracking pixels”), embedded scripts, location-identifying technologies, device fingerprinting, in-app tracking methods, and other tracking technologies now and hereafter developed (“ **Tracking Technologies** ”) may be used to collect information about your interactions with the Service or e-mails, including information about your browsing and activity behavior. 
+
+**Cookies.** A cookie is a small text file that is stored on a user’s device, which may be a session ID cookie or tracking cookie. Session cookies make it easier for you to navigate the Service and expire when you close your browser. Tracking cookies help in understanding how you use the Service, and remain longer. The Service may associate some or all of these types of cookies with your devices. Cookies may remain on your device for extended periods of time.
+
+**Web Beacons (“Tracking Pixels”).** Web beacons are small graphic images, also known as “internet tags” or “clear gifs,” embedded in web pages and e-mail messages. Web beacons may be used to count the number of visitors to the Service, to monitor how users navigate the Service, and to count content views. 
+
+**Embedded Scripts.** An embedded script is programming code designed to collect information about your interactions with the Service. It is temporarily downloaded onto your device from our web server or a third party with whom we work, is active only while you are connected to the Service, and deleted or deactivated thereafter. 
+
+**Location-identifying Technologies.** GPS (global positioning systems) software, geo-filtering, and other location-aware technologies locate (sometimes precisely) you for purposes such as verifying your location and delivering or restricting relevant content based on your location.  
+**Device Fingerprinting.  **Device fingerprinting is the process of analyzing and combining sets of information elements from your Usage Information may include IP address, device identifier, browser type, operating system, data regarding network connected hardware, and information about your use of the Service. To the extent that we combine Usage Information with your Personal Information, we will treat the combined information as Personal Information under this Privacy Policy. 
+
+Some information about your use of the Service and certain Third Party Services (defined below) may be collected using Tracking Technologies across time and services and used by us and third parties for purposes such as to associate different devices you use, and deliver relevant ads and/or other content to you on the Service and certain Third Party Services.
+
+For further information on Tracking Technologies and your choices regarding them, please see “Third Party Services, Features, and Devices” and “Your Rights and Choices” below.
+
+**Information from Other Sources**  
+We may obtain information about you from other sources, including Service Providers and Third Party Services, and combine such information with information we have collected about you. To the extend we combine such third party sourced information with Personal Information we have collected about you on the Service, we will treat the combined information as Personal Information under this Privacy Policy. We are not responsible for the accuracy of any information provide by third parties or third party policies or practices. 
+
+**Use of Information**
+
+We may use information about your or your pet(s), including Personal Information, for any purposes consistent with our statement under this Privacy Policy or as permitted by applicable law, including to
+
+  * Manager our Service, including your subscription to newsletters or other programs we may provide and for which you have selected;
+  * Respond to your comments, questions, emails and other requests, and to provide customer service;
+  * Send you technical notices, updates, security alerts, information regarding changes to our policies, and support and administrative messages;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm;
+  * Monitor and analyze trends, usage and activities;
+  * Conduct research, including surveys, focus groups, or other insight gathering methods;
+  * Improve the Service or other affiliate websites, applciations, marketing efforts, products and services;
+  * Send you an email if you have submitted an inquiry or commented on an article of content to confirm that such was made by you;
+  * Send you advertisements and communicate with you regarding our third party products, services, offers, promotions, rewards, contests, and events we think may be of interest to you;
+  * Fulfill any other purpose disclosed at the time you provide Personal Information.
 
 
 
-If you have questions or concerns regarding this statement you should first contact the Embrace Privacy Officer at PO Box 22188, Beachwood, Ohio, 44122, telephone (800) 511-9172.
+**Information We Disclose – Sharing of Information**
 
-## The Information We Collect and Its Use
+Our affiliate companies and Service Providers may receive, or be given access to your information, including Personal Information and Usage Information, and information about your pet(s) in connection with their work with us or on our behalf. Except as otherwise set forth in this section, these Service Providers are prohibited from using your information, including Personal Information, for any purpose other than to provide this assistance, although we may permit them to use aggregate information which does not identify you or de-identified data for other purposes.
 
-At Embrace Pet Insurance, we gather information about you to process and service your insurance policy, settle your claims, offer you additional products and services that we think may be of interest to you, and as directed by you with your consent. Some of the areas on the site where we collect this information is when you subscribe to our newsletter, contact us, apply to the partner program, purchase pet insurance, or give us feedback. Some of this may be nonpublic, personal information (information not available to the general public) that is provided by you, that we gather from transactions and communications with you, through services performed for you, that we obtain from third parties, or that we obtain through other means.
+In addition, and to the extent permitted by applicable law and regulation, we may share information about you or your pet(s) for any purposes consistent with our statements under this Privacy Policy, including the following circumstances:
 
-If you use our blog which is hosted by Typepad on this web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you chose to submit in the blog.
-
-## Service Providers
-
-We use third parties to provide our credit card processing services and an e-mail service provider to handle our email services. We will share your billing information and email address as necessary for these third parties to provide their service.
-
-These third parties are prohibited from using your personally identifiable information for any other purpose including their own marketing purposes.
-
-## Information Collected Automatically through the Embrace Pet Insurance Web Site
-
-You can browse our Web site anonymously and find information about Embrace Pet Insurance and our products. Embrace Pet Insurance collects general information about Web site visits as part of our business tracking through the use of log files. This information does not identify you personally and is used to enhance your Web site experience. This includes information such as how you linked to our Web site, Internet protocol (IP) address, browser type, and time of visit.
-
-Embrace Pet Insurance may use technology that includes pixels and cookies on our Web site to support site tracking, measure site performance, and for product marketing. Our site places a cookie on your computer to identify you when you return, to personalize aspects of your experience at our site, and to better understand how visitors are using our site, all of which helps us to continually improve your experience on our site. These cookies contain no personal information and they will not damage your computer. We use industry standard encryption techniques to send cookies and your security is not compromised by their use. Your browser must be set to accept cookies in order to navigate the Embrace Pet Insurance site.
-
-Some of our business partners (e.g. the company that hosts our blog) may use cookies on our site. We have to access to or control over these cookies.
-
-## Information We Disclose
-
-Information about our customers, former customers, and consumers who do not purchase products from us will be disclosed only as permitted or required by law, or as directed by the customer or consumer.
-
-We may disclose information to affiliated and nonaffiliated insurance companies, insurance agents, reinsurance companies, consumer reporting agencies, government entities, and claims administrators. We may also disclose information to non-affiliated third parties that perform services or functions on our behalf including the marketing of our products or services. However, as previously disclosed, these non-affiliated third parties may not use your personally identifiable information for their own marketing purposes.
-
-The following are examples of situations in which we may disclose information:
-
-  * Your information may be passed between us and our agents, appraisers, attorneys, investigators, and others who may be involved in the sales and marketing of Embrace Pet Insurance products and services, processing of applications, and servicing of policies or claims.
-  * We provide your policy information to adjusters and other appropriate business entities when you are involved in a claim.
-  * We may provide your information to others whom we determine need such information to perform insurance or other professional functions for us. These may include parties helping us with administrative services and consumer reporting agencies.
-  * We may supply information as required by search warrant, subpoena, or legal process, with state insurance departments, or other law enforcement or government authorities when required by law, or to protect our own legal interests in the event of suspected illegal or fraudulent activities.
+  * To comply with the law or other legal process, and where required, in response to lawful requests by law enforcement or other public authorities or subpoena, including to meet national security or law enforcement requirements; to protect the integrity of the Service or company if we believe that a user has committed unlawful or otherwise harmful acts; or to protect our interests relating to a legal proceeding;
+  * To protect the rights, property, life, health, security, and safety of us, the Service, or any affiliate or third party, or if we believe such disclosure is in your vital interest;
+  * In connection with, or during negotiations of, any proposed or actual merger, purchase, sale, consolidation with or any other type of acquisition or business combination of all or any portion of the Service or our assets, or transfer or all or a portion of our business to an affiliated entity or third party;
+  * With our affiliates for internal business purposes and other entities that operate websites for us;
+  * With our affiliates, business partners, and other third parties for their own business purposes, including audience profiling and direct marketing purposes;
+  * For purposes disclosed at the time you provide Personal Information; and with your consent or discretion. For example, if you consent, we may send you newsletters featuring updates regarding our Service, or send you via email relevant offers by third party or affiliate; 
+  * Without limiting the foregoing, in our sole discretion, we may share aggregated information which does not identify you or de-identified information about you or information obtained from public sources with third parties or affiliates for any purpose.
 
 
 
-## You Don't Need to Opt-Out
+**Sweepstakes, Contests and Promotions**
 
-Some companies allow access to your nonpublic, personal information by nonaffiliated third parties so they can market their products and services to you. Several laws give you the option of "opting-out" of this type of information sharing. However, at Embrace Pet Insurance we do not share your information with nonaffiliated third parties for their marketing purposes, unless you specifically direct us to do so. Therefore you don't need to "opt-out."
+PetPlace may offer sweepstakes, surveys, contests, and other promotions (hereafter referred to as “Promotion”) jointly sponsored or offered by third parties that may require submitting Personal Information. If you voluntarily choose to enter in or participate in a Promotion, your Personal Information may be disclosed to third parties for administrative purposes and as required by law (e.g., on a winners listing). By entering, you agree to the official rules that govern that Promotion, and may, except where prohibited by applicable law, allow the sponsor and/or other parties to use your name, voice, and/or likeness in advertising or marketing materials. 
 
-## Embrace Pet Insurance Communications
+**Third Party Service, Features and Devices**
 
-As an Embrace Pet Insurance customer, Embrace Pet Insurance will contact you regarding your policy and our products and services, such as billing notices, confirmations of changes, modifications to the Embrace Pet Insurance privacy statement, changes to our products, and other Embrace Pet Insurance-specific communications. You may NOT unsubscribe from these Embrace Pet Insurance-specific communications that relate to your primary usage of our service and products; and you agree to receive these if you make a purchase.
+While most of PetPlace.com content and information is provided in-house, the Service also contains content from and hyperlinked to websites, locations, platforms, and services operated and owned by third parties (“Third Party Services”). In addition, our Service contains features that allow you to interact with, connect to, or access our Service through certain Third Party Services and third party devices (“Third Party Features”). For example, you use a Third Party Feature when you access an insurance provider through a hyperlink on our Service. Remember that third parties may use Tracking Technologies to independently collect information about you and may solicit Personal Information from you. Also, if you use a Third Party Feature, both we and the applicable third party may have access to and use information associated with your use of the Third Party Feature. If you publically reference our Service on a Third Party Service (e.g., by using a hashtag with Company or Service in a tweet or post), we may use your reference on or in connection with our Service.
 
-From time to time, Embrace Pet Insurance may contact you about third-party promotions. In addition, prior to purchasing a policy or after canceling your policy, Embrace Pet Insurance may contact you to confirm your quote or invite you to come back and get a new quote or to purchase a policy. You will always be able to unsubscribe from whichever type of communication you received by following the instructions set forth in each e-mail.
+Our Service also contains Tracking Technologies operated by third parties. For example, analytics services such as Google Analytics, may use Tracking Technologies on our Service to help us analyze your use of the Service, compile statistic reports on the Service’s activity, and provide other services relating to the Service activity and internet usage. Similarly, ad service services, advertisers, and other third parties may use Tracking Technologies on our Service and Third Party Services to track your activities across time and services, and tailor ads to you based on your activities, which may include sending you an ad on a Third Party Service or third party device after you have left the Service (“Internet-based Advertising”).
 
-## Confidential and Secure Environment
+The information collected and stored by third parties, whether through our Service, a Third Party Service, a Third Party Feature, or a third party device, remains subject to their own policies and practices, including what information they share with us, your choices on their services and devices, and whether they store information in the United States or elsewhere. We are not responsible for and make no representations regarding third party policies and practices, and encourage you to familiarize yourself with and consult their privacy policies and terms of use. To the extent we combine information we receive from third parties with Personal Information we collect directly from you on the Service, we will treat the combined information as Personal Information under this Privacy Policy.
 
-Embrace Pet Insurance uses encryption technology to protect your information. Our web site uses Secure Sockets Layer (SSL) technology to prevent unauthorized parties from viewing personal information provided to Embrace Pet Insurance during a secure session.
+**Your Rights and Choices**
 
-All secure pages on our Web site have been issued a digital certificate by Secure Server Certification Authority. You can view this digital certificate affirming the security of our site by clicking on the image of the closed lock at the bottom of your browser window. A small frame displaying our site's security information will appear.
+**Accessing Your Information  
+**You have the right to/may access, update, or remove certain information that you have voluntarily submitted to us through the Service by sending an email to us (see the Contact Us page on the Service). We may require additional information from you to allow us to confirm your identity. Please note that we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-We restrict access to your personal information to our employees, our affiliates' employees, or others who need to know that information to service your account. We maintain strict physical, electronic, and procedural safeguards to protect your personal information.
+**Tracking Technologies Generally**  
+Regular cookies may generally be disabled or removed by tools available as part of most commercial browsers, and in some instances blocked in the future by selecting certain settings. Browsers offer different functionality and options so you may need to set them separately. With respect to any future mobile apps, you can stop all collection of information via an app by uninstalling the app. Also, you may be able to exercise specific privacy choices, such as enabling or disabling certain location-based services, by adjusting the permissions in your mobile device.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Please be aware that if you disable or remove Tracking Technologies some parts of the Service may not work and that when you revisit the Service, your ability to limit browser-based Tracking Technologies is subject to your browser settings and limitations.
 
-## Links to Other Companies on the Embrace Pet Insurance Web Site
+Your browser settings may allow you to automatically transmit a “do not track” signal to online services you visit. Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals. Accordingly, we do not monitor or take action with respect to “do not track” signals or other mechanisms. For information on “Do Not Track”, visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-The Embrace Pet Insurance Web site contains links to our business partners and links to other sites offering valuable information. If you choose to provide any personal information directly to any of these entities, the collection and disclosure of your personal information by that entity will be governed solely by that entity’s privacy policy. Embrace Pet Insurance makes no representations or warranties regarding these sites.
+Analytics and Advertising Tracking Technologies  
+You may exercise choices regarding the use of cookies from Google Analytics by going to [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) or downloading the Google Analytics Opt-out Browser Add-on.
 
-## Reviewing or Correcting Your Information
+You may exercise choices regarding receipt of Interest-Based Advertising by submitting opt outs. Some of the advertisers and Service Providers that perform advertising-related services for us and our partners may participate in the Digital Advertising Alliance (“DAA” Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding Interest-Based Advertising, visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices) and [http://aboutads.info/appchoices](http://aboutads.info/appchoices) for information on the DAA’s opt-out program for mobile apps. Some of these companies may also be members of the Network Advertising Initiative (“NAI”). To learn more about the NAI and your opt-out options for their members, see [http://www.networkadverstising.org/choices/](http://www.networkadverstising.org/choices/). Please be aware that, even if you are able to opt-out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer received any targeted content and /or ads (e.g., from other ad networks). Service and the company are not responsible for effectiveness of, or compliance with, any third parties’ opt out options or programs or the accuracy of their statements regarding their programs.
 
-As a policyholder, you can always review and update your information by calling our customer service center at (800) 511-9172.
+**Communications**  
+You can opt-out of receive certain promotional communications (emails) from us at any time by following the instructions as provided in newsletters or in emails to click on the unsubscribe link, or by emailing us via the Contact Us page on the Service. Please note that your opt-out is limited to the email address and device used and will not affect subsequent subscriptions or non-promotional communications such as those about your subscription, transactions, servicing or company’s ongoing business relations.
 
-All consumers have the right to know the personal information that Embrace Pet Insurance has about them; to make changes to that information, and to know the identity of any entity that Embrace Pet Insurance has disclosed that information to within the previous two years. To make such an inquiry, please call our customer service center or write to the address or email listed below and identify the information you would like. You will be required to provide certain personal information for identity verification purposes.
+**California Privacy Rights**  
+California’s “Shine the Light” law permits uses of Service residing in California to request certain details about how certain types of their information are shared with third parties and, in some cases, affiliates, for those third parties’ and affiliates’ own direct marketing purposes. Under the law, a business should either provide California customers certain information upon request or permit California customers to opt in to, or opt out of, this type of sharing.
 
-If your information is immediately accessible when you call, the customer service representative will review it with you and you may make changes to it at that time. If your information is not immediately accessible when you contact us, within 30 business days Embrace Pet Insurance will inform you of the types of information we have about you.
+PetPlace may share personal information as defined by California’s “Shine the Light” law with third parties and /or affiliates for such third parties’ and affiliates’ own direct marketing purposes. If you are a California resident and wish to obtain information about our compliance with this law, please email us via the Contact Us page on our site, or send us a letter to PetPlace c/o IHC Specialty Benefits, 5450 E. High Street, Suite 300, Phoenix, Arizona 85054. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and zip code. Please not that Service nor company are not required to respond to requests made by means other than through the provided email address or postal delivery address.
 
-If you would like to further review the information, you may review and copy the information in person at our customer service center or request a copy be sent to you by mail or email. Embrace Pet Insurance may charge a fee for providing a copy by mail.
+Any California residents over the age of thirteen (13) and under the age of eighteen (18) who have registered to use the Service and posted content or information on the Service can request that such information be removed from the Service by sending an email to us via the Contact Us page of our site. Requests must state that the user personally posted such content or information and detail where the content is posted. We will make reasonable good faith efforts to remove the post from prospective public view.
 
-## Changes in this Privacy Statement
+**Children**  
+The Service is intended for a general audience and not directed to children under thirteen (13) years of age. Service does not knowingly collect personal information as defined by the U.S. Children’s Privacy Protection Act (“COPPA”) in a manner that is not permitted by COPPA. If you are a parent or guardian and believe Service has collected such information in a manner not permitted by COPPA, please email us via the Contact Us page of the Service, or send us a letter to PetPlace c/o IHC Specialty Benefits, 5450 E. High Street, Suite300, Phoenix, Arizona 85054 and we will remove such date to the extent required by regulation.
 
-If we decide to change our privacy policy we will post these changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Data Security**  
+PetPlace takes reasonable measures to help protect information about you from loss, theft, misuse, and unauthorized access, disclosure, alteration or destruction. These measures include computer safeguards and secured files. Nevertheless, transmission via the internet is not completely secure and we cannot guarantee the security of your information collected through our Service.
 
-We reserve the right to modify this privacy statement at any time so please review it frequently. If we make material changes to this policy we will notify you here, by e-mail, or by means of a notice on our home page.
+**International Transfer**  
+PetPlace is based in the United States and the information we and our Service Providers collect is governed by U.S. law. If you are accessing the Service from outside the U.S., please be aware that information collected through the Service may be transferred to, processed, stored, and used in the U.S. Data protection laws in the U.S. may be different from those of your country of residence. Your use of the Service or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing, and storage of your information, including Personal Information, in the U.S. as set forth in this Privacy Policy.
 
-## Contact Information
+**Changes to this Privacy Policy**  
+We reserve the right to revise and reissue this Privacy Policy at any time. Any changes will be effective immediately upon posting of the revised Privacy Policy. Your continued use of the Service indicates your consent to the Privacy Policy then in effect. If the changes are material, we may provide you additional notice at your email address.
 
-For further information or questions about this privacy policy, please write us at:
-
-Privacy Officer  
-Embrace Pet Insurance  
-PO Box 22188  
-Beachwood, Ohio, 44122
-
-Toll free: (800) 511-9172
-
-> “I just wanted to say this is the best pet health info site I have been able to find and believe me I have been searching. Thank you for being here!!” 
-> 
-> Dawn P.
+**Contact Us**  
+If you have any questions or comments about this Privacy Policy, please email us via the Contact Us page found atwww.petplace.com  or by sending a letter to PetPlace c/o IHC Specialty Benefits, 5450 E. High Street, Suite 300, Phoenix, Arizona 85054.
