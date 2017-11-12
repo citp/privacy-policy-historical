@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows-movie-maker.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629022507id_/http%3A//www.windows-movie-maker.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows-movie-maker.org privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112044035id_/http%3A//windows-movie-maker.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Windows Movie Maker
 
@@ -24,4 +24,4 @@ We reserve the right to modify this Privacy Policy.
 
 ## Contact Information
 
-If you have any questions about our Privacy Policy, you can  [contact us](https://web.archive.org/web/20170629022507id_/http%3A//www.windows-movie-maker.org/support.html)
+If you have any questions about our Privacy Policy, you can  [contact us](https://web.archive.org/web/20171112044035id_/http%3A//windows-movie-maker.org/support.html)
