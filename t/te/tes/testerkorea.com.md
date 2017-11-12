@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testerkorea.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610025538id_/http%3A//testerkorea.com/Guide/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testerkorea.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112044225id_/http%3A//testerkorea.com/Guide/privacy_policy) for the most accurate reproduction.*
 
 # TesterKorea - Beauty Trend Setter From Korea
 
@@ -261,9 +261,9 @@
     promptly and with sincerity.
     Protection of Personal Information
     
-    Privacy Officer Name: [NakCheon, Seong]
-    Title: [General Manager];
-    Email:atomix@testerkorea.com
+    Privacy Officer Name: [Samwoo, Lee]
+    Title: [CEO];
+    Email:help@testerkorea.com
     Tel No.: +82-31-978-0090
     
     If any other reporting or counseling is required in relation to infringement of personal 
@@ -438,8 +438,8 @@
     회사는 이용자가 회사의 서비스를 안전하게 이용할 수 있도록 최선을 다하고 있습니다. 이용자는 회사의 서비스 이용과 관련한 모든 개인정보보호 민원을 개인정보관리책임자 또는 전담부서로 신고하실 수 있으며, 회사는 이용자의 신고사항에 대해 신속하고 성실하게 답변해드리고 있습니다.
     
     개인정보관리 책임자
-    성명 : 성낙천
-    직위 : 실장
+    성명 : 이삼우
+    직위 : 대표
         전자우편 : tech@testerkorea.com
         전화번호 : +82-31-978-0090
     
