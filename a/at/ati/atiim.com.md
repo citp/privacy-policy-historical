@@ -1,100 +1,86 @@
-> *The following text is extracted and transformed from the atiim.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atiim.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112225836id_/https%3A//www.atiim.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Our Privacy Policies and Terms Conditions - Atiim Inc
 
-**Go Daddy Respects Your Privacy**
+## 1\. Important Information
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+ **1.1. Changes to this Privacy Policy**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We may update this Privacy Policy from time to time by posting a new version online. You should check this page occasionally to review any changes. If we make any material changes we will notify you by posting the revised Privacy Policy on our Websites and, if you subscribe to our Subscription Service, providing notice through Notification app in the Atiim portal used to access your Atiim subscription. This helps you to always be aware of what information we collect, how we use it and under what circumstances, if any, it is disclosed. Your continued use of the Websites, the Subscription Service, and/or continued provision of Personal Information to us will be subject to the terms of the then-current Privacy Policy.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+ **1.2. Contact Us**
 
-**Information Collection and Use**
+If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at privacy@atiim.com or by mail to Atiim, Inc., 25 First Street, #303, Cambridge, MA 02141 USA, Attn: Privacy.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## 2\. Use of Subscription Service by Atiim and Our Customers
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+ **2.1. The Subscription Service**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages site visitors, consumers and users access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We transfer information about you if Atiim is acquired by or merged with another company. In this event, Atiim will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## 3\. Information We Collect
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+ **3.1. When You Visit our Websites**
 
-**Security**
+You are free to explore the Websites without providing any information about yourself. When you visit the Websites or register for the Subscription Service, we request that you provide Personal Information about yourself.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+ **3.2. Personal Information**
 
-**Updating Your Information**
+You can generally visit our Site without revealing any personal information about yourself. We may, however, collect any information you voluntarily choose to enter or submit to us on our Site when you contact us or register to use the Services or that you provide to us in the course of requesting or receiving support services from us. The types of personal information collected include full name, title, company, employment status, mailing address, email address and telephone number, as well as any additional information you may provide on a form on our Site. The amount and type of personal information that Atiim collects depends on the nature of your interaction with the Site and Services. As a user of our Services, we may have access to any personally identifiable data that you elect to upload to the Services. For example, you may upload details about your team members, such as their name, title, birthday and notes regarding meetings. In addition, we may upload information to the Services, such as photos or job titles, from publicly available profiles on third party sites.    Members who sign up for a free trial are not required to enter a credit card.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+ **3.3 How We Use Information**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We use your personal information for the following purposes: products and services provision; responding to your requests for information or requests to use our Services; improving our Services; customizing the content you see on the Site; billing; identification and authentication; contact; research; and to send you targeted marketing regarding products and/or services which we believe may be of interest to you. We will not use any of your sensitive personal information for a purpose other than its original purpose for which we collected it or the purpose authorized subsequently by you, unless you have provided opt-in consent.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+ **3.4. Payment Information**
 
-      iii.      You may call us at: (480) 505-8800
+We collect and process payment information from you when you subscribe to the Subscription Service, including credit cards numbers and billing information, using third party PCI-compliant service providers. Except for this, we do not collect Sensitive Information from you.
 
-       iv.      You may fax us at: (480) 505-8844
+ **3.5. We Never Sell Personal Information**
 
-**Sending Emails**
+We will never sell your Personal Information to any third party.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+ **3.6. Customer Testimonials and Comments**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We post customer testimonials and comments on our Websites, which may contain Personal Information. We obtain each customer’s consent via email prior to posting the customer’s name and testimonial. ** **
 
-**Compliance with Laws and Law Enforcement**
+ **3.7 Links to Third Party Sites**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Our Site may include links to other websites whose privacy practices may differ from those of Atiim. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the Privacy Policy of any website you visit. ** **
 
-**Third Party Service Providers**
+ **3.7. Cookies**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Cookies are required to use the Atiim service. You have the ability to accept or decline cookies.  We use cookies to record current session information. You are required to log-in to your Atiim after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
 
-**Supplementation of Information**
+ **3.8 How Does Atiim Use Personal Information?**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We may use Personal Information:
 
-**Contests/Surveys**
+  * To respond to your inquiries and fulfill your requests, such as to send you requested materials and newsletters, as well as information and materials regarding our products and services.
+  * To send you marketing communications, including via email and SMS in compliance with applicable laws, that we believe may be of interest to you.
+  * To send administrative information to you, for example, information regarding the Sites and changes to our terms, conditions, and policies.
+  * To personalize your experience on the Sites by presenting products and offers tailored to you.
+  * To communicate with you and provide you with related customer service.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Sites and services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our Affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our Affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+## 4\. Security
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Atiim takes steps that are reasonably designed to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, including through secure socket layer, password protection and, for certain transmissions to our Services, encryption. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and the Site, and the Site and you, will be free from unauthorized access by third parties. Users of the Site do so at their own risk with respect to such communications.
 
-**What Happens to my Personal Information if I Opt Out?**
+## 5\. Data Storage
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Atiim uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Atiim. Although Atiim owns the code, databases, and all rights to the Atiim application, you retain all rights to your data.
 
-**Transfer of Data Abroad**
+## 6\. Disclosure
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Atiim may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
