@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hitechos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114622id_/http%3A//www.hitechos.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitechos.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112111147id_/http%3A//www.hitechos.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Hi-Tech iSolutions LLP | Privacy Statement
 
 Protecting your privacy is important to hitech and its employees. We believe confidentiality and protection of customer information to be one of our most fundamental responsibilities.
 
-Worldwide clientele to our credit with primary customer base in USA, Canada, UK, EU, Australia, Middle East and other countries. Our 7 offices across the globe including India, USA, and Scandinavia have a proven track record of providing BPO, Architectural Engineering Construction (AEC) services, engineering solutions, and software solutions to all our esteemed clients. 
+With worldwide clientele to our credit & primary customer base in USA, Canada, UK, EU, Australia, Middle East and other countries, our 7 offices across the globe including India, USA, and Scandinavia have a proven track record of providing Data and Analytics solutions, Architectural Engineering Construction (AEC) services and mechanical engineering solutions.
 
 ### Personal information we collect:
 
