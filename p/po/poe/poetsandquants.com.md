@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetsandquants.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123114458id_/http%3A//poetsandquants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetsandquants.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112050223id_/https%3A//poetsandquants.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ We may from time to time ask you for Personal Information, and we may collect ce
 
 #### For Parents of children under the age of 13:
 
-For any user under the age of 13, we must have permission from such user’s parent or legal guardian before we collect or use any Personal Information of such user. You are welcome to call us at [(707) 776-7007](tel:%28707%29%20776-7007) to review any Personal Information we have collected about your child. You may request that we delete this information and/or specify that we collect no more of your child’s information. We will need to verify the identity of anyone requesting information about a child to ensure that the person is in fact the child’s parent or legal guardian.
+For any user under the age of 13, we must have permission from such user’s parent or legal guardian before we collect or use any Personal Information of such user. You are welcome to[ email us](https://web.archive.org/web/20171112050223id_/https%3A//poetsandquants.com/heather@poetsandquants.com) o review any Personal Information we have collected about your child. You may request that we delete this information and/or specify that we collect no more of your child’s information. We will need to verify the identity of anyone requesting information about a child to ensure that the person is in fact the child’s parent or legal guardian.
 
 ### Right to Opt In and Opt Out
 
@@ -105,7 +105,7 @@ We will occasionally update this Privacy Policy. When we post changes to this Pr
 If you have any questions or comments regarding our privacy practices, you may use our feedback form or at the following address:
 
 C-Change Media  
-101 Broadway, Suite 202  
+101 Broadway, Suite 208  
 Oakland, CA 94607
 
-_Effective Date: March 1, 2016_
+ _Effective Date: March 1, 2016_
