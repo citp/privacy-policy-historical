@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptowntraction.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501234246id_/http%3A//uptowntraction.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptowntraction.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112114731id_/http%3A//www.uptowntraction.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
