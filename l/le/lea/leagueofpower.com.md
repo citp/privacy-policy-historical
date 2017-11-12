@@ -1,56 +1,83 @@
-> *The following text is extracted and transformed from the leagueofpower.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109154841id_/http%3A//www.leagueofpower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueofpower.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112234450id_/http%3A//www.leagueofpower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – League of Power
 
-Your privacy is vital to our long-term relationship with you, and protecting your privacy is just one part of our mission to provide you with highly personalized and valuable service. In addition, we will not knowingly collect personally identifying information from children under the age of 18. You must be 18 years of age to process an online transaction or access a free report/ information from this website. From heron LOP Solutions, LLC. will be referred to as “the company”.
+**Website Terms Conditions & Privacy Policy**
 
-**   
-Transaction Information**  
-When you authorize a purchase transaction, we will collect certain information related to that transaction such as name, address, phone, e-mail, billing information, product or service involved, the quantity or amount of the product or service and any other special handling requests. This personally identifiable information will never knowingly appear in public areas of our website or be sold to other companies.   ** Third Party Information**  
-During the processing of your transactions, we collect verification information from our credit card authorization services. Credit card authorization services verify that credit card information and address that they have on file for you matches the information that you have provided to us.  ** General Information**  
-We do collect end user computer information like, technical information related to your computer and the manner in which you are accessing our website which includes information such as the internet protocol (IP) address of your computer, what operating system your computer is using and what browser software (e.g., Explorer, Netscape or other). If you make a purchase from us we record the check out process. This information helps us fight fraudulent charges and creates a better online environment. ** Your Information**  
-You can request that the information collected about you be updated at any time by emailing us or calling us.
+The following Privacy Policy governs the online information collection practices of leagueofpower.com. (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using www.leagueofpower.com or its subdomains (collectively, the “Site”) , and the ways in which we use this information. If you do not agree with the policy herein, do not use the Site or submit personal information to us. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-** Contact Us **If you have any questions please feel free to contact us. 
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified. It is, therefore, important that you review this Privacy Policy regularly to ensure you are updated as to any changes.
 
-  
-  
- 
+**Information We Collect and Use**
 
-** Security  **
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). This site only contacts individuals who specifically request that we do so or in the event that they have opted to receive messages from us, signed up to receive our free newsletters and/or information; replied to a survey, signed a digital petition voted in an online poll; or, have purchased one of our products. This site collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive content from us or our affiliates  and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
 
-Our companies uses the highest security standard available (SSL) to encrypt all of your credit card and personally identifiable information while it is in transit to us. All data stored on our server is protected by a secure "firewall" so that no unauthorized use or activity can take place. Although our company will make every effort to safeguard your personal information from loss, misuse or alteration by third parties, you should be aware that there is always some risk in any transaction over the internet that thieves may find a way to compromise security or attempt to capture transmissions over the Internet. 
+We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a “cookie” to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-**   
-Unsubscribe from our E-mail list**
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features, and advertising that appear on the Site.  If you do not wish your information to be used for these purposes, you must send a letter or email to the Online Privacy Coordinator whose mailing address and email address are listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.
 
-If you would like to unsubscribe from our email list, please contact us or use the opt out links in our emails. Please note: unsubscribing from our email list does not cancel any paid subscriptions that you may have. ** Online Transactions**
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example on message boards, web logs, through email, or in chat areas – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-You must be at least 18 years of age to make an online transaction (or download or view any of our information off of our website). By making a transaction you are there for agreeing that you are at least 18 years of age, and also permit us to charge your credit card details that you entered.
+Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party’s privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party’s use of cookies or web beacons or use of your information, you should visit that party’s website and review its privacy policy.
 
-This website is protected by the highest SSL encryption available. Note: as hackers get more advanced in finding loop holes in systems, it is possible for them to break into them (even with the highest security measures). In this case we try our hardest to keep up with these measures to make the online shopping experience as securely and confidential as possible. How ever it is always possible for a hacker to break any online transaction system. ** State Sales Tax  **
+The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
-State sales tax may be charged to your order depending on your location.  ** Shipping Charges  **
+We may also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner’s use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.
 
-Our company charges shipping and handling on all products, unless otherwise stated for that specific product. These charges are hard costs and are non-refundable. 
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.
 
-  
-** Product Refunds (For products that are shipped to you)**  
-You may return any of our products as long as you are within the written product guarantee (30 days from receipt). Products returned outside of the guarantee or those that do not qualify within the terms of the original purchase agreement, will not be refunded. Each of our product guarantees vary, please see individual offers and order pages for complete details. 
+In the event of a corporate merger, acquisition, sale of assets or other related corporate transaction, we may transfer, assign and/or share your personal and non-personal information with a transferee, assignee or acquirer of the assets of the company. By using the Site, you acknowledge and consent that such transfers could occur and are permitted, and that any transferee, assignee or acquirer of our assets may continue to access, use, or process your personal or non-personal information as set forth in this Privacy Policy.
 
-To return a product, first check the guarantee to ensure that the package will qualify. Also ensure that you purchased the product from us directly as we have several partners that we work with, when in doubt, check your credit card statement, if purchased from us, it will show "League of Power". All returns must be sent with tracking or delivery confirmation incase it gets lost in transit and for your records. Please include your full contact details within the package. Please allow 2-3 weeks for processing. 
+**Children’s Privacy Statement**
 
-It is the customers responsibility to notify LOP Solutions, LLC of non-delivery issues or defective items within 30 days from purchase. Customers who fail to notify us after the 30 days will only receive replacement products up to 90 days after order placement and no refunds will be issued. You will be required to return the defective item for a replacement. 
+This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
-** Shipping & Handling Charges  **   
-Our company charges shipping and handling on most products unless otherwise stated on the order form, these charges are hard costs and are non-refundable.   
+  * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
+  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.
+
+
+
+**  How do we store your information?**
+
+Your information is stored at the list server that delivers our emails and data. We have established certain reasonable electronic and administrative safeguards to protect personally identifiable information in our possession from loss, misuse, and unauthorized access, disclosure, alteration and destruction. Nevertheless, due to the inherent nature of the internet as an open global communication vehicle, we cannot guarantee that information, during transmission throughout the internet or while stored in our system or otherwise in our care, will be absolutely safe from unauthorized intrusion by third parties, such as hackers.
+
+All of the emails that are sent to you by us or our marketing partners include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communication that we send you.
+
+**Security  
+**Our companies uses the highest security standard available (SSL) to encrypt all of your credit card and personally identifiable information while it is in transit to us. All data stored on our server is protected by a secure “firewall” so that no unauthorized use or activity can take place. Although our company will make every effort to safeguard your personal information from loss, misuse or alteration by third parties, you should be aware that there is always some risk in any transaction over the internet that thieves may find a way to compromise security or attempt to capture transmissions over the Internet.
+
+**Unsubscribe from our E-mail list  
+**If you would like to unsubscribe from our email list, please contact us or use the opt out links in our emails.
+
+**Use of Website Content  
+**Under no circumstances are you allowed to copy, save, adapt, publish, edit, display, reproduce, modify, rent, copy and paste, lease, distribute duplicated, print, any content on this site except what is permitted with out written permission from our company. Additionally any other uses of our website content not mentioned here is prohibited. Anyone who wishes to violate this well be held liable and further legal action will take place.
+
+**Indemnification  
+**The customer or website end user agrees that he/she shall defend, indemnify, save and hold American Liberty Report. harmless from any and all demands, liabilities, losses, costs and claims, including reasonable attorney’s fees asserted against us, its agents, its customers, officers and employees, that may arise or result from any product, service or information provided.
+
+**Refunds  
+**Our company offers guarantees on each product we sell. Not all products have the same guarantee and each will vary. Please refer to the original product order page to read the terms of the product guarantee.
+
+Our return policies are to be used on initial orders of a specific product only.If you have previously ordered a product or service that you received a refund for and decide at a later date you wish to re-order that same product and service, you will not be covered by the refund policy the second time you order the same item.
+
+All packages that are returned should be sent with delivery confirmation for your records. Should you have any questions, please contact our [customer service](http://www.leagueofpower.com/contact-us/).
+
+**Shipping & Handling Charges**  
+LOP may charge shipping and handling on some of our products, these charges are hard costs and are non-refundable unless otherwise stated on the order form.
+
+**Anti-Spam Policy  
 **  
-Canceling Memberships and Services  
-** If you would like to cancel a membership or ongoing monthly service, please contact us by email or phone. Unsubscribing from our newsletter or email list does not cancel paid memberships or services. If you are within the cancellation period of 30 days from order, you're entitled to a full refund. Any cancellations outside of the 30 day period can only cancel future payments and no refunds are issued for past payments.  ** Earnings Statement & Disclaimer  
-** Nothing on our websites should be considered personalized Financial Advice. Although our employees may answer your general customer service questions, they are not licensed under securities laws to address your particular investment situation. No communication by our employees to you should be deemed as personalized Financial Advice.  Results depicted are not typical of most results. These income examples are unique and represent unique experiences of the writer. Some individuals purchasing the program may make little or NO MONEY AT ALL. These claims are not a guarantee of your income, nor are they typical of average participants. Individual results will vary greatly depending upon your input, determination, hard work, and ability to follow directions. No person or company can guarantee profits or freedom from loss. Any and all use of this website certifies you are agreeing to our Earnings and Income Disclaimers.   
-**   
-Use of Website Content   
-** Under no circumstances are you allowed to copy, save, adapt, publish, edit, display, reproduce, modify, rent, copy and paste, lease, distribute duplicated, print, any content on this site except what is permitted with out written permission from LOP Solutions, LLC. Additionally any other uses of our website content not mentioned here is prohibited. Anyone who wishes to violate this well be held liable and further legal action will take place. **Indemnification  
-** The customer or website end user agrees that he/she shall defend, indemnify, save and hold LOP Solutions, LLC. harmless from any and all demands, liabilities, losses, costs and claims, including reasonable attorney's fees asserted against us, its agents, its customers, officers and employees, that may arise or result from any product, service or information provided. ** Anti-Spam Policy   
-**   
-Strictly stated: We dislike spam just as much as you do and we do not condone it.  If you would like to unsubscribe from our email list, simply contact us or use the opt out links on our website. 
+Strictly stated: We dislike spam just as much as you do and we do not condone it. If you would like to unsubscribe from our email list, simply contact us or use the opt out links on our website.
+
+**Disclaimer**
+
+This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
+
+If you have any questions or concerns regarding our privacy policy please direct them to :
+
+**LOP Solutions, LLC.**  
+5036 Dr. Phillips Blvd #203  
+Orlando FL 32819  
+info@leagueofpower.com
