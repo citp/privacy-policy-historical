@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piccsy.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511102756id_/http%3A//piccsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piccsy.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112191545id_/http%3A//piccsy.com/privacy) for the most accurate reproduction.*
 
 # Piccsy :: Privacy Policy
 
