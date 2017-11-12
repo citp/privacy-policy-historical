@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lovein90days.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426035553id_/http%3A//lovein90days.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovein90days.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112095051id_/http%3A//lovein90days.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Love in 90 Days
 
-LoveIn90Days.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this Web site: http://www.LoveIn90Days.com
+LoveIn90Days.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this Web site: http://lovein90days.com
 
 **Information Automatically Logged**
 
@@ -36,4 +36,4 @@ This site gives the following options for changing and modifying information pre
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [**contact us**](http://www.lovein90days.com/contact_drdiana.php) by filling out the [**contact form**](http://www.lovein90days.com/contact_drdiana.php).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [**contact us**](http://lovein90days.com/contact_drdiana.php) by filling out the [**contact form**](http://lovein90days.com/contact_drdiana.php).
