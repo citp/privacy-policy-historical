@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayaclinic.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926212614id_/http%3A//www.kaya.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayaclinic.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112145428id_/https%3A//www.kaya.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy POLICY | kaya
 
@@ -19,5 +19,3 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 We might provide links to external websites whose content we believe might be of interest to our visitors. While these websites have been initially reviewed by our staff for appropriateness for our audience, we do not control the privacy practices of these external sites and we do not conduct ongoing reviews of their privacy practices. These external sites might collect personally identifiable information from visitors. Before using these websites, we recommend that you review their user and privacy policies. Children should always check with their parents or teachers before clicking onto any new sites.
 
 On occasion, it may be necessary for us to change the terms of the Online Privacy Policy [ http://www.kaya.in](http://www.kaya.in/). To ensure that you are aware of current privacy practices, we recommend that you check this site periodically. We will not materially change how we handle previously collected information without providing notice and choice as to how we use that information.
-
-__ BOOK An appointment
