@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrance-exam.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151338id_/http%3A//entrance-exam.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrance-exam.net privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112231417id_/http%3A//entrance-exam.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,6 @@ Advertisers**
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill, Kontera etc. Please check their websites for respective privacy policies.
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: sales@impactomatic.com
+If users have any questions or suggestions regarding our privacy policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Go Back to [entrance-exam.net](http://entrance-exam.net/)
