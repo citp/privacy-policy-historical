@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicysouthernkitchen.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214015849id_/https%3A//spicysouthernkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicysouthernkitchen.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112200135id_/https%3A//spicysouthernkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Spicy Southern Kitchen
 
