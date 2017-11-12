@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couch-tuner.fr privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054534id_/http%3A//couchtuner.fr/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couch-tuner.fr privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113001157id_/http%3A//www.couch-tuner.fr/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
