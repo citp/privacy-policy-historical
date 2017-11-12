@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkcraft.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511184253id_/http%3A//www.apkcraft.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkcraft.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112040315id_/http%3A//www.apkcraft.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
