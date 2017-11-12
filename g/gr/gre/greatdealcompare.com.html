@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greatdealcompare.com privacy policy that was archived on 2017-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170614023835id_/http%3A//greatdealcompare.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatdealcompare.com privacy policy that was archived on 2017-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171112110906id_/http%3A//greatdealcompare.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -30,13 +30,33 @@
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+<!-- Web store -->
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/dnelabpenkmnihjfmaidcgkppmajmcji">
+
+<script>
+function successCallback() {
+    var div = document.getElementById("goal");
+    div.innerHTML = '<img src="/goal.php?">';
+}
+function clickCallback() {
+    var div = document.getElementById("goal");
+    div.innerHTML = '<img src="/goal.php?&t=k">';
+}
+</script>
+
+<style>
+.installButton {
+    cursor: pointer;
+}
+</style>
+
 </head>
 
 <body data-spy="scroll" data-target=".navMenuCollapse">
 
 <!-- PRELOADER -->
-<div id="preloader">
-	<div class="battery inner">
+<div id="preloader" style="opacity: 0.705757;">
+	<div class="battery inner" style="display: none;">
 		<div class="load-line"></div>
 	</div>
 </div>
@@ -46,7 +66,7 @@
 	<!-- NAVIGATION BEGIN -->
 	<nav class="navbar navbar-fixed-top navbar-slide">
 			<div class="container_fluid"> 
-				<a class="navbar-brand goto" href="index.html#wrap"> <img src="./images/logo_gris.png" alt="Your logo" height="45" width="250"> </a>
+				<a class="navbar-brand goto" href="index.php#wrap"> <img src="./images/logo_gris.png" alt="Your logo" height="45" width="250"> </a>
 				<a class="contact-btn icon-envelope" data-toggle="modal" data-target="#modalContact"></a>
 				<button class="navbar-toggle menu-collapse-btn collapsed" data-toggle="collapse" data-target=".navMenuCollapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 				<div class="collapse navbar-collapse navMenuCollapse">
@@ -70,7 +90,7 @@
 				<div class="col-md-8 col-sm-12">
 					<img class="logo" src="./images/logo.png" alt="Your Logo" width="650">
 					<h1 class="slogan" style="font-size: 35px!important;text-transform: uppercase;">Stop being fooled, <br>find and Buy <br>at the  best price online !</h1>
-					<a class="download-btn-alt ios-btn" href="#">
+					<a class="download-btn-alt ios-btn" onclick="clickCallback();chrome.webstore.install('',successCallback)">
 						<b style="color:#fff;font-size: 28px;">Get GreatDealCompare</b>
 
 					</a><br>
@@ -78,11 +98,11 @@
 </p>
 				</div>
 				<div class="col-md-4 hidden-sm hidden-xs">
-					<img class="intro-screen wow bounceInUp" data-wow-delay="0.5s" src="images/intro_screen.png" width="700" height="600" alt="">
+					<img class="intro-screen wow bounceInUp animated" data-wow-delay="0.5s" src="images/intro_screen.png" width="700" height="600" alt="" style="visibility: visible;-webkit-animation-delay: 0.5s; -moz-animation-delay: 0.5s; animation-delay: 0.5s;">
 				</div>
 			</div>
 		</div>
-		<div class="block-bg" data-stellar-ratio="0.4"></div>
+		<div class="block-bg" data-stellar-ratio="0.4" style="transform: translate3d(0px, 0px, 0px);"></div>
 	</header>
 	<!-- INTRO END --> 
 	
@@ -141,12 +161,12 @@
 	
 	<!-- DOWNLOAD BEGIN -->
 	<section id="download" class="bg-color-main">
-		<div class="container-fluid wow fadeInDown">
-			<a href="#" class="goto">
+		<div class="container-fluid wow fadeInDown" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+			<a onclick="clickCallback();chrome.webstore.install('',successCallback)" class="goto">
 				<h2><img src="./images/chrome_blanc.png" alt="Your logo" height="40" width="40"> GET IT NOW FOR FREE</h2>
 			</a>
 		</div>
-		<div class="block-bg" data-stellar-ratio="0.5"></div>
+		<div class="block-bg" data-stellar-ratio="0.5" style="display: none;"></div>
 	</section>
 	<!-- DOWNLOAD END -->
 	<section id="screenshots" class="bg-color1" style="padding: 40px 0;">
@@ -156,8 +176,8 @@
 	<!-- FOOTER BEGIN -->
 	<footer id="footer">
 		<div class="container"> 
-			<a href="index.html#wrap" class="logo goto"> <img class="logo" src="./images/logo.png" alt="Your Logo" width="350"> </a>
-			<p class="copyright"><a href="#">Install</a> - <a href="http://greatdealcompare.com/contact.html">Contact</a> - <a href="http://greatdealcompare.com/privacy-policy.html">Privacy policy</a> - <a href="http://greatdealcompare.com/EULA.html">EULA</a> <br>© 2016 greatdealcompare.com 
+			<a href="index.php#wrap" class="logo goto"> <img class="logo" src="./images/logo.png" alt="Your Logo" width="350"> </a>
+			<p class="copyright"><a onclick="clickCallback();chrome.webstore.install('',successCallback)">Install</a> - <a href="http://greatdealcompare.com/contact.php">Contact</a> - <a href="http://greatdealcompare.com/privacy-policy.php">Privacy policy</a> - <a href="http://greatdealcompare.com/EULA.php">EULA</a> <br>© 2016 greatdealcompare.com 
 			</p>
 		</div>
 	</footer>
@@ -184,7 +204,7 @@
 		<div class="modal-content">
 			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 			<h3 class="modal-title">Contact</h3>
-			<form action="scripts/contact.php" role="form" id="contact_form">
+			<form action="scripts/contact.php" role="form" id="contact_form" novalidate="novalidate">
 						<div class="form-group">
 							<input type="text" class="form-control" id="contact_name" placeholder="Full name" name="name">
 						</div>
@@ -221,6 +241,7 @@
 <!--[if lte IE 9]>
 	<script src="scripts/respond.min.js"></script>
 <![endif]-->
+<div id="goal"></div>
 
 
 </body></html>
