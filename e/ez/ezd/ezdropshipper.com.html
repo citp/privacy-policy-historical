@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the ezdropshipper.com privacy policy that was archived on 2017-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170512041411id_/http%3A//www.ezdropshipper.com/Terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ezdropshipper.com privacy policy that was archived on 2017-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171112163359id_/http%3A//www.ezdropshipper.com/Terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
+<script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
 <script type="text/javascript">
 if(ns4)_d.write("<scr"+"ipt src=/a/j/milonic/mmenuns4.js><\/scr"+"ipt>"); 
   else _d.write("<scr"+"ipt src=/a/j/milonic/mmenudom.js><\/scr"+"ipt>"); 
@@ -44,7 +44,7 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.55.0.2304"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.76.0.3007"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -67,10 +67,26 @@ var Config_CDN_URL = '/'
     } (jQuery));
 </script>
 <link type="text/css" rel="stylesheet" href="/a/contentbuilder/assets/default/content.css">
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.55.0.2304"></script>
+<script type="text/javascript" src="../../a/j/paypal-rest-default-buttons.js"></script>
+
+
+<script type="text/javascript" src="/a/j/soft_add.js"></script>
+<link type="text/css" rel="stylesheet" href="/a/c/soft_add.css">
+<script type="text/javascript">
+	var global_Config_EnableDisplayOptionProducts = 'True';
+	var global_Config_ForceSecureShoppingCartPage = true;
+	var global_PageText_OtherItemsAdded = '(All other items have been added to the cart)';
+	var Config_EnableSoftAddToCart = false;
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.76.0.3007"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
+</script>
+
+<script>
+    var reCaptchaPreloaded = false;
+    var reCaptchaInit;
 </script>
 
 
@@ -361,12 +377,6 @@ urchinTracker("/0661636866/test");
 <script type="text/javascript">if(document.location.protocol!='https:')&nbsp;&nbsp;document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRc3.js'%20type='text/javascript'%3E%3C/script%3E"));
 </script><script type="text/javascript">if(typeof ClickTale=='function') ClickTale(19578,1,"www02");</script><!-- ClickTale end of Bottom part -->
 
-<!-- Start of Woopra Code -->
-<script type="text/javascript">var woo_settings = {idle_timeout:'300000', domain:'ezdropshipper.com'};(function(){
-var wsc = document.createElement('script');wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';wsc.type = 'text/javascript';
-wsc.async = true;var ssc = document.getElementsByTagName('script')[0];ssc.parentNode.insertBefore(wsc, ssc);})();</script><!-- End of Woopra Code -->
-
-
 <!-- ClickBank Trust Badge -->
 <script src="//cbtb.clickbank.net/?vendor=rgjivsalco"></script>
 <!-- ClickBank Trust Badge -->
@@ -393,6 +403,25 @@ window.onload = function(){
 
 
 <script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
+
+  <script>
+     if (document.getElementsByName("MailingList")[0]) {
+        var emailSubscribeForm = document.getElementsByName("MailingList")[0];
+        disableSubscribeSubmit = function() {
+          emailSubscribeButton.removeAttribute("type");
+        }
+        forwardToMailingList = function(e) {
+            var subscribeEmail = emailSubscribeForm.querySelector("input").value;
+          sessionStorage.setItem("subEmailAddress", subscribeEmail);
+          emailSubscribeForm.submit();
+        }
+
+        if (emailSubscribeForm.querySelector("button")) {
+            var emailSubscribeButton = emailSubscribeForm.querySelector("button");
+            emailSubscribeButton.addEventListener("click", forwardToMailingList);
+        }
+    }
+  </script>
 
 
 </body></html>
