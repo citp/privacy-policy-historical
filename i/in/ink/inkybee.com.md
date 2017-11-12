@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkybee.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609085920id_/http%3A//www.inkybee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkybee.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112095058id_/http%3A//www.inkybee.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
