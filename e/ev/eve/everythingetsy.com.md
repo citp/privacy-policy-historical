@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingetsy.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607074459id_/http%3A//www.everythingetsy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingetsy.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112155606id_/http%3A//www.everythingetsy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,5 +45,3 @@ If Crazy Tree Media, Inc., or substantially all of its assets, were acquired, or
 ### Ads
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Crazy Tree Media, Inc. and does not cover the use of cookies by any advertisers.
-
-There was an issue loading your timed LeadBox™. Please check plugin settings.
