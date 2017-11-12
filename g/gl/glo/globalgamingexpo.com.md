@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128032235id_/http%3A//www.globalgamingexpo.com/Show-Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112163318id_/http%3A//www.globalgamingexpo.com/Show-Info/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - G2E 2017
 
@@ -108,3 +108,7 @@ Reed Exhibitions
 US Privacy Administrator/Database Dept  
 383 Main Ave.  
 Norwalk, CT 06851
+
+Phone: Within the US at 888-306-2344   
+Outside the US at 203-840-5810   
+<http://www.recusprivacy.com/>
