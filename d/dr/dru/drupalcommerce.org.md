@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupalcommerce.org privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214211707id_/http%3A//commerceguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalcommerce.org privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112214650id_/http%3A//commerceguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Commerce Guys
 
