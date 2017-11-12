@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchanimemovie.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120651id_/http%3A//www.watchanimemovie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchanimemovie.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112152126id_/http%3A//www.watchanimemovie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Anime Movies Online
 
@@ -25,4 +25,4 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact me through my contact form or send me an email to: watchanimemovie@yahoo.com
+If users have any questions or suggestions regarding our privacy policy, please contact me through my contact form or send me an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
