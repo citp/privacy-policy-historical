@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the greybox.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315171408id_/https%3A//www.greybox.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greybox.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112041925id_/https%3A//www.greybox.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Grey Box - Grey Box
+# Greybox Privacy Policy - Grey Box
 
 ## Privacy Policy
 
-_Effective Date: July 27, 2016_
+_Effective Date: February 23, 2017_
 
 Grey Box™, a division of Redux! Games, LLC ("Grey Box", "we" or "us") is committed to safeguarding consumer privacy on the Internet and protecting the information that you may provide. This document ("Privacy Policy") discloses the privacy practices with respect to your access and use of our services, whether through our website www.greyboxgreybox.com or Grey Box's online games, blogs, chat rooms, forums, and related services created or controlled by or on behalf of Grey Box (collectively, the "Services"). Your use of the Services constitutes acceptance of both this Privacy Policy and our [Terms of Service](http://www.greybox.com/termsofservice/) (as defined in such Terms of Service, which are included below). 
 
@@ -21,6 +21,7 @@ This Privacy Policy is intended to provide you with notice of the following:
   9. How you can ask questions, or send us comments, about this Privacy Policy.
   10. California residents.
   11. Notice of change to the Privacy Policy.
+  12. Translations.
 
 
 
@@ -34,7 +35,7 @@ The type of personally identifiable information collected will vary depending up
 
 We also may automatically collect certain information when you use our Services, such as a device identifier (but not the UDID), MAC address, Internet Protocol (IP) address (if using a browser), operating system, computer type, software, Internet IP address, the browser type, the address of a referring site and your activity on Grey Box. You can enable or disable location services when you use Grey Box at any time, through your browser settings. This information is not treated as personal information unless we combine it with or link it to any of the personally identifiable information mentioned above. 
 
-At any time, but only once per calendar year, or as otherwise required under applicable law, you may contact Grey Box to review the personally identifiable information that Grey Box has collected about you. If you discover any errors, please notify Grey Box and the information will be corrected. To review the personally identifiable information that Grey Box has collected about you, send an email to [_support@greybox.zendesk.com_](mailto:support@greybox.com) with the subject line: "Personal Information Review Request." 
+At any time, but only once per calendar year, or as otherwise required under applicable law, you may contact Grey Box to review the personally identifiable information that Grey Box has collected about you. If you discover any errors, please notify Grey Box and the information will be corrected. To review the personally identifiable information that Grey Box has collected about you, send an email to [_support@greybox.com_](mailto:support@greybox.com) with the subject line: "Personal Information Review Request." 
 
 ### Cookies and Other Tracking Technologies
 
@@ -102,7 +103,7 @@ We do not knowingly collect personally identifiable information from someone we 
 
 We will only collect information to the extent necessary for us to provide our Services. We will also use personally identifiable information to: provide you with any information or material you may request from us and to process or complete any transactions; respond to your e-mails, questions or comments; analyze usage and trends and personalize and improve Grey Box and your experience when you use our Services such as suggesting content or features that may match your interests and level of gaming experience; send you confirmations, updates, security alerts and support messages; find and connect with your friends and contacts (with your permission); pair you with a user of our mobile applications who has first provided your personally identifiable information (such as your phone number or e-mail address) in order to be paired with you in connection with using our mobile applications; alert you of new products, promotions, special events and offers; and, for any other purpose for which the personally identifiable information was collected. We may also use personally identifiable information to allow us to deliver messages to your personal accounts on certain third party sites or networks, such as Facebook and Twitter. We may also need to use your personally identifiable information to (1) respond to subpoenas or court orders, (2) to establish or exercise our legal rights or defend against legal claims, (3) protect the safety or property of our employees, contractors, customers, users or others or (4) to the extent otherwise required by applicable law. 
 
-If at any time you wish to opt-out from having your personally identifiable information used in order to deliver information from Grey Box about new products, services, or promotions, you may contact us at [support@greybox.zendesk.com](mailto:support@greybox.com) with the words "Opt Out" in the subject line of your email. 
+If at any time you wish to opt-out from having your personally identifiable information used in order to send you emails from Grey Box about new products, services, or promotions (i.e., marketing emails), you may contact us at [support@greybox.com](mailto:support@greybox.com) with the words "Opt Out" in the subject line of your email. 
 
 ### Sharing, Selling or Renting of Information
 
@@ -116,7 +117,7 @@ The information you provide may also be collected, shared, and/or retained by on
 
 ### Your Access to and Control Over Your Personally Identifiable Information
 
-You may request that we delete your user account(s) or, if you have not established a user account, your email address, and any related data at any time. If you wish to delete your user account(s), please email us at _support@greybox.zendesk.com_ with the words "Delete Account" in the subject line. If you do not have a user account and wish to delete your email address or other personally identifiable information that you might have provided through your use of the Services, please email us at [_support@greybox.zendesk.com_](mailto:support@greybox.com) with the words "Delete My Information" in the subject line. 
+You may request that we delete your user account(s) or, if you have not established a user account, your email address, and any related data at any time. If you wish to delete your user account(s), please email us at _support@greybox.com_ with the words "Delete Account" in the subject line. If you do not have a user account and wish to delete your email address or other personally identifiable information that you might have provided through your use of the Services, please email us at [_support@greybox.com_](mailto:support@greybox.com) with the words "Delete My Information" in the subject line. 
 
 ### How Your Personally Identifiable Information Is Protected
 
@@ -134,22 +135,26 @@ Grey Box's websites may contain links to other websites, including without limit
 
 ### How You Can Ask Questions or Send Us Comments About This Privacy Policy
 
-Grey Box welcomes your comments regarding this privacy policy. If you have questions about this policy or have technical or general support questions, please contact us at [support@greybox.zendesk.com](mailto:support@greybox.com). You may also write to us at: 
+Grey Box welcomes your comments regarding this privacy policy. If you have questions about this policy or have technical or general support questions, please contact us at [support@greybox.com](mailto:support@greybox.com). You may also write to us at: 
 
-Grey Box  
-c/o Six Foot, LLC  
-2415 West Alabama, Suite #208  
+Grey Box   
+c/o Six Foot, LLC   
+2415 West Alabama, Suite #208   
 Houston, Texas 77098 
 
 ### YOUR CALIFORNIA PRIVACY RIGHTS
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits California residents to request from companies conducting business in California a list of third parties to which the company has disclosed personally identifiable information during the preceding year for direct marketing purposes. Grey Box has not and will not share your personally identifiable information with third parties for their direct marketing purposes; accordingly, it will not maintain such a list of third parties. If you are a resident of California and want additional information confirming how Grey Box does not share your personally identifiable information with third parties for their direct marketing purposes, you may contact us at [_support@greybox.zendesk.com_](mailto:support@greybox.com) with the words "California Privacy" in the subject line of your email. 
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits California residents to request from companies conducting business in California a list of third parties to which the company has disclosed personally identifiable information during the preceding year for direct marketing purposes. Grey Box has not and will not share your personally identifiable information with third parties for their direct marketing purposes; accordingly, it will not maintain such a list of third parties. If you are a resident of California and want additional information confirming how Grey Box does not share your personally identifiable information with third parties for their direct marketing purposes, you may contact us at [_support@greybox.com_](mailto:support@greybox.com) with the words "California Privacy" in the subject line of your email. 
 
 ### Notice of Changes to this Privacy Policy
 
 We may change this Privacy Policy at any time by posting a notice of the change. All changes will be effective when posted. 
 
-Last Updated: July 27, 2016 
+### Translations
+
+_If Grey Box has provided You with a translation of the English language version of this EULA, You agree that such translation is provided for Your convenience only and that the English language version, not the translation, of this EULA will be legally binding on You._
+
+Last Updated: February 23, 2017 
 
   
 
