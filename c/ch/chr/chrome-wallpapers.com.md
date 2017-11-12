@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrome-wallpapers.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611141700id_/http%3A//chrome-wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrome-wallpapers.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112043858id_/http%3A//chrome-wallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy – Best Wallpapers & New Tab Themes
 
@@ -55,4 +55,4 @@ Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics
 
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
 
-Post: Aztec Media, Post Office Box 51968, Limassol, Cyprus
+Post: 061 Budapest, Andrássy út 35. 1/8. Hungary
