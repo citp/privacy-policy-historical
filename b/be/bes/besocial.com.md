@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besocial.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613131820id_/http%3A//www.besocial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besocial.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112030229id_/http%3A//www.besocial.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BeSocial
 
