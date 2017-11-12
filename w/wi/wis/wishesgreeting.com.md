@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishesgreeting.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611140720id_/http%3A//www.wishesgreeting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishesgreeting.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112091333id_/http%3A//www.wishesgreeting.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms of service and Privacy Policy | WishesGreeting
 
