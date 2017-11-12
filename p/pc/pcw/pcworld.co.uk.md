@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085512id_/http%3A//www.pcworld.co.uk/gbuk/privacy_on_pc_world-157-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.uk privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112010001id_/http%3A//www.pcworld.co.uk/gbuk/privacy_on_pc_world-157-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | PC World
 
