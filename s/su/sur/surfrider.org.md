@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184837id_/https%3A//www.surfrider.org/pages/surfrider-foundation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112205632id_/http%3A//www.surfrider.org/pages/surfrider-foundation-privacy-policy) for the most accurate reproduction.*
 
 # Surfrider Foundation Privacy Policy - Surfrider Foundation
 
-EFFECTIVE: November 19, 2015
+EFFECTIVE: August 25, 2017
 
 A FAQ about our Privacy Policy is available [here.](http://www.surfrider.org/pages/privacy-policy-faqs)
 
-This Privacy Policy applies to www.surfider.org, www.beachapedia.org (the “ **Sites** ”) and to other websites, applications, services and mobile applications on or in which this Privacy Policy is linked or referenced, as well as and any services or mobile applications linked to or accessible to or through the Site  (collectively with the Site, the “ **Services** ”).  The Services are owned and/or operated by Surfrider Foundation (sometimes referred to in these Terms as “we” or “us”).  We hope that this Privacy Policy helps clarify how we collect and process your information.
+This Privacy Policy applies to www.surfider.org, www.beachapedia.org (the “ **Sites** ”), the Surfrider mobile application (the "App") and to other websites, applications, services and mobile applications on or in which this Privacy Policy is linked or referenced (collectively with the Site and the App, the “ **Services** ”).  The Services are owned and/or operated by Surfrider Foundation (sometimes referred to in these Terms as “ **we** ” or “ **us** ”).  We hope that this Privacy Policy helps clarify how we collect and process your information.
 
 This Privacy Policy describes:
 
@@ -42,7 +42,9 @@ The Effective Date of this Privacy Policy is set forth at the top of this webpag
 
 #### 2\. INFORMATION WE COLLECT
 
-“ **Personal Information** " means information associated with or used to identify a specific person.  Your Personal Information includes: (1) contact data (such as your e-mail address, mailing address, telephone number, school name and school grade); and (2) certain Usage Data, such as the IP address from which you access the Services (as further discussed in Section 3b. below)   
+“ **Personal Information"**  means information associated with or used to identify a specific person.  Your Personal Information includes: (1) contact data (such as your e-mail address, mailing address, telephone number, school name and school grade); and (2) Location Data (as defined below) and (3) certain Usage Data, such as the IP address from which you access the Services (as further discussed in Section 3b. below)  
+
+“ **Location Data** ” is a category of Personal Information collected about the location of a mobile device or computer, including: (1) the location of the mobile device of computer used to access the Services derived from GPS or WiFi use; (2) the IP address of the mobile device, computer, or internet service used to access the Services; or (3) other information made available by a user or others that indicate location, such as geotag information in photographs. You can change your preferences on your mobile device and/or browser to deny us access to your Location Data. Please note that if you disable location tracking, certain features of the Services may not be available to you. 
 
 **“General Information** ” is information about an individual’s online activity that, by itself, cannot be used to identify him or her, such as browser type, operating system and the dates/times of Services access.
 
@@ -67,6 +69,7 @@ We use the information that we collect or that you provide to us to operate, mai
   * To present the Services to you and to customize, improve and develop content and functionality that helps us better serve your needs;
   * To troubleshoot problems with the Services;
   * To facilitate communication between Surfrider Foundation and you;
+  * To connect you to local events, chapters and volunteers in your area;
   * To prevent, detect and investigate prohibited or illegal activities, such as claims of copyright infringement and security breaches;
   * To send emails and other communications that display content that we think will interest you, such as news about our campaigns, programs, services, products and promotions;
   * To generate statistical information about how users interact with the Services and conduct analyses to support, improve and enhance the Services;
@@ -105,11 +108,11 @@ In addition, we and our ad management partners may use these Data Collection Too
 
 #### 6\. CREDIT CARD INFORMATION
 
-Surfrider Foundation does not process your credit card information. Instead, Surfirder Foundation has entered into an agreement with Trustcommerce, a third party payment processing service,  to store, process and transmit your credit card data when you make a donation to us. Surfrider Foundation may transfer Personal Information to Trustcommerce for the purpose of facilitating the transaction.
+Surfrider Foundation does not process your credit card information. Instead, Surfirder Foundation has entered into an agreement with Trustcommerce, a third party payment processing service, to collect, store, process and transmit your credit card data when you make a donation to us. Trustcommerce certifies as adhering to the Payment Card Industry Data Security Standards. Surfrider Foundation may transfer Personal Information to Trustcommerce for the purpose of facilitating the transaction.
 
 #### 7\. INFORMATION PROTECTION
 
-Surfrider Foundation has implemented safeguards intended to protect your information from unauthorized access and use.  We also strive to obligate our agents, contractors and business partners that have access to information in connection with providing services for Surfrider Foundation protect your information.  But, while we do work hard to protect your information, we cannot guarantee the privacy or security of your information.  DISCLOSURE OF INFORMATION TO SURFRIDER FOUNDATION IS AT YOUR OWN RISK.  We urge you to take every precaution to protect your information when you use the Internet or store information on your computer, tablet or mobile device.
+Surfrider Foundation has implemented policies, procedures, and safeguards, including secured online connections, designed to protect all information submitted through the Services..  We also strive to obligate our agents, contractors and business partners to protect the information that they use or access in connection with providing services to Surfrider Foundation.  While we do work hard to protect your information, we cannot guarantee the privacy or security of information that you transmit over the Internet.  DISCLOSURE OF INFORMATION TO SURFRIDER FOUNDATION IS AT YOUR OWN RISK.  We urge you to take every precaution to protect your information when you use the Internet or store information on your computer, tablet, or mobile device.
 
 #### 8\. LINKS TO OTHER SERVICES
 
