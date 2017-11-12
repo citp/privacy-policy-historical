@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aext.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162851id_/http%3A//bloggingexperiment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aext.net privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112092910id_/http%3A//bloggingexperiment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
