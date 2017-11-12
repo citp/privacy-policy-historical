@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the farhangdaily.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025001119id_/http%3A//farhangdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farhangdaily.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112043959id_/http%3A//farhangdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » The Daily
+
+Click here for more for [tapjoy review](http://applassi.com/tapjoy-review/). See this page.
+
+Click the next page for [appster](http://reviewsappdeveloper.com/about-appster/). Read about appsterhq.com ios developer app.
+
+Go to this website for [app2top reviews](http://applassi.com/app2top-review/) . Here are the findings.
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
