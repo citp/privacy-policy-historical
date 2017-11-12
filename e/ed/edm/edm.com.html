@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the edm.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606141831id_/http%3A//edm.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edm.com privacy policy that was archived on 2017-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171112160552id_/http%3A//edm.com/privacy) for the most accurate reproduction.-->
 
-<html lang="en" class="privacy"><head><script defer="" type="text/javascript" src="https://revboostprocdnadsprod.azureedge.net/scripts/latest/min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://edm.com/js/prebid.js"></script>
+<html lang="en" class="privacy"><head>
 <title>EDM.com - The Latest Electronic Dance Music News, Reviews &amp; Artist Releases | EDM.com</title>
 <meta name="description" content="The world's foremost authority on EDM : free music downloads, artist interviews, industry news, curated playlists, trending charts, and more.">
 
@@ -36,7 +36,7 @@
 <meta name="google-signin-cookiepolicy" content="single_host_origin">
 
 <meta name="pusher_channel" content="edm">
-<meta name="csrf_token" id="csrf_token" content="Bqnt5pwoMeEzARQEeSFMiWFA0mVnVkGodqVSqb22">
+<meta name="csrf_token" id="csrf_token" content="tVnDZoBjpYaUv8mJtDMAzkqXeCpWkVYYVRcKs3qc">
 
 <link rel="shortcut icon" href="http://edm.com/images/favicon.png">
 <link rel="icon" type="image/png" href="http://edm.com/images/favicon.ico" sizes="16x16">
@@ -46,7 +46,7 @@
 <link rel="icon" type="image/png" href="http://edm.com/images/edm_152.png" sizes="152x152">
 <link rel="icon" type="image/png" href="http://edm.com/images/edm_180.png" sizes="180x180">
 <link rel="icon" type="image/png" href="http://edm.com/images/edm_192.png" sizes="192x192">
-<link media="all" type="text/css" rel="stylesheet" href="http://edm.com/css/main.min.css?v=20170607">
+<link media="all" type="text/css" rel="stylesheet" href="http://edm.com/css/main.min.css?v=20171025v1">
 
 <style>
 	.aggregation_modal{
@@ -57,7 +57,7 @@
     	margin: 0 auto;
     }
     </style>
-<script type="text/javascript" async="" src="https://cdn.pushcrew.com/js/455db780fb1dce759021318842e8b120.js"></script><script>
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.pushcrew.com/js/455db780fb1dce759021318842e8b120.js"></script><script>
 	(function(p,u,s,h){
 		p._pcq=p._pcq||[];
 		p._pcq.push(['_currentTime',Date.now()]);
@@ -70,222 +70,23 @@
 	})(window,document);
 </script>
 
-	<!--
+<!--
 		AdSense
 	-->
-			<script>
-	var PREBID_TIMEOUT = 1000;
-
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-
-	function initAdserver()
-	{
-		if( pbjs.initAdserverSet ) return;
-		(function()
-		{
-			var gads   = document.createElement( 'script' );
-			gads.async = true;
-			gads.type  = 'text/javascript';
-			var useSSL = 'https:' == document.location.protocol;
-			gads.src   = (useSSL ? 'https:' : 'http:') +
-					'//www.googletagservices.com/tag/js/gpt.js';
-			var node   = document.getElementsByTagName( 'script' )[ 0 ];
-			node.parentNode.insertBefore( gads, node );
-		})();
-		pbjs.initAdserverSet = true;
-	}
-	;
-	setTimeout( initAdserver, PREBID_TIMEOUT );
-
-	var pbjs = pbjs || {};
-	pbjs.que = pbjs.que || [];
-	(function()
-	{
-		var pbjsEl       = document.createElement( "script" );
-		pbjsEl.type      = "text/javascript";
-		pbjsEl.async     = true;
-		pbjsEl.src       = "http://edm.com/js/prebid.js";
-		var pbjsTargetEl = document.getElementsByTagName( "head" )[ 0 ];
-		pbjsTargetEl.insertBefore( pbjsEl, pbjsTargetEl.firstChild );
-	})();
-
-	var refreshVariable = 0;
-	function refreshSlot(slot) {
-	  var codes = [];
-      	  for (var i = 0; i<slot.length; i++)
-	     codes.push(slot[i].getSlotElementId());
-	     pbjs.que.push(function() {
-	       pbjs.requestBids({
-	          timeout: PREBID_TIMEOUT,
-	          adUnitCodes: codes,
-	          bidsBackHandler: function() {
-		    refreshVariable++;
-		    googletag.pubads().clearTargeting();
-	            pbjs.setTargetingForGPTAsync(codes);
-		    googletag.pubads().setTargeting("ImpressionNumber",refreshVariable.toString());
-		    googletag.pubads().refresh(slot);
-	}});});}
-
-
-	pbjs.que.push( function()
-	{
-
-
-		var adUnits = [
-			{
-				"code" : "edm_1D",
-				"sizes": [
-					[
-						728,
-						90
-					]
-				],
-				"bids" : [
-
-					{
-						"bidder": "aol",
-						"params": {
-							"placement": "4127658",
-							"network"  : "10581.1",
-							"alias"    : "edm_1D"
-						}
-					},
-					{ bidder: 'sovrn', params: { tagid: '374301' } },
-					{
-						"bidder": "brealtime",
-						"params": {
-							"placementId": "8523804"
-						}
-					},
-					{
-						"bidder": "appnexus",
-						"params": {
-							"placementId": "8809194"
-						}
-					}
-				]
-			},
-			{
-				"code" : "edm_2D",
-				"sizes": [
-					[
-						300,
-						250
-					]
-				],
-				"bids" : [
-
-					{
-						"bidder": "aol",
-						"params": {
-							"placement": "4127657",
-							"network"  : "10581.1",
-							"alias"    : "edm_2D"
-						}
-					},
-					{ bidder: 'sovrn', params: { tagid: '374303' } },
-					{
-						"bidder": "brealtime",
-						"params": {
-							"placementId": "8523868"
-						}
-					},
-					{
-						"bidder": "appnexus",
-						"params": {
-							"placementId": "8809201"
-						}
-					}
-				]
-			},
-			{
-				"code" : "edm_3D",
-				"sizes": [
-					[
-						300,
-						250
-					]
-				],
-				"bids" : [
-
-					{
-						"bidder": "aol",
-						"params": {
-							"placement": "4127659",
-							"network"  : "10581.1",
-							"alias"    : "edm_3D"
-						}
-					},
-					{ bidder: 'sovrn', params: { tagid: '374304' } },
-					{
-						"bidder": "brealtime",
-						"params": {
-							"placementId": "8523869"
-						}
-					},
-					{
-						"bidder": "appnexus",
-						"params": {
-							"placementId": "8809211"
-						}
-					}
-				]
-			},
-		];
-
-		pbjs.aliasBidder( 'appnexus', 'districtm' );
-		pbjs.addAdUnits( adUnits );
-
-		pbjs.requestBids( {
-			bidsBackHandler: function( bidResponses )
-			{
-				initAdserver();
-			}
-		} );
-	} );
-</script>
-<script>
-  dfpSlots = [];
-
-	googletag.cmd.push( function()
-	{
-		googletag.defineOutOfPageSlot( '/97868948/edm_interstitial', 'edm_interstitial' ).addService( googletag.pubads() );
-		dfpSlots[0] = googletag.defineSlot( '/97868948/edm_1D', [ [ 728, 90 ], [ 970, 90 ], [ 970, 250 ] ], 'edm_1D' ).addService( googletag.pubads() );
-		dfpSlots[1] = googletag.defineSlot( '/97868948/edm_2D', [ [ 300, 250 ], [ 300, 600 ], [ 160, 600 ], [ 300, 1050 ] ], 'edm_2D' ).addService( googletag.pubads() );
-		dfpSlots[2] = googletag.defineSlot( '/97868948/edm_3D', [ [ 300, 250 ], [ 336, 280 ] ], 'edm_3D' ).addService( googletag.pubads() );
-		googletag.defineSlot('/97868948/EDM_Teads', [1, 1], 'div-gpt-ad-1478706790311-0').addService(googletag.pubads());
-
-		pbjs.que.push( function()
-		{
-			pbjs.setTargetingForGPTAsync();
-		} );
-                
-
-		setInterval(function(){refreshSlot(dfpSlots);}, 60000);
-
-		googletag.pubads().setTargeting("ImpressionNumber",refreshVariable.toString());
-		googletag.pubads().setCentering( true );
-		googletag.pubads().collapseEmptyDivs( true );
-		googletag.pubads().enableSingleRequest();
-		googletag.enableServices();
-	} );
-
-
-	googletag.cmd.push(function() {
-	    dfpSlots[3] = googletag.defineSlot('/97868948/EDM_ADN_InArticle', [300, 250], 'div-gpt-ad-1485253499736-0').addService(googletag.pubads());
-	    dfpSlots[4] = googletag.defineSlot('/97868948/EDM_ADN_AboveComment', [300, 250], 'div-gpt-ad-1484652403708-0').addService(googletag.pubads());
-	    googletag.defineOutOfPageSlot('/97868948/EDM_ADN_Adsupply', 'div-gpt-ad-1484724402118-0').addService(googletag.pubads());
-	    googletag.defineSlot('/97868948/EDM_ADN_Interstitial', [1, 1], 'div-gpt-ad-1484652403708-2').addService(googletag.pubads());
-	    googletag.defineSlot('/97868948/EDM_Sticky_1x1', [1, 1], 'div-gpt-ad-1484652403708-3').addService(googletag.pubads());
-	    googletag.enableServices();
-
-
-	});
-</script>		<!--
+<!--
 		END OF AdSense
 	-->
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+	<style>
+		.unit__top {
+			margin-bottom: 15px;
+			min-width: 320px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+	</style>
+</head>
 <body class=" desktop-device ">
 
 <header id="app-subscription" style="z-index: 1200;">
@@ -294,26 +95,13 @@
 		<span></span>
 		<span></span>
 	</div>
-	<div class="logo_ctn">
-		<a href="http://edm.com" title="EDM - Go to home page"><img src="http://edm.com/images/edm-logo.png" onerror="this.onerror=null; this.src='http://edm.com/images/edm-logo.png'"></a>
+	<div class="logo_ctn ">
+		<a href="http://edm.com">
+			<img src="http://edm.com/images/edm-logo.png" onerror="this.onerror=null; this.src='http://edm.com/images/edm-logo.png'">
+		</a>
 	</div>
 	<div class="row_ctn topbot_bars_ctn" id="leftnav">
-		<div class="topbar">
-
-							<div class="login">
-					<a href="http://edm.com/login" class="loginbtn" id="loginbtn"> Login</a>
-					|
-					<a href="http://edm.com/signup" class="loginbtn" id="registerbtn"> Register</a>
-				</div>
-						<div class="liveplay">
-				<div class="status active"></div>
-				<div class="upnext"></div>
-			</div>
-			<div class="subscription">
-				<subscription :email.sync="email" :modalopen.sync="modalOpen"></subscription>
-			</div>
-		</div>
-		<div class="bottombar">
+				<div class="bottombar">
 			<nav>
 				<ul>
 
@@ -324,109 +112,56 @@
 							<a class="backhome section" href="http://edm.com"><span class="li_tier1"><i class="fa fa-home"></i></span></a>
 						</li>
 																<li class="nav-read">
-															<a title="Article read section" href="http://edm.com/articles">
-									<span class="li_tier1">NEWS</span>
-								</a>
-																					<div id="articlesdd" class="dropdown">
-								<ul>
-																			
-										<li>
-											<div class="article_prw row">
-												<a href="http://edm.com/articles/2017/6/5/autograf-exclusiveinterview" title="Autograf Talks about Corona Electric Beach and their Upcoming Plans for the Year [INTERVIEW]">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/592dc81ae709bb33df500eb1-M.jpg')"></div>
-													<div class="text_ctn col-xs-7">
-														<span class="article_title">Autograf Talks about Corona Electric Beach and their Upcoming Plans for the Year [INTERVIEW]</span>
-													</div>
-												</a>
-											</div>
-										</li>
-										
-																			
-										<li>
-											<div class="article_prw row">
-												<a href="http://edm.com/articles/2017/6/5/david-guetta-ibiza-lineup" title="David Guetta Has Plans For 'BIG' Supporting Talent at Ushuaïa Residency">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/5935c3e3e709bb0e4524a7a1-M.jpg')"></div>
-													<div class="text_ctn col-xs-7">
-														<span class="article_title">David Guetta Has Plans For 'BIG' Supporting Talent at Ushuaïa Residency</span>
-													</div>
-												</a>
-											</div>
-										</li>
-										
-																			
-										<li>
-											<div class="article_prw row">
-												<a href="http://edm.com/articles/2017/6/5/limitless-summer-remix-competition" title="Take it From the Bedroom to the Main Stage With Our Limitless Summer Remix Competition!">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/59319a3be709bb7e9335d4c1-M.jpg')"></div>
-													<div class="text_ctn col-xs-7">
-														<span class="article_title">Take it From the Bedroom to the Main Stage With Our Limitless Summer Remix Competition!</span>
-													</div>
-												</a>
-											</div>
-										</li>
-										
-																			
-										<li>
-											<div class="article_prw row">
-												<a href="http://edm.com/articles/2017/6/5/denon-prime-series" title="Tiesto, Among Others, Are Changing Their Tech Rider to this New Denon DJ Equipment">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/59357f7ce709bb602e7c84d1-M.jpg')"></div>
-													<div class="text_ctn col-xs-7">
-														<span class="article_title">Tiesto, Among Others, Are Changing Their Tech Rider to this New Denon DJ Equipment</span>
-													</div>
-												</a>
-											</div>
-										</li>
-										
-																			
-										<li>
-											<div class="article_prw row">
-												<a href="http://edm.com/articles/2017/6/5/madden-new-music" title="Madeon Announces New Music is Coming, and it's Nothing Like His Previous Works">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/59355fd2e709bb47ce5a9c31-M.jpg')"></div>
-													<div class="text_ctn col-xs-7">
-														<span class="article_title">Madeon Announces New Music is Coming, and it's Nothing Like His Previous Works</span>
-													</div>
-												</a>
-											</div>
-										</li>
-										
-																			
-										<li>
-											<div class="article_prw row">
-												<a href="http://edm.com/articles/2017/6/5/bonobo-vr-outliers" title="Bonobo Jumps Into the Virtual Reality Experience With Video for 'Outliers' [WATCH]">
-													<div class="picture_ctn col-xs-5" style="background-image: url('http://cloud.edm.com/articles/59356235e709bb47ce5a9c32-M.jpg')"></div>
-													<div class="text_ctn col-xs-7">
-														<span class="article_title">Bonobo Jumps Into the Virtual Reality Experience With Video for 'Outliers' [WATCH]</span>
-													</div>
-												</a>
-											</div>
-										</li>
-										
-																	</ul>
-							</div>
+																								<a style="cursor: pointer;">
+										<span class="li_tier1">ARTICLES</span>
+									</a>
+																														<div id="articlesdd2" class="dropdown ">
+									<nav class="article__nav">
+																					<a class="" href="/articles/news">
+												News
+											</a>
+																					<a class="" href="/articles/interview">
+												Interviews
+											</a>
+																					<a class="" href="/articles/features">
+												Features
+											</a>
+																					<a class="" href="/articles/new-releases">
+												New Releases
+											</a>
+																					<a class="" href="/articles/gear-tech">
+												Gear + Tech
+											</a>
+																					<a class="" href="/articles/lifestyle">
+												Lifestyle
+											</a>
+																					<a class="" href="/articles/op-eds">
+												Op-Eds
+											</a>
+																					<a class="" href="/articles/events">
+												Events
+											</a>
+																			</nav>
+								</div>
 													</li>
 											<li class="nav-charts">
-																							<a title="Article charts section" href="http://edm.com/charts">
-									<span class="li_tier1">CHARTS</span>
-								</a>
+																								<a href="http://edm.com/charts">
+										<span class="li_tier1">CHARTS</span>
+									</a>
 																												</li>
 											<li class="nav-watch">
-																							<a title="tv.edm.com" href="http://tv.edm.com">
-									<span class="li_tier1">VIDEOS</span>
-								</a>
+																								<a href="http://tv.edm.com">
+										<span class="li_tier1">VIDEOS</span>
+									</a>
 																												</li>
-										<!--// section -->
+									<!--// section -->
 
 					<li class="nav-playlists">
-						<a title="Playlists" href="http://edm.com/playlists">
+						<a href="http://edm.com/playlists">
 							<span class="li_tier1">PLAYLISTS</span>
 						</a>
 					</li>
-					<li class="nav-competiton">
-						<a title="Competition" href="http://edm.com/competition">
-							<span class="li_tier1">COMPETITION</span>
-						</a>
-					</li>
-					
+										
 				</ul>
 			</nav>
 			<div class="searchbar nav-search">
@@ -442,25 +177,13 @@
 					</li>
 					<li><a rel="nofollow" target="_blank" href="https://instagram.com/edm" title="EDM - Instagram Page"><i class="fa fa-instagram"></i></a>
 					</li>
-					<li>
-						<a rel="nofollow" target="_blank" href="https://plus.google.com/+EDM" title="EDM - Google + Page"><i class="fa fa-google-plus"></i></a>
-					</li>
-					<li>
+										<li>
 						<a rel="nofollow" target="_blank" href="https://soundcloud.com/edm" title="EDM - Soundcloud Page"><i class="fa fa-soundcloud"></i></a>
 					</li>
 					<li>
 						<a rel="nofollow" target="_blank" href="https://youtube.com/edm" title="EDM - Youtube Page"><i class="fa fa-youtube-play"></i></a>
 					</li>
-					<li>
-						<a rel="nofollow" target="_blank" href="https://www.twitch.tv/aiagency" title="EDM - Twitch Page"><i class="fa fa-twitch"></i></a>
-					</li>
-					<li>
-						<a rel="nofollow" target="_blank" href="https://www.pinterest.com/AiAgency/edmcom/" title="EDM - Pinterest Page"><i class="fa fa-pinterest-p"></i></a>
-					</li>
-					<li>
-						<a target="_blank" href="http://edm.com/feeds/articles" title=""><i class="fa fa-rss"></i></a>
-					</li>
-				</ul>
+																			</ul>
 			</div>
 			<div class="contribute">
 				<button class="bluebtn">Contribute</button>
@@ -489,77 +212,47 @@
 </header>
 
 
-<div class="topleaderboard">
-		<div class="spotlight">
+<div class="topleaderboard" style="flex-direction: column">
+
+	<div class="unit__top">
+		<div id="Top"></div>
+	</div>
+
+	<div style="display: flex">
+			<div id="spotlight-module-1" data-module="1" class="spotlight">
 		<div class="spotlight__track">
 			<div class="spotlight__track--header">
 				<h2 class="spotlight__track--header-title">
-					SPOTLIGHT TRACK
+					EDM.com Spotlight
 				</h2>
 			</div>
 			<!--
 				Soundcloud Player
 			-->
-							<div class="spotlight__track--player">
-					<div class="player__artwork" style="background-image: url(https://i1.sndcdn.com/artworks-000208759205-wl9e7t-t300x300.jpg)"></div>
-					<div class="player__content">
-						<h2>Invisible</h2>
-						<h3>TeZATalks</h3>
-						<div class="controls">
-							<div class="controls__play" id="spotlight-play" data-duration="226031" data-stream="https://api.soundcloud.com/tracks/308717858/stream">
-								<span><i class="fa fa-play-circle"></i></span>
-							</div>
-							<div class="controls__bar">
-								<div class="controls__bar--seeker">
-									<span class="controls__bar--seeker-current"></span>
-								</div>
-								<span class="controls__bar--duration">
-									<span class="controls__bar--duration-text">0:00</span> / 3:46
-								</span>
-							</div>
-						</div>
+							<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3qb7z3azHSzX4XdxSQMqs4" width="100%" height="80" frameborder="0" allowtransparency="true"></iframe>
 					</div>
-				</div>
-
-									</div>	
-
-		<!--
-			Download and Social options
-		-->
-		<div class="spotlight__download">
-			<div class="spotlight__download--info">
-				<h3>Follow</h3>
-				<h2>TeZATalks</h2>
-			</div>
-			<div class="spotlight__download--social">
-									<a href="https://soundcloud.com/Tezatalks" target="_blank"><i class="fa fa-soundcloud"></i></a>
-																	<a href="https://twitter.com/Tezatalks" target="_blank"><i class="fa fa-twitter"></i></a>
-													<a href="https://www.facebook.com/Tezatalks" target="_blank"><i class="fa fa-facebook"></i></a>
-													<a href="https://www.instagram.com/Tezatalks/" target="_blank"><i class="fa fa-instagram"></i></a>
-							</div>
-					</div>	
-
-		
-		
-		<!--
-			Submission
-		-->
-		<div class="spotlight__submission" id="spotlight-contact" data-type="spotlight">
-			<a href="#" data-type="spotlight">
-				<i class="fa fa-plus-circle" data-type="spotlight"></i>
-			</a>
-			<span>
-				Spotlight<br>
-				Your Track
-			</span>
-		</div>		
 	</div>
+	<div id="spotlight-module-2" data-module="2" class="spotlight">
+		<div class="spotlight__track">
+			<div class="spotlight__track--header">
+				<h2 class="spotlight__track--header-title">
+					EDM.com Spotlight
+				</h2>
+			</div>
+			<!--
+				Soundcloud Player
+			-->
+							<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A7Mkx340J9g7OEHAbSX2ayB" width="100%" height="80" frameborder="0" allowtransparency="true"></iframe>
+					</div>
+	</div>
+	</div>
+
+
 </div>
 <div class="fs_wrapper">
 
 
-
-
+	
 	<main class="container-fluid">
 		
 	<article>
@@ -633,127 +326,11 @@
 
 <footer>
 	<div class="container-fluid">
-		<div class="row cnt_wrp">
-			<div class="col-xs-12 news_source">
-				<p class="blue_hl">News Sources</p>
-				<ul>
-											<li><a rel="nofollow" href="https://news.beatport.com" target="_blank">Beatport</a></li>
-											<li><a rel="nofollow" href="http://www.billboard.com/" target="_blank">Billboard</a></li>
-											<li><a rel="nofollow" href="https://boilerroom.tv/" target="_blank">Boiler Room</a></li>
-											<li><a rel="nofollow" href="http://www.businessinsider.com/" target="_blank">Business Insider</a></li>
-											<li><a rel="nofollow" href="https://www.buzzfeed.com/" target="_blank">BuzzFeed</a></li>
-											<li><a rel="nofollow" href="http://www.complex.com/" target="_blank">Complex</a></li>
-											<li><a rel="nofollow" href="http://consequenceofsound.net/" target="_blank">Consequence of Sound</a></li>
-											<li><a rel="nofollow" href="http://djtechtools.com/" target="_blank">DJ Tech Tools</a></li>
-											<li><a rel="nofollow" href="http://dancemusicnw.com/" target="_blank">Dance Music Northwest</a></li>
-											<li><a rel="nofollow" href="http://digg.com/" target="_blank">Digg</a></li>
-											<li><a rel="nofollow" href="http://www.edmsauce.com/" target="_blank">EDMSauce</a></li>
-											<li><a rel="nofollow" href="http://www.edmtunes.com/" target="_blank">EDMTunes</a></li>
-											<li><a rel="nofollow" href="http://www.factmag.com/" target="_blank">Fact Magazine</a></li>
-											<li><a rel="nofollow" href="http://www.thefader.com/" target="_blank">Fader</a></li>
-											<li><a rel="nofollow" href="http://www.forbes.com/" target="_blank">Forbes</a></li>
-											<li><a rel="nofollow" href="http://www.funnyordie.com" target="_blank">Funny Or Die</a></li>
-											<li><a rel="nofollow" href="http://www.fuse.tv/" target="_blank">Fuse</a></li>
-											<li><a rel="nofollow" href="http://globaldanceelectronic.com/" target="_blank">Global Dance Electronic</a></li>
-											<li><a rel="nofollow" href="http://www.huffingtonpost.com/" target="_blank">Huffington Post</a></li>
-											<li><a rel="nofollow" href="http://www.iflscience.com/" target="_blank">I Fucking Love Science</a></li>
-											<li><a rel="nofollow" href="http://www.ign.com/" target="_blank">IGN</a></li>
-											<li><a rel="nofollow" href="https://www.insomniac.com/" target="_blank">Insomniac</a></li>
-											<li><a rel="nofollow" href="http://www.latimes.com/" target="_blank">LA Times</a></li>
-											<li><a rel="nofollow" href="http://www.laweekly.com/" target="_blank">LA Weekly</a></li>
-											<li><a rel="nofollow" href="http://mashable.com/" target="_blank">Mashable</a></li>
-											<li><a rel="nofollow" href="http://www.ministryofsound.com/" target="_blank">Ministry of Sound</a></li>
-											<li><a rel="nofollow" href="http://www.musictimes.com/" target="_blank">Music Times</a></li>
-											<li><a rel="nofollow" href="http://www.nytimes.com/" target="_blank">New York Times</a></li>
-											<li><a rel="nofollow" href="http://www.noiseprn.com/" target="_blank">Noise Porn</a></li>
-											<li><a rel="nofollow" href="https://nowthisnews.com/" target="_blank">Now This</a></li>
-											<li><a rel="nofollow" href="http://pigeonsandplanes.com/" target="_blank">Pigeons &amp; Planes</a></li>
-											<li><a rel="nofollow" href="http://pitchfork.com/" target="_blank">Pitchfork</a></li>
-											<li><a rel="nofollow" href="http://www.pollstar.com/" target="_blank">Pollstar</a></li>
-											<li><a rel="nofollow" href="https://www.residentadvisor.net/" target="_blank">Resident Advisor</a></li>
-											<li><a rel="nofollow" href="http://www.rollingstone.com/" target="_blank">Rolling Stone</a></li>
-											<li><a rel="nofollow" href="https://blog.soundcloud.com/" target="_blank">SoundCloud</a></li>
-											<li><a rel="nofollow" href="http://www.spin.com/" target="_blank">Spin</a></li>
-											<li><a rel="nofollow" href="http://www.tmz.com/" target="_blank">TMZ</a></li>
-											<li><a rel="nofollow" href="http://techcrunch.com/" target="_blank">TechCrunch</a></li>
-											<li><a rel="nofollow" href="http://thebanginbeats.com/" target="_blank">The Bangin Beats</a></li>
-											<li><a rel="nofollow" href="http://www.theverge.com/" target="_blank">The Verge</a></li>
-											<li><a rel="nofollow" href="https://www.washingtonpost.com/" target="_blank">The Washington Post</a></li>
-											<li><a rel="nofollow" href="http://thissongissick.com/" target="_blank">This Song Is Sick</a></li>
-											<li><a rel="nofollow" href="http://thump.vice.com" target="_blank">Thump</a></li>
-											<li><a rel="nofollow" href="https://ukf.com/" target="_blank">UKF</a></li>
-											<li><a rel="nofollow" href="http://uproxx.com/" target="_blank">Uproxx</a></li>
-											<li><a rel="nofollow" href="http://www.vice.com" target="_blank">Vice</a></li>
-											<li><a rel="nofollow" href="http://wegotthiscovered.com/" target="_blank">We Got This Covered</a></li>
-											<li><a rel="nofollow" href="http://whatstrending.com/" target="_blank">What’s Trending</a></li>
-											<li><a rel="nofollow" href="http://www.wired.com/" target="_blank">Wired</a></li>
-											<li><a rel="nofollow" href="https://www.reddit.com/r/electronicmusic" target="_blank">r/electronicmusic</a></li>
-									</ul>
-			</div>
-		</div>
-		<div class="row cnt_wrp">
-			<div class="col-xs-12 col-sm-6 col-md-4">
-				<div class="newsletter_social">
-					<div class="newsletter">
-						<p class="blue_hl">Subscribe for your<br>dose of EDM news</p>
-						<form method="POST" action="http://edm.com/privacy" accept-charset="UTF-8"><input name="_token" type="hidden" value="Bqnt5pwoMeEzARQEeSFMiWFA0mVnVkGodqVSqb22">
-						<input id="nwsltr_sbsrb" placeholder="Enter your email" name="newsletter" type="email">
-						<button type="submit" id="subscribenwsbtn">Submit</button>
-						</form>
-					</div>
-					<div class="social">
-						<p class="blue_hl">Follow Us</p>
-						<ul class="socialicons">
-							<li><a rel="nofollow" target="_blank" href="https://facebook.com/edm" title="EDM - Facebook Page"><i class="fa fa-facebook"></i></a></li>
-							<li><a rel="nofollow" target="_blank" href="https://twitter.com/theedmnetwork" title="EDM - Twitter Page"><i class="fa fa-twitter"></i></a></li>
-							<li><a rel="nofollow" target="_blank" href="https://instagram.com/edm" title="EDM - Instagram Page"><i class="fa fa-instagram"></i></a></li>
-							<li><a rel="nofollow" target="_blank" href="https://plus.google.com/+EDM" title="EDM - Google + Page"><i class="fa fa-google-plus"></i></a></li>
-							<li><a rel="nofollow" target="_blank" href="https://soundcloud.com/edm" title="EDM - Soundcloud Page"><i class="fa fa-soundcloud"></i></a></li>
-							<li><a rel="nofollow" target="_blank" href="https://youtube.com/edm" title="EDM - Youtube Page"><i class="fa fa-youtube-play"></i></a></li>
-							<li><a rel="nofollow" target="_blank" href="https://www.twitch.tv/aiagency" title="EDM - Twitch Page"><i class="fa fa-twitch"></i></a></li>
-							<li><a rel="nofollow" target="_blank" href="http://aia.ag/AIA-Pinterest" title="EDM - Pinterest Page"><i class="fa fa-pinterest-p"></i></a></li>
-							<li><a rel="nofollow" target="_blank" href="http://edm.com/feeds/articles" title="Articles feeds"><i class="fa fa-rss"></i></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-4 seperator">
-				<div class="footerlinks row">
-					<div class="col-xs-6">
-						<ul class="company">
-							<li class="blue_hl">Company</li>
-							<li><a href="http://edm.com/about">About us</a></li>
-							<li id="contactctl">Contact</li>
-							<li><a href="http://edm.com/advertising">Advertise</a></li>
-							<li><a href="http://edm.com/careers">Careers</a></li>
-														<li>Site map</li>
-						</ul>
-					</div>
-					<div class="col-xs-6">
-						<ul class="read">
-							<li class="blue_hl">Read</li>
-							<li><a href="http://edm.com/read">Articles</a></li>
-						</ul><br>
-						<ul class="listen">
-							<li class="blue_hl">Listen</li>
-							<li><a href="http://edm.com/playlists">playlists</a></li>
-						</ul><br>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-md-4 seperator aia_logo">
-				<div>
-					<a href="http://artistintelligence.agency" title="AIA - Artist Management Portal"><img src="http://edm.com/images/aia-logo.png" onerror="this.onerror=null; this.src='http://edm.com/images/aia-logo.png'"></a>
-				</div>
-			</div>
-
-		</div>
 		<div class="col-xs-12">
 			<div class="copyright">
 				<p>© 2017 EDM.COM  | <a href="http://edm.com/privacy">Privacy and Cookies</a>   | <a href="http://edm.com/tos">Terms of Service</a></p>
 			</div>
 		</div>
-
 	</div>
 </footer>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
@@ -767,9 +344,6 @@
 <div class="aggregation_modal" :class="{open: modalopen}" id="aggregation_modal">
 	<aggregationmodal :modalopen.sync="modalopen" :content="content" :loaded="loaded"></aggregationmodal>
 </div>
-<div class="contact_modal" :class="{open: modalopen}" id="contact_modal">
-	<contactmodal :modalopen.sync="modalopen" ,="" department.sync="department"></contactmodal>
-</div>
 
 					
 
@@ -779,233 +353,82 @@
 
 <script src="http://edm.com/js/aggregation.js"></script>
 
-<script src="http://edm.com/js/subscription.js"></script>
-
-<script src="http://edm.com/js/contact.js"></script>
-
 
 <script>
-	(function( i, s, o, g, r, a, m )
-	{
-		i[ 'GoogleAnalyticsObject' ] = r;
-		i[ r ] = i[ r ] || function()
-				{
-					(i[ r ].q = i[ r ].q || []).push( arguments )
-				}, i[ r ].l = 1 * new Date();
-		a = s.createElement( o ),
-				m = s.getElementsByTagName( o )[ 0 ];
-		a.async = 1;
-		a.src   = g;
-		m.parentNode.insertBefore( a, m )
-	})( window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga' );
+    (function( i, s, o, g, r, a, m ){
+        i[ 'GoogleAnalyticsObject' ] = r;
+        i[ r ] = i[ r ] || function(){
+            (i[ r ].q = i[ r ].q || []).push(arguments)
+        }, i[ r ].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[ 0 ];
+        a.async = 1;
+        a.src   = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-	ga( 'create', 'UA-32952086-6', 'auto' );
-	ga( 'send', 'pageview' );
+    ga('create', 'UA-32952086-6', 'auto');
+    ga('send', 'pageview');
 </script>
-					<script src="/js/soundmanager2-nodebug-jsmin.js"></script>
-					<script>
-window.player;
-window.seekBarPercent;
-window.spotLightDuration = 0;
-window.seekBarPosition = 0;
-window.seeBarInterval;
 
-var seek_current_width     = jQuery(document).find('.controls__bar--seeker-current');
-var seek_current_text      = jQuery(document).find('.controls__bar--duration');
-var seek_current_indicator = jQuery(document).find('.controls__bar--duration-text');
-
-function seekBarFunc() {
-	seeBarInterval = setInterval(function(){
-		seekBarPosition = (player.position / spotLightDuration) * 100;
-		seek_current_width.css('width', seekBarPosition + '%');
-
-		var tc = timecode();
-		seek_current_indicator.text(tc);
-	}, 1000);
-}
-
-function seekBarEnd() {
-	var tc = timecode(spotLightDuration);
-	seek_current_width.css('width', '100%');
-	seek_current_indicator.text(tc);
-}
-
-function timecode(duration) {
-	duration = duration || player.position;
-	var min = (duration / 1000 / 60) << 0;
-	var sec = Math.floor((duration / 1000) % 60);
-
-	return min + ':' + pad(sec);
-}
-
-function pad ( val ) { return val > 9 ? val : "0" + val; }
-
-jQuery('#spotlight-play').on('click', function(e){
-	e.preventDefault();
-	var that = jQuery(this);
-	var url = that.attr('data-stream') + '?consumer_key=2b68f72307a8a81a458ec812bd0a6e37';
-	spotLightDuration = parseInt(that.attr('data-duration'));
-
-	if(typeof player == 'object' && player.playState == 1)
-	{
-		if(player.paused)
-		{
-			try{
-				player.resume();
-			}catch(err){
-			}
-		}
-		else
-		{
-			try{
-				player.pause();
-			}catch(err){
-			}
-		}
-	}
-	else
-	{
-		createSound(that, url);
-	}
-});
-
-function createSound(that, url){
-	player = soundManager.createSound({
-		id: 'track_232323',
-		url: url,
-		onplay: function() {
-			if(typeof that === 'object')
-			{
-				that.find('i')
-					.removeClass('fa-play-circle')
-					.addClass('fa-pause-circle');
-
-					seekBarFunc();
-			}
-		},
-		onresume: function() {
-			if(typeof that === 'object')
-			{
-				that.find('i')
-					.removeClass('fa-play-circle')
-					.addClass('fa-pause-circle');
-
-					seekBarFunc();
-			}
-		},
-		onpause: function() {
-			if(typeof that === 'object')
-			{
-				that.find('i')
-					.removeClass('fa-pause-circle')
-					.addClass('fa-play-circle');
-
-					clearInterval(seeBarInterval);
-			}
-		},
-		onfinish: function() {
-			if(typeof that === 'object')
-			{
-				that.find('i')
-					.removeClass('fa-pause-circle')
-					.addClass('fa-play-circle');
-
-					clearInterval(seeBarInterval);
-
-					seekBarEnd();
-			}
-		}
-	});
-
-	window.setTimeout(function(){
-		player.play();
-
-		var parent = jQuery('.controls__bar');
-
-		if(!parent.hasClass('playing'))
-		{
-			parent.addClass('playing');
-		}
-
-	}, 500);
-}
-</script>				
 <!-- Facebook Pixel -->
-<script type="text/javascript">
-	adroll_adv_id = "2CFMRAPDIZERNKTA52A6ZI";
-	adroll_pix_id = "6NNPWCTYIJAIRBSTES7X7O";
-	/* OPTIONAL: provide email to improve user identification */
-	/* adroll_email = "username@example.com"; */
-	(function () {
-		var _onload = function(){
-			if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
-			if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
-			var scr = document.createElement("script");
-			var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-			scr.setAttribute('async', 'true');
-			scr.type = "text/javascript";
-			scr.src = host + "/j/roundtrip.js";
-			((document.getElementsByTagName('head') || [null])[0] ||
-			document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-		};
-		if (window.addEventListener) {window.addEventListener('load', _onload, false);}
-		else {window.attachEvent('onload', _onload)}
-	}());
-</script>
 
-<!-- Segment Pixel - MasterSegmentPixel - DO NOT MODIFY -->
-<script src="//invertise.s3.amazonaws.com/pixeljs/b2a40a39-2d42-4084-a383-31fccfabd12e.js"></script>
-<!-- End of Segment Pixel -->
-<!-- Facebook Pixel Code -->
-<script>
-	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-			document,'script','//connect.facebook.net/en_US/fbevents.js');
 
-	fbq('init', '519040194944513');
-	fbq('track', "PageView");</script>
-<noscript><img height="1" width="1" style="display:none"
-               src="https://www.facebook.com/tr?id=519040194944513&amp;ev=PageView&amp;noscript=1"
-	/></noscript>
-<!-- End Facebook Pixel Code -->
-
-<div id="edm_interstitial" style="width: 1px; height: 0px">
-<script>googletag.cmd.push(function() { googletag.display('edm_interstitial'); });</script>
-</div>
 
 
 
 
 <!-- /97868948/EDM_ADN_Adsupply -->
-<div id="div-gpt-ad-1484724402118-0">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1484724402118-0'); });
-</script>
-</div>
 
 <!-- /97868948/EDM_ADN_Interstitial -->
-<div id="div-gpt-ad-1484652403708-2" style="height:1px; width:1px;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1484652403708-2'); });
-</script>
-</div>
 
 <!-- /97868948/EDM_Sticky_1x1 -->
 
 <!-- RBP Code -->
+
+
+<script type="text/javascript">
+    var gptadslots = [];
+    var googletag  = googletag || {};
+    googletag.cmd  = googletag.cmd || [];
+    (function(){
+        var gads   = document.createElement('script');
+        gads.async = true;
+        gads.type  = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src   = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node   = document.getElementsByTagName('script')[ 0 ];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
 <script>
-	(function () {
-	    var node = document.getElementsByTagName('script')[0],
-		rvbP = document.createElement('script');
-	    window.CMT = { appId: '8494cffb-9aed-4320-a0f0-d4567b6d072f' };
-	    rvbP.defer = true;
-	    rvbP.type = 'text/javascript';
-	    rvbP.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-			'//revboostprocdnadsprod.azureedge.net/scripts/latest/min.js';
-	    node.parentNode.insertBefore(rvbP, node);
-	})();
+    googletag.cmd.push(function(){
+
+        var mapping     = googletag.sizeMapping().addSize([ 1024, 768 ], [ [ 970, 90 ], [ 728, 90 ], [ 970, 250 ] ]).// desktop
+        addSize([ 980, 600 ], [ [ 970, 90 ], [ 728, 90 ], [ 970, 250 ] ]).addSize([ 770, 300 ], [ 728, 90 ]).//tablet
+        addSize([ 0, 0 ], [ [ 320, 50 ], [ 320, 100 ], [ 320, 150 ] ]).//mobile
+        build();
+        gptadslots[ 1 ] = googletag.defineSlot('/97868948/Top', [ 728, 90 ], 'Top').defineSizeMapping(mapping).addService(googletag.pubads());
+
+
+        var mapping1    = googletag.sizeMapping().addSize([ 1024, 768 ], [ 300, 250 ]).// desktop
+        addSize([ 980, 600 ], [ 300, 250 ]).addSize([ 747, 300 ], [ 300, 250 ]).//tablet
+        addSize([ 300, 240 ], [ 300, 250 ]).//mobile
+        addSize([ 0, 0 ], [ 300, 250 ]).//mobile
+        build();
+        gptadslots[ 2 ] = googletag.defineSlot('/97868948/Middle', [ 300, 250 ], 'Middle').defineSizeMapping(mapping1).addService(googletag.pubads());
+
+        googletag.pubads().setTargeting('section', 'homepage');
+
+        googletag.pubads().collapseEmptyDivs(true);
+        googletag.pubads().enableAsyncRendering();
+        googletag.enableServices();
+    });
+</script>
+
+<script>
+    googletag.cmd.push(function(){ googletag.display('Top'); });
 </script>
 
 
