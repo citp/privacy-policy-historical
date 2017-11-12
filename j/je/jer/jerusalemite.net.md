@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerusalemite.net privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612040023id_/http%3A//www.jerusalemite.net/about-us/1576/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerusalemite.net privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112121928id_/http%3A//www.jerusalemite.net/about-us/1576/privacy-policy) for the most accurate reproduction.*
 
 # Jerusalemite - Privacy Policy - Jerusalemite.net
 
