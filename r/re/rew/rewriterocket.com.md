@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewriterocket.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051724id_/http%3A//www.vtargeter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewriterocket.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112015909id_/http%3A//www.vtargeter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy —
 
