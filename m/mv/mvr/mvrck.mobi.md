@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mvrck.mobi privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112140127id_/http%3A//www.mvrck.mobi%3Fsection%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvrck.mobi privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112095742id_/http%3A//www.mvrck.mobi%3Fsection%3Dprivacypolicy) for the most accurate reproduction.*
 
 # MVRCK
 
