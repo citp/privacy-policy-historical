@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smileybux.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009174953id_/http%3A//www.texasholdem.com/%3Fpage_id%3D3328) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileybux.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112221906id_/http%3A//www.texasholdem.com/%3Fpage_id%3D3328) for the most accurate reproduction.*
 
 # Privacy Policy | TexasHoldEm.com
 
