@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwwh.in privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628191858id_/http%3A//www.iwwh.in/p/privacy-policy_21.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwwh.in privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112073916id_/http%3A//www.iwwh.in/p/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Iwwh Blog
+# Privacy Policy
 
 **www.iwwh.in Privacy Policy**  
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
@@ -111,5 +111,5 @@ Contacting Us
 If there are any questions regarding this privacy policy, you may contact us using the information below.  
 Admin  
 www.iwwh.in  
-vemanainternet@gmail.com  
-India
+mallikabv@gmail.com  
+India 
