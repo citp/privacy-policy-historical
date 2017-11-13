@@ -1,22 +1,84 @@
-> *The following text is extracted and transformed from the downloadbureau.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141915id_/http%3A//www.downloadbureau.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbureau.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113145842id_/http%3A//www.downloadbureau.com/privacy-policy) for the most accurate reproduction.*
 
 # DownloadBureau | Privacy Policy
 
-This websites collects limited Personal Data from users. 
+Your privacy is important to This Site. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and contact us if you have any questions.
 
-According to the current Privacy Policy for DownloadBureau.com, the owner of the website is informing users that files containing data from customers and users have been created. DownloadBureau.com takes responsibility for the files, which have been filed with the corresponding public entity. Information collected is not sold or rented to third parties for commercial purposes without the prior consent of users. The site is however enabled for the disclosure of personal data to (i) demand policy fulfillment, (ii) meet legal requirements, (iii) answer claims associated with third party rights protection or security or property should it be affected by contents or advertisments, breach of contract claim answers,
+Collection and Use of Personal Information
 
-Information collected included the first name, last name, email, cookie and IP address of the user. The location of the user may also be collected, used and shared to provide services based on location. The geographical location is the personal data collected. Registering for the DownloadBureau.com newsletter/mailing list allows for the email address of the user to be added to the recipients contact list when the newsletter is released.
+Personal information is data that can be used to uniquely identify or contact a single person.
 
-Users registering with the site are consenting to give their Personal Data in order to allow the services of the Website to be executed or products sold on the site to be purchased. In addition to the full name of the user, the Genre, Birth date, Email and Password and the Username are collected. Data of Interested Parties is processed in a proper and lawful manner and unauthorized access, modification, disclosure or destruction of the data is prevented with appropriate security measures. Telematic means and/or computers with organizational logics and methods strictly for the intended, stated purpose.
+You may be asked to provide your personal information anytime you are in contact with This Site or This Site affiliated company. This Site and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising.
 
-Data collected by users is kept for only the length of time required to complete users requested service. Users may request that the data collected from them be deleted at any time. Information is used for delivery or service of goods sold through the Site, and for general accounting, administrative or technical purposes including:
+Here are some examples of the types of personal information This Site may collect and how we may use it.
 
-  * Specific information request from the User;
-  * Updates on new products and services available or business offers
-  * Inform Users of inconvenience or Site maintenance
-  * User commercial profiling
+1\. What personally identifiable information does This Site collect?
 
+This Site’s primary goal in collecting personal information is to provide you with the best and most useful content and services. This Site is essential to keeping our services free to users.  
+This Site collects personally identifiable information when you provide it to us, such as when you register on our sites, when you use certain products or services and when you visit This Site pages. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our This Site sites you are no longer anonymous to us.
 
+2\. What anonymous information does This Site collect?
 
-This privacy statement applies solely to the Site and is not meant to refer to other sites whose links maybe be contained on the Site.
+Cookies
+
+Your Internet browser has a feature called “cookies” which store small amounts of data on your computer about your visit to any of our sites. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. You do not need to have cookies turned on to visit the This Site site, although active participation in certain areas of our site may require cookies. In apition, you may elect not to allow cookies to be collected by selecting certain options on your browser.
+
+Web Bugs & Servers
+
+We use electronic images known as Web bugs – sometimes called single-pixel GIFs, transparent GIFs, or clear gifs- that allow us to track general user traffic patterns. This Site also automatically receives and records information from our servers and from your browser including your IP address, the time, and information about the page you requested.
+
+We use tracking technologies in a variety of ways, including:
+
+Keeping count of return visits to our site or our advertiser’ or partners’ sites  
+Accumulate and report anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage  
+Determining which features users like best  
+Saving your password so you don’t have to re-enter it each time you visit our sites  
+3\. How does This Site use the information?
+
+This Site uses the information we gather for four general purposes:
+
+To customise the advertising and content you see, which helps keep our services free to users  
+To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you  
+To fulfil your requests for certain products and services, such as sending out electronic newsletters and enabling users to participate in polls, contests, message boards, and auctions  
+To send you information you agreed to receive about topics we think will be of interest to you  
+4\. How does This Site share the information?
+
+Personally Identifiable Information
+
+This Site will make your personally identifiable information available to other companies or people when:
+
+We have your consent to share the information  
+We have engaged companies to work with or on behalf of This Site to provide a product or service that you have requested, such as opt-in e-mail announcements  
+You use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies  
+We respond to subpoenas, court orders or legal process; or we believe that your actions violate applicable laws, This Site’s terms of use or any usage guidelines for specific products or services, or threaten the rights, property or safety of This Site, our users, or others  
+Aggregate Information
+
+This Site aggregates personally identifiable information and discloses such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+
+Business Transfers
+
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes. In that event, we will seek to give you notice of that change in control and we will seek to get assurances that the purchaser will honour any opt-out requests you might make of us.
+
+5\. What are my options?
+
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.
+
+We provide users with the following options:
+
+Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt-in may remove themselves from mailing lists at any time through the subscription management pages or by following the instructions at the end of the e-mail they received from us;  
+Opting not to provide certain personal information when registering for a site  
+6\. How can I update my personally identifiable information?
+
+You can correct or change the information collected during registration for any site (see above for a description of the registration process). Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have questions about how our services work can contact us using the e-mail addresses at the bottom of this page.
+
+7\. How will I know if the privacy policy is changed?
+
+Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection we will send affected users written notice of the change. We will also post the changes in our privacy statement 30 days prior to a change, where practicable.
+
+8\. How does This Site manage and ensure security of personal information?
+
+This Site strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We have take steps to ensure your personal information is safe by using a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised loss or disclosure.
+
+9\. How can you find out what personal information This Site holds about you?
+
+You have the right to seek access to the personal information held about you and to advise This Site of any inaccuracy. There are some exceptions to this right set out in the Privacy Act. If you make an access request, This Site will ask you to verify your identity and specify what information you require.
