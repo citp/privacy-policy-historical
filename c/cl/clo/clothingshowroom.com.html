@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clothingshowroom.com privacy policy that was archived on 2017-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170514155844id_/http%3A//www.clothingshowroom.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clothingshowroom.com privacy policy that was archived on 2017-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171113165718id_/http%3A//www.clothingshowroom.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -17,7 +17,7 @@
 <link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
-<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="//www.google-analytics.com/analytics.js"></script><script src="https://web.archive.org/web/20171021083828/https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="//www.google-analytics.com/analytics.js"></script><script src="https://web.archive.org/web/20160323195247/https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 
 
@@ -35,7 +35,7 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.55.0.2304"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.76.0.3007"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -58,22 +58,28 @@
     } (jQuery));
 </script>
 <link type="text/css" rel="stylesheet" href="/a/contentbuilder/assets/default/content.css">
+<script type="text/javascript" src="../../a/j/paypal-rest-default-buttons.js"></script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
 <link type="text/css" rel="stylesheet" href="/a/c/soft_add.css">
 <script type="text/javascript">
-	var global_Config_EnableDisplayOptionProducts = 'True';	
+	var global_Config_EnableDisplayOptionProducts = 'True';
 	var global_Config_ForceSecureShoppingCartPage = true;
 	var global_PageText_OtherItemsAdded = '(All other items have been added to the cart)';
 	var Config_EnableSoftAddToCart = true;
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.55.0.2304"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.76.0.3007"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
+</script>
+
+<script>
+    var reCaptchaPreloaded = false;
+    var reCaptchaInit;
 </script>
 
 
@@ -654,6 +660,25 @@ __lc.license = 2690542;
         });
     }
 </script>
+
+  <script>
+     if (document.getElementsByName("MailingList")[0]) {
+        var emailSubscribeForm = document.getElementsByName("MailingList")[0];
+        disableSubscribeSubmit = function() {
+          emailSubscribeButton.removeAttribute("type");
+        }
+        forwardToMailingList = function(e) {
+            var subscribeEmail = emailSubscribeForm.querySelector("input").value;
+          sessionStorage.setItem("subEmailAddress", subscribeEmail);
+          emailSubscribeForm.submit();
+        }
+
+        if (emailSubscribeForm.querySelector("button")) {
+            var emailSubscribeButton = emailSubscribeForm.querySelector("button");
+            emailSubscribeButton.addEventListener("click", forwardToMailingList);
+        }
+    }
+  </script>
 
 
 </body></html>
