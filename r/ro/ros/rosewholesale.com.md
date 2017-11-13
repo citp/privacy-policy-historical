@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosewholesale.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054441id_/http%3A//www.rosewholesale.com/m-article-id-27.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosewholesale.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113045146id_/https%3A//www.rosewholesale.com/m-article-id-27.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rosewholesale.com
 
