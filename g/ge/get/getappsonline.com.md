@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getappsonline.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627144723id_/http%3A//www.getappsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getappsonline.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114001101id_/https%3A//www.getappsonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - getAppsOnline
 
 Love receiving free software? We too! That’s why we’re committed to providing our visitors witha huge library of free and free-to-try software products that are fast, easy and safe toreceive. We aim to be a one-stop place for every software enthusiast, so be prepared to findsoftware from a wide range of industries.
 
-getAppsOnline regards privacy issues at the utmost seriousness. getAppsOnline is firmly commitment to theprivacy of its users. The following discloses our information gathering and dissemination practicesfor this website: [www.getAppsOnline.com](http://www.getappsonline.com/), operated by getAppsOnline.These and getAppsOnline's Terms of Service (" **Terms** ") are the accesses and terms of your use onthe site.
+getAppsOnline regards privacy issues at the utmost seriousness. getAppsOnline is firmly commitment to theprivacy of its users. The following discloses our information gathering and dissemination practicesfor this website: [www.getAppsOnline.com](https://www.getappsonline.com/), operated by getAppsOnline.These and getAppsOnline's Terms of Service (" **Terms** ") are the accesses and terms of your use onthe site.
 
 ## Information We Collect
 
