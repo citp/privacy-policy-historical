@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingmamasita.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082850id_/http%3A//savingmamasita.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingmamasita.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113162957id_/http%3A//savingmamasita.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Saving Mamasita
 
@@ -55,15 +55,15 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 
 
 
-  * [How Kids Can Earn Free Stuff for Reading in the Summer](http://savingmamasita.com/2017/06/how-kids-can-earn-free-stuff-for-reading-in-the-summer/) \- June 5, 2017
-  * [Companies That Send You Free Products to Test](http://savingmamasita.com/2017/05/companies-that-send-you-free-products-to-test/) \- May 28, 2017
-  * [Saving Time During the Week: Tips for Busy Moms](http://savingmamasita.com/2017/05/saving-time-during-the-week-tips-for-busy-moms/) \- May 26, 2017
-  * [Best Beauty Product Testing Panels](http://savingmamasita.com/2017/05/best-beauty-product-testing-panels/) \- May 24, 2017
-  * [Free Meals & Admissions for Military on Memorial Day](http://savingmamasita.com/2017/05/free-meals-admissions-for-military-on-memorial-day/) \- May 21, 2017
-  * [Visit The Doctor From Home With Amwell #MOMSLOVEAMWELL](http://savingmamasita.com/2017/05/visit-the-doctor-from-home-with-amwell-momsloveamwell/) \- May 16, 2017
-  * [Reasons Why It Is Never Too Early To Shop For Your Daughter’s Prom Dress](http://savingmamasita.com/2017/05/reasons-why-it-is-never-too-early-to-shop-for-your-daughters-prom-dress/) \- May 8, 2017
-  * [MAY THE 4TH BE WITH YOU: Amazon Celebrates May 4th with Star Wars Deals](http://savingmamasita.com/2017/05/may-the-4th-be-with-you-amazon-celebrates-may-4th-with-star-wars-deals/) \- May 4, 2017
-  * [Kids Activities for Cinco de Mayo](http://savingmamasita.com/2017/04/kids-activities-for-cinco-de-mayo/) \- April 30, 2017
-  * [Camping Safety Tips You Need to Know](http://savingmamasita.com/2017/04/camping-safety-tips-you-need-to-know/) \- April 24, 2017
+  * [Time Saving Tips for A Stress-Free Thanksgiving](http://savingmamasita.com/2017/11/time-saving-tips-for-a-stress-free-thanksgiving/) \- November 12, 2017
+  * [Freebies for Military and Their Families](http://savingmamasita.com/2017/11/freebies-for-military-and-their-families/) \- November 8, 2017
+  * [Top Three Benefits of Getting Your Library Science Degree Online](http://savingmamasita.com/2017/11/top-three-benefits-of-getting-your-library-science-degree-online/) \- November 2, 2017
+  * [Most Haunted Places in the United States](http://savingmamasita.com/2017/10/most-haunted-places-in-the-united-states/) \- October 29, 2017
+  * [The All-Season Family S’mores Guide](http://savingmamasita.com/2017/10/the-all-season-family-smores-guide/) \- October 26, 2017
+  * [Lunch Ideas for Picky Eaters](http://savingmamasita.com/2017/10/lunch-ideas-for-picky-eaters/) \- October 17, 2017
+  * [Why Your Kids Will Need A Makeover Too This Fall](http://savingmamasita.com/2017/10/why-your-kids-will-need-a-makeover-too-this-fall/) \- October 13, 2017
+  * [Ask An Expert From Home With Samsung Health](http://savingmamasita.com/2017/10/ask-an-expert-from-home-with-samsung-health/) \- October 12, 2017
+  * [All Natural and Organic Companies That Will Send You Free Stuff](http://savingmamasita.com/2017/10/all-natural-and-organic-companies-that-will-send-you-free-stuff/) \- October 1, 2017
+  * [How to Give Your Family a White Christmas When You Live in an Arid Climate](http://savingmamasita.com/2017/09/how-to-give-your-family-a-white-christmas-when-you-live-in-an-arid-climate/) \- September 25, 2017
 
 
