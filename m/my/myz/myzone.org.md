@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myzone.org privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613172729id_/http%3A//myzone.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzone.org privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113220357id_/http%3A//myzone.org/privacy) for the most accurate reproduction.*
 
 # Group Heart Rate | Privacy Policy | MYZONE
 
