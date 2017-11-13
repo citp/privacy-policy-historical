@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstvplus.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135805id_/http%3A//www.newstvplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstvplus.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113195628id_/http%3A//www.newstvplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewsTvPlus
 
@@ -14,7 +14,7 @@ Newstvplus do not allow users to post content which are copyright and We believe
 
 All the material news, events and columns on this website is will copyright or freely available and collected from different websites around the world like, facebook, twitter, different news tv channels etc.
 
-If you find or think any News, content or article on this website is posted illegally on Newstvplus or news articles violate the copyright then you can simply send and email to Admin@newstvplus.com
+If you find or think any News, content or article on this website is posted illegally on Newstvplus or news articles violate the copyright then you can simply send and email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Newstvplus can change the privacy policy if required and the update to the privacy policy here.
 
@@ -36,4 +36,4 @@ If you want to contact us please send your email to us
 
 Contact
 
-[Admin@newstvplus.com](http://www.newstvplus.com/contact)
+[[email protected]](http://www.newstvplus.com/contact)
