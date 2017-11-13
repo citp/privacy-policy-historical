@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunsnroses.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512153819id_/http%3A//www.gunsnroses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsnroses.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113170954id_/https%3A//www.gunsnroses.com/privacy) for the most accurate reproduction.*
 
 # Guns N' Roses > Privacy Policy
 
