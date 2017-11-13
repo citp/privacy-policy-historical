@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607131921id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113221535id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Typing Test and Free Learn to Type Tutor Online - Privacy Statement
 
@@ -49,7 +49,7 @@ In accordance with laws and safe practices, any account marked as a "kid" (i.e. 
 * Additional security measures may be implemented at our sole discretion, if deemed necessary. 
 
 **Third Party Advertising**   
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 **Third Party Cookies**   
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
