@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewaydirect.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105224119id_/http%3A//www.ewaydirect.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewaydirect.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113210819id_/http%3A//www.ewaydirect.com/privacy-policy.php) for the most accurate reproduction.*
 
 # eWayDirect Privacy Policy
 
@@ -103,7 +103,6 @@ eWayDirect is a member of several associations focused around building and maint
   
 
 
-  * Email Service Providers Coalition (ESPC)
   * The Direct Marketing Association (DMA)
   * Online Trust Alliance (OTA)
 
