@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtbproject.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232948id_/https%3A//www.adventureprojects.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtbproject.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113141200id_/https%3A//www.adventureprojects.net/privacy-policy) for the most accurate reproduction.*
 
 # Adventure Projects Privacy Policy
 
