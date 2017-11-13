@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktoplightning.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143411id_/http%3A//www.desktoplightning.com/new/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktoplightning.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113151739id_/http%3A//desktoplightning.com/new/privacy.php) for the most accurate reproduction.*
 
 # DesktopLightning
 
