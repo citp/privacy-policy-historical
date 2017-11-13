@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624101457id_/https%3A//www.medallia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113221157id_/https%3A//www.medallia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Medallia
 
-Effective date: September 24, 2004 • Last reviewed and updated December 12, 2016
+Effective date: September 24, 2004 • Last reviewed and updated July 17, 2017
 
-This Privacy Statement applies to [www.medallia.com]() owned and operated by Medallia, Inc (“Medallia”). Medallia is committed to safeguarding the privacy of your personally identifiable information (“PII”). This statement sets forth Medallia’s privacy policy.
+**Separate Privacy Notices**
+
+Medallia maintains a [Notice of Privacy Shield Certification](http://medallia.com/privacy/privacy-shield-notice).
+
+**This Policy**
+
+This privacy policy applies to [www.medallia.com]() owned and operated by Medallia, Inc (“Medallia”). Medallia is committed to safeguarding the privacy of your personally identifiable information (“PII”).
 
 For the purposes of this policy, Medallia defines the term “client” as a business with which Medallia has an established relationship, “customer” as a customer of a Medallia client, and “respondent” as an individual who takes Medallia’s surveys independent of Medallia’s clients.
 
@@ -108,11 +114,11 @@ Our Web site and some surveys include Social Media Features, such as the Faceboo
 
 **Testimonials**
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@medallia.com.
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [email protected]
 
 **Blogs**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at privacy@medallia.com _._
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at [email protected] _._
 
 **Children’s Privacy**
 
@@ -126,4 +132,4 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 **Privacy Contact**
 
-If you have any questions or comments about this privacy policy or the practices of this site, or unresolved privacy and data use concerns, please contact Medallia by e-mailing privacy@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc., 395 Page Mill Road, Suite 100, Palo Alto, CA 94306. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
+If you have any questions or comments about this privacy policy or the practices of this site, or unresolved privacy and data use concerns, please contact Medallia by e-mailing [email protected], faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc., 450 Concar Drive, San Mateo, CA 94402. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
