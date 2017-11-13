@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-parcel.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729120926id_/https%3A//www.i-parcel.com/en/i-parcel-online-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-parcel.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113105625id_/https%3A//www.i-parcel.com/en/i-parcel-online-privacy-notice) for the most accurate reproduction.*
 
 # i-parcel Online Privacy Notice | UPS i-parcel
 
