@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get4x.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023161043id_/https%3A//get4x.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get4x.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113160241id_/https%3A//get4x.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Get4x
 
@@ -14,7 +14,7 @@ We understand that your personally identifying information is important to you a
 
 Get4x is a community platform that puts travellers and money changers in touch, to the mutual benefit of both parties. In the process, some user data will be collected and so this privacy policy outlines the way we collect, use and protect your personal information.
 
-At 4xLabs, our mission is to bring about greater price transparency in the cash exchange industry, and so it makes sense that we are transparent when it comes to the type of data we collect from you and what we do with it. Do review our privacy policy below for more details, and if you have any questions, please do not hesitate to reach out to us at [contact@get4x.com](mailto:contact@get4x.com).
+At 4xLabs, our mission is to bring about greater price transparency in the cash exchange industry, and so it makes sense that we are transparent when it comes to the type of data we collect from you and what we do with it. Do review our privacy policy below for more details, and if you have any questions, please do not hesitate to reach out to us at [feedback@get4x.com](http://get4x.com/en/feedback).
 
 * * *
 
@@ -29,7 +29,7 @@ Note: the privacy practices set forth in this privacy policy are for the Get4x S
 **Distribution of Information.** We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: 
 
   1. permitted or required by law; or,
-  2. trying to protect against or prevent actual or potential fraud or unauthorized transactions; or,
+  2. trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, 
   3. investigating fraud which has already taken place.
 
 
