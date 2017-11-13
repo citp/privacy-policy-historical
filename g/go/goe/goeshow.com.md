@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goeshow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045142id_/http%3A//www.goeshow.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goeshow.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113072807id_/http%3A//www.goeshow.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # eShow: Event Management Solutions
 
@@ -10,7 +10,7 @@ On January 12, 2017, the Swiss Government announced the approval of the Swiss-U.
 
 and Swiss Federal Data Protection and Information Commissioner <https://www.edoeb.admin.ch/datenschutz/00626/00753/01405/01406/index.html?lang=en>
 
-Netronix Corporation, DBA eShow complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Netronix Corporation, DBA eShow has certified that it adheres to the Privacy Shield Framework Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield programs, please visit: <https://www.privacyshield.gov/welcome> and to view Netronix Corporation, DBA eShow's Privacy Shield certification, please visit <https://www.privacyshield.gov/list>.
+Netronix Corporation, DBA eShow complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Netronix Corporation, DBA eShow has certified that it adheres to the Privacy Shield Framework Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield programs, please visit: <https://www.privacyshield.gov/welcome> and to view Netronix Corporation, DBA eShow's Privacy Shield certification, please visit [https://www.privacyshield.gov/participant](https://www.privacyshield.gov/participant?id=a2zt00000008PhYAAU&status=Active).
 
 ## Independent Recourse Mechanism for Privacy Shield Complaints
 
@@ -52,8 +52,6 @@ For purposes of this Policy, the following definitions shall apply:
 
 “Personal Information” means any information relating to an identified individual, or to an individual who can be identified, directly or indirectly, by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural or social identity. Personal Information does not include information that is anonymized. Personal Information does not include corporate information that relates to an organization but not to an individual, such as a corporate name, corporate address or general corporate phone number.
 
-"Personal information" means any information or set of information that identifies or is used by or on behalf of Netronix Corporation, DBA eShow to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information.
-
 "Sensitive personal information" means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. In addition, Netronix Corporation, DBA eShow will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
 
 “Website Usage Information” In addition to Personal Information that you choose to submit to us, whenever you visit or interact with our Sites, we may collect or store information about your interaction with our Sites (“Usage Information”). This Usage Information may include:
@@ -94,7 +92,7 @@ Netronix Corporation, DBA eShow will provide individuals with reasonable mechani
 
 **TRANSFERS TO AGENTS:** Netronix Corporation, DBA eShow will obtain assurances from its agents that they will safeguard personal information consistently with this Policy. Examples of appropriate assurances that may be provided by agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Privacy Shield Framework Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Privacy Shield certification by the agent, or being subject to another European Commission adequacy finding (e.g., companies located in Canada). Where Netronix Corporation, DBA eShow has knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, Netronix Corporation, DBA eShow will take reasonable steps to prevent or stop the use or disclosure.
 
-**ACCESS AND CORRECTION:** Upon request, Netronix Corporation, DBA eShow will grant individuals reasonable access to personal information that it holds about them. In addition, Netronix Corporation, DBA eShow will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. These requests can be made by completing our International Consumer Service form at [https://www.goeshow.com/contact_us.cfm](https://web.archive.org/web/20170606045142id_/http%3A//www.goeshow.com/contact_us.cfm) or by calling the Netronix Corporation, DBA eShow office in the country where they reside and asking for consumer services.
+**ACCESS AND CORRECTION:** Upon request, Netronix Corporation, DBA eShow will grant individuals reasonable access to personal information that it holds about them. In addition, Netronix Corporation, DBA eShow will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. These requests can be made by completing our International Consumer Service form at [https://www.goeshow.com/contact_us.cfm](https://web.archive.org/web/20171113072807id_/http%3A//www.goeshow.com/contact_us.cfm) or by calling the Netronix Corporation, DBA eShow office in the country where they reside and asking for consumer services.
 
 **INFORMATION SECURITY:** Netronix Corporation, DBA eShow will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
@@ -129,4 +127,4 @@ South Barrington, IL 60010
 
 This Policy may be amended from time to time, consistent with the requirements of the Privacy Shield Framework Principles. We reserve the right to update this Privacy Policy at any time, without prior notice to you, to the extent permitted by applicable law and the principles of the Framework. We will notify the changes that we make to this Privacy Policy by posting the revised Privacy Policy on the Site, and such changes will be effective immediately unless otherwise stated.
 
-_Last Revised: 5/19/2017_
+_Last Revised: 6/15/2017_
