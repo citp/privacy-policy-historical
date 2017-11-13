@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the impulsetoday.com privacy policy that was archived on 2017-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170115075445id_/http%3A//www.impulsetoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impulsetoday.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113084256id_/http%3A//www.impulsetoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Impulse Today
 
-Impulse Today takes the matter of privacy very seriously. Please take the time to read through the policy below. If you have any further questions about the terms of this policy and how your information is handled please email [contactimpulsetoday@gmail.com](mailto:contactimpulsetoday@gmail.com).
+Impulse Today takes the matter of privacy very seriously. Please take the time to read through the policy below. If you have any further questions about the terms of this policy and how your information is handled please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#67040809130604130e0a17120b1402130803061e27000a060e0b4904080a).
 
 The use of the Web Site(s) and/or software and any services and products (collectively, the “Web Site”) are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. If you do not agree to this Privacy Policy, please do not use the Web Site.
 
