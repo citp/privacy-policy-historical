@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the qbox.io privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426221247id_/https%3A//qbox.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qbox.io privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113224557id_/https%3A//qbox.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Introducing Supergiant, a fundamental change in hosted Elasticsearch. [Read more ▸](https://web.archive.org/supergiant-elasticsearch)
 
 This privacy policy (the “Privacy Policy”) governs your access and use of the Qbox Services. By using the Services, you agree to be bound by this Privacy Policy.  
 
