@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vision.org.au privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217211511id_/https%3A//vision.org.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision.org.au privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114001746id_/https%3A//vision.org.au/privacy-policy) for the most accurate reproduction.*
 
 # Vision Christian Media
 
 #### **Our commitment to you**
 
-_Vision Christian Media_ and _United Christian Broadcasters Australia Ltd_ respect your privacy. We are committed to compliance with all Australian privacy laws which apply to our ministry and which set out the standards for how we manage your personal information. This policy outlines our  ** _Personal Information Management_  **practices. Specifically:
+Here at _Vision Christian Media_  ( _United Christian Broadcasters Australia Ltd)_ respect your privacy. We are committed to compliance with all Australian privacy laws which apply to our ministry and which set out the standards for how we manage your personal information. This policy outlines our  ** _Personal Information Management_  **practices. Specifically:
 
   * the kinds of personal information we collect and hold;
   * how we collect and hold it;
@@ -116,7 +116,7 @@ PLEASE NOTE: In order to purchase goods online at  _[Vision Christian Store](ht
 
 If you’d like more information on Cookies we recommend you access these government sites...
 
-[Stay smart online all about cookies and your privacy; ](http://www.staysmartonline.gov.au/alert_service/alerts/all_about_cookies_and_your_privacy_sso_alert_priority_low)[Your online choices](http://www.youronlinechoices.com.au/)  [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/)
+[Stay smart online all about cookies and your privacy; ](https://www.staysmartonline.gov.au/protect-yourself/do-things-safely/browsing-web-safely)[Your online choices](http://www.youronlinechoices.com.au/)  [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/)
 
 [Privacy Commissioner Fact Sheet on online behavioural advertising](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-4-online-behavioural-advertising-know-your-options)  <https://www.oaic.gov.au/individuals/>
 
