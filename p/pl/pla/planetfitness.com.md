@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetfitness.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609072026id_/http%3A//planetfitness.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetfitness.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113175025id_/http%3A//www.planetfitness.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Planet Fitness
 
@@ -71,7 +71,7 @@ Planet Fitness Headquarters
 Attn: Privacy Officer   
 26 Fox Run Road   
 Newington, NH 03801   
-Email: [Privacy@PlanetFitness.com](mailto:Privacy@PlanetFitness.com)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a6a48534c5b59437a6a565b545f4e7c534e545f494914595557)
 
 ## Privacy Officer Contact Information 
 
