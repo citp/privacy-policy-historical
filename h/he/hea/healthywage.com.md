@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthywage.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222022835id_/https%3A//www.healthywage.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywage.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113045609id_/https%3A//www.healthywage.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
