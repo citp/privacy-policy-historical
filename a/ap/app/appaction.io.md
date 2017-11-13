@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appaction.io privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514113833id_/https%3A//www.appaction.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appaction.io privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113222542id_/http%3A//www.appaction.io/privacy) for the most accurate reproduction.*
 
 # AppAction — Privacy policy
 
@@ -8,7 +8,7 @@ This Privacy Policy governs the manner in which AppAction collects, uses, mainta
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to marketing emails, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, and credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-You are solely responsible for any public content in your user profile. You may review, amend or delete any and all information and content associated with your account by signing in to your account on the Site. You may also request the deactivation of your account by sending an e-mail to team@appaction.io.
+You are solely responsible for any public content in your user profile. You may review, amend or delete any and all information and content associated with your account by signing in to your account on the Site. You may also request the deactivation of your account by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Non-personal identification information
 
@@ -52,7 +52,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ## Notice to California and International Users
 
-California Civil Code Section 1798.83 permits users who are California residents and who have provided "personal information" (as that term is defined in Section 1798.83) to request certain information about the disclosure of that information to third parties for their direct marketing purposes. If you are a California resident with questions regarding this, or how AppAction reviews and processes any request from you to amend your personal information, please contact us as team@appaction.io.
+California Civil Code Section 1798.83 permits users who are California residents and who have provided "personal information" (as that term is defined in Section 1798.83) to request certain information about the disclosure of that information to third parties for their direct marketing purposes. If you are a California resident with questions regarding this, or how AppAction reviews and processes any request from you to amend your personal information, please contact us as [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 International Users should be aware that the United States and other countries have not harmonized their privacy regulations. Because the Site and its servers are located in the United States, AppAction has written its Privacy Policy to satisfy United States regulations. By using the Site you agree to the level of privacy protection set out in our Privacy Policy.
 
@@ -62,6 +62,6 @@ AppAction
 38 Dolores St  
 San Francisco, California 94103  
 United States  
-team@appaction.io 
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on December 3, 2015
