@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protect.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205073204id_/http%3A//protect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protect.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114002746id_/http%3A//protect.com/privacy.php) for the most accurate reproduction.*
 
 # Protect.com - Privacy Policy
 
@@ -32,7 +32,7 @@ The information and services provided by Protect.com , our affiliates, sponsors 
 
 ## Help Us Keep Your Personal Information Accurate
 
-If your personal information changes or you would like to review the personal information we may have on file, please e-mail us with the new information or your review request to info@thedmsgrp.com
+If your personal information changes or you would like to review the personal information we may have on file, please e-mail us with the new information or your review request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Cookies
 
@@ -46,10 +46,10 @@ Most web browsers allow you to exercise control over cookie files on your comput
 
 Our site provides users with the opportunity to opt-out of receiving communications from Protect.com and/or our marketing partners, at the point where we request information about the visitor. By selecting the unsubscribe option below to remove their information from our database to not receive future promotional communications.
 
-If you have any additional questions or would like further information on this topic, please e-mail us at info@thedmsgrp.com. To contact us in writing, submit information to 119 Rockland Center #69, Nanuet, NY 10954.
+If you have any additional questions or would like further information on this topic, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) To contact us in writing, submit information to 119 Rockland Center #69, Nanuet, NY 10954.
 
 Protect.com may update this policy from time to time so please check our Privacy Policy section on the website periodically for changes.
 
-[Unsubscribe Now By Clicking Here](https://web.archive.org/web/20160205073204id_/http%3A//protect.com/unsubscribe.php)
+[Unsubscribe Now By Clicking Here](https://web.archive.org/web/20171114002746id_/http%3A//protect.com/unsubscribe.php)
 
 Revision Date: April 30, 2015
