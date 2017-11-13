@@ -1,41 +1,97 @@
-> *The following text is extracted and transformed from the acculynx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153914id_/http%3A//www.acculynx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acculynx.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113152403id_/http%3A//acculynx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Purpose:
+This privacy policy (“Privacy Policy”) discloses what information AccuLynx (“AccuLynx,” “we” or “us”) gathers about you through our website and any services provided through our website (collectively, the “Website”) and when you use our applications and any services provided through our applications (collectively the “App”), however accessed, and discloses how that information is used. AccuLynx owns and operates the Website and App, and we use the information we receive from them as described below. We do not sell your personal information. 
 
-AccuLynx.com, the Provider, has established this Privacy Statement to demonstrate our commitment to your privacy and to advise you of our standard policies regarding company data and business. ALL VISITORS, USERS AND CUSTOMERS OF THIS WEBSITE AGREE TO COMPLY WITH THE TERMS AND POLICIES STATED HEREIN. ALSO, ALL VISITORS, USERS AND CUSTOMERS ACKNOWLEDGE THAT THEY UNDERSTAND THE POLICIES STATED HEREIN AND CONSENT TO SUCH POLICIES. FURTHER, ALL VISITORS, USERS AND CUSTOMERS WARRANT THAT ANY DATA RETRIEVED THROUGH THIS SITE WILL NOT BE USED FOR MARKETING PURPOSES WITHOUT THE EXPRESS CONSENT OF THE PROVIDER. We have created this statement particularly because we gather some information from our visitors, users and customers and we want to explain our use and dissemination practices. We further intend to explain the responsibilities of all customers, users and visitors of this website. The privacy of our visitors, users and customers is of the utmost importance to us. Although, we reserve the right to change this statement at any time, we will always provide notification of any change to this statement. Please be advised that we post this statement to aid in your understanding of our business. _By interacting with our Site, all visitors, users and customers consent to the terms of this agreement._
+###  _USING THE WEBSITE AND/OR APP AND SHARING YOUR INFORMATION WITH US, YOU CONSENT TO AND ACCEPT THE PRIVACY PRACTICES DESCRIBED IN THIS PRIVACY POLICY._
 
-### Collected Information:
+### ONLINE AND MOBILE INFORMATION PRACTICES
 
-The Provider may collect certain information from visitors and users (collectively herein “Users”) and customers of this website (hereon Site). All customers who register to use our collective services (herein Service) offered on our Site are required to provide contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of Users within the organization that will be using the Service. Additional personal information may be asked for upon the customer’s notice of interest or commencement of Service. Customers can opt out of providing this additional information by not entering it when asked.
+We are committed to protecting your personal privacy as you visit our Website and/or App. Accordingly, this Privacy Policy informs you how we collect and use your information on our Website and through our App. If we make material changes to this Privacy Policy, we will indicate that by changing the modification date below.
 
-The Provider may also collect information from Users and customers of the Site such as internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. With the intent of benefiting all that enter our Site, we may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to preferred parties.
+### INFORMATION WE MAY COLLECT
 
-The Provider uses the collected information to set up Service for individuals, organizations and businesses. We may also use the information to contact customers and discuss the quality of the Service that we provide. The Provider may use the collected information to contact customers to discuss a customer's additional interest in the company. The Provider may send information regarding our company or our partners, such as promotions and events to customers. Customers may elect to receive an email newsletter by providing an email address. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to support@accuLynx.com. Customers can opt out of receiving any communication from Provider by emailing a request to support@accuLynx.com at the time the first email is distributed, or at the time any customer registers for the Service.
+The information we collect varies depending on the type of activity you are performing on our Website or App and helps us personalize and continually improve your experience. Much of the Website and App can be accessed without providing any personal information. In all instances where we collect personal, financial, or other information through the Website and/or App, we specifically indicate that that information is being collected in order to provide you with the product or service you have requested.
 
-### Cookies:
+### ONLINE OR MOBILE ACCOUNT SERVICES
 
-We strive to make your experience using our Site constructive and easy. When you first visit our Site, our master server may send a “cookie” to your computer. Cookies are files that are placed on a computer's hard drive and are then used to tell us whether customers and visitors have visited the Site before.
+When you access our Website or App for products or services, we may need to collect personal, financial, and/or other information in order to complete your request. The information we collect varies depending upon the product or service you are using. Examples of information we may collect for our products or services include information such as your name, company name, address, employment and financial information, address, e-mail address, credit card number, client job information, etc.
 
-Cookies do not identify you personally. Unless you elect to identify yourself to the Provider, you will remain anonymous to the Provider. “Cookies” may disappear once an individual closes his/her browser or remain on a hard-drive after the computer has been shut off – depending on the file. Users who disallow their browser to accept cookies will be able to browse our Site but may not be able to successfully use our Service.
+### BROWSING
 
-### Third-Party Sites:
+When you visit our Website, we gather information including page requests (URL requests), time of your visit, your IP address, operating system, web browser software, and any cookies which were set during a previous visit to our site. IP address information is not distributed to third parties. We use this information to improve your overall experience. We use cookies to help with navigation through our web pages; they are not used to gather any personal information about users.
 
-The Site may contain links to other websites for which the Provider is not responsible and has no control. Customers and visitors are advised to read the privacy statements of all websites they visit. It is the responsibility of the User or customer to keep personal information private and confidential.
+### MOBILE LOCATION SERVICES
 
-### Security Policy & User Responsibilities:
+An App may utilize location services on your mobile device to collect and use location data, including the real-time geographic location of your device. If you consent to the App’s utilization of location services, we may use GPS, Bluetooth, your device’s unique identifier, and/or your IP Address, along with Wi-Fi and cell tower locations, and other technologies to determine your device’s geolocation. This location data is utilized to deliver services requested by you. We do not maintain a history of the location of a device, only where your device is at any given moment. We will collect geolocation data only if you consent, and we will notify you whether the location services will be always running or only when the App is in use. You may choose to disable location services through our App or your mobile enabled wi-fi devices, but if you do so, you will not receive any notifications or services that require a geolocation. Most mobile devices provide users with the ability to disable location services. These controls are generally located in the device’s settings menu. You can also contact your mobile service carrier or your device manufacturer for more information on disabling location services.
 
-All data and information on this Site and delivered through this Site is the sole property of the Provider. UNDER NO CONDITION DOES ANY USER OR CUSTOMER GAIN TITLE TO THE DATA AND INFORMATION PROVIDED THROUGH THIS SITE. NO CUSTOMER OR USER MAY TRANSFER, DISTRIBUTE, SUBLICENSE, SELL, DISSEMINATE OR MAKE AVAILABLE ANY OF THE DATA OR INFORMATION FROM THIS SITE WITHOUT THE EXPRESS CONSENT OF THE PROVIDER.
+### HOW WE USE YOUR INFORMATION
 
-Users and customers acknowledge that they may be monitored by the Provider when using this Site so that the Provider may protect company assets and information. The Provider may employ outside, third parties to assist in this process. Should the Provider become aware of misuse of the company’s Data or Service, the Provider may report the misuser to the proper government authorities and the Provider may exercise any and all of its rights. For the purposes of this Privacy Statement, “misuse” includes but is not limited to: 1) failing to comply with all laws and government regulations concerning the use and application of the Data and Service; 2) failing to comply with any terms or conditions stated in the agreement with Provider; or 3) using the Service in an unreasonable, inappropriate, offensive or unethical manner. By accessing the Site, all Users and customers consent to being monitored by the Provider while using the Site.
+The information you provide to us is primarily used to deliver requested products and/or services and help us improve our products and services. We also use that information to deliver you or contact you about the requested products/services or information. We may also use your personal information to provide important information about products or services that you have or are using, including security risks and updates. If you elect, we may send you a newsletter relating to our company, products, or services. Additionally, we may send you information about new products and services that may be of relevant interest to you. If you do not want to receive such marketing communications from us in the future, we will provide an Opt-out link or you can let us know by e-mailing or mailing us at the below respective addresses and telling us the name and addresses that you would like removed for those communications.
 
-Users and customers of the Site acknowledge and accept civil and/or criminal liability for any actions that violate the security of the Site and the intellectual property of the Provider, including but not limited to: (1) accessing data or Services not intended for such user or logging onto a server or account which user is not authorized to access; (2) attempting to probe, scan or test the vulnerability of the Provider’s system or network or to breach the Provider’s security measures; (3) attempting to interfere in any way with the Service of host, network or any other User or customer. For the purposes of this Privacy Statement, all Users and customers acknowledge that “interference” includes, but is not limited to: mail bombing, spamming, flooding, overloading or crashing the Site or submitting any programs or viruses to the Site. “Interference” also includes using any program to browse or interact with the Site that consequently disrupts the Site or Service. The Provider retains any cause-of-action that may arise due to the conduct of any User or customer toward the Site or Service and the Provider may pursue any and all legal actions and available remedies.
+### WHO WE SHARE YOUR INFORMATION WITH
 
-### No Warranty:
+We limit the release of information and we require privacy protections in our business relationships. We do not sell customer information. In addition, we may share your personal information when required by law, or with third parties that perform functions on our behalf.
 
-All information, data and additional Service provided through this Site is provided “as-is.” The Provider is not responsible for the accuracy, completeness, reliability, or usefulness of any information, material or other Service accessed through this site. The User of this Site assumes all responsibility and risk that may arise from using this Site and Service. The Provider does not make any warranties about this Site or Service.
+### COOKIES
 
-### How To Opt-Out, Correct Personal Information, Or Request Additional Information:
+A cookie is an element of data that a website can send to your browser, which is then stored on your system. A cookie is useful for having the browser remember specific information across several pages or between visits to a website. A cookie does not store personally identifiable information or any sensitive information. Also, our site does not read any information stored in cookies given to you from other websites, except in cases where the other website is a provider of information or functionality within our website and that cookie is necessary to make our website function correctly.
 
-We want our customers and Users to choose how their information may be used. If, at any time after registering for information or ordering the Service, you change your mind about receiving information from us, send us a request specifying your new choice. Simply send your request to support@accuLynx.com. Those customers and Users that wish to update their personal information may do so by contacting support@accuLynx.com. By keeping your information current, we will be able to extend future offers and services and we will be able to facilitate offers from preferred parties. Questions regarding this Statement or the practices of this Site should be directed to support@accuLynx.com or by regular mail addressed to AccuLynx.com, Attn: Product Support, 330 E. Main St. Suite. 400, Rockton, Illinois 61072.
+Our website makes use of cookies for the following purposes:
+
+  * Website administration and personalization
+  * Authentication
+  * Completing your request
+  * Analysis of page and website information that does not identify specific individuals
+
+
+
+You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Browsers may also be set up to display a warning when a cookie is used. You may even disable your browser from accepting cookies. In order to provide you with the best possible experience while visiting our website, please enable cookies within your browser. Some portions of our website may not function properly if cookies are disabled.
+
+### CROSS-CONTEXT AND CROSS-DEVICE COLLECTION, IDENTIFICATION, AND PERSONALIZATION
+
+We merge data collected from our Website and our Apps. That data could include cookie IDs, device advertising IDs and/or device IDs, transactions and browsing history, email address, and/or any other information you have entered on our Website or App. This combination of data helps us identify you, improve your experience, and create a more personalized setting. We may also link your various devices so that the content you see on one device is the same as that seen on another one of your devices.
+
+### GOOGLE ANALYTICS
+
+We use a tool called "Google Analytics" to collect information about use of this site across devices. We have implemented the Remarketing and AdWords features of Google Analytics. The Remarketing feature allows us to serve you relevant advertising on third party websites if you have visited our Website, however accessed, but does not personally or directly identify you. AdWords allows us to manage our advertising and collect information about your visit to our Website. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ad Settings](http://www.google.com/settings "Click here to view Ad Settings"). You can opt out of Google Analytics without affecting how you visit the Website. For more information on opting out of being tracked by Google Analytics, [visit this Google page](https://tools.google.com/dlpage/gaoptout "Click here to opt out of Google Analytics").
+
+### LEAVING OUR WEBSITE AND/OR LINKING TO THIRD PARTIES
+
+When you are logged into our Website or App, it is secure. Your browser URL will indicate if you are leaving a secured portion of the Website. We strive to ensure that any information you send us is safe. When you leave this Website and go to another linked site, we are not responsible for the content or availability of the linked site. Please be advised that we do not represent either the third party or you, if you enter into a transaction on the third party site. Further, the privacy and security policies of the linked site may differ from those practiced by us.
+
+### CONTROL OVER AND ACCESS TO YOUR INFORMATION
+
+We enable you to have control over the accuracy of your personal information. You can delete or change your personal information with us at any time by contacting us via a method described under "Contact Us" below.
+
+### DO NOT TRACK
+
+Third parties may collect information about you across different web sites, including our website. We do not currently utilize the capability to respond to web browser do not track signals or other mechanisms that provide you with the ability to exercise choice regarding the collection of this information.
+
+### SECURITY POLICY & USER RESPONSIBILITIES:
+
+Other than your personal information, all data and information on this Website and/or App and delivered through this Website and/or App is the sole property of the Provider. OTHER THAN YOUR PERSONAL INFORMATION, UNDER NO CONDITION DO YOU GAIN TITLE TO THE DATA AND INFORMATION PROVIDED THROUGH THIS WEBSITE AND/OR APP NOR MAY YOU TRANSFER, DISTRIBUTE, SUBLICENSE, SELL, DISSEMINATE OR MAKE AVAILABLE ANY OF THE DATA OR INFORMATION FROM THIS WEBSITE OR THE APP OTHER THAN THE PURPOSE IT WAS PROVIDED FOR WITHOUT THE EXPRESS CONSENT OF ACCULYNX.
+
+You acknowledge that they may be monitored by AccuLynx when using this Webite or App so that the Acculynx may protect company assets and information. AccuLynx may employ outside, third parties to assist in this process. Should AccuLynx become aware of misuse of the company’s Data, AccuLynx may report the misuser to the proper government authorities and AccuLynx may exercise any and all of its rights. For the purposes of this Privacy Policy, “misuse” includes but is not limited to: 1) failing to comply with all laws and government regulations concerning the use and application of the Data; 2) failing to comply with any terms or conditions stated in the agreement with AccuLynx; or 3) using the Website and/or App in an unreasonable, inappropriate, offensive or unethical manner. By accessing the Website and/or App, all Users you consent to being monitored by AccuLynx while using the Site.
+
+You acknowledge and accept civil and/or criminal liability for any actions that violate the security of the Website and/or App and the intellectual property of the AccuLynx, including but not limited to: (1) accessing data not intended for such user or logging onto a server or account which user is not authorized to access; (2) attempting to probe, scan or test the vulnerability of the AccuLynx’s system or network or to breach the AccuLynx’s security measures; (3) attempting to interfere in any way with the Website and/or App of host, network or any other User or customer. For the purposes of this Privacy Policy, all you acknowledge that “interference” includes, but is not limited to: mail bombing, spamming, flooding, overloading or crashing the Website and/or App or submitting any programs or viruses to the Website and/or App. “Interference” also includes using any program to browse or interact with the Website and/or App that consequently disrupts the Website and/or App. AccuLynx retains any cause-of-action that may arise due to the conduct of you toward the Website and/or App and AccuLynx may pursue any and all legal actions and available remedies.
+
+All information, data and additional provided through the Website and App is provided “as-is.” AccuLynx is not responsible for the accuracy, completeness, reliability, or usefulness of any information, material or accessed through AccuLynx. The User of this Site assumes all responsibility and risk that may arise from using the Website and/or App.
+
+### HOW TO OPT-OUT, CORRECT PERSONAL INFORMATION, OR REQUEST ADDITIONAL INFORMATION:
+
+We want our customers and Users to choose how their information may be used. We enable you to have control over the accuracy of your personal information. You can delete or change your personal information with us at any time. If, at any time after registering for information or ordering the service, you change your mind about receiving information from us, send us a request specifying your new choice. Simply send your request to support@accuLynx.com. Those customers and Users that wish to update their personal information may do so by contacting support@accuLynx.com. By keeping your information current, we will be able to extend future offers and services and we will be able to facilitate offers from preferred parties. Questions regarding this Statement or the practices of this Site should be directed to [support@accuLynx.com](mailto:support@acculynx.com?subject=Questions%20regarding%20this%20Statement%20or%20the%20practices%20of%20this%20Site) or by regular mail addressed to AccuLynx, Attn: Product Support, 525 3rd Street, Suite. 100, Beloit, Wisconsin 53511.
+
+**Support:**  
+**M-F 7am-6pm CST**  
+**support@acculynx.com**  
+**(608) 473-3800**
+
+**Sales:**  
+**M-F 7am-6pm CST**  
+**sales@acculynx.com**  
+**(866) 981-5969**
+
+  
+
