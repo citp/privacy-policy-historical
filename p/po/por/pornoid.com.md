@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornoid.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610025235id_/http%3A//www.pornoid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornoid.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113020816id_/http%3A//pornoid.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of Pornoid.com (the “Website”), including information you provide when using it.
 
