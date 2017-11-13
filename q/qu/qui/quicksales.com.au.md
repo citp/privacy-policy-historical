@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicksales.com.au privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615061525id_/http%3A//www.quicksales.com.au/public/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicksales.com.au privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113161333id_/http%3A//www.quicksales.com.au/public/privacy.htm) for the most accurate reproduction.*
 
 # quicksales Privacy Policy
 
