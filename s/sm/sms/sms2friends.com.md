@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sms2friends.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144629id_/http%3A//www.sms2friends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sms2friends.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113042203id_/http%3A//www.sms2friends.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - - sms2friends
 
