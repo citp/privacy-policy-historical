@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cutcabletoday.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121042212id_/http%3A//www.cutcabletoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutcabletoday.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113053324id_/http%3A//www.cutcabletoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CutCableToday
 
-If you’re visiting CutCableToday.com, know that I value your personal privacy. My privacy policy summarizes the types of information that’s collected on our site, as well as how it may be used.
+If you’re visiting CutCableToday.com, know that I value your personal privacy. My privacy policy summarizes the types of information that’s collected on our site, as well as how it may be used.
 
 ### **Log Files**
 
@@ -28,20 +28,18 @@ Cookies are used on cutcabletoday.com for storage of certain information about v
   * visited pages
   * browser
   * demographics info
-  * misc. info
+  * misc. info
 
 
 
 ### **Ad Partners**
 
-Please note that our ad partners and affiliates may make use of cookies and web beacons here too.
+Please note that our ad partners and affiliates may make use of cookies and web beacons here too.
 
 ### **Demographics**
 
-We recently began tracking demographic information, which again does not allow us to personally identify you. We track this through Google Analytics cookies. You can opt out if you wish through the following: Ads Settings, Ad Settings for mobile apps, or by going to Google Analytics’ [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/).
+We recently began tracking demographic information, which again does not allow us to personally identify you. We track this through Google Analytics cookies. You can opt out if you wish through the following: Ads Settings, Ad Settings for mobile apps, or by going to Google Analytics’ [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/).
 
 ### **Questions about the Privacy Policy or Getting Rid of Cable?**
 
-Have questions about the privacy policy? Perhaps something you don’t quite understand? Or maybe you just need assistance ditching cable once and for all? Fill out the form below and ask–I’ll get back with you ASAP!
-
-[](http://www.cutcabletoday.com/disclaimer-and-disclosure/)
+Have questions about the privacy policy? Perhaps something you don’t quite understand? Or maybe you just need assistance ditching cable once and for all? Email info at cutcabletoday.com and ask–We’ll get back with you ASAP!
