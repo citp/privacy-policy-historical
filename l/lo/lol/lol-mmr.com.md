@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lol-mmr.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609160501id_/http%3A//blog.lol-mmr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lol-mmr.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113164053id_/https%3A//blog.lol-mmr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LoL-MMR Blog
 
