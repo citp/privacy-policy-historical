@@ -1,62 +1,52 @@
-> *The following text is extracted and transformed from the xcamgirlblog.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515010913id_/http%3A//xcamgirlblog.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcamgirlblog.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113162606id_/http%3A//xcamgirlblog.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+## 1\. REVISIONS TO THIS POLICY
 
-  * This document details important information regarding the use and disclosure of User Data collected on xcamgirlblog.com
-  * The security of your Data is very important to xcamgirlblog.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
-  * This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the date remains unchanged after you have clicked the "refresh" button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed last modified datesindicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. 
 
+## 2\. PERSONAL INFORMATION THAT WE COLLECT
 
+Visitors to our sites and services will have multiple manners of interactivity with us. Depending upon your level of interaction, we will collect different information about you. The type of information collected is as follows: 
 
-**DATA COLLECTED**
-
-  * Personal Information: 
-
-
-  1. Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
-  2. Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
-  3. Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  4. Cookies: When you visit xcamgirlblog.com, we may send one or more cookies to your computer that uniquely identifies your browser session. xcamgirlblog.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  5. Log File Information: When you visit xcamgirlblog.com, our servers may automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  6. Emails: If you contact us, we may keep a record of that correspondence.
+  1. Members: Members are those users who subscribe to our services will be prompted to provide their name, their address, their age, their phone number, their e-mail address, and any other necessary billing information. 
+  2. Visitors: Visitors are visitors to the site who never enter into any active data collection pages. Any information gathered from Visitors is also gathered from Members. This information is restricted to cookies, IP addresses and referral URLs. 
 
 
 
-  
-**USES**
+## 3\. HOW WE COLLECT INFORMATION FROM YOU
 
-  * Your Personally identifiable information submitted to xcamgirlblog.com is used to provide to the user the website's features and special personalized features.
-  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the xcamgirlblog.com private mail, etc. Other Users can contact you through, private messages.
-  * Any videos that you submit to xcamgirlblog.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
-  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
-  * OPT-IN AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."
-  * OPT-OUT AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
-  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the xcamgirlblog.com user-experience.
+Active Collection – we collect information from you when you complete registration forms to sign up for your membership on our Site. Locations for such collection are on clearly marked registration pages. Such pages will ask for active entry of information, and such pages will not be disguised. We reserve the right to add additional information collection portals at any time, but will never create information collection portals that are not clearly disclosed to the user. 
 
+## 4\. HOW WE USE YOUR INFORMATION
 
+The primary use for your information is to provide you with services you have requested and/or paid for. We do not provide your information to any third parties, additionally, we do not use your information for statistical purposes. We do intend to and reserve the right to use any and all of your information in order to contact existing users and previous users. Such uses may include e-mails to prior customers inviting them to return to the site and to re-establish a business relationship with us. We will also use your information to e-mail customers for help with support issues, including anticipating support issues that existing customers or past customers my encounter. We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services. 
 
-  
-**DISCLOSURE OF INFORMATION**
+## 5\. SPECIAL CASES
 
-  * if under duty to do so xcamgirlblog.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of xcamgirlblog.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is xcamgirlblog.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-  * Should you deliberately upload any illegal material xcamgirlblog.com shall forward all available information to all relevant authorities and this without notice. 
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+It is our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Websites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: 
 
-
-
-  
-**SECURITY**
-
-  * Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
-  * Unfortunately, the transmission of information via the Internet is not completely secure. xcamgirlblog.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to xcamgirlblog.com and you do so at your own risk.
+  1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information; 
+  2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies; 
+  3. To operate our Services properly; 
+  4. To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders or, writs. 
+  5. We will always cooperate with law enforcement authorities seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
+  6. In the event of a civil suit, we will resist the production of any information required. Nevertheless, if we are ordered to provide such information by a judge, we will not appeal such a decision unless there is (in our sole discretion) a compelling reason to do so. Compelling reasons shall only include reasons that are reasonably calculated to benefit us. 
+  7. We will not provide any information to reporters or journalists, nor anyone else unless we are served with a lawful court order requiring us to provide such information to a third party. 
 
 
 
-**YOUR RIGHTS**
+## 6\. PUBLIC FORUMS, MEMBER DIRECTORIES
 
-  * You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
+Our site makes chat rooms, message boards, forums, and/or newsgroups available to its users. You will not be required to provide personal information in order to use these services, however, please remember that any information you may disclose in our Member Directory, or other public areas of our Website or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. We specifically disclaim any liability for use, misuse, or consequences of any information that you may voluntarily choose to post in any public areas. 
 
+Any information provided in a user profile, member directory, or other related service should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that you provide in any such forum or medium. 
 
+## 7\. OUR COMMITMENT TO DATA SECURITY
+
+We take measures, including data encryption, to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party 'hackers' from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures. 
+
+## 8\. WHERE TO DIRECT QUESTIONS ABOUT OUR PRIVACY POLICY
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us using Contact Form. 
