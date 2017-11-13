@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fl511.com privacy policy that was archived on 2017-01-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170125215039id_/https%3A//fl511.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fl511.com privacy policy that was archived on 2017-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171113161029id_/https%3A//fl511.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <link rel="shortcut icon" href="/Content/FL/images/favicon/favicon.ico">
@@ -26,22 +26,24 @@
     <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
 
         <meta name="description" content="Discover details on how 511 gathers and uses your information.">
+
     <title>
         Privacy Policy - 
         FL511
         
     </title>
-    <!--Current Minification doesn't support @import for custom font-->
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Varela%20Round|Open+Sans+Condensed:700">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700">
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="00000000000000000000000000000000" data-appversion="1.0.127288"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="00000000000000000000000000000000" data-appversion="1.0.132709"></script>
     <script src="/bundles/zoomOnRotateFix?v=EaPFoWVwdGMKloxTdoITK09rdfTL4l9Grq_69XFHUj01"></script>
 
+    <script src="/bundles/ifvisible?v=8cAmmkfzFpPmidvOrClhUvQabdBCFWOA_8gLko4neTs1"></script>
 
-    <link href="/bundles/css/site?v=y7bVoYcilAICNaDVBvjzzAR-sYM4rhW5zKYLgBEgurM1" type="text/css" rel="stylesheet">
+    <link href="/bundles/css/site?v=667WoFYIzYVtFoXEtMe1U5SldOURV2wYJ1hkI9iKHaQ1" type="text/css" rel="stylesheet">
 
     <link href="/bundles/fontawesome?v=QqiES8bMVFD1YGmU_C7h6nsgr358Xu-gbi4VJ0NwJNs1" type="text/css" rel="stylesheet">
 
+    
 
     <!-- Google Analytics -->
     <script>
@@ -100,7 +102,7 @@
                             <a href="/" target="_self">Home</a>
                         </li>
                         <li class="dropdown ">
-                            <a href="/" class="dropdown-toggle" title="Traffic Menu" target="_self" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
+                            <a href="/" class="dropdown-toggle" target="_self" title="Traffic Menu" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
                                 Traffic <span class="caret"></span>
                             </a>    <ul class="dropdown-menu" role="menu">
                 <li>
@@ -116,11 +118,14 @@
 
                         </li>
                         <li class="dropdown ">
-                            <a href="/" class="dropdown-toggle" title="My Florida 511 Menu" target="_self" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
+                            <a href="/" class="dropdown-toggle" target="_self" title="My Florida 511 Menu" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
                                 My Florida 511 <span class="caret"></span>
                             </a>    <ul class="dropdown-menu" role="menu">
                 <li>
                     <a href="/my511" target="_self" title="My Florida 511 - Manage Routes &amp; Alerts">Manage Routes &amp; Alerts</a>
+                </li>
+                <li>
+                    <a href="/my511/register" target="_self" title="My Florida 511 - Register">Register</a>
                 </li>
     </ul>
 
@@ -145,42 +150,44 @@
                 
                 <ul class="nav navbar-nav navbarTop-right">
                     <li class="dropdown">
-    <a id="currentRegionDropdownText" href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
+    <div id="region-list-label" class="hidden">Open list of regions</div>
+    <a id="currentRegionDropdownText" href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false" aria-controls="regionList" aria-labelledby="region-list-label">
         Statewide<span class="caret"></span>
     </a>
-    <ul class="dropdown-menu" role="menu" title="Location List">
-                <li>
-                    <a href="javascript:submitRegionInfo('Statewide', 'ALL' , ['28.52','-81.38','7'])">Statewide</a>
+    <ul class="dropdown-menu" role="menu" id="regionList" title="Location List" aria-labelledby="currentRegionDropdownText">
+                <li role="option">
+                    <a href="/region/Statewide" onclick="event.preventDefault(); submitRegionInfo('Statewide', 'ALL', ['28.52', '-81.38', '7']);">Statewide</a>
                 </li>
-                <li>
-                    <a href="javascript:submitRegionInfo('Central', 'CEN' , ['28.52','-81.38','8'])">Central</a>
+                <li role="option">
+                    <a href="/region/Central" onclick="event.preventDefault(); submitRegionInfo('Central', 'CEN', ['27.12', '-81.38', '8']);">Central</a>
                 </li>
-                <li>
-                    <a href="javascript:submitRegionInfo('Northeast', 'NE' , ['30.33','-81.67','8'])">Northeast</a>
+                <li role="option">
+                    <a href="/region/Northeast" onclick="event.preventDefault(); submitRegionInfo('Northeast', 'NE', ['28.5', '-81.67', '8']);">Northeast</a>
                 </li>
-                <li>
-                    <a href="javascript:submitRegionInfo('Panhandle', 'NW' , ['30.74','-85.46','8'])">Panhandle</a>
+                <li role="option">
+                    <a href="/region/Panhandle" onclick="event.preventDefault(); submitRegionInfo('Panhandle', 'NW', ['29', '-85.46', '8']);">Panhandle</a>
                 </li>
-                <li>
-                    <a href="javascript:submitRegionInfo('Southeast', 'SE' , ['25.75','-80.2','8'])">Southeast</a>
+                <li role="option">
+                    <a href="/region/Southeast" onclick="event.preventDefault(); submitRegionInfo('Southeast', 'SE', ['25.75', '-80.2', '8']);">Southeast</a>
                 </li>
-                <li>
-                    <a href="javascript:submitRegionInfo('Southwest', 'SW' , ['26.62','-81.68','8'])">Southwest</a>
+                <li role="option">
+                    <a href="/region/Southwest" onclick="event.preventDefault(); submitRegionInfo('Southwest', 'SW', ['26.62', '-81.68', '8']);">Southwest</a>
                 </li>
-                <li>
-                    <a href="javascript:submitRegionInfo('Tampa Bay', 'TB' , ['28.07','-82.46','8'])">Tampa Bay</a>
+                <li role="option">
+                    <a href="/region/Tampa Bay" onclick="event.preventDefault(); submitRegionInfo('Tampa Bay', 'TB', ['27.47', '-82.46', '9']);">Tampa Bay</a>
                 </li>
     </ul>
 </li>
                         <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
+        <div id="language-list-label" class="hidden">Open list of languages</div>
+        <a href="#" id="currentLanguageDropdownText" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false" aria-controls="languageDropdown" aria-labelledby="language-list-label">
             English<span class="caret"></span>
         </a>
-        <ul id="languageDropdown" class="dropdown-menu" role="menu">
-                <li>
+        <ul id="languageDropdown" class="dropdown-menu" role="menu" aria-labelledby="currentLanguageDropdownText">
+                <li role="option">
                     <a href="javascript:submitLanguageInfo('en')">English</a>
                 </li>
-                <li>
+                <li role="option">
                     <a href="javascript:submitLanguageInfo('es-US')">Español</a>
                 </li>
         </ul>
@@ -188,7 +195,7 @@
 
                     <li class="loginSection">    <ul class="nav navbar-nav">
         <li><a href="/my511/register" id="registerLink">Register<span class="hideForAccessibility"> for an account.</span></a></li>
-        <li><a href="#" role="button" data-toggle="modal" data-target="#loginModalDialog">Login</a></li>
+        <li><a href="#" id="login-button" role="button" data-toggle="modal" data-target="#loginModalDialog">Login</a></li>
     </ul>
 </li>
                 </ul>
@@ -196,24 +203,11 @@
         </div>
     </div>
 </nav>
- 
+
+
 <div class="row scrollRow">
     <a class="alertHeader" href="/List/Alerts"> <i class="fa fa-exclamation-triangle"></i>Alerts</a>
     <div id="alertWrapper">
-
-        <div class="socialSection">
-            <span class="hideForAccessibility">Connect with us on social media.</span>
-            <a href="/faq#phone" target="_self">
-                <span class="fa-lg"><i class="fa fa-phone"></i></span><span class="hideForAccessibility">Call 511</span>
-            </a>
-                <a href="/twitter" target="_self">
-                    <span class="fa-lg"><i class="fa fa-twitter"></i></span><span class="hideForAccessibility">Link to Twitter page</span>
-                </a>
-                            <a href="/App" target="_self">
-                    <span class="fa-lg"><i class="fa fa-arrow-circle-o-down"></i></span><span class="hideForAccessibility">Link to Free Apps page</span>
-                </a>
-
-        </div>
         <div id="alertsBox" class="scroller siteWideAlerts">
             <ul><li id="emptyAlertLi">&nbsp;</li></ul>
         </div>
@@ -228,6 +222,9 @@
     </a>
     <a href="/App" target="_self">
         <span class="Text">Free Apps</span> <span class="appsImg"></span><span class="hideForAccessibility">Link to Free Apps page</span>
+    </a>
+    <a href="/PersonalizedServices" target="_self">
+        <span class="Text">Text Alerts</span> <span class="textAlertsImg"></span><span class="hideForAccessibility">Link to Personalized Services</span>
     </a>
 </div>
 
@@ -244,7 +241,7 @@
             </div>
             <div class="modal-body">
                 <form id="loginFormmodal" class="form-horizontal">
-                    <input name="__RequestVerificationToken" type="hidden" value="ssLkBEDXSqd-S-HapQrIOJ2Ii2lJh9yJsDFM9q5kShPDVai0uMHkNzP5Vvf2dBLHg-JSJ0pjV2T7iTNet9rAJ-Je1T41">
+                    <input name="__RequestVerificationToken" type="hidden" value="ba4ubtwLpLlJD0aSi9wFyGxifJMlsHdTHJt3ayu0FeCRX3XZ47p7ldRfCECm0ISv3kNXiz083U--cwzUO9Uf8Ow-YiM1">
                     <div id="validationSummarymodal" hidden="hidden" class="alert alert-danger">
                         <ul><li></li></ul>
                     </div>
@@ -252,7 +249,7 @@
     <div class="form-group">
         <label class="col-md-12 control-label" for="Emailmodal">Email</label>
         <div class="col-md-12">
-            <input autocomplete="off" autofocus="autofocus" class="form-control" data-val="true" data-val-email="Please enter a valid email address." data-val-required="Email is required" id="Emailmodal" name="Email" title="Emailmodal" type="email" value="">
+            <input autocomplete="off" autofocus="autofocus" class="form-control" data-val="true" data-val-email="Please enter a valid email address." data-val-required="Email is required" id="Emailmodal" name="Email" title="Email" type="email" value="">
             <span class="field-validation-valid text-danger" data-valmsg-for="Email" data-valmsg-replace="true"></span>
         </div>
     </div>
@@ -274,6 +271,7 @@
     <div class="form-group">
         <div class="col-md-12">
             <input type="submit" id="logInButtonmodal" value="Log in" class="btn btn-info btn-default">
+            <input type="button" id="resendConfirmationEmailmodal" style="display: none;" class="btn btn-info btn-default" value="Resend Confirmation Email">
         </div>
     </div>
     <div class="form-group">
@@ -294,6 +292,7 @@
     </div>
 </div>
 
+
 <div class="row row-centered">
     <div class="col-sm-12 col-md-10 col-lg-8 col-centered staticContent">
             <h2>Privacy Policy</h2>
@@ -302,7 +301,9 @@
         
 
 <div id="Home_Privacy" data-atisparent="true">
-        <div id="virtual-3" data-atis="true"><div class="roundrect-body-inner">
+        <div id="virtual-3" data-atis="true" class=""><style type="text/css">.link { text-decoration: underline; }
+</style>
+<div class="roundrect-body-inner">
 <ul class="anchors">
 	<li><a href="#privacy">Internet Privacy Policy</a></li>
 	<li><a href="#disclaimer">Conditions/Disclaimer</a></li>
@@ -319,7 +320,7 @@
 
 <p>If you choose to share personal information with us - sending us a message or filling out an electronic form with personal information - we will use the information only for the purposes you authorized. Some of the information may be saved for a designated period of time to comply with Florida's archiving policies, but we will not disclose the information to third parties or other government agencies, unless required to do so by state or federal law. And if we are required to disclose information about you by law, we will make every effort to notify you of the disclosure in advance.</p>
 
-<p>If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to <a href="mailto: fl511@dot.state.fl.us">e-mail</a> us or you can reach us by telephone at 850-414-4590.</p>
+<p>If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to <a class="link" href="mailto: fl511@dot.state.fl.us">e-mail</a> us or you can reach us by telephone at 850-414-4590.</p>
 
 <p><strong>Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.</strong></p>
 <a name="disclaimer"></a>
@@ -347,7 +348,7 @@
 
         </div>
         <div class="row footer">
-    <div class="col-md-9">
+    <div class="col-md-10">
         
         
 
@@ -379,6 +380,9 @@
                         <ul class="subMenu">
                 <li>
                     <a href="/my511" target="_self" title="My Florida 511 - Manage Routes &amp; Alerts">Manage Routes &amp; Alerts</a>
+                </li>
+                <li>
+                    <a href="/my511/register" target="_self" title="My Florida 511 - Register">Register</a>
                 </li>
     </ul>
 
@@ -413,7 +417,7 @@
                     <a href="/privacy" target="_self" title="About - Privacy Policy">Privacy Policy</a>
                 </li>
                 <li>
-                    <a href="/contact" target="_self" title="About - Contact Us">Contact Us</a>
+                    <a href="/contact" target="_self" title="About - Submit Feedback">Submit Feedback</a>
                 </li>
     </ul>
 
@@ -426,21 +430,22 @@
     <div class="col-md-2 wazeText">
         Some data contributed by Waze
     </div>
-    <div class="col-md-1">
-        <div class="footerLogo"><a href="http://www.dot.state.fl.us/" target="_blank"><span class="hideForAccessibility">Link to FDOT in new window</span></a>
+    <div class="col-md-2">
+        <div class="footerLogo">
+            <a href="http://www.dot.state.fl.us/" target="_blank"><span class="hideForAccessibility">Link to FDOT in new window</span></a>
         </div>
     </div>
 </div>
 
     </div>
 
-    <script src="/bundles/jquery?v=GKY2NIybXXuWzJ16u99ahCUDODcf6wVRo8PZoA6h3kw1"></script>
+    <script src="/bundles/jquery?v=3s0g3oHBSd8GF5gMafo0MPEQMpmEak5DHOXgSOgSt7s1"></script>
 
-    <script src="/bundles/bootstrap?v=0bvnc7PawSgb39TJ_2BJtHWTyHNRUmXgdxHKNS3pnIg1"></script>
+    <script src="/bundles/bootstrap?v=a00DY4ZUS3uiw_uV5k94B8FAZWMrmKPNR9xZ3h7aNio1"></script>
 
     <script type="text/javascript" src="/signalr/hubs"></script>
 
-    <script src="/bundles/jqueryval?v=40pi8pVkIxKHq18qwHdSgi6Gybrpi9g-URAupZf2zh81"></script>
+    <script src="/bundles/jqueryval?v=zch5K1zREXU1mT8_2y2t-mr_qIWZu4dP9hRULINFo0c1"></script>
 <script src="/scripts/jsresources/loadBlocker"></script>
 <script src="/Scripts/loadBlocker.js"></script>
 <script src="/Scripts/isUserLoggedIn.js"></script>
@@ -459,7 +464,7 @@
                     dataType: 'json',
                     beforeSend: function (event, xhr, settings, thrownError) {
                         if (window.isUserLoggedIn(event.responseText)) {
-                            xhr.abort()
+                            xhr.abort();
                         }
                     }
                 }).done(function (data) {
@@ -467,6 +472,9 @@
                         loadBlockerApi.hideSpinner('loginForm');
                         $("#validationSummary" + loginType + " > ul > li").text(data.errors);
                         $("#validationSummary" + loginType).show();
+                        if(data.unconfirmed){
+                            $("#resendConfirmationEmail" + loginType).show();
+                        }
                     } else {
                         $("#validationSummary" + loginType).hide();
                         if (data.returnUrl) {
@@ -493,38 +501,63 @@
             $('#loginModalDialog').on('shown.bs.modal', function () {
                 $('#Email').focus();
             });
+
+            $('#resendConfirmationEmail' + loginType).on('click', function (e) {
+                //prevent default action.
+                e.preventDefault();
+                //our custom ajax error handler for confirmation emails.
+                var ajaxFailConfirmation = new AjaxFail(window.resources['SorryUnkownErrorConfirmationCouldNotBeResent'], bootbox.alert);
+
+                var username = $('#Email'+loginType).val();
+
+                //this should never happen but just in case.
+                if (username) {
+                    $.ajax('/My511/ResendUserConfirmationEmail/', { data: { username: username }, type: 'POST' }).done(function() {
+                        bootbox.alert('<i class="fa fa-check-circle"></i> The confirmation email has been re-sent to {0}.'.replace('{0}', username));
+                    }).fail(ajaxFailConfirmation.ajaxFailPossibleErrorMessageFromServer);
+                }
+
+                
+            });
         });
     </script>
 
-    <script type="text/javascript">
+    <script src="/scripts/jsresources/alerts"></script>
+<script type="text/javascript">
+    var currentFilteredRegion;
+
     function submitLanguageInfo(lang) {
-            $('#culture').val(lang);
-            $('#languageForm').submit();
-    } 
+        $('#culture').val(lang);
+        $('#languageForm').submit();
+    }
 
     function submitRegionInfo(regionName, regionCode, locationInfo) {
         if (typeof window.SetUserRegion === 'function') {
             window.SetUserRegion(locationInfo);
         }
-        // Used for static content filtering in regionContentFilter.js
-        $(document).trigger("regionChanged", regionCode);
+        currentFilteredRegion = regionCode;
+        var oldRegion = getCookie("_region");
+        if (oldRegion != regionCode) {
+            $.cookie('_region', regionCode, { expires: 365, path: '/' });
+            $("#currentRegionDropdownText").text(regionName);
+            $("#currentRegionDropdownText").append('<span class="caret">');
 
-        $.cookie('_region', regionCode, { expires: 365, path: '/' });
-        $("#currentRegionDropdownText").text(regionName);
-        $("#currentRegionDropdownText").append('<span class="caret">');
-
-        $.ajax('/Home/SetRegion', {
-            contentType: 'application/json',
-            data: JSON.stringify({ region: regionCode }),
-            type: 'POST'
-        });
+            $.ajax('/Home/SetRegion', {
+                contentType: 'application/json',
+                data: JSON.stringify({ region: regionCode }),
+                type: 'POST'
+            }).always(function () {
+                // Used for static content filtering in regionContentFilter.js
+                $(document).trigger("regionChanged", [regionCode, regionName, oldRegion]);
+            });
+        }
     }
-    
+
     //Fix for admin dropdown and date formating in spanish
     $(function () {
 
         var es_us__monthsShortDot = 'ene._feb._mar._abr._may._jun._jul._ago._sep._oct._nov._dic.'.split('_'),
-        es_us__monthsShort = 'ene_feb_mar_abr_may_jun_jul_ago_sep_oct_nov_dic'.split('_');
+            es_us__monthsShort = 'ene_feb_mar_abr_may_jun_jul_ago_sep_oct_nov_dic'.split('_');
 
         moment.defineLocale('es-US', {
             months: 'enero_febrero_marzo_abril_mayo_junio_julio_agosto_septiembre_octubre_noviembre_diciembre'.split('_'),
@@ -585,32 +618,35 @@
             ordinal: '%dº',
             week: {
                 dow: 1, // Monday is the first day of the week.
-                doy: 4  // The week that contains Jan 4th is the first week of the year.
+                doy: 4 // The week that contains Jan 4th is the first week of the year.
             }
         });
 
         var cookiecheck = $.cookie('_culture');
         var culture = (cookiecheck != null) ? cookiecheck.toLowerCase() : 'en';
-        if (culture === 'es') {
+        if (culture === 'es-us') {
             $(".admin.dropdown").addClass("spanish");
         } else {
             $(".admin.dropdown").removeClass("spanish");
         }
     });
-   
-    $(function() {
+
+    $(function () {
         reSizeLogo();
-        $(window).resize(function() {
-            reSizeLogo();
+        $(window).resize(function () {
+            clearTimeout(window.resizedFinished);
+            window.resizedFinished = setTimeout(function () {
+                reSizeLogo();
+            }, 250);
         });
     });
 
-    $(document).on("click", '#addCameraButton', function() {
+    $(document).on("click", '#addCameraButton', function () {
         window.AddMyCameraEvent();
     });
 
     function reSizeLogo() {
-        if(Modernizr){
+        if (Modernizr) {
             if (Modernizr.mq('(max-width: 1185px)')) {
                 $(".navBar").addClass("mobile");
             } else {
@@ -622,7 +658,7 @@
     }
 
     //display the popup on click. Get the content from the div
-    $(".emergencyPopupNotification").on("click", function(event) {
+    $(".emergencyPopupNotification").on("click", function (event) {
         var content = $(".emergencyPopupNotification").attr("data-alert");
         if (content) {
             bootbox.dialog({
@@ -641,9 +677,9 @@
         $(".footer .navbar-nav > li a.disabled").removeClass("disabled");
         var hasSubMenu = $(".footer .navbar-nav > li:has('ul')");
         if (hasSubMenu) {
-            hasSubMenu.on("click", function(evt) {
+            hasSubMenu.on("click", function (evt) {
                 var subMenuItems = $(".footer ul.subMenu > li");
-                subMenuItems.click(function() {
+                subMenuItems.click(function () {
                     $(subMenuItems, this).data("clicked", true);
                 });
                 // toggle footer menu, if submenu clicked then behave normal
@@ -658,7 +694,7 @@
                 }
             });
         }
-        $(window).on("orientationchange", function() {
+        $(window).on("orientationchange", function () {
             var isHidden = $(".footer .subMenu").is(":hidden");
             if (!isHidden) {
                 $(".footer .subMenu").hide();
@@ -676,21 +712,19 @@
         $(".socialSection a").first().attr("Href", "/faq#phone");
     }
 </script>
+
     
-    <script src="/bundles/regionContentFilter?v=D6tQzGFodGt_6ZrjZ3_QADxvEItAO3p6vgPFSh_B_481"></script>
-
-    <script src="/bundles/helpPopup?v=-l8ymxX_jVgbqzffNQ98nw_OyPBBrxYbnwAjNwgT7eg1"></script>
+    <script src="/Scripts/cms/accordion.js"></script>
 
 
 
-    <script src="/bundles/ajaxCms?v=TxF2YEekhJlcOA5gbctknQjQaEY00sp7tMcB3rMLeYY1"></script>
-<script src="/bundles/regionContentFilter?v=D6tQzGFodGt_6ZrjZ3_QADxvEItAO3p6vgPFSh_B_481"></script>
-<script src="/bundles/helpPopup?v=-l8ymxX_jVgbqzffNQ98nw_OyPBBrxYbnwAjNwgT7eg1"></script>
+    <script src="/bundles/ajaxCms?v=S2AIW3vfvvB9W0nL_o14j1pr_6qaiq-8uFy53T0KkvU1"></script>
+<script src="/bundles/regionContentFilter?v=b5T7DRzoLVbiUwsdxm_bjPPps_gntCu_mQ6mS9YLi6w1"></script>
+<script src="/bundles/helpPopup?v=9jd_MWorLWn1LirK6DZyZ22unJlvkZ8wTDDrnbH4tTw1"></script>
 
     <script type="text/javascript">
         //Creating a global variable which will indicate whether the page is being unloaded or not.
-        var globalVars = { isBeingUnloaded: false, tickerInterval: 8000 };
-
+        var globalVars = { isBeingUnloaded: false, tickerInterval: 8000, dateFormat: 'M/D/YYYY h:mm A' };
         //Attach the 'beforeunload' event handler on the window object.
         $(window).bind('beforeunload', function () {
             //Set the global variable to indicate that the page is being unloaded.
@@ -712,7 +746,7 @@
                 result = encodeURI(text);
             }
             return result;
-        }  
+        }
 
         //global ajax error handler.
         $(document).ajaxError(function (event, xhr, settings, thrownError) {
@@ -720,8 +754,7 @@
             if (globalVars.isBeingUnloaded || thrownError == 'timeout' || xhr.statusText === 'abort' || xhr.status === 0) {
                 return;
             }
-            if (console)
-            {
+            if (console) {
                 //sometimes these errors are swallowed and not seen on dev, make sure we show it
                 console.log(settings, thrownError);
             }
@@ -729,16 +762,23 @@
             if (!xhr.responseText) {
                 responseText = "no response";
             }
-            if (xhr.responseText && xhr.responseText.substring(0,15) != "<!DOCTYPE html>") responseText = xhr.responseText;
-            Bugsnag.notify("AjaxError", thrownError + " " + settings.url.split("?")[0], { ajaxData: { status: xhr.status, responseText: responseText, url: settings.url, type: settings.type, data: settings.data ? tryJsonParse(decodeURIComponent(settings.data)) : {} } });
+            if (xhr.responseText && xhr.responseText.substring(0, 15) != "<!DOCTYPE html>") responseText = xhr.responseText;
+            if (typeof Bugsnag !== "undefined") {
+                var dataPackage = settings.data ? tryJsonParse(decodeURIComponent(settings.data)) : {};
+                delete dataPackage["password"];
+                delete dataPackage["Password"];
+                Bugsnag.notify("AjaxError", thrownError + " " + settings.url.split("?")[0], { ajaxData: { status: xhr.status, responseText: responseText, url: settings.url, type: settings.type, data: dataPackage } });
+            }
         });
 
-        $(document).ready(function () {
-            Bugsnag.apiKey = '05e3cd79ad2b35bed6a6a933ed7f94a9';
-            Bugsnag.releaseStage = 'Prod';
-            Bugsnag.notifyReleaseStages = ["Staging", "Prod"];
+        $(document).ready(function() {
+            if (typeof Bugsnag !== "undefined") {
+                Bugsnag.apiKey = '05e3cd79ad2b35bed6a6a933ed7f94a9';
+                Bugsnag.releaseStage = 'Prod';
+                Bugsnag.notifyReleaseStages = ["Staging", "Prod"];
+            }
         });
-  
+
     </script>
 
 </body></html>
