@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineschools.org privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512211524id_/http%3A//www.onlineschools.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineschools.org privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113193843id_/http%3A//www.onlineschools.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnlineSchools.org
 
@@ -16,7 +16,7 @@ By utilizing OnlineSchools.org, you acknowledge and agree that automatic informa
 
 We also retain the right to release your personal information when required to do so by law. For example, we may do this to abide by a subpoena or other legal procedure, when we believe it is necessary to preserve our rights, to ensure the safety of you or others, to explore alleged fraud, to reply to a government or legal request, and/or in the instance that OnlineSchools.org is merging, acquisitioning, or selling some or all of its assets to a third party.
 
-By using this website, you acknowledge that we use cookies and consent to our use of cookies. Cookies are small pieces of data sent from a website and stored in the user’s web browser, including for technical purposes such as web analytics. Our web analytics are primarily performed using Google Analytics, a tool provided by Google, Inc. Advertising cookies do not contain personally identifiable information, but they do permit advertisers to make ads more relevant to the user’s interests. For more information about Google Analytics, check Google’s privacy policy at <http://www.google.com/intl/en/analytics/privacyoverview.html>.
+By using this website, you acknowledge that we use cookies and consent to our use of cookies. Cookies are small pieces of data sent from a website and stored in the user’s web browser, including for technical purposes such as web analytics. Our web analytics are primarily performed using Google Analytics, a tool provided by Google, Inc. Advertising cookies do not contain personally identifiable information, but they do permit advertisers to make ads more relevant to the user’s interests. For more information about Google Analytics, check Google’s privacy policy at <https://support.google.com/analytics/answer/6004245>.
 
 We, including activities through services and partnerships with vendors and third-party service providers, may use cookies for:
 
