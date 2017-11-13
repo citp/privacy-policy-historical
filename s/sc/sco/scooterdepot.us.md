@@ -1,96 +1,36 @@
-> *The following text is extracted and transformed from the scooterdepot.us privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429211250id_/http%3A//www.scooterdepot.us/Privacy-Policy-sp-9.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scooterdepot.us privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113175923id_/http%3A//ww43.scooterdepot.us/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy :: Sunny Sports Inc. ScooterDepot for Sale
+# Privacy Policy
 
-|  [](https://web.archive.org/dealer.html)  
----|---  
-|     
----|---  
-|  [](https://server.iad.liveperson.net/hc/79599383/?cmd=file&file=visitorWantsToChat&site=79599383&byhref=1&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1c)  
----  
-[](https://web.archive.org/How-Do-We-Ship-sp-20.html)  
-[](https://web.archive.org/Scooters-Information-Center-sp-15.html)  
-[](https://web.archive.org/Showroom-and-Will-Call-Center-sp-17.html)[](https://web.archive.org/web/20110429211250id_/http%3A//www.scooterdepot.us/maintenance.htm)  
-[](https://web.archive.org/Coupon-Area-sp-11.html)  
-[](https://web.archive.org/Student-Discount-sp-25.html)  
-[](https://web.archive.org/Military-and-Law-Enforcement-Discount-sp-18.html)  
-[](https://web.archive.org/Senior-Citizen-Discount-sp-24.html)  
-|    
----  
-[](https://web.archive.org/250cc-Custom-Bobber-Motorcycles-Street-Legal-Bikes-p-731.html)  
-Item: MC_D250RTB  
-[ 250cc Custom Bobber Motorcycles Street Legal Bikes ](https://web.archive.org/250cc-Custom-Bobber-Motorcycles-Street-Legal-Bikes-p-731.html)  
-~~List price: $7,899.00~~  
-Sale price: $1,999.00  
-[](https://web.archive.org/Trike-Gas-Motor-Scooters-150cc-3-Wheels-Moped-p-730.html)  
-Item: MC_D150TKA  
-[ Trike Gas Motor Scooters 150cc 3 Wheels Moped](https://web.archive.org/Trike-Gas-Motor-Scooters-150cc-3-Wheels-Moped-p-730.html)  
-~~List price: $5,899.00~~  
-Sale price: $1,999.00  
-[](https://web.archive.org/250cc-Chopper-Custom-Built-Motorcycles-p-719.html)  
-Item: CP_D250A  
-[ 250cc Chopper Custom Built Motorcycles](https://web.archive.org/250cc-Chopper-Custom-Built-Motorcycles-p-719.html)  
-~~List price: $4,399.00~~  
-Sale price: $1,999.00  
-[ ](https://web.archive.org/250cc-ninja-style-street-bikes-motorcycle-p-724.html)  
-Item: MC_D250RTA  
-[ 250cc ninja style street bikes motorcycle](https://web.archive.org/250cc-ninja-style-street-bikes-motorcycle-p-724.html)  
-~~List price: $3,899.00~~  
-Sale price: $1,729.00  
-[](https://web.archive.org/50cc-4-Stroke-New-Style-Gas-Moped-for-Sale-with-Trunk-p-652.html)  
-Item: CP_D250B  
-[ 250cc Chopper Custom Built Super Powerful Motorcycles](https://web.archive.org/250cc-Chopper-Custom-Built-Super-Powerful-Motorcycles-p-737.html)  
-~~List price: $4,899.00~~  
-Sale price: $2,099.00  
-[](https://web.archive.org/50cc-4-Stroke-New-Style-Gas-Moped-for-Sale-with-Trunk-p-652.html)  
-Item: MC_JM50  
-[ 50cc 4 Stroke New Style Gas Moped for Sale with Trunk](https://web.archive.org/50cc-4-Stroke-New-Style-Gas-Moped-for-Sale-with-Trunk-p-652.html)  
-~~List price: $2,799.00~~  
-Sale price: $599.00  
-[](https://web.archive.org/125cc-Two-Seats-Gas-Go-Kart-Dune-Buggy-p-684.html)  
-Item: GK_D125  
-[ 125cc Two Seats Gas Go Kart Dune Buggy](https://web.archive.org/125cc-Two-Seats-Gas-Go-Kart-Dune-Buggy-p-684.html)  
-~~List price: $2,399.00~~  
-Sale price: $899.00  
-[ ](https://web.archive.org/50cc-4-Stroke-Znen-Moped-Euro-Gas-Motor-Scooters-p-618.html)  
-Item: MC_ZN50A  
-[ 50cc 4 Stroke Znen Moped Euro Gas Motor Scooters](https://web.archive.org/50cc-4-Stroke-Znen-Moped-Euro-Gas-Motor-Scooters-p-618.html)  
-~~List price: $1,999.00~~  
-Sale price: $629.00  
-[](https://web.archive.org/250cc-Gas-Motor-Moped-Touring-Scooters-Deluxe-Style-p-736.html)  
-Item: MC_250D  
-[ 250cc Gas Motor Moped Touring Scooters Deluxe Style](https://web.archive.org/250cc-Gas-Motor-Moped-Touring-Scooters-Deluxe-Style-p-736.html)  
-~~List price: $5,899.00~~  
-Sale price: $1,929.00  
-[](https://web.archive.org/4-Stroke-150cc-Fully-Automatic-Gas-Go-Kart--p-725.html)  
-Item: GK_D150A  
-[ 4 Stroke 150cc Fully Automatic Gas Go Kart ](https://web.archive.org/4-Stroke-150cc-Fully-Automatic-Gas-Go-Kart--p-725.html)  
-~~List price: $1,999.00~~  
-Sale price: $1,299.00  
-[ ](https://web.archive.org/50cc-Moped-Sunny-Gas-Motor-Scooters-with-FREE-Trunk-and-Windshie-p-629.html)  
-Item: MC_JL8  
-[ 50cc Moped Sunny Gas Motor Scooters with FREE Trunk and Windshield](https://web.archive.org/50cc-Moped-Sunny-Gas-Motor-Scooters-with-FREE-Trunk-and-Windshie-p-629.html)   
-~~List price: $1,899.00~~  
-Sale price: $529.00  
-[](https://web.archive.org/300cc-Gas-Motor-Moped-Touring-Scooters-Deluxe-Moped-p-735.html)  
-Item: MC_300D  
-[ 300cc Gas Motor Moped Touring Scooters Deluxe Moped](https://web.archive.org/300cc-Gas-Motor-Moped-Touring-Scooters-Deluxe-Moped-p-735.html)  
-~~List price: $6,899.00~~  
-Sale price: $2,629.00  
-|   
----  
-  
-|   Privacy Policy  
----  
-  
-At scooterdepot.us your privacy is top priority.
+* **Overview**
 
-We're extremely proud of our commitment to protecting your privacy online. We value your trust in us and will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. scooterdepot.us will never sell, rent or share any of your personal information to any third parties under any circumstances. All Information you provided will be used only for the limited purposes of processing your orders, for statistical purpose to improve our site and services to you, to administer our site, and periodically, we may send you information about our new arrival products and services, or other products and services we feel may be of interest to you. 
+Thank you for visiting ww43.scooterdepot.us (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-While an order is placed, information including your name, e-mail address, contact information, shipping & billing address, credit card details, customer preference information as well as other similar personal information will be requested. This information is only being used for order processing purpose. The contact information may be used to contact the buyer or merchant banks if we are unable to process an order or credit card transaction successfully. 
+* **What Type of Information We Collect**
 
-We are committed to data security with respect to information collected on our site. Our industry standard online security order system SSL is here to ensure your information is protected both online and off-line; and ensure you a positive online shopping experience.   
-If you have any questions about our privacy policy, please feel free to contact our customer service department during our normal business hour at 1-888-839-7088 Monday through Friday from 9:00am to 5:00pm Pacific Standard Time.   
-  
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
+
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
+
+* **Uses May Include**
+
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
   
 
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
+
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
+
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
