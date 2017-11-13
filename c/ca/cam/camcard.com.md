@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camcard.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225001736id_/https%3A//www.camcard.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camcard.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113161451id_/https%3A//www.camcard.com/site/privacy) for the most accurate reproduction.*
 
 # CamCard | Professional Business Card Reader and Manager. Read Your Card, Mind Your Business.
 
