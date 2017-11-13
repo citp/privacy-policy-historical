@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbl-international.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514094211id_/http%3A//www.cbl-international.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbl-international.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113093355id_/http%3A//www.cbl-international.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
