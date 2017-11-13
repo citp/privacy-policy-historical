@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstonpublicmedia.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628183901id_/http%3A//www.houstonpublicmedia.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpublicmedia.org privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113220318id_/https%3A//www.houstonpublicmedia.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Houston Public Media
 
@@ -22,9 +22,9 @@ Houston Public Media is a non-profit organization, not a retailer. Houston Publi
 
 ### RETURNS AND DEFECTIVE ITEMS
 
- **Unopened items** returned within 45 days of the original shipment are eligible for a full donation refund less shipping.
+**Unopened items** returned within 45 days of the original shipment are eligible for a full donation refund less shipping.
 
- **Opened items** returned within 45 days of the original shipment will be replaced if defective.
+**Opened items** returned within 45 days of the original shipment will be replaced if defective.
 
 Items returned to Houston Public Media beyond 45 days from original shipment are not eligible for a donation refund.
 
