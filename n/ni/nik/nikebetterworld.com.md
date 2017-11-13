@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nikebetterworld.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621083257id_/http%3A//www.nike.com/us/en_us/c/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikebetterworld.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113020723id_/https%3A//www.nike.com/us/en_us/c/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Nike.com
 
 _Effective January 1, 2014_
 
-This NIKE Digital Privacy Policy (USA) ("Privacy Policy") describes how we collect and use your information through a variety of digital means. By accessing or using this website, mobile application or other NIKE product or service on any computer, mobile phone, tablet, console or other device (collectively, "Device"), you consent to our Privacy Policy. NIKE may modify this Privacy Policy at any time effective upon its posting. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](http://www.nike.com/us/en_us/c/help/terms-conditions).
+This NIKE Digital Privacy Policy (USA) ("Privacy Policy") describes how we collect and use your information through a variety of digital means. By accessing or using this website, mobile application or other NIKE product or service on any computer, mobile phone, tablet, console or other device (collectively, "Device"), you consent to our Privacy Policy. NIKE may modify this Privacy Policy at any time effective upon its posting. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](https://www.nike.com/us/en_us/c/help/terms-conditions).
 
 While this Privacy Policy is intended to generally describe our privacy practices, our goal is to also provide more detailed information at times when it's most meaningful to you. Please look for these notices within our NIKE services.  
 
@@ -121,6 +121,6 @@ Our digital operations are conducted, in whole or in part, in the United States.
 
 **TERMS OF USE**
 
-Your use of our products and services, and any disputes arising from them, is subject to this Privacy Policy as well as our [Terms of Use](http://www.nike.com/us/en_us/c/help/terms-conditions). Please visit our [Terms of Use](http://www.nike.com/us/en_us/c/help/terms-conditions), which explains other terms governing the use of our products and services.
+Your use of our products and services, and any disputes arising from them, is subject to this Privacy Policy as well as our [Terms of Use](https://www.nike.com/us/en_us/c/help/terms-conditions). Please visit our [Terms of Use](https://www.nike.com/us/en_us/c/help/terms-conditions), which explains other terms governing the use of our products and services.
 
 For questions or concerns, please contact Consumer Services/Privacy at: 1-800-806-6453 or NIKE Consumer Services/Privacy, One Bowerman Drive, Beaverton, OR 97005.
