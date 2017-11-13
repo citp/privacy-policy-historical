@@ -1,6 +1,171 @@
-> *The following text is extracted and transformed from the thelibertyman.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105115045id_/http%3A//www.thelibertyman.com/tlm-PrivacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelibertyman.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/tlm-PrivacyPolicy.shtml) for the most accurate reproduction.*
 
 # The Liberty Man Website Privacy Statement
+
+**  
+**
+
+[](https://kannaway.com/1224219)[](https://kannaway.com/1224219)
+
+**  
+**
+
+[](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/wwmd.shtml)
+
+**  
+** **  
+********[](http://roia.biz/ts/n/ums.vq1BAANarUMAABG5QgAAmvxmMQA-A/)**
+
+****  
+
+
+**NEW! Dome Structures at Low Prices - Must See!  
+[Click Here Now](http://thelibertyman.com/gear3.shtml)**
+
+****  
+****ThermTac Ghost Suit Products  
+[Click Here...](http://thelibertyman.com/gear.shtml#thermtac)** **  
+********  
+******___Smoking Gun_ Document**
+
+  * [Primary Document Image  
+](http://www.thelibertyman.com/images/Scanned%20Doc_TLM-2.jpg)
+  * [Memorandum of Explanation Image](http://www.thelibertyman.com/images/Scanned%20Doc_TLM-1.jpg)
+
+
+
+**NEW!   ****Two wells, barn, out buildings, ponds, cabins and three septic tanks.   T** **his 160 acres** is ready for you to build your dream home, or live in the beautiful 3 bedroom 2 1/2 bath manufactured home already here. **REDUCED: $485,400  
+[Click Here to Inquire](mailto:thelibertyman@aol.com?Subject=Zoe%20Property)  
+**  
+**UPDATED** :  **Own Your Own Valley: 35 acres For Sale Near Edwards, Missouri - $42,000   [Click Here](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/lake=property.shtml)**  
+****  
+********IMPORTANT : Geiger Counters and Potassium Iodide Tablets**** (Click Images below for more info)  
+****[](https://www.amazon.com/gp/product/B01C89OZPG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=thelibertyman-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89OZPG&linkId=d908e67f5858f53ce1cd5c4abdc7a7f0)******[****](https://www.amazon.com/gp/product/B00IN8TJYY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=thelibertyman-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IN8TJYY&linkId=e6559fcc7a22f3eb765a2569e52d7035)****[](https://www.amazon.com/gp/product/B00N0INFAG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=thelibertyman-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00N0INFAG&linkId=7f43d7493a86a63031e805802ef1b5ba)Confederate Battle and Christian Flags Now Available -  
+[Click Here](http://www.thelibertyman.com/gear.shtml#flags)  
+  **  
+**[Time for Feds to deregulate gun suppressors](http://thehill.com/blogs/pundits-blog/lawmaker-news/317856-time-for-the-feds-to-deregulate-gun-suppressors)** **[Amerigeddon:  The Movie](http://amerigeddonthemovie.com/)
+
+Important Article: 
+
+****The Art and Practice of OPSEC** [Click Here](https://survivalblog.com/the-art-and-practice-of-opsec-by-t-h/) **
+
+History Rhymes:  
+
+**  
+[**29 June, 2008** \- The John Moore Show](http://www.thelibertyman.com/downloads/Moore_1_062908_160000.mov)  
+...on the Royal Bank of Scotland's uncannily accurate forecast of the 2008 financial crash
+
+ **The Gulf-stream Has STOPPED!**
+
+  * [Radio Interview 1](http://www.thelibertyman.com/downloads/TheNutrimedicalReportAug192010Hour3.mp3)   
+
+  * [Radio Interview 2](http://www.thelibertyman.com/downloads/TheNutrimedicalReportAug262010Hour3.mp3)    
+
+
+
+
+  
+****Global Sea Level Rise:   **Coincidence or Foreshadow? **  
+
+
+  * [Image 1 Vatican From the Movie "Godfather"](http://thelibertyman.com/images/Vatican_Wall_Map.png)  
+
+
+
+  * [Image 2 Late 50's TV Show "Highway Patrol"](http://thelibertyman.com/images/HP-Map.jpg)
+  * [Superman & Lex Luthor (YouTube)](https://www.youtube.com/watch?v=kqD0pqDOAtk)
+  * [Image 3:  The Hunger Games](http://www.thelibertyman.com/images/HG+Coastlines.jpg)
+  * I[mage 4: From "A Beutiful Mind"](http://www.thelibertyman.com/images/a%20beutiful%20mind%20map%201.png)
+  * Superman Returns: Images [5](http://www.thelibertyman.com/images/poler%20shift%20map%201%20superman%20returns.png), [6](http://www.thelibertyman.com/images/poler%20shift%20map%202%20superman%20returns.png), [7](http://www.thelibertyman.com/images/poler%20shift%20map%203%20superman%20returns.png), and [8](http://www.thelibertyman.com/images/poler%20shift%20map%204%20superman%20returns.png)
+  * NCIS: Image [9](http://www.thelibertyman.com/images/NCIS_01.png), [10 - _updated_](http://www.thelibertyman.com/images/NCIS_02.png)  , and [10 _Map only_](http://www.thelibertyman.com/images/NCIS_02_map-only.png)
+  * Captain Midnight TV Series-1955: [Image 11](https://web.archive.org/images/US%20Coastline%20map%20-%20Captain%20Midnight%20%201955.jpg)
+  * Elysium, African Continent:  [Image 12](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/Elysium.png)
+  * Dancing with the Stars, Image [13](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/DWTS%20050117%20RT%204307_4337%20982x756.png)
+  * Poster inside Kemuri Tatsuya restaurant, 2713 E 2nd St., Austin Texas; Image [14](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/rest-poster.JPG)
+  * Tyler Perry's A Madea  
+Christmas; Image [15](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/Tyler%20Perry%27s%20A%20Madea%20Christmas%20-%20Image%205.jpg)
+  * The Miami Story, 1954; Image [16](http://www.thelibertyman.com/images/1954_map.jpg)
+  * Look Magazine, July, 1952; Image [17](http://www.thelibertyman.com/images/look7152-header790.jpg)
+  * Investigation Discovery Series broadcast on August 8, 2017; Image [18](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/Profilers1%20WS.JPG), [19](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/Profilers2%20MS.JPG) and [20](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/Profilers3%20CU.JPG)
+  * TV show Louisiana Flip N Move Broadcast August 19, 2017; Image [21](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/IMG_21.jpg)
+  * 2017 - Smithsonian Channel "Aerial America": Image [22](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/007.JPG)
+  * 1997 movie "Contact"; Images [23](https://web.archive.org/images/Contact_1997_Warner_Bros_a.png) and [24](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/Contact_1997_Warner_Bros_e.png)
+  * 1957 Movie: "The Night The Earth Exploded".  Images [25](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/IMG_1951.JPG) and [26](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/IMG_1952.JPG)
+  * 1957 "The 27th Day" Image [27](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/1986.png) and [28](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/images/IMG_1969.png)  
+
+
+
+
+[Chris Kyle; A Texas Goodbye](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/ChrisKyle.shtml)
+
+[Allowing Muslims into the USA is National Suicide](http://www.thelibertyman.com/downloads/MuslimImagrationDangers.pdf)
+
+[EPA’s Registered Antimicrobial Products](http://www.thelibertyman.com/downloads/EPA_Virus_killers.pdf)
+
+[Apollo 17 - Final Footprints On The Moon](http://youtu.be/f3q56o8PBWY?t=18m40s)
+
+Learning From HISTORY:  
+[Rodger's Rangers Standing Orders ](http://www.thelibertyman.com/rangers.shtml)  
+
+
+HEADS UP!  
+[Special Message from CSM Page (What to Watch For)](http://www.thelibertyman.com/csm_page.shtml)  
+
+
+[The Proven Dangers of Microwave Ovens](http://www.thelibertyman.com/microwave_ovens.shtml)  
+
+
+[Draft of new Constitution for the United States- _circa 2005_](http://www.thelibertyman.com/downloads/ConstitutionalModel.pdf)
+
+SPECIAL:  [Demand A Real Plan - Disarmament leads to Democide](https://www.youtube.com/watch?v=IDlbg1VoMZ0)[  
+](https://www.youtube.com/watch?feature=player_embedded&v=Yr2SHssCaWM)
+
+HUMOR: [Los Zetas' Marketing Memorandum](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/humor.shtml#LosZetas)
+
+ _TRACKING:_
+
+> >   * _[Gun Control Legislation (CRS)  
+>  ](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/downloads/Congressioal_Research_gun_control.pdf "Gun Control Legislation - Con Gressional
+                  Research Services, November, 2012")_
+>>   * _[Sponsors of the Assault Weapons Ban of 2013](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/downloads/Assault_weapons_ban_2013_sponsors.docx "Sponsors & Supporters of Legislation")_
+>>   * _[H.R. 142 Bans on-line Ammunition Sales  
+>  ](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/downloads/BILLS-113hr142ih.pdf "To require face to face purchases of
+                  ammunition, to require licensing of ammunition
+                  dealers, and to require reporting regarding bulk
+                  purchases of ammunition.")_
+>>   * _[SB 150 Assault Weapons Ban](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/downloads/Assault.pdf "To regulate assault weapons, to ensure that
+                  the right to keep and bear arms is not unlimited, and
+                  for other purposes.")_ _  
+> _
+>>   * _[SB 150 Assault  Weapons Ban Summary  
+>  ](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/downloads/S_150_Assault_weapons_ban_summary_DF.docx "The legislation bans the sale, transfer,
+                  manufacturing and importation of: All semiautomatic
+                  rifles that can accept a detachable magazine and have
+                  at least one military feature: pistol grip; forward
+                  grip; folding, telescoping, or detachable stock;
+                  grenade launcher or rocket launcher; barrel shroud; or
+                  threaded barrel.")_
+>>   * _[H.R. 226 Tax Credit for Surrender  
+>  ](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/downloads/113hr226ih_pdf.pdf "To amend the Internal Revenue Code of 1986
+                  to allow a credit against tax for surrendering to
+                  authorities certain assault weapons.")_
+>>   * __ __ ___[Remarks by the President and the Vice President on Gun Violence](https://web.archive.org/web/20171113190824id_/http%3A//www.thelibertyman.com/downloads/The_White_House.docx "Remarks by the President and the Vice
+                  President on Gun Violence")_  
+> 
+>> 
+
+
+#### Admin
+
+  * [Contact Form](http://www.thelibertyman.com/tlm-Contact.shtml)
+  * [Sign Up for Alerts](https://ruralsurvival.info/alerts_terms_of_use.shtml)  
+
+  * [Fair Use Notice](http://www.thelibertyman.com/tlm-FairUseNotice.shtml)
+  * [Privacy Statement](http://www.thelibertyman.com/tlm-PrivacyPolicy.shtml)
+  * [Terms of Use](http://www.thelibertyman.com/tlm-TermsOfUse.shtml)
+
+  
+
 
 ## Privacy Statement 
 
