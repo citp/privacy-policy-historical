@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendarymotorcycle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141954id_/http%3A//www.legendarymotorcycle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendarymotorcycle.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113185706id_/http%3A//legendarymotorcycle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ Webmaster Legendary Speed, Inc. 2600 L Street Bakersfield, CA 93301 contact us
 LEGENDARYFIND.COM WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE.  
 See: [Google Adsense](http://www.google.com/privacypolicy.html)
 
-See: [MochiMedia](http://www.mochimedia.com/privacy.html)
+See: [MochiMedia](https://www.mochimedia.com/privacy.html)
 
 See: [CPMStar](http://www.cpmstar.com/index.aspx?nav=privacy) and [Third Party](http://www.cpmstar.com/index.aspx?nav=thirdpartyprivacy)
 
@@ -56,4 +56,4 @@ See: [24/7 Real Media](http://www.247realmedia.com/EN-US/privacy-policy.html)
 
 See: [Hooked Media Group](http://www.hookedmediagroup.com/Corp/Privacy.aspx)
 
-See: [Unified Cookie Opt-Out System](http://www.networkadvertising.org/managing/opt_out.asp) which includes some of our advertisers.
+See: [Unified Cookie Opt-Out System](https://www.networkadvertising.org/managing/opt_out.asp) which includes some of our advertisers.
