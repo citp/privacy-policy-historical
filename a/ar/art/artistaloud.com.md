@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistaloud.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005259id_/http%3A//www.artistaloud.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistaloud.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113141446id_/http%3A//www.artistaloud.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Talent and Independent Content Platform | Upload Content | Talent Promotions @ ArtistAloud.com
 
