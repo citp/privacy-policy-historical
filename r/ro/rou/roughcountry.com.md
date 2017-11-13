@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roughcountry.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012229id_/http%3A//www.roughcountry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughcountry.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113034233id_/http%3A//www.roughcountry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rough Country Suspension Systems®
 
@@ -6,7 +6,7 @@
 
 Rough Country, LLC ("Rough Country", "we" or "us") respects your privacy and is committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website ROUGHCOUNTRY.COM (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information. 
+This policy describes the types of information we may collect from you or that you may provide when you visit the website ROUGHCOUNTRY.COM (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
   * This policy applies to information we collect:
     * On this Website.
@@ -14,12 +14,10 @@ This policy describes the types of information we may collect from you or that y
     * Through mobile and desktop applications you download from this Website, if any, which provide dedicated non-browser-based interaction between you and this Website.
     * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
   * It does not apply to information collected by:
-    * us offline or through any other means, including on any other website operated by Rough Country or any third party (including our affiliates, subsidiaries, and parents); or 
+    * us offline or through any other means, including on any other website operated by Rough Country or any third party (including our affiliates, subsidiaries, and parents); or
     * any third party (including our affiliates, subsidiaries, and parents), including through any application or content that may link to or be accessible from or on the Website.
 
 
-
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see the section below entitled Changes to Our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 This Website is offered and available to users who are 18 years of age or older and reside in the United States, any of its territories or possessions, or Canada. By using this Website, you represent and warrant that you are of legal age to form a binding contract with Rough Country and meet all of the foregoing eligibility requirements. If you do not meet all of the requirements, you must not access or use the Website. The owner of the Website is based in the United States. We provide this Website for use only by persons located in the United States and Canada. We make no claims that the Website or any of its content is accessible or appropriate outside of the United States and Canada. Access to the Website may not be legal by certain persons or in certain countries. If you access the Website from outside the United States or Canada, you do so on your own initiative and are responsible for compliance with local laws.
 
@@ -70,6 +68,10 @@ We do not control these third parties’ tracking technologies or how they may b
 
 ## How We Use Your Information
 
+Some content or applications, including advertisements, if any, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services . They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information.
+
   * We use information that we collect about you or that you provide to us, including any personal information:
     * To present our Website and its contents to you.
     * To provide you with information, products or services that you request from us.
@@ -85,10 +87,7 @@ We do not control these third parties’ tracking technologies or how they may b
 
 ## Disclosure of Your Information
 
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
-
-  
-
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
   * We may disclose personal information that we collect or you provide as described in this privacy policy:
     * To our affiliates, subsidiaries, and parents.
