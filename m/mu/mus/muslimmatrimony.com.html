@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the muslimmatrimony.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606053414id_/https%3A//www.muslimmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the muslimmatrimony.com privacy policy that was archived on 2017-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171113153250id_/https%3A//www.muslimmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Muslim Matrimony, Matrimony, Indian Matrimony</title>
@@ -10,12 +10,12 @@
 	<meta name="Author" content="Matrimony, Matrimony, Indian Matrimony">
 	<meta name="copyright" content="Copyright © 2017 Communitymatrimony Pvt Ltd.<br>All rights reserved.">
 	<meta name="Distribution" content="Matrimony, Matrimony, Indian Matrimony">
-	<link rel="stylesheet" href="https://imgs.muslimmatrimony.com/cbsstyles/main-style.css?id=96">
+	<link rel="stylesheet" href="https://imgs.muslimmatrimony.com/cbsstyles/main-style.css?id=251020171600">
 	<link rel="stylesheet" href="https://imgs.muslimmatrimony.com/cbsstyles/form-layout.css?id=22">
 	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0019/0857.js?439015" async="" type="text/javascript"></script><script type="text/javascript" async="" id="__ss" src="//gsecondscreen.matrimonycdn.com/static/ssclient.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M3BLR5N"></script><script type="text/javascript" src="https://imgs.muslimmatrimony.com/cbsscripts/jquery.js?id=16"></script>
 	<script language="javascript" src="https://imgs.muslimmatrimony.com/cbsscripts/popreg.js?id=12"></script>
 	<script language="javascript" type="text/javascript" src="https://imgs.muslimmatrimony.com/cbsscripts/popup.js?id=25"></script>
-	<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=45118402"></script></head>
+	</head>
 
 <body>
 
@@ -244,14 +244,70 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			$('#MatriIdSearch').submit();
 		}
 	});
-	
+	/*Notify open close*/
+	$(function () {
+    $("#note-header-icon-bell").on("click", function () {
+	$("#cometchat_trayicon_dashboard_popup1").removeClass("hidenotificationdiv");
+    });
+    $(document).on("click", function (e) {
+        if (e.target.id != "note-header-icon-bell" && !$(e.target).closest("#cometchat_trayicon_dashboard_popup1").length) {
+            $("#cometchat_trayicon_dashboard_popup1").addClass("hidenotificationdiv");
+        }
+    });
+});
+	/*Notify open close*/
+	  
 </script>
-<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
-<style>
-#userpop {
-    /*display: block !important;*/
+<!--Pending EI listing starts -->
+<script>
+var sessionId = '';
+var memcacheCount='0';
+var OnOffFlag='1';
+var jkey= 'eiPending_'+sessionId;
+var eipending = jStorage.get(jkey);
+res=jQuery.parseJSON(eipending);
+
+var zeroei = jStorage.get('zeroei_'+sessionId,1);
+if(memcacheCount>0 && OnOffFlag==1){
+	if(eipending==null && zeroei==1){
+		console.log("now setting");
+		pendingEiFromMemcache();
+	}else{	
+		/*if(memcacheCount!=res['PROFILEDETAILS'].length){
+			console.log("now setting");
+			pendingEiFromMemcache();
+		}else{
+			console.log("existing");
+		}*/
+	}
 }
-</style><div style="width:960px; float:none;margin:0 auto;padding-top:20px;text-align:left;">	
+function pendingEiFromMemcache(){
+	console.log("JstorageSet");	
+	var cbsApiData = {};
+	cbsApiData['OppMatriIds'] = '[]';
+	cbsApiData['CommumityId'] = '2503';
+	cbsApiData['OppGender'] = '1';	
+	//console.log(jQuery.parseJSON(Array));
+	$.ajax({
+		  type: 'POST',
+		  url: "https://www.muslimmatrimony.com/template/eipendingresponse.php",
+		  data: cbsApiData,		 
+		  success: function(result) {
+				console.log("JstorageKsy");
+				console.log(jkey);
+			    console.log("Result");
+				console.log(result);				
+				jStorage.set(jkey,result);
+				
+				
+		  }
+	});
+
+}
+</script>
+<!--Pending EI listing ends -->
+<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+<div style="width:960px; float:none;margin:0 auto;padding-top:20px;text-align:left;">	
 
 	<!-- Left pannel Start Here-->
 <div style="width:666px;" class="fleft">
@@ -362,9 +418,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
    
    
-        <script>//alert("Helllooo");//alert("privacypolicy");//alert("/site/index.php?act=privacypolicy");</script><!-- <div class="wrapper-max padt15"><a href="/cbsapptrackpage.php?trackid=004500001298&redirecturlid=0" target="_blank" alt="Download Mobile App" title="Download Mobile App"><IMG SRC="https://imgs.muslimmatrimony.com/cbsimages/footer-app-promo-moto.gif" WIDTH="1000" HEIGHT="115" BORDER="0" ALT=""></a></div> -->
+        <script>
+	var pageTitle	=	"Muslim Matrimony, Matrimony, Indian Matrimony";
+</script>
+<!-- <div class="wrapper-max padt15"><a href="/cbsapptrackpage.php?trackid=004500001298&redirecturlid=0" target="_blank" alt="Download Mobile App" title="Download Mobile App"><IMG SRC="https://imgs.muslimmatrimony.com/cbsimages/footer-app-promo-moto.gif" WIDTH="1000" HEIGHT="115" BORDER="0" ALT=""></a></div> -->
 
-<div class="clear padt15"><!-- --></div>
+<div class="clear padt15 no_padapppromo"><!-- --></div>
 <!-- Footer -->
 <footer>
 	<div class="footer">
@@ -677,7 +736,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 																												<option value="852">Hong Kong</option>
 																												<option value="36">Hungary</option>
 																												<option value="354">Iceland</option>
-																												<option selected="" value="91">India</option>
+																												<option value="91">India</option>
 																												<option value="62">Indonesia</option>
 																												<option value="98">Iran</option>
 																												<option value="964">Iraq</option>
@@ -740,7 +799,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 																												<option value="">Norfolk Island</option>
 																												<option value="1670">Northern Mariana Islands</option>
 																												<option value="47">Norway</option>
-																												<option value="968">Oman</option>
+																												<option selected="" value="968">Oman</option>
 																												<option value="92">Pakistan</option>
 																												<option value="680">Palau</option>
 																												<option value="507">Panama</option>
@@ -818,7 +877,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 																												<option value="263">Zimbabwe</option>
 																												<option value="243">DR Congo</option>
 																										</select>
-																				<div style="display:inline-block;vertical-align:top" class="padl10"><input type="text" name="PRIV_PHONE" id="PRIV_PHONE" size="9" onblur="if (this.value == '') { this.value = 'Mobile No.'; }" onfocus="if (this.value == 'Mobile No.') { this.value = ''; }" onclick="if(this.value != 'Mobile No.') { $('#PRIV_PHONE_ERROR').html(''); }" value="8668840491" style="padding:0 10px;background:#fff; color:#000; border:none;width:155px; height:35px;"><div id="PRIV_PHONE_ERROR" name="PRIV_PHONE_ERROR" class="errortxt" style="width:155px; color:#ffe400;"></div>
+																				<div style="display:inline-block;vertical-align:top" class="padl10"><input type="text" name="PRIV_PHONE" id="PRIV_PHONE" size="9" onblur="if (this.value == '') { this.value = 'Mobile No.'; }" onfocus="if (this.value == 'Mobile No.') { this.value = ''; }" onclick="if(this.value != 'Mobile No.') { $('#PRIV_PHONE_ERROR').html(''); }" value="92880950" style="padding:0 10px;background:#fff; color:#000; border:none;width:155px; height:35px;"><div id="PRIV_PHONE_ERROR" name="PRIV_PHONE_ERROR" class="errortxt" style="width:155px; color:#ffe400;"></div>
 								</div>
 								<div style="display:inline-block;vertical-align:top" class="padl10"><img id="assitedsubmit" src="https://imgs.muslimmatrimony.com/cbsimages/assisted-popup-button.gif" width="98" height="37" class="cursor" onclick="GA_Event_Track('Assisted_banner_Popup','Assisted_banner_Popup_Submit','Click');"></div><div class="clear"><input type="hidden" id="matriidhid" value=""></div>
 							
@@ -1054,17 +1113,13 @@ $('#elitetrackidmyhomesubmit,#elitetrackidpopupsubmit,#elitetrackideditprofsubmi
 			});
 		});
 	</script>
-<!-- BEGIN LivePerson Monitor. -->
-			<script type="text/javascript">window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'45118402'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;}</script>
-<!-- END LivePerson Monitor. -->
-
 <!--SEM Tracking Code-->
 	<iframe style="visibility:hidden;" src="https://www.muslimmatrimony.com/template/activity_tracker.php?requestURI=/site/index.php&amp;act=privacypolicy" width="1" height="1">
 	</iframe>
 
-	<iframe src="https://www.muslimmatrimony.com/googlecamp/seo/seoorganictrack.php?ref=http%3A%2F%2Fwww.muslimmatrimony.com%2Fsite%2Findex.php%3Fact%3Dprivacypolicy&amp;ip=207.241.231.45&amp;page=/site/index.php/privacypolicy.php&amp;matriid=" width="0" height="0" frameborder="0"></iframe>	
+	<iframe src="https://www.muslimmatrimony.com/googlecamp/seo/seoorganictrack.php?ref=http%3A%2F%2Fwww.muslimmatrimony.com%2Fsite%2Findex.php%3Fact%3Dprivacypolicy&amp;ip=207.241.229.225&amp;page=/site/index.php/privacypolicy.php&amp;matriid=" width="0" height="0" frameborder="0"></iframe>	
 	
-	<iframe src="https://www.muslimmatrimony.com/campaignsem/seo/seoorganictrack.php?ref=http%3A%2F%2Fwww.muslimmatrimony.com%2Fsite%2Findex.php%3Fact%3Dprivacypolicy&amp;ip=207.241.231.45&amp;page=/site/index.php/privacypolicy.php&amp;matriid=" width="0" height="0" frameborder="0"></iframe>
+	<iframe src="https://www.muslimmatrimony.com/campaignsem/seo/seoorganictrack.php?ref=http%3A%2F%2Fwww.muslimmatrimony.com%2Fsite%2Findex.php%3Fact%3Dprivacypolicy&amp;ip=207.241.229.225&amp;page=/site/index.php/privacypolicy.php&amp;matriid=" width="0" height="0" frameborder="0"></iframe>
 
 
 <!--SEM Tracking Code End--><script language="javascript" src="https://imgs.muslimmatrimony.com/cbsscripts/google-event-track.js"></script>
