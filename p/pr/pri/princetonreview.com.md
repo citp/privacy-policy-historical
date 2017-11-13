@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029235740id_/http%3A//www.princetonreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113121524id_/https%3A//www.princetonreview.com/privacy) for the most accurate reproduction.*
 
 # The Princeton Review Privacy Policy | The Princeton Review
 
 ### The Princeton Review Privacy Policy
 
-This Privacy Policy governs your use of this web site, located at [ www.princetonreview.com ](http://www.princetonreview.com/), and all associated sites linked to www1.princetonreview.com controlled or hosted by us, or one of our subsidiaries and affiliates (collectively the “Site”), which is made available by TPR Education IP Holdings, LLC. (“The Princeton Review” or “we” or “us”), including without limitation [ www.tutor.com ](http://www.tutor.com/). The Privacy Policy also applies to all mobile applications controlled or operated by us.
+This Privacy Policy governs your use of this web site, located at [ www.princetonreview.com](https://www.princetonreview.com/), and all associated sites linked to www1.princetonreview.com controlled or hosted by us, or one of our subsidiaries and affiliates (collectively the “Site”), which is made available by TPR Education IP Holdings, LLC. (“The Princeton Review” or “we” or “us”), including without limitation [ www.tutor.com](http://www.tutor.com/). The Privacy Policy also applies to all mobile applications controlled or operated by us.
 
 This Privacy Policy outlines the type of Personal Information and other information that is collected through the Site and how that information is used and protected.
 
@@ -33,13 +33,13 @@ For any user under the age of 13, we must have permission from such user’s par
 
 ### Right to Opt In and Opt Out
 
-You have the right to “opt-in” and “opt-out” of certain of our uses of your Personal Information. For example, you may elect not to receive correspondence from us or have your Personal Information shared with other entities for their marketing purposes. You may make this request by visiting "Account Settings" and indicating which correspondence you would like to receive. If you do not want to receive any promotional correspondence, simply uncheck all of the boxes of the [Account Settings ](https://secure.princetonreview.com/account/logininfo).
+You have the right to “opt-in” and “opt-out” of certain of our uses of your Personal Information. For example, you may elect not to receive correspondence from us or have your Personal Information shared with other entities for their marketing purposes. You may make this request by visiting "Account Settings" and indicating which correspondence you would like to receive. If you do not want to receive any promotional correspondence, simply uncheck all of the boxes of the [Account Settings](https://secure.princetonreview.com/account/logininfo).
 
-You can also send an e-mail to [ prep@review.com ](mailto:prep@review.com). In this e-mail, please say whether: (i) you would like to opt-out of receiving all e-mail promotional correspondence from The Princeton Review in general or (ii) if you would only like to opt-out of certain of The Princeton Review's e-newsletters or correspondence and if so which ones or (iii) you would like to opt-out of having your Personal Information shared with third parties or (iv) you would like to opt-out of receiving SMS or text messages. You may also opt-out of The Princeton Review's promotional e-mails by clicking on an opt-out link within the e-mail you receive.
+You can also send an e-mail to [ prep@review.com](mailto:prep@review.com). In this e-mail, please say whether: (i) you would like to opt-out of receiving all e-mail promotional correspondence from The Princeton Review in general or (ii) if you would only like to opt-out of certain of The Princeton Review's e-newsletters or correspondence and if so which ones or (iii) you would like to opt-out of having your Personal Information shared with third parties or (iv) you would like to opt-out of receiving SMS or text messages. You may also opt-out of The Princeton Review's promotional e-mails by clicking on an opt-out link within the e-mail you receive.
 
 Please understand that if you opt-out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.
 
-We may allow third-parties, including other companies owned by our parent company IAC/InterActiveCorp, advertising companies and ad networks, to display advertisements on our Site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. These third parties may collect information about whether you, or others who are using your computer, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice ( [ www.networkadvertising.org ](http://www.networkadvertising.org/)). You may opt out of our collection of data for use by third party ad companies to provide targeted advertising to you of our products as you visit other sites. Cookies are unique to each computer. Therefore, you must opt out separately on all computers you use. If you delete all of your cookies (specifically, the “Out-Out” cookie), you will have to go through the opt-out process again to reactivate your opted-out status.
+We may allow third-parties, including other companies owned by our affiliated companies, advertising companies and ad networks, to display advertisements on our Site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. These third parties may collect information about whether you, or others who are using your computer, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice ( [ www.networkadvertising.org](http://www.networkadvertising.org/)). You may opt out of our collection of data for use by third party ad companies to provide targeted advertising to you of our products as you visit other sites. Cookies are unique to each computer. Therefore, you must opt out separately on all computers you use. If you delete all of your cookies (specifically, the “Out-Out” cookie), you will have to go through the opt-out process again to reactivate your opted-out status.
 
 ### Information Collected on this Web Site
 
@@ -69,7 +69,7 @@ We may use your Personal Information to
   * enforce our terms and conditions,
   * provide our advertisements to you when you visit other sites,
   * perform functions as otherwise described to you at the time of collection, and
-  * register you with and display your profile on other education sites owned by our parent company, IAC/InterActiveCorp.
+  * register you with and display your profile on other education sites owned by our affiliated companies.
 
 
 
@@ -85,7 +85,7 @@ We may share your Personal Information with vendors and other third parties who 
 
 #### Aggregated and non-Personal Information.
 
-We may share non-Personal Information we collect under any of the above circumstances. We may also share it with other IAC companies and third parties to develop and deliver targeted advertising on our websites and on websites of third parties, and to analyze and report on advertising you see. We may combine Site usage information we collect with other non-Personal Information we obtain from other sources. We also may share aggregated, non-Personal Information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis.
+We may share non-Personal Information we collect under any of the above circumstances. We may also share it with other affiliated companies and third parties to develop and deliver targeted advertising on our websites and on websites of third parties, and to analyze and report on advertising you see. We may combine Site usage information we collect with other non-Personal Information we obtain from other sources. We also may share aggregated, non-Personal Information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis.
 
 #### Your Access Rights
 
@@ -107,7 +107,7 @@ In the event that The Princeton Review or all or a portion of its business, or o
 
 When you contribute to a public area or feature of our Site, such as a chat room, bulletin board, list serve, blog, wiki or other open forum, the information that you submit will be made available to the general public. Therefore, we recommend that you do not submit any sensitive information to such areas of our Site, including your full name, home address, phone number, financial information or any other information that would enable other users to locate you or contact you.
 
-Users should also take care with how they handle and disclose their Personal Information and should avoid sending Personal Information through insecure email, SMS messaging or similar communications. Please refer to the Federal Trade Commission's website at [http://www.ftc.gov/bcp/menus/consumer/data.shtm ](http://www.ftc.gov/bcp/menus/consumer/data.shtm) for information about how to protect yourself against identity theft.
+Users should also take care with how they handle and disclose their Personal Information and should avoid sending Personal Information through insecure email, SMS messaging or similar communications. Please refer to the Federal Trade Commission's website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
 
 ### Changes to this Privacy Policy
 
@@ -115,14 +115,14 @@ We will occasionally update this Privacy Policy. When we post changes to this Pr
 
 ### Contact Us
 
-If you have any questions or comments regarding our privacy practices, you may use our feedback form or at the following address:
+If you have any questions or comments regarding our privacy practices, you may use our feedback form or contact us at the following address:
 
 TPR Education, LLC d/b/a The Princeton Review   
-24 Prime Parkway, Suite 201   
-Natick, MA 01760
+110 E42nd Street, 7th Floor,   
+New York, NY 10017
 
 ### Addendum for Users Outside of the United States and Canada:
 
-You may request that we delete personal information collected from you at the Site by sending an email to [prep@review.com ](mailto:prep@review.com) requesting such deletion.  Please note that if you are receiving services from us, we will need to keep such information during the course of providing those services to you to communicate with you about them.
+You may request that we delete personal information collected from you at the Site by sending an email to [prep@review.com](mailto:prep@review.com) requesting such deletion.  Please note that if you are receiving services from us, we will need to keep such information during the course of providing those services to you to communicate with you about them.
 
-_Effective Date: June 10, 2016_
+_Effective Date: September 8, 2017_
