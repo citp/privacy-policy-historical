@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcc.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115441id_/http%3A//tcc.edu/about-tcc/website-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcc.edu privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113154246id_/https%3A//www.tcc.edu/about-tcc/website-privacy-statement) for the most accurate reproduction.*
 
 # Website Privacy Statement & Disclaimer -
 
