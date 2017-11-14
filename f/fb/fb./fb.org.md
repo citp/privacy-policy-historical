@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fb.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611175931id_/http%3A//www.fb.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fb.org privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114221851id_/https%3A//www.fb.org/about/privacy) for the most accurate reproduction.*
 
 # 
 
