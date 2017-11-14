@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startpage.pro privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163548id_/http%3A//www.startpage.pro/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startpage.pro privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114143606id_/http%3A//startpage.pro/privacy.html) for the most accurate reproduction.*
 
 # StartPage.pro - Privacy Policy
 
