@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abledating.net privacy policy that was archived on 2016-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160727062453id_/http%3A//www.abledating.net/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abledating.net privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114214243id_/http%3A//www.abledating.net/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : PHP Community Script Software : Abledating.net
 
