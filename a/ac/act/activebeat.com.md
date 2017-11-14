@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activebeat.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320204807id_/http%3A//www.activebeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebeat.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114183107id_/http%3A//www.activebeat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActiveBeat
 
@@ -8,7 +8,7 @@ This Privacy Policy is reviewed and revised from time to time. You will want to 
 
 **1\. Log Files**
 
-We use log files like many other websites. The information in the log files include:
+We use log files like many other websites. The information in the log files include: 
 
   * Internet Protocol addresses (IP)
   * Types of browser
