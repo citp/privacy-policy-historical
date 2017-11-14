@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209040652id_/http%3A//www.accessorygeeks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114142458id_/https%3A//www.accessorygeeks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,8 +92,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 18430 San Jose Ave. Unit B  
 City of Industry, CA 91748  
 United States  
-[cs@accessorygeeks.com](mailto:cs@accessorygeeks.com)  
-866.433.5793
+[cs@accessorygeeks.com](mailto:cs@accessorygeeks.com)
 
 #### Privacy Policy Customer Pledge
 
@@ -112,4 +111,4 @@ Accessory Geeks
 
 [www.accessorygeeks.com](http://www.accessorygeeks.com/)
 
-[](http://site.accessorygeeks.com/new.xml) RSS Feed
+[ ](http://site.accessorygeeks.com/new.xml) RSS Feed
