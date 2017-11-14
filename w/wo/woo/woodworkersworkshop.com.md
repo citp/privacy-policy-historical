@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworkersworkshop.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517011633id_/http%3A//woodworkersworkshop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkersworkshop.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114221440id_/http%3A//woodworkersworkshop.com/privacy.php) for the most accurate reproduction.*
 
 # WoodworkersWorkshop® Privacy Policy
 
