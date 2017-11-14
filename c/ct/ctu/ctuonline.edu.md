@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctuonline.edu privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614062353id_/http%3A//www.coloradotech.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctuonline.edu privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114192438id_/http%3A//www.coloradotech.edu/privacy) for the most accurate reproduction.*
 
 # Colorado Technical University Privacy Policy | CTU
 
