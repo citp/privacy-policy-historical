@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeticustomshop.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516103926id_/http%3A//yeticustomshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeticustomshop.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114175432id_/http%3A//yeticustomshop.com/privacy) for the most accurate reproduction.*
 
 # YETI Custom Shop Privacy Policy | YETI Custom Shop
 
@@ -36,12 +36,12 @@ Protecting your information is important to us so we take precautions to protect
 
 ### Opt Out and Corrections
 
-You may request corrections to your personal information or choose to opt-out of emails that we might send to you. To do so, please send us an email at [hi@yeticustomshop.com](mailto:hi@yeticustomshop.com) or call us at (512) 777-1078.
+You may request corrections to your personal information or choose to opt-out of emails that we might send to you. To do so, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0d8d9f0c9d5c4d9d3c5c3c4dfddc3d8dfc09ed3dfdd) or call us at (512) 777-1078.
 
 ### Updates
 
 This Policy may change from time to time. When we change it we will post updates to this page.
 
-If you feel that we are not abiding by this Policy please contact us immediately at [hi@yeticustomshop.com](mailto:hi@yeticustomshop.com) or by telephone at (512) 777-1078.
+If you feel that we are not abiding by this Policy please contact us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9cf4f5dce5f9e8f5ffe9efe8f3f1eff4f3ecb2fff3f1) or by telephone at (512) 777-1078.
 
 . . . . . . . . . . . . .
