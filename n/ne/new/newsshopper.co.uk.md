@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the newsshopper.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131401id_/http%3A//www.newsshopper.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsshopper.co.uk privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114015044id_/http%3A//www.newsshopper.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+### Our newspapers
+
+We are journalists and it is our business to gather, assess, create and present news and information. We will publish that news and information in any media, principally in print and online. We may pass this news and information to other publishers in the UK or abroad. Such news and information may contain personal data of all kinds, including names, addresses, photographs and sensitive personal data. We comply with the law in connection with the conduct of our business, including the Data Protection Act 1998 and the general law of privacy. We are also regulated by the Independent Press Standards Organisation and subject to the Editors’ Code, which includes provisions relating to personal privacy and intrusion. If you have a complaint about one of our newspapers, you should first contact the editor at the address given in the relevant local print edition or website. Details of the Editors’ Code, the work of IPSO and its complaints process can be found at [www.ipso.co.uk](http://www.ipso.co.uk/)). We also host on our websites content which is produced and posted by third parties, such as readers’ comments. We do not select, edit or monitor such third-party content, but we do respond to complaints. If you have a complaint about it, you should use the ‘report this post’ facility provided on the website. 
 
 Publishing companies in the Newsquest Media Group do not store or capture personal data about you when you visit one of our sites, other than to record the IP address of your computer or device, your web browser and the number of pages you view during a visit.
 
