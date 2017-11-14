@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbl.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621124628id_/http%3A//www.jbl.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbl.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114071245id_/http%3A//www.jbl.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | JBL
 
