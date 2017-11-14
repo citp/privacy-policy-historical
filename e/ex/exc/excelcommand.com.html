@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the excelcommand.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606195126id_/http%3A//www.excelcommand.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the excelcommand.com privacy policy that was archived on 2017-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171114175317id_/http%3A//www.excelcommand.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -33,26 +33,72 @@
 <div id="page_wrap">
 
 
+	<div id="menu_above_all">
+		
+		<div class="header_site_search_container-floating_bar">
+
+		    <form action="https://www.teachexcel.com/search.php">
+		    <input type="hidden" name="section" value="1">
+		    <input type="hidden" name="forum" value="yes">
+			<input type="hidden" name="s1" value="yes">
+			<input type="hidden" name="s2" value="yes">
+		    <input type="hidden" name="src" value="excelcommand_search_floating_bar"> 
+		    
+		        <div class="general_search_header_input_container-floating_bar">
+		            <input name="q" type="text" class="general_search_input" placeholder="Search... (TeachExcel.com)" value="">
+		        </div>
+		        
+		        <input type="submit" value="Search" class="btn_subtle btn_med_profile search_box_header_submit_button">                
+		        
+		    </form>
+		                    
+		</div>
+		
+	</div>
+	
+	<script type="text/javascript">
+		(function($) {          
+	    $(document).ready(function(){                    
+	        $(window).scroll(function(){                          
+	            if ($(this).scrollTop() > 120) {
+	                $('#menu_above_all').slideDown(500);
+	            } else {
+	                $('#menu_above_all').slideUp(500);
+	            }
+	        });
+	    });
+	})(jQuery);
+	
+	</script>
+
 		<div id="header">
 		<div id="logo">
 			<a href="/"><img border="0" alt="ExcelCommand.com" src="/images/logo/site_logo.gif"></a>
 		</div>
-		<!--
-			<div id="header_buttons_container" style="display:none;">
-			<div class="header_button">
-				<a href="http://www.excelcommand.com/excel-tips/tip-categories.php" name="Excel Tips"><span class="tips_header_button"></span></a>
-			</div>
-			<div class="header_button">
-				<a href="http://www.excelcommand.com/excel-macros/macro-categories.php" name="Excel Macros"><span class="macro_header_button"></span></a>
-			</div>
-			<div class="header_button">
-				<a href="http://www.excelcommand.com/excel-templates/template-categories.php" name="Excel Templates"><span class="templates_header_button"></span></a>
-			</div>
+		
+		<div class="header_site_search_container">
+			
+			<div style="font-size:18px; color:#999; font-family: Arial, Helvetica, sans-serif; margin-bottom:4px;">Search 1,000's of Excel Pages from our Partners</div>
+
+		    <form action="https://www.teachexcel.com/search.php">
+		    <input type="hidden" name="section" value="1">
+		    <input type="hidden" name="forum" value="yes">
+			<input type="hidden" name="s1" value="yes">
+			<input type="hidden" name="s2" value="yes">
+		    <input type="hidden" name="src" value="excelcommand_search_header"> 
+		    
+		        <div class="general_search_header_input_container">
+		            <input name="q" type="text" class="general_search_input" placeholder="Search... (TeachExcel.com)" value="">
+		        </div>
+		        
+		        <input type="submit" value="Search" class="btn_subtle btn_med_profile search_box_header_submit_button">                
+		        
+		    </form>
+		                    
 		</div>
-		<div id="header_button_forum" style="display:none;">
-			<a href="" name="Excel Forum"><span class="forum_header_button"></span></a>
-		</div>
-			-->
+		
+	<div class="clearfix"></div>
+			
 	</div>	
 	
 	
@@ -94,7 +140,74 @@
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9922184077056116" data-ad-slot="5792699394" data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script>            </div>
+</script>
+
+<div id="side_column_float" class="box_v3_wrapper box_v3_width_variable_large email_subscribe_wrapper-bottom_of_page box_v3_background_standout_light" style="">
+	<div class="box_v3_wrapper_inner email_subscribe_inner-bottom_of_page" style="font-size:18px;">
+
+		<h2 class="box_v3_title_large">
+			Free Excel Help Forum
+		</h2>
+		<p><strong></strong></p>
+		
+		<a href="https://www.teachexcel.com/talk/microsoft-office?src=excelcommand_side_col" class="btn_general btn_large_profile">Ask Now</a>
+		
+				<script>
+(function($) {          
+$( window ).on( "load", function() {
+                    		
+		var navWrap = $('#side_column_float'),
+        startPosition = navWrap.offset().top - 50 - 73,//account for floating header and desired offset
+        stopPosition = $('#footer').offset().top - navWrap.outerHeight();
+    
+    $(document).scroll(function () {
+        
+        //stick nav to top of page
+        var y = $(this).scrollTop()
+        
+        if (y > startPosition) {
+            
+            navWrap.css({
+                'width' : '215px',
+                'position' : 'fixed',
+                'margin-left' : '3px'
+            }); 
+            
+            if (y > stopPosition) {
+                
+                navWrap.css({
+                    'top' : stopPosition - y
+                });
+                
+            } else {
+                
+                navWrap.css({
+                    'width' : '215px',
+                    'position' : 'fixed',
+                    'top' : '100px'
+                });
+                
+            }
+        } else {
+            
+            navWrap.css({
+                'width' : '215px',
+                'position' : 'relative',
+                'top' : '0'
+            });
+            
+        } 
+    });
+    
+				  
+ });
+})(jQuery);	
+			
+		</script>
+        
+		
+	</div>
+</div>            </div>
 			</td>
 			
 			<td valign="top">
