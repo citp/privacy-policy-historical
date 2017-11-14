@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extensis.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620170222id_/http%3A//www.extensis.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extensis.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114131059id_/https%3A//www.extensis.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Extensis.com
+# Privacy Policy – Extensis.com
 
 **Extensis and your privacy**
 
