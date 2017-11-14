@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the stlawu.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033042id_/http%3A//www.stlawu.edu/web-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlawu.edu privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114070334id_/http%3A//www.stlawu.edu/web-privacy-statement) for the most accurate reproduction.*
 
 # Web Privacy Statement | St. Lawrence University
+
+## Error message
+
+_Notice_ : Undefined index: HTTP_ACCEPT in _Mobile_Detect- >__construct()_ (line _97_ of _/htdocs/drupal/main/sites/all/modules/contrib/context_mobile_detect/library/mobile_detect.php_ ).
 
 St. Lawrence University (the University) respects the privacy of the people who use [www.stlawu.edu](http://www.stlawu.edu/). This privacy statement informs visitors about information this website collects, who may access that information, and what the University may do with the collected information. The University reserves the right to make changes to this web privacy statement.
 
