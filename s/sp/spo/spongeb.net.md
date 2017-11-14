@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spongeb.net privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620111112id_/http%3A//spongeb.net/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spongeb.net privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114221451id_/http%3A//spongeb.net/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
-# Privacy Policy - Sponge Bob Games
+# Privacy Policy - SpongeBob games
 
 We respect the privacy of of all internet users. 
 
