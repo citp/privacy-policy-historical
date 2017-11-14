@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffic-zoom.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516074332id_/http%3A//traffic-zoom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic-zoom.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114124723id_/http%3A//traffic-zoom.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Zoom Privacy Policy
 
@@ -31,4 +31,4 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-Copyright © 2009 Traffic Zoom All Rights Reserved.
+Copyright � 2009 Traffic Zoom All Rights Reserved.
