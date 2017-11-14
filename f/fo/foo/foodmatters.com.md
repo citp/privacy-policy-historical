@@ -1,48 +1,155 @@
-> *The following text is extracted and transformed from the foodmatters.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611123650id_/http%3A//www.foodmatters.com/resource/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodmatters.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114201142id_/http%3A//www.foodmatters.com/resource/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FOOD MATTERS®
 
-  
-FoodMatters.tv (Food Matters International) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
+The Food Matters, FMTV and Health Coaches websites, FMTV software, applications, streaming service and all other associated services ( **Services** ) are owned by Food Matters International Pty Ltd, Food Matters TV Pty Ltd and our other related entities ( **us, we, our** ). Your privacy is important to us, which is why we want to make sure that any personal information you give to us while using our Services is well protected. Before interacting with our Services, please read this Policy which sets out what information we collect from you and how we use it. Please note that this Policy forms part of the Terms of Use, which you accept and agree to by continuing to use our Services.
 
-### How we gather information from users
+**What information do we collect and hold?**
 
-  
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, FoodMatters.tv (Food Matters International) also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site.   
-  
-We use Google Analytics to analyze the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google's privacy policy is available at: [http://www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html).  Google uses cookies to track your behavior across the web using cookies, to help determine our audience's interests, demographics and location.   
-  
-As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
+We may collect and hold a variety of information from you while using our Services. This may include information, which can be used to personally identify you (Personal Information). Some types of Personal Information we may collect, depending on your use of the Services, includes your:
 
-### What we do with the information we collect
+  1. name;
+  2. age and date of birth;
+  3. e-mail address;
+  4. street address;
+  5. telephone number and other contact details;
+  6. credit card details;
+  7. bank account details; and
+  8. photographic identification.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
 
-We may use Personally Identifiable Information collected on www.FoodMatters.tv to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.FoodMatters.tv and other topics we think you might find of interest.
+We may also collect and hold other information about your interaction with our Services, which may or may not include Personal Information, such as:
 
-Personally Identifiable Information collected by FoodMatters.tv (Food Matters International) may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, online advertizing, social media advertizing and other communications with you. We may use your Personally Identifiable Information to re-target and create personalized advertisements direct to you online. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+  1. data which provides descriptive, technical, statistical and other metadata type information regarding your use of our Services;
+  2. feedback about the progress or outcomes of any health coaching services purchased via Health Coaches (Health Coach Services), provided that we do not seek any health information unless it has been de-identified and made anonymous;
+  3. purchase and enquiry history with us;
+  4. evidence of accreditations, employment history, licenses, qualifications and criminal history; and
+  5. any other information you disclose to us through interacting with the Services, our support team, message boards, surveys, promotional offers, reviews or otherwise.
 
-### Affiliated sites, linked sites and advertisements
 
-FoodMatters.tv (Food Matters International) expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.FoodMatters.tv page, certain content that is actually created or hosted by a third party. Also, through FoodMatters.tv (Food Matters International) you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. FoodMatters.tv is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. FoodMatters.tv (Food Matters International) does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+**How do we collect Personal Information?**
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of FoodMatters.tv (Food Matters International) and this policy.
+How we collect and store your Personal Information depends on which Services you use and how you choose to interact with them.
 
-### Children
+We generally collect Personal Information directly from you in the following ways:
 
-  
-FoodMatters.tv (Food Matters International) does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe FoodMatters.tv (Food Matters International) has any information from or about anyone under 13, please [contact us](https://web.archive.org/contact-us).
+  1. through your use of our Services;
+  2. through communications between you and our representatives or support team;
+  3. whenever you create an account with us;
+  4. whenever you make purchases through us;
+  5. whenever you participate in our promotional offers or surveys;
+  6. whenever you apply to provide Health Coach Services; and
+  7. whenever you provide us with feedback or any other information or documentation about Health Coach Services.
 
-### Contacting Us
 
-  
-We can be reached by using our [contact us](https://web.archive.org/contact-us) form
 
-### Changes to this Policy
+We may also collect your Personal Information from third parties such as:
 
-  
-FoodMatters.tv (Food Matters International) reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+  1. our business partners and contractors, such as those who provide promotional offers related to us;
+  2. social media sites where you have connected your account with our Services or where you have visited our social media pages such as those on Twitter and Facebook; and
+  3. advertisers;
+  4. persons who provide or receive Health Coach Services;
+  5. government bodies, departments or agencies; and
+  6. mailing lists.
+
+
+
+**How do we hold Personal Information?**
+
+We generally store Personal Information in electronic form on third party servers and/or hard drive. We have a number of security systems and procedures in place designed to prevent any mishandling, loss or unauthorised access to your Personal Information.
+
+Stored Personal Information about you may be combined or linked with any other information about you that we hold, including any information we receive from third parties.
+
+**What do we use Personal Information for?**
+
+We hate junk mail as much as you do - we will never share, sell or rent your Personal Information to third parties other than as disclosed in this Policy.
+
+We collect, hold, use and disclose Personal Information and other information for the following purposes:
+
+  1. to assess your identity and eligibility for the Services;
+  2. to provide the Services;
+  3. to provide you with updates on the Services;
+  4. to arrange for Health Coach Services to be provided or received by you, as applicable;
+  5. to provide you with news and information on promotional offers or competitions, upcoming events and products offered by us or our business partners;
+  6. to provide support and communicate to you as our customer;
+  7. to manage any accounts you have with us;
+  8. to assess the eligibility of persons to provide Health Coach Services;
+  9. to assess the performance of persons providing Health Coach Services;
+  10. to promote Health Coach Services;
+  11. to investigate any complaint or issue arising in connection with Health Coach Services and intervene in any dispute;
+  12. to conduct our business operations;
+  13. to process payments, transactions and delivery of orders to you;
+  14. to collect and pay any amount on your behalf or to make a payment to you;
+  15. to provide information to our related bodies corporate;
+  16. to our external service providers including, but not limited to, our data hosting partners and IT service providers;
+  17. to display content and/or advertising that is relevant to you;
+  18. our marketing, planning, research, maintenance and administrative purposes or those of our business partners;
+  19. to provide to third parties where disclosed to you in this Policy or otherwise where authorised by you;
+  20. to provide to our third party payment service providers as necessary to process a payment to or from you;
+  21. to investigate any complaint made by or against you or to investigate any unlawful or improper use of our Services;
+  22. to intervene in and resolve disputes between you or us and another person;
+  23. as part of a transfer of our assets should we propose or proceed to sell, merge or otherwise alter ownership of our business;
+  24. to initiate or respond to a claim or other legal action;
+  25. as otherwise required in connection with providing the Services; and
+  26. as permitted or required by law.
+
+
+
+**Other Information & Third Parties**
+
+Whilst you are using our Services, we, our advertisers, business partners and other third parties may also collect and hold other information by using cookies or other technologies. Cookies allow tracking and storage of information about your use of the internet and our Services either directly or through third parties, such as Google Analytics.
+
+In some cases, you can choose not to provide us with information by setting your browser to refuse cookies, however this may restrict your ability to fully interact with our Services.
+
+Cookies are used by us for various reasons including to:
+
+  1. store your username and password for any account you hold with us on a device so you do not have to re-enter it;
+  2. generate statistical information and reports about your use of the internet and our Services;
+  3. to understand your interests, demographic and location details to provide you with a more customised experience when using our Services;
+  4. to personalise advertising to suit your interests and prevent the same advertisement appearing to you repeatedly; and
+  5. to combine information about your usage patterns with similar information obtained from other users to help enhance our Services (e.g. to learn which pages are visited most or what features are most attractive).
+
+
+
+We may also implement other technologies to obtain information for reasons similar to those above. This information may occasionally be shared with our advertisers and business partners, but this does not include Personal Information. However, please note that we cannot control or be responsible for the use of cookies or other technologies implemented by third parties.
+
+Comments, promotional offers, blogs, advice, opinions or any other content or website that is created or hosted by a third party, but is accessed by you via our Services (through embedding, hyperlink or otherwise), may be subject to that third party’s own privacy and data collection policies and practices which may vary from our own.
+
+If you voluntarily disclose Personal Information via a publicly accessible feature of our Services (such as a message board), you do so at your own risk, as third parties may access and use this Personal Information to send you unsolicited material.
+
+**International Disclosure of Personal Information**
+
+We carry on our business operations internationally. Our head office is based in Australia however, we also have business facilities, employees and contractors located Worldwide. Accordingly, we may disclose your Personal Information overseas for any of the purposes identified in this Policy, but mainly to our support team, data hosting provider and order processing team located outside Australia for the purposes of providing the Services.
+
+We take reasonable steps to ensure that overseas recipients handle your Personal Information in accordance with our Policy.
+
+**Accessing and updating your Personal Information**
+
+You have a right to request access to and seek correction of any Personal Information we hold about you. You can make this request via the contact details at the end of this Policy.
+
+**Complaints**
+
+We adhere to the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) ( **the Act** ).
+
+If you have complaints, comments or concerns regarding the Act or this Policy, please first contact us directly via the details at the end of this Policy. We will endeavour to get back to you as soon as possible, but we ask that you allow us up to 30 days to respond before taking any other action.
+
+**Contact Details**
+
+For any queries relating to this Policy, please contact:  
+Food Matters Privacy Officer  
+Food Matters International Pty Ltd  
+PO Box 1302  
+Mooloolaba, Queensland  
+Australia 4557  
+\+ 61 (07) 3040 7073  
+enquiries@foodmatters.com
+
+Alternatively, please use our [contact us](https://web.archive.org/contact-us) form.
+
+**Updates**
+
+We may update this Policy from time to time; the most current version of this Policy will always apply.
+
+Last updated: 1 November 2017
