@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromewhois.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314211351id_/http%3A//www.chromewhois.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromewhois.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114125404id_/http%3A//www.chromewhois.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This is the web site of ChromeWhois.com.
 
-We can be reached via e-mail at [contact@chromewhois.com](mailto:contact@chromewhois.com "Contact email")
+We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a0c3cfced4c1c3d4e0c3c8d2cfcdc5d7c8cfc9d38ec3cfcd "Contact email")
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
