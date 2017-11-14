@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerstars.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629050335id_/https%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.co.uk privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114230308id_/https%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
 
 # Online Software Privacy Policy - Privacy Issues
 
