@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elections.in privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612173051id_/http%3A//www.elections.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elections.in privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114210236id_/http%3A//www.elections.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Elections.in
 
