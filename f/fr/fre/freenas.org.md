@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freenas.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120706id_/http%3A//www.freenas.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freenas.org privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114235834id_/http%3A//www.freenas.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeNAS - Open Source Storage Operating System
 
