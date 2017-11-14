@@ -1,71 +1,107 @@
-> *The following text is extracted and transformed from the octopus.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103031032id_/http%3A//www.octopustravel.com/privacyStmt.form) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octopus.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114190714id_/https%3A//octopus.com/privacy) for the most accurate reproduction.*
 
-# Privacy statement » Octopus Travel - Hotel Deals & Discounts from Luxury to Cheap Hotels
+# Privacy policy - Octopus Deploy
 
-This site is operated by Octopustravel.com Limited whose registered office is at Gullivers House, 27 Goswell Road, London, EC1M 7GT, United Kingdom ("Octopus Travel" or "we"). Octopus Travel is the data controller in respect of the personal information obtained from you in the course of your use of the site and/or making a booking.
+## Introduction
 
-The following discloses our information gathering and dissemination practices for this web site:
+Welcome to Octopus Deploy! We offer a deployment automation tool that you can download, and install on your own servers, and that we may also provide in a hosted/Software-as-a-Service capacity. As you use this website or our any of our products, we may collect information about you. This privacy policy will help you to understand what information Octopus Deploy collects, how we use it, and some choices that you have. 
 
-### Information collection and use
+This policy covers information that we ( **Octopus Deploy Pty. Ltd.** and related entities) collect from your use of "Octopus Deploy Services". " **Octopus Deploy Services** " includes our: 
 
-We will require some personal information such as your :
-
-a) Name;  
-b) E-mail address;  
-c) Mailing address;  
-d) Telephone number;  
-e) Credit/debit card details; and  
-f) Billing address.  
+  * Websites
+  * SaaS Products
+  * Downloadable Products
 
 
-We use this information in order to reserve the required services, to send you details and confirmation of such services, and, if necessary, to inform you of updates or changes to your travel plans. If we have trouble processing a request this contact information is used to get in touch with you. We would use your telephone number only if we needed to contact you urgently or if you had made a mistake entering your details. The financial information is used for billing purposes and to complete your orders.
 
-We may also use your contact details to inform you of our products and services, including special offers that, we think may be of interest to you. If you do not want us to use your contact information in this way, please let us know in an email to [info@octopustravel.com](mailto:info@octopustravel.com). We do not pass details of your personal information to third parties except as described below.
+## Information we collect and receive
 
-We store your information for as long as we need to do so in order to process your order, fulfil our legal obligations or in order to keep you informed of our products. We use your information to create generic information, which we then use for market and commercial analysis. This generic information does not identify you personally.
+**1\. Information that you give to us directly**
 
-### Sharing Information
+Our Websites, SaaS products and Downloadable Products may ask for information about you and the company you work for. This is collected as you register for an account, purchase licenses, register for product trials, or otherwise use or interact with our website. Examples of the information we collect includes: 
 
-We may share your personal information in a manner described below with (a) any member of our group, (b) our bank, and (c) involved third parties.
+  * Contact information, such as your name, email, mailing address and phone number
+  * Billing information, such as credit card details and billing addresses
+  * Profile information, such as a username, profile photo and job title
+  * Preferences, such as notification and email marketing preferences
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-When you are paying by credit or by debit card we pass your card details to our bank for authorisation of the transaction and processing of the payment.
 
-We may disclose your information to hotels and other providers of products and services we offer, who may use your information in the ways described above in this privacy statement. We will provide only the information necessary to ensure successful fulfilment of your travel arrangements. You should be aware that the hotels and other providers of products and services may be not subject to data protection laws.
+This information is provided by you when you enter it into our website or use one of our products, and so you naturally consent to us collecting it. 
 
-We may disclose your information to companies and individuals we employ or contract with to perform various functions necessary for carrying out and developing our business including, but not limited to data analysis and processing, delivery and management of marketing communications, payment processing, and other related customer and support services. Such companies and individuals may be located outside the European Economic Area.
+In some cases information about you may be entered by someone else, typically a billing or system administrator at your company - for example when they set up an account for you, or include you as a contact on an invoice. If you are providing information about someone else, you must have the authority to act for them and to consent to the collection and use of their personal information as described in this policy. 
 
-In addition, we may disclose your personal information to third parties (i) in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; or (ii) if Octopus Travel or substantially all of its assets are acquired by a third party; or (iii) if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Booking Terms and Conditions](https://web.archive.org/legal.form) or [Site Terms](https://web.archive.org/siteTerms.form), or to protect the rights, property, or safety of Octopus Travel, our customers, or others. This includes exchanging information with other companies and organisations, including but not limited to credit reference and fraud prevention agencies, for the purposes of fraud prevention and/or investigation and credit risk reduction. Such third parties may keep a record of your personal information.
+When you use our Downloadable Products, the information that we collect is limited to: 
 
-Apart from sharing your information as mentioned above, we do not disclose your details to any other person without your consent unless there is an emergency situation that requires it or we are legally required to do so.
+  * Contact information you provide when registering for a product trial
+  * Statistical summaries of how you use our Downloadable Products, such as the number of projects or deployments
+  * Server-specific information such as operating system versions, CPU usage, memory and disk size information
 
-### Log Files
 
-We use IP addresses to help diagnose problems with our server and to analyse trends/administer the site/track user's movement for our internal site traffic statistics.
 
-### Where We Store Your Personal Data
+We also collect **content** that you create, input, send, submit or upload when using the Octopus Deploy Services. Examples of content you might provide includes comments on blog posts, support requests and emails that you send us, or data that you enter in the the course of using the functionality in our Websites or SaaS Products (but not Downloadable Products). This content includes any personal information, or sensitive information, that you choose to include. 
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payments and the provision of support services. By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this privacy statement.
+**2\. Information that we collect indirectly**
 
-### Cookies
+We also gather information about you indirectly, through observing how you use our Websites or SaaS Products. This includes: 
 
-We use cookies to monitor which parts of the site are most interesting to you - a cookie is a piece of data stored on your hard drive and usage is in no way linked to any personally identifiable information whilst on our site. We allow other companies, called "third-party ad servers" or "ad networks", to serve advertisements on our behalf. We do not provide any personally identifiable customer information to these advertisers or third-party websites, except as described in 'Sharing Information' section above. You can always choose to not receive a cookie file by enabling your Web browser to refuse cookies or prompt before accepting a cookie but by refusing to accept a cookie you will be unable to book a hotel offered by Octopus Travel.
+  * **Web server logs** , which capture information including your IP address, browser and operating system version, and URL's requested. This information is typically not personally identifying, though it may incidentally capture personally identifiable information if that information is included as part of the request (for example, in a URL query string).
+  * **Analytics data** which is captured either by us, or by third parties analytics partners.
 
-### Links
 
-This site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites - this privacy statement applies solely to information collected by this site. Please check the privacy policies of these sites before you submit any personal data to them. We do not accept any responsibility or liability for these policies.
 
-### Security
+As at the time this policy came into effect, we use the following third party analytics partners: 
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We use Secure Socket Layers (SSL) to ensure the privacy of the information provided to us and at no time are your debit/credit card details transmitted unencrypted over the Internet. To further protect the information you share with us we have an exhaustive security system that includes world class firewall technologies; logical network segmentation to allow restricted access to stored profile information and logical and physical security restrictions to our databases and systems. Whilst SSL encryption is used to protect sensitive information online we also take all reasonable steps to protect user-information off-line. All your information is restricted in our offices and only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices.
+  * [Google Analytics](https://analytics.google.com/analytics/web/). To learn more about the privacy policy of Google Analytics, refer to [Google's Policies and Principles](https://www.google.com/policies/). Use the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en) to prevent analytics information from being sent to Google Analytics.
+  * [Optimizely](https://www.optimizely.com/privacy/), which helps us to test changes to our Website or SaaS Products and their effectiveness.
+  * [Crazy Egg](https://www.crazyegg.com/privacy), which gives us a better idea of what information people use on our Website
+  * [Raygun](https://raygun.com/privacy), which helps us to understand our Website and SaaS Product's performance, and errors users may encounter
+  * [Rocket Fuel](https://rocketfuel.com/privacy/), to support and optimise our digital marketing efforts and advertising campaigns
 
-### Changes to our Privacy Statement
 
-By using this site and booking with us you agree that our privacy statement, current at the time of your most recent booking, and it shall apply to all your information, whether given to us at the time of that booking or at the time of earlier bookings.
 
-If we change the substance of this Privacy Statement, such changes will be included in its future version and announced through a prominent notice on this site so that you will know what information we gather, how we used that information and to whom we may disclose it.
+**Cookies and Other Tracking Technologies** : we and our third party analytics partners, use various technologies to collect information, such as cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory. We use cookies to improve and customize Octopus Deploy Services and your experience; to allow you to access and use the Websites or SaaS Products without re-entering your username or password; and to count visits and understand which areas and features of the Websites and SaaS Products are most popular. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Websites or SaaS Products. Octopus Deploy and our third party analytics partners also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Websites or SaaS Products or in emails that help us to deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. 
 
-### Contacting us
+## How we use the information we collect
 
-In using the Octopus Travel site, you consent to the collection and use of your personal information in the ways described above. If you have any questions or comments about this privacy statement, the practices of this site or your dealings with the site please email us at [info@octopustravel.com](mailto:info@octopustravel.com)
+We and our third party analytics providers use the information we collect about you (including personal information to the extent applicable) to: 
+
+  * Provide, operate, maintain and improve Octopus Deploy Services
+  * Process and complete transactions, and send you related information
+  * To meet our legal and compliance responsibilities
+  * Send transactional messages, such as responding to your comments or feedback, providing customer service and support, and sending you technical notices such as alerts or status updates
+  * Send promotional messages, such as newsletters, surveys and offers. You have the ability to unsubscribe from these.
+  * Monitor and analyze trends, usage and activities for marketing or advertising purposes
+  * For other purposes, for which we will obtain your consent
+  * Compiling aggregate analytics about how you use features of our products, in order to improve them
+
+
+
+## How we disclose data
+
+Octopus Deploy does not sell or rent your personal information to marketers or unaffiliated third parties. We may share your personal information with trusted third parties, including: 
+
+  * **Third parties** : We may share your personal information with third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock. 
+  * **Service providers** : We may share your personal information with service providers who help us provide the Octopus Deploy Services. Service providers help us with things like payment processing (i.e., banks, credit bureaus, payment method providers), website hosting, data analysis, information technology and related infrastructure, customer service, email delivery, and auditing. 
+  * **Safety, legal, and law enforcement** : We use and disclose personal information as we believe necessary: (i) under applicable law, or payment method rules; (ii) to enforce our terms and conditions; (iii) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (iv) to respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, which may include authorities outside your country of residence. 
+  * **To the public** : for content that you have explicitly given us permission to publish, such as on a public forum, or as a testimonial. We may also use your company name in order to promote our products. 
+
+
+
+## Choice and access
+
+You have choices regarding our use and disclosure of your personal information.
+
+  * You can opt-out of receiving promotional emails from us by clicking the 'unsubscribe' link on any promotional email we send you.
+  * If you have provided a testimonial or we have used your company as an example of a customer using our products, you can contact us using the details below.
+  * You can request to see what personal information we have about you, and ask us to delete it. We may not always be able to delete information we have: for example, it may be needed for legal or compliance reasons.
+
+
+
+## Use of services by minors
+
+The Octopus Deploy Services are not directed to individuals under the age of thirteen (13), and we request that they not provide personal information through the Octopus Deploy Services. 
+
+## Contact us
+
+If you have any questions about this privacy policy, please contact us at [support@octopus.com](mailto:support@octopus.com). Happy deployments! 
