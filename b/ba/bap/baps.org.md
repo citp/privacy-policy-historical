@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612192922id_/http%3A//www.baps.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114210050id_/http%3A//www.baps.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,4 +42,4 @@ BAPS Swaminarayan Mandir,
 Shahibaug Road,  
 Ahmedabad, 380004  
 Gujarat, India  
-Email: [info@swaminarayan.org ](mailto:info@swaminarayan.org)
+Email: [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#84edeae2ebc4f7f3e5e9edeae5f6e5fde5eaaaebf6e3a4)
