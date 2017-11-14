@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hisilicon.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514163056id_/http%3A//www.hisilicon.com/en/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hisilicon.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114073529id_/http%3A//www.hisilicon.com/en/Privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | HiSilicon
 
 ### Cookies, Web Beacons and Other Technologies
 
@@ -10,7 +10,7 @@ Cookies are typically categorized as "session" cookies or "persistent" cookies. 
 
 While HiSilicon Web sites at this time do not recognize automated browser signals regarding tracking mechanisms, such as "do not track" instructions, you can generally express your privacy preferences regarding the use of most cookies and similar technologies though your web browser. You can set your browser in most instances to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also generally set your browser to turn off cookies.
 
-Some web browsers may let you enable a "do not track" feature that sends signals to the websites you visit, indicating that you do not want your online activities tracked. This is different than blocking or deleting cookies, as browsers with a "do not track" feature enabled may still accept cookies. There is currently no industry standard for how companies should respond to "do not track" signals, although one may develop in the future. We do not respond to "do not track" signals at this time. If we do so in the future, we will describe how in this Privacy Statement. More information about "do not track" is available at [www.allaboutdnt.org.](https://web.archive.org/web/20170514163056id_/http%3A//www.hisilicon.com/en/www.allaboutdnt.org)
+Some web browsers may let you enable a "do not track" feature that sends signals to the websites you visit, indicating that you do not want your online activities tracked. This is different than blocking or deleting cookies, as browsers with a "do not track" feature enabled may still accept cookies. There is currently no industry standard for how companies should respond to "do not track" signals, although one may develop in the future. We do not respond to "do not track" signals at this time. If we do so in the future, we will describe how in this Privacy Statement. More information about "do not track" is available at [www.allaboutdnt.org.](https://web.archive.org/web/20171114073529id_/http%3A//www.hisilicon.com/en/www.allaboutdnt.org)
 
 ### Securing Your Information
 
