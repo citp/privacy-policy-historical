@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livetradingnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044018id_/http%3A//www.livetradingnews.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetradingnews.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114170944id_/http%3A//www.livetradingnews.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Live Trading News
 
@@ -120,7 +120,7 @@ www.livetradingnews.com
 3 Raffles Place  
 singapore, 20166  
 singapore  
-support@heffx.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 The following two tabs change content below.
 
