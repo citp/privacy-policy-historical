@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofi.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128165951id_/https%3A//www.sofi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofi.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114174246id_/https%3A//www.sofi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SoFi
 
@@ -15,7 +15,9 @@ This Privacy Policy is written to apply to Social Finance, Inc. and its affiliat
   * SoFi Securities, LLC
   * SoFi Capital Advisors, LLC
   * SoFi Wealth, LLC
-  * SoFi Lending Corp
+  * SoFi Mortgage, LLC
+  * Social Finance Life Insurance Agency LLC
+  * SoFi Lending Corp.
 
 
 
@@ -175,7 +177,7 @@ To limit our sharing once your sofi.com account has been created:
 
 
 
-If you are a new customer, we can begin sharing your information 30 days from the date we sent you the privacy notice. When you are no longer our customer, we may continue to share your information as described in this policy. However, you can contact us at any time to limit our sharing and to restrict online marketing and direct mail. 
+If you are a new customer, we can begin sharing your information 45 days from the date we sent you the privacy notice. When you are no longer our customer, we may continue to share your information as described in this policy. However, you can contact us at any time to limit our sharing and to restrict online marketing and direct mail. 
 
 You control the information you share in your profile on our community website. You understand that if you choose to share your information, your profile may be generally available on our website. 
 
