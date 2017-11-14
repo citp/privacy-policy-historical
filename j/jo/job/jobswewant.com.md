@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobswewant.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515105810id_/http%3A//www.jobswewant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobswewant.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114172821id_/https%3A//www.jobswewant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Make Money Online
 
