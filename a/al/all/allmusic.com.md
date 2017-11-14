@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624074222id_/http%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114135551id_/http%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllMusic
 
@@ -28,7 +28,7 @@ We respect your privacy. If you have any privacy concerns or questions about thi
 
 ## About Us and This Policy
 
-All references to "we", "us" or "our" refer to RhythmOne, LLC and/or one or more of its affiliates. AllMusic is a member of the RhythmOne group and our office is located at 251 Kearny St 2nd Floor, San Francisco, CA 94108. 
+All references to "we", "us" or "our" refer to RhythmOne, LLC and/or one or more of its affiliates. AllMusic is a member of the RhythmOne group and our office is located at 601 Montgomery Street #1600, San Francisco, CA 94111. 
 
 This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use 1R Property; what organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information. 
 
@@ -164,7 +164,7 @@ If you are located in Europe, some of the data that we process may be protected 
 
 If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Information for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
 
-If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [cevinpl@fvqrerry.pbz](mailto:cevinpl@fvqrerry.pbz) or by postal mail to RhythmOne, LLC, 251 Kearny St 2nd Floor, San Francisco, California 94108, Attn:Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information. 
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [cevinpl@fvqrerry.pbz](mailto:cevinpl@fvqrerry.pbz) or by postal mail to RhythmOne, LLC, 601 Montgomery Street #1600, San Francisco, CA 94111, Attn:Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information. 
 
 BACK TO TOP
 
