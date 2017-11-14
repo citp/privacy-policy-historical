@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlinetest.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122422id_/http%3A//www.freeonlinetest.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinetest.in privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114194731id_/http%3A//www.freeonlinetest.in/privacy-policy) for the most accurate reproduction.*
 
 # None
 
