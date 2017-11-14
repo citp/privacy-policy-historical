@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthprep.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094544id_/http%3A//healthprep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthprep.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114133133id_/http%3A//healthprep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
