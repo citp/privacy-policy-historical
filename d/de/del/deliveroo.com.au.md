@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliveroo.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213222id_/https%3A//deliveroo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.com.au privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114211118id_/https%3A//deliveroo.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Deliveroo
 
