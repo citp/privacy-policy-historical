@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the siftheads.net privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606005426id_/http%3A//www.siftheadsgames.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the siftheads.net privacy policy that was archived on 2017-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171114171346id_/http%3A//www.siftheadsgames.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
@@ -61,6 +61,25 @@ t =document.getElementsByTagName('script');s =document.createElement('script');s
 
       <div class="navbar-custom-menu">
         <ul class="nav navbar-nav">
+                    <!-- Messages: style can be found in dropdown.less-->
+           
+          <li class="dropdown messages-menu">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-envelope-o"></i>
+              <span class="label label-warning"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li class="header">You have  messages</li>
+              <li>
+                <!-- inner menu: contains the actual data -->
+                <ul class="menu">
+                   
+                </ul>
+              </li>
+              <li class="footer"><a href="/mailbox.php">See All Messages</a></li>
+            </ul>
+          </li>
+          <!-- Notifications: style can be found in dropdown.less -->
                                 <li class="hidden-xs become-member">
               <span class="">Become a member
             </span></li>
@@ -116,6 +135,45 @@ t =document.getElementsByTagName('script');s =document.createElement('script');s
         <span class="red">App</span>
       </a>
     </div>
+    <!-- search form -->
+    <form action="/search.php" method="get" class="sidebar-form">
+      <div class="input-group">
+        <input type="text" name="q" class="form-control" placeholder="Search...">
+        <span class="input-group-btn">
+          <button type="submit" id="search-btn" class="btn btn-flat"><i class="fa fa-search"></i></button>
+        </span>
+      </div>
+    </form>
+    <!-- /.search form -->
+    <ul class="sidebar-menu">
+      <!-- <li class="header">MAIN NAVIGATION</li> -->
+      <li>
+        <a href="/dashboard.php">
+         <i class="fa fa-tachometer "></i> <span> &nbsp;Dashboard</span>
+           <!--<small class="label pull-right bg-green">new</small> -->
+        </a>
+      </li>
+      <li>
+        <a href="/mailbox.php">
+         <i class="fa fa-commenting-o "></i> <span> &nbsp;Online Chat</span>
+          <!-- <small class="label pull-right bg-green">new</small> -->
+        </a>
+      </li>
+      <!--<li>
+        <a href="/members.php">
+         <i class="fa fa-user-plus"></i> <span> &nbsp;Friends</span>-->
+          <!-- <small class="label pull-right bg-green">new</small> -->
+        <!--</a>
+      </li>-->
+      <!--<li class="treeview">
+        <a href="../../chat-history.php" target="_blank"><i class="fa fa-custom fa-chat"></i><span>Chat History</span></a>
+      </li>-->
+      <!--<li class="treeview">
+        <a href="../../online-users.php" target="_blank"><i class="fa fa-custom fa-chat"></i><span>Online Users</span></a>
+      </li>-->
+      
+    </ul>
+    <!-- search form -->
     <div class="sidebar-block sidebar-facebook">
       <a href="#">
         <span class="white">Follow</span>
@@ -206,7 +264,7 @@ t =document.getElementsByTagName('script');s =document.createElement('script');s
       </li>
       <li class="treeview">
         <a href="#">
-          <i class="fa fa-gamepad" aria-hidden="true"></i> <span>More Games</span> <i class="fa fa-angle-left pull-right"></i>
+          <i class="fa fa-gamepad" aria-hidden="true"></i> <span> &nbsp;More Games</span> <i class="fa fa-angle-left pull-right"></i>
         </a>
         <ul class="treeview-menu">
           <li><a href="/Sift-Heads-Shorty-Covers.html"><i class="fa fa-circle-o"></i> Shorty Covers</a></li>
@@ -214,16 +272,7 @@ t =document.getElementsByTagName('script');s =document.createElement('script');s
         </ul>
       </li>
     </ul>
-    <!-- search form -->
-    <form action="/search.php" method="get" class="sidebar-form">
-      <div class="input-group">
-        <input type="text" name="q" class="form-control" placeholder="Search...">
-        <span class="input-group-btn">
-          <button type="submit" id="search-btn" class="btn btn-flat"><i class="fa fa-search"></i></button>
-        </span>
-      </div>
-    </form>
-    <!-- /.search form -->
+
     <div class="sidebar-block sidebar-block-simple">
       <a href="/walkthroughs.php">
         <span class="red">All</span>
