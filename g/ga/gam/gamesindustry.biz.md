@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesindustry.biz privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630160157id_/http%3A//www.gamesindustry.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesindustry.biz privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114200619id_/http%3A//www.gamesindustry.biz/privacy) for the most accurate reproduction.*
 
 # Privacy and Data Policy | GamesIndustry.biz
 
