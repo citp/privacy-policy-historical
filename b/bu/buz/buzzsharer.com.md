@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzsharer.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627165239id_/http%3A//buzzsharer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzsharer.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114080945id_/http%3A//buzzsharer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
