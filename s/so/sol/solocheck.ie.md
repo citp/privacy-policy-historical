@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solocheck.ie privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621001955id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solocheck.ie privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114205345id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.*
 
 # Data Protection and Privacy - Irish Company Info - SoloCheck
 
@@ -44,8 +44,8 @@ Analytics Cookies| Maximum 2 years from set/update| These cookies are used to co
 Cookie cookie| 60 days from set/update| We provide an option to "Hide this message" about cookies, which itself requires a cookie. This cookie is only written to your computer if you click the "Hide this message" link.  
   
   
-To learn more about managing cookies view your web browser help or visit [aboutcookies.org](http://www.aboutcookies.org/Default.aspx?page=1)
+To learn more about managing cookies view your web browser help or visit [aboutcookies.org](http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm)
 
 ## Remarketing
 
-All pages on SoloCheck contain Google remarketing tags. These tags are used by third-party vendors, including Google, to re-advertise SoloCheck and its related reports and services across the Internet. Remarketing third-party vendors, including Google, use cookies to serve ads based on a users' past visits to various pages of our website. Visitors can opt out of Google's use of cookies by visiting [Google's Ads Settings](https://www.google.com/settings/ads). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
+All pages on SoloCheck contain Google remarketing tags. These tags are used by third-party vendors, including Google, to re-advertise SoloCheck and its related reports and services across the Internet. Remarketing third-party vendors, including Google, use cookies to serve ads based on a users' past visits to various pages of our website. Visitors can opt out of Google's use of cookies by visiting [Google's Ads Settings](https://www.google.com/settings/ads). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](https://optout.networkadvertising.org/#!/).
