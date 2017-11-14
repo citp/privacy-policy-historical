@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguetoolbox.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514041120id_/http%3A//leaguetoolbox.com/software_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguetoolbox.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114025839id_/http%3A//www.leaguetoolbox.com/software_privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LeagueToolbox
 
