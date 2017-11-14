@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608045024id_/http%3A//www.jigsaw-online.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114154419id_/http%3A//www.jigsaw-online.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Jigsaw Online: Privacy Policy | Jigsaw
 
@@ -28,7 +28,7 @@ If you want to disable cookies you will need to do this by changing your website
 
 [Cookie settings in Chrome](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 
-[Cookie settings in Safari](https://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html)
+[Cookie settings in Safari](https://support.apple.com/kb/PH21411?locale=en_GB)
 
 You can also take a look at the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
