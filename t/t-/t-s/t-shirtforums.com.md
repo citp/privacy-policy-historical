@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-shirtforums.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621100858id_/http%3A//www.t-shirtforums.com/view_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-shirtforums.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114093255id_/http%3A//www.t-shirtforums.com/view_privacypolicy.htm) for the most accurate reproduction.*
 
 # T-Shirt Forums Privacy Policy
 
