@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmingdate.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015846id_/http%3A//www.charmdate.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmingdate.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114155224id_/http%3A//www.charmdate.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy – CharmDate.com
 
@@ -30,7 +30,7 @@ You may elect to include your additional information, such as your height, weigh
 
 **c) Contact Information**
 
-It consists of your email address, your postal address such as street address, city, state/province, residence country as well as postal code. Your telephone or fax number are required when filling in the registration form. Contact information will not be shown on your profile or other public places.
+It consists of your email address, your postal address such as street address, city, state/province, residence country as well as postal code. Contact information will not be shown on your profile or other public places.
 
   * **2\. How We Use Your Information**
 
@@ -64,7 +64,7 @@ If you want to update or correct inaccuracies in your information, you can login
 
   * **8\. Deleting Your Account**
 
-Gentleman members can require account deletion through submitting email request to our customer service team, specifying whether account deletion of CharmDate or account deletion of the Qpid Network is needed. When CharmDate account is deleted, members will not be able to log into CharmDate and/or check usage history. When the Qpid Network account is deleted, members will not be able to log into all member sites under Qpid Network and use our Services any more.
+Members can require account deletion through submitting email request to our customer service team, specifying whether account deletion of CharmDate or account deletion of the Qpid Network is needed. When CharmDate account is deleted, members will not be able to log into CharmDate and/or check usage history. When the Qpid Network account is deleted, members will not be able to log into all member sites under Qpid Network and use our Services any more.
 
   * **9\. Technical and/or Operational Security**
 
