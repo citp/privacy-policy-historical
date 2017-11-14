@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradewins.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002845id_/http%3A//www.tradewins.com/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradewins.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114145417id_/http%3A//tradewins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
