@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purplemath.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619223510id_/http%3A//www.purplemath.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purplemath.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114153013id_/http%3A//www.purplemath.com/privacy.htm) for the most accurate reproduction.*
 
 # Purplemath Privacy Policy
 
@@ -12,7 +12,7 @@ P.O. Box 493
 Addison, IL 60101-0493
 
 
-We can be reached via e-mail at [stapel@purplemath.com](mailto:stapel@purplemath.com) or via our [contact form](https://web.archive.org/web/20170619223510id_/http%3A//www.purplemath.com/feedback.php).
+We can be reached via e-mail at [stapel@purplemath.com](mailto:stapel@purplemath.com) or via our [contact form](https://web.archive.org/web/20171114153013id_/http%3A//www.purplemath.com/feedback.php).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). The only way we would receive any personally identifying information would be for you to contact us directly.
 
