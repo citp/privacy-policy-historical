@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extmatrix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074940id_/http%3A//www.extmatrix.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extmatrix.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114154536id_/https%3A//www.extmatrix.com/help/privacy.php) for the most accurate reproduction.*
 
 # ExtMatrix - The Premium Cloud Storage
 
