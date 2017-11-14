@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044902id_/http%3A//www.basenotes.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114195157id_/http%3A//www.basenotes.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy — Basenotes.net
 
-**Basenotes  **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Basenotes](http://www.basenotes.net/), owned by Grant Osborne.
+**Basenotes  **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Basenotes](http://www.basenotes.net/).
 
 ## Information Automatically Logged 
 
@@ -59,7 +59,5 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 ## Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us here](http://www.basenotes.net/sendmessage.php).
-
-Grant Osborne, owner, Basenotes
 
 Updated 15th October 2013  
