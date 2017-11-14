@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exchange3d.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060012id_/http%3A//support.turbosquid.com/entries/173395-our-privacy-policy%3Flocale%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchange3d.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114075500id_/https%3A//support.turbosquid.com/entries/173395-our-privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy : TurboSquid Help & Support
+# Our Privacy Policy – How can we help you?
 
 YOUR USE OF OUR SERVICES IS SUBJECT TO YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY.
 
