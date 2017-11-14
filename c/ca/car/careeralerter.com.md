@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the careeralerter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114033id_/http%3A//www.careeralerter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careeralerter.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114195233id_/http%3A//www.careeralerter.com/privacy) for the most accurate reproduction.*
 
 # Career Alerter
 
-Careeralerter.com ("Career Alerter") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Career Alerter at 2222 Michelson Drive, Suite #465, Irvine, CA 92612 USA or via our [contact form](https://web.archive.org/web/20170606114033id_/http%3A//www.careeralerter.com/contact.php).
+Careeralerter.com ("Career Alerter") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Career Alerter at 2222 Michelson Drive, Suite #465, Irvine, CA 92612 USA or via our [contact form](https://web.archive.org/web/20171114195233id_/http%3A//www.careeralerter.com/contact.php).
 
 By using the Career Alerter website, or submitting information to us by other means, you are subjecting your information to the practices outlined in this Privacy Policy. This Privacy Policy covers Career Alerter's treatment of personal information that we collect when you are on Career Alerter's website and when you use Career Alerter's services. This policy does not apply to the practices of third parties that Career Alerter does not own or control, including websites that we may link to, or to individuals that Career Alerter does not employ or manage.
 
@@ -16,7 +16,7 @@ Career Alerter may collect or receive information about you when you register or
 
 #### Use of Information
 
-Career Alerter, or companies we partner with, may contact you based on your interests such as job postings and career development opportunities. Career Alerter's site may require you to provide Career Alerter with contact information (such as your name and email address) and demographic information. Career Alerter may use your contact information to (a) send you job alerts; (b) create an account; or (c) send you information about Career Alerter and promotional material from some of Career Alerter's partners. Your contact information is also used to contact you when necessary. Career Alerter may use demographic and/or profile data, including but not limited to search history, to tailor your experience on Career Alerter's site, show you content that Career Alerter thinks you may be interested in, and display content according to your preferences. 
+Career Alerter, or companies we partner with, may contact you based on your interests such as job postings and career development opportunities. Career Alerter's site may require you to provide Career Alerter with contact information (such as your name and email address) and demographic information. Career Alerter may use your contact information to (a) send you job alerts; (b) create an account; or (c) send you information about Career Alerter and promotional material from some of Career Alerter's partners. For the purpose of identifying users and delivering relevant content and advertisements, our partner LiveRamp may place or recognize a unique cookie on your browser or a unique ID for your mobile device. To opt-out of LiveRamp cookies, please go [here](http://liveramp.com/opt_out/). Your contact information is also used to contact you when necessary. Career Alerter may use demographic and/or profile data, including but not limited to search history, to tailor your experience on Career Alerter's site, show you content that Career Alerter thinks you may be interested in, and display content according to your preferences. 
 
 To the extent you upload a resume, Career Alerter may make the resume and other personal information contained therein available to third parties, including but not limited to employers and search engines. This means that the personal information contained in your resume can be viewed by third parties and you may receive unsolicited contact from third parties unaffiliated with Career Alerter. Career Alerter will make reasonable effort to safeguard the use of your personal information by third parties in accordance with this Privacy Policy. Career Alerter reserves the right to disclose any information as required by law. 
 
@@ -56,7 +56,7 @@ If there is a change of control in Career Alerter's business (whether by merger,
 
 #### Conditions of Use
 
-If you decide to use Career Alerter's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. If you have questions about this Privacy Policy, you can [contact us](https://web.archive.org/web/20170606114033id_/http%3A//www.careeralerter.com/contact.php).
+If you decide to use Career Alerter's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. If you have questions about this Privacy Policy, you can [contact us](https://web.archive.org/web/20171114195233id_/http%3A//www.careeralerter.com/contact.php).
 
 #### Contact Information
 
