@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlteam.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630131250id_/http%3A//www.sqlteam.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlteam.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114235148id_/http%3A//www.sqlteam.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
