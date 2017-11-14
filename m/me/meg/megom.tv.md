@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megom.tv privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515182611id_/http%3A//dotstream.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megom.tv privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114200339id_/http%3A//dotstream.tv/privacypolicy) for the most accurate reproduction.*
 
 # .Stream.tv - Privacy Policy
 
