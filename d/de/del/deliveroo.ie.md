@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliveroo.ie privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310132324id_/https%3A//deliveroo.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.ie privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114043652id_/https%3A//deliveroo.ie/privacy) for the most accurate reproduction.*
 
 # Privacy - Deliveroo
 
@@ -53,4 +53,4 @@ Any changes to our Privacy Policy will be posted to the Website and, where appro
 
 #### 7\. CONTACT
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to support@deliveroo.ie; or call on telephone +353 1 691 7191. 
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to support@deliveroo.ie; or call on telephone +353 1 526 8611. 
