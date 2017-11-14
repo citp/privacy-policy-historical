@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showme.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110317id_/http%3A//www.showme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showme.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114155158id_/http%3A//www.showme.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - ShowMe Online Learning
 
@@ -17,6 +17,9 @@ This Privacy Policy explains how ShowMe collects and uses information from its u
 When you use the Website, you may set up your personal profile, form relationships, send messages, perform searches and queries, and transmit information through various channels, as permitted by the functionality of the Website. The information we gather from users enables us to personalize and improve our services, and, in some cases, to allow our users to set up a user account and profile through the Website. In most cases, we retain such information so that, for instance, you can return to view prior messages you have sent or easily see your connections list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information. Specifically, we collect the following types of information from our users.
 
 ### Information You Provide to Us:
+
+  
+
 
 ##### Children’s Personal Information:
 
