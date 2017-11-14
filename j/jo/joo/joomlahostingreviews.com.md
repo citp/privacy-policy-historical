@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the joomlahostingreviews.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624053654id_/http%3A//www.joomlahostingreviews.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlahostingreviews.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114085009id_/http%3A//www.joomlahostingreviews.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.joomlahostingreviews.com/joomla-hosting/siteground-review.html "Best Joomla Host")
+
+[ ](http://www.joomlahostingreviews.com/)
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
