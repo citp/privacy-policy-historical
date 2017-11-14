@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendar-12.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612234214id_/http%3A//www.calendar-12.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendar-12.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114184120id_/http%3A//calendar-12.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Calendar-12.com
 
