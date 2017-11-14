@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thediscoveryblog.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501175425id_/http%3A//thediscoveryblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thediscoveryblog.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114104115id_/http%3A//thediscoveryblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Discovery Blog
 
