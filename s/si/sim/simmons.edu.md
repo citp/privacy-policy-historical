@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simmons.edu privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605005958id_/http%3A//www.simmons.edu/internal-home/faculty-staff/general-information/website/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmons.edu privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114090834id_/http%3A//www.simmons.edu/internal-home/faculty-staff/general/website/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
