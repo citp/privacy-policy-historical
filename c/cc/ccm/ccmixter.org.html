@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccmixter.org privacy policy that was archived on 2017-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170516040201id_/http%3A//ccmixter.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccmixter.org privacy policy that was archived on 2017-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171114185534id_/http%3A//ccmixter.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en" lang="en"><head> 
 
@@ -22,26 +22,81 @@ var user_name =  null;
 </script>
 
 
-<script type="text/javascript" src="http://ccmixter.org/content/media_skin_20170430095724.js"></script>
-<link rel="stylesheet" type="text/css" title="Default Style" href="http://ccmixter.org/content/media_skin_20170430095724.css">    
+<script type="text/javascript" src="http://ccmixter.org/content/media_skin_20171112120910.js"></script>
+<link rel="stylesheet" type="text/css" title="Default Style" href="http://ccmixter.org/content/media_skin_20171112120910.css">    
 <script src="https://www.google.com/recaptcha/api.js"></script>  
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script type="text/javascript">
-	var $j = jQuery.noConflict();
-  	$j( document ).ready(LoadCCPlusBlock);
-  	function LoadCCPlusBlock()
-  	{
-		if (!$j("div.taglinks").length){return;}
-  		if ($j("div.taglinks").html().indexOf("ccplus") > -1)
-  		{
-  			var NavURL = "http://tunetrack.net/license/" + window.location.host + window.location.pathname;
-  			var AppendString = '<div class="box"><h2>CCPlus Licensing</h2><p>Like this song? Click <a href="' + NavURL + '">here to license this media</a> for commercial use.</p></div>';
-  			//get existing license box
-  			var lBox = $j('#license_info').parent().html();
-  			$j('#license_info').parent().html(lBox + AppendString);
-  		}
-  		
-  	}
+var $j = jQuery.noConflict();
+
+function LoadCCPlusBlock() {
+    if (!$j("div.taglinks").length) {
+        return;
+    }
+    if ($j("div.taglinks").html().indexOf("ccplus") > -1) {
+        var NavURL = "http://tunetrack.net/license/" + window.location.host + window.location.pathname;
+        var AppendString = '<div class="box"><h2>CCPlus Licensing</h2><p>Like this song? Click <a href="' + NavURL + '">here to license this media</a> for commercial use.</p></div>';
+        //get existing license box
+        var lBox = $j('#license_info').parent().html();
+        $j('#license_info').parent().html(lBox + AppendString);
+    }
+
+}
+
+var FlashReplaceString = "http://ccmixter.org/api/query/stream.m3u?f=m3u&ids=";
+$j(document).ready(function () {
+    LoadCCPlusBlock();
+    ProcessIDsList();
+    //may need a second pass
+    setTimeout(ProcessIDsList, 1000);
+});
+
+var ProcessIDsList = function () {
+    var IDList = GetIDsList();
+    if (IDList.length == 0) {
+        return;
+    }
+    for (var i = 0; i < IDList.length; i++) {
+        SetupPlayer(IDList[i]);
+    }
+}
+
+var SetupPlayer = function (DownloadID) {
+    var SubmitURL = "http://ccmixter.org/api/query/api?ids=" + DownloadID +
+        "&f=json&dataview=links_dl";
+    $j.ajax({
+        type: "GET",
+        url: SubmitURL,
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
+        success: function (data) {
+            if (data.length > 0) {
+                var fileResult = data[0];
+                if (fileResult.files.length > 0) {
+                    var DownloadURL = fileResult.files[0].download_url;
+                    var ReplaceURL = "_ep_" + DownloadID;
+                    var ReplaceContent = "<audio preload='none' controls><source src='" +
+                        DownloadURL + "' type='audio/mpeg'>Your browser does not support the audio element</audio>\r\n";
+                    $j("a[id='" + ReplaceURL + "']").parent().html(ReplaceContent);
+                }
+            }
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            //leave it.
+        }
+    });
+
+}
+
+var GetIDsList = function () {
+    var IDList = new Array();
+    var list = $j("a[href*='m3u']").each(function (index) {
+        var IDToProcess = $j(this).attr("href").replace(FlashReplaceString, "");
+        IDList.push(IDToProcess);
+    });
+    return IDList;
+}
+
   </script>
 </head><body>
 <script>
@@ -62,7 +117,7 @@ var user_name =  null;
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 </script>
-        <div id="beta_message" style="position:absolute;"> <a href="http://ccmixter.org/thread/3975">ccMixter call for Developers</a></div>
+        <div id="beta_message" style="position:absolute;"><a href="http://ccmixter.org/thread/4023">Early Birds Begin Nesting in the Tree</a></div>
     
 <div class="hide">
   <a href="#content">skip</a>
@@ -194,35 +249,35 @@ at <a href="http://dig.ccmixter.org" style="font-weight:bold;text-decoration:und
             <div class="menu_group">        
           <p>Editors' Picks</p>
 <ul>
-   <li><a href="http://ccmixter.org/files/Lancefield/55996" class="cc_file_link">Along the Lak...</a></li>
-   <li><a href="http://ccmixter.org/files/airtone/55970" class="cc_file_link">wayOutHere</a></li>
-   <li><a href="http://ccmixter.org/files/tobias_weber/55968" class="cc_file_link">Come Back 2 M...</a></li>
-   <li><a href="http://ccmixter.org/files/NiGiD/55933" class="cc_file_link">Surrender (ft...</a></li>
-   <li><a href="http://ccmixter.org/files/Karstenholymoly/55921" class="cc_file_link">Freedom</a></li>
+   <li><a href="http://ccmixter.org/files/Xalpheric/56825" class="cc_file_link">Crystaline-El...</a></li>
+   <li><a href="http://ccmixter.org/files/jlbrock44/56779" class="cc_file_link">All The World...</a></li>
+   <li><a href="http://ccmixter.org/files/SiobhanD/56771" class="cc_file_link">Der Mond ist ...</a></li>
+   <li><a href="http://ccmixter.org/files/airtone/56765" class="cc_file_link">pumpkinSoup</a></li>
+   <li><a href="http://ccmixter.org/files/tobias_weber/56764" class="cc_file_link">A Dream Withi...</a></li>
 <li><a href="http://ccmixter.org/editorial/picks" class="cc_more_menu_link">More picks...</a></li>
 </ul>        </div>
             <div class="menu_group">        
           
 <p>Highest Rated</p>
 <ul>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/Loveshadow/55951">Sumthin Sp...</a></li>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/JeffSpeed68/55945">Do You Rea...</a></li>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/JeffSpeed68/55962">85 Miles</a></li>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/tobias_weber/55968">Come Back ...</a></li>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/JeffSpeed68/55974">Unknown Fo...</a></li>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/rocavaco/55955">Bass17w18</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/Loveshadow/56785">See The Bi...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/JeffSpeed68/56828">Urban Dese...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/speck/56811">On A Whisp...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/JeffSpeed68/56830">Gypsy Jazz</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/lisadb/56847">Traveling ...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/NiGiD/56835">a Distant ...</a></li>
 </ul>        </div>
             <div class="menu_group">        
           
 <p>Recent Reviewers</p>
 <ul>
-<li><a href="http://ccmixter.org/reviews/kcentric/46947#236854">RizkeyG</a></li>
-<li><a href="http://ccmixter.org/reviews/Dan_Mantau/55939#236853">Dagon</a></li>
-<li><a href="http://ccmixter.org/reviews/destinazione_altrove/55990#236852">Kara Square</a></li>
-<li><a href="http://ccmixter.org/reviews/Lancefield/55996#236847">Speck</a></li>
-<li><a href="http://ccmixter.org/reviews/destinazione_altrove/55990#236846">Quarkstar</a></li>
-<li><a href="http://ccmixter.org/reviews/Loveshadow/55951#236843">mykleanthony</a></li>
-<li><a href="http://ccmixter.org/reviews/Pitx/13318#236840">economix</a></li>
+<li><a href="http://ccmixter.org/reviews/Loveshadow/56867#239596">DeBenedictis</a></li>
+<li><a href="http://ccmixter.org/reviews/lisadb/56847#239595">Loveshadow</a></li>
+<li><a href="http://ccmixter.org/reviews/JeffSpeed68/56863#239594">Speck</a></li>
+<li><a href="http://ccmixter.org/reviews/JeffSpeed68/56863#239592">short hopper</a></li>
+<li><a href="http://ccmixter.org/reviews/SiobhanD/56859#239591">Admiral Bob</a></li>
+<li><a href="http://ccmixter.org/reviews/lisadb/56847#239590">RizkeyG</a></li>
+<li><a href="http://ccmixter.org/reviews/JeffSpeed68/56840#239587">Mr_Yesterday</a></li>
 <li><a href="http://ccmixter.org/reviews" class="cc_more_menu_link">More reviews...</a></li>
 </ul>        </div>
             <div class="menu_group">        
@@ -255,7 +310,7 @@ urchinTracker();
 
 </p><div class="hide" style="font-size:1px;">
 
-<a href="/emails/indexe.php?index=457764896" rel="nofollow" id="__cnt_st">&nbsp;</a>
+<a href="/emails/indexe.php?index=1274195202" rel="nofollow" id="__cnt_st">&nbsp;</a>
 
 </div>
 
