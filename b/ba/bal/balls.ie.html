@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the balls.ie privacy policy that was archived on 2017-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170218100209id_/https%3A//www.balls.ie/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the balls.ie privacy policy that was archived on 2017-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171114192330id_/https%3A//www.balls.ie/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="noscroll"><head>
         <meta charset="utf-8">
@@ -9,7 +9,7 @@
         <meta name="description" content="Privacy Policy for www.balls.ie
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at thegaffe...">
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
-        <link media="all" type="text/css" rel="stylesheet" href="https://www.balls.ie/assets/css/main.min-7d15240f.css">
+        <link media="all" type="text/css" rel="stylesheet" href="https://www.balls.ie/assets/css/main.min-5a6d006d.css">
 
         <link rel="icon" type="image/png" href="https://www.balls.ie/assets/i/android-chrome-192x192.png?v=2" sizes="192x192">
         <link rel="apple-touch-icon" href="https://www.balls.ie/assets/i/apple-touch-icon-128x128.png?v=2">
@@ -29,14 +29,14 @@ If you require any more information or have any questions about our privacy poli
                             <meta name="apple-itunes-app" content="app-id=995175899">
                             <meta name="google-play-app" content="app-id=io.sq1.pplus.app.ballsie">
         
-        <script async="" src="https://prod.webpu.sh/-pkcWgZOxgy8SssUXLNYDRNnlaufvYbD/sdk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+        <script async="" src="//cdn.socialhoney.co/widget/sh.js"></script><script async="" src="https://prod.webpu.sh/-pkcWgZOxgy8SssUXLNYDRNnlaufvYbD/sdk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
     var googletag = googletag || {};
     var refsource = '';
     var _isArticle = true;
 
         if (document.referrer.match(/^https?:\/\/([^\/]+\.)?t\.co(\/|$)/i)) {
         refsource = 'twitter';
-    } else if (document.referrer.match(/^https?:\/\/([^\/]+\.)?facebook\.com(\/|$)/i)) {
+    } else if (document.referrer.match(/^((https?)|(android-app?)):\/\/([^\/]+\.)?facebook\.com(\/|$)/i)) {
         refsource = 'facebook';
     }
 
@@ -70,16 +70,12 @@ If you require any more information or have any questions about our privacy poli
 
         dfp_mappings.mapTopBanner = googletag.sizeMapping()
             .addSize([758, 200], [728, 90])
-            .addSize([980, 200], [[728, 90], [970, 250], [970, 90]])
-            .build();
-
-        dfp_mappings.mapInterstitial = googletag.sizeMapping()
-            .addSize([100, 100], [[320, 480]])
+            .addSize([980, 200], [[728, 90], [970, 250], [970, 90], [970, 55]])
             .build();
 
         dfp_mappings.mapFooterMobileBanner = googletag.sizeMapping()
-            .addSize([100, 100], [320, 50])
-            .addSize([758, 200], [320, 50])
+            .addSize([100, 100], [[320, 50], [300, 50]])
+            .addSize([758, 200], [[320, 50], [300, 50]])
             .build();
 
         dfp_mappings.mapTallSky = googletag.sizeMapping()
@@ -108,21 +104,16 @@ If you require any more information or have any questions about our privacy poli
         dfp_placements.top_page = googletag.defineSlot('/9044862/balls_page_top', [1,1], 'div-gpt-top')
             .defineSizeMapping(dfp_mappings.mapTopBanner)
             .addService(googletag.pubads());
-        dfp_placements.interstitial = googletag.defineSlot('/9044862/balls_interstitial', [1, 1], 'div-gpt-interstitial')
-            .defineSizeMapping(dfp_mappings.mapInterstitial)
-            .addService(googletag.pubads());
-                dfp_placements.just_premium = googletag.defineSlot('/9044862/balls_justpremium', [1, 1], 'div-gpt-justpremium')
-            .addService(googletag.pubads());
+        // Top sidebar only fired on initial load for desktop
+        if (window.matchMedia("only screen and (min-width: 768px)").matches) {
+                        dfp_placements.just_premium = googletag.defineSlot('/9044862/balls_justpremium', [1, 1], 'div-gpt-justpremium')
+                .addService(googletag.pubads());
+        }
 
         // Top sidebar only fired on initial load for desktop
         if (window.matchMedia("only screen and (min-width: 992px)").matches) {
             dfp_placements.just_premium = googletag.defineSlot('/9044862/balls_sidebar_top', [1, 1], 'div-gpt-sidebar-top')
                 .defineSizeMapping(dfp_mappings.mapTallSky)
-                .addService(googletag.pubads());
-        }
-        if (window.matchMedia("only screen and (max-width: 768px)").matches) {
-            dfp_placements.sticky_footer = googletag.defineSlot('/9044862/balls_mobile_footer', [1, 1], 'div-gpt-mobile-sticky-footer')
-                .defineSizeMapping(dfp_mappings.mapFooterMobileBanner)
                 .addService(googletag.pubads());
         }
 
@@ -132,6 +123,9 @@ If you require any more information or have any questions about our privacy poli
                 .defineSizeMapping(dfp_mappings.mapRiverMpu)
                 .addService(googletag.pubads());
         }
+
+        dfp_placements.sovrn = googletag.defineSlot('/9044862/balls_sovrn', [1, 1], 'div-gpt-ad-1492696981943-0')
+            .addService(googletag.pubads());
 
             googletag.defineSlot('/9044862/balls_article_inline_video', [1, 1], 'div-gpt-article-video')
         .addService(googletag.pubads());
@@ -161,12 +155,19 @@ If you require any more information or have any questions about our privacy poli
                     if ($('html, body').hasClass('noscroll')) {
                         $('body,html').removeClass('noscroll');
                     }
+
+                    if (window.matchMedia("only screen and (min-width: 992px)").matches) {
+                        // Control stick property of div
+                        $(document).ready(function () {
+                            if ($("#div-gpt-top").length > 0 && !$('.sticky-spacer').hasClass('no-sticky')) {
+                                $(window).scroll(handler);
+                            }
+                        });
+                        if (document.body.scrollTop >= 0  && document.body.scrollTop <= 150) {
+                            setStickyTopAd ();
+                        }
+                    }
                 }, 1500);
-            } else if (typeof event.slot.l !== "undefined"
-                && typeof event.slot.l._qqid_ !== "undefined"
-                && event.isEmpty) {
-                // Lazy loaded slot. If it's an empty banner, hide the ad strapline
-                $('.mid-article-unit .banner[data-google-query-id="'+event.slot.l._qqid_+'"]').parent().remove();
             }
         }
     });
@@ -243,7 +244,7 @@ If you require any more information or have any questions about our privacy poli
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-7533626-6', 'auto');ga('require', 'displayfeatures');ga('send', 'pageview');
+    ga('create', 'UA-7533626-6', 'auto', {'siteSpeedSampleRate': 50});ga('require', 'displayfeatures');ga('send', 'pageview');
 
     <!-- Facebook Pixel Code -->
     !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -258,7 +259,7 @@ If you require any more information or have any questions about our privacy poli
 
     /* Comscore */
     var _comscore = _comscore || [];
-    _comscore.push({ c1: "2", c2: "18987979" });
+    _comscore.push({ c1: "2", c2: "24928961" });
     (function() {
         var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
         s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
@@ -267,20 +268,23 @@ If you require any more information or have any questions about our privacy poli
 </script>
 <noscript>
     <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1553389154877210&ev=PageView&noscript=1" alt="" />
-    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=18987979&cv=2.0&cj=1" />
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=24928961&cv=2.0&cj=1" />
 </noscript>
 
                             <script>
                 (function(p,u,s,h,e,r,l,i,b) {p['XtremePushObject']=h;p[h]=function(){
-                    (p[h].q=p[h].q||[]).push(arguments)};i=u.createElement('script');i.async=1;
-                    i.src=s;b=u.getElementsByTagName('script')[0];b.parentNode.insertBefore(i,b);
+                (p[h].q=p[h].q||[]).push(arguments)};i=u.createElement('script');i.async=1;
+                i.src=s;b=u.getElementsByTagName('script')[0];b.parentNode.insertBefore(i,b);
                 })(window,document,'https://prod.webpu.sh/-pkcWgZOxgy8SssUXLNYDRNnlaufvYbD/sdk.js','xtremepush');
+                ga('set', 'dimension5', 5);
                                                             xtremepush('tag', 'user.category', 'uncategorized');
                                                 </script>
         
         <script async="" type="text/javascript" src="//yu987.com/efz0km98tyz64ulaeb4h3fzn.js"></script>
 
-    </head>
+                        <!-- OnScroll tag: Ballsie -->
+        <script src="//tags.onscroll.com/cc536e06-ac86-464d-acc6-ff111fec411d/tag.min.js" async="" defer=""></script>
+    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     <body>
         <div class="sticky-helper"></div>
         <div id="main-body">
@@ -292,18 +296,16 @@ If you require any more information or have any questions about our privacy poli
                             <ul class="list-inline">
                                                                     <li class="hidden-xs"><a href="https://www.balls.ie/american-sports">American Sports</a></li>
                                                                     <li class="hidden-xs"><a href="https://www.balls.ie/american-sports/tag/wrestling">Wrestling</a></li>
-                                                                    <li class="hidden-xs"><a href="https://www.balls.ie/golf">Golf</a></li>
-                                                                    <li class="hidden-xs"><a href="https://www.balls.ie/athletics">Athletics</a></li>
                                                                     <li class="hidden-xs"><a href="https://www.balls.ie/boxing">Boxing</a></li>
+                                                                    <li class="hidden-xs"><a href="https://www.balls.ie/athletics">Athletics</a></li>
                                                                     <li class="hidden-xs"><a href="https://www.balls.ie/other-sports">Other Sports</a></li>
-                                                                    <li class="hidden-xs"><a href="https://www.balls.ie/video">Video</a></li>
-                                                                    <li class="hidden-xs"><a href="https://www.balls.ie/galleries">Galleries</a></li>
-                                                                    <li class="hidden-xs"><a href="https://www.balls.ie/tag/irish-sport">Irish Sport</a></li>
                                                                     <li class="hidden-xs"><a href="https://www.balls.ie/gaming">Gaming</a></li>
+                                                                    <li class="hidden-xs"><a href="https://www.balls.ie/tag/balls-remembers">Balls Remembers</a></li>
+                                                                    <li class="hidden-xs"><a href="https://www.balls.ie/tag/editors-picks">Editor's Picks</a></li>
                                                                 <li class="socials">
                                                                             <a href="http://www.facebook.com/ballsdotie" rel="external" data-category="Nav Link" data-label="Header Icon" data-value="Facebook" class="analytics"><i class="fa fa-facebook"></i></a>
                                                                                                                 <a href="http://twitter.com/ballsdotie" rel="external" data-category="Nav Link" data-label="Header Icon" data-value="Twitter" class="analytics"><i class="fa fa-twitter"></i></a>
-                                                                                                                <a href="https://itunes.apple.com/en/app/id995175899" rel="external" data-category="Nav Link" data-label="Header Icon" data-value="iOS App" class="analytics"><i class="fa fa-apple"></i></a>
+                                                                                                                <a href="https://itunes.apple.com/app/id995175899" rel="external" data-category="Nav Link" data-label="Header Icon" data-value="iOS App" class="analytics"><i class="fa fa-apple"></i></a>
                                                                                                                 <a href="http://play.google.com/store/apps/details?id=io.sq1.pplus.app.ballsie" rel="external" data-category="Nav Link" data-label="Header Icon" data-value="Android App" class="analytics"><i class="fa fa-android"></i></a>
                                                                     </li>
                             </ul>
@@ -312,7 +314,7 @@ If you require any more information or have any questions about our privacy poli
                 </div>
 
                 <div class="container">
-                    <div class="col-md-12">
+                    <div class="col-md-12 green-block">
 
                         <div class="navbar-top pull-right hidden-xs">
                             <form class="search-form">
@@ -341,36 +343,36 @@ If you require any more information or have any questions about our privacy poli
                                 <a href="https://www.balls.ie">
                                     <span class="navbar-logo"></span>
                                 </a>
-                            </div>
+                                                            </div>
                         </div>
 
                         <div class="collapse navbar-collapse" id="header">
                             <ul class="nav navbar-nav">
 
-                                                                                                                                                                    <li class="visible-xs "><a href="https://www.balls.ie/football">Football</a></li>
+                                                                                                
+                                
+                                                                    <li class="visible-xs "><a href="https://www.balls.ie/football">Football</a></li>
                                                                     <li class="visible-xs "><a href="https://www.balls.ie/gaa">GAA</a></li>
                                                                     <li class="visible-xs "><a href="https://www.balls.ie/rugby">Rugby</a></li>
+                                                                    <li class="visible-xs "><a href="https://www.balls.ie/golf">Golf</a></li>
                                                                     <li class="visible-xs "><a href="https://www.balls.ie/mma">MMA</a></li>
-                                                                    <li class="visible-xs "><a href="https://www.balls.ie/fitness-lifestyle">Fitness/Lifestyle</a></li>
-                                                                    <li class="visible-xs "><a href="https://www.balls.ie/tag/balls-remembers">Balls Remembers</a></li>
+                                                                    <li class="visible-xs "><a href="https://www.balls.ie/irishlife">Irish Life</a></li>
                                                                                                                                     <li class="visible-xs"><a href="https://www.balls.ie/american-sports">American Sports</a></li>
                                                                     <li class="visible-xs"><a href="https://www.balls.ie/american-sports/tag/wrestling">Wrestling</a></li>
-                                                                    <li class="visible-xs"><a href="https://www.balls.ie/golf">Golf</a></li>
-                                                                    <li class="visible-xs"><a href="https://www.balls.ie/athletics">Athletics</a></li>
                                                                     <li class="visible-xs"><a href="https://www.balls.ie/boxing">Boxing</a></li>
+                                                                    <li class="visible-xs"><a href="https://www.balls.ie/athletics">Athletics</a></li>
                                                                     <li class="visible-xs"><a href="https://www.balls.ie/other-sports">Other Sports</a></li>
-                                                                    <li class="visible-xs"><a href="https://www.balls.ie/video">Video</a></li>
-                                                                    <li class="visible-xs"><a href="https://www.balls.ie/galleries">Galleries</a></li>
-                                                                    <li class="visible-xs"><a href="https://www.balls.ie/tag/irish-sport">Irish Sport</a></li>
                                                                     <li class="visible-xs"><a href="https://www.balls.ie/gaming">Gaming</a></li>
+                                                                    <li class="visible-xs"><a href="https://www.balls.ie/tag/balls-remembers">Balls Remembers</a></li>
+                                                                    <li class="visible-xs"><a href="https://www.balls.ie/tag/editors-picks">Editor's Picks</a></li>
                                 
-                                                                    <li class="hidden-xs "><a href="https://www.balls.ie/football">Football</a></li>
-                                                                    <li class="hidden-xs "><a href="https://www.balls.ie/gaa">GAA</a></li>
-                                                                    <li class="hidden-xs "><a href="https://www.balls.ie/rugby">Rugby</a></li>
-                                                                    <li class="hidden-xs "><a href="https://www.balls.ie/mma">MMA</a></li>
-                                                                    <li class="hidden-xs "><a href="https://www.balls.ie/fitness-lifestyle">Fitness/Lifestyle</a></li>
-                                
-                                                                    <li class="hidden-sm hidden-xs "><a href="https://www.balls.ie/tag/balls-remembers">Balls Remembers</a></li>
+                                                                                                            <li class="hidden-xs "><a href="https://www.balls.ie/football">Football</a></li>
+                                                                                                                                                <li class="hidden-xs "><a href="https://www.balls.ie/gaa">GAA</a></li>
+                                                                                                                                                <li class="hidden-xs "><a href="https://www.balls.ie/rugby">Rugby</a></li>
+                                                                                                                                                <li class="hidden-xs "><a href="https://www.balls.ie/golf">Golf</a></li>
+                                                                                                                                                <li class="hidden-xs "><a href="https://www.balls.ie/mma">MMA</a></li>
+                                                                    
+                                                                    <li class="hidden-sm hidden-xs "><a href="https://www.balls.ie/irishlife">Irish Life</a></li>
                                 
                             </ul>
                         </div><!--/.nav-collapse -->
@@ -401,13 +403,15 @@ If you require any more information or have any questions about our privacy poli
             
             <div class="container main-wrapper">
 
-                                                    <div class="text-center top-space">
-    <div id="div-gpt-top" class="text-center hidden-xs">
-        <script type="text/javascript">
-            googletag.cmd.push(function() {
-                googletag.display('div-gpt-top');
-            });
-        </script>
+                                                    <div class="sticky-spacer">
+    <div class="text-center top-space-ad tablet top-ad" id="top-ad-desktop">
+        <div id="div-gpt-top" class="text-center hidden-xs">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-top');
+                });
+            </script>
+        </div>
     </div>
 </div>                
                 <section class="container main-content-container" data-sticky_parent="">
@@ -489,6 +493,23 @@ If you require any more information or have any questions about our privacy poli
                 <!-- Article End -->
             </section>
         </article>
+
+        <div id="rs_ctTileRecommender"></div>
+<script>
+(function (t, h, u, n, d, e, r) {
+t[d] = t[d] || function ()
+{ (t[d].q = t[d].q || []).push(arguments) }
+;
+e = h.createElement(u);
+r = h.getElementsByTagName(u)[0];
+e.async = 1;
+e.src = n;
+r.parentNode.insertBefore(e, r);
+})(window, document, 'script', '//cdn.socialhoney.co/widget/sh.js', 'sh');
+sh('domLocation', document.getElementById('rs_ctTileRecommender'));
+sh('create', 'SH-94607383-9');
+</script>
+
         <section class="social-footer auto-pad">
             
             
@@ -553,15 +574,15 @@ If you require any more information or have any questions about our privacy poli
     <span class="mini-river-panel-header text-uppercase">Popular on Balls</span>
 
     <div class="article secondary-article">
-    <a href="/football/paddy-mccourt-finn-harps-359253">
+    <a href="/football/daniele-de-rossi-giampiero-ventura-argument-377648">
         <figure class="image-container">
             <picture>
                 <!--[if IE 9]><video style="display: none;"><![endif]-->
-                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzEzMjg1M1xcXC9QYXQtTWNDb3VydC5qcGdcIixcIndpZHRoXCI6MzAzLFwiaGVpZ2h0XCI6MTcwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiIyYWMyYWFhZGJjYzBhYzc3MzE3ODhiNGViMzU3NzExNmViMDljMGM5In0=/paddy-mccourt-reportedly-set-for-return-to-league-of-ireland.jpg" media="(min-width: 992px)">
-                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzEzMjg1M1xcXC9QYXQtTWNDb3VydC5qcGdcIixcIndpZHRoXCI6NzA1LFwiaGVpZ2h0XCI6NDEyLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiIzYmI3NmE2NWI4MDdhNzllZjdiYzM5MzE1NmZkMzY4ZjI0OTg3ZjNiIn0=/paddy-mccourt-reportedly-set-for-return-to-league-of-ireland.jpg" media="(min-width: 769px)">
-                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzEzMjg1M1xcXC9QYXQtTWNDb3VydC5qcGdcIixcIndpZHRoXCI6NzM3LFwiaGVpZ2h0XCI6NDMwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiI2MThkM2U3MjI3NDU3MTAxOTZkYjE0YTJmMTdjMWFlNGUyOWQ0YWE2In0=/paddy-mccourt-reportedly-set-for-return-to-league-of-ireland.jpg" media="(max-width: 768px)">
+                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xNDA3MTcxNFxcXC9DYXB0dXJlNy5qcGdcIixcIndpZHRoXCI6MzAzLFwiaGVpZ2h0XCI6MTcwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJjNTVlZjcyMjBiYTI2YTE1OTQ1NGI1NGY4YzgxZThjZmZmZDNlOTk1In0=/daniele-de-rossi-explains-subs-bench-argument-with-italy-coach.jpg" media="(min-width: 992px)">
+                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xNDA3MTcxNFxcXC9DYXB0dXJlNy5qcGdcIixcIndpZHRoXCI6NzA1LFwiaGVpZ2h0XCI6NDEyLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJjMThlM2JjNDZjNmNjMWM0OWFlMGNhNWU5MWI5MmE4NjhjMjQ2ZTA1In0=/daniele-de-rossi-explains-subs-bench-argument-with-italy-coach.jpg" media="(min-width: 769px)">
+                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xNDA3MTcxNFxcXC9DYXB0dXJlNy5qcGdcIixcIndpZHRoXCI6NzM3LFwiaGVpZ2h0XCI6NDMwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiIxNDQyMDJjNGY1ZDUyMjI0MTFhZWQ4MThlNGVhMjJmZDljMTZlYWJmIn0=/daniele-de-rossi-explains-subs-bench-argument-with-italy-coach.jpg" media="(max-width: 768px)">
                 <!--[if IE 9]></video><![endif]-->
-                <img srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzEzMjg1M1xcXC9QYXQtTWNDb3VydC5qcGdcIixcIndpZHRoXCI6NzMwLFwiaGVpZ2h0XCI6NDMwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiIyZTEyYzcxNDhmZTA1NjcxM2Q2YWQ0MDA1YjAxNzgzM2RmNWQ4NDA1In0=/paddy-mccourt-reportedly-set-for-return-to-league-of-ireland.jpg" alt="Paddy McCourt Reportedly Set For Return To League Of Ireland">
+                <img srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xNDA3MTcxNFxcXC9DYXB0dXJlNy5qcGdcIixcIndpZHRoXCI6NzMwLFwiaGVpZ2h0XCI6NDMwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJmNjJhZDFlMzU1NmIyM2JkMTNiZjQ3N2E1M2E3YWZiNzM1NjI2OTlkIn0=/daniele-de-rossi-explains-subs-bench-argument-with-italy-coach.jpg" alt="Daniele De Rossi Explains Subs Bench Argument With Italy Coach">
             </picture>
         </figure>
     </a>
@@ -569,12 +590,12 @@ If you require any more information or have any questions about our privacy poli
                     <a href="https://www.balls.ie/football" class="category-link category-link-football text-uppercase">Football</a>
                 
         <div class="byline ">
-            20 hours ago
+            11 hours ago
             <br>
-            By <a href="https://www.balls.ie/author/david-kent/246">David Kent</a>
+            By <a href="https://www.balls.ie/author/pj/44">PJ Browne</a>
         </div>
         <div class="title">
-            <a href="/football/paddy-mccourt-finn-harps-359253">Paddy McCourt Reportedly Set For Return To League Of Ireland</a>
+            <a href="/football/daniele-de-rossi-giampiero-ventura-argument-377648">Daniele De Rossi Explains Subs Bench Argument With Italy Coach</a>
         </div>
     </div>
 </div>
@@ -583,14 +604,14 @@ If you require any more information or have any questions about our privacy poli
                           <div class="article default-holder  ">
     <div class="default-unit">
         <div class="image-container">
-            <a href="/rugby/jack-conan-359255">
+            <a href="/uncategorized/berry-van-peer-dartitis-377655">
                 <picture>
                     <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzE0MjcyMFxcXC8xMjU4Nzg5LmpwZ1wiLFwid2lkdGhcIjoyMTIsXCJoZWlnaHRcIjoxMzUsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6IjY0ODViN2JlZDdjNDNiODExMTJjNWE0Y2YwZmI3N2NlNmQ5MDY0OWEifQ==/leinster-and-ireland-backrow-linked-with-move-to-aviva-premiership.jpg" media="(min-width: 992px)">
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzE0MjcyMFxcXC8xMjU4Nzg5LmpwZ1wiLFwid2lkdGhcIjoyMzUsXCJoZWlnaHRcIjoxNDIsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6IjdhMWZkOWVkZDI5N2ZjYzkwZjI3OGRkNWIwNmM2MTRiMjQ5NzcyNTMifQ==/leinster-and-ireland-backrow-linked-with-move-to-aviva-premiership.jpg" media="(min-width: 769px)">
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzE0MjcyMFxcXC8xMjU4Nzg5LmpwZ1wiLFwid2lkdGhcIjo3MjAsXCJoZWlnaHRcIjo0MTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6ImRmN2NkZWYyOTA3ZGE5NTMyMGZkNTZjMzZkMjZiOWUyMDc1NWU0OTEifQ==/leinster-and-ireland-backrow-linked-with-move-to-aviva-premiership.jpg" media="(max-width: 768px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xNDEwNDkwNVxcXC9idm8uanBnXCIsXCJ3aWR0aFwiOjIxMixcImhlaWdodFwiOjEzNSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiYjg3Mjg1ZjBmMzVjMDgyYWM4MjFlNjhjZDFmZTRkNDI4ZjdiYWNhZSJ9/drama-on-sky-sports-as-young-darts-player-overcomes-demons-on-stage.jpg" media="(min-width: 992px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xNDEwNDkwNVxcXC9idm8uanBnXCIsXCJ3aWR0aFwiOjIzNSxcImhlaWdodFwiOjE0MixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiMWQwMjBkOTgwNzkwZjE4NzAwMTAzZmIzNDAwMTYzMjg5MjRkMmU2OCJ9/drama-on-sky-sports-as-young-darts-player-overcomes-demons-on-stage.jpg" media="(min-width: 769px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xNDEwNDkwNVxcXC9idm8uanBnXCIsXCJ3aWR0aFwiOjcyMCxcImhlaWdodFwiOjQxMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiZDc2N2QwN2Q4YWIwZGRkZTgxYmMxNmExYTA1MTg0MTlhMGM4MTAyOSJ9/drama-on-sky-sports-as-young-darts-player-overcomes-demons-on-stage.jpg" media="(max-width: 768px)">
                     <!--[if IE 9]></video><![endif]-->
-                    <img src="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCIsXCJ3aWR0aFwiOjc3MixcImhlaWdodFwiOjQzNixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiODk5MzYzZGE4MzNlMDk4MGJlYmQ5YWRiOGJmOWQwMTI2MDQ0NWU1MCJ9/no-image.png?v=4" data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzE0MjcyMFxcXC8xMjU4Nzg5LmpwZ1wiLFwid2lkdGhcIjo3MjAsXCJoZWlnaHRcIjo0MTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6ImRmN2NkZWYyOTA3ZGE5NTMyMGZkNTZjMzZkMjZiOWUyMDc1NWU0OTEifQ==/leinster-and-ireland-backrow-linked-with-move-to-aviva-premiership.jpg" alt="Leinster And Ireland Backrow Linked With Move To Aviva Premiership" class="river-img lazyload">
+                    <img src="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCIsXCJ3aWR0aFwiOjc3MixcImhlaWdodFwiOjQzNixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiODk5MzYzZGE4MzNlMDk4MGJlYmQ5YWRiOGJmOWQwMTI2MDQ0NWU1MCJ9/no-image.png?v=4" data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xNDEwNDkwNVxcXC9idm8uanBnXCIsXCJ3aWR0aFwiOjcyMCxcImhlaWdodFwiOjQxMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiZDc2N2QwN2Q4YWIwZGRkZTgxYmMxNmExYTA1MTg0MTlhMGM4MTAyOSJ9/drama-on-sky-sports-as-young-darts-player-overcomes-demons-on-stage.jpg" alt="Drama On Sky Sports As Young Darts Player Overcomes Demons On Stage" class="river-img lazyload">
                 </picture>
             </a>
         </div>
@@ -598,15 +619,15 @@ If you require any more information or have any questions about our privacy poli
             
             
 
-                            <a href="https://www.balls.ie/rugby" class="category-link category-link-rugby text-uppercase">Rugby</a>
+                            <a href="https://www.balls.ie/uncategorized" class="category-link category-link-uncategorized text-uppercase">Random</a>
             
             <div class="byline ">
-                17 hours ago
+                7 hours ago
                 <br>
                 By <a href="https://www.balls.ie/author/pj/44">PJ Browne</a>
             </div>
             <div class="title">
-                <a href="/rugby/jack-conan-359255">Leinster And Ireland Backrow Linked With Move To Aviva Premiership</a>
+                <a href="/uncategorized/berry-van-peer-dartitis-377655">Drama On Sky Sports As Young Darts Player Overcomes Demons On Stage</a>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -615,14 +636,14 @@ If you require any more information or have any questions about our privacy poli
                       <div class="article default-holder  ">
     <div class="default-unit">
         <div class="image-container">
-            <a href="/football/real-betis-celtic-jersey-359261">
+            <a href="/football/watch-devastated-gigi-buffon-reduced-tears-italy-fail-reach-world-cup-377635">
                 <picture>
                     <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzE3MjE1OVxcXC9jZXRpcy5qcGdcIixcIndpZHRoXCI6MjEyLFwiaGVpZ2h0XCI6MTM1LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiI1OWJlZGZhYjg4ZjZiY2IyYWNhOTEyMjUyNGQxZTFiZjUwYzE1MTI4In0=/real-betis-release-celtic-inspired-jersey-to-be-worn-in-la-liga-this-month.jpg" media="(min-width: 992px)">
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzE3MjE1OVxcXC9jZXRpcy5qcGdcIixcIndpZHRoXCI6MjM1LFwiaGVpZ2h0XCI6MTQyLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiI3MGFjZDRkNWNjNTI5ZjJiZTlhZWJmOWE1Njc1ZmFiY2IyYzRlMjNjIn0=/real-betis-release-celtic-inspired-jersey-to-be-worn-in-la-liga-this-month.jpg" media="(min-width: 769px)">
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzE3MjE1OVxcXC9jZXRpcy5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJhZDgxMjk1MzQ0ZGVhNzU2YjU0NWM2MTRiMDZjNjU1ODBlOTg0ZDRlIn0=/real-betis-release-celtic-inspired-jersey-to-be-worn-in-la-liga-this-month.jpg" media="(max-width: 768px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xMzIyMTI1MFxcXC9DYXB0dXJlMjMucG5nXCIsXCJ3aWR0aFwiOjIxMixcImhlaWdodFwiOjEzNSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiYzgzOWY2YmYzNTg5YjNlNmMyMmMxYTc1ZmJiMTJmMmZkNGQxYzc5OSJ9/watch-a-devastated-gigi-buffon-reduced-to-tears-as-italy-fail-to-reach-world-cup.png" media="(min-width: 992px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xMzIyMTI1MFxcXC9DYXB0dXJlMjMucG5nXCIsXCJ3aWR0aFwiOjIzNSxcImhlaWdodFwiOjE0MixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiNjcyY2MxYTlhNTQ0ZTNjNzhmNmIyNTczY2E3YjgxZTRiZDgxNGI0MyJ9/watch-a-devastated-gigi-buffon-reduced-to-tears-as-italy-fail-to-reach-world-cup.png" media="(min-width: 769px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xMzIyMTI1MFxcXC9DYXB0dXJlMjMucG5nXCIsXCJ3aWR0aFwiOjcyMCxcImhlaWdodFwiOjQxMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiZDk3NTVkY2ZlMDI3Mzg5NDgxNTRiODhhNmMxY2FjY2NiMjk0ZWE2MiJ9/watch-a-devastated-gigi-buffon-reduced-to-tears-as-italy-fail-to-reach-world-cup.png" media="(max-width: 768px)">
                     <!--[if IE 9]></video><![endif]-->
-                    <img src="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCIsXCJ3aWR0aFwiOjc3MixcImhlaWdodFwiOjQzNixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiODk5MzYzZGE4MzNlMDk4MGJlYmQ5YWRiOGJmOWQwMTI2MDQ0NWU1MCJ9/no-image.png?v=4" data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8wMlxcXC8xNzE3MjE1OVxcXC9jZXRpcy5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJhZDgxMjk1MzQ0ZGVhNzU2YjU0NWM2MTRiMDZjNjU1ODBlOTg0ZDRlIn0=/real-betis-release-celtic-inspired-jersey-to-be-worn-in-la-liga-this-month.jpg" alt="Real Betis Release Celtic-Inspired Jersey To Be Worn In La Liga This Month" class="river-img lazyload">
+                    <img src="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCIsXCJ3aWR0aFwiOjc3MixcImhlaWdodFwiOjQzNixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiODk5MzYzZGE4MzNlMDk4MGJlYmQ5YWRiOGJmOWQwMTI2MDQ0NWU1MCJ9/no-image.png?v=4" data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xMzIyMTI1MFxcXC9DYXB0dXJlMjMucG5nXCIsXCJ3aWR0aFwiOjcyMCxcImhlaWdodFwiOjQxMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiZDk3NTVkY2ZlMDI3Mzg5NDgxNTRiODhhNmMxY2FjY2NiMjk0ZWE2MiJ9/watch-a-devastated-gigi-buffon-reduced-to-tears-as-italy-fail-to-reach-world-cup.png" alt="Watch: A Devastated Gigi Buffon Reduced To Tears As Italy Fail To Reach World Cup" class="river-img lazyload">
                 </picture>
             </a>
         </div>
@@ -633,12 +654,12 @@ If you require any more information or have any questions about our privacy poli
                             <a href="https://www.balls.ie/football" class="category-link category-link-football text-uppercase">Football</a>
             
             <div class="byline ">
-                16 hours ago
+                21 hours ago
                 <br>
-                By <a href="https://www.balls.ie/author/mikey-traynor/97">Mikey Traynor</a>
+                By <a href="https://www.balls.ie/author/arthur-james-o-dea/266">Arthur James O'Dea</a>
             </div>
             <div class="title">
-                <a href="/football/real-betis-celtic-jersey-359261">Real Betis Release Celtic-Inspired Jersey To Be Worn In La Liga This Month</a>
+                <a href="/football/watch-devastated-gigi-buffon-reduced-tears-italy-fail-reach-world-cup-377635">Watch: A Devastated Gigi Buffon Reduced To Tears As Italy Fail To Reach World Cup</a>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -647,33 +668,30 @@ If you require any more information or have any questions about our privacy poli
                       <div class="article default-holder  ">
     <div class="default-unit">
         <div class="image-container">
-            <a href="/football/the-gaa-players-whove-played-soccer-across-the-water-xi-315714">
+            <a href="/football/buffon-377634">
                 <picture>
                     <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxNVxcXC8xMVxcXC8xMjE5MDkyMFxcXC9nZy5qcGdcIixcIndpZHRoXCI6MjEyLFwiaGVpZ2h0XCI6MTM1LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJhNDIzNjk2NDg5OTNmZDA1MGVjMTBkMTQyMDlkNWY1MjdlY2I2NzFmIn0=/the-gaa-players-who-ve-played-soccer-across-the-water-xi.jpg" media="(min-width: 992px)">
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxNVxcXC8xMVxcXC8xMjE5MDkyMFxcXC9nZy5qcGdcIixcIndpZHRoXCI6MjM1LFwiaGVpZ2h0XCI6MTQyLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiI5Zjc0YzE2NWQyOTE2ODdmYjlhZTBkZDBjZTc0MzNhYWVmNTcyNGU4In0=/the-gaa-players-who-ve-played-soccer-across-the-water-xi.jpg" media="(min-width: 769px)">
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxNVxcXC8xMVxcXC8xMjE5MDkyMFxcXC9nZy5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiI2NmI5MTJkODZiYTRkMjM1ZDEwMTE4OWU3MmZmNTE5YjcyYzA5M2VhIn0=/the-gaa-players-who-ve-played-soccer-across-the-water-xi.jpg" media="(max-width: 768px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xMzIwMzYyN1xcXC9DYXB0dXJlMjAucG5nXCIsXCJ3aWR0aFwiOjIxMixcImhlaWdodFwiOjEzNSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiNDJhOWQzNDM2ZGU3ODRhNmQ1YmYzZDU3ZmE4MmEyNTc1NjhiM2U1MyJ9/watch-classy-buffon-responds-to-italian-fans-booing-the-swedish-national-anthem.png" media="(min-width: 992px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xMzIwMzYyN1xcXC9DYXB0dXJlMjAucG5nXCIsXCJ3aWR0aFwiOjIzNSxcImhlaWdodFwiOjE0MixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiYjMxZWFhNTJkYWE2Zjg5NjA5YmMwNTFhOWUzMWFiZmNhNDUwY2ZjYyJ9/watch-classy-buffon-responds-to-italian-fans-booing-the-swedish-national-anthem.png" media="(min-width: 769px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xMzIwMzYyN1xcXC9DYXB0dXJlMjAucG5nXCIsXCJ3aWR0aFwiOjcyMCxcImhlaWdodFwiOjQxMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiYjAyODBlM2VmNDRlN2VlMDI3YzE3MWZkYzI2MDM3Y2MzOTU3NWVkNyJ9/watch-classy-buffon-responds-to-italian-fans-booing-the-swedish-national-anthem.png" media="(max-width: 768px)">
                     <!--[if IE 9]></video><![endif]-->
-                    <img src="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCIsXCJ3aWR0aFwiOjc3MixcImhlaWdodFwiOjQzNixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiODk5MzYzZGE4MzNlMDk4MGJlYmQ5YWRiOGJmOWQwMTI2MDQ0NWU1MCJ9/no-image.png?v=4" data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxNVxcXC8xMVxcXC8xMjE5MDkyMFxcXC9nZy5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiI2NmI5MTJkODZiYTRkMjM1ZDEwMTE4OWU3MmZmNTE5YjcyYzA5M2VhIn0=/the-gaa-players-who-ve-played-soccer-across-the-water-xi.jpg" alt="The GAA Players Who've Played Soccer 'Across The Water' XI" class="river-img lazyload">
+                    <img src="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCIsXCJ3aWR0aFwiOjc3MixcImhlaWdodFwiOjQzNixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiODk5MzYzZGE4MzNlMDk4MGJlYmQ5YWRiOGJmOWQwMTI2MDQ0NWU1MCJ9/no-image.png?v=4" data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxN1xcXC8xMVxcXC8xMzIwMzYyN1xcXC9DYXB0dXJlMjAucG5nXCIsXCJ3aWR0aFwiOjcyMCxcImhlaWdodFwiOjQxMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiYjAyODBlM2VmNDRlN2VlMDI3YzE3MWZkYzI2MDM3Y2MzOTU3NWVkNyJ9/watch-classy-buffon-responds-to-italian-fans-booing-the-swedish-national-anthem.png" alt="Watch: Classy Buffon Responds To Italian Fans Booing The Swedish National Anthem" class="river-img lazyload">
                 </picture>
             </a>
         </div>
         <div class="article-detail">
             
-                            <div class="share-notice">
-                    74 <img height="12" src="https://www.balls.ie/assets/i/share-white.png?v=2" alt="74 shares">
-                </div>
             
 
                             <a href="https://www.balls.ie/football" class="category-link category-link-football text-uppercase">Football</a>
             
             <div class="byline ">
-                20 hours ago
+                22 hours ago
                 <br>
-                By <a href="https://www.balls.ie/author/conor-neville/149">Conor Neville</a>
+                By <a href="https://www.balls.ie/author/gavincooney/203">Gavin Cooney</a>
             </div>
             <div class="title">
-                <a href="/football/the-gaa-players-whove-played-soccer-across-the-water-xi-315714">The GAA Players Who've Played Soccer 'Across The Water' XI</a>
+                <a href="/football/buffon-377634">Watch: Classy Buffon Responds To Italian Fans Booing The Swedish National Anthem</a>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -736,12 +754,7 @@ If you require any more information or have any questions about our privacy poli
                 <a href="mailto:?subject=Privacy Policy&amp;body=I saw this article on Balls.ie that I thought you might like: https://www.balls.ie/balls-privacy-policy/47027?utm_source=email&amp;utm_campaign=article&amp;utm_medium=web" rel="external" class="analytics" data-category="[Sharing] Article Sticky Footer" data-label="Email" data-value="/uncategorized/balls-privacy-policy-47027"><i class="fa fa-envelope"></i></a>
             </div>
                         <div class="sticky-footer-container">
-            <div id="div-gpt-mobile-sticky-footer" class="text-center visible-xs">
-                <script type="text/javascript">
-                    if (window.matchMedia("only screen and (max-width: 768px)").matches) {
-                        googletag.cmd.push(function () { googletag.display('div-gpt-mobile-sticky-footer'); });
-                    }
-                </script>
+            <div id="div-gpt-mobile-sticky-footer" class="text-center visible-xs lazy-ad" data-slot="balls_mobile_footer" data-mapping="mapFooterMobileBanner">
             </div>
             <div id="cookie-notice">
                 <div class="message">
@@ -752,19 +765,45 @@ If you require any more information or have any questions about our privacy poli
             </div>
         </div>
 
-        <div id="div-gpt-interstitial" class="visible-xs">
-            <script type="text/javascript">
-                googletag.cmd.push(function () { googletag.display('div-gpt-interstitial'); });
-            </script>
-        </div>
-
                 <div id="div-gpt-justpremium">
             <script type="text/javascript">
-                googletag.cmd.push(function () { googletag.display('div-gpt-justpremium'); });
+                if (window.matchMedia("only screen and (min-width: 768px)").matches) {
+                    googletag.cmd.push(function () { googletag.display('div-gpt-justpremium'); });
+                }
             </script>
         </div>
 
-        <script async="async" src="https://www.balls.ie/assets/js/app-8421c97e.js"></script>
+        <div id="div-gpt-ad-1492696981943-0" style="height:1px; width:1px;">
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1492696981943-0'); });
+            </script>
+        </div>
+
+                <script type="text/javascript">
+    adroll_adv_id = "TH35ZJIM6FCAPL27NMPQ3L";
+    adroll_pix_id = "DBJLOUMBJRHSPN4W76AM7R";
+    /* OPTIONAL: provide email to improve user identification */
+    /* adroll_email = "username@example.com"; */
+    (function () {
+        var _onload = function(){
+        if (document.readyState && !/loaded|complete/.test(document.readyState))
+        {setTimeout(_onload, 10);return}
+        if (!window._adroll_loaded){_adroll_loaded=true;setTimeout(_onload, 50);return}
+        var scr = document.createElement("script");
+        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+        scr.setAttribute('async', 'true');
+        scr.type = "text/javascript";
+        scr.src = host + "/j/roundtrip.js";
+        ((document.getElementsByTagName('head') || [null])[0] ||
+        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener)
+        {window.addEventListener('load', _onload, false);}
+        else
+        {window.attachEvent('onload', _onload)}
+    }());
+</script>
+        <script async="async" src="https://www.balls.ie/assets/js/app-74dc4c50.js"></script>
 
     
 
