@@ -1,38 +1,17 @@
-<!--The following is the downloaded HTML source of the sofi.com privacy policy that was archived on 2017-01-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170128165951id_/https%3A//www.sofi.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sofi.com privacy policy that was archived on 2017-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171114174246id_/https%3A//www.sofi.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js s-healthcheck"><head>
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLSZML"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEAVVRXGwcBXFdUDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLSZML"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEAVVRXGwcBXFdUDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
   <title>Privacy Policy | SoFi</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link rel="shortcut icon" href="https://www.sofi.com/wp/wp-content/themes/sofi-v4/favicon.png">
   <meta name="google-site-verification" content="y0vzF-92wN4kBL6xvHlKpP5HQhGNO3_xpHCEPrHvLDY">
   <meta name="msvalidate.01" content="DBDF2E792CBDCFAE8E06616938FA97CA">
   <meta name="p:domain_verify" content="1e69cfa7475b79c308445834dd8cb8cf">
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "name": "SoFi",
-      "url": "https://www.sofi.com/",
-      "sameAs": [
-        "https://www.facebook.com/SoFi",
-        "https://twitter.com/SoFi",
-        "https://instagram.com/sofi/",
-        "https://www.linkedin.com/company/sofi",
-        "https://plus.google.com/+SoFi/",
-        "https://www.youtube.com/user/socialfinance220",
-        "https://www.pinterest.com/sofiloans/"
-      ],
-      "logo":"https://www.sofi.com/wp/wp-content/themes/sofi-v4/dist/img/nav-logo.png",
-      "contactPoint": [
-        {"@type": "ContactPoint", "telephone": "+1-855-456-7634", "contactType": "customer service"}
-      ]
-    }
-  </script>
   
-<!-- This site is optimized with the Yoast SEO Premium plugin v3.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO Premium plugin v4.7 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Read our privacy policy to learn more about the practices of Social Finance, Inc., SoFi Lending Corp, and their affiliates.">
 <meta name="robots" content="noindex,nofollow,noodp">
 <link rel="canonical" href="https://www.sofi.com/privacy-policy/">
@@ -47,12 +26,15 @@
 <!-- / Yoast SEO Premium plugin. -->
 
 <link rel="dns-prefetch" href="//ajax.googleapis.com">
-<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="SoFi » Feed" href="https://www.sofi.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="SoFi » Comments Feed" href="https://www.sofi.com/comments/feed/">
 <link rel="alternate" type="text/calendar" title="SoFi » iCal Feed" href="https://www.sofi.com/events/?ical=1">
-<link rel="alternate" type="application/rss+xml" title="SoFi » Privacy Policy Comments Feed" href="https://www.sofi.com/privacy-policy/feed/">
-<link rel="stylesheet" id="soficss-css" href="https://www.sofi.com/wp/wp-content/themes/sofi-v4/dist/css/sofi.070793df.css" type="text/css" media="all">
+  <script type="text/javascript">
+  window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);
+  ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"ed681862cc",applicationID:"4186687",sa:1}
+  </script>
+  <link rel="alternate" type="application/rss+xml" title="SoFi » Privacy Policy Comments Feed" href="https://www.sofi.com/privacy-policy/feed/">
+<link rel="stylesheet" id="soficss-css" href="https://www.sofi.com/wp/wp-content/themes/sofi-v4/dist/css/sofi.c91cf660.css" type="text/css" media="all">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://www.sofi.com/wp/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0"></script>
 <script type="text/javascript">
@@ -60,11 +42,12 @@
 var popupally_pro_check_source_object = {"utm_mapping":{"popupally-cookie-1":""}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.sofi.com/wp/wp-content/plugins/popupally-pro/resource/frontend/check-source.min.js?ver=2.1.6"></script>
+<script type="text/javascript" src="https://www.sofi.com/wp/wp-content/plugins/popupally-pro/resource/frontend/check-source.min.js?ver=2.2.0"></script>
+<script type="text/javascript" src="https://www.sofi.com/wp/wp-content/plugins/stop-user-enumeration/js/commentauthor.js?ver=4.8.3"></script>
 <link rel="https://api.w.org/" href="https://www.sofi.com/wp-json/">
 <link rel="alternate" type="application/json+oembed" href="https://www.sofi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sofi.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.sofi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sofi.com%2Fprivacy-policy%2F&amp;format=xml">
-<style type="text/css"></style>
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.sofi.com"><link rel="https://theeventscalendar.com/" href="https://www.sofi.com/wp-json/tribe/events/v1/"><style type="text/css"></style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -72,7 +55,7 @@ var popupally_pro_check_source_object = {"utm_mapping":{"popupally-cookie-1":""}
     <script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
   <![endif]-->
 </head>
-<body class="page-template page-template-templates page-template-full-width page-template-templatesfull-width-php page page-id-7644 tribe-js page-privacy-policy">
+<body class="page-template page-template-templates page-template-full-width page-template-templatesfull-width-php page page-id-7644 do-etfw tribe-js page-privacy-policy">
 
   <!-- google tag manager -->
   <noscript>
@@ -93,97 +76,95 @@ var popupally_pro_check_source_object = {"utm_mapping":{"popupally-cookie-1":""}
           <li class="nav__item nav__item--login"><a class="nav__link nav__link--clickable" href="/b/">Log In</a></li>
           <li class="nav__item nav__item--home"><a class="nav__link nav__link--clickable" href="/">Home</a></li>
           <li class="nav__item nav__item--dropdown">
-            <a class="nav__link" href="#" onclick="return false;">Borrow</a>
-            <div class="nav__submenu nav__submenu--borrow">
-              <div class="icon icon--active-triangle">
-                <svg><use xlink:href="#active-triangle"></use></svg>
-              </div>
-              <ul class="nav__submenu-list">
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/refinance-student-loan/">Student Loan Refinancing</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/mortgage-loan/">Mortgages</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/mortgage-refinancing/">Mortgage Refinancing</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/personal-loans/">Personal Loans</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/parent-loan/">Parent Loans</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/parent-plus-refinancing/">Parent PLUS Refinancing</a></li>
-              </ul>
-              <div class="nav__submenu-ext">
-                <p class="nav__submenu-ext-heading">Easy Experience</p>
-                <p class="nav__submenu-ext-copy">
-                  Simple online application<br>
-                  and access to live customer<br>
-                  support 7 days a week.
-                </p>
-                <a class="nav__submenu-ext-link" href="/b/registration" onclick="_gaq.push(['_trackEvent', 'CTA', 'Clicked', 'find my rate']);">Find My Rate</a>
-              </div>
-            </div>
-          </li>
-          <li class="nav__item nav__item--dropdown">
-            <a class="nav__link" href="#" onclick="return false;">Invest</a>
-            <div class="nav__submenu nav__submenu--invest">
-              <div class="icon icon--active-triangle">
-                <svg><use xlink:href="#active-triangle"></use></svg>
-              </div>
-              <ul class="nav__submenu-list">
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/wealth-management/">Wealth Management</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/invest/">Private Placements</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/investing-resources/">Investment Resources</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/invest/market-commentary">Market Commentary</a></li>
-              </ul>
-            </div>
-          </li>
-          <li class="nav__item nav__item--dropdown">
-            <a class="nav__link" href="#" onclick="return false;">Community</a>
-            <div class="nav__submenu nav__submenu--community">
-              <div class="icon icon--active-triangle">
-                <svg><use xlink:href="#active-triangle"></use></svg>
-              </div>
-              <ul class="nav__submenu-list">
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/member-stories/">Member Stories</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/career-strategy/">Career Strategy</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/entrepreneur-program/">Entrepreneur Program</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/referral-program/">Referral Program</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="http://forum.sofi.com/" target="_blank">Forum</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/events/">Events</a></li>
-              </ul>
-            </div>
-          </li>
-          <li class="nav__item nav__item--dropdown">
-            <a class="nav__link" href="#" onclick="return false;">Resources</a>
-            <div class="nav__submenu nav__submenu--resources">
-              <div class="icon icon--active-triangle">
-                <svg><use xlink:href="#active-triangle"></use></svg>
-              </div>
-              <ul class="nav__submenu-list">
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/blog/">Blog</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/faq/">FAQ</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/student-loan-calculator/">Student Loan Calculator</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/personal-loan-calculator/">Personal Loan Calculator</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/consolidate-student-loans-vs-refinance/">Consolidate vs. Refinance</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/parent-plus-loan-vs-sofi-parent-loan/">Parent PLUS Loan vs. <br class="u-hide-desktop">SoFi Parent Loan</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/fixed-vs-variable-rate-loans/">Fixed vs. Variable Rate Loans</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/roed-infographic/">ROEd - Grad Degrees &amp; <br class="u-hide-desktop">Lifetime Earnings</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/mba-rankings/">ROEd - MBA Rankings</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/roed-salary-trajectory-by-degree/">ROEd - Salary Trajectory <br class="u-hide-desktop">by Degree</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/student-loan-refinance-guide/">Student Loan Refinance Guide</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/home-buyers-guide/">Home Buyer’s Guide</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/investing-resources/">Investing Resources</a></li>
-              </ul>
-            </div>
-          </li>
-          <li class="nav__item"><a class="nav__link nav__link--clickable" href="/sofi-at-work/">At Work</a></li>
-          <li class="nav__item nav__item--dropdown">
-            <a href="#" class="nav__link" onclick="return false;">About Us</a>
-            <div class="nav__submenu nav__submenu--about-us">
-              <div class="icon icon--active-triangle">
-                <svg><use xlink:href="#active-triangle"></use></svg>
-              </div>
-              <ul class="nav__submenu-list">
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/our-story/">Who We Are</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/press/">Press</a></li>
-                <li class="nav__submenu-item"><a class="nav__submenu-link" href="/careers/">Careers</a></li>
-              </ul>
-            </div>
-          </li>
+  <a class="nav__link nav__link--clickable" href="/products/">Products</a>
+  <div class="nav__submenu nav__submenu--borrow">
+    <div class="icon icon--active-triangle">
+      <svg><use xlink:href="#active-triangle"></use></svg>
+    </div>
+    <ul class="nav__submenu-list">
+      <li class="nav__submenu-group">Borrow</li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/refinance-student-loan/">Student Loan Refinancing</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/medical-resident-refinance/">Medical Resident Refinancing</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/mortgage-loan/">Mortgages</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/mortgage-refinancing/">Mortgage Refinancing</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/personal-loans/">Personal Loans</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/parent-loan/">Parent Loans</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/parent-plus-refinancing/">Parent PLUS Refinancing</a></li>
+    </ul>
+    <ul class="nav__submenu-list nav__submenu-col">
+      <li class="nav__submenu-group">Invest</li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/wealth-management/">Wealth Management</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/invest/">Asset Management</a></li>
+      <li class="nav__submenu-group">Insure</li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/life-insurance/">Life Insurance</a></li>
+    </ul>
+  </div>
+</li>
+<li class="nav__item nav__item--dropdown">
+  <a class="nav__link nav__link--clickable" href="/community-benefits/">Benefits</a>
+  <div class="nav__submenu nav__submenu--invest">
+    <div class="icon icon--active-triangle">
+      <svg><use xlink:href="#active-triangle"></use></svg>
+    </div>
+    <ul class="nav__submenu-list">
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/career-advisory/">Career Advisory Group</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/events/">Community Events</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/entrepreneur-program/">Entrepreneur Program</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/referral-program/">Referral Program</a></li>
+    </ul>
+  </div>
+</li>
+<li class="nav__item nav__item--dropdown">
+  <a class="nav__link nav__link--clickable" href="/resource-center/">Resources</a>
+  <div class="nav__submenu nav__submenu--resources">
+    <div class="icon icon--active-triangle">
+      <svg><use xlink:href="#active-triangle"></use></svg>
+    </div>
+    <ul class="nav__submenu-list">
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/resource-center/">Resource Center</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/blog/">Blog</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/faq/">FAQ</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/eligibility-criteria/">Eligibility Criteria</a></li>
+    </ul>
+    <ul class="nav__submenu-list nav__submenu-col">
+      <li class="nav__submenu-group">Top Resources</li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/student-loan-calculator/">Student Loan Calculator</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/consolidate-student-loans-vs-refinance/">Consolidate vs. Refinance</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/personal-loan-calculator/">Personal Loan Calculator</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/fixed-vs-variable-rate-loans/">Fixed vs. Variable Rate Loans</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/mortgage-calculator">Mortgage Calculator</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/home-buyers-guide">First-Time Home Buyer's Guide</a></li>
+    </ul>
+  </div>
+</li>
+<li class="nav__item nav__item--dropdown">
+  <a href="#" class="nav__link" onclick="return false;">At Work</a>
+  <div class="nav__submenu nav__submenu--at-work">
+    <div class="icon icon--active-triangle">
+      <svg><use xlink:href="#active-triangle"></use></svg>
+    </div>
+    <ul class="nav__submenu-list">
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/sofi-at-work/">For Businesses</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/sofi-at-work-employees/">For Employees</a></li>
+    </ul>
+  </div>
+</li>
+<li class="nav__item nav__item--dropdown">
+  <a href="#" class="nav__link" onclick="return false;">Company</a>
+  <div class="nav__submenu nav__submenu--about-us">
+    <div class="icon icon--active-triangle">
+      <svg><use xlink:href="#active-triangle"></use></svg>
+    </div>
+    <ul class="nav__submenu-list">
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/our-story/">About Us</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/how-it-works/">How it Works</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/member-stories/">Member Stories</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/contact-us/">Contact Us</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/press/">Press</a></li>
+      <li class="nav__submenu-item"><a class="nav__submenu-link" href="/careers/">Jobs</a></li>
+    </ul>
+  </div>
+</li>
         </ul>
         <a href="#" onclick="return false;" class="nav__mobile-toggle" data-action="toggleMenu">
           <div class="icon icon--menu-toggle">
@@ -195,7 +176,7 @@ var popupally_pro_check_source_object = {"utm_mapping":{"popupally-cookie-1":""}
     </header>
   </div>
   <div class="page-wrap">
-<div class="l-full-width">
+    <div class="l-full-width">
   <section class="section section--gray">
     <div class="section__inner">
               <h1 class="section__heading">Privacy Policy</h1>
@@ -213,7 +194,9 @@ This Privacy Policy is written to apply to Social Finance, Inc. and its affiliat
  	<li class="list__item">SoFi Securities, LLC</li>
  	<li class="list__item">SoFi Capital Advisors, LLC</li>
  	<li class="list__item">SoFi Wealth, LLC</li>
- 	<li class="list__item">SoFi Lending Corp</li>
+        <li class="list__item">SoFi Mortgage, LLC</li>
+        <li class="list__item">Social Finance Life Insurance Agency LLC</li>
+ 	<li class="list__item">SoFi Lending Corp.</li>
 </ul>
 <p>
 <b>Changes to Our Privacy Policy</b>
@@ -426,7 +409,7 @@ To limit our sharing once your sofi.com account has been created:
  	<li class="list__item">Call our customer service at <a href="tel:1-855-456-SOFI">1-855-456-SOFI</a></li>
 </ul>
 <p>
-If you are a new customer, we can begin sharing your information 30 days from the date we sent you the privacy notice. When you are no longer our customer, we may continue to share your information as described in this policy. However, you can contact us at any time to limit our sharing and to restrict online marketing and direct mail.
+If you are a new customer, we can begin sharing your information 45 days from the date we sent you the privacy notice. When you are no longer our customer, we may continue to share your information as described in this policy. However, you can contact us at any time to limit our sharing and to restrict online marketing and direct mail.
 </p><p>
 You control the information you share in your profile on our community website. You understand that if you choose to share your information, your profile may be generally available on our website.
 </p><p>
@@ -466,8 +449,8 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
               </div>
               <div class="support-service-hours">
                 <ul>
-                  <li>Mon-Thu 7:00 AM - 12:00 AM ET</li>
-                  <li>Fri-Sun 7:00 AM - 8:00 PM ET</li>
+                  <li>Mon-Thu 4:00 AM - 9:00 PM PT</li>
+                  <li>Fri-Sun 4:00 AM - 5:00 PM PT</li>
                 </ul>
               </div>
             </div>
@@ -483,9 +466,9 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
               </div>
               <div class="support-service-hours">
                 <ul>
-                  <li>Mon-Thu 11:00 AM - 8:00 PM ET</li>
-                  <li>Fri 11:00 AM - 7:00 PM ET</li>
-                  <li>Sat 10:00 AM - 5:00 PM ET</li>
+                  <li>Mon-Thu 8:00 AM - 5:00 PM PT</li>
+                  <li>Fri 8:00 AM - 4:00 PM PT</li>
+                  <li>Sat 7:00 AM - 2:00 PM PT</li>
                 </ul>
               </div>
             </div>
@@ -497,12 +480,12 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
                       <use xlink:href="#call-now"></use>
                    </svg>
                  </span>
-                <b><a href="tel:+18447634466">(855) 525-7634</a></b>
+                <b><a href="tel:+18555257634">(855) 525-7634</a></b>
               </div>
               <div class="support-service-hours">
                 <ul>
-                  <li>Mon-Thu 10:00 AM - 8:00 PM ET</li>
-                  <li>Fri 10:00 AM - 7:00 PM ET</li>
+                  <li>Mon-Thu 4:00 AM - 9:00 PM PT</li>
+                  <li>Fri-Sun 4:00 AM - 5:00 PM PT</li>
                 </ul>
               </div>
             </div>
@@ -510,16 +493,33 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
 
     </div>
 
+     <div class="footer__col--products">
+        <h4>PRODUCTS</h4>
+
+        <ul>
+          <li><a href="/refinance-student-loan/">Student Loan Refinancing</a></li>
+          <li><a href="/medical-resident-refinance/">Medical Resident Refinancing</a></li>
+          <li><a href="/mortgage-loan/">Mortgage Loans</a></li>
+          <li><a href="/mortgage-refinancing/">Mortgage Refinancing</a></li>
+          <li><a href="/personal-loans/">Personal Loans</a></li>
+          <li><a href="/parent-loan/">Parent Loans</a></li>
+          <li><a href="/parent-plus-refinancing/">Parent PLUS Refinancing</a></li>
+          <li><a href="/invest/">Asset Management</a></li>
+          <li><a href="/wealth-management/">Wealth Management</a></li>
+          <li><a href="/life-insurance/">Life Insurance</a></li>
+        </ul>
+    </div>
+
     <div class="footer__col--company">
         <h4>COMPANY</h4>
 
         <ul>
-          <li><a href="/our-story/">Who We Are</a></li>
+          <li><a href="/our-story/">About Us</a></li>
+          <li><a href="/how-it-works/">How it Works</a></li>
           <li><a href="/press/">Press</a></li>
-          <li><a href="/careers/">Careers</a></li>
-          <li><a href="/events/">Events</a></li>
-          <li><a href="/campus-relations/">Campus Relations</a></li>
-          <li><a href="/referral-program/">Referral Program</a></li>
+          <li><a href="/careers/">Jobs</a></li>
+          <li><a href="/blog/" target="__blank">Blog</a></li>
+          <li><a href="/faq/">FAQ</a></li>
         </ul>
     </div>
 
@@ -533,30 +533,13 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
           <li><a href="/legal#licenses">Licenses</a></li>
           <li><a href="http://www.nmlsconsumeraccess.org/">NMLS Access</a></li>
           <li><a href="/eligibility-criteria/">Eligibility Criteria</a></li>
-          <li><a href="/sitemap/">Sitemap</a></li>
-        </ul>
-    </div>
-
-     <div class="footer__col--products">
-        <h4>PRODUCTS</h4>
-
-        <ul>
-          <li><a href="/refinance-student-loan/">Student Loan Refinancing</a></li>
-          <li><a href="/mortgage-loan/">Mortgage Loans</a></li>
-          <li><a href="/mortgage-refinancing/">Mortgage Refinancing</a></li>
-          <li><a href="/personal-loans/">Personal Loans</a></li>
-          <li><a href="/parent-loan/">Parent Loans</a></li>
-          <li><a href="/parent-plus-refinancing/">Parent Plus Refinancing</a></li>
-          <li><a href="/invest/">Private Placements</a></li>
-          <li><a href="/wealth-management/">Wealth Management</a></li>
-          <li><a href="/life-insurance/">Life Insurance</a></li>
         </ul>
     </div>
 
     <div class="footer__col--questions">
      <h4>QUESTIONS</h4>
      <ul>
-        <li><a href="/faq/">Frequently Asked Questions</a></li>
+        <li><a href="/faq/">FAQ</a></li>
         <li><a href="/contact-us/">Contact Us</a></li>
         <li><strong>Tweet</strong> <a class="twitter-support" href="https://twitter.com/sofisupport" target="_blank">@SoFiSupport</a></li>
         <li>
@@ -569,8 +552,8 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
                  </svg>
                  <div class="bubble">
                     <ul>
-                      <li>Mon-Thu 7:00 AM - 12:00 AM ET</li>
-                      <li>Fri-Sun 7:00 AM - 8:00 PM ET</li>
+                      <li>Mon-Thu 4:00 AM - 9:00 PM PT</li>
+                      <li>Fri-Sun 4:00 AM - 5:00 PM PT</li>
                     </ul>
                  </div>
               </span>
@@ -586,9 +569,9 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
                  </svg>
                  <div class="bubble">
                     <ul>
-                      <li>Mon-Thu 11:00 AM - 8:00 PM ET</li>
-                      <li>Fri 11:00 AM - 7:00 PM ET</li>
-                      <li>Sat 10:00 AM - 5:00 PM ET</li>
+                        <li>Mon-Thu 8:00 AM - 5:00 PM PT</li>
+                        <li>Fri 8:00 AM - 4:00 PM PT</li>
+                        <li>Sat 7:00 AM - 2:00 PM PT</li>
                     </ul>
                  </div>
               </span>
@@ -604,8 +587,8 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
                  </svg>
                  <div class="bubble">
                     <ul>
-                      <li>Mon-Thu 10:00 AM - 8:00 PM ET</li>
-                      <li>Fri 10:00 AM - 7:00 PM ET</li>
+                        <li>Mon-Thu 4:00 AM - 9:00 PM PT</li>
+                        <li>Fri-Sun 4:00 AM - 5:00 PM PT</li>
                     </ul>
                  </div>
               </span>
@@ -626,7 +609,6 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
             <button class="button-caret" type="submit"> <span> <svg><use xlink:href="#caret-right"></use></svg> </span></button>
           </div>
         </form>
-
         <ul class="social-links">
           <li><a href="https://www.facebook.com/SoFi" target="_blank" title="Facebook"><svg><use xlink:href="#facebook-logo"></use></svg></a></li>
           <li><a href="http://www.linkedin.com/company/2301992" target="_blank" title="LinkedIn"><svg><use xlink:href="#linkedin-logo"></use></svg></a></li>
@@ -636,6 +618,16 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
           <li><a href="https://www.pinterest.com/sofiloans/" target="_blank" title="Pinterest"><svg><use xlink:href="#pinterest-logo"></use></svg></a></li>
           <li><a href="https://www.snapchat.com/add/sofi" target="_blank" title="Snapchat"><svg><use xlink:href="#snapchat-logo"></use></svg></a></li>
         </ul>
+        <ul class="app-banners">
+          <li class="apple"><a href="https://itunes.apple.com/us/app/sofi-smarter-finances/id1191985736?mt=8" target="_blank" title="Apple"><img src="/wp/wp-content/themes/sofi-v4/dist/img/apple-badge.png"></a></li>
+          <li class="android"><a href="https://play.google.com/store/apps/details?id=com.sofi.mobile" target="_blank" title="android"><img src="/wp/wp-content/themes/sofi-v4/dist/img/android-badge.png"></a></li>
+       
+        </ul>
+        <div class="sf-office">
+          375 Healdsburg Avenue<br>
+          Suite 280<br>
+          Healdsburg, CA 95448
+        </div>
       </div>
     </div>
   </div>
@@ -647,10 +639,10 @@ SoFi takes your privacy seriously, and maintains a process to respond to your co
     <div class="subfooter__legal">
       
         <p>
-  Terms and Conditions Apply. SOFI RESERVES THE RIGHT TO MODIFY OR DISCONTINUE PRODUCTS AND BENEFITS AT ANY TIME WITHOUT NOTICE. To qualify, a borrower must be a U.S. citizen or permanent resident in an <a href="/eligibility-criteria/"><strong>eligible state</strong></a> and meet SoFi's underwriting requirements. Not all borrowers receive the lowest rate. To qualify for the lowest rate, you must have a responsible financial history and meet other conditions. If approved, your actual rate will be within the range of rates listed above and will depend on a variety of factors, including term of loan, a responsible financial history, years of experience, income and other factors. Rates and Terms are subject to change at anytime without notice and are subject to state restrictions. <strong>SoFi refinance loans are private loans and do not have the same repayment options that the federal loan program offers such as Income Based Repayment or Income Contingent Repayment or PAYE.</strong> Licensed by the Department of Business Oversight under the California Finance Lender Law License No. 6054612. SoFi loans are originated by SoFi Lending Corp., NMLS # 1121636. (<a href="http://www.nmlsconsumeraccess.org/" target="blank"><strong>www.nmlsconsumeraccess.org</strong></a>)
+  Terms and Conditions Apply. SOFI RESERVES THE RIGHT TO MODIFY OR DISCONTINUE PRODUCTS AND BENEFITS AT ANY TIME WITHOUT NOTICE. To qualify, a borrower must be a U.S. citizen or permanent resident in an <a href="/eligibility-criteria/"><strong>eligible state</strong></a> and meet SoFi's underwriting requirements. Not all borrowers receive the lowest rate. To qualify for the lowest rate, you must have a responsible financial history and meet other conditions. If approved, your actual rate will be within the range of rates listed above and will depend on a variety of factors, including term of loan, a responsible financial history, years of experience, income and other factors. Rates and Terms are subject to change at anytime without notice and are subject to state restrictions. <strong>SoFi refinance loans are private loans and do not have the same repayment options that the federal loan program offers such as Income Based Repayment or Income Contingent Repayment or PAYE.</strong> Licensed by the Department of Business Oversight under the California Financing Law License No. 6054612. SoFi loans are originated by SoFi Lending Corp., NMLS # 1121636. (<a href="http://www.nmlsconsumeraccess.org/" target="blank"><strong>www.nmlsconsumeraccess.org</strong></a>)
 </p>
 <p id="credit-pull">
-  ✝ To check the rates and terms you qualify for, SoFi conducts a soft credit pull that will not affect your credit score. However, if you choose a product and continue your application, we will request your full credit report from one or more consumer reporting agencies, which is considered a hard credit pull.
+  ✝ To check the rates and terms you qualify for, SoFi conducts a soft credit pull that will not affect your credit score. However, if you choose a product and continue your application, we will request your full credit report from one or more consumer reporting agencies, which is considered a hard credit pull and may affect your credit.
 </p>
           </div>
 
@@ -706,7 +698,8 @@ var google_remarketing_only = true;
 			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
 		} )( document.body );
 		</script>
-		<script type="text/javascript" src="https://www.sofi.com/wp/wp-content/themes/sofi-v4/dist/js/sofi.f436a498.js"></script>
+		<script type="text/javascript"> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done"}};/* ]]> */ </script><script type="text/javascript" src="https://www.sofi.com/wp/wp-content/themes/sofi-v4/dist/js/sofi.c090610e.js"></script>
+<script type="text/javascript" src="https://www.sofi.com/wp/wp-content/plugins/easy-twitter-feed-widget//js/twitter-widgets.js?ver=1.0"></script>
 
 <!--[if lt IE 9]>
 <div class="modal modal--auto">
@@ -721,10 +714,23 @@ var google_remarketing_only = true;
   </div>
 </div>
 <![endif]-->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ed681862cc","applicationID":"4186687","transactionName":"ZFdbYUYHD0tQWkYPCV0dbEddSQhWVVxKSBZbQg==","queueTime":0,"applicationTime":22,"atts":"SBBYFw4dHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ed681862cc","applicationID":"4186687","transactionName":"ZFdbYUYHD0tQWkYPCV0dbEddSQhWVVxKSBZbQg==","queueTime":0,"applicationTime":27,"atts":"SBBYFw4dHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-<!-- Comet Cache file path: /cache/zencache/cache/https/www-sofi-com/privacy-policy.html -->
-<!-- Comet Cache file built for (https://www.sofi.com/privacy-policy/) in 0.34079 seconds, on: Jan 27th, 2017 @ 8:55 pm UTC; via HTTP request. -->
-<!-- This Comet Cache file will auto-expire (and be rebuilt) on: Jan 31st, 2017 @ 8:55 pm UTC (based on your configured expiration time). -->
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<!-- Comet Cache fully functional :-) Cache file served for (https://www.sofi.com/privacy-policy/) in 0.01985 seconds, on: Jan 28th, 2017 @ 4:59 pm UTC. --></body></html>
+<!-- *´¨)
+     ¸.•´¸.•*´¨) ¸.•*¨)
+     (¸.•´ (¸.•` ¤ Comet Cache is Fully Functional ¤ ´¨) -->
+
+<!-- Cache File Version Salt:       n/a -->
+
+<!-- Cache File URL:                https://www.sofi.com/privacy-policy/ -->
+<!-- Cache File Path:               /cache/zencache/cache/https/www-sofi-com/privacy-policy.html -->
+
+<!-- Cache File Generated Via:      HTTP request -->
+<!-- Cache File Generated On:       Nov 14th, 2017 @ 5:39 pm UTC -->
+<!-- Cache File Generated In:       0.55863 seconds -->
+
+<!-- Cache File Expires On:         Nov 18th, 2017 @ 5:39 pm UTC -->
+<!-- Cache File Auto-Rebuild On:    Nov 18th, 2017 @ 5:39 pm UTC -->
+
+<!-- Loaded via Cache On:    Nov 14th, 2017 @ 5:42 pm UTC -->
+<!-- Loaded via Cache In:    0.02469 seconds --></body></html>
