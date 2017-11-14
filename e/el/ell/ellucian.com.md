@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellucian.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618160716id_/http%3A//www.ellucian.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellucian.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114143004id_/http%3A//www.ellucian.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ellucian
 
@@ -6,7 +6,7 @@ Ellucian respects your privacy and recognizes the importance of your personal in
 
 This Privacy Policy describes our practices in connection with information we may collect through your use of our website (our “Site”). By using our Site, you consent to our collection and use of the information described in this Privacy Policy. If you are an Ellucian customer, please visit [this page](https://web.archive.org/Privacy-Customer-Data/ "Privacy Customer Data") to read about our privacy policies and practices relating to customer and student information we may collect in providing Ellucian products and services to you.
 
-Ellucian has self-certified to the EU-U.S. Privacy Shield Framework regarding the collection, use and retention of personal data transferred from the European Union and the European Economic Area to the United States. Please [click here](https://web.archive.org/Privacy-Shield/ "Privacy Shield") to view our Privacy Shield Policy. References to “this Privacy Policy” include the Privacy Shield Policy. Ellucian also complies with the U.S.-Swiss Safe Harbor Framework regarding the collection, use and retention of personal data transferred from Switzerland to the United States and has self-certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor Framework and to view Ellucian’s certification, see <http://www.export.gov/safeharbor/swiss>. If you are located in Switzerland and have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <http://feedback-form.truste.com/watchdog/request>.
+Ellucian has self-certified to the EU-U.S. Privacy Shield Framework regarding the collection, use and retention of personal data transferred from the European Economic Area to the United States. Ellucian also complies with the U.S.-Swiss Privacy Shield Framework regarding the collection, use and retention of personal data transferred from Switzerland to the United States and has self-certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Please [click here](https://web.archive.org/Privacy-Shield/ "Privacy Shield") to view our Privacy Shield Policy. References to “this Privacy Policy” include the Privacy Shield Policy. If there is any conflict between the terms herein and the terms of our Privacy Shield Policy with respect to personal data transferred from the European Economic Area and/or Switzerland to the United States, the Privacy Shield Policy shall govern. 
 
 ### Collection and Use of Information
 
@@ -40,7 +40,7 @@ Some hyperlinks and banner advertisement may link to third party websites. You s
 
 ### Your Access to and Control Over Your Information
 
-You have the right to access the personal information that Ellucian has collected about you. You may do the following at any time by contacting us at [privacy@ellucian.com](mailto:privacy@ellucian.com):
+You have the right to access the personal information that Ellucian has collected about you. You may do the following at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e9999b809f888a90a98c85859c8a808887c78a8684):
 
   * Opt out of any future contacts from us
   * See what information we have about you, if any
@@ -51,10 +51,10 @@ You have the right to access the personal information that Ellucian has collecte
 
 ### How to Contact Us
 
-Should you have any questions or concerns about this Privacy Policy, please contact us at [privacy@ellucian.com](mailto:privacy@ellucian.com).
+Should you have any questions or concerns about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c6c6e756a7d7f655c797070697f757d72327f7371).
 
 ### Updates
 
 This Privacy Policy may be revised from time to time. All updates will be posted on this page. Your continued use of this Site following the posting of changes to these terms will mean you accept these changes.
 
- _Updated: November 7, 2016_
+ _Updated: September 21, 2017_
