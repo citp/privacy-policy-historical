@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playgames2.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122154id_/http%3A//www.playgames2.com/index.php%3Fpageid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgames2.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114202550id_/http%3A//www.playgames2.com/index.php%3Fpageid%3D8) for the most accurate reproduction.*
 
 # Privacy Policy
 
