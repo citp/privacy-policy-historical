@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicrecords.directory privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626160801id_/http%3A//publicrecords.directory/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicrecords.directory privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114013421id_/http%3A//publicrecords.directory/privacy.php) for the most accurate reproduction.*
 
 # Public Records Directory
 
