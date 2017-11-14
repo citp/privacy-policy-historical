@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darkcavern.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504214233id_/http%3A//fetishbucks.com/customerservice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkcavern.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114042414id_/http%3A//fetishbucks.com/customerservice/privacy.html) for the most accurate reproduction.*
 
 # Fetish Bucks HELP DESK TEST
 
