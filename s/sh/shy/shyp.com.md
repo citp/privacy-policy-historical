@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shyp.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516175856id_/https%3A//www.shyp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shyp.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114173458id_/https%3A//www.shyp.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Shyp
 
@@ -68,7 +68,7 @@ Shyp takes reasonable steps to protect the Personal Data provided via the Servic
 
 ### Other Terms and Conditions:
 
-Your access to and use of the Services is subject to the Terms of Service at [www.shyp.com/terms](https://web.archive.org/web/20170516175856id_/https%3A//www.shyp.com/www.shyp.com/terms).
+Your access to and use of the Services is subject to the Terms of Service at [www.shyp.com/terms](https://web.archive.org/web/20171114173458id_/https%3A//www.shyp.com/www.shyp.com/terms).
 
 Changes to Shyp’s Privacy Policy: The Services and our business may change from time to time. As a result, at times it may be necessary for Shyp to make changes to this Privacy Policy. Shyp reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
 
