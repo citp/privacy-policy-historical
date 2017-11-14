@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rideways.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123165134id_/https%3A//www.rideways.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rideways.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114171749id_/https%3A//rideways.com/information/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# 
 
 ## Our Privacy Policy
 
@@ -12,7 +12,7 @@ Rideways offers online car and driver services through its own websites and mobi
 
 ### Privacy
 
- **What kind of personal information does Rideways use?**
+**What kind of personal information does Rideways use?**
 
 When you make a booking, you will be asked for the relevant pieces of information required to fulfil the transportation service requested; this may include the passenger's name, contact details (email, address and telephone number) and payment information.
 
@@ -22,32 +22,47 @@ When you visit our website, even if you do not make a booking, we may collect ce
 
 We may also receive information about you when you use certain social media services.
 
- **Why does Rideways collect, use and share your personal details?**
+**Why does Rideways collect, use and share your personal details?**
 
   * Bookings: First and foremost, we use your personal information to complete and administer your booking and forward required details to the transportation service provider.
+
   * Customer service: Sharing your details with our customer service staff allows us to assist when you need us, such as responding to queries related to your booking.
+
   * Customer reviews: We may use your contact information to invite you to answer a short questionnaire regarding your journey. The survey results will be used to help us better understand and improve the service our transportation partners provide to all our customers.
+
   * Marketing activities: We also use your information for marketing activities, as permitted by law. For example:
-    * You may choose to subscribe to our Special Offers service in order to receive emails notifying you of any promotions or new services we are offering. You can opt out of this service at any time by clicking on the 'unsubscribe' link in any emails we send to you.
-    * Based on the information you share with us, individualised offers may be shown to you on the Rideways website, in mobile apps or on third-party websites, including social media sites.
-    * When we believe that a particular offer may be of interest to you, we may decide to make contact with you by phone.
+
+  * You may choose to subscribe to our Special Offers service in order to receive emails notifying you of any promotions or new services we are offering. You can opt out of this service at any time by clicking on the 'unsubscribe' link in any emails we send to you.
+
+  * Based on the information you share with us, individualised offers may be shown to you on the Rideways website, in mobile apps or on third-party websites, including social media sites.
+
+  * When we believe that a particular offer may be of interest to you, we may decide to make contact with you by phone.
+
   * Other communications: There may be other times when we get in touch by email, by phone or by texting you, depending on the contact information you share with us. There could be a number of reasons for this:
-    * We may need to respond to and handle requests you have made.
-    * If you have not finalised a booking online, we may email you a reminder to continue with your booking. We believe that this additional service is useful to you because it allows you to carry on with a booking without having to search for the journey again or fill in all the booking details from scratch.
-    * When you use our services, we may send you a questionnaire or invite you to provide a review about your experience with Rideways.
-    * We may also send you other material related to your booking, such as how to contact Rideways and your transportation service provider if you need assistance, or a summary of previous bookings you made through Rideways.
+
+  * We may need to respond to and handle requests you have made.
+
+  * If you have not finalised a booking online, we may email you a reminder to continue with your booking. We believe that this additional service is useful to you because it allows you to carry on with a booking without having to search for the journey again or fill in all the booking details from scratch.
+
+  * When you use our services, we may send you a questionnaire or invite you to provide a review about your experience with Rideways.
+
+  * We may also send you other material related to your booking, such as how to contact Rideways and your transportation service provider if you need assistance, or a summary of previous bookings you made through Rideways.
+
   * Market research: We sometimes ask our customers to take part in market research. Any additional personal details that you give us as part of the market research will be used only with your consent.
+
   * Fraud detection and prevention: We may use personal information for the detection and prevention of fraud and other illegal or unwanted activities.
+
   * Improving our services: Finally, we use personal information for analytical purposes, to improve our services, to enhance the user experience, and to improve the functionality and quality of our online travel services.
 
 
 
- **How does Rideways share your data with third parties?**
+
+**How does Rideways share your data with third parties?**
 
 In certain circumstances, we may share your personal data with third parties.
 
   * The journey you booked: In order to complete your booking, we need to transfer relevant booking details to the transportation service provider you have booked with. This may include information such as your name, contact details (email, address and telephone number), payment information and any preferences you specified when making a booking.
-  * Other companies within the Rideways corporate family: In order to support you during the booking process and throughout your journey, your details may be shared with other members of the Rideways corporate family. To find out more about the Rideways corporate family, visit our About page. Your information may also be shared with our parent company, Priceline.com, and the other members of the Priceline corporate group (Agoda.com, Booking.com and Kayak.com) and analysed to provide you with travel-related offers that may be of interest to you and to offer you a customised service.
+  * Other companies within the Rideways corporate family: In order to support you during the booking process and throughout your journey, your details may be shared with other members of the Rideways corporate family. To find out more about the Rideways corporate family, visit our About page. Your information may also be shared with our parent company, Priceline.com, and the other members of the Priceline corporate group (Agoda.com, Booking.com and Kayak.com) and analysed to provide you with travel-related offers that may be of interest to you and to offer you a customised service.
   * Third-party service suppliers: We may use third-party service suppliers to process your personal information on our behalf for the purposes specified above. For example, we may use service suppliers to send the booking information on our behalf to the transportation service provider you booked with us, or we may instruct third parties to contact you. When a booking requires it, we may also work with third-party payment service suppliers to facilitate payment or payment guarantees. We also work with third-party advertisement networks to market services on other platforms, or involve third-party suppliers for analytical purposes. The third parties involved in any of these services will be bound by confidentiality agreements and will not be allowed to use your personal information for any purposes other than those specified above.
   * Our business partners: We work with partner websites around the world to distribute the transportation services listed on our website and mobile apps. When you make a booking on one of these business partners' websites, certain personal information that you give them may be shared with us. Similarly, we may share information with this business partner, for example, in order to manage your booking, so that they can address queries related to your booking and for marketing purposes. In this context, your information is governed by the privacy policies of these business partners.
   * Competent authorities: We may share your personal information with government or investigative authorities if we are required by law (or any regulation having the force of law) to do so. Such requirements include court orders, subpoenas and orders arising from legal processes and criminal investigations. We may also disclose your personal data if it is strictly necessary for the prevention, detection or prosecution of criminal acts.
@@ -56,7 +71,7 @@ In certain circumstances, we may share your personal data with third parties.
 
 ### Security
 
- **What security procedures does Rideways put in place to safeguard your personal information?**
+**What security procedures does Rideways put in place to safeguard your personal information?**
 
 In accordance with UK and European data protection laws, we observe reasonable procedures to prevent unauthorised access and the misuse of personal information.
 
@@ -64,13 +79,13 @@ We use appropriate business systems and procedures to protect and safeguard the 
 
 ### Marketing Emails
 
- **How can you control marketing emails?**
+**How can you control marketing emails?**
 
 Upon completion of a booking we provide options to opt out of marketing and sales emails, if you have remained opted in, we hope you enjoy receiving our emails, but if you would prefer not to be kept up-to-date with our special offers, you can opt out, or unsubscribe, from marketing communications at any time using the 'Unsubscribe' link in each newsletter.
 
 ### Contact
 
- **How can you control the personal information you have given to Rideways?**
+**How can you control the personal information you have given to Rideways?**
 
 Rideways tries to be as open as it can be in terms of giving people access to their personal information. Individuals can request a copy of their information by contacting us in writing at the following email support@rideways.com or at the address below stating 'Subject Access Request' in the subject, we may ask for further information to validate the identity of the requester to ensure the security of the data we hold.
 
