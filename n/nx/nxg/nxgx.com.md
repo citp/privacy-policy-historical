@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nxgx.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513215934id_/http%3A//nxgx.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nxgx.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115001949id_/http%3A//nxgx.com/Info/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
