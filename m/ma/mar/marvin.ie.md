@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvin.ie privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304192011id_/https%3A//www.marvin.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvin.ie privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115041307id_/https%3A//www.marvin.ie/privacy-policy) for the most accurate reproduction.*
 
 # Marvin.ie Privacy Policy
 
@@ -88,4 +88,4 @@ Dublin 14
 
 General information on Data Protection is available from the Office of the Data Protection Commissioner’s [website](http://www.dataprotection.ie/).
 
-© Copyright 2017 Marvin Food Online Ltd • 7 Apollo Business Park, Dundrum, Dublin 14, D14 F594 • Co Reg: 557072 • [info@marvin.ie](mailto:info@marvin.ie).
+© Copyright 2017 Marvin Food Online Ltd • 2nd Floor Skylab Building, 2 Exchange Street Upper, Dublin 8, D08 XW7D • Co Reg: 557072 • [info@marvin.ie](mailto:info@marvin.ie).
