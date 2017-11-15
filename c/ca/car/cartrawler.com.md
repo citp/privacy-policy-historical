@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartrawler.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602024759id_/https%3A//www.cartrawler.com/ct/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartrawler.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115162036id_/https%3A//www.cartrawler.com/ct/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarTrawler
 
