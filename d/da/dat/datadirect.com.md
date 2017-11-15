@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220080603id_/https%3A//www.progress.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115124000id_/https%3A//www.progress.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Progress
 
 Please note this governs the use of the Progress Software website. For the Privacy Policy governing the Telerik website please use the following [link](http://www.telerik.com/company/privacy-policy). 
 
