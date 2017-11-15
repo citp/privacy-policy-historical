@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21food.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514144656id_/http%3A//www.21food.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21food.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115200747id_/http%3A//www.21food.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
