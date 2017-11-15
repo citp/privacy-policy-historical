@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chill.ie privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523003501id_/https%3A//www.chill.ie/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chill.ie privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115052124id_/https%3A//www.chill.ie/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Legal | Chill Insurance Ireland
 
@@ -27,7 +27,7 @@ Personal Data
     We will process any personal data you provide to us for the following purposes: 
 
   1. To carry out our obligations arising from any contracts entered into between you and us and / or to provide you with the quotations, information, products and services that you request from us.
-  2. When you request a quote from us, we may contact you by phone, SMS or email in relation to that quote. There may also be requirements to contact you for the purposes of discussing renewal terms of an existing policy with us or any other query directly related to an existing policy with us.
+  2. When you request a quote from us, we may contact you by phone (including by automated calling machine), SMS or email in relation to that quote. There may also be requirements to contact you for the purposes of discussing renewal terms of an existing policy with us or any other query directly related to an existing policy with us
   3. To provide you with information about other products and services we, other members of our group or other trusted third parties, may offer from time to time.
   4. To provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you, including issuing monthly newsletters.
   5. To notify you about changes to our services.
@@ -97,4 +97,4 @@ Our website may, from time to time, contain links to and from the websites of ou
 
 Any changes to this Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-**Privacy Policy valid from:** August 2016
+**Privacy Policy valid from:** May 2017
