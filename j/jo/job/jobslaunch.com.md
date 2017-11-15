@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobslaunch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084200id_/http%3A//jobslaunch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobslaunch.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115090122id_/http%3A//jobslaunch.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -123,11 +123,11 @@ This Privacy Policy is effective as of the Effective Date stated at the beginnin
 
 If you have any questions or comments relating to our website or Privacy Policy, or if you would like to request information about our disclosure of personal information to third parties, please contact us by email at:Info@JobsLaunch.com
 
-You may also send your questions or comments to our address: 1178 South State Street, 2nd Floor, Orem, Utah 84097
+You may also send your questions or comments to our address: 223 Bulldog blvd #527 Provo, Utah 84604
 
 ### Special Notification for California Residents
 
-Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. To make such a request, please write to us at 1178 South State, Orem, Utah 84097.
+Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. To make such a request, please write to us at 223 Bulldog blvd #527 Provo, Utah 84604.
 
 ### Notification of Intellectual Property Rights Infringement
 
