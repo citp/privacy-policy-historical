@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wunderkit.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621002308id_/https%3A//www.wunderlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wunderkit.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115111729id_/https%3A//www.wunderlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,6 +77,18 @@ Of course you can unsubscribe the newsletter at any time. Every newsletter conta
 #### Cookies
 
 6Wunderkinder stores so-called "cookies" in order to be able to offer you a comprehensive range of functions and to make it easier to use our websites. "Cookies" are small files which are stored on your computer with the help of the internet browser. If you do not want to use "cookies", you can prevent "cookies" from being stored on your computer using the corresponding settings on your internet browser. Please note that this may restrict the functional capability and the range of functions of our offer.
+
+We use cookies and similar technologies for several purposes, including:
+
+  * **Storing your Preferences and Settings.** Settings that enable our websites to operate correctly or that maintain your preferences over time may be stored on your device.
+  * **Sign-in and Authentication.** When you sign into a website, we store a unique ID number, and the time you signed in, in an encrypted cookie on your device. This cookie allows you to move from page to page within the site without having to sign in again on each page.
+  * **Security.** We use cookies to detect fraud and abuse of our websites.
+  * **Analytics.** In order to provide our products, we use cookies and other identifiers to gather usage and performance data. For example, we use cookies to count the number of unique visitors to a web page or service and to develop other statistics about the operations of our products. This includes cookies from 6Wunderkinder and from third-party analytics providers.
+  * **Performance.** 6Wunderkinder uses cookies for load balancing to ensure that our websites remain up and running.
+
+
+
+In addition to the cookies 6Wunderkinder sets when you visit our websites, third parties may also set cookies when you visit Microsoft sites. In some cases, that is because we have hired the third party to provide services on our behalf, such as site analytics, support, and the collection of feedback. See, e.g., Google Analytics section below. Because your browser connects to those third parties' web servers to retrieve that content, those third parties are able to set or read their own cookies on your device and may collect information about your online activities across websites or online services.
 
 #### Analysis of Wunderlist
 
