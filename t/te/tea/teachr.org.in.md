@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teachr.org.in privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629123334id_/http%3A//teachr.org.in/en/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachr.org.in privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115135856id_/http%3A//teachr.org.in/en/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Privacy Policy**
 
 This website does not automatically capture any specific personal information from you (like name, phone number or e-mail address), that allows us to identify you individually. You can visit this Site, without revealing, Personal Information, unless you choose to provide such information. Any Personal information collected shall be used only for the stated purpose .We do not collect personal information for any purpose other than to respond to you (for example, to respond to your queries ). If you choose to provide us with personal information like filling out a Contact Us form with an e-mail address or postal address, and submitting it to us through the website, we use that information to respond to your message, and to help you get the information you have requested. Any information provided to this website will be protected from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
