@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redflymarketing.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611054248id_/http%3A//www.redflymarketing.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redflymarketing.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115063300id_/http%3A//www.redflymarketing.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Redfly Digital - Privacy Policy - Redfly Online Marketing, Dublin, Ireland
 
