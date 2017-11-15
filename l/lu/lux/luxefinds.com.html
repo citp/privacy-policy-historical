@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the luxefinds.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606030802id_/http%3A//luxefinds.com/Privacy-Policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luxefinds.com privacy policy that was archived on 2017-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171115173538id_/http%3A//luxefinds.com/Privacy-Policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -510,6 +510,114 @@ qacct:"p-09JfiBftt9o6A"
 
 
 
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/js/jquery.simplemodal-1.4.4.js"></script>
+<script src="/js/js-cookie/js.cookie.js"></script>
+<script>
+    $(document).ready(function() {
+
+//        Cookies.remove('nextAskEmailDateTime');
+
+        var d = new Date();
+        var n = d.getTime();
+        var nextAskEmailDateTime = Cookies.get('nextAskEmailDateTime');
+
+        if (nextAskEmailDateTime == -1) {
+            // do nothing -- already received email
+        } else if ((nextAskEmailDateTime == null) || (n > nextAskEmailDateTime)) {
+
+            // Start -- Used by GenericProductEditor
+
+
+            $('#js__user_interest_panel').modal({
+                onOpen: function (dialog) {
+                    dialog.overlay.fadeIn('slow', function () {
+                        dialog.container.slideDown('slow', function () {
+                            dialog.data.fadeIn('slow');
+                        });
+                    });
+                }
+            });
+        }
+
+        $("#js__user_interest_button").click(function(element) {
+            var form = $(this).closest('form')[0];
+            var email = $("#js__user_interest_email").val();
+            var interestSource = "LuxeFinds.com";
+            var data = { email: email, interestSource: interestSource, at:"NILE" };
+            var inputs = $(form).find("input");
+
+            $.ajax({
+                url: '/services/InterestListServices.php',
+                dataType: 'JSON', // Somewhere there's extra white space so JSONP won't work...
+                data: data,
+                success: function(returnData) {
+                    console.dir(returnData.imageChanged);
+
+                    if (returnData.imageChanged == "TRUE") {
+                        $("#js__image__" + returnData.lf_product_id).attr("src",returnData.image_url);
+                    }
+                    $.modal.close();
+                    Cookies.set('nextAskEmailDateTime',-1);
+                }
+            });
+        });
+
+        $("#js__user_delay_button").click(function(element) {
+            Cookies.set('nextAskEmailDateTime', n + (1000 * 60 * 60));
+            $.modal.close();
+        });
+
+        // End -- Used by GenericNewProduct
+    });
+</script>
+
+
+<style type="text/css">
+    .userBoardButton {
+        font-size: 20px;
+        color: #FDF3EF;
+        text-align: center;
+        background-color: #D2BDA1;
+        font-family: 'Lato', sans-serif;
+        font-weight: 400;
+        width: 200px;
+        padding: 10px 30px 10px 30px;
+        letter-spacing: 7px;
+        text-transform: uppercase;
+
+    }
+    #basic-modal-content {display:none;}
+
+    /* Overlay */
+    #simplemodal-overlay {background-color:#FDF3EF;}
+
+    /* Container */
+    #simplemodal-container {height:400px; width:650px; color:#bbb; background-color:white; border:1px solid #BE8F50; padding:12px;}
+    #simplemodal-container .simplemodal-data {padding:8px;}
+    #simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#bbb; display:block; font-size:12px; margin-bottom:12px; padding:4px 6px 6px;}
+    #simplemodal-container a {color:#ddd;}
+    #simplemodal-container a.modalCloseImg {background:url(/images/2015/x.png) no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
+    #simplemodal-container h3 {color:#84b8d9;}
+
+</style>
+
+<div id="js__user_interest_panel" title="" style="display:none;border:0px solid red;font-size:30px;">
+
+    <form onclick="return false;" style="text-align:center;">
+        <div style="padding:10px;"><img src="images/2015/HeaderLogoButton.png"></div>
+        <div>
+            <div style="padding:30px;">Sign up with your e-mail address and be the first to know</div>
+            <input id="js__user_interest_email" type="text" name="email" style="height:30px;margin-top:-15px;font-size:30px;width:400px;">
+
+            <div style="padding:50px;"> <button id="js__user_interest_button">Sign Up Now</button> <button id="js__user_delay_button">Not Right Now</button> </div>
+        </div>
+    </form>
+</div>
 
 
 
