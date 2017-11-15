@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smithfield.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134929id_/http%3A//www.smithfield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithfield.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115034219id_/http%3A//www.smithfield.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Smithfield.com | Flavor hails from Smithfield.
+# Smithfield Foods, Inc. Privacy Policy & Company Use of Information
 
 This Privacy Policy states the terms under which information about you is collected and used when accessing www.smithfield.com (the “Site”). By accessing the Site you agree to the terms set forth in this Privacy Policy. This Privacy Policy may be modified at any time without notice by posting the modified Privacy Policy here. You should check this Privacy Policy each time you visit the Site to identify and understand any changes made since your previous visit. By continuing to access or use the Site, you agree to be bound by any modifications to this Privacy Policy.
 
