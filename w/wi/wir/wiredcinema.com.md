@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiredcinema.com privacy policy that was archived on 2016-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160726224738id_/http%3A//www.wiredcinema.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiredcinema.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115071437id_/http%3A//www.wiredcinema.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Watch Movies Online – Watch TV Shows – Free Video
 
