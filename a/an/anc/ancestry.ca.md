@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.ca privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610084905id_/http%3A//www.ancestry.ca/cs/legal/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.ca privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115080452id_/http%3A//www.ancestry.ca/cs/legal/privacyphilosophy) for the most accurate reproduction.*
 
 # Ancestry Privacy Centre
 
@@ -38,17 +38,17 @@ The current AncestryDNA product results are based on a test of approximately 700
 
 You own your DNA data and you can choose to delete your DNA test results as described in the AncestryDNA Privacy Statement, or have us destroy your DNA sample at any time. If you do not, we retain your DNA test results and DNA sample.
 
-We also may collect _health data_ from you, which includes information and opinions about your family health history, and health and lifestyle information about you and your family members.
+The AncestryHealth beta is currently closed to new users, but if you are a current AncestryHealth user, we also may collect _health data_ from you, which includes information and opinions about your family health history, and health and lifestyle information about you and your family members.
 
 We use genetic and health data, along with family tree data and your personal data, to perform research in genealogy, anthropology, evolution, medicine, and other health areas to improve, research, and develop new products. We will never share your genetic or health information with third-party research collaborators unless you opt in to the Ancestry Human Diversity Research Project by agreeing to the [AncestryDNA Informed Consent](https://www.ancestry.ca/dna/legal/informedConsent/latest) or the [AncestryHealth Informed Consent](https://health.ancestry.com/account/informedconsent), or we otherwise obtain your explicit consent. You may opt out of the Research Project at any time; however, information cannot be withdrawn from studies in progress, completed studies, or published results.
 
 For more information about AncestryDNA, please see our [FAQs](https://www.ancestry.ca/dna/legal/faq) and the [AncestryDNA Privacy Statement](https://www.ancestry.ca/dna/legal/privacyStatement). For more information about AncestryHealth, please see the [AncestryHealth Privacy Statement](https://health.ancestry.com/account/privacystatement).
 
-Please note that AncestryDNA is only available in [these countries](https://support.ancestry.ca/s/article/AncestryDNA-Availability). AncestryHealth is only available in the United States.
+Please note that AncestryDNA is only available in [these countries](https://support.ancestry.ca/s/article/AncestryDNA-Availability). The AncestryHealth beta was only available in the United States.
 
 ### Online Data
 
-We use a variety of cookies, beacons, and other similar technologies to optimize and customize your experience on our websites, evaluate and improve site performance, and deliver content and advertisements specific to your interests on our websites and elsewhere on the Internet.
+We use a variety of cookies, beacons, and other similar technologies to optimise and customise your experience on our websites, evaluate and improve site performance, and deliver content and advertisements specific to your interests on our websites and elsewhere on the Internet.
 
 These technologies record limited information when you visit our sites, such as IP address, operating system, device ID, date and time of access, and the web pages visited. This collected information helps us to, for example, save your search results, remember your password, store your shopping cart, and provide you with relevant ads. We also use mobile analytics software to allow us to deliver and better understand the functionality of our websites.
 
