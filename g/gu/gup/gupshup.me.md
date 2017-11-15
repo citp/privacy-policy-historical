@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gupshup.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160149id_/http%3A//www.gupshup.io/developer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gupshup.me privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115033243id_/http%3A//www.gupshup.io/developer/privacy) for the most accurate reproduction.*
 
 # Gupshup - Privacy Policy
 
