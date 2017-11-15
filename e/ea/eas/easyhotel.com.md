@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyhotel.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120024225id_/https%3A//www.easyhotel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyhotel.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115144855id_/https%3A//www.easyhotel.com/privacy-policy) for the most accurate reproduction.*
 
 # Our privacy policy | easyHotel
 
