@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldsgym.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629164559id_/http%3A//www.goldsgym.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsgym.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115062942id_/http%3A//www.goldsgym.com/privacy-policy) for the most accurate reproduction.*
 
 # Gold's Gym | Privacy Policy | Fitness Gym
 
