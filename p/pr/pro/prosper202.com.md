@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prosper202.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613020438id_/http%3A//prosper.tracking202.com/apps/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosper202.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115090044id_/http%3A//prosper.tracking202.com/apps/about/privacy.php) for the most accurate reproduction.*
 
-# Your Privacy Rights - Prosper202 Self-Hosted Analytics Platform For Digital Marketers
+# Your Privacy Rights - Prosper202 Self-Hosted Tracking ClickServer & Analytics Platform For Digital Marketers
 
 **Website Visitors**
 
