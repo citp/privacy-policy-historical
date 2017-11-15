@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksmob.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225153257id_/http%3A//clicksmob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksmob.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115080854id_/http%3A//www.clicksmob.com/privacy-policy) for the most accurate reproduction.*
 
 # ClicksMob | Privacy Policy
 
@@ -45,7 +45,7 @@ Please note that you may continue to receive materials for a period of time whil
 
 ### HOW MAY I CORRECT OR DELETE PERSONAL INFORMATION?
 
-You may request that we remove your Personal Information from our current customer records or that we amend your Personal Information. Please notify us by [contact us](https://web.archive.org/web/20161225153257id_/http://www.clicksmob.com/privacy-policy/contact).
+You may request that we remove your Personal Information from our current customer records or that we amend your Personal Information. Please notify us by [contact us](https://web.archive.org/web/20171115080854id_/http://www.clicksmob.com/privacy-policy/contact).
 
 ### UPDATES TO THIS PRIVACY POLICY
 
