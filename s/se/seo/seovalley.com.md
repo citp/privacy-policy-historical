@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seovalley.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125957id_/http%3A//seovalley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seovalley.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115194742id_/http%3A//seovalley.com/privacy-policy) for the most accurate reproduction.*
 
 # SEOValley's™ Privacy Policy | SEOValley™ Solutions Private Limited
 
