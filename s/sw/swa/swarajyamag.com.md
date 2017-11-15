@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swarajyamag.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126122540id_/https%3A//swarajyamag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swarajyamag.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115104820id_/https%3A//swarajyamag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
