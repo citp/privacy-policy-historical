@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricksage.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518021644id_/http%3A//www.tricksage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricksage.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116003343id_/http%3A//www.tricksage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
