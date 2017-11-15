@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzfilm.co.nz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080225id_/http%3A//www.nzfilm.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzfilm.co.nz privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115192543id_/http%3A//www.nzfilm.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New Zealand Film Commission
 
@@ -78,7 +78,7 @@ From time to time NZ Film seeks to obtain additional information from NZ Film fa
 
 By signing up as a Member of the NZ Film VOD Service you will be automatically added to our NZ Film VOD Service mailing list.  You may also from time to time receive emails regarding NZ Film surveys and promotions.
 
-If you don’t want to be on our NZ Film mailing list, you can request to unsubscribe any time by emailing [vod@nzfilm.co.nz](mailto:vod@nzfilm.co.nz).
+If you don’t want to be on our NZ Film mailing list, you can request to unsubscribe any time by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6c1a03082c02160a050001420f03420216).
 
 We may also email you from time to time regarding your Member Account information.  These emails are critical to the effective operation of the NZ Film VOD Service and you may not unsubscribe unless you terminate your Membership.
 
@@ -160,7 +160,7 @@ Given the nature of the internet we cannot guarantee security of information tra
 
 You can access some of your personal information that we collect through the NZ Film VOD Service by logging into your Member Account.  We use this procedure to better safeguard your information.
 
-We may also correct factual errors in your personally identifiable information if you send us an email request that shows the error(s) ([vod@nzfilm.co.nz](mailto:vod@nzfilm.co.nz)).
+We may also correct factual errors in your personally identifiable information if you send us an email request that shows the error(s) ([[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ccbaa3a88ca2b6aaa5a0a1e2afa3e2a2b6)).
 
 To protect your privacy and security, we may also take reasonable steps to verify your identity before granting access or making corrections.
 
@@ -170,7 +170,7 @@ We may refuse to correct your information where a request is frivolous, vexatiou
 
 ## 11\. Privacy questions
 
-If you have any questions about this Privacy Policy, please contact: [vod@nzfilm.co.nz](mailto:vod@nzfilm.co.nz).  We will endeavour to respond to you as soon as possible.
+If you have any questions about this Privacy Policy, please contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aed8c1caeec0d4c8c7c2c380cdc180c0d4).  We will endeavour to respond to you as soon as possible.
 
 ## 12\. Definitions used in this privacy policy
 
