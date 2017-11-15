@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607004938id_/http%3A//www.elitetraveler.com/elite-traveler-magazine-internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115132019id_/http%3A//www.elitetraveler.com/elite-traveler-magazine-internet-privacy-policy) for the most accurate reproduction.*
 
 # ELITE TRAVELER MAGAZINE INTERNET PRIVACY POLICY | Elite Traveler
 
