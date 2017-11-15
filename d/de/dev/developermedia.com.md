@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developermedia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133714id_/http%3A//developermedia.com/developer-media-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developermedia.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115090044id_/http%3A//developermedia.com/developer-media-privacy-policy) for the most accurate reproduction.*
 
 # Developer Media Privacy Policy - Developer MediaDeveloper Media | Tech Marketing Experts
 
