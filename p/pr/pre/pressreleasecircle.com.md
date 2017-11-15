@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressreleasecircle.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514100928id_/http%3A//www.pressreleasecircle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressreleasecircle.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115104622id_/http%3A//www.pressreleasecircle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Press Release Distribution Service | PressReleaseCircle
 
