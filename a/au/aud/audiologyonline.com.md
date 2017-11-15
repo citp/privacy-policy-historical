@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135826id_/http%3A//www.audiologyonline.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115153311id_/http%3A//www.audiologyonline.com/general/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy AudiologyOnline: Online AudiologyOnline CEUs & AudiologyOnline Jobs
 
@@ -22,7 +22,7 @@ If we make a material change to our privacy practices that involves the use of y
 
 ## Introduction
 
-AudiologyOnline is a website owned and operated by Allied Health Media, LLC (“Allied Health Media”, “AudiologyOnline”, “we”, “our” or “us”).
+AudiologyOnline is a website owned and operated by continued.com, LLC (“continu **ed** ”, “AudiologyOnline”, “we”, “our” or “us”).
 
 Use of the Site is governed by the laws of the United States. When you provide us with information, you acknowledge that the information will be stored and processed on servers located in the United States. No one under the age of 13 may use the Site. If you are between the ages of 13 and 18, please have your parents review this Privacy Policy with you.
 
