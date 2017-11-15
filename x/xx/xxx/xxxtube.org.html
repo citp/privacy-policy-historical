@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xxxtube.org privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606203052id_/http%3A//xxxtube.chat/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xxxtube.org privacy policy that was archived on 2017-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171115113114id_/http%3A//xxxtube.chat/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,7 +7,7 @@
   
     <title>Privacy Policy - XXXTube</title>
 
-  <link rel="stylesheet" href="https://ssl-ccstatic.highwebmedia.com/CACHE/css/36472d331d73.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ssl-ccstatic.highwebmedia.com/CACHE/css/1fbe27d54a18.css" type="text/css" media="all">
   <style>
   #id_emoticon_autocomplete_delay, label[for=id_emoticon_autocomplete_delay] {
       display: none;
@@ -32,6 +32,9 @@ a {
 }
 .logo-zone strong {
     color: #CCCCCC;
+}
+.logo {
+    width: 200px;
 }
 .nav-bar, #user_information .top {
     background: #292929;
@@ -186,6 +189,9 @@ a {
 .footercon h2 {
     color: #4B8FC4;
 }
+.creat{
+  background-color: #f47321;
+}
 </style>
 
   
@@ -269,7 +275,7 @@ a {
 <h2>Please sign in using the form below</h2>
 <div id="login_inputs">
 <form method="post" action="/auth/login/?next=/privacy/">
-  <input type="hidden" name="csrfmiddlewaretoken" value="fmPrui3wxuflDrTM5CvXYJvrFGk91wo3">
+  <input type="hidden" name="csrfmiddlewaretoken" value="PIBatGdHHlmarAhDlNvqj1FnDZi86Kqw">
   <label for="id_username">Username:</label>
   <input id="id_username" maxlength="254" name="username" type="text">
   <label for="id_password">Password:</label>
@@ -291,11 +297,9 @@ a {
         <div class="content_body legal_text">
             <h1>Privacy Policy</h1>
 <p>Effective Date: March 4, 2014</p>
-<p>Last Modified: April 6, 2017</p>
+<p>Last Modified: July 31, 2017</p>
 <p>This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by
-    
     <span class="company-name-US"></span>
-
  (“XXXTube,”
     “we,” “our”). By using our Services and/or registering with XXXTube, you acknowledge and accept the
     provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal
@@ -310,7 +314,7 @@ a {
     its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your
     review.</p>
 <p>If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at
-    <a href="mailto:support@chaturbate.com">support@chaturbate.com</a>, or by phone at 1-949-274-7960.</p>
+    <a href="mailto:support@chaturbate.com">support@chaturbate.com</a>, or by phone at 1-949-274-7960</p>
 <p><strong>Information Collected</strong></p>
 <p>In order to provide our full range of Services, we may collect the following types of information:</p>
 <p>Information you provide. When you register for a username, we ask you for personal information (such as your email
@@ -384,7 +388,6 @@ a {
     to XXXTube. We are not responsible for the privacy of personal identifying information that you communicate
     via video chat to users who are viewing a live video stream from your computer. Accordingly, you should refrain from
     sharing personal information via live video stream to other users of XXXTube services.</p>
-
 <p><strong>California Residents</strong></p>
 <p>If you are a California resident, you have the right to receive: a) information identifying any third-party
     company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you
@@ -392,7 +395,6 @@ a {
     disclosed. To obtain such information you must make a request in writing. Your request will not be processed if it
     does not include your name and email address, the URL for the website you visited, and a return address. We will not
     honor such requests more than once per calendar year. Please email your request to <a href="mailto: support@chaturbate.com">support@chaturbate.com</a>.</p>
-
 <p><strong>Privacy Principle: Choice</strong></p>
 <p>Use of our Services requires registering for a username. When you sign up for our Services, we ask you to provide
     personal information, such as your email address. We will ask for your consent prior to using any provided personal
@@ -574,7 +576,7 @@ a {
       <p><a href="/2257/">18 U.S.C. 2257 Record Keeping Requirements Compliance Statement</a></p>
     
 
-    <p>© Copyright Xxxtube.chat 2011 - 2017. All Rights Reserved. Patent Pending. 61</p>
+    <p>© Copyright Www.xxxtube.chat 2011 - 2017. All Rights Reserved. 85</p>
     <p style="margin-top: 15px;">
         <img src="https://ssl-ccstatic.highwebmedia.com/images/badges/safelabeling.gif">
         <a href="http://www.rtalabel.org/"><img src="https://ssl-ccstatic.highwebmedia.com/images/badges/88x31_RTA-5042-1996-1400-1577-RTA_a.gif" style="margin: 0 10px;"></a>
@@ -630,13 +632,6 @@ $.ajaxSetup ({
 
 
 
-
-
-function windowpopup(url) {
-	window.open(url,'Information','height=675,width=850,scrollbars=1');
-}
-
-
 $(document).ready(function(){
   var mySwfStore = new SwfStore({
     namespace: 'ogcamsite818',
@@ -684,12 +679,15 @@ $(document).ready(function(){
         } else {
             var usernames = oldval.split(',');
             var foundcurrent = false;
-            $.each(usernames, function(key, username) {
+            $.each(usernames, function (key, username) {
                 if (username != "") {
-                    $.post("/accounts/linkaccounts/", {
-                        'username': username,
-                        'token': '',
-                        'expiration': ''});
+                    setTimeout(function () {
+                        $.post("/accounts/linkaccounts/", {
+                            'username': username,
+                            'token': '',
+                            'expiration': ''
+                        });
+                    }, ((key + 1) * 100));
                 } else {
                     foundcurrent = true;
                 }
@@ -748,7 +746,7 @@ if ($.fn.hasOwnProperty('live')) {
 <script type="text/javascript">
 $(document).ready(function() {
     $.post("/whitelabels/record_hit/",
-        {referer: ""});
+        {referer: "http://www.xxxtube.chat/terms/"});
 });
 </script>
 
