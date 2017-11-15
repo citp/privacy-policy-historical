@@ -1,10 +1,58 @@
-> *The following text is extracted and transformed from the picclick.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312203412id_/https%3A//picclick.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picclick.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115045138id_/https%3A//picclick.com/pages/terms.html) for the most accurate reproduction.*
 
-# PicClick • Privacy Policy
+# PicClick • Terms & Privacy
+
+## Terms of Service
+
+By using the Picclick web site, a service of PicClick, LLC., you are agreeing to be bound by the following terms and conditions ("Terms of Use").
+
+### Basic Terms
+
+  1. You must be 13 years or older to use this site.
+  2. You are responsible for any activity that occurs under your screen name.
+  3. You are responsible for keeping your password secure.
+  4. You must not abuse, harass, threaten, impersonate or intimidate other PicClick users.
+  5. You may not use the Picclick service for any illegal or unauthorized purpose. International users agree to comply with all local laws regarding online conduct and acceptable content.
+  6. You are solely responsible for your conduct and any data, text, information, screen names, graphics, photos, profiles, audio and video clips, links ("Content") that you submit, post, and display on the PicClick service.
+  7. You must not modify, adapt or hack PicClick or modify another website so as to falsely imply that it is associated with PicClick .
+  8. You must not create or submit unwanted email to any PicClick members ("Spam").
+  9. You must not transmit any worms or viruses or any code of a destructive nature.
+  10. You must not, in the use of PicClick, violate any laws in your jurisdiction (including but not limited to copyright laws).
+
+
+
+Violation of any of these agreements will result in the termination of your PicClick account. While PicClick prohibits such conduct and content on its site, you understand and agree that PicClick cannot be responsible for the Content posted on its web site and you nonetheless may be exposed to such materials and that you use the PicClick service at your own risk.
+
+### General Conditions
+
+  1. We reserve the right to modify or terminate the PicClick service for any reason, without notice at any time.
+  2. We reserve the right to alter these Terms of Use at any time. If the alterations constitute a material change to the Terms of Use, we will notify you via internet mail according to the preference expressed on your account. What constitutes a "material change" will be determined at our sole discretion, in good faith and using common sense and reasonable judgement.
+  3. We reserve the right, in accordance with any applicable laws, to refuse service to anyone for any reason at any time.
+  4. We may, but have no obligation to, remove Content and accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, obscene or otherwise objectionable or violates any party's intellectual property or these Terms of Use.
+  5. The PicClick service makes it possible to post images and text hosted on PicClick to outside websites. This use is accepted (and even encouraged!). However, pages on other websites which display data hosted on PicClick must provide a link back to PicClick.
+  6. We reserve the right to reclaim usernames on behalf of businesses or individuals that hold legal claim or trademark on those usernames.
+
+
+
+### Copyright (What's Yours is Yours)
+
+  1. We claim no intellectual property rights over the material you provide to the PicClick service. Your profile and materials uploaded remain yours. You can remove your profile at any time by deleting your account. This will also remove any text and images you have stored in the system.
+  2. We encourage users to contribute their creations to the public domain or consider progressive licensing terms.
+  3. PicClick undertakes to obey all relevant copyright laws. We will review all claims of copyright infringement received and remove content deemed to have been posted or distributed in violation of any such laws. To make a claim, please provide us with the following: 
+    1. A physical or electronic signature of the copyright owner or the person authorized to act on its behalf;
+    2. A description of the copyrighted work claimed to have been infringed;
+    3. A description of the infringing material and information reasonably sufficient to permit PicClick to locate the material;
+    4. Your contact information, including your address, telephone number, and email;
+    5. A statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+    6. A statement that the information in the notification is accurate, and, under the pains and penalties of perjury, that you are authorized to act on behalf of the copyright owner.
+
+
+
+## Privacy Policy
 
 _This Privacy Policy is effective as of October 7, 2014._
 
-PicClick provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at PicClick.com ("Site") or collected through our social networking service ("Service"). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
+PicClick provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at PicClick ("Site") or collected through our social networking service ("Service"). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
 
 By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, the US.
 
