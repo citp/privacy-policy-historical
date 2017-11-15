@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsma.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612194130id_/http%3A//gsma.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsma.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115024447id_/https%3A//www.gsma.com/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy - About Us
 
