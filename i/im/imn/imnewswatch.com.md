@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807041859id_/http%3A//imnewswatch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115193754id_/https%3A//imnewswatch.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Internet Marketing NewsWatch
+# PRIVACY POLICY | Internet Marketing NewsWatch | Internet Marketing NewsWatch
 
 PRIVACY POLICY
 
@@ -42,7 +42,7 @@ THE TYPES OF INFORMATION WE COLLECT
 Personal Information.  We collect Personal Information that  
 you provide to us and that may be used to identify you  
 (“Personal  
-Information”).  Personal Information that  
+Information”).  Personal Information that  
 we collect may vary with each separate purpose for which you provide  
 it, and it may include one or more of the following  
 categories:  name, physical address, an email address, phone  
@@ -164,7 +164,7 @@ use 3rd party cookies (cookies passed by others, not by us) to collect
 Non-Personal Information about your use of this site and other  
 websites.  This information is your  
 â€œbehavioral  
-dataâ€.  3rd Party Behavioral Ads do not  
+dataâ€.  3rd Party Behavioral Ads do not  
 use your Personal Information.  Instead, they associate your  
 behavioral data on visited sites with your computer, so that the ads  
 your computer sees on this site are more likely to be relevant to your  
