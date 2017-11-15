@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castleworldwide.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626140146id_/http%3A//www.castleworldwide.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castleworldwide.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115235633id_/http%3A//www.castleworldwide.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Castle Worldwide: A Certification and Licensure Testing CompanyCastle Worldwide: A Certification and Licensure Testing Company
 
