@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfxcm.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629051448id_/https%3A//www.fxcm.com/uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfxcm.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115182742id_/https%3A//www.fxcm.com/uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Security Info for Clients and Applicants - FXCM
 
@@ -87,11 +87,11 @@ We take reasonable steps to ensure that we retain information about you only for
 
 Your privacy rights
 
-Under the terms of the UK Data Protection Act 1998, you have a right to know what personal information we hold about you. If you'd like a copy of the information you are entitled to please write to us at Forex Capital Markets Limited, Attention: Data Protection Officer, Northern & Shell Building, 10 Lower Thames Street, 8th Floor, London EC3R 6AD, United Kingdom, clearly identifying yourself and the information you require. We may charge you £10 to cover the cost of processing your request and supplying your information to you. We will ask you to provide identification to ensure we do not disclose your information to the wrong person. Please note that you can obtain copies of your account free of charge on the ['MyFXCM'](https://www.myfxcm.com/fxma/) secure access website.
+Under the terms of the UK Data Protection Act 1998, you have a right to know what personal information we hold about you. If you'd like a copy of the information you are entitled to please write to us at Forex Capital Markets Limited, Attention: Data Protection Officer, 20 Gresham Street, 4th Floor, London EC2V 7JE, United Kingdom, clearly identifying yourself and the information you require. We may charge you £10 to cover the cost of processing your request and supplying your information to you. We will ask you to provide identification to ensure we do not disclose your information to the wrong person. Please note that you can obtain copies of your account free of charge on the ['MyFXCM'](https://www.myfxcm.com/fxma/) secure access website.
 
 ### Opting-out of direct marketing
 
-You can always tell us that you do not wish to receive direct marketing communications from us. But remember, if you do not want us to get in touch, you may miss out on valuable and exciting offers. If you would prefer not to receive direct marketing communications from us, simply let us know at any time by writing to us at Forex Capital Markets Limited, Attention: Data Protection Officer, Northern & Shell Building, 10 Lower Thames Street, 8th Floor, London EC3R 6AD, United Kingdom or by following the opt out instructions in the relevant communication. Please note that it may take up to 96 hours to process your opt-out request and that any such request will not stop you from receiving service messages from us.
+You can always tell us that you do not wish to receive direct marketing communications from us. But remember, if you do not want us to get in touch, you may miss out on valuable and exciting offers. If you would prefer not to receive direct marketing communications from us, simply let us know at any time by writing to us at Forex Capital Markets Limited, Attention: Data Protection Officer, 20 Gresham Street, 4th Floor, London EC2V 7JE, United Kingdom or by following the opt out instructions in the relevant communication. Please note that it may take up to 96 hours to process your opt-out request and that any such request will not stop you from receiving service messages from us.
 
 ### Updating your personal information
 
@@ -123,7 +123,7 @@ Any changes we may make to this policy in the future will be posted on this page
 
 ### Complaints
 
-If you consider that any action of ours breaches this policy or applicable legislation, complain by writing us at Forex Capital Markets Limited, Attention: Data Protection Officer, Northern & Shell Building, 10 Lower Thames Street, 8th Floor, London EC3R 6AD, United Kingdom. We will promptly respond to your complaint.
+If you consider that any action of ours breaches this policy or applicable legislation, complain by writing us at Forex Capital Markets Limited, Attention: Data Protection Officer, 20 Gresham Street, 4th Floor, London EC2V 7JE, United Kingdom. We will promptly respond to your complaint.
 
 If you are not satisfied with our response, you can telephone the UK Information Commissioner's information and enquiries line on 01625 545 745.
 
@@ -131,4 +131,4 @@ If you are not satisfied with our response, you can telephone the UK Information
 
 Forex Capital Markets Limited is the controller of your personal data and is registered as a data controller with the UK Information Commissioner’s Office under registration number Z6975990.
 
-Questions, comments and requests regarding your data or this privacy policy are welcomed and should be addressed to us in writing at: Forex Capital Markets Limited, Attention: Data Protection Officer, Northern & Shell Building, 10 Lower Thames Street, 8th Floor, London EC3R 6AD, United Kingdom.
+Questions, comments and requests regarding your data or this privacy policy are welcomed and should be addressed to us in writing at: Forex Capital Markets Limited, Attention: Data Protection Officer, 20 Gresham Street, 4th Floor, London EC2V 7JE, United Kingdom.
