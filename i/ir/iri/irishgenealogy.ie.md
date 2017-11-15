@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishgenealogy.ie privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126133949id_/https%3A//www.irishgenealogy.ie/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishgenealogy.ie privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115040503id_/https%3A//www.irishgenealogy.ie/en/privacy-policy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy - Irish Genealogy
 
@@ -6,15 +6,15 @@
 
 ## General Statement
 
-This policy establishes how The Department of Arts, Heritage Regional, Rural and Gaeltacht Affairs will use information we gather about you from your visit to our website. The privacy of our customers is of utmost importance to us. We fully respect your right to privacy, and will not collect any personal information about you on this website without your clear permission.
+This policy establishes how The Department of Culture, Heritage and the Gaeltacht will use information we gather about you from your visit to our website. The privacy of our customers is of utmost importance to us. We fully respect your right to privacy, and will not collect any personal information about you on this website without your clear permission.
 
 ## Collection and/or use of Personal Information
 
-The Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs does not collect any personal data about you on this website, apart from information which you volunteer (by e-mailing us or by using our online feedback form). Any personal information which you provide in this way is not made available to any third parties, save as required by law, and is used by this Department only in line with the purpose for which you provided it.
+The Department of Culture, Heritage and the Gaeltacht does not collect any personal data about you on this website, apart from information which you volunteer (by e-mailing us or by using our online feedback form). Any personal information which you provide in this way is not made available to any third parties, save as required by law, and is used by this Department only in line with the purpose for which you provided it.
 
 This website does not send directly any personal data to external websites. We only provide links pre-formatted with the details you entered, to facilitate your search with other websites. These search details are sent only when you click on the link(s), like if you were searching directly on the external website. The clicked links, like any web page your browse, may be stored in your browser history. This may not apply to the search element of the site but no user-identifiable data is stored in the process.
 
-The Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs will make no attempt to identify individual visitors, or to associate technical details with any individual. It is our policy never to disclose such technical information in respect of individual website visitors to any third party, unless obliged to disclose such information by a rule of law.
+The Department of Culture, Heritage and the Gaeltacht will make no attempt to identify individual visitors, or to associate technical details with any individual. It is our policy never to disclose such technical information in respect of individual website visitors to any third party, unless obliged to disclose such information by a rule of law.
 
 ## Usage of SiteImprove Analytics
 
@@ -52,18 +52,18 @@ We may collect and store general information for statistical purposes. For examp
   2. the type of browser and operating system used to access our site
   3. the date and time you access our site
   4. the pages you visit
-  5. 5\. if you visited this Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs website from a link on another website, the address of that website.
+  5. if you visited this Department of Culture, Heritage and the Gaeltacht website from a link on another website, the address of that website.
 
 
 
-In short the technical information will be used only by the Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs and only for statistical and other administrative purposes.
+In short the technical information will be used only by the Department of Culture, Heritage and the Gaeltacht and only for statistical and other administrative purposes.
 
 ## Contact Details
 
 Queries:
 
 Cultural Institutions Unit  
-Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs  
+Department of Culture, Heritage and the Gaeltacht  
 Government Offices, New Road  
 Killarney, Co. Kerry.
 
