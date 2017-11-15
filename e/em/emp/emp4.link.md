@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the emp4.link privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081908id_/http%3A//www.emp4.link/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emp4.link privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115080812id_/http%3A//www.emp4.link/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Emp4 MP4 Centre
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:support@WWW.EMP4.LINK).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://web.archive.org/cdn-cgi/l/email-protection#32414742425d4046726565651c777f62061c7e7b7c79).
 
 At WWW.EMP4.LINK we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by WWW.EMP4.LINK and how we use it. 
 
