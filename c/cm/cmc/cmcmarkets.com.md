@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmcmarkets.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406215713id_/https%3A//www.cmcmarkets.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmcmarkets.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115013718id_/https%3A//www.cmcmarkets.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy & Security Policy | CMC Markets
+# Privacy & Security Policy| CMC Markets
 
 CMC Markets is committed to protecting the privacy of all personal information obtained. Our privacy and security policy explains how we collect personal information about you, and how that information is maintained and used.​
 
