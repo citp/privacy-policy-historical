@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113045731id_/https%3A//www.alpharooms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115153448id_/https%3A//www.alpharooms.com/privacy) for the most accurate reproduction.*
 
 # Alpharooms.com privacy policy
 
@@ -104,7 +104,7 @@ The Website contains links to a number of other third party websites. We are not
 
 By Email: [datacontroller@alpharooms.com](mailto:datacontroller@alpharooms.com)
 
-By Post: Data Controller, Alpha Holidays Limited, 261-263 Ecclesall Road, Sheffield S11 8NX 
+By Post: Data Controller, Alpha Holidays Limited, 3rd Floor, Royal House, 5 Vine Street, Uxbridge UB8 1BP 
 
 Please use these contact details to let us know if the personal information we hold about you needs to be amended or updated. 
 
