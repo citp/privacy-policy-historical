@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pramerica.ie privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417010110id_/https%3A//www.pramerica.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pramerica.ie privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115052808id_/https%3A//www.pramerica.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pramerica
 
@@ -8,7 +8,7 @@
 
 #### _INTRODUCTION_
 
-This statement relates to our privacy practices in connection with the website, [pramerica.ie](http://www.pramerica.ie/) (the ‘ **Website** ’).
+This statement relates to our privacy practices in connection with the website, [www.pramerica.ie](http://www.pramerica.ie/) (the ‘ **Website** ’).
 
 The purpose of this Privacy Statement is to inform you about how we treat your personal information and to explain how your personal information is processed when you use our Website. As a result, you will be able to provide consent to the processing of your personal information in a free and informed way in the sections of the Website in which you are asked to provide personal information. We are not responsible for the content or privacy practices of other websites. Any external links to other websites are clearly identifiable as such, we have no control over the contents of those sites or resources.
 
@@ -107,13 +107,13 @@ If you subscribe to our newsletter or any other e-mail updates, by submitting yo
 
 #### _UPDATING, VERIFYING, DELETING PERSONAL DATA_
 
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the DPA.  If you discover that we hold inaccurate information about you, you can request us to correct that information for free. These requests must be in writing and sent to us at our mailing address provided below, or e-mail us at [info@pramerica.ie](mailto:info@pramerica.ie).
+You may inform us of any changes in your Personal Data, and in accordance with our obligations under the DPA.  If you discover that we hold inaccurate information about you, you can request us to correct that information for free. These requests must be in writing and sent to us at our mailing address provided below, or e-mail us at [info@www.pramerica.ie](mailto:info@www.pramerica.ie).
 
 In certain circumstances you may also request that data which you have supplied via the Website be deleted. We will comply within 40 calendar days of the receipt of such a request.  We aim to ensure that all data is accurate, complete and up to date in accordance with the principles set out in the DPA.
 
 #### _RIGHT OF ACCESS_
 
-Further, you have a right to be given a copy of your Personal Data we have in our possession. On request, we can supply copies of your Personal Data which you may have supplied via the Website or otherwise. If you wish to obtain such copies, you must write to us at our mailing address provided below, or e-mail us at [info@pramerica.ie](mailto:info@pramerica.ie). You should include any personal identifiers which you supplied earlier via the Website or otherwise (e.g. username, e-mail address). We will also require your full name and residential address in those circumstances. We reserve the right to charge a statutory fee, as permitted under the DPA.We will comply within  40 calendar days of the receipt of such a request.
+Further, you have a right to be given a copy of your Personal Data we have in our possession. On request, we can supply copies of your Personal Data which you may have supplied via the Website or otherwise. If you wish to obtain such copies, you must write to us at our mailing address provided below, or e-mail us at [info@www.pramerica.ie](mailto:info@www.pramerica.ie). You should include any personal identifiers which you supplied earlier via the Website or otherwise (e.g. username, e-mail address). We will also require your full name and residential address in those circumstances. We reserve the right to charge a statutory fee, as permitted under the DPA.We will comply within  40 calendar days of the receipt of such a request.
 
 #### _SOCIAL MEDIA_
 
@@ -126,8 +126,8 @@ We reserve the right to make changes to this Privacy Statement at any time to re
 #### _CONTACTING US_
 
 If you have any questions, requests or complaints regarding this Privacy Statement please contact us using the following information:  
-**Web:** [pramerica.ie](http://www.pramerica.ie/)  
-**Email:** [info@pramerica.ie](mailto:info@pramerica.ie)  
+**Web:** [www.pramerica.ie](http://www.pramerica.ie/)  
+**Email:** [info@www.pramerica.ie](mailto:info@www.pramerica.ie)  
 **Mailing Address:**  
 Letterkenny Office Park,  
 Windyhall,  
