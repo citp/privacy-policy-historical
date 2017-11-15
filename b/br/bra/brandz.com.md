@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandz.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618214827id_/http%3A//brandz.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandz.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115134252id_/http%3A//brandz.com/article/privacy-policy-498) for the most accurate reproduction.*
 
 # brandZ | Privacy Policy
 
@@ -112,7 +112,7 @@ These cookies allow the website to remember choices you make and provide enhance
 
 These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisation such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
-If you want to delete any cookies that may already be on your computer or device, please refer to the instructions for your file management software to locate the file or directory that stores cookies. If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer’s instructions by clicking “Help” in your browser menu. Further information on cookies is available at [www.allaboutcookies.org](..:..:..:..:Users:glennon:Documents%20and%20Settings:vd01:Local%20Settings:Documents%20and%20Settings:vd01:Local%20Settings:Temporary%20Internet%20Files:Content.Outlook:7GCJLDKC:www.allaboutcookies.org). By deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
+If you want to delete any cookies that may already be on your computer or device, please refer to the instructions for your file management software to locate the file or directory that stores cookies. If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer’s instructions by clicking “Help” in your browser menu. Further information on cookies is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/). By deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
 
 **Third Party Websites**
 
