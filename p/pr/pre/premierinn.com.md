@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierinn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125758id_/http%3A//www.premierinn.com/gb/en/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierinn.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115080706id_/http%3A//www.premierinn.com/gb/en/terms/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Premier Inn
 
@@ -57,9 +57,9 @@ Our Digital Channels contain links to other websites, mobile sites and apps. Thi
 
 Our Digital Channels use cookies, which are small text files that contain small amounts of information that a website can send to, and store on, your computer or device through your browser. Cookies may be used by us to provide you with, for example, customised information from our website to make it more user-friendly.
 
-For further details about the cookies on our Digital Channels, please see our ‘[How we use cookies](https://web.archive.org/gb/en/terms/how-we-use-cookies.html)’ statement.
+For further details about the cookies on our Digital Channels, please see our ‘[How we use cookies](https://www.premierinn.com/gb/en/terms/how-we-use-cookies.html)’ statement.
 
-By using our Digital Channels, you agree to our privacy and [cookie](https://web.archive.org/gb/en/terms/how-we-use-cookies.html) policies and consent to the use of cookies and similar technologies by us and our carefully selected third party partners as described in these policies. If you do not agree to such use, please see the ['Managing your cookies' section](https://web.archive.org/gb/en/terms/how-we-use-cookies.html) for details on how to adjust your settings.
+By using our Digital Channels, you agree to our privacy and [cookie](https://www.premierinn.com/gb/en/terms/how-we-use-cookies.html) policies and consent to the use of cookies and similar technologies by us and our carefully selected third party partners as described in these policies. If you do not agree to such use, please see the ['Managing your cookies' section](https://www.premierinn.com/gb/en/terms/how-we-use-cookies.html) for details on how to adjust your settings.
 
 5\. Security
 
@@ -85,13 +85,13 @@ We would like to keep you informed of Premier Inn news and offers by post, phone
 
 We and other companies in the Whitbread group (see further information) would also like to keep you informed of news and offers from other Whitbread brands (including hub by Premier Inn, Beefeater, Brewers Fayre, Taybarns and Table Table restaurants and Costa) by post, phone, email, text and other electronic means.
 
-If you have agreed to receive such marketing communications you may opt out or change your marketing preferences at any time by [contacting us](https://web.archive.org/gb/en/contact-us.html). If you have registered with Premier Inn you can change your preferences in the [My Premier Inn](https://secure.premierinn.com/en/mypremierinn/home.action) section on this site.
+If you have agreed to receive such marketing communications you may opt out or change your marketing preferences at any time by [contacting us](https://www.premierinn.com/gb/en/contact-us.html). If you have registered with Premier Inn you can change your preferences in the [My Premier Inn](https://secure.premierinn.com/en/mypremierinn/home.action) section on this site.
 
 8\. Access to and amending your personal information
 
-We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove personal information you think is inaccurate by [contacting us](https://web.archive.org/gb/en/contact-us.html). If you are registered with Premier Inn you can also update your contact details and other personal information in the [My Premier Inn](https://secure.premierinn.com/en/mypremierinn/home.action) section of this site.
+We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove personal information you think is inaccurate by [contacting us](https://www.premierinn.com/gb/en/contact-us.html). If you are registered with Premier Inn you can also update your contact details and other personal information in the [My Premier Inn](https://secure.premierinn.com/en/mypremierinn/home.action) section of this site.
 
-You also have the right to request a copy of the personal information that we hold about you. To do so, please [contact us](https://web.archive.org/gb/en/contact-us.html). We may make a small charge for this service.
+You also have the right to request a copy of the personal information that we hold about you. To do so, please [contact us](https://www.premierinn.com/gb/en/contact-us.html). We may make a small charge for this service.
 
 9\. Changes to our Privacy Policy
 
