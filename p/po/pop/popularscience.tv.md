@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the popularscience.tv privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523020924id_/http%3A//www.popularscience.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularscience.tv privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115085357id_/http%3A//www.popularscience.tv/privacy.html) for the most accurate reproduction.*
 
-# New Technology, Science News, The Future Now | Popular Science
+# Privacy Policy | Popular Science
 
-**Bonnier Corporation Privacy Policy**
+## Privacy Policy
+
+Bonnier Corporation Privacy Policy
 
 _This policy was last updated on April 13, 2015._
 
