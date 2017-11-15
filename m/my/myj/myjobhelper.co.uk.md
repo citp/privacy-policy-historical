@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjobhelper.co.uk privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102180629id_/http%3A//myjobhelper.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobhelper.co.uk privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115094036id_/http%3A//myjobhelper.co.uk/privacy) for the most accurate reproduction.*
 
 # Jobs - Employers hiring near | MyJobHelper
 
@@ -6,13 +6,9 @@
 
 **If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at privacy@MyJobHelper.co.uk. Please be advised that where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law.  
 **  
-**EU and Swiss Safe Harbor**
+**EU Privacy Shield**
 
-MyJobHelper.com complies with U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. MyJobHelper.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view MyJobHelper.com’s certification, please visit<http://www.export.gov/safeharbor/>.
-
-MyJobHelper.com  participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. MyJobHelper.com is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
-
-MyJobHelper.com is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  MyJobHelper.com complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+MyJobHelper.com is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. MyJobHelper.com complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
 
 With respect to personal data received **** or **** transferred pursuant to the Privacy Shield Framework, MyJobHelper.com is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.   In certain situations, MyJobHelper.com may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -50,15 +46,16 @@ As is true of most web sites, we gather certain information automatically and st
 
 **Behavioral Targeting**
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by[clicking here](http://preferences-mgr.truste.com/)(or if located in the European Union[click here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by[clicking here](http://preferences-mgr.truste.com/)(or if located in the European Union[click here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.   
+**Local Storage Object**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@MyJobHelper.co.uk. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+
+**Blog** Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@MyJobHelper.co.uk. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Third Party Links**
 
-The Website may contain links to other third-party owned and/or operated websites and, where you request information from Third Party Providers, MyJobHelper.co.uk may transfer you directly to the websites of such Third Party Providers. MyJobHelper.co.uk is not responsible for the privacy practices or the content of such websites. In some cases, you may be required to provide certain information to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and MyJobHelper.co.uk has no responsibility or liability relating to them. We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of such website. We encourage you to carefully read the privacy policy of any website you visit. These third party entities are independent third parties and are not affiliated with us.
-
- **Frames**
+The Website may contain links to other third-party owned and/or operated websites and, where you request information from Third Party Providers, MyJobHelper.co.uk may transfer you directly to the websites of such Third Party Providers. MyJobHelper.co.uk is not responsible for the privacy practices or the content of such websites. In some cases, you may be required to provide certain information to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and MyJobHelper.co.uk has no responsibility or liability relating to them. We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of such website. We encourage you to carefully read the privacy policy of any website you visit. These third party entities are independent third parties and are not affiliated with us. **Frames**
 
 Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to Surfin Mouse LLC.
 
