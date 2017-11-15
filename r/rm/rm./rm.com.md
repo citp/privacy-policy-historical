@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153205id_/http%3A//www.rm.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rm.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115173102id_/http%3A//www.rm.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RM Education
 
@@ -13,7 +13,7 @@ Our websites use cookies, which are small text files on your computer. A cookie 
 
 The European Union Directive on Privacy and Electronic Communications (the "Directive"), which came into force on 31st July 2002, recognises that cookies are a "legitimate and useful tool" for many activities, including verifying the identity of web site users. The Directive makes it compulsory for websites to inform users if cookies are being used, and to provide some information on how cookies are used.
 
-Read more about our [use of cookies](https://web.archive.org/about/cookies). 
+Read more about our [use of cookies](https://web.archive.org/about/cookies).
 
 ##### How we may use your personal information
 
@@ -37,6 +37,12 @@ Our site uses a form to help us manage requests. We collect contact information 
 Our online surveys ask for contact information (like email addresses). We use contact information from our surveys to send information about our company.
 
 We run competitions on our site in which we ask for contact information (like email addresses). We use contact information from competitions to send information about our company. Contact information is also used to contact you when necessary. Any other information is shared only within the RM Group of companies or selected third parties.
+
+##### Remarketing opt-out
+
+Sometimes RM uses 'remarketing' or 'similar audiences' to advertise online. This is the use of a specific cookie to inform Google of the pages visited by a certain visitor/device. Third-party vendors, including Google, use these cookies to serve ads based on someone's past visits to websites including www.rm.com - the large Google Display Network of affiliate sites mean that these targeted advertisements could appear on a number of websites and applications.
+
+To find out more or to opt out of Google Ad Personalisation please visit <https://adssettings.google.com/u/0/authenticated>
 
 ##### Public forums
 
