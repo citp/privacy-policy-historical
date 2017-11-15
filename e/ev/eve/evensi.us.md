@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evensi.us privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120071828id_/https%3A//www.evensi.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evensi.us privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115212645id_/https%3A//www.evensi.us/privacy.php) for the most accurate reproduction.*
 
 # Evensi | Privacy
 
