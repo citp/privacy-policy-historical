@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themintpeople.co.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627155329id_/http%3A//eu.mondelezinternational.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themintpeople.co.uk privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115203357id_/http%3A//eu.mondelezinternational.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Europe | Mondelez International, Inc.
 
