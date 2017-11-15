@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tettra.co privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609230155id_/https%3A//tettra.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tettra.co privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115105551id_/https%3A//tettra.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tettra
 
@@ -8,7 +8,7 @@ At Tettra, we are all about transparency. In order to keep our commitment to tra
   2. We don’t store the content of your Slack messages, files and comments or data about your team, except for a few key pieces of information we use to improve the product and provide support. The data we collect is limited to: 
     1. Your full name, email address and Slack user id
     2. Your Slack company name, team URL and team id
-    3. Various usage data in Google Analytics, Mixpanel and Intercom which we use to provide support, improve the product and just generally make better decisions so our startup doesn’t fail.
+    3. Various usage data in Google Analytics, Amplitude and Intercom which we use to provide support, improve the product and just generally make better decisions so our startup doesn’t fail.
   3. We will never use the access tokens you authorize to Tettra via the Slack API to read your content.
   4. You can revoke Tettra’s access to your Slack account at any time by going to[yourteam.slack.com/apps/manage](http://yourteam.slack.com/apps/manage), choosing the “Tettra” app from your list of integrations and then pressing the Remove App button.
   5. Just like all things in life, this privacy policy may change from time to time. We’ll notify you in advance and provide you with alternative options if something doesn’t jive quite right with you.
@@ -52,7 +52,7 @@ Cookies are small text files sent by us to your computer and from your computer 
 
 Some cookies are associated with your Slack account and personal information in order to remember that you are logged in and which teams you are logged into. Other cookies are not tied to your Tettra account but are unique and allow us to do site analytics and customization, among other similar things. If you access Slack through your browser, you can manage your cookie settings there but if you disable all cookies you may not be able to use Tettra.
 
-Tettra sets and accesses our own cookies on our company-owned domains. In addition, we use 3rd parties like Google Analytics, Intercom and Mixpanel for website analytics. You may opt-out of third party cookies from [Google Analytics](https://tools.google.com/dlpage/gaoptout), [Mixpanel](https://mixpanel.com/optout/) and Intercom on their respective websites. We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance.
+Tettra sets and accesses our own cookies on our company-owned domains. In addition, we use 3rd parties like Google Analytics, Intercom and Amplitude for website analytics. You may opt-out of third party cookies from [Google Analytics](https://tools.google.com/dlpage/gaoptout), [Amplitude](https://amplitude.com/privacy) and Intercom on their respective websites. We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance.
 
 ## How we use your information
 
@@ -74,9 +74,9 @@ Tettra doesn’t store your Slack passwords or access tokens authorized to us vi
 
 Tettra operates its app on the [Heroku](http://www.heroku.com/) platform (see <https://www.heroku.com/policy/privacy>)
 
-Tettra enrcypts data through an SSL certificate provided by [RapidSSL](http://www.rapidssl.com/) (see[https://www.rapidssl.com/privacy/index.html)](https://www.rapidssl.com/privacy/index.html))
+Tettra encrypts data through an SSL certificate provided by [RapidSSL](http://www.rapidssl.com/) (see[https://www.rapidssl.com/privacy/index.html)](https://www.rapidssl.com/privacy/index.html))
 
-Our team uses [Intercom](http://www.intercom.io/) to provide support for our apps and [Mixpanel](http://mixpanel.com/) to track usage statistics. We store your full name and email, along with your Slack user id, team id, and team name in both services.
+Our team uses [Intercom](http://www.intercom.io/) to provide support for our apps and [Amplitude](https://amplitude.com/) to track usage statistics. We store your full name and email, along with your Slack user id, team id, and team name in both services.
 
 ## Policy
 
