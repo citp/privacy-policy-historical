@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devryu.net privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009165243id_/https%3A//register.pearsoncmg.com/w3c/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devryu.net privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115063734id_/https%3A//register.pearsoncmg.com/w3c/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
