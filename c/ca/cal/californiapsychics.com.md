@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiapsychics.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628232356id_/https%3A//www.californiapsychics.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiapsychics.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115154502id_/https%3A//www.californiapsychics.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | California Psychics
 
@@ -127,7 +127,7 @@ Revisions to this Privacy Policy
 
 Outlook reserves the right, at our sole discretion, to change, modify, add, remove, or otherwise revise portions of this Privacy Policy at any time. When we do, we will post the change(s) on the Sites. Your continued use of the Sites following the posting of changes to these terms means you accept these changes. If we change the Privacy Statement in a material way, we will provide appropriate notice to you. 
 
-How to Contact Us. 
+How to Contact Us. 
 
 If you have any questions or concerns about this Privacy Policy you may e-mail privacy@californiapsychics.com or write to the following address: 
 
