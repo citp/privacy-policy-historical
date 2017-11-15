@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animejolt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090607id_/http%3A//animejolt.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animejolt.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115131222id_/http%3A//animejolt.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
