@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194640id_/https%3A//www.lcn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcn.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115025254id_/https%3A//www.lcn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LCN.com
 
@@ -49,7 +49,7 @@ We have implemented the Trustpilot automatic feedback service to collect feedbac
 
 
 
-After the initial feedback request, no further requests are sent.
+You will receive a maximum of one feedback request a year.
 
 #### Google Analytics
 
