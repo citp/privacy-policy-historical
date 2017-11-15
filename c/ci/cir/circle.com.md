@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the circle.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207020858id_/https%3A//www.circle.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circle.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115174516id_/https%3A//www.circle.com/en/privacy) for the most accurate reproduction.*
 
-# Circle | Circle Pay App | Pay friends (and get paid) with an email or text. Free!
+# Circle | Send money like a text — wherever your friends happen to be
 
 Print our U.S. Privacy Policy 
 
-Last updated: October 18, 2016
+Last updated: March 7, 2017
 
 If you are a resident of California or Wyoming, please click [here](https://web.archive.org/en/legal/us-ca-privacy) for the Privacy Policy that applies to you.
+
+If you are signing up for Circle on or after March 7, 2017, this Privacy Policy shall be effective immediately. If you signed up for Circle prior to March 7, 2017, this Privacy Policy shall be effective on April 7, 2017, and the Privacy Policy effective until that date can be found [here](https://p4.zdassets.com/hc/theme_assets/482660/200018834/us_pp.pdf).
 
 This Privacy Policy describes how Circle Internet Financial, Inc. (“Circle”) collects, uses, stores, shares and protects your information whenever you use Circle through the website ([www.circle.com](https://www.circle.com/)) or Circle’s mobile applications. We know how important privacy is to our users, which is why we only collect the information we need and will not share your personal information with any third parties unless it is necessary. Even within Circle, access to your personal information is limited to only those employees who require such information to handle matters relating to compliance, identity verification and customer support.
 
@@ -26,6 +28,8 @@ If you want to link a debit card, credit card or bank account, we’ll need to c
 
 Sometimes we need to request more information to verify your identity or to meet legal and regulatory obligations. When that is necessary, you will be prompted to provide such information.
 
+In the event that Circle integrates with other platforms, you may be prompted from time to time to grant Circle access to additional information from such platform (or grant such partner platform access to information you have provided to Circle). For example, if Circle implements an integration with a social media platform, you would have the option of linking your account on that platform to Circle in order to streamline the signup process, populate your contact list or other specified purposes.
+
 _What is Automatically Collected ___
 
 There is some information that is automatically collected as you use Circle. This information allows us to deliver cool new features, more easily handle your customer support issues and better protect your account. This information includes:
@@ -36,7 +40,7 @@ There is some information that is automatically collected as you use Circle. Thi
   * **Location Information.** With your permission, we collect your device location so that we can offer you location-based features such as the ability to send funds to nearby Circle users.
 
 
-  * **Contacts.** To make it easier to send money to your contacts, we will - with your permission - collect information from your phone’s address book.
+  * **Contacts.** To make it easier to send money to your contacts, we will - with your permission - collect information from your phone’s address book or other contact lists that you grant us access to (for example, your Facebook friends list).
 
 
   * **Photos, Videos & Other Media.** If you want to attach photos, videos or other media to your payments, payment requests or other communication using Circle, we require access to the photos on your phone. Any photos, videos or other media you attached will be stored and accessible to Circle, but we will never download or store any photos, videos or other media from your phone that aren’t attached to payments, payment requests or other communications using Circle.
@@ -56,7 +60,7 @@ There is some information that is automatically collected as you use Circle. Thi
 
 Throughout this policy, we use the term “personal information” to describe information that is associated with you or can be used to identify you. We do not consider personal information to include information that has been anonymized.
 
-We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. All of our physical, electronic and procedural safeguards are designed to comply with applicable laws and regulations.
+We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. Sometimes in order to better secure your information and use it for the purposes contemplated by this Privacy Policy, certain personal data may be stored with our third party partners and service providers. All of our physical, electronic and procedural safeguards are designed to comply with applicable laws and regulations.
 
 ### 3\. How We Use Your Information
 
@@ -101,6 +105,12 @@ In order to provide you with the Circle product and meet our legal and regulator
   * As a regulated financial institution, we may need to share your information with law enforcement or government officials. We will only do this when we are compelled to do so by a specific regulation, subpoena, court order or formal request, or we otherwise believe in good faith that we need to share such information to prevent physical harm, financial loss, or are obligated to report illegal activity.
 
 
+  * Circle allows you to send and receive money with customers of Circle affiliates, including Circle UK Trading Limited in Europe and Circle Payments, LLC in California and Wyoming. In order to complete these transactions, we will need to share information regarding your account with those other Circle entities in order to complete such transaction and allow them to meet their legal and regulatory obligations.
+
+
+  * From time to time Circle may partner with other companies (“Partners”) to allow you to send and receive money with individuals that are customers of such Partners and not Circle. In order to complete these transactions, we will need to share information regarding your account (such as name, email address, phone number and date of birth) with the applicable Partner so they can meet their legal and regulatory obligations. Your information will only be shared with such Partners to the extent you actually transact or interact with customers of such Partner.
+
+
   * In order to complete third party financial, technical and legal audits of Circle’s operations, we may need to share information about your account as part of such review.
 
 
@@ -121,7 +131,7 @@ In order to make Circle payments about more than just sending money from A to B,
   * **Messages & Photos.** If you attach a message or photo, video or other media to a payment, payment request or other communication using Circle, that information will be visible to the person(s) receiving the payment. You should know that the recipient of a message or photo (or other media) can always save them - so don’t send anything you wouldn’t want shared publicly.
 
 
-  * **Your Identity & Photo.** When another Circle user receives a payment or payment request from you, they will receive some information about your identity. Exactly what “identity” we provide to others is up to you. This can be your email address, your full name, or simply your first name and last initial and can be customized in your account settings. If you add a photo or avatar to your Circle account, they’ll see that too.
+  * **Your Identity & Photo.** In order for other Circle users to transact with you (sending money, receiving money, requesting money, etc.) they will be able to see your full legal name. If you upload a profile photo or avatar to your account, this will also be visible to other Circle users. If Circle adds additional features that allow you to share more identity information, further information may be shared if you opt in to such features.
 
 
   * **Location.** If you have your location enabled in your settings, the location from which a payment was initiated may be visible to the recipient. This also lets other users take advantage of the “nearby users” function, which makes it easier for them to send you a payment if you’re nearby and not otherwise in their contacts.
