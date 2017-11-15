@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628235249id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115212824id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
 
 # Hostelworld.com Security & Privacy Policy
 
@@ -34,7 +34,7 @@ Where you have given us your consent, we may send you emails that we think will 
 
 We take reasonable steps to ensure that your information is relevant to its intended use, and that it is accurate and up to date. As a registered Hostelworld.com user, you can access and update your contact information, personal preferences and e-mail subscription choices at any time by visiting the account section of the Hostelworld.com website. The information that you submit helps us to make your emails more useful, interesting and relevant to you. 
 
-We use cookies and pixel tags on the Hostelworld Sites and in our e-mails in accordance with our Cookies Policy, which is available [here](http://www.hostelworld.com/cookiespolicy.php). 
+We use cookies and pixel tags on the Hostelworld Sites and in our e-mails in accordance with our Cookies Policy, which is available [here](https://www.hostelworld.com/cookiespolicy.php). 
 
 On occasions, we may supply statistics about our customers to third-parties such as hostels or other agents. These statistics never contain personally identifying information. 
 
@@ -44,7 +44,7 @@ We would not sell or rent your personal information to third parties for their m
 
 We want to make it easy for you to take advantage of the travel related opportunities which we feature on the Hostelworld Sites. We work with our advertising partners in order to try and ensure that when you see an advert for a Hostelworld brand it will be relevant to you and your interests. This applies to adverts that are displayed on Hostelworld"s own websites (including the Hostelworld Sites, in Hostelworld emails, and on websites owned by third parties). We do this by allowing our third party advertisers to collect non-personally identifiable information about your visit to the Hostelworld Sites, such as the pages you visit on the Hostelworld Sites and the locations you appear to be interested in. We also provide third party advertisers with non-personally identifiable information that we collect about you when you use the Hostelworld Sites in order to only show you relevant adverts. We may also use such information in order to avoid showing you adverts on third party websites like Facebook and Twitter if we don"t think that you will be interested in them. 
 
-When we share your information with third party advertisers we always ensure that we do so in compliance with our obligations under data protection law. We may use technologies such as "hashing" to ensure that we do not provide our third party service providers with your personal data. For more information on how our third party advertising service providers gather information about your use of the Hostelworld Sites, please refer to our Cookies Policy which is available [here](http://www.hostelworld.com/cookiespolicy.php). 
+When we share your information with third party advertisers we always ensure that we do so in compliance with our obligations under data protection law. We may use technologies such as "hashing" to ensure that we do not provide our third party service providers with your personal data. For more information on how our third party advertising service providers gather information about your use of the Hostelworld Sites, please refer to our Cookies Policy which is available [here](https://www.hostelworld.com/cookiespolicy.php). 
 
 Some of our third party advertising partners ask us to make you aware of their privacy policies. These policies are available by following the links below: 
 
@@ -70,7 +70,7 @@ We offer you the opportunity to post reviews of the accommodation you book throu
 
 ### WEBSITE TESTING
 
-We use various technologies to allow us to test how the Hostelworld Sites operate and allow us to improve our services. Further details of such tests are available [here](http://www.hostelworld.com/website-testing)
+We use various technologies to allow us to test how the Hostelworld Sites operate and allow us to improve our services. Further details of such tests are available [here](https://www.hostelworld.com/website-testing)
 
 ### YOUR ACCESS AND AMENDMENT RIGHTS
 
