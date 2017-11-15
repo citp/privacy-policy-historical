@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the patsnap.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608205143id_/http%3A//www.patsnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patsnap.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115064014id_/https%3A//www.patsnap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | PatSnap
-
-##### PatSnap Privacy Policy
 
 ## Introduction
 
