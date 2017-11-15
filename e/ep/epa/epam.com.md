@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215222046id_/https%3A//www.epam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115160030id_/https%3A//www.epam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,6 +22,14 @@ EPAM collects information to provide better services to our users. We collect in
 
 
 
+
+**Cookies**
+
+This Cookie Policy applies to any websites, branded pages on third party platforms (such as Facebook or LinkedIn), and applications accessed or used through such websites or third party platforms (“EPAM Sites”) which are operated by or on behalf of EPAM Systems.
+
+We use a number of suppliers that may also set cookies on your device on our behalf when you visit the EPAM Sites to allow them to deliver the services they are providing. More information about these cookies may be available on the relevant third party's website.
+
+If you do not agree to our use of cookies in this way, you should set your browser settings accordingly or not use EPAM Sites. If you disable the cookies that we use, this may affect your user experience while on EPAM Sites.
 
 **Use of information**  
 
