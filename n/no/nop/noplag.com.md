@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noplag.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618213746id_/https%3A//noplag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noplag.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115105053id_/https%3A//noplag.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
