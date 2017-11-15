@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610203116id_/https%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115125400id_/https%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Superdry
 
@@ -54,9 +54,11 @@ We may obtain information about your usage of our site to help us develop and im
 
 We use your information for the following purposes:
 
+  * We might target Superdry banners and ads to you when you are on other websites. We do this by sharing your email address with a variety of carefully selected social media platforms and third party partners. We use advertising technologies including: beacons; pixels; ad tags; cookies; and unique identifiers to target banners and ads to you. These banners and ads may be based on the content you have read and the products you have viewed online, or messaging and ads that you may have previously clicked on. 
   * To serve website content to you
   * To handle orders, deliver products, process payments and refunds and provide statements
   * To communicate with you about your orders
+  * To provide your e-receipt to you
   * To update our records and generally maintain your account with us
   * If you contact us, we may keep a record of that correspondence and your contact details
   * For our statistical or survey purposes to improve our site and blog and our services to you.
@@ -76,7 +78,7 @@ We will not disclose your information to any third party outside of the Group ex
 
 We may disclose your personal information to carefully selected service providers and agents who operate elements of our web site service and process data on our behalf. These may include businesses who provide technology services such as hosting for our servers and email distribution and business partners who provide delivery fulfilment services.
 
-From time to time we may also provide your information to carefully selected customer service agencies for research and analysis purposes, on our behalf, so that we can monitor and improve the services we provide for you and other customers.
+From time to time we may also provide your information to social media platforms, carefully selected third parties and customer service agencies for research and analysis purposes, so that we can monitor and improve our services, products and marketing communications. These third parties may help us or complete research and insight on our behalf.
 
 Where such disclosures are made, this will be under contractual arrangements with us and carried out in accordance with the requirements of the Act.
 
@@ -102,6 +104,8 @@ You may sign up to our Newsletter by ticking the appropriate box during registra
 
 Please allow up to 5 days for unsubscribe requests to be processed
 
+We sometimes run offers and promotions exclusive to newsletter subscribers, to understand if unsubscribing will affect your eligibility please read the terms and condition of the promotion you have entered. 
+
 ### protecting your information
 
 Our site uses up-to-date industry procedures to protect your personal information. We also protect the security of your data during transmission using Secure Sockets Layer (SSL) encryption software. Further information on our security practices can be found by clicking on the following link: [information page](http://www.superdry.com/faqs).
@@ -124,7 +128,15 @@ We may from time to time make available through our site certain services provid
 
 ### changes to our privacy policy
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+To make changes easier to follow, we’ve summerised below the key points:
+
+  * We want to make it easier to share new products, promotions and brand content. We might do this by targeting Superdry banners and ads to you when you are on other websites. 
+  * We want to understand you better, so that we can improve our services, products and marketing communications. From time to time we may provide your information to social media platforms, carefully selected third parties and customer service agencies for research and analysis purposes. 
+  * We want to delight our followers which means some offers, promotions and events may be exclusive to email subscribers.
+
+
+
+Please read privacy policy for full details and examples.
 
 ### contact
 
