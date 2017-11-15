@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarlife.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607181848id_/http%3A//cougarlife.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarlife.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115105928id_/http%3A//cougarlife.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cougar Life
 
@@ -63,10 +63,6 @@ We use the information we collect, including personally identifiable information
 
 
 
-
-If you're a registered user of establishedmen.com, please note that your profile will also be available on, and visible to users of, arrangementfinders.com and datebrokecollegegirls.com. 
-
-If you're a registered user of cougarlife.com, please note that your profile will also be available on, and visible to users of, datemrsrobinson.com.
 
 We also use aggregate, de-identified and/or non-personally identifying information, which does not personally identify. For example, we may collect and analyze aggregated, de-identified, statistical information to help improve operation of the Services and manage user activity across the Platform.
 
