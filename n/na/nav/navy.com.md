@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191005id_/https%3A//www.navy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navy.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115112330id_/http%3A//www.navy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Navy.com
 
@@ -76,7 +76,7 @@ Our text messaging service supports the following carriers: Alltel, AT&T, Cincin
 
 ### United States Navy
 
-**Commander, Navy Recruiting Command, Code N923C**  
+ **Commander, Navy Recruiting Command, Code N923C**  
 5722 Integrity Drive, Building 784, Millington, TN 38054 USA
 
 Work: 901.874.9198  
