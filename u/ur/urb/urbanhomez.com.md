@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanhomez.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623105932id_/http%3A//www.urbanhomez.com/cms/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanhomez.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115132923id_/http%3A//www.urbanhomez.com/cms/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
