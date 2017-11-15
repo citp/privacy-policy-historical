@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gsma.com privacy policy that was archived on 2017-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170612194130id_/http%3A//gsma.com/cookie-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gsma.com privacy policy that was archived on 2017-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171115024447id_/https%3A//www.gsma.com/cookie-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
 <meta charset="UTF-8">
@@ -20,20 +20,24 @@
     <script src="js/nwmatcher-1.2.5-min.js"></script>
     <script type="text/javascript" src="js/selectivizr-min.js"></script>
 <![endif]-->
-<script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?mob=1&amp;cx=017448269525224100760:arelnj4tg14"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KNXLRB"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KNXLRB"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/js/jquery-1.10.1.min.js"></script>
 <script src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/js/jquery.easing.min.js"></script>
 <script src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/js/bootstrap.js"></script>
 <script src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/js/jquery.masonry.min.js"></script>
 <script src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/js/jquery.selectbox-0.2.min.js"></script>
 <script src="https://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/js/owl.carousel.js"></script>
 
 
 
 
 
 <script>
-(function($){
+
   $(document).ready(function(){
+	  
+	  
+	
     //forms
 
 $('.form_container .select').selectbox({
@@ -122,260 +126,14 @@ $('.form_container .select').selectbox({
 
 
 
-    $('.right_close .close').on("click", function() {
-        $('#navwtop').css('overflow', 'hidden');
-    });
-
-    $('#desk li a').not($('#desk li a:eq(3)')).on("click", function() {
-        $('#desk li').not($(this).parent("li")).removeClass("active").removeClass("is_open");
-
-        var fresh_menu =  $(this).prop('rel')+".php";
-
-        if($(this).parent("li").hasClass("is_open"))
-        {
-            $('#navwtop').css('overflow', 'hidden');
-            $('#navwtop').collapse('hide');
-        }
-
-        else
-        {
-            if($("#navwtop").hasClass("in"))
-            {
-
-                $("#apender").html();
-                $("#apender").load("https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/navs/"+fresh_menu,function(){
-                    var ex_height = $("#apender").height()+86;
-
-                    $('#dynamic_nav').fadeOut(250,'linear',function(){
-                        $('#dynamic_nav').html();
-
-                        $('#dynamic_nav').html($("#apender").html());
-
-                        $('#dynamic_nav').fadeIn(250,'linear');
-
-                        $('#navwtop').css('height',ex_height);
-
-                    });
-
-                });
-
-
-
-            }
-
-            else
-            {
-                $('#dynamic_nav').html();
-
-                $("#dynamic_nav").load("https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/navs/"+fresh_menu, function() {
-
-                    $('#navwtop').on('shown',function() {
-                        var normal_height = $('#navwtop').height();
-                        $('#navwtop').css('overflow', 'visible','height',normal_height);
-                    });
-
-                    $('#navwtop').collapse('show');
-
-                });
-
-
-            }
-
-
-        }
-
-        $(this).parent("li").addClass("active");
-
-        if($(this).parent(".is_open").length<1)
-        {
-          $(this).parent("li").addClass("is_open");
-        }
-        else
-        {
-          $(this).parent("li").removeClass("is_open");
-        }
-
-    });
-
-
-
-
-
-
-    //mobile menu
-
-
-    $("#menu li").not(".back").each(function(){
-
-        if($(this).children("ul").size() > 0)
-        {
-           $(this).addClass("has_child");
-           $(this).children("ul").prop("class","menu sub"+($(this).parentsUntil("#menu").size())/2);
-
-           $(this).children(".menu").prepend("<li class='back'><a href='javascript:void(0)'>"+$(this).children("a").text()+"</a></li><li class='just_link'><a href='"+$(this).children("a").prop('href')+"'>Overview</a></li>");
-           $(this).children("a").prop("href","javascript:void(0)");
-        }
-        else
-        {
-            $(this).addClass("just_link");
-        }
-    });
-
-
-
-    $("#triggermenu").on("click", function() {
-        var has_height = $(".menu_holder").height();
-        var highest = $("#menu").height();
-
-        if(has_height!=0)
-        {
-
-            $("#triggermenu").addClass("collapsed");
-            $(".menu_holder").css({'height':0});
-            setTimeout (function(){
-                $("#menu").css({'left':0});
-            },350);
-        }
-
-        else
-        {
-            $("#triggermenu").removeClass("collapsed");
-            $(".menu_holder").css({'height':highest});
-        }
-
-    });
-
-
-
-
-    $("#menu li").not(".back").each(function(){
-
-     $(this).on("click", function() {
-
-        if($(this).children(".menu").size() > 0)
-        {
-
-            var go_left = $("#menu").width();
-
-            $(this).children(".menu").css('display', 'block');
-
-            var highest = $(this).children(".menu").height();
-            $(".menu_holder").css({'height':highest});
-
-
-
-            $("#menu").stop().animate({
-                left:"-="+go_left},
-
-                {   duration: 'normal',
-                    easing: 'easeOutQuad',
-                    complete: function(){ }
-                });
-        }
-
-         });
-     });
-
-
-
-
-    $(".back").on("click", function(event) {
-        event.stopPropagation();
-        var highest = $(this).parent().parent().parent("ul").height();
-        var to_hide = $(this).parent(".menu");
-
-        $(".menu_holder").css({'height':highest});
-
-        if($(this).parent(".menu").size() > 0)
-        {
-            var go_left = $("#menu").width();
-            $("#menu").animate({
-                left:"+="+go_left},
-
-                {   duration: 'normal',
-                    easing: 'easeOutQuad',
-                    complete: function(){to_hide.css('display', 'none');}
-                });
-        }
-
-     });
-
-
-
-    $("body").on("click", function(evt) {
-        $("#triggermenu").addClass("collapsed");
-        $(".menu_holder").css({'height':0});
-            setTimeout (function(){
-                $("#menu").css({'left':0});
-        },350);
-     });
-
-
-     $("#menu,#triggermenu").on("click", function(evt) {
-         evt.stopPropagation();
-     });
-
-
+ 
 
 
   });
 
 
 
-  //update the width value when the browser is resized
-  $(window).resize(function(){
-
-    var current_width = $(window).width();
-
-    var width = Math.max( $(window).innerWidth(), window.innerWidth);
-
-    var existing_desktop = $("#pagewrap").children("#menu").length;
-    var existing_mobile = $(".rightstuff").children("#menu").length;
-
-    var desktop_holder = $("#pagewrap").children("#menu");
-    var mobile_holder = $(".rightstuff").children("#menu");
-
-    if(current_width < 879)
-    {
-        if($(".searchinp").width() > 100)
-        {
-            // $(".searchinp").css('width',85);
-        }
-
-    }
-
-    if(current_width >= 879)
-    {
-        if($(".searchinp").width() < 100)
-        {
-            // $(".searchinp").css('width',180);
-        }
-
-    }
-
-
-
-
-    if(current_width <= 320)
-    {
-        if($(".searchinp").width() < 100)
-        {
-
-        }
-
-    }
-
-
-
-
-
-
-    $(".width-value").text(width);
-
-    $(".gssb_c").css('display','none');
-
-  });
-
+  
 
 
 function validateSel(selector){
@@ -501,13 +259,13 @@ $("form").submit(function(event){
 
 });
 
-})(jQuery);
+});
 
 
 </script>
 
 
-<!-- This site is optimized with the Yoast SEO Premium plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO Premium plugin v5.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://www.gsma.com/aboutus/legal/cookie-policy">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -518,6 +276,7 @@ $("form").submit(function(event){
 <meta property="article:publisher" content="https://www.facebook.com/gsma/">
 <meta property="fb:admins" content="645850905">
 <meta property="og:image" content="https://www.gsma.com/aboutus/wp-content/uploads/2012/04/mobile_planet_7.jpg">
+<meta property="og:image:secure_url" content="https://www.gsma.com/aboutus/wp-content/uploads/2012/04/mobile_planet_7.jpg">
 <meta property="og:image:width" content="590">
 <meta property="og:image:height" content="218">
 <meta name="twitter:card" content="summary">
@@ -526,19 +285,19 @@ $("form").submit(function(event){
 <meta name="twitter:site" content="@GSMA">
 <meta name="twitter:image" content="https://i2.wp.com/www.gsma.com/aboutus/wp-content/uploads/2012/04/mobile_planet_7.jpg?fit=590%2C218&amp;ssl=1">
 <meta name="twitter:creator" content="@GSMA">
-<meta property="DC.date.issued" content="2012-04-24T16:50:00+01:00">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.gsma.com\/aboutus","name":"About Us","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.gsma.com\/aboutus?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.gsma.com\/aboutus\/legal\/cookie-policy","sameAs":["https:\/\/www.facebook.com\/gsma\/","https:\/\/www.instagram.com\/gsmaonline\/","https:\/\/www.linkedin.com\/company\/12380","https:\/\/www.youtube.com\/user\/GSMAOnline","https:\/\/twitter.com\/GSMA"],"@id":"#organization","name":"GSMA","logo":"http:\/\/www.gsma.com\/aboutus\/wp-content\/uploads\/2016\/04\/GSMA_logo_colour_web.jpg"}</script>
 <!-- / Yoast SEO Premium plugin. -->
 
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="About Us » Feed" href="https://www.gsma.com/aboutus/feed">
 <link rel="alternate" type="application/rss+xml" title="About Us » Comments Feed" href="https://www.gsma.com/aboutus/comments/feed">
-<link rel="alternate" type="text/calendar" title="About Us » iCal Feed" href="https://www.gsma.com/aboutus/asia-pacific-events/">
 <link rel="alternate" type="application/rss+xml" title="About Us » Cookie Policy Comments Feed" href="https://www.gsma.com/aboutus/legal/cookie-policy/feed">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.gsma.com\/aboutus\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.gsma.com/aboutus/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.gsma.com\/aboutus\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.gsma.com/aboutus/wp-includes/js/wp-emoji-release.min.js?ver=4.8.3" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -553,28 +312,45 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="nivoslider-css" href="https://www.gsma.com/aboutus/wp-content/plugins/nivo-slider/scripts/nivo-slider/nivo-slider.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="nivoslider-css" href="https://www.gsma.com/aboutus/wp-content/plugins/nivo-slider/scripts/nivo-slider/nivo-slider.css?ver=4.8.3" type="text/css" media="all">
 <link rel="stylesheet" id="qa-css" href="https://www.gsma.com/aboutus/wp-content/plugins/q-and-a/q-and-a.css" type="text/css" media="screen">
-<link rel="stylesheet" id="eloqua-frontend-style-css" href="https://www.gsma.com/aboutus/wp-content/plugins/eloqua-upload/front/eloqua-form.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="sf-frontend-style-css" href="https://www.gsma.com/aboutus/wp-content/plugins/plugin_sf_forms/front/sf-form.css?ver=4.8.3" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="https://www.gsma.com/aboutus/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
-<link rel="stylesheet" id="cookie-style-css" href="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/libs/cookie-bar/cookie-bar.css?ver=4.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="https://www.gsma.com/aboutus/wp-content/plugins/jetpack/css/jetpack.css?ver=4.9" type="text/css" media="all">
+<link rel="stylesheet" id="cookie-style-css" href="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/libs/cookie-bar/cookie-bar.css?ver=4.8.3" type="text/css" media="all">
+<link rel="stylesheet" id="plugin-header_overload-css" href="https://www.gsma.com/aboutus/wp-content/plugins/plugin_header_overload//plugin_header_overload.css?ver=0.1.0" type="text/css" media="all">
+<style id="plugin-header_overload-inline-css" type="text/css">
+
+        div#header{height: 120px;}            
+        div#header *{                
+                display: none;
+        }
+</style>
+<link rel="stylesheet" id="jetpack_css-css" href="https://www.gsma.com/aboutus/wp-content/plugins/jetpack/css/jetpack.css?ver=5.5" type="text/css" media="all">
 <script type="text/javascript" src="https://www.gsma.com/aboutus/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.gsma.com/aboutus/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" async="async" src="https://www.gsma.com/aboutus/wp-content/plugins/eloqua-upload/front/eloqua-campaign.js?ver=4.7.5"></script>
-<script type="text/javascript" async="async" src="https://www.gsma.com/aboutus/wp-content/plugins/eloqua-upload/front/jquery.selectbox-0.2.min.js?ver=4.7.5"></script>
-<script type="text/javascript" async="async" src="https://www.gsma.com/aboutus/wp-content/plugins/eloqua-upload/front/eloqua-form.js?ver=4.7.5"></script>
-<script type="text/javascript" src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/libs/cookie-bar/cookies.js?ver=4.7.5"></script>
+<script type="text/javascript" src="https://www.gsma.com/aboutus/wp-content/plugins/plugin_sf_forms/front/sf-campaign.js?ver=4.8.3"></script>
+<script type="text/javascript" src="https://www.gsma.com/aboutus/wp-content/plugins/plugin_sf_forms/front/jquery.selectbox-0.2.min.js?ver=4.8.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajax_admin_link = {"ajaxurl":"https:\/\/www.gsma.com\/aboutus\/wp-admin\/admin-ajax.php","full_url":"https:\/\/www.gsma.com\/aboutus","jittabit_submit_link":"https:\/\/GSMA.jitterbit.eu\/Production\/SFINT?method=POST_FORM"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.gsma.com/aboutus/wp-content/plugins/plugin_sf_forms/front/sf-form.js?ver=4.8.3"></script>
+<script type="text/javascript" src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/libs/cookie-bar/cookies.js?ver=4.8.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var header_overload_ajax_obj = {"ajax_url":"https:\/\/www.gsma.com\/aboutus\/wp-admin\/admin-ajax.php","ajax_data_url":"","ajax_default_url":"https:\/\/www.gsma.com\/aboutus\/wp-content\/plugins\/plugin_header_overload\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.gsma.com/aboutus/wp-content/plugins/plugin_header_overload/plugin_header_overload.js?ver=1"></script>
+<script type="text/javascript" src="https://www.gsma.com/aboutus/wp-content/plugins/plugin_header_overload//hls/hls.min.js?ver=1"></script>
 <link rel="https://api.w.org/" href="https://www.gsma.com/aboutus/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.gsma.com/aboutus/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.gsma.com/aboutus/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.7.5">
-<link rel="shortlink" href="https://wp.me/P3mnSo-4A">
+<meta name="generator" content="WordPress 4.8.3">
+<link rel="shortlink" href="https://wp.me/P9kuO5-4A">
 <link rel="alternate" type="application/json+oembed" href="https://www.gsma.com/aboutus/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gsma.com%2Faboutus%2Flegal%2Fcookie-policy">
 <link rel="alternate" type="text/xml+oembed" href="https://www.gsma.com/aboutus/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gsma.com%2Faboutus%2Flegal%2Fcookie-policy&amp;format=xml">
-<script type="text/javascript">
-        var callAjaxUrl = 'https://www.gsma.com/aboutus/wp-admin/admin-ajax.php';
-</script>
 
 <link rel="dns-prefetch" href="//v0.wordpress.com">
 <link rel="dns-prefetch" href="//i0.wp.com">
@@ -746,7 +522,36 @@ var _prum = [['id', '56e7dd15abe53dbb1ea8bf65'],
 </script>
 
 
+<!--  ################### shaf's tracking codes start ################################################# -->
+<script type="text/javascript" src="//7296028.collect.igodigital.com/collect.js"></script>
+<!--
+<script type="text/javascript" src="//7299387.collect.igodigital.com/collect.js"></script>
+-->
+<script type="text/javascript">
+var getID = function(){
+    var parameterInUrl = _etmc.getURLParameter("ID");
+    var clickID = parameterInUrl ? parameterInUrl : localStorage.getItem("currID");
+    if(parameterInUrl){
+        localStorage.setItem("currID",parameterInUrl);
+        return parameterInUrl;
+    }else{
+        return clickID;
+    }
+}
+_etmc.push(["setOrgId", "7296028"]);
+_etmc.push(["setUserInfo", {"email": getID()}]);
+_etmc.push(["trackPageView"]);
 
+_etmc.push(["setOrgId", "7299387"]);
+_etmc.push(["setUserInfo", {"email": getID()}]);
+_etmc.push(["trackPageView"]);
+</script>
+<!--  ################### shaf's tracking codes end ################################################# -->
+
+<style>
+	.all_pages {margin: 0 !important; }
+	#new_header.header {margin-bottom: 20px !important; }
+	</style>
 <script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
 
 <body class="page-template-default page page-id-284 page-child parent-pageid-277">
@@ -772,446 +577,104 @@ _atrk_opts = { atrk_acct:"jsBHh1aIE700O8", domain:"gsma.com",dynamic: true};
 <!-- End Alexa Certify Javascript -->  
 <!--<h1 class="width-value"></h1> -->
 
-<div id="navwtop" class="collapse">
-    <div class="right_close">
-        <li class="close" data-toggle="collapse" data-target="#navwtop"></li>
+<div id="header">
+  <div id="topload">
+      <div id="dynamic_nav">
+            <div class="close"></div>
+
+            <ul id="dynamic_container">
+                <li class="parent"><a href="https://www.gsma.com/aboutus">About Us</a>
+              <ul>
+                  <li><a href="https://www.gsma.com/aboutus/history">History</a></li>
+            <li><a href="https://www.gsma.com/aboutus/job-vacancies">Job Vacancies</a></li>
+            <li><a href="https://www.gsma.com/aboutus/links">Links</a></li>
+                  <li><a href="https://maps.mobileworldlive.com/" target="_blank">Coverage Maps</a></li>
+                </ul>
+            </li>
+
+            <li class="parent"><a href="https://www.gsma.com/aboutus/leadership">Leadership</a>
+              <ul>
+                <li><a href="https://www.gsma.com/aboutus/leadership/chairman">Chairman</a></li>
+            <li><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups">Committees and Groups</a></li>
+            <li><a href="https://www.gsma.com/aboutus/leadership/director-general">Director General</a></li>
+            <li><a href="https://www.gsma.com/aboutus/leadership/gsma-board">GSMA Board</a></li>
+            <li><a href="https://www.gsma.com/aboutus/leadership/gsma-organisation">GSMA Organisation</a></li>
+            <li><a href="https://www.gsma.com/aboutus/leadership/regional-interest-groups">Regional Interest Groups</a></li>
+                </ul>
+            </li>
+
+            <li class="parent"><a href="https://www.gsma.com/aboutus/worldwide-offices">Worldwide Offices</a>
+              <ul>
+            <li><a href="https://www.gsma.com/aboutus/worldwide-offices#london">London, UK</a></li>
+                    <li><a href="https://www.gsma.com/aboutus/worldwide-offices#atlanta">Atlanta, USA</a></li>
+            <li><a href="https://www.gsma.com/aboutus/worldwide-offices#hongkong">Hong Kong, China</a></li>
+                    <li><a href="https://www.gsma.com/aboutus/worldwide-offices#shanghai">Shanghai, China</a></li>
+                    <li><a href="https://www.gsma.com/aboutus/worldwide-offices#barcelona">Barcelona, Spain</a></li>
+                    <li><a href="https://www.gsma.com/aboutus/worldwide-offices#brussels">Brussels, Belgium</a></li>
+            <li><a href="https://www.gsma.com/aboutus/worldwide-offices#latam">Latin America</a></li>
+                    <li><a href="https://www.gsma.com/aboutus/worldwide-offices#nairobi">GSMA Nairobi</a></li>
+                </ul>
+            </li>
+
+            </ul>
+        </div>
     </div>
 
+  <div class="bar"></div>
+    <div id="apender"></div>
 
-    <ul class="nav" id="dynamic_nav">
-    </ul>
+    <div class="header_content">
 
-    <ul class="nav" id="apender">
-    </ul>
-
-</div>
-
-<div class="bar"></div>
-
-
-<div id="pagewrap">
-    <div id="logo">
+       <div id="logo">
         <a href="https://www.gsma.com/"><img src="https://www.gsma.com/common2013/gsma_header_footer/images/gsma_logo_2x.png" width="100" height="100" title="GSMA" alt="GSMA"></a>
-    </div>
+        </div>
 
-    <div id="logo_mob">
+      <div id="logo_mob">
         <a href="https://www.gsma.com/"><img src="https://www.gsma.com/common2013/gsma_header_footer/images/GSMA_logo_mobile_new.png" width="69" height="67" title="GSMA" alt="GSMA"></a>
-    </div>
+      </div>
 
-    <div class="rightstuff">
-        <a class="linksmall" target="_blank" href="https://mwl.me/gsma_mwl">Mobile World Live</a>
+        <ul id="desk">
+        <li><a rel="about_us_nav" title="About us">About us</a></li>
+          <li><a rel="what_we_do_nav" title="What We Do">What We Do</a></li>
+          <li><a rel="membership_nav" title="Membership">Membership</a></li>
+          <li><a title="Newsroom" href="https://www.gsma.com/newsroom/" rel="newsroom_nav">Newsroom</a></li>
+      </ul>
+
+         <div class="rightstuff">
+          <a class="linksmall" target="_blank" href="https://mwl.me/gsma_mwl">Mobile World Live</a>
         <a class="linksmall" target="_blank" href="https://gsmaintelligence.com/">GSMA Intelligence</a>
 
-        <div class="clear"></div>
-        <div id="triggermenu" class="collapsed"><span>Menu</span></div>
-         <div class="maskinp"></div>
-
-        <style>
-    .gsc-refinementsAreaInvisible{display:none;}
-    #___gcse_1{display:inline-block;}
-    .gcsc-branding{display:none;}
-  .gsc-cursor{float:  right;}
-  .gsc-cursor div.gsc-cursor-page{padding: 3px 5px 3px;}
-  
-    tr:nth-of-type(2n+1) {
-    background: initial;
-}
-
-  /*
-    #___gcse_0 table.gsc-search-box tbody tr td *,
-    #___gcse_1 table.gsc-search-box tbody tr td * {
-    height: auto !important;
-    font-size: inherit !important;
-    background: #f7f7f7;
-}
-
-    #___gcse_0 td, 
-    #___gcse_0 th{
-        padding: 0 !important;
-        border: 0;
-        font-size: inherit !important;
-        background: transparent;
-        }
- */ 
-         
-
-         
-         
-    #pagewrap {
-    position: inherit;
-}
-  
+          <div class="clear"></div>
+          <div id="triggermenu" class="collapsed"><span>Menu</span></div>
+        <div class="maskinp"></div>
     
-    .gsc-above-wrapper-area {
-    display: inline-block;
-}
-
-    .gsc-results .gsc-cursor-box .gsc-cursor-page{
-        color:white !important;
-        background-color: #CE0025 !important;
-        }
-    .gsc-results .gsc-cursor-box .gsc-cursor-page.gsc-cursor-current-page{
-    color:red !important;
-    background-color: white !important;
-    }
-    .gsc-adBlockNoHeight{display:none;}
-  #___gcse_1 div.gsc-result{
-      box-shadow: none !important;
-      border-bottom: solid 1px lightgray;
-      }
-  #___gcse_1 .gs-bidi-start-align.gs-visibleUrl.gs-visibleUrl-long,
-  #___gcse_1 .gs-bidi-start-align.gs-visibleUrl.gs-visibleUrl-long *
-  { color: red;}
-  #___gcse_1 .gs-title,
-  
-  #___gcse_1 .gs-title * 
-  { color: black; /*font-size:16px; */}
- 
-  #___gcse_1 td.gsc-thumbnail{display:inline-block !important;}
-  #___gcse_1 *{ /*font-size: 14px !important;*/ height: auto !important; }
-    
-   table.gsc-completion-container table span {
-    /*font-size: 14px;*/
-    line-height: 2em;
-}
-
-    #___gcse_0 .gsc-input *,
-    #___gcse_0 .gsc-input *:hover,
-    #___gcse_0 .gsc-input *:focus{
-        border:0;
-    box-shadow: none;
-        }
-
-
-#___gcse_0 .gsst_b {
-    padding:0;
-    margin-top: 5px;
-}
-#___gcse_0 .gsib_b {
-    width: 0px;
-    border: 0;
-}
-#___gcse_0 #gsc-i-id1 {
-    background: rgb(247, 247, 247) none repeat scroll 0% 0% !important;    
-        }
-#___gcse_0 .gsc-input{
-    padding: 0;
-    }
-#___gcse_0 .gsc-input-box {
-    border: 0;
-    background: rgb(247, 247, 247) none repeat scroll 0% 0%;
-    height: auto;
-}
-
-#___gcse_0 #gs_tti50, #___gcse_0 #gs_tti50 input {
-    float: right;
-    height: 46px !important;
-    color: #EE1721;
-    font-size: 16px !important;
-    text-transform: uppercase;
-    border: 0;
-    margin: 0;
-    background: rgb(247, 247, 247) none repeat scroll 0% 0%;
-    padding: 0;
-    padding-left: 5px !important;
-}
-
-#___gcse_0 table.gsc-search-box, #___gcse_0 form.gsc-search-box{
-    height: auto !important;
-    
-    }
-#___gcse_0 .gsc-search-button-v2{
-width: 0;
-height: 0px !important;
-background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAABr0lEQVQ4ja2Uv0scURDHR6MmIHiev253BkWMqLh3tzvzH4hgisTGRgv7NCkESRsOWwv/guQPsFHslIBa2AkhBAl66nF3+6ZNkSKIyFrsiufd7npCBl41M5/5zrx5D6DVOgzmRw3KYt2WVUV3QXFqKCYu2Wq5Yt4gnytJ0HKQjyvDjvUspG7LUkPiL9+Wj77lvfeJ15VEI9hdPVcoJEKqFs8+BKrtvotvVz4pSWCIb66yE5lYkJJcKkngk/shTbVBKSlJYND71gpBZyyqdJHePMApQLci3ylJcArQ/cTpE88rSaC2t/YcKFTFu+EYnLFmx0ooV5bbAfkkW0oSVC3Xeeqw3Llo0BttKjpRkqA2xNhUYWYwmtGfEkBnGuQqO5EJi8ptbKxB2Q/b4y8pnA6DshPd2ufYiEq/12+Ib8IVkK0KjL9p9FczhaxB3ntY2PLAZF9iudpI/q0i/33cbj4yyF8N8o/m52KQD7YBXiXCfuaKvQZlsyWR5J/a3lrZ4mGD8rstGADAIUBX+AMUp69H8rlSw2DLMPn6RbA0a4J9/2+whIfevp2B02OQV87A6bkHyePp48zVgV4AAAAASUVORK5CYII=) no-repeat center #f7f7f7 !important;
-float: right;
-border: none;
-cursor: pointer;
-position: relative;
-padding-top: 38px;
-margin: 0;
-padding-left: 4px !important;
-    }
-    
-    @media screen and (max-width: 895px) {
-        #___gcse_0{ display:none;}
-    }
-</style>
-  <script>
-  (function() {
-    var cx = '017448269525224100760:arelnj4tg14';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?mob=1&cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-    
-    
-  })();
-  
-  
-  jQuery(document).ready(function(){
-      
-       jQuery(".maskinp").on("click", function() { 
-                
-                            
-              //jQuery("#___gcse_0").css('background','#F7F7F7');  
-              
-              
-              jQuery("#triggermenu").addClass("collapsed");
-              
-              jQuery(".menu_holder").css({'height':0});
-                 
-              jQuery("#triggermenu").css('margin',0);
-                             
-              
-              jQuery("#___gcse_0").css('width','150px').css('display','inline-block');
-              jQuery(".maskinp").css('cssText', 'display: none !important');
-              return false;
-                            
-            });
-      
-      
-    function addSearchHook(){
-        if(is_loaded){
-            window.clearInterval(search_timeout);
-        }
-        
-        if(jQuery('#gsc-i-id1').length !== 0){
-            
-            if(window.console)console.log('timeout removed to catch login form MC', search_timeout);
-            window.clearInterval(search_timeout);
-            is_loaded = true;
-        
-        
-                jQuery("#gsc-i-id1").val("SEARCH");
-                
-                jQuery("#gsc-i-id1").on("focus", function() { 
-                  if(jQuery(this).val()=="SEARCH")
-                  {
-                    jQuery(this).val("");
-                    jQuery(this).css('background','#F7F7F7');
-                    jQuery(".gsc-completion-container tbody tr:last").css('display','none'); 
-                  }
-                });
-      
-                jQuery("#gsc-i-id1").on("blur", function() { 
-                  if(jQuery(this).val()=="")
-                  {
-                    jQuery(this).val("SEARCH");
-                    jQuery(this).css('background','#F7F7F7');
-                    jQuery(".gssb_c").hide();
-                    jQuery(".gsc-completion-container tbody tr:last").css('display','none'); 
-                  }
-                });
-                
-                
-                
-            
-        }
-        else{
-            if(window.console)console.log('timeout not removed',search_timeout, jQuery('button.submit.submit-mobileconnect'), jQuery('button.submit.submit-mobileconnect').length);
-        }
-    }
-    var search_timeout = null;  
-    var is_loaded = false;    
-    if(!is_loaded){
-        search_timeout = setInterval(addSearchHook, 500);
-        if(window.console)console.log('timeout set to catch SEARCH',search_timeout);
-    }
-});
-  </script>
-  <gcse:searchbox enablehistory="false" autocompletemaxcompletions="5" autocompletematchtype="any"></gcse:searchbox>
-   
-         <div id="cse-search-form"></div>
-
-
-
-
-    </div>
-
-
-    <ul id="desk">
-        <li class="active"><a title="About us" rel="about_us_nav">About us</a></li>
-        <li><a title="What We Do" rel="what_we_do_nav">What We Do</a>
-        </li><li><a title="Membership" rel="membership_nav">Membership</a></li>
-        <li><a title="Newsroom" href="https://www.gsma.com/newsroom/" rel="newsroom_nav">Newsroom</a></li>
-    </ul>
+      </div>
 
 
 <div class="relate">
-    <div class="menu_holder">
+<div id="menu_holder">
     <ul id="menu">
-     <li class="page_item page-item-4"><a href="https://www.gsma.com/aboutus/">About Us</a></li>
-<li class="page_item page-item-2828"><a href="https://www.gsma.com/aboutus/csog-members">CSOG members</a></li>
-<li class="page_item page-item-332"><a href="https://www.gsma.com/aboutus/tap3-specifications-download">TAP3 Specifications Download</a></li>
-<li class="page_item page-item-1134 page_item_has_children"><a href="https://www.gsma.com/aboutus/gsma-asia">GSMA Asia Pacific and Greater China</a>
-<ul class="children">
-	<li class="page_item page-item-1137"><a href="https://www.gsma.com/aboutus/gsma-asia/asia-news">News</a></li>
-	<li class="page_item page-item-1144"><a href="https://www.gsma.com/aboutus/gsma-asia/asia-resources">Resources</a></li>
-	<li class="page_item page-item-1146"><a href="https://www.gsma.com/aboutus/gsma-asia/asia-contact">Asia Contact</a></li>
-	<li class="page_item page-item-1149"><a href="https://www.gsma.com/aboutus/gsma-asia/the-asia-pacific-team"><!-- Asia Pacific Team --> Asia Pacific Team</a></li>
-	<li class="page_item page-item-1392"><a href="https://www.gsma.com/aboutus/gsma-asia/meet-the-team"><!-- Asia Pacific Team --> Meet the Team</a></li>
-	<li class="page_item page-item-2196"><a href="https://www.gsma.com/aboutus/gsma-asia/mobile-world-live-asia">Mobile World Live – Asia</a></li>
-	<li class="page_item page-item-4411"><a href="https://www.gsma.com/aboutus/gsma-asia/greater-china-convening-team"><!-- Asia Pacific Team --> Greater China and Convening Team</a></li>
-</ul>
-</li>
-<li class="page_item page-item-3075 page_item_has_children"><a href="https://www.gsma.com/aboutus/foundation">The GSMA Foundation</a>
-<ul class="children">
-	<li class="page_item page-item-3087"><a href="https://www.gsma.com/aboutus/foundation/gsma-foundation-chairman">Chairman of the GSMA Foundation Board</a></li>
-	<li class="page_item page-item-3103"><a href="https://www.gsma.com/aboutus/foundation/foundation-president">President of the GSMA Foundation</a></li>
-	<li class="page_item page-item-3107"><a href="https://www.gsma.com/aboutus/foundation/foundation-team">Meet the Team</a></li>
-	<li class="page_item page-item-3120"><a href="https://www.gsma.com/aboutus/foundation/foundation-ambassadors">GSMA Ambassadors Programme</a></li>
-</ul>
-</li>
-<li class="page_item page-item-3465"><a href="https://www.gsma.com/aboutus/open-standards-specifications">Open Standards Specifications</a></li>
-<li class="page_item page-item-3930"><a href="https://www.gsma.com/aboutus/annualreport">GSMA Annual Report 2016</a></li>
-<li class="page_item page-item-3935"><a href="https://www.gsma.com/aboutus/reportfull16">GSMA Annual Report 2016</a></li>
-<li class="page_item page-item-4263"><a href="https://www.gsma.com/aboutus/certified-carbon-neutral">Certified  Carbon Neutral</a></li>
-<li class="page_item page-item-4359"><a href="https://www.gsma.com/aboutus/test-form">TEST FORM</a></li>
-<li class="page_item page-item-6 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership">Leadership</a>
-<ul class="children">
-	<li class="page_item page-item-12"><a href="https://www.gsma.com/aboutus/leadership/chairman">Chairman</a></li>
-	<li class="page_item page-item-33"><a href="https://www.gsma.com/aboutus/leadership/director-general">Director General</a></li>
-	<li class="page_item page-item-10 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/gsma-board">GSMA Board</a>
-	<ul class="children">
-		<li class="page_item page-item-4347 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/gsma-board/key-events">Board Key Events</a>
-		<ul class="children">
-			<li class="page_item page-item-4391"><a href="https://www.gsma.com/aboutus/leadership/gsma-board/key-events/thank-you">Thank you</a></li>
-		</ul>
-</li>
-	</ul>
-</li>
-	<li class="page_item page-item-14 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups">Committees and Groups</a>
-	<ul class="children">
-		<li class="page_item page-item-16"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/the-public-policy-committee">The Public Policy Committee</a></li>
-		<li class="page_item page-item-46"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/the-spectrum-management-group">The Spectrum Strategy Management Group</a></li>
-		<li class="page_item page-item-51"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/the-chief-regulatory-officer-group">The Chief Policy &amp; Regulatory Officer Group</a></li>
-		<li class="page_item page-item-55"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/the-finance-committee">The Finance Committee</a></li>
-		<li class="page_item page-item-58"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/the-strategy-committee">The Strategy Committee</a></li>
-		<li class="page_item page-item-61"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/products-and-services-management">Products and Services Management</a></li>
-		<li class="page_item page-item-69"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/the-chief-strategy-officer-group">The Chief Strategy Officer Group</a></li>
-		<li class="page_item page-item-72"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/the-governance-committee">The Governance Committee</a></li>
-		<li class="page_item page-item-75"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/the-compensation-committee">The Compensation Committee</a></li>
-		<li class="page_item page-item-2348 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups">Working Groups</a>
-		<ul class="children">
-			<li class="page_item page-item-1903 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group">Fraud and Security Group</a>
-			<ul class="children">
-				<li class="page_item page-item-2074"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-algorithms">Security Algorithms</a></li>
-				<li class="page_item page-item-4167 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/network-equipment-security-assurance-scheme">Network Equipment Security Assurance Scheme</a>
-				<ul class="children">
-					<li class="page_item page-item-4175"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/network-equipment-security-assurance-scheme/nesas-enquiry-form">NESAS Enquiry Form</a></li>
-					<li class="page_item page-item-4178"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/network-equipment-security-assurance-scheme/nesas-auditor">NESAS Auditor</a></li>
-				</ul>
-</li>
-				<li class="page_item page-item-4208"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/gsma-coordinated-vulnerability-disclosure-programme">GSMA Coordinated Vulnerability Disclosure Programme</a></li>
-				<li class="page_item page-item-4210"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/mobile-security-research-hall-fame">Mobile Security Research Hall of Fame</a></li>
-				<li class="page_item page-item-2125 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-advice-for-mobile-phone-users">Security Advice for Mobile Phone Users</a>
-				<ul class="children">
-					<li class="page_item page-item-2140"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-advice-for-mobile-phone-users/mobile-phone-theft">Mobile Phone Theft</a></li>
-					<li class="page_item page-item-2142"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-advice-for-mobile-phone-users/spam-and-mobile-phones">Spam and Mobile Phones</a></li>
-					<li class="page_item page-item-2144"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-advice-for-mobile-phone-users/viruses-and-mobile-phones">Viruses and Mobile Phones</a></li>
-					<li class="page_item page-item-2147"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-advice-for-mobile-phone-users/secure-use-of-voicemail-services">Secure Use of Voicemail Services</a></li>
-					<li class="page_item page-item-2149"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-advice-for-mobile-phone-users/safe-and-secure">Safety and Security</a></li>
-					<li class="page_item page-item-2151"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-advice-for-mobile-phone-users/faq">FAQ</a></li>
-				</ul>
-</li>
-				<li class="page_item page-item-2192 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/fraud-imei-database">IMEI Database</a>
-				<ul class="children">
-					<li class="page_item page-item-2194"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/fraud-imei-database/stolen-phone-checking">Stolen Phone Checking</a></li>
-				</ul>
-</li>
-				<li class="page_item page-item-1932 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-accreditation-scheme">Security Accreditation Scheme</a>
-				<ul class="children">
-					<li class="page_item page-item-1945"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-accreditation-scheme/sas-certification-body">Certification Body</a></li>
-					<li class="page_item page-item-2724"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-accreditation-scheme/thank-you-sas">Thank you SAS</a></li>
-					<li class="page_item page-item-4001"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-accreditation-scheme/sas-accredited-sites-list">SAS Accredited Sites List</a></li>
-					<li class="page_item page-item-1953"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-accreditation-scheme/sas-auditors">SAS Auditors</a></li>
-					<li class="page_item page-item-2010"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/security-accreditation-scheme/sas-enquiry-form">SAS Enquiry Form</a></li>
-				</ul>
-</li>
-			</ul>
-</li>
-			<li class="page_item page-item-2216 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/interoperability-data-specifications-and-settlement-group">Interoperability Data specifications and Settlement Group</a>
-			<ul class="children">
-				<li class="page_item page-item-2232 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/interoperability-data-specifications-and-settlement-group/standardised-b2b-interfaces-specified-by-ids">IDS B2B Interfaces</a>
-				<ul class="children">
-					<li class="page_item page-item-2609"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/interoperability-data-specifications-and-settlement-group/standardised-b2b-interfaces-specified-by-ids/tap-testing-toolkit">TAP Testing Toolkit</a></li>
-					<li class="page_item page-item-2495 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/interoperability-data-specifications-and-settlement-group/standardised-b2b-interfaces-specified-by-ids/open-standards-specifications">Open Standards Specifications</a>
-					<ul class="children">
-						<li class="page_item page-item-2680"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/interoperability-data-specifications-and-settlement-group/standardised-b2b-interfaces-specified-by-ids/open-standards-specifications/tap3-open-standard-download-form">TAP3 Open Standard Download Form</a></li>
-					</ul>
-</li>
-				</ul>
-</li>
-			</ul>
-</li>
-			<li class="page_item page-item-2014 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/networks-group">Networks Group</a>
-			<ul class="children">
-				<li class="page_item page-item-2026"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/networks-group/ip-and-interconnectivity">IP and interconnectivity</a></li>
-				<li class="page_item page-item-2031"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/networks-group/ipi-principles">IPI Principles</a></li>
-				<li class="page_item page-item-2040"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/networks-group/ip-exchange">IP eXchange</a></li>
-				<li class="page_item page-item-2042"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/networks-group/achievements-and-sip-trials">Achievements and SIP Trials</a></li>
-			</ul>
-</li>
-			<li class="page_item page-item-2206 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/sim-working-group">SIM Working Group</a>
-			<ul class="children">
-				<li class="page_item page-item-3737"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/sim-working-group/embedded-sim">Embedded SIM</a></li>
-			</ul>
-</li>
-			<li class="page_item page-item-2239 page_item_has_children"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/terminal-steering-group">Terminal Steering Group</a>
-			<ul class="children">
-				<li class="page_item page-item-2616"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/terminal-steering-group/terminal-testing">Terminal Testing</a></li>
-				<li class="page_item page-item-2627"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/terminal-steering-group/imei-database">IMEI Database</a></li>
-			</ul>
-</li>
-			<li class="page_item page-item-2285"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/internet-group">Internet Group</a></li>
-			<li class="page_item page-item-2264"><a href="https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/wholesale-agreements-and-solutions-group">Wholesale Agreements and Solutions Group</a></li>
-		</ul>
-</li>
-	</ul>
-</li>
-	<li class="page_item page-item-83"><a href="https://www.gsma.com/aboutus/leadership/gsma-organisation">GSMA Organisation</a></li>
-	<li class="page_item page-item-78"><a href="https://www.gsma.com/aboutus/leadership/regional-interest-groups">Regional Interest Groups</a></li>
-</ul>
-</li>
-<li class="page_item page-item-89 page_item_has_children"><a href="https://www.gsma.com/aboutus/gsm-technology">Mobile Technology</a>
-<ul class="children">
-	<li class="page_item page-item-94"><a href="https://www.gsma.com/aboutus/gsm-technology/gsm">GSM</a></li>
-	<li class="page_item page-item-111"><a href="https://www.gsma.com/aboutus/gsm-technology/gprs">GPRS</a></li>
-	<li class="page_item page-item-113"><a href="https://www.gsma.com/aboutus/gsm-technology/edge">EDGE</a></li>
-	<li class="page_item page-item-115"><a href="https://www.gsma.com/aboutus/gsm-technology/3gwcdma">3G/WCDMA</a></li>
-	<li class="page_item page-item-118"><a href="https://www.gsma.com/aboutus/gsm-technology/hspa">HSPA</a></li>
-	<li class="page_item page-item-123"><a href="https://www.gsma.com/aboutus/gsm-technology/lte">LTE</a></li>
-	<li class="page_item page-item-143 page_item_has_children"><a href="https://www.gsma.com/aboutus/gsm-technology/roaming">Roaming</a>
-	<ul class="children">
-		<li class="page_item page-item-126"><a href="https://www.gsma.com/aboutus/gsm-technology/roaming/how-roaming-works">How Roaming Works</a></li>
-		<li class="page_item page-item-150"><a href="https://www.gsma.com/aboutus/gsm-technology/roaming/best-roaming-prices-europe">Best Roaming Prices (Europe)</a></li>
-		<li class="page_item page-item-168"><a href="https://www.gsma.com/aboutus/gsm-technology/roaming/tap-testing-toolkit">TAP Testing Toolkit</a></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li class="page_item page-item-180"><a href="https://www.gsma.com/aboutus/history">History</a></li>
-<li class="page_item page-item-183 page_item_has_children"><a href="https://www.gsma.com/aboutus/worldwide-offices">Worldwide Offices</a>
-<ul class="children">
-	<li class="page_item page-item-237"><a href="https://www.gsma.com/aboutus/worldwide-offices/london-office">London Office</a></li>
-</ul>
-</li>
-<li class="page_item page-item-243"><a href="https://www.gsma.com/aboutus/job-vacancies">Job Vacancies</a></li>
-<li class="page_item page-item-247"><a href="https://www.gsma.com/aboutus/links">Links</a></li>
-<li class="page_item page-item-3859"><a href="https://www.gsma.com/aboutus/legal/anti-slavery-human-trafficking-statement">Anti-Slavery and Human Trafficking Statement</a></li>
-<li class="page_item page-item-3924"><a href="https://www.gsma.com/aboutus/legal/speak-policy-members-business-partners">Speak Up Policy for Members and Business Partners</a></li>
-     <li><a target="_blank" href="https://maps.mobileworldlive.com/">Coverage Maps</a></li>
+    <li><a rel="about_us_nav" title="About us" href="https://www.gsma.com/aboutus">About us</a></li>
+        <li><a rel="what_we_do_nav" title="What We Do" href="#">What We Do</a></li>
+        <li><a rel="membership_nav" title="Membership" href="https://www.gsma.com/membership">Membership</a></li>
+        <li><a rel="newsroom_nav" title="Newsroom" href="https://www.gsma.com/newsroom/">Newsroom</a></li>
     </ul>
-    </div>
 </div>
+</div>
+<!--end relate-->
 
-    <div class="clear"></div>
 
-    <div id="cse"></div>
-    <div><gcse:searchresults refinementstyle="link"></gcse:searchresults></div>
+    </div> <!--end header container-->
+</div> <!--end header -->
+
+
+<div id="pagewrap">
+   
+
+
+
+
+   
     <div style="display:none;" id="pid">284</div>
 
 
@@ -1317,10 +780,10 @@ Facebook social plugins are things like the Like button, the Share button, comme
       <h2 class="asia_sidebar" style="font-size: 29.8947px;top:83%;">Working Groups</h2>
       <img src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/images/320-colour-wg-homepage.jpg" alt="" title=""> </a> </div>
     <div style="clear:both"></div>
-    <div class="col1"> <a class="box big spott home_india" target="_blank" href="https://gsmamobileeconomy.com/india-new/"> <img src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/images/me-india-hover.jpg" alt="" title=""> </a> </div>
+    <div class="col1"> <a class="box big spott home_india" target="_blank" href="https://www.gsma.com/mobileeconomy/"> <img src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/images/me-india-hover.jpg" alt="" title=""> </a> </div>
     <div style="clear:both"></div>
     <div class="col2">
-      <div class="col1"> <a class="box med spott" target="_blank" href="https://www.gsmamobileeconomy.com/"> <img src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/images/home/home_infographic_sm_04.png" alt="" title=""> </a> </div>
+      <div class="col1"> <a class="box med spott" target="_blank" href="https://www.gsmamobileeconomy.com/"> <img src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/images/home/home_infographic_sm_06.png" alt="" title=""> </a> </div>
       <div class="col1"> <a href="https://www.facebook.com/gsma" target="_blank">
         <div class="box small spott"> <img src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/images/home/join_us.png" alt="" title=""> </div>
         </a> <a href="https://twitter.com/gsma" target="_blank">
@@ -1333,11 +796,10 @@ Facebook social plugins are things like the Like button, the Share button, comme
 <footer id="colophon" role="contentinfo">
 
 			
-<div id="gsma_footer">
-<div class="clear"></div>
-<div class="footer">
+<div id="footer" class="footer">
+     <h2 class="white">What We Do</h2>
      <ul class="bottom_nav">
-        <li><h2 style="color:#fff; font-size: 40px; font-family: 'proxima_nova_condensedlight',Arial,Helvetica,sans-serif; width: 100%; font-weight: normal; line-height: normal; margin: 0px; border: medium none; float: left; letter-spacing: 1.5px; padding: 0px 0px 30px;" class="white">What We Do</h2></li>
+        
                      <li class="parent"><a href="http://www.gsma.com/betterfuture/">Better Future</a> 
                      <ul>
                      
@@ -1349,7 +811,7 @@ Facebook social plugins are things like the Like button, the Share button, comme
                     <li><a href="http://www.gsma.com/spectrum/managing-spectrum/">Managing Spectrum</a></li>
                     
                     </ul>
-                                         
+                                        
                         <ul>  
                             <li class="parent"><a href="/publicpolicy/">Public Policy</a></li>
                             
@@ -1366,10 +828,11 @@ Facebook social plugins are things like the Like button, the Share button, comme
                             
                             <li class="parent"><a href="http://www.gsma.com/rsp/">SIM for Consumer Devices</a></li>
                             
-                            <li class="parent"><a target="_blank" href="http://www.gsma.com/mobileeconomy/">Mobile Economy</a></li>
+                            <li class="parent"><a target="_blank" href="http://www.gsma.com/mobileeconomy/">Mobile Economy</a></li>  
                             
-                             
-                                                      
+                            <li class="parent"><a href="http://www.gsma.com/newsroom/gsmadocuments/">GSMA Documents</a></li>    
+                            
+                                                                                                             
                         </ul>
                     </li>
                     
@@ -1382,9 +845,9 @@ Facebook social plugins are things like the Like button, the Share button, comme
                         <li><a href="/identity/vendors">Vendors</a></li>
                         
                         
-                        <li class="parent"><a href="http://www.gsma.com/newsroom/gsmadocuments/">GSMA Documents</a></li> 
                         
-                    </ul> 
+                        
+                    </ul>
                         <ul>    
                             <li class="parent"><a href="/mobilefordevelopment/">Mobile for Development</a></li>
                                                 
@@ -1410,7 +873,8 @@ Facebook social plugins are things like the Like button, the Share button, comme
                             
                             
                             
-                                                    
+                            
+                                                
                         </ul>
                      </li> 
                       
@@ -1423,7 +887,6 @@ Facebook social plugins are things like the Like button, the Share button, comme
                             <li><a href="/digitalcommerce/digital-commerce-in-transport">Transport</a></li>
                         </ul>
                         <ul>
-                            <!--<li><a href="/mobilecommerce/">Mobile NFC</a></li>   -->
                     
                             <li class="parent"><a href="http://www.gsma.com/futurenetworks/">Future Networks</a>
                             
@@ -1439,7 +902,7 @@ Facebook social plugins are things like the Like button, the Share button, comme
                              
                              <li><a href="http://www.gsma.com/futurenetworks/resources/all-ip-statistics/">All IP Coverage Stats</a></li>
                              
-                            
+                     
                             <li class="parent"><a href="/managedservices/">Managed Services</a>                      
                         
                             </li><li><a href="/managedservices/number-portability-services/">Number Portability Services</a></li>
@@ -1454,7 +917,7 @@ Facebook social plugins are things like the Like button, the Share button, comme
                         </ul>
                     </li>
                         
-                     <li class="parent"><a href="http://www.gsma.com/iot/">Internet of Things</a>  
+                     <li class="parent"><a href="http://www.gsma.com/iot/">Internet of Things</a>   
                         <ul>
                             <li><a href="/iot/mobile-iot-initiative/">Mobile IoT (LPWA)</a></li>
                             
@@ -1470,10 +933,10 @@ Facebook social plugins are things like the Like button, the Share button, comme
                            
                             <li><a href="/iot/automotive/">Connected Vehicles</a></li>
                            
-                            <li><a href="/iot/health/">Health</a></li> 
+                            <li><a href="/iot/health/">Health</a></li>
                            
-                          
-                                 
+                           
+                             
                      
                             <li class="parent"><a href="/events/ ">Events &amp; Awards</a>  
                          
@@ -1492,44 +955,23 @@ Facebook social plugins are things like the Like button, the Share button, comme
                             <li><a href="https://www.mobileworldcongress.com/exhibition/gsma-innovation-city/" target="_blank">Innovation City</a></li>
                             
                             
-                          
-                            
-                            
-                            
                         </ul>
                      </li>
      </ul>
 </div>
 
     
-    <div class="wrapper fullwidth bottom">
+    <div class="bottom">
     
         <span>
             <a href="http://www.gsma.com/aboutus/worldwide-offices">Contact GSMA</a>
             <a href="http://www.gsma.com/aboutus/legal">Legal</a>
             <a target="_blank" href="http://www.gsma.com/aboutus/legal/email-preference-centre">Email Preference Centre</a>
        
-            <span class="copywrite">Copyright © 2017 GSMA. GSM and the GSM Logo are registered and owned by the GSMA.</span>
+            <a class="copy" hrref="">Copyright © 2017 GSMA. GSM and the GSM Logo are registered and owned by the GSMA.</a>
         </span>
     
     </div>
-
-    
-    
-<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style social">
-<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
-<a class="addthis_button_tweet"></a>
-<a class="addthis_button_pinterest_pinit"></a>
-<a class="addthis_counter addthis_pill_style"></a>
-</div>
-
-<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=mobileworldlive"></script>
-<!-- AddThis Button END -->
-
-
-</div>
- 
 
 			
 	</footer><!-- #colophon -->
@@ -1544,13 +986,13 @@ Facebook social plugins are things like the Like button, the Share button, comme
 <!--<script type="text/javascript" src="https://www.gsma.com/aboutus/wp-content/themes/theme_aboutus/libs/cookie-bar/cookies.js"></script>-->
 <script type="text/javascript" src="https://www.gsma.com/aboutus/wp-content/plugins/q-and-a/js/qa.js"></script>
 <script type="text/javascript" src="https://www.gsma.com/aboutus/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201723"></script>
-<script type="text/javascript" src="https://www.gsma.com/aboutus/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
-<script type="text/javascript" src="https://stats.wp.com/e-201723.js" async="" defer=""></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201746"></script>
+<script type="text/javascript" src="https://www.gsma.com/aboutus/wp-includes/js/wp-embed.min.js?ver=4.8.3"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201746.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.9',blog:'49664008',post:'284',tz:'1',srv:'www.gsma.com'} ]);
-	_stq.push([ 'clickTrackerInit', '49664008', '284' ]);
+	_stq.push([ 'view', {v:'ext',j:'1:5.5',blog:'137872009',post:'284',tz:'0',srv:'www.gsma.com'} ]);
+	_stq.push([ 'clickTrackerInit', '137872009', '284' ]);
 </script>
 
 
