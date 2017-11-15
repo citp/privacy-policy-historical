@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the exclaimer.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807152732id_/https%3A//www.exclaimer.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclaimer.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115160331id_/https%3A//www.exclaimer.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Exclaimer Privacy Policy
+# Exclaimer Privacy Policy | Exclaimer
 
 ## Statement of intent
 
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website.
 
-By entering your details in the fields requested, you enable Exclaimer Ltd to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. Once information is input and you have downloaded our trial version of our products you are giving us permission to use this information. We therefore may contact you from time to time with newsletters, product information and product updates. Exclaimer Ltd will act in accordance with current legislation and aim to meet current Internet best practice. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to [http://www.exclaimer.com](http://www.exclaimer.com/). You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.co.uk/policies/privacy/ads/) or [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
+By entering your details in the fields requested, you enable Exclaimer Ltd to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. Once information is input and you have downloaded our trial version of our products you are giving us permission to use this information. We therefore may contact you from time to time with newsletters, product information and product updates. Exclaimer Ltd will act in accordance with current legislation and aim to meet current Internet best practice. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to [http://www.exclaimer.com](http://www.exclaimer.com/). You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](https://www.google.com/policies/technologies/ads/) or [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
 
 ## Information we share
 
@@ -21,7 +21,7 @@ Exclaimer may amend this policy from time to time. If we make any substantial ch
 If there are any question regarding this privacy policy you may contact us using the information below:
 
   * [help@exclaimer.com](mailto:help@exclaimer.com)
-  * 1‑888‑450‑9631
+  * 1‑646‑998‑9341
   * 445 Park Avenue  
 9th Floor  
 New York, NY 10022
