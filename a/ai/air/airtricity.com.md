@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215114020id_/https%3A//www.sseairtricity.com/ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115112313id_/https%3A//www.sseairtricity.com/ie/privacy-policy) for the most accurate reproduction.*
 
 # SSE Airtricity Ireland - Privacy Policy
 
