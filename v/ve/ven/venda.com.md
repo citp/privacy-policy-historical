@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venda.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123227id_/http%3A//venda.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venda.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115125012id_/http%3A//www.venda.com/privacy.html) for the most accurate reproduction.*
 
 # Venda Privacy Statement
 
