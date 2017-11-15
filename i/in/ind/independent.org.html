@@ -1,51 +1,95 @@
-<!--The following is the downloaded HTML source of the independent.org privacy policy that was archived on 2017-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170528192000id_/http%3A//www.independent.org/site-map/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independent.org privacy policy that was archived on 2017-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171115173215id_/http%3A//www.independent.org/site-map/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><head>
+
 <title>Privacy Policy: The Independent Institute</title>
 
-
-
-
+	<meta charset="UTF-8">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,600" rel="stylesheet" type="text/css">
 
 
     
     
-    <link rel="shortcut icon" href="http://www.independent.org/favicon.ico?v=2">
-    <meta name="viewport" content="width=1040">
+    <link rel="shortcut icon" href="http://www.independent.org/favicon.ico?v=2" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link href="/_design_fixed/css/main.css?v=5" rel="stylesheet">
-    <link href="/css/main_pagebody.css?v=2" rel="stylesheet">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link href="/_design_responsive/css/main.css?v=1" rel="stylesheet" type="text/css" media="screen">
+	<link href="/_design_responsive/css/main_print.css?v=1" rel="stylesheet" type="text/css" media="print">
+	
+    <link href="/css/main_pagebody.css?v=1" rel="stylesheet" type="text/css" media="screen">
+	<link href="/css/main_pagebody_print.css?v=1" rel="stylesheet" type="text/css" media="print">
+	
+
+    
 
 
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=178933372156574"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://www.independent.org/utilities/jquery/jquery-1.8.2.min.js" type="text/javascript"></script>
-
-	<script language="JavaScript">
-    <!--
-    
-    function popUp(URL) {
-        day = new Date();
-        id = day.getTime();
-        eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=640,height=560,left = 192,top = 144');");
-    }
-    
-    
-    // -->
-    </script>
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=178933372156574"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//code.jquery.com/jquery-1.8.3.min.js"></script>
 
 
     <!-- FOXYCART -->
     <script src="//cdn.foxycart.com/store.independent.org/loader.js" async="" defer=""></script>
     <!-- /FOXYCART -->
 
-						
+
+
+
+
+	
+	<script>
+	var FC = FC || {};
+	
+	
+ 	FC.onLoad = function () {
+		FC.client.on("ready.done", customMinicart);
+		/*FC.client.on("cart-submit.done", customMinicart);*/
+		/*FC.client.on("sidecart-hide", customMinicart);*/
+		FC.client.on("render.done", customMinicart);
+		
+		function customMinicart() {
+			//alert('script triggered');
+	  		
+			
+			var countableitems = 0;
+			for (var i = 0; i < FC.json.items.length; i++) {
+				if ((FC.json.items[i].category == "DEFAULT") || (FC.json.items[i].category == "tir_subs")) {
+					//countableitems = countableitems + FC.json.items[i].quantity;
+					countableitems = countableitems + 1;
+				}
+           	}
+			
+			//alert('countableitems = ' + countableitems);
+			
+			
+			if (countableitems > 9) {
+				document.getElementById("foxycartcartcount").innerHTML = '<span style="position:relative;left:3px;top:1px;font-size:75%;">9+</span>';
+				document.getElementById("foxycartcartcount2").innerHTML = '<span style="position:relative;left:3px;top:1px;font-size:75%;">9+</span>';
+			}
+			
+			else {
+				document.getElementById("foxycartcartcount").innerHTML = countableitems;
+				document.getElementById("foxycartcartcount2").innerHTML = countableitems;
+			}
+			
+			
+		}
+		
+	};
+
+		
+</script>					
+
+
+
+
 <script id="omapi-script" src="//a.optnmstr.com/app/js/api.min.js" async=""></script></head>
 
 <body>
+
+ 
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -76,392 +120,344 @@
 	<div class="main-wrapper">
 		
 		
-    
-    <style>
-	
-	.foxycartcart {
-		font: 12px/100% 'Gotham-Book', Arial, Helvetica, san-serif;
-	}
-	
-	
-	.foxycartcart a {
-		color:#ffffff;
-		font-style: normal;
-		font-size:11px;
-	}
-	
-	.foxycartcart p {
-		font: 12px/100% 'Gotham-Book', Arial, Helvetica, san-serif;
-	}
-	
-	/*
-	.foxycartcartp {
-		font-style: normal !important;
-		font: 16px/100% 'Gotham-BookItalic', Arial, Helvetica, san-serif;
-	}
-	*/
-	
-	.foxycartnumerical {
-		/*display:block;*/
-		position:relative;
-		top:-20px;
-		left:4px; 
-		
-		font-family:  Arial, san-serif;
-		font-weight:400;
-		color:#ffffff;
-		font-style: normal;
-		font-size:15px;
-		
-		text-decoration:none;
-		/*margin-left:auto;
-		margin-right:auto;*/
-		text-align:right;
-		
-		/*border: 1px solid #FF9E9F;*/
-	}
-	.foxycartnumerical a {
-		text-decoration:none;	
-	}
-	.foxycartnumerical a:link {
-		text-decoration:none;	
-	}
-	
-	
-	.foxycartnumerical a:hover {
-		text-decoration:none !important;	
-	}
-	
-	.foxycartnumerical a:active {
-		text-decoration:none !important;	
-	}
-	
-	
-	
-	</style>
-    
-    
-    
-    
-    <script>
-	var FC = FC || {};
-	
-	/*
-	FC.onLoad = function () {
-												
-                                             FC.client.on("ready.done", customMinicart1);
-											 
-											 
-												FC.client.on("cart-submit.done", customMinicart2);
-												FC.client.on("sidecart-hide", customMinicart3);
-												FC.client.on("render.done", customMinicart4);
-												function customMinicart1() {
-												  alert('ready.done triggered.');
-												}
-												function customMinicart2() {
-												  alert('cart-submit.done triggered.');
-												}
-												function customMinicart3() {
-												  alert('sidecart-hide triggered.');
-												}
-												
-												function customMinicart4() {
-												  alert('render.done triggered.');
-												}
-												
-												
-												};
-	*/
-	
-	
- 	FC.onLoad = function () {
-		FC.client.on("ready.done", customMinicart);
-		/*FC.client.on("cart-submit.done", customMinicart);*/
-		/*FC.client.on("sidecart-hide", customMinicart);*/
-		FC.client.on("render.done", customMinicart);
-		
-		function customMinicart() {
-			//alert('script triggered');
-	  		
-			
-			var countableitems = 0;
-			for (var i = 0; i < FC.json.items.length; i++) {
-				if ((FC.json.items[i].category == "DEFAULT") || (FC.json.items[i].category == "tir_subs")) {
-					//countableitems = countableitems + FC.json.items[i].quantity;
-					countableitems = countableitems + 1;
-				}
-           	}
-			
-			//alert('countableitems = ' + countableitems);
-			
-			
-			if (countableitems > 9) {
-				document.getElementById("foxycartcartcount").innerHTML = '<span style="position:relative;left:3px;top:1px;font-size:75%;">9+</span>';
-			}
-			
-			else {
-				document.getElementById("foxycartcartcount").innerHTML = countableitems;
-			}
-			
-			
-		}
-		
-	};
-
+   
+	<nav class="push-menu-left">
+		<div class="push-container">
+			<div class="search-box">
+   				<form name="cse-search-box" id="cse-search-box" action="/issues/google_results.asp" class="search-form">
+         			<input type="hidden" name="cx" value="018225991961863933630:wvyquibswjc">
+            		<input type="hidden" name="ie" value="UTF-8">
+   					<input type="hidden" name="cof" value="FORID:11">
+             		<input id="q" type="text" name="q" placeholder="Search">
+                    <div class="search-form-magglass">&nbsp;</div>
+				</form>
+     		</div>
 		
 		
-</script>
-    
 		
-		<div class="wrapper">
-			<div class="push-area">
-				<header>
-					<div class="container clearfix">
-						<div class="nav-btn">
-							<span>&nbsp;</span>
-							<span>&nbsp;</span>
-							<span>&nbsp;</span>
-						</div>
-						<h1 class="logo"><a href="http://www.independent.org/"><img src="/images/design/ii_logo_banner_770x210.png" alt="The Independent Institute"></a></h1>
-						<div class="search-btn">&nbsp;</div>
-                       
-						<div class="help-box">
-                       
-							<div class="row-box tablet">
-                           
-                            
-                            
-                            
-								<div class="language-box"><a href="http://www.elindependent.org/">En Español</a></div>
-                                
-                                
-                                
-								
-								<ul class="social-box clearfix">
-                                
-                                	<li style="margin-right:35px;"><a href="https://store.independent.org/cart?cart=view"><img style="position:relative; top:-2px;" src="/images/social_networking2/cart_76x52.png" height="22" width="32"><span id="foxycartcartcount" class="foxycartnumerical"><img style="position:relative;top:-5px;left:2px;" width="12" height="12" src="http://www.independent.org/images/throbbers/ajax-loader10.gif"></span></a></li>
-                                
-									<li><a href="http://www.facebook.com/independentinstitute" target="_blank"><img src="/images/social_networking2/facebook_60x60.png" width="19" height="19"></a></li>
-									<li><a href="http://www.twitter.com/IndependentInst" target="_blank"><img src="/images/social_networking2/twitter_60x60.png" width="19" height="19"></a></li>
-									
-									<li><a href="http://www.youtube.com/user/independentinstitute?sub_confirmation=1" target="_blank"><img src="/images/social_networking2/youtube_60x60.png" width="19" height="19"></a></li>
-									<li><a href="https://www.linkedin.com/company/independent-institute" target="_blank"><img src="/images/social_networking2/linkedin_60x60.png" width="19" height="19"></a></li>
-									<li><a href="https://www.instagram.com/independentinst/" target="_blank"><img src="/images/social_networking2/instagram_60x60.png" width="19" height="19"></a></li>
-								
-                                </ul>
-							</div>
-							<p class="tablet" style="position:relative;top:4px;">The Power of Independent Thinking</p>
-							<div class="search-box">
-								<form name="cse-search-box" id="cse-search-box" action="/issues/google_results.asp" class="search-form">
-									 <input type="hidden" name="cx" value="018225991961863933630:wvyquibswjc">
-                        			<input type="hidden" name="ie" value="UTF-8">
-                        			<input type="hidden" name="cof" value="FORID:11">
-                                    
-                                    <input id="q" type="text" name="q" placeholder="search">
-									<button type="submit">&nbsp;</button>
-								</form>
-							</div>
-						</div>
-					</div> 
-				</header>
+			<ul class="menu-mobile clearfix">
+				<li class="nav-parent"><a href="/aboutus/">About Us<span class="nav-expand"></span></a>
+					<ul>
+						<li><a href="/aboutus/">Who We Are</a></li>
+						<li><a href="/research/">Research Centers</a></li>
+						<li><a href="/aboutus/fellows.asp">Fellows</a></li>
+						<li><a href="/aboutus/authors.asp">Authors</a></li>
+						<li><a href="/aboutus/directors.asp">Board of Directors</a></li>
+						<li><a href="/aboutus/advisors.asp">Board of Advisors</a></li>
+						<li><a href="/aboutus/staff.asp">Staff</a></li>
+						<li><a href="/aboutus/saying.asp">What Others Are Saying About Us</a></li>
+						<li><a href="/aboutus/alexis.asp">The Alexis De Tocqueville Award</a></li>
+						<li><a href="/aboutus/cagoldenfleece/">California Golden Fleece Awards</a></li>
+						<li><a href="/aboutus/awards.asp">Awards</a></li>
+						<li><a href="/aboutus/lighthouse.asp">The Lighthouse Logo</a></li>
+						<li><a href="/aboutus/jobs.asp">Employment Opportunities</a></li>
+						<li><a href="/aboutus/contact.asp">Contact Information</a></li>
+						<li><a href="/aboutus/map.asp">Map and Directions</a></li>
+						<li><a href="/aboutus/finances.asp">Finances</a></li>
+					</ul>
+				</li>
+				<li class="nav-parent"><a href="/blogs/">Blogs<span class="nav-expand"></span></a>
+					<ul>
+						<li><a href="http://blog.independent.org/">The Beacon</a></li>
+						<li><a href="http://www.mygovcost.org/blog/">MyGovCost</a></li>
+					</ul>
+				</li>
+				<li><a href="/issues/">Issues</a></li>
+				<li class="nav-parent"><a href="/newsroom/">Newsroom<span class="nav-expand"></span></a>
+					<ul>
+						<li><a href="/newsroom/">Newsroom</a></li>
+						<li><a href="/newsroom/commentary.asp">Commentary Articles</a></li>
+						<li><a href="/newsroom/news_alerts.asp">News Alerts</a></li>
+						<li><a href="/newsroom/news.asp">News Releases</a></li>
+						<li><a href="/newsroom/experts.asp">Experts</a></li>
+					</ul>
+				</li>
+				<li><a href="/multimedia/">Multimedia</a></li>
+				<li class="nav-parent"><a href="/events/">Events<span class="nav-expand"></span></a>
+					<ul>
+						<li><a href="/events/">Upcoming and Recent Events</a></li>
+						<li><a href="/events/past_events.asp">Past Events</a></li>
+						<li><a href="/events/audio_and_video.asp">Audio and Video</a></li>
+						<li><a href="/events/event_transcripts.asp">Transcripts</a></li>
+					</ul>
+				</li>
 				
-                
-    
-    
-    
-				<nav>
-					<div class="container">
-						<ul class="menu clearfix">
-							
-							<li class="one-column-first "><a href="http://www.independent.org/aboutus/">About&nbsp;Us</a><ul>
-									<li><h3><a href="http://www.independent.org/aboutus/">About Us</a></h3></li>
-									<li class="clearfix">
-										<ul>
-                                        	<li><a href="http://www.independent.org/research/">Centers</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/fellows.asp">Fellows</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/authors.asp">Authors</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/directors.asp">Board of Directors</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/advisors.asp">Board of Advisors</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/staff.asp">Staff</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/saying.asp">What Others Are Saying About Us</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/alexis.asp">The Alexis De Tocqueville Award</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/cagoldenfleece/">California Golden Fleece Awards</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/awards.asp">Awards</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/lighthouse.asp">The Lighthouse Logo</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/jobs.asp">Employment Opportunities</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/contact.asp">Contact Information</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/map.asp">Map and Directions</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/finances.asp">Finances</a></li>
-                                        </ul>
-									</li>
-								</ul>
-                            </li>
-                            <li class="one-column "><a href="http://www.independent.org/blogs/">Blogs</a><ul>
-									<li><h3><a href="http://www.independent.org/blogs/">Blogs</a></h3></li>
-									<li class="clearfix">
-										<ul>
-                                        	<li><a href="http://blog.independent.org/">The Beacon</a></li>
-                                            <li><a href="http://www.mygovcost.org/blog/">MyGovCost News &amp; Blog</a></li>
-                                            
-                                        </ul>
-									</li>
-								</ul>
-                            </li>
-                            
-                            
-                            
-                            
-							<li><a href="http://www.independent.org/issues/">Issues</a></li>
-                            
-                            <li class="one-column "><a href="http://www.independent.org/newsroom/">Newsroom</a><ul>
-									<li><h3><a href="http://www.independent.org/newsroom/">Newsroom</a></h3></li>
-									<li class="clearfix">
-										<ul>
-                                        	<li><a href="http://www.independent.org/newsroom/commentary.asp?pid=2">Commentary Articles</a></li>
-                                            <li><a href="http://www.independent.org/newsroom/news_alerts.asp">News Alerts</a></li>
-                                            <li><a href="http://www.independent.org/newsroom/news.asp">News Releases</a></li>
-                                            <li><a href="http://www.independent.org/newsroom/experts.asp">Experts</a></li>
-                                        </ul>
-									</li>
-								</ul>
-                            </li>
-                            <li class="one-column "><a href="http://www.independent.org/multimedia/">Multimedia</a><ul>
-								<li><h3><a href="http://www.independent.org/multimedia/">Multimedia</a></h3></li>
-									<li class="clearfix">
-										<ul>
-                                        	<li><a href="http://www.independent.org/multimedia/?format=video">Video</a></li>
-                                            <li><a href="http://www.independent.org/multimedia/?format=audio">Audio</a></li>
-                                            
-                                        </ul>
-									</li>
-								</ul>
-                            </li>
-                            <li class="one-column "><a href="http://www.independent.org/events/">Events</a><ul>
-								<li><h3><a href="http://www.independent.org/events/">Events</a></h3></li>
-									<li class="clearfix">
-										<ul>
-                                        	<li><a href="http://www.independent.org/events/">Upcoming and Recent Events</a></li>
-                                            <li><a href="http://www.independent.org/events/past_events.asp">Past Events</a></li>
-                                            <li><a href="http://www.independent.org/events/audio_and_video.asp">Audio and Video</a></li>
-                                            <li><a href="http://www.independent.org/events/event_transcripts.asp">Transcripts</a></li>
-                                            <li><a href="http://www.independent.org/store/events/">Buy Event Materials</a></li>
-                                            
-                                        </ul>
-									</li>
-								</ul>
-                            </li>
-                            <li class="one-column "><a href="http://www.independent.org/publications/">Publications</a><ul>
-								<li><h3><a href="http://www.independent.org/publications/">Publications</a></h3></li>
-									<li class="clearfix">
-										<ul>
-                                        	<li><a href="http://www.independent.org/publications/books/">Books</a></li>
-                                            <li><a href="http://www.independent.org/publications/tir/">The Independent Review<br>(Quarterly Journal)</a></li>
-                                            <li><a href="http://www.independent.org/publications/policy_reports/">Policy Reports</a></li>
-                                            <li><a href="http://www.independent.org/publications/the_lighthouse/">The Lighthouse<br>(Email Newsletter)</a></li>
-                                            <li><a href="http://www.independent.org/newsroom/commentary.asp?pid=2">Commentary Articles</a></li>
-                                            <li><a href="http://www.independent.org/newsroom/news.asp">News Releases</a></li>
-											
-											<li><a href="http://www.independent.org/publications/briefings/">Briefings</a></li>
-											<li><a href="http://www.independent.org/publications/executive_summaries/">Executive Summaries</a></li>
-											
-											
-                                            <li><a href="http://www.independent.org/store/events/">Audio and Visual Programs</a></li>
-                                            <li><a href="http://www.independent.org/publications/the_independent/">The Independent<br>(Quarterly Newsletter)</a></li>
-                                            <li><a href="http://www.independent.org/publications/publist.asp?pid=3">Research Articles</a></li>
-                                            <li><a href="http://www.independent.org/publications/working_papers/">Working Papers</a></li>
-                                            <li><a href="http://www.independent.org/publications/course_adoption.asp">Course Adoption Program</a></li>
-                                       	</ul>
-									</li>
-								</ul>
-                            </li>
-                            
-                            <li class="one-column "><a href="http://www.independent.org/students/">Students</a><ul>
-								<li><h3><a href="http://www.independent.org/students/">Students</a></h3></li>
-									<li class="clearfix">
-										<ul>
-                                        	<li><a href="http://www.independent.org/students/seminars/">Summer Seminars</a></li>
-                                            <li><a href="http://www.independent.org/students/internships/">Student Internships</a></li>
-                                            <li><a href="http://www.independent.org/students/essay/">Essay Contest</a></li>
-                                           
-                                       	</ul>
-									</li>
-								</ul>
-                            </li>
-                            
-                            <li class="one-column-last "><a href="http://www.independent.org/store/">Store</a><ul>
-								<li><h3><a href="http://www.independent.org/store/">Store</a></h3></li>
-									<li class="clearfix">
-										<ul>
-                                        	<li><a href="http://www.independent.org/store/independent_books.asp">Institute Books</a></li>
-                                            <li><a href="http://www.independent.org/store/ebooks.asp">eBooks</a></li>
-                                            <li><a href="http://www.independent.org/store/forthcoming_books.asp">Forthcoming Books</a></li>
-                                            <li><a href="http://www.independent.org/store/lt_books.asp">LibertyTree Press Books</a></li>
-                                            <li><a href="http://www.independent.org/store/nonindependent_books.asp">Non-Institute Books</a></li>
-                                            <li><a href="http://www.independent.org/store/tir/subscribe.asp">Subscribe to <em>The Independent Review</em></a></li>
-                                            <li><a href="http://www.independent.org/store/tir/singleissues.asp">Single Issues of <em>The Independent Review</em></a></li>
-                                            <li><a href="http://www.independent.org/store/events/upcoming.asp">Event Ticket Reservations</a></li>
-                                            <li><a href="http://www.independent.org/store/events/">Event Audio and Video</a></li>
-                                            <li><a href="http://www.independent.org/publications/policy_reports/">Policy Reports</a></li>
-                                        </ul>
-									</li>
-								</ul>
-                            </li>
-                            
-							
-							<li class="one-column-last2"><a href="https://secure.independent.org/donate/">Donate</a><ul>
-								<li><h3><a href="https://secure.independent.org/donate/">Donate</a></h3></li>
-									<li class="clearfix">
-										<ul>
-                                        	<li><a href="https://secure.independent.org/donate/otherwaystogive.asp">Other Ways to Give</a></li>
-                                        	<li><a href="https://secure.independent.org/donate/membership_benefits.asp">Membership Benefits</a></li>
-                                           
-                                            <li><a href="https://secure.independent.org/donate/dollarsatwork.asp">Your Dollars at Work</a></li>
-                                            <li><a href="https://secure.independent.org/donate/donorsbill.asp">Donor’s Bill of Rights</a></li>
-                                            <li><a href="http://www.independent.org/aboutus/finances.asp">Finances</a></li>
-                                           
-                                            <li><a href="https://secure.independent.org/donate/contact.asp">Contact</a></li>
-                                            
-                                        </ul>
-									</li>
-								</ul>
-                            </li>
-							
-							
-							
+				<li class="nav-parent"><a href="/publications/">Publications<span class="nav-expand"></span></a>
+					<ul>
+						<li><a href="/publications/books/">Books</a></li>
+						<li><a href="/publications/tir/"><i>The Independent Review</i></a></li>
+						<li><a href="/publications/the_lighthouse/"><i>The Lighthouse</i> (Email&nbsp;Newsletter)</a></li>
+						<li><a href="/newsroom/commentary.asp">Commentary Articles</a></li>
+						<li><a href="/newsroom/news.asp">News Releases</a></li>
+						<li><a href="/publications/briefings/">Briefings</a></li>
+						<li><a href="/publications/executive_summaries/">Executive Summaries</a></li>
+						<li><a href="/publications/the_independent/"><i>The Independent</i> (Quarterly&nbsp;Newsletter)</a></li>
+						<li><a href="/publications/research_articles/">Research Articles</a></li>
+						<li><a href="/publications/working_papers/">Working Papers</a></li>
+						<li><a href="/publications/ca/course_adoption.asp">Course Adoption Program</a></li>
+					</ul>
+				</li>
+				
+				<li class="nav-parent"><a href="/students/">Students<span class="nav-expand"></span></a>
+					<ul>
+						<li><a href="/students/seminars/">Summer Seminars</a></li>
+						<li><a href="/students/internships/">Student Internships</a></li>
+						<li><a href="/students/essay/">Essay Contest</a></li>
+					</ul>
+				</li>
+				<li class="nav-parent"><a href="/store/">Store<span class="nav-expand"></span></a>
+					<ul>
+						<li><a href="/store/">Overview</a></li>
+						<li><a href="/store/independent_books.asp">Independent Books</a></li>
+						<li><a href="/store/forthcoming_books.asp">Forthcoming Books</a></li>
+						<li><a href="/store/lt_books.asp">LibertyTree Press Books</a></li>
+						<li><a href="/store/nonindependent_books.asp">Non-Institute Books</a></li>
+						<li><a href="/store/ebooks.asp">eBooks</a></li>
+						<li><a href="/store/tir/subscribe.asp">Subscribe to <i>The Independent Review</i></a></li>
+						<li><a href="/tir/singleissues.asp">Single Issues of <i>The Independent Review</i></a></li>
+						<li><a href="/store/events/">Event Audio and Video</a></li>
+						<li><a href="/publications/policy_reports/">Policy Reports</a></li>
+						
+					</ul>
+				</li>
+				<li class="nav-parent"><a href="https://secure.independent.org/donate/">Donate<span class="nav-expand"></span></a>
+					<ul>
+						<li><a href="https://secure.independent.org/donate/">Make a Donation</a></li>
+						<li><a href="https://secure.independent.org/donate/otherwaystogive.asp">Other Ways to Give</a></li>
+						<li><a href="https://secure.independent.org/donate/membership_benefits.asp">Membership Benefits</a></li>
+						<li><a href="https://secure.independent.org/donate/dollarsatwork.asp">Your Dollars at Work</a></li>
+						<li><a href="https://secure.independent.org/donate/donorsbill.asp">Donor’s Bill of Rights</a></li>
+						<li><a href="/aboutus/finances.asp">Finances</a></li>
+						<li><a href="https://secure.independent.org/donate/contact.asp">Contact</a></li>
+						
+					</ul>
+				</li>
+			</ul>
+			
+			<ul class="social-box clearfix mobile">
+         		<li><a href="http://www.facebook.com/independentinstitute" target="_blank"><img style="margin-right:26px;" src="http://www.independent.org/images/social_networking2/facebook_60x60.png" width="22" height="22"></a></li>
+          		<li><a href="http://www.twitter.com/IndependentInst" target="_blank"><img style="margin-right:6px;" src="http://www.independent.org/images/social_networking2/twitter_60x60.png" width="22" height="22"></a></li>
+        		<li><a href="http://www.youtube.com/user/independentinstitute?sub_confirmation=1" target="_blank"><img style="margin-right:6px;" src="http://www.independent.org/images/social_networking2/youtube_60x60.png" width="22" height="22"></a></li>
+         		<li><a href="https://www.linkedin.com/company/independent-institute" target="_blank"><img style="margin-right:6px;" src="http://www.independent.org/images/social_networking2/linkedin_60x60.png" width="22" height="22"></a></li>
+              	<li><a href="https://www.instagram.com/independentinst/" target="_blank"><img style="margin-right:6px;" src="http://www.independent.org/images/social_networking2/instagram_60x60.png" width="22" height="22"></a></li>
+        		<li style="margin:0 20px 0 26px;"><a href="https://store.independent.org/cart?cart=view"><img style="position:relative; top:0px;" src="/images/social_networking2/cart_76x52.png" height="22" width="32"><span id="foxycartcartcount2" class="foxycartnumerical-mobile"><img style="position:relative;top:-5px;left:2px;" width="12" height="12" src="http://www.independent.org/images/throbbers/ajax-loader10.gif"></span></a></li>
+    		</ul>
+    		<div class="language-box mobile"><a href="http://www.elindependent.org/">En Español</a></div>
+        </div>
+	</nav>
+		
+		
+	<div class="push-area">
+		<div class="tii_header">
+			<div class="container clearfix">
+				<div class="nav-btn-container">
+					<div class="nav-btn">
+						<span>&nbsp;</span>
+						<span>&nbsp;</span>
+						<span>&nbsp;</span>
+					</div>
+				</div>
+				<div class="logo"><a href="/"><img src="/images/design/ii_logo_banner_770x210.png" alt="The Independent Institute"></a></div>
+				<div class="search-btn">&nbsp;</div>
+                <div class="help-box">
+                	<div class="row-box tablet">
+                 		<div class="language-box"><a href="http://www.elindependent.org/">En Español</a></div>
+                 		<ul class="social-box clearfix">
+                   			<li style="margin-right:35px;"><a href="https://store.independent.org/cart?cart=view"><img style="position:relative; top:-2px;" src="/images/social_networking2/cart_76x52.png" height="22" width="32"><span id="foxycartcartcount" class="foxycartnumerical"><img style="position:relative;top:-5px;left:2px;" width="12" height="12" src="http://www.independent.org/images/throbbers/ajax-loader10.gif"></span></a></li>
+                       		<li><a href="http://www.facebook.com/independentinstitute" target="_blank"><img src="http://www.independent.org/images/social_networking2/facebook_60x60.png" width="19" height="19"></a></li>
+							<li><a href="http://www.twitter.com/IndependentInst" target="_blank"><img src="http://www.independent.org/images/social_networking2/twitter_60x60.png" width="19" height="19"></a></li>
+							<li><a href="http://www.youtube.com/user/independentinstitute?sub_confirmation=1" target="_blank"><img src="http://www.independent.org/images/social_networking2/youtube_60x60.png" width="19" height="19"></a></li>
+							<li><a href="https://www.linkedin.com/company/independent-institute" target="_blank"><img src="http://www.independent.org/images/social_networking2/linkedin_60x60.png" width="19" height="19"></a></li>
+							<li><a href="https://www.instagram.com/independentinst/" target="_blank"><img src="http://www.independent.org/images/social_networking2/instagram_60x60.png" width="19" height="19"></a></li>
 						</ul>
 					</div>
-				</nav>
-            
-						
-																
-                
-                
-                
-                
-            </div> <!-- push-area -->
-        </div>   <!-- wrapper -->
+					<p class="tablet" style="position:relative;top:4px;">The Power of Independent Thinking</p>
+					<div class="search-box">
+						<form name="cse-search-box" id="cse-search-box" action="/issues/google_results.asp" class="search-form">
+							<input type="hidden" name="cx" value="018225991961863933630:wvyquibswjc">
+                    		<input type="hidden" name="ie" value="UTF-8">
+                  			<input type="hidden" name="cof" value="FORID:11">
+                   			<input id="q" type="text" name="q" placeholder="Search">
+							<button type="submit">&nbsp;</button>
+						</form>
+					</div>
+				</div> 
+			</div>   
+		</div> 
+  
+    
+		<nav>
+			<div class="container">
+				<ul class="menu clearfix">
+					<li class="one-column-first "><a href="http://www.independent.org/aboutus/">About&nbsp;Us</a>
+						<ul>
+							<li><h3><a href="http://www.independent.org/aboutus/">About Us</a></h3></li>
+							<li class="clearfix">
+								<ul>
+									<li><a href="http://www.independent.org/research/">Research Centers</a></li>
+									<li><a href="http://www.independent.org/aboutus/fellows.asp">Fellows</a></li>
+									<li><a href="http://www.independent.org/aboutus/authors.asp">Authors</a></li>
+									<li><a href="http://www.independent.org/aboutus/directors.asp">Board of Directors</a></li>
+									<li><a href="http://www.independent.org/aboutus/advisors.asp">Board of Advisors</a></li>
+									<li><a href="http://www.independent.org/aboutus/staff.asp">Staff</a></li>
+									<li><a href="http://www.independent.org/aboutus/saying.asp">What Others Are Saying About Us</a></li>
+									<li><a href="http://www.independent.org/aboutus/alexis.asp">The Alexis De Tocqueville Award</a></li>
+									<li><a href="http://www.independent.org/aboutus/cagoldenfleece/">California Golden Fleece Awards</a></li>
+									<li><a href="http://www.independent.org/aboutus/awards.asp">Awards</a></li>
+									<li><a href="http://www.independent.org/aboutus/lighthouse.asp">The Lighthouse Logo</a></li>
+									<li><a href="http://www.independent.org/aboutus/jobs.asp">Employment Opportunities</a></li>
+									<li><a href="http://www.independent.org/aboutus/contact.asp">Contact Information</a></li>
+									<li><a href="http://www.independent.org/aboutus/map.asp">Map and Directions</a></li>
+									<li><a href="http://www.independent.org/aboutus/finances.asp">Finances</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="one-column "><a href="http://www.independent.org/blogs/">Blogs</a>
+						<ul>
+							<li><h3><a href="http://www.independent.org/blogs/">Blogs</a></h3></li>
+							<li class="clearfix">
+								<ul>
+                    				<li><a href="http://blog.independent.org/">The Beacon</a></li>
+                       				<li><a href="http://www.mygovcost.org/blog/">MyGovCost News &amp; Blog</a></li>
+              					</ul>
+							</li>
+						</ul>
+     				</li>
+             		<li><a href="http://www.independent.org/issues/">Issues</a></li>
+          			<li class="one-column "><a href="http://www.independent.org/newsroom/">Newsroom</a>
+						<ul>
+							<li><h3><a href="http://www.independent.org/newsroom/">Newsroom</a></h3></li>
+							<li class="clearfix">
+								<ul>
+									<li><a href="http://www.independent.org/newsroom/commentary.asp">Commentary Articles</a></li>
+									<li><a href="http://www.independent.org/newsroom/news_alerts.asp">News Alerts</a></li>
+									<li><a href="http://www.independent.org/newsroom/news.asp">News Releases</a></li>
+									<li><a href="http://www.independent.org/newsroom/experts.asp">Experts</a></li>
+								</ul>
+							</li>
+						</ul>
+          			</li>
+          			<li class="one-column-narrow "><a href="http://www.independent.org/multimedia/">Multimedia</a>
+						<ul>
+							<li><h3><a href="http://www.independent.org/multimedia/">Multimedia</a></h3></li>
+							<li class="clearfix">
+								<ul>
+                   					<li><a href="http://www.independent.org/multimedia/?format=video">Video</a></li>
+                   					<li><a href="http://www.independent.org/multimedia/?format=audio">Audio</a></li>
+               					</ul>
+							</li>
+						</ul>
+      				</li>
+         			<li class="one-column "><a href="http://www.independent.org/events/">Events</a>
+						<ul>
+							<li><h3><a href="http://www.independent.org/events/">Events</a></h3></li>
+							<li class="clearfix">
+								<ul>
+               						<li><a href="http://www.independent.org/events/">Upcoming and Recent Events</a></li>
+                 					<li><a href="http://www.independent.org/events/past_events.asp">Past Events</a></li>
+                					<li><a href="http://www.independent.org/events/audio_and_video.asp">Audio and Video</a></li>
+                    				<li><a href="http://www.independent.org/events/event_transcripts.asp">Transcripts</a></li>
+                     				<li><a href="http://www.independent.org/store/events/">Buy Event Materials</a></li>
+            					</ul>
+							</li>
+						</ul>
+      				</li>
+    				<li class="one-column "><a href="http://www.independent.org/publications/">Publications</a>
+						<ul>
+							<li><h3><a href="http://www.independent.org/publications/">Publications</a></h3></li>
+							<li class="clearfix">
+								<ul>
+									<li><a href="http://www.independent.org/publications/books/">Books</a></li>
+									<li><a href="http://www.independent.org/publications/tir/"><i>The Independent Review</i><span style="font-size:80%;"><br>(Quarterly Journal)</span></a></li>
+									<li><a href="http://www.independent.org/publications/policy_reports/">Policy Reports</a></li>
+									<li><a href="http://www.independent.org/publications/the_lighthouse/"><i>The Lighthouse</i><span style="font-size:80%;"><br>(Email Newsletter)</span></a></li>
+									<li><a href="http://www.independent.org/newsroom/commentary.asp">Commentary Articles</a></li>
+									<li><a href="http://www.independent.org/newsroom/news.asp">News Releases</a></li>
+									<li><a href="http://www.independent.org/publications/briefings/">Briefings</a></li>
+									<li><a href="http://www.independent.org/publications/executive_summaries/">Executive Summaries</a></li>
+									<li><a href="http://www.independent.org/store/events/">Audio and Visual Programs</a></li>
+									<li><a href="http://www.independent.org/publications/the_independent/"><i>The Independent</i><span style="font-size:80%;"><br>(Quarterly Newsletter)</span></a></li>
+									<li><a href="http://www.independent.org/publications/research_articles/">Research Articles</a></li>
+									<li><a href="http://www.independent.org/publications/working_papers/">Working Papers</a></li>
+									<li><a href="http://www.independent.org/publications/course_adoption.asp">Course Adoption Program</a></li>
+								</ul>
+							</li>
+						</ul>
+    				</li>
+       				<li class="one-column-narrow "><a href="http://www.independent.org/students/">Students</a>
+						<ul>
+							<li><h3><a href="http://www.independent.org/students/">Students</a></h3></li>
+							<li class="clearfix">
+								<ul>
+                     				<li><a href="http://www.independent.org/students/seminars/">Summer Seminars</a></li>
+                   					<li><a href="http://www.independent.org/students/internships/">Student Internships</a></li>
+                					<li><a href="http://www.independent.org/students/essay/">Essay Contest</a></li>
+                   				</ul>
+							</li>
+						</ul>
+             		</li>
+           			<li class="one-column-last "><a href="http://www.independent.org/store/">Store</a>
+						<ul>
+							<li><h3><a href="http://www.independent.org/store/">Store</a></h3></li>
+							<li class="clearfix">
+								<ul>
+            						<li><a href="http://www.independent.org/store/independent_books.asp">Independent Books</a></li>
+            						<li><a href="http://www.independent.org/store/ebooks.asp">eBooks</a></li>
+       								<li><a href="http://www.independent.org/store/forthcoming_books.asp">Forthcoming Books</a></li>
+             						<li><a href="http://www.independent.org/store/lt_books.asp">LibertyTree Press Books</a></li>
+                					<li><a href="http://www.independent.org/store/nonindependent_books.asp">Non-Institute Books</a></li>
+                					<li><a href="http://www.independent.org/store/tir/subscribe.asp">Subscribe to <em>The Independent Review</em></a></li>
+                 					<li><a href="http://www.independent.org/store/tir/singleissues.asp">Single Issues of <em>The Independent Review</em></a></li>
+            						<li><a href="http://www.independent.org/store/events/upcoming.asp">Event Ticket Reservations</a></li>
+                  					<li><a href="http://www.independent.org/store/events/">Event Audio and Video</a></li>
+                  					<li><a href="http://www.independent.org/publications/policy_reports/">Policy Reports</a></li>
+                				</ul>
+							</li>
+						</ul>
+  					</li>
+      				<li class="one-column-last2"><a href="https://secure.independent.org/donate/">Donate</a>
+						<ul>
+							<li><h3><a href="https://secure.independent.org/donate/">Donate</a></h3></li>
+							<li class="clearfix">
+								<ul>
+                   					<li><a href="https://secure.independent.org/donate/otherwaystogive.asp">Other Ways to Give</a></li>
+                   					<li><a href="https://secure.independent.org/donate/membership_benefits.asp">Membership Benefits</a></li>
+                    				<li><a href="https://secure.independent.org/donate/dollarsatwork.asp">Your Dollars at Work</a></li>
+              						<li><a href="https://secure.independent.org/donate/donorsbill.asp">Donor’s Bill of Rights</a></li>
+                    				<li><a href="/aboutus/finances.asp">Finances</a></li>
+                					<li><a href="https://secure.independent.org/donate/contact.asp">Contact</a></li>
+                 				</ul>
+							</li>
+						</ul>
+       				</li>
+				</ul>
+			</div> <!-- container -->
+		</nav>
+	</div> <!-- push-area -->
+        
 			
    
 						
 																
 			
    
-                
-    
-     <div align="center" id="pagebody">
-     <!---<img src="/images/1000x20px2.png"> ---------->
-    
-<!--- TOP NAV---------->
-<table width="999" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-	
-	<tbody><tr>
-    	<td width="20" style="background-color:#ffffff;"><img src="/images/blank.gif" width="20" height="15" border="0"></td>
-		<td width="190" valign="top" align="left" class="leftsidebar">
+<div id="pagebody">  
+
+
+
+
+
+             
+	<div class="container">
+		<div class="struct_body">
 		
-	
+		
+    		
 	 
+				
         
-        
+     <div class="struct_leftsidebar">   
 <br>
 	
 	<br>		
@@ -580,31 +576,27 @@
              
                    
                      <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=7991#.VjgGf66rSUk" target="_blank">
-    <img style="border:1px solid #999999;width:100%;" src="/donate/images/charitynavigator_400x400.png">
+    <img style="width:100%;" src="/images/design/charitynavigator_400x400.png">
 </a>  <br> <br>  
                     
                     
                     <a href="http://www.guidestar.org/organizations/94-3008370/independent-institute.aspx" target="_blank">
-    				<img style="border:1px solid #999999;width:100%;" src="/donate/images/guidestar_400x530.png">
+    				<img style="border:1px solid #999999;width:100%;" src="/images/design/guidestar_400x530.png">
 </a>
         <br>
         <br>
 <br>  <br>          
                     
-                    
-				
-	
-	
-		</td>
+                
+</div>
+
+
 		
-		<td valign="top" bgcolor="#ffffff">
-			<table cellspacing="0" cellpadding="0" width="100%" border="0">
-           		<tbody><tr>
-					<td width="56" style="background-color:#ffffff;"><img src="/images/blank.gif" width="40" height="15" border="0"></td>
-					<td valign="top" align="left" style="padding-top:23px;" width="754">
-                    
-                    
-     				<div id="pageinnerbody">
+		<div class="struct_pagecontent">
+		
+		
+		
+			<div id="pageinnerbody">
                     <!----><!--start printer-friendly content-->
 						
 							
@@ -629,7 +621,7 @@
 		<li>Events: Certain events we hold require you to RSVP through the website if you wish to attend. We use the information that you provide to respond to your request, and to communicate with you about future events.<br>
 			<br>
 		</li>
-		<li>If you contact us using the <a href="http://www.independent.org/aboutus/emailform.asp"><strong>email webform</strong></a>, buy a product in the store, or enter the <a href="/students/essay/"><strong>Templeton Essay Contest</strong></a>, we may add your email address to be a recipient of our various email alerts, our free weekly email newsletter. You are always free to unsubscribe by clicking the link at the bottom of the email newsletter message.<br>
+		<li>If you contact us using the <a href="/aboutus/emailform.as"><strong>email webform</strong></a>, buy a product in the store, or enter the <a href="/students/essay/"><strong>Templeton Essay Contest</strong></a>, we may add your email address to be a recipient of our various email alerts, our free weekly email newsletter. You are always free to unsubscribe by clicking the link at the bottom of the email newsletter message.<br>
 		  <br>
 		</li>
 		<li>The MyCovCost calculator, accisible at <a href="http://www.mygovcost.org"><strong>mygovcost.org</strong></a> and through the MyGovCost mobile iPhone app asks for visitors' age, income, and education and uses this information to calculate the visitor’s share of government spending. Each users' submissions are recorded for reporting and statistical purposes, but not in a way that personally identifies anyone.</li>
@@ -665,28 +657,12 @@
 						
 					<!--end printer-friendly content-->
                     
-                    
-                    <br><br>
-                    </div> <!--pageinnerbody-->
-					</td>
-							
-                  </tr>
-			</tbody></table>
-		</td>
-        
-        <td width="40" style="background-color:#ffffff;"><img src="/images/blank.gif" width="40" height="1" border="0"></td>
-					
-        
-	</tr>
-</tbody></table>
-                    
-                    
-                    	
-                    </div>   <!-- pagebody-->
-					
-					
-					
-				</div>
+                 <br><br>
+				</div> <!--pageinnerbody-->
+			</div> <!--struct_pagecontent -->         	
+		</div>   <!-- struct_body-->
+	</div>   <!-- pagebody-->			
+</div>
                 
                 
                 	
@@ -704,7 +680,7 @@
 					<div class="container">
 						<div class="logo-row"><a href="/"><img width="270" src="/images/design/ii_logo_footer_540x84.png" alt="Picture"></a></div>
 						<ul class="menu-footer">
-							<li><a href="/store/">Product Catalog</a></li>
+							<li><a href="/register/sub_form.asp">Subscribe</a></li>
 							<li><a href="/rss/">RSS</a></li>
 							<li><a href="/aboutus/jobs.asp">Jobs</a></li>
 							<li><a href="/publications/course_adoption.asp">Course Adoption</a></li>
@@ -720,7 +696,7 @@
 				<div class="footer2">
                 	<div class="container">
                     	<div class="copyright-box">
-							<p class="copyright">© INDEPENDENT INSTITUTE, 100 SWAN WAY, OAKLAND CA 94621-1428 | (510) 632-1366 | (510) 568-6040 FAX | <a href="http://www.independent.org/aboutus/emailform.asp">SEND EMAIL</a></p>
+							<p class="copyright">© 2017 INDEPENDENT&nbsp;INSTITUTE, 100&nbsp;SWAN&nbsp;WAY,&nbsp;OAKLAND&nbsp;CA&nbsp;94621‑1428 | (510)&nbsp;632‑1366 | (510)&nbsp;568‑6040&nbsp;FAX | <a href="http://www.independent.org/aboutus/emailform.asp">SEND&nbsp;EMAIL</a></p>
 							
 						</div>
                     
@@ -731,17 +707,18 @@
                 </div>
     
     
-	<script defer="" src="/_design_fixed/js/jquery.mobile.custom.min.js"></script>
-	<script defer="" type="text/javascript" src="/_design_fixed/js/main.js"></script>
+	<script defer="" src="/_design_responsive/js/jquery.mobile.custom.min.js"></script>
+	<script defer="" type="text/javascript" src="/_design_responsive/js/main.js"></script>
 	
     
     
+	
+	<!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com --><script>var om5966b8f88cece,om5966b8f88cece_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){om5966b8f88cece_poll(function(){if(window['om_loaded']){if(!om5966b8f88cece){om5966b8f88cece=new OptinMonsterApp();return om5966b8f88cece.init({"s":"18926.5966b8f88cece","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;om5966b8f88cece=new OptinMonsterApp();om5966b8f88cece.init({"s":"18926.5966b8f88cece","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster -->
+	
+	
+	
     
-    
-    <!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><script>var om573b99b3d12bb,om573b99b3d12bb_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){om573b99b3d12bb_poll(function(){if(window['om_loaded']){if(!om573b99b3d12bb){om573b99b3d12bb=new OptinMonsterApp();return om573b99b3d12bb.init({"s":"18926.573b99b3d12bb","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;om573b99b3d12bb=new OptinMonsterApp();om573b99b3d12bb.init({"s":"18926.573b99b3d12bb","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster -->
-    
-    
-    
+</div>  <!--main-wrapper-->
     
 	
 
