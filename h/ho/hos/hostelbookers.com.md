@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624125107id_/http%3A//www.hostelbookers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115205646id_/https%3A//www.hostelbookers.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Information - HostelBookers
 
@@ -61,7 +61,7 @@ We offer you the opportunity to post reviews of the accommodation you book throu
 
 #### Website Testing
 
-We use various technologies to allow us to test how the Hostelbookers Sites operate and allow us to improve our services. Further details of such tests are available at [http://www.hostelbookers.com/website-testing/](https://web.archive.org/website-testing/). 
+We use various technologies to allow us to test how the Hostelbookers Sites operate and allow us to improve our services. Further details of such tests are available at [https://www.hostelbookers.com/website-testing/](https://web.archive.org/website-testing/). 
 
 #### Your Access And Amendment Rights
 
