@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607223011id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115034349id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.*
 
 # Jones Day | Privacy
 
