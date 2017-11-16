@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tibia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093421id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tibia.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116043529id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Tibia - Free Multiplayer Online Role Playing Game - Support
 
