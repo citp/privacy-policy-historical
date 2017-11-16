@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608201355id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117001932id_/https%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UKTV
 
@@ -106,7 +106,7 @@ We may also your personal information for other purposes with your consent or as
 
 ### Marketing Communications
 
-As mentioned above, we and/or selected third parties may contact you with information about offers, products and services that might be of interest to you. At the time that you provide your information to us, you will be given the opportunity to indicate whether or not you are happy for us to use your personal information in order to tell you about our offers, products or services. If you wish to stop receiving direct marketing communications at any time or you would like us to stop using your personal data for profiling and targeted advertising purposes, you can send us an email at [viewers@uktv.co.uk](https://web.archive.org/web/20170608201355id_/https://network.uktv.co.uk/article/privacy-policy/viewers@uktv.co.uk). Please note that if you opt out of profiling and targeted advertising, this does not mean that you will receive less advertising when you use our UKTV Digital Services. This just means that the advertising you see may not be as relevant to you.
+As mentioned above, we and/or selected third parties may contact you with information about offers, products and services that might be of interest to you. At the time that you provide your information to us, you will be given the opportunity to indicate whether or not you are happy for us to use your personal information in order to tell you about our offers, products or services. If you wish to stop receiving direct marketing communications at any time or you would like us to stop using your personal data for profiling and targeted advertising purposes, you can send us an email at [viewers@uktv.co.uk](mailto:viewers@uktv.co.uk). Please note that if you opt out of profiling and targeted advertising, this does not mean that you will receive less advertising when you use our UKTV Digital Services. This just means that the advertising you see may not be as relevant to you.
 
 Where you have provided us with consent, you agree that we may contact you directly by the available method of communication nominated by you - post, email, telephone, SMS, or by any other specified method of communication.
 
@@ -160,11 +160,11 @@ Please note that there are exceptions to this right, so that access may be denie
 
 ### Keeping Your Personal Information Accurate and Up-to-Date
 
-We encourage you also to contact us at viewers@uktv.co.uk to let us know if any of your personal information is not accurate or changes, so that we can keep your personal information up-to-date. You can also review and correct/update some of your personal information by logging-in to your account and going to your profile page, if you have registered on one of the UKTV Digital Services.
+We encourage you also to contact us at [viewers@uktv.co.uk](mailto:viewers@uktv.co.uk) to let us know if any of your personal information is not accurate or changes, so that we can keep your personal information up-to-date. You can also review and correct/update some of your personal information by logging-in to your account and going to your profile page, if you have registered on one of the UKTV Digital Services.
 
 ### Objecting to data processing
 
-In certain circumstances, you also have the right to object to processing of your personal information and to ask us to block, erase and restrict your personal information. If you would like us to stop using your personal information (including for marketing, profiling or targeted advertising purposes), you can email us at [viewers@uktv.co.uk](https://web.archive.org/web/20170608201355id_/https://network.uktv.co.uk/article/privacy-policy/viewers@uktv.co.uk).
+In certain circumstances, you also have the right to object to processing of your personal information and to ask us to block, erase and restrict your personal information. If you would like us to stop using your personal information (including for marketing, profiling or targeted advertising purposes), you can email us at [viewers@uktv.co.uk](mailto:viewers@uktv.co.uk).
 
 Please note that there are exceptions to these rights, if, for example, we are under a legal obligation to continue to process your personal data.
 
@@ -180,7 +180,7 @@ If our privacy policy changes in any way, we will place an updated version on th
 
 You may contact us as follows:
 
-  * Email: [viewers@uktv.co.uk](https://web.archive.org/web/20170608201355id_/https://network.uktv.co.uk/article/privacy-policy/viewers@uktv.co.uk)
+  * Email: [viewers@uktv.co.uk](mailto:viewers@uktv.co.uk)
   * Post: UKTV, PO BOX 6996, Cardiff, CF15 5DS
   * Phone: 020 3192 0504
 
