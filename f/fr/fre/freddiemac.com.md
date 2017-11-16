@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125127id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116040525id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Freddie Mac Privacy Policy
 
@@ -70,4 +70,4 @@ We reserve the right to change this policy in the future. Any changes to this po
 
 If you have a question about the way your information is used or about our information practices, please contact us by sending an email to [privacy_mailbox@freddiemac.com](mailto:privacy_mailbox@freddiemac.com).
 
-Last updated: December 9, 2015
+Last Reviewed: November 14, 2017
