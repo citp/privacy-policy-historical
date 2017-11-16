@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winnipeg.ca privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622161950id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnipeg.ca privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116121252id_/http%3A//winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.*
 
 # Privacy - Connect With Us - City of Winnipeg
 
@@ -32,8 +32,8 @@ The City values your privacy. We do not sell or share your personal information 
 
 From time to time, the City may include additional messages of interest to email newsletter subscribers. You may unsubscribe or change your subscription options at any time by going to the [Email News Listing](https://web.archive.org/WpgMail/subscribe_all.stm) page.
 
-If you have any questions, please read our [Conditions of Use](https://web.archive.org/interhom/conditions_of_use/default.stm) or contact the City's [Corporate Web Manager](https://web.archive.org/shared/htmlsnippets/MailForm.asp?Recipient=webmanager&Title=Corporate%20Web%20Manager&Note=Use%20this%20form%20to%20contact%20the%20City%20of%20Winnipeg%20Web%20Manager%20regarding%20the%20Winnipeg.ca%20website.).
+If you have any questions, please read our [Conditions of Use](https://web.archive.org/interhom/conditions_of_use/default.stm) or contact the City's [Corporate Web Manager](https://web.archive.org/shared/mailforms/city/contact.asp?Recipient=webmanager&Title=Corporate%20Web%20Manager&Note=Use%20this%20form%20to%20contact%20the%20City%20of%20Winnipeg%20Web%20Manager%20regarding%20the%20Winnipeg.ca%20website.%20For%20all%20other%20enquiries,%20contact%20311.).
 
 Last update: 
 
-April 28, 2017
+October 26, 2017
