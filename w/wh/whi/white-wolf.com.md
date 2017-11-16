@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the white-wolf.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614105037id_/http%3A//www.white-wolf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the white-wolf.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116121151id_/http%3A//www.white-wolf.com/privacy) for the most accurate reproduction.*
 
 # Privacy - White Wolf Publishing
 
