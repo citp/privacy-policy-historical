@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roccat.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073101id_/http%3A//www.roccat.org/en-US/Home/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roccat.org privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116141050id_/https%3A//www.roccat.org/en-US/Home/Privacy-Policy) for the most accurate reproduction.*
 
 # ROCCAT® – Set the Rules » Privacy Policy
 
