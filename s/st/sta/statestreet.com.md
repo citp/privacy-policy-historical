@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statestreet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024648id_/http%3A//www.statestreet.com/content/ssbsr/en_US/utility/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statestreet.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116195636id_/http%3A//www.statestreet.com/content/ssbsr/en_US/utility/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice | State Street Corporation
 
