@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the talismanonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164111id_/http%3A//www.talismanonline.com/support_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talismanonline.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116050435id_/http%3A//www.talismanonline.com/support_policy.html) for the most accurate reproduction.*
 
 # Talisman Online - Privacy Policy
 
 Privacy Policy
 
-**MiraGame** (Miracle Castle Limited) is dedicated to protecting the privacy rights of our users. This Privacy Policy describes the ways we collect, store, use, and manage the information you provide in connection with our website at www.MiraGame.com or any MiraGame’s game or application provided on other websites or other third party sources. Please note that the scope of this Privacy Policy is limited to information collected by MiraGame through your use of the service.
+**MiraGame** (Miracle Castle / Xingwan) is dedicated to protecting the privacy rights of our users. This Privacy Policy describes the ways we collect, store, use, and manage the information you provide in connection with our website at www.MiraGame.com or any MiraGame’s game or application provided on other websites or other third party sources. Please note that the scope of this Privacy Policy is limited to information collected by MiraGame through your use of the service.
 
 By using the service, you are agreeing to the collection and use of your information as outlined in this Privacy Policy. We may update this Privacy Policy from time to time. You are responsible for periodically reading this Privacy Policy. If you use our service after we have updated this Privacy Policy, you acknowledge that you have read the updated terms and consent to our revised privacy practices. Use of the service after changes are made to the Privacy Policy will be considered your consent to the new terms.
 
@@ -43,4 +43,4 @@ The service is not geared toward children under the age of 14 and we do not know
 While this Privacy Policy states standards for maintenance of data, and while efforts will be made to meet these standards, MiraGame does not guarantee that it will comply with these standards. There may be factors beyond our control that may result in disclosure of data. Consequently, we offer no warranties or representations regarding the maintenance or non-disclosure of data. 
 
 **Contacting Us**  
-If you have any questions about this Privacy Policy, please contact us at [support@miragame.com](mailto:support@miragame.com). 
+If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#681b1d1818071a1c2805011a090f09050d460b0705). 
