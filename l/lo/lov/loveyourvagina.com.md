@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveyourvagina.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054042id_/http%3A//www.mooncup.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveyourvagina.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116105305id_/http%3A//www.mooncup.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Mooncup
 
@@ -9,7 +9,7 @@ PRIVACY AND COOKIES POLICY**
 
 We are committed to protecting your privacy. We are required by law to provide you with certain information about what we do with any personal data we collect from you, or that you provide to us, so that is the purpose of this Policy. If you have any questions or comments about anything in this Policy you can write to us at Vantage Point, New England Road, Brighton BN1 4GW (for the attention of Simon Boyd-Jones) or email us at quality@mooncup.co.uk.
 
-By visiting [www.mooncup.co.uk](http://www.mooncup.co.uk/)  or any international version of our site, or by otherwise contacting us, you consent to our collection and use of your personal data in accordance with this Policy.
+By visiting [www.mooncup.co.uk](https://www.mooncup.co.uk/)  or any international version of our site, or by otherwise contacting us, you consent to our collection and use of your personal data in accordance with this Policy.
 
 In this Privacy and Cookies Policy, references to “ **Mooncup** ”; “ **we** ”; “ **us** ”; and “ **our** ” are references to Mooncup Limited, registered in England with registered office at The Old Casino, 28 Fourth Avenue, Hove, East Sussex BN3 2PJ.
 
