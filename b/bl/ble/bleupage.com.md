@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleupage.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612065141id_/http%3A//www.bleupage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleupage.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116122809id_/http%3A//www.bleupage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bleupage
 
