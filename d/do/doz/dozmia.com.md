@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dozmia.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607024353id_/http%3A//dozmia.com/documents/DOZMIA_Privacy%2520Policy_09.03.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dozmia.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116082625id_/http%3A//dozmia.com/documents/DOZMIA_Privacy%2520Policy_09.03.pdf) for the most accurate reproduction.*
 
 # DOZMIA PRIVACY POLICY
 
