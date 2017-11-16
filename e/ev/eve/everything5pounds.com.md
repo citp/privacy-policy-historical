@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the everything5pounds.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013174311id_/http%3A//www.everything5pounds.com/en/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everything5pounds.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116100050id_/https%3A//www.everything5pounds.com/en/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies | Everything 5 Pounds
+# Privacy & Cookies | everything5pounds
+
+Skip to content Skip to navigation
 
 ## PRIVACY POLICY
 
-Everything5pounds ("we") are committed to protecting and respecting your privacy.
+Everything5pounds Tech UK Limited ("we") are committed to protecting and respecting your privacy.
 
 This privacy policy together with our User [Terms and Conditions,](https://www.everything5pounds.com/en/terms-conditions) (the "Terms") and any other documents referred to in the terms sets out the basis on which any personal data we collect from you (the "user" or "customer"), or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.everything5pounds.com (referred to as "our website") you are accepting and consenting to the practices described in this policy.
 
-For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Everything5pounds, a company incorporated and registered in England with company number 09229268, whose registered address is 12 Castlehaven Road, London NW1 8QW.
+For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Everything5pounds Tech UK Limited, a company incorporated and registered in England with company number 09229268, whose registered address is 12 Castlehaven Road, London NW1 8QW.
 
 1\. INFORMATION WE MAY COLLECT FROM YOU
 
@@ -90,7 +92,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 6\. YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us via our [Contact Us](https://www.everything5pounds.com/en/contact-us) page .
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us via our [Contact Us](https://www.everything5pounds.com/en/contact-us) page . 
 
 Our website may, from time to time, contain links to and from the websites of our partners, affiliates, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content on these websites and we are not responsible for the practices employed by them. If you follow a link to any of these websites, please note that these websites have their own privacy and customer support policies and we do not accept any responsibility or liability for these policies. Please carefully check these policies before you submit any personal data to these websites.
 
