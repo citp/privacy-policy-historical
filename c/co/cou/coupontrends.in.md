@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupontrends.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093309id_/http%3A//www.coupontrends.in/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupontrends.in privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116171807id_/http%3A//www.coupontrends.in/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy- CouponTrends
 
