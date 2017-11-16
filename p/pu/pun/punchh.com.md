@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchh.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607185230id_/https%3A//punchh.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchh.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116012059id_/http%3A//punchh.com/privacy_policy) for the most accurate reproduction.*
 
 # Punchh : Privacy Policy
 
