@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bundesliga.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208082655id_/http%3A//www.bundesliga.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundesliga.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116134003id_/http%3A//www.bundesliga.com/en/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - bundesliga.com
-
-**Data Protection Policy Statement**
+# Privacy Statement | bundesliga.com
 
 DFL Deutsche Fußball Liga GmbH, Guiollettstr. 44-46, D-60325 Frankfurt am Main ( **"DFL"** ) collects, processes and uses personal data which has been captured from visits to the websites www.bundesliga.de and www.bundesliga.com (collectively the **"website"** ) in compliance with the applicable data protection provisions of the Federal Republic of Germany. This Data Protection Policy Statement sets out which visitor ( **"user"** ) data is captured on the website and how this information is processed and used.
 
@@ -29,13 +27,81 @@ The collection, processing and use of this information is solely for the purpose
 
 With regard to data collection, processing, and use for the purpose of optimizing the website through web analytics and the creation of user profiles, additional reference is made to Section 4 of this Data Protection Policy Statement.
 
- **3\. Data collection, processing and use within the scope of the services offered on the website**
+ **3\. Data collection, processing and use within the scope of the Services offered on the Website**
 
-The use of certain services on the website, such as the newsletter or the football **prediction game** , requires prior registration, including the submission of personal data (name, residential address, telecommunications data, etc.) by the user.
+The use of certain services on the Website, especially the Bundesliga Newsletter, the Official Fantasy Bundesliga and the Official Bundesliga Predictor, as well as newsletters with product information and other information from partners and licensees of the DFL, requires prior registration, including the submission of personal data (name, residential address, telecommunications data, etc.) by the User (" **Services** ").
 
-The collection, processing and use of personal data is carried out solely for the purpose of allowing users to select the necessary information and services and only in the manner and extent to which the user has given prior express consent.
+The collection, processing and use of these personal data are carried out solely for the purpose of providing the User with the information and Services and only in the manner and extent to which the User has given prior express consent.
 
-Any further use of such personal data for the purpose of sending additional product and service offerings, especially by DFL's cooperation partners, only takes place if the user has given prior express consent. The user can revoke consent at any time with effect for the future.
+Any further use of such personal data for the purpose of sending additional product and service offerings, especially by DFL's cooperation partners, only takes place if the user has given prior express consent. The User can revoke consent at any time with effect for the future.
+
+The following is a description of the basis of the data processing for the Services that are subject to registration:
+
+ **3.1 Registration and Login**
+
+The DFL uses the Customer Identity Management Platform provided by Gigya Inc., 855 El Camino Real, Palo Alto, CA 94301 (" **Gigya** ") for the registration for the Services and the login. The use of these data will only be processed for the purposes of enabling the use and the technical administration of the Service(s) selected by the User. The legal basis for processing is § 4 para. 1 German Data Protection Act [Bundesdatenschutzgesetz, "BDSG"] (consent) and § 28 para. 1 sentence 1 no. 1 BDSG (contract performance).
+
+ **3.2 Social Logins**
+
+The social login function which is also provided by Gigya allows the User to log in with his/her social media account at Facebook or Twitter. The legal basis for processing is § 4 para. 1 BDSG (consent). The following privacy notices regarding the data transmission apply in addition to Clause 5 of this Privacy Statement for sharing the Website’s content.
+
+ **3.2.1 Facebook** If the User logs in using Facebook, the following data transfers will take place: 
+
+  * The transmission of information and user data (visited pages, activated fields) to Facebook, with the possibility for Facebook to merge these data with the data relating to the User. Data will then also be transmitted to the US with possible data access by national security authorities without ensuring an European level of data protection. Facebook is a registered member of the [EU-US Privacy Shield](https://www.privacyshield.gov/list)
+  * The transmission of certain information from the User’s Facebook account to the DFL with the consequence that in addition to the data outlined in this Privacy Statement (IP address), the following information is transmitted to the DFL:
+
+
+
+-       Profile picture,
+
+-       first name and last name,
+
+-       email address,
+
+-       birth date,
+
+-       city,
+
+-       country,
+
+-       gender,
+
+-       language and
+
+-       time zone.
+
+IF THE USER DOES NOT WANT TO SHARE THIS INFORMATION, THE USER SHOULD USE THE REGULAR LOGIN VIA THE PASSWORD GENERATED BY HIM OR HER. 
+
+ **3.2.2 Twitter**
+
+If the User logs in using Twitter, the following data transfers will take place:
+
+  * The transmission of information and user data (visited pages, activated fields) to Twitter with the possibility for Twitter to merge these data with the data relating to the User. Data will then also be transmitted to the US with possible data access by national security authorities without ensuring an European level of data protection. Twitter is a registered member of the [EU-US Privacy Shield](https://www.privacyshield.gov/list).
+  * The transmission of certain information from the User’s Twitter account to the DFL with the consequence that in addition to the data (IP address) outlined in this Privacy Statement (IP address) the following information is transmitted to the DFL:
+
+
+
+-       Profile picture,
+
+-       first name and last name and
+
+-       country
+
+IF THE USER DOES NOT WANT TO SHARE THESE INFORMATION THE USER SHOULD USE THE REGULAR LOGIN VIA THE PASSWORD GENERATED BY HIM OR HER. 
+
+ **3.3 "Keep me logged in" Function**
+
+When the User selects the function "Remember me", his/her login (email address, password) will be stored. After the end of a session (either through logging out or by clearing the User's browser’s history and cache) or at least after six months, the User must log in again. In order to prevent unauthorized account access, the User should not choose this function on a computer or device also used by others. If the User does not select this function, the User will be logged out automatically when closing his/her browser.
+
+ **3.4 Special terms and conditions for specific services**
+
+ **3.4.1 Newsletter**
+
+The User has been informed in detail about the nature, scope, location and purpose of the collection, processing and use of the personal data. The users of the Bundesliga Newsletter are assigned a UserID, which allows the DFL to determine when the respective Bundesliga Newsletter was opened and which links or functions from the respective Bundesliga Newsletter were activated. This tracking (tracing) takes place for the internal optimization of the Bundesliga Newsletter. These data will not be disclosed. The legal basis for this data processing is § 15 para. 3 German Telemedia Act ["Telemediengesetz", TMG]. If the User of the Bundesliga Newsletter does not want this tracking to take place, he/she can unsubscribe from the Bundesliga Newsletter.
+
+ **3.4.2 Official Fantasy Bundesliga and Official Bundesliga Predictor**
+
+The User has agreed that in a case of winning, his/her first name and the first letter of his/her surname, as well as the country will be published in the official tele-media and/or social media of DFL, as well as that the ranking lists of the Official Fantasy Bundesliga and the Official Bundesliga Predictor are available on the Website. Regarding the Official Bundesliga Predictor this also applies to the Users' predictions.
 
  **4\. Data collection, processing and use in the context of web analytics, creation of user profiles and measuring range**
 
@@ -91,34 +157,40 @@ In order to prevent any unwanted transmission of users' data to Facebook, Twitte
 
 **6\. Live blogs and news tickers**
 
-The DFL uses the service “ScribbleLive” from Scribble, Inc. (Canada) (“Scribble”) and "LiveBlogging" from deltatre AG Germany for content involving live blogs or news tickers.
+The DFL uses the service "ScribbleLive" from Scribble, Inc. (Canada) ("Scribble") for content involving live blogs or news tickers.
 
 When a User visits a page with a live blog or news ticker, his/her browser establishes a direct link to Scribble’s server. The User’s IP address and other device-related information are communicated. Scribble and any of its sub-processors have pledged to abide by European data protection laws. The live blog or news ticker also places temporary cookies on the User’s hard drive. This allows the User to take advantage of the live blog or news ticker’s interactive features. Tracking cookies, which allow the formation of user profiles, are not employed on the Website where the ScribbleLive service is embedded.
 
- **7\. Purpose of processing and use of personal data**
+ **7\. Feedback service**
 
-Any processing or use of a user's personal data is only for the purposes stated in this Data Protection Policy Statement and only to the extent necessary to achieve the respective purposes.
+The DFL uses the feedback service "Usabilla for Websites" from Usabilla B.V. (Netherlands) ("Usabila") to collect feedback from Users and to improve the website. When a User utilizes the feedback button, a cookie will be placed on the computer and the User's browser establishes a direct link to Usabilla's server and the User's IP address, as well as other device-related information are communicated. Further details can be found Usabilla's privacy policy under: <https://usabilla.com/privacy>
 
-Personal data will not be published by DFL, nor will it be passed on to third parties without authorisation.
+**8\. Online quizzes, surveys and other interactive content**
 
-Transmission of personal data to government institutions and authorities will only be carried out within the framework of mandatory national legislation or if the transmission is necessary for legal or law enforcement purposes as a result of attacks on the network infrastructure.
+The DFL uses a plugin from Apester Ltd. (Tel Aviv) (" **Apester** ") to create and to offer online quizzes, surveys and other interactive content. If a User participates in such an online quiz, survey or other interactive content, Apester could collect certain information (e.g. IP addresses, device-related information) which can be considered as personal data under the applicable data privacy laws.
 
- **8\. Retention and deletion of personal data**
+Further information about the collection and of the processing of this information through Apester can be found under the following link: <http://apester.com/privacy/>
+
+**9\. Purpose of processing and use of personal data**
+
+Any processing or use of a user's personal data is only for the purposes stated in this Data Protection Policy Statement and only to the extent necessary to achieve the respective purposes. Personal data will not be published by DFL, nor will it be passed on to third parties without authorisation. Transmission of personal data to government institutions and authorities will only be carried out within the framework of mandatory national legislation or if the transmission is necessary for legal or law enforcement purposes as a result of attacks on the network infrastructure.
+
+ **10\. Retention and deletion of personal data**
 
 As soon as it is no longer needed for the purposes for which it was collected or as soon as the User requests so, all personal data stored and all pseudonymised usage data will be directly and irretrievably deleted; this will be the case, provided that the DFL is not under a statutory duty to store the data. If the DFL is under a statutory duty to store the data, the stored personal information and the pseudonymised usage data will be permanently deleted upon expiry of the relevant statutory retention periods.
 
- **9\. Security**
+ **11\. Security**
 
 The DFL uses technical and organisational security measures to protect the personal data of Users from accidental or intentional manipulation, loss, destruction, or access by unauthorized persons. These security measures are continually being updated in line with technological developments.
 
- **10\. Links to other websites**
+ **12\. Links to other websites**
 
 The website may contain links to other websites. This Data Protection Policy Statement applies solely to the website of DFL. The DFL has no influence over, and does not control whether other providers comply with applicable data protection provisions.
 
- **11\. Right of information, rectification, blocking or deletion of data**
+ **13\. Right of information, rectification, blocking or deletion of data**
 
 Users of the website have a right to receive information with regard to the personal data collected concerning them. They also have a right to rectification of inaccurate data, as well as blocking or deletion of data. To contact DFL, click [here](mailto:info@bundesliga.com?subject=Data%20Protection).
 
- **12\. Acceptance, validity, and timeliness of the Data Protection Policy Statement**
+ **14\. Acceptance, validity, and timeliness of the Data Protection Policy Statement**
 
-By using the website, the user agrees to the collection, processing, and use of his/her data, as described in this Data Protection Policy Statement. This Data Protection Policy Statement is currently valid and dated as of 28 November 2016. DFL reserves the right to change this Data Protection Policy Statement at any time as needed with effect for the future, especially in order to adapt it to the further development of the website or the implementation of new technologies.
+By using the website, the user agrees to the collection, processing, and use of his/her data, as described in this Data Protection Policy Statement. This Data Protection Policy Statement is currently valid and dated as of 26 July 2017. DFL reserves the right to change this Data Protection Policy Statement at any time as needed with effect for the future, especially in order to adapt it to the further development of the website or the implementation of new technologies.
