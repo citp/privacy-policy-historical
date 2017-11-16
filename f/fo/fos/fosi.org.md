@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fosi.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604081904id_/https%3A//www.fosi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fosi.org privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116235900id_/https%3A//www.fosi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Back to Top
 
 ###  Q2. What types of information do we collect about you?
 
-With the exception of your Internet Protocol (IP) address, we do not require personal information to access our website. If you prefer not to disclose personal information, you may not be able to enjoy certain features of our website. Personal information is information that identifies you and may be used to contact you.
+With the exception of your Internet Protocol (IP) address, we do not require personal information to access our website. If you prefer not to disclose personal information, you may not be able to enjoy certain features of our website. Personal information is information that identifies you and may be used to contact you.  Your browser may allow you to set a Do Not Track (DNT) signal indicating that you do not wish your online activity to be tracked. Currently, our system does not support and acts act on DNT signal headers that we may receive. However, the choices that we provide you concerning collection and use of your Personal Information will continue to operate as described in this Privacy Policy.
 
 #### Children
 
@@ -131,7 +131,7 @@ Our company does not share and has not reserved the right to share personal or d
 We will disclose personal information when we believe in good faith that disclosure is required by law (e.g., court order or subpoena) or help enforce:  
 
 
-  1. our Terms of Use, or contest, sweepstakes, promotions, or game rules;  
+  1. our contest, sweepstakes, promotions, or game rules;  
 
   2. protect your safety or security, including the safety and security of your property; or  
 
