@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134413id_/http%3A//www.abcsignup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116231958id_/http%3A//www.abcsignup.com/privacy) for the most accurate reproduction.*
 
 # Registration Software | Privacy | ABC Signup
 
@@ -36,4 +36,4 @@ JTC Technologies, LLC
 6060 Dutchmans Lane, Suite 250   
 Louisville KY 40205 US   
 502-454-2850   
-jtctech@jtctech.com 
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) 
