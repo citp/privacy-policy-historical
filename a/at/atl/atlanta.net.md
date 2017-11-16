@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080632id_/http%3A//www.atlanta.net/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116203349id_/http%3A//www.atlanta.net/Privacy-Policy) for the most accurate reproduction.*
 
 # Atlanta.net Privacy Policy
 
 ## Atlanta Convention and Visitors Bureau Privacy Policy
 
-**This Privacy Policy was last updated on February 26, 2015.**
+**This Privacy Policy was last updated on April 14, 2017.**
 
 This Privacy Policy is provided by the Atlanta Convention and Visitors Bureau ("ACVB") for the websites operated by the ACVB (the "ACVB Websites"), and covers all of the ACVB Websites generally, including Atlanta.net, Atlantameetings.com, IAMATL.net, ATLFiles.com and any associated content, features and functionality including email and RSS feeds made available on the ACVB Websites. The ACVB respects the privacy and confidentiality of individuals who visit the ACVB Websites and maintains this Privacy Policy to help you understand the commitment of ACVB to safeguard the privacy of the information you provide to the ACVB on the ACVB Websites. This Privacy Policy outlines the information that ACVB will collect from you on the ACVB Websites and how the ACVB will use that information.
 
-**Collection of Your Personal Information by ACVB**
+**Collection of Your Personal Information by ACVB; Use of Cookies and Tracking Tools**
 
 The ACVB's mission is to provide you with personalized services and offerings designed to enhance your Atlanta experience. To do so effectively, ACVB collects the following information:
 
 (a) Personally Identifiable Information. ACVB, through the use of the ACVB Websites, only collects personally identifiable information about you when you voluntarily provide such personally identifiable information to ACVB using the ACVB Websites. If you do not want your personally identifiable information to be collected, please do not submit it.
 
-(b) Information from the Use of "Cookies," Local Storage, and Other Tracking Tools. The ACVB Websites employ "cookie" and pixel technology, Local Storage, and other tracking tools. Cookies and pixels are small pieces of data stored in files on your computer allowing the ACVB Websites to track your use of the ACVB Websites as you visit and revisit such websites. The use of cookies by the ACVB Websites complies with generally accepted programming standards and practices. Please note that you can choose to block the use of cookies and pixels through settings in your web browser but be advised that certain features of the ACVB Websites may not work properly without the use of cookies or pixels. The ACVB Websites are not set up to honor web browser do-not-track settings. “Local Storage” is similar to cookies and provides a way for a website to collect and store information "locally" (i.e., on the user's device rather than on the website’s server) and retrieve it later. Although Local Storage data is not typically sent to a website's servers, in some instances, we may transmit Local Storage data to our servers for the purpose of improving your experience on the ACVB Websites.
+(b) Information from the Use of "Cookies," Local Storage, and Other Tracking Tools. The ACVB Websites employ "cookie" and pixel technology, Local Storage, and other tracking tools. Cookies and pixels are small pieces of data stored in files on your computer allowing the ACVB Websites to track your use of the ACVB Websites as you visit and revisit such websites. The use of cookies by the ACVB Websites complies with generally accepted programming standards and practices. Please note that you can choose to block the use of cookies and pixels through settings in your web browser but be advised that certain features of the ACVB Websites may not work properly without the use of cookies or pixels. The ACVB Websites are not set up to honor web browser do-not-track settings. “Local Storage” is similar to cookies and provides a way for a website to collect and store information "locally" (i.e., on the user's device rather than on the website’s server) and retrieve it later. Although Local Storage data is not typically sent to a website's servers, in some instances, we may transmit Local Storage data to our servers for the purpose of improving your experience on the ACVB Websites. 
+
+**CALIFORNIA DO-NOT-TRACK DISCLOSURE**
+
+At this time, the ACVB Websites are not set up to honor web browser do-not-track settings. 
 
 **Use of Your Information by ACVB**
 
@@ -49,6 +53,14 @@ We offer free, electronic newsletters, updates and e-mail reminders as a service
 **Children’s Privacy and ACVB Website Age Limitations**
 
 The ACVB Websites are intended for use by persons aged 18 or older. The ACVB does not knowingly allow use of the ACVB Websites by any person that the ACVB believes to be younger than 18. The ACVB also does not collect any personally identifiable information from any persons under the age of 18 and if we discover that we have been provided any such information, we will delete this information from our records.
+
+**ADDITIONAL NOTICES TO CALIFORNIA RESIDENTS**
+
+_Information on Marketing Disclosures  
+_California Civil Code Section 1798.83 permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us at: Atlanta Convention & Visitors Bureau, Attn: Privacy Policy Compliance, 233 Peachtree Street, N.E., Suite 1400, Atlanta, GA 30303.
+
+_Content Removal Requests for Users Under 18 Years Old_  
+If you are a user under 18 years of age and reside in California, you may request and obtain removal of, content or information that you have posted on the ACVB Websites. You may send us any such requests by one of the following methods: (i) by email (writing “Privacy Policy – Removal Request” in the subject line) at [privacy@atlanta.net](mailto:privacy@atlanta.net); or (ii) by writing to us at Atlanta Convention & Visitors Bureau, Attn: Privacy Policy Compliance, 233 Peachtree Street, N.E., Suite 1400, Atlanta, GA 30303. We will review the request and respond promptly. You should be aware that a request to remove content or information posted by you on the Website does not ensure or require complete or comprehensive removal of such content or information from our databases.
 
 **Contests and Promotions**
 
