@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comparometer.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041019id_/http%3A//www.comparometer.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparometer.in privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116172659id_/http%3A//www.comparometer.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Comparometer always respects your Privacy and we use the best IT security measures to keep all your personal information safe and protected. We At comparometer.IN want you to know how, what and when we collect and use information that you decide to share with us while using comparometer. in such as your name, mailing address, phone number, and email address ("personal information"). If we make any changes to our privacy policy, we will post a revised Privacy Policy on this page. If you have any questions, please contact us at: wecare@comparometer.in By using/browsing/registering with comparometer.in and by submitting your personal data on the Website, you agree to be bound by this Privacy Policy.
+Comparometer always respects your Privacy and we use the best IT security measures to keep all your personal information safe and protected. We At comparometer.IN want you to know how, what and when we collect and use information that you decide to share with us while using comparometer. in such as your name, mailing address, phone number, and email address ("personal information"). If we make any changes to our privacy policy, we will post a revised Privacy Policy on this page. If you have any questions, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) By using/browsing/registering with comparometer.in and by submitting your personal data on the Website, you agree to be bound by this Privacy Policy.
 
 ###  How we collect information
 
@@ -52,4 +52,4 @@ All content of this website, including, but not limited to, artwork, graphics, i
 
 We may not be able to serve the children below 18 years old. We may not collect any information for a child below 18 years knowingly. We respect & feel our social responsibility towards children below 18 years; therefore the website may not allow kids below 18 to create an account with us. If you think we have fallen short at any time, we would love to hear from you - you can be sure we will always listen and work to put it right.
 
-Please feel free to contact us at: wecare@comparometer.in
+Please feel free to contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
