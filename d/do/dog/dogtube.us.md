@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtube.us privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417045531id_/http%3A//www.dogtube.us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtube.us privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116044422id_/http%3A//www.dogtube.us/privacy-policy.html) for the most accurate reproduction.*
 
 # Dog Tube :: PRIVACY POLICY
 
