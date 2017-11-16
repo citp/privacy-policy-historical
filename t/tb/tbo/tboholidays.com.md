@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tboholidays.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517141512id_/http%3A//www.tboholidays.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tboholidays.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116074518id_/https%3A//www.tboholidays.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# TBO Holidays
 
 **Overview**
 
@@ -33,4 +33,4 @@ You can access all your personally identifiable information that we collect onli
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please **call us at +9714-4357520** or send us an email at **Operation[Support:ops@tboholidays.com](mailto:Support:ops@tboholidays.com)**, Technical Support:[ **support@tboholidays.com**](mailto:support@tboholidays.com)
+Should you have other questions or concerns about these privacy policies, please **call us at +9714-4357520** or send us an email at **Operation[Support:ops@tboholidays.com](mailto:Support:ops@tboholidays.com)**, Technical Support:[ **support@tboholidays.com"**](mailto:support@tboholidays.com)
