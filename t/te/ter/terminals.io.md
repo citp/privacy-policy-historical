@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the terminals.io privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104134007id_/https%3A//www.terminals.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terminals.io privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116163417id_/https%3A//www.terminals.io/privacy) for the most accurate reproduction.*
 
-# Evolve Terminal: Privacy Policy
+# Privacy Policy | Terminals by Evolve PR
 
 ##  Our privacy policy 
 
@@ -16,7 +16,7 @@ In describing the information we collect, the term "personal information" refers
 
 We receive and store any information you voluntarily communicate to us in connection with your use of our Site or which you may voluntarily communicate to us in any other fashion. You may choose not to provide certain information we request from you. However, if you so elect, we may not be able to provide our products and services, and you might not be able to access or take full advantage of the features and functionality of the Site. Once you initiate a voluntary transaction, we will ask you for certain information depending upon the nature of the transaction in question. For example: 
 
-  * When you request to create an account, we ask for your name, e-mail address and your location.
+  * When you request to create an account, we ask for your name, email address and your location.
   * When you submit a request to receive our newsletter, we ask for your email address to deliver the newsletter.
   * When you have signed up and if there is an offer to send a welcome package, we may ask you for your phone number and mailing address
   * When you participate in social actions or discussions on the Site, any information posted in these areas of the Site becomes public information, and you should exercise care when disclosing personal information.
@@ -62,7 +62,7 @@ The information that we collect from you via the Site and otherwise is an integr
 > 
 > ####  Partners and Third Parties 
 > 
-> Evolve PR Inc. may submit personal information to third parties as required or necessary to fulfill its services and/or performance of obligations. For example, Evolve PR Inc. may share personal information with its partners to enable a partner to provide support to a customer or where required to make a sale in a particular country. From time to time Evolve PR Inc. may employ or engage other companies and individuals to perform services on our behalf. Examples include provision of accounting, legal and financial services, fulfilling orders, shipping packages, sending postal mail and e-mail, processing credit card payments, and providing customer service. Such third parties may have access to your personal information if such is required in order to perform their service functions and may not use such information for any other purposes. Evolve PR Inc. maintains ownership and control of the information so used. 
+> Evolve PR Inc. may submit personal information to third parties as required or necessary to fulfill its services and/or performance of obligations. For example, Evolve PR Inc. may share personal information with its partners to enable a partner to provide support to a customer or where required to make a sale in a particular country. From time to time Evolve PR Inc. may employ or engage other companies and individuals to perform services on our behalf. Examples include provision of accounting, legal and financial services, fulfilling orders, shipping packages, sending postal mail and email, processing credit card payments, and providing customer service. Such third parties may have access to your personal information if such is required in order to perform their service functions and may not use such information for any other purposes. Evolve PR Inc. maintains ownership and control of the information so used. 
 > 
 > ####  Sale of Business 
 > 
