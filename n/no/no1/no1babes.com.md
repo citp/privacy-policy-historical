@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no1babes.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808180232id_/http%3A//www.xlxx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no1babes.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116062837id_/http%3A//xlxx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
