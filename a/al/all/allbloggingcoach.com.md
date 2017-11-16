@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbloggingcoach.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424095310id_/http%3A//www.allbloggingcoach.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbloggingcoach.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116221346id_/http%3A//www.allbloggingcoach.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | We Know The Rudiments Of Success
 
