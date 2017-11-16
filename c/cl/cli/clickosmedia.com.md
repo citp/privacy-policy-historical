@@ -1,74 +1,25 @@
-> *The following text is extracted and transformed from the clickosmedia.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203923id_/http%3A//clickosmedia.com/Privpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickosmedia.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116124854id_/http%3A//www.clickosmedia.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | ClickosMEDIA - Online Advertising Network
+# Welcome to clickosmedia.com - Privacy Policy
 
-Site: ClickosMEDIA  
-URL: http:// www.Clickosmedia.com
+At clickosmedia.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by clickosmedia.com and how it is used. 
 
-  ClickosMEDIA has created this privacy statement in order demonstrate our  
-firm commitment to privacy. The following discloses the information gathering  
-and dissemination practices for this web site.
+**Log Files**  
+Like many other Web sites, clickosmedia.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-  **Information Automatically Logged**
+**DoubleClick DART Cookie**  
 
-  This site uses your IP address to help diagnose problems with our server and   
-to administer our site.  
-This site records the browser type to monitor market penetration of various   
-web browsers so we can better determine the Internet technologies we may   
-utilize in the design of our pages.
 
-  This site uses page referrer data - that is, information about the page that  
-linked you to this page - to determine to what extent our page is referenced by  
-other resources on the Web.
+  * Google, as a third party vendor, uses cookies to serve ads on clickosmedia.com.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to clickosmedia.com and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
-  This data may be used to preserve the integrity of our computing resources.
 
-  **Personal Information**
 
-  ClickosMEDIA collects your name and email address, Internet Protocol (IP)  
-address, and other pertinent information.
+Our third-party ad servers or ad networks use technology to the advertisements and links that appear on clickosmedia.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-  This information is used to facilitate buying and selling of links/advertisements   
-on the Internet  
-  Unless requested by law enforcement personnel or required by legal process,  
-we will not share any personal information with any third parties nor will we   
-use any personal information for any purposes beyond those stated here.
+clickosmedia.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-  **Cookies**  
-  This site uses cookies for session management. See the Session  
-Management section for more information about how cookies are used
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. clickosmedia.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-  Session Management  
-This site uses form elements and/or cookies on each page to maintain a  
-continuous user session
-
-  Form elements and/or cookies may contain a unique ID that identifies your  
-browser session
-
-  **Security**
-
-  This site has security measures in place to protect the loss, misuse, and   
-alteration of the information under our control. Log file access is restricted to   
-system administrators while stored on the server. Log files are rotated   
-regularly and archived in a secure location
-
-  All credit card information is encrypted with 40-bit SSL encryption before it is  
-transmitted across the network.
-
-  ClickosMEDIA complies with all statutory and legal requirements with respect  
-to access to information.
-
-  **Opt-out**
-
-  To prevent ClickosMEDIA from collecting any preference data, please click  
-here.
-
-  **Contact Information**
-
-  ClickosMEDIA complies with all statutory and legal requirements with respect   
-to access to information.
-
-  If you have any questions about this privacy statement, the practices of this  
-site, or your dealings with this site, you can contact
-
-  [info@clickosmedia.com](mailto:info@clickosmedia.com)
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
