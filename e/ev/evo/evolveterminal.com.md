@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evolveterminal.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517213027id_/http%3A//www.evolveterminal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolveterminal.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116163417id_/https%3A//www.terminals.io/privacy) for the most accurate reproduction.*
 
-# Evolve Terminal: Privacy Policy
+# Privacy Policy | Terminals by Evolve PR
 
 ##  Our privacy policy 
 
@@ -16,7 +16,7 @@ In describing the information we collect, the term "personal information" refers
 
 We receive and store any information you voluntarily communicate to us in connection with your use of our Site or which you may voluntarily communicate to us in any other fashion. You may choose not to provide certain information we request from you. However, if you so elect, we may not be able to provide our products and services, and you might not be able to access or take full advantage of the features and functionality of the Site. Once you initiate a voluntary transaction, we will ask you for certain information depending upon the nature of the transaction in question. For example: 
 
-  * When you request to create an account, we ask for your name, e-mail address and your location.
+  * When you request to create an account, we ask for your name, email address and your location.
   * When you submit a request to receive our newsletter, we ask for your email address to deliver the newsletter.
   * When you have signed up and if there is an offer to send a welcome package, we may ask you for your phone number and mailing address
   * When you participate in social actions or discussions on the Site, any information posted in these areas of the Site becomes public information, and you should exercise care when disclosing personal information.
@@ -54,27 +54,27 @@ We may send you email or other forms of correspondence that are intended to noti
 
 ###  Disclosure to Third Parties 
 
-olveness of selling or renting your personal information to third parties. Evolve PR Inc. shares your personal information only with (i) its subsidiaries and affiliates around the world; and (ii) specified third parties under the conditions described below: 
+The information that we collect from you via the Site and otherwise is an integral part of our business, and Evolve PR Inc. is not in the business of selling or renting your personal information to third parties. Evolve PR Inc. shares your personal information only with (i) its subsidiaries and affiliates around the world; and (ii) specified third parties under the conditions described below: 
 
-###  International Disclosures 
-
-Our products and services may be provided using affiliates and other resources located in various countries around the world, including those outside of the European Economic Area (EEA), that may not have laws providing specific protection for personal data or that do not have an adequate level of data protection. Personal information collected through this Site or otherwise by us may be transferred across national boundaries and stored and processed in any of the countries around the world in which Evolve PR Inc., its affiliates or partners maintain offices, including the United States. By providing any personal information to us, you acknowledge that you are giving your consent to transfer your personal information to any Evolve PR Inc. affiliate or partner worldwide. 
-
-###  Partners and Third Parties 
-
-Evolve PR Inc. may submit personal information to third parties as required or necessary to fulfill its services and/or performance of obligations. For example, Evolve PR Inc. may share personal information with its partners to enable a partner to provide support to a customer or where required to make a sale in a particular country. From time to time Evolve PR Inc. may employ or engage other companies and individuals to perform services on our behalf. Examples include provision of accounting, legal and financial services, fulfilling orders, shipping packages, sending postal mail and e-mail, processing credit card payments, and providing customer service. Such third parties may have access to your personal information if such is required in order to perform their service functions and may not use such information for any other purposes. Evolve PR Inc. maintains ownership and control of the information so used. 
-
-###  Sale of Business 
-
-As we develop, expand and improve our lines of business, we might sell or purchase the assets of one or more of our own lines of business or those of third parties. In such transactions, customer information is generally one of the transferred business assets, and accordingly we reserve our rights to sell or purchase customer information (including your personal information) in any such sale or business transaction. 
-
-###  Disclosure Required by Law 
-
-Evolve PR Inc. may release your personal information if it believes such release is necessary to comply with law. 
-
-###  Disclosure With Your Consent 
-
-Other than as described in the foregoing, you will receive prior notice from us in the event we propose to share your personal information with third parties, and you will have a reasonable opportunity to elect not to share the information. 
+> ####  International Disclosures 
+> 
+> Our products and services may be provided using affiliates and other resources located in various countries around the world, including those outside of the European Economic Area (EEA), that may not have laws providing specific protection for personal data or that do not have an adequate level of data protection. Personal information collected through this Site or otherwise by us may be transferred across national boundaries and stored and processed in any of the countries around the world in which Evolve PR Inc., its affiliates or partners maintain offices, including the United States. By providing any personal information to us, you acknowledge that you are giving your consent to transfer your personal information to any Evolve PR Inc. affiliate or partner worldwide. 
+> 
+> ####  Partners and Third Parties 
+> 
+> Evolve PR Inc. may submit personal information to third parties as required or necessary to fulfill its services and/or performance of obligations. For example, Evolve PR Inc. may share personal information with its partners to enable a partner to provide support to a customer or where required to make a sale in a particular country. From time to time Evolve PR Inc. may employ or engage other companies and individuals to perform services on our behalf. Examples include provision of accounting, legal and financial services, fulfilling orders, shipping packages, sending postal mail and email, processing credit card payments, and providing customer service. Such third parties may have access to your personal information if such is required in order to perform their service functions and may not use such information for any other purposes. Evolve PR Inc. maintains ownership and control of the information so used. 
+> 
+> ####  Sale of Business 
+> 
+> As we develop, expand and improve our lines of business, we might sell or purchase the assets of one or more of our own lines of business or those of third parties. In such transactions, customer information is generally one of the transferred business assets, and accordingly we reserve our rights to sell or purchase customer information (including your personal information) in any such sale or business transaction. 
+> 
+> ####  Disclosure Required by Law 
+> 
+> Evolve PR Inc. may release your personal information if it believes such release is necessary to comply with law. 
+> 
+> ####  Disclosure With Your Consent 
+> 
+> Other than as described in the foregoing, you will receive prior notice from us in the event we propose to share your personal information with third parties, and you will have a reasonable opportunity to elect not to share the information. 
 
 ###  "Opt Out" and Complaint Procedures 
 
