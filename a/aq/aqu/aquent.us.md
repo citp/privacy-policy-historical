@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquent.us privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121031608id_/http%3A//aquent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.us privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116122604id_/https%3A//aquent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aquent
 
@@ -6,7 +6,7 @@
 
 Effective September 29, 2016
 
-**Participation in Privacy shield**. Aquent is committed to safeguarding the privacy of its employees, applicants, clients, and user of its website.  Aquent complies with Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries.  Aquent has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse Enforcement and Liability.  If there is a conflict between this policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.    This Policy outlines our general policy and practices for implementing the Principles. To learn more about Privacy Shield and to view Aquent’s certification please visit<https://www.privacyshield.gov/list>.
+**Participation in Privacy shield**. Aquent is committed to safeguarding the privacy of its employees, applicants, clients, and user of its website.  Aquent complies with Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries.  Aquent has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse Enforcement and Liability.  If there is a conflict between this policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.    This Policy outlines our general policy and practices for implementing the Principles. To learn more about Privacy Shield and to view Aquent’s certification please visit <https://www.privacyshield.gov/list>.
 
   * The types of data we are collecting under the EU-US Privacy Shield, the purposes for which each such type of data is being collected and used, and the types of third parties to which we may disclose such information (and the purposes of such disclosure) are set forth in this Privacy Policy.
   * Please note that we may be required to disclose your personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
@@ -17,7 +17,7 @@ Effective September 29, 2016
 
 The Aquent Privacy Policy applies to:
 
-  1. The following websites:  Aquent.com, my.aquent.com,  thegymnasium.com, vitamintalent.com, aquentstudios.com, robohead.net, majortom.net (the “Aquent Websites”)
+  1. The following websites:  [Aquent.com](https://aquent.com/ "Aquent"), [my.aquent.com](https://my.aquent.com/ "myaquent"),  [Gymnasium.com](http://thegymnasium.com/ "Gymnasium"), [vitamintalent.com](https://vitamintalent.com/ "vitamintalent"), [aquentstudios.com](http://aquentstudios.com/ "aquentstudios"), [robohead.net](http://robohead.net/ "robohead"), [majortom.net](http://majortom.net/ "majortom") (the “Aquent Websites”)
   2. all individuals who provide Personal Data, such as clients, applicants, employees, business partners, registered users of the Aquent Websites and others;
   3. all locations where Aquent operates, even where local regulations do not exist; and
   4. all methods of contact, including in person, written, via the internet, direct mail, telephone or facsimile.
@@ -36,7 +36,7 @@ Cookies are used to collect these data. Cookies are small sets of bytes that we 
 
 **How we protect your data.** Aquent takes reasonable security measures such as password protections, encryption, physical lock and other precautions as we deem appropriate to protect the information it collects from loss, misuse and unauthorized access, disclosure, alteration and destruction.  Employees authorized to access Personal Data of others are required to take the appropriate safeguards to protect the Personal Data.  Some information gathered on the Aquent websites is encrypted and protected with secure socket layer (SSL) encryption. Where Aquent deems encryption unnecessary, website users  are so informed. Only the individual user and Aquent personnel (solely on a need-to-know basis) have access to such information. All information collected from website users by Aquent is stored on servers hosted in a physically secure environment.   However, Users should keep in mind that the website and the Aquent services are run on software, hardware, and networks, any component of which may from time to time require maintenance or experience problems or breaches of security.  Website users are required to keep their Aquent passwords confidential. Aquent is not responsible for misuse of passwords. Users should advise Aquent immediately if they believe their passwords have been compromised.
 
-Questions about the security of the website should be directed to questions@aquent.com
+Questions about the security of the website should be directed to [questions@aquent.com](mailto:questions@aquent.com "Email").
 
 **Disclosure of Personal Information.** All information collected by Aquent is collected, stored, and processed in commercial data processing facilities in the  the United States, This allows Aquent to provide applicants with access to opportunities around the globe, and to improve Aquent’s ability to withstand individual system failures. Aquent may from time to time transfer Personal Data within and between its various worldwide locations in the normal course of business; therefore Personal Data may be transferred to any country in the world, subject to this Policy and applicable laws.
 
@@ -54,7 +54,7 @@ Except as otherwise stated in this Privacy Policy, we do not disclose to or shar
 
 In disclosing Personal Data in any of the circumstances described above, Aquent may need to send Personal Data outside the European Economic Area to a country whose laws may not provide adequate levels of protection to Personal Data. By submitting Personal Data to Aquent via and by using the Websites and Aquent services, individuals submitting such data are giving consent to the use of their Personal Data in the manner described in this Privacy Policy and to the transfer of Personal Data outside the European Economic Area (“EEA”) to a country or territory whose laws may not provide adequate levels of protection to Personal Data.
 
-**Choice.** You can always choose not to provide personal information, although you may be prevented from using all or portions of the websites or our services by making that choice.  You can opt out of our promotional or marketing emails at any time by clicking the unsubscribe link at the bottom of any such promotional or marketing email or by sending an email indicating your desire to opt out of such future promotional or marketing emails to unsubscribe@aquent.com.  You cannot opt out of administrative or transactional emails.
+**Choice.** You can always choose not to provide personal information, although you may be prevented from using all or portions of the websites or our services by making that choice.  You can opt out of our promotional or marketing emails at any time by clicking the unsubscribe link at the bottom of any such promotional or marketing email or by sending an email indicating your desire to opt out of such future promotional or marketing emails to [unsubscribe@aquent.com](mailto:unsubscribe@aquent.com "Email").  You cannot opt out of administrative or transactional emails.
 
 When hiring employees Aquent must collect and transfer Personal Data in order to comply with statutes, rules and regulations pertaining to employment. It is necessary for Aquent to collect, store and in some cases transfer personal data to third parties such as payroll service companies, health insurance organizations or government agencies as required by law. Any such transfers will be solely for the purposes of fulfilling Aquent’s obligations to its employees, such as payroll and insurance. Concerned individuals may withhold consent to such transfers and will be informed of the impact such opt-out will have on their employment within Aquent (ex. inability to process benefits or payroll data in a timely or appropriate fashion).
 
@@ -66,7 +66,7 @@ Aquent LLC
 Attention: Privacy Complaints  
 501 Boylston Street  
 Boston MA 02116  
-Email:  privacy@aquent.com
+Email:  [privacy@aquent.com](mailto:privacy@aquent.com "Email")
 
 If a complaint or dispute cannot be resolved through Aquent’s internal process, Aquent has committed to refer such unresolved privacy complaints under the EU-US Privacy Shield Principles to an the EU Data Protection Authorities and to participate in the dispute resolution procedures of the panel established by the EU Data Protection authorities.  
 
