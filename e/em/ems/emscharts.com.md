@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emscharts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235813id_/https%3A//emscharts.com/pub/technology-privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emscharts.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116034554id_/http%3A//www.emscharts.com/pub/technology-privacy.cfm) for the most accurate reproduction.*
 
 # emsCharts - Pre Hospital Care & Management Software
 
