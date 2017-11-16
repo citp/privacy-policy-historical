@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestabox.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509093142id_/https%3A//www.prestashop.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestabox.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116135546id_/https%3A//www.prestashop.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PrestaShop
 
@@ -81,7 +81,7 @@ The information we collect automatically is statistical data and may include per
 
 The technologies we use for this automatic data collection may include:
 
-  * **Cookies (or browser cookies)**. To learn more information about cookies, you can read our Cookies Policy.
+  * **Cookies (or browser cookies)**. To learn more information about cookies, you can read our [Cookies Policy](https://www.prestashop.com/en/legal-notice).
 
 
 
