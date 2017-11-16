@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the betvictor.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423084244id_/https%3A//www.betvictor.com/en/sports/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betvictor.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116134049id_/https%3A//www.betvictor.com/en-gb/sports/content/privacy-policy) for the most accurate reproduction.*
 
-# Sports - Privacy Policy - BetVictor
-
-## Privacy Policy
+# Privacy Policy - BetVictor
 
 This site is powered by BetVictor. At BetVictor we take the security of your data very seriously. The following policy outlines our obligation and commitment to you based on the Gibraltar Data Protection Act 2004 and the principles held within that Act. It will also inform you of the type of processing that is carried out with your personal data once it has been collected. By using the site you acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your data is collected.
 
@@ -22,7 +20,7 @@ Where contact with our offices is made by telephone, we record all conversations
 
 **Opting in and out of Promotional Communications**
 
-Upon opening your account you will be given the option to Opt-in to any promotional communications. If at anytime you wish to change this request you can do so by emailing [help@betvictor.com](mailto:help@betvictor.com), putting your request in writing to BetVictor, Leanse Place, 50 Town Range, Gibraltar or by simply going to 'My Account' then 'Settings' and tick or untick the relevant boxes. Please note, when opting out, whilst every endeavour will be made to ensure you do not receive any further communication, please allow 28 days for this request to be processed.
+Upon opening your account you will be given the option to Opt-in to any promotional communications. If at anytime you wish to change this request you can do so by emailing [help@betvictor.com](mailto:help@betvictor.com), putting your request in writing to BetVictor, , Suite 2.01, World Trade Center, Bayside Road, Gibraltar, or by simply going to 'My Account' then 'Settings' and tick or untick the relevant boxes. Please note, when opting out, whilst every endeavour will be made to ensure you do not receive any further communication, please allow 28 days for this request to be processed.
 
 **Changing your personal details**
 
