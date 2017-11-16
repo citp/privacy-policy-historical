@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobseeq.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628045754id_/http%3A//jobseeq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobseeq.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116162124id_/http%3A//www.jobseeq.com/privacy) for the most accurate reproduction.*
 
 # JobSeeq | Privacy Policy
 
@@ -36,7 +36,9 @@ JobSeeq may also collect your Passive Information by recording actions taken by 
 
 ## How We Use Your Information
 
-JobSeeq will only use your information in accordance with this Privacy Policy. 
+JobSeeq will only use your information in accordance with this Privacy Policy.
+
+For the purpose of identifying users and delivering relevant content and advertisements, our partner LiveRamp may place or recognize a unique cookie on your browser or a unique ID for your mobile device. To opt-out of LiveRamp cookies, please go [here](http://liveramp.com/opt_out/).
 
 ## Email Communications
 
