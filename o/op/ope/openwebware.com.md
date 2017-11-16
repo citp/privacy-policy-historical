@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openwebware.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518172655id_/http%3A//www.openwebware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwebware.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116172735id_/http%3A//www.openwebware.com/privacy) for the most accurate reproduction.*
 
 # Privacy -
 
