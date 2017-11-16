@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mov-avi.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326111714id_/https%3A//www.movavi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mov-avi.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116045733id_/https%3A//www.movavi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
