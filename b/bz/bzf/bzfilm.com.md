@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608183705id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116110104id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
