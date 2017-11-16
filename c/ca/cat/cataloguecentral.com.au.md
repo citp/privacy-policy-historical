@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218033153id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116094222id_/http%3A//www.cataloguecentral.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Catalogue Central
 
@@ -22,8 +22,7 @@ This policy applies to:
 
   * End users who are served advertisements through our advertising technologies and services (Ad Network);
   * Website publishers and/or advertisers who use our Ad Network; and
-  * Individuals who visit websites under our control, including:   
-
+  * Individuals who visit websites under our control, including: 
     * [www.cataloguecentral.com.au](http://www.cataloguecentral.com.au/)
     * [www.incdigitalmedia.com](http://www.incdigitalmedia.com/)
 
@@ -106,25 +105,20 @@ You consent to iNC disclosing your personal information to the authorised person
 
 
 
-  
 _**Related Companies**_  
 You acknowledge and agree that we may collect and share personal information about you with related bodies corporate, joint venture partners and affiliated companies and businesses (Related Companies) so we can provide you with the products and services you request and bring you information about products and services we offer. We will inform our Related Companies that information shared with them must be collected, used, disclosed and stored in accordance with this policy. 
 
-  
 _**Partners**_  
 In some cases, we contract with other companies or individuals to work with us or provide goods or services for us (Partners) including business partners, distributors, suppliers and advertisers. Examples of the goods and services our Partners may provide are electronic communications, data storage, deliveries, direct marketing services, market research, prizes, advertising, public relations, debt collection, legal advice, accounting and audits. We provide our Partners only with such information about you as they need to provide their goods or perform their services and we impose strict requirements of security and confidentiality on them in how they handle your personal information. We make it clear that our Partners are not permitted to use your personal information other than as permitted under this policy. 
 
 Related Companies and Partners may be located in Australia and/or overseas countries, including New Zealand, Hong Kong, Ireland, Singapore and the United States of America. You hereby consent to the disclosure of your personal information to such Related Companies and Partners overseas (as referred to above) and you acknowledge that as a result of your consent to such disclosure, clause 8.1 of the APPs does not apply. 
 
-  
-_**Joint Activities**_  
+_**Joint Activities**_   
 We may jointly conduct activities, such as competitions and other promotions, with sponsors, prize providers and other third parties (Joint Activities). We may share personal information you submit in connection with the Joint Activities with the third parties involved and you consent to us doing so. Information shared with such third parties will be collected, used, disclosed and stored in accordance with the third parties’ privacy policy. Terms and conditions for Joint Activities will inform you that your information is being shared and the terms upon which it may be used by the third party. 
 
-  
 _**Credit Reporting**_  
 Credit information about you may be obtained from and provided to credit reporting agencies in accordance with applicable legislation. 
 
-  
 _**Sale of business**_  
 If we sell all or part of our business, merge with another company or business, or restructure our business, we may transfer or disclose your personal information to the parties involved in the transaction. 
 
@@ -132,13 +126,11 @@ If we sell all or part of our business, merge with another company or business, 
 
 iNC will take reasonable steps to ensure your personal information is accurate, up to date and complete. If you have an account on one of our Sites, you are encouraged to correct your personal information through the relevant settings in that account.
 
-  
 _**Access**_  
 Where iNC holds personal information about you, we will provide you with access to the information on request within a reasonable time. There are some exceptions to this where we may refuse to give you access and these are set out in clause 12.3 of the APPs. In that case, where required, we will give you written notice setting out the reasons for our refusal and the mechanisms available if you wish to complain about our refusal. 
 
 We will also give you access to the information in the particular manner you request if it is reasonable and practicable to do so. If we do not give you access in the manner requested, we will take reasonable steps to give you access in a way which meets both your needs and ours. We may also impose a reasonable charge for giving you access to your personal information. 
 
-  
 _**Correction**_  
 If iNC is satisfied that your personal information is inaccurate, out of date, incomplete, irrelevant or misleading, we will take reasonable steps to correct your personal information. In addition, if you request us to correct your personal information, we will take reasonable steps to do so within a reasonable time. If you request it, we will also take reasonable steps to notify any other Related Companies or Partners of the changes if we have previously provided your personal information to that entity. There is no fee for correcting your personal information. We may require you to provide particulars of your identity before providing you with access to, or making changes to, your personal information.
 
