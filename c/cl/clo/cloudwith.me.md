@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudwith.me privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623222650id_/https%3A//cloudwith.me/%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudwith.me privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116015121id_/https%3A//cloudwith.me/%23policy) for the most accurate reproduction.*
 
-# Cloudwith.me | AWS (Amazon Web Services), Azure (Microsoft Azure) | EC2 Cloud Hosting | WordPress
+# Cloudwith.me | AWS (Amazon Web Services), Azure (Microsoft Azure), Google Cloud | EC2 Cloud Hosting | WordPress
 
 ### 1 - General
 
