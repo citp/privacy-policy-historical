@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntd.tv privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518131526id_/http%3A//www.ntd.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntd.tv privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116172930id_/http%3A//www.ntd.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NTD.TV
 
@@ -89,6 +89,6 @@ Our Site also includes links to other websites and provides access to products a
 If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
 
 NTD.tv  
-[contact@ntd.tv  
-](mailto:contact@ntd.tv)229 West 28th Street, Floor 7  
+[[email protected]  
+](https://web.archive.org/cdn-cgi/l/email-protection#85e6eaebf1e4e6f1c5ebf1e1abf1f3)229 West 28th Street, Floor 7  
 New York, New York 10001
