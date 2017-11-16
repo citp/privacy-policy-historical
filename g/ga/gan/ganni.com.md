@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganni.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626102719id_/http%3A//www.ganni.com/customer-service/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganni.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116214623id_/http%3A//www.ganni.com/customer-service/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ The information is used only for the purpose for which they submitted, for insta
 
 ### Changing information
 
-At any given time you are able to withdraw your consent that we may use your information. You also have the right to gain access to see or modify the information, and if it is incorrect, to delete them. Should you wish to get access to your information, please contact **[Customer Service](https://www.ganni.com/contactus "Customer Service")**.
+At any given time you are able to withdraw your consent that we may use your information. You also have the right to gain access to see or modify the information, and if it is incorrect, to delete them. Should you wish to get access to your information, please contact Customer Service.
 
 ## Cookies
 
