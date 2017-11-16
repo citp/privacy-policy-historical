@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the xsellco.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182030id_/https%3A//www.xsellco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsellco.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117002808id_/https%3A//www.xsellco.com/privacy) for the most accurate reproduction.*
 
-# XSellco Privacy and Cookies Policy | XSellco
+# xSellco Privacy and Cookies Policy | xSellco
 
 Last updated: 1 March 2016 
 
 ## Introduction
 
-This is the privacy and cookies policy for [XSellco.com](https://www.xsellco.com/) and our associated services both online and offline as well as through email communications that we send to you (together, the Site). The Site is operated by XSellco Software Limited (we, us and our). “You” or a “user” refers to any individual who visits or otherwise uses the Site, you are accepting and agreeing to the practices outlined in this privacy and cookies policy. 
+This is the privacy and cookies policy for [xSellco.com](https://www.xsellco.com/) and our associated services both online and offline as well as through email communications that we send to you (together, the Site). The Site is operated by xSellco Limited (we, us and our). “You” or a “user” refers to any individual who visits or otherwise uses the Site, you are accepting and agreeing to the practices outlined in this privacy and cookies policy. 
 
 For the purposes of the Irish Data Protection Acts 1988 and 2003, as amended, we are the data controller. 
 
@@ -34,25 +34,25 @@ You are under no obligation to provide any such information. However, if you sho
 
 Other Information is any information that does not reveal your specific identity or does not directly relate to an identifiable individual. This might include, for instance, browser and device information; App usage data; information collected through cookies, pixel tags, and other technologies; demographic information and other information provided by you; or aggregated information. We use this information to facilitate our operation of the Sites and for other purposes described below. 
 
-## How XSellco Collects Information
+## How xSellco Collects Information
 
 We and our service providers may collect information in a variety of ways, including:
 
   * Through the Site: We may collect information through the Site, e.g., when you request a free trial or demo, register for a webinar, contact us, subscribe to our email newsletter, download content (e.g. ebooks), or register to use our Site.
   * Offline: We may collect information from you offline, such as when you attend one of our events, during phone calls with sales representatives, or when you contact customer service.
-  * Through You: XSellco may collect information such as your location or your preferred means of communication when you voluntarily provide it. Note that there is no legal obligation for you to provide us with personal information and any information collected by us will be provided by you at your own will and with your consent.
+  * Through You: xSellco may collect information such as your location or your preferred means of communication when you voluntarily provide it. Note that there is no legal obligation for you to provide us with personal information and any information collected by us will be provided by you at your own will and with your consent.
   * Information From Other Sources: In order to enhance our ability to provide relevant marketing, offers, and services to you, we may obtain information about you from other sources, such as public databases, joint marketing partners, social media platforms, as well as from other third parties.
   * Through Your Browser or Device: Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the name and version of the Site (such as the Apps) you are using.
-  * Through Your Use of the apps: When you download and use an app of XSellco’s, we and our service providers may track and collect app usage data, such as the date and time the app on your device accesses our servers and what information and files have been downloaded to the app based on your device number.
-  * Through Cookies and Other Similar Technologies: Cookies and other similar technologies may be used to collect information. We may use third parties to serve advertisements on other websites that may be of interest to you, based on information collected about your use of our Site and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags and web beacons). Please refer to the cookies section below for more information. XSellco may not recognize automated browser signals regarding tracking mechanisms, which may include 'do not track' instructions.
+  * Through Your Use of the apps: When you download and use an app of xSellco’s, we and our service providers may track and collect app usage data, such as the date and time the app on your device accesses our servers and what information and files have been downloaded to the app based on your device number.
+  * Through Cookies and Other Similar Technologies: Cookies and other similar technologies may be used to collect information. We may use third parties to serve advertisements on other websites that may be of interest to you, based on information collected about your use of our Site and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags and web beacons). Please refer to the cookies section below for more information. xSellco may not recognize automated browser signals regarding tracking mechanisms, which may include 'do not track' instructions.
 
 
 
-XSellco also uses web analytics services, which currently include Google Analytics. XSellco also uses Google AdWords.
+xSellco also uses web analytics services, which currently include Google Analytics. xSellco also uses Google AdWords.
 
 Google Analytics is a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies and similar technologies to analyse how users use the Site. The information generated about Site usage (including your shortened IP address) is transmitted to Google. This information is used to evaluate visitors’ use of the Site, compile statistical reports on Site activity, and provide other services related to the Site and internet use. Google may also collect information about Site visitors’ use of other websites. For more information about Google Analytics, or to opt out of Google Analytics, please go to <https://tools.google.com/dlpage/gaoptout>
 
-XSellco uses Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to our Site. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](https://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](https://www.google.com/settings/ads/onweb/) or permanently using a browser plugin.
+xSellco uses Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to our Site. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](https://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](https://www.google.com/settings/ads/onweb/) or permanently using a browser plugin.
 
 ## Cookies
 
@@ -69,14 +69,14 @@ We use cookies to:
 
 Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting <https://en.wikipedia.org/wiki/HTTP_cookie> which includes additional useful information on cookies and how to block cookies using different types of browser. Please note, however, that by blocking or deleting cookies used on the Site, you may not be able to take full advantage of the Site.
 
-Cookies used by XSellco can be largely categorised as follows:
+Cookies used by xSellco can be largely categorised as follows:
 
 Cookie type | Cookie purpose  
 ---|---  
 Necessary | These cookies are essential in order to enable you to move around websites and use the websites’ features, such as accessing secure websites or secure areas of websites. Without these cookies, services you have asked for, such as identifying you as being logged in to the Site throughout your visit, cannot be provided.  
 Functionality | These cookies allow the Site to remember choices you make (such as your preferred language) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. Other examples include cookies that keep track of your progress when filling online application forms.  
-Performance | These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. XSellco uses both first and third party analytics cookies for this purpose.  
-Targeting Cookies | Targeting cookies remember individual websites you have visited and help XSellco to present relevant and targeted online advertising to you. Targeting cookies may be placed on your machine when you visit the Site. When targeting cookies have been placed on your device, they can be recognised by subsequent websites you visit, and this allows those sites to present targeted XSellco and third party advertising to you. While targeting cookies can track your visits around different websites, the information collected is anonymous.  
+Performance | These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. xSellco uses both first and third party analytics cookies for this purpose.  
+Targeting Cookies | Targeting cookies remember individual websites you have visited and help xSellco to present relevant and targeted online advertising to you. Targeting cookies may be placed on your machine when you visit the Site. When targeting cookies have been placed on your device, they can be recognised by subsequent websites you visit, and this allows those sites to present targeted xSellco and third party advertising to you. While targeting cookies can track your visits around different websites, the information collected is anonymous.  
   
 In addition to cookies, tracking Gifs and web beacons may be set by us or third parties in respect of your use of the Site. Web beacons support the delivery of cookies and help determine the number of times a page on the site has been viewed. Tracking Gifs are small image files within the content of the Site or the body of our newsletters so we or third parties can understand which parts of the Site are visited and whether particular content is of interest.
 
@@ -88,11 +88,11 @@ We may also disclose your personal information to any of our affiliates, or to o
 
 Where you consent, we may share your information with other related parties and any entity who is under common control. In the event that we undergo re-organisation or are sold to a third party, you agree that any personal information we hold about you may be transferred to that re-organised entity or third party.
 
-We may disclose your personal information if required to do so by applicable law, lawful government requests or if we believe that such action is necessary to prevent fraud or cyber crime to operate our systems properly or to protect the Site, or the rights, property or personal safety of XSellco or any person.
+We may disclose your personal information if required to do so by applicable law, lawful government requests or if we believe that such action is necessary to prevent fraud or cyber crime to operate our systems properly or to protect the Site, or the rights, property or personal safety of xSellco or any person.
 
-We may provide links to third-party websites as part of the services we provide on this site. XSellco is not responsible for the content of external websites, or for their privacy policies.
+We may provide links to third-party websites as part of the services we provide on this site. xSellco is not responsible for the content of external websites, or for their privacy policies.
 
-We reserve the right to transfer information (including your personal data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of XSellco or any of its subsidiaries provided that the third party agrees to adhere to similar terms to this privacy policy.
+We reserve the right to transfer information (including your personal data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of xSellco or any of its subsidiaries provided that the third party agrees to adhere to similar terms to this privacy policy.
 
 ## External links
 
@@ -133,12 +133,12 @@ You may inform us of any changes in your personal data, and in accordance with o
 Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to [accounts@xsellco.com](mailto:accounts@xsellco.com) or write to our Chief Financial Officer at:
 
 Chief Financial Officer  
-XSellco Software Limited  
+xSellco Limited  
 15 - 17 Percy Place  
 Dublin 4  
 Ireland  
 
 
-XSellco will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
+xSellco will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
 
 We may change this policy at any time. Please refer to the “Last Updated” date at the top of this page to find out when this policy has been last amended.
