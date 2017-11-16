@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polcard.com.pl privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506104407id_/https%3A//www.firstdata.com/en_gb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polcard.com.pl privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116074856id_/https%3A//www.firstdata.com/en_gb/privacy.html) for the most accurate reproduction.*
 
 # First Data Privacy & Legal | First Data
 
