@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129232831id_/https%3A//www.skiddle.com/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117000125id_/https%3A//www.skiddle.com/terms/privacy.php) for the most accurate reproduction.*
 
 # Skiddle Privacy Policy
 
@@ -23,12 +23,13 @@ We may collect and process the following data about you:-
 
 ## IP ADDRESSES AND COOKIES
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advisors. This is statistical data about our users browser actions and patents, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computers hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable use:-
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advisors. This is statistical data about our users browser actions and patents, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer, web beacons or similar technologies. They help us to improve our site and to deliver a better and more personalised service. They enable use:-
 
   1. To estimate our audience size and usage pattern; 
-  2. to store information about your preferences, and to allow to customize our site according to your individual interest. 
-  3. to speed up your searches; 
-  4. to recognise you when you return to our site. 
+  2. To store information about your preferences, and to allow to customize our site and communications according to your individual interest. 
+  3. To speed up your searches; 
+  4. To recognise you when you return to our site. 
+  5. To show or send you relevant advertising. 
 
 
 
@@ -36,9 +37,13 @@ Data is collected using web analysis tools using cookies that are able to be use
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser settings so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-Please note that our advertisers may also use cookies, over which we have no control.
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads. Skiddle usually have no control over this tracking.
+
+Users can opt-out of the collection and use of information for ad targetingby visiting www.aboutads.info/choices. Alternatively, please visit the relevant opt-out page for the third party, which should be found on their main website.
 
 Our advertisers may also collect Non-personally Identifiable Information (N-PII) via anonymous cookies placed on our website, to help show relevant information and adverts to you. This information doesnt not contain any identifiable information (eg name). Further information and details on how to opt-out of these services can be found at http://www.captify.co.uk/privacy.php and http://exelate.com/privacy/opt-in-opt-out/
+
+For further information about online behavioural tracking and personalisation, please visit http://www.youronlinechoices.com/uk/
 
 ## WHERE WE STORE YOUR PERSONAL DATA
 
@@ -93,7 +98,7 @@ Our site may, from time to time, contain links to and from websites for advertis
 
 ## ACCESS TO INFORMATION
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of ï¿œ10 to meet our costs in providing you with details of the information we hold about you.
 
 ## CHANGES TO OUR PRIVACY POLICY
 
@@ -103,4 +108,4 @@ Any changes we make to our privacy policy in the future will be posted on this p
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to support@skiddle.com.
 
-Last updated: 18th November 2013
+Last updated: 22nd September 2017
