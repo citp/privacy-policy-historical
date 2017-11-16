@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the net-a-porter.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129092751id_/https%3A//www.net-a-porter.com/us/en/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-a-porter.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117001431id_/https%3A//www.net-a-porter.com/us/en/Help/PrivacyPolicy) for the most accurate reproduction.*
 
 # Help | NET-A-PORTER.COM
 
   * Privacy Policy
 
-This website is owned and run by THE NET-A-PORTER GROUP LIMITED ("we", "our", "us”), part of YOOX NET-A-PORTER GROUP. If we use the term “our Group”, this means us and our subsidiaries, our ultimate holding company and its subsidiaries (or any of them). The term “our online services” refers to NET-A-PORTER, MR PORTER, THE OUTNET, The NET SET, our mobile and tablet applications, our pages on third party social media platforms such as Instagram, Facebook, Twitter, Pinterest and Google+ and any other websites or apps we own or run from time to time. The term “our services” refers to our online services and any of our other products and services, such as PORTER magazine, offered from time to time. If you use any of our services, we will refer to you using the terms “user”, “visitor”, “you”, “your”, “yours” in this policy. 
+This website is owned and run by THE NET-A-PORTER GROUP LIMITED ("we", "our", "us”), part of YOOX NET-A-PORTER GROUP. If we use the term “our Group”, this means us and our subsidiaries, our ultimate holding company and its subsidiaries (or any of them). The term “our online services” refers to NET-A-PORTER, MR PORTER, THE OUTNET, our mobile and tablet applications, our pages on third party social media platforms such as Instagram, Facebook, Twitter, Pinterest and Google+ and any other websites or apps we own or run from time to time. The term “our services” refers to our online services and any of our other products and services, such as PORTER magazine, offered from time to time. If you use any of our services, we will refer to you using the terms “user”, “visitor”, “you”, “your”, “yours” in this policy.
 
 We respect the privacy rights of our visitors and recognise the importance of protecting the information collected about them. This privacy policy is about how we collect, store, and use the personal information that you provide to us. As part of our commitment to your privacy rights and security, our websites have been certified by Cybertrust.
 
-This privacy policy explains: 
+This privacy policy explains:
 
       * What personal information do we collect from you and how?
       * What about cookies? What are cookies? 
@@ -22,7 +22,7 @@ This privacy policy explains:
       * How we can make changes to this policy
       * Where and how to ask questions or contact us about this policy
 
-If you are under 16, you must inform a parent or guardian about our privacy policy to obtain their agreement to the privacy policy before registering, subscribing or placing an order with us. 
+If you are under 16, you must inform a parent or guardian about our privacy policy to obtain their agreement to the privacy policy before registering, subscribing or placing an order with us.
 
 Back to top
 
