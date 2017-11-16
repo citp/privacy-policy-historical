@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ticketswap.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612062415id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketswap.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116071916id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – TicketSwap
 
-Last update: June 2017
+Last update: October 2017
 
 TicketSwap respects your privacy. We comply with the Dutch Data Protection Act (Wet Bescherming Persoonsgegevens) and the Dutch Telecommunications Act (Telecommunicatiewet). In this Privacy Policy you can read what kind of personal data we collect and how we store, protect and use your personal data. Furthermore, you can read for which purposes we will use your personal data and with whom your data will be shared. 
 
@@ -36,7 +36,7 @@ In addition we may also process non-personal data whenever you interact with our
 
 We use and process the personal data you have provided us with for the purposes described below.
 
-  * We use your Facebook profile picture, name, the amount of your Facebook friends and your residence to complete your account. These will be shown on our Websites when you sell tickets to make the selling and buying of secondhand tickets safer for (potential) buyers.
+  * We use your Facebook profile picture, name, the amount of your Facebook friends and your residence to complete your account. These "Facebook data" will be shown on our Websites when you sell tickets to make the selling and buying of secondhand tickets safer for (potential) buyers. We further use the Facebook Data for audience targeting purposes, namely in order to exclude existing TicketSwap users from our Facebook campaigns.
   * We use your phone number to check whether it belongs to you and to check whether it is real. When you sell tickets, the check of your phone number (and not the phone number itself) will be shown on our Websites to make the selling and buying of secondhand tickets safer for (potential) buyers.
   * If you make use of our “Secure Swap” service, we will use your email address and name to annul the second-hand ticket of the seller and provide the buyer with a new authentic ticket. For more information on Secure Swap see [this page](https://web.archive.org/faq/buyers/67/wat-is-een-secure-swap).
   * We use your email address to send you information and updates about your order. We may also send you information about topics that might be interesting for you. You can unsubscribe from these services at any time.
@@ -51,11 +51,15 @@ TicketSwap does _not_ sell, trade, or rent personal data to third parties.
 
 ## Third-party service providers
 
-In order to render our services, there are data that we will need to share with third-party service providers.
+In order to render our services, there are data that we will need to share with third-party service providers.These third parties act as Data Processor within the meaning of the relevant privacy legislation. As Data Controller within the meaning of the relevant privacy legislation, the data processing still takes place under our responsibility. By means of Data Processing Agreements, we contractually oblige all the Data Processors we work with, not to process the data for any other purpose than as instructed by us.
+
+In particular, we want to inform you about the following third party service providers: 
 
 If you use our Secure Swap service, your email address and name will be shared with the event organizer and/or or the ticketing company (e.g. Paylogic). These third parties are contractually obliged not to use said data for any other purpose than providing the buyer with a new ticket, cancelling the old ticket or contacting the buyer with relevant info about the event.
 
 For payments made via our websites, we use third-party services such as payment gateways and other payment transaction processors. These third parties are contractually obliged not to use said data for any other purpose than to effectuate the payment.
+
+For audience targeting purposes, we make use of the services of Facebook Custom Audience, see [Facebook Business](https://www.facebook.com/business/help/341425252616329) for more information. By means of this service, we exclude existing TicketSwap users from our Facebook campaigns. This means that the Facebook Data you shared with us, will be sent (back) to Facebook in a hashed format. In this respect, Facebook acts as a third party service provider and as a Data Processor. Facebook is contractually obliged not to use said data for any other purpose than to render its audience targeting services. See [here](https://www.facebook.com/ads/manage/customaudiences/tos.php) for the relevant terms.
 
 ## Generic aggregated (non-personal) data
 
