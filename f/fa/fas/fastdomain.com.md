@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastdomain.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104419id_/http%3A//www.fastdomain.com/cgi/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastdomain.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116021941id_/http%3A//www.fastdomain.com/cgi/info/privacy_policy) for the most accurate reproduction.*
 
 # FastDomain - Privacy Policy | FastDomain
 
@@ -134,10 +134,11 @@ FastDomain reserves the right to revise, amend, or modify this Privacy Policy at
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact:  
 ATTN: Fastdomain Inc. Legal Department.   
-560 Timpanogos Pkwy   
-Orem, UT 84097  
-Fax: 801-765-1992 or E-mail: legal@fastdomain.com  
+1500 N Priest Dr   
+Suite 200   
+Tempe, AZ 85281 
 
+Fax: 781-998-8277 or E-mail: legal@fastdomain.com
 
   10. ### Applicable to All Reseller Relationships
 
@@ -154,6 +155,6 @@ FastDomain retains personal data it processes on behalf of FastDomain's Reseller
 
 
 
-This file was last modified: April 01, 2017.
+This file was last modified: August 03, 2017.
 
 [Terms Home](https://web.archive.org/terms) [User Agreement](https://web.archive.org/user-agreement) [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy) [HIPAA Disclaimer](https://web.archive.org/acceptable-use-policy#hipaa) [Domain Registration Agreement](https://web.archive.org/domain-registration-agreement) [Anti-Spam Policy](https://web.archive.org/antispam-policy) [Privacy Policy](https://web.archive.org/privacy-policy) [Domain Name Dispute Policy](https://web.archive.org/domain-dispute-policy) [Data Request Policy](https://web.archive.org/data-request-policy) [Copyright Claims Policy](https://web.archive.org/copyright-claims-policy) [Ownership Dispute/Change Policy](https://web.archive.org/ownership-change-policy) [Professional Services Agreements](https://web.archive.org/terms-professional) [Affiliate Agreement](https://web.archive.org/affiliate-terms)
