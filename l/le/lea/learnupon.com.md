@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnupon.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216081422id_/https%3A//www.learnupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnupon.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116030015id_/https%3A//www.learnupon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LearnUpon LMS
 
