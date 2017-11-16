@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the music-group.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614071223id_/http%3A//www.music-group.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music-group.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116134252id_/http%3A//www.music-group.com/privacy-policy) for the most accurate reproduction.*
 
-# MUSIC Group
+# MUSIC Tribe
 
 We respect the privacy of every individual who visits our Site.  Furthermore, we take the confidentiality of your personal information seriously. This Privacy Policy sets forth our information gathering and dissemination practices. 
 
