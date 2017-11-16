@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grannybet.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517153907id_/http%3A//www.grannybet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grannybet.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116165238id_/http%3A//www.grannybet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
