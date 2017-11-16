@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprovisionstore.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516052641id_/http%3A//myprovisionstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprovisionstore.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116065850id_/http%3A//myprovisionstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Grocery Shopping Online - Buy fruits, vegetables & other household essentials at MyProvisionStore online grocery store & get Free home delivery!
 
