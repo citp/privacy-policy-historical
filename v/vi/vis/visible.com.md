@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visible.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131113929id_/http%3A//www.visible.com/FooterFiles/VisibleSystemsCorporationPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visible.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116115101id_/http%3A//visible.com/FooterFiles/VisibleSystemsCorporationPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
