@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitesingles.ie privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025113845id_/https%3A//www.elitesingles.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesingles.ie privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116200932id_/https%3A//www.elitesingles.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EliteSingles
 
@@ -122,8 +122,6 @@ e) ELITESINGLES sends various notifications via email to every registered user.
 
 f) ELITESINGLES sets a filter to protect users from unsolicited mail. For example, automatic filters prevent the sending of messages with certain pay numbers or certain inappropriate keywords.
 
-g) Identity Verification: Premium members can send a copy of their identity card by e-mail, fax or post, along with their additional security code to us. Our customer care then checks whether certain information (e.g. date of birth) coincide with the date of birth on the identity card displayed on the website. Upon successful identity verification, the profile is marked with a symbol. ELITESINGLES does not store the ID copies and destroys them after identity verification.
-
 **Features:**
 
 a) Under the photos and entries of other profiles there is a “Like" button that can be clicked. With the "Like" function, you can express that you like statements or pictures in the profile of another member with one click. As a consequence, the other member is notified. In your own profile you can see how many members like a particular text field or photo of you. You can also see which members have clicked "Like" on a certain profile element.
@@ -237,7 +235,7 @@ Kohlfurter Strasse 41/43
   E-Mail: security@ELITESINGLES.ie  
 Fax: +49 30 991 949 5 32 
 
-Most of the information that you can see on your account you can change or delete yourself. Please only use this service if it is for information you cannot
+Most of the information that you can see on your account you can change or delete yourself. Please only use this service if it is for information you cannot change yourself. 
 
 ### ****6\. Further information****
 
