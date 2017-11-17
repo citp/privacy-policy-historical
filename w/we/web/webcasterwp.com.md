@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcasterwp.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207183955id_/http%3A//webcasterwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcasterwp.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117083815id_/http%3A//webcasterwp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WebCasterWP
 
