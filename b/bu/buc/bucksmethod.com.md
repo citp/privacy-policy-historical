@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bucksmethod.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208163814id_/http%3A//bucksmethod.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucksmethod.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117151138id_/http%3A//bucksmethod.com/privacy.php) for the most accurate reproduction.*
 
-# The Millionaires Software: Privacy Policy |
+# Bucks Method: Privacy Policy |
 
 ##### **Privacy Policy**
 
