@@ -1,52 +1,71 @@
-> *The following text is extracted and transformed from the sussex.ac.uk privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128224649id_/http%3A//www.sussex.ac.uk/aboutus/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sussex.ac.uk privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117063331id_/http%3A//www.sussex.ac.uk/aboutus/website/privacy) for the most accurate reproduction.*
 
 # Privacy statement : The website : About us : University of Sussex
 
-This Privacy Policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by the University of Sussex. If you have any requests concerning your personal information or any queries with regard to these practices please contact the Information Officer at [dpo@sussex.ac.uk](mailto:dpo@sussex.ac.uk).
+This Privacy Policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by the University of Sussex.
 
 ## Information collected
 
 We collect information from visitors to this website through the use of online forms. We collect your details when you email us with an enquiry. We also collect information about the transactions you undertake through this site including details of payment cards used.
 
-In addition to the above, we collect information automatically about your visit to our website. Please see the section on ‘Cookies’ for more details.
+In addition to the above, we collect information automatically about your visit to our website. Please see the section on ‘Cookies’ for more details.  
 
-## Use of personal information
+If you have any requests concerning your personal information please contact the Information Officer at [dpo@sussex.ac.uk.](mailto:%20dpo@sussex.ac.uk)
 
-We may process personal information collected via this website or other electronic communications networks used by the University, for the following purposes:
+### Use of personal information
 
-  * Advertising, Marketing, Public Relations, General Advice Services: 
+We may process personal information collected via this website or other electronic communications networks used by the University, for the following purposes.
+
+#### Advertising, Marketing, Public Relations, General Advice Services:
+
     * The identification of recipients for University services and administration of promotional campaigns
     * The advertising and promotion of the University and its services including by direct marketing means
     * The advertisement and provision of general advice to members of the public about University services
     * The advertisement and promotion of the University through third party products and services e.g. financial sponsorship
     * Fundraising for the University and other organisations (excluding fundraising through alumni).
-  * Accounts and records: 
-    * The administration of supplier records relating to goods, orders, services
-    * Accounts provided to the University
-  * Education: 
-    * Administration of education and training such as registration
-    * Calculation and publication of exam results, provision of references
-    * Provision of education and training such as the planning and control of curricula and exams, and commissioning, validating and producing educational materials
-    * Administration of applications e.g. receipt and processing of UCAS forms, compilation of statistics, assessments including preliminary and confirmed offers, liaison with UCAS
-    * Preparation of DFEE returns
-    * Administration of student awards and fees
-    * Administration of the discipline scheme
-    * Administration of the academic appeals scheme
-    * Administration of visiting and exchange students and students on the year abroad
-  * Student Support Services: 
-    * Administration and management of University and privately owned property including accommodation services
-    * Administration of grants and loans e.g. student loans and access loans
-    * Administration and provision of health care services
-    * Administration and provision of library services including membership records, loan/hire records, information and databank administration
-    * Ticket issue/reservation services
-    * Administration and provision of a student card
-    * Administration and provision of welfare and pastoral services
-    * Careers guidance
-    * Provision of creche facilities
-    * Administration and provision of computing facilities
-    * Administration and provision of student union services
-  * Other commercial or information services such as the University magazines
-  * Alumni relations: 
+
+
+
+#### Accounts and records:
+
+      * The administration of supplier records relating to goods, orders, services
+      * Accounts provided to the University
+
+
+
+#### Education:
+
+      * Administration of education and training such as registration
+      * Calculation and publication of exam results, provision of references
+      * Provision of education and training such as the planning and control of curricula and exams, and commissioning, validating and producing educational materials
+      * Administration of applications e.g. receipt and processing of UCAS forms, compilation of statistics, assessments including preliminary and confirmed offers, liaison with UCAS
+      * Preparation of DFEE returns
+      * Administration of student awards and fees
+      * Administration of the discipline scheme
+      * Administration of the academic appeals scheme
+      * Administration of visiting and exchange students and students on the year abroad
+
+
+
+#### Student Support Services:
+
+      * Administration and management of University and privately owned property including accommodation services
+      * Administration of grants and loans e.g. student loans and access loans
+      * Administration and provision of health care services
+      * Administration and provision of library services including membership records, loan/hire records, information and databank administration
+      * Ticket issue/reservation services
+      * Administration and provision of a student card
+      * Administration and provision of welfare and pastoral services
+      * Careers guidance
+      * Provision of creche facilities
+      * Administration and provision of computing facilities
+      * Administration and provision of student union services
+    * Other commercial or information services such as the University magazines
+
+
+
+#### Alumni relations:
+
     * The promotion of the relationship between the University and its alumni
     * University-related fundraising initiatives involving alumni
     * Advertising and promotion of alumni events and reunions
@@ -72,9 +91,13 @@ Alternatively you can call us on 01273 877456 (prospective / existing students) 
 
 Please note that your information may be used to send you details of those products or services that we offer that we have identified as likely to be of interest to you. This will be in accordance with the preferences that you indicated when you completed the application form or the online form.
 
-If at any point you would like to opt-out of receiving communications from us, or would like to change the channels (such as email or post) that we use to contact you, please contact us using the link on the bottom of the last email you received from us. You can also write to Marketing, University of Sussex, Sussex House, Brighton, BN1 9RH.
+Please contact us using the link on the bottom of the last email you received from us, or write to Marketing, University of Sussex, Sussex House, Brighton, BN1 9RH, if at any point you would like to:
 
-You may ask us at any point not to share your information with third parties for this purpose, by contacting us using the link on the bottom of the last email you received from us or writing to us at Marketing, University of Sussex, Sussex House, Brighton, BN1 9RH.
+  * opt-out of receiving communications from us
+  * change the channels (such as email or post) that we use to contact you 
+  * ask us at any point not to share your information with third parties for marketing purposes.
+
+
 
 ## Data Protection and disclosures
 
@@ -116,7 +139,6 @@ By using this website, you consent to the storing of the cookies listed below. W
 
 Information about how cookies can be controlled within the various browsers:
 
-  * [Cookies in Internet Explorer (IE 7 & 8 - Windows Vista and XP)](http://windows.microsoft.com/en-GB/windows-vista/Cookies-frequently-asked-questions)
   * [Cookies in Internet Explorer (IE 9 - Windows 7)](http://windows.microsoft.com/en-GB/windows7/Cookies-frequently-asked-questions)
   * [Cookies in Firefox](http://support.mozilla.org/en-US/kb/Cookies)
   * [Cookies in Google Chrome](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
@@ -244,4 +266,4 @@ Parts of this website use Facebook cookies and pixels. Pixels are small blocks o
 
 ## Amendments
 
-Please note that this privacy policy is subject to change from time to time. It was last UPDATED in September 2015.
+Please note that this privacy policy is subject to change from time to time. It was last updated in September 2015.
