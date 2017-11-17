@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629110103id_/http%3A//resources.rosettastone.com/CDN/us/agreements/US_Privacy_Policy-102513.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118005442id_/http%3A//resources.rosettastone.com/CDN/us/agreements/US_Privacy_Policy-102513.pdf) for the most accurate reproduction.*
 
 # Rosetta Stone Website Privacy Policy
 
