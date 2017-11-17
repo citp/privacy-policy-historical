@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uberent.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624112521id_/http%3A//www.uberent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberent.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117174441id_/http%3A//www.uberent.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Uber Entertainment
 
