@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the goeuro.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210235848id_/http%3A//www.goeuro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goeuro.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117071908id_/https%3A//www.goeuro.com/privacy) for the most accurate reproduction.*
 
 # Privacy | GoEuro
 
-Operator of the GoEuro web sites and mobile apps as well as responsible authority in terms of the Data Protection Legislation is the GoEuro Corp., registered in Delaware, USA, under the No 4,973,690th. GoEuro Corp. has its operative headquarters in Berlin.
+Operator of the GoEuro websites and mobile apps as well as responsible authority in terms of the Data Protection Legislation is the GoEuro Corp., registered in Delaware, USA, under No. 4973690. GoEuro Corp. has its operative headquarters at 180 Schönhauser Allee in 10119 Berlin.
 
-The protection of your personal information is very important to us. Therefore, the following information states the rules that we follow to protect the personal data of our users. By using our websites and / or services, you accept and approve these terms. 
+The protection of your personal information is very important to us. Therefore, the following details the rules that we follow to protect the personal data of our users. By using our websites or app, booking travel or creating an account, you accept and approve these terms. 
 
 I. What kind of data we gather and why 
 
 ######  1\. Automatically gathered Data 
 
-We collect connection information data that is generated regularly by using the Internet and is provided by the browser you are using to visit our sites. Such information includes your Internet access provider, your IP-address, the URL of the sites you have visited before you visit our sites, the browser used, the operating system used, the access device used, date and time of your access, the pages viewed on our websites and the time you spend on our websites. 
+We collect connection information data that is transmitted regularly by your browser to our web server when you surf the Internet. Such information includes your IP address, the URLs of the sites you visited before accessing our sites, the browser used, the operating system used, the access device used, date and time of your access, the pages viewed on our websites and the time you spend on our websites.
 
-IP address may be considered as personal data, however, we do not use them to identify users. In case you use our services on a mobile device, we may also collect data that identifies your mobile device and your location. 
+We do not use IP addresses to identify users. If you visit our website without using a previously created profile or make any bookings, you will remain anonymous. 
 
 We use this information to
 
@@ -26,120 +26,153 @@ We use this information to
 
 Furthermore, we also save and use the information you provide to us about yourself and about the planning of your trip. 
 
-When you book a travel product through are service sites, we are asking for personal data, e.g. your name, your e-mail address, phone number, billing address, payment or credit card information, your preferred travel connection and - where applicable – information about your bonus or discount cards (e.g. mileage or frequent-flyer programmes, railway customer cards). In case you additionally register for a personal profile with GoEuro, such data will be stored with us for you future bookings. 
+When you book a travel product through our service sites, we ask you to provide personal data, e.g. your name, your e-mail address, phone number, billing address, payment or credit card information, your preferred travel connection and – where applicable – information about your bonus or discount cards (e.g. mileage or frequent-flyer programmes, railway customer cards). We will only ever ask you for the data that the respective travel agent requires to complete the booking process. 
 
-This information will be used by us 
+Should you additionally register for a personal profile with GoEuro by creating a user account, this data will be stored with us for your future bookings. 
+
+We will use this information for the purposes described in Section1 above and also
 
   * to execute your booking and personalize your ticket or reservation,
   * to recognize you and spare you from re-entering your data upon your revisits to our sites,
-  * in order to adapt our websites and our service to your personal preferences and to be able to display advertisements and special offers that may match your interests (or spare you the display of advertising and special offers, which probably may not be of any interest to you
-  * uto get in contact with you, e.g. to send you the travel documents or to notify you about new features and special offers on our website, for example by means of sending you our newsletter (see below).
+  * in order to adapt our websites and our service to your personal preferences and to be able to display advertisements and special offers that may match your interests (or spare you the display of advertising and special offers which would likely not be of any interest to you),
+  * to get in touch with you, e.g. to send you travel documents or to notify you about new features and special offers on our website, for example through our newsletter.
 
 
 
-The payment details (credit card information), for bookings made directly on our website, is processed via a renowned Internet payment processor, who will transmit your info directly to the relevant credit card company. 
+######  3\. Executing bookings 
 
-In order to ensure that the credit card is used by the legitimate owner and to prevent cases of online fraud, encrypted credit card information is transferred along with other personal data to an external payment security service provider for audit purposes. This transfer and the handling of the data will be performed in full accordance with EU data protection legislation and based on the Standard Contractual Clauses adopted by the EU Commission.
+If you make a booking on our websites, we will transmit any personal data required to the respective travel agent (e.g. airline, railway or coach operator, hire car company, hotel) so that the agent can process your booking and produce any personalised tickets that may be required. Such a third party will then be responsible itself for how it uses your personal data and will use it in accordance with its own privacy policies. 
 
-The processing of your credit card data is established via a renowned Internet payment processor by using the Secure Socket Layer (SSL) protocol. Therefore, your credit card details are sent to the credit card company only after they are encrypted. Also, reports from the payment processor will be transferred to us solely in an encrypted version. Your credit card data is stored on the state of the art secured computers of the payment processor. Furthermore, your credit card information will not be disclosed to us.
+Bookings may be handled by our subsidiary GoEuro Voyages SAS. GoEuro Voyages SAS then processes all required data on our behalf and only for the purposes of completing the booking process. 
 
-By providing us with said personal data, you authorize us to collect, process, store the data together with the automatically gathered (see 1.) data and transfer it to our partners as described herein. 
+The payment details (credit card information) for bookings made directly on our website are processed by a trusted Internet payment processor, who will transmit your data directly to the relevant credit card company. 
 
-######  3\. Use of Cookies 
+In order to ensure that the credit card is used by the legitimate owner and to prevent cases of online fraud, encrypted credit card information is transferred to an external payment security service for auditing purposes. This transfer may also include additional personal data. This transfer and the handling of the data will be performed in full accordance with applicable data protection provisions. 
 
-Like most other service providers, we use cookies when you visit our websites or use our services. Cookies are small text files (tracking tools) that are stored by your browser on your compute or mobile device, to help the assignment of the data and re-identification of the computer being used and also enable the collection of usage and demographic information about you across various websites visits.
+Your credit card data is processed by trusted and reliable Internet payment processors. Your credit card details are encrypted (usually using the SSL protocol) before transmission to the payment processor. 
 
-You may prevent cookies by selecting the appropriate settings on your browser software, for example, by installing an add-on for your browser, which prevents future data collection. However, it is possible that certain areas of the websites or services do not work as intended (such as setting up your profile or storing your preferred means of transport).
+In addition, basic information relating to your query (e.g. destination and travel dates) will be transmitted to the accommodation providers shown in the search window (e.g. booking.com or airbnb), but only if the check mark in front of the respective provider’s name is set for your search. You will then see non-binding offers matching your search query by the provider in a new window or tab. This does not entail transmission on our part of any personal data (except for the IP address). 
 
-The use of cookies allows us to collect information about users in order to enable us to customize the websites for an easier and more convenient access and provide a better service. 
+######  4\. Logging in with Facebook Connect or Google+ 
 
-We use cookies for the following purposes:
+It will also be possible to log in to our site using Facebook Connect or Google+. Doing so does not require you to register a separate user account with us. Instead, you can log in using your Facebook or Google login. In the process, Facebook or Google transmit certain personal data to us. Facebook will inform you during registration about the data to be transmitted (Facebook data). You will be given the opportunity to consent explicitly or to refuse. Facebook will not transmit any personal data to us without your permission. We will then be able to see your Facebook user name and your public Facebook profile. We will use this data solely for the purposes detailed in this privacy policy. Conversely, Facebook will be able to see whether and when you log in to our site using Facebook Connect. All of this applies equally for any logins via Google. 
+
+You consent to Facebook transmitting the above data to us and to our transmitting said data to Facebook or Google when using Facebook Connect or Google+. You can stop using Facebook Connect or the Google+ login at any time and, if desired, create your own user account with us. 
+
+######  5\. Newsletter 
+
+By subscribing to our newsletter, you consent to receiving newsletters and notifications from us by e-mail. These e-mails will contain information about GoEuro and may also include advertising for GoEuro or from/for third parties. You can unsubscribe from these regular newsletters easily and at no cost using the corresponding link provided in the respective newsletter. 
+
+######  6\. Use of cookies, web beacons and similar methods 
+
+Like most other service providers, we use cookies, web beacons and suchlike when you visit our websites or use our services. Cookies are small text files that are stored by your browser on your computer or mobile device and which allow re-identification of your computer or mobile device, potentially across numerous websites. These cookies contain no personal data. Some of the cookies we use are deleted again upon expiry of the session, that is, when you close your browser (these are referred to as session cookies). Other cookies remain stored on your device and allow us, or our business partners to recognise your browser during subsequent visits (persistent cookies). 
+
+You may prevent cookies by configuring your browser software accordingly. However, please note that certain areas of the websites or certain services may then not work as intended (such as your user account settings, the order process or saving your preferred means of transport). 
+
+Web beacons are small graphics files (pixels) that may be embedded in our website for the purposes of recording user behaviour. Similar methods include, for example, flash cookies, HTML5 cookies or other local (browser or device) storage methods that – in a similar way to cookies – allow data to be saved to your browser or device so that your browser or device can be recognised during subsequent visits or during a session. 
+
+The use of cookies and similar methods allows us to collect information about users in order to enable us to customise the websites for easier and more convenient access and to provide improved service. 
+
+We use cookies and similar methods for the following purposes: 
 
   * To save your user settings such as language and currency while on our websites and between visits. 
-  * To store your login status as a registered user (optional), so you do not have to log in again for a later return to the website. 
+  * To store your login status as a registered user (optional), so you do not have to log in again when returning to the website later. 
   * For our feedback tool "UserVoice", which allows you to leave comments and suggestions for GoEuro. 
   * For the technical assignment of your visit to certain servers to ensure a safe transition between pages and search queries. 
   * To monitor the performance of our systems (no user-based evaluation of data). 
-  * For web analytics with Google Analytics and similar web analytics services (see No V. hereunder) and for creating usage statistics (no user-based evaluation). 
-  * For the so-called retargeting, i.e. the display of ads that match your search queries on GoEuro, outside of our websites and mobile apps (see also under No II. 2 c) . To learn more about this type of targeted advertising and your possibilities to appeal more, you can visit this info page: [Youronlinechoices](https://web.archive.org/web/20170210235848id_/http%3A//www.goeuro.com/%E2%80%9Dhttp://www.youronlinechoices.eu/%E2%80%9D)
+  * For web analytics with Google Analytics and similar web analytics services and for creating usage statistics (no user-based evaluation). 
+  * For what is known as retargeting, i.e. for displaying ads that match your search queries on GoEuro, on other websites and in mobile apps. To learn more about this type of targeted advertising and your options for preventing it, follow this link: [Youronlinechoices](https://www.youronlinechoices.eu/)
 
 
 
-If you click a link on our websites that will take you to websites of other providers (for example, for making a booking or to buy a ticket), it is possible that these other websites also place cookies on your computer. We have no control over these cookies and the data collected in this and cannot accept any responsibility in that regard. 
+If you click a link on our websites that takes you to websites of other providers (for example for making a booking or to buy a ticket), it is possible that these other websites also store cookies on your computer. We have no control over these cookies and the data collected in this way and cannot accept any responsibility in that regard. 
 
-II. How do we use your data and with whom we share? 
+######  7\. Use of retargeting tags 
 
-1\. Anonymous Data    
-The automatically gathered data, which have no personal reference is used to perform statistical analysis or market research and may therefore be passed on to partners, advertisers or other third parties. 
+Our website uses what are known as retargeting tags for presentation of interest-related advertising. A retargeting tag is the name for a JavaScript element that is placed in the website’s source code. If a user visits a page on a website that contains a retargeting tag, a provider of online advertising (e.g. Google) places a cookie on that user’s computer and allocates it to corresponding retargeting target group lists. The cookie then serves the purpose of displaying retargeting campaigns ("interest-related advertising") on other websites. Third-party providers, including Google, use these cookies to display advertisements on the basis of a user’s previous visits to our website. No personal data (with the exception of IP-addresses) is stored. 
 
-2\. Personal Data    
-We take the necessary precautions to ensure the protection of personal data provided by you. The partners and service providers to whom we will transfer your data for approved use, are bound by contractual arrangements with us based on the EU Standard Contractual Clauses to ensure an adequate level of data protection. 
+Users of this website can deactivate the use of cookies by Google by bringing up the page “Google ads settings”, (<http://www.google.com/ads/preferences/> ). In addition, users can deactivate the use of cookies by third-party providers by visiting the deactivation page of the "Network Advertising Initiative" and making the appropriate settings there. (<http://www.networkadvertising.org/managing/opt_out.asp>). Facebook also links to the Initiative: <https://www.facebook.com/help/568137493302217>
 
-In particular:
+II. Data Security 
 
-a) Making Contact / Newsletter    
-We use your personal data, especially your email address, to contact you, to send you the travel documents and invoices, to send you a newsletter and to inform you of news in regard to our service, for example, changes to the Terms of Use. You may unsubscribe our regular newsletter, easy and free of charge either on the specified link in the newsletter. 
+We undertake a variety of efforts to protect your data from unauthorised access by third parties, accidental disclosure and/or accidental deletion. We use a variety of technological measures such as encryption, firewall and/or Secure Socket Layer (SSL) technology. 
 
-b) Transfer to our partners    
-If you make a booking on our services sites or apps, we will be transfer the provided personal information the respective travel provider (i.e. airline, train, bus or rental car companies) to personalize your ticket - if necessary. These third parties will then use your personal information in accordance with their own respective privacy policies.
+We outsource certain issues to technology service providers (e.g. technical website hosting) or other service providers. We will forward personal data to these service providers only where this is required for them to perform their services for us. We place our service providers under contractual obligation to observe data protection and data security regulations. 
 
-If you make a booking directly via our booking page, this booking will be processed either by the GoEuro Travel GmbH or the GoEuro Voyages SAS. The GoEuro Travel GmbH and the GoEuro Voyages SAS are affiliated companies of GoEuro Corp. The personal data required for the booking are forwarded to these affiliated companies for the approved use only - on the basis of Agreements for Commissioned Data Processing. The provisions of this privacy policy remain relevant for both affiliates.
+III. Google Analytics 
 
-The credit card data provided in the course of a booking on our service sites is transferred to an external payment service provider to ensure the accuracy of the information and to process the payment. This provider is operating the data according to European Standards for Data Security and Privacy and meets the highest safety requirements.
+On our websites, we use "Google Analytics", a web analytics service provided by Google Inc., or comparable web analytics services. Google uses cookies, which are stored on the user's computer and allow us to analyse the use of our website. The information generated by the cookie about the use, including the current, but truncated user's IP address are transmitted to a Google server in the USA and stored there. Google will use this information to evaluate the use of our website, compiling reports on the activities of the users of our services and to provide other services associated with Internet use. In addition, Google may also transfer this information to third parties if required to do so by law or where such third parties process the information on Google's behalf. You can prevent the installation of cookies by changing the settings of your browser. Please note, however, that this may prevent some of our services’ feature from working correctly. You may, at any time, revoke consent to any future recording and use of your IP address by Google Analytics. More information can be found here: <https://tools.google.com/dlpage/gaoptout> (a selection of downloadable deactivation add-ons for browsers from Google Analytics). 
 
-In addition, the basic features of your request (such as destination and date of travel) will be forwarded to the accomodation service providers shown in the search window (e.g. Booking.com or Airbnb) - but only if the box next to the name of the relevant service provider is checked. Then the service provider will present to you non-binding offers to match your requirements in a new window or tab. A transfer of personal data (except the IP address) does not occur on our part. 
+IV. wywy Analytics Service 
 
-c) Use of retargeting functions    
-Our website uses what are known as "retargeting tags" for presentation of interest-related advertising. A "retargeting tag" is the name for a JavaScript element that is placed in the website’s source code. If a user visits a page on this website that contains a "retargeting tag", a provider of online advertising (e.g. Google) places a cookie on this user’s computer and allocates it to corresponding retargeting target group lists. This cookie then serves the purpose of displaying retargeting campaigns ("interest-related advertising") on other websites. Third-party providers, including Google, use these cookies to display advertisements on the basis of a user’s previous visits to our website. No personal data (with the exception of IP-addresses) is stored. Users of this website can deactivate the use of cookies by Google by bringing up the page “Google ads settings”, ([http://www.google.com/ads/preferences/](https://web.archive.org/web/20170210235848id_/http%3A//www.goeuro.com/%E2%80%9Dhttp://www.google.com/ads/preferences/%E2%80%9D)). In addition, users can deactivate the use of cookies by third-party providers by visiting the deactivation page of the "Network Advertising Initiative" and making the appropriate settings there. ([http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20170210235848id_/http%3A//www.goeuro.com/%E2%80%9Dhttp://www.networkadvertising.org/managing/opt_out.asp%E2%80%9D)) 
+For our TV advert, we use the analytics tool by the Berlin-based company wywy. We use it to analyse how often our advert is clicked and which websites the viewers came from. This entails recording your IP address and, in some cases, identification of your operating system and browser. This data cannot be used to identify you. Refer to wywy’s privacy policy to learn how you can prevent your visit to sites hosting our TV advert from being recorded: <http://wywy.com/wywy-opt-out/>. 
 
-d) Disclosure on the order of the authorities    
-We might have to disclose personal information when we are legally obliged by law or be obliged by law enforcement or other authorized authorities to do so. A disclosure of personal data (in particular the name, e-mail address or the address) to public authorities or authorized third parties is only carried out only if the stipulations of the law require that we do so, e.g. by order of the competent authorities, such as police authorities or owners of intellectual property rights, for example, for law enforcement or security reasons.
+V. Optimizely Web Analytics Service 
 
-We may also disclose your information if disclosure of the information is necessary to prevent immediate physical harm or financial loss or to report a suspected illegal activity to uncover or prevent or to enforce our rights and claims.
+We employ Optimizely, a web analytics tool provided by Optimizely, Inc. Optimizely utilises cookies that are saved to your computer and that allow analysis of how you use our website. The information about your use of our websites produced by the cookie is usually transmitted to and stored on a server owned by Optimizely in the USA. 
 
-III. Data Security 
+If, however, you have activated IP anonymisation on this website, Optimizely will truncate your IP address within European Union member states or in other states party to the Treaty on the European Economic Area. In exceptional cases only, your IP address will be transmitted in full to an Optimizely server in the USA and truncated there. Optimizely will use this information on our behalf to analyse how you use our website and to compile reports on website activity. 
 
-We undertake a variety of efforts to protect your data from unauthorized access by third parties, accidental disclosure and / or accidental deletion. We use a variety of technological measures such as encryption, firewall and / or Secure Socket Layer (SSL) technology. 
+The IP address transmitted by your browser, as part of the Optimizely process, will not be correlated with any other Optimizely data. You can prevent the saving of cookies by configuring your browser accordingly; please note, however, that this may prevent you from fully using all of our website’s functionality. Additionally, you can disable Optimizely tracking at any time by following the instructions at http://www.optimizely.com/opt_out. 
 
-IV. Third party websites 
+VI. Social Plugins 
 
-As part of our services we offer links and references to other websites and direct you to these sites for inquiries. Some of these websites may even be provided with the name or logo of GoEuro. We point out that we have no control over the collection and use of data on these sites and cannot assume any responsibility in that regard. Please make sure to study the privacy policies of these sites before you use them and / or provide any data. 
+Our website uses what is referred to as social plugins by the following social media providers: 
 
-V. Google Analytics 
+  * Facebook Like published by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, United States 
+  * Twitter published by Twitter, Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, United States 
 
-On our websites we use "Google Analytics", a web analytics service provided by Google Inc. or a comparable web analytics services. Google uses cookies, which are stored on the user's computer and allow us to analyze the use of our website. The information generated by the cookie about the use, including the current, but reduced user's IP address are transmitted to a Google server in the USA and stored there. Google will use this information to evaluate the use of our website, compiling reports on the activities of the users of our services and to provide other services associated with Internet use. In addition, Google may also transfer this information to third parties unless required by law or where such third parties process the information on Google's behalf. You can prevent the installation of cookies by changing the settings of your browser. However, we would like to point out that in this case perhaps not all the features of our services might work. You might, at any time, object the collection and use of your IP address by Google Analytics, with effect for the future. More information can be found here: [https://tools.google.com/dlpage/gaoptout?hl=en](https://web.archive.org/web/20170210235848id_/http%3A//www.goeuro.com/%E2%80%9Dhttps://tools.google.com/dlpage/gaoptout?hl=en%E2%80%9D) (A variety of downloadable deactivation add-ons for browser from Google Analytics) 
 
-VI. Social Plugins (namely Facebook) 
 
-On our service pages we integrate applications from other service providers that offer users additional services and functionality that we do not provide, which allow for networking with other sites, especially the so-called social plugins "Like" and "Share" of Facebook ("plugin"). These plugins are identifiable by the logo of the respective service provider. If such a plugin is accessed from our service pages, your browser establishes a direct connection to the servers of the respective service provider. The content of the plugin is transferred by the respective service provider directly to the browser. Via this plugin, data may be collected by the service provider, processed and stored. 
+Social plugins are software modules developed by social media providers. We have incorporated these modules into our website. Social plugins use your browser to set up a direct connection to the servers of the respective social media provider. This informs the social media provider that you have accessed the part of our website incorporating the social plugin. If you are registered with the respective social media provider and are logged in, the provider may be able to correlate your visit to our website and your further interaction with the social plugin (e.g. clicking Like) with your user account. If you are not registered with or logged in to the respective social media provider, the provider may save your IP address. 
 
-GoEuro does not provide any of your personal information to these service providers but we cannot influence the extent to which data is collected via the plugin. For the collection and processing of such data, the data protection provisions of the respective provider apply. In regard to the service provider Facebook, we like to indicate the following: If you are registered with Facebook (and you are logged in), Facebook can assign your visit to GoEuro and its interaction with the Facebook plugin to your Facebook account and might indicate the use of the "like "or "share" on your Facebook profile, while such information is provided directly by the browser to Facebook and is stored there.
+To protect you from such data transmission to the respective social media provider, we have set up according technical precautions (2-click solution). The two-stage solution provides you with an opportunity to consent to the use of the respective social plugin before it transmits data to the social media provider. You can grant consent case-by-case or permanently. Permanent consent can be revoked. This means that if you do not want a social media provider to record data using social plugins on our website, do not activate the respective social plugin by clicking it. 
 
-We might also allow Facebook users to register with us using the integrated application "Facebook Connect". This application allows the transfer of certain personal information (deposited with Facebook) to us. Facebook will inform you during the registration process about which data is to be transferred ("Facebook data") for which purpose - you may express consent or refuse such information transfer. Without your prior consent none of your personal information from Facebook will be transferred to us.We will use the Facebook data only for the purposes outlined in these privacy conditions. In addition, we use it only in an anonymous form, to create statistics and analysis for the purpose of improving and developing our range of service. 
+For further details on how Facebook uses the respective plugin and the corresponding social media service, refer to: <http://developers.facebook.com/plugins>
 
-VII. Changes and updates of our Privacy Policy Statement 
+Further details on Facebook’s data policies are available at: <http://www.facebook.com/about/privacy>
 
-GoEuro may update and amend this Privacy Policy Statement as necessary. In case of significant changes our registered users will be informed by email. Users who are not registered with us will be informed about such updates on our services sites. The changes take effect 14 days after such notification. Only minor and insignificant changes take effect immediately and without any notice given. Please read this Privacy Policy Statement periodically and keep informed about current regulations. If you keep using the services and the websites after we have made an update to this Privacy Policy, you are giving your consent to the updated Privacy Policy. 
+VII. GoEuro App 
 
-VIII. Transmission of data to third countries 
+The GoEuro app is an alternative way to access offers by GoEuro. The GoEuro app in principle records, processes and utilises data in the same way as the GoEuro website. The contents of this privacy policy thus apply accordingly. 
 
-Data transmission to third countries (outside the EU) by us will only be performed insofar as the data transmission is fundamentally permissible and the specific requisites for transfer to a third country have been met; in particular, the data importer must guarantee an acceptable level of data protection in accordance with EU Standard Contractual Clauses for the transmission of personal data to order processing organizations in third countries. This is founded on the basis of EU Data Protection Laws. 
+When using the app, GoEuro can access additional data relating to the app or your mobile device, e.g. the device name, device manufacturer, model, operating system version, app version or SDK version. If you are using an Android device, the app can also detect what Google services you have subscribed to and can prevent your device from going into standby while the app is running. 
 
-IX. Right to information and deletion 
+We record your device’s current location to use it for processing your query (filling in your location in the search form). Your position data is transmitted through an encrypted connection. If you use GPS, the app will detect your precise location. If your device runs iOs, this will require you to grant permission first. 
 
-In accordance with the applicable data protection laws, you as a user you have - at all times - the right to obtain information about the nature and scope of the data stored from you and about you. Please, just send us message with your request for information including your specified user name and your E-mail address stored with us in writing - to the contact address mentioned hereunder (mail or e-mail).
+If you have configured your mobile device accordingly, the GoEuro app will be able to send you push messages, e.g. to provide updates on GoEuro, status updates, campaigns, other news or to notify you of new features. 
 
-In case you terminate your registration with GoEuro or send us a request for termination in writing, the personal data, including your user name will be deleted. The complete deletion of all data can take 7 business days to clear from the date of termination (request).
+By enabling push notification, you consent to receiving messages from us that may include advertising for GoEuro or from/for third parties in addition to information from GoEuro. You can adjust the settings for receiving push notification or unsubscribe from them at any time using the app or your operating system configurations. 
 
-Only such data that we need to assert any existing contractual or legal rights, i.e. in the event of litigation or for the storage required by law, may be excluded from immediate deletion. These data will be banned from our site.
+VIII. Changes and Updates to our Privacy Policy Statement 
 
-X. Contact 
+GoEuro may update and amend this Privacy Policy Statement as necessary. We will notify our registered users of changes by e-mail and ask once more for their consent. 
 
-If you have any questions about our privacy policy, if you like to obtain information about the nature and scope of the data stored or request the deletion, please, contact us: 
+IX. Data used by GoEuro Travel GmbH 
+
+GoEuro Corp. employs GoEuro Travel GmbH, Schönhauser Allee 180, 10119 Berlin, Germany as a service provider to, among other things, operate computer systems, handle order processing and perform customer service. 
+
+GoEuro Travel GmbH is a subsidiary of GoEuro Corp. Your personal data will be forwarded to GoEuro Travel GmbH or recorded directly by GoEuro Travel GmbH. GoEuro Travel GmbH will process your data solely in accordance with this privacy policy and only for the purposes of performing services for GoEuro Corp., specifically for running the GoEuro platform and providing associated services. We contractually obligate GoEuro Travel GmbH to observe the provisions of this privacy policy, to process your data for the aforementioned purposes only and to observe all legal data protection and data security regulations. 
+
+You consent to our transmitting your personal data to GoEuro Travel GmbH, Schönhauser Allee 180, 10119 Berlin, Germany or to GoEuro Travel GmbH recording said data directly. GoEuro Travel GmbH will process your personal data solely in accordance with this privacy policy and solely for performing services for GoEuro Corp. 
+
+X. Right to Information, Revocation and Deletion 
+
+In accordance with the applicable data protection laws, you as a user have – at any time – the right to obtain information about the nature and scope of the data stored by you and about you. To do so, please send us a message detailing your request for information, including the e-mail address you have stored with us, to the contact addresses given below (post or e-mail). 
+
+Should you wish to delete your GoEuro account or wish to terminate your registration with GoEuro, or if you send us a request for termination in writing, we will delete or block your personal data. 
+
+If we are using your personal data because you consented to such use, such as is the case when you receive our newsletter, you can revoke your consent to any future use by e-mail or letter. If you revoke your consent by e-mail, you will incur no costs beyond the base cost of message transmission. 
+
+Please note that revoking individual declarations of consent may result in preventing GoEuro from continuing to provide you with certain services or that GoEuro may be forced to terminate your user account as we are unable to maintain user accounts with varying levels of consent. 
+
+XI. Contact 
+
+If you have any questions about our privacy policy, or if you wish to obtain information about the nature and scope of the data stored or wish to request deletion of your data, please contact us at:
 
 privacy@goeuro.com
 
-or  
+or by letter to our  
 **Postal Address:**  
 GoEuro Corp.  
 Schönhauser Allee 180  
@@ -156,4 +189,4 @@ Affiliated companies:
 
 * * *
 
-This Privacy Policy was last updated in March 2016.
+This Privacy Policy was last updated in December 2016.
