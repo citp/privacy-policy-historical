@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magneticsponsoring.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630060555id_/http%3A//magneticsponsoring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magneticsponsoring.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117100435id_/http%3A//magneticsponsoring.com/privacy-policy) for the most accurate reproduction.*
 
 # Magnetic Sponsoring » Privacy Policy
 
@@ -67,7 +67,7 @@ We use SSL encryption to protect sensitive information online, and we do everyth
 
 7\. Contacting Us
 
-If you need to contact us, you can submit a support ticket at http://www.mikedillard.com/support, email us at support@mikedillard.com, or send us a letter at: 3736 Bee Cave Road, #1-162, Westlake Hills, Texas 78746.
+If you need to contact us, you can submit a support ticket at http://www.mikedillard.com/support, email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or send us a letter at: 3736 Bee Cave Road, #1-162, Westlake Hills, Texas 78746.
 
 We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
 
@@ -77,7 +77,7 @@ Alternatively, the law provides that if a company has a Privacy Policy that give
 
 This Site qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
 
-If you are a California resident and want to request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Please send an email to the Privacy Administrator at support@mikedillard.com, or you may contact us via regular 
+If you are a California resident and want to request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Please send an email to the Privacy Administrator at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or you may contact us via regular 
 
 mail at:  
 Mike Dillard Media LLC  
