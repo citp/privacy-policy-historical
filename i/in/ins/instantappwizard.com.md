@@ -1,73 +1,78 @@
-> *The following text is extracted and transformed from the instantappwizard.com privacy policy that was archived on 2016-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160723234858id_/http%3A//www.instantappwizard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantappwizard.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117064836id_/http%3A//appwizardstudio.com/privacy-policy) for the most accurate reproduction.*
 
-# Instant App Wizard
+# Privacy Policy - APP WIZARD STUDIO
 
-**What information do we collect?**
+## Introduction
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
+This privacy policy (“Policy”) and this site’s Terms of Service (together the “Terms”) govern all use of [http://appwizardstudio.com](http://appwizardstudio.com/) and that site’s services (together the “Site” or “Services”). The owners and contributors to the Site will be referred to as “we,” “us,” or “our” in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a “user” for purposes of this Policy. You and every other user (“you” or “User” as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word “Site” includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site without entering your information. Our site can still set cookies via a users browser so we can show ads to interested users after they have left our site. This is commonlly called "retargeting" and is done via Facebook, Google, Perfect Audience ad companies. We collect no personal information when retargeting, the afore referenced ad companies simply place a cookie that tells them to show our ad to users that have visited our site when they are on other sites. 
+We provide this privacy statement explaining our online information practices, so that you can decide whether and how to interact with the Site and the Services.
 
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-To personalize your experience. (your information helps us to better respond to your individual needs)
-
-To improve customer service. (your information helps us to more effectively respond to your customer service requests and support needs)
-
-To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Children's Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Online Privacy Policy Only**
+We may release your information when we deem it appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Terms and Conditions**
+Please also review our Terms of Use section that governs the use and the users of the Site.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.instantappwizard.com](http://www.instantappwizard.com/)
+By using our site, you consent to our privacy policy.
 
-**Changes to our Privacy Policy**
+If we decide to change our privacy policy, we will post those changes on this page. If we have your email address, we may also send an email notifying you of any changes.
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+## Contact Data and Other Identifiable Information
 
-**Contacting Us**
+This site collects certain user information, which may include a username and password, contact information, or any other data that you type in to the site. It may also identify your IP address to help identify you on future visits to the site. At our discretion, the Site may use this data to:
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+  * Personalize the user experience and/or customer service
+  * Improve the site
+  * To process transactions
+  * Administer a contest, promotion, survey or other site feature or function
+  * Send email to users 
 
-Instant App Wizard   
-PO 186  
-New Port Richey, Florida  USA34656
+help the site owner operate and manage the site,  
+are the site owner’s advertisers and marketing partners,
 
-support @ instantappwizard.com 
+
+
+
+## Mobile Device Privacy
+
+The following applies to our site, when viewed on a mobile device:  
+When accessed with a mobile deivce, our site may collect information automatically, such as the type of mobile device you have, device identifiers, and information about your use of the site. Regardless of the device you use to access the site, it will also collect information you provide, as well as information about your interaction with the site and its content.  
+If location services are activated on your mobile device, our site may collect information about the location of your device. Your mobile network service providers may collect device-specific information, such as a device identifier, when you use our website or one of our mobile applications. This information collected by your mobile network service will not be associated with your user account with us, or with your personally identifiable information.
+
+## Protection of user information
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you share with the site.
+
+### Advertising Network
+
+We use one or more third party vendors to serve ads on the Site. To serve ads and determine how our users use the Site, these services use cookies, or small pieces of code to serve ads to Site users based on users’ visits to the Site and others. Users may adjust their browser settings to disallow the use of cookies. With cookies turned off, certain features of the Site may work less efficiently or not at all.
+
+We use Google as an advertising services provider for the Site. Users may opt out of Google’s use of the DART use-tracking cookie by visiting the Google advertising Policies & Principles page. If you opt out of ad tailoring, you will still see ads, but they will not be based on your browsing history, and they may appear in other languages.
+
+### Cookies
+
+This site uses cookies. Cookies are small pieces of code that the Site or a service provider will put on your computer if your Web browser allows it. The Site uses cookies to recognize and keep certain information. On the Site, that information may be used to recognize your computer and browser from current or past visits to the Site or related sites. We may use this cookie-captured information to improve our service to you, to aggregate information about visitors to the Site and their behavior, to remember and process items in your shopping cart, to understand and save user preferences, or to keep track of advertising. We may contract with third-party service providers to assist us in better understanding our site visitors.  
+In most Internet browsers, you can change your settings so that you will be warned each time a cookie is being sent, or so that cookies will be turned off. With cookies blocked, some functions of the Site may not operate properly.
+
+## Usernames, Passwords, and Profiles
+
+If prompted, Users must provide a valid email address to the Site, at which the User can receive messages. User must also update the Site if that email address changes. The Site reserves the right to terminate any User account if a valid email is requested but is not provided by the User.  
+If the Site prompts or allows a User to create a username or profile, Users agree not to pick a username or provide any profile information that would impersonate someone or that is likely to cause confusion with any other person or entity. The Site reserves the right to cancel a User account or change a username or profile data at any time. Similarly, if the Site prompts or allows a User to create an avatar or upload a picture, User agrees not to use any image that impersonates some other person or entity, or that is otherwise likely to cause confusion.  
+You are responsible for protecting your username and password for the Site, and you agree not to disclose it to any third party. We recommend that you use a passwork that is more than eight characters long. You are responsible for all activity on your account, whether or not you authorized it. You agree to inform us of unauthorized use of your account, by email to appwizardstudio @gmail.com. You acknowledge that if you wish to protect your interactions the Site, it is your responsibility to use a secure encrypted connection, virtual private network, or other appropriate measures.
+
+## Disputes
+
+We are based in Clearwater Florida and you are contracting to use our Site. This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of Clearwater Florida, without regard to any choice of laws rules of any jurisdiction. The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in Clearwater Florida will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
+
+## ARBITRATION
+
+Notwithstanding anything that may be contrary within the “Disputes” provisions above, all matters, and all claims within a multi-claim matter, that are arbitrable, including all claims for monetary damages, shall be decided by a single arbitrator to be selected by us, who shall hold hearings in or near Clearwater Florida, under the rules of the American Arbitration Association.
+
+## Terms Contact
+
+If you have any questions about these Terms, please address them to appwizardstudio @gmail.com.
+
+## Last Updated
+
+These terms were last updated on _August 23, 2016_
