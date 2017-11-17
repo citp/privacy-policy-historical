@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180330id_/https%3A//www.snapfish.com.au/store/privacy-overlay) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117042541id_/https%3A//www.snapfish.com.au/store/privacy-overlay) for the most accurate reproduction.*
 
 # privacy-overlay Snapfish
 
 ## Privacy Statement
 
-Snapfish takes your privacy very seriously. This Privacy Policy describes exactly how Snapfish uses the Customer Information, defined below, that we collect from our customers. For the purposes of this Privacy Policy, "Snapfish" means Snapfish2 LLC and any successors to the assets or business of Snapfish2 LLC and a "customer" is a person who uses the Snapfish Service (as defined below) or engages with us via our web site, located at [www.snapfish.com.au](http://www.snapfish.com.au/), our native apps and any mobile platform (the "Site"). If you have questions or concerns regarding this statement, you should first contact our [Customer Service](http://snapfish-au2.custhelp.com/app/home/brand/56/brand_host/new.snapfish.com.au) department. This Privacy Policy is effective as of June 1, 2015.
+Snapfish takes your privacy very seriously. This Privacy Policy describes exactly how Snapfish uses the Customer Information, defined below, that we collect from our customers. For the purposes of this Privacy Policy, "Snapfish" means Snapfish2 LLC and any successors to the assets or business of Snapfish2 LLC and a "customer" is a person who uses the Snapfish Service (as defined below) or engages with us via our web site, located at [www.snapfish.com.au](http://www.snapfish.com.au/), our native apps and any mobile platform (the "Site"). If you have questions or concerns regarding this statement, you should first contact our [Customer Service](https://support.snapfish.com/hc/en-us?c=snapfishau) department. This Privacy Policy is effective as of June 1, 2015.
 
 By using the services made available by Snapfish via the Site ("Snapfish Service"), you consent to the collection, use and disclosure of information in the manner described below. If we decide to change the manner in which we use Customer Information, we will notify you via a post on this page. Please check this page from time to time for changes to make sure you are kept up-to-date on our use of the information collected from our customers.
 
@@ -18,7 +18,7 @@ When you want to upload digital pictures or view others' pictures on the Site, w
 
 We will collect the pictures that you upload from your computer or from your social media pages, as well as the information about your social media pages.
 
-When you want to share your pictures with others ("Invitees"), we will ask for email addresses and mobile phone numbers of your Invitees. You must ensure that all images shared comply with our [Terms of Use](https://web.archive.org/web/20170606180330id_/https%3A//www.snapfish.com.au/store/termsandconditions). Namely, you must only share photos where you have the appropriate rights to the images and you have reasonable grounds for believing that the people pictured in the photos would consent to their images being shared. Further, you must only provide the email addresses and mobile phone numbers of your Invitees when you have the Invitees' consent or your relationship is such that the Invitee would consent to receiving the email or being contacted by phone.
+When you want to share your pictures with others ("Invitees"), we will ask for email addresses and mobile phone numbers of your Invitees. You must ensure that all images shared comply with our [Terms of Use](https://web.archive.org/web/20171117042541id_/https%3A//www.snapfish.com.au/store/termsandconditions). Namely, you must only share photos where you have the appropriate rights to the images and you have reasonable grounds for believing that the people pictured in the photos would consent to their images being shared. Further, you must only provide the email addresses and mobile phone numbers of your Invitees when you have the Invitees' consent or your relationship is such that the Invitee would consent to receiving the email or being contacted by phone.
 
 When you complete a purchase from Snapfish, we will ask you to provide shipping and billing information so that we can fulfill your request.
 
@@ -74,7 +74,7 @@ Back to top
 
 ###### 5\. Does Snapfish send text messages?
 
-Yes! By using the Site and providing your mobile phone number, you hereby consent to receive autodialed and/or pre-recorded text messages from or on behalf of us at the mobile number that you provide at sign-up. You understand that consent to receiving messages on your mobile device is not a condition of purchase and understand that message and data rates may apply. Additionally, should you choose to stop receiving such messages, you can contact [Customer Service](http://snapfish-au2.custhelp.com/app/home/brand/56/brand_host/new.snapfish.com.au) or reply STOP to a text messages once it is received. However, you hereby consent to receiving a confirmatory message in response to your STOP request.
+Yes! By using the Site and providing your mobile phone number, you hereby consent to receive autodialed and/or pre-recorded text messages from or on behalf of us at the mobile number that you provide at sign-up. You understand that consent to receiving messages on your mobile device is not a condition of purchase and understand that message and data rates may apply. Additionally, should you choose to stop receiving such messages, you can contact [Customer Service](https://support.snapfish.com/hc/en-us?c=snapfishau) or reply STOP to a text messages once it is received. However, you hereby consent to receiving a confirmatory message in response to your STOP request.
 
 Back to top
 
@@ -116,7 +116,7 @@ Back to top
 
 Customer Information that you provide during registration is available in your Snapfish online account. To edit your Customer Information, you must enter your email address and password to access your account. You may edit your account information at any time.
 
-You can also cancel your Snapfish membership by contacting [Customer Support](http://snapfish-au2.custhelp.com/app/home/brand/56/brand_host/new.snapfish.com.au). If you request cancellation of your account, Snapfish may (but is not required to) remove any and all content (photos) or other personal information from the Site, and your photos may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law.
+You can also cancel your Snapfish membership by contacting [Customer Support](https://support.snapfish.com/hc/en-us?c=snapfishau). If you request cancellation of your account, Snapfish may (but is not required to) remove any and all content (photos) or other personal information from the Site, and your photos may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law.
 
 Back to top
 
@@ -124,8 +124,8 @@ Back to top
 
 If you choose to provide us with your Customer Information, Snapfish may transfer that information to affiliates, partners, or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your Customer Information to the United States which does not have the same data protection laws as the EU and by providing your Customer Information you consent to:
 
-  * the use of your Customer Information for the uses identified above in accordance with this privacy policy; and 
-the transfer of your Customer Information to the United States as indicated above. 
+  * the use of your Customer Information for the uses identified above in accordance with this privacy policy; and
+the transfer of your Customer Information to the United States as indicated above.
 
 
 Back to top
@@ -147,6 +147,6 @@ Snapfish Privacy
 South Tower, Suite 500  
 San Francisco, CA 94107
 
-[Customer Service](http://snapfish-au2.custhelp.com/app/home/brand/56/brand_host/new.snapfish.com.au)
+[Customer Service](https://support.snapfish.com/hc/en-us?c=snapfishau)
 
 Back to top
