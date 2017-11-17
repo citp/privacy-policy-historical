@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-law-schools.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620082847id_/http%3A//www.top-law-schools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-law-schools.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117223946id_/http%3A//top-law-schools.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
