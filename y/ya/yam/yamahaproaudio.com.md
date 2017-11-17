@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamahaproaudio.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611143955id_/http%3A//www.yamahaproaudio.com/global/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamahaproaudio.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117233818id_/http%3A//www.yamahaproaudio.com/global/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yamaha
 
