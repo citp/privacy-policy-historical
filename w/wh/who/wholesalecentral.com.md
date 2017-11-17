@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalecentral.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100153id_/http%3A//www.wholesalecentral.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalecentral.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117073016id_/http%3A//www.wholesalecentral.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | WholesaleCentral.com
 
