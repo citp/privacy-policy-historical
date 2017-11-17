@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espares.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012103id_/http%3A//www.espares.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espares.co.uk privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117093148id_/http%3A//www.espares.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eSpares
 
@@ -25,7 +25,7 @@ We use the information you provide for the following purposes:
 
 
 
-You can at any stage change your privacy details by logging in to [Your Account](https://www.espares.co.uk/account) or [contacting us](https://web.archive.org/contact/customerservices).
+You can at any stage change your privacy details by logging in to [Your Account](https://web.archive.org/account) or [contacting us](https://web.archive.org/contact/customerservices).
 
 When you place an order we need to know your name, email address, delivery address, credit or debit card number and the card's expiry date. This allows us to process and fulfil your order and to notify you of the status of your request. We may also ask for your telephone number which enables us or our contractor to contact you urgently if there is a problem with your order.
 
