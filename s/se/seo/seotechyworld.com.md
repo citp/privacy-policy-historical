@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotechyworld.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607075406id_/http%3A//seotechyworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotechyworld.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117144748id_/http%3A//seotechyworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
