@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the force9.co.uk privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419015711id_/https%3A//www.plus.net/help/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the force9.co.uk privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117221925id_/https%3A//www.plus.net/help/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Help & Support - Plusnet
 
@@ -41,7 +41,7 @@ In the below we’ve detailed what personal information we’ll collect when you
 
 ### When you sign up for our service(s):
 
-  * **What we collect:** when you sign up for a service or services with us we'll ask you for your name, address, phone number, email address, mobile number, payment information and some other general information about how you want to use the service(s) and what other services you have. We’ll ask you to create a username and a password and we’ll also create a unique identifier for you. For some services we’ll also collect some extra information, such as your date of birth and previous addresses. 
+  * **What we collect:** when you sign up for a service or services with us we'll ask you for your name, address, phone number, email address, mobile number, payment information and some other general information about how you want to use the service(s) and what other services you have. We’ll ask you to create a username and a password and we’ll also create a unique identifier for you. For some services we’ll also collect some extra information, such as your date of birth and previous addresses.
 
   * **Why we collect it:** we ask you for this information so we’re able to place your order, contact you about your order’s progress, process your payment and provide you with the service(s). We may also use it to check or confirm your identity. Your address and phone number, and the general information you provide on how you want to use our services, allow us to check what services we can provide you and to discuss the best service option for you. If you sign up for Plusnet Mobile we may also do a credit or fraud prevention check.
 
@@ -78,12 +78,14 @@ We’re legally required to keep this information. Sometimes court orders and ag
 
   * **What we collect:** we’ll capture and collect certain location information. Normally it’s only an approximate location, which is based on where you are relative to the nearest mobile phone masts. So we can’t tell if you’re in a particular house or shop. We’ll also collect details about the mobile phone you’re using, such as your hardware model, operating system version, unique device identifier and advertising identifiers on your device. And we’ll collect the setting you’re using on your phone, for example if you’ve got roaming on or off. We might collect some information about your broadband account with us as well.
 
-  * **Why we collect it:** we use the [information you give us when you sign up](https://web.archive.org/web/20170419015711id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-sign-up-for-our-service-s-#what-information), the [information we collect when you use our services](https://web.archive.org/web/20170419015711id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-use-any-of-our-services-#what-information), some location information and the device information to be able to provide our mobile service. We’ll also use location information to make sure you’re getting the most from your network coverage, to manage our network, and for reporting of network issues in particular areas. We may collect some information about your broadband account to see if you’re eligible for any special offers.
+  * **Why we collect it:** we use the [information you give us when you sign up](https://web.archive.org/web/20171117221925id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-sign-up-for-our-service-s-#what-information), the [information we collect when you use our services](https://web.archive.org/web/20171117221925id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-use-any-of-our-services-#what-information), some location information and the device information to be able to provide our mobile service. We’ll also use location information to make sure you’re getting the most from your network coverage, to manage our network, and for reporting of network issues in particular areas. We may collect some information about your broadband account to see if you’re eligible for any special offers.
 
 
 
 
-When you install some apps, they might ask that your mobile phone collects location, calling and other personal information. We aren’t responsible for how these apps use your personal information so we’d recommend you look at these apps privacy policies before installing them. 
+We may use information on the countries where you use your mobile so we can bill you appropriately and so we can determine if a [surcharge](https://web.archive.org/help/legal/mobile-fair-usage-policy/) is applicable. We don’t use location data to do this and don’t know where within that country you are using our service.
+
+When you install some apps, they might ask that your mobile phone collects location, calling and other personal information. We aren’t responsible for how these apps use your personal information so we’d recommend you look at these apps privacy policies before installing them.
 
 Location information might be shared with the emergency services if you make an emergency call so they can respond more quickly to the call. Sometimes public authorities will use location data to get in touch with you in the event of a public emergency. For example, the Environment Agency might send a warning about very severe flooding in your area.
 
@@ -91,16 +93,18 @@ Location information might be shared with the emergency services if you make an 
 
 ### When you take YouView TV from Plusnet:
 
-  * **What we collect:** when you subscribe to YouView TV from Plusnet we may take details of the devices you use to connect to the service, the channels and programmes you watch, and adverts and services you access (for example, how you view, record or fast forward them). 
+  * **What we collect:** when you subscribe to YouView TV from Plusnet we may take details of the devices you use to connect to the service, the channels and programmes you watch, and adverts and services you access (for example, how you view, record or fast forward them).
 
-  * **Why we collect it:** we do this so we can provide you with a personalised service, like viewing recommendations and tailored advertising. You can turn this off but you’ll get general content recommendations and adverts. 
-
-
+  * **Why we collect it:** we do this so we can provide you with a personalised service, like viewing recommendations and tailored advertising. You can turn this off but you’ll get general content recommendations and adverts.
 
 
-Further information on the YouView TV services’ use of personal information can be found in YouView’s privacy policy. 
+
+
+Further information on the YouView TV services’ use of personal information can be found in YouView’s privacy policy.
 
 * * *
+
+### When you use the Plusnet Community:
 
   * **What we collect:** we capture the information you provide when you register to be a Plusnet Community user, and any information you provide in your contributions. We also compile statistics on the usage of the Community (for example, how many visitors there are to the Community, when they visited, for how long and which areas of the Community were visited). In respect of any personal information you may upload or post on the Community, it is your decision to do so and we don’t determine the purposes for which (and manner in which) you’ve uploaded or posted the information.
 
@@ -124,7 +128,7 @@ Personal information that you have made publicly available on the Community may 
 
 
 
-If you’re a customer who has been referred to us, we have to let the person who referred you know whether they are still eligible to receive a referral bonus. As this eligibility depends on a number of things you do (for example remaining a customer and making payments on time), this may involve indirectly letting the person who referred you know certain limited information about you. However, we’ll never provide the exact reason why they are no longer eligible to receive a referral bonus. 
+If you’re a customer who has been referred to us, we have to let the person who referred you know whether they are still eligible to receive a referral bonus. As this eligibility depends on a number of things you do (for example remaining a customer and making payments on time), this may involve indirectly letting the person who referred you know certain limited information about you. However, we’ll never provide the exact reason why they are no longer eligible to receive a referral bonus.
 
 * * *
 
@@ -145,29 +149,44 @@ If you’ve given your details out so a family member, or someone in your househ
 
   * **What we collect:** we may collect information via cookies (see below) and other tracking devices. We may also create unique identifiers that match our records with these providers’ records. Where you sign up for service(s), either online or via the phone, through one of these providers, these providers may collect the information to sign you up for the service(s) on our behalf, rather than us collecting the information from you directly.
 
-  * **Why we collect it:** we use the tracking information and unique identifiers to see whether you’ve been referred to us by a comparison website or cashback provider and to be able to process payments that are due. The information collected to sign you up for service(s) is collected for the same reasons as when you sign up with us directly and the [When you sign up for our service(s) section](https://web.archive.org/web/20170419015711id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-sign-up-for-our-service-s-#what-information) provides full details on this.
+  * **Why we collect it:** we use the tracking information and unique identifiers to see whether you’ve been referred to us by a comparison website or cashback provider and to be able to process payments that are due. The information collected to sign you up for service(s) is collected for the same reasons as when you sign up with us directly and the [When you sign up for our service(s) section](https://web.archive.org/web/20171117221925id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-sign-up-for-our-service-s-#what-information) provides full details on this.
 
 
 
 
-Please note that these comparison websites and cashback providers have their own privacy policies and may use your personal information for wider purposes. We’d recommend you check these policies before you submit any personal information to them. 
+Please note that these comparison websites and cashback providers have their own privacy policies and may use your personal information for wider purposes. We’d recommend you check these policies before you submit any personal information to them.
 
 * * *
 
 ### Where you are entitled to cashback or similar rewards:
 
-  * **What we collect:** sometimes we may also ask you to provide or confirm certain information about your account (e.g. your address or username), either to us or our third party providers who are providing the cashback or reward services. 
+  * **What we collect:** sometimes we may also ask you to provide or confirm certain information about your account (e.g. your address or username), either to us or our third party providers who are providing the cashback or reward services.
 
-  * **Why we collect it:** we may ask you to provide this information so we or our third party providers can validate if you’re entitled to receive the cashback or rewards as part of one of our offers or deals. 
+  * **Why we collect it:** we may ask you to provide this information so we or our third party providers can validate if you’re entitled to receive the cashback or rewards as part of one of our offers or deals.
 
 
 
 
 * * *
 
+### When you take the BT Sport App via Plusnet:
+
+  * **What we collect:** when you subscribe to the BT Sport App via Plusnet, a unique identifier is created. BT will also provide us with your BT ID. BT may also provide us with details on your use of the service (for example how often the service is used, devices you use, the channels, programmes and adverts you watch on them, how long you watch for and what actions you take when doing so).
+
+  * **Why we collect it:** the unique identifier is created so both us and BT can identify if you’re entitled to use the service. BT provide us with your BT ID so we can manage and raise with BT any faults you might have with the service. We use the information on your use of the service to understand how the service is being used and to decide how we market it and other services.
+
+
+
+
+Your BT ID, BT Account and the BT Sport App is managed by BT. Further information on how BT use your personal information when you use the BT Sport App can be found on in [BT Privacy Policy](http://www.productsandservices.bt.com/products/static/privacy-policy/?page=TV).
+
+If you have other BT services, and you use the same BT ID that’s associated with these service when you take the BT Sport App via Plusnet, we will be able to see limited details on these other services.
+
+* * *
+
 ### General:
 
-There are couple of other circumstances where we might collect or use your personal information not covered by the above: 
+There are couple of other circumstances where we might collect or use your personal information not covered by the above:
 
   * We generally carry out market research and analysis on our products and services, customer base and generally to see what we can improve in the future. To do this we, or our third party market research providers, may contact you by text or email so you can provide feedback on our customer service or our services generally, if you want to. This market research and analysis may also involve us sharing or obtaining personal information with companies that pull together information from multiple sources. When we can, we'll make sure that you can't be identified after your participation in the research has ended.
 
@@ -177,7 +196,7 @@ There are couple of other circumstances where we might collect or use your perso
 
   * If you fail to pay us, and still don’t do so after we remind you, your details may be passed onto a third party debt collection agency. This agency may conduct certain searches with credit reference agencies (like Experian or Equifax) and of other public data sources. They do this to better understand your circumstances (such as if the details we provided are up to date or to assess your ability to make payment). These searches may be visible to you if you check your credit record (but not to third parties, although they may be used by the credit reference agencies to inform your credit scores).
 
-  * If we provide you with an email address or a static IP address we’ll use the username you use to access your account within this address, so any personal information within your username may be visible to third parties. If you ask us, we can change your static IP address so that the rDNS does not display your username. 
+  * If we provide you with an email address or a static IP address we’ll use the username you use to access your account within this address, so any personal information within your username may be visible to third parties. If you ask us, we can change your static IP address so that the rDNS does not display your username.
 
 
 
