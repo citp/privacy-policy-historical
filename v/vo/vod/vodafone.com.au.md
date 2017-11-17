@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629121308id_/http%3A//www.vodafone.com.au/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118002158id_/https%3A//www.vodafone.com.au/about/legal/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy To Protect You | Vodafone Australia
 
@@ -26,7 +26,7 @@ The information we collect about you depends on the products and services you us
   * When you tell us, products, services or lifestyle activities you like. Also, how you like to use our products and services.
   * Websites you visit and online searches you do.
   * Details about your account. This includes your password and username.
-  * Your use of mobile voice and data services.
+  * Your use of our services.
   * Information about you that you provide us directly or indirectly when online.
   * Information you provide to us through surveys.
 
@@ -58,8 +58,8 @@ We collect your personal information if you do any of the below:
   * Visit external websites and perform online searches using your device.
   * Visit external pages through our portals like MyVodafone.
   * Make calls to Vodafone. These calls may be recorded for training, quality and business purposes.
-  * Use your mobile device.
-  * Use your mobile device and this results in contact between your device and our network. This contact might tell us about you, your device, your use of our services and your general location.
+  * Use your device.
+  * Use your device and this results in contact between your device and our network. This contact might tell us about you, your device, your use of our services and your location.
   * Apply for a position to work at Vodafone.
 
 
@@ -95,7 +95,7 @@ We may also log your IP address. Your IP address is your computer’s electronic
 
 We may use your personal information and usage information in the ways set out below:
 
-  * Providing you with phone and data products and services. This might include extra services not in your agreement with us. These services may tell us about where you are when using your mobile device.
+  * Providing you with phone and data products and services. This might include extra services not in your agreement with us.  These services may tell us about where you are when using your device.
   * Contacting you with messages about changes to our products or services.
   * Generating bills, managing your account, and carrying out debt-recovery.
   * Processing orders or applications to become a customer.
@@ -105,10 +105,10 @@ We may use your personal information and usage information in the ways set out b
   * Carrying out market analysis and research.
   * Development of our products and services.
   * Understanding how customers use our network, products and services anonymously and personally.
-  * Analysing the things that interest you as well as where you use your mobile device. We use those details to provide you with services, products and information suited to your needs, interests and location.
+  * Analysing the things that interest you as well as where you use your device. We use those details to provide you with services, products and information suited to your needs, interests and location.
   * Contacting you about our products and services and those offered under other brands that our group owns. This may include marketing these products to you. See below for more information about direct marketing communications.
   * Identifying your location so we can send you emergency alerts.
-  * Protecting our network and managing the volume of calls, TXTs and other use of our network. For example, we identify peak periods of use so our network can better handle the volume at those times.
+  * Protecting our network and managing the data use, volume of calls, TXTs and other uses of our network. For example, we identify peak periods of use so our network can better handle the volume at those times.
   * Conducting internal investigations in relation to crime and fraud prevention, detection, recovery or prosecution.
   * Training our staff.
 
@@ -149,7 +149,7 @@ Vodafone might disclose your personal information both within and outside Austra
   * Credit providers or credit reporting agencies for the purposes permitted under the Privacy Act and credit reporting legislation.
   * Our service and content providers including the providers of IT services and mailing services.
   * Our dealers, agents, contractors and advisers.
-  * Our mobile device manufacturers and repairers.
+  * Our device manufacturers and repairers.
   * Our providers of marketing, research, call centre and telemarketing services.
   * Vodafone Hutchison Australia and other companies in the Vodafone group.
   * Your authorised representatives or legal advisors.
@@ -158,7 +158,7 @@ Vodafone might disclose your personal information both within and outside Austra
   * Law enforcement bodies to assist in their functions, courts of law or as otherwise required or authorised by law.
   * Emergency services (if you make an emergency call) or other service providers assisting in emergency situations.
   * Regulatory or government bodies to resolve customer complaints or disputes both internally and externally. Or to comply with any investigation by one of those bodies.
-  * Other telco companies for the purposes of dealing with unwelcome calls and mobile number portability issues.
+  * Other telco companies for the purposes of dealing with unwelcome calls and number portability issues.
 
 
 
@@ -173,7 +173,7 @@ We take reasonable steps to make sure the overseas recipients of your personal i
 We may store or sometimes disclose personal information to entities outside Australia. Some of these entities are:
 
   * Companies in the Vodafone group located in the UK and Hong Kong.
-  * Vodafone’s data hosting and other service providers located in India, Japan, New Zealand, the Philippines, Fiji, Singapore, Sweden, the UK and the USA.
+  * Vodafone’s data hosting and other service providers located in Fiji, Germany, India, Japan, New Zealand, the Philippines, Singapore, Sweden, the UK and the USA.
 
 
 
@@ -215,7 +215,7 @@ Telecommunications Industry Ombudsman: PO Box 276, Collins Street West, VIC 8007
 
 ### Contact us
 
-If you have any questions about your privacy, or if you would like a printed copy of this privacy policy (free of charge), [ please contact us](http://www.vodafone.com.au/contact).
+If you have any questions about your privacy, or if you would like a printed copy of this privacy policy (free of charge), [ please contact us](https://www.vodafone.com.au/contact).
 
 Call [ 1555](tel:1555) from your Vodafone mobile.
 
@@ -228,7 +228,7 @@ Vodafone Customer Care PO Box 2580 
 Kingston Delivery Centre   
 Kingston, Tasmania 7050
 
-### **Vodafone Privacy Policy, April 2015**
+### **Vodafone Privacy Policy, 1 July 2017**
 
 Vodafone Hutchison Australia Pty Limited ABN 76 096 304 620.
 
@@ -238,4 +238,4 @@ Vodafone Pty Limited ABN 76 062 954 554.
 
 Vodafone Network Pty Limited ABN 31 081 918 461.
 
-Registered address: Level 7, 40 Mount Street, North Sydney NSW 2060. References to ‘Vodafone Group’ may include Vodafone Hutchison Australia and its parent and related companies.
+Registered address: Level 1, 177 Pacific Highway, North Sydney NSW 2060. References to ‘Vodafone Group’ may include Vodafone Hutchison Australia and its parent and related companies.
