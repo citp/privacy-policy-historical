@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianhiddencams.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518215331id_/http%3A//www.indianhiddencams.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianhiddencams.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117051230id_/http%3A//indianhiddencams.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
