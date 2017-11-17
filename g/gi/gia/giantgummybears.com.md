@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantgummybears.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093045id_/http%3A//giantgummybears.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantgummybears.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117133951id_/http%3A//giantgummybears.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Giant Gummy Bears!™ - Privacy Policy
 
