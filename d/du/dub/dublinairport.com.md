@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublinairport.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607114155id_/https%3A//www.dublinairport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublinairport.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117173729id_/https%3A//www.dublinairport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
