@@ -1,17 +1,41 @@
-> *The following text is extracted and transformed from the intex.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000057id_/http%3A//www.intex.in/Home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intex.in privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117134500id_/http%3A//www.intex.in/Home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Intex Technologies
 
-### Your privacy is important to us. To know more on how INTEX works to maintain this, read below.
+Our privacy policy document is designed for use in relation to this website (www.intex.in) which may collect and process personal information. Please read the notes accompanying the privacy policy very carefully. Intex may change this policy from time to time by updating this page. This policy is effective from 17th July 2017.
 
-We don't ask you for personal information unless we truly need it. We don’t ask for things like your gender or income level.
+Intex is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+**What we collect**
 
-We don't store personal information on our servers unless required for the on-going operation of one of our services.
+We may collect the following information:
 
-**Below is our privacy policy which incorporates these goals:**
+  * Name and job title
+  * Contact information including email address and phone number
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to visitors/customer surveys and/or offers
 
-Like most website operators, Intex collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Intex's purpose in collecting non-personally identifying information is to better understand how Dribbble's visitors use its website. From time to time, Intex may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
 
-Intex also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Intex does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. 
+
+**Use of information we gather**
+
+We may require this information to understand your needs and provide you with better products and services, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services. 
+  * We may periodically send promotional emails about new products, special offers or other information.
+  * From time to time, we may also use your information to contact you for market research purposes. We may use the information to customize the website.
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+Intex undertakes not to disclose the information provided by the visitor to this website to any person unless such action is necessary to the extent required by law and for regulatory purposes.
+
+However, Intex collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Intex's purpose in collecting non-personally identifying information is to better understand how the visitors use its website. Intex may, from time to time, release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at our address. We will promptly correct any information found to be incorrect.
