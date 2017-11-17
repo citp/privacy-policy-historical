@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atshaker.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627150044id_/http%3A//playstudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atshaker.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117130601id_/http%3A//playstudios.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Playstudios
 
