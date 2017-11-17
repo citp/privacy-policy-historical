@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thronesrealm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012343id_/http%3A//thronesrealm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thronesrealm.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117203430id_/http%3A//thronesrealm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ThronesRealm
 
