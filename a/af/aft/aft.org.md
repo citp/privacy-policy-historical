@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aft.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623165101id_/http%3A//www.aft.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aft.org privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118003349id_/https%3A//www.aft.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | American Federation of Teachers
 
