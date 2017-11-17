@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bamagazine.com privacy policy that was archived on 2017-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170608225437id_/http%3A//www.bamagazine.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bamagazine.com privacy policy that was archived on 2017-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171117144113id_/http%3A//www.bamagazine.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -32,7 +32,7 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.60.0.2440"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.77.0.3035"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -55,10 +55,26 @@
     } (jQuery));
 </script>
 <link type="text/css" rel="stylesheet" href="/a/contentbuilder/assets/default/content.css">
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.60.0.2440"></script>
+<script type="text/javascript" src="../../a/j/paypal-rest-default-buttons.js"></script>
+
+
+<script type="text/javascript" src="/a/j/soft_add.js"></script>
+<link type="text/css" rel="stylesheet" href="/a/c/soft_add.css">
+<script type="text/javascript">
+	var global_Config_EnableDisplayOptionProducts = 'False';
+	var global_Config_ForceSecureShoppingCartPage = true;
+	var global_PageText_OtherItemsAdded = '(All other items have been added to the cart)';
+	var Config_EnableSoftAddToCart = false;
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.77.0.3035"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
+</script>
+
+<script>
+    var reCaptchaPreloaded = false;
+    var reCaptchaInit;
 </script>
 
 
@@ -276,6 +292,25 @@ Keep up with new announcements</p>
     function_protect_images2_msg = 'Our images are copyrighted, please contact us for permission to use or post our image files.'
     protect_images1();
 </script>
+
+  <script>
+     if (document.getElementsByName("MailingList")[0]) {
+        var emailSubscribeForm = document.getElementsByName("MailingList")[0];
+        disableSubscribeSubmit = function() {
+          emailSubscribeButton.removeAttribute("type");
+        }
+        forwardToMailingList = function(e) {
+            var subscribeEmail = emailSubscribeForm.querySelector("input").value;
+          sessionStorage.setItem("subEmailAddress", subscribeEmail);
+          emailSubscribeForm.submit();
+        }
+
+        if (emailSubscribeForm.querySelector("button")) {
+            var emailSubscribeButton = emailSubscribeForm.querySelector("button");
+            emailSubscribeButton.addEventListener("click", forwardToMailingList);
+        }
+    }
+  </script>
 
 
 
