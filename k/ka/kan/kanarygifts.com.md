@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanarygifts.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618214617id_/http%3A//kanarygifts.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanarygifts.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117115627id_/http%3A//kanarygifts.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Most Trusted Online Luxury Store in Middle East
 
