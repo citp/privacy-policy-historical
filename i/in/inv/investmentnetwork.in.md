@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430122820id_/https%3A//www.investmentnetwork.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117124030id_/https%3A//www.investmentnetwork.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy on The Indian Investment Network
 
