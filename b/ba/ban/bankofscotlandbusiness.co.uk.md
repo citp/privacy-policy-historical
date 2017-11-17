@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofscotlandbusiness.co.uk privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618002044id_/http%3A//business.bankofscotland.co.uk/business-home/legal/personal-and-business-data) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofscotlandbusiness.co.uk privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117075216id_/http%3A//business.bankofscotland.co.uk/business-home/legal/personal-and-business-data) for the most accurate reproduction.*
 
 # Personal and business data | Bank of Scotland Business
 
