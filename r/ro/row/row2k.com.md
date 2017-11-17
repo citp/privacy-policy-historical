@@ -1,57 +1,51 @@
-> *The following text is extracted and transformed from the row2k.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519125526id_/http%3A//www.row2k.com/policy.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the row2k.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117054203id_/http%3A//www.row2k.com/policy.cfm%23privacy) for the most accurate reproduction.*
 
-# Rowing and Sculling for Rowers and Scullers - row2k.com
+# Our Policies | row2k.com
 
-|    
-|  |  | 
-
-## row2k Copyright Notice  
-  
+| row2k Copyright Notice  
 ---  
   
-> Row2k respects the intellectual property of others and we ask that our users do the same. All material, including, without limitation, text, software, photos, video, graphics, music and sound, and email outputs of any of the preceding, is protected by United States and international copyright laws, both as individual works and as a collection.
-> 
-> You may not copy, reproduce, retransmit, distribute, publish, commercially exploit, or otherwise transfer any such copyrighted material in any format, electronic or otherwise without the explicit written permission of row2k Media. You may download material from this web site for personal, noncommercial use only.
-> 
-> For more information, please [contact row2k](https://web.archive.org/web/20170519125526id_/http%3A//www.row2k.com/contact.cfm).Thanks!  
+Row2k respects the intellectual property of others and we ask that our users do the same. All material, including, without limitation, text, software, photos, video, graphics, music and sound, and email outputs of any of the preceding, is protected by United States and international copyright laws, both as individual works and as a collection.
+
+You may not copy, reproduce, retransmit, distribute, publish, commercially exploit, or otherwise transfer any such copyrighted material in any format, electronic or otherwise without the explicit written permission of row2k Media. You may download material from this web site for personal, noncommercial use only.
+
+For more information, please [contact row2k](https://web.archive.org/contact.cfm).Thanks!  
   
-## Privacy Statement for row2k.com  
+Privacy Statement for row2k.com  
   
----  
   
->   
-> **row2k.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:[row2k.com](http://www.row2k.com/)
-> 
-> #### Information Automatically Logged
-> 
-> We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you and your shopping cart. IP addresses are also logged by our Message Board software; see below for further information.
-> 
-> #### Cookies
-> 
-> Our Site uses cookies to keep track of your shopping cart. We also use cookies to make sure you don't see the same ad repeatedly. We make no other use of cookies at present.
-> 
-> #### Advertisers
-> 
-> We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
-> 
-> #### Personal Information
-> 
-> This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted, except when you sign up for the newsletter (in this case, only your email address is collected, and it is used only for mailing the newsletter), and the Message Boards (see below for further information).
-> 
-> #### External Links
-> 
-> This site contains links to other sites. **row2k.com** is not responsible for the privacy practices or the content of such Web sites.
-> 
-> #### Public Forums
-> 
-> This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. To register for these message boards, you must provide a valid email address, and IP addresses for all posts are logged. We will use this information only in the event of a clear violation of our Terms of Use, to which you must agree at the time of registration for the Boards. We reserve the right to report, ban, or delete the accounts of users, IP addresses, and ISP's that are the source of frequent Terms of Service violations.
-> 
-> #### Security
-> 
-> This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
-> 
-> ## Contacting the Web Site
-> 
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can : [contact row2k](https://web.archive.org/web/20170519125526id_/http%3A//www.row2k.com/contact.cfm).
-> 
-> Generated by [Privacy Wizard](http://privacy.bcentral.com/)
+**row2k.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:[row2k.com](http://www.row2k.com/)
+
+**Information Automatically Logged**
+
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you and your shopping cart. IP addresses are also logged by our Message Board software; see below for further information.
+
+**Cookies**
+
+Our Site uses cookies to keep track of your shopping cart. We also use cookies to make sure you don't see the same ad repeatedly. We make no other use of cookies at present.
+
+**Advertisers**
+
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+
+**Personal Information**
+
+This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted, except when you sign up for the newsletter (in this case, only your email address is collected, and it is used only for mailing the newsletter), and the Message Boards (see below for further information).
+
+**External Links**
+
+This site contains links to other sites. **row2k.com** is not responsible for the privacy practices or the content of such Web sites.
+
+**Public Forums**
+
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. To register for these message boards, you must provide a valid email address, and IP addresses for all posts are logged. We will use this information only in the event of a clear violation of our Terms of Use, to which you must agree at the time of registration for the Boards. We reserve the right to report, ban, or delete the accounts of users, IP addresses, and ISP's that are the source of frequent Terms of Service violations.
+
+**Security**
+
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+
+## Contacting the Web Site
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can : [contact row2k](https://web.archive.org/web/20171117054203id_/http%3A//www.row2k.com/contact.cfm).
+
+Generated by [Privacy Wizard](http://privacy.bcentral.com/)
