@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adlabsimagica.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623202559id_/http%3A//adlabsimagica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlabsimagica.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117104402id_/https%3A//www.adlabsimagica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | | Imagica - India's favourite family holiday destination with a Theme Park, Water Park, Snow Park, and Novotel Imagica
 
