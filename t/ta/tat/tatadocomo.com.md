@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatadocomo.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022020206id_/https%3A//www.tatadocomo.com/downloads/data-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatadocomo.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117220036id_/https%3A//www.tatadocomo.com/downloads/data-privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -11,24 +11,24 @@ The Information We Collect, How We Collect It, and How We Process & Use It
 We may collect Confidential Data in different forms such as Personal and other Information based on
 your use of our products and services and our business relationship with you. Some examples include:
        Contact Information that allows us to communicate with you -- including your name, address,
-        telephone number, and e-mail address;
+       telephone number, and e-mail address;
        Billing information related to your financial relationship with us -- including your payment data,
-        credit history, credit card number, security codes, and service history.
+       credit history, credit card number, security codes, and service history.
        Equipment, Performance, TTL Website Usage, Viewing and other Technical Information about
-        your use of our network, services, products or websites.
+        your use of our network, services, products or websites.
 We collect Information in three primary ways:
        You give it to us when you purchase or interact with us about a product or service we offer or
-        provide;
-       We collect it automatically when you visit our websites or use our products and services;
-       We obtain it from other sources, such as credit agencies.
+        provide;
+      We collect it automatically when you visit our websites or use our products and services;
+       We obtain it from other sources, such as credit agencies.
 We may use the Information we collect in a variety of ways to:
-       Provide you with the best customer experience possible;
-       Provide the services you purchase, and to respond to your questions;
-       Communicate with you regarding service updates, offers, and promotions;
-       Deliver customized content and advertising that may be of interest to you;
-       Address network integrity and security issues;
+      Provide you with the best customer experience possible;
+      Provide the services you purchase, and to respond to your questions;
+      Communicate with you regarding service updates, offers, and promotions;
+      Deliver customized content and advertising that may be of interest to you;
+      Address network integrity and security issues;
        Investigate, prevent or take action regarding illegal activities, violations of our Terms of Service or
-        Acceptable Use Policies
+        Acceptable Use Policies
 Permitted Information Sharing
 With TTL Companies: Subject to applicable legal restrictions, such as those that exist for Customer
 Proprietary Network Information (CPNI), the TTL companies may share your Personal Information with
@@ -39,43 +39,43 @@ perform services on our behalf, and only as necessary for them to perform those 
 
 
         We require those non-TTL companies to protect any Personal Information they may receive in a
-         manner consistent with this policy.
+        manner consistent with this policy.
         We do not provide Personal Information to non-TTL companies for the marketing of their own
-         products and services without your consent.
+         products and services without your consent.
 In Other Circumstances: We may provide Personal Information to non-TTL companies or other third
 parties for purposes such as:
-        To assist with identity verification, and to prevent fraud and identity theft;
-        Enforcing our agreements and property rights;
+       To assist with identity verification, and to prevent fraud and identity theft;
+       Enforcing our agreements and property rights;
         Obtaining payment for products and services that appear on your TTL billing statements,
-         including the transfer or sale of delinquent accounts to third parties for collection; and
-        To comply to legal and regulatory requirements;
+         including the transfer or sale of delinquent accounts to third parties for collection; and
+        To comply to legal and regulatory requirements;
 Anonymous & Aggregate Information
         We collect some Information on an anonymous basis. We also may anonymize the Personal
-         Information we collect about you.
-        We obtain aggregate data by combining anonymous data that meet certain criteria into groups.
+         Information we collect about you.
+       We obtain aggregate data by combining anonymous data that meet certain criteria into groups.
         When we employ non-TTL companies to anonymize or aggregate data on our behalf, the
-         requirements for sharing Personal Information with non-TTL companies apply.
+        requirements for sharing Personal Information with non-TTL companies apply.
         We may share aggregate or anonymous Information in various formats with trusted non-TTL
-         entities, and may work with those entities to do research and provide products and services.
+         entities, and may work with those entities to do research and provide products and services.
 Safeguarding Your Information: Our Policy on Data Protection and Security
-        We do not sell your Personal Information to anyone for any purpose.
+       We do not sell your Personal Information to anyone for any purpose.
         We maintain Information about you in our business records while you are a customer, or until it is
-         no longer needed for business, tax, or legal purposes.
+        no longer needed for business, tax, or legal purposes.
         We have implemented appropriate security controls to protect Personal Information when stored
-         or transmitted by TTL.
+        or transmitted by TTL.
         We require non-TTL companies acting on our behalf to protect any Personal Information they
          may receive in a manner consistent with this Policy. We do not allow them to use such
-         Information for any other purpose.
+         Information for any other purpose.
 Customer Privacy Controls and Choices
-        You can review and correct your Personal Information collected by us.
+       You can review and correct your Personal Information collected by us.
         You can limit certain types of solicitation communications from TTL, including marketing contacts
-         made via telephone, e-mail and text messaging.
-        We will provide you with notice of changes to this policy.
+         made via telephone, e-mail and text messaging.
+        We will provide you with notice of changes to this policy.
     As stated in this Privacy Policy, TTL will not sell or share your Personal Information with non-TTL
     companies for their direct marketing purposes without your consent. Customers who wish to request
     further information about our compliance with this law or have questions or concerns about our
-    privacy practices and policies may contact us on +91-11-66559800, or write to us at
-    dataprivacyofficer@tatatel.co.in
+    privacy practices and policies may contact us on +91-120-6696000, or write to us at
+    harsha.sharma@tatatel.co.in
 
 
 TTL Privacy Policy FAQ
@@ -137,47 +137,53 @@ Questions about the scope of this Policy
                   publicly available, and TTL cannot prevent distribution and use of that information by
                   other parties.
 If you are a wireless Customer roaming on the network of a non-TTL company, information about your
-location, usage and the numbers you dial will be subject to the privacy policy of the non-TTL company,
-and not this Policy.
+location, usage and the numbers you dial will be subject to the privacy policy of the non-TTL
+company, and not this Policy.
               o   Belong to another person to which the user does not have any right to.
               o   Is grossly harmful harassing ,blasphemous ,defamatory, obscene , pornographic,
                   pedophilic, libelous ,invasive of another’s privacy, hateful or racially, ethnically
-                  objectionable, disparaging relating or encouraging money laundering or gambling or
-                  otherwise un lawful in any manner what so ever.
+                  objectionable, disparaging relating or encouraging money laundering or gambling
+                  or otherwise un lawful in any manner what so ever.
 
 
-           harm minors in any way;
-           infringes any patent, trademark, copyright or other proprietary rights;
-           Violates any law for the time being in force;
-           Deceives or misleads the addressee about the origin of such messages or communicates
-   any information which is grossly offensive or menacing in nature;
-           impersonate another person;
-           contains software viruses or any other computer code, files or programs designed to
-   interrupt, destroy or limit the functionality of any computer resource;
-  Threatens the unity, integrity, defense, security or sovereignty of India, friendly relations with
-   foreign states, or public order or causes incitement to the commission of any cognizable offence
-   or prevents investigation of any offence or is insulting any other nation.
-        o
-        o   TTL may license its brand to certain non-TTL companies ("Licensees") for their use in
-            marketing and selling certain non-TTL products and services. Licensees are subject to
-            TTL quality control criteria and review procedures, designed to ensure a high standard of
-            product or service performance.
-5. Can my information be subject to more than one privacy policy?
-   Yes. For example:
-        o   When TTL jointly provides a service with a non-TTL company, your Personal Information
-            may be subject to both this Policy and the privacy policy of the non-TTL company.
-        o   If you purchase TTL products or services from a non-TTL retailer (like Indiatimes.com, for
-            example) any information you provide to that retailer may be subject to that company's
-            privacy policy, TTL's Privacy Policy, or both.
-   We would urge you to review the privacy policies of any non-TTL company with which you do
-   business to determine what information will be collected and how it will be used or disclosed to
-   others.
-6. Do any other stand-alone TTL Privacy Policies remain in effect?
-   Yes. The Joint TTL EchoStar Privacy Policy for TTL|DISH Network Customer Account
-   Information remains in effect.
-    While TTL will make every effort to limit other stand-alone policies, it is possible that such
-   policies may be required. For example, in selected areas outside the India TTL may adopt
-   separate privacy policies as necessary to reflect the requirements of applicable local laws.
+             harm minors in any way;
+
+             infringes any patent, trademark, copyright or other proprietary rights;
+
+             Violates any law for the time being in force;
+
+             Deceives or misleads the addressee about the origin of such messages or
+     communicates any information which is grossly offensive or menacing in nature;
+
+             impersonate another person;
+
+             contains software viruses or any other computer code, files or programs designed to
+     interrupt, destroy or limit the functionality of any computer resource;
+
+    Threatens the unity, integrity, defense, security or sovereignty of India, friendly relations with
+     foreign states, or public order or causes incitement to the commission of any cognizable offence
+     or prevents investigation of any offence or is insulting any other nation.
+          o
+          o   TTL may license its brand to certain non-TTL companies ("Licensees") for their use in
+              marketing and selling certain non-TTL products and services. Licensees are subject to
+              TTL quality control criteria and review procedures, designed to ensure a high standard of
+              product or service performance.
+  5. Can my information be subject to more than one privacy
+     policy? Yes. For example:
+          o   When TTL jointly provides a service with a non-TTL company, your Personal Information
+              may be subject to both this Policy and the privacy policy of the non-TTL company.
+          o   If you purchase TTL products or services from a non-TTL retailer (like Indiatimes.com, for
+              example) any information you provide to that retailer may be subject to that company's
+              privacy policy, TTL's Privacy Policy, or both.
+     We would urge you to review the privacy policies of any non-TTL company with which you do
+     business to determine what information will be collected and how it will be used or disclosed to
+     others.
+  6. Do any other stand-alone TTL Privacy Policies remain in effect?
+     Yes. The Joint TTL EchoStar Privacy Policy for TTL|DISH Network Customer Account
+     Information remains in effect.
+      While TTL will make every effort to limit other stand-alone policies, it is possible that such
+     policies may be required. For example, in selected areas outside the India TTL may adopt
+     separate privacy policies as necessary to reflect the requirements of applicable local laws.
 
 
    7. What about business customers?
@@ -193,32 +199,41 @@ Questions about the information we collect, how we collect it and how we use it
        we collect include:
             o   Account Information: Information we obtain as a result of your business relationship
                 with us, which may include:
-                      Contact Information that allows us to communicate with you, including your
-                         name, address, telephone number, and e-mail address. TTL obtains your contact
+                     
+                         Contact Information that allows us to communicate with you, including your
+                        name, address, telephone number, and e-mail address.            TTL obtains your contact
                          information when you order or register for our services.
-                      Billing Information related to your financial relationship with us, such as the
-                         services you buy, the telephone numbers you call, the payments you make, your
+                     
+                                                                                                as the services you
+                         Billing Information related to your financial relationship with us, such
+                         buy, the telephone numbers you call, the payments you make, your
                          credit history, your credit card numbers, security codes, and your service history.
             o   Technical & Usage Information related to the services we provide to you, including
                 information about your use of our network, services, products or websites. Examples of
                 the Technical & Usage Information we collect include:
-                      Equipment Information that identifies the equipment you use on our network,
-                         such as equipment type, IDs, serial numbers, settings, configuration, and
+                     
+                         Equipment Information that identifies the equipment you use on our network,
+                        such as    equipment type, IDs, serial numbers, settings, configuration, and
                          software.
-                      Performance Information about the operation of the equipment, services and
+                     
+                         Performance Information about the operation of the equipment, services and
                          applications you use on our network, such as IP addresses, URLs, data
                          transmission rates and latencies, location information, security characteristics,
                          and information about the amount of bandwidth and other network resources you
-                         use in connection with uploading, downloading or streaming data to and from the
+                                  
+                         use in connection    with uploading, downloading or streaming data to and from the
                          Internet.
-                      TTL Website Usage Information about your use of TTL websites, including the
+                     
+                         TTL Website Usage Information about your use of TTL websites, including the
                          pages you visit, the length of time you spend, the links or advertisements you
                          follow and the search terms you enter on our sites, and the websites you visit
                          immediately before and immediately after visiting one of our sites. We also may
-                         collect similar information about your use of TTL applications on wireless
+                                  
+                         collect similar   information about your use of TTL applications on wireless
                          devices.
-                      Viewing Information about the programs you watch and record, the games you
-                         play and similar choices you choose as Value added TTL services and products.
+                     
+                         Viewing Information about the programs you watch and record, the games    you play and
+                         similar choices you choose as Value added TTL services and products.
 
 
 2. How do we collect information?
@@ -460,10 +475,13 @@ Questions related to information sharing
                 emergency involving immediate danger of death or serious physical injury to any person
                 requires or justifies disclosure without delay;
            o     To display name and telephone number on a Caller ID device;
-                      Note: TTL's Caller ID Blocking services will not always prevent display of the
-                        calling party's name and number.
-                      Be aware: A variety of websites and vendors offer services that will allow a caller
-                        to make it look like they are calling from a different number. In this situation, the
+                     
+                                                   services will not always prevent display of the calling
+                        Note: TTL's Caller ID Blocking
+                        party's name and number.
+                     
+                        Be aware: A variety of websites and vendors offer services that will allow a caller
+                        to make it look like they are calling from a different number. In this situation, the
                         name or number that displays on the caller ID or similar equipment will not be the
                         actual number of the calling party. This is often called "number spoofing."
            o    To notify the National Center for Missing and Exploited Children of information
@@ -536,16 +554,22 @@ Questions about data protection and security
                 Business Conduct are subject to disciplinary action, up to and including dismissal.
             o   We have implemented technology and security features and strict policy guidelines to
                 safeguard the privacy of your Personal Information. For example:
-                      We maintain and protect the security of computer storage and network
-                        equipment, and our security procedures require user names and passwords to
+                     
+                        We maintain and protect the security of computer storage and network
+                                              
+                        equipment, and our security    procedures require user names and passwords to
                         access sensitive data;
-                      We have implemented encryption or other appropriate security controls to protect
+                     
+                                                                                controls to protect
+                        We have implemented encryption or other appropriate security
                         Personal Information when stored or transmitted by TTL;
-                      We limit access to Personal Information to those employees, contractors, and
-                        agents who need access to such information to operate, develop, or improve our
+                     
+                        We limit access to Personal Information to those employees, contractors, and
+                       agents who need access   to such information to operate, develop, or improve our
                         services and products;
-                      We require caller/online authentication before providing Account Information so
-                        that only you or someone who knows your Account Information will be able to
+                     
+                        We require caller/online authentication before providing Account Information so
+                        that only you or someone who knows    your Account Information will be able to
                         access or change the information.
 Questions about customer control
    1. Can I review and correct my Personal Information?
