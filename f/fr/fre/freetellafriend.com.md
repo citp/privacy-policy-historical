@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetellafriend.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519154712id_/http%3A//www.smartaddon.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetellafriend.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117150357id_/http%3A//smartaddon.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SmartAddon.com
 
