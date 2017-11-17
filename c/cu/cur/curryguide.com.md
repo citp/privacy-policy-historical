@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curryguide.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015100154id_/http%3A//curryguide.com%3Fsttname%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curryguide.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117073756id_/http%3A//curryguide.com%3Fsttname%3Dprivacy_policy) for the most accurate reproduction.*
 
 # CurryGuide - Privacy Policy
 
