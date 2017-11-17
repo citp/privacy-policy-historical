@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the canvaslms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204638id_/https%3A//www.canvaslms.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvaslms.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117042257id_/https%3A//www.canvaslms.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Last Updated: March 26th, 2015
+Last Updated: October 30, 2017
 
 Instructure, Inc. ( **“INSTRUCTURE”** ) is committed to protecting your privacy. We have prepared this Privacy Policy to describe our practices regarding the personal information that may be collected from users of our websites which post this Privacy Policy, including http://canvas.instructure.com ( **“SITE”** ), Instructure’s Canvas iOS, Android, and other mobile applications ( **“APPS”** ), and other related educational services ( **“SERVICES”** ). By submitting personal information through our Site, Apps, or Services, you expressly consent to the processing of your personal information in the U.S. in accordance with this Privacy Policy. The use of personal information collected through our service shall be limited to the purposes described in this Privacy Policy.
 
@@ -10,13 +10,25 @@ Instructure, Inc. ( **“INSTRUCTURE”** ) is committed to protecting your priv
 
 IMPORTANT NOTICE REGARDING CHILDREN UNDER 13: This Privacy Policy generally applies to the users of our Services. If however, a user identifies themselves as under the age of 13 (a **“CHILD”** ), we will collect, use and share the Child’s information as described in the subsection below entitled “A Special Note About Children”.
 
-**U.S.—E.U. and U.S.—Swiss Safe Harbor.**
+**FOR EU and EEA Residents**
 
-Instructure, Inc. complies with the U.S.—E.U. Safe Harbor framework and the U.S.—Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Instructure has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Instructure’s certification, please visit <http://www.export.gov/safeharbor/>.
+Instructure complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union (“EU”) to the United States (“U.S.”), as that term is defined in the Privacy Shield Framework. Instructure has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Instructure is committed to subjecting all personal data received from the EU, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List: <https://www.privacyshield.gov/list>
 
-**Dispute Resolution**
+Instructure’s privacy policy, as provided below, describes the types of personal information that Instructure collects, the types of third parties to which it discloses personal data, and the purposes for which it does so. Instructure collects contact and demographic information to respond to requests or to personalize and deliver the services. Instructure transfers this information to third parties acting as an agent on its behalf. Instructure is accountable for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party. Instructure complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
 
-Instructure, Inc. participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](https://feedback-form.truste.com/watchdog/request). Please [click here](http://www.truste.com/about-truste/contact-us/) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+Residents of the EU have the right to access the personal information that Instructure maintains, and in some cases, may have the right to correct or amend information that is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law. To exercise this right, contact us at privacy@instructure.com. To learn more about the choices you have over your personal information, please see the subsection below entitled, “Your Choices Regarding Your Personal Information.”
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Instructure is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Instructure may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+Residents of the EU with inquiries or complaints regarding this Privacy Policy should first contact Instructure at:
+
+[privacy@instructure.com](mailto:privacy@instructure.com)
+
+6330 S 3000 E, STE 700  
+Salt Lake City, UT 84121  
+(801) 869.5000
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **Data You Provide to Us.**
 
