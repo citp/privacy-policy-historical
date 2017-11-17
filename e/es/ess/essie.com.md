@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essie.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essie.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # essie - Privacy Policy - Nail Polish & Nail Color Customer Information - Essie
 
@@ -27,7 +27,7 @@ L’Oréal shares information:
 
 ### YOUR CHOICES, ADVERTISING OPT-OUT, TEXT MESSAGE OPT-OUT
 
-You may change your preferences and unsubscribe from email services by: (i) modifying your account information; (ii) sending us an e–mail by clicking [here](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/contact-us); (iii) following the unsubscribe instructions in the communication that you receive (such as an email or SMS message). 
+You may change your preferences and unsubscribe from email services by: (i) modifying your account information; (ii) sending us an e–mail by clicking [here](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/contact-us); (iii) following the unsubscribe instructions in the communication that you receive (such as an email or SMS message). 
 
 If you prefer to not receive targeted advertising, you can opt out of certain network advertising programs through the [Network Advertising Initiative (NAI) Opt–Out Page](http://www.networkadvertising.org/choices/). Please note that even if you choose to remove your information (opt out) you will still see advertisements while you're browsing online. 
 
@@ -41,7 +41,7 @@ While no electronic data transmission or storage of information can be guarantee
 
 ### CONTACT US
 
-If you have any questions or concerns regarding this Privacy and Cookie Notice, please contact us [here](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/contact-us). 
+If you have any questions or concerns regarding this Privacy and Cookie Notice, please contact us [here](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/contact-us). 
 
 ### PRIVACY AND COOKIE NOTICE (United States)
 
@@ -83,7 +83,7 @@ You may also be able to register and log in using a social media account, includ
 
 **Cookies:** Like many web sites, we use "Cookies," which are data files placed on a Device when it is used to visit the Sites to facilitate site navigation and to personalize your experience, including tailoring advertisements. Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Sites and your activities on such social networking sites.
 
-If you would prefer not to accept cookies, you can change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; or set your browser to automatically not accept any cookies. However, please be aware that some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your account. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. To learn more about cookies, please visit [ http://www.allaboutcookies.org](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/%E2%80%9Dhttp://www.allaboutcookies.org%E2%80%9D)
+If you would prefer not to accept cookies, you can change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; or set your browser to automatically not accept any cookies. However, please be aware that some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your account. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. To learn more about cookies, please visit [ http://www.allaboutcookies.org](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/%E2%80%9Dhttp://www.allaboutcookies.org%E2%80%9D)
 
 **Pixels or Web Beacons,:** We use pixel tags or web beacons, which are transparent graphic images placed on a web page or in an email and indicate that a page or email has been viewed or tell your browser to get content from another server.
 
@@ -120,15 +120,15 @@ If you connect your Facebook account to a L’Oréal USA Brand account, we will 
 
 **Business Transfers:** We may share information with other entities and affiliates of the L’Oréal Group, our parent company. As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or our assets, or assets related to the Sites, Personal Information, Usage Information, and any other information that we have collected about the users of the Sites may be disclosed to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties. 
 
-**Legal Disclosure:** L’Oreal USA may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [Terms of Usehere](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/terms-of-use) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public.
+**Legal Disclosure:** L’Oreal USA may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [Terms of Usehere](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/terms-of-use) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public.
 
 ### 3\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS.
 
-You may change your preferences and unsubscribe from email services from our Brands by: (i) modifying your registered user information on the Sites; (ii) sending us an e–mail by clicking [here](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/contact-us); or (iii) following the unsubscribe instructions in the communication that you receive.
+You may change your preferences and unsubscribe from email services from our Brands by: (i) modifying your registered user information on the Sites; (ii) sending us an e–mail by clicking [here](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/contact-us); or (iii) following the unsubscribe instructions in the communication that you receive.
 
 If you wish to modify, verify, correct, delete, or update any of your Personal Information collected through the Sites, you may edit your profile preferences or contact us at the above address or e–mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us [here](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/contact-us). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us [here](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/contact-us). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
 ### 4\. ADVERTISING/TARGETED ADVERTISING; HOW TO OPT–OUT
 
@@ -152,13 +152,13 @@ Under California law, website and online service operators are required to discl
 
 California law requires website and online service operators to disclose whether third parties may collect personal information about their users’ online activities over time and across different sites when the users use the operator’s website or service. Third parties that have content or services on our site such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information. We do not knowingly permit such third parties to collect any personal information from our site unless you directly provide it to us and we provide it to them with your consent.
 
-If you are a minor under 18 and have a profile on a L’Oréal USA Site, you may ask us to remove reviews or other content that you posted on the site by [writing to us](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/contact-us) and providing as much detail as possible (i.e. date and caption) as to the post(s) you want removed. We will begin to process your request within 30 days. Please note that processing your request does not ensure complete or comprehensive removal of content that you posted. 
+If you are a minor under 18 and have a profile on a L’Oréal USA Site, you may ask us to remove reviews or other content that you posted on the site by [writing to us](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/contact-us) and providing as much detail as possible (i.e. date and caption) as to the post(s) you want removed. We will begin to process your request within 30 days. Please note that processing your request does not ensure complete or comprehensive removal of content that you posted. 
 
 ### 8\. CHILDREN
 
 The Sites are not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
 
-No information from children under age 13. If you are under age 13, please do not attempt to register or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under age 13, please contact us through this [help page](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/contact-us).
+No information from children under age 13. If you are under age 13, please do not attempt to register or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under age 13, please contact us through this [help page](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/contact-us).
 
 **Parental participation.** We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices.
 
@@ -188,7 +188,7 @@ Clark, NJ 07066
 Re: essie.com Privacy and Cookie Notice  
 Telephone: 1-866-313-7845 
 
-Or send us an e–mail with your request [here](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/contact-us).
+Or send us an e–mail with your request [here](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/contact-us).
 
 ### UPDATED: November 2016
 
@@ -279,7 +279,7 @@ Notice. If you are a copyright owner or an agent thereof and believe that any Us
 
 
 
-Our designated Copyright Agent to receive notifications of claimed infringement is: DMCA Agent c/o L’Oréal USA Legal Department, 575 Fifth Avenue, New York, NY 10017; click [here](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/contact-us) to send an email by choosing “Privacy Policy/Terms of Use” in the drop down option. For clarity, only DMCA notices should go to the Copyright Agent; any other feedback, comments, requests for technical support, and other communications should be directed to our customer service. You acknowledge that if you fail to comply with all of the requirements set forth above, your DMCA notice may not be valid.
+Our designated Copyright Agent to receive notifications of claimed infringement is: DMCA Agent c/o L’Oréal USA Legal Department, 575 Fifth Avenue, New York, NY 10017; click [here](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/contact-us) to send an email by choosing “Privacy Policy/Terms of Use” in the drop down option. For clarity, only DMCA notices should go to the Copyright Agent; any other feedback, comments, requests for technical support, and other communications should be directed to our customer service. You acknowledge that if you fail to comply with all of the requirements set forth above, your DMCA notice may not be valid.
 
 After receiving a claim of infringement, we will process and investigate the claim and will take appropriate actions under the DMCA and other applicable intellectual property laws. Upon receipt of notices complying or substantially complying with the DMCA, we will act expeditiously to remove or disable access to any material claimed to be infringing or claimed to be the subject of infringing activity, and will act expeditiously to remove or disable access to any reference or link to material or activity that is claimed to be infringing. We will take reasonable steps promptly to notify the user that we have removed or disabled access to such material.
 
@@ -349,6 +349,6 @@ For complete information on this subject, please [click here](http://www.lorealu
 
 Unless otherwise specified in these Terms and Conditions, all notices under these Terms and Conditions will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested; when receipt is electronically confirmed, if transmitted by facsimile or email; or the day after it is sent, if sent for next day delivery by recognized overnight delivery service. 
 
-Please feel free to contact us via one of the methods described on our [Contact Us](https://web.archive.org/web/20170629144819id_/http%3A//www.essie.com/contact-us) page, or send a letter to Customer Care, P.O. Box 2007, Westfield, NJ 07091-2007. You agree that we may send notices to you regarding your use of the Site by means of electronic mail, a general notice posted on the Site or by written communication delivered either by overnight courier or U.S. mail to your email or mailing address as appearing in our records from time to time. 
+Please feel free to contact us via one of the methods described on our [Contact Us](https://web.archive.org/web/20171118000205id_/http%3A//www.essie.com/contact-us) page, or send a letter to Customer Care, P.O. Box 2007, Westfield, NJ 07091-2007. You agree that we may send notices to you regarding your use of the Site by means of electronic mail, a general notice posted on the Site or by written communication delivered either by overnight courier or U.S. mail to your email or mailing address as appearing in our records from time to time. 
 
 These Terms and Conditions were last updated November 2016. 
