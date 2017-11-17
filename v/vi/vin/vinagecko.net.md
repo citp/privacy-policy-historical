@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinagecko.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045543id_/http%3A//vinagecko.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinagecko.net privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117035948id_/http%3A//vinagecko.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VinaGecko
 
