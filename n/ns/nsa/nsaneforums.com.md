@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsaneforums.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131402id_/http%3A//www.nsaneforums.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsaneforums.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117232803id_/http%3A//www.nsaneforums.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - nsane.forums
 
