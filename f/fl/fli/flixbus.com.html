@@ -1,281 +1,1007 @@
-<!--The following is the downloaded HTML source of the flixbus.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606184039id_/https%3A//www.flixbus.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flixbus.com privacy policy that was archived on 2017-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171117155327id_/https%3A//www.flixbus.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-  <meta charset="utf-8">
-  <meta itemprop="name" content="FlixBus">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-QFH9M"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W6FDFB"></script><script async="" src="//try.abtasty.com/1b8fd245af1d84da60e62df6477d800e.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMGV1JaGwIBVFNXBQcA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta property="og:image" content="https://www.flixbus.de/sites/default/files/facebookimage.png?17082015ver1">
-    <link rel="manifest" href="/sites/all/themes/flixbus_2014/templates/app-install-banner/manifest.json">
-  <!--[if IE]><![endif]-->
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="alternate" hreflang="de" href="https://www.flixbus.de/datenschutz">
-<link rel="alternate" hreflang="de-at" href="https://www.flixbus.at/datenschutz">
-<link rel="alternate" hreflang="da" href="https://www.flixbus.dk/privatlivspolitik">
-<link rel="alternate" hreflang="cs" href="https://www.flixbus.cz/ochrana-osobnich-udaju">
-<link rel="alternate" hreflang="fr" href="https://www.flixbus.fr/confidentialite">
-<link rel="alternate" hreflang="fr-be" href="https://fr.flixbus.be/confidentialite">
-<link rel="alternate" hreflang="hr" href="https://www.flixbus.hr/zastita-podataka">
-<link rel="alternate" hreflang="sv" href="https://www.flixbus.se/sekretesspolicy">
-<link rel="alternate" hreflang="ru" href="https://www.flixbus.ru/zashhita-dannyh">
-<link rel="alternate" hreflang="nl" href="https://www.flixbus.nl/privacyverklaring">
-<link rel="alternate" hreflang="nl-be" href="https://www.flixbus.be/privacyverklaring">
-<link rel="alternate" hreflang="pl" href="https://www.flixbus.pl/polityka-prywatnosci">
-<link rel="alternate" hreflang="es" href="https://www.flixbus.es/politica-privacidad">
-<link rel="alternate" hreflang="ro" href="https://www.flixbus.ro/politica-de-confidentialitate">
-<link rel="alternate" hreflang="sl" href="https://www.flixbus.si/pravilnik-o-zasebnosti">
-<link rel="alternate" hreflang="sr" href="https://www.flixbus.rs/zastita-podataka">
-<link rel="alternate" hreflang="hu" href="https://www.flixbus.hu/adatvedelem">
-<link rel="alternate" hreflang="nb" href="https://www.flixbus.no/personvernregler">
-<link rel="alternate" hreflang="tr" href="https://tr.flixbus.com/veri-koruma">
-<link rel="alternate" hreflang="bg" href="https://www.flixbus.bg/poveritelnost">
-<link rel="alternate" hreflang="it" href="https://www.flixbus.it/normativa-privacy">
-<link rel="alternate" hreflang="sk" href="https://www.flixbus.sk/ochrana-osobnych-udajov">
-<link rel="alternate" hreflang="en" href="https://www.flixbus.com/privacy-policy">
-<link rel="alternate" hreflang="en-gb" href="https://www.flixbus.co.uk/privacy">
-<link rel="alternate" hreflang="x-default" href="https://www.flixbus.com/privacy-policy">
-<link rel="shortcut icon" href="https://www.flixbus.com/sites/all/themes/flixbus_2014/favicon.ico" type="image/vnd.microsoft.icon">
+<!DOCTYPE html><html ng-app="flixApp" class="site" lang="en"><!-- Hello! Like looking at sourcecode? --><!-- Check our jobs page: https://www.flixbus.com/company/jobs --><head>
+
+    
+<meta charset="utf-8">
+<title>Data Privacy → FlixBus</title>
+
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&amp;subset=latin-ext,cyrillic-ext" rel="stylesheet">
+
+
 <meta name="description" content="Data Privacy Statement and Consent for Data Usage. Your data is safe at FlixBus!">
-<meta name="robots" content="follow, index">
-<meta name="generator" content="Drupal 7 (http://drupal.org)">
-<link type="text/css" rel="stylesheet" href="/sites/all/modules/custom/fb_mobile_app/detect.php" media="all">
+<meta name="robots" content="">
 <link rel="canonical" href="https://www.flixbus.com/privacy-policy">
+
+<meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TQLR2WK"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M9H5R8T"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W6FDFB"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 <meta name="google-play-app" content="app-id=de.flixbus.app">
 <meta name="apple-itunes-app" content="app-id=778437357">
-  <title>Data Privacy → FlixBus</title>
-  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
-  <link type="text/css" rel="stylesheet" href="//www.flixbus.com/sites/default/files/advagg_css/css__9Pe-hE0Nkel5FPeElbrULf-5vRNG8MaBQuNZyJXONqo__sDbfKF94M3IcII3-KvfICuM5b12OFoqInyzbQMxkHXA__SZV6ZsKJOXXk9rAz6l0QdFzP29kNPbSDIIJG2n4oWq4.css" media="all">
-  <script> (function (i, s, o, g, r, a, m) { i[r] = i[r] || [], i['abtiming'] = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//try.abtasty.com/1b8fd245af1d84da60e62df6477d800e.js', '_abtasty'); </script>
 
-  <!-- HTML5 element support for IE6-8 -->
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <!--[if IE 8]>
-      <link rel="stylesheet" media="all" type="text/css" href="/sites/all/themes/flixbus_2014/sassBootstrap/stylesheets/style_ie8.tpl.css"/>
-  <![endif]-->
-  <!--[if IE 9]>
-      <link rel="stylesheet" media="all" type="text/css" href="/sites/all/themes/flixbus_2014/sassBootstrap/stylesheets/style_ie9.tpl.css"/>
-  <![endif]-->
-  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-  <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-  <![endif]-->
-  <script src="//www.flixbus.com/sites/default/files/advagg_js/js__0qrZsI6TPHQBTppYMaLsuobzsvRS4oZpFlLKWrDPbdY__wRJWGushuccHyxMLAucvvgjQqfrWsdU1HYBUWwoOir0__SZV6ZsKJOXXk9rAz6l0QdFzP29kNPbSDIIJG2n4oWq4.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"flixbus_2014","theme_token":"P2w5pAVgMjkMWj5od-xX5wYrAyxWP-_6DdSRGSJuSYI","jquery_version":"1.10","css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/libraries\/ms-Dropdown\/css\/msdropdown\/dd.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.css":1,"sites\/all\/modules\/custom\/fb_admin\/css\/fb_admin.css":1,"sites\/all\/modules\/custom\/fb_static_page\/css\/fb_static_page.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/flixbus_2014\/layouts\/top2column\/top2column.css":1,"sites\/all\/themes\/flixbus_2014\/layouts\/miniHtmlFree\/miniHtmlFree.css":1,"sites\/all\/themes\/flixbus_2014\/layouts\/threeRegionPage\/threeRegionPage.css":1,"sites\/all\/libraries\/ms-Dropdown\/css\/msdropdown\/.css":1,"sites\/all\/themes\/flixbus_2014\/sassBootstrap\/stylesheets\/jquery.selectBoxIt.css":1,"sites\/all\/themes\/flixbus_2014\/sassBootstrap\/stylesheets\/styles.css":1},"js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/color.js":1,"sites\/all\/modules\/contrib\/lazyloader\/jquery.lazyloader.js":1,"sites\/all\/modules\/contrib\/linkit\/js\/linkit.js":1,"sites\/all\/modules\/custom\/fb_base\/js\/locale.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/all\/modules\/contrib\/lang_dropdown\/lang_dropdown.js":1,"sites\/all\/modules\/custom\/fb_shop_login\/js\/fb_shop_login.js":1,"sites\/all\/libraries\/ms-Dropdown\/js\/msdropdown\/jquery.dd.min.js":1,"sites\/all\/themes\/flixbus_2014\/js\/bootstrap.min.js":1,"sites\/all\/themes\/flixbus_2014\/js\/jquery.selectBoxIt.min.js":1,"sites\/all\/themes\/flixbus_2014\/js\/customscript.js":1,"sites\/all\/themes\/flixbus_2014\/js\/smartbanner.js":1,"sites\/all\/themes\/flixbus_2014\/js\/passengers.js":1,"sites\/all\/themes\/flixbus_2014\/js\/webtrekk_abtest.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1}},"fb_base":{"locale":{"language":{"language":"en","name":"English","native":"English","direction":"0","enabled":"1","plurals":"0","formula":"","domain":"www.flixbus.com","prefix":"","weight":"-10","javascript":"","provider":"locale-url","init_language":"en","dir":"ltr"},"languageList":{"en":"en","de":"de","it":"it","en-gb":"en-gb","tr":"tr","de-at":"at","nl":"nl","fr":"fr","cs":"cs","sv":"sv","bg":"bg","nb":"no","pt-pt":"pt-pt","sr":"sr_Latn_RS","ro":"ro","da":"da","hu":"hu","sk":"sk","sl":"sl","hr":"hr","sq":"sq","nl-be":"nl_BE","fr-be":"fr_BE","pl":"pl","ru":"ru","es":"es"},"languageMapping":{"en":"English","de":"Deutsch","it":"Italiano","en-gb":"English (UK)","tr":"T\u00fcrk\u00e7e","de-at":"Deutsch","nl":"Nederlands","fr":"Fran\u00e7ais","cs":"\u010ce\u0161tina","sv":"Svenska","bg":"\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438","nb":"Bokm\u00e5l","pt-pt":"Portugu\u00eas","sr":"\u0421\u0440\u043f\u0441\u043a\u0438","ro":"Rom\u00e2n\u0103","da":"Dansk","hu":"Magyar","sk":"Sloven\u010dina","sl":"Sloven\u0161\u010dina","hr":"Hrvatski","sq":"Shqip","nl-be":"Nederlands","fr-be":"Fran\u00e7ais","pl":"Polski","ru":"\u0420\u0443\u0441\u0441\u043a\u0438\u0439","es":"Espa\u00f1ol"}},"currency_by_language":"EUR","get_currency_symbol":"\u20ac","get_currency_symbol_position":"suffix","get_currency_decimal_point":",","locale_by_language":"de-DE","node_type":"static_page"},"linkit":{"autocompletePath":"https:\/\/www.flixbus.com\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"https:\/\/www.flixbus.com\/linkit\/dashboard\/","currentInstance":{}},"lang_dropdown":{"language":{"jsWidget":{"languageicons":{"en":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/en.png","de":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/de.png","it":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/it.png","en-gb":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/en-gb.png","tr":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/tr.png","de-at":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/de-at.png","nl":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/nl.png","fr":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/fr.png","cs":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/cs.png","sv":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/sv.png","bg":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/bg.png","nb":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/nb.png","sr":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/sr.png","ro":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/ro.png","da":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/da.png","hu":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/hu.png","sk":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/sk.png","sl":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/sl.png","hr":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/hr.png","nl-be":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/nl-be.png","fr-be":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/fr-be.png","pl":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/pl.png","ru":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/ru.png","es":"https:\/\/www.flixbus.com\/sites\/all\/themes\/flixbus_2014\/images\/language-icons\/es.png"},"widget":"msdropdown","visibleRows":"10","roundedCorner":0,"animStyle":"slideDown","event":"click","mainCSS":""}}},"urlIsAjaxTrusted":{"\/privacy-policy":true},"angularApp":"fbDefaultApp","bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
-  <script>
-    if (typeof angular != 'undefined') angular.module('fbDefaultApp', Drupal.settings.angularDependencies);
-  </script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#73d700">
+<link rel="shortcut icon" href="/favicon/favicon.ico">
+<meta name="msapplication-config" content="/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<meta property="og:image" content="https://cdn.flixbus.de/2017-04/preview.png">
+
+<meta name="theme-color" content="#73d700">    
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="manifest" href="/manifest.json">
+
+<script type="text/javascript" src="//try.abtasty.com/1b8fd245af1d84da60e62df6477d800e.js"></script>
+
+    <link rel="alternate" hreflang="bg" href="https://www.flixbus.bg/poveritelnost">
+    <link rel="alternate" hreflang="cs" href="https://www.flixbus.cz/ochrana-osobnich-udaju">
+    <link rel="alternate" hreflang="da" href="https://www.flixbus.dk/privatlivspolitik">
+    <link rel="alternate" hreflang="de" href="https://www.flixbus.de/datenschutz">
+    <link rel="alternate" hreflang="de-at" href="https://www.flixbus.at/datenschutz">
+    <link rel="alternate" hreflang="en-gb" href="https://www.flixbus.co.uk/privacy">
+    <link rel="alternate" hreflang="en" href="https://www.flixbus.com/privacy-policy">
+    <link rel="alternate" hreflang="x-default" href="https://www.flixbus.com/privacy-policy">
+    <link rel="alternate" hreflang="es" href="https://www.flixbus.es/politica-privacidad">
+    <link rel="alternate" hreflang="fr" href="https://www.flixbus.fr/confidentialite">
+    <link rel="alternate" hreflang="fr-be" href="https://fr.flixbus.be/confidentialite">
+    <link rel="alternate" hreflang="hr" href="https://www.flixbus.hr/zastita-podataka">
+    <link rel="alternate" hreflang="hu" href="https://www.flixbus.hu/adatvedelem">
+    <link rel="alternate" hreflang="it" href="https://www.flixbus.it/normativa-privacy">
+    <link rel="alternate" hreflang="nb" href="https://www.flixbus.no/personvernregler">
+    <link rel="alternate" hreflang="nl" href="https://www.flixbus.nl/privacyverklaring">
+    <link rel="alternate" hreflang="nl-be" href="https://www.flixbus.be/privacyverklaring">
+    <link rel="alternate" hreflang="pl" href="https://www.flixbus.pl/polityka-prywatnosci">
+    <link rel="alternate" hreflang="pt-pt" href="https://www.flixbus.pt/politica-privacidade">
+    <link rel="alternate" hreflang="ro" href="https://www.flixbus.ro/politica-de-confidentialitate">
+    <link rel="alternate" hreflang="ru" href="https://www.flixbus.ru/zashhita-dannyh">
+    <link rel="alternate" hreflang="sk" href="https://www.flixbus.sk/ochrana-osobnych-udajov">
+    <link rel="alternate" hreflang="sl" href="https://www.flixbus.si/pravilnik-o-zasebnosti">
+    <link rel="alternate" hreflang="sq" href="https://www.flixbus.al/politika-e-privatesise">
+    <link rel="alternate" hreflang="sr" href="https://www.flixbus.rs/zastita-podataka">
+    <link rel="alternate" hreflang="sv" href="https://www.flixbus.se/sekretesspolicy">
+    <link rel="alternate" hreflang="tr" href="https://tr.flixbus.com/veri-koruma">
+    <link rel="alternate" hreflang="uk" href="https://www.flixbus.com.ua/polityka-konfidentsiynosti">
+
+
+    <meta property="fb:pages" content="100120946987031">
+<meta property="fb:pages" content="248371251877349">
+<meta property="fb:pages" content="804788936282996">
+<meta property="fb:pages" content="1453959118231643">
+<meta property="fb:pages" content="748686011917585">
+<meta property="fb:pages" content="1339492699413966">
+<meta property="fb:pages" content="749153735191264">
+<meta property="fb:pages" content="232244643787404">
+<meta property="fb:pages" content="100586370282803">
+<meta property="fb:pages" content="1437876742970240">
+
+<link href="/detect.css" rel="stylesheet">
+
+
+
+    <meta name="apple-itunes-app" content="app-id=778437357, app-argument=flixbus://booking?adjust_tracker=vdpzc0&amp;adjust_campaign=SmartAppBanner&amp;adjust_adgroup=COM&amp;adjust_creative=COM&amp;wt_mc=owned.com.FlixBus.website.smart-app-banner.smart-app-banner.smart-app-banner.ad">
+
+<meta name="smartbanner:title" content="FlixBus - Android App">
+<meta name="smartbanner:author" content="For free - in Google Play Store">
+<meta name="smartbanner:button" content="Get it">
+<meta name="smartbanner:button-url-google" content="https://app.adjust.com/67gsoo?campaign=SmartAppBanner&amp;adgroup=COM&amp;creative=COM&amp;deep_link=flixbus%3A%2F%2Fbooking%3Fwt_mc%3Downed.com.FlixBus.website.smart-app-banner.smart-app-banner.smart-app-banner.ad">
+<meta name="smartbanner:enabled-platforms" content="android">
+    <link rel="stylesheet" href="/app/build/styles.css">
+
+<script defer="" src="/js/dd.js"></script>
+
+<script>
+        window.lazySizesConfig = window.lazySizesConfig || {};
+    lazySizesConfig.expFactor = 1.01;
+    lazySizesConfig.expand = 100;
+</script>
+
+<script defer="" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+<script defer="" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-animate.min.js"></script>
+<script defer="" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-sanitize.min.js"></script>
+<script defer="" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-cookies.min.js"></script>
+<script defer="" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-touch.min.js"></script>
+<script defer="" src="/app/build/final.js"></script>
+
+
+<!--[if IE 8]>
+<link rel="stylesheet" media="all" type="text/css" href="/app/build/ie8.css"/>
+<![endif]-->
+<!--[if IE 9]>
+<meta http-equiv="X-UA-Compatible" content="IE=9">
+<link rel="stylesheet" media="all" type="text/css" href="/app/build/ie9.css"/>
+<![endif]-->
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script defer src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script defer src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+<script defer="" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script defer="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<script defer="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/i18n/jquery-ui-i18n.min.js"></script>
+<script defer="" src="https://shop.flixbus.com/vendor/js/search-widget-bootstrap.js" type="text/javascript"></script>
 
 </head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1280 node-type-static-page   i18n-en shopLayer">
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    <div class="bg_header"></div>
-    <header class="container">
-        <div class="row header">
-            <nav role="navigation" class="navbar-default">
-                <div class="navbar-header">
-                    <button data-target="#navbar-collapse-1" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
-                        <span class="sr-only">Toggle navigation
-                        </span>
-                        <span class="icon-bar">
-                        </span>
-                        <span class="icon-bar">
-                        </span>
-                        <span class="icon-bar">
-                        </span>
-                    </button>
-                    <a class="frontLogo logo navbar-btn pull-left" href="https://www.flixbus.com/" title="Home">
-                        <img src="/sites/all/themes/flixbus_2014/sassBootstrap/images/logo.png?2016" alt="Bus travel with FlixBus">
-                    </a>
-                </div>
-                <div id="navbar-collapse-1" class="navbar-collapse borderNone collapse" style="height: 0px;">
-                          
-<div class="panel-pane pane-block pane-lang-dropdown-language">
-        
-  
-    
-      <div class="feed">
-          </div>
-  
-  <div class="pane-content">
-    <form class="lang_dropdown_form language" id="lang_dropdown_form_language" action="/privacy-policy" method="post" accept-charset="UTF-8"><div><div class="form-type-select form-item-lang-dropdown-select form-item form-group">
- <select style="width:43px" class="lang-dropdown-select-element form-control form-select" id="lang-dropdown-select-language" name="lang_dropdown_select"><option value="en" selected="selected">en</option><option value="de">de</option><option value="it">it</option><option value="en-gb">en-gb</option><option value="tr">tr</option><option value="de-at">de-at</option><option value="nl">nl</option><option value="fr">fr</option><option value="cs">cs</option><option value="sv">sv</option><option value="bg">bg</option><option value="nb">nb</option><option value="sr">sr</option><option value="ro">ro</option><option value="da">da</option><option value="hu">hu</option><option value="sk">sk</option><option value="sl">sl</option><option value="hr">hr</option><option value="nl-be">nl-be</option><option value="fr-be">fr-be</option><option value="pl">pl</option><option value="ru">ru</option><option value="es">es</option></select>
-</div>
-<input type="hidden" name="en" value="https://www.flixbus.com/privacy-policy">
-<input type="hidden" name="de" value="https://www.flixbus.de/datenschutz">
-<input type="hidden" name="it" value="https://www.flixbus.it/normativa-privacy">
-<input type="hidden" name="en-gb" value="https://www.flixbus.co.uk/privacy">
-<input type="hidden" name="tr" value="https://tr.flixbus.com/veri-koruma">
-<input type="hidden" name="de-at" value="https://www.flixbus.at/node/1280">
-<input type="hidden" name="nl" value="https://www.flixbus.nl/privacyverklaring">
-<input type="hidden" name="fr" value="https://www.flixbus.fr/confidentialite">
-<input type="hidden" name="cs" value="https://www.flixbus.cz/ochrana-osobnich-udaju">
-<input type="hidden" name="sv" value="https://www.flixbus.se/sekretesspolicy">
-<input type="hidden" name="bg" value="https://www.flixbus.bg/poveritelnost">
-<input type="hidden" name="nb" value="https://www.flixbus.no/personvernregler">
-<input type="hidden" name="sr" value="https://www.flixbus.rs/zastita-podataka">
-<input type="hidden" name="ro" value="https://www.flixbus.ro/politica-de-confidentialitate">
-<input type="hidden" name="da" value="https://www.flixbus.dk/privatlivspolitik">
-<input type="hidden" name="hu" value="https://www.flixbus.hu/adatvedelem">
-<input type="hidden" name="sk" value="https://www.flixbus.sk/ochrana-osobnych-udajov">
-<input type="hidden" name="sl" value="https://www.flixbus.si/pravilnik-o-zasebnosti">
-<input type="hidden" name="hr" value="https://www.flixbus.hr/zastita-podataka">
-<input type="hidden" name="nl-be" value="https://www.flixbus.be/node/1280">
-<input type="hidden" name="fr-be" value="https://fr.flixbus.be/node/1280">
-<input type="hidden" name="pl" value="https://www.flixbus.pl/polityka-prywatnosci">
-<input type="hidden" name="ru" value="https://www.flixbus.ru/zashhita-dannyh">
-<input type="hidden" name="es" value="https://www.flixbus.es/politica-privacidad">
-<noscript><div>
-<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Go" type="submit">Go</button>
 
-</div></noscript><input type="hidden" name="form_build_id" value="form-zSppmqlrILuRRrdH1uxKQzf8tQz-KgrIxB1Ps6cg6vw">
-<input type="hidden" name="form_id" value="lang_dropdown_form">
-</div></form>  </div>
 
-      <div class="links">
-          </div>
-  
-      <div class="more-link">
-          </div>
-  </div>
+<body class="site__langcode-en-us site__body ng-scope">
 
-  <div class="panel-separator"></div>  
-<div class="panel-pane pane-menu-tree pane-menu-main-menu-com">
-        
-  
-    
-      <div class="feed">
-          </div>
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-ctools-menu-main-menu-com-3 menu-name-menu-main-menu-com parent-mlid-0 menu-level-1">
-  <ul class="en menu nav topNav topNavFirst navbar-nav"><li class="first leaf menu-mlid-19069"><a href="https://shop.flixbus.com">Book Ticket</a></li>
-<li class="leaf menu-mlid-37339"><a href="https://www.flixbus.com/bus-routes#/map">Route Map</a></li>
-<li class="expanded menu-mlid-13282 dropdown"><a href="https://www.flixbus.com/bus-schedule-bus-stop" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Schedules &amp; Stops <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-13291"><a href="https://www.flixbus.com/bus">Bus destinations</a></li>
-<li class="leaf menu-mlid-13294"><a href="https://www.flixbus.com/overnight-bus">Overnight Buses</a></li>
-<li class="leaf menu-mlid-32926"><a href="https://www.flixbus.com/travel-tips">Travel tips</a></li>
-<li class="leaf menu-mlid-38993"><a href="https://charter.flixbus.com/?utm_source=schedules&amp;utm_medium=Link&amp;utm_campaign=Flixbus.com-Link">Rent a bus</a></li>
-<li class="last leaf menu-mlid-37870"><a href="https://interflix.flixbus.com/">InterFlix: 5 cities for 99 €</a></li>
-</ul></li>
-<li class="expanded menu-mlid-13297 dropdown"><a href="https://www.flixbus.com/service" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Service <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-13300"><a href="https://www.flixbus.com/service/faq">FAQ</a></li>
-<li class="leaf menu-mlid-13303"><a href="https://www.flixbus.com/service/services-on-our-buses">On Board</a></li>
-<li class="leaf menu-mlid-13306"><a href="https://shop.flixbus.com/rebooking/" target="_blank">Cancel &amp; Change</a></li>
-<li class="leaf menu-mlid-13309"><a href="https://www.flixbus.com/service/bus-app">App</a></li>
-<li class="leaf menu-mlid-13312"><a href="https://www.flixbus.com/service/baggage">Baggage</a></li>
-<li class="leaf menu-mlid-13318"><a href="https://www.flixbus.com/service/book-through-a-travel-agency">Ticket outlets</a></li>
-<li class="leaf menu-mlid-13321"><a href="https://www.flixbus.com/service/lost-and-found">Lost &amp; Found</a></li>
-<li class="leaf menu-mlid-35163"><a href="https://www.flixbus.com/service/special-offers">Special Offers</a></li>
-<li class="last leaf menu-mlid-37330"><a href="https://www.flixbus.com/service/current-route-information">Travel information</a></li>
-</ul></li>
-<li class="expanded menu-mlid-13327 dropdown"><a href="https://www.flixbus.com/company" class="lastLink dropdown-toggle" data-target="#" data-toggle="dropdown">Company <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-13330"><a href="https://www.flixbus.com/company/about-flixbus">About us</a></li>
-<li class="leaf menu-mlid-13333"><a href="https://www.flixbus.com/company/safety">Safety</a></li>
-<li class="leaf menu-mlid-13336"><a href="https://www.flixbus.com/company/sustainability">Sustainability</a></li>
-<li class="leaf menu-mlid-13339"><a href="https://www.flixbus.com/company/customer-satisfaction">Customer Satisfaction</a></li>
-<li class="leaf menu-mlid-13342"><a href="https://www.flixbus.com/company/prices">Prices</a></li>
-<li class="leaf has-children menu-mlid-13345"><a href="https://www.flixbus.com/company/partners">Partners</a></li>
-<li class="leaf has-children menu-mlid-13363"><a href="https://www.flixbus.com/company/jobs">Jobs</a></li>
-<li class="leaf has-children menu-mlid-18043"><a href="https://www.flixbus.com/company/press-room">Press</a></li>
-<li class="last leaf menu-mlid-13414"><a href="https://www.flixbus.com/company/contact-us">Contact</a></li>
-</ul></li>
-<li class="leaf menu-mlid-37480"><a href="https://www.flixbus.com/my-account-menu-com" class="shop-my-account-link shop-links" style="display:none">My Account</a></li>
-<li class="last leaf menu-mlid-37417"><a href="https://www.flixbus.com/login-menu-com" class="shop-login-link shop-links">Login</a></li>
-</ul></div>
-  </div>
+        <script type="text/javascript">
+    var dataLayer = window.dataLayer || [];
+    dataLayer.push({});
+</script>
+<script>(window.dataLayer = window.dataLayer || []).push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });</script>
+<script defer="" src="//www.googletagmanager.com/gtm.js?id=GTM-QFH9M"></script>
+<script type="text/javascript" async="">
+  (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+      var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-W6FDFB');
+</script>
+<script type="text/javascript" async="">
+  (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+      var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-M9H5R8T');
+</script>
 
-      <div class="links">
-          </div>
-  
-      <div class="more-link">
-          </div>
-  </div>
 
-                  </div>
-            </nav>
+    <header>
+        <div class="site__header clearfix">
+    <div id="header" ng-controller="CollapseCtrl">
+        <a href="/" class="header__logo">
+            <div class="header__logo__image">
+                <img src="/app/styles/images/logo.svg" alt="Logo for long distance bus provider FlixBus" title="FlixBus Logo">
+            </div>
+        </a>
+
+        <div class="menu navigation">
+            <button class="main-menu__button" type="button" ng-click="isCollapsedHorizontal = !isCollapsedHorizontal">
+                <span class="main-menu__icon-bar first"></span>
+                <span class="main-menu__icon-bar"></span>
+                <span class="main-menu__icon-bar last"></span>
+            </button>
         </div>
+        <div class="menu-container" uib-collapse="!isCollapsedHorizontal" horizontal="">
+                            
+                <nav class="navbar navbar--main-menu">
+                    <div class="row-spacer"></div>
+
+                    <div class="flix-icon-close mobile" ng-click="isCollapsedHorizontal = !isCollapsedHorizontal"></div>
+
+                    <div class="shop-login--mobile">
+                        <div ng-controller="shopLoginCtrl" id="shop-login" class="shop-login">
+    <div ng-if="!logged" class="shop-login--link">
+        <span class="avatar">
+            <img class="fade lazyload" data-src="/app/styles/images/avatar--anonymous.svg">
+        </span>
+        <a href="https://shop.flixbus.com/user/login">Login</a>
+    </div>
+    <div ng-if="logged" class="shop-my-account--link" ng-cloak="">
+        <span class="avatar">
+            <img class="fade lazyload" data-src="/app/styles/images/avatar--anonymous.svg">
+        </span>
+        <a href="https://shop.flixbus.com/user/profile">My account</a>
+    </div>
+</div>
+                    </div>
+
+                                        <ul class="en-us menu--main" role="menu" aria-labelledby="main-menu" ng-class="{'is-closed': closeParentMenu, 'is-open': !closeParentMenu}" uib-collapse="!isCollapsedHorizontal" horizontal="">
+                                                                                    <li class="menu--main__item ">
+                                    <a class="menu--main__title  " href="https://shop.flixbus.com/">Book Ticket</a>
+
+                                                                    </li>
+                                                                                                                                            <li class="menu--main__item ">
+                                    <a class="menu--main__title  " href="/bus-routes#/map">Route Map</a>
+
+                                                                    </li>
+                                                                                                                                            <li class="menu--main__item has-child">
+                                    <a class="menu--main__title desktop " href="/bus-schedule-bus-stop">Schedules &amp; Stops<span class="flix-icon-arrow flix-icon-arrow-bottom"></span></a>
+
+                                                                            <span class="flix-icon-arrow flix-icon-arrow-right"></span>                                         <span class="menu--main__title mobile" ng-click="isCollapsedHorizontalChild3 = !isCollapsedHorizontalChild3; closeParentMenu = !closeParentMenu">
+              Schedules &amp; Stops
+            </span>
+
+                                        <ul class="menu--level-2 child" role="menu" aria-labelledby="main-menu--child">
+
+                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/bus" class="">Bus destinations</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/overnight-bus" class="">Overnight buses</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/travel-tips" class="">Travel tips</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/holiday-destinations" class="">Holiday destinations</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="https://charter.flixbus.com/?utm_source=schedules&amp;utm_medium=Link&amp;utm_campaign=Flixbus.com-Link" class="">Rent a bus</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="https://interflix.flixbus.com/" class="">InterFlix: 5 cities for 99 €</a>
+                                                    </li>
+                                                                                                                                    </ul>
+
+                                                                    </li>
+                                                                                                                                            <li class="menu--main__item has-child">
+                                    <a class="menu--main__title desktop " href="/service">Service<span class="flix-icon-arrow flix-icon-arrow-bottom"></span></a>
+
+                                                                            <span class="flix-icon-arrow flix-icon-arrow-right"></span>                                         <span class="menu--main__title mobile" ng-click="isCollapsedHorizontalChild4 = !isCollapsedHorizontalChild4; closeParentMenu = !closeParentMenu">
+              Service
+            </span>
+
+                                        <ul class="menu--level-2 child" role="menu" aria-labelledby="main-menu--child">
+
+                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/service/faq" class="">FAQ</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/service/services-on-our-buses" class="">On board</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="https://shop.flixbus.com/rebooking/login?_locale=en" class="">Cancel &amp; Change</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/service/bus-app" class="">App</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/service/baggage" class="">Baggage</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/service/book-through-a-travel-agency" class="">Ticket outlets</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/service/lost-and-found" class="">Lost &amp; Found</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/service/special-offers" class="">Special offers</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/service/current-route-information" class="">Travel information</a>
+                                                    </li>
+                                                                                                                                    </ul>
+
+                                                                    </li>
+                                                                                                                                            <li class="menu--main__item has-child">
+                                    <a class="menu--main__title desktop " href="/company">Company<span class="flix-icon-arrow flix-icon-arrow-bottom"></span></a>
+
+                                                                            <span class="flix-icon-arrow flix-icon-arrow-right"></span>                                         <span class="menu--main__title mobile" ng-click="isCollapsedHorizontalChild5 = !isCollapsedHorizontalChild5; closeParentMenu = !closeParentMenu">
+              Company
+            </span>
+
+                                        <ul class="menu--level-2 child" role="menu" aria-labelledby="main-menu--child">
+
+                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/company/about-flixbus" class="">About us</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/company/safety" class="">Safety</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/company/sustainability" class="">Sustainability</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/company/customer-satisfaction" class="">Customer satisfaction</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/company/prices" class="">Prices</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/company/partners" class="">Partners</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/company/jobs" class="">Jobs</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/company/press-room" class="">Press</a>
+                                                    </li>
+                                                                                                                                                                                                <li class="menu--level-2__item ">
+                                                        <a href="/company/contact-us" class="">Contact</a>
+                                                    </li>
+                                                                                                                                    </ul>
+
+                                                                    </li>
+                                                                                                                        <li class="language-switcher__btn mobile" ng-class="{'is-closed': closeParentMenu, 'is-open': !closeParentMenu}" ng-click="isCollapsedMobile = !isCollapsedMobile; closeParentMenu = !closeParentMenu">
+                                    <span class="language-switcher__langcode flags--en-us">en-us</span>
+                                    <span class="flix-icon-arrow flix-icon-arrow-right"></span>
+                                </li>
+                                                                                                        </ul>
+                    
+                                        
+                        
+                            <ul class="menu--level-2 horizontal-collapse child" role="menu" aria-labelledby="main-menu--child" uib-collapse="!isCollapsedHorizontalChild1">
+
+                                <li class="menu--level-2__item back" ng-click="isCollapsedHorizontalChild1 = !isCollapsedHorizontalChild1; closeParentMenu = !closeParentMenu">
+                                    <span class="flix-icon-arrow flix-icon-arrow-left"></span>
+                                    <span class="menu-back">Home</span>
+                                </li>
+
+                                
+                            </ul>
+                        
+                    
+                        
+                            <ul class="menu--level-2 horizontal-collapse child" role="menu" aria-labelledby="main-menu--child" uib-collapse="!isCollapsedHorizontalChild2">
+
+                                <li class="menu--level-2__item back" ng-click="isCollapsedHorizontalChild2 = !isCollapsedHorizontalChild2; closeParentMenu = !closeParentMenu">
+                                    <span class="flix-icon-arrow flix-icon-arrow-left"></span>
+                                    <span class="menu-back">Home</span>
+                                </li>
+
+                                
+                            </ul>
+                        
+                    
+                        
+                            <ul class="menu--level-2 horizontal-collapse child" role="menu" aria-labelledby="main-menu--child" uib-collapse="!isCollapsedHorizontalChild3">
+
+                                <li class="menu--level-2__item back" ng-click="isCollapsedHorizontalChild3 = !isCollapsedHorizontalChild3; closeParentMenu = !closeParentMenu">
+                                    <span class="flix-icon-arrow flix-icon-arrow-left"></span>
+                                    <span class="menu-back">Home</span>
+                                </li>
+
+                                                                                                            <li class="menu--level-2__item">
+
+                                                                                            <a href="/bus" class="">Bus destinations</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/overnight-bus" class="">Overnight buses</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/travel-tips" class="">Travel tips</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/holiday-destinations" class="">Holiday destinations</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="https://charter.flixbus.com/?utm_source=schedules&amp;utm_medium=Link&amp;utm_campaign=Flixbus.com-Link" class="">Rent a bus</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="https://interflix.flixbus.com/" class="">InterFlix: 5 cities for 99 €</a>
+                                            
+                                        </li>
+                                                                    
+                            </ul>
+                        
+                    
+                        
+                            <ul class="menu--level-2 horizontal-collapse child" role="menu" aria-labelledby="main-menu--child" uib-collapse="!isCollapsedHorizontalChild4">
+
+                                <li class="menu--level-2__item back" ng-click="isCollapsedHorizontalChild4 = !isCollapsedHorizontalChild4; closeParentMenu = !closeParentMenu">
+                                    <span class="flix-icon-arrow flix-icon-arrow-left"></span>
+                                    <span class="menu-back">Home</span>
+                                </li>
+
+                                                                                                            <li class="menu--level-2__item">
+
+                                                                                            <a href="/service/faq" class="">FAQ</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/service/services-on-our-buses" class="">On board</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="https://shop.flixbus.com/rebooking/login?_locale=en" class="">Cancel &amp; Change</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/service/bus-app" class="">App</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/service/baggage" class="">Baggage</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/service/book-through-a-travel-agency" class="">Ticket outlets</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/service/lost-and-found" class="">Lost &amp; Found</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/service/special-offers" class="">Special offers</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/service/current-route-information" class="">Travel information</a>
+                                            
+                                        </li>
+                                                                    
+                            </ul>
+                        
+                    
+                        
+                            <ul class="menu--level-2 horizontal-collapse child" role="menu" aria-labelledby="main-menu--child" uib-collapse="!isCollapsedHorizontalChild5">
+
+                                <li class="menu--level-2__item back" ng-click="isCollapsedHorizontalChild5 = !isCollapsedHorizontalChild5; closeParentMenu = !closeParentMenu">
+                                    <span class="flix-icon-arrow flix-icon-arrow-left"></span>
+                                    <span class="menu-back">Home</span>
+                                </li>
+
+                                                                                                            <li class="menu--level-2__item">
+
+                                                                                            <a href="/company/about-flixbus" class="">About us</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/company/safety" class="">Safety</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/company/sustainability" class="">Sustainability</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/company/customer-satisfaction" class="">Customer satisfaction</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/company/prices" class="">Prices</a>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                            
+                                                <span class="menu--main__title mobile" ng-click="isCollapsedHorizontalThirdLevel6 = !isCollapsedHorizontalThirdLevel6">Partners
+                                                    <span class="flix-icon-arrow flix-icon-arrow-right"></span>             </span>
+
+                                                <ul class="menu--level-3 horizontal-collapse child" role="menu" aria-labelledby="main-menu--child" uib-collapse="!isCollapsedHorizontalThirdLevel6" horizontal="">
+
+                                                    <li class="menu--level-3__item back" ng-click="isCollapsedHorizontalThirdLevel6 = !isCollapsedHorizontalThirdLevel6">
+                                                        <span class="flix-icon-arrow flix-icon-arrow-left"></span>
+                                                        <span class="menu-back">Company</span>
+                                                    </li>
+
+                                                    <li class="row-spacer"></li>
+
+                                                                                                                                                                         <li class="side-menu-thirdLevel">
+                                                                <a href="/company/partners/buspartners" class="">Bus Partners</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/partners/travel-agencies-and-ticket-outlets" class="">Travel Agencies &amp; Distribution Partners</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/partners/advertising-partners" class="">Advertising Partners</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/partners/innovation-partners" class="">Innovation Partners</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/partners/affiliate-partners" class="">Affiliate Partners</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/partners/brand-integration" class="">Brand Integration</a>
+
+                                                            </li>
+                                                                                                                                                            </ul>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                            
+                                                <span class="menu--main__title mobile" ng-click="isCollapsedHorizontalThirdLevel7 = !isCollapsedHorizontalThirdLevel7">Jobs
+                                                    <span class="flix-icon-arrow flix-icon-arrow-right"></span>             </span>
+
+                                                <ul class="menu--level-3 horizontal-collapse child" role="menu" aria-labelledby="main-menu--child" uib-collapse="!isCollapsedHorizontalThirdLevel7" horizontal="">
+
+                                                    <li class="menu--level-3__item back" ng-click="isCollapsedHorizontalThirdLevel7 = !isCollapsedHorizontalThirdLevel7">
+                                                        <span class="flix-icon-arrow flix-icon-arrow-left"></span>
+                                                        <span class="menu-back">Company</span>
+                                                    </li>
+
+                                                    <li class="row-spacer"></li>
+
+                                                                                                                                                                         <li class="side-menu-thirdLevel">
+                                                                <a href="/company/jobs/group-a" class="">Business &amp; Network Development</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/jobs/group-b" class="">Finance, HR &amp; Administration</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/jobs/group-c" class="">International &amp; New Ventures</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/jobs/group-d" class="">IT &amp; Software Development</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/jobs/group-e" class="">Marketing, Sales &amp; Pricing</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/jobs/group-f" class="">Service &amp; Operations</a>
+
+                                                            </li>
+                                                                                                                                                            </ul>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                            
+                                                <span class="menu--main__title mobile" ng-click="isCollapsedHorizontalThirdLevel8 = !isCollapsedHorizontalThirdLevel8">Press
+                                                    <span class="flix-icon-arrow flix-icon-arrow-right"></span>             </span>
+
+                                                <ul class="menu--level-3 horizontal-collapse child" role="menu" aria-labelledby="main-menu--child" uib-collapse="!isCollapsedHorizontalThirdLevel8" horizontal="">
+
+                                                    <li class="menu--level-3__item back" ng-click="isCollapsedHorizontalThirdLevel8 = !isCollapsedHorizontalThirdLevel8">
+                                                        <span class="flix-icon-arrow flix-icon-arrow-left"></span>
+                                                        <span class="menu-back">Company</span>
+                                                    </li>
+
+                                                    <li class="row-spacer"></li>
+
+                                                                                                                                                                         <li class="side-menu-thirdLevel">
+                                                                <a href="/company/press-room/image-library" class="">Media Center</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/press-room/press-releases" class="">Press Releases</a>
+
+                                                            </li>
+                                                                                                                                                                                                                                 <li class="side-menu-thirdLevel">
+                                                                <a href="/company/press-room/press-coverage" class="">International Press Coverage</a>
+
+                                                            </li>
+                                                                                                                                                            </ul>
+                                            
+                                        </li>
+                                                                                                                                                <li class="menu--level-2__item">
+
+                                                                                            <a href="/company/contact-us" class="">Contact</a>
+                                            
+                                        </li>
+                                                                    
+                            </ul>
+                        
+                                        
+                    <div class="menu--custom-block">
+                        
+<div class="language-switcher__btn desktop">
+    <span class="language-switcher__langcode flags--en-us">en-us</span>
+    <span class="flix-icon-arrow flix-icon-arrow-bottom"></span>
+
+
+
+        <div class="language-switcher desktop">
+        <div class="caret caret-up"></div>
+
+        <ul class="list">
+
+                            <li class="item"><a href="https://www.flixbus.bg/poveritelnost">
+                        <span class="language-native-name flags--bg">Български</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.cz/ochrana-osobnich-udaju">
+                        <span class="language-native-name flags--cs">Čeština</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.dk/privatlivspolitik">
+                        <span class="language-native-name flags--da">Dansk</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.de/datenschutz">
+                        <span class="language-native-name flags--de">Deutsch</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.at/datenschutz">
+                        <span class="language-native-name flags--de-at">Deutsch</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.co.uk/privacy">
+                        <span class="language-native-name flags--en-gb">English (UK)</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.com/privacy-policy">
+                        <span class="language-native-name is-active flags--en">English </span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.es/politica-privacidad">
+                        <span class="language-native-name flags--es">Español</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.fr/confidentialite">
+                        <span class="language-native-name flags--fr">Français</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://fr.flixbus.be/confidentialite">
+                        <span class="language-native-name flags--fr-be">Français</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.hr/zastita-podataka">
+                        <span class="language-native-name flags--hr">Hrvatski</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.hu/adatvedelem">
+                        <span class="language-native-name flags--hu">Magyar</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.it/normativa-privacy">
+                        <span class="language-native-name flags--it">Italiano</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.no/personvernregler">
+                        <span class="language-native-name flags--nb">Norsk (bokmål)</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.nl/privacyverklaring">
+                        <span class="language-native-name flags--nl">Nederlands</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.be/privacyverklaring">
+                        <span class="language-native-name flags--nl-be">Nederlands</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.pl/polityka-prywatnosci">
+                        <span class="language-native-name flags--pl">Polski</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.pt/politica-privacidade">
+                        <span class="language-native-name flags--pt-pt">Português</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.ro/politica-de-confidentialitate">
+                        <span class="language-native-name flags--ro">Română</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.ru/zashhita-dannyh">
+                        <span class="language-native-name flags--ru">Русский</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.sk/ochrana-osobnych-udajov">
+                        <span class="language-native-name flags--sk">Slovenčina</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.si/pravilnik-o-zasebnosti">
+                        <span class="language-native-name flags--sl">Slovenščina</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.al/politika-e-privatesise">
+                        <span class="language-native-name flags--sq">Shqip</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.rs/zastita-podataka">
+                        <span class="language-native-name flags--sr">Srpski</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.se/sekretesspolicy">
+                        <span class="language-native-name flags--sv">Svenska</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://tr.flixbus.com/veri-koruma">
+                        <span class="language-native-name flags--tr">Türkçe</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+                            <li class="item"><a href="https://www.flixbus.com.ua/polityka-konfidentsiynosti">
+                        <span class="language-native-name flags--uk">Українська</span>
+                        <span class="flix-icon-checkmark"></span>
+                    </a>
+                </li>
+            
+        </ul>
+    </div>
+    
+
+</div>
+
+<div class="language-switcher mobile" uib-collapse="!isCollapsedMobile">
+    <div class="caret caret-up"></div>
+    <div class="flix-icon-close" ng-click="isCollapsedMobile = !isCollapsedMobile"></div>
+
+    <div class="menu--level-2__item back" ng-click="closeParentMenu = !closeParentMenu; isCollapsedMobile = !isCollapsedMobile" ng-init="!closeParentMenu">
+        <span class="flix-icon-arrow flix-icon-arrow-left"></span>
+        <span class="menu-back">Home</span>
+    </div>
+
+    <ul class="list">
+
+            <li class="item"><a href="https://www.flixbus.bg/poveritelnost">
+                <span class="language-native-name flags--bg">Български</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.cz/ochrana-osobnich-udaju">
+                <span class="language-native-name flags--cs">Čeština</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.dk/privatlivspolitik">
+                <span class="language-native-name flags--da">Dansk</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.de/datenschutz">
+                <span class="language-native-name flags--de">Deutsch</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.at/datenschutz">
+                <span class="language-native-name flags--de-at">Deutsch</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.co.uk/privacy">
+                <span class="language-native-name flags--en-gb">English (UK)</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.com/privacy-policy">
+                <span class="language-native-name is-active flags--en">English </span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.es/politica-privacidad">
+                <span class="language-native-name flags--es">Español</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.fr/confidentialite">
+                <span class="language-native-name flags--fr">Français</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://fr.flixbus.be/confidentialite">
+                <span class="language-native-name flags--fr-be">Français</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.hr/zastita-podataka">
+                <span class="language-native-name flags--hr">Hrvatski</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.hu/adatvedelem">
+                <span class="language-native-name flags--hu">Magyar</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.it/normativa-privacy">
+                <span class="language-native-name flags--it">Italiano</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.no/personvernregler">
+                <span class="language-native-name flags--nb">Norsk (bokmål)</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.nl/privacyverklaring">
+                <span class="language-native-name flags--nl">Nederlands</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.be/privacyverklaring">
+                <span class="language-native-name flags--nl-be">Nederlands</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.pl/polityka-prywatnosci">
+                <span class="language-native-name flags--pl">Polski</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.pt/politica-privacidade">
+                <span class="language-native-name flags--pt-pt">Português</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.ro/politica-de-confidentialitate">
+                <span class="language-native-name flags--ro">Română</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.ru/zashhita-dannyh">
+                <span class="language-native-name flags--ru">Русский</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.sk/ochrana-osobnych-udajov">
+                <span class="language-native-name flags--sk">Slovenčina</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.si/pravilnik-o-zasebnosti">
+                <span class="language-native-name flags--sl">Slovenščina</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.al/politika-e-privatesise">
+                <span class="language-native-name flags--sq">Shqip</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.rs/zastita-podataka">
+                <span class="language-native-name flags--sr">Srpski</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.se/sekretesspolicy">
+                <span class="language-native-name flags--sv">Svenska</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://tr.flixbus.com/veri-koruma">
+                <span class="language-native-name flags--tr">Türkçe</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+            <li class="item"><a href="https://www.flixbus.com.ua/polityka-konfidentsiynosti">
+                <span class="language-native-name flags--uk">Українська</span>
+                <span class="flix-icon-checkmark"></span>
+            </a>
+        </li>
+        </ul>
+</div>
+
+                        <div ng-controller="shopLoginCtrl" id="shop-login" class="shop-login">
+    <div ng-if="!logged" class="shop-login--link">
+        <span class="avatar">
+            <img class="fade lazyload" data-src="/app/styles/images/avatar--anonymous.svg">
+        </span>
+        <a href="https://shop.flixbus.com/user/login">Login</a>
+    </div>
+    <div ng-if="logged" class="shop-my-account--link" ng-cloak="">
+        <span class="avatar">
+            <img class="fade lazyload" data-src="/app/styles/images/avatar--anonymous.svg">
+        </span>
+        <a href="https://shop.flixbus.com/user/profile">My account</a>
+    </div>
+</div>
+                    </div>
+
+                    <div class="menu-bottom-image">
+
+                        <img class="fade lazyload" data-src="/app/styles/images/footer/footer-mobile.png">
+
+                    </div>
+                </nav>
+
+            
+        </div>
+    </div>
+</div>
     </header>
 
+    <noscript>
+    <link rel="stylesheet" href="/app/build/noscript.css" />
+    <div class="jsDisabledWarning">
+        <p>Sorry, your browser does not support JavaScript!</p>
+    </div>
+</noscript>
+    <section class="site__content__header__wrapper">
 
-
-
-
-<div class="main-container container">
-  <div class="row">
-    <section ng-app="fbDefaultApp">
         
-<div class="panel-pane pane-page-breadcrumb">
         
-  
-    
-      <div class="feed">
-          </div>
-  
-  <div class="pane-content">
-    <p class="element-invisible">You are here</p><div class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span class="inline odd first" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><meta itemprop="position" content="1"><a href="https://www.flixbus.com/" itemprop="item"><span itemprop="name">Home</span></a></span> <span class="delimiter">/</span> <span class="inline even last" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><meta itemprop="position" content="2"><span itemprop="name">Privacy Policy</span></span></div>  </div>
+    </section>
 
-      <div class="links">
-          </div>
-  
-      <div class="more-link">
-          </div>
-  </div>
+    <section>
 
-  <div class="panel-separator"></div>  
-<div class="panel-pane pane-pane-messages">
-        
-  
-    
-      <div class="feed">
-          </div>
-  
-  <div class="pane-content">
-      <div class="tabs"></div>
-  </div>
+        <div class="site__messages">
 
-      <div class="links">
-          </div>
-  
-      <div class="more-link">
-          </div>
-  </div>
+            <div id="browserUpdateMsg" style="display:none" aria-hidden="true"></div>
 
-  <div class="panel-separator"></div>  
-<div class="panel-pane pane-page-content">
-        
-  
-    
-      <div class="feed">
-          </div>
-  
-  <div class="pane-content">
-       
- 
-  <section class="col-md-12 bg_style_node clearfix"> 
-      
-    
-            <div class="col-md-12 content-right-full">
+
+
+        </div>
+
+        <div class="site__content clearfix">
+
             
-<div class="panel-pane pane-node-content">
+    <div class="site__content--static">
+
+        <div class="breadcrumb-wrapper-staticpages">
+
+            <div class="breadcrumb-wrapper">
+    <div class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                    <span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+            <meta itemprop="position" content="1">
+                        <a itemprop="item" href="https://www.flixbus.com">
+                        <span itemprop="name">Home</span>
+                        </a>
+                        </span><span class="breadcrumb-pipe">ǀ</span>
+                    <span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+            <meta itemprop="position" content="2">
+                        <span itemprop="name">Privacy Policy</span>
+                        </span>
+            </div>
+</div>
+
+        </div>
+
+                                                                            
+        <div class="static-page--body clearfix ">
+
+            <div class="site__content__header">
+            <div class="h1-wrapper">
+            <h1>Privacy Policy</h1>
+        </div>
+
         
-  
+            
+        
     
-      <div class="feed">
-          </div>
-  
-  <div class="pane-content">
-    <div class="ds-1col node node-static-page node-viewmode-full view-mode-full  clearfix">
+            
+    
+            <div class="site__content__header__responsive-container">
+            <div class="image">
+                            </div>
+        </div>
+    </div>
 
-  
-  <h1>Privacy Policy</h1><div class="field field-name-field-enable-search-form field-type-list-boolean field-label-hidden"><div class="field-items"><div class="field-item even"></div></div></div><div class="field field-name-field-rel-content-element field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even"></div><div class="field-item odd"><div class="ds-1col entity entity-content-element content-element-text view-mode-default row clearfix">
-
-  
-  <div class="field field-name-field-content-text field-type-text-long field-label-hidden col-md-12"><div class="field-items"><div class="field-item even"><h2>Privacy Policy and Consent for Data Usage</h2>
+            
+    <h2>Privacy Policy and Consent for Data Usage</h2>
 
 <p>FlixMobility GmbH’s Internet portal and the booking portal integrated therein (hereinafter jointly referred to as “web page") are operated by FlixMobility GmbH, Birketweg 33, 80639 Munich, Germany (hereinafter “FlixMobility” or “we”). Protecting your personal data is very important to us. Data protection is therefore a high priority for FlixMobility GmbH. We strictly comply with the legal provisions of the Data Protection Act and the Telemedia Act when collecting, processing and using your data.</p>
 
@@ -298,32 +1024,32 @@
 <p>You can initiate a booking process on our web page.&nbsp; For this purpose, your data may be transferred to one of the following payment processing services as selected during the specific booking process. Payment can only be made via the online payment processes listed in the shop.</p>
 
 <ul><li>Payments are processed by our partner Adyen BV, Simon Carmiggelstraat 6–50, 1011 DJ Amsterdam, the Netherlands. In order to prevent and detect cases of fraud, we transfer your IP address to our partner Adyen BV, Simon Carmiggelstraat 6–50, 1011 DJ Amsterdam, the Netherlands. Adyen BV stores your IP address. Any and all data are transmitted in encrypted form. You can revoke your consent at any time with effect for the future by using the contact information in the legal notice.</li>
-</ul>
+</ul><p></p>
 
 <ul><li>Payments by credit card, Giropay (direct debit from checking account) and iDeal are handled by Heidelberger Payment GmbH, headquartered at Gaisbergstr. 11–13, 69115 Heidelberg, Germany.&nbsp;In addition, PAY.ON AG company, headquartered at Lucile-Grahn-Str. 37, 81675 Munich, Germany, comes into contact with your payment data. Heidelberger Payment GmbH is a payment service as defined by the Zahlungsdiensteaufsichtsgesetz (ZAG, Payment Services Supervision Act) and is registered with the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin, Federal Financial Supervisory Authority), Graurheindorfer Str. 108, 53117 Bonn, Germany (register number: 122914).</li>
-</ul>
+</ul><p></p>
 
-<ul><li>Payment by PayPal is handled by PayPal (Europe) S.à r.l. &amp; Cie, S.C.A., 5th floor, 22–24 Boulevard Royal, L-2449 Luxembourg. Additional information about Paypal’s privacy policy is available in <a href="https://www.paypal.com/cg/webapps/mpp/ua/privacy-full">Paypal’s Privacy Policy</a>.</li>
-</ul>
+<ul><li>Payment by PayPal is handled by PayPal (Europe) S.à r.l. &amp; Cie, S.C.A., 5th floor, 22–24 Boulevard Royal, L-2449 Luxembourg. Additional information about Paypal’s privacy policy is available in <a href="https://www.paypal.com/cg/webapps/mpp/ua/privacy-full" target="_blank">Paypal’s Privacy Policy</a>.</li>
+</ul><p></p>
 
 <ul><li>In order to prevent and detect cases of fraud, we transfer your IP address to Paymill GmbH, St.-Cajetan-Straße 43, 81669 Munich, Germany. Your IP address will be stored by PAYMILL GmbH for 72 hours. You can revoke your consent at any time with effect for the future by using the contact information in the legal notice.</li>
-</ul>
+</ul><p></p>
 
 <h2>Credit Check During Direct Debit Payment via Billpay</h2>
 
-<p>If you choose to use one of the payment options offered by our partner <a href="https://www.billpay.de/en/">Billpay GmbH</a>, you will be asked during the order process to agree to the transmission to Billpay of the data required to process your payment and verify your identity and credit standing. If you agree, your personal data (first and last name, street, house number, ZIP code, town, date of birth, telephone number and, in case of purchase via direct debit, the bank account listed) as well as the data relating to your order will be transmitted to Billpay.</p>
+<p>If you choose to use one of the payment options offered by our partner <a href="https://www.billpay.de/en/" target="_blank">Billpay GmbH</a>, you will be asked during the order process to agree to the transmission to Billpay of the data required to process your payment and verify your identity and credit standing. If you agree, your personal data (first and last name, street, house number, ZIP code, town, date of birth, telephone number and, in case of purchase via direct debit, the bank account listed) as well as the data relating to your order will be transmitted to Billpay.</p>
 
-<p>In order to perform its own identity and credit check, Billpay or partner companies authorized by Billpay transmit data to commercial credit reporting agencies (credit reporting agencies) and receive from them disclosure and, if necessary, information on creditworthiness based on mathematical statistics processes that use, among other things, address data. Detailed information on this process and the credit reporting agencies used is available in the <a href="https://www.billpay.de/en/terms/">Privacy Policies</a> of Billpay GmbH.</p>
+<p>In order to perform its own identity and credit check, Billpay or partner companies authorized by Billpay transmit data to commercial credit reporting agencies (credit reporting agencies) and receive from them disclosure and, if necessary, information on creditworthiness based on mathematical statistics processes that use, among other things, address data. Detailed information on this process and the credit reporting agencies used is available in the <a href="https://www.billpay.de/en/terms/" target="_blank">Privacy Policies</a> of Billpay GmbH.</p>
 
 <p>In addition, Billpay may use tools from third parties in order to detect and prevent cases of fraud. Data collected using these tools may be saved in encrypted form at third-party sites so that they can only be read by Billpay. These data are only used if you select one of the payment types from our cooperation partner Billpay, otherwise the data automatically expire after 30 minutes.</p>
 
-
+<p></p>
 
 <h2>Paymill GmbH</h2>
 
 <p>In order to prevent and detect cases of fraud, we transfer your IP address to Paymill GmbH, St.-Cajetan-Straße 43, 81669 Munich, Germany. Your IP address will be stored by PAYMILL GmbH for 72 hours. You can revoke your consent at any time with effect for the future by using the contact information in the legal notice.</p>
 
-
+<p></p>
 
 <h2>User Login/Customer Account</h2>
 
@@ -339,7 +1065,7 @@
 
 <p>Due to legally mandated data retention periods, personal data required for contract performance are not deleted when you delete your account.</p>
 
-
+<p></p>
 
 <h2>Newsletter</h2>
 
@@ -347,37 +1073,39 @@
 
 <p>If we receive your email address in connection with a booking or trip and you have not opted out of this, we reserve the right to regularly send you offers for products similar to those you have previously purchased from us. You can opt out of this use of your email address at any time by emailing <a href="mailto:unsubscribe@flixbus.com">unsubscribe@flixbus.com</a>&nbsp;or by using the opt-out link in the advertising email, without incurring any costs beyond the cost of transmission according to the base rates.</p>
 
-
+<p></p>
 
 <h2>Data Security</h2>
 
 <p>We employ technical and organizational measures to protect the privacy of users of our web page and the connected systems. To ensure the secure transmission of personal data, we use the encryption protocol SSL 3.0 (the underlying encryption scheme is the RSA-2048 used for the Public Key Infrastructure). This method is successfully used throughout the World Wide Web. All personal data (name, address, payment information, etc.) are encrypted and thus transmitted safely on the Internet. A symbol (closed padlock) in the bottom bar of your browser window indicates that you are in a secure area.</p>
 
-
+<p></p>
 
 <h2>Cookies</h2>
 
 <p>FlixMobility uses so-called cookies on its web page. Cookies are small files that are stored on your disk and store certain settings and data for exchange with our system through your browser. Some of the cookies we use are deleted after the end of the browser session, i.e. after you close your browser (so-called session cookies). Other cookies remain on your device and allow us or our partners to recognize your browser the next time you visit the web page (persistent cookies). Storing this information helps us to customize our web page for you and makes it easier to use by, for example, saving certain data entries from you so that you do not have to constantly repeat them. Your browser offers settings to restrict the use or deletion of cookies. The help function on most browsers will tell you how to make these settings. Not accepting cookies may affect the service functionalities of our web page.</p>
 
-
+<p></p>
 
 <h2>Right to Information and Right of Appeal</h2>
 
 <p>Under the Federal Privacy Act, you have the right to request information about your stored data free of charge, as well as the right to demand the rectification, erasure or blocking of these data. For more information or to revoke your consent to data storage as outlined above, please contact: FlixMobility GmbH, Birketweg 33, 80639 Munich, Germany or <a href="mailto:datenschutz@flixbus.de">datenschutz@flixbus.de</a>.</p>
 
+<p></p>
 
+<h2>Retargeting</h2>
 
-<h2>Google Remarketing</h2>
+<p>We use technology from Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google") to create pseudonymized usage profiles on the surfing habits of website visitors for marketing purposes, in order to optimize our web content and recommend products. Cookies can be used for this purpose, making it possible to recognize an internet browser when it visits again. The surfing behavior recorded is analyzed with an algorithm, so that targeted personalized product recommendations in the form of web banners or ads can then be displayed on third-party websites. The pseudonymized usage profiles are not associated with the personal data of the pseudonym holder without separate explicit consent. You can refuse the creation of pseudonymized usage profiles for personalized promotions/ads at any time by visiting <a href="https://www.google.com/settings/ads" target="_blank">https://www.google.com/settings/ads</a>. More information about personalized advertising can be found at <a href="http://www.google.com/policies/technologies/ads/" target="_blank">http://www.google.com/policies/technologies/ads/</a>.</p>
 
-<p>In order to optimize our web page and make product recommendations, we use the technologies of Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; “Google”) to create pseudonymous user profiles of web page`s visitors’ surfing behavior for marketing purposes.&nbsp; For this purpose cookies may be used that allow an Internet browser to be recognized during a subsequent visit. Your stored browsing behavior is analyzed based on an algorithm that makes it possible to subsequently display targeted interest-based product recommendations on third-party web pages in the form of advertising banners or advertisements. The pseudonymous user profiles are not merged with personal data of the pseudonym bearer without separate explicit consent by the person in question. You can opt out of pseudonymous user profiles for interest-based promotion/advertising specifications at any time by accessing the web page <a href="https://www.google.de/settings/ads">https://www.google.de/settings/ads</a>. Additional information about interest-based promotion is available at&nbsp;<a href="http://www.google.com/policies/technologies/ads/">http://www.google.com/policies/technologies/ads/</a>.</p>
+<p>This website uses Retargeting Pixel Custom Audiences from the social network Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA. With Remarketing Pixels, Facebook is able to use visitors to our website as a target group for Facebook advertisements. A Facebook cookie will be stored on their computer for this purpose. For more information about the scope and purpose of this data collection, and the later processing and use of this data on the part of Facebook, as well as the settings options to protect your privacy, please view the Facebook Data Policy at <a href="https://facebook.com/policy.php" target="_blank">https://facebook.com/policy.php</a> and <a href="https://www.facebook.com/ads/settings" target="_blank">https://www.facebook.com/ads/settings</a>. You can refuse the use of Custom Audiences at <a href="http://www.youronlinechoices.com/uk/your-ad-choices" target="_blank">http://www.youronlinechoices.com/uk/your-ad-choices</a>, or for users with a Facebook account <a href="http://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fsettings%2F%3Ftab%3Dads" target="_blank">here</a>.</p>
 
-
+<p></p>
 
 <h2>Web Analyses</h2>
 
 <h4>1. Google Analytics</h4>
 
-<p>This web page uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses so-called "cookies", text files that are stored on your computer, to help analyze how you use the web page. The Google tracking codes on this web page use the “_anonymizeIp()” function. Thus, the IP address will be processed only in a shortened form within Member States of the European Union or other countries of the Agreement on the European Economic Area to prevent direct correlation with an individual person. Only in exceptional cases is the complete IP address transmitted to a Google server in the USA and shortened there. On behalf of the operator of this web page, Google will use this information to evaluate your use of the web page, to compile reports on web page activity and to provide other services related to web page and Internet use with respect to the web page owner. The IP address transmitted by your browser as part of Google Analytics is not merged with other Google data. You can prevent your browser from storing these cookies by making the appropriate settings in your browser software; we would however like to point out that you may not be able to use all the features of this web page if you do so. You can also prevent capture of the data on your use of this web page (including your IP address) generated by the cookie and the processing of these data by Google by downloading and installing the browser plugin available at this link: <a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a></p>
+<p>This web page uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses so-called "cookies", text files that are stored on your computer, to help analyze how you use the web page. This website also uses the Google AMP Client ID API in order to link user activity on AMP sites with that of non-AMP sites using Google Analytics. The Google tracking codes on this web page use the “_anonymizeIp()” function. Thus, the IP address will be processed only in a shortened form within Member States of the European Union or other countries of the Agreement on the European Economic Area to prevent direct correlation with an individual person. Only in exceptional cases is the complete IP address transmitted to a Google server in the USA and shortened there. On behalf of the operator of this web page, Google will use this information to evaluate your use of the web page, to compile reports on web page activity and to provide other services related to web page and Internet use with respect to the web page owner. The IP address transmitted by your browser as part of Google Analytics is not merged with other Google data. You can prevent your browser from storing these cookies by making the appropriate settings in your browser software; we would however like to point out that you may not be able to use all the features of this web page if you do so. You can also prevent capture of the data on your use of this web page (including your IP address) generated by the cookie and the processing of these data by Google by downloading and installing the browser plugin available at this link: <a href="http://tools.google.com/dlpage/gaoptout?hl=de" target="_blank">http://tools.google.com/dlpage/gaoptout?hl=de</a></p>
 
 <h4>2. adjust</h4>
 
@@ -399,12 +1127,7 @@ You have not objected to the collection of your data by AdClear.<br><a href="htt
 
 <p>In addition, this web page uses the AB Tasty web analytics service by AB TASTY SAS, which is used for A/B and multivariate testing. This service uses cookies to identify a visitor's browser and to analyze the use of this web page. The cookies do not collect personal data. More information about how AB Tasty processes your data is available at <a href="http://www.optimizely.com/privacy">https://www.abtasty.com/uk/terms-of-use/</a>. On this website you can also find instructions on how to&nbsp;deactivate the tracking at any time.</p>
 
-<h4><br>
-6. Crazy Egg</h4>
-
-<p>In addition, this web page uses Crazy Egg, a web analysis service by Crazy Egg, Inc. that specializes in web usability. This service is used to optimize our offers as best as possible to serve our users’ needs. The service analyzes how users interact with the web page. Personal data are not stored under any circumstances by this service. You have the option to prevent Crazy Egg analysis by following the “opting out” instructions on the following page (<a href="http://www.crazyegg.com/opt-out">http://www.crazyegg.com/opt-out</a>).</p>
-
-<h4>7. Hotjar</h4>
+<h4>6. Hotjar</h4>
 
 <p>To improve the user experience on our web pages, we use software by Hotjar (<a href="http://www.hotjar.com">http://www.hotjar.com</a>, 3 Lyons Range, 20 Bisazza Street, Sliema SLM 1640, Malta, Europe). The software allows us to measure and analyze the user behavior (mouse movements, clicks, key entries, scroll depth, etc.) on our web pages. To do so, cookies are set on the user’s end device, and user data, such as browser information, operating system, dwell time, etc., can be stored. More information on data processing by Hotjar is available at <a href="https://www.hotjar.com/privacy">https://www.hotjar.com/privacy</a>. You can opt out of Hotjar’s service at <a href="https://www.hotjar.com/opt-out">https://www.hotjar.com/opt-out</a>.</p>
 
@@ -412,20 +1135,20 @@ You have not objected to the collection of your data by AdClear.<br><a href="htt
 
 <h4>1. Facebook</h4>
 
-<p>Our web page uses so-called social plugins ("plugins") provided by the social network Facebook, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). These plugins are marked with a Facebook logo or the addition “social plugin by Facebook” or “Facebook Social Plugin.” An overview of Facebook plugins and their appearance is available here: <a href="https://developers.facebook.com/docs/plugins">https://developers.facebook.com/docs/plugins</a>.<br>
+<p>Our web page uses so-called social plugins ("plugins") provided by the social network Facebook, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). These plugins are marked with a Facebook logo or the addition “social plugin by Facebook” or “Facebook Social Plugin.” An overview of Facebook plugins and their appearance is available here: <a href="https://developers.facebook.com/docs/plugins" target="_blank">https://developers.facebook.com/docs/plugins</a>.<br>
 When you visit a page of our web presence that contains such a plugin, your browser establishes a direct connection to the Facebook servers. The content of the plugin is transferred by Facebook directly to your browser and embedded in the page. Embedding the plugin provides Facebook with the information that your browser has accessed the corresponding page of our website, even if you do not have a Facebook profile or are not currently logged in to Facebook. This information (including your IP address) is transmitted by your browser directly to a Facebook server in the USA and stored there.<br>
 If you are logged in to Facebook, Facebook can assign your visit to our web page directly to your Facebook profile. If you interact with the plugins, for example by pressing the "Like" button or commenting, the corresponding information is also transmitted directly to a Facebook server and stored there. The information will also be published on your Facebook profile and shown to your Facebook friends.<br>
 Facebook can use this information for purposes of advertising, market research and tailored design of the Facebook pages. For this purpose, Facebook creates usage, interest and relationship profiles, e.g. in order to evaluate your use of our web page with regard to advertisements appearing on your Facebook page, to inform other Facebook users about your activities on our web page and to provide other services related to the use of Facebook. If you do not want Facebook to assign the data collected via our web page to your Facebook account, then you must log out of Facebook before you visit our web page.<br>
-Purpose and scope of data collection and the further processing and use of these data by Facebook as well as your rights in this respect and the settings available for protecting your privacy can be found in Facebook’s privacy policies: <a href="http://www.facebook.com/policy.php">http://www.facebook.com/policy.php</a>.<br>
-If you do not want Facebook to assign the data collected via our web page directly to your Facebook profile, you must log out of Facebook before you visit our web page. You can also prevent the loading of the Facebook plugin altogether by using add-ins to your browser, such as the “Facebook Blocker” (<a href="http://webgraph.com/resources/facebookblocker/">http://webgraph.com/resources/facebookblocker/</a>).</p>
+Purpose and scope of data collection and the further processing and use of these data by Facebook as well as your rights in this respect and the settings available for protecting your privacy can be found in Facebook’s privacy policies: <a href="http://www.facebook.com/policy.php" target="_blank">http://www.facebook.com/policy.php</a>.<br>
+If you do not want Facebook to assign the data collected via our web page directly to your Facebook profile, you must log out of Facebook before you visit our web page. You can also prevent the loading of the Facebook plugin altogether by using add-ins to your browser, such as the “Facebook Blocker” (<a href="https://www.comparitech.com/blog/vpn-privacy/stop-facebook-tracking/" target="_blank">https://www.comparitech.com/blog/vpn-privacy/stop-facebook-tracking/</a>).</p>
 
 <h4><br>
 2. Twitter Plugins (e.g. “Tweet” button)</h4>
 
-<p>Our web page uses so-called social plugins ("plugins") provided by the microblogging service Twitter, operated by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA (“Twitter”). The plugins are marked with a Twitter logo, for example in the form of a blue “Twitter bird.” An overview of Twitter plugins and their appearance is available here: <a href="https://twitter.com/about/resources/buttons">https://twitter.com/about/resources/buttons</a>.<br>
+<p>Our web page uses so-called social plugins ("plugins") provided by the microblogging service Twitter, operated by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA (“Twitter”). The plugins are marked with a Twitter logo, for example in the form of a blue “Twitter bird.” An overview of Twitter plugins and their appearance is available here: <a href="https://dev.twitter.com/web/tweet-button" target="_self">https://dev.twitter.com/web/tweet-button</a>.<br>
 When you visit a page of our web presence that contains such a plugin, your browser establishes a direct connection to the Twitter servers. The content of the plugin is transferred by Twitter directly to your browser and embedded in the page. Embedding the plugin provides Twitter with the information that your browser has accessed the corresponding page of our website, even if you do not have a Twitter profile or are not currently logged in to Twitter. This information (including your IP address) is transmitted by your browser directly to a Twitter server in the USA and stored there. If you are logged in to Twitter, Twitter can assign your visit to our web page directly to your Twitter account. If you interact with the plugins, for example by pressing the "Tweet" button, the corresponding information is also transmitted directly to a Twitter server and stored there. The information will also be published on your Twitter account and shown to your contacts there.<br>
-Purpose and scope of data collection and the further processing and use of data by Twitter as well as your rights in this respect and the available settings for protecting your privacy can be found in Twitter’s privacy policies: <a href="https://twitter.com/privacy">https://twitter.com/privacy</a>.<br>
-If you do not want Twitter to assign the data collected via our web page directly to your Twitter account, you must log out of Twitter before you visit our web page. You can also prevent the loading of the Twitter plugin altogether by using add-ins to your browser, such as the “No Script” script blocker (<a href="http://noscript.net">http://noscript.net</a>/).</p>
+Purpose and scope of data collection and the further processing and use of data by Twitter as well as your rights in this respect and the available settings for protecting your privacy can be found in Twitter’s privacy policies: <a href="https://twitter.com/privacy" target="_blank">https://twitter.com/privacy</a>.<br>
+If you do not want Twitter to assign the data collected via our web page directly to your Twitter account, you must log out of Twitter before you visit our web page. You can also prevent the loading of the Twitter plugin altogether by using add-ins to your browser, such as the “No Script” script blocker (<a href="http://noscript.net" target="_blank">http://noscript.net</a>/).</p>
 
 <h4><br>
 3. Google+ Plugins (e.g., “+1” button)</h4>
@@ -433,218 +1156,320 @@ If you do not want Twitter to assign the data collected via our web page directl
 <p>Our web page uses so-called social plugins ("plugins") provided by the social network Google+, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). The plugins can be identified, e.g., by the symbol “+1” on a white or colored background. An overview of Google plugins and their appearance is available here: <a href="https://developers.google.com/+/plugins">https://developers.google.com/+/plugins</a>.<br>
 When you visit a page of our web presence that contains such a plugin, your browser establishes a direct connection to the Google servers. The content of the plugin is transferred by Google directly to your browser and embedded in the page. Embedding the plugin provides Google with the information that your browser has accessed the corresponding page of our website, even if you do not have a Google+ profile or are not currently logged in to Google+. This information (including your IP address) is transmitted by your browser directly to a Google server in the USA and stored there. If you are logged in to Google+, Google can assign your visit to our web page directly to your Google+ profile. If you interact with the plugins, for example by pressing the "+1" button, the corresponding information is also transmitted directly to a Google server and stored there. The information will also be published on Google+ and shown to your contacts there. Purpose and scope of data collection and the further processing and use of data by Google as well as your rights in this respect and the available settings for protecting your privacy can be found in Google's privacy policies: <a href="http://www.google.com/intl/de/+/policy/+1button.html">http://www.google.com/intl/de/+/policy/+1button.html</a>.<br>
 If you do not want Google to assign the data collected via our web page directly to your Google+ profile, you must log out of Google+ before you visit our web page. You can also prevent the loading of the Google plugins altogether by using add-ins to your browser, such as the “No Script” script blocker (<a href="http://noscript.net/">http://noscript.net/</a>).</p>
-</div></div></div></div>
 
-</div></div></div></div>
 
-  </div>
+        </div>
 
-      <div class="links">
-          </div>
-  
-      <div class="more-link">
-          </div>
-  </div>
+    </div>
 
-          </div>
-      </section>  </div>
 
-      <div class="links">
-          </div>
-  
-      <div class="more-link">
-          </div>
-  </div>
+        </div>
 
-      </section>
-  </div>
+    </section>
+
+    <footer>
+
+        
+            <div class="site__footer">
+
+                
+<div class="row-spacer"></div>
+
+<div class="footer clearfix">
+
+    <div class="footer--element col-md-12">
+
+      <ul class="footer__links footer__lside col-md-8 col-sm-12" ng-controller="DropdownCtrl" menu-name="menu-footer-menu-com">
+                              <li class="col-md-4 col-sm-4 footer__group-1" uib-dropdown="" on-toggle="toggled(open)">
+                <button class="nolink" uib-dropdown-toggle="">
+                  <span class="flix-icon-arrow flix-icon-arrow-bottom"></span>
+                  <span class="flix-icon-arrow flix-icon-arrow-top"></span>
+                  <h4 class="footer__group-title">Travel Options</h4>
+                </button>
+                <ul class="footer__links__child dropdown-menu" uib-dropdown-menu="" aria-labelledby="simple-dropdown">
+                                                                                    <li class="footer__links__element ">
+                          <a href="https://charter.flixbus.com/?utm_source=footer&amp;utm_medium=Link&amp;utm_campaign=Flixbus.com-Link">Rent a bus</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus">Bus destinations</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus-schedule-bus-stop">Bus Schedules &amp; Bus Stops</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus-journey">Bus Journey</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/overnight-bus">Overnight Buses</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/postbus">Postbus joins FlixBus</a>
+                        </li>
+                                                                            </ul>
+            </li>
+          
+                              <li class="col-md-4 col-sm-4 footer__group-2" uib-dropdown="" on-toggle="toggled(open)">
+                <button class="nolink" uib-dropdown-toggle="">
+                  <span class="flix-icon-arrow flix-icon-arrow-bottom"></span>
+                  <span class="flix-icon-arrow flix-icon-arrow-top"></span>
+                  <h4 class="footer__group-title">Destinations</h4>
+                </button>
+                <ul class="footer__links__child dropdown-menu" uib-dropdown-menu="" aria-labelledby="simple-dropdown">
+                                                                                    <li class="footer__links__element ">
+                          <a href="/bus/berlin">Bus Berlin</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus/kiel">Bus Kiel</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus/hamburg">Bus Hamburg</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus/trier">Bus Trier</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus/amsterdam">Bus Amsterdam</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus/frankfurt">Bus Frankfurt</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus/mainz">Bus Mainz</a>
+                        </li>
+                                                                            </ul>
+            </li>
+          
+                              <li class="col-md-4 col-sm-4 footer__group-3" uib-dropdown="" on-toggle="toggled(open)">
+                <button class="nolink" uib-dropdown-toggle="">
+                  <span class="flix-icon-arrow flix-icon-arrow-bottom"></span>
+                  <span class="flix-icon-arrow flix-icon-arrow-top"></span>
+                  <h4 class="footer__group-title">Bus Routes</h4>
+                </button>
+                <ul class="footer__links__child dropdown-menu" uib-dropdown-menu="" aria-labelledby="simple-dropdown">
+                                                                                    <li class="footer__links__element ">
+                          <a href="/bus-routes/bus-berlin-leipzig">Bus Berlin - Leipzig</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus-routes/bus-berlin-hamburg">Bus Berlin - Hamburg</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus-routes/bus-dresden-berlin">Bus Dresden - Berlin</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus-routes/bus-copenhagen-berlin">Bus Copenhagen - Berlin</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus-routes/bus-berlin-amsterdam">Bus Berlin - Amsterdam</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus-routes/bus-paris-berlin">Bus Paris - Berlin</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/bus-routes/bus-berlin-bremen">Bus Berlin - Bremen</a>
+                        </li>
+                                                                            </ul>
+            </li>
+          
+                              <li class="col-md-4 col-sm-4 footer__group-4" uib-dropdown="" on-toggle="toggled(open)">
+                <button class="nolink" uib-dropdown-toggle="">
+                  <span class="flix-icon-arrow flix-icon-arrow-bottom"></span>
+                  <span class="flix-icon-arrow flix-icon-arrow-top"></span>
+                  <h4 class="footer__group-title">FlixBus</h4>
+                </button>
+                <ul class="footer__links__child dropdown-menu" uib-dropdown-menu="" aria-labelledby="simple-dropdown">
+                                                                                    <li class="footer__links__element ">
+                          <a href="/company/about-flixbus">About FlixBus</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/company/jobs">Jobs</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/company/press-room">Press Room</a>
+                        </li>
+                                                                                        <li class="footer__links__element is-active">
+                          <a href="/privacy-policy">Privacy Policy</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/terms-and-conditions">T&amp;Cs</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/legal-notice">Legal Notice</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/photo-credits">Photo credits</a>
+                        </li>
+                                                                                                                      </ul>
+            </li>
+          
+                              <li class="col-md-4 col-sm-4 footer__group-5" uib-dropdown="" on-toggle="toggled(open)">
+                <button class="nolink" uib-dropdown-toggle="">
+                  <span class="flix-icon-arrow flix-icon-arrow-bottom"></span>
+                  <span class="flix-icon-arrow flix-icon-arrow-top"></span>
+                  <h4 class="footer__group-title">Customer Service</h4>
+                </button>
+                <ul class="footer__links__child dropdown-menu" uib-dropdown-menu="" aria-labelledby="simple-dropdown">
+                                                                                    <li class="footer__links__element ">
+                          <a href="/service/faq">FAQ</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/service/newsletter">Newsletter</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/vouchers">Vouchers</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/service/bus-app">Bus App</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/passenger-rights">Passengers Rights</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="https://shop.flixbus.com/rebooking/">Change/Cancel a Booking</a>
+                        </li>
+                                                                                        <li class="footer__links__element ">
+                          <a href="/company/contact-us">Contact</a>
+                        </li>
+                                                                            </ul>
+            </li>
+          
+                  
+              </ul>
+
+      <div class="footer__rside col-md-4 col-xs-12">
+
+        
+                                    <div class="block--socials col-xs-12">
+
+                    <h4>FlixBus on:</h4>
+
+                    <a itemprop="sameAs" title="Visit us on Facebook" href="https://www.facebook.com/FlixBusDE" class="socials" target="_blank">
+                        <img class="fade lazyload" data-src="/app/styles/images/footer/social/facebook.png">
+                    </a>
+                    <a itemprop="sameAs" title="Visit us on Twitter" href="https://twitter.com/FlixBus" class="socials" target="_blank">
+                        <img class="fade lazyload" data-src="/app/styles/images/footer/social/twitter.png">
+                    </a>
+                    <a itemprop="sameAs" title="Visit us on Youtube" href="http://www.youtube.com/user/EinfachBusfahren?feature=watch" class="socials" target="_blank">
+                        <img class="fade lazyload" data-src="/app/styles/images/footer/social/youtube.png">
+                    </a>
+                    <a itemprop="sameAs" title="Visit us on Instagram" href="https://www.instagram.com/flixbus" class="socials" target="_blank">
+                        <img class="fade lazyload" data-src="/app/styles/images/footer/social/insta.png">
+                    </a>
+                    <a itemprop="sameAs" title="Visit us on Snapchat" href="https://www.snapchat.com/add/FlixBusOfficial" class="socials" target="_blank">
+                        <img class="fade lazyload" data-src="/app/styles/images/footer/social/snapchat.png">
+                    </a>
+
+                </div>
+            
+
+                            <div class="block--payments col-xs-12">
+
+                    <h4>Pay with</h4>
+
+                                                                                                                    <span class="payments__elements">
+                                <img class="fade lazyload visa" data-src="/app/styles/images/footer/payment/visa.png">
+                            </span>
+                                                                                                                        <span class="payments__elements">
+                                <img class="fade lazyload mastercard" data-src="/app/styles/images/footer/payment/mastercard.png">
+                            </span>
+                                                                                                                        <span class="payments__elements">
+                                <img class="fade lazyload cb" data-src="/app/styles/images/footer/payment/cb.png">
+                            </span>
+                                                                                                                        <span class="payments__elements">
+                                <img class="fade lazyload amex" data-src="/app/styles/images/footer/payment/amex.png">
+                            </span>
+                                                                                                                        <span class="payments__elements">
+                                <img class="fade lazyload paypal" data-src="/app/styles/images/footer/payment/paypal.png">
+                            </span>
+                                                                                                                        <span class="payments__elements">
+                                <img class="fade lazyload sepa" data-src="/app/styles/images/footer/payment/sepa.png">
+                            </span>
+                                                                                                                        <span class="payments__elements">
+                                <img class="fade lazyload postfinance" data-src="/app/styles/images/footer/payment/postfinance.png">
+                            </span>
+                                            
+                </div>
+                    
+        <div class="block--logo-app-footer col-xs-12">
+            <div class="footer__app-logo col-md-6 col-xs-12">
+                                    <h4>App</h4>
+                    <a href="https://app.adjust.com/xzg7kl_67gsoo_vdpzc0?campaign=Footer&amp;adgroup=COM&amp;deep_link=flixbus%3A%2F%2Fbooking%3Fwt_mc%3Downed.com.FlixBus.website.footer.footer.footer.ad&amp;fallback=https%3A%2F%2Fwww.flixbus.com%2Fservice%2Fbus-app">
+                        <img class="fade lazyload" data-src="/app/styles/images/footer/logo-icon_footer.png">
+                    </a>
+                            </div>
+
+            <div class="footer__copyright col-md-6 col-xs-12">
+              <span>© 2017 FlixMobility GmbH</span>
+            </div>
+        </div>
+
+      </div>
+
+    </div>
+
 </div>
 
 
+            </div>
 
-<footer class="footer container">
-        
-<div class="panel-pane pane-block pane-fb-base-social-media">
-        
-  
-    
-      <div class="feed">
-          </div>
-  
-  <div class="pane-content">
-    <div class="col-md-6 col-md-offset-3">
-        <ul class="smBox">
-          <li>FlixBus on:</li>
-          <li>
-            <a href="https://www.facebook.com/FlixBus" class="smIcons bg1" target="_blank"></a>
-          </li>
-          <li>
-            <a href="https://twitter.com/FlixBus" class="smIcons bg2" target="_blank"></a>
-          </li>
-          <li>
-            <a href="http://www.youtube.com/user/EinfachBusfahren?feature=watch" class="smIcons bg4" target="_blank"></a>
-          </li>
-          <li>
-            <a href="https://www.instagram.com/flixbus" class="smIcons bg5" target="_blank"></a>
-         </li>
-         <li>
-            <a href="https://www.snapchat.com/add/FlixBusOfficial" class="smIcons bg6" target="_blank"></a>
-         </li>
-        </ul>
-</div>  </div>
-
-      <div class="links">
-          </div>
-  
-      <div class="more-link">
-          </div>
-  </div>
-
-  <div class="panel-separator"></div>  
-<div class="panel-pane pane-menu-tree pane-menu-footer-menu-com">
-        
-  
-    
-      <div class="feed">
-          </div>
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-ctools-menu-footer-menu-com-1 menu-name-menu-footer-menu-com parent-mlid-0 menu-level-1">
-  <ul class="en menuFooter col-md-12"><li class="first expanded menu-mlid-13120 col-md-2 col-sm-2 collapsed" data-target=".menuBlock-13120"><button class="nolink"><div class="footerHead">Travel Options</div></button><ul class="menuBlock-13120 collapseBlock collapse"><li class="first leaf menu-mlid-38999"><a href="https://charter.flixbus.com/?utm_source=footer&amp;utm_medium=Link&amp;utm_campaign=Flixbus.com-Link">Rent a bus</a></li>
-<li class="leaf menu-mlid-13123"><a href="https://www.flixbus.com/bus/">Bus destinations</a></li>
-<li class="leaf menu-mlid-13126"><a href="https://www.flixbus.com/bus-travel">Bus Travel</a></li>
-<li class="leaf menu-mlid-13129"><a href="https://www.flixbus.com/bus-schedule-bus-stop">Bus Schedules &amp; Bus Stops</a></li>
-<li class="leaf menu-mlid-13132"><a href="https://www.flixbus.com/bus-journey">Bus Journey</a></li>
-<li class="leaf menu-mlid-13138"><a href="https://www.flixbus.com/overnight-bus">Overnight Buses</a></li>
-<li class="leaf menu-mlid-13135"><a href="https://www.flixbus.com/postbus">Postbus joins FlixBus</a></li>
-<li class="last leaf menu-mlid-37096"><a href="https://www.flixbus.com/flixbus-languages" title="Here you go to our overview of all languages FlixBus speaks" target="_blank">All languages</a></li>
-</ul></li>
-<li class="expanded menu-mlid-13141 col-md-2 col-sm-3 collapsed" data-target=".menuBlock-13141"><button class="nolink"><div class="footerHead">Destinations</div></button><ul class="menuBlock-13141 collapseBlock collapse"><li class="first leaf menu-mlid-13144"><a href="https://www.flixbus.com/bus/berlin">Bus Berlin</a></li>
-<li class="leaf menu-mlid-13147"><a href="https://www.flixbus.com/bus/paris">Bus Paris</a></li>
-<li class="leaf menu-mlid-13150"><a href="https://www.flixbus.com/bus/london">Bus London</a></li>
-<li class="leaf menu-mlid-13153"><a href="https://www.flixbus.com/bus/barcelona">Bus Barcelona</a></li>
-<li class="leaf menu-mlid-13156"><a href="https://www.flixbus.com/bus/bremerhaven">Bus Bremerhaven</a></li>
-<li class="leaf menu-mlid-13159"><a href="https://www.flixbus.com/bus/rennes">Bus Rennes</a></li>
-<li class="last leaf menu-mlid-13162"><a href="https://www.flixbus.com/bus/bordeaux">Bus Bordeaux</a></li>
-</ul></li>
-<li class="expanded menu-mlid-13165 col-md-2 col-sm-3 collapsed" data-target=".menuBlock-13165"><button class="nolink"><div class="footerHead">Bus Routes</div></button><ul class="menuBlock-13165 collapseBlock collapse"><li class="first leaf menu-mlid-13168"><a href="https://www.flixbus.com/bus-routes/bus-paris-london">Bus Paris - London</a></li>
-<li class="leaf menu-mlid-13171"><a href="https://www.flixbus.com/bus-routes/bus-amsterdam-paris">Bus Amsterdam - Paris</a></li>
-<li class="leaf menu-mlid-13174"><a href="https://www.flixbus.com/bus-routes/bus-amsterdam-london">Bus Amsterdam - London</a></li>
-<li class="leaf menu-mlid-13177"><a href="https://www.flixbus.com/bus-routes/bus-rome-genoa">Bus Rome - Genoa</a></li>
-<li class="leaf menu-mlid-13180"><a href="https://www.flixbus.com/bus-routes/bus-paris-bordeaux">Bus Paris - Bordeaux</a></li>
-<li class="leaf menu-mlid-13183"><a href="https://www.flixbus.com/bus-routes/bus-paris-berlin">Bus Paris - Berlin</a></li>
-<li class="last leaf menu-mlid-13186"><a href="https://www.flixbus.com/bus-routes/bus-rome-cesena">Bus Rome - Cesena</a></li>
-</ul></li>
-<li class="expanded active-trail menu-mlid-13189 col-md-2 col-sm-2 collapsed" data-target=".menuBlock-13189"><button class="active-trail nolink"><div class="footerHead">FlixBus</div></button><ul class="menuBlock-13189 collapseBlock collapse"><li class="first leaf menu-mlid-13192"><a href="https://www.flixbus.com/company/about-flixbus">About FlixBus</a></li>
-<li class="leaf menu-mlid-15179"><a href="https://www.flixbus.com/company/jobs">Jobs</a></li>
-<li class="leaf menu-mlid-30721"><a href="https://www.flixbus.com/company/press-room">Press Room</a></li>
-<li class="leaf active-trail active menu-mlid-13198"><a href="https://www.flixbus.com/privacy-policy" class="active-trail active">Privacy Policy</a></li>
-<li class="leaf menu-mlid-13201"><a href="https://www.flixbus.com/terms-and-conditions">T&amp;Cs</a></li>
-<li class="leaf menu-mlid-13204"><a href="https://www.flixbus.com/legal-notice">Legal Notice</a></li>
-<li class="last leaf menu-mlid-19732"><a href="https://www.flixbus.com/photo-credits">Photo credits</a></li>
-</ul></li>
-<li class="expanded menu-mlid-13207 col-md-2 col-sm-2 collapsed" data-target=".menuBlock-13207"><button class="nolink"><div class="footerHead">Customer Service</div></button><ul class="menuBlock-13207 collapseBlock collapse"><li class="first leaf menu-mlid-13210"><a href="https://www.flixbus.com/service/faq">FAQ</a></li>
-<li class="leaf menu-mlid-13213"><a href="https://www.flixbus.com/service/newsletter">Newsletter</a></li>
-<li class="leaf menu-mlid-13216"><a href="https://www.flixbus.com/vouchers">Vouchers</a></li>
-<li class="leaf menu-mlid-13219"><a href="https://www.flixbus.com/service/bus-app">Bus App </a></li>
-<li class="leaf menu-mlid-13222"><a href="https://www.flixbus.com/passenger-rights">Passengers Rights</a></li>
-<li class="leaf menu-mlid-13225"><a href="https://shop.flixbus.com/rebooking/" target="_blank">Change/Cancel a Booking</a></li>
-<li class="last leaf menu-mlid-13228"><a href="https://www.flixbus.com/company/contact-us">Contact</a></li>
-</ul></li>
-<li class="last leaf menu-mlid-13231 col-md-2 col-md-offset-0 col-sm-7 col-sm-offset-5 collapsed" data-target=".menuBlock-13231"><button class="nolink"><div class="footerHead">Pay Safely With</div></button></li>
-</ul></div>
-  </div>
-
-      <div class="links">
-          </div>
-  
-      <div class="more-link">
-          </div>
-  </div>
-
-  <div class="panel-separator"></div>  
-<div class="panel-pane pane-block pane-fb-base-copyright">
-        
-  
-    
-      <div class="feed">
-          </div>
-  
-  <div class="pane-content">
-    <div class="copyRight">
-
-<div id="app-link-head" class="footerHead">App</div>
-
-<div class="copyRight-text">
-© 2017 FlixMobility GmbH
+            <div class="footer__background">
+    <div class="footer__background--desktop">
+        <img class="fade lazyload" data-src="/app/styles/images/footer/footer-desktop.svg">
+    </div>
+    <div class="footer__background--mobile">
+        <img class="fade lazyload" data-src="/app/styles/images/footer/footer-mobile.png">
+    </div>
 </div>
+        
+    </footer>
 
-<div class="footer-logo">
-<a id="applink-footer" rel="nofollow" href="https://app.adjust.com/xzg7kl_67gsoo_vdpzc0?campaign=Footer&amp;adgroup=COM&amp;deep_link=flixbus%3A%2F%2Fbooking&amp;fallback=https%3A%2F%2Fwww.flixbus.com%2Fnode%2F1242">
-<img src="/sites/all/themes/flixbus_2014/sassBootstrap/images/footer-logo.png">
-</a>
-<img src="/sites/all/themes/flixbus_2014/sassBootstrap/images/footer-2x.png" class="footer-bg-image img-responsive hidden-xs">
-<img src="/sites/all/themes/flixbus_2014/sassBootstrap/images/footer-2x-mobile.png" class="footer-bg-image img-responsive hidden-sm hidden-md hidden-lg">
-</div>
-</div> 
 
-<style>
-footer > .pane-fb-base-copyright {z-index: -1;}
-footer .pane-fb-base-social-media {padding-top: 0;margin-top: 0;margin-left: 0;margin-right: 0;}
-ul.smBox > li:first-child {margin-right: 0;min-width: 300px;}
-@media (min-width: 992px) {
-.sv.menuFooter > li.expanded {min-height: 240px;}
-.nl.menuFooter > li.expanded {min-height: 256px;}
-.menu-name-menu-footer-menu-hu > ul > li.expanded {min-width: 200px}
-.menu-name-menu-footer-menu-nb > ul > li > ul {min-height: 200px}
-}
-form .btn-primary:active:active {
-background: rgb(255,200,85) !important; /* Old browsers */
-background: -moz-linear-gradient(top, rgba(255,200,85,1) 0%, rgba(255,140,0,1) 100%) !important; /* FF3.6-15 */
-background: -webkit-linear-gradient(top, rgba(255,200,85,1) 0%,rgba(255,140,0,1) 100%) !important; /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, rgba(255,200,85,1) 0%,rgba(255,140,0,1) 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc855', endColorstr='#ff8c00',GradientType=0 ) !important; /* IE6-9 */
-}
-form .btn-primary:focus {
-background: rgb(255,200,85) !important; /* Old browsers */
-background: -moz-linear-gradient(top, rgba(255,200,85,1) 0%, rgba(255,140,0,1) 100%) !important; /* FF3.6-15 */
-background: -webkit-linear-gradient(top, rgba(255,200,85,1) 0%,rgba(255,140,0,1) 100%) !important; /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, rgba(255,200,85,1) 0%,rgba(255,140,0,1) 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc855', endColorstr='#ff8c00',GradientType=0 ) !important; /* IE6-9 */
-}
-ol.carousel-indicators {width: 120px !important;left: auto !important;right: 30px !important;}
-</style>  </div>
+<!--[if lte IE 8]>
+<script>
+    function browserUpdate() {
+        var browserUpdateMessageElement = document.getElementById("browserUpdateMsg");
+        if (browserUpdateMessageElement) {
+            browserUpdateMessageElement.innerHTML = '<p>Your browser is out of date. It has known security flaws and may not display all features of this website.</p>';
+        }
+    }
+</script>
+<![endif]-->
 
-      <div class="links">
-          </div>
-  
-      <div class="more-link">
-          </div>
-  </div>
+    <section ng-controller="cookiePolicyCtrl" id="cookie-policy">
+        <div class="cookie-policy--container col-sm-12" ng-if="!status" ng-cloak="">
+            <div class="cookie-policy__content col-sm-9">
+                <p>
+                    Cookies help us deliver our services. By using our services, you agree to our use of cookies. <a target="_blank" href="https://www.flixbus.com/privacy-policy">Click here</a> for more information.
+                </p>
+            </div>
+            <div class="cookie-policy__btn col-sm-3">
+                <button class="button button--secondary" type="button" ng-click="acceptCookiePolicy()">OK</button>
+            </div>
+        </div>
+    </section>
+    <script type="text/javascript" async="">
+  (function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TQLR2WK');
+</script>
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-QFH9M" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W6FDFB" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-M9H5R8T" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TQLR2WK" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
 
-  </footer>
-<div id="topSmoothScrollingDiv" style="display: none;">
-  <span>To the top</span>
-</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b7191f24db","applicationID":"48330111","transactionName":"ZFIAYhYAW0pTUUBeV10YN0QNTlxXVldMGUhbRw==","queueTime":0,"applicationTime":14,"atts":"SBUDFF4aSEQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-        <noscript>
-        <style type="text/css" media="all">
-          img[data-src] { display: none !important; }
-        </style>
-      </noscript><!-- Google Tag Manager 2--><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W6FDFB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W6FDFB');</script><!-- End Google Tag Manager 2--><script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-QFH9M');</script>
-  <script type="text/javascript">
-  var dataLayer = window.dataLayer || [];
-    dataLayer.push({
-  });
-  </script>
-  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-QFH9M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><iframe src="https://shop.flixbus.com/user/refresh-login-status" style="display: none;"></iframe><script>      (function ($) {
-        Drupal.behaviors.lazyloader = {
-          attach: function (context, settings) {
-            $("img[data-src]").lazyloader({distance: 100, icon: "/sites/all/modules/contrib/lazyloader/loader/loader-0.gif" });
-          }
-        };
-      }(jQuery));</script>
-<script src="//www.flixbus.com/sites/default/files/advagg_js/js__i11V-7AETPhfL9YzRpXBpECwVkYyQ_ahu2eHxES_mK0__Tgy2Gm7LmUJY8GXZeWxVbS51f3txED35LX1ul4UiOfk__SZV6ZsKJOXXk9rAz6l0QdFzP29kNPbSDIIJG2n4oWq4.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a5941c69e7","applicationID":"11025267","transactionName":"NF1abRNRV0MFVUdcXQ0XbUsIH1BeAFNLG0ILSA==","queueTime":0,"applicationTime":15,"atts":"GBpZG1tLRE0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
