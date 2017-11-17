@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcode.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602031859id_/http%3A//www.smartcode.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcode.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117051533id_/http%3A//www.smartcode.com/privacy.html) for the most accurate reproduction.*
 
 # Smart Code - Privacy Policy Information
 
@@ -37,3 +37,131 @@ This site contains links to other sites. smartcode.com is not responsible for th
 **Contact us**
 
 If you have any questions about this privacy statement, the practices of this site, you can [contact us](http://www.smartcode.com/main/contact.html). 
+
+## Top Software
+
+  * [OpenLP 2.0.1](http://openlp.smartcode.com/info.html)
+  * [Freeplane 1.2.23](http://freeplane.smartcode.com/info.html)
+  * [GNS3 0.8.6](http://gns3.smartcode.com/info.html)
+  * [Microsoft Baseline Security Analyzer 2.2](http://microsoft-baseline-security-analyzer.smartcode.com/info.html)
+  * [PeerGuardian 2.1](http://peerguardian.smartcode.com/info.html)
+  * [Mediafour MacDrive 8.0](http://mediafour-macdrive.smartcode.com/info.html)
+  * [Scribus 1.4.3](http://scribus.smartcode.com/info.html)
+  * [CCleaner 4.08](http://ccleaner.smartcode.com/info.html)
+  * [Avast Free Antivirus 2015](http://avast-free-antivirus.smartcode.com/info.html)
+  * [GO Contact Sync Mod 3.6.0](http://go-contact-sync-mod.smartcode.com/info.html)
+  * [Code::Blocks for Windows 13.12](http://code--blocks-for-windows.smartcode.com/info.html)
+  * [TeXnicCenter 2.02](http://texniccenter.smartcode.com/info.html)
+  * [JasperReports Library 5.5.1](http://jasperreports-library.smartcode.com/info.html)
+  * [Weka 3.6.9](http://weka.smartcode.com/info.html)
+  * [CuteReport 0.9.1](http://cutereport.smartcode.com/info.html)
+  * [CDBurnerXP 4.5.2.4291](http://cdburnerxp.smartcode.com/info.html)
+  * [TortoiseSVN 1.8.4.24](http://tortoisesvn.smartcode.com/info.html)
+  * [Nagios 4.0.2](http://nagios.smartcode.com/info.html)
+  * [DOSBox 0.74](http://dosbox.smartcode.com/info.html)
+  * [Nmap 6.40](http://nmap.smartcode.com/info.html)
+
+
+
+## New Software
+
+  * [PartitionGuru Free 4.9.5.508](http://partitionguru-free.smartcode.com/info.html)
+  * [Softany WordToHelp 3.191](http://softany-wordtohelp.smartcode.com/info.html)
+  * [TunesKit DRM Audio Converter for Mac 2.1.3](http://tuneskit-drm-audio-converter-for-mac.smartcode.com/info.html)
+  * [EximiousSoft Logo Designer Pro 3.00](http://eximioussoft-logo-designer-pro.smartcode.com/info.html)
+  * [Z-Tree Demo 2.0.0](http://z-tree-demo.smartcode.com/info.html)
+  * [Leawo iTransfer 2.0.0.0](http://leawo-itransfer.smartcode.com/info.html)
+  * [Faxmind Server 5.7.6.0929](http://faxmind-server.smartcode.com/info.html)
+  * [PDF Eraser 1.8.3](http://pdf-eraser.smartcode.com/info.html)
+  * [Surf Anonymous Free 2.6.1.6](http://surf-anonymous-free.smartcode.com/info.html)
+  * [Mytoolsoft Watermark Software 3.9.3](http://mytoolsoft-watermark-software.smartcode.com/info.html)
+  * [Mask My IP 2.6.9.2](http://mask-my-ip.smartcode.com/info.html)
+  * [Free Hide IP 4.2.0.8](http://free-hide-ip.smartcode.com/info.html)
+  * [Real Hide IP 4.6.2.8](http://real-hide-ip.smartcode.com/info.html)
+  * [Platinum Hide IP 3.5.9.6](http://platinum-hide-ip.smartcode.com/info.html)
+  * [Hide IP Easy 5.5.7.8](http://hide-ip-easy.smartcode.com/info.html)
+  * [Super Hide IP 3.6.3.8](http://super-hide-ip.smartcode.com/info.html)
+  * [Syncios Data Transfer 1.5.9](http://syncios-data-transfer.smartcode.com/info.html)
+  * [WebcamMax 8.0.7.6](http://webcammax.smartcode.com/info.html)
+  * [SafeWiper for Android V3.1.1](http://safewiper-for-android.smartcode.com/info.html)
+  * [Block Puzzle 2.6.0](http://block-puzzle.smartcode.com/info.html)
+
+
+
+## Top Search
+
+  * [Download Forum Dominator Forum Software Image](http://www.smartcode.com/downloads/download-forum-dominator-forum-software-image.html)
+  * [Ljhha Wrote A New Blog Post Online Shooting Games](http://www.smartcode.com/downloads/ljhha-wrote-a-new-blog-post-online-shooting-games.html)
+  * [Add Url Pad Submission](http://www.smartcode.com/downloads/add-url-pad-submission.html)
+  * [Jungle Jewels](http://www.smartcode.com/downloads/jungle-jewels.html)
+  * [Phpbb Forum Auto](http://www.smartcode.com/downloads/phpbb-forum-auto.html)
+  * [Php Static Website Forum Software](http://www.smartcode.com/downloads/php-static-website-forum-software.html)
+  * [Ares Mac](http://www.smartcode.com/downloads/ares-mac.html)
+  * [Convert Fraction Decimal Calculator](http://www.smartcode.com/downloads/convert-fraction-decimal-calculator.html)
+  * [Web Forum Builder](http://www.smartcode.com/downloads/web-forum-builder.html)
+  * [Destop Forum Manager](http://www.smartcode.com/downloads/destop-forum-manager.html)
+
+
+
+## Latest Reviews
+
+  * [ ** Wise Folder Hider 4.12 ** ](http://wise-folder-hider.smartcode.com/info.html)  
+
+The software is capable to hide folders in any drive including usb devices which will require to insert password while...
+
+
+
+  * [ ** PowerNet Circuits 5.13 ** ](http://powernet-circuits.smartcode.com/info.html)  (Reinhard)
+
+Helps the engineers to draw the electrical diagram of any type no matter how large it is so that the contractor may...
+
+
+
+  * [ ** DactyloMagicplus 2018 ** ](http://dactylomagicplus.smartcode.com/info.html)  (Tensi)
+
+Reduces the stress of typing tasks by easy copying and pasting option of frequently used words, auto prompting of words...
+
+
+
+  * [ ** PDF Image Extractor 2.1.6 ** ](http://pdf-image-extractor.smartcode.com/info.html)  (Hushmare)
+
+If you work on pdf files where you need to extract images from the files manually you may give this a try which helps to...
+
+
+
+  * [ ** StockwarePro 4.0 ** ](http://stockwarepro.smartcode.com/info.html)  (Hashim)
+
+New investors in the stock market need an watchdog constantly which StockwarePro can do for them, also the portfolio is...
+
+
+
+  * [ ** iDoctor 2.0 ** ](http://idoctor.smartcode.com/info.html)  (kenessa)
+
+This is to make your Mac work faster and clean the unnecessary files effortlessly, also can take backup of important files...
+
+
+
+  * [ ** Web Calendar Pad 2017.8 ** ](http://web-calendar-pad.smartcode.com/info.html)  (Muninn)
+
+Whoever wants to add a calendar to their web this is the one which can be used without much of prior knowledge, you will...
+
+
+
+  * [ ** The Creator by Laughingbird Software 7.2.9.1 ** ](http://the-creator-by-laughingbird-software.smartcode.com/info.html)  (Musling)
+
+Make logos for your website like a pro without being an expert, you dont need any knowledge of photoshop to use this,...
+
+
+
+  * [ ** MyPlayCity Uninstaller 2.0 ** ](http://myplaycity-uninstaller.smartcode.com/info.html)  (Jytte)
+
+Most of the programs uninstalled by yourself has some leftovers and occupies the space in the disks, MyPlayCity...
+
+
+
+  * [ ** CapturePlus 1.0 ** ](http://captureplus.smartcode.com/info.html)  (Kael)
+
+If you are in a teaching profession and make some tutorials for the students this tool can help capturing the screens of...
+
+
+
