@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personacentral.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125332id_/http%3A//personacentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personacentral.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117123147id_/http%3A//personacentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Persona Central
 
