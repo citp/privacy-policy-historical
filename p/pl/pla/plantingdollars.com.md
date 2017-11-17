@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plantingdollars.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217025624id_/http%3A//www.plantingdollars.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantingdollars.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117010958id_/http%3A//www.plantingdollars.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy | Planting Dollars
 
