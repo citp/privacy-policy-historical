@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getmeinsure.com privacy policy that was archived on 2017-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629163413id_/http%3A//www.policyadvisor.in/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getmeinsure.com privacy policy that was archived on 2017-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171117123736id_/http%3A//www.policyadvisor.in/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -75,48 +75,278 @@
 ============================== -->
 <header id="home" class="header">
 	
-	<script type="text/javascript" src="http://www.policyadvisor.in/insurance-india/wp-content/themes/mh-newsdesk-lite/js/scripts.js?ver=4.6"></script>
+	<style>
+.header-wrap { min-height:45px; };
+nav {
+  display: block; 
+  background: #fff;text-align:left;
+}
 
-<div class="mh-header">
-	<div class="header-wrap clearfix">
+.menu { display: block; font-size: 15px; text-align:left; }
+
+.menu li {
+  display: inline-block;
+  position: relative;
+  z-index: 100;
+}
+
+.menu li:first-child { margin-left: 0; }
+
+.menu li a { 
+  font-weight: 500;
+  text-decoration: none;
+  padding: 15px 15px;
+  display: block;
+  color: #333;
+  transition: all 0.2s ease-in-out 0s;
+}
+
+.menu li a:hover,
+.menu li:hover > a {
+  color: #fff;
+  background: #FC6D58;
+}
+
+.menu ul {
+  visibility: hidden;
+  opacity: 0;
+  margin: 0;
+  padding: 0;
+  width: 250px;
+  position: absolute;
+  left: 0px;
+  background: #333;
+  z-index: 99;
+  transform: translate(0, 20px);
+  transition: all 0.2s ease-out;
+}
+
+.menu ul:after {
+  bottom: 100%;
+  left: 20%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-color: rgba(255, 255, 255, 0);
+  border-bottom-color: #fff;
+  border-width: 6px;
+  margin-left: -6px;
+}
+
+.menu ul li {
+  display: block;
+  float: none;
+  background: none;
+  margin: 0;
+  padding: 0;border:1px solid #EBEBEB;
+}
+
+.menu ul li a {
+  font-size: 14px;
+  font-weight: normal;
+  display: block;
+  color: #333;
+  background: #EBEBEB; text-align:left; border-bottom:1px solid #fff;
+}
+
+.menu ul li a:hover,
+.menu ul li:hover>a {
+  background: #00ffcc;
+  color: #fff;
+}
+
+.menu li:hover>ul {
+  visibility: visible;
+  opacity: 1;
+  transform: translate(0, 0);
+}
+
+.menu ul ul {
+  left: 169px;
+  top: 0px;
+  visibility: hidden;
+  opacity: 0;
+  transform: translate(20px, 20px);
+  transition: all 0.2s ease-out;
+}
+
+.menu ul ul:after {
+  left: -6px;
+  top: 10%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-color: rgba(255, 255, 255, 0);
+  border-right-color: #fff;
+  border-width: 6px;
+  margin-top: -6px;
+}
+
+.menu li>ul ul:hover {
+  visibility: visible;
+  opacity: 1;
+  transform: translate(0, 0);
+}
+
+.responsive-menu {
+  display: none;
+  max-width:60px;margin-left:70%; text-align:left;
+  padding: 10px 15px;
+  background: #fff;
+  color: #333;
+  /*text-transform: uppercase;*/
+  font-weight: 600;font-size:16px;
+}
+
+.responsive-menu:hover {
+  background: #fff;
+  color: #00ccff;
+  text-decoration: none;
+}
+
+a.homer { background: #fff; }
+ @media (min-width: 768px) and (max-width: 979px) {
+
+.mainWrap { width: 768px; }
+
+.menu ul { top: 37px; }
+
+.menu li a { font-size: 15px; }
+
+a.homer { background: #E95546; }
+}
+ @media (max-width: 767px) {
+
+.mainWrap {
+  width: auto;
+  padding: 20px 20px;
+}
+
+.menu { display: none; }
+
+.responsive-menu { display: block; font-size:40px;margin-top:-10px;}
+
+nav {
+  margin: 0;
+  background: none;
+}
+
+.menu li {
+  display: block;
+  margin: 0;
+}
+
+.menu li a {
+  background: #fff;
+  color: #797979;
+}
+
+.menu li a:hover,
+.menu li:hover>a {
+  background: #FC6D58;
+  color: #fff;
+}
+
+.menu ul {
+  visibility: hidden;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  transform: initial;
+}
+
+.menu li:hover>ul {
+  visibility: visible;
+  opacity: 1;
+  position: relative;
+  transform: initial;
+}
+
+.menu ul ul {
+  left: 0;
+  transform: initial;
+}
+
+.menu li>ul ul:hover { transform: initial; }
+}
+</style>
+<script>
+$(document).ready(function(){ 
+	var touch 	= $('#resp-menu');
+	var menu 	= $('.menu');
+ 
+	$(touch).on('click', function(e) {
+		e.preventDefault();
+		menu.slideToggle();
+	});
+	
+	$(window).resize(function(){
+		var w = $(window).width();
+		if(w > 767 && menu.is(':hidden')) {
+			menu.removeAttr('style');
+		}
+	});
+	
+});
+</script>
+<div class="header-wrap">
 		<a href="http://www.policyadvisor.in" title="Welcome To PolicyAdvisor.in" rel="home">
-<div class="logo-wrap" role="banner">
-<img src="http://www.policyadvisor.in/images/policyadvisor_logo.png" height="58" width="210" alt="Compare the Best Insurance Policy at PolicyAdvisor.in">
-</div>
+       <div class="responsive-logo" role="logo" style="float:left;max-width:220px;padding-left:10px;">
+         <img src="http://www.policyadvisor.in/images/policyadvisor_logo.png" height="58" width="210" alt="Compare the Best Insurance Policy at PolicyAdvisor.in">
+      </div>
 </a>
+    
+		
+		<nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-bars"></i> </a>
+  <ul class="menu">
+  <li><a class="homer" href="http://www.policyadvisor.in" title="PolicyAdvisor Home"><i class="fa fa-home"></i> Home</a></li>
+    <li><a class="homer" title="Insurance Calculator – Advisors" href="#"><i class="fa fa-pie-chart"></i> Online Advisors</a>
+      <ul class="sub-menu">
+                        <li><a href="http://www.policyadvisor.in/financial-calculators/pension-planning-calculator/" class="linkLeft"> Pension Calculator</a></li>
+						<li><a href="http://www.policyadvisor.in/financial-calculators/retirement-planning-calculator/"> Retirement Expense Calculator</a></li>
+						<li><a href="http://www.policyadvisor.in/online-advisor/child-insurance-advisor/"> Child Education Calculator</a></li>
+						<li><a href="http://www.policyadvisor.in/online-advisor/term-insurance-advisor/"> Term Insurance Calculator</a></li>
+						<li><a href="http://www.policyadvisor.in/financial-calculators/investment-planning-calculator/"> Investment Calculator</a></li>
+						<li><a href="http://www.policyadvisor.in/financial-calculators/health-insurance-calculator/"> Health Insurance Calculator</a></li>
+                         <li><a title="All Calculator Advisors" href="http://www.policyadvisor.in/financial-calculators/"> Explore Online Advisors</a>
+                        
+      </li></ul>
+    </li>
+    <li><a class="homer" title="Compare Life Insurance Quotes India" href="#"><i class="fa fa-shield"></i> Life Insurance</a>
+      <ul class="sub-menu">
+                        <li><a title="Compare Best Investmest Insurance Plans India" href="http://www.policyadvisor.in/life-insurance-quotes/compare-investment-plans/"> Best Investment Plans</a></li>
+				        <li><a title="Compare Retirement/ Pension Insurance Plans India" href="http://www.policyadvisor.in/life-insurance-quotes/compare-retirement-plans/"> Compare Retirement Plan</a></li>
+						<li><a title="Compare Child Insurance Plans India" href="http://www.policyadvisor.in/life-insurance-quotes/compare-child-plans/"> Compare Child Plans</a></li>
+						<li><a title="Compare Term Insurance Policy India" href="http://www.policyadvisor.in/life-insurance-quotes/compare-term-insurance/"> Compare Term Insurance</a></li>
+						<li><a title="Compare ULIP Insurance Policy India" href="http://www.policyadvisor.in/life-insurance-quotes/compare-ulip-policies/"> Best Ulip Quotes</a></li>
+						<li><a title="Compare Moneyback Insurance Plans India" href="http://www.policyadvisor.in/life-insurance-quotes/compare-moneyback-plans/"> Best Moneyback Policy</a></li>
+						<li><a title="Life Insurance Quotes Comparison" href="http://www.policyadvisor.in/life-insurance-quotes/"> Explore Life Insurance</a>
+    
+      </li></ul>
+    </li>
+    <li><a class="homer" title="Compare Car Insurance Quotes India" href="http://www.policyadvisor.in/general-insurance-quotes/compare-car-insurance/"><i class="fa fa-car"></i> Car Insurance</a></li>
+    <li><a class="homer" title="Compare Health Insurance Quotes India" href="http://www.policyadvisor.in/general-insurance-quotes/compare-health-insurance/"><i class="fa fa-stethoscope"></i> Health Insurance</a></li>
+    <li><a class="homer" title="Insurance Articles, Blogs &amp; News India" href="http://www.policyadvisor.in/insurance-india/"><i class="fa fa-newspaper-o"></i> Insurance Blog</a>
+      <ul class="sub-menu">
+        <li><a href="http://www.policyadvisor.in/insurance-india/category/life-insurance-india/">Life Insurance Articles </a></li>
+        <li><a href="http://www.policyadvisor.in/insurance-india/category/health-insurance-india/">Health Insurance Articles </a></li>
+        <li><a href="http://www.policyadvisor.in/insurance-india/category/auto-insurance-india/">Car Insurance Articles </a></li>
+      </ul>
+    </li>
+    
+    
+  </ul>
+</nav>
+	
 	</div>
-		<div class="header-menu clearfix">
-		<nav class="main-nav clearfix">
-			<div class="menu-menu2-container"><ul id="menu-menu2" class="menu"><li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a title="PolicyAdvisor Home" href="http://www.policyadvisor.in">Home</a></li>
-<li id="menu-item-95" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-95"><a title="Insurance Calculator – Advisors" href="http://www.policyadvisor.in/financial-calculators/">Insurance Advisor</a>
-<ul class="sub-menu">
-	<li><a href="http://www.policyadvisor.in/financial-calculators/pension-planning-calculator/" class="linkLeft">Pension Calculator</a></li>
-						<li><a href="http://www.policyadvisor.in/financial-calculators/retirement-planning-calculator/">Retirement Expense Calculator</a></li>
-						<li><a href="http://www.policyadvisor.in/online-advisor/child-insurance-advisor/">Child Education Calculator</a></li>
-						<li><a href="http://www.policyadvisor.in/online-advisor/term-insurance-advisor/">Term Insurance Calculator</a></li>
-						<li><a href="http://www.policyadvisor.in/financial-calculators/investment-planning-calculator/">Investment Calculator</a></li>
-						<li><a href="http://www.policyadvisor.in/financial-calculators/health-insurance-calculator/">Health Insurance Calculator</a></li>
-</ul>
-</li>
-<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44"><a href="http://www.policyadvisor.in/life-insurance-quotes/">Life Insurance Quotes</a>
-<ul class="sub-menu">
-	<li><a href="http://www.policyadvisor.in/life-insurance-quotes/compare-investment-plans/">Best Investment Plans</a></li>
-				   <li><a href="http://www.policyadvisor.in/life-insurance-quotes/compare-retirement-plans/" class="linkLeft">Compare Retirement Plan</a></li>
-						<li><a href="http://www.policyadvisor.in/life-insurance-quotes/compare-child-plans/">Compare Child Plans</a></li>
-						<li><a href="http://www.policyadvisor.in/life-insurance-quotes/compare-term-insurance/">Compare Term Insurance</a></li>
-						<li><a href="http://www.policyadvisor.in/life-insurance-quotes/compare-ulip-policies/">Best Ulip Quotes</a></li>
-						<li><a href="http://www.policyadvisor.in/life-insurance-quotes/compare-moneyback-plans/">Best Moneyback Policy</a></li>
-</ul>
-</li>
-<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a title="Compare Best Auto &amp; Health Quotes" href="http://www.policyadvisor.in/general-insurance-quotes/">General Insurance Quotes</a>
-         <ul class="sub-menu">
-           <li><a href="http://www.policyadvisor.in/general-insurance-quotes/compare-health-insurance/">Compare Health Insurance</a></li>
-						<li><a href="http://www.policyadvisor.in/general-insurance-quotes/compare-car-insurance/">Compare Car Insurance</a></li>
-			</ul>		
-</li>
-<li><a href="http://www.policyadvisor.in/insurance-india/">Insurance Articles</a></li></ul></div>		</nav>
-	</div>
-	</div>
+ 
  
 	
 <!-- =========================
