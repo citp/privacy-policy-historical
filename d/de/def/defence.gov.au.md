@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defence.gov.au privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616230815id_/http%3A//defence.gov.au/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defence.gov.au privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117114440id_/http%3A//defence.gov.au/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy : Defence : Department of Defence, Australian Government
 
