@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619161548id_/http%3A//www.xmind.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117071512id_/http%3A//www.xmind.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XMind: The Most Popular Mind Mapping Software on The Planet.
 
