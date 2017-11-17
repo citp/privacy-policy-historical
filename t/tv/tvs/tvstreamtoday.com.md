@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvstreamtoday.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045246id_/http%3A//www.tvstreamtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvstreamtoday.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117160558id_/http%3A//www.tvstreamtoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Policy – Online TV Streaming HD
+# Privacy & Policy - Watch Live TV Online Stream
 
 We takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
