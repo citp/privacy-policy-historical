@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconangle.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511080958id_/http%3A//siliconangle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconangle.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117145951id_/https%3A//siliconangle.com/privacy-policy) for the most accurate reproduction.*
 
 # SiliconANGLE
 
@@ -47,4 +47,4 @@ Can change your personal information:
 
   *       ****Follow the instructions at the bottom of each email and we will promptly remove you from **ALL** correspondence.
 
-**Contacting Us** If there are any questions regarding this privacy policy, you may contact us using the information below. SiliconAngle.com 5 Mount Royal Ave Marlborough, MA 01752 USA support@siliconangle.com Last Edited on 2016-11-04
+**Contacting Us** If there are any questions regarding this privacy policy, you may contact us using the information below. SiliconAngle.com 5 Mount Royal Ave Marlborough, MA 01752 USA support@siliconangle.com Last Edited on 2016-11-04  
