@@ -1,29 +1,8 @@
-> *The following text is extracted and transformed from the racedepartment.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091707id_/http%3A//www.racedepartment.com/forum/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racedepartment.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117122013id_/http%3A//www.racedepartment.com/forum/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RaceDepartment
 
-  * "At least all four wheels are pointing more or less in the same direction at the moment." - Martin Brundle
-
-
-  * [Recent Posts](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/find-new/posts)
-  * [Contact Us](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/misc/contact)
-  *     * [__](https://twitter.com/racedepartment "Twitter")
-    * [__](https://www.facebook.com/racedepartment "Facebook")
-    * [__](http://www.youtube.com/subscription_center?add_user=racedepartment "Youtube")
-    * [__](http://steamcommunity.com/groups/racedepartment "Steam")
-    * [__](https://www.instagram.com/racedepartment/ "Instagram")
-
-
-
 [ ](http://www.racedepartment.com/)
-
-  1. This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies. [**Learn More**.](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/help/cookies)
-
-  2. If you have any questions, please don't hesitate to ask. There's no such thing as a stupid question.
-
-[__](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/account/dismiss-notice?notice_id=175 "Dismiss Notice")
-
-
 
 **What information do we collect?**  
 We collect information from you when you register on our site.
@@ -70,10 +49,10 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms of Service**  
-Please also visit our [Terms of Service](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/pages/terms-of-service/) section establishing the use, disclaimers, and limitations of liability governing the use of our website at
+Please also visit our [Terms of Service](https://web.archive.org/web/20171117122013id_/http://www.racedepartment.com/pages/privacy-policy/pages/terms-of-service/) section establishing the use, disclaimers, and limitations of liability governing the use of our website at
 
 **Your Consent**  
-By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20170607130115id_/http://www.racedepartment.com/pages/privacy-policy/pages/privacy-policy/).
+By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20171117122013id_/http://www.racedepartment.com/pages/privacy-policy/pages/privacy-policy/).
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page.
@@ -92,4 +71,4 @@ Contact us for questions: info[at]racedepartment.com
 Published:
     May 29, 2014
 Page Views:
-    46,847
+    52,721
