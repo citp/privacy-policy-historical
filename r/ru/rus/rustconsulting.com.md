@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rustconsulting.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628211403id_/http%3A//rustconsulting.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustconsulting.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119000315id_/http%3A//www.rustconsulting.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - Rust Consulting
 
