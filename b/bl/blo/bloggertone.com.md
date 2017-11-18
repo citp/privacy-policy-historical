@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggertone.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074815id_/http%3A//tweakyourbiz.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertone.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118085617id_/http%3A//tweakyourbiz.com/disclaimer) for the most accurate reproduction.*
 
 # Privacy Statement - Tweak Your Biz
 
@@ -26,7 +26,7 @@ From time to time our sponsors wish to contact our contributors who have indicat
 
 You may opt-in to receive our electronic communications. You may remove yourself from receiving such services at any time. Any such electronic communication sent to you will include directions for how to unsubscribe. You may maintain your account with us and still opt out of receiving our newsletters, daily site updates and/or promotions. However, if you wish to unsubscribe from our communications, you will need to close your account. See the Choice/Opt-Out section below. 
 
-If you have a problem with your account, please email us at [admin@tweakyourbiz.com](mailto:admin@tweakyourbiz.com). 
+If you have a problem with your account, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f4e4b4246416f5b584a4e4456405a5d4d4655014c4042). 
 
 **Traffic and RSS Data**
 
@@ -88,7 +88,7 @@ Children under the age of 18 are not permitted to register as a contributor on t
 
 **Choice/Opt-Out**
 
-You have the opportunity to opt-in, opt-out or change your user preferences by: (i) emailing us at [admin@tweakyourbiz.com](mailto:admin@tweakyourbiz.com); (ii) editing the “Profile” area of your account; or (iii) clicking on a link in the footer of our electronic communications. Some communications (e.g., member communications about important account notifications) are necessary for all TweakYourBiz contributors. You must close your TweakYourBiz account to unsubscribe from these communications. To close your TweakYourBiz account, put “close my account” in the subject line and email us at [admin@tweakyourbiz.com](mailto:admin@tweakyourbiz.com).  
+You have the opportunity to opt-in, opt-out or change your user preferences by: (i) emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1273767f7b7c5266657773796b7d6760707b683c717d7f); (ii) editing the “Profile” area of your account; or (iii) clicking on a link in the footer of our electronic communications. Some communications (e.g., member communications about important account notifications) are necessary for all TweakYourBiz contributors. You must close your TweakYourBiz account to unsubscribe from these communications. To close your TweakYourBiz account, put “close my account” in the subject line and email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#345550595d5a74404351555f4d5b4146565d4e1a575b59).  
 Security Precautions
 
 We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to protect personal information from loss, misuse, or alteration. 
@@ -103,7 +103,7 @@ This Privacy Statement may change from time to time and any changes will be publ
 
 **Contact**
 
-If you have any questions about this Privacy Statement, please email us at [admin@tweakyourbiz.com](mailto:admin@tweakyourbiz.com) or contact us at: 
+If you have any questions about this Privacy Statement, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e687828b8f88a6929183878d9f899394848f9cc885898b) or contact us at: 
 
 TweakYourBiz.com  
 ATTN: TweakYourBiz Privacy Statement  
