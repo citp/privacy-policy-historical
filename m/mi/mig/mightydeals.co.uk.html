@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mightydeals.co.uk privacy policy that was archived on 2016-07-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160712170833id_/https%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mightydeals.co.uk privacy policy that was archived on 2017-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118230817id_/https%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head id="ctl00_ctl00_ctl00_head">
     
@@ -26,22 +26,33 @@
 
 	<!--[if IE 11]--><link href="/Styles/ie11specific.css" rel="stylesheet" type="text/css"><!--[endif]-->
 	
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+
     
     
 
+         
+ <script type="text/javascript">
+ if (self === top) { 
+ var antiClickjack = document.getElementById("antiClickjack"); 
+ antiClickjack.parentNode.removeChild(antiClickjack); 
+ } else { 
+ top.location = self.location; 
+ } 
+ </script> 
 
 
-      
-      <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/jquery.tools.min.js"></script>
+
+
+
+      <link href="https://www.mightydeals.co.uk/Styles/xmas.css" rel="stylesheet" type="text/css" media="all">
+      <script src="/Scripts/jquery.tools.min.js"></script>
       
       <script src="/Scripts/jquery.pikachoose.full.js"></script>
 
       <script src="/Scripts/main_v3.js"></script>
-
-	  <script src="/Scripts/infinite_scrolling.js"></script>	  
-   
-		
-
+    
+	  <script src="/Scripts/infinite_scrolling.js"></script>	     		
 
    <!--[if lt IE 9]>
    <script>
@@ -73,6 +84,78 @@
 <![endif]-->
 
     
+
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+    <script type="text/javascript">
+    window.addEventListener('load', function () {
+        var ecomm_prodid = '';
+        var ecomm_pagetype = '';
+        var ecomm_totalvalue = 0;
+        var pathnameVal = window.location.pathname;
+        var hrefVal = window.location.href;
+
+        if (pathnameVal == '/') /* for home page */ {
+            ecomm_pagetype = 'home';
+        } else if (jQuery('.dealPage').length > 0)  /*  product page */ {
+            ecomm_prodid = jQuery('[name="aspnetForm"]').attr('action').split('?')[0].split('./')[1];
+            ecomm_pagetype = 'product';
+            ecomm_totalvalue = jQuery('.price:last').text().replace(/[^0-9.]/g, '');
+        }
+        else if (jQuery('.viewDeals').length > 0) /* for category page */ {
+            ecomm_pagetype = 'category';
+
+        } else if (pathnameVal.indexOf('/account/checkout.aspx') != -1)  /*  cart page */ {
+            ecomm_pagetype = 'cart';
+
+        } else if (hrefVal.indexOf('/checkout/completed') != -1) {
+            ecomm_pagetype = 'purchase';
+        }
+        else {
+            ecomm_pagetype = 'other';
+        }
+
+        var google_tag_params = {
+            ecomm_prodid: ecomm_prodid,
+            ecomm_pagetype: ecomm_pagetype,
+            ecomm_totalvalue: parseFloat(ecomm_totalvalue)
+        };
+
+        window.google_trackConversion({
+            google_conversion_id: 1015010915,
+            google_custom_params: {
+                'ecomm_prodid': google_tag_params.ecomm_prodid,
+                'ecomm_pagetype': google_tag_params.ecomm_pagetype,
+                'ecomm_totalvalue': google_tag_params.ecomm_totalvalue
+            },
+            google_remarketing_only: true
+        });
+    });
+    </script>
+
+
+
+    <!-- TradeDoubler site verification 2295274 -->
+    <script type="text/javascript">(function(){function f(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//platform2.cloud-iq.com/cartrecovery/store.js?app_id=1726";var t = document.getElementsByTagName('head')[0];t.appendChild(e);}f();})();</script><script type="text/javascript" async="" src="//platform2.cloud-iq.com/cartrecovery/store.js?app_id=1726"></script>    
+
+    <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '296327507535932');
+fbq('track', 'PageView');
+</script>
+<noscript><img height = "1" width="1" style="display:none" src="https://www.facebook.com/tr?id=296327507535932&ev=PageView&noscript=1" /></noscript>
+<!-- DO Not MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+
+    <!-- Facebook Pixel Code -->
+
+    <!-- End Facebook Pixel Code -->
+
 </head>
 <!--[if IE ]>
    <body id="body1" class="ie">
@@ -104,10 +187,11 @@
 
 
     <form name="aspnetForm" method="post" action="./privacyPolicy.aspx?ft=1" id="aspnetForm" novalidate="novalidate">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAyMTMzODg1Ng9kFgJmD2QWAmYPZBYCZg9kFgRmD2QWAgICDxYCHgdjb250ZW50BQtNaWdodHkgZGVhbGQCAQ9kFgICAQ9kFgICAQ9kFhhmDw8WBB4IQ3NzQ2xhc3MFB2xvZ28gdjIeBF8hU0ICAmRkAgMPDxYCHg1PbkNsaWVudENsaWNrBaEBamF2YXNjcmlwdDpyZXR1cm4oU2VhcmNoUmVkaXJlY3QoJ2h0dHBzOi8vd3d3Lm1pZ2h0eWRlYWxzLmNvLnVrL2RlYWxzLmFzcHg/c2VhcmNoPScgKyBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfY3RsMDBfY3RsMDBfY3BoTW5fY3BoTW5fdHh0U2VhcmNoJykudmFsdWUpKTtkZAIFDxYCHgtfIUl0ZW1Db3VudAIGFgwCAQ9kFgICAQ8WAh4FQ2xhc3MFBEhvbWUWBAIBDw8WBB4LTmF2aWdhdGVVcmwFB34vSG9tZS8eBFRleHQFBEhvbWVkZAIDDw8WAh8HBQE5ZGQCAg9kFgICAQ8WAh8FBQhQcm9kdWN0cxYEAgEPDxYEHwYFC34vUHJvZHVjdHMvHwcFCFByb2R1Y3RzZGQCAw8PFgIfBwUBMWRkAgMPZBYCAgEPFgIfBQULSG9tZSZHYXJkZW4WBAIBDw8WBB8GBQ5+L0hvbWUtR2FyZGVuLx8HBQ1Ib21lICYgR2FyZGVuZGQCAw8PFgIfBwUCMTNkZAIED2QWAgIBDxYCHwUFBlRyYXZlbBYEAgEPDxYEHwYFCX4vVHJhdmVsLx8HBQZUcmF2ZWxkZAIDDw8WAh8HBQE0ZGQCBQ9kFgICAQ8WAh8FBQpBY3Rpdml0aWVzFgQCAQ8PFgQfBgUNfi9BY3Rpdml0aWVzLx8HBQpBY3Rpdml0aWVzZGQCAw8PFgIfBwUBM2RkAgYPZBYCAgEPFgIfBQULQmVzdHNlbGxlcnMWBAIBDw8WBB8GBQ5+L0Jlc3RzZWxsZXJzLx8HBQtCZXN0c2VsbGVyc2RkAgMPDxYCHwcFAjEyZGQCCA8WAh4HVmlzaWJsZWgWAgIDDw8WAh8IaGRkAgoPDxYCHwhoZBYCAgEPFgIfBGYWAmYPZBYCAgEPDxYEHwYFCn4vQWxsL0FsbC8fBwUHQWxsIEFsbGRkAgsPDxYCHwhoZGQCDA8PFgIfCGhkZAIODxYCHwhoZAIPD2QWAgIBDxYCHwcFjCQ8aDE+UHJpdmFjeSBQb2xpY3k8L2gxPjxwIGNsYXNzPSJzdHVkZW50YmVhbnNoaWRlIj5TdHVkZW50IEJlYW5zIGRhaWx5IGRlYWxzIGlzIHJ1biBieSBhIHRoaXJkIHBhcnR5LCBNaWdodHkgRGVhbHMgYW5kIGJ5IHVzaW5nIHRoaXMgc2l0ZSwgeW91IGFncmVlIHRvIHRoZSB0ZXJtcyBvZiB0aGUgTWlnaHR5IERlYWxzIHByaXZhY3kgcG9saWN5LCBhcyBmb3VuZCBiZWxvdy48L3A+PGgyPk91ciBDb21taXRtZW50IHRvIFByaXZhY3k8L2gyPjxwPk1pZ2h0eSBEZWFscyBpcyBjb21taXR0ZWQgdG8ga2VlcGluZyBwcml2YXRlLCB3aXRoaW4gYSBzZWN1cmUgZW52aXJvbm1lbnQsIHRoZSBkYXRhIHRoYXQgd2UgY29sbGVjdCB0aHJvdWdoIHRoZSB1c2Ugb2Ygb3VyIHNvZnR3YXJlLiBXZSB0aGVyZWZvcmUgYWltIHRvIHByb3ZpZGUgYW4gZW52aXJvbm1lbnQgaW4gd2hpY2ggeW91IGtub3cgdGhhdCB3ZSByZXNwZWN0IHlvdXIgcmlnaHQgdG8gcHJpdmFjeSBhbmQgd2lsbCBkbyB3aGF0ZXZlciB3ZSBjYW4gdG8gZW5zdXJlIHRoYXQgYW55IGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIHRvIHVzIHJlbWFpbnMgcHJpdmF0ZS4gQW55IHN1Y2ggaW5mb3JtYXRpb24gd2lsbCBvbmx5IGJlIHVzZWQgZm9yIHRoZSBwdXJwb3NlcyBkZXNjcmliZWQgYmVsb3cuPC9wPjxwPldlIGhhdmUgaW1wbGVtZW50ZWQgcG9saWNpZXMsIHJ1bGVzIGFuZCB0ZWNobmljYWwgbWVhc3VyZXMgdG8gcHJvdGVjdCB0aGUgcGVyc29uYWwgZGF0YSB0aGF0IHdlIGhhdmUgdW5kZXIgb3VyIGNvbnRyb2wgZnJvbSB1bmF1dGhvcmlzZWQgYWNjZXNzLCBpbXByb3BlciB1c2Ugb3IgZGlzY2xvc3VyZSwgdW5hdXRob3Jpc2VkIG1vZGlmaWNhdGlvbiwgdW5sYXdmdWwgZGVzdHJ1Y3Rpb24gb3IgYWNjaWRlbnRhbCBsb3NzLiBBbGwgb3VyIGVtcGxveWVlcywgd2hvIGhhdmUgYWNjZXNzIHRvIGFuZCBhcmUgYXNzb2NpYXRlZCB3aXRoIHRoZSBwcm9jZXNzaW5nIG9mIHBlcnNvbmFsIGRhdGEsIGFyZSBvYmxpZ2VkIHRvIHJlc3BlY3QgdGhlIGNvbmZpZGVudGlhbGl0eSBvZiBvdXIgdmlzaXRvcnMnIHBlcnNvbmFsIGRhdGEuPC9wPjxwPlRoZSBEYXRhIFByb3RlY3Rpb24gQWN0IHJlcXVpcmVzIGNvbXBhbmllcyBhbmQgaW5kaXZpZHVhbHMgd2hvIHByb2Nlc3MgYW5kIHJldGFpbiBpbmZvcm1hdGlvbiBhYm91dCB0aGVpciBjdXN0b21lcnMgdG8gdGVsbCB0aGUgY3VzdG9tZXIgaG93IHRoZSBpbmZvcm1hdGlvbiB3aWxsIGJlIHVzZWQgYW5kIHRvIHdoYXQgcHVycG9zZXMgaXQgd2lsbCBiZSBwdXQuPC9wPjxwPlRoaXMgUHJpdmFjeSBQb2xpY3kgZXhwbGFpbnMgdGhlIHN0ZXBzIHdlIHRha2UgdG8gZW5zdXJlIGluZm9ybWF0aW9uIGFib3V0IHlvdSBpcyBrZXB0IHNlY3VyZSBhbmQgY29uZmlkZW50aWFsLiBUaGlzIFByaXZhY3kgUG9saWN5IGFsc28gZXhwbGFpbnMgd2hhdCBoYXBwZW5zIHRvIHRoZSBpbmZvcm1hdGlvbiB0aGF0IHlvdSBzdXBwbHkgdG8gdXMuIFdlIHdpbGwgbm90IHVzZSB5b3VyIHBlcnNvbmFsIGRhdGEgaW4gYW55IG90aGVyIHdheSB3aXRob3V0IGZpcnN0IGluZm9ybWluZyB5b3UuPC9wPjxwPlBsZWFzZSB0YWtlIHRpbWUgdG8gcmVhZCB0aGlzIFByaXZhY3kgUG9saWN5IGNhcmVmdWxseSBhcyBvbmNlIHlvdSB1c2Ugb3VyIHdlYnNpdGUgeW91IHdpbGwgYmUgcmVnYXJkZWQgYXMgaGF2aW5nIHJlYWQgYW5kIGFjY2VwdGVkIHRoaXMgUHJpdmFjeSBQb2xpY3kuIFlvdSBzaG91bGQgbm90IHVzZSBvdXIgd2Vic2l0ZSBpZiB5b3UgZG8gbm90IGFjY2VwdCB0aGlzIHBvbGljeS48L3A+PHA+VGhlIERhdGEgQ29udHJvbGxlciBpcyBNaWdodHkgRGVhbHMuIE1pZ2h0eSBEZWFscyBjb21wbGllcyB3aXRoIHRoZSBEYXRhIFByb3RlY3Rpb24gQWN0LCBhbmQgaXMgcmVnaXN0ZXJlZCBhcyBhIGRhdGEgY29udHJvbGxlciB3aXRoIHRoZSBJbmZvcm1hdGlvbiBDb21taXNzaW9uZXLigJlzIE9mZmljZS48L3A+PHA+SWYgeW91IGhhdmUgYW55IHF1ZXJpZXMgYWJvdXQgdGhpcyBQcml2YWN5IFBvbGljeSBvciBhbnkgcmVxdWVzdHMgY29uY2VybmluZyB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uLCBwbGVhc2Ugd3JpdGUgdG8gb3VyIGFkZHJlc3MgYmVsb3cuPC9wPjxwPkRhdGEgUHJvdGVjdGlvbiBPZmZpY2VyPGJyIC8+TWlnaHR5IERlYWxzPGJyIC8+SHV4bGV5IEhvdXNlPGJyIC8+V2V5c2lkZSBQYXJrPGJyIC8+Q2F0dGVzaGFsbCBMYW5lPGJyIC8+R29kYWxtaW5nPGJyIC8+R1U3IDFYRTxiciAvPjwvcD48aDM+Q2FsbCBNb25pdG9yaW5nPC9oMz48cD5QaG9uZSBjYWxscyB0byBNaWdodHkgRGVhbHMgbWF5IGJlIHJlY29yZGVkIGZvciB0cmFpbmluZyBhbmQgbW9uaXRvcmluZyBwdXJwb3NlcywgaW4gYWNjb3JkYW5jZSB3aXRoIFVLIGxhdy48L3A+PGgzPllvdXIgcmlnaHRzIHRvIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb248L2gzPjxwPllvdSBoYXZlIHRoZSByaWdodCB0byBrbm93IHdoYXQgcGVyc29uYWwgaW5mb3JtYXRpb24gd2UgaG9sZCBhYm91dCB5b3UgYW5kIHRvIHdob20gaXQgaGFzIGJlZW4gZGlzY2xvc2VkLjwvcD48cD5QbGVhc2Ugd3JpdGUgdG8gdGhlIGFkZHJlc3MgYWJvdmUsIGNvbmZpcm1pbmcgdGhhdCB5b3UgYXJlIG1ha2luZyBhIHJlcXVlc3QgZm9yIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gdW5kZXIgdGhlIERhdGEgUHJvdGVjdGlvbiBBY3QsIGFuZCBlbmNsb3NpbmcgYSBmZWUgb2YgwqMxMCBtYWRlIHBheWFibGUgdG8gTWlnaHR5IERlYWxzLiBXZSBhcmUgZW50aXRsZWQgdG8gY2hhcmdlIHlvdSB0aGlzIGZlZSB1bmRlciB0aGUgRGF0YSBQcm90ZWN0aW9uIEFjdCB0byBjb3ZlciBvdXIgYWRtaW5pc3RyYXRpb24gY29zdHMuPC9wPjxwPk1pZ2h0eSBEZWFscyBhaW1zIHRvIGNvbXBseSB3aXRoIHJlcXVlc3RzIGZvciBhY2Nlc3MgdG8gcGVyc29uYWwgaW5mb3JtYXRpb24gYXMgcXVpY2tseSBhcyBwb3NzaWJsZSwgYnV0IHdpdGhpbiA0MCBkYXlzLjwvcD48cD5JZiBhbnkgaW5mb3JtYXRpb24gd2UgaG9sZCBpcyBpbmFjY3VyYXRlLCB3ZSB3aWxsIG1ha2UgdGhlIG5lY2Vzc2FyeSBhbWVuZG1lbnRzIGFuZCBjb25maXJtIHRvIHlvdSBoYXZlIHRoYXQgdGhlc2UgaGF2ZSBiZWVuIG1hZGUuPC9wPjxoMz5UcmFja2luZyBEYXRhIFBvbGljeTwvaDM+PHA+V2Ugb2J0YWluIGRhdGEgYnkgdXNpbmcgY29va2llcyBvciBKYXZhU2NyaXB0IGZpbGVzLiBUaGVzZSBmaWxlcyBoZWxwIHVzIGFuYWx5c2Ugd2ViIHRyYWZmaWMgYW5kIGxldHMgdXMga25vdyB3aGVuIHlvdSB2aXNpdCBhIHBhcnRpY3VsYXIgd2ViIHBhZ2UuIFdlIG9ubHkgdXNlIHRoaXMgaW5mb3JtYXRpb24gZm9yIHN0YXRpc3RpY2FsIGFuYWx5c2lzIHB1cnBvc2VzLjwvcD48cD5Db29raWVzIGFsbG93IHdlYiBhcHBsaWNhdGlvbnMgdG8gcmVzcG9uZCB0byB5b3UgYXMgYW4gaW5kaXZpZHVhbC4gVGhlIHdlYiBhcHBsaWNhdGlvbiBjYW4gdGFpbG9yIGl0cyBvcGVyYXRpb25zIHRvIHlvdXIgbmVlZHMsIGxpa2VzIGFuZCBkaXNsaWtlcyBieSBnYXRoZXJpbmcgYW5kIHJlbWVtYmVyaW5nIGluZm9ybWF0aW9uIGFib3V0IHlvdXIgcHJlZmVyZW5jZXMuPC9wPjxwPkEgY29va2llIGluIG5vIHdheSBnaXZlcyB1cyBhY2Nlc3MgdG8geW91ciBjb21wdXRlciBvciBhbnkgaW5mb3JtYXRpb24gYWJvdXQgeW91LCBvdGhlciB0aGFuIHRoZSBkYXRhIHlvdSBjaG9vc2UgdG8gc2hhcmUgd2l0aCB1cy4gV2Uga25vdyB0aGF0IHBlb3BsZSBoYXZlIGNvbmNlcm5zIGFib3V0IGNvb2tpZXMsIGJ1dCB3ZSBiZWxpZXZlIHRoYXQgdGhlIGJlbmVmaXQgd2UgYm90aCBnYWluIGZyb20gdGhlaXIgcHJvcGVyIHVzZSBpcyB3b3J0aHdoaWxlLiBZb3UgbWF5IHNldCB5b3VyIHdlYiBicm93c2VyIChNaWNyb3NvZnQgSW50ZXJuZXQgRXhwbG9yZXIgb3IgTmV0c2NhcGUgTmF2aWdhdG9yKSB0byBub3RpZnkgeW91IG9mIGNvb2tpZSBwbGFjZW1lbnQgcmVxdWVzdHMgb3IgZGVjbGluZSBjb29raWVzIGNvbXBsZXRlbHkuPC9wPjxwPldlIG1heSBmcm9tIHRpbWUgdG8gdGltZSBjb250YWN0IHlvdSB2aWEgZW1haWwsIHBvc3QsIHRlbGVwaG9uZSBvciBTTVMgd2l0aCBvZmZlcnMgZnJvbSB0aGlyZCBwYXJ0aWVzLCB3aGljaCB3ZSBtYXkgZmVlbCBhcmUgb2YgaW50ZXJlc3QgdG8geW91LCBvciBzZXJ2aWNlcyB3aGljaCBhcmUgb2Ygc2ltaWxhciBuYXR1cmUgdG8gd2hhdCB3ZSBwcm92aWRlLiBJZiB5b3UgZG8gbm90IHdpc2ggdG8gcmVjZWl2ZSB0aGVzZSB5b3UgY2FuIHVuc3Vic2NyaWJlIDxhIGhyZWY9Imh0dHBzOi8vd3d3Lm1pZ2h0eWRlYWxzLmNvLnVrL3Vuc3Vic2NyaWJlLmFzcHgiPmhlcmU8L2E+PC9wPjxoMz5DaGFuZ2VzIHRvIHRoZSBQb2xpY3k8L2gzPjxwPldlIG1heSBuZWVkIHRvIGFtZW5kIHRoZSBQcml2YWN5IFBvbGljeSBmcm9tIHRpbWUgdG8gdGltZS4gQW55IHN1Y2ggYW1lbmRtZW50IHdpbGwgdGFrZSBlZmZlY3QgYXMgc29vbiBhcyBpdCBpcyBwb3N0ZWQgb24gdGhlIHdlYnNpdGUuIFlvdSBhcmUgdGhlcmVmb3JlIGVuY291cmFnZWQgdG8gZmFtaWxpYXJpc2UgeW91cnNlbGYgd2l0aCB0aGUgUHJpdmFjeSBQb2xpY3kgb24gYSByZWd1bGFyIGJhc2lzLjwvcD5kAhEPDxYCHwcFMjxzdHJvbmc+QnVzaW5lc3Nlczwvc3Ryb25nPiBTZWxsIHdpdGggTWlnaHR5IERlYWxzZGQCFg8PFgIfBwULTWlnaHR5IENhc2hkZAIiDw8WAh8HBTBHZXQgTWlnaHR5IERlYWxzIG9uIHlvdXIgPHN0cm9uZz5tb2JpbGU8L3N0cm9uZz5kZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUnY3RsMDAkY3RsMDAkY3RsMDAkY3BoTW4kY3BoTW4kYnRuU2VhcmNoXvYsqLjW/FwRrsjHnMt5r5jhdw4=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAyMTMzODg1Ng9kFgJmD2QWAmYPZBYCZg9kFgRmD2QWBgICDxYCHgdjb250ZW50BQtNaWdodHkgZGVhbGQCDQ9kFgICAQ8WAh4EVGV4dAVpPGxpbmsgaHJlZj0iaHR0cHM6Ly93d3cubWlnaHR5ZGVhbHMuY28udWsvU3R5bGVzL3htYXMuY3NzIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBtZWRpYT0iYWxsIi8+ZAIPDxYCHwEFwQU8IS0tIEZhY2Vib29rIFBpeGVsIENvZGUgLS0+DQo8c2NyaXB0Pg0KIWZ1bmN0aW9uKGYsYixlLHYsbix0LHMpe2lmKGYuZmJxKXJldHVybjtuPWYuZmJxPWZ1bmN0aW9uKCl7bi5jYWxsTWV0aG9kPw0Kbi5jYWxsTWV0aG9kLmFwcGx5KG4sYXJndW1lbnRzKTpuLnF1ZXVlLnB1c2goYXJndW1lbnRzKX07aWYoIWYuX2ZicSlmLl9mYnE9bjsNCm4ucHVzaD1uO24ubG9hZGVkPSEwO24udmVyc2lvbj0nMi4wJztuLnF1ZXVlPVtdO3Q9Yi5jcmVhdGVFbGVtZW50KGUpO3QuYXN5bmM9ITA7DQp0LnNyYz12O3M9Yi5nZXRFbGVtZW50c0J5VGFnTmFtZShlKVswXTtzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHQscyl9KHdpbmRvdywNCmRvY3VtZW50LCdzY3JpcHQnLCdodHRwczovL2Nvbm5lY3QuZmFjZWJvb2submV0L2VuX1VTL2ZiZXZlbnRzLmpzJyk7DQpmYnEoJ2luaXQnLCAnMjk2MzI3NTA3NTM1OTMyJyk7DQpmYnEoJ3RyYWNrJywgJ1BhZ2VWaWV3Jyk7DQo8L3NjcmlwdD4NCjxub3NjcmlwdD48aW1nIGhlaWdodCA9ICIxIiB3aWR0aD0iMSIgc3R5bGU9ImRpc3BsYXk6bm9uZSIgc3JjPSJodHRwczovL3d3dy5mYWNlYm9vay5jb20vdHI/aWQ9Mjk2MzI3NTA3NTM1OTMyJmV2PVBhZ2VWaWV3Jm5vc2NyaXB0PTEiIC8+PC9ub3NjcmlwdD4NCjwhLS0gRE8gTm90IE1PRElGWSAtLT4NCjwhLS0gRW5kIEZhY2Vib29rIFBpeGVsIENvZGUgLS0+DQpkAgEPZBYCAgEPZBYCAgEPZBYYZg8PFgQeCENzc0NsYXNzBQdsb2dvIHYyHgRfIVNCAgJkZAIDDw8WAh4NT25DbGllbnRDbGljawWhAWphdmFzY3JpcHQ6cmV0dXJuKFNlYXJjaFJlZGlyZWN0KCdodHRwczovL3d3dy5taWdodHlkZWFscy5jby51ay9kZWFscy5hc3B4P3NlYXJjaD0nICsgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX2N0bDAwX2N0bDAwX2NwaE1uX2NwaE1uX3R4dFNlYXJjaCcpLnZhbHVlKSk7ZGQCBQ8WAh4LXyFJdGVtQ291bnQCBxYOAgEPZBYCAgEPFgIeBUNsYXNzBQRIb21lFgQCAQ8PFgQeC05hdmlnYXRlVXJsBQd+L0hvbWUvHwEFBEhvbWVkZAIDDw8WAh8BBQE5ZGQCAg9kFgICAQ8WAh8GBQhQcm9kdWN0cxYEAgEPDxYEHwcFC34vUHJvZHVjdHMvHwEFCFByb2R1Y3RzZGQCAw8PFgIfAQUBMWRkAgMPZBYCAgEPFgIfBgULSG9tZSZHYXJkZW4WBAIBDw8WBB8HBQ5+L0hvbWUtR2FyZGVuLx8BBQ1Ib21lICYgR2FyZGVuZGQCAw8PFgIfAQUCMTNkZAIED2QWAgIBDxYCHwYFBlRyYXZlbBYEAgEPDxYEHwcFCX4vVHJhdmVsLx8BBQZUcmF2ZWxkZAIDDw8WAh8BBQE0ZGQCBQ9kFgICAQ8WAh8GBQpBY3Rpdml0aWVzFgQCAQ8PFgQfBwUNfi9BY3Rpdml0aWVzLx8BBQpBY3Rpdml0aWVzZGQCAw8PFgIfAQUBM2RkAgYPZBYCAgEPFgIfBgULRGlyZWN0RGVhbHMWBAIBDw8WBB8HBQ9+L0RpcmVjdC1EZWFscy8fAQUMRGlyZWN0IERlYWxzZGQCAw8PFgIfAQUCMTRkZAIHD2QWAgIBDxYCHwYFCUNocmlzdG1hcxYEAgEPDxYEHwcFDH4vQ2hyaXN0bWFzLx8BBQlDaHJpc3RtYXNkZAIDDw8WAh8BBQE1ZGQCCA8WAh4HVmlzaWJsZWgWAgIDDw8WAh8IaGRkAgoPDxYCHwhoZBYCAgEPFgIfBWYWAmYPZBYCAgEPDxYEHwcFCn4vQWxsL0FsbC8fAQUHQWxsIEFsbGRkAgsPDxYCHwhoZGQCDA8PFgIfCGhkZAIODxYCHwhoZAIRD2QWAgIBDxYCHwEF9So8aDE+UHJpdmFjeSBQb2xpY3k8L2gxPjxwIGNsYXNzPSJzdHVkZW50YmVhbnNoaWRlIj5TdHVkZW50IEJlYW5zIGRhaWx5IGRlYWxzIGlzIHJ1biBieSBhIHRoaXJkIHBhcnR5LCBNaWdodHkgRGVhbHMgYW5kIGJ5IHVzaW5nIHRoaXMgc2l0ZSwgeW91IGFncmVlIHRvIHRoZSB0ZXJtcyBvZiB0aGUgTWlnaHR5IERlYWxzIHByaXZhY3kgcG9saWN5LCBhcyBmb3VuZCBiZWxvdy48L3A+PGgyPk91ciBDb21taXRtZW50IHRvIFByaXZhY3k8L2gyPjxwPk1pZ2h0eSBEZWFscyBpcyBjb21taXR0ZWQgdG8ga2VlcGluZyBwcml2YXRlLCB3aXRoaW4gYSBzZWN1cmUgZW52aXJvbm1lbnQsIHRoZSBkYXRhIHRoYXQgd2UgY29sbGVjdCB0aHJvdWdoIHRoZSB1c2Ugb2Ygb3VyIHNvZnR3YXJlLiBXZSB0aGVyZWZvcmUgYWltIHRvIHByb3ZpZGUgYW4gZW52aXJvbm1lbnQgaW4gd2hpY2ggeW91IGtub3cgdGhhdCB3ZSByZXNwZWN0IHlvdXIgcmlnaHQgdG8gcHJpdmFjeSBhbmQgd2lsbCBkbyB3aGF0ZXZlciB3ZSBjYW4gdG8gZW5zdXJlIHRoYXQgYW55IGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIHRvIHVzIHJlbWFpbnMgcHJpdmF0ZS4gQW55IHN1Y2ggaW5mb3JtYXRpb24gd2lsbCBvbmx5IGJlIHVzZWQgZm9yIHRoZSBwdXJwb3NlcyBkZXNjcmliZWQgYmVsb3cuPC9wPjxwPldlIGhhdmUgaW1wbGVtZW50ZWQgcG9saWNpZXMsIHJ1bGVzIGFuZCB0ZWNobmljYWwgbWVhc3VyZXMgdG8gcHJvdGVjdCB0aGUgcGVyc29uYWwgZGF0YSB0aGF0IHdlIGhhdmUgdW5kZXIgb3VyIGNvbnRyb2wgZnJvbSB1bmF1dGhvcmlzZWQgYWNjZXNzLCBpbXByb3BlciB1c2Ugb3IgZGlzY2xvc3VyZSwgdW5hdXRob3Jpc2VkIG1vZGlmaWNhdGlvbiwgdW5sYXdmdWwgZGVzdHJ1Y3Rpb24gb3IgYWNjaWRlbnRhbCBsb3NzLiBBbGwgb3VyIGVtcGxveWVlcywgd2hvIGhhdmUgYWNjZXNzIHRvIGFuZCBhcmUgYXNzb2NpYXRlZCB3aXRoIHRoZSBwcm9jZXNzaW5nIG9mIHBlcnNvbmFsIGRhdGEsIGFyZSBvYmxpZ2VkIHRvIHJlc3BlY3QgdGhlIGNvbmZpZGVudGlhbGl0eSBvZiBvdXIgdmlzaXRvcnMnIHBlcnNvbmFsIGRhdGEuPC9wPjxwPlRoZSBEYXRhIFByb3RlY3Rpb24gQWN0IHJlcXVpcmVzIGNvbXBhbmllcyBhbmQgaW5kaXZpZHVhbHMgd2hvIHByb2Nlc3MgYW5kIHJldGFpbiBpbmZvcm1hdGlvbiBhYm91dCB0aGVpciBjdXN0b21lcnMgdG8gdGVsbCB0aGUgY3VzdG9tZXIgaG93IHRoZSBpbmZvcm1hdGlvbiB3aWxsIGJlIHVzZWQgYW5kIHRvIHdoYXQgcHVycG9zZXMgaXQgd2lsbCBiZSBwdXQuPC9wPjxwPlRoaXMgUHJpdmFjeSBQb2xpY3kgZXhwbGFpbnMgdGhlIHN0ZXBzIHdlIHRha2UgdG8gZW5zdXJlIGluZm9ybWF0aW9uIGFib3V0IHlvdSBpcyBrZXB0IHNlY3VyZSBhbmQgY29uZmlkZW50aWFsLiBUaGlzIFByaXZhY3kgUG9saWN5IGFsc28gZXhwbGFpbnMgd2hhdCBoYXBwZW5zIHRvIHRoZSBpbmZvcm1hdGlvbiB0aGF0IHlvdSBzdXBwbHkgdG8gdXMuIFdlIHdpbGwgbm90IHVzZSB5b3VyIHBlcnNvbmFsIGRhdGEgaW4gYW55IG90aGVyIHdheSB3aXRob3V0IGZpcnN0IGluZm9ybWluZyB5b3UuPC9wPjxwPlBsZWFzZSB0YWtlIHRpbWUgdG8gcmVhZCB0aGlzIFByaXZhY3kgUG9saWN5IGNhcmVmdWxseSBhcyBvbmNlIHlvdSB1c2Ugb3VyIHdlYnNpdGUgeW91IHdpbGwgYmUgcmVnYXJkZWQgYXMgaGF2aW5nIHJlYWQgYW5kIGFjY2VwdGVkIHRoaXMgUHJpdmFjeSBQb2xpY3kuIFlvdSBzaG91bGQgbm90IHVzZSBvdXIgd2Vic2l0ZSBpZiB5b3UgZG8gbm90IGFjY2VwdCB0aGlzIHBvbGljeS48L3A+PHA+VGhlIERhdGEgQ29udHJvbGxlciBpcyBNaWdodHkgRGVhbHMuIE1pZ2h0eSBEZWFscyBjb21wbGllcyB3aXRoIHRoZSBEYXRhIFByb3RlY3Rpb24gQWN0LCBhbmQgaXMgcmVnaXN0ZXJlZCBhcyBhIGRhdGEgY29udHJvbGxlciB3aXRoIHRoZSBJbmZvcm1hdGlvbiBDb21taXNzaW9uZXLigJlzIE9mZmljZS48L3A+PHA+SWYgeW91IGhhdmUgYW55IHF1ZXJpZXMgYWJvdXQgdGhpcyBQcml2YWN5IFBvbGljeSBvciBhbnkgcmVxdWVzdHMgY29uY2VybmluZyB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uLCBwbGVhc2Ugd3JpdGUgdG8gb3VyIGFkZHJlc3MgYmVsb3cuPC9wPjxwPkRhdGEgUHJvdGVjdGlvbiBPZmZpY2VyPGJyIC8+TWlnaHR5IERlYWxzPGJyIC8+SHV4bGV5IEhvdXNlPGJyIC8+V2V5c2lkZSBQYXJrPGJyIC8+Q2F0dGVzaGFsbCBMYW5lPGJyIC8+R29kYWxtaW5nPGJyIC8+R1U3IDFYRTxiciAvPjwvcD48aDM+Q2FsbCBNb25pdG9yaW5nPC9oMz48cD5QaG9uZSBjYWxscyB0byBNaWdodHkgRGVhbHMgbWF5IGJlIHJlY29yZGVkIGZvciB0cmFpbmluZyBhbmQgbW9uaXRvcmluZyBwdXJwb3NlcywgaW4gYWNjb3JkYW5jZSB3aXRoIFVLIGxhdy48L3A+PGgzPllvdXIgcmlnaHRzIHRvIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb248L2gzPjxwPllvdSBoYXZlIHRoZSByaWdodCB0byBrbm93IHdoYXQgcGVyc29uYWwgaW5mb3JtYXRpb24gd2UgaG9sZCBhYm91dCB5b3UgYW5kIHRvIHdob20gaXQgaGFzIGJlZW4gZGlzY2xvc2VkLjwvcD48cD5QbGVhc2Ugd3JpdGUgdG8gdGhlIGFkZHJlc3MgYWJvdmUsIGNvbmZpcm1pbmcgdGhhdCB5b3UgYXJlIG1ha2luZyBhIHJlcXVlc3QgZm9yIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gdW5kZXIgdGhlIERhdGEgUHJvdGVjdGlvbiBBY3QsIGFuZCBlbmNsb3NpbmcgYSBmZWUgb2YgwqMxMCBtYWRlIHBheWFibGUgdG8gTWlnaHR5IERlYWxzLiBXZSBhcmUgZW50aXRsZWQgdG8gY2hhcmdlIHlvdSB0aGlzIGZlZSB1bmRlciB0aGUgRGF0YSBQcm90ZWN0aW9uIEFjdCB0byBjb3ZlciBvdXIgYWRtaW5pc3RyYXRpb24gY29zdHMuPC9wPjxwPk1pZ2h0eSBEZWFscyBhaW1zIHRvIGNvbXBseSB3aXRoIHJlcXVlc3RzIGZvciBhY2Nlc3MgdG8gcGVyc29uYWwgaW5mb3JtYXRpb24gYXMgcXVpY2tseSBhcyBwb3NzaWJsZSwgYnV0IHdpdGhpbiA0MCBkYXlzLjwvcD48cD5JZiBhbnkgaW5mb3JtYXRpb24gd2UgaG9sZCBpcyBpbmFjY3VyYXRlLCB3ZSB3aWxsIG1ha2UgdGhlIG5lY2Vzc2FyeSBhbWVuZG1lbnRzIGFuZCBjb25maXJtIHRvIHlvdSBoYXZlIHRoYXQgdGhlc2UgaGF2ZSBiZWVuIG1hZGUuPC9wPjxoMz5UcmFja2luZyBEYXRhIFBvbGljeTwvaDM+PHA+V2Ugb2J0YWluIGRhdGEgYnkgdXNpbmcgY29va2llcyBvciBKYXZhU2NyaXB0IGZpbGVzLiBUaGVzZSBmaWxlcyBoZWxwIHVzIGFuYWx5c2Ugd2ViIHRyYWZmaWMgYW5kIGxldHMgdXMga25vdyB3aGVuIHlvdSB2aXNpdCBhIHBhcnRpY3VsYXIgd2ViIHBhZ2UuIFdlIG9ubHkgdXNlIHRoaXMgaW5mb3JtYXRpb24gZm9yIHN0YXRpc3RpY2FsIGFuYWx5c2lzIHB1cnBvc2VzLjwvcD48cD5Db29raWVzIGFsbG93IHdlYiBhcHBsaWNhdGlvbnMgdG8gcmVzcG9uZCB0byB5b3UgYXMgYW4gaW5kaXZpZHVhbC4gVGhlIHdlYiBhcHBsaWNhdGlvbiBjYW4gdGFpbG9yIGl0cyBvcGVyYXRpb25zIHRvIHlvdXIgbmVlZHMsIGxpa2VzIGFuZCBkaXNsaWtlcyBieSBnYXRoZXJpbmcgYW5kIHJlbWVtYmVyaW5nIGluZm9ybWF0aW9uIGFib3V0IHlvdXIgcHJlZmVyZW5jZXMuPC9wPjxwPkEgY29va2llIGluIG5vIHdheSBnaXZlcyB1cyBhY2Nlc3MgdG8geW91ciBjb21wdXRlciBvciBhbnkgaW5mb3JtYXRpb24gYWJvdXQgeW91LCBvdGhlciB0aGFuIHRoZSBkYXRhIHlvdSBjaG9vc2UgdG8gc2hhcmUgd2l0aCB1cy4gV2Uga25vdyB0aGF0IHBlb3BsZSBoYXZlIGNvbmNlcm5zIGFib3V0IGNvb2tpZXMsIGJ1dCB3ZSBiZWxpZXZlIHRoYXQgdGhlIGJlbmVmaXQgd2UgYm90aCBnYWluIGZyb20gdGhlaXIgcHJvcGVyIHVzZSBpcyB3b3J0aHdoaWxlLiBZb3UgbWF5IHNldCB5b3VyIHdlYiBicm93c2VyIChNaWNyb3NvZnQgSW50ZXJuZXQgRXhwbG9yZXIgb3IgTmV0c2NhcGUgTmF2aWdhdG9yKSB0byBub3RpZnkgeW91IG9mIGNvb2tpZSBwbGFjZW1lbnQgcmVxdWVzdHMgb3IgZGVjbGluZSBjb29raWVzIGNvbXBsZXRlbHkuPC9wPjxwPldlIG1heSBmcm9tIHRpbWUgdG8gdGltZSBjb250YWN0IHlvdSB2aWEgZW1haWwsIHBvc3QsIHRlbGVwaG9uZSBvciBTTVMgd2l0aCBvZmZlcnMgZnJvbSB0aGlyZCBwYXJ0aWVzLCB3aGljaCB3ZSBtYXkgZmVlbCBhcmUgb2YgaW50ZXJlc3QgdG8geW91LCBvciBzZXJ2aWNlcyB3aGljaCBhcmUgb2Ygc2ltaWxhciBuYXR1cmUgdG8gd2hhdCB3ZSBwcm92aWRlLiBJZiB5b3UgZG8gbm90IHdpc2ggdG8gcmVjZWl2ZSB0aGVzZSB5b3UgY2FuIHVuc3Vic2NyaWJlIDxhIGhyZWY9Imh0dHBzOi8vd3d3Lm1pZ2h0eWRlYWxzLmNvLnVrL3Vuc3Vic2NyaWJlLmFzcHgiPmhlcmU8L2E+PC9wPjxwPldlIGFsbG93IHRoaXJkLXBhcnR5IGNvbXBhbmllcyB0byBjb2xsZWN0IGNlcnRhaW4gaW5mb3JtYXRpb24gd2hlbiB5b3UgdmlzaXQgb3VyIHdlYiBzaXRlLiBUaGVzZSBjb21wYW5pZXMgbWF5IHV0aWxpemUgY29va2llcywgcGl4ZWxzIG9yIG90aGVyIHRlY2hub2xvZ2llcyB0byBjb2xsZWN0IGFuZCB1c2Ugbm9uLXBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIChlLmcuLCBoYXNoZWQgZGF0YSwgY2xpY2sgc3RyZWFtIGluZm9ybWF0aW9uLCBicm93c2VyIHR5cGUsIHRpbWUgYW5kIGRhdGUsIHN1YmplY3Qgb2YgYWR2ZXJ0aXNlbWVudHMgY2xpY2tlZCBvciBzY3JvbGxlZCBvdmVyKSBkdXJpbmcgeW91ciB2aXNpdHMgdG8gdGhpcyBhbmQgb3RoZXIgd2ViIHNpdGVzIGluIG9yZGVyIHRvIHByb3ZpZGUgYWR2ZXJ0aXNlbWVudHMgYWJvdXQgZ29vZHMgYW5kIHNlcnZpY2VzIGxpa2VseSB0byBiZSBvZiBncmVhdGVyIGludGVyZXN0IHRvIHlvdS4gVGhpcmQgcGFydGllcyBtYXkgYWxzbyB1c2UgcGl4ZWxzIHRvIGNvbGxlY3Qgbm9uLXBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIGZyb20gZW1haWxzIHRoYXQgdGhleSBvcGVuLiBUbyBsZWFybiBtb3JlIGFib3V0IHRoaXMgYmVoYXZpb3JhbCBhZHZlcnRpc2luZyBwcmFjdGljZSBvciB0byBvcHQtb3V0IG9mIHRoaXMgdHlwZSBvZiBhZHZlcnRpc2luZywgeW91IGNhbiB2aXNpdCB0aGUgd2Vic2l0ZXMgb2YgdGhlIERpZ2l0YWwgQWR2ZXJ0aXNpbmcgQWxsaWFuY2UgYXQgaHR0cDovL3d3dy5hYm91dGFkcy5pbmZvL2Nob2ljZXMgb3IgWW91ciBPbmxpbmUgQ2hvaWNlcyBhdCBodHRwOi8vd3d3LnlvdXJvbmxpbmVjaG9pY2VzLmNvbS91ay8uPC9wPjxoMz5DaGFuZ2VzIHRvIHRoZSBQb2xpY3k8L2gzPjxwPldlIG1heSBuZWVkIHRvIGFtZW5kIHRoZSBQcml2YWN5IFBvbGljeSBmcm9tIHRpbWUgdG8gdGltZS4gQW55IHN1Y2ggYW1lbmRtZW50IHdpbGwgdGFrZSBlZmZlY3QgYXMgc29vbiBhcyBpdCBpcyBwb3N0ZWQgb24gdGhlIHdlYnNpdGUuIFlvdSBhcmUgdGhlcmVmb3JlIGVuY291cmFnZWQgdG8gZmFtaWxpYXJpc2UgeW91cnNlbGYgd2l0aCB0aGUgUHJpdmFjeSBQb2xpY3kgb24gYSByZWd1bGFyIGJhc2lzLjwvcD5kAhQPDxYCHwEFMjxzdHJvbmc+QnVzaW5lc3Nlczwvc3Ryb25nPiBTZWxsIHdpdGggTWlnaHR5IERlYWxzZGQCGQ8PFgIfAQULTWlnaHR5IENhc2hkZAIlDw8WAh8BBTBHZXQgTWlnaHR5IERlYWxzIG9uIHlvdXIgPHN0cm9uZz5tb2JpbGU8L3N0cm9uZz5kZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUnY3RsMDAkY3RsMDAkY3RsMDAkY3BoTW4kY3BoTW4kYnRuU2VhcmNofPdzbHWkC95MZ+JPHIYvdbigcik=">
 
+<script src="/51Degrees.core.js" type="text/javascript"></script>
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A611CF0F">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAML8I5DfpZwLiV0jec3Sjwv7xoiZI/yklRthoGZv5lJALOleWFQYDec6dm2yiH/DX16TbC1o7utK2cHI0c/bwugkiYbVw==">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAANKp14efYnN9nlxeTOrkekl7xoiZI/yklRthoGZv5lJALOleWFQYDec6dm2yiH/DX2742JgR5pNjp/jMgvyZMPXGn7PcQ==">
         
     
     <div id="skiptocontent" class="hide">
@@ -167,8 +251,13 @@
                                     
                                 </li>
                             
-                                <li id="ctl00_ctl00_ctl00_cphMn_cphMn_rptMenu1_ctl06_liItem" class="Bestsellers">
-                                    <a id="ctl00_ctl00_ctl00_cphMn_cphMn_rptMenu1_ctl06_hlMenu1" href="../Bestsellers/">Bestsellers</a>
+                                <li id="ctl00_ctl00_ctl00_cphMn_cphMn_rptMenu1_ctl06_liItem" class="DirectDeals">
+                                    <a id="ctl00_ctl00_ctl00_cphMn_cphMn_rptMenu1_ctl06_hlMenu1" href="../Direct-Deals/">Direct Deals</a>
+                                    
+                                </li>
+                            
+                                <li id="ctl00_ctl00_ctl00_cphMn_cphMn_rptMenu1_ctl07_liItem" class="Christmas">
+                                    <a id="ctl00_ctl00_ctl00_cphMn_cphMn_rptMenu1_ctl07_hlMenu1" href="../Christmas/">Christmas</a>
                                     
                                 </li>
                             								
@@ -227,16 +316,45 @@
                             <p class="selectLoc">Select the location you are interested in</p>
                             <p class="selectLocParagraph">When you have selected your location, your <strong>£5 discount code</strong> will appear here</p>
                         </div>
-                    </div>                    
+                    </div>                
+                                                           
+                    <div id="ctl00_ctl00_ctl00_cphMn_cphMn_pnlAdSense" style="text-align:center; width:100%; padding-bottom:5px;">
+	                                           
+                        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive - wide -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4461946995175526" data-ad-slot="3918285293" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+                    
+</div>                                        
+
+                    
+
                     
 
     <div id="content" role="main" class="information">
 
-        <h1>Privacy Policy</h1><p class="studentbeanshide">Student Beans daily deals is run by a third party, Mighty Deals and by using this site, you agree to the terms of the Mighty Deals privacy policy, as found below.</p><h2>Our Commitment to Privacy</h2><p>Mighty Deals is committed to keeping private, within a secure environment, the data that we collect through the use of our software. We therefore aim to provide an environment in which you know that we respect your right to privacy and will do whatever we can to ensure that any information you provide to us remains private. Any such information will only be used for the purposes described below.</p><p>We have implemented policies, rules and technical measures to protect the personal data that we have under our control from unauthorised access, improper use or disclosure, unauthorised modification, unlawful destruction or accidental loss. All our employees, who have access to and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.</p><p>The Data Protection Act requires companies and individuals who process and retain information about their customers to tell the customer how the information will be used and to what purposes it will be put.</p><p>This Privacy Policy explains the steps we take to ensure information about you is kept secure and confidential. This Privacy Policy also explains what happens to the information that you supply to us. We will not use your personal data in any other way without first informing you.</p><p>Please take time to read this Privacy Policy carefully as once you use our website you will be regarded as having read and accepted this Privacy Policy. You should not use our website if you do not accept this policy.</p><p>The Data Controller is Mighty Deals. Mighty Deals complies with the Data Protection Act, and is registered as a data controller with the Information Commissioner’s Office.</p><p>If you have any queries about this Privacy Policy or any requests concerning your personal information, please write to our address below.</p><p>Data Protection Officer<br>Mighty Deals<br>Huxley House<br>Weyside Park<br>Catteshall Lane<br>Godalming<br>GU7 1XE<br></p><h3>Call Monitoring</h3><p>Phone calls to Mighty Deals may be recorded for training and monitoring purposes, in accordance with UK law.</p><h3>Your rights to your personal information</h3><p>You have the right to know what personal information we hold about you and to whom it has been disclosed.</p><p>Please write to the address above, confirming that you are making a request for your personal information under the Data Protection Act, and enclosing a fee of £10 made payable to Mighty Deals. We are entitled to charge you this fee under the Data Protection Act to cover our administration costs.</p><p>Mighty Deals aims to comply with requests for access to personal information as quickly as possible, but within 40 days.</p><p>If any information we hold is inaccurate, we will make the necessary amendments and confirm to you have that these have been made.</p><h3>Tracking Data Policy</h3><p>We obtain data by using cookies or JavaScript files. These files help us analyse web traffic and lets us know when you visit a particular web page. We only use this information for statistical analysis purposes.</p><p>Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p><p>A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely.</p><p>We may from time to time contact you via email, post, telephone or SMS with offers from third parties, which we may feel are of interest to you, or services which are of similar nature to what we provide. If you do not wish to receive these you can unsubscribe <a href="https://www.mightydeals.co.uk/unsubscribe.aspx">here</a></p><h3>Changes to the Policy</h3><p>We may need to amend the Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the website. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis.</p>
+        <h1>Privacy Policy</h1><p class="studentbeanshide">Student Beans daily deals is run by a third party, Mighty Deals and by using this site, you agree to the terms of the Mighty Deals privacy policy, as found below.</p><h2>Our Commitment to Privacy</h2><p>Mighty Deals is committed to keeping private, within a secure environment, the data that we collect through the use of our software. We therefore aim to provide an environment in which you know that we respect your right to privacy and will do whatever we can to ensure that any information you provide to us remains private. Any such information will only be used for the purposes described below.</p><p>We have implemented policies, rules and technical measures to protect the personal data that we have under our control from unauthorised access, improper use or disclosure, unauthorised modification, unlawful destruction or accidental loss. All our employees, who have access to and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.</p><p>The Data Protection Act requires companies and individuals who process and retain information about their customers to tell the customer how the information will be used and to what purposes it will be put.</p><p>This Privacy Policy explains the steps we take to ensure information about you is kept secure and confidential. This Privacy Policy also explains what happens to the information that you supply to us. We will not use your personal data in any other way without first informing you.</p><p>Please take time to read this Privacy Policy carefully as once you use our website you will be regarded as having read and accepted this Privacy Policy. You should not use our website if you do not accept this policy.</p><p>The Data Controller is Mighty Deals. Mighty Deals complies with the Data Protection Act, and is registered as a data controller with the Information Commissioner’s Office.</p><p>If you have any queries about this Privacy Policy or any requests concerning your personal information, please write to our address below.</p><p>Data Protection Officer<br>Mighty Deals<br>Huxley House<br>Weyside Park<br>Catteshall Lane<br>Godalming<br>GU7 1XE<br></p><h3>Call Monitoring</h3><p>Phone calls to Mighty Deals may be recorded for training and monitoring purposes, in accordance with UK law.</p><h3>Your rights to your personal information</h3><p>You have the right to know what personal information we hold about you and to whom it has been disclosed.</p><p>Please write to the address above, confirming that you are making a request for your personal information under the Data Protection Act, and enclosing a fee of £10 made payable to Mighty Deals. We are entitled to charge you this fee under the Data Protection Act to cover our administration costs.</p><p>Mighty Deals aims to comply with requests for access to personal information as quickly as possible, but within 40 days.</p><p>If any information we hold is inaccurate, we will make the necessary amendments and confirm to you have that these have been made.</p><h3>Tracking Data Policy</h3><p>We obtain data by using cookies or JavaScript files. These files help us analyse web traffic and lets us know when you visit a particular web page. We only use this information for statistical analysis purposes.</p><p>Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p><p>A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely.</p><p>We may from time to time contact you via email, post, telephone or SMS with offers from third parties, which we may feel are of interest to you, or services which are of similar nature to what we provide. If you do not wish to receive these you can unsubscribe <a href="https://www.mightydeals.co.uk/unsubscribe.aspx">here</a></p><p>We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. Third parties may also use pixels to collect non-personally identifiable information from emails that they open. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at http://www.aboutads.info/choices or Your Online Choices at http://www.youronlinechoices.com/uk/.</p><h3>Changes to the Policy</h3><p>We may need to amend the Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the website. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis.</p>
         
     </div>
 
 
+
+                    <!-- AdSense -->
+                    <div id="ctl00_ctl00_ctl00_cphMn_cphMn_pnlAdSenseFooter" style="text-align: center; width:100%; padding-bottom: 15px;">
+	
+                        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive - wide -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4461946995175526" data-ad-slot="3918285293" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+                    
+</div>
+                    <!-- END AdSense -->
                 </div>
             </div>
             
@@ -313,7 +431,7 @@
                         </div>
                     </div>
                     <p id="copyright">
-                        Mighty Deals is not responsible for the content of external sites. <strong>© 2014
+                        Mighty Deals is not responsible for the content of external sites. <strong>© 2017
                             Mighty Deals</strong>
                     </p>
                     <div class="smallPrint">
@@ -327,26 +445,66 @@
                         <a id="ctl00_ctl00_ctl00_cphMn_cphMn_ftPrivacy" href="privacyPolicy.aspx?ft=1">Privacy Policy</a>
                     </div>
 
+                    
                     <!-- Google Code for Remarketing tag -->
-                    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-                    <script type="text/javascript">
-                        /* <![CDATA[ */
-                        var google_conversion_id = 1015010915;
-                        var google_conversion_label = "DdyyCIXF2wcQ46z_4wM";
-                        var google_custom_params = window.google_tag_params;
-                        var google_remarketing_only = true;
-                        /* ]]> */
-                    </script>
-                    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-                    </script>
 
-                       <noscript>
-                        <div style="display: inline;">
-                            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1015010915/?value=0&amp;label=DdyyCIXF2wcQ46z_4wM&amp;guid=ON&amp;script=0" />
-                        </div>
-                    </noscript>      
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+<script type="text/javascript">
+    window.addEventListener('load', function () {
+        var ecomm_prodid = '';
+        var ecomm_pagetype = '';
+        var ecomm_totalvalue = 0;
+        var pathnameVal = window.location.pathname;
+        var hrefVal = window.location.href;
+
+        if (pathnameVal == '/') /* for home page */ {
+            ecomm_pagetype = 'home';
+        } else if (jQuery('.dealPage').length > 0)  /*  product page */ {
+            ecomm_prodid = jQuery('[name="aspnetForm"]').attr('action').split('?')[0].split('./')[1];
+            ecomm_pagetype = 'product';
+            ecomm_totalvalue = jQuery('.price:last').text().replace(/[^0-9.]/g, '');
+        }
+        else if (jQuery('.viewDeals').length > 0) /* for category page */ {
+            ecomm_pagetype = 'category';
+
+        } else if (pathnameVal.indexOf('/account/checkout.aspx') != -1)  /*  cart page */ {
+            ecomm_pagetype = 'cart';
+
+        } else if (hrefVal.indexOf('/checkout/completed') != -1) {
+            ecomm_pagetype = 'purchase';
+        }
+        else {
+            ecomm_pagetype = 'other';
+        }
+
+        var google_tag_params = {
+            ecomm_prodid: ecomm_prodid,
+            ecomm_pagetype: ecomm_pagetype,
+            ecomm_totalvalue: parseFloat(ecomm_totalvalue)
+        };
+
+        window.google_trackConversion({
+            google_conversion_id: 1015010915,
+            google_custom_params: {
+                'ecomm_prodid': google_tag_params.ecomm_prodid,
+                'ecomm_pagetype': google_tag_params.ecomm_pagetype,
+                'ecomm_totalvalue': google_tag_params.ecomm_totalvalue
+            },
+            google_remarketing_only: true
+        });
+    });
+
+</script>
+
+
+
+
+
+                   
+
                     <!-- END Google Code for Remarketing tag -->
-
+                    
 
                    
                                                                
@@ -355,8 +513,16 @@
 
 	</div>
 
+    
 
-    </form>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+new FODIO('w', 'h');//]]>
+</script>
+</form>
 
     <!-- GA website -->
      <script> 
@@ -373,6 +539,11 @@
     <!-- Affiliate window -->
     <script src="https://www.dwin1.com/4264.js" type="text/javascript" defer="defer"> </script>
     <!-- END Affiliate window -->
+
+    
+    
+    
+
 
 
 </body></html>
