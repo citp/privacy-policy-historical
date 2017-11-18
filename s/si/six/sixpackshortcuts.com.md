@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixpackshortcuts.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521014939id_/https%3A//sixpackshortcuts.com/desktop/sps/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixpackshortcuts.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118212738id_/http%3A//sixpackshortcuts.com/desktop/sps/main/privacypolicy) for the most accurate reproduction.*
 
 # Six Pack Shortcuts 2
 
@@ -8,15 +8,6 @@
 #### Effective Date: December, 2016
 
 The following Privacy Policy governs the online information collection practices of Mike Chang Fitness, LLC d/b/a sixpackshortcuts.com ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the sixpackshortcuts.com website (the "Site"), and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail). Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
-
-  
-
-
-### How To Opt-Out of E-Mail and Phone Contact
-
-* * *
-
-You can opt-out of all email contact from us by using our [email unsubscribe page](http://app.icontact.com/icp/mmail-mprofile.pl?r=82992&l=106&s=GXBQ&m=59770&c=906767). We will only call you if you're a customer and there's a problem with your account or order -- but if you'd also like to opt-out of phone contact, you can do that through our [phone contact opt-out page](http://sixpackshortcuts.com/phone_optout.php).
 
   
 
