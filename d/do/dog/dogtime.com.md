@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064139id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Ddogtime.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118210849id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Ddogtime.com) for the most accurate reproduction.*
 
 # TotallyHer Media | Privacy - ?site=dogtime.com
 
