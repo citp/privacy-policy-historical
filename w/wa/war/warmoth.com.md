@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warmoth.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630121104id_/http%3A//www.warmoth.com/Ordering/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warmoth.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118144524id_/http%3A//www.warmoth.com/Ordering/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Warmoth Custom Guitar Parts - Privacy Notice
 
