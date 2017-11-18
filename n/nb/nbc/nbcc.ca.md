@@ -1,59 +1,27 @@
-> *The following text is extracted and transformed from the nbcc.ca privacy policy that was archived on 2016-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160130163543id_/http%3A//www.gnb.ca/include/root/include/privacy-e.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcc.ca privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118140457id_/http%3A//nbcc.ca/privacy-policy) for the most accurate reproduction.*
 
-# Government of New Brunswick - Privacy Statement
+# Privacy Policy
 
-**_**Privacy Statement**_**
+New Brunswick Community College (NBCC) is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. 
 
-The Government of New Brunswick takes the privacy of its Internet users seriously. We are committed to safeguarding the privacy of our users while providing a personalized and valuable service. This Privacy Statement explains the Web site data processing practices of the Government of New Brunswick Website [http://www.gnb.ca/ ](http://www.gnb.ca/)
+## Information we collect
 
-**Information collected: non-personal**  
-The moment you visit our Website, some non-personal information is collected by the Government of New Brunswick and its various departments and agencies. 
+When you register at any of NBCC's websites, we may ask to collect personal details, such as your name, postal address and email address. We also collect website usage information and information about your web browser and internet connection, including your computer's IP address, the type and version of browser and operating system you use and, if you arrived at the site via a link from another website, the URL of the referring page. 
 
-We collect information automatically about your visit to our website. The information collected includes basic demographic data and browsing patterns. It is used only in aggregate form. We use aggregate information (so that no individual user is identified): 
+## Cookies
 
-  * to build up audience profiles; 
-  * to aid strategic development, and 
-  * to analyze use of the website. 
+A cookie is a small piece of information, stored on your computer during a visit to New Brunswick Community College's websites. This information allows you to move quickly and easily around our sites. 
 
+## External Links
 
+New Brunswick Community College's websites contain links to websites not owned or operated by NBCC. New Brunswick Community College is not responsible for the privacy practices or the content of such websites. We recommend that you read the privacy statement of each such website to find out how they protect your personal information. 
 
-We also collect personal information through enquiry forms and every time you e-mail us your details.
+## For Your Security
 
-**Information collected: personal** **** **  
-** All personal information acquired by the Government of New Brunswick in any format, including electronic, is governed and maintained according to policies and procedures in accordance with the _Protection of Personal Information Act_. We only collect personal information through application forms, enquiry forms and e-mails . This personal information must be divulged by you -- it is not 'gleaned' from your computer.
+Always remember to log off or log out after you have completed your online session. If you suspect any unusual activity, please contact us immediately. 
 
-**Use and Disclosure of personal information**  
-The Government of New Brunswick processes personal information collected via its public website for the purposes of: 
+## Use of Our Website
 
-  * providing a personalized service; 
-  * receiving enquiries and requests for information; 
-  * providing you with information about the resources and services available; 
-  * receiving your opinions and comments regarding various government activities. 
+By using our Website, you consent to the collection and use of information by New Brunswick Community College as specified above. If we decide to change our privacy statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-
-
-The Government of New Brunswick will not disclose your personal information to any outside parties without your prior consent. 
-
-**E-mail Query Forms**  
-Many web pages include links to e-mail query forms, where you may ask specific questions relating to any portion of the New Brunswick government Web site. The information submitted in these forms is sent by unencrypted e-mail from our web server, via the Internet, to the appropriate e-mail mailbox within the government responsibility area. 
-
-**Public Comment Forms**  
-Public Comment Forms often are used to complement a public consultation process to receive input, ideas, comments and suggestions on specific government initiatives, programs and/or legislative or regulatory matters. The information submitted in these forms is transmitted in one of two ways (through your selection): 1) unencrypted e-mail from our web server, via the Internet, to the appropriate e-mail mailbox within the government responsibility area, and/or 2) by using a "post to website" public comment form, where the data is transmitted unencrypted and then authorized for posting to the public website. 
-
-**Links in the website  
-**The Government of New Brunswick Website sometimes provides links to other Websites. In most cases, links to other websites will open in a new browser window. Please note that you are clicking to ANOTHER website and content and privacy standards therefore are not under the control of the Government of New Brunswick. We encourage you to read the privacy statements of these linked sites as their policies may differ from the Government of New Brunswick. 
-
-**Changes in our Privacy Policy  
-**Any substantive changes to the Government of New Brunswick Privacy Policy will be posted on this webpage. 
-
-**Contacting the Web site**  
-Should you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact: 
-
-**Communications New Brunswick**  
-225 King Street   
-P.O. Box 6000   
-Fredericton, NB E3B 1P8   
-Canada   
-tel.: +(1) 506-453-2240   
-fax: +(1) 506-453-5329   
-e-mail: [www@gnb.ca ](http://www.gnb.ca/sendmail-e.asp)
+If you have any queries regarding New Brunswick Community College's online privacy statement or the use of your information, please contact us by email at helpdesk@nbcc.ca or by telephone at 1-855-216-6688. 
