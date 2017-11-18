@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the americanlookout.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611195236id_/http%3A//americanlookout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanlookout.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118234714id_/http%3A//americanlookout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – American Lookout
 
 **Privacy policy**
 
-  1. **Introduction**
+  1.  **Introduction**
 
 
 
@@ -12,13 +12,13 @@
 
 1.2    By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-  2. **Credit**
+  2.  **Credit**
 
 
 
 2.1    This document was created using a template from SEQ Legal (http://www.seqlegal.com).
 
-  3. **Collecting personal information**
+  3.  **Collecting personal information**
 
 
 
@@ -44,7 +44,7 @@
 
 3.2    Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with this policy.
 
-  4. **Using personal information**
+  4.  **Using personal information**
 
 
 
@@ -82,7 +82,7 @@
 
 4.3    If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
 
-  5. **Disclosing personal information**
+  5.  **Disclosing personal information**
 
 
 
@@ -104,7 +104,7 @@
 
 5.4    Except as provided in this policy, we will not provide your personal information to third parties.
 
-  6. **International data transfers**
+  6.  **International data transfers**
 
 
 
@@ -116,7 +116,7 @@
 
 6.4    You expressly agree to the transfers of personal information described in this Section 6.
 
-  7. **Retaining personal information**
+  7.  **Retaining personal information**
 
 
 
@@ -132,7 +132,7 @@
 
 (c)    in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
 
-  8. **Security of personal information**
+  8.  **Security of personal information**
 
 
 
@@ -144,7 +144,7 @@
 
 8.4    You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password (except when you log in to our website).
 
-  9. **Amendments**
+  9.  **Amendments**
 
 
 
@@ -154,13 +154,13 @@
 
 9.3    We may notify you of changes to this policy [by email or through the private messaging system on our website].
 
-  10. **Your rights**
+  10.  **Your rights**
 
 
 
 10.1  We will provide you with an opportunity to opt out of the use of your personal information for marketing purposes through an unsubscribe link on the email sends in most cases.
 
-  11. **Third party websites**
+  11.  **Third party websites**
 
 
 
@@ -168,7 +168,7 @@
 
 11.2  We have no control over, and are not responsible for, the privacy policies and practices of third parties.
 
-  12. **Cookies**
+  12.  **Cookies**
 
 
 
@@ -202,7 +202,7 @@
 
 12.9  Deleting cookies will have a negative impact on the usability of many websites.
 
-  14. **Our contact**
+  14.  **Our contact**
 
 
 
