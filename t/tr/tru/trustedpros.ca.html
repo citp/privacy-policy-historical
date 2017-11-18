@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trustedpros.ca privacy policy that was archived on 2016-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161027210831id_/https%3A//trustedpros.ca/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trustedpros.ca privacy policy that was archived on 2017-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119004952id_/https%3A//trustedpros.ca/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -7,7 +7,8 @@
 <title>TrustedPros Privacy Policy</title>
 <meta name="TrustedPros Terms and Conditions of Use">
 
-<link href="https://trustedpros.ca/css/tp-combined.css" rel="stylesheet" type="text/css">
+<link href="https://trustedpros.ca/css/tp-combined.css?v=3.0.3" rel="stylesheet" type="text/css">
+<link href="https://trustedpros.ca/css/animate.css" rel="stylesheet" type="text/css">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://trustedpros.ca/js/jquery-all.js"></script>
 
 <script>
@@ -235,8 +236,13 @@ $(function() {
 
 	<style type="text/css">
 		.fancybox-custom .fancybox-skin {
-			box-shadow: 0 0 50px #222;
-		}
+			box-shadow: 0 0 50px #222;}
+		.upcase{ text-transform:uppercase; font-size:13px !important}
+		ul.upper-roman {list-style-type: lower-roman}
+		li.upper-roman {list-style-type: lower-roman; margin:0 0 20px 50px}
+		ul.disc {list-style-type: disc}
+		li.disc {list-style-type: disc; margin:0 0 20px 50px}
+		.boxb{ border:solid 1px #666666; padding:14px 14px 4px 14px; margin:0 0 24px 0}
 	</style>
 
 
@@ -451,6 +457,42 @@ function header_changeSearchType()
 		
 		document.body.appendChild(preLoaderDiv);
 	}
+	
+	function createLoader_alt(){
+		try{$("#preloader_alt").remove()}catch(er){}
+		var preLoaderDiv = document.createElement("div");
+		preLoaderDiv.setAttribute("id", "preloader_alt");
+		
+		var statusDiv = document.createElement("div");
+		statusDiv.setAttribute("id", "status");
+		
+		var loader = document.createElement("div");
+		loader.setAttribute("class", "loader");
+		
+		var innerLoaderDiv = document.createElement("div");
+		innerLoaderDiv.setAttribute("class", "loader-inner ball-pulse");
+		
+		var textdiv = document.createElement("div");
+		textdiv.innerHTML = "This could take a minute. Thanks for your patience!";
+		textdiv.setAttribute("class", "clear");
+		textdiv.setAttribute("style", "color:#FFF;text-align:center;position:relative;bottom:20px");
+		
+		var div1 = document.createElement("div");
+		var div2 = document.createElement("div");
+		var div3 = document.createElement("div");
+		
+		preLoaderDiv.appendChild(statusDiv);
+		preLoaderDiv.appendChild(loader);
+		
+		statusDiv.appendChild(textdiv);
+		loader.appendChild(innerLoaderDiv);
+		
+		innerLoaderDiv.appendChild(div1);
+		innerLoaderDiv.appendChild(div2);
+		innerLoaderDiv.appendChild(div3);
+		
+		document.body.appendChild(preLoaderDiv);
+	}
 </script>
 
 
@@ -636,59 +678,19 @@ function reviewViewToggleu(n_Reviews){
 
 </script>
 
-
-
-<script type="text/javascript">
-$(function() {
-    $(window).scroll(function() {
-        var scroll = $(window).scrollTop();
-
-        if (scroll >= 342) {
-            $(".header").addClass('smaller');
-        } else {
-            $(".header").removeClass("smaller");
-        }
-		
-		 if (scroll >= 342) {
-            $(".small-header").addClass('smaller');
-        } else {
-            $(".small-header").removeClass("smaller");
-        }
-		
-		
-		if (scroll >= 170) {
-            $(".nav-header").addClass('small-nav');
-        } else {
-            $(".nav-header").removeClass("small-nav");
-        }
-		
-    });
-	
-	
-});
-
-$(document).on("mouseleave",".navi",function(){
-                     $(".new-menu").hide();
-  });
-    
-
-		
-</script>
-
-
 <form autocomplete="off" id="searchform2" method="get" action="https://trustedpros.ca/members_search_for_contractor_results_new_checklist.asp">
 <header class="header sb-slide">    
     
     	<div class="container">
         	<span class="search-icon-m open-close-menu"></span>
             <div class="logo-holder">
-            <a class="logo-link" href="https://trustedpros.ca"><img class="logo" src="https://trustedpros.ca/images/logo.png" alt=""></a>
+            <a class="logo-link" href="https://trustedpros.ca"><img class="logo" src="https://trustedpros.ca/images/logo.png" alt="TrustedPros – Find Trusted Home Service Professionals"></a>
             </div>
-            <a class="logo-link" href="https://trustedpros.ca"><img class="logo-thumb" src="https://trustedpros.ca/images/logo-thumb.png" alt=""></a>
+            <a class="logo-link" href="https://trustedpros.ca"><img class="logo-thumb" src="https://trustedpros.ca/images/logo-thumb.png" alt="TrustedPros – Find Trusted Home Service Professionals"></a>
      
              <span class="sb-toggle-right"></span>
              
-            <div id="hd-search">
+            <div class="extend" id="hd-search">
             
            
                 		<div class="find-field">
@@ -707,7 +709,7 @@ $(document).on("mouseleave",".navi",function(){
                 
                     
                     <input name="searchpage" id="searchpage" type="hidden" value="1">
-<input name="miles" type="hidden" value="27"><input name="sort_by" type="hidden" value="serving">
+<input name="miles" type="hidden" value="30"><input name="sort_by" type="hidden" value="serving">
                     <!--a onClick="return(subbmt('searchform2'))" href="#." class="search-icon">< -/a-->
                    
             
@@ -719,8 +721,8 @@ $(document).on("mouseleave",".navi",function(){
             
             <div class="top-btns">
             
-            	<a class="loginfc main-sec" href="https://trustedpros.ca/join.asp">Join</a> 
-                <a class="signin" href="https://trustedpros.ca/login">Sign in</a>
+            	<a class="loginfc main-sec" href="https://trustedpros.ca/join">Join</a> 
+                <a class="signin mnu-mbl-signin" href="https://trustedpros.ca/login">Sign in</a>
             
             </div>
             	
@@ -743,286 +745,106 @@ $(document).on("mouseleave",".navi",function(){
     	
         
         <div class="container menuContainer">
-
+			<ul class="floating-signin">
+            	<li><img src="https://trustedpros.ca/images/login.png" alt="sign in">&nbsp;<a class="sign-in" href="https://trustedpros.ca/login">Sign In</a></li>
+            </ul>
              
             
-			<ul class="floating-menu ">
+
+			<ul class="floating-menu sml ">
+            	
                 <li><a class="openMenu trusted-pros" data-backid="0" data-id="0" href="https://trustedpros.ca/search">Find Trusted Pros</a></li>
-                <li><a class="openMenu prost-project" data-backid="1" data-id="1" href="https://trustedpros.ca/post">Get Quotes</a><span>|</span></li>
+                
+                <li><a class="openMenu prost-project" data-backid="1" data-id="1" href="https://trustedpros.ca/post">Get Free Estimates</a><span>|</span></li>
                 <li><a class="openMenu rate-contractor" data-backid="2" data-id="2" href="https://trustedpros.ca/write-a-review">Review a Contractor</a><span>|</span></li>
-                <li><a class="openMenu ask-pros" data-backid="3" data-id="3" href="https://trustedpros.ca/forum"> Ask the Pros</a><span>|</span></li>
-                <li><a class="openMenu home-design" data-backid="4" data-id="4" href="https://trustedpros.ca/photos">Home Design Photos</a><span>|</span></li>
-                <li><a class="openMenu hiring-guide" data-backid="5" data-id="5" href="https://trustedpros.ca/hiring-guide">Hiring Guide</a><span>|</span></li>
-                <li><a class="openMenu helful-articles last" data-backid="6" data-id="6" href="https://trustedpros.ca/articles">Helpful Articles</a><span>|</span></li>
+                <li><a class="openMenu ask-pros last" data-backid="3" data-id="3" href="https://trustedpros.ca/forum"> Ask the Pros</a><span>|</span></li>
+                <!--li><a class="openMenu home-design" data-backid='4' data-id='4' href="< %=Session("HANDY_URL_FULL")%>/photos">Home Design Photos</a><span>|</span></li>
+                <li><a class="openMenu hiring-guide" data-backid='5' data-id='5' href="< %=Session("HANDY_URL_FULL")%>/hiring-guide">Hiring Guide</a><span>|</span></li>
+                <li><a class="openMenu helful-articles last" data-backid='6' data-id='6' href="< %=Session("HANDY_URL_FULL")%>/articles">Helpful Articles</a><span>|</span></li-->
 
             </ul>
             
+            
         </div> 
         <div class="container menubottom">
+        
         <div class="new-menu start-1" data-id="0">
             
-                    <ul id="cities" class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
-                        
-                        <div class="title-links">Location</div>
-						
-                        <li class="ui-state-default ui-corner-top ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="tab2" aria-labelledby="ui-id-2" aria-selected="false" id="2"><a href="#tab2" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2" onmouseover="searchFilter('1');">Toronto</a></li>
-                        
-                        <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab3" aria-labelledby="ui-id-3" aria-selected="true" id="3"><a href="#tab3" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3" onmouseover="searchFilter('3');">Calgary</a></li>
-                        
-                        <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab4" aria-labelledby="ui-id-4" aria-selected="true" id="4"><a href="#tab4" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4" onmouseover="searchFilter('4');">Ottawa</a></li>
-                        
-                        <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab5" aria-labelledby="ui-id-5" aria-selected="true" id="5"><a href="#tab5" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-5" onmouseover="searchFilter('5');">Edmonton</a></li>
-                        
-                        
-                        <li class=""><a href="https://trustedpros.ca/search" class="link-green" role="presentation">More Locations</a></li>
-                    </ul>
+                    
                     <!-- List of Cities -->
-					                    
-                    <div class="description" id="tab2" aria-labelledby="ui-id-2" role="tabpanel" aria-expanded="true" aria-hidden="true" style="display: block;">
-                        <div class="title-links-desc border-bottom">Popular Searches In Toronto</div>
+					           
+                    <div class="description" id="tab" aria-labelledby="ui-id-" role="tabpanel" aria-expanded="true" aria-hidden="true" style="display: block;">
+                       <span style="float:right"><a class="link-green" id="navm_close" href="javascript:;">X</a></span>
                         
                         
-                                                <ul class="links">
-
+                   <div class="title-links border-bottom">Select your location</div>
+                        <div class="clr"></div>
+                        <div class="height10"></div>
+                    <ul class="links lvl7">
+                        <li><a data-city="Toronto" data-loc=", ON" class="bold" href="https://trustedpros.ca/on/toronto">Toronto</a></li>
                         
-                           <li><a href="https://trustedpros.ca/on/toronto/basement-renovations">Basement Contractors</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/on/toronto/bathroom-renovations">Bathroom Contractors</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/on/toronto/design-build">Design Build Firms</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/on/toronto/electrical">Electricians</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/on/toronto/flooring">Flooring Installers</a></li> 
-                           
-                           
-                        </ul>
-                                                <ul class="links">
-
+                        <li><a data-city="Mississauga" data-loc=", ON" href="https://trustedpros.ca/on/mississauga">Mississauga</a></li>
                         
-                           <li><a href="https://trustedpros.ca/on/toronto/general-contracting">General Contractors</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/on/toronto/hvac">Heating Cooling Companies</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/on/toronto/home-additions">Home Addition Builders</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/on/toronto/home-builders">Home Builders</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/on/toronto/kitchen-renovations">Kitchen Contractors</a></li> 
-                           
-                        </ul>
-                                                <ul class="links">
-
+                        <li><a data-city="Ottawa" data-loc=", ON" href="https://trustedpros.ca/on/ottawa">Ottawa</a></li>
                         
-                           <li><a href="https://trustedpros.ca/on/toronto/painting">Painting Contractors</a></li> 
+                        <li><a data-city="Brampton" data-loc=", ON" href="https://trustedpros.ca/on/brampton">Brampton</a></li>
+                        </ul><ul class="links lvl7">
+                        <li><a data-city="Hamilton" data-loc=", ON" href="https://trustedpros.ca/on/hamilton">Hamilton</a></li>
                         
-                           <li><a href="https://trustedpros.ca/on/toronto/plumbing">Plumbers</a></li> 
+                        <li><a data-city="Oshawa" data-loc=", ON" href="https://trustedpros.ca/on/oshawa">Oshawa</a></li>
                         
-                           <li><a href="https://trustedpros.ca/on/toronto/roofing">Roofing Companies</a></li> 
+                        <li><a data-city="Burlington" data-loc=", ON" href="https://trustedpros.ca/on/burlington">Burlington</a></li>
                         
-                           <li><a href="https://trustedpros.ca/on/toronto/windows-and-doors">Window Companies</a></li> 
+                        <li><a data-city="Oakville" data-loc=", ON" href="https://trustedpros.ca/on/oakville">Oakville</a></li>
+                        </ul><ul class="links lvl7">
+                        <li><a data-city="Barrie" data-loc=", ON" href="https://trustedpros.ca/on/barrie">Barrie</a></li>
                         
-						<li><a class="link-green" href="https://trustedpros.ca/on/toronto">More Categories</a></li>
-						
+                        <li><a data-city="Etobicoke" data-loc=", ON" href="https://trustedpros.ca/on/etobicoke">Etobicoke</a></li>
                         
+                        <li><a data-city="London" data-loc=", ON" href="https://trustedpros.ca/on/london">London</a></li>
                         
-</ul>
-
+                        <li><a data-city="Kitchener" data-loc=", ON" href="https://trustedpros.ca/on/kitchener">Kitchener</a></li>
+                        </ul><ul class="links lvl7">
+                        <li><a data-city="Calgary" data-loc=", AB" class="bold" href="https://trustedpros.ca/ab/calgary">Calgary</a></li>
                         
+                        <li><a data-city="Edmonton" data-loc=", AB" href="https://trustedpros.ca/ab/edmonton">Edmonton</a></li>
                         
+                        <li><a data-city="Vancouver" data-loc=", BC" class="bold" href="https://trustedpros.ca/bc/vancouver">Vancouver</a></li>
+                        
+                        <li><a data-city="Langley" data-loc=", BC" href="https://trustedpros.ca/bc/langley">Langley</a></li>
+                        </ul><ul class="links lvl7">
+                        <li><a data-city="Surrey" data-loc=", BC" href="https://trustedpros.ca/bc/surrey">Surrey</a></li>
+                        
+                        <li><a data-city="Burnaby" data-loc=", BC" href="https://trustedpros.ca/bc/burnaby">Burnaby</a></li>
+                        
+                        <li><a data-city="Victoria" data-loc=", BC" href="https://trustedpros.ca/bc/victoria">Victoria</a></li>
+                        
+                        <li><a data-city="Montreal" data-loc=", QC" class="bold" href="https://trustedpros.ca/qc/montreal">Montreal</a></li>
+                        </ul><ul class="links lvl7">
+                        <li><a data-city="Winnipeg" data-loc=", MB" class="bold" href="https://trustedpros.ca/mb/winnipeg">Winnipeg</a></li>
+                        
+                        <li><a data-city="Regina" data-loc=", SK" class="bold" href="https://trustedpros.ca/sk/regina">Regina</a></li>
+                        
+                        <li><a data-city="Saskatoon" data-loc=", SK" href="https://trustedpros.ca/sk/saskatoon">Saskatoon</a></li>
+                        
+                        <li><a data-city="Moncton" data-loc=", NB" class="bold" href="https://trustedpros.ca/nb/moncton">Moncton</a></li>
+                        </ul><ul class="links lvl7">
+                        <li><a data-city="Halifax" data-loc=", NS" class="bold" href="https://trustedpros.ca/ns/halifax">Halifax</a></li>
+                        
+                        <li><a data-city="St. John's" data-loc=", NL" class="bold" href="https://trustedpros.ca/nl/st.-john%27s">St. John's</a></li>
+                        <li><a class="link-green" href="https://trustedpros.ca/search#more">More Cities</a></li>
                          
-                         
-
                         
-                    </div>
+                        
+                    </ul></div>
                     
-                    
-                    <!-------hidden------->
-                    
-                    <div class="description ui-tabs-panel ui-widget-content ui-corner-bottom" id="tab3" aria-labelledby="ui-id-3" role="tabpanel" aria-expanded="false" aria-hidden="false" style="display: none;">
-                        <div class="title-links-desc border-bottom">Popular Searches In Calgary</div>
-                        
-                        
-                                                <ul class="links">
-
-                        
-                           <li><a href="https://trustedpros.ca/ab/calgary/basement-renovations">Basement Contractors</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/ab/calgary/bathroom-renovations">Bathroom Contractors</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/ab/calgary/decks">Deck Builders</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/ab/calgary/design-build">Design Build Firms</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/ab/calgary/drywalling">Drywall Contractors</a></li> 
-                           
-                           
-                        </ul>
-                                                <ul class="links">
-
-                        
-                           <li><a href="https://trustedpros.ca/ab/calgary/electrical">Electricians</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/ab/calgary/flooring">Flooring Installers</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/ab/calgary/general-contracting">General Contractors</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/ab/calgary/hvac">Heating Cooling Companies</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/ab/calgary/home-builders">Home Builders</a></li> 
-                           
-                        </ul>
-                                                <ul class="links">
-
-                        
-                           <li><a href="https://trustedpros.ca/ab/calgary/kitchen-renovations">Kitchen Contractors</a></li> 
-                        
-                           <li><a href="https://trustedpros.ca/ab/calgary/painting">Painting Contractors</a></li> 
-                        
-                           <li><a href="https://trustedpros.ca/ab/calgary/plumbing">Plumbers</a></li> 
-                        
-                           <li><a href="https://trustedpros.ca/ab/calgary/roofing">Roofing Companies</a></li> 
-                        
-						<li><a class="link-green" href="https://trustedpros.ca/ab/calgary">More Categories</a></li>
-						
-                        
-                        
-</ul>
-
-                        
-                    </div>
-
-					
-                    <!-------hidden------->
-                    
-                    <div class="description ui-tabs-panel ui-widget-content ui-corner-bottom" id="tab4" aria-labelledby="ui-id-4" role="tabpanel" aria-expanded="false" aria-hidden="false" style="display: none;">
-                        <div class="title-links-desc border-bottom">Popular Searches In Ottawa</div>
-                        
-                        
-                                                <ul class="links">
-
-                        
-                           <li><a href="https://trustedpros.ca/on/ottawa/basement-renovations">Basement Contractors</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/on/ottawa/bathroom-renovations">Bathroom Contractors</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/on/ottawa/decks">Deck Builders</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/on/ottawa/design-build">Design Build Firms</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/on/ottawa/electrical">Electricians</a></li> 
-                           
-                           
-                        </ul>
-                                                <ul class="links">
-
-                        
-                           <li><a href="https://trustedpros.ca/on/ottawa/flooring">Flooring Installers</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/on/ottawa/general-contracting">General Contractors</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/on/ottawa/handyman">Handyman Services</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/on/ottawa/hvac">Heating Cooling Companies</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/on/ottawa/kitchen-renovations">Kitchen Contractors</a></li> 
-                           
-                        </ul>
-                                                <ul class="links">
-
-                        
-                           <li><a href="https://trustedpros.ca/on/ottawa/painting">Painting Contractors</a></li> 
-                        
-                           <li><a href="https://trustedpros.ca/on/ottawa/plumbing">Plumbers</a></li> 
-                        
-                           <li><a href="https://trustedpros.ca/on/ottawa/roofing">Roofing Companies</a></li> 
-                        
-                           <li><a href="https://trustedpros.ca/on/ottawa/tiling">Tiling Contractors</a></li> 
-                        
-						<li><a class="link-green" href="https://trustedpros.ca/on/ottawa">More Categories</a></li>
-						
-                        
-                        
-</ul>
-
-                        
-                    </div>
-
-					
-                    <!-------hidden------->
-                    
-                    <div class="description ui-tabs-panel ui-widget-content ui-corner-bottom" id="tab5" aria-labelledby="ui-id-5" role="tabpanel" aria-expanded="false" aria-hidden="false" style="display: none;">
-                        <div class="title-links-desc border-bottom">Popular Searches In Edmonton</div>
-                        
-                        
-                                                <ul class="links">
-
-                        
-                           <li><a href="https://trustedpros.ca/ab/edmonton/basement-renovations">Basement Contractors</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/ab/edmonton/bathroom-renovations">Bathroom Contractors</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/ab/edmonton/decks">Deck Builders</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/ab/edmonton/design-build">Design Build Firms</a></li> 
-                           
-                           
-                           <li><a href="https://trustedpros.ca/ab/edmonton/electrical">Electricians</a></li> 
-                           
-                           
-                        </ul>
-                                                <ul class="links">
-
-                        
-                           <li><a href="https://trustedpros.ca/ab/edmonton/flooring">Flooring Installers</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/ab/edmonton/general-contracting">General Contractors</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/ab/edmonton/handyman">Handyman Services</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/ab/edmonton/hvac">Heating Cooling Companies</a></li> 
-                           
-                           <li><a href="https://trustedpros.ca/ab/edmonton/home-builders">Home Builders</a></li> 
-                           
-                        </ul>
-                                                <ul class="links">
-
-                        
-                           <li><a href="https://trustedpros.ca/ab/edmonton/kitchen-renovations">Kitchen Contractors</a></li> 
-                        
-                           <li><a href="https://trustedpros.ca/ab/edmonton/painting">Painting Contractors</a></li> 
-                        
-                           <li><a href="https://trustedpros.ca/ab/edmonton/plumbing">Plumbers</a></li> 
-                        
-                           <li><a href="https://trustedpros.ca/ab/edmonton/roofing">Roofing Companies</a></li> 
-                        
-						<li><a class="link-green" href="https://trustedpros.ca/ab/edmonton">More Categories</a></li>
-						
-                        
-                        
-</ul>
-
-                        
-                    </div>
-
-					
+ 
                     
                     <div class="clr"></div>
+                    
+                    <div id="menu_loc_chng"><span>Or, enter your location: </span><div class="text"><input data-location="" id="nv_location" value="" type="text"></div><input id="nv_update_loc" type="button" value=""></div>
+                    <div class="clr"></div>
+                    
                    
         </div>
             
@@ -1061,10 +883,8 @@ $(document).on("mouseleave",".navi",function(){
                 <li class="parrent-li">Terms and Policies<span class="arrow-right"></span>
                 
                     <ul>
-                            	<li><a href="https://trustedpros.ca/terms#community-members-and-non-registered-users"> Terms and Conditions of Use for Community Members and Non-Registered Users</a></li>
-                        <li><a href="https://trustedpros.ca/terms#business-members">Terms and Conditions of Use for Business Members</a></li>
-                        <li><a href="https://trustedpros.ca/privacy#individuals">Privacy Policy for Community Members</a></li>
-                        <li><a href="https://trustedpros.ca/privacy#business-owners">Privacy Policy for Business Owners</a></li>
+                            	<li><a href="https://trustedpros.ca/terms"> Terms and Conditions of Use</a></li>
+                        <li><a href="https://trustedpros.ca/privacy">Privacy Policy </a></li>
                         <li><a href="https://trustedpros.ca/terms-conduct">Code Of Conduct for Business Owners</a></li>
                       
                   </ul>
@@ -1078,176 +898,78 @@ $(document).on("mouseleave",".navi",function(){
                     
                     
                     
-                    <div class="terms"><a name="individuals" id="individuals"></a>
-                    	
-       	      <h1>TrustedPros Inc. ("TPI") PRIVACY POLICY</h1><br>
-            	      
-   	                  
-       	      <hr style="margin-top:20px">
-       	      <br>
-       	      <br>
-       	      <h2>PRIVACY POLICY - (INDIVIDUALS)</h2>
-            	    <p> Effective <strong>April </strong><strong>9, 2015</strong>	</p>
-            	    <p>This privacy policy applies to any information collected or otherwise obtained on or through the website located at http://www.trustedpros.ca (the "<strong>Website</strong>") and, unless otherwise specified, any other websites controlled or operated by TPI, which are accessible through the Website.</p>
-            	    <p>This privacy policy is effective as of the date set forth above. Personal information provided or collected prior to the above effective date shall be subject to the privacy policy in effect at the time such personal information was provided or collected.&nbsp; </p>
-            	    <p>Titles and headings are provided for general reference and ease of use only, as information may be covered in more than one heading or under other headings.</p>
-            	    <p>If you have questions or concerns regarding this privacy policy, any personal information about you in our possession or under our control or any of our practices with respect to personal information, please contact TPI's privacy officer at <a href="mailto:privacy@trustedpros.ca">privacy@trustedpros.ca</a>.</p>
-            	    <p><strong>I. Collection of Personal Information</strong></p>
-            	    <p>TPI is committed to protecting your privacy. Unless expressly provided, personal information collected is for the sole purpose of the operation of this Website and providing the services offered through or in conjunction with this Website (collectively, the "<strong>Services</strong>").&nbsp; </p>
-            	    <p><u>Registration</u></p>
-            	    <p>Personal information is collected in conjunction with the creation of your account for the Website, namely your name, e-mail address, city and province (or territory) of residence, postal code and confirmation that you have reached the age of majority in the jurisdiction in which you reside. You may also choose to provide us with a telephone number.&nbsp; </p>
-            	    <p>For individuals who become a business  member, we will also collect information about your business in conjunction  with the creation of such membership (and creation of a business member  profile) and updating of such membership information and profile; such information  may also include personal information.</p>
+                    <div class="terms">
+                      <h1 align="center">Privacy Policy</h1>
+<p align="center">TrustedPros Inc. (“<strong>TPI</strong>”) PRIVACY POLICY effective <strong><u>February 2, 2017</u></strong></p>
+<p>This privacy policy applies to any information collected or otherwise obtained on or through the website located at https://www.trustedpros.ca (the “<strong>Website</strong>”) and, unless otherwise specified, any other websites controlled or operated by TPI, which are accessible through the Website.</p>
+<p>In regard to businesses:</p>
+<div class="boxb">
+ <p class="upcase">This privacy policy only applies to the extent we collect or otherwise obtain personal information about an individual.&nbsp; Accordingly, this privacy policy does not apply to business information or information about businesses.&nbsp; That said, this privacy policy <strong style="font-size:17px"><u>MAY</u></strong> apply in some respects and to some extent if you are an individual carrying on business (such as a sole proprietor) or to the extent you provide personal (as opposed to business information) or to the extent you access this website through your home computer. </p>
+</div>
+<p>This privacy policy is effective as of the date set forth above. Personal information provided or collected prior to the above effective date shall be subject to the privacy policy in effect at the time such personal information was provided or collected.&nbsp; </p>
+<p>Titles and headings are provided for general reference and ease of use only, as information may be covered in more than one heading or under other headings.</p>
+<p>If you have questions or concerns regarding this privacy policy, any personal information about you in our possession or under our control or any of our practices with respect to personal information, please contact TPI's privacy officer at <a href="mailto:privacy@trustedpros.ca">privacy@trustedpros.ca</a>.</p>
+<p><strong>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collection of Personal Information</strong></p>
+<p>TPI is committed to protecting your privacy. Unless expressly provided, personal information collected is for the sole purpose of the operation of this Website and providing the services offered through or in conjunction with this Website (collectively, the “<strong>Services</strong>”).&nbsp; </p>
+<p><u>Registration</u></p>
+<p>Personal information is collected in conjunction with the creation of your account for the Website, namely your name, e-mail address, city and province (or territory) of residence, postal code and confirmation that you have reached the age of majority in the jurisdiction in which you reside. You may also choose to provide us with a telephone number.&nbsp; Please note that to the extent you provide us with a business address and/or business e-mail address , such information is not considered as being personal information and is therefore not subject to this privacy policy.</p>
 <p><u>Financial Information</u></p>
-            	    <p>We do not collect any personal information  of a financial nature about individuals, except: (i) if an individual uses a personal  credit card in conjunction with the purchase of a business membership; and/or (ii) if an  individual becomes a business member and provides financial information relating  to his or her business in conjunction with the creation of a business member  profile. In such cases, your name, credit card number, expiration date and security  code will be collected by TPI for the sole purpose of transmitting same to our payment  gateway provider. Your credit card information is not retained by TPI. </p>
-       	      <p><u>Website and Services</u></p>
-            	    <p>Personal information may also be collected in conjunction with your access and use of the Website and Services.&nbsp; For example, if you post content on the Website (such as a job listing, testimonial or a rating or review), such posting will be associated to your account and any personal information contained in such posting will be accessible to other users of the Website.&nbsp; TPI may monitor your use of the Website and Services and may create records of your use of the Website and Services.</p>
-            	    <p>This Website uses cookies.&nbsp; A cookie is a piece of data tied to information about the user and stored on the user's computer. This Website uses both session cookies, which terminate when you close your browser, and persistent cookies, which remain on your computer until manually deleted.</p>
-            	    <p>By setting a persistent cookie, we allow you not to have to log in with a password more than once, thereby saving time while accessing the Website. If you reject these cookies, you may still access and use the Website but your experience and/or access may be limited in some areas of the Website. </p>
-            	    <p>TPI may use third-party advertising companies to serve ads on its behalf and to monitor certain pages of the Website for the purpose of reporting web traffic, statistics, advertisement "click-throughs", and/or other activities on our site. These third party service providers may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.</p>
-            	    <p>As is the case with most other websites, personal information may also be collected by TPI with respect to your system and your specific access to and use of the Website and Services. Such information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamps, number of clicks, cookies, clear gifs, user profiles and log files detailing access dates and times, webpages visited and features used.&nbsp; A profile is stored information that TPI keeps on individual users that detail such users' viewing preferences, Website activities and interactions and exchanges with TPI.&nbsp; Like most standard Website servers we use log files. </p>
-            	    <p><u>Third Party Posts</u></p>
-            	    <p>The Website allows third parties to post messages and other content and, although our terms and conditions of use prohibit anyone from posting any personal information about someone else, it is possible that a third party may post personal information about you, in contravention with such terms and conditions. Any such personal information will be promptly removed upon us discovering its existence on the Website. If you come across any such personal information on the Website, please contact our privacy officer and such personal information will be promptly removed.</p>
-            	    <p><strong>II. Use of Personal Information</strong></p>
-            	    <p>As indicated above, we will use personal information obtained for the purposes of operating the Website and providing the Services.&nbsp; This includes us communicating with you with respect to your use of the Website, your use of Services (including, for example, obtaining clarification or confirmation of Services requested and information submitted in conjunction with the obtaining of such Services), your account and responding to inquiries made by you.&nbsp; This also includes allowing you to make postings in certain sections of the Website (such as job requests, personal anecdotes, testimonials, success stories, evaluations of contractors and suppliers, ratings, rankings and reviews and detailing of specific projects).&nbsp; You understand and agree that to the extent you include personal information in a posting, such personal information will be posted on the Website and will be accessible to other users of the Website.</p>
-            	    <p>Likewise, if you are a business member and  provide information about yourself in your profile or in a listing, such  personal information will be accessible to other users of the Website. You  understand that the information you provide in terms of creation of an account  as a business member (other than payment information with respect to the  purchase of a business membership) will be published on the Website and may  otherwise be made available to other users of the Website. As indicated above, users  of the Website may post content about business members and other contractors  and service providers.&nbsp; Where such a  contractor or services provider is an individual, such content may include  personal information. Although such personal information may be posted on the Website,  such posting is prohibited by our terms and conditions of use and such personal  information will be deleted from the Website when we become aware of its  existence</p>
-<p>The Website offers matching services in terms of job requests and contractors and suppliers.&nbsp; To the extent you post a job request, the Services will attempt to match such job request to contractors and suppliers.&nbsp; To the extent matches are found, your name along with any informaiton provided in the description input field will be provided to those matching contractors and suppliers.&nbsp; </p>
-            	    <p>Similarly, we may from time to time contact you via e-mail about Services or other features of the Website or send you updates about the Website and the Services, including, newsletters and bulletins.&nbsp; You may at any time opt out from receiving future communications by clicking on the opt-out hyperlink shown in such e-mail, at which time you will promptly be removed from the relevant distribution list.</p>
-            	    <p>Finally, collected information regarding access and usage of the Website and Services is tied to the users' personally identifiable information to improve the performance, security, content and features of the Website and delivery of Services (including, your accessing and use of the Website and Services), and to modify and/or expand Website functionality and nature and scope of Services.&nbsp; Such information is also used to analyze trends, administer the Website, track user's movement in the aggregate, and gather broad demographic information for aggregate use.</p>
-            	    <p>Users' profile information is also used to tailor, ease, improve, facilitate and accelerate a user's access and use of the Website and Services (e.g. by remembering user preferences and applying these to subsequent visits).</p>
-            	    <p>On rare occasions, TPI may send out strictly service related e-mail announcements. These communications are not promotional in nature.&nbsp; For instance, if TPI's service is temporarily suspended on account of maintenance we might send users an e-mail advising them of this. Generally, users may not opt-out of these communications, though they can deactivate their account which will prevent future communications of such sort. </p>
-            	    <p><strong>III. Modification of Personal Information</strong></p>
-            	    <p>To the extent your personal information has changed or that our records are otherwise not accurate with respect to your personal information, please contact our privacy officer by e-mail at privacy@trustedpros.ca.&nbsp; We will endeavour to update your personal information in a timely manner.</p>
-            	    <p>TPI may paraphrase, summarize, aggregate or compile feedback, ratings, reviews, rebuttals and/or testimonials and may edit these to correct typos, spelling and grammatical errors as well as obvious mistakes in terms of objective facts.</p>
-            	    <p>TPI reserves the right to deny requests to remove any feedback, ratings, reviews, rebuttals and/or testimonials from the Website, including members profile information associated with any such feedback, ratings, reviews, rebuttals and/or testimonials.</p>
-            	    <p><u>Leads Notifications and Free Lead Notifications</u></p>
-            	    <p>If a user either signs up for our free membership program or signs up for our premium (paid) membership service, that user will receive multiple communications from us via email. Other ways we contact members of our service professional network are via fax, and/or cell text (SMS) messaging. Members of our service professional network (or prospective members enrolled in a free trial) can designate which bulletins and communications they wish to receive and opt-in on our Website or by contacting customer service to receive leads in one or more of these formats.</p>
-            	    <p><strong>IV. Disclosure of Personal Information</strong></p>
-            	    <p>When you submit information to TPI, you authorize us to share this information with our service providers.&nbsp; TPI shall ensure that any third party to whom it discloses your personal information has signed a contract which obligates such third party to safeguard your personal information, adhere to the same terms and conditions as those contained in this privacy policy and otherwise comply with applicable laws.&nbsp; </p>
-            	    <p>Use certain Services and features of the Website will result in the disclosure of personal information.&nbsp; For example, if you choose to select a contractor for a job posting or if you respond to a contractor who has indicated interest in a job posting, such contractor will receive your name and contact information.&nbsp; Likewise, as previously indicated, postings made by you on the Website or through use of a Service will be accessible to other users of the Website.&nbsp; To the extent such postings contain personal information, such personal information will be communicated to users who access such posting. Similarly, personal information about you which  you include in a business profile will be accessible to other users of the  Website.</p>
-<p>Please note that if you post a review, testimonial, rating, ranking or other comment about a business member of the Website or any other contractor or service provider, such third party may post a reply or a rebuttal and such reply or rebuttal will be associated with your account and your original posting. If your posting includes personal information, it will be associated with such third party content.</p>
-            	    <p>TPI may create and share aggregated activity or statistical information with partners, advertisers or others, but such information will not contain personally identifiable information.</p>
-            	    <p><strong>V. Safeguarding of Personal Information</strong></p>
-            	    <p>Though we strive to preserve user privacy, due to the inherent nature of the Internet, we cannot ensure that all of your private communications and other personal information will always remain confidential. You acknowledge and understand that the Internet is a public network and that communications on or through the Internet may be intercepted, misdirected, altered and/or deleted.&nbsp; Likewise, e-mails and accounts may be spoofed and individuals impersonated.&nbsp; Care should therefore be taken prior to disclosing personal information on or through the Website or to any users or purported users of the Website.</p>
-            	    <p>Likewise, we may disclose personal information when required by law (including by court order or in conjunction with police investigations or legal proceedings), when we have a belief that such action is necessary or advisable to comply with applicable laws, or when we believe that a user is violating the law, is a threat to others or himself/herself or is in personal danger. </p>
-            	    <p><strong>VI. Mergers/Acquisitions/Restructuring</strong></p>
-            	    <p>In the event TPI (or any of its business units) is bought, sold, restructured or merges with another entity, users' personal information will, in most instances, be part of such transaction. TPI may disclose your personal information to such entities and their advisors, provide it first ensures that each of them sign a non-disclosure agreement safeguarding your personal information and preventing them from making any use of the information outside of such proposed transaction or restructuring and any subsequent operation of TPI's business.&nbsp; </p>
-            	    <p><strong>VII. Choice/Opt-in/Opt-out</strong></p>
-            	    <p>Our users are given the opportunity to 'opt-in' in terms of having their information used for purposes not directly related to the operation of the Website and delivery of Services they have requested.&nbsp; Such opt-in option is usually provided at the time of collection and/or in subsequent communications to the user. For example, our service request form has an 'opt-in' mechanism allowing users who submit a service request to elect to receive marketing material.</p>
-            	    <p>If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving these communications by selecting the opt-out hyperlink in the relevant email or by emailing us at <a href="mailto:privacy@trustedpros.ca">privacy@trustedpros.ca</a>.</p>
-            	    <p>You will be notified and your consent obtained when personal information collected through use of the Website is to be communicated to a third party (excluding our affiliates, service providers, or agents). We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.</p>
-            	    <p><strong>VIII. Links and Integrated Partnerships</strong></p>
-            	    <p>This Website contains links from and to other websites. Please be aware that this privacy policy does not apply to such websites and that personal information you disclose or that may otherwise be collected from you may not be subject to the same terms and conditions as those that apply with respect to TPI and the Website.&nbsp; TPI is not responsible for the privacy practices of such other websites. We encourage you to be aware of this when you leave our Website and to read the privacy statements or policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by TPI in conjunction with the operation of the Website and delivery of Services.</p>
-            	    <p><strong>IX. Location of Storage Facilities</strong></p>
-            	    <p>This Website is hosted from facilities located exclusively within the province of Ontario, Canada. Your personal information may, however, be stored outside of the Province of Ontario to the extent we use service providers located outside of Ontario.&nbsp; You acknowledge and understand that the <em>Personal Information Protection and Electronic Documents Act</em> (Canada) may apply and otherwise affect the collection, use, disclosure, retention and destruction of your personal information.&nbsp; Additional privacy legislation may also apply depending on the location of our service providers, our computer facilities or those of our service providers.</p>
-            	    <a name="business-owners" id="business-owners"></a>
-            	    <p>By creating an Account, and/or by accessing and using this Website and any service offered by or through this Website, you hereby consent and agree to the practices described in this privacy policy, including, without limitation, the collection, use, disclosure, retention, storage and destruction practices relating to your personal information.&nbsp; Without limitation to the foregoing, you also agree to be bound by this Privacy Policy.</p>
-            	    <p><br>
-            	      Previous versions of TrustedPros Inc. Privacy Policy can be found <a href="https://trustedpros.ca/privacy-05102013.asp">here</a>.<br>
-       	      </p>
-       	      <hr>
-       	      <p>&nbsp;</p>
-       	      <h2>PRIVACY POLICY - BUSINESS MEMBERS</h2>
-            	    <p><strong>Effective Date: April 10, 2013 </strong></p>
-            	    <p>This privacy policy applies to any  information collected or otherwise obtained on or through the website located  at https://trustedpros.ca (the “<strong>Website</strong>”)  and, unless otherwise specified, any other websites controlled or operated by  TrustedPros Inc., which are accessible through the Website.</p>
-            	    <p>
-            	      This privacy policy is effective as of the  date set forth above. Personal information provided or collected prior to the  above effective date shall be subject to the privacy policy in effect at the  time such personal information was provided or collected.&nbsp; </p>
-            	    <p>
-            	      Titles and headings are provided for  general reference and ease of use only, as information may be covered in more  than one heading or under other headings.</p>
-            	    <p>
-            	      If you have questions or concerns regarding  this privacy policy, any personal information about you in our possession or  under our control or any of our practices with respect to personal information,  please contact TPI's privacy officer at privacy@trustedpros.ca.</p>
-            	    <p>
-            	      <strong>Collection  of Personal Information</strong></p>
-            	    <p>
-            	      TPI is committed to protecting your  privacy. Unless expressly provided, data collected is for the sole purpose of the  operation of this Website and providing the services offered through this  Website (collectively, the “<strong>Services</strong>”).&nbsp; </p>
-            	    <p>
-            	      <u>Registration</u></p>
-            	    <p>
-            	      Personal information is collected in  conjunction with the creation of your account for the Website, namely your  name, e-mail address, city and province (or state) of residence, postal code  (or zip code) and confirmation that you have reached the age of majority in the  jurisdiction in which you reside. You may also choose to provide us with a  telephone number.&nbsp; Please note that to  the extent you provide us with a&nbsp;  business address which is not your home address and/or business e-mail  address, such information is not considered as being personal information and  is therefore not subject to this privacy policy.</p>
-            	    <p>
-            	      <u>Financial  Information</u> </p>
-            	    <p>
-            	      With respect to the processing of  transactions, such as a purchase of any premium membership, we may collect  financial information (such as your credit card number and expiration date,  PayPal account particulars and the like), depending on the method of payment  you choose.&nbsp; Such information is then  forwarded to our payment gateway for processing.&nbsp; You will also be asked to provide information  about your annual sales volumes (you may decline to provide this information  without any limitation or restriction with respect to your registration).&nbsp; Other than as previously described, we do not  retain any such personal information of a financial nature about you.&nbsp; </p>
-            	    <p>
-            	      <u>Website  and Services</u></p>
-            	    <p>
-            	      Personal information may also be collected  in conjunction with your access and use of the Website and Services. &nbsp;For example, if you post content on the  Website (such as a message, business profile or rebuttal to a testimonial, a  rating or review), such posting will be associated to your account and any  personal information contained in such posting will be accessible to other  users of the Website.&nbsp; </p>
-            	    <p>
-            	      TPI may monitor your use of the Website and  Services and may create records of your use of the Website and Services.</p>
-            	    <p>
-            	      This Website uses cookies.&nbsp; A cookie is a piece of data tied to  information about the user and stored on the user's computer. This Website uses  both session cookies, which terminate when you close your browser, and  persistent cookies, which remain on your computer until manually deleted.</p>
-            	    <p>
-            	      By setting a persistent cookie, we allow  you not to have to log in with a password more than once, thereby saving time  while accessing the Website. If you reject these cookies, you may still access  and use the Website but your experience and/or access may be limited in some  areas of the Website. </p>
-            	    <p>
-            	      TPI may use third-party advertising  companies to serve ads on its behalf and to monitor certain pages of the  Website for the purpose of reporting web traffic, statistics, advertisement  “click-throughs”, and/or other activities on our site. These third party  service providers may employ cookies and action tags (also known as single  pixel gifs or web beacons) to measure advertising effectiveness. Any  information that these third parties collect via cookies and action tags is  completely anonymous.</p>
-            	    <p>
-            	      As is the case with most other websites, personal  information may also be collected by TPI with respect to your system and your  specific access to and use of the Website and Services. Such information  includes internet protocol (IP) addresses, browser type, internet service  provider (ISP), referring/exit pages, platform type, date/time stamps, number  of clicks, cookies, clear gifs, user profiles and log files detailing access  dates and times, webpages visited and features used.&nbsp; A profile is stored information that TPI  keeps on individual users that detail such users’ viewing preferences, Website  activities and interactions and exchanges with TPI.&nbsp; Like most standard Website servers we use log  files. </p>
-            	    <p>
-            	      <strong>Use  of Personal Information</strong> </p>
-            	    <p>
-            	      As indicated above, we will use personal  information obtained for the purposes of operating the Website and providing the  Services.&nbsp; This includes us communicating  with you with respect to your use of the Website, your use of Services  (including, for example, obtaining clarification or confirmation of Services  requested and information submitted in conjunction with the obtaining of such  Services), your account and responding to inquiries made by you.&nbsp; This also includes allowing you to make  postings in certain sections of the Website (such as message-board posts, business  profiles, portfolios, advertisements, referrals, and rebuttals to a  testimonial, rating or review).&nbsp; You  understand and agree that to the extent you include personal information in a  posting, such personal information will be posted on the Website and will be  accessible to other users of the Website.&nbsp; </p>
-            	    <p>
-            	      The Website also provides users access to  an online directory of business members who register on the Website, which  directory will include the information you provide during the registration  process (with the exception of any payment information you provide with respect  to the payment of any membership fees).&nbsp; </p>
-            	    <p>
-            	      Likewise, the Website offers matching  services in terms of job requests and contractors and suppliers.&nbsp; To the extent you create a business profile,  the Services will attempt to match such business profile to job requests and  potential suppliers.&nbsp; To the extent  matches are found, your name, contact e-mail and other business information  included in your business profile will be provided to the user creating the job  request and, potentially, relevant suppliers.&nbsp;  Moreover, we may send you offers through email or otherwise which we  deem relevant to your trade or line of business. You may at any time opt out  from receiving future offers by clicking on the opt-out hyperlink shown in such  e-mail, at which time you will be removed from the relevant distribution list  within a 30 day period.</p>
-            	    <p>
-            	      If you sign up for our free membership  program or sign up for our premium (paid) membership service, you will receive  multiple communications from us with respect to and in conjunction with the  operation Website and the delivery of Services. Other ways we contact members  of our service professional network are via fax, and/or cell text (SMS)  messaging. Members of our service professional network (or prospective members  enrolled in a Free Trial) can designate and opt-in on our Website or by  contacting customer service to receive leads in one or more of these formats.</p>
-            	    <p>
-            	      Similarly, we may from time to time contact  you via e-mail about Services or other features of the Website or send you  updates about the Website and the Services, including, newsletters and  bulletins.&nbsp; &nbsp;We may also from time to time contact you via  e-mail about products and services of other members of the Website or other  third parties.&nbsp; You may at any time opt  out from receiving future communications by clicking on the opt-out hyperlink  shown in such e-mail, at which time you will be removed from the relevant  distribution list within a 30 day period.</p>
-            	    <p>
-            	      We sometimes partner with third parties who  provide complimentary services or host portals providing access to the Website  and/or the Services.&nbsp; In conjunction with  the foregoing, we may provide your name and e-mail address to such third  parties for the sole purpose of allowing such third parties to contact you via  e-mail about their services and other products, including newsletters and  bulletins.&nbsp; Each such third party is  required to include in such communications a hyperlink or other manner of  opting out from receipt of future communications from such third party. You may  always contact us in the event of any problems or delays with respect to such  un-subscription with respect to such communications.</p>
-            	    <p>
-            	      Finally, collected information regarding  access and usage of the Website and Services is tied to the users’ personally  identifiable information to improve the performance, security, content and  features of the Website and delivery of Services (including, your accessing and  use of the Website and Services), and to modify and/or expand Website  functionality and nature and scope of Services.&nbsp;  Such information is also used to analyze trends, administer the Website,  track user's movement in the aggregate, and gather broad demographic  information for aggregate use.</p>
-            	    <p>
-            	      Users’ profile information is also used to  tailor, ease, improve, facilitate and accelerate a user's access and use of the  Website and Services (e.g. by remembering user preferences and applying these  to subsequent visits).</p>
-            	    <p>
-            	      On rare occasions, TPI may send out  strictly service related e-mail announcements. These communications are not  promotional in nature.&nbsp; For instance, if  TPI’s service is temporarily suspended for maintenance we might send users an  e-mail advising them of this. Generally, users may not opt-out of these communications,  though they can deactivate their account which will prevent future  communications of such sort. </p>
-            	    <p>
-            	      <strong>Modification  of Personal Information</strong></p>
-            	    <p>
-            	      To the extent your personal information has  changed or that our records are otherwise not accurate with respect to your  personal information, please contact our privacy officer by e-mail at privacy@trustedpros.ca.&nbsp; We will endeavour to update your personal  information in a timely manner.</p>
-            	    <p>
-            	      TPI may paraphrase, summarize, aggregate or  compile Feedback, Ratings, Reviews, Rebuttals and/or Testimonials and may edit  these to correct typos, spelling and grammatical errors as well as obvious  mistakes in terms of objective facts.</p>
-            	    <p>
-            	      To the extent permitted by applicable laws,  TPI reserves the right to deny requests to remove any business profile,  referrals, or rebuttals to testimonials, Ratings, Reviews and/or Testimonials  from the Website, including members profile information associated with any  such business profiles, referrals, or rebuttals. </p>
-            	    <p>
-            	      <strong>Disclosure of Personal Information</strong></p>
-            	    <p>
-            	      When you submit information to TPI, you  authorize us to share this information with our service providers.&nbsp; TPI shall ensure that any third party to whom  it discloses your personal information has signed a contract which obligates  such third party to safeguard your personal information, adhere to the same  terms and conditions as those contained in this privacy policy and otherwise  comply with applicable laws. .&nbsp; </p>
-            	    <p>
-            	      Use certain Services and features of the  Website will result in the disclosure of personal information.&nbsp; For example, if you choose to respond to a  project listing or if you contact a supplier who has also been matched with a  project listing, the user who posted the project listing and any such supplier  (as the case may be) will receive your name and contact information.&nbsp; Likewise, as previously indicated, postings  made by you on the Website or through use of a Service will be accessible to  other users of the Website.&nbsp; To the  extent such postings contain personal information, such personal information  will therefore be communicated to users who access such posting.</p>
-            	    <p>
-            	      TPI may create and share aggregated  activity or statistical information with partners, advertisers or others, but  such information shall not contain personally identifiable information.</p>
-            	    <p>
-            	      <strong>Safeguarding of Personal Information</strong></p>
-            	    <p>
-            	      Though we strive to preserve user privacy,  due to the inherent nature of the Internet, we cannot ensure that all of your  private communications and other personal information will always remain  confidential. &nbsp;You acknowledge and  understand that the Internet is a public network and that communications on or  through the Internet may be intercepted, misdirected, altered and/or  deleted.&nbsp; Likewise, e-mails and accounts  may be spoofed and individuals impersonated.&nbsp;  Care should therefore be taken prior to disclosing personal information  on or through the Website or to any users or purported users of the Website.</p>
-            	    <p>
-            	      Likewise, we may disclose personal  information when required by law (including by court order or in conjunction  with legal proceedings), when we have a belief that such action is necessary or  advisable to comply with applicable laws, or when we believe that a user is violating  the law, is a threat to others or himself/herself or is in personal danger. </p>
-            	    <p>
-            	      <strong>Mergers/Acquisitions/Restructuring</strong></p>
-            	    <p>
-            	      In the event TPI (or any of its business  units) is bought, sold, restructured or merges with another entity, users'  personal information will, in most instances, be part of such transaction. TPI  may disclose your personal information to such entities and their advisors,  provide it first ensures that each of them sign a non-disclosure agreement  safeguarding your personal information and preventing them from making any use  of the information outside of such proposed transaction or restructuring and  any subsequent operation of TPI’s business.&nbsp; </p>
-            	    <p>
-            	      <strong>Choice/Opt-out</strong></p>
-            	    <p>
-            	      Our users are given the opportunity to  'opt-out' of having their information used for purposes not directly related to  the operation of the Website and delivery of Services they have requested.&nbsp; Such opt-out option is usually provided at  the time of collection and/or in subsequent communications to the user. For  example, our service request form has an 'opt-out' mechanism allowing users who  submit a service request to elect not to receive any marketing material.</p>
-            	    <p>
-            	      If you no longer wish to receive our  newsletter and promotional communications, you may opt-out of receiving these  communications by selecting the opt-out hyperlink in the relevant email or by emailing  us at privacy@trustedpros.ca.</p>
-            	    <p>
-            	      You will be notified when personal information  collected through use of the Website is to be communicated to a third party (excluding  our affiliates, service providers, or agents). We do this so our users can make  an informed choice as to whether or not they should proceed with services that  require an outside party.</p>
-            	    <p>
-            	      <strong><u>Links  and Integrated Partnerships</u></strong></p>
-            	    <p>
-            	      This Website contains links from and to  other websites. Please be aware that this privacy policy does not apply to such  websites and that personal information you disclose or that may otherwise be  collected from you may not be subject to the same terms and conditions as those  that apply with respect to TPI and the Website.&nbsp;  TPI is not responsible for the privacy practices of such other websites.  We encourage you to be aware of this when you leave our Website and to read the  privacy statements or policies of each and every website that collects  personally identifiable information. This privacy policy applies solely to  information collected by TPI in conjunction with the operation of the Website  and delivery of Services.</p>
-            	    <p>
-            	      <strong><u>Location of Computer Facilities</u></strong></p>
-            	    <p>
-            	      Your personal information may be stored  outside of the Province of Ontario to the extent we use service providers  located outside of Ontario.&nbsp; This is  presently the case as this Website is hosted from facilities located in the  United States.&nbsp; You acknowledge and  understand that the <em>Personal Information  Protection and Electronic Documents Act</em> (Canada) may apply and otherwise  affect the collection, use, disclosure, retention and destruction of your  personal information.&nbsp; Additional privacy  legislation may also apply depending on the location of our service providers,  our computer facilities or those of our service providers.</p>
-            	    <p><strong>By  creating an Account, and by accessing and using this Website and any service  offered by or through this Website, you hereby consent and agree to the  practices described in this privacy policy, including, without limitation, the  collection, use, disclosure, retention, storage and destruction practices  relating to your personal information.&nbsp;  Without limitation to the foregoing, you also agree to be bound by this  Privacy Policy.</strong><br>
-          	      </p>
+<p>We do not collect any personal information of a financial nature about individuals, except if an individual uses a personal credit card in conjunction with the purchase of a business membership. In such cases, your name, credit card number, expiration date and security code will be collected by TPI for the sole purpose of transmitting same to our payment gateway provider. Your credit card information is not retained by TPI. Other than as previously described, we do not retain any such personal information of a financial nature about individuals.&nbsp; </p>
+<p><u>Website and Services</u></p>
+<p>Personal information may also be collected in conjunction with your access and use of the Website and Services.&nbsp; For example, if you upload or post content on the Website (such as a job listing, request for information, message, post, business profile, testimonial, personal anecdote, success story, a rating, a ranking, portfolio, advertisement, referral, evaluation, review, complaint, pictures, business documents, technical documents or rebuttal [collectively, “<strong>Content</strong>”]), such Content will be associated to your account and any personal information contained in such Content will be accessible to other users of the Website.&nbsp; &nbsp;&nbsp;</p>
+<p>TPI may also request disclosure of certain materials to validate your identify and the subject matter of any Content.&nbsp; This may include copies of government issued identification, contractual documentation, invoices, certificates of insurance, vendor permits, business licenses and the like. </p>
+<p>This Website uses cookies.&nbsp; A cookie is a piece of data tied to information about the user and stored on the user's computer. This Website uses both session cookies, which terminate when you close your browser, and persistent cookies, which remain on your computer until manually deleted.</p>
+<p>By setting a persistent cookie, we allow you not to have to log in with a password more than once, thereby saving time while accessing the Website. If you reject these cookies, you may still access and use the Website but your experience and/or access may be limited in some areas of the Website. </p>
+<p>TPI may use third-party advertising companies to serve ads on its behalf and to monitor certain pages of the Website for the purpose of reporting web traffic, statistics, advertisement “click-throughs”, and/or other activities on our site. These third party service providers may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.</p>
+<p>As is the case with most other websites, personal information may also be collected by TPI with respect to your system and your specific access to and use of the Website and Services. TPI may monitor your use of the Website and Services and may create records of your use of the Website and Services.</p>
+<p>Such information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamps, number of clicks, cookies, clear gifs, user profiles and log files detailing access dates and times, webpages visited and features used.&nbsp; A profile is stored information that TPI keeps on individual users that detail such users’ viewing preferences, Website activities and interactions and exchanges with TPI.&nbsp; Like most standard Website servers we use log files. </p>
+<p><u>Third Party Posts</u></p>
+<p>The Website allows third parties to post messages and other content and, although our terms and conditions of use prohibit anyone from posting any personal information about someone else (except where such personal information also constitutes business information), it is possible that a third party may post personal information about you, in contravention with such terms and conditions. Any such personal information will be promptly removed upon us discovering its existence on the Website. If you come across any such personal information on the Website, please contact our privacy officer by e-mail at privacy@trustedpros.ca, and such personal information will be promptly removed.</p>
+<p><strong>II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of Personal Information</strong></p>
+<p>As indicated above, we will use personal information obtained for the purposes of operating the Website and providing the Services.&nbsp; This includes us communicating with you with respect to your use of the Website, your use of Services (including, for example, obtaining clarification or confirmation of Services requested and information submitted in conjunction with the obtaining of such Services), your account and responding to inquiries made by you.&nbsp; This also includes allowing you to make post or upload Content in certain sections of the Website (such as job requests, personal anecdotes, testimonials, success stories, evaluations of contractors and suppliers, ratings, rankings, details of specific projects, , complaints, message board posts, business profiles, portfolios, advertisements, referrals, and rebuttals to a testimonial, rating or review).&nbsp; You understand and agree that to the extent you include personal information in posted or uploaded Content such personal information will be posted on the Website and will be accessible to other users of the Website.</p>
+<p>Likewise, if you are a business member and provide information about yourself in a listing, profile or post, such personal information will be accessible to other users of the Website. As indicated above, users of the Website may post content about business members and other contractors and service providers.&nbsp; Where such a contractor or services provider is an individual, such content may include personal information. Although such personal information may be posted on the Website, any personal information of a non-business nature will be deleted from the Website when we become aware of its existence.</p>
+<p>The Website offers matching services in terms of job requests and contractors and suppliers.&nbsp; To the extent a user posts a job request, the Services will attempt to match such job request to contractors and suppliers.&nbsp; To the extent matches are found, the user’s name will be provided to those matching contractors and suppliers and these will have the ability to communicate with the user by e-mail by completing a webform on the Site.&nbsp; Likewise, the businesses’ name and a link to their respective profile will be provided to the user in question and, potentially, relevant suppliers. </p>
+<p>For businesses:</p>
+<div class="boxb">
+ <p>We may send businesses offers through email or otherwise which we deem relevant to their trade, line of business or particular circumstances. Businesses may at any time opt out from receiving future offers by clicking on the opt-out hyperlink shown in such e-mail, at which time they will promptly be removed from the relevant distribution list.</p>
+ <p> If a business signs up for our free membership program or signs up for our premium (paid) membership service, such business will receive multiple communications from us with respect to and in conjunction with the operation Website and the delivery of Services. Other ways we contact members of our service professional network are via fax, and/or cell text (SMS) messaging. Members of our service professional network (or prospective members enrolled in a Free Trial) can designate and opt-in on our Website or by contacting customer service to receive leads in one or more of these formats.</p>
+</div>
+<p>Similarly, we may from time to time contact you via e-mail about Services or other features of the Website or send you updates about the Website and the Services, including, newsletters and bulletins.&nbsp; &nbsp;We may also from time to time contact you via e-mail about products and services of members of the Website or other third parties. You may at any time opt out from receiving future communications by clicking on the opt-out hyperlink shown in such e-mail, at which time you will promptly be removed from the relevant distribution list.</p>
+<p>Finally, collected information regarding access and usage of the Website and Services is tied to the users’ personally identifiable information to improve the performance, security, content and features of the Website and delivery of Services (including, your accessing and use of the Website and Services), and to modify and/or expand Website functionality and nature and scope of Services.&nbsp; Such information is also used to analyze trends, administer the Website, track user's movement in the aggregate, and gather broad demographic information for aggregate use.</p>
+<p>Users’ profile information is also used to tailor, ease, improve, facilitate and accelerate a user's access and use of the Website and Services (e.g. by remembering user preferences and applying these to subsequent visits).</p>
+<p>On rare occasions, TPI may send out strictly service related e-mail announcements. These communications are not promotional in nature.&nbsp; For instance, if TPI’s service is temporarily suspended on account of maintenance we might send users an e-mail advising them of this. Generally, users may not opt-out of these communications, though they can deactivate their account which will prevent future communications of such sort. </p>
+<p><strong>III.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modification of Personal Information</strong></p>
+<p>To the extent your personal information has changed or that our records are otherwise not accurate with respect to your personal information, please contact our privacy officer by e-mail at privacy@trustedpros.ca.&nbsp; We will endeavour to update your personal information in a timely manner.</p>
+<p>TPI may paraphrase, summarize, aggregate or compile feedback, ratings, reviews, rebuttals, complaints, testimonials and/or other Content and may edit these to correct typos, spelling and grammatical errors as well as obvious mistakes in terms of objective facts.</p>
+<p>To the extent permitted by applicable laws, TPI reserves the right to deny requests to remove any feedback, ratings, reviews, pictures, complaints, rebuttals, testimonials and/or other Content from the Website. TPI also reserves the right to deny requests to remove profile information associated with any business and any association between such profile and any user feedback, ratings, reviews, complaints, referrals and/or testimonials and/or other Content.</p>
+<p>For businesses:</p>
+<div class="boxb">
+ <p>Members of our service professional network (or prospective members enrolled in a free trial) can designate which bulletins and communications they wish to receive and opt-in, opt-out or otherwise modify any prior selection on our Website or by contacting customer service to receive leads in one or more of these formats.</p>
+</div>
+<p><strong>IV.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disclosure of Personal Information</strong></p>
+<p>When you submit information to TPI, you authorize us to share this information with our service providers.&nbsp; TPI shall ensure that any third party to whom it discloses your personal information has signed a contract which obligates such third party to safeguard your personal information, adhere to the same terms and conditions as those contained in this privacy policy and otherwise comply with applicable laws.&nbsp; </p>
+<p>Use certain Services and features of the Website will result in the disclosure of personal information.&nbsp; For example, if you choose to select a contractor for a job posting or if you respond to a contractor who has indicated interest in a job posting, such contractor will receive your name and contact information.&nbsp; Likewise, if a you carry on business in your personal capacity or as a sole proprietorship and chooses to respond to a project listing or if you contact a supplier who has also been matched with respect to a project listing, the user who posted the project listing and any supplier (as the case may be) will receive the contact name and contact information associated with your business.</p>
+<p>As previously indicated, postings made by you on the Website or through use of a Service will be accessible to other users of the Website.&nbsp; To the extent such postings contain personal information, such personal information will be communicated to users who access such posting.</p>
+<p>Please note that if you post a review, complaint, testimonial, rating, ranking, comment or other Content about a business member of the Website or any other contractor or service provider, such third party may post a reply or a rebuttal and such reply or rebuttal will be associated with your account and your original posting.&nbsp; If your posting includes personal information, it will be associated with such third party content.</p>
+<p>TPI may create and share aggregated activity or statistical information with partners, advertisers or others, but such information will not contain personally identifiable information.</p>
+<p><strong>V.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Safeguarding of Personal Information</strong></p>
+<p>Though we strive to preserve user privacy, due to the inherent nature of the Internet, we cannot ensure that all of your private communications and other personal information will always remain confidential. &nbsp;You acknowledge and understand that the Internet is a public network and that communications on or through the Internet may be intercepted, misdirected, altered and/or deleted.&nbsp; Likewise, e-mails and accounts may be spoofed and individuals impersonated.&nbsp; Care should therefore be taken prior to disclosing personal information on or through the Website or to any users or purported users of the Website.</p>
+<p>Likewise, we may disclose personal information when required by law (including by court order or in conjunction with police investigations or legal proceedings), when we have a belief that such action is necessary or advisable to comply with applicable laws, or when we believe that a user is violating the law, is a threat to others or himself/herself or is in personal danger. </p>
+<p><strong>VI.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mergers/Acquisitions/Restructuring</strong></p>
+<p>In the event TPI (or any of its business units) is bought, sold, restructured or merges with another entity, users' personal information will, in most instances, be part of such transaction. TPI may disclose your personal information to such entities and their advisors, provide it first ensures that each of them sign a non-disclosure agreement safeguarding your personal information and preventing them from making any use of the information outside of such proposed transaction or restructuring and any subsequent operation of TPI’s business.&nbsp; </p>
+<p><strong>VII.&nbsp;&nbsp;&nbsp;&nbsp; Choice/Opt-in/Opt-out</strong></p>
+<p>Our users are given the opportunity to 'opt-in' in terms of having their information used for purposes not directly related to the operation of the Website and delivery of Services they have requested.&nbsp; Such opt-in option is usually provided at the time of collection and/or in subsequent communications to the user. For example, our service request form has an 'opt-in' mechanism allowing users who submit a service request to elect to receive marketing material.</p>
+<p>If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving these communications by selecting the opt-out hyperlink in the relevant email or by emailing us at <a href="mailto:privacy@trustedpros.ca">privacy@trustedpros.ca</a>.</p>
+<p>You will be notified and your consent obtained when personal information collected through use of the Website is to be communicated to a third party (excluding our affiliates, service providers, or agents). We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.</p>
+<p><strong>VIII.&nbsp;&nbsp;&nbsp; Links and Integrated Partnerships</strong></p>
+<p>This Website contains links from and to other websites. Please be aware that this privacy policy does not apply to such websites and that personal information you disclose or that may otherwise be collected from you may not be subject to the same terms and conditions as those that apply with respect to TPI and the Website.&nbsp; TPI is not responsible for the privacy practices of such other websites. We encourage you to be aware of this when you leave our Website and to read the privacy statements or policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by TPI in conjunction with the operation of the Website and delivery of Services.</p>
+<p><strong>IX.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location of Storage Facilities</strong></p>
+<p>This Website is hosted from facilities located exclusively within the province of Ontario, Canada. &nbsp;Your personal information may, however, be stored outside of the Province of Ontario to the extent we use service providers located outside of Ontario.&nbsp; You acknowledge and understand that the <em>Personal Information Protection and Electronic Documents Act</em> (Canada) may apply and otherwise affect the collection, use, disclosure, retention and destruction of your personal information.&nbsp; Additional privacy legislation may also apply depending on the location of our service providers, our computer facilities or those of our service providers.</p>
+<p>By creating an Account, and/or by accessing and using this Website and any service offered by or through this Website, you hereby consent and agree to the practices described in this privacy policy, including, without limitation, the collection, use, disclosure, retention, storage and destruction practices relating to your personal information.&nbsp; Without limitation to the foregoing, you also agree to be bound by this Privacy Policy.</p>
+
        	      <hr>
        	      <p><br>
-       	        Previous versions of TrustedPros Inc. Privacy Policy can be found <a href="https://trustedpros.ca/privacy-05102013.asp">here</a>.</p>
+       	        Previous versions of TrustedPros Inc. Privacy Policy can be found <a href="https://trustedpros.ca/privacy-02032017.asp">here</a>.</p>
             	    <p>&nbsp;</p>
             	    <p>&nbsp; </p>
 </div>
@@ -1312,8 +1034,8 @@ $(document).on("mouseleave",".navi",function(){
                                 <li><a href="https://trustedpros.ca/search">Contractor Search</a></li>
                                 <li><a href="https://trustedpros.ca/post">Post Your Project</a></li>
                                 <li><a href="https://trustedpros.ca/write-a-review">Write a Review</a></li>
-                                <li><a href="https://trustedpros.ca/forum">Ask The Pros</a></li>
-                                <li><a href="https://trustedpros.ca/hiring-guide">Hiring Guide</a></li>
+                                <li><a href="https://trustedpros.ca/review-guidelines">Review Guidelines</a></li> 
+                                <li><a href="https://trustedpros.ca/trustscore">TrustScore</a></li>
                                 <li><a href="https://trustedpros.ca/homeowner-faq">Homeowner FAQ</a></li>                                
                             </ul>
                         </li>
@@ -1325,8 +1047,9 @@ $(document).on("mouseleave",".navi",function(){
                         <li><a class="ftr_mnu"><span>Service Pros</span></a>
                             <ul>
                                 <li><a href="https://trustedpros.ca/login">Sign In</a></li>
-                                <li><a href="https://trustedpros.ca/categories">Categories</a></li>                        
-                                <li><a href="https://trustedpros.ca/pricing-location ">Add Your Company</a></li>
+                                                        
+                                <li><a href="https://trustedpros.ca/register-company ">Add Your Company</a></li>
+                                <li><a href="https://trustedpros.ca/categories">Services Covered</a></li>
                                 <li><a href="https://trustedpros.ca/terms-conduct">Code of Conduct</a></li>
                                	<li><a href="https://trustedpros.ca/trustedpros-faq">Business Owner FAQ</a></li>
                             </ul>
@@ -1338,11 +1061,11 @@ $(document).on("mouseleave",".navi",function(){
                     <ul class="footer-links w3">
                         <li><a class="ftr_mnu"><span>Other Resources</span></a>
                             <ul>
+                                <li><a href="https://trustedpros.ca/hiring-guide">Hiring Guide</a></li>
+                            	<li><a href="https://trustedpros.ca/forum">Ask The Pros</a></li>
                                 <li><a href="https://trustedpros.ca/commercial">Commercial Contractors</a></li>
                                 <li><a href="https://trustedpros.ca/photos">Design Photos</a></li>
                                 <li><a href="https://trustedpros.ca/articles">Articles</a></li>
-                                <li><a href="https://trustedpros.ca/trustscore">TrustScore</a></li>
-                                <li><a href="https://trustedpros.ca/review-guidelines">Review Guidelines</a></li> 
                                 <li><a href="https://trustedpros.ca/consumer-protection">Consumer Protection</a></li>
                                 
                             </ul>
@@ -1356,7 +1079,6 @@ $(document).on("mouseleave",".navi",function(){
                           <ul>
                                 <li><a href="https://trustedpros.ca/about">About Us</a></li>
                                 <li><a href="https://trustedpros.ca/contact">Contact</a></li>
-                                <li><a href="https://trustedpros.ca/careers">Careers</a></li>
                                 <li><a href="https://trustedpros.ca/logos">Logos &amp; Assets</a></li>
                                 <li><a href="https://trustedpros.ca/terms">Terms of Use</a></li>
                                 <li><a href="https://trustedpros.ca/privacy">Privacy Policy</a></li>
@@ -1373,13 +1095,16 @@ $(document).on("mouseleave",".navi",function(){
                                 <li><a class="li" href="http://www.linkedin.com/company/trustedpros">LinkedIn</a></li>
                             </ul>
                         </li>
-                             
+                            
                     </ul>
            
        </div> 
       
-        <span class="sub-pros"><strong>Find Pros In:</strong> <a href="https://trustedpros.ca/on/toronto">Toronto</a>, <a href="https://trustedpros.ca/qc/montreal">Montreal</a>, <a href="https://trustedpros.ca/ab/calgary">Calgary</a>, <a href="https://trustedpros.ca/on/ottawa">Ottawa</a>, <a href="https://trustedpros.ca/ab/edmonton">Edmonton</a>, <a href="https://trustedpros.ca/on/mississauga">Mississauga</a>, <a href="https://trustedpros.ca/mb/winnipeg">Winnipeg</a>, <a href="https://trustedpros.ca/bc/vancouver">Vancouver</a>, <a href="https://trustedpros.ca/on/brampton">Brampton</a>, <a href="https://trustedpros.ca/on/hamilton">Hamilton</a>, <a href="https://trustedpros.ca/on/london">London</a>, <a href="https://trustedpros.ca/search">More Locations</a></span>
-        <p>The reviews on this site are the personal opinion of the Author and not of TrustedPros Inc. By using this site you agree to our <a href="https://trustedpros.ca/terms">Terms of Use</a>.  Information submitted is subject to our <a href="https://trustedpros.ca/privacy">Privacy Policy</a>. Copyright © 2004 - 2015 TrustedPros Inc.  All Rights Reserved</p>
+
+      <img class="footer-logo" src="https://trustedpros.ca/images/logo-footer.png" alt="footer logo">
+        <span class="sub-pros"><strong>Find Pros In:</strong> <a href="https://trustedpros.ca/on/toronto">Toronto</a>, <a href="https://trustedpros.ca/qc/montreal">Montreal</a>, <a href="https://trustedpros.ca/ab/calgary">Calgary</a>, <a href="https://trustedpros.ca/on/ottawa">Ottawa</a>, <a href="https://trustedpros.ca/ab/edmonton">Edmonton</a>, <a href="https://trustedpros.ca/on/mississauga">Mississauga</a>, <a href="https://trustedpros.ca/mb/winnipeg">Winnipeg</a>, <a href="https://trustedpros.ca/bc/vancouver">Vancouver</a>, <a href="https://trustedpros.ca/on/brampton">Brampton</a>, <a href="https://trustedpros.ca/on/hamilton">Hamilton</a>, <a href="https://trustedpros.ca/on/london">London</a>, <a href="https://trustedpros.ca/search">More</a></span>
+        
+        <p class="footer-wdktp">The reviews on this site are the personal opinion of the Author and not of TrustedPros Inc. By using this site you agree to our <a href="https://trustedpros.ca/terms">Terms of Use</a>.  Information submitted is subject to our <a href="https://trustedpros.ca/privacy">Privacy Policy</a>. Copyright © 2004 - 2017 TrustedPros Inc.  All Rights Reserved</p>
 	</div>
 </footer>
 
@@ -1463,7 +1188,7 @@ $(document).on("mouseleave",".navi",function(){
                 var leftSideBar = $(".sb-left").html();
                  if(menu != undefined)
                 {
-                menu="<ul class='floating-menu'>"+menu+"</ul>";
+                menu="<ul class='floating-menu sml'>"+menu+"</ul>";
                 $(".sb-right").find("ul").remove();
                     
                 $(".menuContainer ").append(menu);
@@ -1491,7 +1216,13 @@ $(document).on("mouseleave",".navi",function(){
             makeMenu();
         });
 		
+		var focus_textbox = false;	
 		
+		$(document).on("mouseleave",".navi",function(){
+			if(focus_textbox == false){
+                $(".new-menu").hide();
+			}
+  		});
    
             $(document).on("click",".parrent-li",function(){
             var currentHeight = $(this).css("height");
@@ -1531,11 +1262,13 @@ $(document).on("mouseleave",".navi",function(){
         });
         
         $(document).on("mouseleave",".new-menu",function(){
+			if(focus_textbox == false){
              clearTimeout(timeOut);
             $(".new-menu").hide();
             $(".menubottom").css("border-top-width",0);
             $(".menuBottomWrap").css("margin-top","0px");
 			clearSelectionClass();
+			}
     });
               $(document).on("mouseover",".new-menu",function(event){
 				   clearTimeout(timeOut);
@@ -1547,11 +1280,24 @@ $(document).on("mouseleave",".navi",function(){
 			 $('a[data-backid='+$(this).attr("data-id")+']').addClass('mna_hoverd');
     });
             $(document).on("mouseover","body",function(event){
+			if(focus_textbox == false){
              $(".new-menu").hide();
               $(".menubottom").css("border-top-width",0);
 			 clearSelectionClass();
+			}
 			 //timeOut = setTimeout(function(){menu_render = false;}, 3000);
           });
+		  
+		  $(document).on("click","#sb-site1, .left-sec, .container, #wrap, .bkgrnd-intro",function(e){
+		  //$("#sb-site1").click(function(e) {
+			  if(focus_textbox ){
+				  focus_textbox = false
+				  $(".new-menu").hide();
+				  $(".menubottom").css("border-top-width",0);
+				  clearSelectionClass();
+			  }
+          });
+		  
 			
 			function clearSelectionClass_notneeded(){
 				for (var i = 0; i <= 6; i++){
@@ -1570,7 +1316,8 @@ $(document).on("mouseleave",".navi",function(){
 		
 		 	$(document).on("click",".openMenu",function(event){
            			//if (!menu_render) event.preventDefault();
-					 //event.stopPropagation();
+					
+					 event.stopPropagation();
 					 //clearTimeout(timeOut);
 					 //menu_render = true;
 					hover1=true;
@@ -1582,7 +1329,19 @@ $(document).on("mouseleave",".navi",function(){
 						 $(".menubottom").css("top","-3px");
 					var ch = $(".menubottom").css("height")+3;
 					$(".menubottom").css("height",ch+"px");
+					
+					var parentUl = $(this).parent().parent().get(0).className.trim();
+					if(parentUl == "floating-menu sml" || parentUl == "floating-menu sml menu_xtnd"){
+						if($(this).data("id") == "0"){
+							$(".menubottom").css("border-top-width","3px");
+						}
+						else{
+							$(".menubottom").css("border-top-width","0");
+						}
+					}
+					else{
 					$(".menubottom").css("border-top-width","3px");
+					}
 					$(".new-menu").hide();
 					$(".new-menu").css("display","none");
 					$(".new-menu[data-id='"+hoverId+"']").show();
@@ -1597,12 +1356,81 @@ $(document).on("mouseleave",".navi",function(){
             $(".menuBottomWrap").css("margin-top","0px");
 			
          });
-		 
-
+		
+		$(document).on("click",".new-menu",function(event){
+			event.stopPropagation();
+		});
+	 
+$(function(){
+	if($(window).width() < 768){
+		$(".openMenu.trusted-pros").html("Find Trusted Pros");
+	}
+	$(document).on("click", "#nv_update_loc", function(e) {
+		e.stopPropagation();
+        var loc = $("#nv_location").val();
+		arr_loc = loc.split(", ");
+		if(loc != ""){
+			$.post(location.protocol+"//"+ location.host +"/nav_update_location.asp", { location: loc })
+			  .done(function( data ) {
+				  if(data != ""){
+					$(".new-menu.start-1").html(data);
+					$(".openMenu.trusted-pros").html("Find Trusted Pros in "+arr_loc[0]);
+					$(".navi ul.floating-menu.sml").addClass("menu_xtnd");
+					$(".openMenu.trusted-pros").attr("href", $("#tab2").data("href"));
+				  }
+				focus_textbox = false;
+				$(".autocomplete-suggestions").hide();
+				e.stopPropagation();
+			  });
+		}
+    });
+	$(document).on("blur", "#nv_location", function(e){
+		if ($(this).val()==""){
+			$(this).val($(this).data("location"));
+		}
+	});
+	
+	$(document).on("focus", "#nv_location", function(e){
+		focus_textbox = true;
+		$(this).val("");
+		$(this).autocomplete({
+			serviceUrl : location.protocol + "//" +location.host+"/searchfield-city-provabbr.asp",
+			autoSelectFirst: true,
+			showNoSuggestionNotice:true,
+			onSearchStart: function(query){
+				focus_textbox = true;
+			},
+			onSelect: function (suggestion) {
+				e.stopPropagation();
+				
+			}
+	  });	
+	});
+	
+	//$(document).on("click", "ul.links.lvl7 li a", function(event){
+//		event.preventDefault();
+//		var city = $(this).data("city").trim().toLowerCase();
+//		var provabbr = $(this).data("loc").replace(",", "").trim().toLowerCase();
+//		$.post( location.protocol +"//" + location.host + "/set-location-menu.asp", { navcity: city, navprov: provabbr })
+//		  .done(function( data ) {
+//			location.href = location.protocol +"//" + location.host + "/" + provabbr.replace(" ", "-") + "/" + city.replace(" ", "-");
+//		  });
+//	});
+	
+	$(document).on("click", "#navm_close", function(event){
+		  $(".new-menu").hide();
+		  $(".menubottom").css("border-top-width",0);
+		  clearSelectionClass();
+		  $(".autocomplete-suggestions").hide();
+	});
+	
+});
 		 
             $(document).on("mouseover",".openMenu",function(event){
            
                  event.stopPropagation();
+				 if(focus_textbox == false){
+					 
 				 //if (menu_render) {
 				//	clearTimeout(timeOut);
 					hover1=true;
@@ -1615,11 +1443,23 @@ $(document).on("mouseleave",".navi",function(){
 					$(".menubottom").css("top","-3px");
 					var ch = $(".menubottom").css("height")+3;
 					$(".menubottom").css("height",ch+"px");
+					var parentUl = $(this).parent().parent().get(0).className;
+					if(parentUl == "floating-menu sml" || parentUl == "floating-menu sml menu_xtnd"){
+						if($(this).data("id") == "0"){
+							$(".menubottom").css("border-top-width","3px");
+						}
+						else{
+							$(".menubottom").css("border-top-width","0");
+						}
+					}
+					else{
 					$(".menubottom").css("border-top-width","3px");
+					}
 					$(".new-menu").hide();
 					$(".new-menu").css("display","none");
 					$(".new-menu[data-id='"+hoverId+"']").show();
 				 //}
+				 }
  });
       
 
@@ -1692,13 +1532,61 @@ $(window).scroll(function() {
 headerHeight = 95;    
    
 });
-        
+ 
+var lastscrollposition = 0;
+$(function() {
+    $(window).scroll(function() {
+        var scroll = $(window).scrollTop();
+		
+		if (scroll > lastscrollposition){
+			$(".nav-header").removeClass("ntrans");
+			if (scroll >= 342) {
+				$(".header").addClass('smaller');
+			} else {
+				$(".header").removeClass("smaller");
+			}
+			
+			 if (scroll >= 342) {
+				$(".small-header").addClass('smaller');
+			} else {
+				$(".small-header").removeClass("smaller");
+			}
+			
+			
+			if (scroll >= 170) {
+				$(".nav-header").addClass('small-nav');
+			} else {
+				$(".nav-header").removeClass("small-nav");
+			}
+		}
+		else{
+			$(".nav-header").addClass("ntrans");
+			if (scroll < 342) {
+				$(".header").removeClass("smaller");
+				$(".navi").removeClass("margin50");
+			}
+			else{
+				$(".navi").addClass("margin50");
+			}
+			$(".small-header").removeClass("smaller");
+			$(".nav-header").removeClass("small-nav");
+		}
+		
+		lastscrollposition = scroll;
+		
+    });
+	
+	
+});       
         
 </script>
 
 
 <script>
 $(document).ready(function(){
+
+
+setInterval(function () { try { $("#preloader").hide(); } catch (err) { } }, 7000);
 
   $(".email-up").click(function(e) {
   		e.preventDefault();
@@ -2145,15 +2033,57 @@ $(document).ready(function(){
 
 </script>
 
-<div id="trans_domain" class="transbox" style="z-index:99998"></div>
-<div id="div_domain" style="position:absolute;top:150px;left:30%;margin:auto;width:560px;height:400px;background-color:#FFFFFF;padding:20px;z-index:99999">
-<div align="center">
-  <h1 style="padding:20px; font-size:24px">It appears you may be located in the US</h1>
-  <p style="font:16px bold Arial, Helvetica, sans-serif"> TrustedPros is designed to deliver results targeted to your location. </p>
-  <div class="con-left"> <a onclick="setUpSession()" href="javascript:(void(0));"></a> <span><a onclick="setUpSession()" href="javascript:(void(0));">Continue to TrustedPros Canada</a></span> </div>
-  <div class="con-right"> <a href="https://trustedpros.com"></a> <span><a href="https://trustedpros.com">Return to TrustedPros US</a></span> </div>
-</div>
-<script language="javascript">
+    <!--include file="incl-ca-com-redirect.asp" -->
+    
+<style>
+
+
+@media screen and (max-width: 768px){
+	
+}
+</style>
+
+<script>
+setTimeout(function(){
+$.post( "https://trustedpros.ca/pending-review-tab.asp", function( data ) {
+  $( "body" ).append( data )
+});
+},2000);
+$(document).ajaxComplete(function(){
+    if($('#rvpnd_act').length != 0) {
+        $('#rvpnd_act').addClass("animated swing");
+    }
+});
+</script>
+
+
+<script>
+$(function(){
+	
+	$("<div class=\"location-tp\"></div>").insertBefore("#searchform2");
+	
+	$.post( location.protocol+"//" + location.host + "/incl-ca-com-redirect-ajax.asp", {})
+  	.done(function( data ) {
+		if(data.length > 0){
+			$(".location-tp").html(data);
+			if($(window).width() > 768){
+				var header = 60;
+				var navheader = 75;
+				var sbsite = 90;
+			}
+			else{
+				var header = 77;
+				var navheader = 90;
+				var sbsite = 70;
+			}
+			$("#sb-site1, #sb-site").css({position:'relative'});
+			$(".header").animate({top: header}, 1000);
+			$(".nav-header").animate({top:navheader},500);
+			$("#sb-site1, #sb-site").animate({top:sbsite},200);
+		}
+	});
+});
+
 function setUpSession()
 {
 var xmlhttp;
@@ -2169,15 +2099,23 @@ xmlhttp.onreadystatechange=function()
   {
   if (xmlhttp.readyState==4 && xmlhttp.status==200)
     {
-    	document.getElementById("trans_domain").style.display = "none";
-		document.getElementById("div_domain").style.display = "none";
+    	$(".header").animate({top: 0}, 500);
+		$(".nav-header").css({top:20}).after(function() {
+            $("#sb-site1, #sb-site").animate({top:0},500);
+			$(".location-tp").hide();
+        });
+		
+		
     }
   }
-xmlhttp.open("GET",location.protocol+"//"+location.host+"/domain-selection.asp",false);
+xmlhttp.open("GET",location.protocol+"//"+location.host+"/domain-selection.asp",true);
 xmlhttp.send();
 }
+
 </script>
 
 
 
-</div></body></html>
+
+
+</body></html>
