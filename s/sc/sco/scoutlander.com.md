@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutlander.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032030id_/http%3A//www.scoutlander.com/publicsite/ModPrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutlander.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118192123id_/http%3A//www.scoutlander.com/publicsite/ModPrivacyStatement.aspx) for the most accurate reproduction.*
 
 # ScoutLander Privacy Statement
 
