@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163822id_/https%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omio.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118195030id_/https%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
