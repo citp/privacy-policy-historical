@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blitzagency.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054102id_/http%3A//www.blitzagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitzagency.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119004432id_/http%3A//www.blitzagency.com/privacy-policy) for the most accurate reproduction.*
 
 # BLITZ Privacy Policy
 
@@ -14,7 +14,7 @@ We collect your IP address that could be used to help diagnose problems with our
 
 We use cookies on certain pages of our site.  Cookies are stored on your hard drive, not on our site.  Most cookies are “session cookies” which means that they are automatically deleted at the end of each session.  A cookie itself does not have the ability to automatically collect personal information about you.  A cookie can store certain information that identifies your computer to us so that you don't have to re-enter information as frequently when you use our site.
 
-Our site’s optional “Contact Us” [Request For Information](http://www.blitzagency.com/contact) page asks users to give us contact information including your name, email address and phone number (information about age, gender and income will be optional). Contact information is used to contact you to provide more information about BLITZ and its services by means of our periodic newsletter.  Such email messages will provide you with an “opt out” option, which you can use to request not to receive further emails.
+Our site’s optional “Contact Us” [Request For Information](https://www.blitzagency.com/contact) page asks users to give us contact information including your name, email address and phone number (information about age, gender and income will be optional). Contact information is used to contact you to provide more information about BLITZ and its services by means of our periodic newsletter.  Such email messages will provide you with an “opt out” option, which you can use to request not to receive further emails.
 
 Our site’s employment opportunity page, includes a submission form on which you may be asked to provide your full name, title, company name, email address, telephone number, how you heard about BLITZ, the position in which you are interested, and to provide a copy of your resume.
 
@@ -36,8 +36,8 @@ This site has industry standard security measures in place to protect the loss, 
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  * You can send email to registration@blitzagency.com
-  * Change your mailing preferences at <http://content.blitzagency.com/hs/manage-preferences/unsubscribe-simple>
+  * You can send email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * Change your mailing preferences at [http://content.blitzagency.com/hs/manage-preferences/unsubscribe-simple](https://content.blitzagency.com/hs/manage-preferences/unsubscribe-simple)
 
 
 
@@ -45,7 +45,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  * Visit <http://content.blitzagency.com/hs/manage-preferences/unsubscribe-simple>
+  * Visit [http://content.blitzagency.com/hs/manage-preferences/unsubscribe-simple](https://content.blitzagency.com/hs/manage-preferences/unsubscribe-simple)
 
 
 
