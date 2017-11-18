@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517232633id_/http%3A//www.hawthornfc.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118081552id_/http%3A//www.hawthornfc.com.au/club/reports-and-policies/business) for the most accurate reproduction.*
 
-# Privacy Policy - hawthornfc.com.au
+# Reports and policies - hawthornfc.com.au
+
+View the **[Hawthorn Football Club Constitution](http://s.afl.com.au/staticfile/AFL%20Tenant/Hawthorn/PDFs/2017%20PDF/HFC%20Constitution%20%202013.pdf)**
+
+The Hawthorn Football Club Media Policy outlines the procedures which apply to all media wishing to deal with the Club for on-field and off-field activities.
+
+The intention of the Policy is to provide media agencies and those employed by media agencies a clear framework as to the weekly media opportunities available, the interview request process, match day activities, communication of key weekly Club information and spokespersons on various Club issues and activities.
+
+**[Download the 2017 Hawthorn media policy (.pdf)](http://s.afl.com.au/staticfile/AFL%20Tenant/Hawthorn/PDFs/2017%20PDF/2017%20Hawthorn%20FC%20Media%20Policy.docx)**
 
 ## AFL and AFL Club Privacy Policy
 
@@ -160,19 +168,19 @@ An individual may:
 
 
 
-by contacting the AFL by email at [privacy.officer@afl.com.au](mailto:privacy.officer@afl.com.au) or the relevant AFL Club’s Privacy Officer by email at the corresponding address below:
+by contacting the AFL by email at [AFLPrivacy.Officer@afl.com.au](mailto:AFLPrivacy.Officer@afl.com.au) or the relevant AFL Club’s Privacy Officer by email at the corresponding address below:
 
 **Club** | **Contact**  
 ---|---  
-Adelaide Football Club | [privacy.officer@afc.com.au ](mailto:privacy.officer@afc.com.au)  
+Adelaide Football Club | [privacy.officer@afc.com.au](mailto:privacy.officer@afc.com.au)  
 Brisbane Lions Football Club | [privacy@lions.com.au](mailto:privacy@lions.com.au)  
 Essendon Football Club | [privacy.officer@essendonfc.com.au](mailto:privacy.officer@essendonfc.com.au)  
 Carlton Football Club | [privacy.officer@carltonfc.com.au](mailto:privacy.officer@carltonfc.com.au)  
 Collingwood Football Club | [privacy.officer@collingwoodfc.com.au](mailto:privacy.officer@collingwoodfc.com.au)  
 Fremantle Football Club | [privacy.officer@fremantlefc.com.au](mailto:privacy.officer@fremantlefc.com.au)  
-Geelong Football Club | [privacy.officer@geelongcats.com.au ](mailto:privacy.officer@geelongcats.com.au)  
+Geelong Football Club | [privacy.officer@geelongcats.com.au](mailto:privacy.officer@geelongcats.com.au)  
 Gold Coast Suns Football Club | [privacy.officer@goldcoastfc.com.au](mailto:privacy.officer@goldcoastfc.com.au)  
-Western Sydney Football Club | [privacy.officer@gwsgiants.com.au ](mailto:privacy.officer@gwsgiants.com.au)  
+Western Sydney Football Club | [privacy.officer@gwsgiants.com.au](mailto:privacy.officer@gwsgiants.com.au)  
 Hawthorn Football Club Limited | [privacy.officer@hawthornfc.com.au](mailto:privacy.officer@hawthornfc.com.au)  
 Melbourne Football Club | [privacy.officer@afl.com.au](mailto:privacy.officer@afl.com.au)  
 North Melbourne Football Club | [privacy.officer@nmfc.com.au](mailto:privacy.officer@nmfc.com.au)  
