@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the politicaldig.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005128id_/http%3A//politicaldig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicaldig.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119003319id_/http%3A//politicaldig.com/privacy) for the most accurate reproduction.*
 
-# Privacy - POLITICAL DIG
+# Privacy - Political Dig
 
 Welcome to our website. This privacy policy tells you how we use personal information collected at this site. By using the site, you are accepting the practices described in this privacy policy, which applies to this website or our mobile applications (for example our iPhone and iPad apps) (a “Site”). If you do not accept these this privacy policy, do not use this Site.
 
