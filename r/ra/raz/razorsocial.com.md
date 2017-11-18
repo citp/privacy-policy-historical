@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the razorsocial.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609200125id_/http%3A//www.razorsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorsocial.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118215239id_/http%3A//www.razorsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,7 +86,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ##  **Contact Us**
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20170609200125id_/http://www.razorsocial.com/contact).
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20171118215239id_/http://www.razorsocial.com/contact).
 
 ## How we use Cookies
 
