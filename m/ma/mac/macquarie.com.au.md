@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macquarie.com.au privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624184207id_/http%3A//www.macquarie.com/au/about/disclosures/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macquarie.com.au privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118064108id_/http%3A//www.macquarie.com/au/about/disclosures/privacy-and-cookies) for the most accurate reproduction.*
 
 # Macquarie Group Privacy Policy
 
@@ -94,6 +94,7 @@ We may share personal information within the Macquarie Group, and may disclose p
 
   * as required by law or regulations, such as those relating to anti-money laundering and counter-terrorism financing or as required by a regulator
   * to our service providers, who provide services in connection with our products and services (including archival, auditing, accounting, customer contact, legal, business consulting, banking, payment, delivery, data processing, data analysis, information broking, mailing, marketing, research, investigation, insurance, identity verification, brokerage, maintenance, trustee, securitisation, website and technology services)
+  * to our affiliates
   * to your nominated financial adviser with your permission
   * as contained in the terms and conditions of our product or service.
 
@@ -101,7 +102,7 @@ We may share personal information within the Macquarie Group, and may disclose p
 
 We may also disclose your personal information (on a confidential basis) in connection with the undertaking of our principal investment activities including, but not limited to, acquisitions, mergers, divestments, and the management of any parts of our business or assets, and the provision of any debt to another party _._
 
-In some circumstances the parties to whom we disclose personal information may operate outside of Australia – this includes locations in the countries listed in the Appendix. Where this occurs, we take steps to protect personal information against misuse or loss.
+In some circumstances the parties to whom we disclose personal information may operate outside of Australia – this includes locations in the countries listed in the Appendix. Where this occurs, we take steps to protect personal information against misuse or loss. Those parties, in turn, may make such information available to the governments of such other countries under lawful order made in that country.
 
 ### Keeping information accurate and up to date
 
