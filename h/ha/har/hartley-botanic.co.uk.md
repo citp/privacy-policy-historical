@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hartley-botanic.co.uk privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013103336id_/https%3A//hartley-botanic.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartley-botanic.co.uk privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118084124id_/https%3A//hartley-botanic.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hartley Botanic
 
