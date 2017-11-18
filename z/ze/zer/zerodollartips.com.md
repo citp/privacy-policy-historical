@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zerodollartips.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610135711id_/http%3A//www.zerodollartips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerodollartips.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118195354id_/http%3A//www.zerodollartips.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zero Dollar Tips
+# Privacy Policy | Zero Dollar Tips - Android and Windows 10 Tutorials
 
 [__  Home](http://www.zerodollartips.com/) > Privacy Policy
 
