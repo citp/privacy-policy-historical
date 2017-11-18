@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smoothradio.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321101126id_/http%3A//www.smoothradio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smoothradio.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118203614id_/http%3A//www.smoothradio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Smooth Radio
+# Privacy Policy - Smooth
 
 Any information you provide about yourself to Smooth will only be used in accordance with our Privacy Policy Statement. Read all about it here. 
 
@@ -10,11 +10,11 @@ Any information you provide about yourself to Smooth will only be used in accord
 
 **We are Global!**
 
-We are part of “Global Limited” and we are obsessive about respecting the privacy of our listeners and customers.
+We are part of "Global Media & Entertainment Ltd" and we are obsessive about respecting the privacy of our listeners and customers.
 
 This policy explains how we will collect information about you through interaction with us over the radio, on the TV, our charity activities or through any sales channel and what we will use it for. 
 
-Any personal information you provide about yourself to us, may be shared across our “Global” Group but will only be used in accordance with this Privacy Policy.
+Any personal information you provide about yourself to us, may be shared across our "Global Media & Entertainment Ltd" Group but will only be used in accordance with this Privacy Policy.
 
 Firstly, please be aware that we do not aim to collect any personal information from individuals under the age of 13.
 
