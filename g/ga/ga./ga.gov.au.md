@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005241id_/http%3A//www.ga.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118230004id_/http%3A//www.ga.gov.au/privacy) for the most accurate reproduction.*
 
 # Geoscience Australia Privacy Policy - Geoscience Australia
 
@@ -156,7 +156,7 @@ Canberra ACT 2601
 
 General Enquiries: 1800 800 173  
 Facsimile: 02 6249 9999  
-Email: [clientservices@ga.gov.au](https://web.archive.org/web/20170606005241id_/http%3A//www.ga.gov.au/clientservices@ga.gov.au)
+Email: [clientservices@ga.gov.au](https://web.archive.org/web/20171118230004id_/http%3A//www.ga.gov.au/clientservices@ga.gov.au)
 
 ## Changes to our privacy policy
 
