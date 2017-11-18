@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the archdaily.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055226id_/http%3A//www.archdaily.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archdaily.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118090952id_/http%3A//www.archdaily.com/legal) for the most accurate reproduction.*
 
-# Legal | ArchDaily | Broadcasting Architecture Worldwide
+# Legal, Privacy Policy | ArchDaily
 
-##  Legal 
-
-###  Privacy Policy 
+##  Privacy Policy 
 
 Welcome to ArchDaily.com. ArchDaily.com (“Website”) is an interactive online service operated by Inversiones Plataforma Networks Limitada (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy. 
 
