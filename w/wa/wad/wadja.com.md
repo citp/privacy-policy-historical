@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wadja.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607120011id_/http%3A//wadja.com/index.php%3Fa%3Dpage%26b%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wadja.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118131649id_/http%3A//wadja.com/index.php%3Fa%3Dpage%26b%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - wadja
 
@@ -10,7 +10,7 @@ Wadja Media Limited develops services that make the message distribution process
 
 Wadja Media Limited owns and operates www.wadja.com, a social messaging service that gives users a faster, simpler way to send one-to-one and group text messages to any mobile, anywhere.
 
-Wadja cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at [privacy@wadja.com](mailto:privacy@wadja.com).
+Wadja cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#78080a110e191b01380f191c1219561b1715).
 
 **Information Collection and Use by Wadja**
 
@@ -46,7 +46,7 @@ Wadja members may also store email addresses and mobile number of people they kn
 
 Users also have an option of storing and backing up contact usernames and passwords from other sites and services, and mobile devices from which they wish to aggregate friends and contacts into their Wadja contact list for messaging and storage purposes. Users who elect to aggregate contact lists from 3rd party services and devices are fully responsible for this maintained list.
 
-You may prevent Wadja email invitations and other messages from being sent to any email address you control by sending a single email with the subject ‘BLOCK’ to privacy@wadja.com. Please note that the email must come from the account you wish to block.
+You may prevent Wadja email invitations and other messages from being sent to any email address you control by sending a single email with the subject ‘BLOCK’ to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please note that the email must come from the account you wish to block.
 
 **Use of Cookies**
 
@@ -74,7 +74,7 @@ Ads appearing on this Web site may be delivered to users by Wadja or one of our 
 
 **Security**
 
-Wadja member accounts are secured by member-created passwords. Wadja takes precautions to ensure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on Wadja , please contact us at [privacy@wadja.com](mailto:privacy@wadja.com).
+Wadja member accounts are secured by member-created passwords. Wadja takes precautions to ensure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on Wadja , please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1464667d6275776d546375707e753a777b79).
 
 **Sharing and Disclosure of Information Wadja.com Collects**
 
@@ -86,4 +86,4 @@ From time to time we may make changes to our privacy policy. If we make changes,
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@wadja.com](mailto:privacy@wadja.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a0d0d2c9d6c1c3d9e0d7c1c4cac18ec3cfcd).
