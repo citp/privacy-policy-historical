@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613011522id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118221315id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The FMD
 
@@ -80,7 +80,7 @@ However, we seek to protect the integrity of our Websites and welcome any feedba
 ## X. California Online Privacy Protection Act Compliance
 
 Since we respect your privacy we have taken the necessary safety measures to be in compliance with the California Online Privacy Protection Act. Consequently we will not distribute your personal information to outside parties without your consent.  
-As part of the California Online Privacy Protection Act, our users may make any changes to their information at anytime by logging into our Websites and going to the 'My Profile' page. Please note that this doesn’t include the username.
+As part of the California Online Privacy Protection Act, our users may make any changes to their information at anytime by logging into our Websites and going to the 'My Profile' page. Please note that this doesn�t include the username.
 
 ## XI. Childrens Online Privacy Protection Act Compliance 
 
