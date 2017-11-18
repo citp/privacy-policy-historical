@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareitforpcdownload.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033447id_/http%3A//www.shareitforpcdownload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareitforpcdownload.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118193709id_/http%3A//www.shareitforpcdownload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shareit For PC Download
 
@@ -53,8 +53,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-ShareitForPCDownload  
-http://www.shareitforpcdownload.com  
+ShareitForPCDownload
+
+> [Download Shareit For PC | Windows, Mac, Android & iPhone](http://www.shareitforpcdownload.com/)
+
+  
 Morinda,Punjab,India  
 07696030708  
 Khivaparam@gmail.com
