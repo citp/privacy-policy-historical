@@ -1,82 +1,89 @@
-> *The following text is extracted and transformed from the tatateleservices.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621194212id_/http%3A//www.tatateleservices.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatateleservices.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118100959id_/http%3A//www.tatateleservices.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Tata Teleservices Limited’s website features
+# Privacy Policy
 
-**The Privacy Policy for TATA Teleservices Limited’s website features.**
+Your privacy is of utmost importance to us at [tatateleservices.com](http://uat.tatateleservices.com/) You can be assured that we enforce the highest levels of confidentiality and security when it comes to our customers. When you provide your personal particulars (such as name, address or contact number) at our site, you can be assured that they stay with us. Tata Teleservices will not give or sell our customers' information collected on the website to any data-collecting agencies or external companies for marketing or solicitation purposes. 
 
-TATA Teleservices Limited’s own policies and procedures designed to ensure that the personal information provided by the customer visiting TATA Teleservices Limited’s website; www.TATATeleservices.com. is protected. 
+We ask for your particulars and opinions so that we can continuously improve our relationship with you. Maintaining your privacy is our priority. At [tatateleservices.com ](http://uat.tatateleservices.com/), we want to meet your specific needs by fostering an interactive and personalized environment. To assure you of our commitment to privacy, we are adopting the following standards in delivering this service to you. 
 
-Our privacy policy contains the following important information regarding your use of TATATeleservices.com: 
+### Security of your personal information
 
-Collection of your personal information.  
-How we use your personal information.  
-Disclosure of your information.   
-Security of your information that you may send to or receive from using TATATeleservices.com.   
-How to access, correct or update your information.  
-Children's privacy.  
-What else you should know about privacy.  
-How to contact us.
+We safeguard information about you according to established and commercially reasonable security standards and procedures. We also access new technology for protecting customer information on an ongoing basis.
 
-  
-If you visit TATATeleservices.com, you are encouraged to read the information provided on the TATA Teleservices Limited site you are using. Information provided may be subject to change from time to time so we encourage you to check our online policies regularly. If you have any concerns or questions, please Contact Us. 
+We have procedures that limit employee access to your personal information to those employees with a business reason to know. We also educate our employees about the importance of confidentiality and customer privacy through standard operating procedures, training programs, and internal policies.
 
-**Collection of your personal information**  
-The types of personal information that we collect from you will depend on how you use TATATeleservices.com applying for TATATeleservices.com membership we will collect details such as your name, date of birth, education, email address, age, gender and some details of your personal interests. Some of this information is essential for us to be able to accurately identify who is using the service and as such is mandatory. Other types of information are collected to help us profile who is using the services and what their interests are. Information of this type is often optional – you need only fill it in if you wish to do so. For example you will have the option to provide the name of your Internet Service provider, your Internet usage, etc. TATA Teleservices Limited will endeavour to inform you what the information will be used for. 
+### Protecting your information exchanged online
 
-We value your trust in TATATeleservices.com. In all cases, your information will be held in strictest confidence. 
+When you apply online for our service, or provide information to us at our website, you provide personal and financial information that is necessary for us to process your application or payments. Information provided to us at our website is sent in a "secure session" established with Secure Sockets Layer (SSL) technology. SSL protects information that is sent over the Internet between your computer and us by encrypting it and thus prevents misuse.
 
-TATATeleservices.com records other information as well. Whenever a page is requested from our web server, we record the time, date and URL of the request, along with information on the browser software that is being used. This information is used to improve the structure and performance of TATATeleservices.com, and is not used in any way to uniquely identify a user. 
+### How we collect personal information
 
-TATATeleservices.com also uses cookies. Cookies are pieces of information that a website can transfer to an individual's computer hard drive for record keeping. Cookies can make using TATATeleservices.com easier by storing information about your preferences on a particular website. This will enable you to take full advantage of the services that TATATeleservices.com offers. The use of cookies is an industry standard and you'll find most major websites use them. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used. 
+Tata Teleservices collects personal information in a number of ways, including: 
 
-**How we use your personal information**  
-The personal information that you provide to us during registration is used for identification purposes and will assist you to subscribe to TATATeleservices.com services at any point of time in the future. 
+  * Directly from you , when you submit your personal details at [tatateleservices.com ](http://uat.tatateleservices.com/)
+  * From third parties such as Tata Teleservices's related companies, credit reporting agencies or your representatives;
+  * From publicly available sources of information;
+  * From Tata Teleservices's own records of how you use your Tata Teleservices services; or 
+  * When legally required to do so ( CAF form )
 
-The information we gather from your use of TATATeleservices.com enables us to provide better services that are tailored to your needs. Recording usage patterns helps us to identify the areas of our site that are popular and those that are not. By using cookies, users can specify their unique preferences. 
 
-The data that is gathered when you use TATATeleservices.com is aggregated for analysis by TATA Teleservices Limited. 
 
-Identifiable characteristics are removed and the user remains anonymous. Additional data provided to us is used to examine Internet trends and demographics to help TATA Teleservices Limited offer you improved online products and services. 
+### How we use your personal information
 
-**Disclosure of your information**  
-The information we collect from you will be kept strictly confidential. TATA Teleservices Limited will not reveal, disclose, sell, distribute, rent, licence, share or pass on to any third parties, other than those who are contracted to TATA Teleservices Limited, any personal information that you may have provided to us unless we have your express consent to do so. 
+Your personal information may be used to: 
 
-The following shall not constitute confidential Information: 
+  * Verify your identity;
+  * Assist you to subscribe to Tata Teleservices's and/or its associate's products and services;
+  * Provide the services you require;
+  * Administer and manage those services, including charging, billing and collecting debts;
+  * Inform you of ways the services provided to you could be improved or of additional products, services or tariff plans that could be subscribed by you;
+  * Conduct appropriate checks for credit-worthiness and for fraud;
+  * Research and develop Tata Teleservices's and/or its associates' products and services;
+  * Gain an understanding of your information and communication needs in order for Tata Teleservices to provide you with a better service; and
+  * Maintain and develop Tata Teleservices's business systems and infrastructure, including testing and upgrading of these systems. Also, your personal information is collected so that Tata Teleservices can promote and market its or its associates' services to you (including by way of direct mail, telemarketing, SMS and MMS messages). Tata Teleservices does this to keep you informed of its products, services and special offers as also any promotional offers designed by Tata Teleservices in collaboration with third parties. If you do not wish Tata Teleservices to promote and market its products, services and special offers to you, please visit uat.tatateleservices.com ( Do Not Disturb )
 
-a) Information disclosed by a third party with out any obligation not to disclose the same. 
 
-b) Information that is in the public domain through no act or default of either party hereto. 
 
-c) Information developed independently by TATA Teleservices Limited without reliance on any confidential information received by you.
+### When we disclose your personal information 
 
-d) Information is already known to TATA Teleservices Limited without any obligation of confidentiality from a source other than you. 
+In order to deliver the services you require, Tata Teleservices may disclose your personal information to organizations outside of Tata Teleservices. Your personal information is disclosed to these organizations only in relation to Tata Teleservices providing its services to you. These organizations carry out Tata Teleservices's: 
 
-Exceptions to disclosure of confidential information: 
+  * Customer enquiries;
+  * Mailing operations;
+  * Billing and debt-recovery functions;
+  * Information technology services;
+  * Installation, maintenance and repair services;
+  * Market research; and
+  * Web site usage analysis. Tata Teleservices takes reasonable steps to ensure that these organizations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
 
-\- where there are reasonable grounds to believe that disclosure is necessary to prevent a threat to life or health; and; 
 
-\- where TATA Teleservices Limited is required to provide information in response to Subpoenas or Warrants or other legal processes and following statutory and legal requirements. 
 
-Security of your information that you may send to or receive from using TATATeleservices.com  
-Transmissions sent to or from TATATeleservices.com are routinely monitored for quality control and systems administration. 
+In addition, Tata Teleservices may disclose your personal information to:
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us. These activities are conducted at your own risk. Once we receive your transmission, we make our best effort to ensure its security. 
+  * Your authorized representatives or your legal advisers (e.g. when requested by you to do so); 
+  * Credit-reporting and fraud-checking agencies;
+  * Credit providers (for credit related purposes such as credit-worthiness, credit rating, credit provision and financing);
+  * Tata Teleservices's related companies;
+  * Tata Teleservices's professional advisers, including its accountants, auditors and lawyers;
+  * Government and regulatory authorities and other organizations, as required or authorized by law; and
+  * Organizations who manage Tata Teleservices's business and corporate strategies, including those involved in a transfer/sale of all or part of its assets or business (including accounts and trade receivables) and those involved in managing Tata Teleservices's corporate risk and funding functions (e.g. securitization).
 
-**How to access, correct or update your information**  
-The information you provide to us is kept in a secure environment accessed only by authorised persons. You will always have access to the information and content that you provide to us. You can easily edit or delete your personal information, except for the mandatory items required for your membership application. You may access your information via the login screen. You will need your username and password to access and modify your registration information. 
 
-**Children's privacy**  
-The safety of children is very important to us.   
-We ask that children under the age of 18 have a parent or guardian verify their membership application with TATATeleservices.com. Whilst TATATeleservices.com will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children's Internet usage. 
 
-Children should always ask a parent before sending any transmission over the Internet. 
+### Tata Teleservices's websites
 
-**What else you should know about privacy**  
-Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You as an individual are responsible for the security of and access to your own computer. 
+Tata Teleservices provides products and services via its various web sites. When you visit Tata Teleservices's sites, its web servers record anonymous information such as the time, date and URL of the request. This information assists Tata Teleservices to improve the structure of its web sites and monitor their performance.
 
-Please be aware that whenever you voluntarily disclose personal information over the Internet (for example: in discussion forums, via email, or in chat sites) that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. 
+Tata Teleservices may use 'cookies' on various web sites. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that our web sites may place on your computer. Usually, cookies are used as a means for Tata Teleservices's web sites to remember your preferences. As such, cookies are designed to improve your experience of Tata Teleservices's web sites.
 
-Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and/or any account information. Please be careful and responsible whenever you are using the Internet and TATATeleservices.com. 
+In some cases, cookies may collect and store personal information about you. Tata Teleservices extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. You can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of our web sites or take advantage of the improved web site experience that cookies offer.
 
-**How to contact us**  
-If you have any concerns or questions, please contact TATA Teleservices Limited by calling on the numbers mentioned at respective cities or use the Contact Us link to send your questions and comments via email. 
+Tata Teleservices also collects Internet Protocol (IP) addresses. IP addresses are assigned to computers on the internet to uniquely identify them within the global network. Tata Teleservices collects and manages IP addresses as part of the service of providing internet session management and for security purposes.  
+Help us to ensure we hold accurate information 
+
+Tata Teleservices takes all reasonable precautions to ensure that the personal information it collects, uses and discloses is accurate, complete and up-to-date. However, the accuracy of that information depends to a large extent on the information you provide. That's why Tata Teleservices recommends that you:
+
+  * Let Tata Teleservices know if there are any errors in your personal information; and
+  * Keep Tata Teleservices up-to-date with changes to your personal information such as your name or address. Tata Teleservices reserves the right to charge a fee for searching for and providing access to your information.
+
+
