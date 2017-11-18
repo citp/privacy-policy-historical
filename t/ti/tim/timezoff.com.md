@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timezoff.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130750id_/http%3A//timezoff.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timezoff.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118214640id_/http%3A//timezoff.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # Timez Off
 
