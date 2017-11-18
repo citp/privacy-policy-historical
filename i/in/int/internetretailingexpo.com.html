@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the internetretailingexpo.com privacy policy that was archived on 2017-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170518143500id_/http%3A//internetretailingexpo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internetretailingexpo.com privacy policy that was archived on 2017-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118222524id_/http%3A//internetretailingexpo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB" class="no-js"><head>
 			<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -19,12 +19,15 @@
 
 			
 			<!--
-			(c) Copyright 2017 ASP Solutions Ltd.
-			SHOWOFF is a product owned by ASP Solutions Ltd.
+			DEE11854C5ED5B3D847330FB955517AD91A48616E1A7A324F15D8F4374E49E77
 			-->
-			<meta name="copyright" content="ASP Solutions Ltd">
-		<base href="http://internetretailingexpo.com/"><meta property="og:type" content="article"><meta property="og:site_name" content="Internet Retailing Expo 2017"><meta property="og:title" content="Privacy Policy"><meta property="schema:name" content="Privacy Policy"><!-- Facebook Pixel Code -->
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script type="text/javascript" async="" defer="" src="//analytics.showoff.asp.com/piwik.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+			<base href="http://internetretailingexpo.com/"> 
+			<meta property="og:type" content="article">  
+			<meta property="og:site_name" content="Internet Retailing Expo 2017">  
+			<meta property="og:title" content="Privacy Policy">  
+			<meta property="schema:name" typeof="http://schema.org/WebPage" content="Privacy Policy">  
+<!-- Facebook Pixel Code -->
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=2&amp;cb=654744736"></script><script type="text/javascript" async="" defer="" src="//analytics.showoff.asp.com/piwik.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -99,7 +102,7 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 					</script>
 				
 			<script>
-				$script('/includes/javascript/magnificPopup/jquery.magnific-popup.min.js', function(){ $script('/includes/javascript/ASPModal.js'); });
+				$script('/includes/javascript/magnificPopup/jquery.magnific-popup.min.js', function(){ $script('/includes/javascript/ASPModal.old.js'); });
 
 				jQuery(document).ready(function(){
 
@@ -140,8 +143,36 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 						//open email share in modal
 						if(data.ShareTo.indexOf('__share/email') == 0)
 							openRemoteModal(data.ShareTo);
-						else
-							window.open(data.ShareTo,'_blank','width=620,height=440');
+						else{
+
+						var popupBlockerChecker = {
+									check: function(popup_window){
+											var _scope = this;
+											if (popup_window) {
+													if(/chrome/.test(navigator.userAgent.toLowerCase())){
+															setTimeout(function () {
+																	_scope._is_popup_blocked(_scope, popup_window);
+															 },200);
+													}else{
+															popup_window.onload = function () {
+																	_scope._is_popup_blocked(_scope, popup_window);
+															};
+													}
+											}else{
+													_scope._displayError();
+											}
+									},
+									_is_popup_blocked: function(scope, popup_window){
+											if ((popup_window.innerHeight > 0)==false){ scope._displayError(); }
+									},
+									_displayError: function(){
+											alert("Popup Blocker is enabled! Please add this site to your exception list.");
+									}
+							};
+
+							var popup = window.open(data.ShareTo,'_blank','width=620,height=440');
+							popupBlockerChecker.check(popup);
+						}
 					}
 
 				});
@@ -199,26 +230,17 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 	</li><li title="TOP500 Lounge" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/top500-lounge" target="_self" class="menu__item__link ">TOP500 Lounge</a>
-	</li><li title="IMRG Lounge" class="menu__item">
-		
-	    <a href="http://internetretailingexpo.com/IMRG-Lounge" target="_self" class="menu__item__link ">IMRG Lounge</a>
 	</li><li title="Innovation Hub" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/IRX-Innovation-pavilion" target="_self" class="menu__item__link ">Innovation Hub</a>
-	</li><li title="Jiangsu Pavilion" class="menu__item">
-		
-	    <a href="http://internetretailingexpo.com/jiangsu-pavilion" target="_self" class="menu__item__link ">Jiangsu Pavilion</a>
 	</li><li title="Official After Party" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/official-after-party" target="_self" class="menu__item__link ">Official After Party</a>
 	</li></ul></li><li title="Programme" class="menu__item">
     <span class="menu__item__text">Programme</span>
-<ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Opening Plenary" class="menu__item">
+<ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Conference Tracks" class="menu__item">
 		
-	    <a href="http://internetretailingexpo.com/opening-plenary" target="_self" class="menu__item__link ">Opening Plenary</a>
-	</li><li title="Conferences" class="menu__item">
-		
-	    <a href="http://internetretailingexpo.com/conference" target="_self" class="menu__item__link ">Conferences</a>
+	    <a href="http://internetretailingexpo.com/conference" target="_self" class="menu__item__link ">Conference Tracks</a>
 	</li><li title="Speakers" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/speakers" target="_self" class="menu__item__link ">Speakers</a>
@@ -228,9 +250,7 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 	</li><li title="Clinics" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/clinics" target="_self" class="menu__item__link ">Clinics</a>
-	</li><li title="Download Agenda" class="menu__item">
-    <a href="http://internetretailingexpo.com/news-hub/agenda-at-a-glance" target="_blank" class="menu__item__link">Download Agenda</a>
-</li></ul></li><li title="Visit" class="menu__item">
+	</li></ul></li><li title="Visit" class="menu__item">
     <span class="menu__item__text">Visit</span>
 <ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Why Visit" class="menu__item">
 		
@@ -283,6 +303,9 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 <ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Digital Press Room" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/press/digital-press-room" target="_self" class="menu__item__link ">Digital Press Room</a>
+	</li><li title="IRTV Studio" class="menu__item">
+		
+	    <a href="http://internetretailingexpo.com/irtv-studio" target="_self" class="menu__item__link ">IRTV Studio</a>
 	</li></ul></li><li title="About" class="menu__item">
     <span class="menu__item__text">About</span>
 <ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Internet Retailing Events" class="menu__item">
@@ -291,10 +314,7 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 	</li><li title="Meet the team" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/about/the-ire-family" target="_self" class="menu__item__link ">Meet the team</a>
-	</li></ul></li><li title="IRTV Studio" class="menu__item">
-		
-	    <a href="http://internetretailingexpo.com/irtv-studio" target="_self" class="menu__item__link ">IRTV Studio</a>
-	</li></ul>
+	</li></ul></li></ul>
 						</nav>
 					</div>
 				</div>
@@ -362,54 +382,84 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
   <div class="section__body__article section__body__article--id-1"> 
    <article class="article article--default"> 
     <div class="article__body"> 
-     <p><strong>How we use your information</strong></p> 
-     <p>Clarion Events are committed to protect your personal information which is processed in accordance with our Privacy Policy which can be found at <a href="http://www.clarionevents.com/" target="_blank" title="http://www.clarionevents.com/">www.clarionevents.com</a>.</p> 
-     <p><strong>We may use the information you give us for the following purposes:</strong></p> 
+     <p align="center"><strong>Clarion Events – Group Privacy Policy</strong></p> 
+     <ol> 
+      <li><strong>INTRODUCTION</strong></li> 
+     </ol> 
+     <p>This privacy policy (<strong>Privacy Policy</strong>) sets out the ways in which all members of the <strong>Clarion Group</strong> (by which we mean Clarion Events Limited and all of its subsidiaries ‘Clarion’, ‘Clarion Group’) may use your personal data.</p> 
+     <p>In this Privacy Policy:</p> 
      <ul> 
-      <li>to register you with our website and to administer our website services.</li> 
-      <li>to provide you with services and information that you have requested about Clarion events (e.g. information about events that you have requested)</li> 
-      <li>for assessment and analysis (e.g. market, customer, information and product analysis) to enable us to review, develop and improve the services which we offer and to enable us to provide you with information about Clarion events which we believe will closely match your preferences.</li> 
-      <li>Our events may use your information to make decisions about you using computerised technology, for example using automatically selecting services which we think will interest you from the information we have.</li> 
+      <li>‘<strong>we</strong>’, ‘<strong>us</strong>’ or ‘<strong>our</strong>’ means the Clarion entity with which you are interacting. For example, the entity organising the event you are attending, or managing the website you are using. We will make it clear to you which entity this is;</li> 
+      <li>‘the <strong>site</strong>’ means the Clarion website you are visiting or engaging with; and</li> 
+      <li>‘<strong>you</strong>’ and ‘<strong>your</strong>’ means you, the person engaging with us, registering for our events or services or visiting our site.</li> 
      </ul> 
-     <p>&nbsp;</p> 
-     <p><strong>We may keep you informed of such services (including details of shows, special offers, discounts, competitions and newsletters) by using the following methods:</strong></p> 
+     <p>By registering for one of our events, subscribing to our services, visiting our site or otherwise interacting with us, you consent to our processing of your personal data in accordance with this Privacy Policy.</p> 
+     <ol> 
+      <li value="2"><strong>HOW TO CONTACT US</strong></li> 
+     </ol> 
+     <p><strong>Address</strong>: <strong>FAO the Data Protection Officer</strong>, Bedford House, 69-79 Fulham High Street, London, SW63JW, United Kingdom.<br> <strong>Email</strong>: <a href="mailto:companysecretary@clarionevents.com">companysecretary@clarionevents.com</a></p> 
+     <ol> 
+      <li value="3"><strong>INFORMATION WE MAY COLLECT ABOUT YOU</strong></li> 
+     </ol> 
      <ul> 
-      <li>Post</li> 
-      <li>Email</li> 
-      <li>Telephone</li> 
-      <li>mobile messaging</li> 
-      <li>fax</li> 
+      <li><u><strong>Information you give us</strong></u>: We collect any information you provide to us when you complete registration forms, or provide us with your details over the phone, for example when you register an account with us, register to attend one of our events or subscribe to our mailing list. This information might include your name, address, email address, phone number, credit card information and other information relevant to the event or service that you’re registering for.</li> 
+      <li><u><strong>Information we collect about you</strong></u>: We will collect any information contained in any correspondence between you and us via contact forms on websites, and emails or telephone calls.</li> 
+      <li>We may collect, for the purposes of any events that we operate badged access for, information about your location in and engagement with the event. For example, for certain events, access will be granted via a badge which holds your registration details including personal information. You will be required to use your badge to gain access to the event. In this situation we will collect information about when you enter the event and which sponsors you have engaged with.</li> 
+      <li>We may collect information about you visiting our website and how you use it. This may include your IP address, geographical location, device information, browser type, referral source, length of visit, operating system, number of page views and similar information. This information may be collected by a third party website analytics service provider on our behalf and/or may be collected using cookies. For more information on cookies please refer to paragraph 6 below.</li> 
+      <li><u><strong>Information we receive from third parties</strong></u>: We may collect information about you from third parties that we work closely with for the purposes of delivering to you the services that you request from us. For example, we may engage third parties to assist us with our online event registration systems or payment systems; these entities will collect information directly from you on our behalf. We may engage third parties to operate event websites on our behalf; these entities will collect information directly from you about your visits to the website on our behalf.</li> 
+      <li>We&nbsp;may also receive information about you from third parties where you have consented to such third party sharing your information with us.</li> 
      </ul> 
-     <p>&nbsp;</p> 
-     <p><strong>If you do not wish to receive information about Clarion events, please:</strong></p> 
+     <ol> 
+      <li value="4"><strong>HOW WE USE INFORMATION ABOUT YOU</strong></li> 
+     </ol> 
+     <p>You agree that we may use your information for the following purposes:</p> 
      <ul> 
-      <li>Tick the opt-out box provided when registering on this website or on printed application forms.</li> 
-      <li>Let the telephone operator know.</li> 
-      <li>Click the unsubscribe box when receiving emails from us.</li> 
+      <li>to provide you with services or information that you have requested from us such as attendance at one of our events;</li> 
+      <li>to contact you with information about an event that you’re attending.</li> 
+      <li>to keep in contact with you about other events or services of ours that we believe may interest you.</li> 
+      <li>To share information with other entities within the Clarion Group or other selected third parties, to enable them to contact you with information about goods or services that may interest you;</li> 
+      <li>to provide customer service and support, deal with enquiries or notify you of changes in relation to your attendance at one of our events, use of our site or other services;</li> 
+      <li>to carry out aggregated and anonymised research about general consumer engagement with our events, sites and services;</li> 
      </ul> 
-     <p>&nbsp;</p> 
-     <p>We may from time to time contact you for the purposes of market research for Clarion events using the contact methods mentioned above.</p> 
-     <p>We may also use your information to administer any prize draws or competitions or other promotions that you choose to enter.</p> 
-     <p>We may, from time to time release your data to carefully selected third parties, unrelated to Clarion events, for the purposes of marketing.</p> 
-     <p><strong>If you do / do not wish to receive information from third parties, please:</strong></p> 
+     <ol> 
+      <li value="5"><strong>WHO WE MIGHT SHARE YOUR INFORMATION WITH</strong></li> 
+     </ol> 
+     <p>You agree that we can share your personal information with:</p> 
      <ul> 
-      <li>Tick the opt-out / opt-in boxes provided when registering on this website or on printed application forms.</li> 
+      <li>other entities in the Clarion Group or selected third parties that we work with, where necessary for the purposes of delivering to you services that you request from us. For example, when you register to attend an event that we host, we may need to share your information with third party sub-contractors, service providers or other Clarion Group entities</li> 
+      <li>any other Clarion Group entity or selected third party that you consent to our sharing your information with for marketing purposes;</li> 
+      <li>any other third parties where necessary to enable us to enforce our legal rights, or to protect the rights, property or safety of our employees or where such disclosure may be permitted or required by law.</li> 
      </ul> 
-     <p>&nbsp;</p> 
-     <p>We value our relationship with you and by requesting information on, or registering / buying tickets to attend Clarion events, you agree that we may use the contact details provided to us for our events as set out above.</p> 
-     <p><strong>Disclosure of Your Information</strong></p> 
-     <p>We may give information about you to the following (who may use it for the same purposes as set out above):</p> 
-     <ul> 
-      <li>To our partners and third parties that collaborate with us for an event for which you registered.</li> 
-      <li>Agents and third parties who fulfil any other services on Clarion's behalf (e.g. to administer payments for purchases, despatch tickets and information etc).</li> 
-      <li>To other delegates (only where you are attending in a professional capacity, e.g. business related events) where it is expected that attendees will have access to a list of attendees and their organisation but not the actual contact details.</li> 
-      <li>To other organisations for the administration of prize draws, competitions or promotions.</li> 
-      <li>To anyone to whom we transfer or may transfer our rights and duties with you (for example a sale of the business or the sale of a particular event).</li> 
-      <li>To carefully selected third parties who rent Clarion lists for marketing purposes.</li> 
-      <li>If we have a duty to do so or if the law allows us to do so.</li> 
-     </ul> 
-     <p>&nbsp;</p> 
-     <p>In carrying out the activities specified in this privacy policy, we may transfer data to reputable companies outside the European Economic Area. We take steps to ensure that your information will be afforded the same level of protection as that required of us under applicable UK data protection legislation.</p> 
+     <ol> 
+      <li value="6"><strong>COOKIES</strong></li> 
+     </ol> 
+     <p>We use cookies to ensure that you get the most out of our site. Cookies are small text files which we store on the device you use to access the site. Cookies allow us to monitor your use of the software and simplify your use of the site. For example, a temporary cookie is also used to keep track of your "session". Without that temporary cookie (which is not stored after you quit your browser) you would have to log on every time you access a new page.</p> 
+     <p>If you do not wish for cookies to be installed on your device, you can change the settings on your browser or device to reject cookies. For more information about how to reject cookies using your internet browser settings please consult the “Help” section of your internet browser (or alternatively visit http://www.aboutcookies.org). Please note that, if you do set your Internet browser to reject cookies, you may not be able to access all of the functions of our websites.</p> 
+     <ol> 
+      <li value="7"><strong>THIRD PARTY CONTENT, SITES AND CONTRIBUTORS</strong></li> 
+     </ol> 
+     <p>Some of our websites may contain content and links to other websites that are operated by third parties. We don’t control these third party websites (including whether or not they store cookies) and this Privacy Policy does not apply to them. Please consult the terms and conditions and Privacy Policy of the relevant third party website to find out how that site collects and uses your information and to establish whether and for what purpose they use cookies.</p> 
+     <ol> 
+      <li value="8"><strong>HOW WE LOOK AFTER YOUR INFORMATION AND HOW LONG WE KEEP IT FOR</strong></li> 
+     </ol> 
+     <p>We use appropriate technological and operational security measures to protect your information against any unauthorised access to or unlawful use. We will retain your information for as long as is necessary to provide you with the services that you have requested from us or for as long as the law otherwise permits.</p> 
+     <p>Transmission of information over the internet can be insecure, and although we employ measures to protect your information from unauthorised access, you acknowledge that we cannot always guarantee the security of information sent over the internet.</p> 
+     <ol> 
+      <li value="9"><strong>WHERE WE STORE YOUR INFORMATION</strong></li> 
+     </ol> 
+     <p>Our servers are situated in inside the European Economic Area (EEA) and all of the information that we collect about you will be stored on these servers.</p> 
+     <p>In certain circumstances your information may be processed outside of the EEA such as when we engage third parties based outside of the EEA to assist us with the services that you have requested from us. In such circumstances, we will take all steps necessary to ensure that any of your information is adequately protected and processed in accordance with this Privacy Policy. You consent to this transfer and processing of your information.</p> 
+     <ol> 
+      <li value="10"><strong>YOUR RIGHTS TO THE INFORMATION WE HOLD ABOUT YOU</strong></li> 
+     </ol> 
+     <p>You have the right to see the personal data that we keep about you, by making a request in writing to the Data Protection Officer (details provided above at Paragraph 2) and payment of a</p> 
+     <p>£10 fee. You can also contact us using the details above at Paragraph 2 If you are concerned that any of the information we hold on you is incorrect</p> 
+     <ol> 
+      <li value="11"><strong>CHANGES TO THIS PRIVACY POLICY</strong> 
+       <ol> 
+        <li value="11.1">1 We reserve the right to update this Privacy Policy from time to time. Updated privacy policies will be updated on the relevant Clarion Group website</li> 
+       </ol> </li> 
+     </ol> 
      <p>&nbsp;</p> 
      <p><strong>ASP</strong></p> 
      <p>ASP provide and host this website for Clarion Events Ltd (Retail Division). ASP is registered with the UK Data Commissioner as Data Controllers and hold all the data within the UK.</p> 
@@ -482,11 +532,11 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 			<div class="inner">
 				<div class="panel panel--default panel--id-18970"> 
  <div class="panel__body">  
-  <div class="w-testimonials w-testimonials--id-uid_FA733"> 
+  <div class="w-testimonials w-testimonials--id-uid_9D566"> 
    <script type="text/javascript" src="/__widgets/slider/jquery.bxslider.min.js"></script> 
    <script type="text/javascript">
 							$(document).ready(function(){
-								$(".w-testimonials--id-uid_FA733 .w-testimonials__list").bxSlider({
+								$(".w-testimonials--id-uid_9D566 .w-testimonials__list").bxSlider({
 									speed:3000
 									, mode:"fade"
 									, randomStart:true
@@ -609,11 +659,11 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
   <h4 class="panel__header__title"> Gold Sponsors </h4> 
  </div> 
  <div class="panel__body">  
-  <div class="w-icatcher-image w-icatcher-image--id-uid_F81B5"> 
+  <div class="w-icatcher-image w-icatcher-image--id-uid_21651"> 
    <script type="text/javascript" src="/__widgets/slider/jquery.bxslider.min.js"></script> 
    <script type="text/javascript">
 								$(document).ready(function(){
-									$(".w-icatcher-image--id-uid_F81B5 .w-icatcher-image__list").bxSlider({
+									$(".w-icatcher-image--id-uid_21651 .w-icatcher-image__list").bxSlider({
 										pause:4000
 										, mode:"fade"
 										, randomStart:true
@@ -685,11 +735,11 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
  </div> 
  <div class="panel__body"> 
   <p> 
-   </p><div class="w-icatcher-image w-icatcher-image--id-uid_B0A76"> 
+   </p><div class="w-icatcher-image w-icatcher-image--id-uid_ED4B4"> 
     <script type="text/javascript" src="/__widgets/slider/jquery.bxslider.min.js"></script> 
     <script type="text/javascript">
 								$(document).ready(function(){
-									$(".w-icatcher-image--id-uid_B0A76 .w-icatcher-image__list").bxSlider({
+									$(".w-icatcher-image--id-uid_ED4B4 .w-icatcher-image__list").bxSlider({
 										pause:4000
 										, mode:"fade"
 										, randomStart:true
@@ -732,11 +782,11 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
  </div> 
  <div class="panel__body"> 
   <p> 
-   </p><div class="w-icatcher-image w-icatcher-image--id-uid_F462F"> 
+   </p><div class="w-icatcher-image w-icatcher-image--id-uid_8496F"> 
     <script type="text/javascript" src="/__widgets/slider/jquery.bxslider.min.js"></script> 
     <script type="text/javascript">
 								$(document).ready(function(){
-									$(".w-icatcher-image--id-uid_F462F .w-icatcher-image__list").bxSlider({
+									$(".w-icatcher-image--id-uid_8496F .w-icatcher-image__list").bxSlider({
 										pause:4000
 										, mode:"fade"
 										, randomStart:true
@@ -812,26 +862,17 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 	</li><li title="TOP500 Lounge" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/top500-lounge" target="_self" class="menu__item__link ">TOP500 Lounge</a>
-	</li><li title="IMRG Lounge" class="menu__item">
-		
-	    <a href="http://internetretailingexpo.com/IMRG-Lounge" target="_self" class="menu__item__link ">IMRG Lounge</a>
 	</li><li title="Innovation Hub" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/IRX-Innovation-pavilion" target="_self" class="menu__item__link ">Innovation Hub</a>
-	</li><li title="Jiangsu Pavilion" class="menu__item">
-		
-	    <a href="http://internetretailingexpo.com/jiangsu-pavilion" target="_self" class="menu__item__link ">Jiangsu Pavilion</a>
 	</li><li title="Official After Party" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/official-after-party" target="_self" class="menu__item__link ">Official After Party</a>
 	</li></ul></li><li title="Programme" class="menu__item">
     <span class="menu__item__text">Programme</span>
-<ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Opening Plenary" class="menu__item">
+<ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Conference Tracks" class="menu__item">
 		
-	    <a href="http://internetretailingexpo.com/opening-plenary" target="_self" class="menu__item__link ">Opening Plenary</a>
-	</li><li title="Conferences" class="menu__item">
-		
-	    <a href="http://internetretailingexpo.com/conference" target="_self" class="menu__item__link ">Conferences</a>
+	    <a href="http://internetretailingexpo.com/conference" target="_self" class="menu__item__link ">Conference Tracks</a>
 	</li><li title="Speakers" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/speakers" target="_self" class="menu__item__link ">Speakers</a>
@@ -841,9 +882,7 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 	</li><li title="Clinics" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/clinics" target="_self" class="menu__item__link ">Clinics</a>
-	</li><li title="Download Agenda" class="menu__item">
-    <a href="http://internetretailingexpo.com/news-hub/agenda-at-a-glance" target="_blank" class="menu__item__link">Download Agenda</a>
-</li></ul></li><li title="Visit" class="menu__item">
+	</li></ul></li><li title="Visit" class="menu__item">
     <span class="menu__item__text">Visit</span>
 <ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Why Visit" class="menu__item">
 		
@@ -896,6 +935,9 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 <ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Digital Press Room" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/press/digital-press-room" target="_self" class="menu__item__link ">Digital Press Room</a>
+	</li><li title="IRTV Studio" class="menu__item">
+		
+	    <a href="http://internetretailingexpo.com/irtv-studio" target="_self" class="menu__item__link ">IRTV Studio</a>
 	</li></ul></li><li title="About" class="menu__item">
     <span class="menu__item__text">About</span>
 <ul class="menu--sub-menu menu--sub-menu--level-1"><li title="Internet Retailing Events" class="menu__item">
@@ -904,10 +946,7 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 	</li><li title="Meet the team" class="menu__item">
 		
 	    <a href="http://internetretailingexpo.com/about/the-ire-family" target="_self" class="menu__item__link ">Meet the team</a>
-	</li></ul></li><li title="IRTV Studio" class="menu__item">
-		
-	    <a href="http://internetretailingexpo.com/irtv-studio" target="_self" class="menu__item__link ">IRTV Studio</a>
-	</li></ul>
+	</li></ul></li></ul>
 					</nav>
 				</div>
 				<div class="bottom__contacts">
@@ -917,7 +956,7 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
  </div> 
  <div class="panel__body"> 
   <p><img alt="Clarion Logo" src="__media/Footer/clarion_logo_white.png" style="width: 91px; height: 56px; float: right;">T: +44(0)20 7384 7802 &nbsp;E: <a href="mailto:info@internetretailingevents.com?Subject=IRX%202017%20Web%20Enquiry" target="_top" title="info@internetretailingevents.com">info@internetretailingevents.com</a></p> 
-  <p>InternetRetailing Expo is owned by Internet Retailing Events part of Clarion Events Ltd.<br> We host board level events for multichannel retailers across Europe and&nbsp;work in partnership with InternetRetailing Media, who are the leading magazine portal for European eCommerce.</p> 
+  <p>The InternetRetailing Expo is organised by Internet Retailing Events, registered in England and Wales, Company Number 07081797, VAT No. GB 843845601&nbsp;<br> Registered Office: Bedford House, 69-79 Fulham High Street, London, SW63JW, United Kingdom<br> Internet Retailing Events is a subsidiary of Clarion Events Limited.</p> 
  </div> 
 </div>
 				</div>
@@ -944,8 +983,8 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 						<div class="w-search__form__title">
 								Search
 							</div>
-							<div class="form__group"><div class="form__group__controls"><input class="w-search__form__input" id="q" type="text" name="q" placeholder="Search"></div></div>
-							<div class="form__group"><div class="form__group__controls"><button class="w-search__form__submit" name="searchSubmitButton" id="searchSubmitButton" type="submit">Search</button></div></div>
+							<div class="p-form__group form__group"><div class="p-form__group__controls form__group__controls"><input class="w-search__form__input" id="q" type="text" name="q" placeholder="Search"></div></div>
+							<div class="p-form__group form__group"><div class="p-form__group__controls form__group__controls"><button class="w-search__form__submit" name="searchSubmitButton" id="searchSubmitButton" type="submit">Search</button></div></div>
 				</form>
 			</div>
 			
@@ -962,7 +1001,7 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
 		 <div class="w-zone-login__form-wrapper">
 			
 			<form action="__zone/dologin" class="w-zone-login__form zoneloginform" method="post">
-				<input value="LOGIN" id="formID" type="hidden" name="formID"> <div class="form__group"><div class="form__group__title"><label required="required" for="username" class="form__group__title__label">Username *</label></div><div class="form__group__controls"><input autocomplete="off" class="w-zone-login__form__input" id="username" type="text" required="required" name="username" placeholder="Username"></div></div> <div class="form__group"><div class="form__group__title"><label required="required" for="password" class="form__group__title__label">Password *</label></div><div class="form__group__controls"><input autocomplete="off" class="w-zone-login__form__input" id="password" type="password" required="required" name="password" placeholder="Password"></div></div> <div class="form__group"><div class="form__group__controls"><button class="button w-zone-login__form__submit" name="loginSubmitButton" id="loginSubmitButton" type="submit">Login</button></div></div> 
+				<input value="LOGIN" id="formID" type="hidden" name="formID"> <div class="p-form__group form__group"><div class="p-form__group__title form__group__title"><label required="required" for="username" class="p-form__group__title__label form__group__title__label">Username *</label></div><div class="p-form__group__controls form__group__controls"><input autocomplete="off" class="w-zone-login__form__input" id="username" type="text" required="required" name="username" placeholder="Username"></div></div> <div class="p-form__group form__group"><div class="p-form__group__title form__group__title"><label required="required" for="password" class="p-form__group__title__label form__group__title__label">Password *</label></div><div class="p-form__group__controls form__group__controls"><input autocomplete="off" class="w-zone-login__form__input" id="password" type="password" required="required" name="password" placeholder="Password"></div></div> <div class="p-form__group form__group"><div class="p-form__group__controls form__group__controls"><button class="button w-zone-login__form__submit" name="loginSubmitButton" id="loginSubmitButton" type="submit">Login</button></div></div> 
 		    </form>
 			<a href="javascript:js_zone.lostpassword();" class="w-zone-login__lostpassword">Forgotten your password?</a>
 			
@@ -970,7 +1009,7 @@ src="https://www.facebook.com/tr?id=1290115701080085&ev=PageView&noscript=1"
     </div>
 </div></div><script type="text/javascript">
 				$script('/includes/javascript/magnificPopup/jquery.magnific-popup.min.js', function(){
-					$script('/includes/javascript/ASPModal.js', function(){
+					$script('/includes/javascript/ASPModal.old.js', function(){
 						$script('/includes/javascript/modules/zone/zone.js', function(){
 		        			js_zone.init();
 		        		});
@@ -995,25 +1034,35 @@ twq('track','PageView');
 							var piwikPageTracked = piwikPageTracked || false;
 							// tracker methods like 'setCustomDimension' should be called before 'trackPageView'
 							if (!piwikPageTracked) {
-
+								var libType = '';
 								//loop through page tags and set custom dimensions for contentID and Tags
 								var tagArray = [];
 								for(i=0; i < tagArray.length ; i++){
-									_paq.push(['trackEvent','General','Tags','View',null,{dimension7:'21527',dimension9:tagArray[i]}]);
+									if(libType != '')
+										_paq.push(['trackEvent','General','Tags','View',null,{dimension7:'21527',dimension9:tagArray[i],dimension13:'Page',dimension14:''}]);
+									else
+										_paq.push(['trackEvent','General','Tags','View',null,{dimension7:'21527',dimension9:tagArray[i],dimension13:'Page'}]);
 								}
 
 								//loop through page tags and set custom dimensions for contentID and prod cats
 								var catArray = [];
 								for(i=0; i < catArray.length ; i++){
-									_paq.push(['trackEvent','General','Product Categories','View',null,{dimension7:'21527',dimension10:catArray[i]}]);
+									if(libType != '')
+										_paq.push(['trackEvent','General','Product Categories','View',null,{dimension7:'21527',dimension10:catArray[i],dimension13:'Page',dimension14:''}]);
+									else
+										_paq.push(['trackEvent','General','Product Categories','View',null,{dimension7:'21527',dimension10:catArray[i],dimension13:'Page'}]);
 								}
 								//track page as well as contentId
-								_paq.push(['trackPageView',null,{dimension7:'21527'}]);
+								if(libType != '')
+									_paq.push(['trackPageView',null,{dimension7:'21527',dimension13:'Page',dimension14:''}]);
+								else
+									_paq.push(['trackPageView',null,{dimension7:'21527',dimension13:'Page'}]);
+
 							}
 
 							_paq.push(['enableLinkTracking']);
 							(function() {
-								var u="//analytics.showoff.asp.com/";
+								var u='//analytics.showoff.asp.com/';
 								_paq.push(['setTrackerUrl', u+'piwik.php']);
 								_paq.push(['setSiteId', '45']);
 								var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
@@ -1026,7 +1075,7 @@ twq('track','PageView');
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=654744736';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
