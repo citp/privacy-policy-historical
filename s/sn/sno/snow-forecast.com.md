@@ -1,69 +1,89 @@
-> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015101210id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118085621id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
 
-# Snow Forecast, Snow Reports & Snow Conditions
+# PRIVACY POLICY
 
-## **Privacy Statement for Snow-Forecast.com**
+Snow-forecast.com Limited ("We") are committed to protecting and respecting your privacy.
 
-**snow-forecast.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ snow-forecast.com ](http://www.snow-forecast.com/)
+This policy (together with our terms of and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-####  Information Automatically Logged 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Snow-Forecast.com Limited of Unit 1 Link Trade Park, Penarth Road, Cardiff, CF11 8TQ.
 
-We use your IP address to gather broad demographic information. 
+## INFORMATION WE MAY COLLECT FROM YOU
 
-####  Advertisers 
+We may collect and process the following data about you:
 
-We use an outside ad company to display some of our ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
-
-Some customer data is shared with the advertising companies. 
-
-####  Registration Forms 
-
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), and unique identifiers (like their social security number). 
-
-Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the customer when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Unique identifiers (such as social security numbers) are collected from Web site visitors for use as account numbers in our record system. 
-
-####  Order Forms 
-
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), and financial information (like their account or credit card numbers). 
-
-Contact information from the order forms is used to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Financial information that is collected is used to bill the user for products and services. 
-
-####  External Links 
-
-This site contains links to other sites. **snow-forecast.com** is not responsible for the privacy practices or the content of such Web sites. 
-
-####  Public Forums 
-
-This site makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-####  Security 
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Our servers are protected by a firewall and UPS. Daily backups are made of the site and data which are stored on separate computers in another part of the Country..
-
-####  Choice/Opt-Out 
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us . 
-
-  1. You can send email to [our helpdesk](mailto:help@snow-forecast.com)
+  * Information that you provide by filling in forms on our site www.snow-forecast.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Snow-forecast.com Limited, and when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our site and of the fulfilment of your orders.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
 
 
-####  Data Quality/Access 
+## IP ADDRESSES
 
-This site gives users the following options for changing and modifying information previously provided: 
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-  1. You can send email to [our helpdesk](mailto:help@snow-forecast.com)
+## COOKIES
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy [LINK]
+
+## WHERE WE STORE YOUR PERSONAL DATA
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password that enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## USES MADE OF THE INFORMATION
+
+We use information held about you in the following ways:
+
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
 
 
 
-##  Contacting the Web Site 
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via our helpdesk 
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those that were the subject of a previous sale to you.
+
+If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
+
+We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+
+## DISCLOSURE OF YOUR INFORMATION
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Snow-forecast.com Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Snow-forecast.com Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+## YOUR RIGHTS
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Unit 1 Link Trade Park, Penarth Road, Cardiff, CF11 8TQ or help@snow-forecast.com.
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+## ACCESS TO INFORMATION
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+## CHANGES TO OUR PRIVACY POLICY
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+## CONTACT
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Unit 1 Link Trade Park, Penarth Road, Cardiff, CF11 8TQ help@snow-forecast.com.
