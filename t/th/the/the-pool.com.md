@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-pool.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216010251id_/https%3A//www.the-pool.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-pool.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118231500id_/https%3A//www.the-pool.com/cookie-policy) for the most accurate reproduction.*
 
-# The Pool |
+# The Pool
 
 This policy (together with our terms of use [[www.The-Pool.com](file:///C:/Users/mgill/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/VA4O3RUA/www.The-Pool.com)/terms-and-conditions] and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.The-Pool.com](file:///C:/Users/mgill/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/VA4O3RUA/www.The-Pool.com) you are accepting and consenting to the practices described in this policy.
 
