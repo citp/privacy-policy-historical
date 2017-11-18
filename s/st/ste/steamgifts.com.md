@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamgifts.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310025450id_/http%3A//www.steamgifts.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamgifts.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118221734id_/https%3A//www.steamgifts.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ This privacy policy outlines how information collected through our site is both 
 
 ### Third Party Advertising
 
-  * We use third party advertising companies to serve ads when you visit our site. These companies may use information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you.
+  * We use third party advertising companies to serve ads when you visit our site. These companies may use information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice, or if you would like to opt-out, refer to the NAI’s consumer website by visiting <http://www.networkadvertising.org/choices/>.
 
 
 
