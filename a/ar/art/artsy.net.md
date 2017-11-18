@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the artsy.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630215221id_/https%3A//www.artsy.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsy.net privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118233030id_/https%3A//www.artsy.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Artsy
 
-[__](https://web.archive.org/)[__](https://web.archive.org/)
-
-## Our Privacy Policy was recently updated. Please review it carefully. To view the previous version of our Privacy Policy,[click here](https://web.archive.org/web/20170630215221id_/https%3A//www.artsy.net/page/past-privacy-1).
+## Our Privacy Policy was recently updated. Please review it carefully. To view the previous version of our Privacy Policy, [click here](https://web.archive.org/web/20171118233030id_/https%3A//www.artsy.net/page/past-privacy-1).
 
 Last Updated: January 16, 2017
 
