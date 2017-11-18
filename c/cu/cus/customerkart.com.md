@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customerkart.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511120925id_/http%3A//customerkart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerkart.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118191049id_/http%3A//customerkart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy –customerkart.com - Customer Care Number
+# Privacy Policy –customerkarts.com - Customer Care Number
 
 **Privacy Policy**
 
@@ -12,7 +12,7 @@ We may collect non-personal identification data concerning Users whenever they i
 
 Our website might use “cookies” to reinforce User expertise. User’s web browser places cookies on their disk drive for record-keeping point of view and generally to trace info regarding them. User may select to set their web browser to refuse cookies, or to warn you once cookies are being sent.
 
-Google, as a 3rd party advertisement marketer, uses cookies to serve ads on this web site. customerkart.com has no access or management over these cookies which will be employed by third party advertisers.
+Google, as a 3rd party advertisement marketer, uses cookies to serve ads on this web site. customerkarts.com has no access or management over these cookies which will be employed by third party advertisers.
 
  **How We Protect Your Information**
 
