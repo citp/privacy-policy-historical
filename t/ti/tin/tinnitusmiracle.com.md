@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinnitusmiracle.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602105158id_/http%3A//www.tinnitusmiracle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinnitusmiracle.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118210332id_/http%3A//www.tinnitusmiracle.com/privacy.html) for the most accurate reproduction.*
 
 # Tinnitus Miracle™ - Privacy
 
@@ -57,7 +57,11 @@ We may use Personally Identifiable Information collected on www.tinnitusmiracle.
 
 Personally Identifiable Information collected by www.tinnitusmiracle.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-**SPAM**
+**SPAM POLICY**
+
+Tinnitus Miracle (of Higher Ways Publishing) has a zero-tolerance spam policy. This means that all email recipients must have opted in to, or otherwise validly consented to, receiving communications from you, the sender. Affiliates accounts will be terminated for sending unsolicited email messages. Email messages sent in connection with a Tinnitus Miracle (of Higher Ways Publishing) must contain an "unsubscribe" link that allows subscribers to remove themselves from your email messages. All affiliates must acknowledge and agree that they will not hide, disable, or remove or attempt to hide, disable, or remove the opt-out link from the email invitation. You will actively manage and process unsubscribe requests received by you directly within ten days of submission, and update your email lists and address books to reflect the unsubscribe requests. You are responsible for ensuring that the email messages you send in connection with your promotions of Tinnitus Miracle (of Higher Ways Publishing) do not generate a number of spam complaints or bounce rates in excess of industry standards. If Tinnitus Miracle (of Higher Ways Publishing) determines that your level of spam complaints or bounce rate is higher than industry standards, Tinnitus Miracle (of Higher Ways Publishing), at its sole discretion, has the right to suspend or terminate your use of its website and services. If you receive low response rates, high abuse rates or high bounce rates, we may request additional information regarding your mailing lists to investigate and attempt to resolve the problem, or in some cases we may suspend or remove email privileges on your affiliate account.
+
+Advertising using unsolicited messages on our website (or any offer or product related to): Tinnitus Miracle (of Higher Ways Publishing) is strictly prohibited. 
 
 By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database. 
 
@@ -71,7 +75,7 @@ This Privacy Policy is dynamic. It will continually change. You may not assume t
 
 **LATEST UPDATE**
 
-This Privacy Policy was last updated on: June 24, 2009 
+This Privacy Policy was last updated on: June 24, 2017 
 
 **DISPUTES**
 
