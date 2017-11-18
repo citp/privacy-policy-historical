@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603013134id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118210943id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Carolina Panthers | Privacy Policy
 
