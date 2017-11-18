@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacourt.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170610id_/http%3A//www.lacourt.org/page/HO0050) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacourt.org privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118070609id_/http%3A//www.lacourt.org/page/HO0050) for the most accurate reproduction.*
 
 # LA Court
 
@@ -51,5 +51,5 @@ Last Updated: May 19, 2005
 Art Showcased in  
 Los Angeles Courthouse Jury Rooms
 
-"Dancing Puppets" by Nancy Artis  
-2005 – 3rd Place Professional
+"Flamingo Resort" by Michael Artis  
+2009 – Amateur 3rd Place
