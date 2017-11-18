@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastusaproxy.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519030544id_/http%3A//www.fastusaproxy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastusaproxy.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118150724id_/http%3A//www.fastusaproxy.com/privacy.html) for the most accurate reproduction.*
 
 # Terms Of Service
 
