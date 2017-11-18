@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201316id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118101222id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy and Cookies - Yorkshire Building Society
 
 By using this site you are consenting to the use of cookies. [Find out more](https://web.archive.org/privacy/index.html "Privacy & Cookies") about cookies and why we use them
 
 [x close] 
+
+_BANK RATE CHANGE_  
+On 2 November 2017, the Bank of England announced that the Bank Base Rate would increase with immediate effective from 0.25% to 0.50%.
+
+[Find out more](https://web.archive.org/maintenance-notice.html "Find out more")
 
 [ ](https://web.archive.org/index.html "Yorkshire Building Society")
 
@@ -139,3 +144,15 @@ Find out how you can do this by visiting [www.allaboutcookies.org/manage-cookie
   * 9am - 1pm: Sat
 
 
+
+**Online security**  
+Report an online security issue using our form
+
+  
+
+
+###  Report a lost/stolen card
+
+Call our helpline 24 hours a day, 7 days a week
+
+Alternatively you can visit your local branch or report it online
