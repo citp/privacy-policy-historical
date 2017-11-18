@@ -1,30 +1,138 @@
-<!--The following is the downloaded HTML source of the vixendaily.com privacy policy that was archived on 2017-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170617125516id_/http%3A//www.vixendaily.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vixendaily.com privacy policy that was archived on 2017-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118215252id_/http%3A//www.vixendaily.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 <meta charset="UTF-8">
 <title>Privacy Policy</title>
 <meta name="description" content="Read very carefully: Vixen Daily only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our f">
 <link rel="canonical" href="http://www.vixendaily.com/privacy-policy/">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
 window.sayhello = window.sayhello || { };
 window.sayhello.domain = 's.vixendaily.com';
+window.sayhello.pageid = parseInt('1074',10);
+window.sayhello.ready = false;
+</script>
+<script type="text/javascript">
+(function( win, undefined ) {
+"use strict";
+win.cdough = win.cdough || { };
+
+var vi = win.cdough;
+
+vi.getc=function(name,limit){
+if (typeof limit === 'undefined') limit = 20;
+return vi.retrieve(name).substring(0,limit).replace(/[\s]/gi, '');
+}
+
+vi.retrieve=function(name){ 
+if (!name) return '';
+var re=new RegExp(name+"=[^;]+", "i"); 
+if (document.cookie.match(re)) return document.cookie.match(re)[0].split("=")[1];
+return ''; 
+}
+
+vi.setwithexp=function(name,value,expDays,domain){
+if (!name||expDays<1) return ''; // wpclosetag_fix>
+if (expDays==='delete') expDays = -1;
+var dateobj = new Date();
+var expstring = dateobj.setDate(dateobj.getDate()+parseInt(expDays));
+var domainstring = (typeof domain === 'undefined' || !domain) ? '' : "; domain="+domain;
+document.cookie = name+"="+value+"; expires="+dateobj.toGMTString()+"; path=/"+domainstring;
+}
+
+vi.del=function(name){
+vi.setwithexp(name,'','delete');
+}
+
+vi.set=function(name,value,domain){
+vi.setwithexp(name,value,14,domain);
+}
+
+})( window );
+window.sayhello_deferral = setInterval( function(){ if( typeof window.jQuery != 'undefined' ) { sayhello_pop(); clearInterval(sayhello_deferral); } } , 1000 );
+function sayhello_pop() {
+(function( $, win, undefined ) {
+"use strict";
+win.sayhello = win.sayhello || { };
+
+var me = win.sayhello,
+callback = $.Callbacks("memory"),
+
+geniframe=function() {
+var l=win.location,
+	ins = document.createElement('iframe');
+ins.style.display = 'none';
+ins.setAttribute('src','//'+me.domain+'/v/?i='+me.pageid+'&o='+l.hostname+l.pathname);
+document.getElementsByTagName('body')[0].appendChild(ins);
+},
+
+init=function() {
+if (typeof me.domain === 'undefined') return;
+if (typeof me.pageid === 'undefined') me.pageid = 0;
+if (!Number.isInteger(me.pageid) || me.pageid > 9999999 || me.pageid < 0 ) me.pageid = 0;
+me.registerOriginEvent(geniframe);
+me.ready = true;
+if (!win.cdough.getc('visitorigin1')) callback.fire();
+},
+
+pvarend;
+
+me.registerOriginEvent = function(f) {
+    callback.add(f);
+};
+
+
+$(init);
+})( jQuery, window );
+};
+</script>
+<!-- Facebook Pixel Code, mod data-lazy-src to prevent lazyload -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '334946353602064', {});
+</script>
+<noscript><img height="1" width="1" style="display:none" data-lazy-src 
+src="https://www.facebook.com/tr?id=334946353602064&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --> 
+<script>
+window.fborigin_deferral = setInterval( function(){ if( typeof window.jQuery != 'undefined' && window.sayhello.ready) { fborigin_pop(); clearInterval(fborigin_deferral); } } , 1000 );
+function fborigin_pop() {
+(function( $, win, undefined ) {
+"use strict";
+win.fborigin = win.fborigin || { };
+var me = win.fborigin;
+me.fborigin_event = function() {
+fbq('track', 'vxsitewide', {
+content_type: 'landing',
+content_ids: [ sayhello.pageid.toString() ],
+value: 0.00,
+currency: 'USD'
+});
+}
+sayhello.registerOriginEvent( me.fborigin_event );
+})( jQuery, window );
+}
 </script>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<link rel="apple-touch-icon" sizes="57x57" href="//assets1.vixendaily.com/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="//assets1.vixendaily.com/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="//assets1.vixendaily.com/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="//assets1.vixendaily.com/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="//assets1.vixendaily.com/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="//assets1.vixendaily.com/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="//assets1.vixendaily.com/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="//assets1.vixendaily.com/apple-touch-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="//assets1.vixendaily.com/apple-touch-icon-180x180.png">
-<link rel="icon" type="image/png" href="//assets1.vixendaily.com/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="//assets1.vixendaily.com/android-chrome-192x192.png" sizes="192x192">
-<link rel="icon" type="image/png" href="//assets1.vixendaily.com/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="//assets1.vixendaily.com/favicon-16x16.png" sizes="16x16">
-<link rel="manifest" href="//assets1.vixendaily.com/manifest.json">
+<link rel="apple-touch-icon" sizes="57x57" href="//assets.vixendaily.com/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="//assets.vixendaily.com/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//assets.vixendaily.com/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//assets.vixendaily.com/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="//assets.vixendaily.com/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//assets.vixendaily.com/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="//assets.vixendaily.com/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//assets.vixendaily.com/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="//assets.vixendaily.com/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="//assets.vixendaily.com/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="//assets.vixendaily.com/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="//assets.vixendaily.com/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="//assets.vixendaily.com/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="//assets.vixendaily.com/manifest.json">
 <meta name="msapplication-TileColor" content="#2b5797">
 <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
@@ -86,16 +194,16 @@ oneSignal_options['notifyButton']['offset']['bottom'] = '80px';
     </script>
 
 <link rel="alternate" type="application/rss+xml" title="Vixen Daily » Privacy Policy Comments Feed" href="http://www.vixendaily.com/privacy-policy/feed/">
-<link rel="stylesheet" id="yarppWidgetCss-css" href="http://assets.vixendaily.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.5.9" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="http://assets.vixendaily.com/wp-includes/css/dashicons.min.css?ver=4.5.9" type="text/css" media="all">
-<link rel="stylesheet" id="thickbox-css" href="http://assets.vixendaily.com/wp-includes/js/thickbox/thickbox.css?ver=4.5.9" type="text/css" media="all">
+<link rel="stylesheet" id="yarppWidgetCss-css" href="http://assets.vixendaily.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.5.11" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://assets.vixendaily.com/wp-includes/css/dashicons.min.css?ver=4.5.11" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="http://assets.vixendaily.com/wp-includes/js/thickbox/thickbox.css?ver=4.5.11" type="text/css" media="all">
 <script type="text/javascript">
 window.slideDeck2Version = "3.4.9";
 window.slideDeck2Distribution = "pro";
 </script>
 <script type="text/javascript" src="http://assets.vixendaily.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://assets.vixendaily.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://assets.vixendaily.com/wp-content/plugins/sharebar/js/sharebar.js?ver=4.5.9"></script>
+<script type="text/javascript" src="http://assets.vixendaily.com/wp-content/plugins/sharebar/js/sharebar.js?ver=4.5.11"></script>
 <link rel="https://api.w.org/" href="http://www.vixendaily.com/wp-json/">
 
 
@@ -301,63 +409,7 @@ ga('send', 'pageview');
 nopinset=function(){jQuery('.nopin img').attr('nopin','nopin');}
 window.setTimeout(nopinset,6000);
 </script>
-	<script type="text/javascript">
-(function( win, undefined ) {
-win.cdough = win.cdough || { };
-
-var vi = win.cdough;
-
-vi.getc=function(name,limit){
-if (typeof limit === 'undefined') limit = 20;
-return vi.retrieve(name).substring(0,limit).replace(/[s]/gi, '');
-}
-
-vi.retrieve=function(name){ 
-if (!name) return '';
-var re=new RegExp(name+"=[^;]+", "i"); 
-if (document.cookie.match(re)) return document.cookie.match(re)[0].split("=")[1];
-return ''; 
-}
-
-vi.setwithexp=function(name,value,expDays,domain){
-if (!name||expDays<1) return '';
-if (expDays==='delete') expDays = -1;
-var dateobj = new Date();
-var expstring = dateobj.setDate(dateobj.getDate()+parseInt(expDays));
-var domainstring = (typeof domain === 'undefined' || !domain) ? '' : "; domain="+domain;
-document.cookie = name+"="+value+"; expires="+dateobj.toGMTString()+"; path=/"+domainstring;
-}
-
-vi.del=function(name){
-vi.setwithexp(name,'','delete');
-}
-
-vi.set=function(name,value,domain){
-vi.setwithexp(name,value,14,domain);
-}
-
-})( window );
-(function( $, win, undefined ) {
-win.sayhello = win.sayhello || { };
-
-var me = win.sayhello,
-
-geniframe=function() {
-var l=win.location,
-	ins = document.createElement('iframe');
-ins.style.display = 'none';
-ins.setAttribute('src','//'+me.domain+'/v/?o='+l.hostname+l.pathname);
-document.getElementsByTagName('body')[0].appendChild(ins);
-},
-
-init=function() {
-if (typeof me.domain === 'undefined') return;
-if (!win.cdough.getc('visitorigin1')) geniframe();
-};
-
-$(init);
-})( jQuery, window );
-</script>
+	<!-- -->
 </div>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -379,4 +431,4 @@ var slideDeck2iframeByDefault = false;
 Page Caching using disk: enhanced
 Content Delivery Network via Rackspace Cloud Files: assets.vixendaily.com
 
- Served from: www.vixendaily.com @ 2017-06-17 08:29:31 by W3 Total Cache --></body></html>
+ Served from: www.vixendaily.com @ 2017-11-18 16:50:41 by W3 Total Cache --></body></html>
