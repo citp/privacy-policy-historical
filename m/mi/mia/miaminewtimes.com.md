@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608013535id_/http%3A//www.miaminewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118085707id_/http%3A//www.miaminewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Miami News, Food, Culture and Events | Miami New Times
 
