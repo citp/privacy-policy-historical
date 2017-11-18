@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the voat.co privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518005931id_/http%3A//voat.co/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voat.co privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118191058id_/https%3A//voat.co/help/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by emailat privacy at voat.co. We consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Voat and how we use it. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at privacy at voat.co. We consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Voat and how we use it. 
 
 Like many other Web sites, Voat makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site and track user's movement around the site. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
@@ -17,3 +17,5 @@ Only This privacy policy applies only to our online activities and is valid for 
 By using our website, you hereby consent to our privacy policy and agree to its terms. 
 
 This Privacy Policy was last updated on: May 16th, 2015. Should we update, amend or make any changes to our privacy policy, those changes will be posted here. 
+
+Cookies help us deliver our services. By using our services, you agree to our use of cookies. 
