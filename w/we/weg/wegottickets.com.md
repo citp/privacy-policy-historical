@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609125237id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118090345id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
 
 # WeGotTickets | Simple, honest ticketing | Our privacy policy
 
@@ -76,6 +76,6 @@ Our support staff's award winning service won't let you down.
 
 [ Find out more about WeGotTickets and our values. ](https://web.archive.org/about)
 
-[](http://www.wegottickets.com/jobs)
+[](https://blog.wegottickets.com/2016/09/19/a-grassroots-manifesto-advice-from-the-indie50-to-help-you-get-started-in-events/)
 
-[](http://www.wegottickets.com/af/526/2017-festivals)
+[](https://clients.wegottickets.com/?cc=nye-17)
