@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628122421id_/http%3A//www.alternet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118234433id_/https%3A//www.alternet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alternet
 
-AlterNet, and our parent organization, the [Independent Media Institute](http://www.alternet.org/about/imi.html), guarantee that we will never, under any circumstances, sell, trade or make public your personal information, unless you designate otherwise. All personal information you provide will remain confidential. In addition, you always will have the option to edit the information provided to us or to have your personal information removed from our records.
+AlterNet, and our parent organization, the [Independent Media Institute](https://www.alternet.org/about/imi.html), guarantee that we will never, under any circumstances, sell, trade or make public your personal information, unless you designate otherwise. All personal information you provide will remain confidential. In addition, you always will have the option to edit the information provided to us or to have your personal information removed from our records.
 
  **Traffic Data**
 
@@ -10,13 +10,13 @@ When you visit AlterNet, our systems collect basic information about your comput
 
  **Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/managing/opt_out.asp>.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [//www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
  **Use of Cookies**
 
 AlterNet employs cookies — small text files placed on your computer’s hard drive — to track the type of content and sites to which our users link, the length of time they spend at any particular site and the AlterNet services they use. Cookies also help us diagnose problems with our server.
 
-For more on cookies, please [click here](http://help.netscape.com/kb/consumer/19970226-2.html).
+For more on cookies, please [click here](https://help.netscape.com/kb/consumer/19970226-2.html).
 
  **Email Newsletters and “Send a Friend” Feature**
 
@@ -26,7 +26,7 @@ AlterNet offers a “send this story to a friend” feature, which allows our us
 
  **Discussion Forums**
 
-AlterNet makes [blogs and other feedback forums](http://www.alternet.org/discuss/) available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information.
+AlterNet makes [blogs and other feedback forums](https://www.alternet.org/discuss/) available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information.
 
 If you have any concerns about this, send email to [discuss@alternet.org](mailto:discuss@alternet.org).
 
