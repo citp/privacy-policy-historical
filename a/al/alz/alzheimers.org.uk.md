@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627175804id_/https%3A//www.alzheimers.org.uk/info/20004/about_us/639/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118233653id_/https%3A//www.alzheimers.org.uk/info/20004/about_us/639/privacy_and_security) for the most accurate reproduction.*
 
 # Privacy and Security - Privacy and security - Alzheimer's Society
 
@@ -47,7 +47,9 @@ Alzheimer's Society tries to keep the information we have about you accurate and
 
 You can ask us whether we are keeping personal data about you by writing to the Information Governance Manager, Alzheimer's Society, 43-44 Crutched Friars, London EC3N 2AE or by emailing [information.governance@alzheimers.org.uk](mailto:information.governance@alzheimers.org.uk).
 
-You can make a subject access request about the data we hold on you.  Before we can respond to your request we require proof of identification e.g. a copy of a valid passport or a valid UK driving licence.  Once we have received this along with full details of your request we aim to respond as soon as possible in a maximum of 40 days (as permitted be the law).
+You can make a subject access request about the data we hold on you, [by downloading this form and filling it in.](https://www.alzheimers.org.uk/downloads/download/2145/data_subject_access_request_form)
+
+Before we can respond to your request we require proof of identification e.g. a copy of a valid passport or a valid UK driving licence.  Once we have received this along with full details of your request we aim to respond as soon as possible in a maximum of 40 days (as permitted be the law).
 
 ## **Safety online  **
 
