@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pawmygosh.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230302id_/http%3A//www.pawmygosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pawmygosh.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118221220id_/http%3A//www.pawmygosh.com/privacy-policy) for the most accurate reproduction.*
 
 # PawMyGosh Privacy Policy
 
