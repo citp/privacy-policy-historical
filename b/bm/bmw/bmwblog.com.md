@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmwblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071151id_/http%3A//www.bmwblog.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwblog.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118090447id_/http%3A//www.bmwblog.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
