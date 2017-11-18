@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525000715id_/http%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118234832id_/https%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
 
 # Legal and Privacy Policy | Thule | USA
 
@@ -10,7 +10,10 @@ In order to respond to your questions or fulfill your requests or provide you wi
 
 Under the Swedish Personal Data Act (PuL) you have rights of access and rectification in relation to your personal information. Such rights will be adhered to by Thule Group as far as possible to fulfill all of our legal obligations. 
 
-If you don't want to receive any further e-mail communication from Thule Group, please go to [My Account](https://web.archive.org/en-us/us/my-account/login) and change your settings there. 
+**Your data protection rights**  
+You have the right to request access to the personal data which Thule Group processes about you. Moreover, you have the right to request that incorrect or incomplete personal data is corrected. You also have the right to, at any time, withdraw your consent to Thule Group's processing of your personal data, with future effect.
+
+As of the 25 May 2018 you also have, to the extent applicable data protection legislation provides, a right to object to certain processing of personal data, a right to request restriction of the processing of your personal data, and a right to data portability. The right to data portability covers such personal data which Thule Group processes based on an agreement between you and Thule Group or based on your consent, and which you have provided, i.e. name, email, phone number, country, products bought and registered, serial numbers, purchase date and point of purchase. If you have any questions or concerns regarding Thule Group's processing of your personal data, please contact [info@thule.com](mailto:info@thule.com?Subject=Info). Naturally, you also have the right, should you wish, to lodge a complaint with the national data protection authority.
 
 **Does THULE GROUP disclose the stored information to third parties?**  
 Thule Group will only store personal information as required to meet legal and regulatory requirements or as needed to provide personalized services to you.
