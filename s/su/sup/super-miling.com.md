@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the super-miling.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228062840id_/http%3A//super-miling.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the super-miling.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118232449id_/http%3A//super-miling.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Super-Miling Marketer
 
