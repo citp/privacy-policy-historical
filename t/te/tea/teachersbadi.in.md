@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachersbadi.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122008id_/http%3A//www.teachersbadi.in/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachersbadi.in privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118221244id_/http%3A//www.teachersbadi.in/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
 
-# Privacy Policy | TeachersBADI|TSPSC|Gurukulam Posts
+# Privacy Policy | TeachersBADI|TSPSC TRT|Gurukulam Posts
 
 **_TeachersBadi.in Website Privacy Policy_**
 
