@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jquery-az.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163536id_/http%3A//www.jquery-az.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jquery-az.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118183423id_/http%3A//www.jquery-az.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,4 +88,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 and we will promptly remove you from **ALL** correspondence.
 
-If there are any questions regarding this privacy policy you may contact us using the information in the [contact page](http://www.jquery-az.com/contact/).
+If there are any questions regarding this privacy policy you may contact us using the information in the [contact page](https://www.jquery-az.com/contact/).
