@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotesports.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423090814id_/https%3A//dotesports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotesports.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119002856id_/https%3A//dotesports.com/privacy) for the most accurate reproduction.*
 
 # Dot Esports | Global Esports News, Analysis, Tournament Coverage, and More
 
@@ -69,7 +69,7 @@ We, along with third-party vendors such as Google use first-party cookies (such 
 
 ##### Opting out:
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+Users may opt out by visiting this [advertising opt-out page](http://optout.networkadvertising.org/).
 
 ### California Online Privacy Protection Act
 
