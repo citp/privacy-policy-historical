@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tested.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619220244id_/http%3A//www.tested.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tested.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118142328id_/http%3A//tested.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tested
 
