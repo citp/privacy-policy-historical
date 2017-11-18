@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wne.edu privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521103854id_/http%3A//www1.wne.edu/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wne.edu privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118150606id_/http%3A//www1.wne.edu/privacy/index.cfm) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -41,7 +41,7 @@ Your personal information is contained behind secured networks and is only acces
 
 We implement a variety of security measures when a user places an order, enters, submits, or accesses their information. These measures are designed to maintain the safety of your personal information.
 
-While most voluntary information is only maintained long enough to provide the specific service requested, some personally identifiable information may be retained as part of backup procedures. In addition, some personally identifiable information may be added to University databases to be used for other University business and academic purposes. Please refer to our [Written Information Security Program (WISP)](https://web.archive.org/web/20170521103854id_/http%3A//www1.wne.edu/information-technology/policies_doc/doc/WISP.pdf) for more information.
+While most voluntary information is only maintained long enough to provide the specific service requested, some personally identifiable information may be retained as part of backup procedures. In addition, some personally identifiable information may be added to University databases to be used for other University business and academic purposes. Please refer to our [Written Information Security Program (WISP)](https://web.archive.org/web/20171118150606id_/http%3A//www1.wne.edu/information-technology/policies_doc/doc/WISP.pdf) for more information.
 
 ### Do we use 'cookies'?
 
