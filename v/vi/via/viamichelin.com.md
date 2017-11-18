@@ -1,123 +1,139 @@
-> *The following text is extracted and transformed from the viamichelin.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116072353id_/http%3A//www.viamichelin.com/tpl/com/divers/htm/personaldata.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viamichelin.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118204814id_/http%3A//info.viamichelin.com/web/privacy-0) for the most accurate reproduction.*
 
-# Personal data protection charter
+# Privacy | ViaMichelin
 
-ViaMichelin undertakes to strictly comply with current legislation in order to protect the privacy of its users. ViaMichelin has filed the statements relating to the collection and processing of your personal data with the French Data Protection Agency (C _ommission Nationale de l’Informatique et des Libertés_ ) under registration number 791321.
+### **Introduction**
 
-#####  **1\. Nature of the data collected**
+Michelin Travel Partner, a wholly-owned subsidiary of the Michelin Group that is a French company with share capital of €11,288,880, registered with the Nanterre Trade and Companies Registry under number 433 677 721, whose registered office is located at 27 Cours de l’Ile Seguin, 92105 Boulogne Billancourt, France, designs, develops and markets Michelin tourism products and digital mobility assistance services.
 
-The term “Personal Data” means all specific data relating to you as a physical person, which you voluntarily provide us when you open an account on ViaMichelin.com to access our personalised services. 
+This personal data protection charter applies to all websites (hereinafter ‘Websites’) and mobile and tablet applications (hereinafter ‘Applications’), and/or the local variations thereof that Michelin Travel Partner publishes, and which are listed below:
 
-The term “Electronic Identification Data” means all the data collected by us within the scope of your navigation and which, in whatever way, allows us to identify your computer terminal or the pages consulted on our site during your visit. This data is used either to authorise a personalised session (for example to ensure that you are the person authorised to consult an email account or access a specific service) or for commercial purposes (circulation of advertising banners personalised in function of your browsing or your interests), or to enable us to put in place security measures (to avoid third party access to your account or to identify abusive use).
+  * [ViaMichelin](http://viamichelin.fr/) (Websites and Applications); 
+  * [Michelin Travel](http://voyage.michelin.fr/) (Websites and Applications);
+  * [the MICHELIN guide](https://www.guide.michelin.com/) (Websites and Applications);
+  * [Michelin Plaques](http://plaques.guide.michelin.fr/) (Websites) ;
+  * [Michelin Days](https://www.days.michelin.fr/) (Websites);
+  * [Michelin Camping ](https://camping.michelin.fr/)(Websites);
+  * [Michelin Business Solutions](http://business-solutions.travel.michelin.fr/) (Websites).
 
-#####  **2\. Purpose of data collection**
 
-ViaMichelin collects data when you open an account on ViaMichelin website, when you use certain products and services, when you browse the pages of the ViaMichelin websites and when you participate in offers or competitions. 
 
-ViaMichelin may also receive personal data relating to you from its business partners, who must guarantee that they are authorised to transfer such data to us. 
+Michelin Travel Partner has carried out with the French data protection authority the formalities required prior to processing personal data collected using the Websites and Applications.
 
-**_2.1       Opening a personal account on ViaMichelin_ **
+This personal data protection charter is subject to change in accordance with the statutory and regulatory environment.
 
-When you register for a ViaMichelin service, My ViaMichelin, ViaMichelin Local or any other service on the site, you are invited to complete a registration form containing different Personal Data. In accordance with the current legislation, this form indicates the data required in order to register, as well as optional data. This data allows us to (i) optimise your use of these services and (ii) comply with the legal identification obligations for internet sites.
+###  **1.  ** **Type of data collected**
 
-User names and passwords chosen by you when you register, or modified later by you, are personal to you. This data is strictly confidential. In so far as you communicate these to a third party, you remain solely responsible for the use which may be made thereof. ViaMichelin will not accept liability for third party use of user names or passwords. 
+When you use the Websites and/or Applications, certain data, in particular personal data within the meaning of article 2 of the French Data Protection Act of 6 January 1978, as amended, may be collected directly from you by Michelin Travel Partner or may be sent to us by a partner social network when you register or connect to that network. When you register or connect using social networking data, you are notified of the information that the relevant social network sends to us and we seek your prior approval before this information is sent.
 
-**_2.2       Exchange of emails _ **
+Michelin Travel Partner may also receive personal data about you from other sales partners, who must warrant that they are authorised to collect and transmit such data.
 
-The personal information provided when you send an e-mail is used for the purpose of complying with your request. 
+Michelin Travel Partner collects and processes only data that is strictly necessary for the purpose for which they are processed. Michelin Travel Partner shall take all appropriate measures to ensure that the personal data it processes is accurate and, if necessary, updated.
 
-**_2.3       Cookies _ **
+###  **2.  ** **Data collection purposes**
 
-Our website has been designed to meet your needs. It uses cookies. 
+Michelin Travel Partner processes data for a clear, legitimate and specific purpose.
 
-A cookie is a small block of data sent to your browser by a web server which then installs it on your computer’s hard drive. It contains data such as key words, pages visited etc... and a unique random number which identifies your computer electronically. 
+Your data will be processed for the following main purposes:
 
-It generally records information concerning your computer’s navigation on our website (the pages you have visited, date and time of visit, etc.), which we can read the next time you visit our site. As an example, this means that you will not have to complete another “My ViaMichelin” registration form on subsequent visits in order to benefit from our personalised services. 
+  * managing your ‘My Michelin Account’ and your registration and connection to Michelin Days, and providing the services that they both offer;
+  * managing your order;
+  * managing and processing your requests;
+  * if applicable, managing your participation in promotions or contests;
+  * creating a customer database for the purposes of customer loyalty actions, sales prospecting, promotions, behavioural studies and/or marketing, in accordance with prevailing regulations;
+  * ensuring that Michelin Travel Partner is in compliance with its legal obligations as the publisher of online electronic communication services for the public.
 
-These cookies facilitate your browsing of the site, and consultation of web pages. In particular, if you are registered with My ViaMichelin, they identify you when you return to the site and allow you to go directly to your personal account. 
 
-Please note that we cannot guarantee that the services made available to you on our website will operate correctly if the configuration of your browser blocks the registration of cookies. 
 
-ViaMichelin does not share its cookies with third party sites. 
+###  **3.  ** **User information  **
 
-**Configuration of your browser in relation to cookies**
+In accordance with the French Data Protection Act of 6 January 1978, as amended, Michelin Travel Partner is required to inform you of the processing of personal data that it carries out.
 
-You may configure your browser so that it systematically accepts or refuses cookies sent by sites which you have consulted, or to receive a message which informs you of their reception and which asks you each time if you wish to accept them or not. 
+Therefore, Michelin Travel Partner will clearly inform you each time it collects personal data and, in particular, will tell you:
 
-For more information, [at this link](http://www.viamichelin.co.uk/viamichelin/gbr/tpl/psg/divers/htm/configuration.htm) you will also find a description of the configuration of the main browsers in use on the internet. Please note that the activation of cookies allows you to make full use of the numerous services and products available on our site. We advise you therefore to leave the cookies active in order to benefit fully from your ViaMichelin browsing experience.
+  * the identity of the data controller;
+  * the purpose for which your personal data is collected;
+  * whether responses requested are optional or mandatory, and the possible consequences of failing to reply;
+  * that you have the right to query, access, modify, rectify, delete and, on legitimate grounds, oppose the use of your personal data, and the procedures for exercising such rights, and the right to provide instructions for your data after your death;
+  * if transfers of personal data are planned to any country that is not a European Union Member State;
+  * the period for which the data will be held, or where that information is unable to be provided, the criteria used to determine that period.
 
-**_2.4      Ad servers_ **
 
-We authorise partner companies or « ad servers» to advertise on our pages. These companies may send their own cookies to your computer, as if you had visited a web page on their site. 
 
-When you access websites advertising on ViaMichelin by clicking on their banners, or simply by viewing these advertising banners while browsing the pages of our site, other cookies may be placed on your hard disk by the companies circulating these advertisements. ViaMichelin has no access to or control over these cookies or other features which these companies may use. 
+###  **4.  ** **Recipients of data collected**
 
-Please note that it is possible at any time to accept or refuse to install a cookie on your computer terminal in order to avoid targeted advertising. In this case, the advertising banners displayed on the ViaMichelin sites will be standardised banners.
+Michelin Travel Partner will share your personal data only with specific authorised recipients. The recipients of your personal data include the following:
 
-Our Internet site uses several ad servers to display the advertisements visible on the site.
+  * relevant Michelin Travel Partner services;
+  * the following Michelin group companies (hereinafter ‘Michelin group companies’);
+    *  **Manufacture des Pneumatiques Michelin** , Place des Carmes Déchaux, 63040 Clermont-Ferrand Cedex 9, France, a French _société en commandite par actions_ (limited partnership with shares) with share capital of €504,000,004, Clermont-Ferrand Trade and Companies Registry No. 855 200 507;
+    *  **Michelin España Portugal  **S.A., Avda. de los Encuartes, 19 Tres Cantos, 28760 Madrid, Spain, CIF A20003570;
+    *  **Michelin Italiana** , S.p.A., corso Romania 546, Turin, Italy;
+    *  **Michelin Belux** , Brusselsesteenweg 494 1, 1731 Zellik, Belgium – Brussels Commercial Registry No. BE 400.906.146;
+    *  **Michelin Tyre Public Limited Company** , Campbell Road, Stoke-On-Trent, Staffordshire, ST4 4EY, Company No. 00084559;
+    *  **Michelin Reifenwerke AG & Co.** KGaA, Michelinstraße 4, 76185 Karlsruhe;
+  * if applicable, Michelin Travel Partner subcontractors;
+  * if applicable, Michelin Travel Partner partners and parties that have contracted with Michelin Travel Partner;
+  * other users who are members of the Websites and Applications in the case of data whose publication you have authorised.
 
-**AdLINK**
 
-To find out more about the use of cookies, information collection practices and procedures to unsubscribe from AdLINK, [click here](http://www.doubleclick.net/privacy_policy)
 
-**Orange**
+Michelin Travel Partner requires Michelin group companies, as well as, where applicable, its subcontractors, partners and parties with whom it contracts, to undertake to implement all necessary precautions, in light of the nature of the data and the risks created by its processing, to maintain the security of the data and, in particular, to prevent the data from being altered or damaged and to prevent access thereto by unauthorised third parties. In the event that the transmission of data to companies in the Michelin group, sub-contractors, partners or parties that have contracted with Michelin Travel Partner involves the transfer of your personal data to a country that is not a member of the European Union, Michelin Travel Partner shall ensure that the transfer is protected by mechanisms and guarantees that comply with prevailing regulations.
 
-In order to use this service, it is necessary to install an “orangeads” cookie on your internet connection terminal when browsing the ViaMichelin site.
+Michelin Travel Partner hereby informs you that it will transmit the information it holds, including personal data it has processed, pursuant to a request for such data that is made in accordance with the laws in force by any court or other government authority authorised by law.
 
-These orangeads cookies contain a “User ID”. This “User ID” is a unique coded number which contains only anonymous data. It is randomly and anonymously allocated by the orangeads server. It enables the identification of pages consulted by you as you browse ViaMichelin website.
+### 5\. Transfers outside the EU
 
-Thanks to information concerning your browsing habits collected each time you visit ViaMichelin website, your «navigation profile» is established taking into account (i) the topic of the pages visited; (ii) the frequency of the pages visited at each connection; and (iii) key words which you have typed in the search boxes on the portal and advertisements you have shown interest in. 
+As part of the administration we carry out to ‘My Michelin Account’, please note that personal data associated with this account is likely to be transferred to our service provider in the United States.
 
-When setting up your « navigation profile », the orangeads server can therefore optimise the relevance of the advertising banners on the ViaMichelin website by displaying targeted advertisements which correspond more to your navigation profile than standard advertisements. 
+Transfers of data outside the group are protected by agreements that contain the model European Commission clauses for non-EU sub-contractors in order to guarantee a level of protection that is at least similar to the level provided in your country of residence.
 
-The orangeads cookie is installed or updated on the hard disk of your terminal each time you connect to ViaMichelin. In the event of non-connection to ViaMichelin website for sixty (60) consecutive days this cookie is automatically deleted from your terminal. 
+###  **6.  ** **Comments fields**
 
-Please note that the navigation data gathered via the orangeads cookie is processed by our advertising partner, Orange Advertising Network, a division of France Telecom (public company with a capital of 10,426,692, 520 euros, Paris Trade & Companies' Register no. 380 129 866, registered office at 6 place d'Alleray, 75015 Paris, and domiciled for these purposes at 1, avenue Nelson Mandela, 94745 ARCUEIL).
+Certain pages of the Websites and/or Applications allow users to draft and transmit specific requests to Michelin Travel Partner (contact forms, error, reports, etc.) using forms they can complete as they choose.
 
-**_2.5       Web Beacons_ **
+The information that users transmit to Michelin Travel Partner in such manner should never contain personal data, and should always be pertinent, restrained and objective in light of the subject matter in question.
 
-Web pages may sometimes contain an electronic file called a web beacon that allows a web site to count users who have visited that page or to access certain cookies
+###  **7\. Cookies**
 
-ViaMichelin inserts web beacons in emails which it sends in HTML format in order to monitor the number of messages which are opened and read.
+Michelin Travel Partner collects data concerning the manner in which you use our websites and our applications so that it can offer a better service to visitors and users of those websites and applications. It does this through the use of cookies and other trackers, which are files stored by your internet browser on your hard drive when you visit a website or use an application. To find out more about our cookie policy.
 
-Every electronic image displayed on a web page, especially the advertising banner, generally acts as a web beacon. Advertisers who advertise on ViaMichelin may use web beacons in their advertisements. 
+###  **8\. Minors**
 
-In particular when you see the following logo, 
+The Michelin Travel Partner websites and applications are not, in general, intended for people under the age of eighteen (18). If you are under eighteen, please do not transmit personal information without your parents’ consent.
 
-[ ](http://www.cim.be/mtwb/fr/r_9.html)
+###  **9\. Newsletters**
 
-the Media Information Centre (CIM, Centre d’Information sur les Media), uses a cookie to gather information from the pages which you have consulted (number of requests for a page, visits, etc.). This information is gathered for purely statistical purposes and cannot be used to identify you. For more information or to consult the results published from this survey, click on the CIM logo or visit the CIM website at the following address: http://www.cim.be
+Users of the Websites and/or Applications may register and receive Michelin Travel Partner newsletters by providing their email address using the form available for such purpose on the relevant Website and/or Application.
 
-No unsolicited advertising e-mails will be sent to you without your prior agreement. If you wish to receive promotional information and offers by e-mail on ViaMichelin products and services, tick the relevant box in the registration form collecting the necessary information for access to ViaMichelin services. 
+The information that Michelin Travel Partner collects in this way will be used solely to manage your newsletter registrations and to send the newsletters to you.
 
-Information about you is not passed on to third parties (sales partners, Michelin group companies), particularly for sales canvassing purposes, without your prior consent. If you wish to receive special offers from third parties by e-mail, tick the relevant box in the registration forms. 
+You can manage your newsletter registrations from your ‘My Michelin Account’ personal account.
 
-Please note however that ViaMichelin will transfer information held by us, including personal data, at the request of a legal authority or any other administrative authority empowered by the law seeking the transfer of such information in accordance with current legislation. 
+In accordance with the law, you have the right to access and rectify the information about you and, on legitimate grounds, to oppose its use. You may exercise this right by sending an email to:  [privacy@tp.michelin.com](mailto:contact-fr@tp.michelin.com).
 
-#####  **3\. Term of retention - Right of access, modification, correction, deletion  **
+###  **10.  ** **Data storage  **
 
-Personal data relating to you may be retained for a period not more than one year after our services were last activated by you. 
+Michelin Travel Partner will store your data only for the time necessary to carry out the operations for which they were collected, and in compliance with the laws in force.
 
-Cookies may be deleted by configuration of your browser. 
+###  **11.  ** **Security**
 
-Under current French legislation (article 40 of the French Data Protection Act of 6 January 1978 amended by the law of 6 August 2004), you have the right to access, modify, correct and delete your personal data. 
+Michelin Travel Partner ensures the security of your personal data through a robust data protection system that uses physical and logical security measures.
 
-To exercise this right, simply write to us at the following address: 
+If all or part of personal data processing is subcontracted, Michelin Travel Partner will impose personal data confidentiality and security obligations on its subcontractors, by contract, in accordance with article 35 of the French Data Protection Act of 6 January 1978, as amended.
 
-ViaMichelin
+###  **12.  ** **User rights**
 
-**  Customer Services **
+In accordance with the French Data Protection Act of 6 January 1978, as amended, you have a right to query, access, modify, rectify, delete and, on legitimate grounds, oppose the use of your personal data, and the right to provide instructions for your data after your death.
 
-110 Avenue Victor Hugo
+To exercise these rights, simply send us a letter, enclosing a copy of an identity document, by email to [privacy@tp.michelin.com](mailto:contact-fr@tp.michelin.com) or by post to the following address:  **Michelin Travel Partner, Service Client,  **27 Cours de l’Ile Seguin, 92105 Boulogne-Billancourt Cedex, France.
 
-92514 Boulogne-Billancourt Cedex
+###  **13.  ** **Contact us**
 
-France
+This charter is intended to evolve over time, and we undertake to supplement it in order to meet your needs and expectations.
 
-We plan to develop this charter over time and undertake to do so in line with your needs and expectations. 
+Therefore, we welcome your questions and suggestions about this charter. Please send us your comments using the ['Contact us’](http://info.viamichelin.com/web/contact-us) section.
 
-We will therefore be happy to answer any questions or suggestions you might have concerning this charter, so do not hesitate to send us your comments in our ["Contact Us"](http://www.viamichelin.com/web/webForm) section. 
+If you have other questions, please refer to the menu at the foot of each page (‘footer’) of our Websites. Perhaps we have already answered your question.
 
-For further questions: visit the footer of our website, we may have answered them already.
-
-(v.2.0 – Oct.2009)
+ _(version 15.2 – August 2017)_
