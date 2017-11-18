@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101322id_/http%3A//www.property.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property.ie privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118214354id_/http%3A//www.property.ie/privacy) for the most accurate reproduction.*
 
 # Privacy & Legal - Property.ie
 
@@ -76,9 +76,9 @@ uidr | Numerical (same as end of UID) | Real user ID | 1 year and 354 days
 delivery.myflashpointmedia.com   
 OAID | Randomly generated string | Checking if user is a unique visitor | 1 year  
 adnxs.com  
-anj | A hashed string | ComScore | 3 months  
-icu | A hashed string | ComScore | 3 months  
-sess | 1 | ComScore | 1 day  
+anj | A hashed string | Usage stats | 3 months  
+icu | A hashed string | Usage stats | 3 months  
+sess | 1 | Usage stats | 1 day  
 sess | Numerical string | Unique user id | 3 months  
 pool.distilled.ie (Network Targeting)   
 __cfduid | Hexadecimal-ip-numerical | User identifier | 6 years  
