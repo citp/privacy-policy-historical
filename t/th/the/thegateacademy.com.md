@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegateacademy.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628101419id_/http%3A//thegateacademy.com/privacy-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegateacademy.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118065216id_/http%3A//thegateacademy.com/privacy-statements) for the most accurate reproduction.*
 
 # Privacy Statements - THE GATE ACADEMY
 
