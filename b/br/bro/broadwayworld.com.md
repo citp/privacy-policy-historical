@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628005513id_/http%3A//www.broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118232129id_/https%3A//www.broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
 
-# Broadway World.com - Broadway's Premier Web Resource
+# BroadwayWorld Privacy Policy
 
-******** BroadwayWorld.com ** DOES NOT DISCLOSE YOUR PERSONAL INFORMATION** to outside parties. We only release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms and Conditions of Use](http://www.broadwayworld.com/board/guide.cfm) and other agreements; or protect the rights, property, or safety of BroadwayWorld.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection. 
+******** BroadwayWorld.com ** DOES NOT DISCLOSE YOUR PERSONAL INFORMATION** to outside parties. We only release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms and Conditions of Use](https://www.broadwayworld.com/board/guide.cfm) and other agreements; or protect the rights, property, or safety of BroadwayWorld.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
 Periodically, aggregate statistics will be provided to our advertising partners, but *NO* specfic or personal information will be included. We do ask you if you are interested in receiving relevant information or offers from theater vendors via e-mail. You may choose to receive this information or easily "unsubscribe" and choose NOT TO RECEIVE any e-mails from BroadwayWorld.com outside your newsletter subscriptions. 
 
