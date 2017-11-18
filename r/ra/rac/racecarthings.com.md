@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racecarthings.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615232438id_/http%3A//racecarthings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racecarthings.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118094727id_/http%3A//racecarthings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RaceCarThings.com
 
@@ -88,10 +88,10 @@ RaceCarThings.com will terminate your access to the Website(s) if, under appropr
 
 #### **California Privacy Rights**
 
-YOUR PRIVACY RIGHTS – California Civil Code Section 1798.83 permits members of the Website(s) who are California residents to request certain information regarding the disclosure of any personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@racecarthings.com.
+YOUR PRIVACY RIGHTS – California Civil Code Section 1798.83 permits members of the Website(s) who are California residents to request certain information regarding the disclosure of any personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)racecarthings.com.
 
 #### **How Should a User Contact RaceCarThings.com LLC?**
 
-** ** If you suspect that RaceCarThings.com has handled your information in a manner that does not comply with this Privacy Policy, please contact us by e-mailing to privacy@racecarthings.com.
+** ** If you suspect that RaceCarThings.com has handled your information in a manner that does not comply with this Privacy Policy, please contact us by e-mailing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)racecarthings.com.
 
 _This privacy policy is effective as of September 1, 2014._
