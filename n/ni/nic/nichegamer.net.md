@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichegamer.net privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008150104id_/http%3A//nichegamer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichegamer.net privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118072151id_/http%3A//nichegamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Niche Gamer
 
