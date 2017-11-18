@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the myjobscotland.gov.uk privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111020848id_/https%3A//www.myjobscotland.gov.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobscotland.gov.uk privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118232029id_/https%3A//www.myjobscotland.gov.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | myjobscotland
 
 ## Privacy Statement
 
-### Updated 11th May 2016
+### Updated 7th December 2016
 
 This website is operated and controlled by COSLA on behalf of its member organisations. myjobscotland is the national shared recruitment portal for Scotland's 32 local authorities, the Scottish Fire and Rescue Service, and Further & Higher Education institutions. It advertises job vacancies online through a single internet portal managed by COSLA. The portal allows candidates in any location to view vacancies and submit applications online to the organisation advertising the vacancy. Applicants can register to receive job alerts via email. This policy is designed to inform you of COSLA’s commitment to upholding your right to privacy and how COSLA will handle your personal data when you using myjobscotland.gov.uk
 
-Information you supply will be processed by COSLA in accordance with the requirements and principles of the Data Protection Act 1998. COSLA is registered with the Information Commissioner as a data controller under the following address and registration number: Convention Of SScottish Local Authorities, Verity House, 19 Haymarket Yards, Edinburgh EH12 5BH - Registration No: Z6216554
+Information you supply will be processed by COSLA in accordance with the requirements and principles of the Data Protection Act 1998. COSLA is registered with the Information Commissioner as a data controller under the following address and registration number: Convention Of Scottish Local Authorities, Verity House, 19 Haymarket Yards, Edinburgh EH12 5BH - Registration No: Z6216554
 
 Information entered onto the myjobscotland website is stored in a database managed by Lumesse on COSLA’s behalf. The organisation to which you are applying is given limited access to this database, in order to process your application for a vacancy.
 
@@ -31,7 +31,7 @@ If you choose to apply for a vacancy with one of the organisations featured on t
 
 This information will be used solely for the purposes of recruitment by the personnel department of that organisation. It will be made clear to you at the point of submitting your application which organisation will have access to your data and by not submitting the application you would be opting out of this recruitment process.
 
-After you have created an account and/or submitted an application your account will be anonymised/archived, by removing personal details such as your name, address, email, contact telephone number, after two years of inactivity in your account. Accounts cannot be unarchived after this period. Therefore the onus is on you to keep your account active should you wish to continue to access your application information and to keep copies of your submitted applications. Successful candidate information will be retained for seven years.
+After you have created an account and/or submitted an application your account will be anonymised/archived, by removing personal details such as your name, address, email, contact telephone number, after five years of inactivity in your account. Accounts cannot be unarchived after this period. Therefore the onus is on you to keep your account active should you wish to continue to access your application information and to keep copies of your submitted applications. Successful candidate information will be retained for seven years.
 
 If you are not offered a job, in accordance with the above paragraph, your application information will remain on your account until it is archived.
 
