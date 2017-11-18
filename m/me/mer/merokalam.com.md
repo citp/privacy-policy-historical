@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the merokalam.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104534id_/http%3A//www.merokalam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merokalam.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118211701id_/http%3A//www.merokalam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mero Kalam
+# Privacy Policy - Mero Kalam - Nepal's Popular Blog
 
   
 
 
-## [merokalam.com](http://merokalam.com/) Privacy Policy
+## [merokalam.com](https://merokalam.com/) Privacy Policy
 
   **What personal information do we collect from the people that visit our blog?**
 
