@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillmissionbihar.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120075904id_/http%3A//www.skillmissionbihar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillmissionbihar.org privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118213239id_/http%3A//www.skillmissionbihar.org/privacy-policy) for the most accurate reproduction.*
 
 # Bihar Skill Development Mission - Privacy Policy
 
