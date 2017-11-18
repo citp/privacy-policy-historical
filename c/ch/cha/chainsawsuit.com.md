@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135318id_/http%3A//chainsawsuit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118093611id_/http%3A//chainsawsuit.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy – Chainsawsuit – Kris Straub
+# Privacy Policy – Chainsawsuit – Comics • Video • Podcasts
 
 Chainsawsuit.com is owned and operated by Chainsawsuit Studios LLC. **We value your readership and do  not sell any information that is collected from visitors of chainsawsuit.com or its subdomains, at any time, ever.**
 
