@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kff.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630140323id_/http%3A//kff.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kff.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119001934id_/http%3A//www.kff.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Henry J. Kaiser Family Foundation
 
 The Kaiser Family Foundation is committed to protecting the privacy and security of visitors to our websites. Outlined below is our online privacy policy for information collected through our websites and email lists. Please read this page carefully before using or proceeding to access our website. While using our website, you choose to consent to the terms of these policies.
 
-If you have questions about these policies, we encourage you to contact us through our [feedback form](http://kaiserfamilyfoundation.wordpress.com/contact-us/ "Contact Us").
+If you have questions about these policies, we encourage you to contact us through our [feedback form](https://kaiserfamilyfoundation.wordpress.com/contact-us/ "Contact Us").
 
 **Resale or disclosure of information to third parties:  
 **We do not share or otherwise disclose any personal information, including your name, address, or email addresses with other organizations. Only Foundation staff and our authorized agents have access to personally identifiable information provided by visitors to our site.
@@ -30,7 +30,7 @@ The Kaiser Family Foundation website also collects information that may be used 
 **Children’s privacy:  
 **Because we care about the safety and privacy of children online, we comply with the [Children’s Online Privacy Protection Act of 1998 (COPPA)](http://www.coppa.org/). COPPA and its accompanying FTC regulation establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children. Our site is not intended to solicit information of any kind from children. It is possible that by fraud or deception we may receive information pertaining to children. If we are notified of this, as soon as we verify the notification, we will immediately obtain parental consent or otherwise delete the information from our servers.
 
-If you wish to notify us of our receipt of information by children, please do so through our [feedback form](http://kaiserfamilyfoundation.wordpress.com/contact-us/ "Contact Us").
+If you wish to notify us of our receipt of information by children, please do so through our [feedback form](https://kaiserfamilyfoundation.wordpress.com/contact-us/ "Contact Us").
 
 **Security:  
 **The Kaiser Family Foundation employs physical, electronic, and procedural safeguards to protect our site from the loss or misuse of information that we have collected from you. ****
@@ -39,4 +39,4 @@ If you wish to notify us of our receipt of information by children, please do so
 We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
 **Changes:**  
-From time to time, our Privacy Policy may change to improve how we interact with our website’s visitors. Should any changes be made to our policies, we will post them on this page and, if the changes are significant, we will provide more prominent notice on our website. If you are concerned about how your information is used, you should check back on this page periodically or [contact us with any questions](http://kaiserfamilyfoundation.wordpress.com/contact-us/ "Contact Us").
+From time to time, our Privacy Policy may change to improve how we interact with our website’s visitors. Should any changes be made to our policies, we will post them on this page and, if the changes are significant, we will provide more prominent notice on our website. If you are concerned about how your information is used, you should check back on this page periodically or [contact us with any questions](https://kaiserfamilyfoundation.wordpress.com/contact-us/ "Contact Us").
