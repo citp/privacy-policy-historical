@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10wala.in privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621004027id_/http%3A//top10wala.in/top-10-wala-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10wala.in privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118211759id_/http%3A//top10wala.in/top-10-wala-privacy-policy) for the most accurate reproduction.*
 
 # Top 10 Wala Privacy Policy » Top 10 Wala News
 
