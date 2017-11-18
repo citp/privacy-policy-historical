@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ktuu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053235id_/http%3A//www.ktuu.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktuu.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119003501id_/http%3A//www.ktuu.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-Posted: Wed 5:30 AM, Jun 20, 2012  | 
+Posted: Wed 12:24 PM, Mar 04, 2015  | 
 
 Updated: Thu 12:10 PM, May 11, 2017 
 
