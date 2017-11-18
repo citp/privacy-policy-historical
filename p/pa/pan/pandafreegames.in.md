@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandafreegames.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082115id_/http%3A//www.pandafreegames.in/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandafreegames.in privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118173601id_/http%3A//www.pandafreegames.in/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Panda Free games
 
