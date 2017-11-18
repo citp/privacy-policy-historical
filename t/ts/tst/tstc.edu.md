@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161321id_/http%3A//www.tstc.edu/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118135202id_/http%3A//www.tstc.edu/footer/privacy) for the most accurate reproduction.*
 
 # Texas State Technical College | Footer | Texas State Technical College Privacy and Security
 
 ## Privacy & Security
 
-This website is operated by Texas State Technical College (TSTC). This privacy policy ("Policy") explains how information is collected, used and disclosed by TSTC with respect to your use of the tstc.edu website and other TSTC sites which display this Policy (the "Sites") so you can make an informed decision about using the Sites. This Policy also applies to information collected on other websites on our behalf by third-party vendors. We reserve the right to change this Policy at any time. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used. 
+This website is operated by Texas State Technical College (TSTC). This privacy policy ("Policy") explains how information is collected, used and disclosed by TSTC with respect to your use of the tstc.edu website and other TSTC sites which display this Policy (the "Sites") so you can make an informed decision about using the Sites. This Policy also applies to information collected on other websites on our behalf by third-party vendors. We reserve the right to change this Policy at any time. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
 
 ## Information collection and use
 
@@ -20,7 +20,7 @@ If you wish to block, erase, or be warned of cookies, please refer to your brows
 
 You can browse our website without giving us any personal information. We use web analytics technology, including specifically Google Analytics and Google Analytics Demographics and Interest Reporting, to help us analyze traffic to the Sites in order to understand visitors’ interests and to continually update our Site to improve a user’s experience. [Visit Google’s Privacy Policy](http://www.google.com/policies/privacy/partners/ "Google Privacy Policy") to learn how Google Analytics collects and processes data. You may choose to engage Google Analytics’ currently available [opt-outs for the web](https://tools.google.com/dlpage/gaoptout/ "opt-outs for the web").
 
-If you choose to enter a contest or giveaway, make a donation, fill out a form or subscribe to emails, you give the Foundation consent to monitor your browsing patterns in order to provide you with a better browsing experience for future visits and additional information on topics that you find of interest. 
+If you choose to enter a contest or giveaway, make a donation, fill out a form or subscribe to emails, you give the Foundation consent to monitor your browsing patterns in order to provide you with a better browsing experience for future visits and additional information on topics that you find of interest.
 
 ## Collection and use by third-pary vendors
 
@@ -47,7 +47,7 @@ The Texas Public Information Act, with a few exceptions, gives you the right to 
 
 ## Security
 
-Extensive security measures consistent with the Texas Administrative Code (TAC) "Information Security Standards" and TSTC Standard Operating Standards have been employed to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of this website and/or associated electronic information resources. The information resources that support this site undergo an annual information security risk assessment to assess the security posture of information systems and measure compliance with information security standards.
+Extensive security measures consistent with the Texas Administrative Code (TAC) "Information Security Standards" and Texas State Technical College (TSTC) Statewide Operating Standards have been employed to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of this website and/or associated electronic information resources. The information resources that support this site undergo an annual information security risk assessment to assess the security posture of information systems and measure compliance with information security standards.
 
 ## Questions
 
