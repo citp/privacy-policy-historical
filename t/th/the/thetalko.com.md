@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetalko.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611121120id_/http%3A//thetalko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetalko.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118134736id_/http%3A//www.thetalko.com/privacy-policy) for the most accurate reproduction.*
 
 # TheTalko Search Results
 
@@ -16,4 +16,4 @@ We respect your privacy and we are committed to safeguarding your privacy while 
 
 **Notification of Changes** Whenever we change our privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-**Contact Information** If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:legal@valnetinc.com).
+**Contact Information** If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact/).
