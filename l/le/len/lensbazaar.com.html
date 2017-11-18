@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lensbazaar.com privacy policy that was archived on 2017-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170617021057id_/http%3A//www.lensbazaar.com/lensbazaar-Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lensbazaar.com privacy policy that was archived on 2017-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118091238id_/http%3A//www.lensbazaar.com/lensbazaar-Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
@@ -7,7 +7,7 @@
 <meta name="description" content="Privacy Policy Bausch and Lomb  Annual Lenses.">
 <meta name="copyright" content="Lens Bazaar - Contact lens Company in India">
 <meta name="msvalidate.01" content="AC840A86E6121204F84906EA89EFBFC6">
-
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <meta name="CONTENT-LANGUAGE" content="EN">
 <meta name="document-classification" content="Internet">
 <meta name="document-type" content="Public">
@@ -16,7 +16,6 @@
 <meta name="revisit-after" content="1 day">
 <meta name="google-site-verification" content="google658f07b080d80267">
 <meta name="alexaVerifyID" content="mg3ZyBECr3orKZ89i0xPaaf6KII">
-<meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="Pragma" content="no-cache">
@@ -40,7 +39,9 @@ var _bsc = _bsc || {"suffix":""};
 })();
 </script>
 
-<script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+
+
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
@@ -55,7 +56,7 @@ var _bsc = _bsc || {"suffix":""};
 <![endif]-->
 <!--[if lt IE 7]>
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
-<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js" ></script>
 <script type="text/javascript">
 DD_belatedPNG.fix('#logo img');
 </script>
@@ -78,6 +79,53 @@ DD_belatedPNG.fix('#logo img');
   .hide{
     display:none;
   }
+#welcome .quick-login {
+    background: #fff!important;
+    color: #005a8d;
+    border-radius: 0px;
+    border: 1px solid #005a8d;
+   font-size:11px;
+font-weight:bold;
+transition:0.5s;
+cusor:pointer;
+}
+#welcome .quick-login{
+    background:#005a8d!important;
+    color: #fff ;
+    border-radius: 0px;
+    border: 1px solid #005a8d;
+   font-size:10px;
+font-weight:bold;
+transition:0.5s;
+
+}
+.btn_track{
+    background: #005a8d!important;
+text-decoration:none;
+cursor:pointer;
+}
+
+
+#welcome .quick-register{
+    background: #f93a3a!important;
+    color: white;
+    border-radius: 0px;
+    border: 1px solid #f93a3a;
+   font-size:10px;
+font-weight:bold;
+transition:0.2s;
+cursor:pointer;
+}
+
+#welcome .quick-register{
+    background: #f93a3a!important;
+    color: white;
+    border-radius: 0px;
+    border: 1px solid #f93a3a;
+   font-size:10px;
+font-weight:bold;
+transition:0.5s;
+}
 </style>
 
 			<link rel="stylesheet" href="catalog/view/javascript/jquery.cluetip.css" type="text/css">
@@ -103,8 +151,9 @@ DD_belatedPNG.fix('#logo img');
 						<a href="index.php?route=information/shipway_track" style="color:#fff">Track Order</a>
 					</div>
 					 
-    <div id="logo"><a href="http://www.lensbazaar.com/"><img src="http://www.lensbazaar.com/image/data/logo - Copy.jpg" title="LensBazaar.com" alt="LensBazaar.com"></a></div>
-     
+    <div id="logo"><a href="http://www.lensbazaar.com/"><img src="catalog/view/theme/default/image/new-logo.jpg" title="LensBazaar.com" alt="LensBazaar.com"></a></div>
+      <div id="bag-cart">
+   <img class="cart-icon" src="catalog/view/theme/default/image/bag.png">
    <div id="cart">
   <div class="heading">
     <h4>Shopping Bag</h4>
@@ -114,13 +163,18 @@ DD_belatedPNG.fix('#logo img');
         <div class="empty">Your shopping Bag is empty!</div>
       </div>
 </div>
+  </div>
+  <div id="welcome">
+        welcome visitor you can &nbsp;<a href="index.php?route=account/login"><button class="quick-login">&nbsp;login&nbsp;</button></a>&nbsp; or <a href="index.php?route=account/register"><button class="quick-register">create an account</button></a>
+
+      </div>
   <div id="search">
     <div class="button-search"></div>
-        <input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';">
+        <input type="text" name="filter_name" placeholder="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';">
       </div>
-  <div id="welcome">
-        Welcome visitor you can <a href="https://www.lensbazaar.com/login">login</a> or <a href="https://www.lensbazaar.com/register">create an account</a>.      </div>
-  <div class="links"><a href="http://www.lensbazaar.com/">Home</a><a href="https://www.lensbazaar.com/account">Account</a><a href="http://www.lensbazaar.com/index.php?route=checkout/cart">Shopping Bag</a></div>
+  
+  <div class="links"><a><i class="fa fa-volume-control-phone" aria-hidden="true"></i> +91-80100 77770</a>
+<a href="http://www.lensbazaar.com/">Home</a><a href="https://www.lensbazaar.com/account">Account</a><a href="http://www.lensbazaar.com/index.php?route=checkout/cart">Shopping Bag</a></div>
 </div>
 <div id="menu">
   <ul>
@@ -144,9 +198,434 @@ DD_belatedPNG.fix('#logo img');
           </li>
         <li><a href="http://www.lensbazaar.com/Contact-Lens-Solutions">Lens Solutions</a>
           </li>
+        <li><a href="http://www.lensbazaar.com/toric-contact-lens">Toric Lens</a>
+          </li>
       </ul>
 </div>
 <div id="notification"></div>
+
+
+<style>
+
+#header #search {
+   
+    top: 35px!important;
+    right:0px;
+    width:auto;
+    
+}
+
+#welcome a:last-child {
+    padding-left: 0px;
+}
+
+
+
+
+#header #welcome {
+  
+    top:75px;
+    padding-right:0px!important;
+    font-size:12px;
+   
+}
+
+.box-product > div {
+    width: 140px!important;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 23px!important;
+    margin-bottom: 40px!important;
+    text-align: center;
+}
+
+
+
+
+#header #cart {
+    position: absolute;
+    top: 10px;
+    right: 170px;
+    z-index: 9;
+    min-width: 300px;
+}
+
+#header #search input{
+   background:#ECECEC!important;
+   border-right: none;
+   padding:0px 10px;
+   color:#A3A3A3;
+   border: none;
+   width:312px;
+   height:32px;
+}
+
+#header #search input:focus,
+#header #search input:active{
+  outline:none;
+}
+
+
+
+#header .links {
+   display:block;
+}
+#header .links {
+color:#005a8d;
+}
+
+#welcome a{
+color:#005a8d;
+text-decoration:none;
+font-weight: 600;
+}
+
+#welcome a:hover{
+text-decoration:none;
+}
+
+
+#welcome a:not(:last-child) {
+   
+}
+
+
+
+#menu{
+
+background:#ECECEC;
+border-bottom:none;
+box-shadow:none;
+height:35px!important;
+padding:0px!important;
+
+}
+
+.product-list > div {
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+#menu > ul > li > a {
+    color: #005a8d;
+    line-height: 14px;
+    text-decoration: none;
+    display: block;
+    padding:10px 9px;
+    margin-bottom: 0px!important;
+    z-index: 6;
+    position: relative;
+    font-size: 13px;
+    letter-spacing: 0.3px;
+    font-family: 'Lato', sans-serif;
+}
+
+#menu > ul > li {
+    background-color: #ECECEC;
+    position: relative;
+    float: left;
+    z-index: 20;
+    padding:0px;
+    margin-right: 0px;
+    height:auto!important;
+    transition: background 0.3s;
+}
+
+#menu > ul > li:hover{
+
+background:#035A8F;
+}
+
+#menu > ul > li > div {
+    display: none;
+    background:#035A8F;
+    position: absolute;
+    z-index: 5;
+    padding: 5px;
+    border: 1px solid #000000;
+    border-radius: 0px;
+}
+
+#header #cart .heading {
+    float: right;
+    margin-right: 185px;
+    margin-top: 13px;
+     padding: 3px 0px;
+    border-top: 1px solid #FFFFFF;
+    border-left: 1px solid #FFFFFF;
+    border-right: 1px solid #EEEEEE;
+    
+    position: relative;
+    z-index: 1;
+    height: 60px;
+    width: 178px;
+    background:#ECECEC;
+    background-size: 50px;
+    background-position: -3px;
+
+}
+
+
+
+
+
+
+#menu > ul > li:hover > a {
+    background: none;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+    color:#fff;
+}
+
+#menu > ul > li + li {
+    height: auto!important;
+    vertical-align: left;
+    border-left: 1px solid #CCC;
+    line-height: auto!important;
+}
+
+#logo a img{
+max-width:176px;
+}
+
+#header .button-search {
+    position: absolute;
+    right: 5px;   
+    background: url(catalog/view/theme/default/image/search.png) center center no-repeat;
+    width: 28px;
+    height: 32px;
+    cursor: pointer;
+}
+
+#header .links a {
+    float: right;
+    display: block;
+    padding: 0px 7px 0px 0px;
+    color: #005a8d;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#bag-cart .cart-icon{ 
+    position: absolute;
+    left: 43%;
+    width: 50px;
+    z-index: 99;
+    top: 32px;
+}
+
+#header #cart .heading h4 {
+    color: #0E71A0;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+#header #cart .heading a span {
+    background: url("catalog/view/theme/default/image/down.png") 100% 50% no-repeat;
+    padding-right: 32px;
+    padding-left: 32px;
+    color: #595959;
+    font-size: 10px;
+}
+
+#header{
+ font-family: 'Lato', sans-serif;
+}
+
+
+
+
+
+#header #cart .heading:after {
+    content: "";
+    height: 67px;
+    background: #eee;
+    width: 1px;
+    display: block;
+    position: absolute;
+    left: 200px;
+    top: 0px;
+}
+
+#search input::-webkit-input-placeholder { 
+  color: #929292;
+}
+
+.active-list{
+   background: #035A8F!important;
+   color:#fff!important;
+}
+
+
+
+.box-product .price-old {
+    color: #817d7d!important;
+    text-decoration: line-through;
+    font-size:12px;
+}
+
+.box-product .price-new {
+    font-weight: bold;
+    font-size:14px;
+    color: #FB5760;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+.box .box-heading {
+    text-align:center;
+    border:none ;
+    background:#eee;
+}
+
+.box .box-content {
+    border:none;
+    padding:0px; 
+}
+#column-left {
+    float: left;
+    width: 190px;
+    margin-right: 10px;
+}
+
+
+.htabs {
+    height: 39px;
+    line-height: 26px;
+    margin-top: 10px;
+    border-bottom: none;
+}
+
+
+.box {
+    margin-bottom: 20px;
+    margin-right: 5px;
+}
+.box-category ul li a{
+    color:#005a8d;
+    font-size: 12px;
+    letter-spacing: 0px;
+}
+.box-category > ul > li {
+    padding: 10px 8px 5px 0px;
+    border-bottom: 1.5px solid gainsboro;
+}
+.box .box-heading {
+    padding: 8px 10px 12px 10px;
+    color: rgba(45, 31, 31, 0.72);
+    font-size:15px;
+}
+
+#content .breadcrumb a{
+text-decoration:none;
+color:#005a8d;
+font-size:13px;
+}
+.login-content p + a{
+    background: #005a8d!important;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+    padding: 6px 20px;
+    border: none;
+    cursor: pointer;
+}
+.login-content .right form input[type="submit"]{
+    background: #005a8d!important;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+    padding: 6px 20px;
+    border: none;
+    cursor: pointer;
+    width:145px;
+}
+
+.login-content .right form input[type="text"],.login-content .right form input[type="password"]{
+  width:50%;
+  height:20px;
+
+
+}
+a.button{
+
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff !important;
+    background-color: #005a8d!important;
+    border-color: #005a8d!important;
+}
+
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+    background-color:transparent;
+    background-image: none;
+    color: rgb(0, 0, 0);
+}
+
+#content{
+position:relative!important;
+}
+
+
+</style>
+
+
+<script>
+
+$(document).ready(function(){
+     var a = $("#content h1").text();
+
+    $("#menu ul li a").each(function(){
+        if($(this).text()==a)
+         $(this).css({"background":"#035A8F","color":"#fff"});
+    });
+
+  });
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 <div id="content">  <div class="breadcrumb">
         <a href="http://www.lensbazaar.com/">Home</a>
@@ -207,13 +686,208 @@ DD_belatedPNG.fix('#logo img');
     <div class="right"><a href="http://www.lensbazaar.com/" class="button">Continue</a></div>
   </div>
   </div>
+<style>
+
+#modal-body select{
+  font-size:12px!important;
+}
+
+button.quick-buy {
+    background: #fff!important;
+    color: #005a8d;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 6px 10px;
+    border: 2px solid #005a8d;
+    cursor: pointer;
+    width: 120px;
+}
+
+.quick-buy-div {
+    margin: 6px auto 0px;
+}
+.button-icon{
+margin-right:5px;
+}
+
+
+
+
+
+
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 9999; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%;
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.8); 
+}
+
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 6% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 65%;
+}
+
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#modal-body .star-image-right{
+  display:none!important;
+}
+
+#modal-body > #content{
+
+  min-height:auto;
+  margin-bottom:0px;
+  position:inherit!important;
+ 
+}
+
+#modal-body .product-info{
+  margin-bottom:0px;
+}
+
+
+
+
+#content{
+  
+}
+
+#modal-body .fa-circle-o-notch{
+text-align: center;
+    margin: 150px auto;
+    position: relative;
+    left: 48%;
+}
+
+
+.logo-center-body:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: -60px;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    background-image: url('catalog/view/theme/default/image/new-logo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:200px;
+   
+}
+
+
+
+.logo-center-body{
+    position:relative;
+    height:300px;
+
+}
+
+
+
+
+
+</style>
+
+
+
+
+
+<div id="myModal" class="modal">
+
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span id="close" class="close" onclick="closemodal()">× </span>
+    <div id="modal-body">
+     <div class="logo-center-body">
+      <i class="fa fa-circle-o-notch fa-spin fa-3x fa-fw"></i>
+      <span class="sr-only">Loading...</span>
+     </div>
+</div>
+  </div>
+
+</div>
+
+
 <script>
+var spinercode=$("#modal-body").html();
+function quickBuy(id){
+var modal = document.getElementById('myModal');
+
+    modal.style.display = "block";
+
+$.ajax({url: "/index.php?route=product/product&product_id="+id+"&formodal=1", success: function(result){
+        
+$("#modal-body").html(result);
+    }});
+
+}
+
+
+
+var modal = document.getElementById('myModal');
+
+var btn = document.getElementById("myBtn");
+
+var span = document.getElementById("close");
+
+
+function closemodal() {
+ $("#modal-body").html(spinercode);
+  
+var modal = document.getElementById('myModal');
+
+ modal.style.display = "none";
+}
+
+window.onclick = function(event) {
+ if (event.target == modal) {
+$("#modal-body").html(spinercode);
+
+   
+        modal.style.display = "none";
+    }
+}
+
+
+</script>
+
+
+
+<script>
+  
+
 var runloopuntill=0;
 
 $('.option').each(function(){
-
 var bctext=$(this).find('b').text();
-
 var bcount=0;
 if(bctext=="BASE CURVE:")
 {
@@ -287,6 +961,7 @@ leftpwr=leftpwr.replace(/\s+/g,' ').trim();
 rightpwr=rightpwr.replace(/\s+/g,' ').trim();
 leftpwr=leftpwr+":";
 rightpwr=rightpwr+":";
+
 if(bctext==leftpwr)
 {
 temp=$(this).find('select').find('option:contains('+leftpowervalue+')').val();
@@ -312,10 +987,72 @@ rightpowervalue=$(this).find(":selected").text();
 });
 }</script>
 
+<style>
+#footer {
+    clear: both;
+    overflow: auto;
+    min-height: 100px;
+    padding: 20px;
+    border-top: 1px solid #DBDEE1;
+    border-bottom: 1px solid #DBDEE1;
+    background: #F8F8F8;
+    /* width: 1200px; */
+    position: absolute;
+    left: 0;
+    right: 0;
+   padding-left: 15%;
+    padding-right: 10%;
+}
+
+#footer .column ul {
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+#footer .column ul li {
+    margin-bottom: 5px;
+    list-style: none;
+}
+
+#footer .column a {
+    text-decoration: none;
+    color: #817d7d!important;
+}
+
+#footer h3 {
+    color: #222;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    position: relative;
+    left: -19px;
+}
+
+#footer h3 i.fa {
+    font-size: 20px;
+    position: relative;
+    right: 5px;
+}
+
+.column table tr td img{
+    width: 50px;
+    margin-right: 13px;
+}
+
+#footer .column h3 img {
+    width: 20px;
+    margin-right: 5px;
+}
+
+</style>
+
+
+
 
 <div id="footer">
   <div class="column">
-    <h3>Information</h3>
+    <h3><img src="catalog/view/theme/default/image/information.png">Information</h3>
     <ul>
             <li><a href="http://www.lensbazaar.com/Lensbazaar about us">About Us</a></li>
             <li><a href="http://www.lensbazaar.com/lensbazaar-Privacy-Policy">Privacy Policy</a></li>
@@ -325,7 +1062,7 @@ rightpowervalue=$(this).find(":selected").text();
           </ul>
   </div>
   <div class="column">
-    <h3>Customer Service</h3>
+    <h3><img src="catalog/view/theme/default/image/cservice.png">Customer Service</h3>
     <ul>
       <li><a href="http://www.lensbazaar.com/index.php?route=information/contact">Contact Us</a></li>
       <li><a href="https://www.lensbazaar.com/index.php?route=account/return/insert">Returns</a></li>
@@ -335,7 +1072,7 @@ rightpowervalue=$(this).find(":selected").text();
     </ul>
   </div>
   <div class="column">
-    <h3>Extras</h3>
+    <h3><img src="catalog/view/theme/default/image/extra.png">Extras</h3>
     <ul>
       <li><a href="http://www.lensbazaar.com/manufacturer">Brands</a></li>
       <li><a href="https://www.lensbazaar.com/index.php?route=account/voucher">Gift Vouchers</a></li>
@@ -348,10 +1085,12 @@ rightpowervalue=$(this).find(":selected").text();
     </ul>
   </div>
   <div class="column">
-    <h3>Connect with us on:</h3>
-   
-     <table><tbody><tr> <td><a href="https://www.facebook.com/pages/Lens-bazaar/104074106404017" target="_blank"><img src="../catalog/view/theme/default/image/facebook.png" alt="Lens bazaar facebook"></a></td></tr>
-     <tr><td> <a href="https://twitter.com/#!/LensBazaar" target="_blank"><img src="../catalog/view/theme/default/image/twitter.png" alt="Lens bazaar twitter"></a></td></tr></tbody></table>
+    <h3><img src="catalog/view/theme/default/image/connect.png">Connect with us on:</h3>
+   <span style="font-size:18px; color:#817d7d;margin-left:-15px;;letter-spacing: 2px;font-weight:lighter;"> +91-80100 77770</span><br><br>
+     <table style="margin-left:15px;margin-top:10px">
+<tbody><tr> <td>
+<a href="https://www.facebook.com/pages/Lens-bazaar/104074106404017" target="_blank"><img src="catalog/view/theme/default/image/fb-logo.png" alt="Lens bazaar facebook"></a></td>
+     <td> <a href="https://twitter.com/#!/LensBazaar" target="_blank"><img src="catalog/view/theme/default/image/twitter-logo.png" alt="Lens bazaar twitter"></a></td></tr></tbody></table>
  
   </div>
   
@@ -366,11 +1105,11 @@ rightpowervalue=$(this).find(":selected").text();
 
 </div>
 <!-- Start of lensbazaarad Zendesk Widget script -->
-<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","lensbazaarad.zendesk.com");/*]]>*/</script>
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script async="">/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","lensbazaarad.zendesk.com");/*]]>*/</script>
 <!-- End of lensbazaarad Zendesk Widget script -->
 
 <!-- Start Alexa Certify Javascript -->
-<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script>
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js" async=""></script>
 <script type="text/javascript">_atrk_opts = { atrk_acct: "KC/4g1aYS500qQ", domain:"lensbazaar.com"}; atrk ();</script>
 <noscript>
 <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=KC/4g1aYS500qQ" style="display:none" border="0" height="1" width="1" alt="lensbazaar" /> 
