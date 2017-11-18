@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205029id_/http%3A//www.clubmonaco.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118213813id_/http%3A//www.clubmonaco.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy) for the most accurate reproduction.*
 
 # Customer Assistance | Club Monaco
 
