@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popeyescanada.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519172455id_/http%3A//www.popeyescanada.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popeyescanada.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118093920id_/http%3A//www.popeyescanada.com/privacy.html) for the most accurate reproduction.*
 
-# Popeye's Supplements Canada ~ Over 125 Locations Across Canada! - Privacy Statement
+# Popeye's Supplements Canada ~ Over 140 Locations Across Canada! - Privacy Statement
 
 > ## PRIVACY STATEMENT
 > 
