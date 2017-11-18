@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712170833id_/https%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118230817id_/https%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - Mighty Deals Limited
 
@@ -52,6 +52,8 @@ Cookies allow web applications to respond to you as an individual. The web appli
 A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely.
 
 We may from time to time contact you via email, post, telephone or SMS with offers from third parties, which we may feel are of interest to you, or services which are of similar nature to what we provide. If you do not wish to receive these you can unsubscribe [here](https://www.mightydeals.co.uk/unsubscribe.aspx)
+
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. Third parties may also use pixels to collect non-personally identifiable information from emails that they open. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at http://www.aboutads.info/choices or Your Online Choices at http://www.youronlinechoices.com/uk/.
 
 ### Changes to the Policy
 
