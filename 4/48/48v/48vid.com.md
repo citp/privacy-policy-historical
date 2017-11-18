@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 48vid.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124444id_/http%3A//48vid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48vid.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118092940id_/http%3A//48vid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pengaman Link
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:admin@48vid.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://web.archive.org/cdn-cgi/l/email-protection#6706030a0e0927535f110e034904080a).
 
 At 48vid.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by 48vid.com and how we use it.
 
