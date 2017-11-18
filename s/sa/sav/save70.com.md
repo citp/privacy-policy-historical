@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the save70.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621022240id_/http%3A//www.save70.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the save70.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118193750id_/http%3A//www.save70.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Save 70
 
