@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611163107id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118195703id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SQLServerCentral
 
@@ -8,7 +8,7 @@ SQLServerCentral.com is a service from Redgate Software Limited (together "SQLSe
 
 ###  1.2 SQLServerCentral.com Privacy Statement 
 
-SQLServerCentral.com respects your privacy and will use any personal information collected from this website ([www.SQLServerCentral.com](http://www.sqlservercentral.com/)) in accordance with the Data Protection Act 1998. Further details on the UK Data Protection Act can be found at the website of The Office of the Information Commissioner ([www.ico.gov.uk](http://www.ico.gov.uk/)). This privacy policy sets out our privacy practices. Please take time to review this privacy policy as it tells you how your personal information will be treated by us. 
+SQLServerCentral.com respects your privacy and will use any personal information collected from this website ([www.SQLServerCentral.com](http://www.sqlservercentral.com/)) in accordance with the Data Protection Act 1998. Further details on the UK Data Protection Act can be found at the website of The Office of the Information Commissioner (<https://ico.org.uk/>). This privacy policy sets out our privacy practices. Please take time to review this privacy policy as it tells you how your personal information will be treated by us. 
 
 Any questions regarding our privacy policy should be directed to SQLServerCentral.com's privacy policy manager at privacy@SQLServerCentral.com or alternatively see the section 'your rights'. 
 
