@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133432id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118070632id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liberals Unite
 
@@ -37,4 +37,4 @@ Samuel Wynn Warde
 LIVERMORE, CA 94550  
 USA
 
-[samuel@wynnswoods.com](mailto:samuel@wynnswoods.com)
+**whenwoods@gmail.com**
