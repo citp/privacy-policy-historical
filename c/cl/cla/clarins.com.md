@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarins.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132527id_/http%3A//www.clarinsusa.com/en/customer-service-privacy-security/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarins.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118190810id_/http%3A//www.clarinsusa.com/en/customer-service-privacy-security/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
