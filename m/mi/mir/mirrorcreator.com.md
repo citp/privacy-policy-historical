@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619162858id_/http%3A//www.mirrorcreator.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118032256id_/http%3A//www.mirrorcreator.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirrorcreator.com - Upload Your files to multiple hosts
 
@@ -6,11 +6,13 @@
 
 **What data does Mirrorcreator store about the files I upload?**
 
-* IP address of the computer from which the upload is started
+* IP address of the computer from which the upload is started.
 * Timestamp of the upload
 * MD5 checksum of the uploaded file
-* The e-mail address entered by the uploader
 * The file URL link entered by the uploader for remote uploads
+* The e-mail address entered by the uploader
+
+Data listed above may be shared with third party hosting sites you are uploading to as well. This may be required as part of their terms of service.
 
 All files uploaded to our servers are stored temporarily for delivery and are deleted when they have been uploaded to third-party websites.
 
@@ -46,4 +48,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 By using our Web site, you consent to the collection and use of these information by Mirrorcreator. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you have any questions about this Privacy Policy, [contact us](https://web.archive.org/p/contact).
 
-Last update: August 16, 2012
+Last update: July 23, 2017
