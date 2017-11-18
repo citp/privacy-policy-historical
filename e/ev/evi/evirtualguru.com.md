@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evirtualguru.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615042957id_/http%3A//evirtualguru.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evirtualguru.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118222538id_/http%3A//evirtualguru.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Complete Privacy Policy for www.evirtualguru.com
 
@@ -6,7 +6,7 @@
 
 **For www.eVirtualGuru.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at evirtualguru@gmail.com .
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@evirtualguru.com
 
 At www.evirtualguru.com , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.evirtualguru.com  and how it is used.
 
@@ -58,6 +58,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **Data Quality** We take all reasonable steps to make sure that the personal information we collect and store is accurate, up-to-date, complete, relevant and not misleading.
 
-**Complaints** If you think we may have breached your privacy you may contact us to make a complaint using the contact details below. In order to ensure that we fully understand the nature of your complaint and the outcome you are seeking, we prefer that you make your complaint in writing. . **Contact Us** If you have any enquiries or complaints about privacy, or if you wish to access or correct your personal information, please email us at evirtualguru@gmail.com or  contact@evirtualguru.com or click _[Contact Us](http://evirtualguru.com/about/contact-us/)_
+**Complaints** If you think we may have breached your privacy you may contact us to make a complaint using the contact details below. In order to ensure that we fully understand the nature of your complaint and the outcome you are seeking, we prefer that you make your complaint in writing. . **Contact Us** If you have any enquiries or complaints about privacy, or if you wish to access or correct your personal information, please email us at contact@evirtualguru.com or click _[Contact Us](http://evirtualguru.com/about/contact-us/)_
 
 **Changes to this privacy policy** Please note that the privacy policy may change from time to time. Last updated: 16 July, 2015
