@@ -1,66 +1,96 @@
-> *The following text is extracted and transformed from the nerdreactor.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127225824id_/http%3A//nerdreactor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdreactor.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119002856id_/http%3A//nerdreactor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Nerd Reactor
 
-**What information do we collect?**
+Last Updated: June 2017
 
-We collect information from you when you fill out a form or comment on our articles.
+Nerd Reactor (“us”, “we”, or “our”) operates the http://nerdreactor.com website (the “Service”).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+Nerd Reactor (“us”, “we”, or “our”) operates the http://nerdreactor.com website (the “Service”).
 
-Google, as a third party vendor, uses cookies to serve ads on your site.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://nerdreactor.com.
 
-**What do we use your information for?**
+### Information Collection And Use
 
-Any of the information we collect from you may be used in one of the following ways:
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.
 
-; To process transactions
+### Log Data
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-; To administer a contest, promotion, survey or other site feature
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-**Do we use cookies?**
+### Cookies
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-**Do we disclose any information to outside parties?**
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### DoubleClick Cookie
 
-**California Online Privacy Protection Act Compliance**
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
 
-**Childrens Online Privacy Protection Act Compliance**
+### Behavioral Remarketing
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Greeningz uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-**Online Privacy Policy Only**
+### Facebook
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Facebook remarketing service is provided by Facebook Inc.  
+You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950  
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: https://www.facebook.com/about/ads/#568137493302217  
+Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.  
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: https://www.facebook.com/privacy/explanation
 
-**Terms and Conditions**
+### AppNexus
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://nerdreactor.com/terms-of-use/>
+AppNexus remarketing service is provided by AppNexus Inc.  
+You can opt-out of AppNexus remarketing by visiting the Privacy & the AppNexus Platform web page: http://www.appnexus.com/platform-policy#choices  
+For more information on the privacy practices of AppNexus, please visit the AppNexus Platform Privacy Policy web page: http://www.appnexus.com/platform-policy
 
-**Your Consent**
+### Service Providers
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.  
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-**Changes to our Privacy Policy**
+### Compliance With Laws
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
-This policy was last modified on May 5, 2011
+### Business Transaction
 
-**Contacting Us**
+If Nerd Reactor is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+### Security
 
-<http://nerdreactor.com/contact/>  
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
+### International Transfer
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.  
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+### Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.  
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+### Children’s Privacy
+
+Our Service does not address anyone under the age of 13 (“Children”).  
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+### Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.  
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us: info@nerdreactor.com
