@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendoage.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521042955id_/http%3A//nintendoage.com/pub/faq/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoage.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118214439id_/http%3A//nintendoage.com/pub/faq/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # 
 
