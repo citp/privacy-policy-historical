@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanwith.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010550id_/http%3A//www.scanwith.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanwith.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119141637id_/http%3A//www.scanwith.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ScanWith.com - Privacy policy
 
