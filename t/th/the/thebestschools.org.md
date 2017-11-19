@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestschools.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110116id_/http%3A//www.thebestschools.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestschools.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119211330id_/https%3A//thebestschools.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Schools
 
@@ -48,4 +48,4 @@ Deleting cookies does not mean you have permanently opted out of any advertising
 
 We are committed to conducting our business in accordance with these principles and practices to ensure that the confidentiality of your personal information is protected and maintained. At the same time, to reflect changes and improvements to our handling of personal information, we may update this policy. For this reason, we encourage you to periodically review this page.
 
-**See our[Terms and Conditions of Use.](http://www.thebestschools.org/terms-conditions-use/)**
+**See our[Terms and Conditions of Use.](https://thebestschools.org/terms-conditions-use/)**
