@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shct.edu.om privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520214341id_/http%3A//www.shct.edu.om/content/copyright-disclaimer-and-privacy-statement%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shct.edu.om privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119203540id_/http%3A//www.shct.edu.om/content/copyright-disclaimer-and-privacy-statement%23privacy) for the most accurate reproduction.*
 
 # Copyright , Disclaimer and Privacy Statement | Shinas College of Technology
 
