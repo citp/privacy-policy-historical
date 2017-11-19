@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldvision.org privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207004520id_/https%3A//www.worldvision.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldvision.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119140928id_/https%3A//www.worldvision.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Vision
 
@@ -32,7 +32,7 @@ Our online surveys may ask visitors for contact information (such as their email
 
 ## Opt out
 
-Most points on our site provide users the opportunity to opt-out of receiving communications from us at the point where we request contact information about the visitor. There are, however, a few places where users do not have the opportunity to opt-out of receiving communications. Should you wish to opt-out, please [contact us](http://www.worldvision.org/contact-us "Contact Us | World Vision") or call 1-888-511-6548 and we will unsubscribe you from receiving further communications from us.
+Most points on our site provide users the opportunity to opt-out of receiving communications from us at the point where we request contact information about the visitor. There are, however, a few places where users do not have the opportunity to opt-out of receiving communications. Should you wish to opt-out, please [contact us](https://web.archive.org/contact-us "Contact Us | World Vision") or call 1-888-511-6548 and we will unsubscribe you from receiving further communications from us.
 
 Users may also opt-out at any time by contacting us following the methods provided in the “modifying your information” section below.
 
@@ -42,7 +42,7 @@ This site contains links to other sites. World Vision United States is not respo
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service; or for changing or modifying information previously provided.
 
-  1. [Send us a message](http://www.worldvision.org/contact-us "Contact Us | World Vision") with your request.
+  1. [Send us a message](https://web.archive.org/contact-us "Contact Us | World Vision") with your request.
   2. You can send postal mail to the following address: _World Vision, Inc., Mail Stop 207, P.O. Box 9716, Federal Way, WA 98063-9716_
   3. You can call the following toll-free telephone number: 1-888-511-6548
 
@@ -50,12 +50,16 @@ This site gives users the following options for removing their information from 
 
 When contacting us to change your status, be sure to include any information that would help us identify you on our lists, such as complete contact information (name, postal address, telephone number, and email address), any World Vision account number(s), or information about venues in which you gave us your contact information online (guestbook, survey, etc.)
 
+## Referral Programs
+
+World Vision may offer features which allow you to inform an individual about our ministry. If you chose to use our referral features, we will ask you for your referral’s email address or in some cases mailing address, to send them either an electronic or paper communication inviting them to participate in our ministry. We will store this information for the sole purpose of sending this email or paper communication and tracking the success of these efforts to expand the reach of our work. If you choose to participate in our referral programs, you represent and warrant that you have a personal relationship with your referral and that you are authorized to share their information with World Vision for the purpose of sending this invitation to them.
+
 ## Changes to this policy
 
 We reserve the right to make changes to this privacy policy without advance notice.
 
-Changes to this policy were last made on October 14, 2016.
+Changes to this policy were last made on November 9, 2017.
 
 ## Contacting the website
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](http://www.worldvision.org/contact-us "Contact Us | World Vision").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/contact-us "Contact Us | World Vision").
