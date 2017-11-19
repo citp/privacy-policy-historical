@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indianmoney.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627205753id_/http%3A//www.indianmoney.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianmoney.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119181424id_/https%3A//indianmoney.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - IndianMoney.com is India's Only On-Call Money Advisor, It provides Free Financial Advice on Phone
+# IndianMoney | Free Financial Advice on How to Save, Spend, Invest & Borrow
 
 By visiting IndianMoney.com or any of its associate/group sites, you have read, understood and agree to be legally bound by the terms of the following disclaimer and user agreement 
 
@@ -8,7 +8,7 @@ By Submitting a request on IndianMoney.com website or any other associate websit
 
 **What data is collected from you automatically?**
 
-We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a
+We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies" sent to your browser from a
 
   * web server cookie stored on your hard drive 
   * an IP address, assigned to the computer which you use 
@@ -30,7 +30,7 @@ Data which we collect from you
 
 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your usage preferences (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your usage preferences (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
 
 While you can terminate your account at any time, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
