@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flex.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301044013id_/https%3A//www.flex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flex.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119071045id_/https%3A//flex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flex
 
