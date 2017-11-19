@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldviewweekend.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614173659id_/http%3A//www.worldviewweekend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldviewweekend.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119021626id_/http%3A//www.worldviewweekend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Worldview Weekend
 
@@ -95,7 +95,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 1016 W Popular Ave  
 Collierville, TN 38017  
 USA  
-[info@worldviewweekend.com](mailto:info@worldviewweekend.com)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cca5a2aaa38cbba3bea0a8baa5a9bbbba9a9a7a9a2a8e2afa3a1)  
 573-216-9400
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
