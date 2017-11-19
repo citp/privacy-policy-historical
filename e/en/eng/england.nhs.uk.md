@@ -1,33 +1,39 @@
-> *The following text is extracted and transformed from the england.nhs.uk privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215102517id_/https%3A//www.england.nhs.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the england.nhs.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119040155id_/https%3A//www.england.nhs.uk/privacy-policy) for the most accurate reproduction.*
 
 # NHS England » Privacy and cookies
 
-This page explains our privacy policy and how we will use and protect any information about you that you give us when you visit this website.
+## Privacy of your information
 
-This privacy statement only covers the NHS England website. It does not cover all sites that can be linked to from this site, so you should always be aware when you are moving to another site and read the privacy statement on that site.
+NHS England (or the NHS Commissioning Board, which is our legal name) uses personal and confidential information for a number of purposes. Our [Privacy Notice](https://www.england.nhs.uk/contact-us/privacy-notice/privacy-notice/) provides a summary of how we use your information.
 
-## What information do we collect?
+## Website privacy
 
-From time to time, you will be asked to submit personal information about yourself (e.g. name and email address) in order to receive or use services on our website. Such services include bulletins, email updates, website feedback.
+Information on this page explains our website privacy policy and how we will use and protect any information about you that you give us when you visit this website.
+
+This privacy statement only covers the NHS England website (www.england.nhs.uk). It does not cover all sites that can be linked to from this site, so you should always be aware when you are moving to another site and read the privacy statement on that site.
+
+### What information do we collect?
+
+From time to time, you will be asked to submit personal information about yourself (e.g. name and email address) in order to receive or use services on our website. Such services include bulletins, email updates and website feedback.
 
 By entering your details in the fields requested, you enable NHS England and its service providers to provide you with the services you select. Any information you provide to NHS England will only be used by us, our agents and service providers and will not be disclosed unless we are obliged or permitted to by law to do so.
 
 If you post or send offensive, inappropriate or objectionable content anywhere on www.england.nhs.uk or otherwise engage in any disruptive behaviour on www.england.nhs.uk, we may use whatever information is available to us, about you, to stop such behaviour. We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met or when you no longer wish to continue your subscription.
 
-## The Data Protection Act
+### The Data Protection Act
 
 Under the Data Protection Act, we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data and keep strict security standards to prevent any unauthorised access to it.  
 We do not pass on your details to any third party or other government department.
 
-## Changes to our policy
+### Changes to our policy
 
 If our privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing the page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-## Security
+### Security
 
 This site has security measures in place to protect the loss and alteration of information under our control.
 
-## Use of cookies
+### Use of cookies
 
 When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
 
@@ -41,7 +47,9 @@ These pieces of information are used to improve services for you through, for ex
 
 You can manage these small files yourself through your browser setting.
 
-### Current cookies
+Please note that the cookie providers listed below may distribute the gathered cookie information with other third party websites for the purpose of activity tracking. You can find out more about the policy of each cookie provider on their respective privacy pages.
+
+#### Current cookies
 
 We use the following cookies on our website –
 
@@ -57,7 +65,7 @@ We use the following cookies on our website –
 **Name:** PHPSESSID  
 **Purpose:** To track visitor information and for security authentication.
 
-### Embedded content
+#### Embedded content
 
 We want to provide interesting and engaging content on our website. On a number of pages we use ‘plug ins’ or embedded media. For example, we embed YouTube videos in many pages. We also provide links to share content with popular social media sites such as LinkedIn, Facebook and Twitter.
 
@@ -83,7 +91,11 @@ The suppliers of these services may also set cookies on your device when you vis
 **Name:** csrftoken, L1e, visit, PHPSESSID  
 **Purpose:** To track visitor information and for security authentication. [More information about LinkedIn cookies](https://www.linkedin.com/legal/privacy-policy "LinkedIn Cookies").
 
-### How to control and delete cookies
+**Cookie:** AddThis  
+**Name:** _ga, _gid, bt2, di2, loc, mus, na_tc, uid, um, uvc, vc  
+**Purpose:** To track visitor information and provide analytics on social media sharing. [More information about AddThis cookies](http://www.addthis.com/privacy/privacy-policy "AddThis"). AddThis offer [ an opt-out option](http://www.addthis.com/privacy/opt-out).
+
+#### How to control and delete cookies
 
 We will not use cookies to collect personally identifiable information about you.
 
