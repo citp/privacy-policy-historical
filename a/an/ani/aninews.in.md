@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aninews.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163358id_/http%3A//www.aninews.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aninews.in privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119020423id_/https%3A//www.aninews.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy News , aninews
+# Privacy Policy
 
-This policy sets out: 
+This policy sets out:
 
   * what kind of information we collect;
   * how we collect it;
@@ -15,7 +15,7 @@ This policy sets out:
 
 
 
-We may, from time to time, review and update this policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy.
+We may, from time to time, review and update this policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. 
 
 This policy was last updated in January 2012.
 
@@ -35,7 +35,7 @@ If, at any time, you provide personal or other information about someone other t
 
 **Why we collect it**
 
-The primary purpose for which we collect information about you is to provide you with products and services you have requested. We also collect information about you for the purposes outlined below.
+The primary purpose for which we collect information about you is to provide you with products and services you have requested. We also collect information about you for the purposes outlined below. 
 
 We may state a more specific purpose at the point we collect your information.
 
@@ -59,7 +59,7 @@ In addition to the primary purpose outlined above, we may use the personal infor
 
 **How we disclose it**
 
-We may disclose personal information, and you consent to us disclosing your personal information, to other members of the our group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy).
+We may disclose personal information, and you consent to us disclosing your personal information, to other members of the our group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy). 
 
 We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:
 
@@ -74,17 +74,17 @@ We may also disclose personal information, and you consent to us disclosing your
 
 **Opting in or out**
 
-At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters which do not fall into one of the categories described above.
+At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters which do not fall into one of the categories described above. 
 
 You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may “opt out” from receiving these communications by clicking on an unsubscribe link.
 
-If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us using [this form](https://web.archive.org/web/20170606163358id_/http%3A//www.aninews.in/feedback.php)
+If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us using this form
 
 . 
 
 **Management and security**
 
-Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, and password access.
+Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, and password access. 
 
 However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control.
 
@@ -94,15 +94,14 @@ If you suspect any misuse or loss of, or unauthorised access to, your personal i
 
 **Accessing and updating your information and how to contact us**
 
-Subject to some exceptions in the Privacy Act, you have the right to seek access to and update the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request.
+Subject to some exceptions in the Privacy Act, you have the right to seek access to and update the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request. 
 
 Members of our websites will generally be able to access and update their membership details online.
 
 We request that you keep your information as current as possible so that we may continue to improve our service to you.
 
-If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to:
+If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to: Website Privacy Officer
 
-Website Privacy Officer  
 ANI Media Pvt Ltd  
 Plot No. 15, Sec 9,  
 R.K. Puram,   
