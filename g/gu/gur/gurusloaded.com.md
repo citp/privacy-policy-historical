@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gurusloaded.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091649id_/http%3A//www.gltrends.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurusloaded.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119064911id_/http%3A//www.gltrends.ng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GL Trends
 
-This Privacy Policy governs the manner in which **GLtrends  Media** collects, uses, maintains and discloses information collected from users (each, a “User”) of the ** [gltrends.ng](http://www.gltrends.ng/)** website (“Site”). This privacy policy applies to the Site and all products and services offered by **GLtrends  Media.**
+This Privacy Policy governs the manner in which **GLtrends  Media** collects, uses, maintains and discloses information collected from users (each, a “User”) of the ** [gltrends.ng](https://www.gltrends.ng/)** website (“Site”). This privacy policy applies to the Site and all products and services offered by **GLtrends  Media.**
 
 **Personal identification information**
 
