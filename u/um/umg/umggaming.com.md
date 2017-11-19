@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the umggaming.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035710id_/http%3A//www.umggaming.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umggaming.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119193211id_/https%3A//umggaming.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | UMG Online
+# Privacy Policy | UMG Gaming
 
 **_UMG Events, LLC. Privacy Policy_**
 
-  
 Welcome and thank you for visiting the UMG network of websites, an interactive online service operated by UMG Events, LLC.,  (“UMG Events, LLC.” or “UMG”). UMG Events, LLC. has posted this privacy policy in order to demonstrate its commitment to your privacy. This privacy policy applies to all of the websites offered by UMG Events, LLC. (collectively, the “Services”), including umggaming.com and umggo.com. The following discloses UMG Events, LLC.’s online information collection and use practices and the choices you can make about the way we use and share such information.
 
 BY ACCESSING AND USING THE SERVICES, YOU ACCEPT, WITHOUT LIMITATION OR QUALIFICATION, THIS PRIVACY POLICY, SO PLEASE TAKE THE TIME TO READ THIS POLICY AND UNDERSTAND HOW WE USE YOUR PERSONAL INFORMATION.  PLEASE NOTE THAT OUR ONLINE INFORMATION COLLECTION AND USE PRACTICES MAY DIFFER FROM OUR PRACTICES REGARDING INFORMATION OBTAINED OFFLINE. IF YOU DO NOT ACCEPT THIS PRIVACY POLICY IN ITS ENTIRETY, YOU MAY NOT USE THE SERVICES.
