@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617013506id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119043109id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Charisma Magazine
 
@@ -69,8 +69,8 @@ Lake Mary, FL 32746
 
 By using our website, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You will not receive these updates by snail mail or email.
 
-_Charisma's Special Anointing Bundle. Get Charisma magazine plus these 2 Books - The Deborah Anointing & The Esther Anointing for only $24.97. [Subscribe Now!](https://shop.charismamag.com/products/charisma-subscription-spiritual-anointing-bundle/?utm_source=charismamag.com&utm_medium=article%20end%20text)_
+_Charisma Readers save[50% OFF](https://shop.charismamag.com/collections/select-bibles-50-off?utm_source=charismamag.com&utm_medium=article%20end%20text) these select Bibles plus FREE SHIPPING plus a Special Bonus for a limited time! [Show me the Bibles on sale!](https://shop.charismamag.com/collections/select-bibles-50-off?utm_source=charismamag.com&utm_medium=article%20end%20text)_
 
-_Hearing God's voice changes everything. You'll gain clarity, purpose and direction for your life. Start your journey to live your Life in the Spirit.[Click here to draw closer to God!](http://lifeinthespiritbooks.com/?utm_source=charismamag.com&utm_medium=article%20end%20text)_
+_Christmas is coming soon. Get a jump start with these great Spirit-filled bundles. Save up to 70% plus FREE Shipping![Life in the Spirit Gift Boxes](https://shop.charismamag.com/pages/life-in-the-spirit-gift-boxes?utm_source=charismamag.com&utm_medium=article%20end%20text), [Special Book Bundles](https://shop.charismamag.com/collections/monthly-bundled-deals/bookbundles?utm_source=charismamag.com&utm_medium=article%20end%20text), and [Christmas Gift Bundles.](https://shop.charismamag.com/collections/christmas-bundles?utm_source=charismamag.com&utm_medium=article%20end%20text)_
 
 Comment Guidelines
