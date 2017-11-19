@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614153310id_/http%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119185846id_/http%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.dogtipper.com%2Fabout%2Fprivacy&media=&description=Privacy)
 
 This privacy policy applies to the use of DogTipper.com.
 
