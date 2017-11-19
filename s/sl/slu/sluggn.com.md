@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the sluggn.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410040612id_/http%3A//www.sluggn.com/read/privacy-policy/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sluggn.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119043628id_/https%3A//www.sluggn.com/read/privacy-policy/5) for the most accurate reproduction.*
 
-# Privacy Policy
+# |wtf|Privacy Policy|broke my shit|
 
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -16,10 +24,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -42,10 +58,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -56,10 +92,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -70,10 +114,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -84,10 +136,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -98,10 +158,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -112,10 +180,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -138,10 +214,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -152,10 +248,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -166,10 +270,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -180,10 +292,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -194,10 +314,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -220,10 +348,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -246,10 +394,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -260,10 +428,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -282,6 +458,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -289,10 +477,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -315,10 +511,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -329,10 +545,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -343,10 +567,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -357,10 +589,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -371,10 +611,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -385,10 +633,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -411,10 +667,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -425,10 +701,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -439,10 +723,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -453,10 +745,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -467,10 +767,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -493,10 +801,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -519,10 +847,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -533,10 +881,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -555,6 +911,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -562,10 +930,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -588,10 +964,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -602,10 +998,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -616,10 +1020,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -630,10 +1042,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -644,10 +1064,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -658,10 +1086,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -684,10 +1120,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -698,10 +1154,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -712,10 +1176,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -726,10 +1198,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -740,10 +1220,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -766,10 +1254,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -792,10 +1300,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -806,10 +1334,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -828,6 +1364,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -835,10 +1383,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -861,10 +1417,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -875,10 +1451,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -889,10 +1473,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -903,10 +1495,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -917,10 +1517,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -931,10 +1539,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -957,10 +1573,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -971,10 +1607,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -985,10 +1629,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -999,10 +1651,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -1013,10 +1673,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -1039,10 +1707,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -1065,10 +1753,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -1079,10 +1787,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -1101,6 +1817,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -1108,10 +1836,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -1134,10 +1870,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -1148,10 +1904,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -1162,10 +1926,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -1176,10 +1948,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -1190,10 +1970,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -1204,10 +1992,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -1230,10 +2026,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -1244,10 +2060,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -1258,10 +2082,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -1272,10 +2104,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -1286,10 +2126,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -1312,10 +2160,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -1338,10 +2206,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -1352,10 +2240,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -1374,6 +2270,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -1381,10 +2289,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -1407,10 +2323,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -1421,10 +2357,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -1435,10 +2379,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -1449,10 +2401,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -1463,10 +2423,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -1477,10 +2445,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -1503,10 +2479,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -1517,10 +2513,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -1531,10 +2535,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -1545,10 +2557,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -1559,10 +2579,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -1585,10 +2613,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -1611,10 +2659,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -1625,10 +2693,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -1647,6 +2723,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -1654,10 +2742,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -1680,10 +2776,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -1694,10 +2810,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -1708,10 +2832,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -1722,10 +2854,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -1736,10 +2876,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -1750,10 +2898,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -1776,10 +2932,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -1790,10 +2966,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -1804,10 +2988,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -1818,10 +3010,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -1832,10 +3032,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -1858,10 +3066,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -1884,10 +3112,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -1898,10 +3146,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -1920,6 +3176,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -1927,10 +3195,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -1953,10 +3229,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -1967,10 +3263,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -1981,10 +3285,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -1995,10 +3307,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -2009,10 +3329,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -2023,10 +3351,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -2049,10 +3385,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -2063,10 +3419,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -2077,10 +3441,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -2091,10 +3463,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -2105,10 +3485,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -2131,10 +3519,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -2157,10 +3565,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -2171,10 +3599,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -2193,6 +3629,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -2200,10 +3648,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -2226,10 +3682,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -2240,10 +3716,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -2254,10 +3738,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -2268,10 +3760,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -2282,10 +3782,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -2296,10 +3804,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -2322,10 +3838,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -2336,10 +3872,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -2350,10 +3894,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -2364,10 +3916,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -2378,10 +3938,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -2404,10 +3972,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -2430,10 +4018,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -2444,10 +4052,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -2466,6 +4082,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -2473,10 +4101,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -2499,10 +4135,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -2513,10 +4169,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -2527,10 +4191,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -2541,10 +4213,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -2555,10 +4235,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -2569,10 +4257,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -2595,10 +4291,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -2609,10 +4325,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -2623,10 +4347,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -2637,10 +4369,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -2651,10 +4391,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -2677,10 +4425,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -2703,10 +4471,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -2717,10 +4505,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -2739,6 +4535,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -2746,10 +4554,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -2772,10 +4588,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -2786,10 +4622,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -2800,10 +4644,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -2814,10 +4666,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -2828,10 +4688,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -2842,10 +4710,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -2868,10 +4744,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -2882,10 +4778,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -2896,10 +4800,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -2910,10 +4822,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -2924,10 +4844,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -2950,10 +4878,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -2976,10 +4924,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -2990,10 +4958,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -3012,6 +4988,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -3019,10 +5007,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -3045,10 +5041,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -3059,10 +5075,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -3073,10 +5097,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -3087,10 +5119,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -3101,10 +5141,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -3115,10 +5163,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -3141,10 +5197,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -3155,10 +5231,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -3169,10 +5253,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -3183,10 +5275,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -3197,10 +5297,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -3223,10 +5331,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -3249,10 +5377,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -3263,10 +5411,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -3285,6 +5441,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -3292,10 +5460,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -3318,10 +5494,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -3332,10 +5528,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -3346,10 +5550,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -3360,10 +5572,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -3374,10 +5594,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -3388,10 +5616,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -3414,10 +5650,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -3428,10 +5684,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -3442,10 +5706,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -3456,10 +5728,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -3470,10 +5750,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -3496,10 +5784,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -3522,10 +5830,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -3536,10 +5864,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -3558,6 +5894,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -3565,10 +5913,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -3591,10 +5947,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -3605,10 +5981,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -3619,10 +6003,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -3633,10 +6025,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -3647,10 +6047,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -3661,10 +6069,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -3687,10 +6103,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -3701,10 +6137,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -3715,10 +6159,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -3729,10 +6181,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -3743,10 +6203,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -3769,10 +6237,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -3795,10 +6283,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -3809,10 +6317,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -3831,6 +6347,18 @@ If we make changes in
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -3838,10 +6366,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -3864,10 +6400,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -3878,10 +6434,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -3892,10 +6456,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -3906,10 +6478,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -3920,10 +6500,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -3934,10 +6522,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -3960,10 +6556,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -3974,10 +6590,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -3988,10 +6612,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -4002,10 +6634,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -4016,10 +6656,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -4042,10 +6690,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -4068,10 +6736,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -4082,10 +6770,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -4104,6 +6800,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -4111,10 +6819,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -4137,10 +6853,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -4151,10 +6887,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -4165,10 +6909,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -4179,10 +6931,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -4193,10 +6953,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -4207,10 +6975,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -4233,10 +7009,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -4247,10 +7043,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -4261,10 +7065,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -4275,10 +7087,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -4289,10 +7109,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -4315,10 +7143,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -4341,10 +7189,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -4355,10 +7223,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -4377,6 +7253,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -4384,10 +7272,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -4410,10 +7306,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -4424,10 +7340,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -4438,10 +7362,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -4452,10 +7384,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -4466,10 +7406,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -4480,10 +7428,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -4506,10 +7462,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -4520,10 +7496,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -4534,10 +7518,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -4548,10 +7540,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -4562,10 +7562,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -4588,10 +7596,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -4614,10 +7642,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -4628,10 +7676,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -4650,6 +7706,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -4657,10 +7725,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -4683,10 +7759,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -4697,10 +7793,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -4711,10 +7815,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -4725,10 +7837,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -4739,10 +7859,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -4753,10 +7881,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -4779,10 +7915,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -4793,10 +7949,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -4807,10 +7971,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -4821,10 +7993,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -4835,10 +8015,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -4861,10 +8049,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -4887,10 +8095,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -4901,10 +8129,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -4923,6 +8159,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -4930,10 +8178,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -4956,10 +8212,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -4970,10 +8246,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -4984,10 +8268,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -4998,10 +8290,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -5012,10 +8312,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -5026,10 +8334,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -5052,10 +8368,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -5066,10 +8402,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -5080,10 +8424,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -5094,10 +8446,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -5108,10 +8468,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -5134,10 +8502,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -5160,10 +8548,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -5174,10 +8582,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -5196,6 +8612,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -5203,10 +8631,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -5229,10 +8665,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -5243,10 +8699,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -5257,10 +8721,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -5271,10 +8743,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -5285,10 +8765,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -5299,10 +8787,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -5325,10 +8821,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -5339,10 +8855,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -5353,10 +8877,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -5367,10 +8899,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -5381,10 +8921,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -5407,10 +8955,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -5433,10 +9001,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -5447,10 +9035,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -5469,6 +9065,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -5476,10 +9084,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -5502,10 +9118,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -5516,10 +9152,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -5530,10 +9174,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -5544,10 +9196,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -5558,10 +9218,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -5572,10 +9240,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -5598,10 +9274,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -5612,10 +9308,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -5626,10 +9330,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -5640,10 +9352,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -5654,10 +9374,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -5680,10 +9408,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -5706,10 +9454,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -5720,10 +9488,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -5742,6 +9518,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -5749,10 +9537,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -5775,10 +9571,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -5789,10 +9605,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -5803,10 +9627,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -5817,10 +9649,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -5831,10 +9671,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -5845,10 +9693,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -5871,10 +9727,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -5885,10 +9761,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -5899,10 +9783,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -5913,10 +9805,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -5927,10 +9827,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -5953,10 +9861,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -5979,10 +9907,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -5993,10 +9941,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -6015,6 +9971,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -6022,10 +9990,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -6048,10 +10024,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -6062,10 +10058,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -6076,10 +10080,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -6090,10 +10102,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -6104,10 +10124,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -6118,10 +10146,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -6144,10 +10180,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -6158,10 +10214,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -6172,10 +10236,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -6186,10 +10258,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -6200,10 +10280,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -6226,10 +10314,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -6252,10 +10360,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -6266,10 +10394,18 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
 
+  
+  
+  
+  
   
   
   
@@ -6288,6 +10424,18 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
@@ -6295,10 +10443,18 @@ The privacy of our members is our top priority. Please read this page to learn a
   
   
   
+  
+  
+  
+  
 
 
 What this Privacy Policy covers
 
+  
+  
+  
+  
   
   
   
@@ -6321,10 +10477,30 @@ This policy covers how SLUGGN.com (“sLUGGN”, “we”, “us”, “our”) 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by sLUGGN, and the page you request.
 
+  
+  
+  
+  
   
   
   
@@ -6335,10 +10511,18 @@ We use this information to analyze and improve our website and business and prov
   
   
   
+  
+  
+  
+  
 
 
 We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level sLUGGN employees on a “need-to-know” basis.
 
+  
+  
+  
+  
   
   
   
@@ -6349,10 +10533,18 @@ We reserve the right to disclose your personal information as required by law an
   
   
   
+  
+  
+  
+  
 
 
 In the event sLUGGN is acquired or merges with another entity, sLUGGN may transfer your personal information to the new entity.
 
+  
+  
+  
+  
   
   
   
@@ -6363,10 +10555,18 @@ You agree that: These Terms of Use, together with the Privacy Notice at http://w
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address
 
+  
+  
+  
+  
   
   
   
@@ -6377,10 +10577,18 @@ Your e-mail address is used to contact you on a transactional basis. For example
   
   
   
+  
+  
+  
+  
 
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
+  
+  
+  
+  
   
   
   
@@ -6391,10 +10599,18 @@ You may adjust your e-mail settings and opt-out of receiving certain types of e-
   
   
   
+  
+  
+  
+  
 
 
 Your credit card and payment information
 
+  
+  
+  
+  
   
   
   
@@ -6417,10 +10633,30 @@ sLUGGN itself does not process credit cards, and sLUGGN does not collect or stor
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user’s transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
+  
+  
+  
+  
   
   
   
@@ -6431,10 +10667,18 @@ We use session ID cookies which make it easier for you to navigate our site. A s
   
   
   
+  
+  
+  
+  
 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer’s preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
+  
+  
+  
+  
   
   
   
@@ -6445,10 +10689,18 @@ If you reject cookies, you may still use our site, but you may have to re-enter 
   
   
   
+  
+  
+  
+  
 
 
 Other companies do not have access to cookies set by sLUGGN.
 
+  
+  
+  
+  
   
   
   
@@ -6459,10 +10711,18 @@ Your ability to access, edit and delete your Personal Information
   
   
   
+  
+  
+  
+  
 
 
 For privacy and security reasons, we do not provide online access for members to their personal information.
 
+  
+  
+  
+  
   
   
   
@@ -6473,10 +10733,18 @@ You may request that we delete your Personal Information by “deleting your acc
   
   
   
+  
+  
+  
+  
 
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users’ cashes.
 
+  
+  
+  
+  
   
   
   
@@ -6499,10 +10767,30 @@ If you have any further questions about your Personal Information, please Contac
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+  
+  
+  
+  
   
   
   
@@ -6525,10 +10813,30 @@ We limit access to your personal information and e-mail address to employees who
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 sLUGGN is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
+  
+  
+  
+  
   
   
   
@@ -6539,6 +10847,10 @@ Changes to this Privacy Policy or e-mail practices
   
   
   
+  
+  
+  
+  
 
 
 sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the sLUGGN website.
@@ -6546,10 +10858,18 @@ sLUGGN reserves its right, at its sole and absolute discretion, to revise, amend
   
   
   
+  
+  
+  
+  
 
 
 If we make changes in our e-mail practices or in the way we use your e-mail address, we will post those changes to this Privacy Policy.
 
+  
+  
+  
+  
   
   
   
@@ -6557,6 +10877,10 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
 
 our e-mail practices or in the way we use your e-mail address, we will post those changes to this Privacy Policy.
 
+  
+  
+  
+  
   
   
   
