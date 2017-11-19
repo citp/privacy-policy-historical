@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easyodds.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613233127id_/https%3A//easyodds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyodds.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119135748id_/https%3A//easyodds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | easyodds.com
 
-easyodds.com Limited is an service and information provider - it is not a betting company. The principle sports betting related web site owned by easyodds.com limited, namely [www.easyodds.com](http://www.easyodds.com/) as well the principle poker related web site, namely [www.pokerverdict.com](http://www.pokerverdict.com/) do not accept any form of wagers. Rather, they provide users with expert information and 'community' services and features.
+easyodds.com Limited is an service and information provider - it is not a betting company. The principle sports betting related web site owned by easyodds.com limited, namely [www.easyodds.com](https://www.easyodds.com/) as well the principle poker related web site, namely [www.pokerverdict.com](https://www.pokerverdict.com/) do not accept any form of wagers. Rather, they provide users with expert information and 'community' services and features.
 
 Notwithstanding the above, easyodds.com Limited is committed to using its best efforts to ensure compliance with "The Internet Gambling Prohibition Act" which was successfully attached to "The Safe Port Act" and passed by the US Senate on Friday 29 September 2006.
 
