@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313183512id_/https%3A//www.wesrch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119231403id_/https%3A//www.wesrch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - weSRCH
+
+[](https://www.wesrch.com/redirect_banner.php?id=ALLTGML&url=https%3A%2F%2Fwww.vlsiresearch.com%2Fpublic%2Fsa%2Fpremium%2F%3Frdr%3Dprod_8&type=bottom_banner&hit_flag=H&campaign_id=66 "Semiconductor Analytics")
 
 weSRCH ("weSRCH") recognizes that its customers, visitors, users, and others (collectively or individually, "User") who use [www.weSRCH.com](https://www.wesrch.com/) or other web sites owned or operated by weSRCH value their privacy. This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our services, including those offered through our websites, emails, and mobile applications (collectively, the "Service"). weSRCH provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Service. 
 
