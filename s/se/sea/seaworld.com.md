@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seaworld.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629150408id_/http%3A//seaworldentertainment.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seaworld.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120000021id_/https%3A//seaworldentertainment.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | SeaWorld Parks & Entertainment
 
