@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cubebrush.co privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218205537id_/https%3A//cubebrush.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubebrush.co privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119224308id_/https%3A//cubebrush.co/privacy) for the most accurate reproduction.*
 
-# Cubebrush
+# Cubebrush - Curated digital assets & resources
 
   * This Privacy Policy was last modified on May 1, 2015 and was first published and made effective on May 1, 2015. 
 
@@ -26,7 +26,7 @@ By providing us with your email address (including by "following," "liking," add
 
 Following termination or deactivation of your User account, we may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, we may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your User account. 
 
-If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. We store this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at [info@cubebrush.com](mailto:info@cubebrush.com).
+If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. We store this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at [info@cubebrush.co](mailto:info@cubebrush.co).
 
 We may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content. 
 
@@ -56,11 +56,11 @@ To protect your privacy and security, we take reasonable steps (such as requesti
 
   * Your Choices About Your Information
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case Cubebrush may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account settings page. You can review and correct the information about you that Cubebrush keeps on file by contacting us directly at [info@cubebrush.com](mailto:info@cubebrush.com).
+You may, of course, decline to submit personally identifiable information through the Service, in which case Cubebrush may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account settings page. You can review and correct the information about you that Cubebrush keeps on file by contacting us directly at [info@cubebrush.co](mailto:info@cubebrush.co).
 
   * Children's Privacy
 
-Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Cubebrush. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@cubebrush.com](mailto:info@cubebrush.com).
+Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Cubebrush. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@cubebrush.co](mailto:info@cubebrush.co).
 
   * Links to Other Web Sites
 
@@ -80,7 +80,7 @@ It is our policy to provide notifications, whether such notifications are requir
 
 We may update its Privacy Policy from time to time, and so you should review this Policy periodically. When we change the policy in a material way, we will update the 'last modified' date at the top of this Privacy Policy. Changes to this Privacy Policy are effective when they are posted on this page. 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [info@cubebrush.com](mailto:info@cubebrush.com), or send mail to: 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [info@cubebrush.co](mailto:info@cubebrush.co), or send mail to: 
 
 Cubebrush, LLC   
 PO Box 426   
