@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwa.edu.au privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619041912id_/http%3A//www.uwa.edu.au/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwa.edu.au privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119023149id_/http%3A//www.uwa.edu.au/terms) for the most accurate reproduction.*
 
 # Privacy statement and notices : The University of Western Australia : The University of Western Australia
 
