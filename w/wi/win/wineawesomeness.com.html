@@ -1,249 +1,919 @@
-<!--The following is the downloaded HTML source of the wineawesomeness.com privacy policy that was archived on 2016-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160328192806id_/http%3A//wineawesomeness.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wineawesomeness.com privacy policy that was archived on 2017-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119115702id_/https%3A//wineawesomeness.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
- 
-<script src="https://js-agent.newrelic.com/nr-892.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/535fce0148594461620000e7.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script src="//cdn.optimizely.com/js/482330340.js"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYOVVVRGwYFVVhbBwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(5),c=t(16),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(5),t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy</title>
 <meta name="description" content="Good wine isn't only for aristocrats and PhD's. Wine is for everyone, everywhere and it's about discovery. Open a bottle and drink with us.">
 <meta name="keywords" content="wine, ecommerce, marketing, discovery, wine club, clubw, awesomeness, millennials, millennial, wattsup, rose, red wine, white wine, kick ass, good wine, dale slear, logan lee, brad ball, luke correale">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://wineawesomeness.com/media/favicon/default/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://wineawesomeness.com/media/favicon/default/favicon.ico" type="image/x-icon">
-<!--[if lt IE 7]>
-<script type="text/javascript">
-//<![CDATA[
-    var BLANK_URL = 'http://wineawesomeness.com/js/blank.html';
-    var BLANK_IMG = 'http://wineawesomeness.com/js/spacer.gif';
-//]]>
-</script>
-<![endif]-->
+<link rel="icon" href="https://media.wineawesomeness.com/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://media.wineawesomeness.com/favicon/default/favicon.ico" type="image/x-icon">
 
-<!-- Font Replacement -->
-<link href="//fonts.googleapis.com/css?family=Open+Sans:200,300,400,500,600,700,800" rel="stylesheet" type="text/css">
-<!-- End Font Replacement -->
-
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/meigeetheme/default/css/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/meigeetheme/bitware_custom_theme/css/custom_style.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/base/default/css/widgets.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/base/default/css/amasty/amfpc/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/base/default/css/amasty/ampromo/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/meigeetheme/default/css/magestore/giftvoucher.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/meigeetheme/default/css/grid_responsive.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/meigeetheme/default/css/skin.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/meigeetheme/default/css/WAstyle.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/meigeetheme/default/css/print.css" media="print">
-<script type="text/javascript" src="http://wineawesomeness.com/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/lib/ccard.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/prototype/validation.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/scriptaculous/builder.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/scriptaculous/dragdrop.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/scriptaculous/controls.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/scriptaculous/slider.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/varien/js.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/varien/form.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/varien/menu.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/mage/translate.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/mage/cookies.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/amasty/ampromo/items.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/ebizmarts/magemonkey/campaignCatcher.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/iwd/all/iwd-jquery-2.1.3.min.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/js/iwd/all/modal.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/magestore/giftvoucher.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/jquery.min.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/jquery.easing.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/jquery.selectbox-0.2.min.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/script.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/jquery.iosslider.min.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/jquery.scrollTo-min.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/jquery.elastislide.js"></script>
-<link href="http://wineawesomeness.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
-<link href="http://wineawesomeness.com/rss/catalog/salesrule/store_id/1/cid/0/" title="Coupons/Discounts" rel="alternate" type="application/rss+xml">
-<!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/meigeetheme/default/css/styles-ie.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://media.wineawesomeness.com/css/s.5da3b06ae3878850a21beaa02e4d8714.1510876058.css?q=123456" media="all">
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.wineawesomeness.com/js/prototype/prototype.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/lib/jquery/jquery-1.12.0.min.js?q=1501685454"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/lib/jquery/noconflict.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/lib/ccard.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/prototype/validation.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/scriptaculous/builder.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/scriptaculous/effects.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/scriptaculous/dragdrop.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/scriptaculous/controls.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/scriptaculous/slider.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/varien/js.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/varien/form.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/mage/translate.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/mage/cookies.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/varien/product.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/arw/ajaxcart/configurable.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/amasty/ampromo/items.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/et/currencymanager/et_currencymanager_round.js?q=1499800469"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/iwd/all/iwd-jquery-2.1.3.min.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/iwd/all/modal.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/magestore/giftvoucher/giftvoucher.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/arw/arexworks/jquery/jquery-1.11.1.min.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/arw/arexworks/jquery/jquery.noconflict.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/arw/arexworks/jquery/jquery-migrate-1.2.1.min.js?q=1499634378"></script>
+<script type="text/javascript" src="https://www.wineawesomeness.com/js/arw/arexworks/jquery/jquery.easing.1.3.js?q=1499634378"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/lib/modernizr.custom.min.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/lib/selectivizr.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/lib/matchMedia.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/lib/matchMedia.addListener.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/lib/enquire.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/app.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/lib/jquery.cycle2.min.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/lib/jquery.cycle2.swipe.min.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/slideshow.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/lib/imagesloaded.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/rwd/default/js/minicart.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/vendors/imagesloaded.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/js/configurableswatches/modernizr.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/js/configurableswatches/product-media.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/js/configurableswatches/swatches-list.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/js/theme.1.9.1.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/base/default/js/bundle.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/arw/ajaxcart/ajaxcart.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/vendors/skrollr/skrollr.min.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/vendors/skrollr/skrollr.menu.min.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/vendors/bootstrap/js/bootstrap.min.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/vendors/bootstrap-select/js/bootstrap-select.min.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/vendors/fancybox/js/jquery.fancybox.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/vendors/owl-carousel/owl.carousel.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/vendors/slick/js/slick.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/vendors/jcountdown/js/jquery.jcountdown.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/vendors/isotope.pkgd.min.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/js/theme.js?q=123456"></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:300,400,500,700,600">
+<link href="https://www.wineawesomeness.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
+<link href="https://www.wineawesomeness.com/rss/catalog/salesrule/store_id/1/cid/0/" title="Coupons/Discounts" rel="alternate" type="application/rss+xml">
+<link href="https://www.wineawesomeness.com/blog/rss/index/store_id/1/" title="Blog" rel="alternate" type="application/rss+xml">
+<!--[if  (lte IE 8) & (!IEMobile)]>
+<link rel="stylesheet" type="text/css" href="https://media.wineawesomeness.com/css/s.de1c362ba97e3fcbd0f38b3cbe03d526.1510876058.css?q=123456" media="all" />
 <![endif]-->
-<!--[if lt IE 10]>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/script_ie.js"></script>
-<![endif]-->
+<!--[if (gte IE 9) | (IEMobile)]><!-->
+<link rel="stylesheet" type="text/css" href="https://media.wineawesomeness.com/css/s.9088da25a883a43855e5e052ae24162b.1510876058.css?q=123456" media="all">
+<!--<![endif]-->
 <!--[if lt IE 9]>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/html5.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/css3-mediaqueries.js"></script>
-<script type="text/javascript" src="http://wineawesomeness.com/skin/frontend/meigeetheme/default/js/selectivizr-min.js"></script>
-<![endif]-->
-<!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="http://wineawesomeness.com/skin/frontend/meigeetheme/default/css/styles-ie-8.css" media="all" />
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/js/html5shiv.min.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/js/html5shiv-printshiv.min.js?q=123456"></script>
+<script type="text/javascript" src="https://skin.wineawesomeness.com/frontend/arw_sebian/default/js/respond.min.js?q=123456"></script>
 <![endif]-->
 
 <script type="text/javascript">
 //<![CDATA[
 Mage.Cookies.path     = '/';
-Mage.Cookies.domain   = '.wineawesomeness.com';
+Mage.Cookies.domain   = '.www.wineawesomeness.com';
 //]]>
 </script>
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
 
 <script type="text/javascript">
 //<![CDATA[
-optionalZipCountries = ["FR"];
+optionalZipCountries = ["AU","FR"];
 //]]>
 </script>
+            <!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
+        
+        <script type="text/javascript">
+        //<![CDATA[
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            
+ga('create', 'UA-30935805-1', 'auto');
+
+ga('send', 'pageview');
+            
+        //]]>
+        </script>
+        <!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
+    <script type="text/javascript">
+    etCurrencyManagerJsConfig ={"precision":2,"position":8,"display":2,"zerotext":"","excludecheckout":"1","cutzerodecimal":"1","cutzerodecimal_suffix":"","min_decimal_count":"2"};
+    try {
+        extendProductConfigformatPrice();
+    } catch (e) {
+
+    }
+</script>
+
+<!-- Begin Talkable integration code -->
+
+    <script type="text/javascript">
+    //<![CDATA[
+      var _talkableq = _talkableq || [];
+      _talkableq.push(["init", {
+        site_id: "wineawesomeness-com"
+      }]);
+
+
+      _talkableq.push(["authenticate_customer", {}]);
+    //]]>
+    </script>
+    <!-- <script type="text/javascript" src="//d2jjzw81hqbuqv.cloudfront.net/integration/clients/wineawesomeness-com.min.js"></script> -->
+     <script type="text/javascript" src="//d2jjzw81hqbuqv.cloudfront.net/integration/talkable-2.2.min.js"></script>
+
+<!-- End Talkable integration code -->
+
+<!-- Modal -->
+<script type="text/javascript" async="" src="https://d1stxfv94hrhia.cloudfront.net/waves/v2/w.js"></script><script async="" src="//static.hotjar.com/c/hotjar-89255.js?sv=5"></script></head><body class=" cms-page-view cms-privacy-policy-cookie-restriction-mode sidebar-mobile-show body-stretched"><div id="zip-popup" class="zip-popup-class">
+
+  <div class="modal-dialog" style="z-index:10000">
+    <div id="state-loader"></div>
+    <div id="state-loader-overlay">
+      <div id="state-loader-text" class="text-center">Your wine is being prepared...</div>
+    </div>
+    <!-- Modal content-->
+    <div class="modal-content">
+            
+      <div class="modal-header">
+        <div class="zip-popup-title">
+			<h3>Your shipping state, please!</h3>
+			<p>Select your state to shop the wines available for delivery.</p>
+		</div>
+      </div>
+      <div class="modal-body">
+        <p id="error-msg"></p>
+
+        <select id="state_dropdown" onchange="setStateCookie()">
+          <option selected="selected" value="Choose a State">Choose a Shipping State</option>
+          <option value="AL">AL</option>
+          <option value="AK">AK</option>
+          <option value="AR">AR</option>  
+          <option value="AZ">AZ</option>
+          <option value="CA">CA</option>
+          <option value="CO">CO</option>
+          <option value="CT">CT</option>
+          <option value="DC">DC</option>
+          <option value="DE">DE</option>
+          <option value="FL">FL</option>
+          <option value="GA">GA</option>
+          <option value="HI">HI</option>
+          <option value="IA">IA</option>  
+          <option value="ID">ID</option>
+          <option value="IL">IL</option>
+          <option value="IN">IN</option>
+          <option value="KS">KS</option>
+          <option value="KY">KY</option>
+          <option value="LA">LA</option>
+          <option value="MA">MA</option>
+          <option value="MD">MD</option>
+          <option value="ME">ME</option>
+          <option value="MI">MI</option>
+          <option value="MN">MN</option>
+          <option value="MO">MO</option>  
+          <option value="MS">MS</option>
+          <option value="MT">MT</option>
+          <option value="NC">NC</option>  
+          <option value="NE">NE</option>
+          <option value="NH">NH</option>
+          <option value="NJ">NJ</option>
+          <option value="NM">NM</option>      
+          <option value="NV">NV</option>
+          <option value="NY">NY</option>
+          <option value="ND">ND</option>
+          <option value="OH">OH</option>
+          <option value="OK">OK</option>
+          <option value="OR">OR</option>
+          <option value="PA">PA</option>
+          <option value="RI">RI</option>
+          <option value="SC">SC</option>
+          <option value="SD">SD</option>
+          <option value="TN">TN</option>
+          <option value="TX">TX</option>
+          <option value="UT">UT</option>
+          <option value="VT">VT</option>
+          <option value="VA">VA</option>
+          <option value="WA">WA</option>
+          <option value="WI">WI</option>  
+          <option value="WV">WV</option>
+          <option value="WY">WY</option>
+        </select>
+
+        <p class="popup-link margin-top-20" onclick="showShippingInfoDescription()">Why do you need this?</p>
+        <div id="shipping-info-description">
+          <p>Shipping wine is quite expensive! We're able to provide the awesome shipping rates that we do by customizing the selection of products available to you. <span class="popup-link" onclick="hideShippingInfoDescription()">Gotcha</span>.</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="my-backdrop"></div>
+</div>
+
+
+
+
+<script type="text/javascript">
+
+  window.onload = function() {
+
+    var state = getCookie("state");
+    var store = getCookie("store");
+    var loggedin = "";
+    
+    var loc = window.location.href;
+
+    //dont show popups(both zip + email collector) when:
+    var showPopups = !loc.includes("start-membership") && !loc.includes("checkout"); //on start membership lander or checkout
+
+    //show zip popup only on wineshop or catalog search page.
+    var showZipPopup = loc.includes("wine-shop") || loc.includes("catalogsearch");
+
+
+    if (!showZipPopup || !showPopups) { 
+      if (!loggedin && showPopups) { 
+        openEmailCollector();
+      } 
+      return;
+    }
+
+    //getting here means that showZipPopup = true && showPopups = true.
+    if (state && state.length > 2) { 
+      showModal();
+      return;
+    }
+
+    //if they have a zip cookie, they've already entered it in popup before.
+    var zipbutton = document.getElementById('zip-changer-button');
+    var zipbutton1 = document.getElementById('zip-changer-button1');
+    if (state && store) {
+      if (zipbutton) {
+        document.getElementById('zip-changer-button').innerHTML ="Shipping to: " + state;
+      } else if (zipbutton1) {
+        document.getElementById('zip-changer-button1').innerHTML ="Shipping to: " + state;
+      }
+      
+      if (!loggedin) {
+        openEmailCollector();
+      }
+    } else {
+      showModal();
+    }
+  }
+
+  function disableLinks() {
+    //disable all links
+    var anchors = document.getElementsByTagName("a");
+    for (var i = 0; i < anchors.length; i++) {
+      anchors[i].onclick = function() {return(false);};
+    }
+  }
+
+  function getWarehouseFromState(state) {
+    console.log("getting warehouse for:"+ state);
+    var warehouse = "unavailable";
+    //find the right warehouse 
+    var east_warehouses = 'NY,SC,PA,FL,IL,MD,NJ,VA,MA,GA,DC,NC,CT,TN,OH,MI,MN,AL,LA,WI,IN,MO,AR,KY,RI,IA,DE,MS,VT,WV,ME,NH';
+    var west_warehouses = 'TX,OK,CA,CO,WA,OR,AZ,NV,ID,NM,MT,WY,SD,KS,ND,NE';
+    var warehouse = "unavailable";
+
+    if (east_warehouses.indexOf(state) !== -1) {
+      warehouse = "east";
+    } else if (west_warehouses.indexOf(state) !== -1) {
+      warehouse = "west";
+    }
+    return warehouse;
+  }
+
+  function setStateCookie() {
+    hideShippingInfoDescription();
+    var state = $('state_dropdown').value;
+    //set the cookie
+    delete_cookie("state");
+    //set the zipbutton1ip cookie
+    var cookiedate = new Date;
+    cookiedate.setFullYear(cookiedate.getFullYear( ) +1);
+    document.cookie="state=" + state + ";expires=" + cookiedate.toGMTString() + ';' + "path=/";
+
+    console.log("selected state:"+ state);
+    var warehouse = getWarehouseFromState(state);
+
+    if (warehouse === "unavailable") {
+      var errormsg = document.getElementById('error-msg');
+      errormsg.innerHTML = "Unfortunately, we are unable to deliver wine to your state at this time. Please contact us with any questions!";
+      errormsg.style.opacity="1"; 
+      errormsg.style.visibility="visible";
+    } else {
+      var zip_changer_btn = document.getElementById('zip-changer-button');
+      var zip_changer_btn1 = document.getElementById('zip-changer-button1');
+      if (zip_changer_btn) {
+        zip_changer_btn.innerHTML ="Shipping to: <span class='zip-wrapper'>" + state + "</span>";
+      } 
+      if (zip_changer_btn1) {
+        zip_changer_btn1.innerHTML ="Shipping to: <span class='zip-wrapper'>" + state + "</span>";
+      }
+
+      showStateLoader();
+      disableLinks();
+      //this state belongs to a warehouse. switch store view
+      //load storeview 
+      window.location.href = addStoreViewParam(window.location.href,warehouse);
+    }
+  }
+
+  function addStoreViewParam(currURL, store) {
+    currURL = removeStoreViewParam(currURL);
+    //if a parameter already exists, append the store view param w a '&'
+    if (currURL.indexOf('?') !== -1) {
+      return currURL + "&___store=" + store + "_store_view";
+    } else {
+      //if not parameters exist in the url, append the store view w a '?'
+      return currURL + "?___store=" + store + "_store_view";
+    }
+  }
+
+  //store view name must end with "store_view" for this function to work correctly
+  function removeStoreViewParam(currURL) {
+    var startIdx = currURL.indexOf("?___store=");
+    var addlStartIdx = currURL.indexOf("&___store=");
+    if (startIdx !== -1) {
+      var endStringIdx = currURL.length-1;
+      var endParamIdx = currURL.indexOf("store_view") + 10;
+      if (endParamIdx !== -1) {
+        //get min idx of end of string OR end of store view param. 
+        var removableSubstring = Math.min(endStringIdx,endParamIdx);
+        var beforeParam = currURL.substring(0,startIdx);
+        var afterParam = currURL.substring(endParamIdx, currURL.length);
+        if (afterParam.charAt(0) === '&') {
+          //move any trailing parameters (marked by '&' to be the first parameter now marked by '?'.
+          afterParam = "?" + afterParam.substring(1, afterParam.length);
+        }
+        return beforeParam+afterParam;
+      } 
+    } else if (addlStartIdx !== -1) {
+      var endStringIdx = currURL.length-1;
+      var endParamIdx = currURL.indexOf("store_view") + 10;
+      if (endParamIdx !== -1) {
+        //get min idx of end of string OR end of store view param. 
+        var removableSubstring = Math.min(endStringIdx,endParamIdx);
+        var beforeParam = currURL.substring(0,addlStartIdx);
+        var afterParam = currURL.substring(endParamIdx, currURL.length);
+        if (afterParam.charAt(0) === '&') {
+          //move any trailing parameters (marked by '&' to be the first parameter now marked by '?'.
+          afterParam = "?" + afterParam.substring(1, afterParam.length);
+        }
+        return beforeParam+afterParam;
+      } 
+    }
+    return currURL;
+  }
+
+  function showStateLoader() {
+    var loader = document.getElementById('state-loader');
+    var overlay = document.getElementById('state-loader-overlay');
+    overlay.style.display = "block";
+    overlay.style.opacity = "1";
+    loader.style.display = "block";
+    loader.style.opacity = "1";
+  }
+
+  function closeZipModal() {
+    var popup = document.getElementById('zip-popup');
+    popup.style.opacity="0"; 
+    popup.style.visibility="hidden";
+    document.body.className = document.body.className.replace("my-modal-open","");
+  }
+
+  function showShippingInfoDescription() {
+    var info = document.getElementById('shipping-info-description');
+    info.style.display="block";
+    info.style.opacity="1"; 
+  }
+
+  function hideShippingInfoDescription() {
+    var info = document.getElementById('shipping-info-description');
+    info.style.display="none";
+    info.style.opacity="0"; 
+  }
+
+
+</script>
+
+
+
+
+
+
+
+
+
+<div id="email-collector-container">
+	<div class="block block-subscribe arw-col col-xs-10 col-sm-6 col-md-6 col-lg-6 centered">
+		<div class="email-signup-text text-left" style="padding-left:15px">
+	    	<h3><span>Get in the loop</span></h3>
+	    	<p>Stay up-to-date on current promotions, new wine arrivals, and cool content about alcohol (not just wine)!</p>
+	    </div>
+	    <!--<form action="" method="post" id="newsletter-validate-detail-">-->
+	    <form action="https://wineawesomeness.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail-1232793401">
+	        <div class="block-content">
+	            <div class="input-box col-xs-8" style="display:inline-block;vertical-align:top">
+	               <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
+	            </div>
+	            <div class="col-xs-8 col-sm-4" style="display:inline-block">
+	                <button id="button-newsletter-validate-detail-1232793401" type="submit" title="Subscribe" class="button" style="width:100%"><span><span>Sign Me Up!</span></span></button>
+	            </div>
+	        </div>
+	    </form>
+	    <script type="text/javascript">
+	    //<![CDATA[
+	        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail-1232793401',false);
+	        $('newsletter-validate-detail-1232793401').observe('submit', function(){
+				setCookieForEmailSubmit();
+	            setTimeout(function(){
+	                newsletterSubscriberFormDetail.validator.reset();
+	            },5000);
+	        }.bind(newsletterSubscriberFormDetail));
+	    //]]>
+	    </script>
+	</div>
+
+	<!--email collector closer-->
+	<img id="popup-remove-btn" onclick="closeEmailCollector()" src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/remove.svg">
+
+</div>
+
+
+<!-- Modal -->
+<div id="special-order-popup" class="special-order-popup-class">
+
+  <div class="modal-dialog" style="z-index:10000">
+    <div id="loading-special-order-loader"></div>
+    <!-- Modal content-->
+    <div class="modal-content">
+      <img id="popup-remove-btn" onclick="closeSpecialOrderPopup()" src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/remove.svg">
+      <div class="modal-header">
+        <div class="zip-popup-title" id="special-order-inner-wrapper">
+    			<h3>What's this?</h3>
+    			<p>This wine is unavailable for online purchase at this time, but our community liaison should be able to pull some strings if you leave your email here! </p>
+
+          <div id="special_order_email_form">
+            <p id="error-msg-special-order"></p>
+            <input type="hidden" id="hidden_wine_name" name="hidden_wine_name" value="">
+            <input type="email" id="special_email" name="special_email" placeholder="Enter Email">
+            <div id="special-order-submit-button" class="button btn" onclick="sendSpecialOrderEmail('https://www.wineawesomeness.com/specialorder/index/index/')">Let me know!</div>
+          </div>
+    		</div>
+
+        <div id="special-order-emailcookie-wrapper">
+            <h3>Reach out to your community liaison.</h3>
+            <p>Is this still a good contact email for you? </p>
+            <div id="special_order_cookie_form" class="centered">
+              <input type="hidden" id="hidden_wine_name_cookie" name="hidden_wine_name" value="">
+              <p id="special_email_cookie"></p>
+
+              <div id="special-order-submit-button" onclick="sendSpecialOrderEmail('https://www.wineawesomeness.com/specialorder/index/index/')" class="button btn">Yep! Let me know! </div>
+
+              <div style="padding-top:10px"><a class="popup-link centered" onclick="hideCookieForm()">Use a different email</a></div>
+            </div>
+        </div>
+
+        <div id="special-order-success-wrapper" style="display:none"> 
+          <h3>We got you.</h3>
+          <p>We'll get back to you really soon! Look out for an email from us in your inbox. In the meantime, start a live chat with us with any questions or visit our <a href="https://support.wineawesomeness.com/hc/en-us" class="popup-link">FAQ page</a>.</p>
+
+          <div id="special-order-submit-button" class="button btn" onclick="closeSpecialOrderPopup()">Cool!</div>
+        </div>
+
+        <div id="special-order-failure-wrapper" style="display:none">
+          <h3>Uh oh!</h3>
+          <p>This request couldn't go through. Please contact us by emailing support@wineawesomeness.com or starting a live chat with us. Also, check out our <a href="https://wineawesomeness.com/">FAQ</a> page.</p>
+
+          <div id="special-order-submit-button" class="button btn" onclick="closeSpecialOrderPopup()">Cool!</div>
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+
+  <div class="my-backdrop"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><script type="text/javascript">
-	var $mcGoal = {'settings':{'uuid':'40ddc2ef3a9dc7096dc52ef9a','dc':'us4'}};
-	(function() {
-		 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
-		sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
-	})(); 
-</script>
+        //]]></script>
 
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '510680039034993']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=510680039034993&amp;ev=PixelInitialized" /></noscript>
-<!-- Start of Wine Awesomeness Zendesk Widget script -->
-<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","wineawesomeness.zendesk.com");/*]]>*/</script>
-<!-- End of Wine Awesomeness Zendesk Widget script -->
+<!-- navigation BOF -->
+<div class="arw-mobile-menu">
+    <div class="arw-mobile-menu-header">
+        <span class="arw-mobile-menu-title">
+            <span>Menu</span>
+        </span>
+        <span class="arw-close-canvas"><i class="fa fa-close"></i></span>
+    </div>
+    <div class="sidebar-menu">
+        <div class="arw-toggle-menu-mobile-expanded visible-xs">
+            <div class="arw-btn-menu-mobile" data-style="">
+                <img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/remove.svg" style="width:25px">
+            </div>
+        </div>
 
-<!-- Hotjar Tracking Code for www.wineawesomeness.com -->
+        <h2 class="bold-header" style="margin-left:50px">Menu</h2>
+        <div class="only-mobile-display mobile-search-container">
+                    </div>
+
+                <button id="zip-changer-button" onclick="change_zip();" type="button" class="btn btn-info">
+                    </button>
+
+        <ul id="arw_accordionmenu_2084357020" class="nav-accordion nav-mobile-accordion">
+            <li><a href="https://www.wineawesomeness.com/"><span>Home</span></a></li>
+            <li class=" level0 nav-6 level-top first menu-style-group">
+<a href="https://www.wineawesomeness.com/become-a-member.html" class="level-top">
+<span>Membership</span>
+</a>
+</li><li class=" level0 nav-7 level-top m-dropdown menu-style-dropdown parent">
+<a href="https://www.wineawesomeness.com/wine-shop.html" class="level-top">
+<span>Wine Shop</span>
+</a>
+<ul class="level0">
+<li class=" level1 item classic nav-7-1 first">
+<a href="https://www.wineawesomeness.com/wine-shop/just-in.html">
+<span>Just In</span>
+</a>
+</li><li class=" level1 item classic nav-7-2">
+<a href="https://www.wineawesomeness.com/wine-shop/featured.html">
+<span>Featured</span>
+</a>
+</li><li class=" level1 item classic nav-7-3 m-dropdown">
+<a href="https://www.wineawesomeness.com/wine-shop/accessory-packs.html">
+<span>Accessory Packs</span>
+</a>
+</li><li class=" level1 item classic nav-7-4">
+<a href="https://www.wineawesomeness.com/wine-shop/last-call.html">
+<span>Last Call</span>
+</a>
+</li><li class=" level1 item classic nav-7-5 last parent">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes.html">
+<span>Past Themes</span>
+</a>
+<ul class="level1">
+<li class=" level2 nav-7-5-1 first">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/october-17.html">
+<span>Book Club</span>
+</a>
+</li><li class=" level2 nav-7-5-2">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/september-17.html">
+<span>Burgers</span>
+</a>
+</li><li class=" level2 nav-7-5-3">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/august-17.html">
+<span>Unsung Heroes</span>
+</a>
+</li><li class=" level2 nav-7-5-4">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/july-17.html">
+<span>West Coast, Best Coast</span>
+</a>
+</li><li class=" level2 nav-7-5-5">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/june-17.html">
+<span>Summer Vibes</span>
+</a>
+</li><li class=" level2 nav-7-5-6">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/may-17.html">
+<span>Chocolate and Wine</span>
+</a>
+</li><li class=" level2 nav-7-5-7">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/april-17.html">
+<span>Portugal</span>
+</a>
+</li><li class=" level2 nav-7-5-8 last">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/march-17.html">
+<span>Behind the Scenes</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class=" level0 nav-8 level-top m-dropdown menu-style-dropdown parent">
+<a href="https://www.wineawesomeness.com/accessories.html" class="level-top">
+<span>Accessories &amp; More</span>
+</a>
+<ul class="level0">
+<li class=" level1 item classic nav-8-1 first">
+<a href="https://www.wineawesomeness.com/accessories/new-arrivals.html">
+<span>New Arrivals</span>
+</a>
+</li><li class=" level1 item classic nav-8-2 m-dropdown">
+<a href="https://www.wineawesomeness.com/accessories/apparel.html">
+<span>Apparel</span>
+</a>
+</li><li class=" level1 item classic nav-8-3">
+<a href="https://www.wineawesomeness.com/accessories/wine-openers.html">
+<span>Openers</span>
+</a>
+</li><li class=" level1 item classic nav-8-4">
+<a href="https://www.wineawesomeness.com/accessories/glassware.html">
+<span>Glassware</span>
+</a>
+</li><li class=" level1 item classic nav-8-5">
+<a href="https://www.wineawesomeness.com/accessories/storage.html">
+<span>Storage</span>
+</a>
+</li><li class=" level1 item classic nav-8-6">
+<a href="https://www.wineawesomeness.com/accessories/tabletop.html">
+<span>Tabletop</span>
+</a>
+</li><li class=" level1 item classic nav-8-7">
+<a href="https://www.wineawesomeness.com/accessories/serverware.html">
+<span>Serveware</span>
+</a>
+</li><li class=" level1 item classic nav-8-8">
+<a href="https://www.wineawesomeness.com/accessories/picnic.html">
+<span>Picnic / On-the-Go</span>
+</a>
+</li><li class=" level1 item classic nav-8-9 last">
+<a href="https://www.wineawesomeness.com/accessories/aerators-pourers.html">
+<span>Aerators &amp; Pourers</span>
+</a>
+</li>
+</ul>
+</li><li class=" level0 nav-9 level-top m-dropdown menu-style-dropdown parent">
+<a href="https://www.wineawesomeness.com/gift-boxes.html" class="level-top">
+<span>Gifts</span>
+</a>
+<ul class="level0">
+<li class=" level1 item classic nav-9-1 first">
+<a href="https://www.wineawesomeness.com/gift-boxes/prepaid-memberships.html">
+<span>Prepaid Memberships</span>
+</a>
+</li><li class=" level1 item classic nav-9-2">
+<a href="https://www.wineawesomeness.com/gift-boxes/gift-cards-wa.html">
+<span>Gift Cards</span>
+</a>
+</li><li class=" level1 item classic nav-9-3 last">
+<a href="https://www.wineawesomeness.com/gift-boxes/redeem-a-gift-wa.html">
+<span>Redeem a Gift</span>
+</a>
+</li>
+</ul>
+</li><li class=" level0 nav-10 level-top m-dropdown menu-style-dropdown last parent">
+<a href="https://www.wineawesomeness.com/thebacklabel.html" class="level-top">
+<span>thebacklabel</span>
+</a>
+<ul class="level0">
+<li class=" level1 item classic nav-10-1 first">
+<a href="https://www.wineawesomeness.com/thebacklabel/education.html">
+<span>Education</span>
+</a>
+</li><li class=" level1 item classic nav-10-2">
+<a href="https://www.wineawesomeness.com/thebacklabel/lifestyle.html">
+<span>Lifestyle</span>
+</a>
+</li><li class=" level1 item classic nav-10-3">
+<a href="https://www.wineawesomeness.com/thebacklabel/videos.html">
+<span>Videos</span>
+</a>
+</li><li class=" level1 item classic nav-10-4 last">
+<a href="https://www.wineawesomeness.com/thebacklabel/recipes.html">
+<span>Recipes</span>
+</a>
+</li>
+</ul>
+</li>                    </ul>
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                jQuery("#arw_accordionmenu_2084357020").arwAccordionMenu({
+                    accordion:true,
+                    speed: 400,
+                    closedSign: 'collapse',
+                    openedSign: 'expand',
+                    mouseType: 0,
+                    easing: 'easeInOutQuad'
+                });
+            });
+        </script>
+    </div>
+</div>
+<div class="site-overlay"></div>
+    <script type="text/javascript">
+        //<![CDATA[
+        var ajaxCartObj = new ajaxCart({"send_url":"https:\/\/www.wineawesomeness.com\/ajaxcart\/ajax\/index\/","update_url":"https:\/\/www.wineawesomeness.com\/checkout\/cart\/updatePost\/","src_image_progress":"https:\/\/skin.wineawesomeness.com\/frontend\/arw_sebian\/default\/images\/loading.gif","error":" \u2191 This is a required field.","is_product_view":0});
+        //]]>
+    </script>
+<!-- nothing here --><div id="outer-wrap" class="outer-wrap">
+
+
+<div id="off-canvas-right-wrapper">
+	<!--show off canvas is it was open on prev page & if not checkout page-->
+		<input type="checkbox" class="off-canvas-check" id="off-canvas-right-check" onclick="updateCheckboxCookie()">
+	
+	<div id="off-canvas-right" class="off-canvas">
+		<div class="main-nav-wrapper">
+			<div class="off-canvas-cart">
+			
+
+<div class="block block-cart" id="off-canvas-sidebar">
+    <div id="loading-cart-loader"></div>
+    <div id="loading-cart-loader-overlay"></div>
+
+        <div class="block-title">
+        <span>Cart</span>
+    </div>
+    <div class="remove-icon-container">
+        <label for="off-canvas-right-check" id="remove-icon" onclick="updateCheckboxCookie()">
+            <img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/remove.svg">
+        </label>
+    </div>
+    
+    <div id="cart-error-msg-container" class="margin-top-10">
+        <div id="offcanvascart-error-msg">
+        </div>
+        <a onclick="hideOffcanvasErrorMsg()" class="popup-link" id="offcanvascart-error-msg-closer">OK</a>
+    </div>
+
+    <div class="my-block-content" id="off-canvas-main-content"> 
+    
+            <p class="empty">Nothing here yet. Add some <a href="/wine-shop.html" class="popup-link" onclick="delete_cookie('offcanvasstatus')">wine</a> or <a href="accessories.html" class="popup-link" onclick="delete_cookie('offcanvasstatus')">accessories</a>!</p>
+    
+
+
+            <div class="actions">
+
+            
+            <div class="col-xs-9 subtotal-description">
+                <span class="label">Cart Subtotal:</span>
+            </div>
+            <div class="col-xs-3 subtotal-amount">
+                <span class="price">$0</span>                            </div>
+                        
+            <div class="col-xs-9 subtotal-description">
+                <span class="label">Complimentary Shipping:</span>
+            </div>
+            <div class="col-xs-3 subtotal-amount">
+                <span>$0</span>
+            </div>
+
+            
+
+<!--if not a member, dont get 20% discount on 3+ bottles-->
+<div id="off-canvas-discount-preview" class="clearfix">
+								<div class="col-xs-12 discount-description">Get 5% off 3+ bottles, 10% off 6, and 20% off 12!</div>
+			</div>
+<div class="bottles-container" id="bottles-block">
+	<div class="bottles-container-inner clearfix">
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+															<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/empty_bottle.svg">
+								</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+															<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/empty_bottle.svg">
+								</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+						<!-- show 3 bottle fulfilled bottles -->
+			<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/blue_bottle.svg">
+																	</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+															<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/empty_bottle.svg">
+								</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+															<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/empty_bottle.svg">
+								</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+									<!-- show 6 bottle fulfilled bottles -->
+			<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/blue2_bottle.svg">
+														</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+															<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/empty_bottle.svg">
+								</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+															<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/empty_bottle.svg">
+								</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+															<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/empty_bottle.svg">
+								</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+															<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/empty_bottle.svg">
+								</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+															<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/empty_bottle.svg">
+								</div>
+				<div class="col-xs-1 bottles-icon">
+			
+			<!-- show FILLED bottles -->
+												
+			<!-- show EMPTY bottles --> 
+												<!-- show 3 bottle fulfilled bottles -->
+			<img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/blue3_bottle.svg">
+											</div>
+			</div>
+	<div class="discount-container">
+		<div class="col-xs-3 discount-label"> 
+						<span>-5%</span>
+					</div>
+		<div class="col-xs-3 discount-label">
+						<span>-10%</span>
+					</div>
+		<div class="col-xs-6 discount-label">
+						<span>-20%</span>
+					</div>
+	</div>
+</div>
+
+
+
+
+
+            
+            <div class="button-container">
+                <button type="button btn3" id="off-canvas-checkout-btn" title="Checkout" class="button btn3" onclick="delete_cookie('offcanvasstatus');setLocation('https://www.wineawesomeness.com/onestepcheckout/index/')"><span><span>Checkout</span></span></button>
+            </div>
+             
+
+        </div>
+        </div>
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+
 <script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:89255,hjsv:5};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-</script><script async="" src="//static.hotjar.com/c/hotjar-89255.js?sv=5"></script>
-
-<!-- Font Replacement -->
-<style>
-.product-name, button.button span span, header#header .top-cart .block-title a, #nav li a, #footer .footer-columns-wrapper h3, #footer .footer-columns-wrapper ul li a, #footer .footer-top-wrapper h3, .page-title h1, .page-title h2, .category h2, aside.sidebar section header h2, #categories-accordion li.level-top a.level-top, .pager .pages li a.i-previous, .product-view .product-shop .product-name h2, .add-to-cart .qty, .product-options h3, .product-collateral h2, .block-related header h2, .catalog-product-view .box-reviews h2, #cart-accordion h3.accordion-title, .nav-wide#nav li.nav-static-block h3, .nav-wide#nav li.nav-static-block p, .grid-container .grid-text-box h2, .grid-container .grid-text-box p, .slider-container .slider-text-box h2, .slider-container .slider-text-box p, .header-block-wrapper h2, .header-block-wrapper p, .header-slider-container .iosSlider .slides .item h2, .header-slider-container .iosSlider .slides .item h3{font-family: 'Open Sans', sans-serif;}
-</style>
-<!-- End Font Replacement -->
-<!-- Theme Colors -->
-<style>
-	/*  Site Background */
-	header#header .header-block-wrapper,
-	.content-wrapper {background-color:#FFFFFF;}
-
-	.checkpoint-3-button,
-	.checkpoint-5-button{border-top-color:#FFFFFF;}
-
-
-	/* Skin Color #1 */
-	button.button span span,
-	header#header .form-currency a:hover,
-	header#header .form-language a:hover,
-	header#header .top-cart .block-title:hover,
-	header#header .top-cart .block-title.active,
-	header#header .form-search button,
-	#footer ul.social-links li:hover,
-	#footer .footer-columns-wrapper ul li a:hover,
-	.category h2,
-	.sorter .view-mode strong.grid,
-	.sorter .view-mode a.grid:hover,
-	.sorter .view-mode strong.list,
-	.sorter .view-mode a.list:hover,
-	.toolbar-bottom .pager .pages ol li.current,
-	.toolbar-bottom .pager .pages ol li a:hover,
-	.add-to-links li a,
-	.product-view .product-shop .product-bottom-box .email-friend a,
-	.cart-table .link-wishlist,
-	.cart-table .cart-edit,
-	.btn-remove2,
-	.opc .active .step-title .number,
-	.my-wishlist .link-edit,
-	.product-view .product-prev,
-	.product-view .product-next,
-	.more-views .prev span,
-	.more-views .next span,
-	.block-related .prev span,
-	.block-related .next span,
-	#toTop,
-	#toTopHover,
-	.block-wishlist .es-nav-prev span,
-	.block-wishlist .es-nav-next span,
-	.slider-container .prev span,
-	.slider-container .next span,
-	.header-slider-container .iosSlider .slideSelectors .button-item:hover,
-	.header-slider-container .iosSlider .slideSelectors .button-item.selected{background-color:#0396ED;}
-
-	header#header .links li:hover{background-color:#0396ED!important;}
-
-	.header-slider-container .iosSlider .slides .item h2{color:#0396ED;}
-
-
-	/* Skin Color #2 */
-	a,
-	.price,
-	nav.breadcrumbs li strong,
-	.pager .limiter ul li a:hover,
-	.pager .limiter ul li a.selected,
-	.catalog-product-view .box-reviews ul li small span,
-	.catalog-product-view .box-reviews .form-add h3 span,
-	.product-view .product-prev:hover > span,
-	.product-view .product-next:hover > span{color:#0396ED;}
-
-	header#header .nav-container .nav-wide#nav.ul ul.level0 > li > ul > li li > a:hover,
-	.nav-container.mobile #nav ul.level0 ul li a:hover,
-	header#header .nav-container.mobile #nav ul.level0 ul li li li a:hover,
-	#nav.nav-wide ul.level0 > li > ul > li > a:hover{color:#0396ED!important;}
-
-	.nav-wide#nav ul.level1,
-	.nav-wide#nav ul.level1 ul,
-	.sorter .total,
-	#cart-accordion h3.accordion-title,
-	#nav ul,
-	#nav div,
-	.nav-wide#nav ul.level1.shown-sub,
-	.nav-wide#nav ul.level1 ul.shown-sub,
-	#nav.nav-wide li.nav-static-block button span span,
-	header#header .menu-button,
-	.grid-2-wrapper{background-color:#0396ED;}
-
-	.triangle,
-	.meigee-tabs li a:hover,
-	.meigee-tabs li.active a,
-	.meigee-tabs li.active a:hover,
-	.checkpoint-4-button{border-top-color:#0396ED!important;}
-
-
-	/*====== Header Background =======*/
-	header#header .header-bottom-wrapper { background-color: #FFFFFF;}
-
-	/*====== Header Color =======*/
-
-	header#header .nav-container > ul li a { color: #242424;}
-
-	/*====== Header Hover Color =======*/
-
-	header#header .nav-container > ul li a:hover {color:#0396ED;}
-
-	#nav > li.over > a,
-	#nav > li.active > a{border-color:#0396ED;}
-
-</style>
-<!-- Theme Colors -->
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class=" cms-page-view cms-privacy-policy-cookie-restriction-mode">
-    <noscript>
+function updateCheckboxCookie() {
+	delete_cookie("offcanvasstatus");
+	if ($('off-canvas-right-check').checked) {
+		document.cookie="offcanvasstatus=open;path=/";
+	} else {
+		document.cookie="offcanvasstatus=closed;path=/";
+	}
+}
+</script><div id="inner-wrap" class="inner-wrap">
+<div class="wrapper">
+        <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
                 <p>
@@ -252,110 +922,586 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
             </div>
         </div>
     </noscript>
-<header id="header">
-    <div class="checkpoint-wrapper">
-        <div id="checkpoint-1"></div>
+    <div class="page">
+        
+
+<header class="header-container header_style_1">
+
+    <div class="sticky-header-banner">
+        <span id="sticky_banner_img">
+<img src="https://media.wineawesomeness.com/wysiwyg/landingpage/truck.png" alt="">
+</span>
+<p style="display:inline-block">Complimentary shipping for a limited time!</p>    </div>
+    <div class="header-top">
+
+        <div id="header">
+            <div class="container">
+                <div class="header-wrapper">
+                    <nav class="nav-primary-container clearfix">
+                        <div class="wrap-nav">
+                            <div class="arw-toggle-menu-mobile visible-xs">
+                                <div class="arw-btn-menu-mobile" data-style="accordion">
+                                    <label>Menu</label>
+                                    <img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/menu.svg" style="width:25px">
+                                </div>
+                            </div>
+                            <div class="sticky-logo">
+                                <a href="https://www.wineawesomeness.com/" title="WineAwesomeness"><img src="https://skin.wineawesomeness.com/frontend/base/default/images/wa_logo_black.png" alt="WineAwesomeness"></a>
+                            </div>                            
+                                                            <!-- navigation BOF -->
+<div class="arw-mobile-menu">
+    <div class="arw-mobile-menu-header">
+        <span class="arw-mobile-menu-title">
+            <span>Menu</span>
+        </span>
+        <span class="arw-close-canvas"><i class="fa fa-close"></i></span>
     </div>
-    
-    <div class="header-wrapper">
-        <div class="container_12">
-            <div class="grid_12">
-                <p class="welcome-msg">You know what we say...wine all the time</p>
-                <ul class="links">
-                        <li class="first"><a href="https://wineawesomeness.com/customer/account/" title=" Account" class="top-link-account"> Account</a></li>
-                                <li><a href="https://wineawesomeness.com/onestepcheckout/index/" title="Checkout" class="top-link-checkout">Checkout</a></li>
-                                <li class=" last"><a href="https://wineawesomeness.com/customer/account/login/referer/aHR0cDovL3dpbmVhd2Vzb21lbmVzcy5jb20vcHJpdmFjeS1wb2xpY3ktY29va2llLXJlc3RyaWN0aW9uLW1vZGU,/" title="Log In" class="top-link-login">Log In</a></li>
-            </ul>
-				                                <div class="top-cart">
-    <div class="block-title no-items">
-        <ul class="links cart-link">
-            <li><a href="http://wineawesomeness.com/checkout/cart/"><span class="cart-txt">My Blue Box</span> (0) <span class="price">$0.00</span></a></li>
-        </ul>
-    </div>
-</div>                <div class="clear"></div>
+    <div class="sidebar-menu">
+        <div class="arw-toggle-menu-mobile-expanded visible-xs">
+            <div class="arw-btn-menu-mobile" data-style="">
+                <img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/remove.svg" style="width:25px">
             </div>
-            </div>
-            <div class="clear"></div>
         </div>
-    
-    <div class="header-bottom-wrapper" id="checkpoint-0">
-        <div class="container_12">
-            <div class="grid_12">
-                <div class="checkpoint-wrapper">
-                    <div class="checkpoint-1-button"></div>
-                </div>
-                                    <h1 class="logo"><strong>Wine Awesomeness</strong><a href="http://wineawesomeness.com/" title="Wine Awesomeness" class="logo"><img src="http://wineawesomeness.com/media/images/default/new-wa-logo-color.png" alt="Wine Awesomeness"></a></h1>
-                                <div class="quick-access">
-                    <div class="menu-button"></div>
-                    <nav class="nav-container">
-    <ul class="nav" id="nav">
-    	        <li class="level0 nav-1 level-top first">
-<a href="http://wineawesomeness.com/become-a-member-now.html" class="level-top">
-<span>WA Membership</span>
+
+        <h2 class="bold-header" style="margin-left:50px">Menu</h2>
+        <div class="only-mobile-display mobile-search-container">
+            <form id="search_mini_form_1994962503" class="search_mini_form" action="https://www.wineawesomeness.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+        
+        <input id="search_1994962503" type="text" name="q" value="" class="input-text" maxlength="128">
+        <button type="submit" title="Search" class="button"><span><span><i class="fa fa-search"></i></span></span></button>
+        <div id="search_autocomplete_1994962503" class="search-autocomplete"></div>
+        <script type="text/javascript">
+            //<![CDATA[
+            var searchForm_1994962503 = new Varien.searchForm('search_mini_form_1994962503', 'search_1994962503', '');
+            searchForm_1994962503.initAutocomplete('https://www.wineawesomeness.com/catalogsearch/ajax/suggest/', 'search_autocomplete_1994962503');
+            //]]>
+        </script>
+    </div>
+</form>
+        </div>
+
+                <button id="zip-changer-button" onclick="change_zip();" type="button" class="btn btn-info">
+                    </button>
+
+        <ul id="arw_accordionmenu_1931235442" class="nav-accordion nav-mobile-accordion">
+            <li><a href="https://www.wineawesomeness.com/"><span>Home</span></a></li>
+            <li class=" level0 nav-6 level-top first menu-style-group">
+<a href="https://www.wineawesomeness.com/become-a-member.html" class="level-top">
+<span>Membership</span>
 </a>
-</li><li class="level0 nav-2 level-top">
-<a href="http://wineawesomeness.com/shop-wine.html" class="level-top">
-<span>Shop Wine</span>
+</li><li class=" level0 nav-7 level-top m-dropdown menu-style-dropdown parent">
+<a href="https://www.wineawesomeness.com/wine-shop.html" class="level-top">
+<span>Wine Shop</span>
 </a>
-</li><li class="level0 nav-3 level-top">
-<a href="http://wineawesomeness.com/gifts.html" class="level-top">
-<span>Gifts</span>
+<ul class="level0">
+<li class=" level1 item classic nav-7-1 first">
+<a href="https://www.wineawesomeness.com/wine-shop/just-in.html">
+<span>Just In</span>
 </a>
-</li><li class="level0 nav-4 level-top last">
-<a href="http://wineawesomeness.com/thebacklabel.html" class="level-top">
-<span>The Back Label</span>
+</li><li class=" level1 item classic nav-7-2">
+<a href="https://www.wineawesomeness.com/wine-shop/featured.html">
+<span>Featured</span>
+</a>
+</li><li class=" level1 item classic nav-7-3 m-dropdown">
+<a href="https://www.wineawesomeness.com/wine-shop/accessory-packs.html">
+<span>Accessory Packs</span>
+</a>
+</li><li class=" level1 item classic nav-7-4">
+<a href="https://www.wineawesomeness.com/wine-shop/last-call.html">
+<span>Last Call</span>
+</a>
+</li><li class=" level1 item classic nav-7-5 last parent">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes.html">
+<span>Past Themes</span>
+</a>
+<ul class="level1">
+<li class=" level2 nav-7-5-1 first">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/october-17.html">
+<span>Book Club</span>
+</a>
+</li><li class=" level2 nav-7-5-2">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/september-17.html">
+<span>Burgers</span>
+</a>
+</li><li class=" level2 nav-7-5-3">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/august-17.html">
+<span>Unsung Heroes</span>
+</a>
+</li><li class=" level2 nav-7-5-4">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/july-17.html">
+<span>West Coast, Best Coast</span>
+</a>
+</li><li class=" level2 nav-7-5-5">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/june-17.html">
+<span>Summer Vibes</span>
+</a>
+</li><li class=" level2 nav-7-5-6">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/may-17.html">
+<span>Chocolate and Wine</span>
+</a>
+</li><li class=" level2 nav-7-5-7">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/april-17.html">
+<span>Portugal</span>
+</a>
+</li><li class=" level2 nav-7-5-8 last">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/march-17.html">
+<span>Behind the Scenes</span>
 </a>
 </li>
-    </ul>
-</nav>
-                    <form id="search_mini_form" action="http://wineawesomeness.com/catalogsearch/result/" method="get">
-    <div class="form-search">
-        <div class="indent">
-            <label for="search">Search:</label>
-            <input id="search" type="text" name="q" value="" class="input-text" maxlength="128">
-            <button type="submit" title="All on red" class="button"><span><span>Search</span></span></button>
-            <div id="search_autocomplete" class="search-autocomplete"></div>
-            <script type="text/javascript">
-            //<![CDATA[
-                var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Roll the dice...');
-                searchForm.initAutocomplete('http://wineawesomeness.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
-            //]]>
-            </script>
-            <div class="clear"></div>
-        </div>
+</ul>
+</li>
+</ul>
+</li><li class=" level0 nav-8 level-top m-dropdown menu-style-dropdown parent">
+<a href="https://www.wineawesomeness.com/accessories.html" class="level-top">
+<span>Accessories &amp; More</span>
+</a>
+<ul class="level0">
+<li class=" level1 item classic nav-8-1 first">
+<a href="https://www.wineawesomeness.com/accessories/new-arrivals.html">
+<span>New Arrivals</span>
+</a>
+</li><li class=" level1 item classic nav-8-2 m-dropdown">
+<a href="https://www.wineawesomeness.com/accessories/apparel.html">
+<span>Apparel</span>
+</a>
+</li><li class=" level1 item classic nav-8-3">
+<a href="https://www.wineawesomeness.com/accessories/wine-openers.html">
+<span>Openers</span>
+</a>
+</li><li class=" level1 item classic nav-8-4">
+<a href="https://www.wineawesomeness.com/accessories/glassware.html">
+<span>Glassware</span>
+</a>
+</li><li class=" level1 item classic nav-8-5">
+<a href="https://www.wineawesomeness.com/accessories/storage.html">
+<span>Storage</span>
+</a>
+</li><li class=" level1 item classic nav-8-6">
+<a href="https://www.wineawesomeness.com/accessories/tabletop.html">
+<span>Tabletop</span>
+</a>
+</li><li class=" level1 item classic nav-8-7">
+<a href="https://www.wineawesomeness.com/accessories/serverware.html">
+<span>Serveware</span>
+</a>
+</li><li class=" level1 item classic nav-8-8">
+<a href="https://www.wineawesomeness.com/accessories/picnic.html">
+<span>Picnic / On-the-Go</span>
+</a>
+</li><li class=" level1 item classic nav-8-9 last">
+<a href="https://www.wineawesomeness.com/accessories/aerators-pourers.html">
+<span>Aerators &amp; Pourers</span>
+</a>
+</li>
+</ul>
+</li><li class=" level0 nav-9 level-top m-dropdown menu-style-dropdown parent">
+<a href="https://www.wineawesomeness.com/gift-boxes.html" class="level-top">
+<span>Gifts</span>
+</a>
+<ul class="level0">
+<li class=" level1 item classic nav-9-1 first">
+<a href="https://www.wineawesomeness.com/gift-boxes/prepaid-memberships.html">
+<span>Prepaid Memberships</span>
+</a>
+</li><li class=" level1 item classic nav-9-2">
+<a href="https://www.wineawesomeness.com/gift-boxes/gift-cards-wa.html">
+<span>Gift Cards</span>
+</a>
+</li><li class=" level1 item classic nav-9-3 last">
+<a href="https://www.wineawesomeness.com/gift-boxes/redeem-a-gift-wa.html">
+<span>Redeem a Gift</span>
+</a>
+</li>
+</ul>
+</li><li class=" level0 nav-10 level-top m-dropdown menu-style-dropdown last parent">
+<a href="https://www.wineawesomeness.com/thebacklabel.html" class="level-top">
+<span>thebacklabel</span>
+</a>
+<ul class="level0">
+<li class=" level1 item classic nav-10-1 first">
+<a href="https://www.wineawesomeness.com/thebacklabel/education.html">
+<span>Education</span>
+</a>
+</li><li class=" level1 item classic nav-10-2">
+<a href="https://www.wineawesomeness.com/thebacklabel/lifestyle.html">
+<span>Lifestyle</span>
+</a>
+</li><li class=" level1 item classic nav-10-3">
+<a href="https://www.wineawesomeness.com/thebacklabel/videos.html">
+<span>Videos</span>
+</a>
+</li><li class=" level1 item classic nav-10-4 last">
+<a href="https://www.wineawesomeness.com/thebacklabel/recipes.html">
+<span>Recipes</span>
+</a>
+</li>
+</ul>
+</li>                    </ul>
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                jQuery("#arw_accordionmenu_1931235442").arwAccordionMenu({
+                    accordion:true,
+                    speed: 400,
+                    closedSign: 'collapse',
+                    openedSign: 'expand',
+                    mouseType: 0,
+                    easing: 'easeInOutQuad'
+                });
+            });
+        </script>
     </div>
-</form>                    <div class="clear"></div>
+</div>
+<div class="site-overlay"></div>
+                                                    </div>
+                    </nav>
                 </div>
             </div>
-            <div class="clear"></div>
         </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="header-top-left col-xs-3 col-sm-4 col-md-4 col-lg-4">
+                                            <div class="mobile-display-none search-bar-container">
+                            <form id="search_mini_form_2013700034" class="search_mini_form" action="https://www.wineawesomeness.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+        
+        <input id="search_2013700034" type="text" name="q" value="" class="input-text" maxlength="128">
+        <button type="submit" title="Search" class="button"><span><span><i class="fa fa-search"></i></span></span></button>
+        <div id="search_autocomplete_2013700034" class="search-autocomplete"></div>
+        <script type="text/javascript">
+            //<![CDATA[
+            var searchForm_2013700034 = new Varien.searchForm('search_mini_form_2013700034', 'search_2013700034', '');
+            searchForm_2013700034.initAutocomplete('https://www.wineawesomeness.com/catalogsearch/ajax/suggest/', 'search_autocomplete_2013700034');
+            //]]>
+        </script>
     </div>
-	
-                </header><div class="content-wrapper none for-title">
-<div class="category-wrapper">
-    <div class="container_12">
-        <div class="grid_12">
-            <div class="grid_9 alpha omega">    <nav class="breadcrumbs">
-        <ul>
-                            <li class="home">
-                                    <a href="http://wineawesomeness.com/" title="Go to Home Page">Home</a>
-                                                    <span>/ </span>
+</form>
+                        </div>
+                                        
+
+                    <div class="form-language hidden-xs">
+    <ul class="list-language">
+                    <li class="active">
+                <a href="https://www.wineawesomeness.com/privacy-policy-cookie-restriction-mode?___store=default&amp;___from_store=default" data-toggle="tooltip" data-placement="bottom" title="Default Store View">Default Store View</a>
+            </li>
+                    <li>
+                <a href="https://www.wineawesomeness.com/privacy-policy-cookie-restriction-mode?___store=east_store_view&amp;___from_store=default" data-toggle="tooltip" data-placement="bottom" title="East Warehouse Store View">East Warehouse Store View</a>
+            </li>
+                    <li>
+                <a href="https://www.wineawesomeness.com/privacy-policy-cookie-restriction-mode?___store=west_store_view&amp;___from_store=default" data-toggle="tooltip" data-placement="bottom" title="West Warehouse Store View">West Warehouse Store View</a>
+            </li>
+            </ul>
+</div>
+<div class="header-top-link visible-xs">
+    <ul class="header-top-link-ul">
+        <li class="header-dropdown-currency">
+            <span>Language</span>
+            <ul class="links">
+                                    <li class="active">
+                        <a href="https://www.wineawesomeness.com/privacy-policy-cookie-restriction-mode?___store=default&amp;___from_store=default" title="Default Store View">Default Store View</a>
+                    </li>
+                                    <li>
+                        <a href="https://www.wineawesomeness.com/privacy-policy-cookie-restriction-mode?___store=east_store_view&amp;___from_store=default" title="East Warehouse Store View">East Warehouse Store View</a>
+                    </li>
+                                    <li>
+                        <a href="https://www.wineawesomeness.com/privacy-policy-cookie-restriction-mode?___store=west_store_view&amp;___from_store=default" title="West Warehouse Store View">West Warehouse Store View</a>
+                    </li>
+                            </ul>
+        </li>
+    </ul>
+</div>
+                </div>
+                <div class="header-top-right logo-container col-xs-6 col-sm-4 col-md-4 col-lg-4">
+
+                    <a href="https://www.wineawesomeness.com/">
+                        <div class="header-logo">
+                            <img src="https://skin.wineawesomeness.com/frontend/arw_sebian/global_child/images/main_logo.svg">
+                        </div>
+                    </a>
+                </div>
+                <div class="header-top-right account-link-container col-xs-3 col-sm-4 col-md-4 col-lg-4">
+
+
+                                        <!--not logged in-->
+                    <div class="header-quick-access">
+                                                                                    
+                                    <div class="header-mini-cart arw-toggle-container">
+                                        <div class="mini-cart-header arw-mini-cart-header arw-toggle-control">
+                                            <div class="mobile-menu" id="icon-nav">
+    <div class="bag-icon-wrap">
+      <label for="off-canvas-right-check" id="mini-cart-icon">
+        <i class="fa fa-shopping-cart"></i>
+        <span class="total-badge" id="total-badge-icon">0</span>
+      </label>
+    </div>
+ 
+</div>
+
+
+
+
+
+                                        </div>
+                                    </div> 
+                                    <label for="off-canvas-right-check">
+                                        <span style="display:none;" id="hidden_offcanvas_opener"></span>
+                                                                                                
+
+                            </label></div> 
+
+                            
+                    <div class="header-top-right-inner">
+                        <div class="header-top-link">
+                            <ul class="header-top-link-ul">
+                                                                <li>
+                                    <!--if not logged in --> 
+                                    <span class="account-link-text not-logged-in">
+                                        <a href="https://www.wineawesomeness.com/customer/account/">Log In</a>
+                                    </span>
+                                    <a id="not-logged-in-mobile-link" href="https://www.wineawesomeness.com/customer/account/"><i class="fa fa-user account-link-icon" aria-hidden="true"></i>
+                                    </a>
                                 </li>
-                            <li class="cms_page">
-                                    <strong>Privacy Policy</strong>
-                                                </li>
-                    </ul>
-    </nav>
-</div>
-            <div class="category"></div>            <div class="clear"></div>
+                                    
+                                
+                                                            </ul>
+                        </div>
+                        <div class="header-social">
+                             
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="clear"></div>
     </div>
+    <div id="header">
+        <div class="container">
+            <div class="header-wrapper">
+                <nav class="nav-primary-container clearfix">
+                    <div class="wrap-nav">
+                        <div class="sticky-logo">
+                            <a href="https://www.wineawesomeness.com/" title="WineAwesomeness"><img src="https://skin.wineawesomeness.com/frontend/base/default/images/wa_logo_black.png" alt="WineAwesomeness"></a>
+                        </div>
+                         
+
+<div class="nav-container hidden-xs">
+    <ul id="arw_nav" class="megamenu">
+                <li class="level0 home level-top  m-dropdown ">
+            <a href="https://www.wineawesomeness.com/" class="level-top"><span>Home</span></a>
+        </li><!--
+                --><li class=" level0 no-child nav-1 level-top first menu-style-group">
+<a class="level-top" href="https://www.wineawesomeness.com/become-a-member.html">
+<span>Membership</span>
+</a>
+</li><li class=" level0 nav-2 level-top m-dropdown menu-style-dropdown parent parent">
+<a href="https://www.wineawesomeness.com/wine-shop.html" class="level-top">
+<span>Wine Shop</span>
+</a>
+<div class="dropdown sub-wrapper shown-sub" style="display:none; height:auto;">
+<div class="arwmenu-block arwmenu-block-center menu-items grid12-12 itemgrid itemgrid-4col">
+<ul class="level0">
+<li class=" level1 item classic nav-2-1 first">
+<a href="https://www.wineawesomeness.com/wine-shop/just-in.html">
+<span>Just In</span>
+</a>
+</li><li class=" level1 item classic nav-2-2">
+<a href="https://www.wineawesomeness.com/wine-shop/featured.html">
+<span>Featured</span>
+</a>
+</li><li class=" level1 item classic nav-2-3 m-dropdown">
+<a href="https://www.wineawesomeness.com/wine-shop/accessory-packs.html">
+<span>Accessory Packs</span>
+</a>
+</li><li class=" level1 item classic nav-2-4">
+<a href="https://www.wineawesomeness.com/wine-shop/last-call.html">
+<span>Last Call</span>
+</a>
+</li><li class=" level1 item classic nav-2-5 last parent">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes.html">
+<span>Past Themes</span>
+</a>
+<div class="sub-wrapper shown-sub" style="display:none; height:auto;">
+<ul class="level1">
+<li class=" level2 nav-2-5-1 first">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/october-17.html">
+<span>Book Club</span>
+</a>
+</li><li class=" level2 nav-2-5-2">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/september-17.html">
+<span>Burgers</span>
+</a>
+</li><li class=" level2 nav-2-5-3">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/august-17.html">
+<span>Unsung Heroes</span>
+</a>
+</li><li class=" level2 nav-2-5-4">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/july-17.html">
+<span>West Coast, Best Coast</span>
+</a>
+</li><li class=" level2 nav-2-5-5">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/june-17.html">
+<span>Summer Vibes</span>
+</a>
+</li><li class=" level2 nav-2-5-6">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/may-17.html">
+<span>Chocolate and Wine</span>
+</a>
+</li><li class=" level2 nav-2-5-7">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/april-17.html">
+<span>Portugal</span>
+</a>
+</li><li class=" level2 nav-2-5-8 last">
+<a href="https://www.wineawesomeness.com/wine-shop/past-themes/march-17.html">
+<span>Behind the Scenes</span>
+</a>
+</li>
+</ul>
 </div>
-    <div class="container_12">    
-        <div class="main-container main-main-container col1-layout">
-            <div class="grid_12 col-main">
-                                    <div class="page-title">
+</li>
+</ul>
+</div>
+</div>
+</li><li class=" level0 nav-3 level-top m-dropdown menu-style-dropdown parent parent">
+<a href="https://www.wineawesomeness.com/accessories.html" class="level-top">
+<span>Accessories &amp; More</span>
+</a>
+<div class="dropdown sub-wrapper shown-sub" style="display:none; height:auto;">
+<div class="arwmenu-block arwmenu-block-center menu-items grid12-12 itemgrid itemgrid-4col">
+<ul class="level0">
+<li class=" level1 item classic nav-3-1 first">
+<a href="https://www.wineawesomeness.com/accessories/new-arrivals.html">
+<span>New Arrivals</span>
+</a>
+</li><li class=" level1 item classic nav-3-2 m-dropdown">
+<a href="https://www.wineawesomeness.com/accessories/apparel.html">
+<span>Apparel</span>
+</a>
+</li><li class=" level1 item classic nav-3-3">
+<a href="https://www.wineawesomeness.com/accessories/wine-openers.html">
+<span>Openers</span>
+</a>
+</li><li class=" level1 item classic nav-3-4">
+<a href="https://www.wineawesomeness.com/accessories/glassware.html">
+<span>Glassware</span>
+</a>
+</li><li class=" level1 item classic nav-3-5">
+<a href="https://www.wineawesomeness.com/accessories/storage.html">
+<span>Storage</span>
+</a>
+</li><li class=" level1 item classic nav-3-6">
+<a href="https://www.wineawesomeness.com/accessories/tabletop.html">
+<span>Tabletop</span>
+</a>
+</li><li class=" level1 item classic nav-3-7">
+<a href="https://www.wineawesomeness.com/accessories/serverware.html">
+<span>Serveware</span>
+</a>
+</li><li class=" level1 item classic nav-3-8">
+<a href="https://www.wineawesomeness.com/accessories/picnic.html">
+<span>Picnic / On-the-Go</span>
+</a>
+</li><li class=" level1 item classic nav-3-9 last">
+<a href="https://www.wineawesomeness.com/accessories/aerators-pourers.html">
+<span>Aerators &amp; Pourers</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li><li class=" level0 nav-4 level-top m-dropdown menu-style-dropdown parent parent">
+<a href="https://www.wineawesomeness.com/gift-boxes.html" class="level-top">
+<span>Gifts</span>
+</a>
+<div class="dropdown sub-wrapper shown-sub" style="display:none; height:auto;">
+<div class="arwmenu-block arwmenu-block-center menu-items grid12-12 itemgrid itemgrid-4col">
+<ul class="level0">
+<li class=" level1 item classic nav-4-1 first">
+<a href="https://www.wineawesomeness.com/gift-boxes/prepaid-memberships.html">
+<span>Prepaid Memberships</span>
+</a>
+</li><li class=" level1 item classic nav-4-2">
+<a href="https://www.wineawesomeness.com/gift-boxes/gift-cards-wa.html">
+<span>Gift Cards</span>
+</a>
+</li><li class=" level1 item classic nav-4-3 last">
+<a href="https://www.wineawesomeness.com/gift-boxes/redeem-a-gift-wa.html">
+<span>Redeem a Gift</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li><li class=" level0 nav-5 level-top m-dropdown menu-style-dropdown last parent parent">
+<a href="https://www.wineawesomeness.com/thebacklabel.html" class="level-top">
+<span>thebacklabel</span>
+</a>
+<div class="dropdown sub-wrapper shown-sub" style="display:none; height:auto;">
+<div class="arwmenu-block arwmenu-block-center menu-items grid12-12 itemgrid itemgrid-4col">
+<ul class="level0">
+<li class=" level1 item classic nav-5-1 first">
+<a href="https://www.wineawesomeness.com/thebacklabel/education.html">
+<span>Education</span>
+</a>
+</li><li class=" level1 item classic nav-5-2">
+<a href="https://www.wineawesomeness.com/thebacklabel/lifestyle.html">
+<span>Lifestyle</span>
+</a>
+</li><li class=" level1 item classic nav-5-3">
+<a href="https://www.wineawesomeness.com/thebacklabel/videos.html">
+<span>Videos</span>
+</a>
+</li><li class=" level1 item classic nav-5-4 last">
+<a href="https://www.wineawesomeness.com/thebacklabel/recipes.html">
+<span>Recipes</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li><!--    --></ul>
+</div>
+<script type="text/javascript">
+    jQuery(function(){
+        jQuery(".megamenu").megamenu({
+            //'animation':'show',
+            'animation' : 'fade',
+            'mm_timeout': 0
+        });
+    });
+</script>
+
+<!-- navigation EOF -->                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+                <div class="main-container col1-layout">
+            <div class="arw-page-title">
+                                                    <div class="product-view">
+                        <div class="arw_breadcrumbs">
+                            <div class="breadcrumb-container"><div class="breadcrumbs">
+    <ul>
+                    <li class="home">
+                            <a href="https://www.wineawesomeness.com/" title="Go to Home Page">Home</a>
+                                        <span><i class="fa fa-angle-right"></i></span>
+                        </li>
+                    <li class="cms_page">
+                            Privacy Policy                                    </li>
+            </ul>
+</div>
+</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="main">
+                                <div class="container">
+                    <div class="row">
+                        <div class="col-main col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                                            <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
 <div class="std"><h3>Privacy Policy</h3>
@@ -414,214 +1560,207 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <p>&nbsp;</p>
 <p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to support@wineawesomeness.com twitter: @wineawesomeness Chat Support Available M-F 10-5.</p>
 <p>&nbsp;</p>
-<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p></div>            </div>
-            <div class="clear"></div>
-        </div>    
-    </div>
-</div>
-<footer id="footer">
-    <div class="content-wrapper none ">
-        <div class="footer-top-wrapper">
-            <div class="container_12">
-                <div class="grid_12">
-                   <!--
-                    <div class="checkpoint-5-button"></div>
-                    <div class="grid_3 alpha">
-    <section class="block-subscribe"> 
-        <h3>Key Knowledge</h3> 
-        <form action="https://wineawesomeness.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
-            <div class="block-content">
-                <p>
-                    <label for="newsletter">Knowing is half the battle:</label>
-                </p>
-                <div class="input-box">
-                    <input type="text" name="email" placeholder="I-need-it-now@example.com" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email" />
+<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p></div>                                                    </div>
+                    </div>
                 </div>
-                <button type="submit" title="Turn it on" class="button"><span><span>Born Ready</span></span></button>
-                <div class="clear"></div>
-            </div>
-        </form>
-        <script type="text/javascript">
-        //<![CDATA[
-            var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-        //]]>
-        </script>
-    </section>
-</div>                    -->
-                    <div class="custom-footer"><p style="text-align: center;"><span style="font-size: large;">As seen on</span><img style="display: block; margin-left: auto; margin-right: auto;" src="http://wineawesomeness.com/media/wysiwyg/logoboard.png" alt="as seen in"></p></div>                    <div class="clear"></div>
-                </div>
-                <div class="clear"></div>
             </div>
         </div>
-    </div>
-    <div class="footer-links-wrapper" id="checkpoint-5">
-        <div class="container_12">
-            <div class="grid_12">
-                                <div class="footer-links-box">
-                                                        </div>
-                <div class="clear"></div>
-            </div>
-            <div class="clear"></div>
-        </div>
-    </div>
-    <div class="footer-columns-wrapper">
-        <div class="container_12">
-            <div class="grid_12">
-                <div class="grid_3 alpha">
-<h3><img src="http://wineawesomeness.com/media/wysiwyg/bottle-sun_1.png" alt=""></h3>
-<div class="custom-footer-content">
+                <footer class="footer-container">
+    <div class="arw_sebian_block_footer"><div class="widget widget-static-block"><!-- <div class="arw_sebian_block_footer_top">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="footer-logo text-center"><a title="ARW Sebian" href="https://www.wineawesomeness.com/"><img style="width: 35%;" title="Wine Awesomeness" alt="Wineawesomeness" src="https://media.wineawesomeness.com/wysiwyg/wa_logos/horizontal_light.png" /></a></div>
+</div>
+</div>
+</div>
+</div>--></div>
+ <div class="widget widget-static-block"><div class="arw_sebian_block_footer_bottom">
+<div class="container">
+<div class="row">
+<div class="arw-col col-xs-12 col-sm-3 col-md-3 col-lg-3"><div class="widget widget-static-block"><div class="footer-block">
+<div class="footer-block-title"><span>Wine Awesomeness</span></div>
 <ul>
-<li><span class="widget widget-category-link-inline"><a href="http://wineawesomeness.com/shop-wine.html?___store=default" title="Past Wines"><span>Past Wines</span></a></span>
-</li>
-<li><span class="widget widget-product-link-inline"><a href="http://wineawesomeness.com/discovery-membership-box-156.html?___store=default" title="WA Membership"><span>WA Membership</span></a></span>
-</li>
-<li><a href="http://wineawesomeness.com/select-gift.html">Give a Gift</a></li>
-<li><span class="widget widget-cms-link"><a href="http://wineawesomeness.com/manifesto" title="Manifesto"><span>Manifesto</span></a></span>
-</li>
-<li><a href="http://thebacklabel.com">The Backlabel</a></li>
+<!--<li><a href="https://wineawesomeness.com/about-us/">About Us</a></li>-->
+<li><a href="https://wineawesomeness.com/become-a-member.html">Membership</a></li>
+<li><a href="https://wineawesomeness.com/wine-shop.html/">Wine Shop</a></li>
+<li><a href="https://wineawesomeness.com/gift-boxes.html/">Gifts</a></li>
+<li><a href="https://thebacklabel.com/">thebacklabel</a></li>
 </ul>
-<div class="clear">&nbsp;</div>
+</div></div>
 </div>
-</div>
-<div class="grid_3">
-<h3><img src="http://wineawesomeness.com/media/wysiwyg/glass-atom_1.png" alt=""></h3>
-<div class="custom-footer-content">
+<div class="arw-col col-xs-12 col-sm-3 col-md-3 col-lg-3"><div class="widget widget-static-block"><div class="footer-block">
+<div class="footer-links">
+<div class="footer-block-title"><span>Resources</span></div>
 <ul>
-<li><a onclick="script: Zenbox.show(); return false;" href="http://wineawesomeness.zendesk.com/account/dropboxes/2830039812">Support</a></li>
-<li><a href="http://wineawesomeness.com/customer/account/login/">Login</a></li>
-<li><span class="widget widget-cms-link"><a href="http://wineawesomeness.com/terms" title="Terms"><span>Terms</span></a></span>
-</li>
-<li><a href="http://wineawesomeness.com/faq">FAQs</a></li>
-<li><a href="http://wineawesomeness.com/gifts/wa-holiday-card.pdf">Printable Gift Card</a>
-</li></ul>
-<div class="clear">&nbsp;</div>
-</div>
-</div>
-<div class="grid_3">
-<h3><img src="http://wineawesomeness.com/media/wysiwyg/glass-atom_1.png" alt=""></h3>
-<div class="custom-footer-content">
-<ul>
-<li><span class="widget widget-cms-link-inline"><a href="http://wineawesomeness.com/refer" title="Referral Program"><span>Refer a Friend</span></a></span>
-</li>
-<li><a href="http://thebacklabel.com/category/education/">Wine Education</a></li>
-<li><a href="http://thebacklabel.com/category/lifestyle/">Lifestyle</a></li>
-<li><a href="http://thebacklabel.com/category/provisions/">Provisions</a></li>
-<li><a href="http://thebacklabel.com/category/provisions/recipes/">Recipes</a></li>
+<li><a href="http://support.wineawesomeness.com/hc/en-us" target="_blank">FAQ</a></li>
+<li><a href="http://support.wineawesomeness.com/hc/en-us" target="_blank">Customer Service</a></li>
+<li><a href="https://support.wineawesomeness.com/hc/en-us/requests/new">Contact Us</a></li>
+<li><a href="https://wineawesomeness.com/privacy-policy-cookie-restriction-mode">Privacy</a></li>
+<li><a href="https://wineawesomeness.com/terms">Terms &amp; Conditions</a></li>
 </ul>
-<div class="clear">&nbsp;</div>
 </div>
+</div></div>
 </div>
-<div class="grid_3 omega">
-<h3><img src="http://wineawesomeness.com/media/wysiwyg/new-wa-logo.png" alt=""></h3>
-<div class="custom-footer-content">
+<div class="arw-col col-xs-12 col-sm-3 col-md-3 col-lg-3"><div class="widget widget-static-block"><div class="footer-block">
+<div class="footer-links">
+<div class="footer-block-title"><span>Inquiries</span></div>
 <ul>
-<li>Chat Support Available M-F 11-4</li>
-<li>Email Support Available M-F 11-4</li>
-<li><span>support@wineawesomeness.com</span></li>
-<li><span>@wineawesomeness</span></li>
+<li><a href="https://wineawesomeness.com/partnerships/">Partner with Us</a></li>
+<li><a href="http://www.shareasale.com/shareasale.cfm?merchantID=65459" target="_blank">Become an Affiliate</a></li>
+<li><a href="https://wineawesomeness.com/corporate-accounts/">Corporate Orders</a></li>
 </ul>
-<div class="clear">&nbsp;</div>
 </div>
-</div>                            </div>
-            <div class="clear"></div>
-        </div>
+</div></div>
+</div>
+<div class="block block-subscribe arw-col col-xs-12 col-sm-3 col-md-3 col-lg-3">
+    <div class="footer-block-title"><span>Get our Emails</span>
     </div>
-    <div class="footer-bottom-wrapper">
-        <div class="container_12">
-            <div class="grid_12">
-                <p>Wine Awesomeness Inc. Property | <span class="widget widget-cms-link-inline"><a href="http://wineawesomeness.com/privacy-policy-cookie-restriction-mode" title="Privacy Policy"><span>Privacy Policy</span></a></span>
-                </p><div class="indent">
-                    <address>© 2014 Wine Awesomeness Inc.</address>
-                                    </div>
-                <div class="clear"></div>
+    <form action="https://www.wineawesomeness.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail-1016808949">
+        <div class="block-content">
+            <div class="input-box">
+               <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
             </div>
-            <div class="clear"></div>
+            <div class="actions">
+                <button id="button-newsletter-validate-detail-1016808949" type="submit" title="Subscribe" class="button"><span><span>Sign Me Up!</span></span></button>
+            </div>
         </div>
-    </div>
-    <!-- Begin Google Code for Remarketing Tag -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1005466296;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail-1016808949',false);
+        $('newsletter-validate-detail-1016808949').observe('submit', function(){
+            setCookieForEmailSubmit();
+            setTimeout(function(){
+                newsletterSubscriberFormDetail.validator.reset();
+            },5000);
+        }.bind(newsletterSubscriberFormDetail));
+    //]]>
+
+        (function() {
+            var rScix = document.createElement('script');
+            rScix.type = 'text/javascript';
+            rScix.async = true;
+            rScix.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'd1stxfv94hrhia.cloudfront.net/waves/v2/w.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(rScix);
+        })();
+    
+        var _rsq = _rsq || [];
+        _rsq.push(['_setSiteId', '228']); // required (Site ID provided by RS)
+        _rsq.push(['_observeEmailField', 'newsletter']);
+        _rsq.push(['_enableOnsite']); // on-site campaign setting
+        _rsq.push(['_setAction', 'email_entered']); // example event action call because user is on home page “viewing”
+        _rsq.push(['_track']);
+    </script>
+
+</div>
+
+<script>
+(function() {
+            var rScix = document.createElement('script');
+            rScix.type = 'text/javascript';
+            rScix.async = true;
+            rScix.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'd1stxfv94hrhia.cloudfront.net/waves/v2/w.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(rScix);
+        })();
+    
+        var _rsq = _rsq || [];
+        _rsq.push(['_setSiteId', '228']); // required (Site ID provided by RS)
+        _rsq.push(['_observeEmailField', 'newsletter']);
+        _rsq.push(['_enableOnsite']); // on-site campaign setting
+        _rsq.push(['_setAction', 'email_entered']); // example event action call because user is on home page “viewing”
+        _rsq.push(['_track']);
 </script>
 
-<script type="text/javascript">
-adroll_adv_id = "I7RGGWNB5ZFY5KTFXVMRUH";
-adroll_pix_id = "JHIJM4LMVZAZVHWPX4MYGN";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
+</div>
+</div>
+</div></div>
+</div>    <div class="footer-copyright">
+        <div class="container">
+            <div class="row copyright-row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="wrapper-copyright">
+                        <address>© 2017 Wine Awesomeness Inc.</address>
+                        <div class="store-switcher">
+    <label for="select-store">Select Store</label>
+    <select onchange="setLocation(this.value);">
+                    <option value="" selected="selected">Main Website Store</option>
+                    <option value="https://tnrwines.com/?___store=tnr_wine">New Republic Store</option>
+                    <option value="https://theskimm.wineawesomeness.com/?___store=skimm_wine">Skimm Store</option>
+            </select>
+</div>
+                    </div>
+                    <div class="wrapper-social">
+                        <div class="footer-social-media-link">
+	<!--facebook-->
+	<span class="social-media-icon">
+		<a href="https://facebook.com/wineawesomeness" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i></a>
+	</span>
 
-<script type="text/javascript">
-  (function() {
-    window._pa = window._pa || {};
-    // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
-    // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
-    // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
-    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/535fce0148594461620000e7.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
-  })();
-</script>
+	<!--twitter-->
+	<span class="social-media-icon">
+		<a href="https://twitter.com/wineawesomeness" target="_blank"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a>
+	</span>
+
+	<!--instagram-->
+	<span class="social-media-icon">
+		<a href="https://instagram.com/wineawesomeness" target="_blank"><i class="fa fa-instagram fa-lg" aria-hidden="true"></i></a>
+	</span>
+
+	<!--youtube-->
+	<span class="social-media-icon">
+		<a href="https://youtube.com/wineawesomeness" target="_blank"><i class="fa fa-youtube fa-lg" aria-hidden="true"></i></a>
+	</span>
+
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
                 
 
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1005466296/?value=0&amp;guid=ON&amp;script=0"/>
+
+
+<!-- Start of Zendesk Widget script -->
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","wineawesomeness.zendesk.com");/*]]>*/</script>
+<!-- End of Zendesk Widget script --><!-- nothing here yet -->    </div>
 </div>
-</noscript>
-<!-- End Google Code for Remarketing Tag -->
-</footer><!-- Universal Analytics Start -->
-     <script type="text/javascript">
+</div>
+</div>
+<!-- Start of wineawesomeness Zendesk Widget script -->
+<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="wineawesomeness.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
+/*]]>*/</script>
+<!-- End of wineawesomeness Zendesk Widget script -->
 
-         (window.gaDevIds=window.gaDevIds||[]).push('B7gQME');
+<!-- Hotjar Tracking Code for www.wineawesomeness.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:89255,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '510680039034993', {
+});
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=510680039034993&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
 
-         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-         ga('create', 'UA-30935805-1','auto');
-         ga('require', 'ec');
-         ga('require', 'displayfeatures');
 
-         ga("set", "&cu", "USD");
-
-                  
-                  ga('send', 'pageview');
-
-                      </script>
-<!-- Universal Analytics End -->
-<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
-<style type="text/css" media="screen, projection">
-  @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
-</style>
-<script type="text/javascript">
-  if (typeof(Zenbox) !== "undefined") {
-    Zenbox.init({
-      dropboxID:   "20212906",
-      url:         "https://wineawesomeness.zendesk.com",
-      tabTooltip:  "Help",
-      tabImageURL: "https://assets.zendesk.com/external/zenbox/images/tab_help_right.png",
-      tabColor:    "#0396ED",
-      tabPosition: "Right",
-      hide_tab: "true",
-    });
-  }
-</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"df38db2261","applicationID":"5519909","transactionName":"ZFZVZRdRChYFVEZZC10cdlIRWQsLS1RfQ0tDUlBUSkYNABM=","queueTime":0,"applicationTime":331,"atts":"SBFWE19LGRg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
