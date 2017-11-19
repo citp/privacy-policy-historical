@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebesucher.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608215735id_/https%3A//www.ebesucher.com/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebesucher.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120003535id_/http%3A//www.ebesucher.com/datenschutz.html) for the most accurate reproduction.*
 
-# eBesucher: Earn money with our visitor- and mail exchange
+# eBesucher: Earn money with our mail and traffic exchange
 
 We appreciate your interest in our website. Protecting your privacy is very important to us. Therefore, we would like to inform you regarding the way we would use your personal data. 
 
