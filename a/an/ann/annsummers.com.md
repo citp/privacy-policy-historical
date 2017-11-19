@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annsummers.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630014345id_/http%3A//www.annsummers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annsummers.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119121755id_/http%3A//www.annsummers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Ann Summers | Privacy Policy
 
@@ -55,6 +55,8 @@ We also process your payment card details in order to complete any purchase that
 
 In addition, we may collect anonymous details about visitors to our Website for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymous details that we collect for these purposes.
 
+Our web site may also use the SessionCam web site recording service. SessionCam is a product that has been developed by SesionCam LTD, SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include bank details or any sensitive personal data. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting.
+
 ### Microsites
 
 Ann Summers has partnered with certain trusted third parties to make available certain additional third party products, services and information to you, including:
@@ -63,11 +65,9 @@ Ann Summers has partnered with certain trusted third parties to make available c
 
 [www.jacquelinegold.com](http://www.jacquelinegold.com/)
 
-[www.facebook.com/AnnSummersOfficial](http://www.facebook.com/AnnSummersOfficial)
+[www.facebook.com/AnnSummersOfficial](https://www.facebook.com/AnnSummersOfficial)
 
-<http://twitter.com/ann_summers>
-
-[www.sexyuncovered.com](http://www.sexyuncovered.com/)
+<https://www.twitter.com/AnnSummers>
 
 Each of these third party products and services can be accessed online through the relevant third party's "microsite". A microsite is a website that is owned and operated by Ann Summers or a third party but and can be accessed from links on the main Ann Summers Website. Alternatively, you can visit a microsite by clicking on the links above.
 
@@ -87,7 +87,7 @@ If you have agreed that we can contact you for marketing purposes we may send yo
 
 ### Cookies
 
-This Website uses cookies to collect information about you. Cookies are small data files which are placed on your computer or other device by this Website and which collect certain personal data about you. This enables us to tailor our service offering (including the Website) to provide you with products and services which are more relevant to your individual tastes. You may change your website browser settings to reject cookies, although please note that if you do this it may impair the functionality of the Ann Summers website. Ann Summers has relationships with carefully selected and monitored suppliers to assist in the delivery of a high quality website. Some of these suppliers may also set cookies during your visit in order to meet contractual obligations with Ann Summers (Supplier Cookies). Both Ann Summers and Supplier cookies do not store any personal information relating to you or your credit cards. We also use JavaScript to speed up your online shopping experience. For further information about cookies, including how to refuse cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+This Website uses cookies to collect information about you. Cookies are small data files which are placed on your computer or other device by this Website and which collect certain personal data about you. This enables us to tailor our service offering (including the Website) to provide you with products and services which are more relevant to your individual tastes. You may change your website browser settings to reject cookies, although please note that if you do this it may impair the functionality of the Ann Summers website. Ann Summers has relationships with carefully selected and monitored suppliers to assist in the delivery of a high quality website. Some of these suppliers may also set cookies during your visit in order to meet contractual obligations with Ann Summers (Supplier Cookies). Both Ann Summers and Supplier cookies do not store any personal information relating to you or your credit cards. We also use JavaScript to speed up your online shopping experience. For further information about cookies, including how to refuse cookies, please visit [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
 ### Changes in Laws Regarding Cookies
 
@@ -132,4 +132,4 @@ Ann Summers is an ISIS accredited retailer and annsummers.com is verified as an 
 
 ### Updates to this Policy
 
-This privacy policy was last updated in November 2011. Please check back regularly to keep informed of updates to this privacy policy.
+This privacy policy was last updated in August 2017. Please check back regularly to keep informed of updates to this privacy policy.
