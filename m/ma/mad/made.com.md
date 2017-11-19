@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the made.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613183136id_/http%3A//www.made.com/our-cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119210904id_/https%3A//www.made.com/our-cookie-and-privacy-policy) for the most accurate reproduction.*
 
-# Our Cookie and Privacy Policy | made.com
+# Our Cookie and Privacy Policy | MADE.com
 
 ## I. PRIVACY POLICY
 
@@ -108,9 +108,9 @@ Last updated: 14 October 2016
 
 ###  5\. MARKETING AND ADVERTISING 
 
-5.1 Email Marketing - From time to time we may contact you by email with information about our products and services. If you do not want us to send you email marketing, please let us know by sending an email to us at contact@made.com. You can also unsubscribe from our marketing emails by clicking on the unsubscribe link (where available) in the emails we send to you. 
+5.1 Email Marketing - From time to time we may contact you by email with information about our products and services. If you do not want us to send you email marketing, please let us know by sending an email to us at privacy@made.com. You can also unsubscribe from our marketing emails by clicking on the unsubscribe link (where available) in the emails we send to you. 
 
-5.2 Email Notifications On Behalf of Users – We may send you notifications that users may wish to contact you about purchases you have made through our site. If you wish to speak to the user, you may do so by signing up to Unboxed. If you do not want us to send these notifications, please let us know by sending an email to us at contact@made.com. 
+5.2 Email Notifications On Behalf of Users – We may send you notifications that users may wish to contact you about purchases you have made through our site. If you wish to speak to the user, you may do so by signing up to Unboxed. If you do not want us to send these notifications, please let us know by sending an email to us at privacy@made.com. 
 
 5.3 Email Notifications About Your Order or Changes to the Services We Provide - We may send you email notifications in relation to your order or changes to the way we provide our services to you. 
 
@@ -142,7 +142,7 @@ Last updated: 14 October 2016
 
 ###  11\. CONTACTING US 
 
-11.1 Questions, comments and requests regarding this Privacy Policy are welcome and should be addressed to [contact@made.com](mailto:contact@made.com) or Made.com Design Limited, 100 Charing Cross Road, London WC2H 0JG, Attn: Privacy Officer. 
+11.1 Questions, comments and requests regarding this Privacy Policy are welcome and should be addressed to [privacy@made.com](mailto:privacy@made.com) or Made.com Design Limited, 100 Charing Cross Road, London WC2H 0JG, Attn: Privacy Officer. 
 
 ##  II. COOKIE POLICY 
 
@@ -210,9 +210,9 @@ The length of time a cookie will stay on your browsing device depends on whether
 
 You can usually use the browser that you are viewing this website through to enable, disable or delete cookies. To do this, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” settings). Please note that if you set your browser to disable cookies, you may not be able to access secure areas of the website and other parts of the website may also not work properly. 
 
-You can find out more information about how to change your browser cookie settings at [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+You can find out more information about how to change your browser cookie settings at [www.allaboutcookies.org](https://www.allaboutcookies.org/). 
 
-Some third parties may use Advertising Cookies to help gather information about your browsing activity so that they can deliver website advertising to you that is relevant to your interests. The advertising industries in EU have developed schemes to help you opt-out of receiving cookies used for these purposes. You can find out more about the EU scheme from [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
+Some third parties may use Advertising Cookies to help gather information about your browsing activity so that they can deliver website advertising to you that is relevant to your interests. The advertising industries in EU have developed schemes to help you opt-out of receiving cookies used for these purposes. You can find out more about the EU scheme from [www.youronlinechoices.eu](https://www.youronlinechoices.eu/). 
 
 ###  8\. CHANGES 
 
@@ -220,7 +220,7 @@ Information about the cookies used by us may be updated from time to time, so pl
 
 ###  9\. QUESTIONS? 
 
-If you have any questions about this Cookie Policy, please contact us by email at contact@made.com 
+If you have any questions about this Cookie Policy, please contact us by email at privacy@made.com 
 
 ##  III. COOKIES USED BY MADE.COM 
 
@@ -1381,7 +1381,7 @@ Session
 
 | 
 
-Unique sale ID, tracks the point when a contact us form is clicked on the site. - See more at: http://www.worldpay.com/uk/worldpay-cookies#sthash.iyVI03IO.dpuf  
+Unique sale ID, tracks the point when a contact us form is clicked on the site. - See more at: //www.worldpay.com/uk/worldpay-cookies#sthash.iyVI03IO.dpuf  
   
 __distillery
 
@@ -3287,4 +3287,4 @@ Information about the cookies used by us may be updated from time to time, so pl
 
 ###  QUESTIONS 
 
-If you have any questions about our use of cookies, please contact us by email at [contact@made.com](mailto:contact@made.com). 
+If you have any questions about our use of cookies, please contact us by email at [privacy@made.com](mailto:privacy@made.com). 
