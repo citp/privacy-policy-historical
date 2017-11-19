@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ilovemyfreedom.org privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320015307id_/http%3A//ilovemyfreedom.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovemyfreedom.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119064752id_/https%3A//ilovemyfreedom.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - I Love My Freedom
+# Privacy Policy
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting us, you are accepting the privacy policy described below.
 
