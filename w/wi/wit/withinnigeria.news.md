@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the withinnigeria.news privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208064013id_/https%3A//www.withinnigeria.news/privacy-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withinnigeria.news privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119121359id_/https%3A//www.withinnigeria.news/privacy-protection) for the most accurate reproduction.*
 
-# PRIVACY PROTECTION - Within Nigeria
+# PRIVACY PROTECTION — Within Nigeria
 
 We respect our visitor’s privacy and it is very important to us.
 
@@ -8,11 +8,11 @@ This website and its owners take a proactive approach to user privacy and ensure
 
 This privacy policy indicates the types of personal information received and collected by our website and how it is used.
 
-##  **Log Files**
+## **Log Files**
 
 Like many other Web sites, WithinNigeria.news makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-##  **Cookies and Web Beacons**
+## **Cookies and Web Beacons**
 
 WithinNigeria.news does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
@@ -25,11 +25,11 @@ This website uses tracking software to monitor its visitors to better understand
 
 Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
-##  **Personal Information**
+## **Personal Information**
 
 We do not store any personal information such as email, phone numbers and address of non registered users, those who does not opt in to any form by themselves and we do not sell or redistribute the detail of our registered members.
 
-##  **Contact & Communication**
+## **Contact & Communication**
 
 Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
 
@@ -48,13 +48,13 @@ In compliance with Spam Laws and the Privacy and Electronic Communications Regul
 
 ## 3rd party data collection:
 
- **Adverts and Sponsored Links**
+**Adverts and Sponsored Links**
 
 This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
 
 Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
- **External Links**
+**External Links**
 
 Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website. (External links are clickable text / banner / image links to other websites, similar to; [Latest Music](http://soundhyper.com/) or [Foreign Music](http://soundhyper.com/category/music/foreign-music/).)
 
