@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619050351id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119180823id_/https%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
-# Bidder & Subscriber Privacy Policy | Invaluable
+# Bidder & Subscriber Privacy Policy
 
 INVALUABLE PRIVACY POLICY & COOKIES 
 
