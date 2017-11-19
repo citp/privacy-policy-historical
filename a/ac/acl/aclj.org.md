@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128172146id_/https%3A//aclj.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119015317id_/http%3A//www.aclj.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Center for Law and Justice
 
