@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyvan.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426040636id_/http%3A//www.anyvan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyvan.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120002846id_/https%3A//www.anyvan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnyVan
 
@@ -26,7 +26,7 @@ If you email a delivery listing to a friends, we will ask you for your friend's 
 
 We use your personal information, including your email address, to help facilitate our services to you. We use your personal information in the file we maintain about you, and other information we products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. We may examine your personal information to identify users using multiple User IDs. We may also compare and review your personal information for errors, omissions and for accuracy.
 
-You agree that we may use personal information, including your email address to help our marketing and promotional efforts. These uses improve the Site and better tailor it to meet your needs.
+You agree that we may use personal information, including your email address to help our marketing and promotional efforts. Your account information may also be shared with trusted third parties and affiliates. These uses improve the Site and better tailor it to meet your needs.
 
 #### COMPANY DETAILS
 
