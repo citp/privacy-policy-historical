@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thespectrum.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630140553id_/http%3A//www.thespectrum.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thespectrum.net privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119123649id_/http%3A//www.thespectrum.net/privacy) for the most accurate reproduction.*
 
 # SPECTRUM NEXUS · Privacy Policy
 
