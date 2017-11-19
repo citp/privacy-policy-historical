@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veezi.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622193439id_/http%3A//veezi.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veezi.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119205158id_/http%3A//www.veezi.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Veezi by Vista
 
