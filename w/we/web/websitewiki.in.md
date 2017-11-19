@@ -1,74 +1,49 @@
-> *The following text is extracted and transformed from the websitewiki.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045633id_/http%3A//www.websitewiki.in/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitewiki.in privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119162046id_/http%3A//websitewiki.in/privacy-policy) for the most accurate reproduction.*
 
-# Terms & Policies: WebsiteWiki.in
+# Privacy Policy - Website Wiki
 
-At www.websitewiki.in, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.websitewiki.in and how it is used.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin](mailto:admin@websitewiki.in).
 
-## Personal identification information
+At http://websitewiki.in we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://websitewiki.in and how we use it.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+**Log Files**  
+Like many other Web sites, http://websitewiki.in makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-## Non-personal identification information
+**Cookies and Web Beacons**  
+http://websitewiki.in uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**DoubleClick DART Cookie**
 
-## Web browser cookies
+→ Google, as a third party vendor, uses cookies to serve ads on http://websitewiki.in.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://websitewiki.in and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**Our Advertising Partners**
 
-## Third party websites
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:  [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://websitewiki.in._
 
-## How we use collected information
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://websitewiki.in and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-SeoToolsFree may collect and use Users personal information for the following purposes:
+http://websitewiki.in has no access to or control over these cookies that are used by third-party advertisers.
 
-  * **To improve customer service**
+**Third Party Privacy Policies**
 
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://websitewiki.in’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-  * **To personalize user experience**
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://websitewiki.in does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://websitewiki.in has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-  * **To improve our Site**
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-We may use feedback you provide to improve our products and services.
+**FTC Disclosure**
 
+This is a professional review site that at times, receives compensation from the companies whose products are reviewed. However, we make it a point to test each product thoroughly and give ratings only based on its performance, and don’t present any biased reviews in lieu of any kind of compensation; all opinions expressed here are personal, and totally unbiased.
 
-
-* **To send periodic emails**
-
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-## Log Files
-
-Like many other Web sites, www.websitewiki.in makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-## How we protect your information
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-## Sharing your personal information
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
-
-## Changes to this privacy policy
-
-SeoToolsFree has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-## Your acceptance of these terms
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-## Contacting us
-    
-    
-    If you have any questions about this Privacy Policy or any other dealings with this site, please contact us at:
-    **SeoToolsFree**
-    <http://www.websitewiki.in/contact/>
-    **support@websitewiki.in**
-    
-
-_This document was last updated on Oct 20, 2014_
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
