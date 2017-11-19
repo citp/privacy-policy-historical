@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pba.ph privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628050036id_/http%3A//pba.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pba.ph privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119230430id_/https%3A//pba.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PBA - The Official Website
 
 Please read Our Privacy Policy carefully and contact Us before submitting any personal information to Us, if You need clarification on any of the topics. This privacy policy applies only to information collected online. It does not apply to information collected by Us in any other way, including information submitted to Us offline.
 
-We value Your privacy. Your confidence in Us is Our main priority. This Privacy Policy sets out how We will process and use any personal data that You provide to Us, or that We may collect as a result of You visiting and using Our website and applications. Please read the following information to understand Our practices with regards to Your personal data and how We will treat it. We commit ourselves to protecting and respecting Your privacy. 
+We value Your privacy. Your confidence in Us is Our main priority. This Privacy Policy sets out how We will process and use any personal data that You provide to Us, or that We may collect as a result of You visiting and using Our website and applications. Please read the following information to understand Our practices with regards to Your personal data and how We will treat it. We commit ourselves to protecting and respecting Your privacy.
 
 **1\. What information do We collect?**  
 We may collect and process the following data: 
