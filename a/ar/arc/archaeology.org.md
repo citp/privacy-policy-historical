@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archaeology.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610234457id_/http%3A//www.archaeology.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archaeology.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119212248id_/https%3A//www.archaeology.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Archaeology Magazine
 
