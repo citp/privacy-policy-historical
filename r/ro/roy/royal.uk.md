@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royal.uk privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504042855id_/https%3A//www.royal.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royal.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119100911id_/https%3A//www.royal.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Royal Family
 
