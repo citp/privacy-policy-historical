@@ -1,886 +1,1359 @@
-<!--The following is the downloaded HTML source of the trainsignal.com privacy policy that was archived on 2014-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624023207id_/http%3A//www.pluralsight.com/training/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainsignal.com privacy policy that was archived on 2017-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119204202id_/https%3A//www.pluralsight.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us" itemscope="" itemtype="http://schema.org/Product" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="//widget.uservoice.com/MgRuFTmArYOqweeXBEbikg.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBT42N"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"2700af8a3c","applicationID":"1904576","transactionName":"Z1ZRN0EDCEMDABVYWl4cdwxHLANEIQwPRUdfX18GQU0nUg0WFR5lQlpFAlAb","queueTime":0,"applicationTime":57,"ttGuid":"A40CC697586A0F96","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwUGVl5VGwIJVFVXAAc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-        <link rel="icon" href="/favicon.ico" type="image/x-icon">
-        <meta property="fb:admins" content="593788523">
-        <meta property="og:locale" content="en_US">
-        <meta property="fb:app_id" content="124287802856">
-        
-    
-
-        <title>Privacy</title>
-            <link href="http://s.pluralsight.com/mn/css/ag/psminified.min-ve2aeeb66903555bcea75878ab9437446de47564f.css" rel="stylesheet" type="text/css">
-        
-        <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-        
-        
-        <meta name="google-site-verification" content="_cvrv6mat5GZ0mKcbRiNv9eqNi76R11BRgHBIj0_OcQ">
-        
-    
-
-        
-    <link rel="stylesheet" type="text/css" href="http://s.pluralsight.com/mn/css/sh/secondary-v8.css">
-    
-
-            <script src="http://s.pluralsight.com/mn/js/ag/psminified.min-v500a2d681ea76d2e23daa36ab70e8fc906dd9166.js" type="text/javascript"> </script>
-        <script type="text/javascript" src="//use.typekit.com/ugj2rjz.js"> </script>
-        <script type="text/javascript">
-            try {
-                Typekit.load();
-            } catch(e) {
-            }
-        </script>
-
-        
-    
-
-            <script src="//cdn.optimizely.com/js/1252788015.js"></script>
-
-    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-    <body>
-        
-<!-- Google Tag Manager -->
-<noscript>
-    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TBT42N" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<script>
-    (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-TBT42N');
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords">
+<meta name="description" content="View the official Pluralsight privacy policy.">
+<meta property="og:description" content="View the official Pluralsight privacy policy.">
+<meta name="twitter:description" content="View the official Pluralsight privacy policy.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@pluralsight">
+<meta property="og:image" content="https://www.pluralsight.com/content/dam/pluralsight/images/heroes_backgrounds/dark/PLSGHT%20WEB%20PHOTO%20126%20dark.jpg">
+<meta name="twitter:image" content="https://www.pluralsight.com/content/dam/pluralsight/images/heroes_backgrounds/dark/PLSGHT%20WEB%20PHOTO%20126%20dark.jpg">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.pluralsight.com/privacy">
+<script src="/etc/clientlibs/pluralsight/main/js/jquery-3.2.1.min.js.pagespeed.jm.Y8jX7FH_5H.js"></script>
+<link rel="stylesheet" href="/etc/clientlibs/pluralsight/A.uber.min.dd1d8891fd0659ba730018ffb50b4060.css.pagespeed.cf.N-SkXe_c6Q.css" type="text/css">
+<script type="text/javascript">function getParameterByName(e,t){t||(t=window.location.href),e=e.replace(/[\[\]]/g,"\\$&");var a=new RegExp("[?&]"+e+"(=([^&#]*)|&|#|$)").exec(t);return a?a[2]?decodeURIComponent(a[2].replace(/\+/g," ")):"":null}var appHost="stage.pluralsight.com"==window.location.host?"https://app-stage.pluralsight.com":"https://app.pluralsight.com",pagePath=window.location.pathname,redirectPath="";"/"!=pagePath&&0!=pagePath.indexOf("/courses/")&&0!=pagePath.indexOf("/authors/")&&0!=pagePath.indexOf("/paths/")||-1!=document.URL.indexOf("show=home")?0==pagePath.indexOf("/product/channels")&&-1==document.URL.indexOf("show=home")&&(redirectPath="/channels",document.URL.indexOf("cid=")>-1&&(redirectPath="/channels/details/"+getParameterByName("cid"))):redirectPath=pagePath.replace("/authors/","/author/").replace("/paths/","/paths/skill/"),document.cookie.indexOf("www-status-production=1")>-1&&-1==document.cookie.indexOf("ps-abandon-cart")&&"www.pluralsight.com"==window.location.host||document.cookie.indexOf("www-status-staging=1")>-1&&-1==document.cookie.indexOf("ps-abandon-cart")&&"stage.pluralsight.com"==window.location.host?""!=redirectPath?window.location=appHost+redirectPath:$(document).ready(function(){var e=appHost+"/id/dashboard",t=jQuery(".header_sign_up_link");t.text("My Dashboard"),t.attr("href",e),t.attr("title","My Dashboard"),jQuery(".header_sign_in_link").attr("style","display: none !important")}):0!=pagePath.indexOf("/customer/")||"stage.pluralsight.com"!=window.location.host&&"www.pluralsight.com"!=window.location.host?""!=redirectPath?jQuery(document).ready(function(){jQuery(".sign_in_link").attr("href",appHost+"/id?redirectTo="+encodeURIComponent(redirectPath))}):jQuery(document).ready(function(){jQuery(".sign_in_link").attr("href",appHost+"/id?")}):window.location=appHost+"/id?redirectTo="+encodeURIComponent(document.URL);</script>
+<script type="text/javascript">window.loadRemoteScript=function(u,t,a,i,cb){var lrs=document.createElement("script")
+lrs.type=(t||"text/javascript");lrs.id=(i||null);if(a==true){lrs.async=(a||1);}if(lrs.readyState){lrs.onreadystatechange=function(){if(lrs.readyState=="loaded"||lrs.readyState=="complete"){lrs.onreadystatechange=null;cb();}};}else{lrs.onload=function(){cb();};}lrs.src=('https:'==document.location.protocol?'https://':'http://')+u;document.getElementsByTagName("head")[0].appendChild(lrs);}
+var DemandbaseMini={};window.minidbready=function(a){DemandbaseMini={IP:{CompanyProfile:a}};}
+if(document.cookie.indexOf("ps_si=")>-1){window.selectedInterest=document.cookie.split("ps_si=")[1].split(";")[0];}if(document.cookie.indexOf("ps_sct=")>-1){window.selectedConsumerType=document.cookie.split("ps_sct=")[1].split(";")[0];}if(document.cookie.indexOf("ps_sbt=")>-1){window.selectedBusinessType=document.cookie.split("ps_sbt=")[1].split(";")[0];}</script>
+<script type="text/javascript" src="//api.demandbase.com/api/v2/ip.json?key=012bc11d09ef8437662946719f6c82d2&amp;callback=minidbready" async=""></script>
+<script src="//assets.adobedtm.com/2c5f2b30762ae62377916c09612cd9d60054fba9/satelliteLib-d219ec1f03bb8f042fe31ffc29deb53997d778ef.js"></script>
+<!--<sly data-sly-include="newrelic.html" data-sly-unwrap></sly>-->
+<link rel="apple-touch-icon" sizes="57x57" href="/etc/designs/pluralsight/xapple-touch-icon-57x57.png.pagespeed.ic.OnDIMe0Omi.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/etc/designs/pluralsight/xapple-touch-icon-60x60.png.pagespeed.ic.JrekQbiakY.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/etc/designs/pluralsight/xapple-touch-icon-72x72.png.pagespeed.ic.S07vRrWGFu.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/etc/designs/pluralsight/xapple-touch-icon-76x76.png.pagespeed.ic.r6WCTt8INu.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/etc/designs/pluralsight/xapple-touch-icon-114x114.png.pagespeed.ic.GIX84fITYV.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/etc/designs/pluralsight/xapple-touch-icon-120x120.png.pagespeed.ic.cpKtongBlW.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/etc/designs/pluralsight/xapple-touch-icon-144x144.png.pagespeed.ic.JZLWMuDfVA.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/etc/designs/pluralsight/xapple-touch-icon-152x152.png.pagespeed.ic.MJCcB_vSMP.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/etc/designs/pluralsight/xapple-touch-icon-180x180.png.pagespeed.ic.vEWhUvHfRm.png">
+<link rel="icon" type="image/png" href="/etc/designs/pluralsight/xfavicon-32x32.png.pagespeed.ic.z3EdiWChpC.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/etc/designs/pluralsight/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/etc/designs/pluralsight/xfavicon-96x96.png.pagespeed.ic.vIgF40k8ha.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/etc/designs/pluralsight/xfavicon-16x16.png.pagespeed.ic.5ml1gN3VfS.png" sizes="16x16">
+<link rel="manifest" href="/etc/designs/pluralsight/manifest.json">
+<link rel="mask-icon" href="/etc/designs/pluralsight/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/etc/designs/pluralsight/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/etc/designs/pluralsight/mstile-144x144.png">
+<meta name="msapplication-config" content="/etc/designs/pluralsight/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<script type="text/javascript">var PS=PS||{};PS['Constants']=PS['Constants']||{};PS.Constants={cmsUrl:'https://cms.pluralsight.com/v1',autocompleteUrl:'//content.atomz.com/autocomplete/sp10/05/0d/ad/',stageSpUrl:'//stage-sp10050dad.guided.ss-omtrdc.net/',ddCmsUrl:'https://dd-cms-web.pluralsight.com',spUrl:'//sp10050dad.guided.ss-omtrdc.net',appUrl:'https://app.pluralsight.com'};</script>
+<title>Privacy policy | Pluralsight</title>
+<meta property="og:title" content="Privacy policy | Pluralsight">
+<meta name="twitter:title" content="Privacy policy | Pluralsight">
+<script type="text/javascript" id="demandbase_js_secondary_libs" async="" src="https://scripts.demandbase.com/LrYAV7hU.min.js"></script></head>
+<body class="mode-disabled privacypolicy-template">
+<script>$=jQuery;</script>
+<div class="site-wrap">
+<div class="nav-context ">
+<noindex><div class="header-container"><header class="header">
+<a href="/" class="pluralsight horizontal--logo"><div class="pluralsight-spacing"></div></a>
+<div class="header_browse">
+<div class="header_nav--menu header_nav_courses">
+<a href="#" class="header_nav_primary">Courses <div class="icons" icon="down-arrow"></div></a>
+<div class="header_dropdown" style="display:none;">
+<div id="header_tabs" class="container-lg">
+<div class="closebutton">x</div>
+<ul>
+<li class="header_roles software-development header_tabs_link active" data-tab="software-development">
+<a>Software Development</a>
+</li>
+<li class="header_roles it-ops header_tabs_link" data-tab="it-ops">
+<a>IT Ops</a>
+</li>
+<li class="header_roles creative-professional header_tabs_link" data-tab="creative-professional">
+<a>Creative Professional</a>
+</li>
+<li class="header_roles data-professional header_tabs_link" data-tab="data-professional">
+<a>Data Professional</a>
+</li>
+<li class="header_roles architecture-construction header_tabs_link" data-tab="architecture-construction">
+<a>Architecture &amp; Construction</a>
+</li>
+<li class="header_roles manufacturing-design header_tabs_link" data-tab="manufacturing-design">
+<a>Manufacturing &amp; Design</a>
+</li>
+<li class="header_roles business-professional header_tabs_link" data-tab="business-professional">
+<a>Business Professional</a>
+</li>
+<li class="header_roles info-cybersecurity header_tabs_link" data-tab="info-cybersecurity">
+<a>Information &amp; Cyber Security</a>
+</li>
+</ul>
+<div id="software-development" class="header_tabs_content active">
+<div class="header_tabs_content--container">
+<div class="header_tabs_column">
+<ul class="header_topics_menu">
+<li class="first">Courses</li>
+<li><a href="/browse/software-development/web-development">Web Development</a></li>
+<li><a href="/browse/software-development/javascript">JavaScript</a></li>
+<li><a href="/browse/software-development/python">Python</a></li>
+<li><a href="/browse/software-development/c-plus">C++</a></li>
+<li><a href="/browse/software-development/java">Java</a></li>
+<li><a href="/browse/software-development/mobile-development">Mobile Development</a></li>
+<li><a href="/browse/software-development/c-sharp">C#</a></li>
+<li><a href="/browse/software-development/node-js">Node.js</a></li>
+<li class="last"><a href="/browse/software-development">More courses</a></li>
+</ul>
+</div>
+<div class="header_tabs_column paths">
+<ul>
+<li class="first">Paths</li>
+<li>
+<div class="item">
+<a href="/paths/angular-js">
+<div class="item-each">
+<div class="item-image"><img alt="AngularJS" src="https://pluralsight.imgix.net/paths/path-icons/angular-14a0f6532f.png"></div>
+<div class="item-text">
+AngularJS
+<ul>
+<li><span>14</span> Courses</li>
+<li><span>55</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/javascript">
+<div class="item-each">
+<div class="item-image"><img alt="JavaScript" src="https://pluralsight.imgix.net/paths/path-icons/javascript-36f5949a45.png"></div>
+<div class="item-text">
+JavaScript
+<ul>
+<li><span>9</span> Courses</li>
+<li><span>21</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/react">
+<div class="item-each">
+<div class="item-image"><img alt="React" src="https://pluralsight2.imgix.net/paths/images/react-0f6558f88f.png"></div>
+<div class="item-text">
+React
+<ul>
+<li><span>8</span> Courses</li>
+<li><span>27</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/node-js">
+<div class="item-each">
+<div class="item-image"><img alt="Node.js" src="https://pluralsight.imgix.net/paths/path-icons/nodejs-601628d09d.png"></div>
+<div class="item-text">
+Node.js
+<ul>
+<li><span>9</span> Courses</li>
+<li><span>28</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/html5">
+<div class="item-each">
+<div class="item-image"><img alt="HTML5" src="https://pluralsight.imgix.net/paths/path-icons/html5-7ac65c8ec0.png"></div>
+<div class="item-text">
+HTML5
+<ul>
+<li><span>11</span> Courses</li>
+<li><span>35</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li class="last"><a href="https://app.pluralsight.com/paths">View all paths</a></li>
+</ul>
+</div>
+<div class="header_tabs_column popular full-column">
+<ul>
+<li class="first">Popular</li>
+<li><a href="/search?q=Javascript&amp;categories=course&amp;sort=popularity">JavaScript</a></li>
+<li><a href="/search?q=Node-js&amp;categories=course&amp;sort=popularity">Node.js</a></li>
+<li><a href="/search?q=C%23&amp;categories=course&amp;sort=popularity">C#</a></li>
+<li><a href="/search?q=Java&amp;categories=course&amp;sort=popularity">Java</a></li>
+<li><a href="/search?q=Angular&amp;categories=course&amp;sort=popularity">Angular2</a></li>
+<li><a href="/search?q=Python&amp;categories=course&amp;sort=popularity">Python</a></li>
+<li><a href="/search?q=mysql&amp;categories=course&amp;sort=popularity">MySQL</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="it-ops" class="header_tabs_content">
+<div class="header_tabs_content--container">
+<div class="header_tabs_column">
+<ul>
+<li class="first">Courses</li>
+<li><a href="/browse/it-ops/it-certifications">IT Certifications</a></li>
+<li><a href="/browse/it-ops/security">Security</a></li>
+<li><a href="/browse/it-ops/database-administration">Database Administration</a></li>
+<li><a href="/browse/it-ops/virtualization">Virtualization</a></li>
+<li><a href="/browse/it-ops/it-networking">IT Networking</a></li>
+<li><a href="/browse/it-ops/servers">Servers</a></li>
+<li><a href="/browse/it-ops/microsoft-office">Microsoft Office</a></li>
+<li><a href="/browse/it-ops/windows-server">Windows Server</a></li>
+<li class="last"><a href="/browse/it-ops">More courses</a></li>
+</ul>
+</div>
+<div class="header_tabs_column paths">
+<ul>
+<li class="first">Paths</li>
+<li>
+<div class="item">
+<a href="/paths/fundamentals-of-it-operations">
+<div class="item-each">
+<div class="item-image"><img alt="Fundamentals of IT Operations" src="https://pluralsight.imgix.net/paths/path-icons/fundamentals-of-it-operations-95797723fe.png"></div>
+<div class="item-text">
+Fundamentals of IT Operations
+<ul>
+<li><span>29</span> Courses</li>
+<li><span>87</span> Hours</li>
+</ul>
+</div>
+</div></a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/comptia-a-plus">
+<div class="item-each">
+<div class="item-image"><img alt="CompTIA A+" src="https://pluralsight.imgix.net/paths/path-icons/server-admin-windows-9e9af6b278.png"></div>
+<div class="item-text">
+CompTIA A+
+<ul>
+<li><span>11</span> Courses</li>
+<li><span>40</span> Hours</li>
+</ul>
+</div>
+</div></a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/comptia-network-plus">
+<div class="item-each">
+<div class="item-image"><img alt="CompTIA Network+" src="https://pluralsight.imgix.net/paths/path-icons/networks-d4455e1c98.png"></div>
+<div class="item-text">
+CompTIA Network+
+<ul>
+<li><span>6</span> Courses</li>
+<li><span>26</span> Hours</li>
+</ul>
+</div>
+</div></a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/mysql">
+<div class="item-each">
+<div class="item-image"><img alt="MySQL" src="https://pluralsight.imgix.net/paths/mysql-e0720d7b98.png"></div>
+<div class="item-text">
+MySQL
+<ul>
+<li><span>8</span> Courses</li>
+<li><span>17</span> Hours</li>
+</ul>
+</div>
+</div></a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/vmware-vsphere-6-foundations">
+<div class="item-each">
+<div class="item-image"><img alt="VMware vSphere® 6 Foundations" src="https://pluralsight.imgix.net/paths/path-icons/vmware-a9cdbeb3ff.png"></div>
+<div class="item-text">
+VMware vSphere® 6 Foundations
+<ul>
+<li><span>9</span> Courses</li>
+<li><span>23</span> Hours</li>
+</ul>
+</div>
+</div></a>
+</div>
+</li>
+<li class="last"><a href="https://app.pluralsight.com/paths">View all paths</a></li>
+</ul>
+</div>
+<div class="header_tabs_column popular full-column">
+<ul>
+<li class="first">Popular</li>
+<li><a href="/search?q=it-certifications&amp;categories=course&amp;sort=popularity">IT Certifications</a></li>
+<li><a href="/search?q=virtualization&amp;categories=course&amp;sort=popularity">Virtualization</a></li>
+<li><a href="/search?q=security&amp;categories=course&amp;sort=popularity">Security</a></li>
+<li><a href="/search?q=it-networking&amp;categories=course&amp;sort=popularity">IT Networking</a></li>
+<li><a href="/search?q=window-server&amp;categories=course&amp;sort=popularity">Windows Server</a></li>
+<li><a href="/search?q=linux&amp;categories=course&amp;sort=popularity">Linux</a></li>
+<li><a href="/search?q=cloud-computing&amp;categories=course&amp;sort=popularity">Cloud Computing</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="creative-professional" class="header_tabs_content">
+<div class="header_tabs_content--container">
+<div class="header_tabs_column">
+<ul>
+<li class="first">Courses</li>
+<li><a href="/browse/creative-professional/game-development">Game Development</a></li>
+<li><a href="/browse/creative-professional/3d-design">3D Design</a></li>
+<li><a href="/browse/creative-professional/vfx">VFX</a></li>
+<li><a href="/browse/creative-professional/graphic-design">Graphic Design</a></li>
+<li><a href="/browse/creative-professional/photoshop">Photoshop</a></li>
+<li><a href="/browse/creative-professional/web-design">Web Design</a></li>
+<li class="last"><a href="/browse/creative-professional">More courses</a></li>
+</ul>
+</div>
+<div class="header_tabs_column paths">
+<ul>
+<li class="first">Paths</li>
+<li>
+<div class="item">
+<a href="/paths/graphic-design">
+<div class="item-each">
+<div class="item-image"><img alt="Graphic Design" src="https://pluralsight.imgix.net/paths/path-icons/graphic-design-8e71846112.png"></div>
+<div class="item-text">
+Graphic Design
+<ul>
+<li><span>23</span> Courses</li>
+<li><span>34</span> Hours</li>
+</ul>
+</div>
+</div></a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/game-environment-modeling">
+<div class="item-each">
+<div class="item-image"><img alt="Game Environment Modeling" src="https://pluralsight.imgix.net/paths/path-icons/game-environment-modeling-0a89aaaced.png"></div>
+<div class="item-text">
+Game Environment Modeling
+<ul>
+<li><span>9</span> Courses</li>
+<li><span>28</span> Hours</li>
+</ul>
+</div>
+</div></a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/after-effects-cc">
+<div class="item-each">
+<div class="item-image"><img alt="After Effects CC" src="https://pluralsight.imgix.net/paths/path-icons/aftereffects-e913d6f970.png"></div>
+<div class="item-text">
+After Effects CC
+<ul>
+<li><span>13</span> Courses</li>
+<li><span>33</span> Hours</li>
+</ul>
+</div>
+</div></a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/photoshop-photo-manipulation">
+<div class="item-each">
+<div class="item-image"><img alt="Photoshop: Photo Manipulation" src="https://pluralsight.imgix.net/paths/path-icons/photoshop-e26c2b1bff.png"></div>
+<div class="item-text">
+Photoshop: Photo Manipulation
+<ul>
+<li><span>10</span> Courses</li>
+<li><span>22</span> Hours</li>
+</ul>
+</div>
+</div></a>
+</div>
+</li>
+<li>
+<div class="item  creative">
+<a href="/paths/maya-character-modeling">
+<div class="item-each">
+<div class="item-image"><img alt="Maya: Character Modeling" src="https://pluralsight.imgix.net/paths/path-icons/maya-34da88e18b.png"></div>
+<div class="item-text">
+Maya: Character Modeling
+<ul>
+<li><span>9</span> Courses</li>
+<li><span>34</span> Hours</li>
+</ul>
+</div>
+</div></a>
+</div>
+</li>
+<li class="last"><a href="https://app.pluralsight.com/paths">View all paths</a></li>
+</ul>
+</div>
+<div class="header_tabs_column popular full-column">
+<ul>
+<li class="first">Popular</li>
+<li><a href="/search?q=graphic-design&amp;categories=course&amp;sort=popularity">Graphic Design</a></li>
+<li><a href="/search?q=game-development&amp;categories=course&amp;sort=popularity">Game Development</a></li>
+<li><a href="/search?q=3d-vfx&amp;categories=course&amp;sort=popularity">3D &amp; Visual Effects</a></li>
+<li><a href="/search?q=visual-communication&amp;categories=course&amp;sort=popularity">Visual Communication</a></li>
+<li><a href="/search?q=photoshop&amp;categories=course&amp;sort=popularity">Photoshop</a></li>
+<li><a href="/search?q=web-design&amp;categories=course&amp;sort=popularity">Web Design</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="data-professional" class="header_tabs_content">
+<div class="header_tabs_content--container">
+<div class="header_tabs_column">
+<ul>
+<li class="first">Courses</li>
+<li><a href="/browse/data-professional/business-intelligence-data-pro">Business Intelligence</a></li>
+<li><a href="/browse/data-professional/big-data">Big Data</a></li>
+<li><a href="/browse/data-professional/data-dashboard">Data Dashboard</a></li>
+<li><a href="/browse/data-professional/oracle">Oracle</a></li>
+<li><a href="/browse/data-professional/mysql">MySQL</a></li>
+<li><a href="/browse/data-professional/sql">SQL</a></li>
+<li><a href="/browse/data-professional/tableau">Tableau</a></li>
+<li><a href="/browse/data-professional/sql-server">SQL Server</a></li>
+<li class="last"><a href="/browse/data-professional">More courses</a></li>
+</ul>
+</div>
+<div class="header_tabs_column paths">
+<ul>
+<li class="first">Paths</li>
+<li>
+<div class="item">
+<a href="/paths/csharp">
+<div class="item-each">
+<div class="item-image"><img alt="C#" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png"></div>
+<div class="item-text">
+C#
+<ul>
+<li><span>16</span> Courses</li>
+<li><span>64</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/mysql">
+<div class="item-each">
+<div class="item-image"><img alt="MySQL" src="https://pluralsight.imgix.net/paths/mysql-e0720d7b98.png"></div>
+<div class="item-text">
+MySQL
+<ul>
+<li><span>8</span> Courses</li>
+<li><span>17</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/android">
+<div class="item-each">
+<div class="item-image"><img alt="Android" src="https://pluralsight.imgix.net/paths/path-icons/android-53f8da146d.png"></div>
+<div class="item-text">
+Android
+<ul>
+<li><span>20</span> Courses</li>
+<li><span>55</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/fusion-360-core-skills">
+<div class="item-each">
+<div class="item-image"><img alt="Fusion 360: Core Skills" src="https://pluralsight.imgix.net/paths/path-icons/fusion360-5d76c87271.png"></div>
+<div class="item-text">
+Fusion 360: Core Skills
+<ul>
+<li><span>15</span> Courses</li>
+<li><span>30</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/autocad-core-skills">
+<div class="item-each">
+<div class="item-image"><img alt="AutoCAD: Core Skills" src="https://pluralsight.imgix.net/paths/path-icons/autocad-d1d797239b.png"></div>
+<div class="item-text">
+AutoCAD: Core Skills
+<ul>
+<li><span>9</span> Courses</li>
+<li><span>19</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li class="last"><a href="https://app.pluralsight.com/paths">View all paths</a></li>
+</ul>
+</div>
+<div class="header_tabs_column popular full-column">
+<ul>
+<li class="first">Popular</li>
+<li><a href="/search?q=business-intelligence&amp;categories=course&amp;sort=popularity">Business Intelligence</a></li>
+<li><a href="/search?q=data-dashboard&amp;categories=course&amp;sort=popularity">Data Dashboard</a></li>
+<li><a href="/search?q=oracle&amp;categories=course&amp;sort=popularity">Oracle</a></li>
+<li><a href="/search?q=mysql&amp;categories=course&amp;sort=popularity">MySQL</a></li>
+<li><a href="/search?q=sql&amp;categories=course&amp;sort=popularity">SQL</a></li>
+<li><a href="/search?q=sql-server&amp;categories=course&amp;sort=popularity">SQL Server</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="architecture-construction" class="header_tabs_content">
+<div class="header_tabs_content--container">
+<div class="header_tabs_column">
+<ul>
+<li class="first">Courses</li>
+<li><a href="/browse/architecture-construction/cad">CAD</a></li>
+<li><a href="/browse/architecture-construction/revit">Revit</a></li>
+<li><a href="/browse/architecture-construction/v-ray">V-Ray</a></li>
+<li><a href="/browse/architecture-construction/autocad">AutoCAD</a></li>
+<li><a href="/browse/architecture-construction/rhino">Rhino</a></li>
+<li><a href="/browse/architecture-construction/adobe">Adobe</a></li>
+<li><a href="/browse/architecture-construction/3ds-max">3ds Max</a></li>
+<!--<li><a href="/content/pluralsight/en/browse/architecture-construction/sql-server.html">SQL Server</a></li>-->
+<li class="last"><a href="/browse/architecture-construction">More courses</a></li>
+</ul>
+</div>
+<div class="header_tabs_column paths">
+<ul>
+<li class="first">Paths</li>
+<li>
+<div class="item">
+<a href="/paths/revit-architecture-core-skills">
+<div class="item-each">
+<div class="item-image"><img alt="Revit Architecture: Core Skills" src="https://pluralsight.imgix.net/paths/path-icons/revit-2825d5ef64.png"></div>
+<div class="item-text">
+Revit Architecture: Core Skills
+<ul>
+<li><span>7</span> Courses</li>
+<li><span>19</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/revit-architecture-modeling">
+<div class="item-each">
+<div class="item-image"><img alt="Revit Architecture: Modeling Families" src="https://pluralsight.imgix.net/paths/path-icons/revit-2825d5ef64.png"></div>
+<div class="item-text">
+Revit Architecture: Modeling Families
+<ul>
+<li><span>9</span> Courses</li>
+<li><span>16</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/maya-environment-modeling">
+<div class="item-each">
+<div class="item-image"><img alt="Maya: Environment Modeling" src="https://pluralsight.imgix.net/paths/path-icons/maya-34da88e18b.png"></div>
+<div class="item-text">
+Maya: Environment Modeling
+<ul>
+<li><span>13</span> Courses</li>
+<li><span>73</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/autocad-core-skills">
+<div class="item-each">
+<div class="item-image"><img alt="AutoCAD: Core Skills" src="https://pluralsight.imgix.net/paths/path-icons/autocad-d1d797239b.png"></div>
+<div class="item-text">
+AutoCAD: Core Skills
+<ul>
+<li><span>9</span> Courses</li>
+<li><span>19</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li class="last"><a href="https://app.pluralsight.com/paths">View all paths</a></li>
+</ul>
+</div>
+<div class="header_tabs_column popular full-column">
+<ul>
+<li class="first">Popular</li>
+<li><a href="/search?q=cad&amp;categories=course&amp;sort=popularity">CAD</a></li>
+<li><a href="/search?q=drafting&amp;categories=course&amp;sort=popularity">Drafting</a></li>
+<li><a href="/search?q=architecture-modeling&amp;categories=course&amp;sort=popularity">Architecture Modeling</a></li>
+<li><a href="/search?q=bim&amp;categories=course&amp;sort=popularity">BIM</a></li>
+<li><a href="/search?q=structural-modeling&amp;categories=course&amp;sort=popularity">Structural Modeling</a></li>
+<li><a href="/search?q=visualization-rendering&amp;categories=course&amp;sort=popularity">Visualization Rendering</a></li>
+<li><a href="/search?q=civil-engineering&amp;categories=course&amp;sort=popularity">Civil Engineering</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="manufacturing-design" class="header_tabs_content">
+<div class="header_tabs_content--container">
+<div class="header_tabs_column">
+<ul>
+<li class="first">Courses</li>
+<li><a href="/browse/manufacturing-design/modeling">Modeling</a></li>
+<li><a href="/browse/manufacturing-design/sketching">Sketching</a></li>
+<li><a href="/browse/manufacturing-design/product-design">Product Design</a></li>
+<li><a href="/browse/manufacturing-design/maya">Maya</a></li>
+<li><a href="/browse/manufacturing-design/sketchbook">Sketchbook</a></li>
+<li><a href="/browse/manufacturing-design/rhino">Rhino</a></li>
+<li><a href="/browse/manufacturing-design/solidworks">Solidworks</a></li>
+<li><a href="/browse/manufacturing-design/keyshot">Keyshot</a></li>
+<li class="last"><a href="/browse/manufacturing-design">More courses</a></li>
+</ul>
+</div>
+<div class="header_tabs_column paths">
+<ul>
+<li class="first">Paths</li>
+<li>
+<div class="item">
+<a href="/paths/fusion-360-core-skills">
+<div class="item-each">
+<div class="item-image"><img alt="Fusion 360: Core Skills" src="https://pluralsight.imgix.net/paths/path-icons/fusion360-5d76c87271.png"></div>
+<div class="item-text">
+Fusion 360: Core Skills
+<ul>
+<li><span>15</span> Courses</li>
+<li><span>30</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/maya-environment-modeling">
+<div class="item-each">
+<div class="item-image"><img alt="Maya: Environment Modeling" src="https://pluralsight.imgix.net/paths/path-icons/maya-34da88e18b.png"></div>
+<div class="item-text">
+Maya: Environment Modeling
+<ul>
+<li><span>13</span> Courses</li>
+<li><span>73</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/solidworks-core-skills">
+<div class="item-each">
+<div class="item-image"><img alt="SOLIDWORKS: Core Skills" src="https://pluralsight.imgix.net/paths/path-icons/solidworks-114573eb04.png"></div>
+<div class="item-text">
+SOLIDWORKS: Core Skills
+<ul>
+<li><span>20</span> Courses</li>
+<li><span>25</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li class="last"><a href="https://app.pluralsight.com/paths">View all paths</a></li>
+</ul>
+</div>
+<div class="header_tabs_column popular full-column">
+<ul>
+<li class="first">Popular</li>
+<li><a href="/search?q=modeling&amp;categories=course&amp;sort=popularity">Modeling</a></li>
+<li><a href="/search?q=product-design&amp;categories=course&amp;sort=popularity">Product Design</a></li>
+<li><a href="/search?q=keyshot&amp;categories=course&amp;sort=popularity">Keyshot</a></li>
+<li><a href="/search?q=sketching&amp;categories=course&amp;sort=popularity">Sketching</a></li>
+<li><a href="/search?q=modo&amp;categories=course&amp;sort=popularity">Modo</a></li>
+<li><a href="/search?q=maya&amp;categories=course&amp;sort=popularity">Maya</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="business-professional" class="header_tabs_content">
+<div class="header_tabs_content--container">
+<div class="header_tabs_column">
+<ul>
+<li class="first">Courses</li>
+<li><a href="/browse/business-professional/leadership">Leadership</a></li>
+<li><a href="/browse/business-professional/project-management">Project Management</a></li>
+<li><a href="/browse/business-professional/agile">Agile</a></li>
+<li><a href="/browse/business-professional/scrum">Scrum</a></li>
+<li><a href="/browse/business-professional/pmp">PMP® Exam Prep</a></li>
+<li><a href="/browse/business-professional/kanban">Kanban</a></li>
+<li><a href="/browse/business-professional/careers">Careers</a></li>
+<li><a href="/browse/business-professional/business-intelligence-business-pro">Business Intelligence</a></li>
+<li class="last"><a href="/browse/business-professional">More courses</a></li>
+</ul>
+</div>
+<div class="header_tabs_column paths">
+<ul>
+<li class="first">Paths</li>
+<li>
+<div class="item">
+<a href="/paths/fundamentals-of-it-operations">
+<div class="item-each">
+<div class="item-image"><img alt="Fundamentals of IT Operations" src="https://pluralsight.imgix.net/paths/path-icons/fundamentals-of-it-operations-95797723fe.png"></div>
+<div class="item-text">
+Fundamentals of IT Operations
+<ul>
+<li><span>29</span> Courses</li>
+<li><span>87</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/autocad-core-skills">
+<div class="item-each">
+<div class="item-image"><img alt="AutoCAD: Core Skills" src="https://pluralsight.imgix.net/paths/path-icons/autocad-d1d797239b.png"></div>
+<div class="item-text">
+AutoCAD: Core Skills
+<ul>
+<li><span>9</span> Courses</li>
+<li><span>19</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/business-analysis-pmi-pba">
+<div class="item-each">
+<div class="item-image"><img alt="Business Analysis – PMI-PBA®" src="https://pluralsight.imgix.net/paths/path-icons/business-analysis-fc3f6703c2.png"></div>
+<div class="item-text">
+Business Analysis – PMI-PBA®
+<ul>
+<li><span>5</span> Courses</li>
+<li><span>14</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/using-microsoft-office-2016">
+<div class="item-each">
+<div class="item-image"><img alt="Using Microsoft Office 2016" src="https://pluralsight2.imgix.net/paths/images/comptia-project-7fea631277.png"></div>
+<div class="item-text">
+Using Microsoft Office 2016
+<ul>
+<li><span>15</span> Courses</li>
+<li><span>35</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="/paths/pmp">
+<div class="item-each">
+<div class="item-image"><img alt="PMP® Exam Prep" src="https://pluralsight.imgix.net/paths/path-icons/pmp-fc3f6703c2.png"></div>
+<div class="item-text">
+PMP® Exam Prep
+<ul>
+<li><span>14</span> Courses</li>
+<li><span>42</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li class="last"><a href="https://app.pluralsight.com/paths">View all paths</a></li>
+</ul>
+</div>
+<div class="header_tabs_column popular full-column">
+<ul>
+<li class="first">Popular</li>
+<li><a href="/search?q=leadership&amp;categories=course&amp;sort=popularity">Leadership</a></li>
+<li><a href="/search?q=project-management&amp;categories=course&amp;sort=popularity">Project Management</a></li>
+<li><a href="/search?q=agile&amp;categories=course&amp;sort=popularity">Agile</a></li>
+<li><a href="/search?q=careers&amp;categories=course&amp;sort=popularity">Careers</a></li>
+<li><a href="/search?q=business-intelligence&amp;categories=course&amp;sort=popularity">Business Intelligence</a></li>
+<li><a href="/search?q=scrum&amp;categories=course&amp;sort=popularity">Scrum</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="info-cybersecurity" class="header_tabs_content">
+<div class="header_tabs_content--container">
+<div class="header_tabs_column">
+<ul>
+<li class="first">Courses</li>
+<li><a href="/browse/information-cyber-security/security-auditing">Security Auditing</a></li>
+<li><a href="/browse/information-cyber-security/penetration-testing">Penetration Testing</a></li>
+<li><a href="/browse/information-cyber-security/digital-forensics">Digital Forensics</a></li>
+<li><a href="/browse/information-cyber-security/malware-analysis">Malware Analysis</a></li>
+<li><a href="/browse/information-cyber-security/security-fundamentals">Security Fundamentals</a></li>
+<li><a href="/browse/information-cyber-security/secure-by-design">Secure by Design</a></li>
+<li><a href="/browse/information-cyber-security/security-certifications">Security Certifications</a></li>
+<li class="last"><a href="/browse/information-cyber-security">More courses</a></li>
+</ul>
+</div>
+<div class="header_tabs_column paths">
+<ul>
+<li class="first">Paths</li>
+<li>
+<div class="item">
+<a href="/paths/expert-perspectives-on-cyber-security">
+<div class="item-each">
+<div class="item-image"><img alt="Expert Perspectives on Cyber Security" src="https://pluralsight.imgix.net/paths/path-icons/info-security-5d8ab8e621.png"></div>
+<div class="item-text">
+Expert Perspectives on Cyber Security
+<ul>
+<li><span>20</span> Courses</li>
+<li><span>20</span> Hours</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
+</li>
+<li class="last"><a href="https://app.pluralsight.com/paths">View all paths</a></li>
+</ul>
+</div>
+<div class="header_tabs_column popular full-column">
+<ul>
+<li class="first">Popular</li>
+<li><a href="/search?q=security-certifications&amp;categories=course&amp;sort=popularity">Security Certifications</a></li>
+<li><a href="/search?q=security-fundamentals&amp;categories=course&amp;sort=popularity">Security Fundamentals</a></li>
+<li><a href="/search?q=security-auditing&amp;categories=course&amp;sort=popularity">Security Auditing</a></li>
+<li><a href="/search?q=penetration-testing&amp;categories=course&amp;sort=popularity">Penetration Testing</a></li>
+<li><a href="/search?q=digital-forensics&amp;categories=course&amp;sort=popularity">Digital Forensics</a></li>
+<li><a href="/search?q=malware-analysis&amp;categories=course&amp;sort=popularity">Malware Analysis</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header_nav--menu header_nav_search">
+<div class="header_search search-button__component">
+<form id="header_searchForm" class="header_search--form" action="#">
+<input type="text" name="q" class="header_search--input" placeholder="What do you want to learn?" autocomplete="off">
+<input type="text" disabled="disabled" autocomplete="off" class="search-menu__search-term--shadow">
+</form>
+<a href="/search" class="hidden header_search--url"></a>
+<div class="header_dropdown" style="display:none;">
+<div id="header_tabs--search" class="container-lg">
+<div class="closebutton">x</div>
+<div id="header-search-results-all" class="header_tabs_content--container">
+<div id="search-menu__results-dropdown" class="header_tabs_column">
+<div id="header_dropdown--resultList"></div>
+<div id="header_dropdown--resultListCourses"></div>
+</div>
+<div class="header_tabs_column paths">
+<div id="header_dropdown--resultListPaths"></div>
+</div>
+</div>
+</div>
+</div>
+<script id="header-search-categories-templates-partial" type="text/x-handlebars-template">
+    {{#compare this.name '===' 'courses'}}
+    <ul class="header_dropdown--lists">
+        <li class="first">{{{this.name}}}</li>
+        {{#each this.results}}
+            <li><a href="{{formatCourseURL this.courseName}}">{{{this.title}}}</a></li>
+        {{/each}}
+        <li class="last"><a class="view-all-link" data-tab-param="{{mapResultSetNameToTabName this.name}}" data-categories="{{this.name}}">See more results</a></li>
+    </ul>
+    {{/compare}}
 </script>
-<!-- End Google Tag Manager -->
-
-        
-<div id="dt-integration-header" class="header_site dt-integration header_site_header">
-    <div class="clearfix">
-
-        <div class="header_toggle_site clearfix padding left">
-            <ul>
-                <li class="current">Pluralsight</li>
-                <li><a href="http://www.digitaltutors.com">Digital-Tutors</a></li>
-            </ul>
-        </div>
-        <div class="item padding right">
-            <ul>
-                    <li id="beta-toggle-off">
-                        <a href="http://beta.pluralsight.com">
-                            <img src="//s.pluralsight.com/mn/img/lo/beta_off-v1.png" title="Toggle Beta On">    
-                        </a>
-                    </li>
-            </ul>
-        </div>
-    </div>
 </div>
-
-        <input type="hidden" id="pageObjectTag" value="">
-        <div class="wrap">
-            <div id="stageHeader">
-                
-            </div>
-            <div id="javascriptDisabled" style="display: none;">
-                Please enable Javascript, which is required for this site.
-                <script type="text/javascript">
-                    document.getElementById('javascriptDisabled').style.display = 'none';
-                </script>
-            </div>
-            <div id="header">
-                <div class="logo">
-                    <a href="/training/">
-                        <img width="162" src="//s.pluralsight.com/mn/img/sh/logo-v6.png" alt="Pluralsight - Hardcore Developer and IT Training">
-                    </a>
-                </div>
-                
-
-    <div class="linkContainer">
-        <a class="loginStatus" href="/training/Login?returnUrl=http%3A%2F%2Fpluralsight.com%2Ftraining%2FAbout%2FPrivacy&amp;failedCaptcha=False">Sign in</a>
-    </div>
-
-                <div class="nav">
-                    <div class="primary">
-                        <ul style="margin-left: 30px;">
-                            <li><a href="/training/Products/Individual" id="individualPlansLink" title="Plans for individuals">INDIVIDUALS</a></li>
-                            <li><a href="/training/Products/Businesses" id="businessPlansLink" title="Plans for businesses of all sizes">BUSINESS</a></li>
-                            <li><a href="/training/Products/Academic" id="academicPlansLink" title="Plans for academic institutions">ACADEMIC</a></li>
-                            <li><a href="/training/Subscribe/Step1?isTrial=True&amp;failedCaptcha=False" id="trialPlansLink" title="Start your free trial today!">FREE TRIAL</a></li>
-                            <li><a href="http://blog.pluralsight.com" title="Pluralsight's blog">BLOG</a></li>
-                            <li><a href="/training/Support/UserVoiceOutbound" title="Access our knowledge base, submit an idea, or contact support">SUPPORT</a></li>
-                        </ul>
-                    </div>
-                    <div class="wrap" style="background-color: #c1c1c1;">
-                        <div class="secondary">
-                            <ul>
-                                <li><a href="/training/Courses">Full Library</a></li>
-                                <li class="pipe">|</li>
-                                <li><a class="categoriesMenu menuLink" href="#">Categories</a></li>
-                                <li class="pipe">|</li>
-                                <li><a class="authorsMenu" href="/training/Authors">Authors</a></li>
-                                <li class="pipe">|</li>
-                                <li><a class="popularMenu menuLink" href="#">Popular</a></li>
-                                <li class="pipe">|</li>
-                                <li><a class="newReleasesMenu menuLink" href="#">New Releases</a></li>
-                            </ul>
-                        </div>
-                        <div class="categoriesMenu menu linkContainer" style="border-collapse: collapse">
-        <div style="float: left;">
-                <div class="menuItem" data-url="/training/Courses#dotnet">
-                    <div class="left">.NET</div>
-                    <div class="right">42 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#adobe">
-                    <div class="left">Adobe</div>
-                    <div class="right">1 course</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#amazon-web-services">
-                    <div class="left">Amazon Web Services</div>
-                    <div class="right">3 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#android">
-                    <div class="left">Android</div>
-                    <div class="right">16 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#aop">
-                    <div class="left">AOP</div>
-                    <div class="right">2 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#architecture">
-                    <div class="left">Architecture</div>
-                    <div class="right">8 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#aspdotnet">
-                    <div class="left">ASP.NET</div>
-                    <div class="right">54 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#beginner-programming">
-                    <div class="left">Beginner Programming</div>
-                    <div class="right">13 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#big-data">
-                    <div class="left">Big Data</div>
-                    <div class="right">5 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#biztalk">
-                    <div class="left">BizTalk</div>
-                    <div class="right">12 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#business-intelligence">
-                    <div class="left">Business Intelligence</div>
-                    <div class="right">23 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#csharp">
-                    <div class="left">C#</div>
-                    <div class="right">27 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#cpp">
-                    <div class="left">C++</div>
-                    <div class="right">20 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#careers">
-                    <div class="left">Careers</div>
-                    <div class="right">27 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#cloud-computing">
-                    <div class="left">Cloud Computing</div>
-                    <div class="right">4 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#computer-science">
-                    <div class="left">Computer Science</div>
-                    <div class="right">6 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#cms">
-                    <div class="left">Content Management Systems</div>
-                    <div class="right">6 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#css">
-                    <div class="left">CSS</div>
-                    <div class="right">7 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#databases">
-                    <div class="left">Databases</div>
-                    <div class="right">7 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#debugging">
-                    <div class="left">Debugging</div>
-                    <div class="right">17 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#deployment">
-                    <div class="left">Deployment</div>
-                    <div class="right">3 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#digital-audio">
-                    <div class="left">Digital Audio</div>
-                    <div class="right">2 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#drupal">
-                    <div class="left">Drupal</div>
-                    <div class="right">5 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#dynamics-crm">
-                    <div class="left">Dynamics CRM</div>
-                    <div class="right">8 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#eclipse">
-                    <div class="left">Eclipse</div>
-                    <div class="right">2 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#enterprise-library">
-                    <div class="left">Enterprise Library</div>
-                    <div class="right">7 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#entity-framework">
-                    <div class="left">Entity Framework</div>
-                    <div class="right">10 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#erp">
-                    <div class="left">ERP</div>
-                    <div class="right">1 course</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#exchange-server">
-                    <div class="left">Exchange Server</div>
-                    <div class="right">36 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#f-sharp">
-                    <div class="left">F#</div>
-                    <div class="right">2 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#google">
-                    <div class="left">Google</div>
-                    <div class="right">8 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#hardware">
-                    <div class="left">Hardware</div>
-                    <div class="right">13 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#html-5">
-                    <div class="left">HTML5</div>
-                    <div class="right">18 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#http">
-                    <div class="left">HTTP</div>
-                    <div class="right">1 course</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#iis">
-                    <div class="left">IIS</div>
-                    <div class="right">6 courses</div>
-                </div>
-        </div>
-        <div style="float: left;">
-                <div class="menuItem" data-url="/training/Courses#ios">
-                    <div class="left">iOS</div>
-                    <div class="right">20 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#it-administration">
-                    <div class="left">IT Administration</div>
-                    <div class="right">13 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#java">
-                    <div class="left">Java</div>
-                    <div class="right">24 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#javascript">
-                    <div class="left">JavaScript</div>
-                    <div class="right">67 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#jquery">
-                    <div class="left">jQuery</div>
-                    <div class="right">12 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#lightswitch">
-                    <div class="left">Lightswitch</div>
-                    <div class="right">3 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#linq">
-                    <div class="left">LINQ</div>
-                    <div class="right">5 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#linux">
-                    <div class="left">Linux</div>
-                    <div class="right">7 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#lync-server">
-                    <div class="left">Lync Server</div>
-                    <div class="right">5 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#microsoft-office">
-                    <div class="left">Microsoft Office</div>
-                    <div class="right">45 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#mobile-frameworks">
-                    <div class="left">Mobile Frameworks</div>
-                    <div class="right">11 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#mono">
-                    <div class="left">Mono</div>
-                    <div class="right">4 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#mse">
-                    <div class="left">MSE</div>
-                    <div class="right">2 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#mysql">
-                    <div class="left">MySQL</div>
-                    <div class="right">7 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#networking">
-                    <div class="left">Networking</div>
-                    <div class="right">48 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#nhibernate">
-                    <div class="left">NHibernate</div>
-                    <div class="right">1 course</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#nodejs">
-                    <div class="left">NodeJS</div>
-                    <div class="right">7 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#nosql">
-                    <div class="left">NoSQL</div>
-                    <div class="right">7 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#numerical-computation">
-                    <div class="left">Numerical Computation</div>
-                    <div class="right">1 course</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#odata">
-                    <div class="left">OData</div>
-                    <div class="right">2 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#oracle">
-                    <div class="left">Oracle</div>
-                    <div class="right">5 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#performance">
-                    <div class="left">Performance</div>
-                    <div class="right">3 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#photoshop">
-                    <div class="left">Photoshop</div>
-                    <div class="right">4 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#php">
-                    <div class="left">PHP</div>
-                    <div class="right">5 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#powershell">
-                    <div class="left">PowerShell</div>
-                    <div class="right">25 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#productivity">
-                    <div class="left">Productivity</div>
-                    <div class="right">6 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#programming-languages">
-                    <div class="left">Programming Languages</div>
-                    <div class="right">16 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#python">
-                    <div class="left">Python</div>
-                    <div class="right">5 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#ruby">
-                    <div class="left">Ruby</div>
-                    <div class="right">23 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#ruby-on-rails">
-                    <div class="left">Ruby on Rails</div>
-                    <div class="right">9 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#salesforce">
-                    <div class="left">Salesforce</div>
-                    <div class="right">7 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#security">
-                    <div class="left">Security</div>
-                    <div class="right">29 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#sharepoint">
-                    <div class="left">SharePoint</div>
-                    <div class="right">102 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#silverlight">
-                    <div class="left">Silverlight</div>
-                    <div class="right">8 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#social-media">
-                    <div class="left">Social Media</div>
-                    <div class="right">15 courses</div>
-                </div>
-        </div>
-        <div style="float: left;">
-                <div class="menuItem" data-url="/training/Courses#software-practices">
-                    <div class="left">Software Practices</div>
-                    <div class="right">55 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#source-control">
-                    <div class="left">Source Control</div>
-                    <div class="right">8 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#sql">
-                    <div class="left">SQL</div>
-                    <div class="right">2 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#sql-server">
-                    <div class="left">SQL Server</div>
-                    <div class="right">63 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#storage">
-                    <div class="left">Storage</div>
-                    <div class="right">6 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#system-center">
-                    <div class="left">System Center</div>
-                    <div class="right">18 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#tfs">
-                    <div class="left">TFS</div>
-                    <div class="right">11 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#unix">
-                    <div class="left">Unix</div>
-                    <div class="right">4 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#ux-design">
-                    <div class="left">UX Design</div>
-                    <div class="right">7 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#virtualization">
-                    <div class="left">Virtualization</div>
-                    <div class="right">93 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#visual-studio">
-                    <div class="left">Visual Studio</div>
-                    <div class="right">28 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#wcf">
-                    <div class="left">WCF</div>
-                    <div class="right">9 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#web-frameworks">
-                    <div class="left">Web Frameworks</div>
-                    <div class="right">6 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#wf">
-                    <div class="left">WF</div>
-                    <div class="right">7 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#windows-7">
-                    <div class="left">Windows 7</div>
-                    <div class="right">12 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#windows-8">
-                    <div class="left">Windows 8</div>
-                    <div class="right">37 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#windows-azure">
-                    <div class="left">Windows Azure</div>
-                    <div class="right">24 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#windows-embedded">
-                    <div class="left">Windows Embedded</div>
-                    <div class="right">4 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#windows-phone">
-                    <div class="left">Windows Phone</div>
-                    <div class="right">13 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#windows-server">
-                    <div class="left">Windows Server</div>
-                    <div class="right">83 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#windows-vista">
-                    <div class="left">Windows Vista</div>
-                    <div class="right">4 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#windows-xp">
-                    <div class="left">Windows XP</div>
-                    <div class="right">4 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#wordpress">
-                    <div class="left">WordPress</div>
-                    <div class="right">8 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#wpf">
-                    <div class="left">WPF</div>
-                    <div class="right">11 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#xaml">
-                    <div class="left">XAML</div>
-                    <div class="right">3 courses</div>
-                </div>
-                <div class="menuItem" data-url="/training/Courses#xml">
-                    <div class="left">XML</div>
-                    <div class="right">5 courses</div>
-                </div>
-        </div>
 </div>
-<div class="popularMenu menu linkContainer">
-    <div class="topCourses">
-        <a class="menuItem" href="/training/Courses/TopCourses">View top 100 leaderboard</a>
-    </div>
-<a class="menuItem" href="/training/Courses/TableOfContents/angularjs-get-started" title="1 - AngularJS: Get Started">1 - AngularJS: Get Started</a><a class="menuItem" href="/training/Courses/TableOfContents/angularjs-fundamentals" title="2 - AngularJS Fundamentals">2 - AngularJS Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/mvc4-building" title="3 - Building Applications with ASP.NET MVC 4">3 - Building Applications with ASP.NET MVC 4</a><a class="menuItem" href="/training/Courses/TableOfContents/csharp-fundamentals-csharp5" title="4 - C# Fundamentals with C# 5.0">4 - C# Fundamentals with C# 5.0</a><a class="menuItem" href="/training/Courses/TableOfContents/jquery-fundamentals" title="5 - jQuery Fundamentals">5 - jQuery Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/aspdotnet-mvc5-fundamentals" title="6 - ASP.NET MVC 5 Fundamentals">6 - ASP.NET MVC 5 Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/mvc4" title="7 - ASP.NET MVC 4 Fundamentals">7 - ASP.NET MVC 4 Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/csharp-fundamentals" title="8 - Accelerated C# Fundamentals">8 - Accelerated C# Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/patterns-library" title="9 - Design Patterns Library">9 - Design Patterns Library</a><a class="menuItem" href="/training/Courses/TableOfContents/java1" title="10 - Java Fundamentals, Part 1">10 - Java Fundamentals, Part 1</a></div>
-<div class="newReleasesMenu menu linkContainer">
-    <div class="allNewReleases">
-        <a class="menuItem" href="/training/Courses/NewReleases">View all new releases</a>
-    </div>
-        <a href="/training/Courses/TableOfContents/oracle-performance-tuning-developers" title="Oracle Performance Tuning for Developers" class="menuItem">
-            <div style="clear: both">
-                <div style="float: left; width: 4em">Jun 24</div>
-                <div style="float: left; width: 23em">Oracle Performance Tuning for Developers</div>
-            </div>
-        </a>
-        <a href="/training/Courses/TableOfContents/reactive-programming-java-8-rxjava" title="Reactive Programming in Java 8 With RxJava" class="menuItem">
-            <div style="clear: both">
-                <div style="float: left; width: 4em">Jun 23</div>
-                <div style="float: left; width: 23em">Reactive Programming in Java 8 With RxJava</div>
-            </div>
-        </a>
-        <a href="/training/Courses/TableOfContents/enterprise-search-using-apache-solr" title="Getting Started with Enterprise Search using Apache Solr" class="menuItem">
-            <div style="clear: both">
-                <div style="float: left; width: 4em">Jun 23</div>
-                <div style="float: left; width: 23em">Getting Started with Enterprise Search using Ap...</div>
-            </div>
-        </a>
-        <a href="/training/Courses/TableOfContents/practical-data-modeling-csharp-sql-server" title="Practical Data Modeling With C# and SQL Server" class="menuItem">
-            <div style="clear: both">
-                <div style="float: left; width: 4em">Jun 21</div>
-                <div style="float: left; width: 23em">Practical Data Modeling With C# and SQL Server</div>
-            </div>
-        </a>
-        <a href="/training/Courses/TableOfContents/phpmyadmin-fundamentals" title="phpMyAdmin Fundamentals" class="menuItem">
-            <div style="clear: both">
-                <div style="float: left; width: 4em">Jun 20</div>
-                <div style="float: left; width: 23em">phpMyAdmin Fundamentals</div>
-            </div>
-        </a>
-        <a href="/training/Courses/TableOfContents/play-by-play-pinal-dave" title="Play by Play: Pinal Dave" class="menuItem">
-            <div style="clear: both">
-                <div style="float: left; width: 4em">Jun 20</div>
-                <div style="float: left; width: 23em">Play by Play: Pinal Dave</div>
-            </div>
-        </a>
-        <a href="/training/Courses/TableOfContents/real-time-web-applications" title="Real-time Web Applications" class="menuItem">
-            <div style="clear: both">
-                <div style="float: left; width: 4em">Jun 19</div>
-                <div style="float: left; width: 23em">Real-time Web Applications</div>
-            </div>
-        </a>
-        <a href="/training/Courses/TableOfContents/mobilize-aspdotnet-web-forms" title="Mobilize Your ASP.NET Web Forms" class="menuItem">
-            <div style="clear: both">
-                <div style="float: left; width: 4em">Jun 19</div>
-                <div style="float: left; width: 23em">Mobilize Your ASP.NET Web Forms</div>
-            </div>
-        </a>
-        <a href="/training/Courses/TableOfContents/onboard-yourself-after-dream-job" title="Onboard Yourself: What to Do After You Land Your Dream Job" class="menuItem">
-            <div style="clear: both">
-                <div style="float: left; width: 4em">Jun 18</div>
-                <div style="float: left; width: 23em">Onboard Yourself: What to Do After You Land You...</div>
-            </div>
-        </a>
-        <a href="/training/Courses/TableOfContents/automatic-dotnet-code-weaving-fody" title="Automatic .NET Code Weaving With Fody" class="menuItem">
-            <div style="clear: both">
-                <div style="float: left; width: 4em">Jun 17</div>
-                <div style="float: left; width: 23em">Automatic .NET Code Weaving With Fody</div>
-            </div>
-        </a>
+<div class="header_nav--menu header_nav_submenus"><a href="/business" class="header_nav_secondary">Business</a></div>
+<div class="header_nav--menu header_nav_submenus"><a href="/learn" class="header_nav_secondary">Individuals</a></div>
+<div class="header_nav">
+<ul>
+<li class="mobile-only">
+<ul>
+<li class="mobile-signin"><a class="header_sign_up_link" href="/pricing" data-aa-title="nav-signup-cta">Get started</a></li>
+<li class="mobile-signin"><a class="header_sign_in_link sign_in_link" href="https://app.pluralsight.com/id?">Log in</a></li>
+<li><a href="/learn">Individuals</a></li>
+<li><a href="/business">Business</a></li>
+<li><a href="/contact">Contact</a></li>
+<li class="mobile-breaker">Categories</li>
+<li><a href="/browse/software-development">Software Development</a></li>
+<li><a href="/browse/it-ops">IT Ops</a></li>
+<li><a href="/browse/creative-professional">Creative Professional</a></li>
+<li><a href="/browse/data-professional">Data Professional</a></li>
+<li><a href="/browse/architecture-construction">Architecture &amp; Construction</a></li>
+<li><a href="/browse/manufacturing-design">Manufacturing &amp; Design</a></li>
+<li><a href="/browse/business-professional">Business Professional</a></li>
+<li><a href="/browse/information-cyber-security">Information &amp; Cyber Security</a></li>
+</ul>
+</li>
+</ul>
 </div>
-
-                        <div class="search">
-                            <form action="/training/Courses/Find" method="GET">
-                                <input name="highlight" type="hidden" value="true">
-                                <input name="searchTerm" class="searchbox" type="text" maxlength="200" id="searchBox" rel="Search the library" value="Search the library" style="color: #ababab;">
-                                <input type="submit" value="" class="transparent">
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-
-
-        </div>
-        <div class="wrap">
-            <div id="contentSection">
-                <div class="wrap">
-    <div id="content">
-        <div class="secondary">
-            <div class="overview">
-                
-    <h1>Privacy Policy</h1>
-    <div class="text">
-        <p></p>
-    </div>
-
-            </div>
-            <div class="main">
-                
-    <div class="text">        
-        <h2>Collection of your Personal Information</h2>
-        <p>Last updated: <em>27 Feb, 2013</em></p>
-        <p>We value your trust. In order to honor that trust, Pluralsight adheres to ethical standards in gathering, using, and safeguarding
-            any information you provide. </p>
-        <p>We will ask you when we need information that personally identifies you (personal information) or allows us to contact you.
-            For example, when you register for an event, we will need your contact information as well as financial information such
-            as a credit card number for billing. We will retain your contact information in a user profile.</p>
-        <p>As is true of most websites, we gather site-visitation data automatically and store it in log files. This information includes
-            internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system,
-            date/time stamp, and clickstream data. We do not link this automatically-collected data to personally identifiable information
-            without first asking your permission. </p>
-        <h2>Use of your Personal Information</h2>
-        <p>We use our log files which do not identify individual users, to analyze trends, to administer the site, to track users’ movements
-            around the site and to gather demographic information about our user base as a whole.</p>
-        <p>We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information
-            in aggregate to provide more relevant content. In some limited-entry sections of pluralsight.com, with your approval, we
-            will combine site-visitation data with your personal information in order to provide you with personalized content. If you
-            decline permission, we will not provide you the personalized service and won't merge your personal information with site-visitation
-            data.</p>
-        <p>We use an outside credit card processing company to bill you for goods and services. These companies do not retain, share,
-            store or use personally identifiable information for any other purpose.</p>
-        <p>We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure
-            is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on
-            our website. </p>
-        <h2>Control of your Personal Information</h2>
-        <p>When you register, or otherwise give us personal information, pluralsight.com will not share that information with third
-            parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes
-            stated in this privacy policy.</p>
-        <p>The vast majority of our communication with you will occur through our weblog syndication (RSS feeds). This is naturally
-            an optional service to which you can subscribe using a news aggregator of your choice.</p>
-        <p>Pluralsight will occasionally email notices such as date changes for events for which you have enrolled. You will not be
-            able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
-        </p>
-        <h2>Access to your Personal Information</h2>
-        <p>We will provide you with the means to ensure that your personal information is correct and current. If you have filled out
-            a user profile, we will provide an obvious way for you to access and change your profile from our website. We will even
-            allow you to completely delete your profile, although this option will not be available if you are registered for pending
-            events or services.</p>
-        <h2>Security of your Personal Information</h2>
-        <p>The security of your personal information is important to us. When you enter sensitive information (such as credit card number
-            and/or social security number) on our registration forms, your information is sent over an authenticated and encrypted connection
-            using the Secure Socket Layer (SSL).</p>
-        <p>We store your personal information only on servers with limited access that are located in controlled facilities, and use
-            a variety of technologies and procedures to protect your personal information from unauthorized access, use, or disclosure.</p>
-        <p>If you have any questions about security on our website, <a class="darkLink" href="/training/About/ContactUs?interestedIn=Privacy%20Policy%20Question&amp;isMessageSent=False&amp;sendFailed=False">contact us</a>.
-        </p>
-        <h2>Use of Cookies</h2>
-        <p>A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies to make our
-            site easier to use. We do not link the information we store in cookies to any personally identifiable information you submit
-            while on our site.</p>
-        <p>If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as event enrollment,
-            will be limited. Note that modern browsers allow you to pick and choose which websites should be allowed to receive cookies.
-        </p>
-        <h2>Anti-Spam Policy/Opt-out Choice</h2>
-        <p>We are committed to providing users of this website with the choice to receive or not receive e-mails and/or other communications
-            from Pluralsight. We strive to comply with the CAN-SPAM Act. We only send commercial e-mails to registered users, subscribers
-            and affiliates with relationships with Pluralsight and its team. We offer e-mail recipients the opportunity to opt-out of
-            further communications in every commercial e-mail. If you would like to opt-out of receiving further communications, please
-            follow the directions in the e-mail received or contact us using one of the following modes: </p>
-        <p>Email: <a href="mailto://marketing@pluralsight.com">marketing@pluralsight.com</a><br>
-            Physical mail: 67 S Main St Ste 300 Clearfield, UT 84041 U.S.A. </p>
-        <p>Please note that we may not include the opt-out information in non-commercial e-mails (i.e., e-mails concerning your order,
-            the website’s Terms and Conditions of Use, etc.). If you have questions or concerns regarding a non-commercial e-mail, please
-            contact us. </p>
-        <h2>Changes to this Statement</h2>
-        <p>As pluralsight.com evolves, our privacy policy will need to evolve as well to cover new situations. To ensure that you are
-            kept informed of changes check this document periodically as we will update the date at the top of the document any time
-            we make a change.</p>
-    </div>
-
-            </div>
-        </div>
-    </div>
+</div>
+<a href="#" class="header_menu">
+<div class="header_menu_line"></div>
+<div class="header_menu_line"></div>
+<div class="header_menu_line"></div>
+</a>
+<div class="header_utilities">
+<a href="/pricing" class="btn-xs header_sign_up_link" data-aa-title="nav-signup-cta">Get started</a>
+<a href="https://app.pluralsight.com/id?" class="btn-xs flat white header_sign_in_link sign_in_link">Log in</a>
+</div>
+</header>
+<div class="header_padding"></div>
+</div></noindex>
+<div class="privacy-policy content-block">
+<div class="center">
+<div id="content" role="main">
+<div class="contain"><div class="title section">
+<div data-emptytext="Title">
+<h1>
+Privacy Policy
+</h1>
+</div></div>
+<div class="title section">
+<div data-emptytext="Title">
+<h5 class="  title--center title--alternate ">
+Last updated September 25, 2017
+</h5>
+</div></div>
+<div class="horizontal-rule section">
+<hr></div>
+<div class="column-control section"><div>
+<div class="container column-control-container ">
+<div class="row         ">
+<div class="large-5 columns" style="padding-right: 10px;"><div class="parsys section"><div class="link section">
+<a href="#collection" class="plain grey fourteen-px   " target="_self">
+Collection of your Personal Information
+</a></div>
+<div class="link section">
+<a href="#use" class="plain grey fourteen-px   " target="_self">
+Use of your Personal Information and Other Data
+</a></div>
+<div class="link section">
+<a href="#disclosure" class="plain grey fourteen-px   " target="_self">
+Disclosure of your Personal Information
+</a></div>
+<div class="link section">
+<a href="#control" class="plain grey fourteen-px   " target="_self">
+Control of your Personal Information
+</a></div>
+<div class="link section">
+<a href="#access" class="plain grey fourteen-px   " target="_self">
+Access to your Personal Information
+</a></div>
+<div class="link section">
+<a href="#security" class="plain grey fourteen-px   " target="_self">
+Security of your Personal Information
+</a></div>
+<div class="link section">
+<a href="#cookies" class="plain grey fourteen-px   " target="_self">
+Use of Cookies
+</a></div>
+<div class="link section">
+<a href="#spam" class="plain grey fourteen-px   " target="_self">
+Anti-Spam Policy/Opt-out Choice
+</a></div>
+<div class="link section">
+<a href="#links" class="plain grey fourteen-px   " target="_self">
+Links to Other Web Sites
+</a></div>
+<div class="link section">
+<a href="#shield" class="plain grey fourteen-px   " target="_self">
+Privacy Shield
+</a></div>
+<div class="link section">
+<a href="#resolution" class="plain grey fourteen-px   " target="_self">
+Enforcement and Dispute Resolution
+</a></div>
+<div class="link section">
+<a href="#disclosures" class="plain grey fourteen-px   " target="_self">
+DISCLOSURES SPECIFIC TO THE PLURALSIGHT PLATFORM
+</a></div>
+<div class="link section">
+<a href="#contact" class="plain grey fourteen-px   " target="_self">
+CONTACT INFORMATION
+</a></div>
+<div class="link section">
+<a href="#changes" class="plain grey fourteen-px   " target="_self">
+Changes to this Privacy Policy
+</a></div>
+<div class="column-control section"><div>
+<div class="container column-control-container ">
+<div class="row       padding-top-forty padding-bottom-forty ">
+<div class="large-12 columns"><div class="column-control section"><div>
+<div class="container column-control-container ">
+<div class="row         ">
+<div class="large-12 columns"><div class="link section">
+<a href="mailto:mailto:support@pluralsight.com" class="plain grey fourteen-px   " target="_self">
+CONTACT
+</a></div>
+<div class="link section">
+<a class="plain grey twelve-px   " target="_self">
++1 (801) 784-9007 opt 1
+</a></div>
+<div class="link section">
+<a href="mailto:support@pluralsight.com" class="plain orange twelve-px   " target="_self">
+support@pluralsight.com
+</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="free-form-component section">
+<div><a href="//privacy.truste.com/privacy-seal/validation?rid=c0423e68-cb98-4cad-bfb9-0c97166bb786" title="TRUSTe Privacy Certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=c0423e68-cb98-4cad-bfb9-0c97166bb786" alt="TRUSTe Privacy Certification"></a></div>
+</div>
+</div>
+</div>
+<div class="large-7 columns" style="padding-left: 10px;"><div class="text-2 section">
+<p>This Privacy Policy applies to <a href="https://www.pluralsight.com/" target="Target">www.pluralsight.com</a> and <a href="https://www.codeschool.com/" target="Target">www.codeschool.com</a>, owned and operated by Pluralsight, LLC (“Pluralsight”, “We”, “Us”). This Privacy Policy describes how Pluralsight collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. &nbsp;The use of information collected through our service shall be limited to the purpose of providing the service for which you have engaged Pluralsight.</p>
+<p>Pluralsight participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. &nbsp;Pluralsight is committed to subjecting all personal data received from European Union (EU) member countries, and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. &nbsp;To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <a href="https://www.privacyshield.gov/list" target="Target">https://www.privacyshield.gov/list</a>.</p>
+<p>Pluralsight is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. &nbsp;Pluralsight complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.</p>
+<p>With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Pluralsight is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. &nbsp;In certain situations, Pluralsight may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" target="Target">https://feedback-form.truste.com/watchdog/request</a>.&nbsp;</p>
+<p>Under certain conditions, more fully described on the Privacy Shield website at <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="Target">https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+</div>
+<div class="title section">
+<div id="collection_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Collection of your Personal Information
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>We value your trust. In order to honor that trust, Pluralsight adheres to ethical standards in gathering, using, and safeguarding any information you provide.</p>
+<p>We will ask you when we need information that personally identifies you or allows us to contact you ("personal information"). For example, when you register for a subscription, we will need your contact information: name, email address, and when you provide payment information for a subscription, we will need additional information: address and credit card information for billing; if you want to contact us through our website, we will additionally ask for your phone number. We will retain your name and email address in a user profile. If you choose to use the “Gift a Subscription” feature promoted through codeschool.com, we will ask for your friend’s email address. We will automatically send your friend a one-time email advising of the gift. Pluralsight stores the gift recipient's information for the sole purpose of sending this one-time email. Your friend may contact us at <a href="mailto:support@pluralsight.com">support@pluralsight.com</a>&nbsp;to request that we remove this information from our database.</p>
+<p>As is true of most websites, we gather site-visitation data automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</p>
+</div>
+<div class="title section">
+<div id="use_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Use of your Personal Information and Other Data
+</h5>
+</div></div>
+<div class="text-2 section">
+<p><b>Personal Information:</b> Pluralsight uses the personal information you provide in a manner that is consistent with this Privacy Policy. We use your personal information solely to provide our services to you. We also use your personal information together with other personally non-identifiable information to help us better understand our users and to improve the content and functionality of the site. &nbsp;In order to create an account with our site, we only require you to provide first name, last name, and email address. &nbsp;Additionally, you have the ability to provide additional personal information to complete a profile without our system. &nbsp;We will only use your profile information to personalize and improve your experience with our platform.&nbsp;If your subscription was provided by your employer or the third party owner of a community you are a part of, we may share information, including personal information, with your employer or such third party. Please see the “Partnership Subscriptions” section below for more information.</p>
+<p><b>Non-Identifiable Data:</b> We use our log files to analyze trends, to administer the site, to track users' movements around the site, and to gather demographic information about our user base as a whole. &nbsp;We utilize unstructured machine learning technologies to understand user behaviors and to provide user-specific recommendations and other personalization of the Site experience.</p>
+</div>
+<div class="title section">
+<div id="disclosure_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Disclosure of your Personal Information
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>We consider your personal information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your personal information with certain third parties, as set forth below:</p>
+<p><b>Business Transfers:&nbsp;</b>As we develop our business, we might sell or buy businesses or assets. Your personal information may be transferred to a buyer or other successor in the event of a corporate sale, merger, reorganization, dissolution or similar event in which personal information held by us about our site users is among the assets transferred.</p>
+<p><b>Agents, Consultants and Related Third Parties:&nbsp;</b>We sometimes hire other companies to perform certain business-related functions. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. For instance, we use an outside credit card processing company to bill you for goods and services. These companies are not permitted to use any personal information that we share with them for any other purpose aside from providing services to us.</p>
+<p><b>Partnership Subscriptions:</b> We partner with certain third parties to provide our services to their employees or their community members. As part of such partnerships, a third party may pay for the subscription for its employees or community members or otherwise contract with Pluralsight to make your subscription available to you, and Pluralsight may share information about your use of our services with the third party. If your subscription was provided by your employer or community sponsor, we may share information you provide, or information we may otherwise collect through your registration and use of our services, with such third party. This information may include course viewing history, course viewing time, course or assessment completion, course quality ratings and feedback, certifications, performance-related metrics, and personal information.</p>
+<p><b>Legal Requirements:</b> In certain situations, Pluralsight may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or similar legal process served on our site.</p>
+<p>We will take reasonable steps to ensure that we only collect that personal data that is relevant for the purposes for which it is to be used. Furthermore, we will not process your personal information in a way that is incompatible with these purposes.</p>
+</div>
+<div class="title section">
+<div id="control_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Control of your Personal Information
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>When you register, or otherwise give us personal information, our site will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated in this privacy policy. We will also give you the ability to opt out before we disclose your personal information to a third party or use your personal information for purposes that are fundamentally different than the purpose for which it was originally created.</p>
+<p>You may sign-up to receive newsletter or other communications from us. &nbsp;If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or at your member profile on our website or by contacting us at <a href="mailto:support@pluralsight.com">support@pluralsight.com</a>.</p>
+</div>
+<div class="title section">
+<div id="access_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Access to your Personal Information
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>Upon request Pluralsight will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. &nbsp;To request this information please contact us at <a href="mailto:support@pluralsight.com">support@pluralsight.com</a>.&nbsp;</p>
+<p>We will provide you with the means to ensure that your personal information is correct and current. If you have filled out a user profile, we will provide a way for you to access and change your profile from our site. We will even allow you to completely delete your profile along with all personal information associated with that profile, although this option may significantly degrade your experience with our platform. If you wish to make this request, please contact us at <a href="mailto:support@pluralsight.com">support@pluralsight.com</a>. We will respond to your request within a reasonable timeframe.</p>
+<p>If you would like view your personal information that we hold at any time, you may access your profile from our website.</p>
+<p>We retain your information while your account is active or as needed to provide you services. Thereafter, we may retain certain personal information indefinitely as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+</div>
+<div class="title section">
+<div id="security_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Security of your Personal Information
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our registration forms, your information is sent over an authenticated and encrypted connection using the Secure Socket Layer (SSL).</p>
+<p>We store your personal information only on servers with limited access that are located in controlled facilities, and use a variety of technologies and procedures to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration and destruction. Nonetheless, no communication via the Internet can ever be 100% secure. Accordingly, you are advised to use caution and discretion when determining what personal information to disclose to us via the site.</p>
+<p>If you have any questions about security on our site, contact us as follows:</p>
+<p>Email: <a href="mailto:support@pluralsight.com">support@pluralsight.com</a></p>
+<p>Phone: (801) 784-9007 opt 1</p>
+</div>
+<div class="title section">
+<div id="cookies_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Use of Cookies
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We and our partners use cookies or similar technologies to make our site easier to use. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
+<p>Users can control the use of cookies at the individual browser level. If you reject cookies, you will not be able to access our site.</p>
+<p>We partner with third parties to either display advertising on our website or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here (<a href="http://preferences-mgr.truste.com/">http://preferences-mgr.truste.com</a>)&nbsp;or, if you are located in the European Union, click here (<a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu</a>). Please note this does not opt you out of being served ads. You will continue to receive generic ads.</p>
+</div>
+<div class="title section">
+<div id="spam_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Anti-Spam Policy/Opt-out Choice
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>We are committed to providing users of this site with the choice to receive or not receive marketing-related e-mails and/or communications from us. We only send commercial e-mails to registered users, subscribers and affiliates with relationships with Pluralsight and its team. We offer e-mail recipients the opportunity to opt-out of further communications in every commercial e-mail. If you would like to opt-out of receiving further communications, please follow the directions in the e-mail received or contact us using one of the following modes:</p>
+<p>Email:&nbsp;<a href="mailto:marketing@pluralsight.com">marketing@pluralsight.com</a></p>
+<p>Physical mail: 182 N. Union Ave., Farmington, UT 84025, U.S.A.</p>
+<p>Please note that we may not include the opt-out information in e-mails that are transactional in nature and are not marketing communications (i.e., e-mails concerning your order, the website's Terms and Conditions of Use, etc.). If you have questions or concerns regarding a non-commercial e-mail, please contact us.</p>
+</div>
+<div class="title section">
+<div id="links_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Links to Other Web Sites
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>This Privacy Policy applies only to the site. Our site may contain links to other web sites not operated or controlled by us (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from our site do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those Third Party Sites directly for information on their privacy policies.</p>
+</div>
+<div class="title section">
+<div id="shield_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Privacy Shield
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>Pluralsight participates in and has certified its compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield frameworks. &nbsp;We are committed to subjecting all information received from the European Union (“<b>EU</b>”) and European Economic Area and Switzerland which constitutes “<b>personal data</b>” subject to the EU’s and Switzerland’s privacy laws (“<b>EU and Swiss Personal Data</b>”), in reliance on Privacy Shield, to the applicable Privacy Shield Principles. To learn more about Privacy Shield and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List (<a adhocenable="false" href="https://www.privacyshield.gov/list" target="_blank">www.privacysheild.gov/list</a>). Our compliance with applicable Privacy Shield Principles is further described as follows:</p>
+<p>Collection and use; Purpose. Pluralsight collects and uses EU and Swiss Personal Data as set forth in “<b>Use of your Personal Information and Other Data</b>” above.</p>
+<p>Third party disclosure. We may disclose EU and Swiss Personal Data as set forth in “<b>Disclosure of your Personal Information</b>” above.</p>
+<p><i><u>Security.</u></i> Pluralsight protects the security of EU and Swiss Personal Data during transfer and storage as set forth in “<b>Security of your Personal Information</b>” above.</p>
+<p><i><u>Onward transfer.</u></i> Pluralsight acts as a data processor and is responsible for the processing of EU and Swiss Personal Data, under the Privacy Shield framework, and subsequent transfers to any third party acting as an agent on its behalf. Pluralsight maintains contracts with these third parties restricting their access, use, and disclosure of personal data in compliance with our Privacy Shield obligations. Pluralsight complies with the Privacy Shield Principles for all onward transfers of EU and Swiss Personal Data, including the onward transfer liability provisions.</p>
+<p><i><u>Access and choice.</u></i> Residents of the EU and Switzerland whose personal data Pluralsight has directly collected may request access to, and the opportunity to correct, amend, or delete such personal data. To submit such requests or raise any other questions, please contact us at <a href="mailto:privacy@pluralsight.com">privacy@pluralsight.com</a>. Pluralsight reserves the right to take appropriate steps to authenticate an applicant’s identity and charge a reasonable fee before providing access and deny requests, except as required by the Privacy Shield principles.</p>
+<p><i><u>Recourse; enforcement; liability.</u></i> Pluralsight complies with the Privacy Shield Principles for recourse, enforcement and liability. &nbsp;Pluralsight uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformance with Privacy Shield principles. You may direct inquires or complaints concerning our Privacy Shield compliance to <a href="mailto:privacy@pluralsight.com">privacy@pluralsight.com</a>. Pluralsight will respond within 45 days. If we fail to respond or if our response did not satisfactorily address your concern, you may file a report with TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request" target="Target">https://feedback-form.truste.com/watchdog/request</a>; more information about TRUSTe’s role in the dispute resolution process can be found here: <a href="https://www.trustarc.com/consumer-resources/dispute-resolution/dispute-resolution-faqs/#howfile" target="Target">https://www.truste.com/consumer-resources/dispute-resolution/dispute-resolution-faqs/#howfile</a>. Pluralsight has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.&nbsp;If your concern is not resolved by exhausting these dispute resolution procedures, then under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration.</p>
+<p><i><u>Jurisdiction.</u></i> With respect to EU and Swiss Personal Data received or transferred pursuant to the Privacy Shield framework, Pluralsight is subject to the regulatory investigation and enforcement powers of the U.S. Federal Trade Commission.</p>
+</div>
+<div class="title section">
+<div id="resolution_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Enforcement and Dispute Resolution
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>We will conduct compliance audits of our relevant privacy practices to verify compliance with this policy.</p>
+<p>Any Pluralsight employee that we determine has acted in violation of this Privacy Policy will be subject to disciplinary action up to and including termination of employment.</p>
+<p>Any questions or concerns regarding our use or disclosure of Personal Data should be addressed to Customer Support at the address given below. We will investigate and attempt to resolve any complaints and disputes regarding the use and disclosure of Personal Data in accordance with the provisions of this policy.</p>
+<p>Pluralsight has committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider located in the United States. &nbsp;If you do not receive timely acknowledgement of your complaint from us, or if we have not resolved your complaint, please contact TRUSTe for more information or to file a report. The services of TRUSTe are provided at no cost to you.</p>
+</div>
+<div class="title section">
+<div id="disclosures_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+DISCLOSURES SPECIFIC TO THE PLURALSIGHT PLATFORM
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>With regard to Business Plans created by enterprise customers of Pluralsight, Pluralsight collects information under the direction of its enterprise customers, and has no direct relationship with the individual employees of such enterprise customers whose personal data we collect and process. If you are an employee of one of our Clients and would no longer like to be contacted by our marketing communications, please contact your employer. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our enterprise customers.</p>
+<p>We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Thereafter, Pluralsight may retain certain personal information indefinetly to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+</div>
+<div class="title section">
+<div id="contact_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+CONTACT INFORMATION
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>Questions or comments regarding this policy should be submitted to Pluralsight by e-mail or phone as follows:</p>
+<p>Email: <a href="mailto:support@pluralsight.com">support@pluralsight.com</a></p>
+<p>Phone: (801) 784-9007 opt 1.</p>
+<p>Physical Address: 182 N. Union Ave, Farmington, UT 84025</p>
+</div>
+<div class="title section">
+<div id="changes_" class="hidden"></div>
+<div data-emptytext="Title">
+<h5>
+Changes to this Privacy Policy
+</h5>
+</div></div>
+<div class="text-2 section">
+<p>As pluralsight.com evolves, our privacy policy will need to evolve as well to cover new situations. To ensure that you are kept informed of changes check this document periodically as we will update the date at the top of the document any time we make a material change. If we do elect to revise our Privacy Policy, we will post the revised policy on this page and will indicate at the top of this page the date this policy was last revised. Your continued use of the site after any such changes constitutes your acceptance of the new Privacy Policy. If you do not agree to abide by these or any future version of the Privacy Policy, you do not have permission to use or access (or continue to use or access) our site.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<noindex><footer id="ftr">
+<div class="ftr-first-row ftr-row">
+<div class="ftr-container">
+<div class="ftr-logo-links">
+<a href="https://www.pluralsight.com/about"><span><img src="//www.pluralsight.com/content/dam/pluralsight2/general/icons/light/ps-icon.png"></span>About</a>
+<a href="https://www.pluralsight.com/contact"><span><img src="//www.pluralsight.com/content/dam/pluralsight2/general/icons/light/contact-icon.png"></span>Contact</a>
+<a href="https://www.pluralsight.com/events"><span><img src="//www.pluralsight.com/content/dam/pluralsight2/general/icons/light/event-icon.png"></span>Events</a>
+</div>
+<div class="ftr-cat-links-wrapper">
+<div class="ftr-cat-links-col">
+<div class="ftr-dd">╲╱</div>
+<div class="ftr-cat-header">Solutions</div>
+<div class="ftr-cat-links">
+<a href="https://www.pluralsight.com/business">Business</a>
+<a href="https://www.pluralsight.com/learn">Individuals</a>
+<a href="https://www.pluralsight.com/small-business">Small business</a>
+<a href="https://www.pluralsight.com/academic">Academic</a>
+<a href="https://www.pluralsight.com/federal">Federal government</a>
+<a href="https://www.pluralsight.com/state-and-local">State &amp; local government</a>
+<a href="https://www.pluralsight.com/kids-courses">Free courses for kids</a>
+</div>
+</div>
+<div class="ftr-cat-links-col">
+<div class="ftr-dd">╲╱</div>
+<div class="ftr-cat-header">Platform</div>
+<div class="ftr-cat-links">
+<a href="https://www.pluralsight.com/browse">Browse library</a>
+<a href="https://www.pluralsight.com/product/pluralsight-iq">Pluralsight IQ</a>
+<a href="https://www.pluralsight.com/product/iris">Iris</a>
+<a href="https://www.pluralsight.com/product/paths">Paths</a>
+<a href="https://www.pluralsight.com/product/mentoring">Mentoring</a>
+<a href="https://www.pluralsight.com/authors">Authors</a>
+<a href="https://www.pluralsight.com/downloads">Mobile apps</a>
+<a href="https://www.pluralsight.com/product/professional-services">Professional Services</a>
+</div>
+</div>
+<div class="ftr-cat-links-col">
+<div class="ftr-dd">╲╱</div>
+<div class="ftr-cat-header">Support</div>
+<div class="ftr-cat-links">
+<a href="http://help.pluralsight.com/help">Help center</a>
+<a href="http://help.pluralsight.com/help">Knowledge base</a>
+<a href="https://www.pluralsight.com/product/integrations">Integrations</a>
+<a href="https://www.pluralsight.com/content/dam/pluralsight/landing-pages/resource/tutorial/pluralsight-ip-whitelist.pdf">IP whitelist</a>
+</div>
+</div>
+<div class="ftr-cat-links-col">
+<div class="ftr-dd">╲╱</div>
+<div class="ftr-cat-header">Company</div>
+<div class="ftr-cat-links">
+<a href="https://www.pluralsight.com/partners">Partners</a>
+<a href="https://www.pluralsightone.org">PluralsightOne.org</a>
+<a href="https://www.pluralsight.com/customer-stories">Customer stories</a>
+<a href="https://www.pluralsight.com/careers">Careers</a>
+<a href="https://www.pluralsight.com/teach">Teach</a>
+<a href="https://www.pluralsight.com/thehub">Blog</a>
+<a href="https://www.pluralsight.com/newsroom">Newsroom</a>
+<a href="https://www.pluralsight.com/tech-blog">Pluralsight engineering</a>
+<a href="https://www.pluralsight.com/affiliate">Affiliate program</a>
+<a href="https://www.pluralsight.com/subscribe">Subscribe</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ftr-second-row ftr-row">
+<div class="ftr-container">
+<div class="ftr-social-icons">
+<a href="https://www.facebook.com/pluralsight" class="share__link face-icon" target="_blank" alt="Like"></a>
+<a href="http://www.instagram.com/pluralsight" class="share__link insta-icon" target="_blank" alt="Like"></a>
+<a href="https://www.twitter.com/pluralsight" class="share__link tweet-icon" target="_blank" alt="Like"></a>
+<a href="https://www.linkedin.com/company/pluralsight" class="share__link linkedin-icon" target="_blank" alt="Like"></a>
+<a href="https://plus.google.com/+pluralsight" class="share__link goog-icon" target="_blank" alt="Like"></a>
+<a href="https://www.youtube.com/user/pluralsight" class="share__link youtube-icon" target="_blank" alt="Like"></a>
+</div>
+</div>
+</div>
+<div class="ftr-third-row ftr-row">
+<div class="ftr-container">
+<div class="ftr-terms"><a href="https://www.pluralsight.com/sitemap.xml">Site Map</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://www.pluralsight.com/terms">Terms of Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://www.pluralsight.com/privacy">Privacy Policy</a></div>
+<div class="ftr-copyright">Copyright © 2004 - 2017 Pluralsight LLC. All rights reserved</div>
+</div>
+</div>
+<div class="ftr-fourth-row ftr-row"></div>
+</footer></noindex>
+<script type="text/javascript" src="/etc/clientlibs/pluralsight/uber.min.3c1d23995f72070019da18d6be78c298.js" defer=""></script>
+<!--adobe dtm page end call-->
+<script type="text/javascript">if(typeof(_satellite)!="undefined"){_satellite.pageBottom();}</script>
+<!--load full demandbase tools-->
+<script type="text/javascript">loadRemoteScript('scripts.demandbase.com/LrYAV7hU.min.js','text/javascript',1,'demandbase_js_secondary_libs',function(){window.dbReady=true;var newEvent=new CustomEvent("PS.dbReady",{bubbles:true,cancelable:false});document.querySelector('body').dispatchEvent(newEvent);});</script>
+<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6966154/7885752/css/fonts.css">
+</div>
 </div>
 
 
-
-
-
-            </div>
-            <div id="footer">
-                <div id="footerSeparator">
-                </div>
-                <div class="top">
-                    <div id="tags" class="categories">
-                        <h1 id="categories">Top Categories</h1>
-                            <a href="/training/Courses#sharepoint" title="SharePoint (102 Courses)">&nbsp;SharePoint (102) &nbsp;</a>
-                            <a href="/training/Courses#virtualization" title="Virtualization (93 Courses)">&nbsp;Virtualization (93) &nbsp;</a>
-                            <a href="/training/Courses#windows-server" title="Windows Server (83 Courses)">&nbsp;Windows Server (83) &nbsp;</a>
-                            <a href="/training/Courses#javascript" title="JavaScript (67 Courses)">&nbsp;JavaScript (67) &nbsp;</a>
-                            <a href="/training/Courses#sql-server" title="SQL Server (63 Courses)">&nbsp;SQL Server (63) &nbsp;</a>
-                            <a href="/training/Courses#software-practices" title="Software Practices (55 Courses)">&nbsp;Software Practices (55) &nbsp;</a>
-                            <a href="/training/Courses#aspdotnet" title="ASP.NET (54 Courses)">&nbsp;ASP.NET (54) &nbsp;</a>
-                            <a href="/training/Courses#networking" title="Networking (48 Courses)">&nbsp;Networking (48) &nbsp;</a>
-                            <a href="/training/Courses#microsoft-office" title="Microsoft Office (45 Courses)">&nbsp;Microsoft Office (45) &nbsp;</a>
-                            <a href="/training/Courses#dotnet" title=".NET (42 Courses)">&nbsp;.NET (42) &nbsp;</a>
-                            <a href="/training/Courses#windows-8" title="Windows 8 (37 Courses)">&nbsp;Windows 8 (37) &nbsp;</a>
-                            <a href="/training/Courses#exchange-server" title="Exchange Server (36 Courses)">&nbsp;Exchange Server (36) &nbsp;</a>
-                            <a href="/training/Courses#security" title="Security (29 Courses)">&nbsp;Security (29) &nbsp;</a>
-                            <a href="/training/Courses#visual-studio" title="Visual Studio (28 Courses)">&nbsp;Visual Studio (28) &nbsp;</a>
-                            <a href="/training/Courses#csharp" title="C# (27 Courses)">&nbsp;C# (27) &nbsp;</a>
-                            <a href="/training/Courses#careers" title="Careers (27 Courses)">&nbsp;Careers (27) &nbsp;</a>
-                            <a href="/training/Courses#powershell" title="PowerShell (25 Courses)">&nbsp;PowerShell (25) &nbsp;</a>
-                            <a href="/training/Courses#java" title="Java (24 Courses)">&nbsp;Java (24) &nbsp;</a>
-                            <a href="/training/Courses#windows-azure" title="Windows Azure (24 Courses)">&nbsp;Windows Azure (24) &nbsp;</a>
-                            <a href="/training/Courses#business-intelligence" title="Business Intelligence (23 Courses)">&nbsp;Business Intelligence (23) &nbsp;</a>
-                            <a href="/training/Courses#ruby" title="Ruby (23 Courses)">&nbsp;Ruby (23) &nbsp;</a>
-                            <a href="/training/Courses#cpp" title="C++ (20 Courses)">&nbsp;C++ (20) &nbsp;</a>
-                            <a href="/training/Courses#ios" title="iOS (20 Courses)">&nbsp;iOS (20) &nbsp;</a>
-                            <a href="/training/Courses#html-5" title="HTML5 (18 Courses)">&nbsp;HTML5 (18) &nbsp;</a>
-                            <a href="/training/Courses#system-center" title="System Center (18 Courses)">&nbsp;System Center (18) &nbsp;</a>
-                            <a href="/training/Courses#debugging" title="Debugging (17 Courses)">&nbsp;Debugging (17) &nbsp;</a>
-                            <a href="/training/Courses#android" title="Android (16 Courses)">&nbsp;Android (16) &nbsp;</a>
-                            <a href="/training/Courses#programming-languages" title="Programming Languages (16 Courses)">&nbsp;Programming Languages (16) &nbsp;</a>
-                            <a href="/training/Courses#social-media" title="Social Media (15 Courses)">&nbsp;Social Media (15) &nbsp;</a>
-                            <a href="/training/Courses#beginner-programming" title="Beginner Programming (13 Courses)">&nbsp;Beginner Programming (13) &nbsp;</a>
-                        <a href="/training/Courses">&nbsp;More...&nbsp;</a>
-                    </div>
-                </div>
-                <div class="bottom">
-                    <div class="links">
-                        <div class="column">
-                            <h1>Products</h1>
-                            <ul>
-                                <li><a href="/training/Products/Individual">Individual plans</a>
-                                </li><li><a href="/training/Products/Businesses">Business plans</a>
-                                </li><li><a href="/training/Subscribe/Step1?isTrial=True&amp;failedCaptcha=False">Free trial</a>
-                                </li><li><a href="/training/Products/Academic">Academic</a></li>
-                                <li><a href="/training/Products/Government">Government</a></li>
-                                <li><a href="/training/Webcasts/Recorded">Recorded webcasts</a></li>
-                            </ul>
-                        </div>
-                        <div class="column">
-                            <h1>Support</h1>
-                            <ul>
-                                <li><a href="javascript:UserVoice.showPopupWidget();" title="Ask support a question">Ask support a question</a></li>
-                                <li><a href="http://support.pluralsight.com/forums/127919-new-course-suggestions">Suggest a course</a></li>
-                                <li><a href="/training/Support/UserVoiceOutbound">Support and feedback</a></li>
-                                <li><a href="/training/Support/KnowledgeBaseOutbound">Knowledge base/FAQ</a></li>
-                                <li><a href="/training/Support/TermsOfUse">Terms of use</a></li>
-                            </ul>
-                        </div>
-                        <div class="column">
-                            <h1>Features</h1>
-                            <ul>
-                                <li><a href="/training/Products/MobilePlayers">Mobile apps</a></li>
-                                <li><a href="/training/Products/LibrarySearch">Full library search</a></li>
-                                <li><a href="/training/Products/ProgressTracking">Progress tracking</a></li>
-                                <li><a href="/training/Products/ExerciseFiles">Exercise files</a></li>
-                                <li><a href="/training/Products/Assessments">Assessments and certificates</a></li>
-                                <li><a href="/training/Products/OfflineViewing">Offline viewing</a></li>
-                            </ul>
-                        </div>
-                        <div class="column">
-                            <h1>About</h1>
-                            <ul>
-                                <li><a href="http://blog.pluralsight.com/press">Press center</a></li>
-                                <li><a href="/training/About">About us</a></li>
-                                <li><a href="/training/Authors">Authors</a></li>
-                                <li><a href="http://blog.pluralsight.com/jobs">Jobs</a></li>
-                            </ul>
-                        </div>
-                        <div class="column">
-                            <h1>Community</h1>
-                            <ul>
-                                <li><a href="/training/Kids">Free kids courses</a></li>
-                                <li><a href="/training/Community/Newsletter">Newsletter</a></li>
-                                <li><a href="http://blog.pluralsight.com">Official blog</a></li>
-                                <li><a href="/training/Community/StudyGroups">Study Groups</a></li>
-                                <li><a href="/training/Community/Sponsorships">UG &amp; event sponsorships</a></li>
-                            </ul>
-                        </div>
-                        <div class="column">
-                            <ul class="social">
-                                <li><a href="http://www.twitter.com/pluralsight">
-                                        <img src="//s.pluralsight.com/mn/img/sh/twitter-icon-20-v1.png" alt="Twitter"></a></li>
-                                <li><a href="http://www.linkedin.com/groups?gid=2183149">
-                                        <img src="//s.pluralsight.com/mn/img/sh/linkedin-icon-20-v1.png" alt="Linkedin"></a></li>
-                                <li><a href="http://www.facebook.com/pluralsight">
-                                        <img src="//s.pluralsight.com/mn/img/sh/fb-icon-20-v1.png" alt="Facebook"></a></li>
-                                <li>
-                                    <a href="https://plus.google.com/107809644321419638488" rel="publisher">
-                                        <img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border: 0; width: 20px; height: 20px;">
-                                    </a>                                    
-                                </li>
-                                <li><a href="http://blog.pluralsight.com">
-                                        <img src="//s.pluralsight.com/mn/img/sh/rss-icon-20-v1.png" alt="RSS"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="legal">
-                        <div class="text">
-                            Copyright © Pluralsight LLC. All rights reserved. &nbsp;&nbsp; <a href="/training/About/Privacy">privacy policy</a>.
-                        </div>
-                    </div>
-                        <div id="primaryScriptMissing" style="text-align: center">
-                            Primary script file is <strong>missing</strong>
-                        </div>
-                </div>
-            </div>
-        </div>
-        <script type="text/javascript">
-            var uvOptions = { };
-            (function() {
-                var uv = document.createElement('script');
-                uv.type = 'text/javascript';
-                uv.async = true;
-                uv.src = '//widget.uservoice.com/MgRuFTmArYOqweeXBEbikg.js';
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(uv, s);
-            })();
-        </script>
-    
-    
-    
-
-
-    <script type="text/javascript">
-        
-        PS.ajaxFormFailed = function() {
-            window.location = '/training/Error/Show';
-        };        
-    </script>
-
-    <script type="text/javascript">
-        adroll_adv_id = "BFLWHRV7W5FLTIZIQ4OSO6";
-        adroll_pix_id = "NPTOMQSYYZABNNUIQDRAKL";
-        (function () {
-            var oldonload = window.onload;
-            window.onload = function () {
-                __adroll_loaded = true;
-                var scr = document.createElement("script");
-                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                scr.setAttribute('async', 'true');
-                scr.type = "text/javascript";
-                scr.src = host + "/j/roundtrip.js";
-                ((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                if (oldonload) {
-                    oldonload();
-                }
-            };
-        } ());
-    </script>
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $("#searchBox").live("blur", function () {
-                var defaultValue = $(this).attr("rel");
-                if ($(this).val() == "") {
-                    $(this).val(defaultValue);
-                    $(this).css('color', '#ababab');
-                }
-            }).live("focus", function () {
-                var defaultValue = $(this).attr("rel");
-                if ($(this).val() == defaultValue) {
-                    $(this).val("");
-                    $(this).css('color', 'black');
-                }
-            });
-        });
-    </script>
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
