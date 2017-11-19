@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakerbardetroit.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611145240id_/https%3A//sneakerbardetroit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerbardetroit.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119064701id_/https%3A//sneakerbardetroit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sneaker Bar Detroit
 
