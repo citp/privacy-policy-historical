@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aux.tv privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129080933id_/http%3A//www.aux.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aux.tv privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120003923id_/http%3A//ontheaside.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AUX.TV
+# Privacy Policy – A.Side
 
-**Last Updated: May 19, 2016**
+### **Last Updated: May 19, 2016**
 
 **_Introduction_**
 
@@ -96,14 +96,10 @@ To help ensure the privacy of your Personal Information, we urge you not to shar
 
 If you have any concerns about privacy procedures at our Site, wish to find out further details about how your Personal Information may be used, or want to update your Personal Information, write us at:
 
-Blue Ant Media Inc.
-
-130 Merton Street
-
-Suite 200
-
-Toronto, Ontario
-
+Blue Ant Media Inc.  
+130 Merton Street  
+Suite 200  
+Toronto, Ontario  
 M4S 1A4
 
 Or you may email us at feedback@blueantmedia.ca
