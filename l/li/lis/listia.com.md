@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listia.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115151437id_/https%3A//www.listia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listia.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119030248id_/https%3A//www.listia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Listia.com Auctions for Free Stuff
 
