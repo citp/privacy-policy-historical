@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazettelive.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043247id_/http%3A//www.gazettelive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettelive.co.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120004519id_/http%3A//www.gazettelive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Gazette Live: Number one for news, opinion, sport & celebrity gossip
 
