@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buylandingpagedesign.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121061108id_/https%3A//www.buylandingpagedesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buylandingpagedesign.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119174807id_/https%3A//www.buylandingpagedesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Buylandingpagedesign.com privacy policy on user information
 
-You can see this Policy in order for you to understand how we collect, use, communicate,disclose and   
+Privacy policy fof buylandingpagedesign.com on how we collect, use, communicate, disclose and   
 make use of personal information.
 
 ## All information we collect is highly confidential and we keep your information private, safe and secure.
