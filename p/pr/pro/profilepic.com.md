@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915115724id_/http%3A//www.profilepic.com/page/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119112818id_/https%3A//www.profilepic.com/page/terms) for the most accurate reproduction.*
 
-# ProfilePic.com
-
-By using this site you accept that we use cookies to improve the usage of this site. 
+# ProfilePic.com - Free Dating Site
 
 ### This Application collects some Personal Data from its Users.
 
 Last updated Thursday 23rd October 2014 01:23 AM 
 
-Christopher James McGough Admin@ProfilePic.com 
+Christopher James McGough sumitgoood @ icloud.com 
 
 ### Cookies Policy
 
@@ -87,6 +85,3 @@ The Data Controller reserves the right to make changes to this privacy policy at
 
   
 [Back](https://web.archive.org/)
-
-  
-Icons Designed by Freepik and distributed by Flaticon. 
