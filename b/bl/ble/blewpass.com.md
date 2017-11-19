@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blewpass.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517155219id_/http%3A//www.blewpass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blewpass.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119212918id_/http%3A//www.blewpass.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
