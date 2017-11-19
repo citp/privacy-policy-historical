@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilservicejobs.service.gov.uk privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308075351id_/https%3A//www.civilservicejobs.service.gov.uk/csr/index.cgi%3Fpageclass%3DStandardMessage%26display%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilservicejobs.service.gov.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119205034id_/https%3A//www.civilservicejobs.service.gov.uk/csr/index.cgi%3Fpageclass%3DStandardMessage%26display%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Civil Service Jobs - GOV.UK
 
