@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the singularityhub.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510200600id_/https%3A//singularityhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singularityhub.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119095239id_/https%3A//singularityhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Singularity Hub
 
-_**Version 1.4 -  ** **Last revised on: April 4, 2017**_
+_**Version 1.4 –  ** **Last revised on: April 4, 2017**_
 
 Singularity Education Group (“Singularity”, “SU”, “us”, and “we”) is committed to protecting your privacy. We operate the Singularity University website at su.org and singularityu.org (“SU Site”), the Singularity Hub website at singularityhub.com (“Singularity Hub Site”), and the SingularityU community website at singularityuglobal.org. Collectively, the foregoing websites and any other websites, programs, and services owned or controlled by Singularity that link to this Agreement are referred to as the “Site.” SU also provides certain mobile application(s) associated with the Site (“Mobile App”). Together, the Site and the Mobile App are referred to in this Agreement as the “Services.”
 
+### Purpose of this Privacy Policy
+
 We have prepared this Privacy Policy to describe how we will use the data we collect from users of our Services.  Services may contain links to other websites for your convenience and information. We are not responsible for the privacy practices or the content of those sites.
+
+### What You Consent to by Using Our Services
 
 Please understand that by submitting Personal Data through our Services, you expressly consent and agree to the collection, use, and disclosure of your Personal Data in accordance with this Privacy Policy, and as permitted or required by law. If you do not agree with these terms, then please do not provide any Personal Data to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personal Data, we may not be able to provide you with the Services.
 
 **_For Users Outside of the United States_** **: Please be advised that, by using our Services, you are consenting to the transfer and processing of your Personal Data across international borders. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may differ from the laws in your country, including lawful requirements to disclose Personal Data to government authorities.**
+
+### Types of Data We Collect
 
 “Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by directly or indirectly, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
 
@@ -46,6 +52,8 @@ If you use our Mobile App, we may collect information about the device on which 
 
 _(c)   A Note About Children_. We do not intentionally gather Personal Data from visitors who are under the age of 13. If you are under age 13, please do not attempt to create a user account or provide any personal information about yourself to us. If you are a parent or legal guardian who discovers that your child under age 13 has provided us with any Personal Data, you may contact us at any time at privacy@singularityu.org, and we will endeavor to promptly delete such information from our files and records.
 
+### How We Use Your Personal Data
+
 (a) _Provide Services to You_. Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in some of the following ways:
 
 to facilitate the creation of and secure your Account on our network;
@@ -72,6 +80,8 @@ to make telephone calls to you, from time to time, as a part of secondary fraud 
 
 (c) _Relevant Advertising_.  We may use (or permit third parties to use) activity, demographic and preference information to identify products and services, including our Services, that are most relevant to you, for purposes of facilitating the display of targeted advertising. This means you may see advertising within our Service or on other websites that you visit that is most likely to interest you, improving both your experience and the effectiveness of the ads (if permitted by local law) and choices and controls that may be available to you; including newsletters, surveys, offers, and other promotional materials related to our Services, offerings of our business partners, and for othermarketing purposes of Singularity.
 
+### Sharing of Your Personal Data
+
 We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy.
 
 (a) _Third Party Service Providers and Business Partners_. We may share your Personal Data with third party service providers, for purposes such as providing payment processing services for the Services. These third party service providers are required not to use your Personal Data other than to provide the services requested by Singularity.We also may share or disclose your Personal Data with our current and future business partners, including but not limited to our event sponsors, so that we or our business partners can provide you with information about products and services that may be of interest to you.
@@ -86,13 +96,15 @@ If you login using a social networking site (e.g., Facebook) account (“SNS Acc
 
 When you click on a link to any other website or location, you will leave our Site or Mobile App and go to another site and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, the content, privacy policies, or practices of any third party site, service, or application including their use of any cookies and/or collection of any Personal Data. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites. We encourage you to be aware when you leave the Services, and to read the privacy policy of each third party site, service or application that you visit.
 
+### Your Choices Regarding Your Personal Data
+
 (a) _Choices_. We offer you choices regarding the collection, use, and sharing of your Personal Data.
 
 (i) We will periodically send you free newsletters and e-mails that directly promote the use of our Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below).
 
 (ii) Despite your indicated e-mail preferences, we may send you service related communication, including notices of any updates to our Terms of Use or Privacy Policy.
 
-(b) _Changes to Personal Data_. You may change your Personal Data in your Account by editing your profile within your Account. You may also contact us via privacy@singularityu.org. We try to answer every email promptly, but may not always be able to do so. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud prevention or similar purposes.In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
+(b) _Changes to Personal Data_. You may change your Personal Data in your Account by editing your profile within your Account. You may also contact us via privacy@singularityu.org. We try to answer every email promptly, but may not always be able to do so. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud prevention or similar purposes.In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
 
 (c) _Do Not Track_. Because an industry-standard Do Not Track protocol has not yet been established, our information collection and disclosure practices, and the choices we offer, will continue to operate as described in this Privacy Policy regardless of choices made regarding the use of Do Not Track technologies.
 
@@ -120,15 +132,19 @@ CA 94035-0001
 
 Phone: (650) 200-3434
 
+### Changes to This Privacy Policy
+
 This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
 **Additional Policies**
 
 Certain services provided by or through Singularity may be subject to additional privacy policies or privacy disclosures (collectively “Additional Policies”). In the event of any direct conflict between any Additional Policies and this policy, the Additional Policies will control.
 
-Under California’s "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2012 will receive information regarding 2011 sharing activities).
+### California Privacy Rights
 
-To obtain this information, please send an email message to privacy@singularityu.org with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
+Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2012 will receive information regarding 2011 sharing activities).
+
+To obtain this information, please send an email message to privacy@singularityu.org with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
 
 Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.
 
