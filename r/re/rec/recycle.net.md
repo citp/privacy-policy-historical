@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recycle.net privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610052123id_/http%3A//www.recycle.net/web/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recycle.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120005552id_/http%3A//www.recycle.net/web/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,8 +80,8 @@ Recycler's World welcomes your continuous input regarding our Privacy Policy or 
 Recycling Offset Credits 
 
 
-Friday, 09-Jun-2017 05:26:21 EDT  
-File No: 48447 
+Sunday, 19-Nov-2017 05:27:08 EST  
+File No: 50229 
 
 | 
 
