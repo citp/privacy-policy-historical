@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopicnic.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515090655id_/http%3A//gopicnic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopicnic.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119075807id_/http%3A//gopicnic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
