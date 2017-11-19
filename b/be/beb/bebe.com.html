@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bebe.com privacy policy that was archived on 2017-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170613080901id_/http%3A//www.bebe.com/custserv/custservsection.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bebe.com privacy policy that was archived on 2017-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120004057id_/http%3A//www.bebe.com/custserv/custservsection.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -30,7 +30,7 @@
 
             <script type="text/javascript" async="" src="//bebe.sspinc.io/v1/ssp.js?env=prd"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//assets.adobedtm.com/930719576f892597e0f7e192ac3617c449dd1e67/satelliteLib-0ba0e873cfafd18e350b2965022b1f2347c2749b.js"></script>
         <link href="https://content.shoprunner.com/SecureBEBE.css" type="text/css" rel="stylesheet"><script src="https://content.shoprunner.com/BEBE.js" type="text/javascript"></script><script type="text/javascript" async="" src="https://assets.gpshopper.com/clients/bebefry/gpscript.js"></script><style></style></head>
-	<body data-user_agent="Mozilla/5.0 compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot" id="Privacy and Security" class="custserv desktop hasLeftNav" data-true_device_type="desktop"><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-banner cc-type-info cc-theme-classic cc-bottom cc-color-override--1953883527 " style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">Cookies help us deliver our services. By using this website, you agree with our use of cookies. <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="https://web.archive.org/web/20181104233054/https://onfido.com/cookie-policy/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a></span><div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">OK, Got it</a></div><!--googleon: all--></div>
+	<body data-user_agent="ia_archiver" id="Privacy and Security" class="custserv desktop hasLeftNav" data-true_device_type="desktop"><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-banner cc-type-info cc-theme-classic cc-bottom cc-color-override--1953883527 " style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">Cookies help us deliver our services. By using this website, you agree with our use of cookies. <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="https://web.archive.org/web/20181104233054/https://onfido.com/cookie-policy/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a></span><div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">OK, Got it</a></div><!--googleon: all--></div>
         <!--[if lt IE 9 ]> <div class="ieFilter"> <![endif]-->
         <div id="bodyContainer" class="container">
 
@@ -39,1622 +39,7 @@
             <![endif]-->
             
 <script type="text/javascript">
-
-		if (typeof BreadcrumbWidget == "undefined") {
-			var BreadcrumbWidget = Base.extend({
-				constructor: null,
-
-				create: function(selector, settings) {
-					$(selector).widgetState(settings).widgetClass(BreadcrumbWidget);
-					
-					PersistentStorage.register(BreadcrumbWidget, selector);
-				},
-
-				addBreadcrumb: function(selector, name, index) {
-					var jQ = $(selector);
-					var ti = $(".crumb", jQ).length;
-					if (index <= (ti - 1)) {
-						var j = index - 1;
-						// replace
-						$(".crumb:gt(" + j + ")", jQ).add($(".delim:gt(" + (j - 1) + ")", jQ)).remove();
-						jQ.append('<div class="delim"><!-- --></div>').append('<div class="crumb last">' + name + '</div');
-					} else {
-						// append - Should handle the 'organic' growth model...
-						$(".last", jQ).removeClass("last");
-						jQ.append('<div class="delim"><!-- --></div>').append('<div class="crumb last">' + name + '</div');
-					}
-					var li = $(".crumb", jQ).index($(".crumb.last")[0]);
-					var state = PersistentStorage.loadPersistent();
-					$(".crumb.last", jQ).click(function(event) {
-						PersistentStorage.executeState(state);
-						var i = $(".crumb", jQ).index(this);
-						$(".crumb:gt(" + i + ")", jQ).add($(".delim:gt(" + (i - 1) + ")", jQ)).remove();
-					});
-				},
-
-				removeBreadcrumbs: function(selector, index) {
-					var jQ = $(selector);
-				},
-
-			/**
-			 * Public method which external widgets can invoke (normally via an event bind)
-			 * which will refresh the state of this widget to show the sub categories for
-			 * the given parent category.
-			 *
-			 * @param selector {String} The selector name of the element in the DOM
-			 * @param event {Event} The event object
-			 * @param parentCategoryId {Number} The parent category Id
-			 */
-				loadBreadcrumbs: function(selector, event, categoryId) {
-					var jQ = $(selector);
-					var s = jQ.widgetState();
-					var self = this;
-
-					jQ.widgetLoad("com.fry.ocpsdk.widget.catalog.navigation.BreadcrumbWidget",
-					{
-						categoryId: categoryId
-					},
-							  function() {
-							  }
-							  );
-				},
-				
-				restoreState: function(state, selector) {
-					var catId = state["categoryId"];
-					var subcatId = state["subcategoryId"];
-					if (subcatId) {
-						this.loadBreadcrumbs(selector, null, subcatId);
-					} else if (catId) {
-						this.loadBreadcrumbs(selector, null, catId);
-					}
-				},
-
-				getWidgetClassName: function() {
-					return "BreadcrumbWidget";
-				}
-			});
-		}
-	/**
- * @fileoverview A variant matrix is an object that handles the collection of possible variants
- * for a product.  The one method that really matters here is the "fireEvents" method of the
- * {@link VariantMatrixWidget} which will fire the appropriate events to update variant displays
- * for a product.
- * <p/>
- * This work is based on, and heavily depends on, the <tt>AdvancedVariantTranslator</tt> supplied with
- * the OCP.  If you plan to extend the information available for your variants.  I would recommend
- * extending the translator so nothing is removed (which this library depends upon).
- *
- * @author Brett Fattori (bfattori@fry.com)
- */
-
-
-if (typeof VariantMatrices == "undefined")
-{
-	/**
-	 * @class The collection of all {@link VariantMatrixWidget} instances that are currently
-	 *        available within the page.  Variant matrices are added and removed as they
-	 *        become available or go out of scope.
-	 */
-	var VariantMatrices = Base.extend({
-
-		constructor: null,
-
-		/**
-		 * Add a variant matrix to the collection for the specified product Id.  There is only one
-		 * matrix per unique product.
-		 *
-		 * @param productId The product Id the matrix belongs to
-		 * @param variantMatrix The matrix to associate
-		 */
-		add: function(productId, variantMatrix) {
-         this["_pM" + productId] = variantMatrix;
-
-         // Munge attributes and the axis into objects where the keys points to the indices
-			var munged = {};
-         var axis = this["_pM" + productId].axis;
-			for (var x in axis) {
-				munged[axis[x]] = x;
-			}
-			this["_pM" + productId].axis = munged;
-			this["_pM" + productId].axisLength = axis.length;
-			this["_pM" + productId].attributesM = [];
-         var attr = this["_pM" + productId].attributes;
-         for (var y in attr) {
-				var aMunged = {};
-				for (var z in attr[y]) {
-					aMunged[attr[y][z]] = z;
-				}
-				this["_pM" + productId].attributesM[y] = aMunged;
-			}
-		},
-
-		/**
-		 * Get the variant matrix for the given product
-		 * @param productId The product Id of the matrix to retrieve
-		 */
-		get: function(productId) {
-			return this["_pM" + productId];
-		},
-
-		/**
-		 * Remove the reference to the matrix for the given product
-		 * @param productId The product Id of the matrix to remove
-		 */
-		remove: function(productId) {
-			try
-			{
-				this["_pM" + productId] = null;
-				delete this["_pM" + productId];
-			}
-			catch (ex) {
-				// empty for a reason
-			}
-		},
-
-		/**
-		 * Clear all references to variant matrices within the page
-		 */
-		clear: function() {
-			for (var e in this) {
-				if (e.substring(0,2) == "_pM")
-				{
-					try
-					{
-						this[e] = null;
-						delete this[e];
-					}
-					catch(ex) {
-						// empty for a reason
-					}
-				}
-			}
-		}
-   });
-}
-
-if (typeof VariantMatrixWidget == "undefined") {
-
-   /**
-    * @class The <tt>VariantMatrixWidget</tt> is an object that operates against the set of
-    *        arrays created by the java <tt>VariantMatrixWidget</tt> class.
-    *        The axis array indexes into the attributes array, which indexes into
-    *        the matrix itself.  Providing access to one of the axis attributes
-    *        will garner information about complimentary axis'.
-    *        <p/>
-    *        For example, if you have a variant matrix covering color and size,
-    *        you would be able to provide a color, and learn from that all of the
-    *        available sizes.  When working with a <tt>VariantMatrixWidget</tt> it is
-    *			 important to understand that the matrix is a multidimensional array.  Each
-    *			 axis (color, size, pattern, etc.) is one of the dimensions.  Each axis
-    *			 can contain many attributes (blue, green, small, large, etc.).
-    *			 <p/>
-    *			 For each possible variant in the matrix, there is one entry.  Each entry
-    *			 is indexed by a key which is comprised of the attribute index for each axis.
-    *			 For a simple item with two axis', say color and size with color being axis zero
-    *			 and size being axis one, there would be an attribute value for each color and
-    *			 size which is the index of the value for each axis.
-    *			 <p/>
-    *			 For example, there might be the following data:
-    *			 <ul>
-    *			 <li>COLOR_NAME: ["red", "blue", "green"]</li>
-    *			 <li>SIZE_NAME: ["small", "medium", "large", "x-large"]</li>
-    *			 </ul>
-    *			 The values in each attribute array are used to determine their index, so
-    *			 "red" is zero, "blue" is one, and "green" is two.  The same goes for the
-    *			 sizes with "small" being zero, "medium" being one, and so on.  Putting
-    *			 the two of them together based on each axis' index would result in a
-    *			 key such as "[0,1]" for "red, medium" or "[2,3]" for "green, x-large".
-    *			 These keys are used to identify each available variant for the product.
-    *			 Some keys will not result in a valid variant, so no entry will exist returning
-    *			 <tt>null</tt> if the matrix is queried for that key.
-    *			 <p/>
-    *			 Using the default variant translator class on the server, each variant
-    *			 in the matrix will contain a set of properties (located on the variant's "props"
-    *			 field) which indicate such things as backorder state, in-stock availability, price,
-    *			 and more.  Examine the <tt>AdvancedVariantTranslator</tt> class in the OCP for
-    *			 more information.
-    *			 <p/>
-    *
-    * @param selector {String/jQuery} The element in the DOM which represents the variant matrix
-    * @param state {Object} The widget's state at creation
-    * @see VariantMatrices
-    */
-	var VariantMatrixWidget = BaseWidget.extend({
-
-		create: function(selector, state) {
-         var jQ = $(selector);
-         var s = jQ.widgetState();
-
-			if (state.variantMatrix) {
-				if(!VariantMatrices.get(state.productId)) {
-					VariantMatrices.add(state.productId, {
-                        axis: state.axisIndexes,
-                        attributes: state.attributeIndexes,
-                        lowPrice: state.lowPrice,
-                        highPrice: state.highPrice,
-                        keys: state.variantKeys,
-                        matrix: state.variantMatrix,
-                        ordered: state.orderedSelection,
-                        updateLast: state.updateLastSelector
-                    });
-                }
-
-				s.variantSelectors = [];
-				s.selections = {};
-                s.selectedVariantId = state.productVariantId;
-
-				// If a default variant was specified, make sure to restore the selections
-                if (s.selectedVariantId) {
-                   var key, mtx = VariantMatrices.get(state.productId);
-                   for (var o in mtx.matrix) {
-                      if (mtx.matrix[o].id == s.selectedVariantId) {
-                         key = o;
-                         break;
-                      }
-                   }
-
-                   for (var a in mtx.axis) {
-                      this.setAxisSelection(selector, a, mtx.matrix[key].trans[mtx.axis[a]]);
-                   }
-                }
-
-            } else {
-				// There's only one variant, so just locate the field and fill it in
-				if (state.singleVariantId) {
-					$("#" + state.variantIdField).val(state.singleVariantId);
-					var backorderLabelJQ = $("#" + $(selector).widgetId() +"_variant_backorderMessage");
-					var bMsg = state.singleVariantMessage;
-					if(bMsg && backorderLabelJQ) {
-						backorderLabelJQ.show();
-						backorderLabelJQ.html(bMsg);
-					}
-
-				}
-			}
-
-            /* fit predictor */
-            if (typeof fp_enabled !== "undefined"  && fp_enabled){
-                /*  on product load send context data */
-                if (typeof fp_updateVariantContext !== "undefined"){
-                    fp_updateVariantContext(jQ, VariantMatrices["_pM" + s.productId]);
-                }
-            }
-		},
-
-		/**
-		 * Add a selector to the <tt>VariantMatrixWidget</tt> in the order of
-		 * creation.  This method can be used to look up a selector at a later time by
-		 * its source-order index.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @private
-		 */
-		addVariantSelector: function(selector, variantSelector) {
-			var s = $(selector).widgetState();
-			var sels = s.variantSelectors;
-			var found = false;
-			for (var i in sels) {
-				if (sels[i].widgetState().attributeName == variantSelector.widgetState().attributeName) {
-					found = true;
-				}
-			}
-			if (!found) {
-				// Only add the first of the same type
-				sels.push(variantSelector);
-			}
-		},
-
-		/**
-		 * Get the indexed variant selector.  The index is the order in
-		 * which the selector was added to the <tt>VariantMatrixWidget</tt>.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param index {Number} The index at which the selector resides
-		 * @return {jQuery} A jQuery object which represents the variant selector
-		 */
-		getVariantSelector: function(selector, index) {
-			return $(selector).widgetState().variantSelectors[index];
-		},
-
-		/**
-       * Get the product Id this variant matrix operates against.
-		 * @param selector {String} The selector name of the element in the DOM
-       * @return {Number} The Id of the product
-       */
-      getProductId: function(selector) {
-         return $(selector).widgetState().productId;
-      },
-
-		/**
-		 * Get the axis name for the given index number.  Axis' are used to determine
-		 * the ordering of the attribute indexes in the variant matrix's keys.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param axisIndex {Number} The index of the axis
-		 * @return {String} The name of the axis for the given index
-		 */
-		getAxisForIndex: function(selector, axisIndex) {
-			var s = $(selector).widgetState();
-			return s.axisIndexes[axisIndex];
-		},
-
-		/**
-       * Returns the axis index for the given axis name.  Returns <code>-1</code>
-       * if the attribute is not within the VariantMatrix.
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param axis {String} The name of the axis. (e.g. COLOR_NAME, SIZE_NAME, etc.)
-       */
-      getAxisIndex: function(selector, axisName) {
-			if (!(selector || axisName)) {
-				return -1;
-			}
-			axisName = axisName.toUpperCase();
-			var mtx = VariantMatrices.get($(selector).widgetState().productId);
-			return (mtx.axis[axisName] != null ? Number(mtx.axis[axisName]) : -1);
-      },
-
-      /**
-       * Get the axis for the given attribute value.  If the value appears in more than one
-       * axis, only the first axis the value is in will be returned.
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param value {String} The attribute value to search upon
-       */
-      getAxisForValue: function(selector, value) {
-         var mtx = VariantMatrices.get($(selector).widgetState().productId);
-         for (var axis = 0; axis < mtx.attributes.length; axis++) {
-            if (mtx.attributesM[axis][value] != null) {
-               return mtx.attributesM[axis][value];
-            }
-         }
-         return -1;
-      },
-
-      /**
-       * Get the index of the value, for the given axis.
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param axis {Number/String} Either the index of the axis, or the name of the axis
-       * @param value {String} The value within the axis' attribute values to find the index for
-       */
-      getValueIndex: function(selector, axis, value) {
-			var mtx = VariantMatrices.get($(selector).widgetState().productId);
-			axis = (typeof axis == "string" ? this.getAxisIndex(selector, axis) : axis);
-			return (mtx.attributesM[axis][value] != null ? Number(mtx.attributesM[axis][value]) : -1);
-      },
-
-      /**
-       * Returns the value stored at the index for the specified axis.
-		 * @param selector {String} The selector name of the element in the DOM
-       * @private
-       */
-      getAxisValueForIndex: function(selector, axis, index) {
-         var mtx = VariantMatrices.get($(selector).widgetState().productId);
-         return mtx.attributes[axis][index];
-      },
-
-      /**
-       * Get the array of all possible values for the given axis.
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param axisName {String} The name of the axis
-       * @return {Array} An array of values for the given axis
-       */
-      getAxisValues: function(selector, axisName) {
-         var mtx = VariantMatrices.get($(selector).widgetState().productId);
-         var axis = this.getAxisIndex(selector, axisName);
-         if (axis == -1) {
-            throw new Error("Invalid axisName specified");
-         }
-         return mtx.attributes[axis];
-      },
-
-		/**
-		 * Get the array of all possible values for the given axis.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param axisName {String} The name of the axis
-		 * @return {Array} An array of values for the given axis
-		 */
-		getAxisValueIndexes: function(selector, axisName) {
-			var mtx = VariantMatrices.get($(selector).widgetState().productId);
-			var axis = this.getAxisIndex(selector, axisName);
-			if (axis == -1) {
-				throw new Error("Invalid axisName specified");
-			}
-			var a = [];
-			var m = mtx.attributesM[axis];
-			for (var i in m) {
-				a.push(Number(m[i]));
-			}
-			return a;
-		},
-
-		/**
-       * Get the number of values available for the axis specified.
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param axisName {String} The name of the axis to count values for.
-       * @return {Number} The count of values for the given axis
-       */
-      getAxisValueCount: function(selector, axisName) {
-         var mtx = VariantMatrices.get($(selector).widgetState().productId);
-         var axis = this.getAxisIndex(selector, axisName);
-         if (axis == -1) {
-            throw new Error("Invalid axisName specified");
-         }
-
-         if (mtx.attributeCount[axis] == null) {
-            mtx.attributeCount[axis] = 0;
-            for (var a in mtx.attributes[axis]) {
-               mtx.attributeCount[axis]++;
-            }
-         }
-         return mtx.attributeCount[axis];
-      },
-
-      /**
-       * Returns an object with the corresponding attributes, for the given axis, populated with the values
-       * that will have variants available for them.  So if you passed "COLOR_NAME" and "red" as your
-       * attribute and value, and the corresponding attributes are "SIZE_NAME" and "PATTERN_NAME", you
-       * will get an object with "SIZE_NAME" and "PATTER_NAME" as the keys, and the possible values
-       * for those keys.
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param axisName {String} The name of the axis
-       * @param value {String} The attribute value for the specified axis name
-       * @type Array
-       */
-      getCorrespondingValues: function(selector, axisName, value) {
-         // Get the corresponding attributes
-			var s = $(selector).widgetState();
-			var mtx = VariantMatrices.get($(selector).widgetState().productId);
-			var axis = this.getAxisIndex(selector, axisName);
-			var cAttr = {};
-         for (var x in mtx.axis) {
-            if (x != axisName) {
-					// If using ordered selection, only return axis' which
-					// logically FOLLOW the given axisName
-					var idx = this.getAxisIndex(selector, x);
-					if (!s.orderedSelection || (s.orderedSelection && idx > axis)) {
-						cAttr[x] = [];
-					}
-				}
-         }
-
-         if (value) {
-            // Now locate all of the variant keys that have the value at the index
-            // of the attribute
-            var vIdx = this.getValueIndex(selector, axis, value);
-            for (var y in mtx.keys) {
-               if (mtx.keys[y][axis] == vIdx) {
-                  for (var z in cAttr) {
-                     cAttr[z].push(this.getAxisValueForIndex(selector, this.getAxisIndex(selector, z), mtx.keys[y][this.getAxisIndex(selector, z)]));
-                  }
-               }
-            }
-         } else {
-            // In the case where tha attribute value is null, we
-            // just want the full lists for corresponding attributes
-            for (var z in cAttr) {
-               cAttr[z] = this.getAxisValues(selector, z);
-            }
-         }
-
-         return cAttr;
-      },
-
-      /**
-       * Store the value that was selected for the axis.
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param axisName {String} The axis name to store the selected value for.
-       * @param selection {String} The selected value
-       */
-      setAxisSelection: function(selector, axisName, selection) {
-        var jQ = $(selector);
-        var s = jQ.widgetState();
-        if (s.selections != undefined) {
-            s.selections[axisName] = selection;
-            if (selection == null) {
-                delete s.selections[axisName];
-            }
-        }
-      },
-
-      /**
-       * Get the selected value for the specified axis in the variant matrix.
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param axisName {String} The name of the axis
-       * @return {String} The value stored for the attribute, or <tt>null</tt> if none
-       *                  has been specified.
-       */
-      getAxisSelection: function(selector, axisName) {
-	      var jQ = $(selector);
-         var s = jQ.widgetState();
-         return s.selections != undefined ? s.selections[axisName] : null;
-      },
-
-      updateVariants: function(selector, productId, selectedAxis, selectedVariantKey) {
-          if (!selectedVariantKey){
-              return;
-          }
-          var firstVariantIndex = selectedVariantKey[0];          
-          var secondVariantIndexArr = [];
-          if (firstVariantIndex != -1) {
-              var unavailableValues = [];
-              var secondVariantValues = [];
-              var corrAttr = this.getCorrespondingValues(selector, selectedAxis, null);              
-              for (var eName in corrAttr) {
-                  secondVariantValues = corrAttr[eName];
-                  secondVariantIndexArr = this.getAxisValueIndexes(selector, eName);
-              }
-              if (secondVariantIndexArr.length > 0 && secondVariantValues.length > 0 &&  secondVariantValues.length == secondVariantIndexArr.length) {
-                for (var i in secondVariantIndexArr) {
-                      var key = [];
-                      key[0] = firstVariantIndex;
-                      key[1] = i;                      
-                      var mtx = VariantMatrices.get(productId);
-                      key = "[" + key + "]";
-                      var entity = mtx.matrix[key];
-
-                      if (typeof entity !== "undefined") {
-                          var inStore = entity.props.hasStoreInv;
-                          if ((entity != null && !entity.props.stock && inStore != "true") || !entity) {
-                              unavailableValues.push(secondVariantValues[i]);
-                          }
-                          if (selectedAxis == "COLOR_NAME") {
-                              if (typeof entity !== undefined) {
-                                  this.addDescriptionClass(selector, productId, entity);
-                              }
-                          }
-                      }
-                  }
-              }
-              // Get all of the list items
-              $(".product-" + productId + "-variant .swatch", selector).each(function() {
-                  var me = $(this);
-                  //                $(me).removeClass("unavailable");
-                  if (me[0].oldBackground) {
-                      me.css("background-image", me[0].oldBackground);
-                      me[0].oldBackground = null;
-                  }
-                  if ($.inArr(me[0].valueName, unavailableValues)) {
-                      me[0].oldBackground = me.css("background-image");
-                      me.addClass("unavailable").removeClass("selected");
-                  }
-              });
-          }
-      },
-
-       /**
-        * Classes added to variants for Keynote reporting
-        * @param selector
-        * @param productId
-        * @param entity
-        */
-       addDescriptionClass: function(selector, productId, entity){
-           var sizeName = stringUtil.replaceCharsWith(entity.props.SIZE_NAME, "_");
-           var $sizeSelector = $(selector + " #swatchListSIZE_NAME.product-" + productId + "-variant li.swatch[data-sizename=" + sizeName + "]");
-           var entityProps = entity.props;
-           var isSFS = false; /* ship from store */
-           var isEMWA = false; /* email me when available */
-           var canAddBag = false;
-           if (typeof entityProps !== "undefined") {
-               if (typeof entityProps.canAddToCart !== "undefined" && entityProps.canAddToCart == "true") {
-                   canAddBag = entityProps.canAddToCart;
-               }
-               if (parseInt(entityProps.dcInvLevel) == 0 && entityProps.hasStoreInv =="true"){
-                   isSFS = true;
-               }
-               if (entityProps.EMWA_FLAG) {
-                   isEMWA = true;
-               }
-               /* remove class first before resetting */
-               $sizeSelector.removeClass("sfs fis emwa");
-               if (isSFS && canAddBag) {
-                   $sizeSelector.addClass("sfs");
-               }
-               if (isEMWA) {
-                   $sizeSelector.addClass("emwa");
-               }
-               /* having properties automatically allows for fis class, but first check canAddBag */
-               if (!canAddBag){
-                   $sizeSelector.removeClass("sfs").addClass("fis");
-               }
-           }
-       },
-
-      /**
-       * Determine if the value for the selected axis creates a condition
-       * where the variant is valid.  If so, this method will fire the event
-       * "updatevariant" on the body, which will contain the variant Id for
-       * the corresponding product Id.  If the variant is invalid, a "-1" will
-       * be passed as the variant Id.
-       *	<p/>
-       * Fires an event, on the matrix widget, that has the variant Id and the
-       * corresponding values for the type of attribute.  The name of the event
-       * will be the attribute name. (i.e. "COLOR_NAME", "SIZE_NAME", etc...)
-       * <p/>
-       * ex:
-       * <pre>
-       *    var mtx = VariantMatrices.get(255);
-       *    mtx.fireEvents("COLOR_NAME", selectedColor);
-       * </pre>
-       * This will fire the corresponding attribute events (in this case "SIZE_NAME")
-       * on the matrix widget, passing the product Id and the values that are valid
-       * for "SIZE_NAME", given the value for "COLOR_NAME".  Additionally, if
-       * the selected color and size combination forms a valid variant, the
-       * "updatevariant" event will be fired on the matrix widget passing the
-       * product Id and the variant Id.
-       * <p/>
-       * If <tt>fireStatusEvents</tt> is set to <tt>true</tt> in the VariantMatrix,
-       * and the selections result in a valid variant, an additional event will be
-       * fired which contains the price, a flag indicating if the variant is in stock,
-       * and a backordered-until date (if the variant is out of stock and contains said
-       * date).
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param selectedAxis {String} The name of the axis in the matrix
-       * @param selectedValue {String} The value for the named attribute
-       */
-      fireEvents: function(selector, selectedAxis, selectedValue/*, properties */) {
-         var jQ = $(selector);
-         var s = jQ.widgetState();
-         var mtx = VariantMatrices.get(s.productId);
-			var axis = this.getAxisIndex(jQ, selectedAxis);
-
-			// Set the selection
-			this.setAxisSelection(jQ, selectedAxis, selectedValue);
-
-          /* custom functions for 2b/bebe */
-		  var $descContainer = $(jQ).parents(".jsDescriptionWrap");
-            var showEMWAButton = function(currentEntry) {
-                var attrs = "";
-                $(".VariantList", $descContainer).each(function(){
-                    attrs += escape($(this).data("attrName")) + "=" + escape($(this).data("attrSelectedVal")) + "&";
-                });
-                if (currentEntry.id){
-                	attrs += 'productVariantId='+currentEntry.id+'&';
-                } 
-                var $root = ($("#quicklookButtonContainer", $descContainer).length > 0) ? $("#quicklookButtonContainer", $descContainer) : $("#productButtonContainer", $descContainer);
-                var $emwaButton = $(".emwaButton", $root);
-				$emwaButton.attr("href", $emwaButton.data("basehref") + attrs).show();
-                $(".js-AddUpdateProduct", $root).hide();
-                resetErrorFields($root.parents(".EntityBody"));
-            };
-            var hideEMWAButton = function() {
-                var $root = ($("#quicklookButtonContainer", $descContainer).length > 0) ? $("#quicklookButtonContainer", $descContainer) : $("#productButtonContainer", $descContainer);
-				$(".emwaButton", $root).attr("href","#").hide();
-                $(".js-AddUpdateProduct", $root).show();
-            };
-            
-            /* PRBEBE-20 code change START */
-            var showAddBagButton = function() {
-            	var $root = ($("#quicklookButtonContainer", $descContainer).length > 0) ? $("#quicklookButtonContainer", $descContainer) : $("#productButtonContainer", $descContainer);
-                $(".js-AddUpdateProduct", $root).show();
-            };
-            
-            var hideAddBagButton = function() {
-            	var $root = ($("#quicklookButtonContainer", $descContainer).length > 0) ? $("#quicklookButtonContainer", $descContainer) : $("#productButtonContainer", $descContainer);
-                $(".js-AddUpdateProduct", $root).hide();
-            };
-
-            var toggleAvailabilityMessage = function(showFlag) {
-            	var $root = ($("#quicklookButtonContainer", $descContainer).length > 0) ? $("#quicklookButtonContainer", $descContainer).parent() : $("#productButtonContainer", $descContainer).parent();
-                var $availability = $(".availabilityMessage", $root);
-				if (showFlag) {
-                    if ($availability.length > 0) {
-                        $availability.slideDown();
-                    }
-				} else {
-                    if ($availability.length > 0) {
-                        $availability.slideUp();
-                    }
-				}
-            };
-
-            var toggleShipFromStoreDisclaimer = function(showFlag) {
-            	var $root = ($("#quicklookButtonContainer", $descContainer).length > 0) ? $("#quicklookButtonContainer", $descContainer).parent() : $("#productButtonContainer", $descContainer).parent();
-                var $shippedFromStore = $(".shippedFromStoreWarning", $root);
-                var $availability = $(".availabilityMessage", $root);
-				if (showFlag) {
-                    if ($availability.length > 0) {
-                        $availability.slideUp(200, function(){
-                            $shippedFromStore.slideDown();
-                        });
-                    } else {
-                        $shippedFromStore.slideDown();
-                    }
-				} else {
-                    if ($availability.length > 0) {
-                        $shippedFromStore.slideUp(200, function(){
-                            $availability.slideDown();
-                        });
-                    } else {
-                        $shippedFromStore.slideUp();
-                    }
-				}
-            };
-           /* PRBEBE-20 code change END */
-
-         // Alert the corresponding selectors that the state has changed
-         var corrAttr = this.getCorrespondingValues(jQ, selectedAxis, selectedValue);
-         for (var eName in corrAttr) {
-				jQ.widgetTrigger(eName, [s.productId, corrAttr[eName], selectedAxis]);
-
-				// If using ordered selection, invalidate and disable the axis'
-				// which follow the selected axis, plus one (so we don't disable
-				// the logical next in line making selection impossible)
-				var idx = this.getAxisIndex(jQ, eName);
-				if (s.orderedSelection && (idx > axis + 1)) {
-					var sel = this.getVariantSelector(jQ, idx);
-					sel.widgetClass().setInvalid(sel);
-					sel.widgetClass().disableSelector(sel);
-				}
-         }
-
-        var selectedVariantKey = this.getSelectedVariantKey(selector);
-        var currentEntry = this.getSelectedVariantEntry(selector);
-        var variantId = currentEntry ? currentEntry.id : null;
-
-        if (!variantId) {
-            $("#" + s.variantIdField).val("");
-            jQ.widgetTrigger("updatevariant", [s.productId, -1, null]);
-        } else {
-            $("#" + s.variantIdField).val(variantId);
-            jQ.widgetTrigger("updatevariant", [s.productId, variantId, currentEntry]);
-
-            if (s.fireStatusEvents) {
-              jQ.widgetTrigger("variantstatuschanged", [currentEntry.props.price,
-                currentEntry.props.stock,
-                currentEntry.props.backDate]);
-            }
-        }
-
-        this.updateVariants(selector, s.productId, selectedAxis, selectedVariantKey);
-			/* Fire an event with properties relevant to the axis */
-			var properties = arguments[3];
-			if (properties) {
-				jQ.widgetTrigger("updateaxisproperties", [s.productId, selectedAxis, properties]);
-			}
-
-         // Check to make sure the variant is valid
-          if (currentEntry) {
-              var props = currentEntry.props;
-              $("#error-locate", $descContainer).text(''); /* clear any locate error that may have come thru the universal cart */
-              var isShowEMWAButton = false;
-              if (props) {
-                 isShowEMWAButton = props.stock == false && props.EMWA_FLAG;
-              }
-              if (!isShowEMWAButton) {
-                  if (props.DC_SHIPPING == true) {
-                      toggleShipFromStoreDisclaimer(false);
-                  } else {
-                      toggleShipFromStoreDisclaimer(true);
-                  }
-              }
-              if (isShowEMWAButton) {
-                  toggleAvailabilityMessage(false);
-                  showEMWAButton(currentEntry);
-              } else {
-                  hideEMWAButton();
-				  if (props) {
-					  if(props.cost <= 0.01){
-						  hideAddBagButton();
-					  }else{
-						  showAddBagButton();
-					  }
-				  }
-              }
-          }
-
-      },
-
-      /**
-       * Force the variant to be invalid and fire the appropriate event.
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param axisName {String} The name of the axis to invalidate
-       */
-      makeInvalid: function(selector, axisName) {
-         var jQ = $(selector);
-         var s = jQ.widgetState();
-         var mtx = VariantMatrices.get(s.productId);
-
-         // Alert the corresponding selectors the the state has changed
-         var corrAttr = this.getCorrespondingValues(selector, axisName, null);
-         for (var eName in corrAttr) {
-            jQ.widgetTrigger(eName, [s.productId, corrAttr[eName]]);
-         }
-
-         $("#" + s.variantIdField).val("");
-         jQ.widgetTrigger("updatevariant", [this.productId, -1]);
-         this.setAxisSelection(selector, axisName, null);
-      },
-
-      /**
-       * Get the variant object, or <tt>null</tt> for the key specified
-       * by the array of attribute values
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       * @param values {Array} An array of indexes for each axis
-       * @return {Object} The variant object
-       */
-      getVariant: function(selector, values) {
-         var mtx = VariantMatrices.get($(selector).widgetState().productId);
-
-         var key = [];
-         for (var x in values) {
-            key.push(this.getValueIndex(selector, x, values[x]));
-         }
-         key = "[" + key + "]";
-         return mtx.matrix[key];
-      },
-
-		/**
-		 * Get the unique values for the given variant axis.  The values are stored in the
-		 * "props" key of each variant.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param axisName {String} The name of the axis
-		 * @return {Array} An array of unique values for the given axis
-		 */
-      getUniquePropertyValues: function(selector, axisName) {
-			var props = VariantMatrixWidget.getUniqueProperties(selector, axisName);
-			var singleProp = {};
-			for (var i in props) {
-				singleProp[i] = props[i].name;
-			}
-			return singleProp;
-      },
-
-		/**
-		 * Get the available information for the given variant axis.  The values are stored in the
-		 * "props" key of each variant.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param axisName {String} The name of the axis
-		 * @return {Array} An array of unique values for the given axis
-		 */
-		getUniqueProperties: function(selector, axisName) {
-			var mtx = VariantMatrices.get($(selector).widgetState().productId);
-			if (mtx.uniqueProps && mtx.uniqueProps[axisName] != null) {
-				return mtx.uniqueProps[axisName];
-			}
-
-			if (!mtx.uniqueProps) {
-				mtx.uniqueProps = {};
-				mtx.uniqueProps[axisName] = {};
-			}
-
-			if (!mtx.uniqueProps[axisName]) {
-				mtx.uniqueProps[axisName] = {};
-			}
-
-			for (var v in mtx.matrix) {
-				mtx.uniqueProps[axisName][mtx.matrix[v].trans[this.getAxisIndex(selector, axisName)]] = {
-					name: mtx.matrix[v].props[axisName],
-					properties: mtx.matrix[v].props
-				};
-			}
-
-			return mtx.uniqueProps[axisName];
-		},
-
-		/**
-		 * Return the selected variant key.  If the selection is invalid, this method
-		 * will return <tt>null</tt>
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {Array} The key array which can be used to locate the selection in the matrix
-		 */
-		getSelectedVariantKey: function(selector) {
-			var jQ = $(selector);
-			var s = jQ.widgetState();
-			var mtx = VariantMatrices.get(s.productId);
-			var key = [];
-			for (var a in mtx.axis) {
-				if (mtx.axis[a] == null) {
-					return null;
-				}
-				key.push(this.getValueIndex(selector, a, s.selections[a]));
-			}
-			return key;
-		},
-
-		/**
-		 * Get the key which corresponds to the current selections.  This key will
-		 * include <tt>null</tt> values for selectors which haven't be set yet.  This
-		 * key can be used to determine a range for a particular axis of the matrix.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {Array} An array of the current variant selector values
-		 */
-		getCurrentVariantKey: function(selector) {
-			var jQ = $(selector);
-			var s = jQ.widgetState();
-			var mtx = VariantMatrices.get(s.productId);
-			var key = [];
-			for (var a in mtx.axis) {
-				if (mtx.axis[a] != null) {
-					var i = this.getValueIndex(selector, a, s.selections[a]);
-					if (i != -1) {
-						key.push(i);
-					}
-				}
-			}
-			return key;
-		},
-
-		/**
-       * Get the variant entry for the currently selected options.  If an axis isn't
-       * selected, or the variant isn't found, <tt>null</tt> is returned.
-		 * @param selector {String} The selector name of the element in the DOM
-       * @return {Object} The variant object
-       */
-      getSelectedVariantEntry: function(selector) {
-         var key = this.getSelectedVariantKey(selector);
-			if (key) {
-				var jQ = $(selector);
-				var s = jQ.widgetState();
-				var mtx = VariantMatrices.get(s.productId);
-				key = "[" + key + "]";
-				return (mtx.matrix[key]? mtx.matrix[key] : null);
-			}
-			return null;
-		},
-		getSelectedVariantEntryFromKey: function(selector, key) {
-			  if (key) {
-				  var jQ = $(selector);
-				  var s = jQ.widgetState();
-				  var mtx = VariantMatrices.get(s.productId);
-				  key = "[" + key + "]";
-				  return (mtx.matrix[key]? mtx.matrix[key] : null);
-			  }
-			  return null;
-		  },
-
-		/**
-		 * Get the Id of the variant for the currently selected options.  If an attribute isn't
-		 * selected, or the variant isn't found, <tt>null</tt> is returned.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {Number} The currently selected variant, or <tt>null</tt>
-		 */
-		getSelectedVariantId: function(selector) {
-			var e = this.getSelectedVariantEntry(selector);
-			return e != null ? e.id : null;
-		},
-
-		/**
-		 * Get the range of values for the given property and axis based on the current
-		 * selections in an ordered matrix. The range is calculated by crawling all of
-		 * the possible permutations of variants for a product, using the values which are
-		 * already fixed via selectors.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param property {String} One of the properties in the translated variant
-		 */
-		getAxisValueRange: function(selector, property, initalKey) {
-			var jQ = $(selector);
-			var s = jQ.widgetState();
-
-			if (!s.orderedSelection) {
-				// If the selection is not ordered, we can't reasonably perform the op
-				return null;
-			}
-
-			var keyLen = s.axisIndexes.length;
-			var mtx = VariantMatrices.get(s.productId);
-			var self = this;
-
-			function crawl(tKey, rng) {
-				if (tKey.length == s.axisIndexes.length) {
-					var key = "[" + tKey + "]";
-					var vt = (mtx.matrix[key]? mtx.matrix[key] : null);
-					if (vt && vt.props[property]) {
-						rng[0] = vt.props[property];
-						rng[1] = vt.props[property];
-					}
-				} else {
-					var valueSet = self.getAxisValueIndexes(selector, s.axisIndexes[tKey.length]);
-					for (var i = 0; i < valueSet.length; i++) {
-						var newKey = [].concat(tKey, valueSet[i]);
-						if (newKey.length < keyLen) {
-							crawl(newKey, rng);
-						} else {
-							var key = "[" + newKey + "]";
-							var vt = (mtx.matrix[key]? mtx.matrix[key] : null);
-							if (vt && vt.props[property]) {
-								rng[0] = vt.props[property] < rng[0] ? vt.props[property] : rng[0];
-								rng[1] = vt.props[property] > rng[1] ? vt.props[property] : rng[1];
-							}
-						}
-					}
-				}
-			}
-
-			var p = s.variantMatrix["[" + s.variantKeys[0] + "]"].props[property];
-			var range = (typeof p == "string" ? ["~~~~~~~~~", " "] : [9999999, -9999999]);
-			var initRange = [].concat(range);
-			var curKey = this.getCurrentVariantKey(selector);
-			crawl(initalKey || curKey, range);
-			if (initRange[0] == range[0] || initRange[1] == range[1]) {
-				// If the range wasn't found, return null
-				return null;
-			} else {
-				return (range[0] == range[1] ? range[0] : range);
-			}
-		}
-	});
-}
-
-if (typeof BaseVariantWidget == "undefined") {
-	// Flag to active next widget
-	var enableNextWidget;
-	var enableNextSwatch;
-	// Store widget information
-	var previousWidgetSelector;
-	var previousWidgetSelectedValue;
-
-    /* first run of size variant avoids error message when there is only 1 size */
-    var variantFirstRunSizeCheck = true;
-
-	/**
-	 * @class This is the base class for all variant selector widgets.  It will initialize the
-	 *        instance and set the event handler for it.  The <tt>state</tt> object should
-	 *        contain the <tt>productId</tt> that the variants are attached to.
-	 *			 <p/>
-	 *			 A variant selector is a part of the entire selection process when choosing
-	 *			 a product.  A selector would be the size, color, pattern, or some other
-	 *			 atomic part of the whole variant.  A variant is comprised of one or more
-	 *			 selectors working in conjunction with each other.
-	 *
-	 */
-	var BaseVariantWidget = BaseWidget.extend({
-
-		// A simple marker method
-		isVariantWidget: function() {},
-
-		/**
-		 * Create an instance of a variant selector widget.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param settings {Object} An object which contains any model parameters you wish
-		 *                          to persist with the object.
-		 */
-		create: function(selector, state) {
-			var jQ = this.base(selector, state);
-			var s = jQ.widgetState();
-
-			s.attributeName = s.attributeName.toUpperCase();
-			s.selectedValue = "";
-
-			// Store in non-volatile setting
-			s.attributeValues = VariantMatrixWidget.getAxisValues(s.triggerElement, s.attributeName);
-
-			// Bind the event for changes to selection
-			var self = this;
-			$(s.triggerElement).widgetBind(s.attributeName, function(event, productId, values, correspondingAttribute) {
-				self.preUpdateAttributes(selector, event, productId, values, correspondingAttribute);
-			});
-
-			// Add this selector to the VariantMatrixWidget so it can be looked up by index
-			var mtxW = this.getMatrixWidget(selector);
-			VariantMatrixWidget.addVariantSelector(mtxW, jQ);
-
-			return jQ;
-		},
-
-		/**
-		 * Get the underlying matrix for the selector.  This matrix has been specially munged
-		 * to contain the data in such a way that the information can be retrieved in the most
-		 * efficient manner.  However, this doesn't mean that it is a good substitution for
-		 * working with the {@link VariantMatrixWidget} which contains this selector.
-		 * @private
-		 */
-		getMatrix: function(selector) {
-			return VariantMatrices.get($(selector).widgetState().productId);
-		},
-
-		/**
-		 * Returns <tt>true</tt> if the matrix selection is handled as an
-		 * ordered set, rather than as a freely grouped selection.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {Boolean}
-		 */
-		isMatrixOrdered: function(selector) {
-			return this.getMatrix(selector).ordered;
-		},
-
-		/**
-		 * Returns <tt>true</tt> if the matrix is ordered and the last item should
-		 * be updated with status information.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {Boolean}
-		 */
-		isUpdateLast: function(selector) {
-			return this.getMatrix(selector).updateLast;
-		},
-
-		/**
-		 * Returns <tt>true</tt> if the variants in the matrix have differences
-		 * (variance) in their pricing.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {Boolean}
-		 */
-		isPriceVariance: function(selector) {
-			return this.getMatrixWidget(selector).widgetState().priceVariance;
-		},
-
-		/**
-		 * Returns <tt>true</tt> if this widget isn't the first in an ordered set
-		 * of variant selectors.
-		 * @param selector {String} The selector name of the element in the DOM
-		 */
-		isNotFirstInOrderedSet: function(selector) {
-			var s = $(selector).widgetState();
-			return s.orderedNotFirst;
-		},
-
-		/**
-		 * Returns <tt>true</tt> if the variant selector is invalid.
-		 * @return {Boolean} <tt>true</tt> if invalid
-		 */
-		isInvalid: function(selector) {
-			var s = $(selector).widgetState();
-			return (VariantMatrixWidget.getAxisSelection(s.triggerElement, this.getAttributeName(selector)) == null);
-		},
-
-		/**
-		 * Determine if this is the last selector in the variant group.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {Boolean} <tt>true</tt> if this is the last selector
-		 */
-		isLastSelector: function(selector) {
-			var mtx = this.getMatrix(selector);
-			return (Number(mtx.axis[this.getAttributeName(selector)]) == mtx.axisLength - 1);
-		},
-
-		/**
-		 * Returns <tt>true</tt> if the selector is disabled when it is first drawn.  This
-		 * depends on the selector not being the first selector in the set, that the preceeding
-		 * selector has more than 1 selection available, and that ordered selection is
-		 * required.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {Boolean} <tt>true</tt> if this selector should be disabled
-		 */
-		isFirstRunDisabled: function(selector) {
-			if (this.isMatrixOrdered(selector) && this.isNotFirstInOrderedSet(selector)) {
-				// Only do this if ordered selection is enabled and this
-				// is NOT the first selector in the set
-				var mtx = this.getMatrix(selector);
-				var prevSelector = Number(mtx.axis[this.getAttributeName(selector)]) - 1;
-				if (prevSelector >= 0) {
-					// Check how many items it has.  If more than one, we're disabled
-					var mtxW = this.getMatrixWidget(selector);
-					var attrLen = VariantMatrixWidget.getAxisValues(mtxW, VariantMatrixWidget.getAxisForIndex(mtxW, prevSelector));
-					attrLen = attrLen ? attrLen.length : 0;
-					return (attrLen > 1);
-				}
-			}
-
-			return false;
-		},
-
-		/**
-		 * Returns <tt>true</tt> if this variant selector widget is disabled.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {Boolean}
-		 */
-		isDisabled: function(selector) {
-			if ($(selector).widgetState().enabled == undefined) {
-				return false;
-			}
-
-			return !$(selector).widgetState().enabled;
-		},
-
-		/**
-		 * Get the associated {@link VariantMatrixWidget} that this selector is a part of.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {VariantMatrixWidget} The associated variant matrix
-		 */
-		getMatrixWidget: function(selector) {
-			return $($(selector).widgetState().triggerElement);
-		},
-
-		/**
-		 * Get the name of this variant selector widget.  This name corresponds
-		 * directly to the axis name in the variant matrix.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {String}
-		 */
-		getAttributeName: function(selector) {
-			return $(selector).widgetState().attributeName;
-		},
-
-		/**
-		 * Get the values that are available for this variant selector widget.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {String}
-		 */
-		getAttributeValues: function(selector) {
-			return $(selector).widgetState().attributeValues;
-		},
-
-		/**
-		 * Set the selected value for the variant widget and fire the events which other
-		 * variant widgets are listening for.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param selectedValue {String} The value which was selected for this attribute
-		 */
-		setSelectedValue: function(selector, selectedValue /*, props */) {
-			var props = arguments[2];
-			var s = $(selector).widgetState();
-			var self = this;
-			var fn = function() {
-				VariantMatrixWidget.fireEvents(s.triggerElement, self.getAttributeName(selector), selectedValue, props);
-				$(selector).widgetTrigger("updatelinkedselector", [selectedValue, props]);
-			};
-			window.setTimeout(fn, 10);
-		},
-
-      /**
-       * If the selection would cause the variant to become invalid, this method should
-       * be called to appropriately fire events and clear values.
-       *
-		 * @param selector {String} The selector name of the element in the DOM
-       */
-      setInvalid: function(selector) {
-         var s = $(selector).widgetState();
-         VariantMatrixWidget.makeInvalid(s.triggerElement, this.getAttributeName(selector));
-			$(selector).widgetTrigger("updatelinkedselector", null);
-		},
-
-		/**
-		 * Set the selected value for the variant widget, but <i>do not</i> fire the
-		 * events for the other variant widgets.  Allows you to update the selector
-		 * and associated matirix without triggering unnecessary events.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param selectedValue {String} The value which was selected for this attribute
-		 */
-		storeSelectedValue: function(selector, selectedValue) {
-         var s = $(selector).widgetState();
-			VariantMatrixWidget.setAxisSelection(this.getMatrixWidget(selector),
-					  this.getAttributeName(selector), selectedValue);
-		},
-
-		/**
-		 * Get the selected value for this variant widget.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @return {String}
-		 */
-		getSelectedValue: function(selector) {
-			return $(selector).widgetState().selectedValue;
-		},
-
-		/**
-		 * This method is is used to filter the call to <tt>updateAttributes</tt> on a child class.
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param event {Event} The event object
-		 * @param productId {Number} The Id of the product being acted upon
-		 * @param values {Array} An array of values which are valid for the variant selector
-		 * @param correspondingAttribute {String} The name of the selector which triggered the update
-		 */
-		preUpdateAttributes: function(selector, event, productId, values, correspondingAttribute) {
-			var s = $(selector).widgetState();
-
-			if (productId == s.productId)
-			{
-				// Check to see if this selector should be enabled now
-				var mtx = this.getMatrix(selector);
-				if (Number(mtx.axis[this.getAttributeName(selector)]) ==
-					 Number(mtx.axis[correspondingAttribute]) + 1) {
-					this.preEnableSelector(selector);
-				}
-
-				var attributeValues = s.attributeValues;
-				var unavailableValues = $.diffArr(attributeValues, values);
-				this.updateAttributes(selector, productId, unavailableValues);
-			}
-		},
-
-		/**
-		 * Get the backorder statuses for each value.  Returned as an object
-		 * with the value name and corresponding status message.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param value {String} The value to get the message for
-		 * @return {Object} The values are the keys, the statuses are the values
-		 */
-		getBackorderMessage: function(selector, value) {
-			var res = null;
-			var mtxW = this.getMatrixWidget(selector);
-			var curKey = VariantMatrixWidget.getCurrentVariantKey(mtxW);
-			if (curKey != null) {
-				var jQ = $(selector);
-				var s = $(selector).widgetState();
-				var mtx = this.getMatrix(selector);
-				var mtxS = mtxW.widgetState();
-				var self = this;
-
-				// The backorder messaging
-				var backMsg, backToMsg;
-				var attValues = this.getAttributeValues(selector);
-				if(attValues.length == 1) {
-					backMsg = mtxS.backorderMessageSingleVariant;
-					backToMsg = mtxS.backorderToMessageSingleVariant;
-				} else {
-					backMsg = mtxS.backorderMessage;
-					backToMsg = mtxS.backorderToMessage;
-				}
-
-				var idx = VariantMatrixWidget.getValueIndex(mtxW, self.getAttributeName(jQ), value);
-				var key = [].concat(curKey).slice(0, VariantMatrixWidget.getAxisIndex(mtxW, this.getAttributeName(selector))).concat(idx);
-				var mKey = "[" + key + "]";
-				var e = mtx.matrix[mKey];
-				if (e) {
-					var b = !e.props.stock && e.props.backorderable ? (e.props.backDate ? backToMsg.replace('{0}', e.props.backDate): backMsg) : null;
-					res = (b ? b : null);
-				}
-			}
-
-			return res;
-		},
-
-		/**
-		 * This method is intended to be private and is used to filter the call to
-		 * <tt>enableSelector()</tt>.  If the selector to be enabled (in an ordered
-		 * selection set) only contains a single value, the selector will be
-		 * skipped and the call passed to the next.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @private
-		 */
-		preEnableSelector: function(selector) {
-			var s = $(selector).widgetState();
-			this.enableSelector(selector);
-
-			if (this.isMatrixOrdered(selector) && this.getAttributeValues(selector).length == 1) {
-				// Skip this selector and move onto the next
-				var mtx = this.getMatrix(selector);
-				var mtxW = this.getMatrixWidget(selector);
-				var idx = Number(mtx.axis[this.getAttributeName(selector)]);
-				if (idx + 1 < mtx.axisLength) {
-					var sel = VariantMatrixWidget.getVariantSelector(mtxW, idx + 1);
-					this.preEnableSelector(sel);
-				}
-			}
-		},
-
-		/**
-		 * Stub method so that calling <tt>enableSelector()</tt> won't throw an exception
-		 * if it isn't implemented.
-		 * @param selector {String} The selector name of the element in the DOM
-		 */
-		enableSelector: function(selector) {
-			$(selector).widgetState().enabled = true;
-		},
-
-		/**
-		 * Stub method so that calling <tt>disableSelector()</tt> won't throw an exception
-		 * if it isn't implemented.
-		 * @param selector {String} The selector name of the element in the DOM
-		 */
-		disableSelector: function(selector) {
-			$(selector).widgetState().enabled = false;
-		},
-
-		/**
-		 * @private
-		 */
-		singleValue: function(selector, productId, value) {
-		},
-
-		/**
-		 * Update the values that can be selected in the widget based upon what is determined
-		 * to be available for any corresponding variant attributes.  This method is called
-		 * automatically when another variant attribute within the product is changed. Thus, if
-		 * the color is modified to blue, and the large and extra-large sizes are not available,
-		 * those will be passed as the third parameter to this method.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param productId {Number} The Id of the product the variant attribute is tied to
-		 * @param unavailableValues {Array} An array of attribute values that should be filtered out
-		 */
-		updateAttributes: function(selector, productId, unavailableValues) {
-		}
-
-	});
-}
-
-if (typeof VariantLinkedSelectorWidget == "undefined") {
-	/**
-	 * @class This is a specialty class which is used by variant selector widgets which
-	 *			 are an aggregation of two or more selectors.  It will link the selectors
-	 *			 which are contained within it so they will act as one.
-	 */
-	var VariantLinkedSelectorWidget = BaseWidget.extend({
-
-		/**
-		 * Create an instance of a linked variant selector widget.
-		 *
-		 * @param selector {String} The selector name of the element in the DOM
-		 * @param state {Object} An object which contains any model parameters you wish
-		 *                       to persist with the object.
-		 */
-		create: function(selector, state) {
-			var jQ = this.base(selector, state);
-			var self = this;
-			// We need to pause before setting up the links
-			setTimeout(function() {
-				self.setupLinkage(selector);
-			}, 50);
-		},
-
-		/**
-		 * @private
-		 */
-		setupLinkage: function(selector) {
-			// Get all of the contained variant selector widgets, ignoring
-			// other included widgets
-			var jQ = $(selector);
-			var vSelSet = {};
-			$("*.widget-root", jQ).each(function() {
-				if ($(this).widgetClass && $(this).widgetClass() &&
-					  ($(this).widgetClass().isVariantWidget)) {
-					vSelSet[$(this).attr("id")] = $(this);
-				}
-			});
-
-			// Link all of the selectors together so they act as one
-			for (var s in vSelSet) {
-				for (var t in vSelSet) {
-					if (t !== s) {
-						var f = function(evt, value) {
-							var aC = arguments.callee;
-							aC.w.widgetClass().storeSelectedValue('#' + aC.s, value, true);
-						};
-						f.w = vSelSet[s];
-						f.s = s;
-						vSelSet[t].widgetBind("updatelinkedselector", f);
-						// Remember the linkage
-						var st = vSelSet[t].widgetState();
-						if (!st.linkedTo) {
-							st.linkedTo = [];
-						}
-						st.linkedTo.push(vSelSet[s]);
-					}
-				}
-			}
-		}
-	});
-
-}
-;
-    /* Add to wish list and keep track variant value */
-    function addToWishList(theForm, addToType, memberFlag) {
-        var variantMatrixSelector = '#variantMatrix__widget1362560782002';
-        s.linkTrackVars="events,products";
-        s.linkTrackEvents="event22";
-        s.events = "event22";
-        s.products = ";248503";
-
-        var s_code=s.tl(this, "o", "Wish List Add");
-        if(s_code) document.write(s_code);
-
-        if (typeof VariantMatrixWidget != "undefined") {
-            var colorSelectedValue = VariantMatrixWidget.getAxisSelection(variantMatrixSelector, "COLOR_NAME");
-            var sizeSelectedValue = VariantMatrixWidget.getAxisSelection(variantMatrixSelector, "SIZE_NAME");
-            /* Put to hidden form */
-            theForm.colorSelectedValue.value = (colorSelectedValue != undefined && colorSelectedValue != null) ? colorSelectedValue : "";
-            theForm.sizeSelectedValue.value = (sizeSelectedValue != undefined && sizeSelectedValue != null) ? sizeSelectedValue : "";
-        }
-
-        if (memberFlag) {
-            /* if logged in we can do this through the universal cart */
-            addToWishListPC('.EntityBody');
-        } else {
-            /* if not logged in, submit the form, redirect to login and then to the wishlist */
-            setAddTo(theForm, addToType);
-        }
-    }
-
-
-    function updateMainImage(event, fileURL) {
-    var imgWidget = '#entityImageWidget__widget1362560782002';
-    ImageWidget.setImageSrc(imgWidget, ImageWidget.getImageSrc(imgWidget), fileURL);
-    }
-
-    $(document).ready(function() {
-        tabOmni = $("#productTabs li.ui-tabs-selected a span.text").html();
-
-        // Force selection of swatch if a default selected color is provided
-        if((typeof(selectedColor) != "undefined") && (selectedColor !== '')) {
-            var colorImageCode = 'bb-248503-';
-            $(".variantsQtyWrap li.swatch").filter("[recoloredimage=" + colorImageCode + "]").click();
-        }
-
-    $("#altImages__widget1362560782002_trigger").bind('updateimage',
-        function(event, fileURL) {
-            updateMainImage(event, fileURL);
-        }
-    );
-$("#variantMatrix__widget1362560782002_trigger").bind('updatevariant',
-        function(event, productId, variantId, currentEntry) {
-            var styleInvQty = '' != '' ? '<p></p>' : '';
-            if (variantId == -1) {
-                $("#invQty").html(styleInvQty);
-            } else if(currentEntry) {
-                var canAddBag = currentEntry.props.canAddToCart;
-                var $addToBag = $("#productButtonContainer #addToBag");
-                if (canAddBag == "true"){
-                    $addToBag.removeClass("buttonDisabled").removeAttr("disabled");
-                } else {
-                    $addToBag.addClass("buttonDisabled").attr('disabled', 'disabled');
-                }
-
-                var invLevel = currentEntry.props.dcInvLevel;
-                var inStore = currentEntry.props.hasStoreInv;
-                var isEMWA = currentEntry.props.EMWA_FLAG;
-
-                var hideShopRunner = false;
-                if (parseInt(invLevel) == 0 && inStore =="true"){
-                    var inStoreMsg = '<p>In Store Only</p>';
-                    if (shipFromStoreIconEnabled && canAddBag) {
-                        inStoreMsg = '<p class="shipFromStoreMessage"><span class="SFSIcon"></span>This item is sold out online and will ship from store.<a title="Ship From Store" href="/custserv/custserv_popup.jsp?pageName=ShipFromStore" class="openAjaxLayer help-link"> Learn More</a></p>';
-                        hideShopRunner = true;
-                    }
-                    $("#invQty").html(inStoreMsg);
-                    if ($("#invQty").is(":hidden")) {
-                        $("#invQty").slideDown();
-                    }
-                } else if (parseInt(invLevel) > 0 && parseInt(invLevel) < parseInt(5)) {
-                    var msg = 'Hurry, only {0} left!';
-                    msg =  msg.replace(/\{.*\}/,invLevel);
-                    $("#invQty").html('<p>'+msg+'</p>');
-                    if ($("#invQty").is(":hidden")) {
-                        $("#invQty").slideDown();
-                    }
-                } else {
-                    $("#invQty").html('');
-                }
-
-                if (isEMWA){
-                    hideShopRunner = true;
-                }
-
-                if(hideShopRunner){
-                    $("#sr_productDetailDiv").slideUp();
-                }else{
-                    $("#sr_productDetailDiv").slideDown();
-                }
-
-                var swatchCost = currentEntry.props.cost;
-                var costmsg = 'This item is not available for purchase.';
-                if(swatchCost <= 0.01){
-                    $("#gwpItem").html('<p>'+costmsg+'</p>');
-                    $("#invQty").html('');
-                }else{
-                    $("#gwpItem").html('');
-                }
-            }
-
-            var variantMatrixSelector = '#variantMatrix__widget1362560782002';
-            var colorSelectedValue = VariantMatrixWidget.getAxisSelection(variantMatrixSelector, "COLOR_NAME");
-            var sizeSelectedValue = VariantMatrixWidget.getAxisSelection(variantMatrixSelector, "SIZE_NAME");
-
-            userSelectedSize = sizeSelectedValue;
-            userSelectedColor = colorSelectedValue;
-            document.productForm.colorSelectedValue.value = (colorSelectedValue != undefined && colorSelectedValue != null) ? colorSelectedValue : "";
-            document.productForm.sizeSelectedValue.value = (sizeSelectedValue != undefined && sizeSelectedValue != null) ? sizeSelectedValue : "";
-        }
-    );
-
-        setupVariantWidgetEvents('#variantMatrix__widget1362560782002');
-    });
-    /*! jQuery UI - v1.9.2 - 2012-11-23
+/*! jQuery UI - v1.9.2 - 2012-11-23
 * http://jqueryui.com
 * Includes: jquery.ui.core.js
 * Copyright 2012 jQuery Foundation and other contributors; Licensed MIT */
@@ -1799,7 +184,7 @@ jQuery.effects||function(e,t){var n=e.uiBackCompat!==!1,r="ui-effects-";e.effect
 					var jQ = $(selector);
 					var s = jQ.widgetState();
                     if (typeof qv_viewer !== "undefined") {
-						s7ViewerCompleted = false;
+                        s7ViewerCompleted = false;
                         qv_viewer.dispose();
                     }
 					if (jQ[0].inProgress) return;
@@ -1961,7 +346,7 @@ jQuery.effects||function(e,t){var n=e.uiBackCompat!==!1,r="ui-effects-";e.effect
             </script>
 
             <!-- OMNITURE JS Reference -->
-            <script src="/js/s_code.js" type="text/javascript"></script><img name="s_i_aetv" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/aetv/1/H.2-Pdv-2/s4791722398166?[AQB]&amp;ndh=1&amp;t=30/0/2020%2018%3A59%3A27%204%200&amp;pageName=customer%20service%3Aprivacy&amp;g=https%3A//web.archive.org/web/20170613080901id_/http%253A//www.bebe.com/custserv/custservsection.jsp%253FpageName%253DPrivacy&amp;cc=USD&amp;ch=customer%20service%3Aprivacy&amp;server=192.168.131.103&amp;c1=customer%20service%3Aprivacy&amp;c8=customer%20service&amp;v41=Desktop&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script type="text/javascript">
+            <script src="/js/s_code.js" type="text/javascript"></script><img name="s_i_aetv" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/aetv/1/H.2-Pdv-2/s46944542534554?[AQB]&amp;ndh=1&amp;t=30/0/2020%2018%3A59%3A28%204%200&amp;pageName=customer%20service%3Aprivacy&amp;g=https%3A//web.archive.org/web/20171120004057id_/http%253A//www.bebe.com/custserv/custservsection.jsp%253FpageName%253DPrivacy&amp;cc=USD&amp;ch=customer%20service%3Aprivacy&amp;server=192.168.131.102&amp;c1=customer%20service%3Aprivacy&amp;c8=customer%20service&amp;v41=Desktop&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script type="text/javascript">
                 
                     s.eVar41="Desktop";
                 </script>
@@ -2017,359 +402,360 @@ jQuery.effects||function(e,t){var n=e.uiBackCompat!==!1,r="ui-effects-";e.effect
 </script><header>
 				<!-- Load the default catalog for the site -->
 <div id="headerFixed">
-    <div id="headerTop">
-        <div class="clearfix">
+<div id="headerTop">
+    <div class="clearfix">
 
-	        <div id="headerTopContent" class="six columns actual">
-				<div class="headerPromoMessage contentArea">
-					<span class="cmsWrapper" id="Header-Promo" data-content-name="Header - Promo"></span><script>(typeof(window.ajaxPkgTCAreas) === 'undefined') ? window.ajaxPkgTCAreas = [] : null; window.ajaxPkgTCAreas.push('Header - Promo');</script></div><!-- /headerPromoMessage -->
-            </div><!-- /headerTopContent -->
+        <div id="headerTopContent" class="six columns actual">
+            <div class="headerPromoMessage contentArea">
+                <span class="cmsWrapper" id="Header-Promo" data-content-name="Header - Promo"></span><script>(typeof(window.ajaxPkgTCAreas) === 'undefined') ? window.ajaxPkgTCAreas = [] : null; window.ajaxPkgTCAreas.push('Header - Promo');</script></div><!-- /headerPromoMessage -->
+        </div><!-- /headerTopContent -->
 
-	        <div id="headerTopLinks" class="six columns actual actualMobile">
-		        <a id="mobileNavMenu" href="#" style="display:none;"><span class="inner"><span class="alt">Menu</span></span></a>
-                <ul id="headerSiteLinks" class="none">
-	                <li id="headerReferAFriend"><a href="/user/refer_a_friend.jsp">Refer A Friend<br><span class="raf-message"><div class="cmsWrapper" id="ReferAFriend-Message" data-content-name="Refer A Friend - Message">EARN 200 POINTS!</div></span></a></li>
-					<li id="widget-ucart-item-count">
+        <div id="headerTopLinks" class="six columns actual actualMobile">
+            <a id="mobileNavMenu" href="#" style="display:none;"><span class="inner"><span class="alt">Menu</span></span></a>
+            <ul id="headerSiteLinks" class="none">
+                <li id="headerReferAFriend"><a href="/user/refer_a_friend.jsp">Refer A Friend<br><span class="raf-message"><div class="cmsWrapper" id="ReferAFriend-Message" data-content-name="Refer A Friend - Message">EARN 200 POINTS!</div></span></a></li>
+                <li id="widget-ucart-item-count">
 	</li>
 <li id="headerStores">
-						<a id="storesIcon" href="http://www.bebe.com/custserv/locate_store.cmd"><span class="inner"><span class="alt">Stores</span></span></a></li>
+                    <a id="storesIcon" href="http://www.bebe.com/custserv/locate_non_us_store.cmd"><span class="inner"><span class="alt">Stores</span></span></a></li>
 
-					<li id="signInContainer" class="">
+                <li id="signInContainer" class="">
 	</li>
 <li id="headerSearch">
-                            <form class="remove-bottom" action="/catalog/search.cmd" method="get" name="searchForm" onsubmit="return doSearchValidation(this);"><input type="hidden" name="form_state" value="searchForm"><input id="keyword" onblur="doSearchBlur(this)" onfocus="doSearchFocus(this)" name="keyword" type="search" autocomplete="OFF" autofillparam="ON" maxlength="50" autocapitalize="off" placeholder="search"><input id="searchbtn" type="image" autofillparam="ON" src="http://www.bebe.com/assets/bb/assets/images/common/ico_search.png"></form></li>
-                    </ul>
-                <div class="clr"></div>
-                </div>
+                        <form class="remove-bottom" action="/catalog/search.cmd" method="get" name="searchForm" onsubmit="return doSearchValidation(this);"><input type="hidden" name="form_state" value="searchForm"><input id="keyword" onblur="doSearchBlur(this)" onfocus="doSearchFocus(this)" name="keyword" type="search" autocomplete="OFF" autofillparam="ON" maxlength="50" autocapitalize="off" placeholder="search"><input id="searchbtn" type="image" autofillparam="ON" src="http://www.bebe.com/assets/bb/assets/images/common/ico_search.png"></form></li>
+                </ul>
+            <div class="clr"></div>
+            </div>
 
+    </div>
+    <div id="ucartPositioner" class="responsiveWrap"></div>
+</div><!-- /headerTop -->
+
+<div id="jsSearchRoot" class="jsSearchRoot"></div>
+
+<div id="headerWrap" class="">
+<div id="jsHeaderInnerWrap">
+<div id="siteLogo">
+        <a href="/"><img src="http://www.bebe.com/assets/bb/assets/images/common/site_logo_black.png" alt="bebe"></a></div>
+<nav>
+<ul id="topNavRoot" class="megamenu responsiveWrap actual" style="">
+<li id="headerSmallLogo">
+        <a id="headerSmallLogoLink" href="/"><img src="http://www.bebe.com/assets/bb/assets/images/common/site_logo_black.png" alt="bebe"></a></li>
+<li id="hdrParentCat-193" class="drop ">
+<a class="" href="http://www.bebe.com/New/193.sec">New<span class="cssIcon_arrow-wide"></span>
+</a><div class="column_alignment dropdown">
+            <div class="tableRow">
+                    <div class="tablecell col_1">
+                        <ul data-catsize="10">
+                    <li>
+                        <a class="" href="http://www.bebe.com/New/All-New-Arrivals/pc/193/635.cat">All New Arrivals</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/New/Dresses/pc/193/637.cat">Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/New/Tops/pc/193/638.cat">Tops</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/New/Bottoms/pc/193/639.cat">Bottoms</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/New/Jumpsuits-Rompers/pc/193/208.cat">Jumpsuits &amp; Rompers</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1">
+                        <ul data-catsize="10">
+                    <li>
+                        <a class="" href="http://www.bebe.com/New/Jackets-Coats/pc/193/642.cat">Jackets &amp; Coats</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/New/Shoes/pc/193/646.cat">Shoes</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/New/Accessories/pc/193/647.cat">Accessories</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/New/Activewear/pc/193/1249.cat">Activewear</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/New/Bandage-Dresses/pc/193/1296.cat">Bandage Dresses</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1 imagediv">
+                    <div class="cmsWrapper" id="MegaMenu_Category193" data-content-name="MegaMenu_Category193"><!-- NEW -->
+
+<a href="/New/All-New-Arrivals/pc/193/635.cat">
+<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-09-23_new?$fullsize$" style="border:0;padding-top:2px;" alt="new arrival">
+</a></div></div>
+            </div>
         </div>
-        <div id="ucartPositioner" class="responsiveWrap"></div>
-    </div><!-- /headerTop -->
+    </li>
+<li id="hdrParentCat-197" class="drop ">
+<a class="" href="http://www.bebe.com/Dresses/197.sec">Dresses<span class="cssIcon_arrow-wide"></span>
+</a><div class="column_alignment dropdown">
+            <div class="tableRow">
+                    <div class="tablecell col_1">
+                        <ul data-catsize="13">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/All-Dresses/pc/197/198.cat">All Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/New-Year-s-Eve-Dresses/pc/197/1315.cat">New Year's Eve Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Cocktail-Evening/pc/197/206.cat">Cocktail &amp; Evening</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Jumpsuits-Rompers/pc/197/208.cat">Jumpsuits &amp; Rompers</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Day-Dresses/pc/197/1129.cat">Day Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Work-Dresses/pc/197/1312.cat">Work Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Special-Occasion/pc/197/1009.cat">Special Occasion</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1">
+                        <ul data-catsize="13">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Gowns/pc/197/1252.cat">Gowns</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Bodycon-Dresses/pc/197/204.cat">Bodycon Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Midi-Dresses/pc/197/1130.cat">Midi Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Maxi-Dresses/pc/197/203.cat">Maxi Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Bandage-Dresses/pc/197/1296.cat">Bandage Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Dresses/Sweater-Dresses/pc/197/1309.cat">Sweater Dresses</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1 imagediv">
+                    <div class="cmsWrapper" id="MegaMenu_Category197" data-content-name="MegaMenu_Category197"><!-- NEW -->
 
-    <div id="jsSearchRoot" class="jsSearchRoot"></div>
+<a href="/Dresses/Cocktail-Evening/pc/197/206.cat">
+<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-09-23_partydresses?$fullsize$" style="border:0;padding-top:2px;" alt="Cocktail Dresses">
+</a></div></div>
+            </div>
+        </div>
+    </li>
+<li id="hdrParentCat-1227" class="drop ">
+<a class="" href="http://www.bebe.com/Jumpsuits/1227.sec">Jumpsuits<span class="cssIcon_arrow-wide"></span>
+</a><div class="column_alignment dropdown">
+            <div class="tableRow">
+                    <div class="tablecell col_1">
+                        <ul data-catsize="6">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jumpsuits/All-Jumpsuits/pc/1227/1234.cat">All Jumpsuits</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jumpsuits/Black-Jumpsuits/pc/1227/1228.cat">Black Jumpsuits</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jumpsuits/Long-Sleeve-Jumpsuits/pc/1227/1230.cat">Long Sleeve Jumpsuits</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jumpsuits/Short-Sleeve-Jumpsuits/pc/1227/1231.cat">Short Sleeve Jumpsuits</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jumpsuits/Sleeveless-Jumpsuits/pc/1227/1232.cat">Sleeveless Jumpsuits</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1">
+                        <ul data-catsize="6">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jumpsuits/Denim-Jumpsuits/pc/1227/1233.cat">Denim Jumpsuits</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1 imagediv">
+                    <div class="cmsWrapper" id="MegaMenu_Category1227" data-content-name="MegaMenu_Category1227"><a href="/Jumpsuits/1227.sec">
+<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-09-23_jumpsuit?$fullsize$" style="border:0;padding-top:2px;" alt="Jumpsuits">
+</a></div></div>
+            </div>
+        </div>
+    </li>
+<li id="hdrParentCat-184" class="drop ">
+<a class="" href="http://www.bebe.com/Tops/184.sec">Tops<span class="cssIcon_arrow-wide"></span>
+</a><div class="column_alignment dropdown">
+            <div class="tableRow">
+                    <div class="tablecell col_1">
+                        <ul data-catsize="10">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Tops/All-Tops/pc/184/210.cat">All Tops</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Tops/Night-Out/pc/184/651.cat">Night Out</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Tops/Casual-Tops/pc/184/1263.cat">Casual Tops</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Tops/Blouses-Shirts/pc/184/215.cat">Blouses &amp; Shirts</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Tops/Sweaters/pc/184/216.cat">Sweaters</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1">
+                        <ul data-catsize="10">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Tops/Tees-Tanks/pc/184/214.cat">Tees &amp; Tanks</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Tops/Lace-Tops/pc/184/1264.cat">Lace Tops</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Tops/Off-The-Shoulder-Tops/pc/184/1254.cat">Off The Shoulder Tops</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Tops/Bodysuits/pc/184/496.cat">Bodysuits</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Tops/Crops/pc/184/633.cat">Crops</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1 imagediv">
+                    <div class="cmsWrapper" id="MegaMenu_Category184" data-content-name="MegaMenu_Category184"><a href="/Tops/Night-Out/pc/184/651.cat">
+<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-09-23_tops?$fullsize$" style="border:0;padding-top:2px;" alt="Tops">
+</a></div></div>
+            </div>
+        </div>
+    </li>
+<li id="hdrParentCat-218" class="drop ">
+<a class="" href="http://www.bebe.com/Bottoms/218.sec">Bottoms<span class="cssIcon_arrow-wide"></span>
+</a><div class="column_alignment dropdown">
+            <div class="tableRow">
+                    <div class="tablecell col_1">
+                        <ul data-catsize="5">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Bottoms/All-Bottoms/pc/218/219.cat">All Bottoms</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Bottoms/Leggings/pc/218/223.cat">Leggings</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Bottoms/Jeans/pc/218/340.cat">Jeans</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Bottoms/Skirts/pc/218/221.cat">Skirts</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Bottoms/Pants/pc/218/220.cat">Pants</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1 imagediv">
+                    <div class="cmsWrapper" id="MegaMenu_Category218" data-content-name="MegaMenu_Category218"><a href="/Bottoms/Leggings/pc/218/223.cat">
+<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-09-13_leggings?$fullsize$" style="border:0;padding-top:2px;" alt="Tops">
+</a></div></div>
+            </div>
+        </div>
+    </li>
+<li id="hdrParentCat-227" class="drop ">
+<a class="" href="http://www.bebe.com/Jackets-Coats/227.sec">Jackets &amp; Coats<span class="cssIcon_arrow-wide"></span>
+</a><div class="column_alignment dropdown">
+            <div class="tableRow">
+                    <div class="tablecell col_1">
+                        <ul data-catsize="7">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jackets-Coats/All-Jackets-Coats/pc/227/1171.cat">All Jackets &amp; Coats</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jackets-Coats/Leather/pc/227/1175.cat">Leather</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jackets-Coats/Bombers/pc/227/1260.cat">Bombers</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jackets-Coats/Jackets-Blazers/pc/227/1172.cat">Jackets &amp; Blazers</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jackets-Coats/Coats/pc/227/1173.cat">Coats</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1">
+                        <ul data-catsize="7">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jackets-Coats/Vests/pc/227/1174.cat">Vests</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Jackets-Coats/Trenches/pc/227/1269.cat">Trenches</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1 imagediv">
+                    <div class="cmsWrapper" id="MegaMenu_Category227" data-content-name="MegaMenu_Category227"><a href="/Jackets/All-Jackets/pc/227/1171.cat">
+<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-09-23_jackets?$fullsize$" style="border:0;padding-top:2px;" alt="Jackets">
+</a></div></div>
+            </div>
+        </div>
+    </li>
+<li id="hdrParentCat-234" class="drop ">
+<a class="" href="http://www.bebe.com/Logo/234.sec">Logo<span class="cssIcon_arrow-wide"></span>
+</a><div class="column_alignment dropdown align_right">
+            <div class="tableRow">
+                    <div class="tablecell col_1">
+                        <ul data-catsize="5">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Logo/All-Logo/pc/234/235.cat">All Logo</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Logo/Tops/pc/234/236.cat">Tops</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Logo/Bottoms/pc/234/237.cat">Bottoms</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Logo/Dresses/pc/234/654.cat">Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Logo/Accessories/pc/234/238.cat">Accessories</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1 imagediv">
+                    <div class="cmsWrapper" id="MegaMenu_Category234" data-content-name="MegaMenu_Category234"><a href="/Logo/Tops/pc/234/236.cat">
+<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-09-23_logo?$fullsize$" style="border:0;padding-top:2px;" alt="Tops">
+</a></div></div>
+            </div>
+        </div>
+    </li>
+<li id="hdrParentCat-239" class="drop ">
+<a class="" href="http://www.bebe.com/Shoes/239.sec">Shoes<span class="cssIcon_arrow-wide"></span>
+</a><div class="column_alignment dropdown align_right">
+            <div class="tableRow">
+                    <div class="tablecell col_1">
+                        <ul data-catsize="4">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Shoes/All-Shoes/pc/239/240.cat">All Shoes</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Shoes/Boots-Booties/pc/239/244.cat">Boots &amp; Booties</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Shoes/Heels/pc/239/242.cat">Heels</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Shoes/Sandals/pc/239/241.cat">Sandals</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1 imagediv">
+                    <div class="cmsWrapper" id="MegaMenu_Category239" data-content-name="MegaMenu_Category239"><!--null--></div></div>
+            </div>
+        </div>
+    </li>
+<li id="hdrParentCat-245" class="drop ">
+<a class="" href="http://www.bebe.com/Accessories/245.sec">Accessories<span class="cssIcon_arrow-wide"></span>
+</a><div class="column_alignment dropdown align_right">
+            <div class="tableRow">
+                    <div class="tablecell col_1">
+                        <ul data-catsize="6">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Accessories/All-Accessories/pc/245/246.cat">All Accessories</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Accessories/Jewelry/pc/245/247.cat">Jewelry</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Accessories/Handbags/pc/245/254.cat">Handbags</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Accessories/Hats-Hair-Accessories/pc/245/257.cat">Hats &amp; Hair Accessories</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Accessories/Intimates/pc/245/258.cat">Intimates</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1">
+                        <ul data-catsize="6">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Accessories/Cold-Weather/pc/245/1195.cat">Cold Weather</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1 imagediv">
+                    <div class="cmsWrapper" id="MegaMenu_Category245" data-content-name="MegaMenu_Category245"><!--null--></div></div>
+            </div>
+        </div>
+    </li>
+<li id="hdrParentCat-270" class="drop ">
+<a class="" href="http://www.bebe.com/Sale/270.sec">Sale<span class="cssIcon_arrow-wide"></span>
+</a><div class="column_alignment dropdown align_right">
+            <div class="tableRow">
+                    <div class="tablecell col_1">
+                        <ul data-catsize="8">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Sale/All-Sale/pc/270/271.cat">All Sale</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Sale/Black-Friday-Steals/pc/270/1216.cat">Black Friday Steals</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Sale/Dresses/pc/270/272.cat">Dresses</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Sale/Tops/pc/270/273.cat">Tops</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Sale/Bottoms/pc/270/274.cat">Bottoms</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1">
+                        <ul data-catsize="8">
+                    <li>
+                        <a class="" href="http://www.bebe.com/Sale/Jackets-Coats/pc/270/275.cat">Jackets &amp; Coats</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Sale/Shoes/pc/270/276.cat">Shoes</a></li>
+                    <li>
+                        <a class="" href="http://www.bebe.com/Sale/Accessories/pc/270/277.cat">Accessories</a></li>
+                    </ul><!-- /bb_subrowX -->
+                        </div> <div class="tablecell col_1 imagediv">
+                    <div class="cmsWrapper" id="MegaMenu_Category270" data-content-name="MegaMenu_Category270"><!--null--></div></div>
+            </div>
+        </div>
+    </li>
+<li id="navReferAFriend"><a href="/user/refer_a_friend.jsp"><span class="raf-text">Refer A Friend<br><span class="raf-message"><div class="cmsWrapper" id="ReferAFriend-Message" data-content-name="Refer A Friend - Message">EARN 200 POINTS!</div></span></span></a></li>
+</ul><!-- End Mega Menu -->
+<div id="megaNavBackground"></div>
+</nav><!-- End Menu Container -->
+</div><!-- /jsHeaderInnerWrap -->
+</div><!-- /headerWrap -->
 
-    <div id="headerWrap" class="">
-	    <div id="jsHeaderInnerWrap">
-	        <div id="siteLogo">
-	                <a href="/"><img src="http://www.bebe.com/assets/bb/assets/images/common/site_logo_black.png" alt="bebe"></a></div>
-	        <nav>
-	                    <ul id="topNavRoot" class="megamenu responsiveWrap actual" style="">
-		                    <li id="headerSmallLogo">
-		                            <a id="headerSmallLogoLink" href="/"><img src="http://www.bebe.com/assets/bb/assets/images/common/site_logo_black.png" alt="bebe"></a></li>
-		                    <li id="hdrParentCat-193" class="drop ">
-	                                    <a class="" href="http://www.bebe.com/New/193.sec">New<span class="cssIcon_arrow-wide"></span>
-	                                    </a><div class="column_alignment dropdown">
-	                                                    <div class="tableRow">
-	                                                        <div class="tablecell col_1">
-	                                                                     <ul data-catsize="9">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/New/All-New-Arrivals/pc/193/635.cat">All New Arrivals</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/New/Dresses/pc/193/637.cat">Dresses</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/New/Tops/pc/193/638.cat">Tops</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/New/Bottoms/pc/193/639.cat">Bottoms</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/New/Jumpsuits-Rompers/pc/193/208.cat">Jumpsuits &amp; Rompers</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1">
-	                                                                     <ul data-catsize="9">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/New/Jackets-Coats/pc/193/642.cat">Jackets &amp; Coats</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/New/Accessories/pc/193/647.cat">Accessories</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/New/Petites/pc/193/942.cat">Petites</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/New/Activewear/pc/193/1249.cat">Activewear</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1 imagediv">
-	                                                            <div class="cmsWrapper" id="MegaMenu_Category193" data-content-name="MegaMenu_Category193"><!-- NEW -->
-
-<a href="/New/Wear-Pink/pc/193/1290.cat?intid=mm_wearpink_060917">
-<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-06-09_pink?$fullsize$" style="border:0;padding-top:2px;" alt="new arrival">
-</a></div></div>
-	                                                    </div>
-	                                                </div>
-	                                            </li>
-	                               <li id="hdrParentCat-197" class="drop ">
-	                                    <a class="" href="http://www.bebe.com/Dresses/197.sec">Dresses<span class="cssIcon_arrow-wide"></span>
-	                                    </a><div class="column_alignment dropdown">
-	                                                    <div class="tableRow">
-	                                                        <div class="tablecell col_1">
-	                                                                     <ul data-catsize="9">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Dresses/All-Dresses/pc/197/198.cat">All Dresses</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Dresses/Cocktail-Evening/pc/197/206.cat">Cocktail &amp; Evening</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Dresses/Jumpsuits-Rompers/pc/197/208.cat">Jumpsuits &amp; Rompers</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Dresses/Day-Dresses/pc/197/1129.cat">Day Dresses</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Dresses/Special-Occasion/pc/197/1009.cat">Special Occasion</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1">
-	                                                                     <ul data-catsize="9">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Dresses/Gowns/pc/197/1252.cat">Gowns</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Dresses/Bodycon-Dresses/pc/197/204.cat">Bodycon Dresses</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Dresses/Midi-Dresses/pc/197/1130.cat">Midi Dresses</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Dresses/Maxi-Dresses/pc/197/203.cat">Maxi Dresses</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1 imagediv">
-	                                                            <div class="cmsWrapper" id="MegaMenu_Category197" data-content-name="MegaMenu_Category197"><!-- NEW -->
-
-<a href="/Dresses/Special-Occasion/pc/197/1009.cat?intid=mm_embellished_060917">
-<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-06-09_dresses?$fullsize$" style="border:0;padding-top:2px;" alt="Lace Dresses">
-</a></div></div>
-	                                                    </div>
-	                                                </div>
-	                                            </li>
-	                               <li id="hdrParentCat-1227" class="drop ">
-	                                    <a class="" href="http://www.bebe.com/Jumpsuits/1227.sec">Jumpsuits<span class="cssIcon_arrow-wide"></span>
-	                                    </a><div class="column_alignment dropdown">
-	                                                    <div class="tableRow">
-	                                                        <div class="tablecell col_1">
-	                                                                     <ul data-catsize="6">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jumpsuits/All-Jumpsuits/pc/1227/1234.cat">All Jumpsuits</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jumpsuits/Black-Jumpsuits/pc/1227/1228.cat">Black Jumpsuits</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jumpsuits/Long-Sleeve-Jumpsuits/pc/1227/1230.cat">Long Sleeve Jumpsuits</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jumpsuits/Short-Sleeve-Jumpsuits/pc/1227/1231.cat">Short Sleeve Jumpsuits</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jumpsuits/Sleeveless-Jumpsuits/pc/1227/1232.cat">Sleeveless Jumpsuits</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1">
-	                                                                     <ul data-catsize="6">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jumpsuits/Denim-Jumpsuits/pc/1227/1233.cat">Denim Jumpsuits</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1 imagediv">
-	                                                            <div class="cmsWrapper" id="MegaMenu_Category1227" data-content-name="MegaMenu_Category1227"><a href="/Jumpsuits/All-Jumpsuits/pc/1227/1234.cat?intid=mm_rompers_053017">
-<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-06-01_rompers?$fullsize$" style="border:0;padding-top:2px;" alt="Rompers">
-</a></div></div>
-	                                                    </div>
-	                                                </div>
-	                                            </li>
-	                               <li id="hdrParentCat-184" class="drop ">
-	                                    <a class="" href="http://www.bebe.com/Tops/184.sec">Tops<span class="cssIcon_arrow-wide"></span>
-	                                    </a><div class="column_alignment dropdown">
-	                                                    <div class="tableRow">
-	                                                        <div class="tablecell col_1">
-	                                                                     <ul data-catsize="11">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/All-Tops/pc/184/210.cat">All Tops</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/Night-Out/pc/184/651.cat">Night Out</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/Casual-Tops/pc/184/1263.cat">Casual Tops</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/Blouses-Shirts/pc/184/215.cat">Blouses &amp; Shirts</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/Sweaters/pc/184/216.cat">Sweaters</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/Tees-Tanks/pc/184/214.cat">Tees &amp; Tanks</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1">
-	                                                                     <ul data-catsize="11">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/Lace-Tops/pc/184/1264.cat">Lace Tops</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/Off-The-Shoulder-Tops/pc/184/1254.cat">Off The Shoulder Tops</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/Bodysuits/pc/184/496.cat">Bodysuits</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/Crops/pc/184/633.cat">Crops</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Tops/Featured-Designers/pc/184/1181.cat">Featured Designers</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1 imagediv">
-	                                                            <div class="cmsWrapper" id="MegaMenu_Category184" data-content-name="MegaMenu_Category184"><a href="/Tops/Lace-Tops/pc/184/1264.cat?intid=mm_lacetops_053017">
-<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-06-01_lace?$fullsize$" style="border:0;padding-top:2px;" alt="Tops">
-</a></div></div>
-	                                                    </div>
-	                                                </div>
-	                                            </li>
-	                               <li id="hdrParentCat-218" class="drop ">
-	                                    <a class="" href="http://www.bebe.com/Bottoms/218.sec">Bottoms<span class="cssIcon_arrow-wide"></span>
-	                                    </a><div class="column_alignment dropdown">
-	                                                    <div class="tableRow">
-	                                                        <div class="tablecell col_1">
-	                                                                     <ul data-catsize="7">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Bottoms/All-Bottoms/pc/218/219.cat">All Bottoms</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Bottoms/Leggings/pc/218/223.cat">Leggings</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Bottoms/Jeans/pc/218/340.cat">Jeans</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Bottoms/Skirts/pc/218/221.cat">Skirts</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Bottoms/Pants/pc/218/220.cat">Pants</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1">
-	                                                                     <ul data-catsize="7">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Bottoms/Shorts/pc/218/222.cat">Shorts</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Bottoms/Featured-Designers/pc/218/1182.cat">Featured Designers</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1 imagediv">
-	                                                            <div class="cmsWrapper" id="MegaMenu_Category218" data-content-name="MegaMenu_Category218"><a href="/Bottoms/Jeans/pc/218/340.cat?intid=mm_jeans_053017">
-<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-06-01_denim?$fullsize$" style="border:0;padding-top:2px;" alt="Tops">
-</a></div></div>
-	                                                    </div>
-	                                                </div>
-	                                            </li>
-	                               <li id="hdrParentCat-227" class="drop ">
-	                                    <a class="" href="http://www.bebe.com/Jackets-Coats/227.sec">Jackets &amp; Coats<span class="cssIcon_arrow-wide"></span>
-	                                    </a><div class="column_alignment dropdown">
-	                                                    <div class="tableRow">
-	                                                        <div class="tablecell col_1">
-	                                                                     <ul data-catsize="8">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jackets-Coats/All-Jackets-Coats/pc/227/1171.cat">All Jackets &amp; Coats</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jackets-Coats/Leather/pc/227/1175.cat">Leather</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jackets-Coats/Bombers/pc/227/1260.cat">Bombers</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jackets-Coats/Jackets-Blazers/pc/227/1172.cat">Jackets &amp; Blazers</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jackets-Coats/Coats/pc/227/1173.cat">Coats</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1">
-	                                                                     <ul data-catsize="8">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jackets-Coats/Vests/pc/227/1174.cat">Vests</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jackets-Coats/Trenches/pc/227/1269.cat">Trenches</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Jackets-Coats/Featured-Designers/pc/227/1193.cat">Featured Designers</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1 imagediv">
-	                                                            <div class="cmsWrapper" id="MegaMenu_Category227" data-content-name="MegaMenu_Category227"><a href="/Jackets-Coats/All-Jackets-Coats/pc/227/1171.cat?intid=mm_jackets_051917">
-<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-05-19_jackets?$fullsize$" style="border:0;padding-top:2px;" alt="Tops">
-</a></div></div>
-	                                                    </div>
-	                                                </div>
-	                                            </li>
-	                               <li id="hdrParentCat-234" class="drop ">
-	                                    <a class="" href="http://www.bebe.com/Logo/234.sec">Logo<span class="cssIcon_arrow-wide"></span>
-	                                    </a><div class="column_alignment dropdown align_right">
-	                                                    <div class="tableRow">
-	                                                        <div class="tablecell col_1">
-	                                                                     <ul data-catsize="5">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Logo/All-Logo/pc/234/235.cat">All Logo</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Logo/Tops/pc/234/236.cat">Tops</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Logo/Bottoms/pc/234/237.cat">Bottoms</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Logo/Dresses/pc/234/654.cat">Dresses</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Logo/Accessories/pc/234/238.cat">Accessories</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1 imagediv">
-	                                                            <div class="cmsWrapper" id="MegaMenu_Category234" data-content-name="MegaMenu_Category234"><a href="/Logo/Tops/pc/234/236.cat?intid=mm_logo_053017">
-<img src="//s7d9.scene7.com/is/image/bebe/DB_2017-06-01_logo?$fullsize$" style="border:0;padding-top:2px;" alt="Rompers">
-</a></div></div>
-	                                                    </div>
-	                                                </div>
-	                                            </li>
-	                               <li id="hdrParentCat-239" class="drop ">
-	                                    <a class="" href="http://www.bebe.com/Shoes/239.sec">Shoes<span class="cssIcon_arrow-wide"></span>
-	                                    </a><div class="column_alignment dropdown align_right">
-	                                                    <div class="tableRow">
-	                                                        <div class="tablecell col_1">
-	                                                                     <ul data-catsize="2">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Shoes/All-Shoes/pc/239/240.cat">All Shoes</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Shoes/Sandals/pc/239/241.cat">Sandals</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1 imagediv">
-	                                                            <div class="cmsWrapper" id="MegaMenu_Category239" data-content-name="MegaMenu_Category239"><!--null--></div></div>
-	                                                    </div>
-	                                                </div>
-	                                            </li>
-	                               <li id="hdrParentCat-245" class="drop ">
-	                                    <a class="" href="http://www.bebe.com/Accessories/245.sec">Accessories<span class="cssIcon_arrow-wide"></span>
-	                                    </a><div class="column_alignment dropdown align_right">
-	                                                    <div class="tableRow">
-	                                                        <div class="tablecell col_1">
-	                                                                     <ul data-catsize="8">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Accessories/All-Accessories/pc/245/246.cat">All Accessories</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Accessories/Jewelry/pc/245/247.cat">Jewelry</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Accessories/Handbags/pc/245/254.cat">Handbags</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Accessories/Watches/pc/245/341.cat">Watches</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Accessories/Belts/pc/245/256.cat">Belts</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1">
-	                                                                     <ul data-catsize="8">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Accessories/Hats-Hair-Accessories/pc/245/257.cat">Hats &amp; Hair Accessories</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Accessories/Intimates/pc/245/258.cat">Intimates</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Accessories/Featured-Designers/pc/245/1261.cat">Featured Designers</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1 imagediv">
-	                                                            <div class="cmsWrapper" id="MegaMenu_Category245" data-content-name="MegaMenu_Category245"><!--null--></div></div>
-	                                                    </div>
-	                                                </div>
-	                                            </li>
-	                               <li id="hdrParentCat-270" class="drop ">
-	                                    <a class="" href="http://www.bebe.com/Sale/270.sec">Sale<span class="cssIcon_arrow-wide"></span>
-	                                    </a><div class="column_alignment dropdown align_right">
-	                                                    <div class="tableRow">
-	                                                        <div class="tablecell col_1">
-	                                                                     <ul data-catsize="7">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Sale/All-Sale/pc/270/271.cat">All Sale</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Sale/Dresses/pc/270/272.cat">Dresses</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Sale/Tops/pc/270/273.cat">Tops</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Sale/Bottoms/pc/270/274.cat">Bottoms</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Sale/Jackets-Coats/pc/270/275.cat">Jackets &amp; Coats</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1">
-	                                                                     <ul data-catsize="7">
-	                                                             <li>
-	                                                                     <a class="" href="http://www.bebe.com/Sale/Shoes/pc/270/276.cat">Shoes</a></li>
-	                                                                 <li>
-	                                                                     <a class="" href="http://www.bebe.com/Sale/Accessories/pc/270/277.cat">Accessories</a></li>
-	                                                                 </ul><!-- /bb_subrowX -->
-	                                                                 </div> <div class="tablecell col_1 imagediv">
-	                                                            <div class="cmsWrapper" id="MegaMenu_Category270" data-content-name="MegaMenu_Category270"><!--null--></div></div>
-	                                                    </div>
-	                                                </div>
-	                                            </li>
-	                               <li id="navReferAFriend"><a href="/user/refer_a_friend.jsp"><span class="raf-text">Refer A Friend<br><span class="raf-message"><div class="cmsWrapper" id="ReferAFriend-Message" data-content-name="Refer A Friend - Message">EARN 200 POINTS!</div></span></span></a></li>
-	                </ul><!-- End Mega Menu -->
-	                   <div id="megaNavBackground"></div>
-	            </nav><!-- End Menu Container -->
-	            </div><!-- /jsHeaderInnerWrap -->
-    </div><!-- /headerWrap -->
-
-    </div><!-- /headerFixed -->
+</div><!-- /headerFixed -->
 
 <div id="headerOverlay" class="Overlay-stub widget-root">
     <div class="widgetState">
@@ -2513,10 +899,10 @@ jQuery.effects||function(e,t){var n=e.uiBackCompat!==!1,r="ui-effects-";e.effect
 <ul>
 <li><a href="/custserv/custservsection.jsp?pageName=FAQ" class="category-label-container">FAQs</a></li>
   <li><a href="/custserv/contactus.jsp" class="category-label-container">Contact Us</a></li>
-<li><a href="/custserv/locate_store.cmd" class="category-label-container">Find a Store</a></li>
   <li><a href="/custserv/custservsection.jsp?pageName=Ordering" class="category-label-container">Ordering</a></li>
   <li><a href="/custserv/custservsection.jsp?pageName=Shipping" class="category-label-container">Shipping</a></li>
   <li><a href="/custserv/custservsection.jsp?pageName=Returns" class="category-label-container">Returns</a></li>
+  <li><a href="http://returns.narvar.com/bebe/returns" target="_blank" class="category-label-container">Make a Return</a></li>
   <li><a href="/user/main.jsp" class="category-label-container">My Account</a></li>
   <li><a href="/custserv/size_guide.jsp?pageName=SizeChartClothing" class="category-label-container">Fit Guide</a></li>
 </ul>
@@ -2674,7 +1060,7 @@ Brisbane, CA 94005</p>
 		s.channel="customer service:"+"privacy";
 		s.prop1="customer service:"+"privacy";
 		
-	s.server = "192.168.131.103";	
+	s.server = "192.168.131.102";	
 	s.prop8="customer service";
 		 		 
 	var s_code=s.t();if(s_code)document.write(s_code);
@@ -2771,9 +1157,9 @@ Brisbane, CA 94005</p>
 	<span class="footerHdr"><a class="trigger">QUICK LINKS</a></span>
 	<ul class="toggleMenu">
 	    <li><a href="/user/login.jsp?initForm=close">CLUBBEBE</a></li>
-	    <!--<li><a href="/content.jsp?pageName=GiftCardsLandingPage">GIFT CARDS</a></li>-->
+	    <li><a href="/content.jsp?pageName=GiftCardsLandingPage">GIFT CARDS</a></li>
 	    <li><a href="/content.jsp?pageName=bebe-coupons-and-discounts">COUPONS &amp; DISCOUNTS</a></li>
-	    <li><a href="/content.jsp?pageName=Lookbook">VIEW LOOKBOOKS</a></li>
+	    <li><a href="http://blog.bebe.com" target="_blank">THE b WORD</a></li>
 	</ul>
     </div>
 <style type="text/css">
