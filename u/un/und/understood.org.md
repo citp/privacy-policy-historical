@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the understood.org privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303131137id_/https%3A//www.understood.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the understood.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119071528id_/https%3A//www.understood.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## UNDERSTOOD.ORG PRIVACY POLICY HIGHLIGHTS
 
-Last updated: September 11, 2015
+Last updated: April 11, 2017
 
 _This summary provides highlights of our full Privacy Policy. We encourage you to read the full Privacy Policy availablehere. It contains helpful information and guidelines about using Understood.org and protecting your privacy._
 
@@ -70,7 +70,7 @@ If you choose to use Understood.org, you understand that:
 
 ## UNDERSTOOD.ORG PRIVACY POLICY
 
-Last updated: September 11, 2015
+Last updated: April 11, 2017
 
 We take your privacy very seriously. This policy describes how we use the information that you provide when using our website, Understood.org. By using Understood.org, you agree to and consent to the collection and use of your information as described below.
 
@@ -130,7 +130,7 @@ To remove the cookies issued by Understood.org—or any other cookies, for that 
 
 Once again, there are also a number of software and shareware programs available which are designed to periodically purge cookie files from your hard disk. PLEASE NOTE THAT WE ARE NOT RECOMMENDING ANY OF THESE APPLICATIONS AND WE CANNOT ADDRESS ANY RESULTING SUPPORT ISSUES THAT MAY BE RELATED TO THE USE OF THESE PROGRAMS.
 
-Understood.org also uses Google Analytics to help Understood.org collect and process data. To see how Google uses this data, go to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
+Understood.org also uses Google Analytics to help Understood.org collect and process data. To see how Google uses this data, go to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
 
 
 
@@ -165,7 +165,7 @@ If you mistakenly post information in a public area of Understood.org and would 
 **Please keep in mind that any information you disclose in public areas of Understood.org may become widespread. You should exercise caution when deciding the type and amount of information you want to disclose.**
 
 **Charitable Contributions**  
-We may use a vendor, such as payment processor, to help assist us in delivering Understood.org to you for purposes of making donations. In some cases you may be required to submit personal information (such as your name and address) and financial information (such as a credit card number) to these vendors. We will use a vendor that meets the necessary security requirements for these purposes.
+We may use a vendor, such as payment processor, to help assist us in delivering Understood.org to you for purposes of making donations. In some cases you may be required to submit personal information (such as your name and address) and financial information (such as a credit card number) to these vendors. We will use a vendor that meets the necessary security requirements for these purposes. We will keep your personal information (e.g., name, email address, phone number, address) and financial information (e.g., payment card details) provided in connection with your donation private and will not rent, share or sell your information without your consent, other than for purposes of processing your donation and as otherwise provided in this Privacy Policy.
 
 **Accessing Third-Party Sites from Understood.org**  
 Understood.org may provide links to websites of other organizations or companies that may offer materials and services as well as links to other sites.
