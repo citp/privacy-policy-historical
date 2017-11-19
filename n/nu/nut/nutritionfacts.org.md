@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionfacts.org privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320201334id_/http%3A//nutritionfacts.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionfacts.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119123652id_/https%3A//nutritionfacts.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NutritionFacts.org
 
@@ -55,7 +55,7 @@ We may use and disclose your Personally Identifiable Information only as follows
 
 **Blog and Blog Commenting**
 
-We have a public blog and commenting system on NutritionFacts.org. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your Personal Information appears on our blog and you’d like it to be removed, contact us [here](http://nutritionfacts.org/contact). If we’re not able to remove your information, we’ll let you know why.
+We have a public blog and commenting system on NutritionFacts.org. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your Personal Information appears on our blog and you’d like it to be removed, contact us [here](https://nutritionfacts.org/contact). If we’re not able to remove your information, we’ll let you know why.
 
 **Social Media Widgets**
 
@@ -85,7 +85,7 @@ If you do not consent to the collection, use or disclosure of your Personally Id
 
 ##### Changing or Deleting Your Information & Targeting Opt-Out
 
-All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing or updating their Profile in their account. If you choose to opt-out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please [Contact Us](http://nutritionfacts.org/contact). However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
+All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing or updating their Profile in their account. If you choose to opt-out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please [Contact Us](https://nutritionfacts.org/contact). However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
 
 ### Changes to this Privacy Statement
 
@@ -95,4 +95,6 @@ NutritionFacts.org may at any time, without notice to you and in its sole discre
 
 If you have questions about this privacy statement, or your own Personally Identifiable Information, please e-mail us at [privacy@nutritionfacts.org](mailto:privacy@nutritionfacts.org).
 
-Last Modified: December 3rd 2015
+* * *
+
+Last Modified: August 30th 2017 
