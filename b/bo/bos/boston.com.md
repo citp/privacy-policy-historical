@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127131430id_/https%3A//www.boston.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119115934id_/https%3A//www.boston.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -150,7 +150,7 @@ Phone: 617-929-7900 (between 9:00am and 5:30pm EST)
 
 Fax: 617-929-7975, Attention Privacy Manager
 
-Mail: 135 Morrissey Blvd., Boston, MA 02125, Attention Privacy Manager
+Mail: Boston Globe Media Partners, One Exchange Place Suite 201, Boston MA 02109, Attention Privacy Manager
 
 **Unsubscribe Requests.** If you would like to contact us about unsubscribing from our email lists, please email [feedback@boston.com](mailto:feedback@boston.com) and provide all of your email addresses that could appear on our email lists, as well as the name of the newsletter from which you would like to unsubscribe.
 
