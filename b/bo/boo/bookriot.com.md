@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bookriot.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061717id_/http%3A//bookriot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookriot.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119074609id_/https%3A//bookriot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BOOK RIOT
 
 **Updated:  October 1, 2015**
 
-This privacy policy (“Privacy Policy”) is intended to inform you of Riot New Media Group, Inc’s (“Riot New Media Group, Inc,” “we,” “us,” or “our”) policies and practices regarding the collection, use, and disclosure of your Personal Information through our site located at <http://bookriot.com/> and any other sites that links to this Privacy Policy (the “Site”). We define “Personal Information” as information that allows someone to identify you personally or contact you, including for example your name, address, telephone number, and email address.
+This privacy policy (“Privacy Policy”) is intended to inform you of Riot New Media Group, Inc’s (“Riot New Media Group, Inc,” “we,” “us,” or “our”) policies and practices regarding the collection, use, and disclosure of your Personal Information through our site located at <https://bookriot.com/> and any other sites that links to this Privacy Policy (the “Site”). We define “Personal Information” as information that allows someone to identify you personally or contact you, including for example your name, address, telephone number, and email address.
 
 By registering with us or using our Site, you expressly consent to the collection, use, processing, and disclosure of your Personal Information in accordance with this Privacy Policy. If you reside outside the United States, you understand that your Personal Information may be processed in countries (including the United States) where laws regarding processing personal information may be less stringent than in your country.
 
-Capitalized terms used in this Privacy Policy but not defined in this Privacy Policy have the meanings given to them in the [Terms of Use](http://bookriot.com/termsofuse/ "Terms of Use") or Contributor Terms, as applicable.
+Capitalized terms used in this Privacy Policy but not defined in this Privacy Policy have the meanings given to them in the [Terms of Use](https://bookriot.com/termsofuse/ "Terms of Use") or Contributor Terms, as applicable.
 
 Personal Information You Provide to Us. When you register for an account on our Site, we collect your name, e-mail address, and e-mail preferences, and password for your account. You may also provide us additional information on an optional basis indicated as such in connection with your account and/or your use of our Site. When you choose to participate in a survey, we may collect your name, e-mail address, mailing address, phone number, age, gender and/or other requested information. When you give us Feedback, we may collect any information that is contained in your Feedback. When you contact us by sending us an e-mail, fax, or letter, we collect your e-mail address, fax number, or mailing address, and any information contained in the e-mail, fax, or letter you send us.
 
@@ -48,7 +48,7 @@ We may share your information as required by law, or with law enforcement office
 Your Choices Regarding Your Personal Information  
 We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us or our Site, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the promotional e-mail you receive.
 
-Despite your indicated e-mail preferences, we may send you administrative e-mails regarding our Site and programs, including without limitation, for example, account creation confirmation, and notices of material changes to our [Terms of Use](http://bookriot.com/termsofuse/ "Terms of Use"), Contributor Terms, or Privacy Policy.
+Despite your indicated e-mail preferences, we may send you administrative e-mails regarding our Site and programs, including without limitation, for example, account creation confirmation, and notices of material changes to our [Terms of Use](https://bookriot.com/termsofuse/ "Terms of Use"), Contributor Terms, or Privacy Policy.
 
 You may change the email address, password and preferences you submitted related to your account on the Site at any time by editing it in your account page or you may delete your account. You may request deletion or modification of your Personal Information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request, only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives.
 
