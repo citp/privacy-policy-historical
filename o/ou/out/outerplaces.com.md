@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outerplaces.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045803id_/https%3A//www.outerplaces.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerplaces.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119183952id_/https%3A//www.outerplaces.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Outer Places
 
@@ -284,4 +284,4 @@ A feature of the cache in browsers, an ETag is an opaque identifier assigned by 
 
 * ## CONTACT US
 
-For any queries in relation to this Cookies and Tracking Technologies Policy please contact us at [info@outerplaces.com](mailto:info@outerplaces.com) or Outer Places, 114 West 17th Street, 2nd Floor, NY, NY 10011.
+For any queries in relation to this Cookies and Tracking Technologies Policy please contact us at [info@outerplaces.com](mailto:info@outerplaces.com) or Outer Places, Outer Places 49 W 37th Street, 15th Fl. New York, NY 10018.
