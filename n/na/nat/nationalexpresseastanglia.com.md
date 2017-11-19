@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205163039id_/https%3A//www.greateranglia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119231518id_/https%3A//www.greateranglia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greater Anglia
 
@@ -16,7 +16,7 @@ Abellio Greater Anglia Ltd ("we", "us", or "our") are committed to protecting an
 
 This policy (together with our [terms and conditions](https://web.archive.org/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-This policy applies to the website [www.abelliogreateranglia.co.uk](http://www.abelliogreateranglia.co.uk/ "Opens in a new window"). The website [www.abelliogreateranglia.co.uk](http://www.abelliogreateranglia.co.uk/ "Opens in a new window") (our site) is owned and operated by Abellio Greater Anglia Ltd, a company registered in England and Wales whose registered office is at 5 Fleet Place, London, EC4M 7RD. Company Registration No. 06428369. By visiting [www.abelliogreateranglia.co.uk](http://www.abelliogreateranglia.co.uk/ "Opens in a new window") you are accepting and consenting to the practices described in this policy.
+This policy applies to the website [www.greateranglia.co.uk](https://web.archive.org/node/315323). The website [www.greateranglia.co.uk](https://web.archive.org/node/315323) (our site) is owned and operated by Abellio Greater Anglia Ltd, a company registered in England and Wales whose registered office is at 5 Fleet Place, London, EC4M 7RD. Company Registration No. 06428369. By visiting [www.greateranglia.co.uk](https://web.archive.org/node/315323) you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller in respect of the website is Abellio Greater Anglia Ltd of 5 Fleet Place, London, EC4M 7RD.
 
@@ -28,7 +28,7 @@ Information That We May Collect From You
 
 We may collect and process the following data about you:
 
-• Information you give us. You may give us information about you by filling in forms on our site [www.abelliogreateranglia.co.uk](http://www.abelliogreateranglia.co.uk/ "Opens in a new window") or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for tickets, order tickets on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, country of residence, e-mail address, phone number and travel preference information.
+• Information you give us. You may give us information about you by filling in forms on our site [www.greateranglia.co.uk](https://web.archive.org/node/315323) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for tickets, order tickets on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, country of residence, e-mail address, phone number and travel preference information.
 
 • Information we collect about you. With regard to each of your visits to our site we may automatically collect the following information:
 
@@ -146,7 +146,7 @@ The conversion tracking cookie is set on your browser only when you click an ad 
 
 • DoubleClick tracking
 
-We use the Google DoubleClick cookie to allow us to implement Google Display Network impression reporting which reports display advertisement impressions, other uses of ad services and interactions with these ad impressions and ad services which are related to visits to [www.abelliogreateranglia.co.uk](http://www.abelliogreateranglia.co.uk/ "Opens in a new window"). We also have implemented Google Analytics Demographics and Interest reporting which reports 3rd-party audience data (such as anonymised age, gender and interests) within Google Analytics. You can manage how Google manages this information and "opt out" from data collection at [Google Ads Preferences Manager](https://www.google.co.uk/settings/u/0/ads?hl=en&sig=ACi0TCgnUQZvS9OFBfwzbqk0ldNI8NteUvY1mgQuIoADRUAAl-o6zpFKn2zmluxG2XWwR1hpyNmXP3ngsjRjwLuf3JmOabNrmaDdDwCMjPgt_0CPiRkNDoVH-2edAQlkftHbWXwFv7W8vdUdJDDXSOJ_jWZE6E8wvDVPIvnK__5tVtNQEkvMgDM "Opens in a new window").
+We use the Google DoubleClick cookie to allow us to implement Google Display Network impression reporting which reports display advertisement impressions, other uses of ad services and interactions with these ad impressions and ad services which are related to visits to [www.abelliogreateranglia.co.uk](http://www.abelliogreateranglia.co.uk/ "Opens in a new window"). We also have implemented Google Analytics Demographics and Interest reporting which reports 3rd-party audience data (such as anonymised age, gender and interests) within Google Analytics. You can manage how Google manages this information and "opt out" from data collection at [Google Ads Preferences Manager](https://www.google.co.uk/settings/ads/anonymous?sig=ACi0TCh5IK7M-cC2Mm1PHNEtGaUqChuPT8FuVn66GAQKyAneaso7d76Pupo5m4tppllp7SM0uFkZdiux9TrdE5nq5oFh6mSJHdzEQYEcRq69P7Zk9joKoxo&hl=en-GB "Opens in a new window").
 
 ## Why do we need to use these cookies?
 
@@ -166,12 +166,12 @@ Please note that this may impact on the usability of ours and other websites.
 
 ## Smartcard
 
-For some bookings we allow your ticket to be delivered to your Smartcard. 
+For some bookings we allow your ticket to be delivered to your Smartcard. 
 
-If you are using an existing Smartcard you must ensure that you correctly enter your Smartcard reference number - we cannot amend this after payment has occurred. 
+If you are using an existing Smartcard you must ensure that you correctly enter your Smartcard reference number - we cannot amend this after payment has occurred. 
 
-You must carry your Smartcard with you when you travel. 
+You must carry your Smartcard with you when you travel. 
 
-You must ensure that you validate your Smartcard at the start and end of your journey by using either the stand alone validators or ticket barriers as applicable. 
+You must ensure that you validate your Smartcard at the start and end of your journey by using either the stand alone validators or ticket barriers as applicable. 
 
-Some train companies apply additional restrictions to the use of Smartcards - you must note any additional restrictions notified during the booking process. 
+Some train companies apply additional restrictions to the use of Smartcards - you must note any additional restrictions notified during the booking process. 
