@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epornhd.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616145343id_/http%3A//epornhd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epornhd.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119225203id_/http%3A//epornhd.com/privacy) for the most accurate reproduction.*
 
 # Privacy - HD Porn | ePornHD
 
