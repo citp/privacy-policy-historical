@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the hoopsrumors.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606175414id_/https%3A//www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hoopsrumors.com privacy policy that was archived on 2017-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119203908id_/https%3A//www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<!DOCTYPE html><html lang="en-US"><head><!--[if IE]><![endif]-->
+<meta charset="UTF-8">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -10,9 +10,9 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="https://www.hoopsrumors.com/xmlrpc.php">
 <link href="//fonts.googleapis.com/css?family=Oswald:400,700" rel="stylesheet" type="text/css">
-	<link rel="shortcut icon" type="image/x-icon" href="https://cdn.hoopsrumors.com/files/2015/04/favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="https://www.hoopsrumors.com/files/2015/04/favicon.ico">
 
-  <script type="text/javascript">
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
   (function() {
     var useSSL = 'https:' == document.location.protocol;
     var src = (useSSL ? 'https:' : 'http:') +
@@ -40,42 +40,42 @@
 <!-- end of Swiftype Meta Tags -->
 
 <!-- // FB Open Graph Meta Tags -->
-<meta property="og:image" content="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/images/hoops-fb.png">
+<meta property="og:image" content="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/images/hoops-fb.png">
 
 <link rel="alternate" type="application/rss+xml" title="Hoops Rumors » Feed" href="https://www.hoopsrumors.com/feed">
 <link rel="alternate" type="application/rss+xml" title="Hoops Rumors » Comments Feed" href="https://www.hoopsrumors.com/comments/feed">
-<link rel="alternate" type="application/rss+xml" title="Hoops Rumors » HoopsRumors.com Privacy Policy Comments Feed" href="https://www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html/feed">
-<link rel="stylesheet" id="d4p_smashing_tabber-css" href="https://cdn.hoopsrumors.com/wp-content/plugins/d4p-smashing-tabber/tabber.css?ver=4.3.11" type="text/css" media="all">
-<link rel="stylesheet" id="fv_flowplayer-css" href="https://cdn.hoopsrumors.com/wp-content/fv-flowplayer-custom/style-4.css?ver=1491905123" type="text/css" media="all">
-<link rel="stylesheet" id="fv-player-pro-css" href="https://cdn.hoopsrumors.com/wp-content/plugins/fv-player-pro/css/style.css?ver=0.8.4" type="text/css" media="all">
-<link rel="stylesheet" id="fv_commment_login-css" href="https://cdn.hoopsrumors.com/wp-content/plugins/fv-comment-login/style.css?ver=0.1.2" type="text/css" media="all">
-<link rel="stylesheet" id="swiftype-css" href="https://cdn.hoopsrumors.com/wp-content/plugins/swiftype-search/assets/autocomplete.css?ver=4.3.11" type="text/css" media="all">
-<link rel="stylesheet" id="wp-email-css" href="https://cdn.hoopsrumors.com/wp-content/plugins/wp-email/email-css.css?ver=2.67.3" type="text/css" media="all">
-<link rel="stylesheet" id="starter-style-css" href="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/css/app.css?ver=20170516.07" type="text/css" media="">
-<link rel="stylesheet" id="owl-style-css" href="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/css/owl.carousel.css?ver=4.3.11" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="https://cdn.hoopsrumors.com/wp-includes/css/dashicons.min.css?ver=4.3.11" type="text/css" media="all">
-<link rel="stylesheet" id="wppb_stylesheet-css" href="https://cdn.hoopsrumors.com/wp-content/plugins/profile-builder-pro/assets/css/style-front-end.css?ver=2.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="wp-pagenavi-css" href="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/inc/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
-<link rel="stylesheet" id="googleFonts-css" href="//fonts.googleapis.com/css?family=Lora%3A400%2C700%2C400italic%2C700italic%7COswald%3A700&amp;subset=latin%2Clatin-ext&amp;ver=4.3.11" type="text/css" media="all">
-<link rel="stylesheet" id="fvfacebook-css" href="https://cdn.hoopsrumors.com/wp-content/plugins/prettysocial/style.css?ver=1.0.5" type="text/css" media="screen">
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=4.3.11"></script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/plugins/d4p-smashing-tabber/tabber.js?ver=4.3.11"></script>
+<link rel="alternate" type="application/rss+xml" title="Hoops Rumors » HoopsRumors.com Privacy Policy Comments Feed" href="">
+<link rel="stylesheet" id="d4p_smashing_tabber-css" href="https://www.hoopsrumors.com/wp-content/plugins/d4p-smashing-tabber/tabber.css?ver=4.3.13" type="text/css" media="all">
+<link rel="stylesheet" id="fv_flowplayer-css" href="https://www.hoopsrumors.com/wp-content/fv-flowplayer-custom/style-4.css?ver=1491905123" type="text/css" media="all">
+<link rel="stylesheet" id="fv-player-pro-css" href="https://www.hoopsrumors.com/wp-content/plugins/fv-player-pro/css/style.css?ver=0.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="fv_commment_login-css" href="https://www.hoopsrumors.com/wp-content/plugins/fv-comment-login/style.css?ver=0.1.2" type="text/css" media="all">
+<link rel="stylesheet" id="swiftype-css" href="https://www.hoopsrumors.com/wp-content/plugins/swiftype-search/assets/autocomplete.css?ver=4.3.13" type="text/css" media="all">
+<link rel="stylesheet" id="wp-email-css" href="https://www.hoopsrumors.com/wp-content/plugins/wp-email/email-css.css?ver=2.67.3" type="text/css" media="all">
+<link rel="stylesheet" id="starter-style-css" href="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/css/app.css?ver=20170516.07" type="text/css" media="">
+<link rel="stylesheet" id="owl-style-css" href="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/css/owl.carousel.css?ver=4.3.13" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://www.hoopsrumors.com/wp-includes/css/dashicons.min.css?ver=4.3.13" type="text/css" media="all">
+<link rel="stylesheet" id="wppb_stylesheet-css" href="https://www.hoopsrumors.com/wp-content/plugins/profile-builder-pro/assets/css/style-front-end.css?ver=2.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/inc/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="googleFonts-css" href="//fonts.googleapis.com/css?family=Lora%3A400%2C700%2C400italic%2C700italic%7COswald%3A700&amp;subset=latin%2Clatin-ext&amp;ver=4.3.13" type="text/css" media="all">
+<link rel="stylesheet" id="fvfacebook-css" href="https://www.hoopsrumors.com/wp-content/plugins/prettysocial/style.css?ver=1.0.5" type="text/css" media="screen">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=4.3.13"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/plugins/d4p-smashing-tabber/tabber.js?ver=4.3.13"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var swiftypeParams = {"engineKey":"6F_qa4vKErNWFTffQd9C"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/plugins/swiftype-search/assets/install_swiftype.min.js?ver=4.3.11"></script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/modernizr.js?ver=4.3.11"></script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/fontsmoothie.min.js?ver=4.3.11"></script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/hammer.min.js?ver=4.3.11"></script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/plugins/prettysocial/js/jquery.colorbox-min.js?ver=1.0.5"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/plugins/swiftype-search/assets/install_swiftype.min.js?ver=4.3.13"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/modernizr.js?ver=4.3.13"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/fontsmoothie.min.js?ver=4.3.13"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/hammer.min.js?ver=4.3.13"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/plugins/prettysocial/js/jquery.colorbox-min.js?ver=1.0.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var fvfacebook_options = {"url":"https:\/\/www.hoopsrumors.com\/wp-content\/plugins\/prettysocial\/fv-sharing.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/plugins/prettysocial/js/fvfacebook.js?ver=1.0.5"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/plugins/prettysocial/js/fvfacebook.js?ver=1.0.5"></script>
 <link rel="prev" title="About Hoops Rumors" href="https://www.hoopsrumors.com/2011/11/about-hoops-rumors.html">
 <link rel="next" title="About Chuck Myron" href="https://www.hoopsrumors.com/2012/01/about-chuck-myron.html">
 <link rel="canonical" href="https://www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html">
@@ -84,6 +84,11 @@ var fvfacebook_options = {"url":"https:\/\/www.hoopsrumors.com\/wp-content\/plug
   <meta property="og:description" content="This is a Dierkes Information Services, Inc.&amp;#0160;website. Our postal address is P.O. Box 72523Roselle, IL 60172 We can be reached &amp;hellip;">
     <meta property="og:url" content="https://www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html">
   <meta property="og:site_name" content="Hoops Rumors">
+  <meta name="twitter:title" content="HoopsRumors.com Privacy Policy">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:description" content="This is a Dierkes Information Services, Inc.&amp;#0160;website. Our postal address is P.O. Box 72523Roselle, IL 60172 We can be reached &amp;hellip;">
+    <meta name="twitter:url" content="https://www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html">
+      
 <style>form .message-textarea {display: none !important; }</style>
     <script>
       function fv_more_onclick(id, event) {
@@ -93,7 +98,7 @@ var fvfacebook_options = {"url":"https:\/\/www.hoopsrumors.com\/wp-content\/plug
     </script>
         <script type="text/javascript">
       //<![CDATA[
-      jQuery(document).ready(function() {
+      document.addEventListener("DOMContentLoaded", function(event) {
         jQuery('div.fv_tc_voting').each(function() {
           if( jQuery(this).parents('.fv_tc_voting_box.no-permission').length > 0 ) return;
           
@@ -126,9 +131,11 @@ var fvfacebook_options = {"url":"https:\/\/www.hoopsrumors.com\/wp-content\/plug
     <script type="text/javascript">
 var ajaxurl = 'https://www.hoopsrumors.com/wp-admin/admin-ajax.php';
 </script>
+<!-- ## NXS/OG ## --><!-- ## NXSOGTAGS ## --><!-- ## NXS/OG ## -->
+
 <!--[if lte IE 9]>
-	<script src="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/html5shiv.min.js"></script>
-	<script src="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/respond.min.js"></script>
+	<script src="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/html5shiv.min.js"></script>
+	<script src="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/respond.min.js"></script>
 	<style>
 		.whiteShadow { text-shadow: none !important; filter: none !important; }
 	</style>
@@ -178,14 +185,14 @@ var ajaxurl = 'https://www.hoopsrumors.com/wp-admin/admin-ajax.php';
 			<span>HEADLINES</span>
 			<div class="flexslider">
 				<ul class="slides">
-																<li><a href="https://www.hoopsrumors.com/2017/06/jan-vesely-drawing-interest-from-nba-teams.html" target="_blank">Jan Vesely Drawing Interest From NBA Teams</a></li>
-<li><a href="https://www.hoopsrumors.com/2017/06/kerr-intends-to-coach-game-2-rest-of-series.html" target="_blank">Kerr Intends To Coach Game 2, Series</a></li>
-<li><a href="https://www.hoopsrumors.com/2017/06/fultz-to-work-out-with-celtics-this-week.html" target="_blank">Fultz To Work Out With Celtics This Week</a></li>
-<li><a href="https://www.hoopsrumors.com/2017/06/bucks-ready-to-start-gm-interviews.html" target="_blank">Bucks Ready To Start GM Interviews</a></li>
-<li><a href="https://www.hoopsrumors.com/2017/06/derek-fisher-arrested-for-dui-after-crash.html" target="_blank">Derek Fisher Arrested For DUI After Crash</a></li>
-<li><a href="https://www.hoopsrumors.com/2017/06/justise-winslow-a-month-away-from-return.html" target="_blank">Justise Winslow A Month Away From Return</a></li>
-<li><a href="https://www.hoopsrumors.com/2017/06/waiters-to-decline-player-option.html" target="_blank">Dion Waiters To Decline Player Option</a></li>
-<li><a href="https://www.hoopsrumors.com/2017/06/nba-formally-rules-boshs-illness-career-ending.html" target="_blank">NBA Formally Rules Bosh’s Illness Career-Ending</a></li>
+																<li><a href="https://www.hoopsrumors.com/2017/11/sixers-say-markelle-fultz-is-making-progress.html" target="_blank">Sixers Say Markelle Fultz Is Making Progress</a></li>
+<li><a href="https://www.hoopsrumors.com/2017/11/anfernee-simons-may-skip-college-enter-draft.html" target="_blank">Anfernee Simons May Skip College, Enter Draft</a></li>
+<li><a href="https://www.hoopsrumors.com/2017/11/no-orlando-summer-league-next-year.html" target="_blank">No Orlando Summer League Next Year</a></li>
+<li><a href="https://www.hoopsrumors.com/2017/11/justin-anderson-sidelined-by-shin-splints.html" target="_blank">Justin Anderson Sidelined By Shin Splints</a></li>
+<li><a href="https://www.hoopsrumors.com/2017/11/robert-covington-to-sign-four-year-extension.html" target="_blank">Sixers Renegotiate, Extend Robert Covington’s Contract</a></li>
+<li><a href="https://www.hoopsrumors.com/2017/11/no-timetable-for-mike-conleys-return.html" target="_blank">No Timetable For Mike Conley’s Return</a></li>
+<li><a href="https://www.hoopsrumors.com/2017/11/mavericks-to-sign-antonius-cleveland.html" target="_blank">Mavs Sign Antonius Cleveland To Two-Way Deal</a></li>
+<li><a href="https://www.hoopsrumors.com/2017/11/bucks-have-interest-in-mindaugas-kuzminskas.html" target="_blank">Bucks Have Interest In Mindaugas Kuzminskas</a></li>
 									</ul>
 			</div>
 			
@@ -261,7 +268,7 @@ var ajaxurl = 'https://www.hoopsrumors.com/wp-admin/admin-ajax.php';
 <ul class="dropdown-menu">
 	<li id="menu-item-20634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20634"><a href="https://bnc.lt/get-hoops-trade-rumors">Trade Rumors App</a></li>
 	<li id="menu-item-9165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9165"><a href="https://www.hoopsrumors.com/2015/08/2017-free-agents.html">2017 Free Agents</a></li>
-	<li id="menu-item-40574" class="menu-item  menu-item-type-post_type menu-item-object-page menu-item-40574"><a href="https://www.hoopsrumors.com/2016-nba-free-agent-tracker">2016 Free Agent Tracker</a></li>
+	<li id="menu-item-67610" class="menu-item  menu-item-type-post_type menu-item-object-page menu-item-67610"><a href="https://www.hoopsrumors.com/2017-nba-free-agent-tracker">2017 NBA Free Agent Tracker</a></li>
 	<li id="menu-item-40573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40573"><a href="http://www.rosterresource.com/nba-depth-charts/">NBA Depth Charts</a></li>
 	<li id="menu-item-9160" class="menu-item  menu-item-type-post_type menu-item-object-page menu-item-9160"><a href="https://www.hoopsrumors.com/10daytracker">10-Day Contract Tracker</a></li>
 </ul>
@@ -279,16 +286,16 @@ var ajaxurl = 'https://www.hoopsrumors.com/wp-admin/admin-ajax.php';
 </ul></div>  </div>
   <div id="nav-right">
           </div>
-<!--menu cached @1496771482.5709 saved 0.044533014297485 seconds -->
+<!--menu cached @1511116589.6515 saved 0.085030078887939 seconds -->
 <div id="page" class="container">
 
 	<header id="masthead" class="site-header" role="banner">
                 <div class="site-branding">
-        <h1 class="site-title"><a href="https://www.hoopsrumors.com/" title="Hoops Rumors" rel="home"><img src="https://cdn.hoopsrumors.com/files/2015/06/logo3.png"></a></h1>
+        <h1 class="site-title"><a href="https://www.hoopsrumors.com/" title="Hoops Rumors" rel="home"><img src="https://www.hoopsrumors.com/files/2015/06/logo3.png"></a></h1>
       </div>
           		
 		<div class="headerBackground">
-                        <img src="https://cdn.hoopsrumors.com/files/2015/06/header-ball1.png">
+                        <img src="https://www.hoopsrumors.com/files/2015/06/header-ball1.png">
                
                   <div class="header_ad">
             <!-- /5067886/728x90_hoops_rumors -->
@@ -300,8 +307,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-0');
               			
 			<nav id="site-navigation" class="hidden-xs collapse navbar-collapse navbar-ex1-collapse">
         <!--explicit cache: /srv/www/traderumors.com/wp-content/themes/HoopsRumors2014/cache/menu-4.tmp-->
-<div class="menu-primary-container row"><ul id="menu-main-menu" class="nav navbar-nav nav-menu"><li id="menu-item-9163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9163"><a href="/">Home</a></li>
-<li id="menu-item-9172" class="teams_submenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-9172"><a title="teams" href="#" class="dropdown-toggle" data-toggle="dropdown">Teams </a>
+<div class="menu-primary-container row"><ul id="menu-main-menu-1" class="nav navbar-nav nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9163"><a href="/">Home</a></li>
+<li class="teams_submenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-9172"><a title="teams" href="#" class="dropdown-toggle" data-toggle="dropdown">Teams </a>
 <ul class="dropdown-menu">
 	<!--fv_mlb_teams_menu_new--><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30086"><a>Atlantic</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30086"><a href="https://www.hoopsrumors.com/boston-celtics">Boston Celtics</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30086"><a href="https://www.hoopsrumors.com/brooklyn-nets">Brooklyn Nets</a></li>
@@ -336,15 +343,20 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-0');
 </ul></li><!--/fv_mlb_teams_menu_new-->
 </ul>
 </li>
-<li id="menu-item-9166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-9166"><a href="/2011/11/about-hoops-rumors.html" class="dropdown-toggle" data-toggle="dropdown">About </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-9166"><a href="/2011/11/about-hoops-rumors.html" class="dropdown-toggle" data-toggle="dropdown">About </a>
 <ul class="dropdown-menu">
-	<li id="menu-item-9219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9219"><a href="/2011/11/about-hoops-rumors.html">Hoops Rumors</a></li>
-	<li id="menu-item-9218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9218"><a href="/2012/05/meet-the-hoops-rumors-writing-team.html">Writing Team</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9219"><a href="/2011/11/about-hoops-rumors.html">Hoops Rumors</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9218"><a href="/2012/05/meet-the-hoops-rumors-writing-team.html">Writing Team</a></li>
 </ul>
 </li>
-<li id="menu-item-9214" class="menu-item  menu-item-type-post_type menu-item-object-page menu-item-9214"><a href="https://www.hoopsrumors.com/contact">Contact Us</a></li>
-<li id="menu-item-9208" class="menu-item  menu-item-type-post_type menu-item-object-page menu-item-9208"><a href="https://www.hoopsrumors.com/2011/11/advertise-on-hoops-rumors.html">Advertise</a></li>
-<li id="menu-item-9207" class="menu-item  menu-item-type-post_type menu-item-object-page menu-item-9207"><a href="https://www.hoopsrumors.com/archives">Archives</a><ul class="dropdown-menu">	<li><a href="https://www.hoopsrumors.com/2017/06">June 2017</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9214"><a href="https://www.hoopsrumors.com/contact">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9208"><a href="https://www.hoopsrumors.com/2011/11/advertise-on-hoops-rumors.html">Advertise</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9207"><a href="https://www.hoopsrumors.com/archives">Archives</a><ul class="dropdown-menu">	<li><a href="https://www.hoopsrumors.com/2017/11">November 2017</a></li>
+	<li><a href="https://www.hoopsrumors.com/2017/10">October 2017</a></li>
+	<li><a href="https://www.hoopsrumors.com/2017/09">September 2017</a></li>
+	<li><a href="https://www.hoopsrumors.com/2017/08">August 2017</a></li>
+	<li><a href="https://www.hoopsrumors.com/2017/07">July 2017</a></li>
+	<li><a href="https://www.hoopsrumors.com/2017/06">June 2017</a></li>
 	<li><a href="https://www.hoopsrumors.com/2017/05">May 2017</a></li>
 	<li><a href="https://www.hoopsrumors.com/2017/04">April 2017</a></li>
 	<li><a href="https://www.hoopsrumors.com/2017/03">March 2017</a></li>
@@ -412,26 +424,26 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-0');
 	<li><a href="https://www.hoopsrumors.com/2012/01">January 2012</a></li>
 	<li><a href="https://www.hoopsrumors.com/2011/11">November 2011</a></li>
 </ul></li>
-<li id="menu-item-9158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-9158"><a href="/agencydatabase" class="dropdown-toggle" data-toggle="dropdown">Tools </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-9158"><a href="/agencydatabase" class="dropdown-toggle" data-toggle="dropdown">Tools </a>
 <ul class="dropdown-menu">
-	<li id="menu-item-20634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20634"><a href="https://bnc.lt/get-hoops-trade-rumors">Trade Rumors App</a></li>
-	<li id="menu-item-9165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9165"><a href="https://www.hoopsrumors.com/2015/08/2017-free-agents.html">2017 Free Agents</a></li>
-	<li id="menu-item-40574" class="menu-item  menu-item-type-post_type menu-item-object-page menu-item-40574"><a href="https://www.hoopsrumors.com/2016-nba-free-agent-tracker">2016 Free Agent Tracker</a></li>
-	<li id="menu-item-40573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40573"><a href="http://www.rosterresource.com/nba-depth-charts/">NBA Depth Charts</a></li>
-	<li id="menu-item-9160" class="menu-item  menu-item-type-post_type menu-item-object-page menu-item-9160"><a href="https://www.hoopsrumors.com/10daytracker">10-Day Contract Tracker</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20634"><a href="https://bnc.lt/get-hoops-trade-rumors">Trade Rumors App</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9165"><a href="https://www.hoopsrumors.com/2015/08/2017-free-agents.html">2017 Free Agents</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67610"><a href="https://www.hoopsrumors.com/2017-nba-free-agent-tracker">2017 NBA Free Agent Tracker</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40573"><a href="http://www.rosterresource.com/nba-depth-charts/">NBA Depth Charts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9160"><a href="https://www.hoopsrumors.com/10daytracker">10-Day Contract Tracker</a></li>
 </ul>
 </li>
-<li id="menu-item-9169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-9169"><a href="/denver-nuggets" class="dropdown-toggle" data-toggle="dropdown">Partners </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-9169"><a href="/denver-nuggets" class="dropdown-toggle" data-toggle="dropdown">Partners </a>
 <ul class="dropdown-menu">
-	<li id="menu-item-9170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9170"><a href="https://www.mlbtraderumors.com/">MLB Trade Rumors</a></li>
-	<li id="menu-item-9171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9171"><a href="https://www.prohockeyrumors.com/">Pro Hockey Rumors</a></li>
-	<li id="menu-item-12247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12247"><a href="https://www.profootballrumors.com/">Pro Football Rumors</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9170"><a href="https://www.mlbtraderumors.com/">MLB Trade Rumors</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9171"><a href="https://www.prohockeyrumors.com/">Pro Hockey Rumors</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12247"><a href="https://www.profootballrumors.com/">Pro Football Rumors</a></li>
 </ul>
 </li>
-<li id="menu-item-9211" class="menu-twitter menu-icons menu-item menu-item-type-custom menu-item-object-custom menu-item-9211"><a href="http://www.twitter.com/hoopsrumors">Twitter</a></li>
-<li id="menu-item-9212" class="menu-facebook menu-icons menu-item menu-item-type-custom menu-item-object-custom menu-item-9212"><a href="http://www.facebook.com/hoopsrumors">Facebook</a></li>
-<li id="menu-item-9213" class="menu-rss menu-icons menu-item menu-item-type-custom menu-item-object-custom menu-item-9213"><a href="/feed">RSS</a></li>
-</ul></div><!--menu cached @1496771595.3027 saved 0.098104953765869 seconds -->
+<li class="menu-twitter menu-icons menu-item menu-item-type-custom menu-item-object-custom menu-item-9211"><a href="http://www.twitter.com/hoopsrumors">Twitter</a></li>
+<li class="menu-facebook menu-icons menu-item menu-item-type-custom menu-item-object-custom menu-item-9212"><a href="http://www.facebook.com/hoopsrumors">Facebook</a></li>
+<li class="menu-rss menu-icons menu-item menu-item-type-custom menu-item-object-custom menu-item-9213"><a href="/feed">RSS</a></li>
+</ul></div><!--menu cached @1511116589.7458 saved 0.093682050704956 seconds -->
 				<!-- Search -->
                                 <div class="nav-search">
                                     <form action="https://www.hoopsrumors.com/" class="search-form" method="get" role="search">
@@ -474,12 +486,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-0');
 		<div class="userContent">
 			<p>This is a <strong>Dierkes Information Services, Inc.</strong>&nbsp;website.</p>
 <p>Our postal address is <br><strong>P.O. Box 72523<br>Roselle, IL 60172</strong></p>
-<p>We can be reached via e-mail <a href="https://cdn.hoopsrumors.com/contact.html">via the site's contact form</a>.</p>
+<p>We can be reached via e-mail <a href="/contact.html" data-wpel-link="internal" target="_blank">via the site's contact form</a>.</p>
 <p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).</p>
 <p>We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.</p>
-<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.">here</a>.</p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here." data-wpel-link="external" target="_blank">here</a>.</p>
 <p>The information we collect is used to improve the content of our Web page only.</p>
-<p>Google, as a third party vendor, uses cookies to serve ads on your site.&nbsp; Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.&nbsp; Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</p>
+<p>Google, as a third party vendor, uses cookies to serve ads on your site.&nbsp; Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.&nbsp; Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" data-wpel-link="external" target="_blank">Google ad and content network privacy policy</a>.</p>
 <p>With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.&nbsp;</p>
 <p>If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number.</p>
 		</div>
@@ -489,7 +501,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-0');
      <div class="fv_sharing_round">
 <span class="fvretweet"><a class="image" target="_blank" onclick="pretty_social_increase_number('.fvretweet .twnumber');" href="http://twitter.com/share?url=https%3A%2F%2Fwww.hoopsrumors.com%2F2012%2F01%2Fhoopsrumorscom-privacy-policy.html&amp;text=HoopsRumors.com+Privacy+Policy" title="Retweet 'HoopsRumors.com Privacy Policy' on Twitter"><span>Retweet</span></a> <span class="twnumber">0</span></span>
 <span class="fvfacebook_add"><a onclick="pretty_social_increase_number('.fvfacebook_add .fblikenm'); return false" href="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.hoopsrumors.com%2F2012%2F01%2Fhoopsrumorscom-privacy-policy.html&amp;layout=standard&amp;show_faces=true&amp;width=360&amp;action=like&amp;share=true&amp;font&amp;colorscheme=light&amp;height=110" class="fvfacebookwindow" title="Like 'https://www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html' on Facebook"><span>Like</span></a> <span class="fblikenm">0</span></span>
-<span class="fvemail"><a class="image" target="_blank" onclick="prettysocial_email(9145); location.href='https://www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html/email'; return false" href="https://www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html/email" title="Send HoopsRumors.com Privacy Policy with an email"><span>Send via email</span></a><span class="emailnumber">0</span></span><div class="fv_sharing_clear"></div>
+<span class="fvemail"><a class="image" target="_blank" onclick="prettysocial_email(9145); location.href='https://www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html/email'; return false" href="#" title="Send HoopsRumors.com Privacy Policy with an email"><span>Send via email</span></a><span class="emailnumber">0</span></span><div class="fv_sharing_clear"></div>
 </div>
   </div>  
   
@@ -543,21 +555,23 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-2');
 			
 		</form></div>
     <script>
-    jQuery(document).on('click', '.login-button', function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-
-      if( jQuery(this).hasClass('comment-reply-login') ) {
-        jQuery('.login-box').insertAfter(this);
-        jQuery('.login-box').slideDown();
-        var link = jQuery('.login-box').find('input[name=redirect_to]').val();
-        var parent_id = jQuery(this).parents('[id]').eq(0).attr('id');
-        jQuery('.login-box').find('input[name=redirect_to]').val(link.replace(/#\S+/,'#'+parent_id));
-      } else {
-        jQuery('.login-box').insertAfter('.must-log-in');
-        jQuery('.login-box').slideDown();
-        jQuery('.login-box').find('input[name=redirect_to]').val(link.replace(/#\S+/,'#comments'));
-      }
+    document.addEventListener("DOMContentLoaded", function(event) {
+      jQuery(document).on('click', '.login-button', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+  
+        if( jQuery(this).hasClass('comment-reply-login') ) {
+          jQuery('.login-box').insertAfter(this);
+          jQuery('.login-box').slideDown();
+          var link = jQuery('.login-box').find('input[name=redirect_to]').val();
+          var parent_id = jQuery(this).parents('[id]').eq(0).attr('id');
+          jQuery('.login-box').find('input[name=redirect_to]').val(link.replace(/#\S+/,'#'+parent_id));
+        } else {
+          jQuery('.login-box').insertAfter('.must-log-in');
+          jQuery('.login-box').slideDown();
+          jQuery('.login-box').find('input[name=redirect_to]').val(link.replace(/#\S+/,'#comments'));
+        }
+      });
     });
     </script>
     
@@ -575,59 +589,57 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-2');
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-1'); });
 </script>
-</div></div>
-		</aside><aside id="d4p-smashing-tabber-2" class="widget widget_d4p-smashing-tabber"><div class="d4p-tabber-widget"><ul class="d4p-tabber-header"></ul><div id="cat-list-widget-2" class="d4p-st-tab"><a href="#" class="d4p-st-title"><span>Top</span> Stories</a><ul><li><a href="https://www.hoopsrumors.com/2017/06/jan-vesely-drawing-interest-from-nba-teams.html">Jan Vesely Drawing Interest From NBA Teams</a></li><li><a href="https://www.hoopsrumors.com/2017/06/kerr-intends-to-coach-game-2-rest-of-series.html">Kerr Intends To Coach Game 2, Series</a></li><li><a href="https://www.hoopsrumors.com/2017/06/fultz-to-work-out-with-celtics-this-week.html">Fultz To Work Out With Celtics This Week</a></li><li><a href="https://www.hoopsrumors.com/2017/06/bucks-ready-to-start-gm-interviews.html">Bucks Ready To Start GM Interviews</a></li><li><a href="https://www.hoopsrumors.com/2017/06/derek-fisher-arrested-for-dui-after-crash.html">Derek Fisher Arrested For DUI After Crash</a></li><li><a href="https://www.hoopsrumors.com/2017/06/justise-winslow-a-month-away-from-return.html">Justise Winslow A Month Away From Return</a></li><li><a href="https://www.hoopsrumors.com/2017/06/waiters-to-decline-player-option.html">Dion Waiters To Decline Player Option</a></li><li><a href="https://www.hoopsrumors.com/2017/06/nba-formally-rules-boshs-illness-career-ending.html">NBA Formally Rules Bosh’s Illness Career-Ending</a></li></ul></div>		<div id="recent-posts-3" class="d4p-st-tab">		<a href="#" class="d4p-st-title"><span>Recent</span> Posts</a>		<ul>
+</div>
+<!--test 2017-11-08 2--></div>
+		</aside><aside id="d4p-smashing-tabber-2" class="widget widget_d4p-smashing-tabber"><div class="d4p-tabber-widget"><ul class="d4p-tabber-header"></ul><div id="cat-list-widget-2" class="d4p-st-tab"><a href="#" class="d4p-st-title"><span>Top</span> Stories</a><ul><li><a href="https://www.hoopsrumors.com/2017/11/sixers-say-markelle-fultz-is-making-progress.html">Sixers Say Markelle Fultz Is Making Progress</a></li><li><a href="https://www.hoopsrumors.com/2017/11/anfernee-simons-may-skip-college-enter-draft.html">Anfernee Simons May Skip College, Enter Draft</a></li><li><a href="https://www.hoopsrumors.com/2017/11/no-orlando-summer-league-next-year.html">No Orlando Summer League Next Year</a></li><li><a href="https://www.hoopsrumors.com/2017/11/justin-anderson-sidelined-by-shin-splints.html">Justin Anderson Sidelined By Shin Splints</a></li><li><a href="https://www.hoopsrumors.com/2017/11/robert-covington-to-sign-four-year-extension.html">Sixers Renegotiate, Extend Robert Covington’s Contract</a></li><li><a href="https://www.hoopsrumors.com/2017/11/no-timetable-for-mike-conleys-return.html">No Timetable For Mike Conley’s Return</a></li><li><a href="https://www.hoopsrumors.com/2017/11/mavericks-to-sign-antonius-cleveland.html">Mavs Sign Antonius Cleveland To Two-Way Deal</a></li><li><a href="https://www.hoopsrumors.com/2017/11/bucks-have-interest-in-mindaugas-kuzminskas.html">Bucks Have Interest In Mindaugas Kuzminskas</a></li></ul></div>		<div id="recent-posts-3" class="d4p-st-tab">		<a href="#" class="d4p-st-title"><span>Recent</span> Posts</a>		<ul>
 					<li>
-				<a href="https://www.hoopsrumors.com/2017/06/fords-latest-celtics-lakers-sixers-suns.html">Ford’s Latest: Celtics, Lakers, Sixers, Suns</a>
+				<a href="https://www.hoopsrumors.com/2017/11/sixers-say-markelle-fultz-is-making-progress.html">Sixers Say Markelle Fultz Is Making Progress</a>
 						</li>
 					<li>
-				<a href="https://www.hoopsrumors.com/2017/06/2017-offseason-salary-cap-digest-boston-celtics.html">2017 Offseason Salary Cap Digest: Boston Celtics</a>
+				<a href="https://www.hoopsrumors.com/2017/11/weekly-mailbag-111317-111917.html">Weekly Mailbag: 11/13/17 – 11/19/17</a>
 						</li>
 					<li>
-				<a href="https://www.hoopsrumors.com/2017/06/eastern-draft-notes-knicks-smith-hornets-bulls.html">Eastern Draft Notes: Knicks, Smith, Hornets, Bulls</a>
+				<a href="https://www.hoopsrumors.com/2017/11/florida-notes-gay-whiteside-magic-augustin.html">Florida Notes: Gay, Whiteside, Magic, Augustin</a>
 						</li>
 					<li>
-				<a href="https://www.hoopsrumors.com/2017/06/atlantic-draft-notes-dorsey-dozier-meeks-dotson.html">Atlantic Draft Notes: Dorsey, Dozier, Meeks, Dotson</a>
+				<a href="https://www.hoopsrumors.com/2017/11/l-a-notes-beverley-w-johnson-kuzma-free-agency.html">L.A. Notes: Beverley, W. Johnson, Kuzma, Free Agency</a>
 						</li>
 					<li>
-				<a href="https://www.hoopsrumors.com/2017/06/deaaron-fox-works-out-for-kings-suns-next.html">De’Aaron Fox Works Out For Kings; Suns Next</a>
+				<a href="https://www.hoopsrumors.com/2017/11/northwest-notes-gibson-t-jones-oneale-lillard.html">Northwest Notes: Gibson, T. Jones, O’Neale, Lillard</a>
 						</li>
 					<li>
-				<a href="https://www.hoopsrumors.com/2017/06/five-key-offseason-questions-detroit-pistons.html">Five Key Offseason Questions: Detroit Pistons</a>
+				<a href="https://www.hoopsrumors.com/2017/11/anfernee-simons-may-skip-college-enter-draft.html">Anfernee Simons May Skip College, Enter Draft</a>
 						</li>
 					<li>
-				<a href="https://www.hoopsrumors.com/2017/06/central-rumors-butler-garrity-griffin-pacers.html">Central Rumors: Butler, Garrity, Griffin, Pacers</a>
+				<a href="https://www.hoopsrumors.com/2017/11/knicks-notes-beasley-hardaway-hornacek-playoff-odds.html">Knicks Notes: Beasley, Hardaway, Hornacek, Playoff Odds</a>
 						</li>
 					<li>
-				<a href="https://www.hoopsrumors.com/2017/06/community-shootaround-game-3.html">Community Shootaround: Game 3</a>
+				<a href="https://www.hoopsrumors.com/2017/11/no-orlando-summer-league-next-year.html">No Orlando Summer League Next Year</a>
 						</li>
 					<li>
-				<a href="https://www.hoopsrumors.com/2017/06/draft-notes-lakers-ball-artis-briscoe-d-white.html">Draft Notes: Lakers, Ball, Artis, Briscoe, D. White</a>
+				<a href="https://www.hoopsrumors.com/2017/11/justin-anderson-sidelined-by-shin-splints.html">Justin Anderson Sidelined By Shin Splints</a>
 						</li>
 					<li>
-				<a href="https://www.hoopsrumors.com/2017/06/2017-offseason-salary-cap-digest-miami-heat.html">2017 Offseason Salary Cap Digest: Miami Heat</a>
+				<a href="https://www.hoopsrumors.com/2017/11/southwest-notes-conley-mejri-noel-rondo.html">Southwest Notes: Conley, Mejri, Noel, Rondo</a>
 						</li>
 				</ul>
 		</div></div></aside><aside id="text-16" class="widget widget_text"><div class="widget-hd"><h3 class="hdg hdg_h3 hdg_upper whiteShadow"><span>Trade</span> Rumors App</h3></div>			<div class="textwidget"><div class="center">
    <a href="https://bnc.lt/get-hoops-trade-rumors"><img class="aligncenter size-full wp-image-42691" src="https://cdn.mlbtraderumors.com/images/2014/11/TradeRumors-AppAd-300x250.jpg"></a>
 </div></div>
 		</aside><aside id="text-7" class="widget widget_text"><div class="widget-hd"><h3 class="hdg hdg_h3 hdg_upper whiteShadow"><span>Hoops</span> Rumors Features</h3></div>			<div class="textwidget"><ul class="feature">
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2015/08/2017-free-agents.html">2017 Free Agents By Position/Type</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/09/2017-nba-free-agents-by-team.html">2017 Free Agents By Team</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/12/2017-nba-free-agent-power-rankings-2.html">2017 Free Agent Power Rankings</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/09/2018-nba-free-agents.html">2018 Free Agents</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/05/2017-nba-draft-order.html">2017 NBA Draft Order</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/05/2017-nba-draft-lottery-results.html">2017 NBA Draft Lottery Results</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/05/2017-nba-draft-picks-by-team.html">2017 NBA Draft Picks By Team</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/03/2017-nba-draft-early-entrants-list.html">2017 NBA Draft Early Entrants List</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017-nba-free-agent-tracker">2017 Free Agent Tracker</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2015/08/2017-free-agents.html">Current Free Agents By Position</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/09/2018-nba-free-agents.html">2018 Free Agents By Position/Type</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/2018-nba-free-agents-by-team.html">2018 Free Agents By Team</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/11/2018-nba-free-agent-power-rankings-2-0.html">2018 Free Agent Power Rankings</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/09/2019-nba-free-agents.html">2019 Free Agents</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/06/complete-2017-nba-draft-results.html">2017 NBA Draft Results</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/07/2017-nba-draft-pick-signings.html">2017 NBA Draft Pick Signings</a></li>
 <li class="hoops_rumors_feature"><a href="/10daytracker">10-Day Contract Tracker</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/03/comprehensive-big3-rostersplayer-list.html">BIG3 Rosters/Players List</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/08/nba-d-league-affiliations-for-201617.html">D-League Affiliations</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/07/2016-draft-and-stash-signings.html">Draft-And-Stash Signings 2016</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/07/2016-nba-draft-pick-signings.html">Draft Pick Signings 2016</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/06/2016-nba-draft-results.html">Draft Results 2016</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/11/2016-rookie-scale-contract-extension-recap.html">Extensions Recap 2016 (Rookie Scale)</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/08/2016-nba-contract-extension-tracker.html">Extensions Signed 2016 (All)</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/07/2017-nba-draft-and-stash-signings.html">Draft-And-Stash Signings 2017</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/09/nba-draft-rights-held-by-team-for-201718.html">Draft Rights Held By Team</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/09/2017-nba-contract-extension-tracker.html">Extensions Signed - 2017</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/06/nba-g-league-affiliates-for-201718-season.html">G League Affiliations</a></li>
 <li class="hoops_rumors_feature"><a href="/hoops-links/">Hoops Links Series</a></li>
 <li class="hoops_rumors_feature"><a href="/hoops-rumors-chats/">Hoops Rumors Chats</a></li>
 <li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2015/10/commenting-policy-41.html">Hoops Rumors Commenting Policy</a></li>
@@ -638,36 +650,39 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-1');
 <li class="hoops_rumors_feature"><a href="http://www.twitter.com/hoopsrumors">Hoops Rumors On Twitter</a></li>
 <li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/hoops-rumors-originals">Hoops Rumors Original Posts</a></li>
 <li class="hoops_rumors_feature"><a href="/hoops-rumors-polls/">Hoops Rumors Polls</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/hoops-rumors-retro">Hoops Rumors Retrospective Series</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/09/2017-hoops-rumors-retro-series.html">Hoops Rumors Retrospective Series</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/how-teams-are-using-201718-mid-level-exceptions.html">How Teams Are Using MLEs 2017/18</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/07/how-teams-are-using-201718-bi-annual-exceptions.html">How Teams Are Using BAEs 2017/18</a></li>
 <li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/05/nba-jersey-sponsors-for-201718.html">Jersey Sponsors 2017/18</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/04/key-2017-nba-offseason-dates.html">Key Offseason Dates 2017</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/08/how-teams-are-using-room-exception-mle.html">Mid-Level, Room Exceptions 2016/17</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/10/key-in-season-dates-for-201718.html">Key In-Season Dates 2017/18</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/06/201718-salary-cap-finalized-at-99mm.html">Max Salaries, Cap/Tax/Floor Lines For 2017/18</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/06/nba-minimum-salaries-for-201718.html">Minimum Salary Values For 2017/18</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/06/values-of-201718-mid-level-bi-annual-exceptions.html">MLE, BAE Values For 2017/18</a></li>
 <li class="hoops_rumors_feature"><a href="http://www.rosterresource.com/nba-depth-charts/">NBA Depth Charts By Team</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/05/2017-nba-offseason-salary-cap-digest-series.html">Offseason Salary Cap Digests 2017</a></li>
-<li class="hoops_rumors_feature"><a href="/2012/02/outstanding-trade-exceptions.html">Outstanding Trade Exceptions</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/05/nba-player-option-decisions-for-201718.html">Player Option Decisions 2017</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/03/early-decision-dates-for-201718-player-options.html">Player Option Early Decision Dates</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/06/players-eligible-for-rookie-scale-extensions-in-2017.html">Players Eligible For Rookie Scale Extensions 2017</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/08/players-eligible-for-veteran-extensions-2.html">Players Eligible For Veteran Extensions 2016/17</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/10/players-who-can-veto-trades-3.html">Players Who Can Veto Trades</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/08/players-with-trade-kickers-2.html">Players With Trade Kickers</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/201617-nba-reverse-standings">Reverse Standings 2016/17</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/08/2016-rookie-scale-team-option-decisions.html">Rookie-Scale Option Decisions For 2017/18</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/12/201617-nba-roster-counts.html">Roster Counts 2016/17</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/09/201617-salary-cap-snapshots.html">Salary Cap Snapshots By Team 2016/17</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/07/league-sets-201617-salary-cap.html">Salary Cap, Luxury Tax Line, Max Salaries 2016/17</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/04/nba-salary-guarantee-dates-for-summer-2017.html">Salary Guarantee Dates - Summer 2017</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/09/201718-nba-non-guaranteed-contracts-by-team.html">Non-Guaranteed Contracts - By Team</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/09/201718-nba-salary-guarantee-dates.html">Non-Guaranteed Contracts - Guarantee Dates</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/10/2017-nba-offseason-in-review-series.html">Offseason In Review Series 2017</a></li>
+<li class="hoops_rumors_feature"><a href="/2012/02/outstanding-trade-exceptions.html">Outstanding Traded Player Exceptions</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/11/veterans-eligible-for-extensions-until-june-30.html">Players Eligible For Veteran Extensions</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/players-who-can-veto-trades-in-201718.html">Players Who Can Veto Trades In 2017/18</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/nba-players-with-trade-kickers-in-201718.html">Players With Trade Kickers In 2017/18</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/201718-nba-reverse-standings">Reverse Standings 2017/18</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/06/projected-rookie-contracts-for-2017-first-round-picks.html">Rookie Salaries For 2017/18</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/decisions-on-201819-rookie-scale-team-options.html">Rookie Scale Option Decisions For 2018/19</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/201718-nba-offseason-roster-counts.html">Roster Counts - 2017/18 Season</a></li>
 <li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2015/06/team-facebooktwitterrss-28.html">Team Facebook/Twitter/RSS</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/05/nba-team-option-decisions-for-201718.html">Team Option Decisions 2017</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/02/2017-nba-trade-deadline-recap.html">Trade Deadline Recap - 2017</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/12/trade-rumors-app-for-iosandroid-3.html">Trade Rumors App</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/09/traded-first-round-picks-for-2017-nba-draft.html">Traded 2017 Draft Picks (First Round)</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/09/traded-second-round-picks-for-2017-nba-draft.html">Traded 2017 Draft Picks (Second Round)</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/07/2016-nba-offseason-trades.html">Trades — 2016 Offseason</a></li>
-<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2016/11/201617-nba-trades-in-season.html">Trades — 2016/17 Season</a></li>
-<li class="hoops_rumors_feature"><a href="/agencydatabase">Agency Database</a></li>
-</ul>
-</div>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/earlier-start-fewer-back-to-backs-highlight-nba-schedule.html">Team-By-Team Schedules 2017/18</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/players-who-cant-be-traded-until-december-15-2.html">Trade Restrictions Lifting December 15</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/players-who-cant-be-traded-until-january-15-2.html">Trade Restrictions Lifting January 15</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/10/special-trade-eligibility-dates-for-201718.html">Trade Restrictions Lifting On Other Dates</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/trade-rumors-app-for-iosandroid-10.html">Trade Rumors App</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/traded-first-round-picks-for-2018-draft.html">Traded 2018 Draft Picks (First Round)</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/08/traded-second-round-picks-for-2018-nba-draft.html">Traded 2018 Draft Picks (Second Round)</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/09/trade-restrictions-on-future-draft-picks-by-team.html">Traded Draft Pick Restrictions By Team</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/11/201718-in-season-nba-trades.html">Trades — 2017/18 Season</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/06/2017-nba-offseason-trades.html">Trades — 2017 Offseason</a></li>
+<li class="hoops_rumors_feature"><a href="https://www.hoopsrumors.com/2017/07/201718-nba-two-way-contract-tracker.html">Two-Way Contract Tracker 2017/18</a></li>
+</ul></div>
 		</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/hoopsrumors&amp;width=292&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=260078520781348" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;background:white;" allowtransparency="true"></iframe></div>
 		</aside><aside id="text-5" class="widget widget_text"><div class="widget-hd"><h3 class="hdg hdg_h3 hdg_upper whiteShadow"><span>Rumors</span> By Team</h3></div>			<div class="textwidget"><ul class="feature">
 <li class="hr_feat_post"><a href="/milwaukee-bucks/">Bucks Rumors</a></li>
@@ -708,7 +723,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-4');
 </script>
 </div></div>
 		</aside>		
-      <!--sidebar cached @1496771595.0482 saved 0.039689064025879 seconds -->    
+      <!--sidebar cached @1511116678.5144 saved 0.053812980651855 seconds -->    
     
 	</div><!-- #secondary -->
 	
@@ -751,9 +766,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428424138287-5');
 </div>
 </div>
 
-<input type="hidden" id="ct_checkjs_7c590f01490190db0ed02a5070e20f01" name="ct_checkjs" value="0"><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_7c590f01490190db0ed02a5070e20f01';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '749580621');     }}, 1000);</script><div id="touch_three_desktop_switch" style="display:none">
+<input type="hidden" id="ct_checkjs_1595af6435015c77a7149e92a551338e" name="ct_checkjs" value="783799877"><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_1595af6435015c77a7149e92a551338e';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '783799877');     }}, 1000);</script><div id="touch_three_desktop_switch" style="display:none">
 <div class="wptouch-desktop-switch" style="position: static; z-index:1000; padding-top: 10px; padding-bottom: 40px; font-size: 120%; text-align: center; font-weight: bold; line-height: 150%">
-	Desktop Version | <a onclick="window.location = 'https://www.hoopsrumors.com?wptouch_switch=mobile&amp;redirect=%2F2012%2F01%2Fhoopsrumorscom-privacy-policy.html&amp;nonce=d81abd42d5'" href="#" rel="nofollow">Switch To Mobile Version</a>
+	Desktop Version | <a onclick="window.location = 'https://www.hoopsrumors.com?wptouch_switch=mobile&amp;redirect=%2F2012%2F01%2Fhoopsrumorscom-privacy-policy.html&amp;nonce=cee7a2849a'" href="#" rel="nofollow">Switch To Mobile Version</a>
 </div></div>
 <script type="text/javascript">
 if( document.cookie.match(/wptouch-pro-view=desktop/) ) document.getElementById('touch_three_desktop_switch').style.display = 'block';
@@ -763,7 +778,7 @@ if( document.cookie.match(/wptouch-pro-view=desktop/) ) document.getElementById(
                 var ajaxurl = "https://www.hoopsrumors.com/wp-admin/admin-ajax.php"
               }
             
-              jQuery(document).ready( function(){jQuery("#fv-comment-plus-subscribe").click( function(){
+              document.addEventListener("DOMContentLoaded", function(event) { jQuery("#fv-comment-plus-subscribe").click( function(){
                     jQuery("#subscribe-comment-wrap").show();
                   });
                   
@@ -802,7 +817,7 @@ if( document.cookie.match(/wptouch-pro-view=desktop/) ) document.getElementById(
                   postID: postID,
                   name: name,
                   email: email,
-                  _nonce: "48dc19e9d8"
+                  _nonce: "024c68d0c3"
                 };
 
                 jQuery.post(ajaxurl, data, function(response) {
@@ -815,11 +830,11 @@ if( document.cookie.match(/wptouch-pro-view=desktop/) ) document.getElementById(
 var emailL10n = {"ajax_url":"https:\/\/www.hoopsrumors.com\/wp-admin\/admin-ajax.php","max_allowed":"5","text_error":"The Following Error Occurs:","text_name_invalid":"- Your Name is empty\/invalid","text_email_invalid":"- Your Email is empty\/invalid","text_remarks_invalid":"- Your Remarks is invalid","text_friend_names_empty":"- Friend Name(s) is empty","text_friend_name_invalid":"- Friend Name is empty\/invalid: ","text_max_friend_names_allowed":"- Maximum 5 Friend Names allowed","text_friend_emails_empty":"- Friend Email(s) is empty","text_friend_email_invalid":"- Friend Email is invalid: ","text_max_friend_emails_allowed":"- Maximum 5 Friend Emails allowed","text_friends_tally":"- Friend Name(s) count does not tally with Friend Email(s) count","text_image_verify_empty":"- Image Verification is empty"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/plugins/wp-email/email-js.js?ver=2.67.3"></script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/app-min.js?ver=20150616.2"></script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/owl.carousel.min.js?ver=4.3.11"></script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-includes/js/comment-reply.min.js?ver=4.3.11"></script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/plugins/fv-js-post-time/fv-js-post-time.js?ver=0.4.1"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/plugins/wp-email/email-js.js?ver=2.67.3"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/app-min.js?ver=20150616.2"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/themes/HoopsRumors2014/assets/js/owl.carousel.min.js?ver=4.3.13"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-includes/js/comment-reply.min.js?ver=4.3.13"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/plugins/fv-js-post-time/fv-js-post-time.js?ver=0.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var fv_flowplayer_conf = {"fullscreen":"1","swf":"\/\/www.hoopsrumors.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/flowplayer.swf?ver=6.0.5.20","swfHls":"\/\/www.hoopsrumors.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/flowplayerhls.swf?ver=6.0.5.20","embed":{"library":"\/\/www.hoopsrumors.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/fv-flowplayer.min.js","script":"\/\/www.hoopsrumors.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/embed.min.js","skin":"\/\/www.hoopsrumors.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/css\/flowplayer.css","swf":"\/\/www.hoopsrumors.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/flowplayer.swf?ver=6.0.5.20","swfHls":"\/\/www.hoopsrumors.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/flowplayerhls.swf?ver=6.0.5.20"},"speeds":[0.25,0.5,0.75,1,1.25,1.5,1.75,2],"key":"$872014744105666","safety_resize":"1","volume":"1"};
@@ -828,33 +843,31 @@ var fv_fp_ajaxurl = "https:\/\/www.hoopsrumors.com\/wp-admin\/admin-ajax.php";
 var fv_flowplayer_playlists = [];
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js?ver=6.0.5.20"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js?ver=6.0.5.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var fv_player_pro = {"ajaxurl":"https:\/\/www.hoopsrumors.com\/wp-admin\/admin-ajax.php","vimeo_ajax_url":"","autoplay_once":"","chapters":[],"cloudfront":[""],"debug":"","lightbox_images":"","playlist":[],"start_end":[],"video_ads":[],"v_dash":"","youtube":"","video_ads_skip":"5"};
 var fv_player_pro_js_translations = {"ad_duration":"This ad will end in 0 seconds","invalid_youtube":"Invalid Youtube video ID.","reload_page":"Please reload the page and try again.","reload_page_later":"Please reload the page and try again in a couple of minutes. ","required_type":"Couldn't find the required video type: ","skip_ad":"Skip","video_decryption_e":"Flash: Video Decryption Error.","video_expired":"Video file expired.<br \/>Please reload the page and play it again.","video_loaded":"Video loaded, click to play."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/plugins/fv-player-pro/js/fv_player_pro.min.js?ver=0.8.4"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/plugins/fv-player-pro/js/fv_player_pro.min.js?ver=0.8.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var fv_player_lightbox = {"lightbox_images":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/plugins/fv-wordpress-flowplayer/js/lightbox.js?ver=6.0.5.20"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/plugins/fv-wordpress-flowplayer/js/lightbox.js?ver=6.0.5.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var fvt_lite_noajax = {"post_id":"9145"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.hoopsrumors.com/wp-content/plugins/fv-tracker-lite/js/cookie-post-tracker.dev.js?ver=1.1.11.1"></script>
+<script type="text/javascript" src="https://www.hoopsrumors.com/wp-content/plugins/fv-tracker-lite/js/cookie-post-tracker.dev.js?ver=1.1.11.1"></script>
 
   	      <script type="text/javascript">
-         (function( jqMy ){
-            jqMy(document).ready(function(){
-               jqMy(".fv_fblikebox_button").colorbox({width:"360px", height:"130px", iframe:true });
-            });
-         })(jQuery);
+         document.addEventListener("DOMContentLoaded", function(event) { 
+            jQuery(".fv_fblikebox_button").colorbox({width:"360px", height:"130px", iframe:true });
+         });
       </script>
       <!-- Twitter universal website tag code -->
 <script>
@@ -896,5 +909,6 @@ twq('track','PageView');
             <!-- End of StatCounter Code for Default Guide -->
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d8b6c1dcd6","applicationID":"49436196","transactionName":"YARbYURSVxdWU0cIDllOeFZCWlYKGENaDwZbBA==","queueTime":0,"applicationTime":251,"atts":"TENMFwxIREgVURFbGkoc","errorBeacon":"bam.nr-data.net","agent":""}</script>
-</body></html>
+
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1511116678 --></body></html>
