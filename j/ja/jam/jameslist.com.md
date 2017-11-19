@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the jameslist.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202114255id_/https%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jameslist.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119183259id_/https%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
 
 # JamesEdition.com - The World's Largest Luxury Marketplace
-
-  1. [Home](https://web.archive.org/)
-  2. [About](https://web.archive.org/about)
-  3. [Privacy Policy](https://web.archive.org/about/privacy-policy)
-
-
 
 This policy tells you about how we use and protect your personal information. Capitalized terms shall have the meaning ascribed to them in the User Agreement.
 
@@ -18,7 +12,7 @@ Subject to the requirements of applicable law, we strive to provide a consistent
 
 ## 2\. Collection
 
-You can browse our Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in Sweden
+You can browse our Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers.
 
 We may collect and store the following personal information:
 
@@ -110,7 +104,7 @@ You can see, review and change most of your personal information by signing on t
 
 ## 12\. Security
 
-Your information is stored on our servers located in Sweden. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+Your information is stored on our servers. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
 ## 13\. Third Parties
 
@@ -118,4 +112,4 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 ## 14\. General
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 20 days after they are initially posted on the Site. If your questions are not answered online, you may write to us at: info@jamesedition.com.
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 20 days after they are initially posted on the Site. If your questions are not answered online, you may write to us at: [support@jamesedition.com](mailto:support@jamesedition.com)
