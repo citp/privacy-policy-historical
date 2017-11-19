@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayautos.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810023014id_/http%3A//www.holidayautos.com/en-us/privacy-policy%3Fc%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayautos.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119081833id_/https%3A//www.holidayautos.com/privacy-policy) for the most accurate reproduction.*
 
 # Holiday Autos - Compare Cheap Car Hire
 
@@ -6,7 +6,7 @@ This legal notice is issued by Etrawler trading as Holiday Autos (“we”, “u
 
 We are committed to protecting and respecting your privacy and appreciate the importance of responsible use of personal data collected on this website. We take great care with personal information, taking steps to keep it secure and ensure it is used only for our legitimate business purposes in accordance with applicable law.
 
-This policy [together with our booking engine terms and conditions of use](http://www.holidayautos.com/en-us/terms-and-conditions?c=us||en-us) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy [together with our booking engine terms and conditions of use](https://www.holidayautos.com/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ### INFORMATION WE MAY COLLECT FROM YOU
 
@@ -24,7 +24,7 @@ We may collect and process the following data about you:
 
 ### COOKIES
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](http://www.holidayautos.com/en-us/cookie-policy?c=us||en-us)
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://www.holidayautos.com/cookie-policy)
 
 ### WHERE WE STORE YOUR PERSONAL DATA
 
