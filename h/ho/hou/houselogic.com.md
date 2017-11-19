@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houselogic.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204040440id_/https%3A//www.houselogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houselogic.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119170520id_/https%3A//www.houselogic.com/privacy) for the most accurate reproduction.*
 
 # HouseLogic.com Privacy | Houselogic Online Privacy Policy | HouseLogic
 
