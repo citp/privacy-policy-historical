@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalnovice.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512012653id_/http%3A//frugalnovice.com/about/privacy-policy-disclosure-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalnovice.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119210459id_/http%3A//frugalnovice.com/about/privacy-policy-disclosure-statement) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure Statement – Frugal Novice
 
