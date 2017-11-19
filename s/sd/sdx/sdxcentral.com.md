@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sdxcentral.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630184108id_/https%3A//www.sdxcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdxcentral.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119133735id_/https%3A//www.sdxcentral.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**SDNCentral** **Privacy** **Policy for SDxCentral.com**
+**SDNCentral  Privacy Policy for SDxCentral.com**
 
 SDNCentral provides this Privacy Statement to make you aware of our privacy practices and the choices you can make about how your personal information is collected and used, both on-line and off-line. To make this notice easy to access, it is available on the bottom of every SDxCentral.com web page.
 
@@ -10,7 +10,7 @@ Customers are SDNCentral’s most valuable asset. We recognize that building a l
 
 SDNCentral’s privacy statement covers 9 main areas: Notice, Choice, Access & Accuracy, Onward Transfer, Security, and Oversight/Enforcement, Tailoring Email Communications and Web Experiences, How SDNCentral Uses Cookies and Additional Information. These areas are described in detail below. Please keep in mind that our privacy practices may vary as required by local laws and policies. Comments or questions about our privacy practices can be sent to: [legal@sdxcentral.com](mailto:legal@sdxcentral.com)
 
-****1\. Notice**  **
+**1\. Notice  **
 
 **What information we collect**
 
@@ -45,21 +45,23 @@ SDNCentral is in compliance with the requirements of COPPA (Children’s Online 
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**2\. Choice** **  
+**2\. Choice  
 **  
 SDNCentral will not use or share your personal information in ways unrelated to the ones described above without first notifying you and offering a choice. We will also provide you the opportunity to let us know if you wish to opt-out at any time of certain or all contact from SDNCentral, and we will do everything we can to honor such requests. This choice may be offered at the bottom of our on-line or off-line communications to you as well as on many of our web registration pages. If you have any difficulty exercising your choices, please send your request to: [legal@sdxcentral.com](mailto:legal@sdxcentral.com)
 
 Your permission will always be secured first, should we ever decide to share your personal information with third parties that are not acting on our behalf and governed by our privacy policy.
 
-**3\. Onward Transfer** **  
+**3\. Onward Transfer  
 **  
-Subject to your permission or as permitted by law, the personal information that you provide to us may be transferred within SDNCentral across state or country borders. This may be done to consolidate data storage or to simplify the management of customer information.  
+Subject to your permission or as permitted by law, the personal information that you provide to us may be transferred within SDNCentral across state or country borders. This may be done to consolidate data storage or to simplify the management of customer information.
+
+SDNCentral is responsible for the processing of personal data it receives, under the Privacy Shield Frameworks, and subsequently transfers to a third party acting as an agent on its behalf, i.e. performing tasks on behalf of, and under the instruction of, SDNCentral.  In particular, SDNCentral remains responsible and liable under Privacy Shield Frameworks if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the principles of the Privacy Shield Frameworks, unless SDNCentral proves that it is not responsible for the event giving rise to the damage.  If SDNCentral has knowledge that an agent is using or disclosing personal data in a manner contrary to this policy, SDNCentral will take reasonable steps to prevent or stop the use or disclosure.  
 **  
-**4\. Access and Accuracy****
+4\. Access and Accuracy**
 
 SDNCentral strives to keep your personal information accurate. We will provide you with access to your personal information, including making every effort to provide you with online access to your registration data so that you may review, update or correct your information at the SDNCentral site where it was submitted. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. To access your personal information, return to the web page where you originally entered it and follow the instructions on that web page. If you cannot access your information on the web page, please send your request to [support@sdxcentral.com](mailto:support@sdxcentral.com)  
 **  
-**5\. Security****
+5\. Security**
 
 SDNCentral is committed to ensuring the security of your personal information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of personal information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure it.  All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
@@ -67,17 +69,17 @@ After a transaction, your private information (credit cards, social security num
 
 **6\. Oversight/Enforcement**
 
-SDNCentral privacy practices are self-certified as part of the U.S. Commerce Department’s Privacy Shield Program. For more information please go to the Privacy Shield Program website at [https://www.privacyshield.gov](https://www.privacyshield.gov/).  
+SDNCentral privacy practices are self-certified as part of the U.S. Commerce Department’s Privacy Shield Program. For more information please go to the Privacy Shield Program website at [https://www.privacyshield.gov](https://www.privacyshield.gov/).  
 **  
-**7\. Tailoring E-Mail Communications and Web Experiences****
+7\. Tailoring E-Mail Communications and Web Experiences**
 
 On occasion SDNCentral may employ technologies that enable us to review which recipients have opened our e-mail communications and which links they have accessed in the message. This helps us to tailor our communications in our attempts to send you the most relevant information, as local laws and your preferences and permissions allow. As a registered user, we may also monitor your web browsing session while you are logged-in to sdncentral.com. In this way we will try to improve our website through personalization to better meet your needs. Any such monitoring is done in accordance with local laws.  
 **  
-**8\. Cookies****
+8\. Cookies**
 
 A cookie is a piece of information either stored temporarily in your browser’s memory space (session cookie) or placed on your computer’s hard drive (stored cookie). Cookies allow a web application to respond to you as an individual, but without the need to identify you explicitly. Session cookies are destroyed when you terminate your browsing session by shutting down your browser. Stored cookies often have a predetermined expiration date after which they disappear from your hard drive. Cookies can be removed explicitly through functionality built into most web browsers. You may also set your web browser (e.g. Microsoft Internet Explorer or Firefox) to notify you of cookie placement requests, ask for permission to accept them, or decline cookies completely.  
 **  
-**Usage of Cookies and Other related Technologies****
+Usage of Cookies and Other related Technologies**
 
 SDNCentral may use cookies and other technologies to help us analyze web traffic or to improve your web navigation experience. To facilitate the analysis, an ID is assigned to help us uniquely identify you each time you return to our web site. One of the major concerns about stored cookies is the fear that they contain personal information and information identifying you that could be accessed by other web sites. SDNCentral only stores a randomly chosen unique ID number and a context, both of which are meaningless to others, but help us uniquely identify you. Cookies and other technologies may also be used to control the number of times you see a given ad or other material, deliver ads and other material that relate to your interests, measure the effectiveness of ad campaigns and otherwise assist us in making your use of the SDNCentral material more relevant and useful to you.
 
@@ -101,23 +103,19 @@ Links to third-party web sites are provided solely as a convenience to you. If y
 
 SDNCentral may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
-**International Users and Privacy Shield**
+**European Union / Swiss Users and Privacy Shield**
 
-Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. SDNCentral abides by the Privacy Shield framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected by organizations in the European Economic Area and Switzerland. Learn more about the [U.S. Department of Commerce Privacy Shield Program.](https://www.privacyshield.gov/)
+Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy.  SDNCentral participates in and has certified its compliance with both the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively.  SDNCentral is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Frameworks, to the Framework’s applicable Principles. Learn more about the [U.S. Department of Commerce Privacy Shield Program.](https://www.privacyshield.gov/)  If there is any conflict between the terms in this privacy policy and the Privacy Shield Frameworks, the Privacy Shield Frameworks shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
-**U.S. Federal Trade Commission Enforcement**
+SDNCentral complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions set forth above in the section entitled “Onward Transfer”.
 
-For International Users, our commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
-
-**Compelled Disclosure**
-
-SDNCentral may be required to disclose Personal Information in response to lawful requests to comply with national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, SDNCentral is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, SDNCentral may be required to disclose personal data in response to lawful requests by public authorities, including as necessary to meet national security or law enforcement requirements.
 
 **Dispute Resolution under Privacy Shield**
 
-In compliance with the Privacy Shield, SDNCentral is committed to resolve  complaints about privacy and the collection or use of personal information. If you have a complaint or question, please contact us at  [legal@sdxcentral.com.](mailto:legal@sdxcentral.com) SDNCentral will investigate and attempt to resolve disputes regarding use and disclosure of your personal information within 45 days in accordance with the principles contained in our privacy policy.
+In compliance with the Privacy Shield, SDNCentral is committed to resolve complaints about privacy and the collection or use of personal information. If you have a complaint or question, please contact us at [legal@sdxcentral.com.](mailto:legal@sdxcentral.com) SDNCentral will investigate and attempt to resolve disputes regarding use and disclosure of your personal information within 45 days in accordance with the principles contained in our privacy policy.
 
-SDNCentral has enrolled with [JAMS](https://www.jamsadr.com/), an alternative dispute resolution provider located in the US with offices in Massachusetts (One Beacon Street, Suite 2210, Boston, MA 02108) to assist with the complaint resolution process. JAMS is SDNCentral’s only means of resolving disputes under Privacy Shield; all complaints submitted to JAMS shall be resolved via arbitration. Should you feel that SDNCentral has not resolved to your satisfaction any inquiry regarding use of personal information under Privacy Shield, you can submit a complaint to JAMS through this page: <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>.
+SDNCentral has enrolled with [JAMS](https://www.jamsadr.com/), an alternative dispute resolution provider located in the US with offices in Massachusetts (One Beacon Street, Suite 2210, Boston, MA 02108) to assist with the complaint resolution process. JAMS is SDNCentral’s only means of resolving disputes under Privacy Shield; all complaints submitted to JAMS shall be resolved via arbitration. Should you feel that SDNCentral has not resolved to your satisfaction any inquiry regarding use of personal information under Privacy Shield, you can submit a complaint to JAMS through this page: <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>.
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), a Member may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
