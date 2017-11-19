@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129025855id_/https%3A//www.usenix.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119024149id_/https%3A//www.usenix.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | USENIX
 
