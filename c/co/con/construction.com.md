@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612065815id_/https%3A//www.construction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119154952id_/https%3A//www.construction.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | Dodge Data and Analytics
+
+Top Opportunities in Green Residential Building Webinar 11/16/2017 2PM ET [Register Now >](http://programs.construction.com/GreenResWebinar)
 
 ## Privacy and Cookie Notice for Dodge Data & Analytics
 
