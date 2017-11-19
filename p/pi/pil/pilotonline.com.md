@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilotonline.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610150455id_/http%3A//pilotonline.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotonline.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119112405id_/https%3A//pilotonline.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | The Virginian-Pilot | pilotonline.com
 
@@ -106,7 +106,7 @@ You may submit content to certain sections of our sites provided you do so in ac
   * On occasion user-published content is repurposed in The Virginian-Pilot. The editor may contact the user for more information if necessary.
   * Any posting becomes public as soon as they are published online.
   * You should be aware that when you disclose personal information such as your name or email address in a comment, blog, posting or other area that is publicly accessible by others, that information can be collected and used by others. PilotOnline.com is not responsible for any information that you provide in the above areas.
-  * For more information, [see the Posting Guidelines](http://pilotonline.com/content/tncms/live/posting-guidelines.html).
+  * For more information, [see the Posting Guidelines](https://pilotonline.com/site/posting-guidelines.html).
 
 
 
@@ -150,6 +150,6 @@ We may disclose personal information if we are required to do so by law or we in
 
  **CHANGES TO THIS POLICY**
 
-We re-evaluate both our Privacy Policy and our [Posting Policy](http://pilotonline.com/content/tncms/live/posting-guidelines.html) on an ongoing basis. We will post the new policies on this page in a timely manner, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, PilotOnline.com will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the top and the bottom of the page.
+We re-evaluate both our Privacy Policy and our [Posting Policy](https://pilotonline.com/site/posting-guidelines.html) on an ongoing basis. We will post the new policies on this page in a timely manner, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, PilotOnline.com will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the top and the bottom of the page.
 
 Updated March 20, 2015
