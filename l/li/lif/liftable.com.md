@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liftable.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614093541id_/http%3A//www.liftable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftable.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119143845id_/http%3A//www.liftable.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Liftable.com
+# Privacy Policy
 
 **Last Updated 3/14/2017  
 Version 1.3**
