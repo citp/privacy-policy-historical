@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruiter.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317170212id_/https%3A//www.recruiter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruiter.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119071953id_/https%3A//www.recruiter.com/privacy.html) for the most accurate reproduction.*
 
 # Recruiter.com - Privacy Policy
 
@@ -70,8 +70,8 @@ Recruiter.com will occasionally update this Statement of Privacy to reflect comp
 **Contact Information**   
 Recruiter.com welcomes your questions or comments regarding this Statement of Privacy. If you believe that Recruiter.com has not adhered to this Statement, please contact Recruiter.com at:   
 Recruiter.com, Inc.  
-1533 New Britain Avenue  
-Farmington, Connecticut 06032
+PO Box 86, Bristol,  
+CT 06011
 
 Email Address:  
 info@recruiter.com
