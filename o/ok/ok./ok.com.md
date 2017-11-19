@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ok.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120934id_/http%3A//ok.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119233614id_/http%3A//ok.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ok.com
 
