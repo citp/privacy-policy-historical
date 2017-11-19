@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foundry.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614051947id_/https%3A//www.thefoundry.co.uk/EULA/TFPrivacyCookiesPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundry.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119084302id_/https%3A//www.thefoundry.co.uk/EULA/TFPrivacyCookiesPolicy.pdf) for the most accurate reproduction.*
 
 # PRIVACY & COOKIES POLICY The Foundry Visionmongers Ltd (“we”, “us”) are committed to protecting and respecting your privacy. SCOPE OF POLICY This policy (together with our end-user licence agreement as set out at https://www.thefoundry.co.uk/EULA/EULA.pdf (“EULA”), together with our Website Terms and Conditions as set out at https://www.thefoundry.co.uk/EULA/TFWebsiteTerms.pdf applies to your use of:
 
