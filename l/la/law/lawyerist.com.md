@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyerist.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426161123id_/https%3A//lawyerist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyerist.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119213106id_/https%3A//lawyerist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,3 +65,5 @@ We occasionally link to product and service vendors using affiliate links. These
 ### Changes to this Privacy Policy
 
 Due to changes in legislation and best practices or enhancements to functionality and content on Lawyerist, we may make changes to this privacy policy, so you should check here from time to time.
+
+Last updated February 9th, 2017.
