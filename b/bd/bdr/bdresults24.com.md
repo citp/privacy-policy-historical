@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bdresults24.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320021817id_/http%3A//bdresults24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdresults24.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119181052id_/https%3A//bdresults24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome and thank to you for visiting our website ([ **BD Results 24**](http://bdresults24.com/)). The protection of your privacy when you use our website and it is very important to us. All of you have to follow and read our Privacy Policy before to use. The publisher takes the protection of your personal data and information very sincerely. Your data or information will be protected under the law.
+Welcome and thank to you for visiting our website ([ **BD Results 24**](https://bdresults24.com/)). The protection of your privacy when you use our website and it is very important to us. All of you have to follow and read our Privacy Policy before to use. The publisher takes the protection of your personal data and information very sincerely. Your data or information will be protected under the law.
 
 Our website is given all information for benefit of visitors. You can visit our website without disclosing your information to us. Every access and collection of all information to our website and each download of a file on the website is logged in our local server. The storage serves internal system-related and statistical purposes and internet marketing. Be recorded: the name of the Internet service provider, the website from which you are visiting us and the pages that you visit, the name of the file, date and day, time, amount of data transferred, notification of successful download file or data, web browser, accessing domain and the Internet Protocol (IP) address of the requesting computer. You as a user, remain anonymous.
 
@@ -40,10 +40,4 @@ Our privacy policy may change from day by day. If we make any substance changes 
 
 **Further information and contacts:**
 
-The rapid development of the internet requires occasional adjustments to our privacy notice required. We will always notify to you here what’s new information here. If you have any questions or concerns about our privacy policies or us, please [**Contact Us**](http://bdresults24.com/contact/) or **bdresults24.com@gmail.com**.
-
-#### Your are Coming Here:
-
-www dpe gov bd ipaddress com,www educationboardresults gov bd ipaddress com
-  
-
+The rapid development of the internet requires occasional adjustments to our privacy notice required. We will always notify to you here what’s new information here. If you have any questions or concerns about our privacy policies or us, please [**Contact Us**](https://bdresults24.com/contact/) or **bdresults24.com@gmail.com**.
