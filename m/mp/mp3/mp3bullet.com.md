@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mp3bullet.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627173423id_/http%3A//www.mp3bullet.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3bullet.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119232338id_/http%3A//www.mp3bullet.ng/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » Mp3bullet
+# Privacy Policy • Mp3bullet
 
 This Privacy Policy governs the manner in which **Mp3bullet Media**  collects, uses, maintains and discloses information collected from users (each, a “User”) of the ** [mp3bullet.com](http://mp3bullet.com/)** website (“Site”). This privacy policy applies to the Site and all products and services offered by **Mp3bullet Media.**
 
