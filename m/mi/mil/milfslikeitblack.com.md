@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milfslikeitblack.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511085438id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dmlb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milfslikeitblack.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119222208id_/https%3A//static-ht.mofoscontent.com/policy_files/pp.php%3Fsite%3Dmofos) for the most accurate reproduction.*
 
-# Privacy Policy - MilfsLikeItBlack.com
+# Privacy Policy - Mofos.com
 
 ## Last Modified: July 29, 2016
 
@@ -257,5 +257,5 @@ We do not guarantee error-free performance under this privacy policy. We will us
 
 If you have any questions about this privacy policy or our information-handling practices, please contact us at [mofossupport@probiller.com](mailto:mofossupport@probiller.com). 
 
-[MilfsLikeItBlack.com](http://www.milfslikeitblack.com/ "MilfsLikeItBlack.com")   
+[Mofos.com](http://www.mofos.com/ "Mofos.com")   
 Google Analytics Opt Out 
