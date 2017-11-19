@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518184807id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119104542id_/http%3A//livetv4ever.com/privacy.php) for the most accurate reproduction.*
 
-# LiveTv4Ever.com - Watch High Quality Sports Streaming | ATP Rome 2017 | WTA Rome 2017 | Arsenal vs Sunderland | Manchester City vs West Brom | Reading vs Fulham
+# LiveTv4Ever.com - Watch High Quality Sports Streaming | Nitto ATP Finals 2017 | Rugby Autumn Tests | Werdum vs Tybura | Rawlings vs Clark | Means vs Muhammad
 
 **General**
 
