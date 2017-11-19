@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the therealdeal.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126064346id_/https%3A//therealdeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealdeal.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119071230id_/https%3A//therealdeal.com/privacy-policy) for the most accurate reproduction.*
 
 # The Real Deal | Privacy Policy
 
-_This privacy statement discloses the privacy practices for_ The Real Deal _Inc._
+_This privacy statement discloses the privacy practices for_ The Real Deal _._
 
 **Information Collection and Use**
 
