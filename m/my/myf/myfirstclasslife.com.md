@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfirstclasslife.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616032556id_/http%3A//myfirstclasslife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfirstclasslife.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119105710id_/http%3A//myfirstclasslife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My First Class Life
 
@@ -102,6 +102,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 myfirstclasslife.com  
-contact@myfirstclasslife.com
+[[email protected]](http://myfirstclasslife.com/cdn-cgi/l/email-protection)
 
 Last Edited on 2014-12-02
