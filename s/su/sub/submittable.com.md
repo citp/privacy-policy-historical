@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625113644id_/https%3A//www.submittable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119194803id_/https%3A//www.submittable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Submittable
 
@@ -132,7 +132,7 @@ You have the right to contact us with a complaint about the use of your informat
 
 Submittable Holdings Inc. is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) and/or the Department of Transportation. Under certain conditions, it is possible for you to invoke binding arbitration. You should understand that Submittable Holdings Inc. may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, or as required by of a court of proper jurisdiction. Submittable’s liability in cases of onward transfers to third parties is limited to actual damages sustained by you.
 
-In compliance with the Privacy Shield Principles, Submittable Holdings Inc. commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Submittable Holdings Inc. at:
+In compliance with the Privacy Shield Principles, Submittable Holdings Inc. commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Submittable Holdings Inc. at:
 
 Submittable Holdings, Inc.  
 111 N. Higgins Ave, 3rd Floor  
