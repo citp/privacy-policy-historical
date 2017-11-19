@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145701id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119133353id_/http%3A//pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy for PoolTracker
+
+### Privacy policy
 
  
 
