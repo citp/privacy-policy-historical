@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wctv.tv privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521104628id_/http%3A//www.wctv.tv/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wctv.tv privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120005128id_/http%3A//www.wctv.tv/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-Posted: Wed 9:30 AM, Jun 20, 2012  | 
+Posted: Wed 4:24 PM, Mar 04, 2015  | 
 
 Updated: Thu 4:10 PM, May 11, 2017 
 
