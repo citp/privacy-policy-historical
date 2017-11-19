@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the caredash.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227233323id_/https%3A//www.caredash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caredash.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119145929id_/https%3A//www.caredash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CareDash
 
-Effective Date: July 20, 2015 
-
-Last Updated: December 6, 2016 
-
-Introduction 
+##  Introduction 
 
 This privacy policy (this "Policy") covers the CareDash Web site www.CareDash.com and any other sites operated under the name ("CareDash" or “the Site”) and any mobile app or other service made available to You (“You”, “Your”, or “Yours”) by CareDash (collectively referred to as the “Services”). 
 
@@ -25,11 +21,11 @@ Maintaining Your trust is Our top priority, so We adhere to the following princi
 
 Nufit Media Inc. is the parent company of CareDash. 
 
-Information We Collect 
+##  Information We Collect 
 
-**Registration. To create an account on CareDash, You must provide Us with a** valid email address, and a password and agree to Our Terms of Use and this Privacy Policy, which governs how We treat Your information. You may provide additional information during registration (for example, financial information and information about Your healthcare needs) to help You build Your profile and to provide You more customized Services and Offers (for example, insurance offers and suggested healthcare providers). You understand that, by creating an account, We will be able to identify You by Your CareDash profile. We may also ask for Your credit card details if You purchase certain additional services. 
+**Registration. To create an account on CareDash, You must provide Us with a** valid email address, and a password and agree to Our Terms of Use and this Privacy Policy, which governs how We treat Your information. You may provide additional information during registration (for example, financial information and information about Your healthcare needs). For healthcare providers, You may provide additional information about Your practice and statements about You (for example, Your personal philosophy of care or Your hobbies and interests). You may provide this information so that We can help You build Your profile and to provide You more customized Services and Offers (for example, insurance offers and suggested healthcare providers). You understand that, by creating an account, We will be able to identify You by Your CareDash profile. We may also ask for Your credit card details if You purchase certain additional services. 
 
-Personally Identifiable Information 
+##  Personally Identifiable Information 
 
 CareDash collects personally identifiable information from Our Users at several different points on CareDash, including, without limitation, when Users provide it to Us by (i) contacting Us through email, (ii) registering for use of CareDash or (iii) submitting information through any forms, interactive features or Services available on CareDash. 
 
@@ -37,7 +33,7 @@ Personally identifiable information may include, but is not limited to, Your nam
 
 In order for You to take full advantage of CareDash You may be asked to voluntarily provide Your personally identifiable information to Us. You may choose not to provide Us with Your personally identifiable information by simply not entering it on CareDash or not otherwise providing it to Us. While You still will have access to CareDash even if You do not provide Us with Your personally identifiable information, You should understand that You will not be able to use certain of the Services or features available through CareDash that require You to enter Your personally identifiable information in order to function. 
 
-**Profile Information.** After You create an account, You may choose to provide additional information on Your CareDash profile, such as information about Your age, gender, date of birth, ethnicity, relationship status, education level, employment status, financial status, interests, and general overall health, including height, weight, physical health, any medical conditions, allergies, lifestyle choices, eating habits, stress levels, sleep health, personal care, health care, family health care, family members. Subject to the settings You choose, Your connections may provide recommendations and offers for financial and health services to You. Providing additional information enables You to derive more benefit from Our Services by helping Us identify the types of services and information that would be most helpful to You. It also enables Us to serve You ads and other relevant content on and off of Our Services. Your profile will be entirely private. Your profile information will be available neither to other users browsing the site, nor through search engines. 
+**Profile Information.** After You create an account, You may choose to provide additional information on Your CareDash profile, such as information about Your age, gender, date of birth, ethnicity, relationship status, education level, employment status, financial status, interests, and general overall health, including height, weight, physical health, any medical conditions, allergies, lifestyle choices, eating habits, stress levels, sleep health, personal care, health care, family health care, family members. For healthcare providers, You may provide additional information about Your practice, statements about You (for example, Your personal philosophy of care or Your hobbies and interests), and profile pictures or pictures of your facilities (collectively, “Additional Healthcare Provider Information”). Subject to the settings You choose, Your connections may provide recommendations and offers for financial and health services to You. Providing additional information enables You to derive more benefit from Our Services by helping Us identify the types of services and information that would be most helpful to You. It also enables Us to serve You ads and other relevant content on and off of Our Services. Your profile will be entirely private. Your profile information will be available neither to other users browsing the site, nor through search engines. However, Additional Healthcare Provider Information may be made available to other users browsing the site and search engines. 
 
 **Customer Service.** When You contact Our customer support services, We may have to access Your contributions to Our Services and collect the information We need to categorize Your question, respond to it, and, if applicable, investigate any breach of Our Terms of Use or this Privacy Policy. We also use this information to track potential problems and trends and customize Our support responses to better serve You. We do not use this information for advertising. 
 
@@ -47,7 +43,7 @@ In order for You to take full advantage of CareDash You may be asked to voluntar
 
 **Log Files, IP Addresses, and Information About Your Computer and Mobile Device.** When You visit or leave Our Services (whether as a Member or Visitor) by clicking a hyperlink or when You view a third-party site that includes Our plugin or cookies (or similar technology), We automatically receive the URL of the site from which You came or the one to which You are directed. Also, advertisers receive the URL of the page that You are on when You click an ad on or through Our Services. We also receive the IP address of Your computer or the proxy server that You use to access the Internet, Your computer operating system details, Your type of Internet browser, Your mobile device (including Your mobile device identifier provided by Your mobile device operating system), Your mobile operating system (if You are accessing CareDash using a mobile device), and the name of Your internet service provider (“ISP”) or Your mobile carrier. We may also receive location data passed to Us from third-party services or GPS-enabled devices that You have set up, which We use to show You local information on Our mobile applications and for fraud prevention and security purposes. Most mobile devices allow You to prevent real time location data being sent to Us, and of course We will honor Your settings. 
 
-Cookie Policy 
+##  Cookie Policy 
 
 We often place a small file known as a "cookie" on Your computer's hard drive. A cookie may contain information that allows Us to track Your path through CareDash and to determine whether You have visited Us before. However, unless You provide Us with personally identifiable information, the cookies will not contain any information that would allow Us to personally identify You. If You do provide personally identifiable information to Us, the cookie is tied to this information so that Our systems will recognize You each time You use CareDash. In that way, We can save Your preferences from visit to visit and present You with a customized version of CareDashYou every time You visit. Our cookies cannot be used to read data from Your hard drive and cannot retrieve information from any other cookies created by other sites. We use cookies in this manner to help Us understand how Users use CareDash, and to help Us to improve CareDash. You may refuse to accept a cookie from Us by following the procedures for rejecting cookies specific to Your web browser. 
 
@@ -55,11 +51,11 @@ We may also use Google Analytics for Display Advertisers to help analyze how Use
 
 If You visit the website of a third party by clicking on an external link on CareDash, they may also use cookies on their website. We have no access to or control over these cookies. This Policy covers the use of cookies by CareDash only and does not cover the use of cookies by any advertisers or other third parties. 
 
-User Activity Tracking 
+##  User Activity Tracking 
 
 We may employ software technology that enables Us to track certain aspects of a User's visit to CareDash and may allow third parties to deploy such technology through advertisements placed on the Site and other means. This technology helps Us better manage content on CareDash by informing Us what content is effective. The software uses “trackers” to monitor User activity. Trackers are pieces of executable code that are embedded in a web page that track usage activity including, but not limited to, which pages are viewed, when they are viewed, and for how long the pages are viewed. User activity information may be associated with additional information about a User's session, such as a User’s IP address and the type of browser used, and personally identifiable information, if provided by the User. 
 
-If You arrive at the Site by "clicking through" from another website, and You have registered with that other website, then certain information about You that You provided to that other website, such as the terms You were searching that led You to the Site, may be transmitted to Us and We may use it as described in this Policy. You should review the privacy policy of any website from which You reached the Site in order to determine what information was collected by that website and for what purpose(s) You agreed that website could use that information. We may or may not retain that information; if We do, then We may use it in accordance with this Policy. This information may or may not be associated with other User activity data or personally identifiable information. 
+If You arrive at the Site by "clicking through" from another website, and You have registered with that other website, then certain information about You that You provided to that other website, such as the terms You were searching that led You to the Site, may be transmitted to Us and We may use it as described in this Policy. You should review the privacy policy of any website from which You reached the Site in order to determine what information was collected by that website and for what purpose(s) You agreed that website could use that information. We may or may not retain that information; if We do, then We may use it in accordance with this Policy. This information may or may not be associated with other User activity data or personally identifiable information. Note that your browser settings may allow you automatically transmit a “Do Not Track” signal to websites that you visit. Like many websites, the Site is not currently configured to respond to Do Not Track signals. 
 
 **Advertising Technologies and Web Beacons.** We target (and measure the performance of) ads to Members, Visitors and others, both on and off of Our Services through a variety of ad networks and ad exchanges, using the following, whether separately or combined: 
 
@@ -73,7 +69,7 @@ If You arrive at the Site by "clicking through" from another website, and You ha
 
 We may share Your personal information with any third-party advertisers or ad networks for advertising. Also, advertising partners may associate personal information collected by the advertiser directly from You with Our cookies and similar technologies. 
 
-How We Use the Information We Collect 
+##  How We Use the Information We Collect 
 
 We may use the information (whether or not personally identifiable) that You provide to Us to, among other things: 
 
@@ -98,11 +94,11 @@ You should be aware that any personal information that is voluntarily posted by 
 
 **Consent to CareDash Processing Information About You.** By providing personal information to Us when You create or update Your account and profile, You are expressly and voluntarily accepting the terms and conditions of Our Terms of Use and freely accepting and agreeing to Our processing of Your personal information in ways set out by this Privacy Policy. Supplying to Us any information deemed “sensitive” by applicable law is entirely voluntary on Your part. You can withdraw or modify Your consent to Our collection and processing of the information You provide at any time, in accordance with the terms of this Privacy Policy and the Terms of Use, by changing Your account settings or Your profile on CareDash or by closing Your CareDash accounts. 
 
-**CareDash Communications.** We may communicate with You through email, notices posted on the CareDash websites or apps, and other means available through the Services. Examples of these communications include: (1) welcome and engagement communications - informing You about how to best use Our Services, new features, updates about other Members You are connected to and their actions, etc.; (2) service communications - these will cover service availability, security, and other issues about the functioning of Our Services; (3) promotional communications - these include both email, and may contain promotional information directly or on behalf of Our partners, including healthcare provider information, e.g. These messages will be sent to You based on Your profile information and messaging preferences. You may change Your email and contact preferences at any time by signing into Your account and changing Your CareDash email settings or by sending a written request to CareDash’s physical address, 161 First St, Suite 4B Cambridge, MA 02142. You can also opt out of promotional messages by sending a request to the [CareDash Help Center.](mailto:support@caredash.com)
+**CareDash Communications.** We may communicate with You through email, notices posted on the CareDash websites or apps, and other means available through the Services. Examples of these communications include: (1) welcome and engagement communications - informing You about how to best use Our Services, new features, updates about other Members You are connected to and their actions, etc.; (2) service communications - these will cover service availability, security, and other issues about the functioning of Our Services; (3) promotional communications - these include both email, and may contain promotional information directly or on behalf of Our partners, including healthcare provider information. These messages will be sent to You based on Your profile information and messaging preferences. You may change Your email and contact preferences at any time by signing into Your account and changing Your CareDash email settings or by sending a written request to CareDash’s physical address, 161 First St, Suite 4B Cambridge, MA 02142. You can also opt out of promotional messages by sending a request to the [CareDash Help Center.](mailto:support@caredash.com)
 
 Please be aware that You cannot opt out of receiving service messages from Us. 
 
-Communications From Us 
+##  Communications From Us 
 
 We will also communicate with You in response to Your inquiries, to provide the services You request, and to manage Your account. We will contact You either through email, telephone, postal mail or through the Service. 
 
@@ -132,7 +128,7 @@ We will share information provided by Users (whether or not personally identifia
 
 We may also share information about Users (whether or not personally identifiable) with third parties so that We can offer You with a broader range of services and information to meet Your needs. If You would prefer not to have Your information shared with third parties, You may opt out by emailing [info@caredash.com.](mailto:%20info@caredash.com)
 
-Consent to Telemarketing Calls 
+##  Consent to Telemarketing Calls 
 
 Further, by registering on this Site, You agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that Your telephone and/or cell number may be listed with the federal Do-Not-Call Registry, You expressly opt-in to: (a) receive an offer or service from one or more of Our partners or affiliates; (b) receive future information about products and Services from Us, Our partners, affiliates and other third parties to whom We may provide Your information; (c) permit Us, Our partners, affiliates and other third parties to contact You pursuant to the business relationship We have established using the information You provided to Us for any purpose such as contacting You by email address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, Your wireless device may be capable of receiving (e.g. mms, video etc.). You may revoke authorization for Us to contact You by such means at any time (see the Opting Out section below). 
 
@@ -144,7 +140,7 @@ Further, by registering on this Site, You agree that this act constitutes an inq
 
 **Testimonials and Advertisements Placed Through CareDash Ads.** If You provide any testimonials about Our goods or Services or place advertisements through the CareDash Ads, We may post those testimonials and examples of advertisements You place in connection with Our promotion of these services to third parties. Testimonials and advertisements may include Your name and other personal information that You have provided. 
 
-Your Choices and Obligations 
+##  Your Choices and Obligations 
 
 **Rights to Access, Correct, or Delete Your Information, and Closing Your Account.** You have a right to (1) access, modify, correct, or delete Your personal information controlled by CareDash regarding Your profile, (2) change or remove Your content, and (3) close Your account. You can request Your personal information that is not viewable on Your profile or readily accessible to You (for example, Your IP access logs) through CareDash‘s customer service. If You close Your account(s), Your information will generally be promptly removed from the Service. 
 
@@ -154,11 +150,11 @@ Please note: Information You have shared with others (for example, physician rev
 
 **Opting Out; Access to Collected Information.** This Policy describes CareDash’s uses of Your information. If You do not agree to Our uses of Your personally identifiable information as We have described in this Policy, You are not required to provide that information to Us. In addition, if We send emails to You, You may opt out of receiving non-administrative emails from Us simply by responding to the opt-out link provided on all email communications from CareDash. You may review, update and delete any personal information that You have provided to Us through this Site by emailing [info@caredash.com.](mailto:%20info@caredash.com)
 
-Important Information 
+##  Important Information 
 
 **Minimum Age.** As described in the Terms of Use, persons must be of Minimum Age to use CareDash. 
 
-CareDash Policy Regarding Children Under the Age of 18 
+##  CareDash Policy Regarding Children Under the Age of 18 
 
 CareDash complies with the Children's Online Privacy Protection Act (COPPA). COPPA requires that website operators never knowingly collect personally identifiable information from anyone under the age of 18 without prior verifiable parental consent. The Site is not intended for children under the age of 18, and CareDash does not knowingly collect or use personally identifiable information from children under the age of 18. If We discover personal data from a child under the age of 18, We will eliminate that data. 
 
@@ -170,7 +166,7 @@ You are not permitted to use CareDash if You are under the age of 18. By using C
 
 **Changes to Policy.** If We make material changes to this Policy, We will post a notice on the home page regarding the amended Policy, so that You are aware of what personally identifiable information We collect, how We use it, and under what circumstances, if any, We disclose it. We reserve the right to modify this Policy at any time, so please review CareDash frequently for any changes. Amendments to this Policy will be posted on CareDash and will be effective when posted. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted, the changes to any amended or revised Policy by Your continued use of Our services or CareDash. 
 
-Contact Us 
+##  Contact Us 
 
 If You have any questions about this Policy please contact Us via email at [info@caredash.com.](mailto:%20info@caredash.com)
 
