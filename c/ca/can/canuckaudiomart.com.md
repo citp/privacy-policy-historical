@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045605id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119204159id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Canuck Audio Mart
 
-[ ](https://web.archive.org/partnerlink/aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2p1bXA/aXU9LzEwMTU1MDUvQ0FNXzYtMV8yMzB4NjAmc3o9MjMweDYwJmM9NDc4OTUy)
+[ ](https://web.archive.org/partnerlink/aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2p1bXA/aXU9LzEwMTU1MDUvQ0FNXzYtMV8yMzB4NjAmc3o9MjMweDYwJmM9ODI4ODYx)
 
 |   
 ---|---  
   
-Welcome to CAM, a classifieds site for used audio and hifi. It is completely **free** for hobbyists to post classifieds here. [Register today](https://web.archive.org/web/20170606045605id_/http%3A//www.canuckaudiomart.com/register.php) and start selling your audio gear!
+Welcome to CAM, a classifieds site for used audio and hifi. It is completely **free** for hobbyists to post classifieds here. [Register today](https://web.archive.org/web/20171119204159id_/http%3A//www.canuckaudiomart.com/register.php) and start selling your audio gear!
 
 ## Canuck Audio Mart's Privacy Policy
 
