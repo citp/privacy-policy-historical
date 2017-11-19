@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escort-ads.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630104827id_/http%3A//www.escort-ads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escort-ads.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119232327id_/https%3A//www.escort-ads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VIP Escorts, Adult Dating and Massage | Escort-Ads.com
 
@@ -40,4 +40,4 @@ We take measures, including data encryption, to protect the transmission of all 
 
 ## X. Where to Direct Questions About Our Privacy Policy.
 
-If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us at [contact@escort-ads.com](mailto:contact@escort-ads.com)
+If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us at contact(@)escort-ads.com
