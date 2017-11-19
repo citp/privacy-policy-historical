@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618140901id_/http%3A//www.sonycreativesoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119205953id_/http%3A//www.sonycreativesoftware.com/corporate/privacy) for the most accurate reproduction.*
 
 # Sony Creative Software - Corporate - Privacy Policy
 
@@ -15,7 +15,7 @@ While SCS does not generally require that you provide us with personally identif
 
 ## Notice to California Residents. Your California Privacy Rights:
 
-California resident, you have the right to receive: a) information identifying any third party company(ies) to whom SCS may have disclosed, within the previous calendar year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please [send us a message](http://www.sonycreativesoftware.com/privacyinfo).
+California resident, you have the right to receive: a) information identifying any third party company(ies) to whom SCS may have disclosed, within the previous calendar year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please [send us a message](https://www.sonycreativesoftware.com/privacyinfo).
 
   
 
@@ -30,11 +30,11 @@ California resident, you have the right to receive: a) information identifying a
 
  ** _Unless you instruct us otherwise,_** SCS may contact you to provide information about products, services, promotions, contests, or other activities or offerings that may be of interest to you. You can instruct us whether or not you wish to receive such information by checking or unchecking the box indicating your preference, as applicable, at the place where your information is collected. In addition, with each commercial email you receive from SCS or any of its business units, you will be given the opportunity to indicate if you do not wish to receive future commercial emails from SCS or the SCS business unit which sent it to you.
 
- **To adjust your preferences related to Sony Creative Software products, click[here.](http://www.sonycreativesoftware.com/mailprefs)**
+ **To adjust your preferences related to Sony Creative Software products, click[here.](https://www.sonycreativesoftware.com/mailprefs)**
 
  ** _With your consent,_** SCS may share your Personal Information with third parties outside of the Sony group of companies who may want to contact you about products, services or other offerings that may be of interest to you. SCS will seek to obtain your consent at the place where the information is collected either by an "opt-out" or "opt-in" method, or by other means (such as an email request). Each of these companies may have their own privacy policies. We do not control and are not responsible for these other parties, their privacy policies or their use or treatment of your Personal Information or other information. We and our Affiliates make no representation regarding how any third parties use, manage, store, treat or maintain your Personal Information or other information and you should therefore carefully review all such third parties' privacy policies. If you consent to receiving communications from any of these third parties, you will need to communicate with them directly if you later decide that you no longer wish to receive their communications. If you wish to withdraw your consent from any further sharing of your Personal Information with non-affiliated third parties for marketing purposes you may do so by clicking on the link provided above and providing the requested information.
 
-For instructions on how to request changes to the Personal Information you have provided to SCS, please [send us a message](http://www.sonycreativesoftware.com/privacyinfo), or write to us at:
+For instructions on how to request changes to the Personal Information you have provided to SCS, please [send us a message](https://www.sonycreativesoftware.com/privacyinfo), or write to us at:
 
 Privacy Office  
 Sony Creative Software  
@@ -98,7 +98,7 @@ Sony Creative Software
 8215 Greenway Blvd  
 Suite 400  
 Middleton, WI 53562  
-[send us a message](http://www.sonycreativesoftware.com/privacyinfo)
+[send us a message](https://www.sonycreativesoftware.com/privacyinfo)
 
 (ii) The types of Personal Information collected from children may include the name, email address, home address, telephone number and/or any other information reasonably necessary for the child to participate in a particular activity. This information may be collected directly and/or passively (e.g., through a Web server that automatically recognizes and stores information such as a visitor's IP address/domain name combination).
 
@@ -115,7 +115,7 @@ Sony Creative Software
 8215 Greenway Blvd  
 Suite 400  
 Middleton, WI 53562  
-[send us a message](http://www.sonycreativesoftware.com/privacyinfo)
+[send us a message](https://www.sonycreativesoftware.com/privacyinfo)
 
 Except as permitted by law, before any collection of a child's Personal Information takes place at a Site directed to children or where SCS is knowingly collecting children's Personal Information, the child will be asked to provide his/her parent's or guardian's e-mail address so that SCS can contact the child's parent or guardian. SCS will then send an email (the "Initial Notification") to the parent/guardian indicating, among other things, the information that the child is requested to provide, the intended use(s) of the information and information on how the parent/guardian can, at their election, delete the child's information from SCS's database or records. Upon receipt of the Initial Notification, a parent or guardian may respond back to SCS to grant his/her consent or to deny consent in which case SCS will delete the parent/guardian's email address and any other Personal Information, if any, previously obtained for securing parental consent. Upon SCS's receipt of the parent/guardian consent, SCS will send a confirming email to the parent/guardian's email address or take such other action as may be required to verify the consent.
 
@@ -163,7 +163,7 @@ The terms of this Privacy Policy will govern the use of any information collecte
 
 ## Questions:
 
-If you have any questions or comments about our Personal Information practices or about this Privacy Policy, please feel free to [send us a message](http://www.sonycreativesoftware.com/privacyinfo) or write us at:
+If you have any questions or comments about our Personal Information practices or about this Privacy Policy, please feel free to [send us a message](https://www.sonycreativesoftware.com/privacyinfo) or write us at:
 
 Privacy Office  
 Sony Creative Software  
@@ -175,3 +175,7 @@ If you have questions regarding products or services, please click [here](https:
 
   
 
+
+Not a U.S. resident? [Click here](https://www.sonycreativesoftware.com/corporate/noticetoeu) to learn more about our data protection practices.
+
+© 2003-2017 Sony Creative Software Inc. All Rights Reserved.
