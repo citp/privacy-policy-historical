@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joelosteen.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226150620id_/http%3A//www.joelosteen.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joelosteen.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119100503id_/https%3A//www.joelosteen.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
