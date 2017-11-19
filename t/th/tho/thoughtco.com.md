@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtco.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426214256id_/https%3A//www.thoughtco.com/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtco.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119084216id_/https%3A//www.thoughtco.com/legal%23privacy) for the most accurate reproduction.*
 
 # Terms of Use and Policies
 
