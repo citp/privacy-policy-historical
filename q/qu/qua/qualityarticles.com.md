@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualityarticles.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321102718id_/http%3A//www.qualityarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityarticles.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119195217id_/http%3A//www.qualityarticles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
