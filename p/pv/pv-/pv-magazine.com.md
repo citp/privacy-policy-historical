@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pv-magazine.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607154217id_/http%3A//www.pv-magazine.com/extras/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pv-magazine.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119062016id_/http%3A//www.pv-magazine.com/extras/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – pv magazine International
 
