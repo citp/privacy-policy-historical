@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcoreclub.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524201607id_/http%3A//xcoreclub.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcoreclub.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119063856id_/http%3A//xcoreclub.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
