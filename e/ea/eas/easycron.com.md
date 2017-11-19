@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycron.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117064120id_/https%3A//www.easycron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycron.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119135433id_/https%3A//www.easycron.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - EasyCron.com
 
