@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendmicro.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621140849id_/https%3A//www.trendmicro.com/en_us/about/legal/privacy-policy-web.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendmicro.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119120104id_/https%3A//www.trendmicro.com/en_us/about/legal/privacy-policy-web.html) for the most accurate reproduction.*
 
 # Notice Concerning Change in Largest Shareholder (Principal Shareholders)
 
@@ -37,7 +37,7 @@ Trend Micro will maintain your personal information only for as long as you are 
 
 #### C. Communication Preferences
 
-Trend Micro gives you the choice of receiving a variety of information that complements our products and services. You can manage your communication preferences and unsubscribe in one of the following ways: (a) Trend Micro promotional emails include instructions on how you can unsubscribe from that particular communication; or (b) sending a message via email to [legal_notice@trendmicro.com](https://web.archive.org/web/20170621140849id_/https%3A//www.trendmicro.com/en_us/about/legal/legal_notice@trendmicro.com "Legal Notice") or via mail to Trend Micro Incorporated, c/o Legal Department, 225 East Carpenter Freeway, Suite 1500, Irving, TX 75062, USA. Please include your name, email address and specific relevant information about the material that you no longer wish to receive. 
+Trend Micro gives you the choice of receiving a variety of information that complements our products and services. You can manage your communication preferences and unsubscribe in one of the following ways: (a) Trend Micro promotional emails include instructions on how you can unsubscribe from that particular communication; or (b) sending a message via email to [legal_notice@trendmicro.com](mailto:legal_notice@trendmicro.com "Legal Notice") or via mail to Trend Micro Incorporated, c/o Legal Department, 225 East Carpenter Freeway, Suite 1500, Irving, TX 75062, USA. Please include your name, email address and specific relevant information about the material that you no longer wish to receive. 
 
 #### D. Sharing your personal information
 
