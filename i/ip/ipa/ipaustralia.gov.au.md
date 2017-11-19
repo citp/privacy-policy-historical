@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426032028id_/http%3A//www.ipaustralia.gov.au/about-us/agency-overview/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119122343id_/https%3A//www.ipaustralia.gov.au/about-us/agency-overview/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | IP Australia
 
