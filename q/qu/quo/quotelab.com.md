@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164857id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119090244id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - QuoteLab.com
 
@@ -42,6 +42,8 @@ All Service Providers in our network have entered into agreements with us which 
 Here's the full list of Service Providers currently in our network: 
 
   * 21st Century
+  * AARP Medicare Advantage
+  * ABM Health
   * AccuQuote
   * Acquisition Technologies
   * Aetna
@@ -51,40 +53,41 @@ Here's the full list of Service Providers currently in our network:
   * All Web Leads
   * Alliance
   * Allied Coverage
+  * Allied Health
   * Allstate
   * American Agents Alliance
-  * Art Institute
+  * American Benefits Group 
+  * Ameriquote
+  * Answer Financial
+  * Astoria Company
+  * Auto Insurance Guide
   * Avenge Digital
+  * Avenue I Media
   * Bantam Connect
   * Bianco Insurance
   * Blue Wing Ads
   * Bold Media
-  * BRXTN Digital Media
-  * Carchex
   * Cege Media
   * Choice Insurance
-  * Click 2 Call Network
   * CompareInsuranceQuotes
-  * Countershot Media
   * CountryWide - Debt Transfers
-  * Coverage One
-  * Creative EMarketing
+  * Crosspointe Insurance Advisors
   * Datalot
   * Debt.com
-  * Direct General
-  * Doc Auto Insurance
+  * Direct Web Advertising
   * Efinancial
-  * eHealthInsurance
-  * Enterprise Inbound Sales 
+  * Enterprise Inbound Sales
   * EPIQ
   * Equita Group
+  * Equita Group Final Expense Services
   * Every Choice Insurance
   * Exact Match Media
+  * Excel Impact
   * FirstQuoteHealth.com
-  * Formza, LLC
+  * Florida Blue
   * Fortegra
-  * Freedom Debt
   * Freeway Insurance Services
+  * Gainsco
   * GEICO
   * Get Seen Media
   * GetInsured
@@ -92,89 +95,98 @@ Here's the full list of Service Providers currently in our network:
   * Go Direct Lead Gen
   * GoHealthInsurance
   * Goji
-  * Health and Life Advantage
+  * Health and Life Associates 
   * Health Benefit Center
   * Health Choice One
+  * Health Corp USA
+  * Health Insurance For All
   * Health Insurance Innovations
+  * Health IQ
   * Healthcare, Inc.
+  * Healthcare.com - Direct
   * HealthInsurance.net
+  * HealthMatchup
   * HealthPlanOne
   * HealthQuoteInfo.com (Rank Media Agency)
   * HealthSherpa
-  * Healthy Halo
   * Home Insurance King
   * HyperTarget Marketing
   * IHC Group
-  * Infinix Media
   * Innovation Group of South Florida
-  * Inquire Media
   * Inside Response
+  * Inside Response - BX
   * InsuraMatch
   * Insurance Line One
+  * Insurance Revenue
   * iWebQuotes
   * Kaiser Permanente
   * Kanopy Insurance
   * Leads (Tranzact)
-  * Legal & General America
   * Lending Point
   * Liberty Mutual
+  * LifeInsuranceMatchup
   * Lighthouse Insurance
   * LoanMe
+  * Lockton Affinity Group
   * Mapfre Insurance
   * MassDrive
+  * Medicare Supplemental Insurance
   * Mercury
   * MetLife
   * Mikayla Data
   * Moss
-  * Mutual of Omaha
   * National Brokers of America
   * National General
   * Nationwide
+  * Nationwide Health Advisors
   * Neilson Financial Services
   * NetQuote
   * One Loan Place
-  * OOMA
+  * Oscar Health
   * Pay Per Call Market
   * Pay Per Call Transfers
-  * Peachstate Insurance
-  * PEMCO
-  * Pier21 Media
+  * PB Solutions
   * Ping Leads
   * Platform Advertising
   * Plymouth Rock
   * PMIC (Adrea Rubin)
+  * Policy Fuel
   * Precise Leads
   * Precursor Media
-  * Presidio Interactive
   * Progressive
-  * QuinStreet
+  * QuickInsured
   * Quote Engine
   * QuoteWizard
   * Rank Media Agency
+  * Real Results
   * Rescue One
   * RevPoint
   * Rex Direct
+  * Ring Router
   * SafeAuto
   * Selective Healthcare
   * SelectQuote
   * Senior Healthcare Direct
+  * Senior Plus Advisors
   * Simple Insurance Leads
-  * Sureco
+  * State Farm
+  * State Fund Insurance
+  * Sumner Insurance
   * The Benefit Link
   * The Complete Lead
+  * The General
   * The Hartford
   * The Lead Company
   * The Zebra
   * Transcend
-  * Travelers
+  * Tranzact
   * TruSource Mktg
   * TSC
   * Underground Elephant
-  * United Medicare Advisors
-  * US Benefit Solutions - Broward
-  * US Benefit Solutions - West Palm
-  * US Medicare Group
   * US Web Leads
+  * Vantis Life (Adrea Rubin)
+  * Velapoint
+  * Velapoint Insurance
   * VerifiedInsuranceLead
   * Visiqua
   * Vital One
