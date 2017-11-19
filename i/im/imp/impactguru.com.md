@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the impactguru.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205230154id_/https%3A//www.impactguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactguru.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119220749id_/https%3A//www.impactguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Impact Guru
+
+[ ](https://www.impactguru.com/ "Impact Guru")
 
 Last updated: April 12, 2015
 
@@ -65,7 +67,7 @@ The information collected by Impact Guru from You may be used to:
 
 In addition to the above, at time, we use third-party service providers to provide ads on our behalf across the internet and sometimes on the Website. Such third-party service providers may collect anonymous information about Your visits to our Website, and Your interaction with our services. No personally identifiable information is however collected or used in this process by such third party service providers.
 
-You do not object to Impact Guru sharing your Personal Information such as, but not limited to, Full Name, donation or contribution amount, with the respective campaign creators and the beneficiaries (eg. nonprofits) of your donations / contributions for compliance purposes and to ensure that campaign creators are able to provide you the rewards that you may have paid for. Although our website allows donors to be shown as Anonymous if selected, Impact Guru, payment gateway providers, and the chosen beneficiary (non-profit) will know of your true identity. If you choose a reward but chose to be shown as Anonymous, a campaign creator may not be able to offer you the reward that you have chosen.
+You do not object to Impact Guru sharing your Personal Information such as, but not limited to, Full Name, donation or contribution amount, with the respective fundraiser creators and the beneficiaries (eg. nonprofits) of your donations / contributions for compliance purposes and to ensure that fundraiser creators are able to provide you the rewards that you may have paid for. Although our website allows donors to be shown as Anonymous if selected, Impact Guru, payment gateway providers, and the chosen beneficiary (non-profit) will know of your true identity. If you choose a reward but chose to be shown as Anonymous, a fundraiser creator may not be able to offer you the reward that you have chosen.
 
 As part of our commitment to respect Your privacy, Impact Guru DOES NOT trade or sell Your Personal Information in any manner, except as specified herein or if express consent is sought from You.
 
@@ -123,3 +125,7 @@ Email: [info@impactguru.com](mailto:info@impactguru.com "Email")
 **Report Abuse / Questions**
 
 If you wish to report an abuse on the Website or You have any other concerns or questions, please report abuse at <https://www.impactguru.com/report-abuse> or contact us at [info@impactguru.com](mailto:info@impactguru.com "Email"). We will endeavor to take suitable steps and respond within an appropriate timeframe.
+
+#### __Information
+
+####  __Alert
