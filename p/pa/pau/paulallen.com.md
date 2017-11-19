@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulallen.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420021344id_/https%3A//www.paulallen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulallen.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119123446id_/https%3A//www.paulallen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Paul Allen
 
