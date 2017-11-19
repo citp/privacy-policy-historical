@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandai-asia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103710id_/http%3A//www.bandainamco.co.jp/en/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandai-asia.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119123017id_/http%3A//www.bandainamco.co.jp/en/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | BANDAI NAMCO Holdings Inc.
 
