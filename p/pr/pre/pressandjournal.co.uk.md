@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressandjournal.co.uk privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614045843id_/https%3A//www.pressandjournal.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressandjournal.co.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119083253id_/https%3A//www.pressandjournal.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Press and Journal
 
