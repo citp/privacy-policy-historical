@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the enzyhub.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520054840id_/http%3A//www.enzyhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enzyhub.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119195751id_/http%3A//www.enzyhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Last updated on November 15th, 2017 at 
 
 This **privacy policy** applies to the Site and all products and services offered by [enzyhub.com](http://www.enzyhub.com/)
 
