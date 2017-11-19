@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the grader.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040957id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grader.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119204918id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Last Modified: September 30, 2016 
 
 We at HubSpot (HubSpot, Inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to both our websites (Websites), including www.hubspot.com, www.inbound.com, and our Subscription Service (the Subscription Service), including our associated mobile applications (Mobile Apps) owned and controlled by HubSpot. This Privacy Policy governs our data collection, processing and usage practices. It also describes your choices regarding use, access and correction of your personal information. By using the Websites or the Subscription Service, you consent to the data practices described in this Privacy Policy. If you do not agree with the data practices described in this Privacy Policy, you should not use the Websites or the Subscription Service. 
 
@@ -10,19 +8,19 @@ We periodically update this Privacy Policy. If you subscribe to the Subscription
 
 #### **EU – U.S. Privacy Shield**
 
-HubSpot participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. The following affiliated entities adhere to the Privacy Shield principles: HubSpot Ireland Limited, HubSpot Australia Pty Ltd, HubSpot Asia Pte. Ltd., and HubSpot Japan KK. HubSpot is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+HubSpot participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. The following affiliated entities adhere to the Privacy Shield principles: HubSpot Ireland Limited, HubSpot Australia Pty Ltd, HubSpot Asia Pte. Ltd., and HubSpot Japan KK. HubSpot is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
 HubSpot is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. HubSpot complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, HubSpot is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, HubSpot may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-You may direct any inquiries or complaints related to our Privacy Shield compliance to privacy@hubspot.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+You may direct any inquiries or complaints related to our Privacy Shield compliance to privacy@hubspot.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 #### **U.S. – Swiss Safe Harbor**
 
-HubSpot complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from Switzerland. HubSpot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view HubSpot's certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+HubSpot complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from Switzerland. HubSpot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view HubSpot's certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 ## **1\. Important Information**
 
@@ -118,7 +116,7 @@ We employ other companies and people to provide services to visitors to our Webs
 
 We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When sensitive Personal Information (such as a credit card number and/or geo-location data) is collected on our Websites and/or transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
-If you have any questions about the security of your Personal Information, you can contact us at [privacy@hubspot.com](mailto:privacy@hubspot.com).
+If you have any questions about the security of your Personal Information, you can contact us at [privacy@hubspot.com](mailto:privacy@hubspot.com).
 
 #### **4.9. Social Media Features**
 
@@ -207,7 +205,7 @@ To exercise any of these rights, please contact us at privacy@hubspot.com or by 
 
 #### **6.2. Anti-Spam Policy**
 
-Our Acceptable Use Policy, at [http://legal.hubspot.com/acceptable-use](https://web.archive.org/acceptable-use), applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an "opt-out" mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
+Our Acceptable Use Policy, at [http://legal.hubspot.com/acceptable-use](https://legal.hubspot.com/acceptable-use), applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an "opt-out" mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
 
 #### **6.3. To Unsubscribe From Our Communications**
 
