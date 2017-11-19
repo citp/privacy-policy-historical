@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hostingdecisions.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518185832id_/http%3A//hostingdecisions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingdecisions.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119155210id_/http%3A//hostingdecisions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HostingDecisions
+# Privacy Policy - HostingDecisions
 
 Wherein the privacy of data shared by the clients is of valuable concern in the Internet world, we hold a great significance for the privacy of our readers and visitors. The way the visitor’s data is used and managed by **[HostingDecisions](http://hostingdecisions.com/) **is mentioned in this document and these statements are applied to all the services associated with our site.
 
-**Below here, we include:**
+ **Below here, we include:**
 
   * Information asked to the visitors to provide
   * Reason to gather information
@@ -31,12 +31,12 @@ Some of the technical details are automatically collected when the visitors resp
 
 The basic reason behind gathering visitor’s data is to overall enhance the site’s performance in every single aspect.
 
-**We use your information:**
+ **We use your information:**
 
-  * **To build up and provide new services:** When you move through different sections and categories of site, we record the information of your areas of interest. Based on that we get brief idea as to what maximum of our readers are keen to learn and what kind of more knowledge do they expect from our site. Hence, we can develop new services and opportunities for our visitors so that they can best be benefited with the conceptual details, offerings and suggestions we provide.
-  * **To help you solve your queries:** When you contact us for any query or feedback, we keep the record of the communication. We wish to answer your questions and help you out with any doubt regarding our content. We need your email address to respond you, to make you aware about our upcoming events, to send you newsletter emails if you apply, etc and that’s why we collect your personal data.
-  * **To maintain the quality of our products and services:** By interacting with our readers we get to know the current progress status of our website. Attending to your feedbacks will help us in improving our tutorials and reviews content.
-  * **To support our advertising needs:** We gather the information of our readers and this aggregated data is used to support our advertising requirements. We use your information to give you more appropriate search results and ads. Thus, free services can be offered once the ads needs are fulfilled.
+  *  **To build up and provide new services:** When you move through different sections and categories of site, we record the information of your areas of interest. Based on that we get brief idea as to what maximum of our readers are keen to learn and what kind of more knowledge do they expect from our site. Hence, we can develop new services and opportunities for our visitors so that they can best be benefited with the conceptual details, offerings and suggestions we provide.
+  *  **To help you solve your queries:** When you contact us for any query or feedback, we keep the record of the communication. We wish to answer your questions and help you out with any doubt regarding our content. We need your email address to respond you, to make you aware about our upcoming events, to send you newsletter emails if you apply, etc and that’s why we collect your personal data.
+  *  **To maintain the quality of our products and services:** By interacting with our readers we get to know the current progress status of our website. Attending to your feedbacks will help us in improving our tutorials and reviews content.
+  *  **To support our advertising needs:** We gather the information of our readers and this aggregated data is used to support our advertising requirements. We use your information to give you more appropriate search results and ads. Thus, free services can be offered once the ads needs are fulfilled.
 
 
 
