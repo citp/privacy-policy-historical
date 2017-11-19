@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wannalol.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111200652id_/http%3A//www.wannalol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wannalol.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119062943id_/http%3A//www.wannalol.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - WannaLoL
+# Privacy Policy | WannaLOL
 
 **What information do we collect?**
 
@@ -53,7 +53,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Your Consent**
 
-By using our site, you consent to our [ privacy policy](http://www.wannalol.com/privacy.aspx).
+By using our site, you consent to our [privacy policy](http://www.wannalol.com/privacy.aspx).
 
  **Changes to our Privacy Policy**
 
@@ -65,5 +65,5 @@ This policy was last modified on 17th Oct, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.WannaLoL.com  
+http://www.WannaLOL.com  
 admin@wannalol.com
