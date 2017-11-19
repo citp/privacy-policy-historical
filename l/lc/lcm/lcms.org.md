@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcms.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630060259id_/https%3A//www.lcms.org/page.aspx%3Fpid%3D193) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcms.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119150208id_/https%3A//www.lcms.org/page.aspx%3Fpid%3D193) for the most accurate reproduction.*
 
 # Home - The Lutheran Church—Missouri Synod
 
