@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the costcobusinessdelivery.com privacy policy that was archived on 2017-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170507211543id_/http%3A//www.costcobusinessdelivery.com/personalized-product-recommendations.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the costcobusinessdelivery.com privacy policy that was archived on 2017-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119212651id_/https%3A//www.costcobusinessdelivery.com/personalized-product-recommendations.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en"><head>
 
 	
 	
@@ -13,10 +13,10 @@
 	
 		<meta name="keywords" content="Personalized Product Recommendations">
 	
-		<link rel="canonical" href="http://www.costcobusinessdelivery.com/personalized-product-recommendations.html">
+		<link rel="canonical" href="https://www.costcobusinessdelivery.com/personalized-product-recommendations.html">
 		
 		
-		<link rel="alternate" href="http://m.costcobusinessdelivery.com/personalized-product-recommendations.html">          
+		<link rel="alternate" href="https://m.costcobusinessdelivery.com/personalized-product-recommendations.html">          
 				
 	
 		<meta name="description" content="Personalized Product Recommendations">
@@ -31,8 +31,8 @@
 <meta name="google-site-verification" content="VFtNZVUFld_G6tkQjKaQp-jZO5hvviNkC4NxzDRL9oE">
 
 <meta name="referrer" content="always">
-<meta name="currentBuildNumber" content="3.0.29521.0">
-<meta name="currentSolrBuildNumber" content="3.0.29367.0">
+<meta name="currentBuildNumber" content="3.0.31253.0">
+<meta name="currentSolrBuildNumber" content="3.0.30346.0">
 <meta name="ServerName" content="www.costcobusinessdelivery.com ">
 <meta name="LocalAddress" content="xxx.xxx.xxx.105">
 <meta name="LocalName" content="cbp1Server02">
@@ -45,14 +45,14 @@
 
 <link rel="stylesheet" href="/wcsstore/CostcoGLOBALSAS/css/ui-lightness/jquery-ui-1.8.10.custom.css" type="text/css">
 <link rel="stylesheet" href="/wcsstore/CostcoGLOBALSAS/css/powertip/jquery.powertip.css" type="text/css">
-<link rel="stylesheet" href="/dynamic_css?langId=-1&amp;storeId=11301&amp;catalogId=11701&amp;v=30295210" type="text/css">
+<link rel="stylesheet" href="/dynamic_css?langId=-1&amp;storeId=11301&amp;catalogId=11701&amp;v=30312530" type="text/css">
 
 	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WQMNBK"></script><script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery-migrate-1.2.1.min.js"></script>
-	<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/util.js?v=30295210"></script>
+	<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/util.js?v=30312530"></script>
 	<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery.cookie.js"></script>
-	<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/cleanup.js?v=30295210"></script>
-    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/costco.product.js?v=30295210"></script>
+	<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/cleanup.js?v=30312530"></script>
+    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/costco.product.js?v=30312530"></script>
 
 
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/vendor/slick.min.js"></script>
@@ -65,12 +65,66 @@
 	
 	
 </head>
-<body class="show-compare" itemscope="" itemtype="http://schema.org/WebPage">
+<body class="show-compare" itemscope="" itemtype="http://schema.org/WebPage" style="">
 	
 	
 	<script type="text/javascript">
 		var refinements=new Array();
 		
+		
+		// ADA compliance for facet navigation causing page reload focus will return to current location
+		/**
+		 * Get a parsed object from sessionStorage (if sessionStorage is available).
+		 * @param  {[item]} item - the key to pull from sessionStorage
+		 * @return {[object]} storage_item - the object representing the string
+		 *  in session storage (or empty object in the case of the item not existing)
+		 *  Note: after code merge better to use the BC utility.js file
+		 */
+		function getFromSession(key) {
+		  var storage_item = {};
+		  if (sessionStorage) {
+		    storage_item = sessionStorage.getItem(key) ? sessionStorage.getItem(key) : {};
+		    if(!$.isEmptyObject(storage_item) && typeof storage_item !== 'string') {
+		      storage_item = JSON.parse(storage_item);
+		    }
+		  }
+		  return storage_item;
+		};
+		
+		/**
+		 * Set a string/object in sessionStorage for later use (if sessionStorage
+		 * is available)
+		 * @param {[string]} name - key to reference the value
+		 * @param {[string|object]} item - value to store in sessionStorage
+		 * Note: after code merge better to use the BC utility.js file
+		 */
+		function setInSession(key, item) {
+		  var item = typeof item === 'string' ? item : JSON.stringify(item);
+		  if (sessionStorage) {
+		    sessionStorage.setItem(key, item);
+		  }
+		};
+		
+		const searchResultFocus = 'searchResultFocusSessionStorageKey';
+		
+		function storeSearchResultFocus(element) {
+		  if(element && element.hasAttribute("id")) {
+		    setInSession(searchResultFocus, $(element).attr('id'));
+		  } else {
+		    setInSession(searchResultFocus, {});
+		  }
+		}
+		
+		function restoreSearchResultFocus(key) {
+		  const id = getFromSession(key);
+		  if(id && Object.keys(id).length !== 0) {
+		    $('#'+id).focus();
+		  }
+		}
+		
+		$(window).load(function() {
+		  restoreSearchResultFocus(searchResultFocus);
+    });
 		
 	</script>
 		
@@ -110,18 +164,18 @@
 		
 
 <div id="country-select">	
-	<a class="dropdown-link" href="#">
+	<a class="dropdown-link" href="#" aria-haspopup="true" aria-label="Select Country">
 		
 				<img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/US.png" alt="United States">
 			
     </a>
-	<ul class="dropdown dropdown-list">
-		<li><a href="http://www.costco.com"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/US.png" alt="United States">United States</a></li>
-    	<li><a href="http://www.costcobusinesscentre.ca"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/CA.png" alt="Canada">Canada</a></li>
-    	<li><a href="http://www.costco.co.uk"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/UK.png" alt="United Kingdom">United Kingdom</a></li>
-    	<li><a href="http://www.costco.com.mx"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/MX.png" alt="Mexico">Mexico</a></li>
-    	<li><a href="http://www.costco.co.kr"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/KR.png" alt="South Korea">South Korea</a></li>
-    	<li><a href="http://www.costco.com.tw"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/TW.png" alt="Taiwan">Taiwan</a></li>
+	<ul class="dropdown dropdown-list" role="menubar">
+		<li role="none"><a role="menuitem" href="http://www.costco.com"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/US.png" alt="United States">United States</a></li>
+    <li role="none"><a role="menuitem" href="http://www.costcobusinesscentre.ca"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/CA.png" alt="Canada">Canada</a></li>
+    <li role="none"><a role="menuitem" href="http://www.costco.co.uk"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/UK.png" alt="United Kingdom">United Kingdom</a></li>
+    <li role="none"><a role="menuitem" href="http://www.costco.com.mx"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/MX.png" alt="Mexico">Mexico</a></li>
+    <li role="none"><a role="menuitem" href="http://www.costco.co.kr"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/KR.png" alt="South Korea">South Korea</a></li>
+    <li role="none"><a role="menuitem" href="http://www.costco.com.tw"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/TW.png" alt="Taiwan">Taiwan</a></li>
 	</ul>
 </div>
 	</div>
@@ -369,16 +423,16 @@ var countries = [
 
 </script>
 
-<!-- BEGIN CachedHeaderDisplay.jsp --><!--  Defect #CIS100068720 Default Date Range calculation  --><!-- Defect CIS100068754 : Added locale variable --><!-- Section Ends -->
+<!-- BEGIN CachedHeaderDisplay.jsp --><!-- Section Ends -->
 
 <div id="header" class="c1000">
 	<div id="header-delivery-zip">
 		<span id="zipcodecookiepresent" style="display:none;">
 				Your Delivery Zip Code:&nbsp;&nbsp;<span id="bdzip"></span>&nbsp;&nbsp;
-				<a href="http://www.costcobusinessdelivery.com/SetDeliveryLocationView?langId=-1&amp;storeId=11301&amp;catalogId=11701">(Change)</a>
+				<a href="https://www.costcobusinessdelivery.com/SetDeliveryLocationView?langId=-1&amp;storeId=11301&amp;catalogId=11701">(Change)</a>
 		 </span>
          <span id="zipcodecookieabsent" style="display:none;">
-				<a href="http://www.costcobusinessdelivery.com/SetDeliveryLocationView?langId=-1&amp;storeId=11301&amp;catalogId=11701">Set Delivery ZIP Code</a>
+				<a href="https://www.costcobusinessdelivery.com/SetDeliveryLocationView?langId=-1&amp;storeId=11301&amp;catalogId=11701">Set Delivery ZIP Code</a>
 		 </span>
 	</div>
 	<a class="header-logo-bd" href="http://www.costcobusinessdelivery.com/" id="WC_CachedHeaderDisplay_Link_2">
@@ -390,18 +444,18 @@ var countries = [
                 <span id="deliveryDatecookiepresent" style="display:none;">
                     <img src="/wcsstore/CostcoGLOBALSAS/images/Business-Center-Truck-Icon.png" alt="Delivery Truck" class="deldate-icon" style="width:35px;height:15px; float:left; overflow:hidden; no-repeat;">&nbsp;
                     Delivery Date:&nbsp;&nbsp;<span id="bdDelDate"></span>&nbsp;&nbsp;
-                    <a id="headerPreferredDeliveryDate" href="http://www.costcobusinessdelivery.com/SetPreferredDeliveryDateView?langId=-1&amp;storeId=11301&amp;catalogId=11701">(Change)</a>
+                    <a id="headerPreferredDeliveryDate" href="https://www.costcobusinessdelivery.com/SetPreferredDeliveryDateView?langId=-1&amp;storeId=11301&amp;catalogId=11701">(Change)</a>
                 </span>
                 <span id="deliveryDatecookieabsent" style="display:none;">
                     <img src="/wcsstore/CostcoGLOBALSAS/images/Business-Center-Truck-Icon.png" alt="Delivery Truck" class="deldate-icon" style="width:35px;height:15px; float:left; overflow:hidden; no-repeat;">&nbsp;
-                    <a id="headerPreferredDeliveryDate" href="http://www.costcobusinessdelivery.com/SetPreferredDeliveryDateView?langId=-1&amp;storeId=11301&amp;catalogId=11701">Set Your Delivery Date</a>
+                    <a id="headerPreferredDeliveryDate" href="https://www.costcobusinessdelivery.com/SetPreferredDeliveryDateView?langId=-1&amp;storeId=11301&amp;catalogId=11701">Set Your Delivery Date</a>
                 </span>
             </div>
          </li> 
 		
 			<li>
 			      
-                        <a id="headerOrderByItem" href="http://www.costcobusinessdelivery.com/SetDeliveryLocationView?langId=-1&amp;storeId=11301&amp;catalogId=11701&amp;fromPage=OrderByItemsDisplayView"><img src="/wcsstore/CostcoGLOBALSAS/images/Business-Center-Mouse-Icon-15x15.png" alt="Mouse Icon" class="orderbyitem-icon">Order by Item Number</a>
+                        <a id="headerOrderByItem" href="https://www.costcobusinessdelivery.com/SetDeliveryLocationView?langId=-1&amp;storeId=11301&amp;catalogId=11701&amp;fromPage=OrderByItemsDisplayView"><img src="/wcsstore/CostcoGLOBALSAS/images/Business-Center-Mouse-Icon-15x15.png" alt="Mouse Icon" class="orderbyitem-icon">Order by Item Number</a>
                     
 	       	</li>
         
@@ -410,7 +464,7 @@ var countries = [
 	        </li>
         
        	<li>
-			<a href="https://www.costcobusinessdelivery.com/OrderStatusCmd?storeId=11301&amp;catalogId=11701&amp;langId=-1&amp;orderStatusStyle=strong&amp;URL=OrderStatusSummaryView&amp;fromYear=2016&amp;fromMonth=11&amp;toYear=2017&amp;toMonth=4" class="h_tnav_but" id="WC_CachedHeaderDisplay_Link_3">Order Status</a>
+			<a href="https://www.costcobusinessdelivery.com/OrderStatusCmd?storeId=11301&amp;catalogId=11701&amp;langId=-1&amp;orderStatusStyle=strong&amp;URL=OrderStatusSummaryView&amp;fromYear=2017&amp;fromMonth=5&amp;toYear=2017&amp;toMonth=10" class="h_tnav_but" id="WC_CachedHeaderDisplay_Link_3">Order Status</a>
        	</li>
         <li>
         	<a href="https://www.costcobusinessdelivery.com/LogonForm?langId=-1&amp;storeId=11301&amp;catalogId=11701&amp;URL=LogonForm" class="h_tnav_but" id="headerMyAccount">My Account</a>
@@ -435,9 +489,9 @@ var countries = [
            <li>
 			<a href="http://www.costco.com/join-costco.html" target="_blank">Join Costco</a>
 		</li>
-		<li>
-			<span class="dropdown-link" tabindex="0">Email Sign-Up</span>
-			<div class="dropdown" style="width:218px;">
+		<li aria-haspopup="true">
+			<span class="dropdown-link fakeLink" tabindex="0">Email Sign-Up</span>
+			<div class="dropdown" style="width:218px;" role="form">
 				
 				<form title="" action="EmailSubscription?catalogId=11701&amp;storeId=11301&amp;langId=-1" class="validate" id="header_emailSignup">
 					<p style="margin-bottom: 8px;">Enter your email to receive great offers from Costco Business Delivery.</p>
@@ -452,7 +506,7 @@ var countries = [
 			</div>
 		</li>
 		
-		  <li><a href="http://www.costcobusinessdelivery.com/customer-service.html">Customer Service</a></li>
+		  <li><a href="https://www.costcobusinessdelivery.com/customer-service.html">Customer Service</a></li>
         		
 	</ul>
 	<div id="header-promo-bd" class="espot">	
@@ -552,8 +606,8 @@ border-style: none;
 
 <div id="navcap_buttons">
 
-<div class="navcap"><a href="/CatalogSearch?storeId=11301&amp;catalogId=11701&amp;langId=-1&amp;keyword=Instant+Savings"><img height="41px" src="/wcsstore/USBD/Homepage/DIS.png" class="make-move" alt="Delivery Instant Savings"></a></div>
-<div class="navcap"><a href="/businesssavings.html"><img src="/wcsstore/USBD/Homepage/bse.png" class="make-move" alt="Business Savings" style="height: 41px"></a></div>
+<div class="navcap"><a href="/CatalogSearch?storeId=11301&amp;catalogId=11701&amp;langId=-1&amp;keyword=Savings"><img height="41px" src="/wcsstore/USBD/Homepage/navcap-allonlinesavings.png" class="make-move" alt="All Instant Savings"></a></div>
+<div class="navcap"><a href="/savingsevent.html?ref=navcap"><img src="/wcsstore/USBD/Homepage/navcap-savingsevent.png" class="make-move" alt="Savings Event" style="height: 41px"></a></div>
 
 
 
@@ -572,6 +626,16 @@ border-style: none;
 	display: none;
 	visibility: hidden;
 }
+</style>
+                        </li>
+                     
+                         <li value="4"> 
+                        <!-- Stores\WebContent\CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderESpotContent.jspf --><style>
+
+#WC_CategoriesSidebarDisplayf_links_3_7 {
+ display: none;
+    visibility: hidden;
+    }
 </style>
                         </li>
                     
@@ -594,61 +658,104 @@ border-style: none;
 		<li class="first">&nbsp;</li>
 			
 				<li role="menuitem" aria-haspopup="true">
-					<a href="http://www.costcobusinessdelivery.com/beverages.html" id="WC_CategoriesSidebarDisplayf_links_3_1" name="Beverages" title="Beverages">Beverages</a>
+					<a href="https://www.costcobusinessdelivery.com/automotive.html" id="WC_CategoriesSidebarDisplayf_links_3_1" name="Automotive" title="Automotive">Automotive</a>
 				</li>
 			
 				<li role="menuitem" aria-haspopup="true">
-					<a href="http://www.costcobusinessdelivery.com/candy-snacks.html" id="WC_CategoriesSidebarDisplayf_links_3_2" name="Candy &amp; Snacks" title="Candy &amp; Snacks">Candy &amp; Snacks</a>
+					<a href="https://www.costcobusinessdelivery.com/beverages.html" id="WC_CategoriesSidebarDisplayf_links_3_2" name="Beverages" title="Beverages">Beverages</a>
 				</li>
 			
 				<li role="menuitem" aria-haspopup="true">
-					<a href="http://www.costcobusinessdelivery.com/commercial-appliances.html" id="WC_CategoriesSidebarDisplayf_links_3_3" name="Commercial Appliances" title="Commercial Appliances">Commercial Appliances</a>
+					<a href="https://www.costcobusinessdelivery.com/candy-snacks.html" id="WC_CategoriesSidebarDisplayf_links_3_3" name="Candy &amp; Snacks" title="Candy &amp; Snacks">Candy &amp; Snacks</a>
 				</li>
 			
 				<li role="menuitem" aria-haspopup="true">
-					<a href="http://www.costcobusinessdelivery.com/disposables.html" id="WC_CategoriesSidebarDisplayf_links_3_4" name="Disposables" title="Disposables">Disposables</a>
+					<a href="https://www.costcobusinessdelivery.com/commercial-appliances.html" id="WC_CategoriesSidebarDisplayf_links_3_4" name="Commercial Appliances" title="Commercial Appliances">Commercial Appliances</a>
 				</li>
 			
 				<li role="menuitem" aria-haspopup="true">
-					<a href="http://www.costcobusinessdelivery.com/grocery.html" id="WC_CategoriesSidebarDisplayf_links_3_5" name="Grocery" title="Grocery">Grocery</a>
+					<a href="https://www.costcobusinessdelivery.com/disposables.html" id="WC_CategoriesSidebarDisplayf_links_3_5" name="Disposables" title="Disposables">Disposables</a>
 				</li>
 			
 				<li role="menuitem" aria-haspopup="true">
-					<a href="http://www.costcobusinessdelivery.com/janitorial.html" id="WC_CategoriesSidebarDisplayf_links_3_6" name="Janitorial" title="Janitorial">Janitorial</a>
+					<a href="https://www.costcobusinessdelivery.com/grocery.html" id="WC_CategoriesSidebarDisplayf_links_3_6" name="Grocery" title="Grocery">Grocery</a>
 				</li>
 			
 				<li role="menuitem" aria-haspopup="true">
-					<a href="http://www.costcobusinessdelivery.com/office.html" id="WC_CategoriesSidebarDisplayf_links_3_7" name="Office" title="Office">Office</a>
+					<a href="https://www.costcobusinessdelivery.com/hospitality.html" id="WC_CategoriesSidebarDisplayf_links_3_7" name="Hospitality" title="Hospitality">Hospitality</a>
 				</li>
 			
 				<li role="menuitem" aria-haspopup="true">
-					<a href="http://www.costcobusinessdelivery.com/restaurant.html" id="WC_CategoriesSidebarDisplayf_links_3_8" name="Restaurant" title="Restaurant">Restaurant</a>
+					<a href="https://www.costcobusinessdelivery.com/janitorial.html" id="WC_CategoriesSidebarDisplayf_links_3_8" name="Janitorial" title="Janitorial">Janitorial</a>
 				</li>
 			
 				<li role="menuitem" aria-haspopup="true">
-					<a href="http://www.costcobusinessdelivery.com/tobacco.html" id="WC_CategoriesSidebarDisplayf_links_3_9" name="Tobacco" title="Tobacco">Tobacco</a>
+					<a href="https://www.costcobusinessdelivery.com/office.html" id="WC_CategoriesSidebarDisplayf_links_3_9" name="Office" title="Office">Office</a>
 				</li>
 			
-			<li class="last">&nbsp;<div style="visibility: hidden">104/2017-05-07 14:15:43.002</div></li>
+				<li role="menuitem" aria-haspopup="true">
+					<a href="https://www.costcobusinessdelivery.com/restaurant.html" id="WC_CategoriesSidebarDisplayf_links_3_10" name="Restaurant" title="Restaurant">Restaurant</a>
+				</li>
+			
+				<li role="menuitem" aria-haspopup="true">
+					<a href="https://www.costcobusinessdelivery.com/tobacco.html" id="WC_CategoriesSidebarDisplayf_links_3_11" name="Tobacco" title="Tobacco">Tobacco</a>
+				</li>
+			
+			<li class="last">&nbsp;<div style="visibility: hidden">104/2017-11-19 13:26:52.003</div></li>
 		</ul>
 	</div>
 	<div id="category-navigation-flyout"></div>
 </div>
 
-<!-- END TopNavigationDisplay.jsp -->
-	       <div id="search" class="blue-bar" style="width:591px;">
-            <form id="CatalogSearchForm" action="CatalogSearch" class="validate">
-                <input type="hidden" name="storeId" value="11301" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
-                <input type="hidden" name="catalogId" value="11701" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
-                <input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
-                <label for="SimpleSearchForm_SearchTerm" class="subhead-title search-label">Search:</label>
-                <div>
-                    <input type="text" class="search-input" name="keyword" size="200" placeholder="Enter keyword or item number" id="SimpleSearchForm_SearchTerm" maxlength="50">
-                    <button type="submit" id="search_submit"><span class="ui-icon ui-icon-search">Search</span></button>
-                </div> 
-            </form>
-          </div>
-	   
+<!-- END TopNavigationDisplay.jsp --><script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/Widgets/Search.js"></script>
+<!-- BEGIN Search.jsp Widget --><!--  coreName MC_11101_CatalogEntry_en_US<br/>
+	serverURl http://bd-searchlivecell02.ecom.costco.web:63737/solr/MC_11101_CatalogEntry_en_US
+	searchHostNamePath http://bd-searchlivecell02.ecom.costco.web:63737
+	searchContextPath /search/resources -->
+
+<script>
+$(document).ready(function() {
+    SearchJS.init();
+    //SearchJS.setCachedSuggestionsURL("");
+    SearchJS.setAutoSuggestURL("SearchComponentAutoSuggestView?coreName=MC_11101_CatalogEntry_en_US&serverURL=http%3a%2f%2fbd-searchlivecell02.ecom.costco.web%3a63737%2fsolr%2fMC_11101_CatalogEntry_en_US&langId=-1&storeId=11301&catalogId=11701");
+    //document.forms["CatalogSearchForm"].action = getAbsoluteURL() + "SearchDisplay";
+});
+var staticContent = [];
+var staticContentHeaders = [];
+</script>   
+
+<div id="search" class="blue-bar" style="width:591px;">
+
+    <form id="CatalogSearchForm" action="CatalogSearch" class="validate">
+        <input type="hidden" name="storeId" value="11301" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
+        <input type="hidden" name="catalogId" value="11701" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
+        <input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
+
+        <label for="SimpleSearchForm_SearchTerm" class="subhead-title search-label">Search:</label>
+        <div>
+            <input id="SimpleSearchForm_SearchTerm" class="search-input" size="200" maxlength="50" type="text" name="keyword" autocomplete="off" placeholder="Enter keyword or item number">
+            <button type="submit" id="search_submit"><span class="ui-icon ui-icon-search" alt="Search">Search</span></button>
+
+            <!-- Start SearchDropdownWidget -->
+            <div id="searchDropdown">
+                <div id="autoSuggest_Result_div">
+                    <div id="widget_search_dropdown">
+                        <!-- Main Content Area -->
+                        <div id="AutoSuggestDiv" role="list" aria-required="true" onmouseover="SearchJS.autoSuggestHover = true;" onmouseout="SearchJS.autoSuggestHover = false; document.getElementById('SimpleSearchForm_SearchTerm').focus();">
+                            <ul><li>
+                            <div id="autoSuggestDynamic_Result_div" role="list" aria-live="polite" aria-atomic="true" aria-relevant="all" aria-labelledby="autoSuggestDynamic_Result_div_ACCE_Label">
+                            
+                            </div></li></ul>    
+                        </div>
+                    <!-- End content Section -->
+                    </div>
+                </div>
+            </div> 
+        <!-- End SearchDropdownWidget -->     
+        </div>
+    </form>
+</div>
+<!-- END Search.jsp Widget -->
 	<div id="mini-shopping-cart" class="ui-corner-tr" style="width:180px;">
 		<!-- BEGIN MiniShopCartDisplay.jsp -->
 
@@ -669,7 +776,7 @@ Cart
 <ul id="breadcrumbs" itemprop="breadcrumb">
 <li>
 	
-			<a href="http://www.costcobusinessdelivery.com/">
+			<a href="http://www.costcobusinessdelivery.com/" id="breadcrumb_Home">
 				Home
 			</a>
 	    
@@ -919,7 +1026,7 @@ Cart
 		
 	
 	
-	<!-- BEGIN FooterDisplay.jspf -->
+	<!-- BEGIN global FooterDisplay.jspf -->
 <div id="zipcode_patterns" value="^(\d{5}(-\d{4})?$)$"></div>
 
 
@@ -943,243 +1050,283 @@ Cart
 			<ul class="featureItemsTable">
 	 
                          <li value="1"> 
-                        <!-- Stores\WebContent\CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderESpotContent.jspf -->	<style>
-	   #footer-wrapper {
-	       width: 950px;
-	       margin: 0 auto;
-	   }
-	   #footer_emailSignUpEmail {
-	       width:100%;
-	   }
-	   .footer-column {
-	       font-size: 14px;
-	       float:left;
-	       list-style-type: none;
-	       width:170px;
-	       padding-right: 10px
-	   }
-	   .footer-column li {
-	       list-style-type: none;
-	       width:inherit;
-	   }
-	   .footer-column ul {
-	       padding-top: 10px;
-	   }
-	   .column-header li {
-	       font size: 1.3em;
-	       font family: Trebuchet, Arial, Sans Serif;
-	   }
-	</style>
-	<div id="footer-wrapper">
-		<div class="footer-column">
-			<ul>
-				<li class="column-header">
-					<h2>General Information</h2>
-				</li>
-				<li>
-					<a href="/brochure.html" target="blank">Company Overview</a>
-				</li>
-				<li>
-					<a href="http://www.costco.com/join-costco.html">Membership</a>
-				</li>
-				<li>
-					<a href="/wcsstore/CostcoUSBDCatalogAssetStore/pdf/TruckloadBrochure_BD.pdf" target="_blank">Truckload Sales</a>
-				</li>
-				<li>
-					<a href="/printcopy.html">Print &amp; Copy Center</a>
-				</li>
-                <li>
+                        <!-- Stores\WebContent\CostcoGLOBALSAS\Snippets\Marketing\ESpot\RenderESpotContent.jspf --><style>
+    #footer-wrapper {
+        width: 950px;
+        margin: 0 auto;
+    }
+
+    #footer_emailSignUpEmail {
+        width: 100%;
+    }
+
+    .footer-column {
+        font-size: 14px;
+        float: left;
+        list-style-type: none;
+        width: 170px;
+        padding-right: 10px
+    }
+
+    .footer-column li {
+        list-style-type: none;
+        width: inherit;
+    }
+
+    .footer-column ul {
+        padding-top: 10px;
+    }
+
+    .column-header li {
+        font size: 1.3em;
+        font family: Trebuchet, Arial, Sans Serif;
+    }
+</style>
+<div id="footer-wrapper">
+    <div class="footer-column">
+        <ul>
+            <li class="column-header">
+                <h2>General Information</h2>
+            </li>
+            <li>
+                <a href="/brochure.html" target="blank">Company Overview</a>
+            </li>
+            <li>
+                <a href="http://www.costco.com/join-costco.html">Membership</a>
+            </li>
+            <li>
+                <a href="/wcsstore/CostcoUSBDCatalogAssetStore/pdf/TruckloadBrochure_BD.pdf" target="_blank">Truckload Sales</a>
+            </li>
+            <li>
+                <a href="/printcopy.html">Print &amp; Copy Center</a>
+            </li>
+            <li>
                 <a href="/credit-card.html">Credit Card</a>
-                </li>
-				<li>
-					<a href="http://www.costco.com/terms-and-conditions-of-use.html" target="_blank">Terms &amp; Conditions</a>
-				</li>
-				<li>
-					<a href="/personalized-product-recommendations.html" target="_blank">Your Privacy Rights</a>
-				</li>
-				<li class="column-header">
-					<a class="column-header" href="/SiteMap?storeId=11301&amp;catalogId=11701">
-					<h2>Site Map</h2></a>
-				</li><!-- WHS Location -->
-				<li>
-					<div style="float: left">
-						Location:&nbsp;
-					</div>
-					<div class="cookie2">undefined</div>
-				</li>
-			</ul>
-		</div>
-		<div class="footer-column">
-			<ul>
-				<li class="column-header">
-					<a href="/customer-service.html">
-					<h2>Customer Service</h2></a>
-				</li>
-				<li>
-					<a href="/customer-service.html#locations">Locations</a>
-				</li>
-				<li>
-					<a href="/customer-service.html#returns">Returns</a>
-				</li>
-				<!-- <li>
+            </li>
+            <li>
+                <a href="http://www.costco.com/terms-and-conditions-of-use.html" target="_blank">Terms &amp; Conditions</a>
+            </li>
+            <li>
+                <a href="/personalized-product-recommendations.html" target="_blank">Your Privacy Rights</a>
+            </li>
+            <li class="column-header">
+                <a class="column-header" href="/SiteMap?storeId=11301&amp;catalogId=11701">
+                    <h2>Site Map</h2>
+                </a>
+            </li>
+            <!-- WHS Location -->
+            <li>
+                <div style="float: left">
+                    Location:&nbsp;
+                </div>
+                <div class="cookie2">undefined</div>
+            </li>
+        </ul>
+    </div>
+    <div class="footer-column">
+        <ul>
+            <li class="column-header">
+                <a href="/customer-service.html">
+                    <h2>Customer Service</h2>
+                </a>
+            </li>
+            <li>
+                <a href="/customer-service.html#locations">Locations</a>
+            </li>
+            <li>
+                <a href="/customer-service.html#returns">Returns</a>
+            </li>
+            <!-- <li>
 					<a href="/wcsstore/CostcoUSBDCatalogAssetStore/pdf/BDGeneralOrderForm.pdf" target="_blank">Order Form</a>
 				</li> -->
-				<li>
-					<a href="/wcsstore/CostcoUSBDCatalogAssetStore/Tobacco/TobaccoFormWeb.pdf" target="_blank">Tobacco
+            <li>
+                <a href="/wcsstore/CostcoUSBDCatalogAssetStore/Tobacco/TobaccoFormWeb.pdf" target="_blank">Tobacco
 Certification</a>
-				</li>
-                			<li>
-					<a href="/costco-cash-card" target="_blank">Costco Cash Card Balance</a>
-				</li>
-			</ul>
-			<ul>
-				<li class="column-header">
-					<h2>Contact Us</h2>
-				</li>
-				<li>1-800-788-9968</li>
-				<li>
-					<a href="https://customerservice.costco.com/app/ask" target="blank">Email</a>
-				</li>
-			</ul>
-		</div>
-		<div class="footer-column">
-			<ul>
-				<li class="column-header">
-					<a href="/customer-service.html#ordering-and-delivery">
-					<h2>Ordering Information</h2></a>
-				</li>
-				<li>
-					<a href="/customer-service.html#order">Order Hours</a>
-				</li>
-				<li>
-					<a href="/customer-service.html#changes">Changes &amp; Cancellations</a>
-				</li>
-				<li>
-					<a href="/customer-service.html#payment">Payment</a>
-				</li>
-				<li>
-					<a href="/customer-service.html#pricing">Pricing</a>
-				</li>
-				<li>
-					<a href="/OrderByItemsDisplayView">Order by Item Number</a>
-				</li>
-				<li>
-					<a href="/RequisitionListDisplayView?langId=-1&amp;storeId=11301&amp;catalogId=11701">Shopping Lists</a>
-				</li>
-				<li>
-					<a href="/580presentation.html">Ordering</a>
-				</li>
-			</ul>
-		</div>
-		<div class="footer-column">
-			<ul>
-				<li class="column-header">
-					<a href="/customer-service.html#ordering-and-delivery">
-					<h2>Delivery Information</h2></a>
-				</li>
-				<li>
-					<a href="/customer-service.html#requirements">Delivery Requirements</a>
-				</li>
-				<li>
-					<a href="/customer-service.html#hours">Hours &amp; Lead Time</a>
-				</li>
-				<li>
-					<a href="/customer-service.html#holidays">Holidays</a>
-				</li>
-				<li>
-					<a href="/customer-service.html#areas">Delivery Area</a>
-				</li>
-			</ul>
-		</div>
-		<div class="footer-column">
-			<ul>
-				<li class="column-header">
-					<h2>Savings</h2>
-				</li>
-				<li>
-					<a href="http://www.costcobusinessdelivery.com/CatalogSearch?storeId=11301&amp;catalogId=11701&amp;langId=-1&amp;keyword=Instant+Savings">Delivery Instant Savings</a>
-				</li>
-				<li>
-					<a href="http://www.costcobusinesssavings.com" target="blank">Warehouse Instant Savings</a>
-				</li>
-			</ul>
-			<div>
-				<form action="EmailSubscription" class="validate" id="footer_emailSignup" name="footer_emailSignup">
-                    <ul>
-                        <li class="column-header">
-                            <h2>Join Our Community</h2>
-                        </li>
-                        <li>
-                            <b>Sign Up for Offers &amp; Savings from Costco Business Delivery</b></li>
-                        <li>
-                            <label for="footer_emailSignUpEmail" class="hidden">
+            </li>
+            <li>
+                <a href="/costco-cash-card" target="_blank">Costco Cash Card Balance</a>
+            </li>
+        </ul>
+        <ul>
+            <li class="column-header">
+                <h2>Contact Us</h2>
+            </li>
+            <li>1-800-788-9968</li>
+            <li>
+                <a href="https://customerservice.costco.com/app/ask" target="_blank">Email</a>
+            </li>
+        </ul>
+    </div>
+    <div class="footer-column">
+        <ul>
+            <li class="column-header">
+                <a href="/customer-service.html#ordering-and-delivery">
+                    <h2>Ordering Information</h2>
+                </a>
+            </li>
+            <li>
+                <a href="/customer-service.html#order">Order Hours</a>
+            </li>
+            <li>
+                <a href="/customer-service.html#changes">Changes &amp; Cancellations</a>
+            </li>
+            <li>
+                <a href="/customer-service.html#payment">Payment</a>
+            </li>
+            <li>
+                <a href="/customer-service.html#pricing">Pricing</a>
+            </li>
+            <li>
+                <a href="/OrderByItemsDisplayView">Order by Item Number</a>
+            </li>
+            <li>
+                <a href="/RequisitionListDisplayView?langId=-1&amp;storeId=11301&amp;catalogId=11701">Shopping Lists</a>
+            </li>
+            
+        </ul>
+    </div>
+    <div class="footer-column">
+        <ul>
+            <li class="column-header">
+                <a href="/customer-service.html#ordering-and-delivery">
+                    <h2>Delivery Information</h2>
+                </a>
+            </li>
+            <li>
+                <a href="/customer-service.html#requirements">Delivery Requirements</a>
+            </li>
+            <li>
+                <a href="/customer-service.html#hours">Hours &amp; Lead Time</a>
+            </li>
+            <li>
+                <a href="/customer-service.html#holidays">Holidays</a>
+            </li>
+            <li>
+                <a href="/customer-service.html#areas">Delivery Area</a>
+            </li>
+        </ul>
+    </div>
+    <div class="footer-column">
+        <ul>
+            <li class="column-header">
+                <h2>Savings</h2>
+            </li>
+            <li>
+                <a href="/CatalogSearch?storeId=11301&amp;catalogId=11701&amp;langId=-1&amp;keyword=Instant+Savings">All Online Savings</a>
+            </li>
+            <li>
+                <a href="/savingsevent.html" target="blank">Savings Event</a>
+            </li>
+        </ul>
+        <div>
+            <form action="EmailSubscription" class="validate" id="footer_emailSignup" name="footer_emailSignup">
+                <ul>
+                    <li class="column-header">
+                        <h2>Join Our Community</h2>
+                    </li>
+                    <li>
+                        <b>Sign Up for Offers &amp; Savings from Costco Business Delivery</b></li>
+                    <li><div>
+                        <label for="footer_emailSignUpEmail" class="hidden">
                                 Enter your email address and begin recieving email notifications
                             </label>
-                            <input id="footer_emailSignUpEmail" name="emailSignUp" style="display:block;" type="text" class="validationError">
-                        </li>
-                        <li style="margin-top: 5px;">
-                            <button class="submit costco-button" type="submit">
+                        <input id="footer_emailSignUpEmail" name="emailSignUp" style="display:block;" type="text" class="validationError">
+                    </div></li>
+                    <li style="margin-top: 5px;">
+                        <button class="submit costco-button" type="submit">
                                 <span class="s1">
                                     <span class="s2">Sign up</span>
                                 </span>
-                            </button>
-                        </li>
-                    </ul>
-                </form>
-			</div>
-		</div>
-		<div style="width:100%; text-align:center; font-size: 12px; clear:left;">
-			© 2017 Costco Wholesale Corporation All rights reserved.
-		</div>
-	</div>
-	<script>
-	;(function() {
-	   var whsCookie = $.cookie('WC_BD_WHS'),
-	       whsArray = [].slice.call(arguments);
-	   whsArray.forEach(function(whs) {
-	       if (whs == whsCookie) {
-	           var elem = $('#category-navigation-categories [name=Tobacco]'),
-	               interval = setInterval(function() {
-	                   if (elem.data('events') && elem.data('events').mouseout) {
-	                       elem.unbind('hover').hover(function(){
-	                           $("#category-navigation-categories li").removeClass("active");
-	                           $(this).parent().addClass('active');
-	                           $("#category-navigation-flyout").hide();
-	                       });
-	                       clearInterval(interval);
-	                   }
-	               }, 100);
-	       }
-	   });
-	})(113,580);
-
-
-	</script> <!-- Warehouse Location Cookie Splice -->
-	<script>
-
-	 function getCookieValue (name) {
-	 var cookies = document.cookie;
-	 var start = cookies.slice(cookies.indexOf(name));
-	 var cookie = start.slice(0, start.indexOf(';'));
-	 var value = cookie.split('=')[1];
-
-	 return value;
-	}
-
-	var el = document.querySelector('.cookie2');
-	el.innerHTML = getCookieValue('WC_BD_WHS');
-
-	</script> <!-- BD Site Footer -->
-
-                        </li>
-                    
-			</ul>
-		</div>
-	
+                            </button></li></ul></form></div>
+                    </div></div></li>
+                </ul>
+            
+        </div>
+    </div>
+    <div style="width:100%; text-align:center; font-size: 12px; clear:left;">
+        © 2017 Costco Wholesale Corporation All rights reserved.
+    </div>
 </div>
+
+<!-- BEGIN BANDAID FOOTER CODE -->
+<script>
+if ($(".product-image")[0]){ //Check if any products are on page
+	document.getElementById("notavailablemsg").style.display = "none"; //If yes, hide message
+	document.getElementById("submsg").style.display = "none";
+} else {
+   document.getElementById("notavailablemsg").style.display = "block"; //If no, show message
+	document.getElementById("submsg").style.display = "block";
+}
+</script>
+
+<!-- END BANDAID FOOTER CODE -->
+<!-- Clears UPS Cookie--> 		
+<script> if ($.cookie('WC_BD_WHS') == "580-UPS") { $.cookie('WC_BD_WHS', null, {path:'/'}); $.cookie('WC_BD_ZIP', null, {path:'/'}); } </script>
+
+<script>
+    ; (function () {
+        var whsCookie = $.cookie('WC_BD_WHS'),
+            whsArray = [].slice.call(arguments);
+        whsArray.forEach(function (whs) {
+            if (whs == whsCookie) {
+                var elem = $('#category-navigation-categories [name=Tobacco]'),
+                    interval = setInterval(function () {
+                        if (elem.data('events') && elem.data('events').mouseout) {
+                            elem.unbind('hover').hover(function () {
+                                $("#category-navigation-categories li").removeClass("active");
+                                $(this).parent().addClass('active');
+                                $("#category-navigation-flyout").hide();
+                            });
+                            clearInterval(interval);
+                        }
+                    }, 100);
+            }
+        });
+    })(113, 580);
+</script>
+<!-- Warehouse Location Cookie Splice -->
+<script>
+    function getCookieValue(name) {
+        var cookies = document.cookie;
+        var start = cookies.slice(cookies.indexOf(name));
+        var cookie = start.slice(0, start.indexOf(';'));
+        var value = cookie.split('=')[1];
+
+        return value;
+    }
+
+    var el = document.querySelector('.cookie2');
+    el.innerHTML = getCookieValue('WC_BD_WHS');
+</script>
+
+
+
+
+
+<script>
+$('.carousel-wrap ul li').shuffle();
+
+jQuery.fn.shuffle = function () {
+    var j;
+    for (var i = 0; i < this.length; i++) {
+        j = Math.floor(Math.random() * this.length);
+        $(this[i]).before($(this[j]));
+    }
+    return this;
+};
+</script>
+
+
+<!-- End BD Site Footer -->
+                        
+                    
+			
+		
+	
+
 
 <!-- END ContentAreaESpot.jsp -->
-</div>
+
  
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery-ui-1.10.1.custom.min.js"></script>
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery.tmpl.min.js"></script>
@@ -1188,20 +1335,21 @@ Certification</a>
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery.placeholder.js"></script>
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery.truncator.js"></script>
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery.truncate.js"></script>
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery.validate.js"></script>
+<script type="text/javascript" src="/wcsstore/RWDStaticAssets/js/jquery.validate.js?v=30312530"></script>
 
-    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/costco.js?v=30295210"></script>
-    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/productCompare.js?v=30295210"></script>
-    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/categoryNavigation.js?v=30295210"></script>
-    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/ezColumns.js?v=30295210"></script>
-    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/carousel.js?v=30295210"></script>
-    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/json2.js?v=30295210"></script>
-    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/forms.js?v=30295210"></script>
-    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/member.js?v=30295210"></script>
 
-    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/bd.costco.js?v=30295210"></script>
+    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/costco.js?v=30312530"></script>
+    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/productCompare.js?v=30312530"></script>
+    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/categoryNavigation.js?v=30312530"></script>
+    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/ezColumns.js?v=30312530"></script>
+    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/carousel.js?v=30312530"></script>
+    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/json2.js?v=30312530"></script>
+    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/forms.js?v=30312530"></script>
+    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/member.js?v=30312530"></script>
 
-        <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/catalog.js?v=30295210"></script>
+    <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/bd.costco.js?v=30312530"></script>
+
+        <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/catalog.js?v=30312530"></script>
     <!-- END FooterDisplay.jspf --><!--[if lt IE 9]>
 <script>
 $(window).load(function() {
