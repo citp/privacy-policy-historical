@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the internetworldstats.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120192759id_/http%3A//www.internetworldstats.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetworldstats.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120003135id_/http%3A//www.internetworldstats.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimers - Internet World Stats
 
-> **6 - LINKS TO OTHER MATERIALS**
+> **6 - LINKS TO OTHER WEBSITES**
 > 
 > Third party sites linked to and from the Site are not necessarily under the control of Miniwatts. Miniwatts shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. Miniwatts does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk.
 > 
