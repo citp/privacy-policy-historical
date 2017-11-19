@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the poz.com privacy policy that was archived on 2017-01-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170126143924id_/https%3A//www.poz.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the poz.com privacy policy that was archived on 2017-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119172435id_/https%3A//www.poz.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
@@ -8,8 +8,12 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width; initial-scale = 1.0; maximum-scale=1.0; user-scalable=no">
-      <link rel="canonical" href="https://www.poz.com/page/privacy-policy">
-
+              <meta property="fb:pages" content="10766391539">
+        <meta property="fb:app_id" content="141280903568">
+          
+  
+            <link rel="canonical" href="https://www.poz.com/page/privacy-policy">
+    
     <meta name="title" content="POZ.com Privacy Policy">
     <meta name="description" content="POZ.com Privacy Policy">
     <meta name="keywords" content="">
@@ -30,8 +34,8 @@
     <meta name="twitter:title" content="POZ.com Privacy Policy">
     <meta name="twitter:description" content="POZ.com Privacy Policy">
 
-          <meta name="twitter:image:src" content="https://www.poz.com/images/og-image.png">
-    
+                  <meta name="twitter:image:src" content="https://www.poz.com/images/og-image.png">
+          
     <meta name="twitter:domain" content="https://www.poz.com/">
   
   <link rel="apple-touch-icon" href="/images/favicon/apple-icon-touch.png">
@@ -41,13 +45,17 @@
   <![endif]-->
   <meta name="msapplication-TileColor" content="#000">
   <meta name="msapplication-TileImage" content="/images/favicon/win8-tile-icon.png">
-  <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="/css/style.css">
-  <link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="/css/main.css?v=1.02">
+
+      
+  <link rel="stylesheet" href="/build/css/app.min-e901997ef9.css">
+
+          <link rel="stylesheet" type="text/css" href="/js/vendor/multiple-select/multiple-select.css">
+    
+  <link rel="stylesheet" href="/build/css/main.min-9c9fd3d0e1.css">
 
   
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
+
+  <script async="" src="//web.archive.org/web/20180401112602/https://www.google-analytics.com/analytics.js"></script><script src="https://web.archive.org/web/20180401112602/https://connect.facebook.net/signals/config/189321144817494?v=2.8.12&amp;r=stable" async=""></script><script async="" src="https://web.archive.org/web/20180401112602/https://connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//web.archive.org/web/20180401112602/https://connect.facebook.net/en_US/sdk.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
 
   <script type="text/javascript">
   var author     = false;
@@ -118,10 +126,14 @@
         var stylesheet = document.styleSheets[0],
           selector = 'body > div:last-child', rule = "{ transform: scale(0.42); transform-origin: top left 0; width: "+ parseInt($(window).width()) * 2.38 +"px !important; height: "+ parseInt($(window).height()) * 2.38 +"px !important;  }";
 
-        if (stylesheet.insertRule) {
-          stylesheet.insertRule(selector + rule, stylesheet.cssRules.length);
-        } else if (stylesheet.addRule) {
-          stylesheet.addRule(selector, rule, -1);
+        try {
+          if (stylesheet.insertRule) {
+            stylesheet.insertRule(selector + rule, stylesheet.cssRules.length);
+          } else if (stylesheet.addRule) {
+            stylesheet.addRule(selector, rule, -1);
+          }
+        } catch(e) {
+          console.error(e);
         }
       }
     }
@@ -138,16 +150,118 @@
 
   <!-- OpenX header script -->
   <script type="text/javascript" src="//cdm-d.openx.net/w/1.0/jstag"></script>
-  <!-- end generated tag -->
-  <script type="text/javascript" src="/js/ad_responsive.js"></script>
-  <script type="text/javascript">
-    setOX("537066120", "", "normal");
-    var header_auid   = 538187993;
-    var sidebar1_auid = 538187995;
-    var sidebar2_auid = 538187996;
-    var mid_auid      = 538187994;
+      <script type="text/javascript">
+      // normal sync ad
+    
+      var page_auid = 537066120;
 
-    var lazyload_pgid = 537066121;
+      var header_auid   = 538187993;
+      var sidebar1_auid = 538187995;
+      var sidebar2_auid = 538187996;
+      var mid_auid      = 538187994;
+
+      var lazyload_pgid = 537066121;
+
+      // updated async ad
+      if (typeof OX == 'function') {
+          var MyOpenXAsync = OX();
+          MyOpenXAsync.addPage(page_auid);
+          setExtraOpenXVariables(MyOpenXAsync);
+          MyOpenXAsync.addVariable("viewport", getScreen());
+
+          MyOpenXAsync.fetchAds();
+
+//          if ($('#ad_top_landing').length) {
+//              MyOpenXAsync.setAdUnitSlotId(header_auid,"ad_top_landing");
+//          }
+//          if ($('#ad_middle_landing').length) {
+//              MyOpenXAsync.setAdUnitSlotId(mid_auid,"ad_middle_landing");
+//          }
+//          if ($('#ad_sidebar1_landing').length) {
+//              MyOpenXAsync.setAdUnitSlotId(sidebar1_auid,"ad_sidebar1_landing");
+//          }
+//          if ($('#ad_sidebar2_landing').length) {
+//              MyOpenXAsync.setAdUnitSlotId(sidebar2_auid,"ad_sidebar2_landing");
+//          }
+//          MyOpenXAsync.load();
+
+//          setTimeout(function() {
+//              fixIframeAdv();
+//              setTimeout(function() { fixIframeAdv(); }, 1500);
+//          }, 500);
+      }
+
+    var ad_campaign = "normal";
+    var campaign_bk_wallpaper = "ad-sample/gilead_dots.jpg";
+    var campaign_bk_color = "#6bb1d3";
+
+    function setExtraOpenXVariables(MyOpenX) {
+        //if (tags) { MyOpenX.addVariable("tags", tags); }
+        if (author) { MyOpenX.addVariable("authors", author); }
+        console.log("authors="+author);
+        if (categories) { MyOpenX.addVariable("categories", categories); }
+        console.log("categories="+categories);
+
+        var tagsOverloaded = tags ? tags : '';
+        tagsOverloaded += author ? (tagsOverloaded ? ',' : '') + author : '';
+        tagsOverloaded += categories ? (tagsOverloaded ? ',' : '') + categories : '';
+        if (tagsOverloaded) { MyOpenX.addVariable("tags", tagsOverloaded); }
+        console.log("tags="+tagsOverloaded);
+    }
+
+    // Set styles specifically for campaigns. This function is subject to change customized to the needs for each campaign.
+    function setCampaignStyles() {
+        $("#main-sub-container").css( "background-color", "#FFFFFF" );
+        document.body.style.backgroundColor = campaign_bk_color;
+        document.body.style.backgroundImage = "url("+campaign_bk_wallpaper+")";
+    }
+
+    // Requires jQuery
+    function getScreenWidth() {
+        return $(window).width();
+    } //end getScreenWidth
+
+    function getScreen() {
+        if (getScreenWidth() >= 1350) {
+            return 'Desktop';
+        } else if(getScreenWidth() > 1024) {
+            return 'Desktop';
+        } else if(getScreenWidth() >= 800) {
+            return 'TabletLandscape';
+        } else if(getScreenWidth() <= 480) {
+            return 'Mobile';
+        } else {
+            return 'TabletPortrait';
+        }
+    } // end getScreen()
+
+//    function loadAd(uaid) {
+//        return false;
+//    }
+
+    function loadAd(auid) {
+        console.log('auid='+auid);
+
+        if (typeof OX !== "function"){
+          return false;
+        }
+
+        auid = typeof auid !== 'undefined' ? auid : '';
+
+        // for billboard campaign
+        // setCampaignStyles();
+
+        // for MyOpenX showAdUnit()
+        //          random = Math.floor((Math.random() * 99999) + 1);
+
+        //document.write("<span>"+getScreen()+" Ad</span>");
+        MyOpenXAsync.showAdUnit(auid);
+
+        //          setTimeout(function(){ fixIframeAdv(); }, 500);
+        // setTimeout(function(){ fixIframeAdv(); }, 1000);
+
+    }
+
   </script>
 
 
@@ -158,6 +272,8 @@
 
   .header,
   .comments-container,
+  .tall-image,
+  .tall-image:hover,
   .card-small .card:hover,
   .card-small .card:hover hr,
   img.border-bottom,
@@ -165,6 +281,7 @@
   .navigation ul.nav li:hover {
     border-color: #f48a31;
   }
+  #logged-bar,
   .box::before {
     background-color: #f48a31;
   }
@@ -178,11 +295,24 @@
   .widget-footer a:hover,
   .meta span a:hover,
   .categories-title,
+  .catalog-page .list-magazines.bottom-items .magazine:hover .sub-link,
+  .catalog-page .list-magazines.bottom-items .sub-link:hover,
   .card .author-bio .author-name {
     color: #f48a31;
   }
   .sep {
     color: #f48a31 !important;
+  }
+  .catalog-page .list-magazines .magazine.selected .cover,
+  .catalog-page .list-magazines .magazine.selected img {
+    border-color: #f48a31;
+  }
+  .catalog-page .list-magazines .magazine.selected:after {
+    background-color: #f48a31;
+  }
+  .catalog-page .list-magazines .magazine.selected a,
+  .catalog-page .list-magazines .magazine.selected a.sub-link {
+    color: #f48a31;
   }
 
 
@@ -212,6 +342,9 @@
     font-family: "tradegothiclt" !important;
     font-weight: bold;
   }
+
+  .provider-detail-page .form-group a,
+  .form-group a.normal,
   html, body
   {
     color: #363636;
@@ -245,7 +378,8 @@
   .meta span a,
   .meta span,
   .dropdown-submenu .subnavbar-title,
-  .navigation .teaser a {
+  .navigation .teaser a,
+  .directory-search-result .items-list ul .item-description span {
     color: #828282;
   }
 
@@ -254,6 +388,7 @@
     color: #363636;
   }
 
+  .directory-search-result .items-list ul a .item-description,
   .content-block .media-body a p {
     color: #363636;
     line-height: 18px;
@@ -320,6 +455,7 @@
     font-size: 14px;
     padding: 0 0 2px 0;
     display: block; }
+  .form-group a.normal:hover,
   .back a:hover {
     color: #f48a31; }
   .back .title-back {
@@ -423,6 +559,16 @@
 
   .page-nav ul li a:hover {
     background-color: #f48a31;
+  }
+  #app-provider-register .page-nav ul li.current a:hover {
+    background-color: #eee;
+  }
+  #app-provider-register .page-nav ul li.current a:hover > .name {
+      color: #363636;
+  }
+  #app-provider-register .page-nav ul li.current a:hover > .title {
+      color: #000;
+      opacity: 0.28;
   }
 
   .page-nav ul li.prev a:hover {
@@ -638,23 +784,27 @@
   .widget-video-title:hover {
     color: #f48a31 !important;
   }
+
+  .checkout-proceed-button {
+    background-color: #f48a31;
+  }
 </style>
   <script>
     window.fbAsyncInit = function() {
       FB.init({
-        appId      : '843428339069062',
+        appId      : '141280903568',
         xfbml      : true,
         version    : 'v2.4'
       });
     };
 
-    (function(d, s, id){
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) {return;}
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
+//    (function(d, s, id){
+//      var js, fjs = d.getElementsByTagName(s)[0];
+//      if (d.getElementById(id)) {return;}
+//      js = d.createElement(s); js.id = id;
+//      js.src = "//connect.facebook.net/en_US/sdk.js";
+//      fjs.parentNode.insertBefore(js, fjs);
+//    }(document, 'script', 'facebook-jssdk'));
 
     var globalToken = '';
     var AD_BLOCK_ON = false;
@@ -663,39 +813,66 @@
     var AD_BLOCK_WHITELIST = '';
     var AD_BLOCK_VEIWPORTS = '';
 
+    var forceLogOutRequired = false;
+    var forcePageReload = false;
   </script>
 
   <script src="https://www.google.com/recaptcha/api.js"></script>
 
-</head>
+  
+    <!-- Facebook Pixel Code -->
+    <script>
+//        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
+//        {n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+//
+//        ;if(!f._fbq)f._fbq=n;
+//            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+//            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+//          document,'script','https://connect.facebook.net/en_US/fbevents.js');
+//        fbq('init', '189321144817494'); // Insert your pixel ID here.
+//        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=189321144817494&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+
+    
+<style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_customer_chat_bounce_in{animation-duration:250ms;animation-name:fb_bounce_in}.fb_customer_chat_bounce_out{animation-duration:250ms;animation-name:fb_fade_out}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}.fb_mobile_overlay_active{background-color:#fff;height:100%;overflow:hidden;position:fixed;visibility:hidden;width:100%}@keyframes fb_fade_out{from{opacity:1}to{opacity:0}}@keyframes fb_bounce_in{0%{opacity:0;transform:scale(.8, .8);transform-origin:100% 100%}10%{opacity:.1}20%{opacity:.2}30%{opacity:.3}40%{opacity:.4}50%{opacity:.5}60%{opacity:.6}70%{opacity:.7}80%{opacity:.8;transform:scale(1.03, 1.03)}90{opacity:.9}100%{opacity:1;transform:scale(1, 1)}}</style></head>
 
   <body class="single sidebar-widget">
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=382781588559100";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script>
-
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/FdM1l_dpErI.js?version=42#channel=f1a88ccb9b1ea8c&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
+                      
 
 <div class="overflow-div">
 
 <div class="overlay"> </div>
+
 <header class="navbar header navbar-fixed-top">
+
+  <div id="logged-bar" class="hidden">
+  You are currently logged into <br class="visible-xs">
+    <a href="/directory">POZ Directory</a> -
+  <a href="/account">My Account</a>
+  or
+  <a href="javascript:void(0)" class="logout-link" data-redirect="/">Log Out</a>
+</div>
   <div class="remove-menu"> </div>
   <div class="container text-center">
 
     <div class="logo">
       <a href="/">
         
-                      <img class="img-responsive img-logo img-logo-mobile visible-xs" src="https://cdm-dam.s3-us-west-1.amazonaws.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" alt="POZ">
+                      <img class="img-responsive img-logo img-logo-mobile visible-xs" src="https://cdn.poz.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" srcset="https://cdn.poz.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" alt="POZ">
           
           
           <img class="img-responsive img-logo
                not-wide-logo
-               hidden-xs" style="" src="https://cdm-dam.s3-us-west-1.amazonaws.com/16406_POZ-Logo-trademark-web.png_f55df8f3-f678-4e45-9800-ceeb8fc3519d.png" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/16406_POZ-Logo-trademark-web.png_f55df8f3-f678-4e45-9800-ceeb8fc3519d.png" alt="POZ">
+               hidden-xs" style="" src="https://cdn.poz.com/16406_POZ-Logo-trademark-web.png_f55df8f3-f678-4e45-9800-ceeb8fc3519d.png" srcset="https://cdn.poz.com/16406_POZ-Logo-trademark-web.png_f55df8f3-f678-4e45-9800-ceeb8fc3519d.png" alt="POZ">
 
               </a>
     </div>
@@ -743,7 +920,7 @@
     <div class="logo">
       <a class="navbar-brand" href="/">
         <picture>
-          <img class="img-responsive" src="https://cdm-dam.s3-us-west-1.amazonaws.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" alt="Logo">
+          <img class="img-responsive" src="https://cdn.poz.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" srcset="https://cdn.poz.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" alt="Logo">
         </picture>
       </a>
     </div>
@@ -785,15 +962,15 @@
   <div class="container main-container">
   <div class="clearfix ">
     <div class="col-md-2 column navigation-container">
-  <div class="side-menu" style="height: 668px;">
-    <div id="in-side-menu" class="in-side-menu" style="height: 768px;">
+  <div class="side-menu">
+    <div id="in-side-menu" class="in-side-menu">
       <nav class="navigation clearfix" role="navigation">
         <ul class="nav nav-stacked">
                                                     <li><a href="/">Home</a></li>
                                                         <li class="dropdown-submenu">
-                  <a class="has-sub" href="/basics/hiv-basics" onclick="">Basics</a>
+                  <a class="has-sub" href="/basics/hiv-basics">Basics</a>
 
-                                      <div class="dropdown-menu" style="height: 680px;">
+                                      <div class="dropdown-menu">
                       <div class="back-menu visible-xs"></div>
                         <ul class="list-unstyled with-top-elem">
                         <li class="visible-xs"><a href="/basics/hiv-basics">Basics</a></li>
@@ -812,29 +989,30 @@
                     <!-- .dropdown-menu -->
                                   </li>
                                                           <li class="dropdown-submenu">
-                  <a class="has-sub" href="/category/newsfeed" onclick="">News</a>
+                  <a class="has-sub" href="/category/newsfeed">News</a>
 
-                                      <div class="dropdown-menu" style="height: 680px;">
+                                      <div class="dropdown-menu">
                       <div class="back-menu visible-xs"></div>
                         <ul class="list-unstyled with-top-elem">
                         <li class="visible-xs"><a href="/category/newsfeed">News</a></li>
                                                   <li class="nav-pl"><a href="/category/newsfeed">Newsfeed</a></li>
                                                   <li class="nav-pl"><a href="/category/treatment-news">Treatment News</a></li>
-                                                  <li class="nav-pl"><a href="/category/exclusives">Exclusives</a></li>
+                                                  <li class="nav-pl"><a href="/category/features">Features</a></li>
                                                   <li class="nav-pl"><a href="/category/opinions">Opinions</a></li>
                                                   <li class="nav-pl"><a href="/page/conferences">Conferences</a></li>
+                                                  <li class="nav-pl"><a href="/slideshows">Slideshows</a></li>
+                                                  <li class="nav-pl"><a href="/tag/videos">Videos</a></li>
                                                   <li class="nav-pl"><a href="/category/poz-stories">POZ Stories</a></li>
                                                   <li class="nav-pl"><a href="/page/poz-100">POZ 100</a></li>
-                                                  <li class="nav-pl"><a href="/videos">POZ TV</a></li>
                                                   <li class="nav-pl"><a href="/page/rss-links">RSS Links</a></li>
                                               </ul>
                     </div>
                     <!-- .dropdown-menu -->
                                   </li>
                                                           <li class="dropdown-submenu">
-                  <a class="has-sub" href="/category/newsfeed" onclick="">Hot Topics</a>
+                  <a class="has-sub" href="/category/newsfeed">Hot Topics</a>
 
-                                      <div class="dropdown-menu" style="height: 680px;">
+                                      <div class="dropdown-menu">
                       <div class="back-menu visible-xs"></div>
                         <ul class="list-unstyled with-top-elem">
                         <li class="visible-xs"><a href="/category/newsfeed">Hot Topics</a></li>
@@ -853,25 +1031,25 @@
                     <!-- .dropdown-menu -->
                                   </li>
                                                           <li class="dropdown-submenu">
-                  <a class="has-sub" href="/magazines" onclick="">Magazine</a>
+                  <a class="has-sub" href="/magazines">Magazine</a>
 
-                                      <div class="dropdown-menu" style="height: 680px;">
+                                      <div class="dropdown-menu">
                       <div class="back-menu visible-xs"></div>
                         <ul class="list-unstyled with-top-elem">
                         <li class="visible-xs"><a href="/magazines">Magazine</a></li>
-                                                  <li class="nav-pl"><a href="/magazine/poz-januaryfebruary-2017">Current Issue</a></li>
+                                                  <li class="nav-pl"><a href="/magazine/poz-december-2017">Current Issue</a></li>
                                                   <li class="nav-pl"><a href="/magazines">Archives</a></li>
                                                   <li class="nav-pl"><a href="https://issuu.com/smartandstrong">Digital Editions</a></li>
                                                   <li class="nav-pl"><a href="/page/poz-focus">POZ Focus</a></li>
-                                                  <li class="nav-pl"><a href="http://order.poz.com/">Subscriptions</a></li>
+                                                  <li class="nav-pl"><a href="/directory/catalog/poz-bulk-subscriptions">Subscriptions</a></li>
                                               </ul>
                     </div>
                     <!-- .dropdown-menu -->
                                   </li>
                                                           <li class="dropdown-submenu">
-                  <a class="has-sub" href="/blogs" onclick="">Blogs</a>
+                  <a class="has-sub" href="/blogs">Blogs</a>
 
-                                      <div class="dropdown-menu" style="height: 680px;">
+                                      <div class="dropdown-menu">
                       <div class="back-menu visible-xs"></div>
                         <ul class="list-unstyled with-top-elem">
                         <li class="visible-xs"><a href="/blogs">Blogs</a></li>
@@ -883,21 +1061,23 @@
                     <!-- .dropdown-menu -->
                                   </li>
                                                           <li class="dropdown-submenu">
-                  <a class="has-sub" href="http://forums.poz.com" onclick="">Community</a>
+                  <a class="has-sub" href="https://forums.poz.com">Community</a>
 
-                                      <div class="dropdown-menu" style="height: 680px;">
+                                      <div class="dropdown-menu">
                       <div class="back-menu visible-xs"></div>
                         <ul class="list-unstyled with-top-elem">
-                        <li class="visible-xs"><a href="http://forums.poz.com">Community</a></li>
-                                                  <li class="nav-pl"><a href="http://personals.poz.com">POZ Personals</a></li>
+                        <li class="visible-xs"><a href="https://forums.poz.com">Community</a></li>
+                                                  <li class="nav-pl"><a href="https://personals.poz.com">POZ Personals</a></li>
                                                   <li class="nav-pl"><a href="/tag/poz-awards">POZ Awards</a></li>
                                                   <li class="nav-pl"><a href="/category/poz-stories">POZ Stories</a></li>
                                                   <li class="nav-pl"><a href="/page/poz-100">POZ 100</a></li>
-                                                  <li class="nav-pl"><a href="http://forums.poz.com">Forums</a></li>
+                                                  <li class="nav-pl"><a href="/magazine/aids-is-everyday">AIDS Is Everyday </a></li>
+                                                  <li class="nav-pl"><a href="https://forums.poz.com">Forums</a></li>
                                                   <li class="nav-pl"><a href="/polls">Polls</a></li>
                                                   <li class="nav-pl"><a href="/surveys">Surveys</a></li>
+                                                  <li class="nav-pl"><a href="/quizzes">Quizzes</a></li>
                                                   <li class="nav-pl"><a href="/category/ask-poz">Ask POZ</a></li>
-                                                  <li class="nav-pl"><a href="http://directory.poz.com">Services Directory</a></li>
+                                                  <li class="nav-pl"><a href="/directory">Services Directory</a></li>
                                                   <li class="nav-pl"><a href="/events">Calendar</a></li>
                                                   <li class="nav-pl"><a href="/jobs">Jobs</a></li>
                                                   <li class="nav-pl"><a href="/magazine/bookstore">Bookstore</a></li>
@@ -906,9 +1086,9 @@
                     <!-- .dropdown-menu -->
                                   </li>
                                                           <li class="dropdown-submenu">
-                  <a class="has-sub" href="/page/about-us" onclick="">About Us</a>
+                  <a class="has-sub" href="/page/about-us">About Us</a>
 
-                                      <div class="dropdown-menu" style="height: 680px;">
+                                      <div class="dropdown-menu">
                       <div class="back-menu visible-xs"></div>
                         <ul class="list-unstyled with-top-elem">
                         <li class="visible-xs"><a href="/page/about-us">About Us</a></li>
@@ -963,18 +1143,26 @@
 <!-- .navigation-container -->
     <div class="col-sm-12 col-md-10 column page-wrapper ">
       
-        <!-- .ad-block -->
+        
           <div class="row clearfix row-content">
       <article class="col-md-8 column content article">
         
           <div id="ad_top" class="ad-block ad-top text-center ">
     <span class="ad-label">Advertisement</span>
-    <script type="text/javascript">
+
+        <script type="text/javascript">
+
+//        MyOpenXAsync.setAdUnitSlotId(header_auid,"ad_top_landing");
+//        MyOpenXAsync.load();
+
+//      if (typeof OX == 'function') { MyOpenXAsync.showAdUnit(header_auid); }
       loadAd(header_auid);
     </script>
-    <noscript><iframe id="ede153ebee" name="ede153ebee" src="//cdm-d.openx.net/w/1.0/afr?auid=538187993&cb=INSERT_RANDOM_NUMBER_HERE" frameBorder="0" frameSpacing="0" scrolling="no"
-                      width="728" height="90"><a href="//cdm-d.openx.net/w/1.0/rc?cs=ede153ebee&cb=INSERT_RANDOM_NUMBER_HERE">
-          <img src="//cdm-d.openx.net/w/1.0/ai?auid=538187993&cs=ede153ebee&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
+
+    
+    <noscript><iframe id="ede153ebee" name="ede153ebee" src="//cdm-d.openx.net/w/1.0/afr?auid=538187993&cb=503502987" frameBorder="0" frameSpacing="0" scrolling="no"
+                      width="728" height="90"><a href="//cdm-d.openx.net/w/1.0/rc?cs=ede153ebee&cb=503502987">
+          <img src="//cdm-d.openx.net/w/1.0/ai?auid=538187993&cs=ede153ebee&cb=503502987" border="0" alt=""></a></iframe>
     </noscript>
 
     <div class="visible-xs ad-space-mobile-fix"></div>
@@ -1079,18 +1267,19 @@
   </div>
 </div><!-- /.modal -->
 
-<script type="text/javascript" src="/js/clipboard.min.js"></script>        <div class="head-page clearfix no-gutter head-page-static">
+<script type="text/javascript" src="/js/clipboard.min.js?v=1.0.1"></script>        <div class="head-page clearfix no-gutter head-page-static">
+
+            
           <div class="entry-title no-meta">
             <h1 class="article-title">POZ.com Privacy Policy</h1>
           </div>
 
                       <div class="clearfix no-gutter">
               <div class="col-xs-8 col-md-6 column social-button">
-                <div class="fb-like" data-href="https://www.poz.com/page/privacy-policy" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                <div class="fb-like fb_iframe_widget" data-href="https://www.poz.com/page/privacy-policy" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=141280903568&amp;container_width=354&amp;href=https%3A%2F%2Fwww.poz.com%2Fpage%2Fprivacy-policy&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;show_faces=true"><span style="vertical-align: top; width: 0px; height: 0px; overflow: hidden;"><iframe name="f17bfa4aac860b" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/v2.4/plugins/like.php?action=like&amp;app_id=141280903568&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FFdM1l_dpErI.js%3Fversion%3D42%23cb%3Df1b41fb621a5aac%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff1a88ccb9b1ea8c%26relation%3Dparent.parent&amp;container_width=354&amp;href=https%3A%2F%2Fwww.poz.com%2Fpage%2Fprivacy-policy&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;show_faces=true" style="border: none; visibility: visible; width: 0px; height: 0px;"></iframe></span></div>
 
                 <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.poz.com/page/privacy-policy" data-via="pozmagazine">Tweet</a>
-                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-              </div>
+                              </div>
               <div class="col-xs-4 col-md-6 text-right">
                 <ul class="list-inline share-actions">
                   <li class="share"> <a href="#" rel="nofollow" data-toggle="modal" data-target="#share"> <i class="icon-share"></i>  <span class="hidden-xs">Share</span></a> </li>
@@ -1102,9 +1291,70 @@
 
         <div class="content-block extended">
           <div class="post-content">
-            <p>CDM Publishing, LLC, D.B.A. as Smart + Strong and POZ ("Smart + Strong" or "POZ") operates the POZ.com Web site.</p>  <p></p>  <p>The privacy of the users of POZ.com is important to POZ.</p>  <p></p>  <p>Please read the following POZ Privacy Policy: <br> <br> This privacy policy governs how POZ treats personally identifiable information (such as your name, e-mail address, physical address, and other information about you that is not publicly available) that POZ receives and collects in connection with your use of the POZ.com Web site and POZ Personals, a dating service for HIV positive people, and other services that POZ may offer, such as, bulletin boards and chat rooms, on POZ.com (the "Service"). POZ may update this policy from time to time by posting a notice of such update on POZ.com or by notifying you directly.</p>  <p></p>  <p>You will need to provide personally identifiable information in order to register for the Service.</p>  <p></p>  <p>Personally identifiable information will be used by POZ only as provided below or for the following purposes: to contact you; to fulfill your requests in connection with the Service or POZ.com, such as for products or services; to match you with another user on POZ Personals; to perform analyses of user behavior in order to measure customer interest in the various areas of POZ.com; or for such purposes as are described at the point of collection. POZ uses list services to send out information and change notices to users. While POZ only uses list services that it believes are responsible, it will not be liable for any breach of security or for any other action by such list services.</p>  <p></p>  <p>POZ does not knowingly collect personally identifiable information from a child under the age of 13.</p>  <p></p>  <p>POZ uses reasonable precautions to keep secure all personally identifiable information that you share with us. However, e-mail is not secure against interception. If your communication is very sensitive, you may want to send it by postal mail instead. If we share demographic information with third parties, we will give them aggregate information only. POZ does not disclose, give, sell, lease or transfer personally identifiable information to third parties, except to provide products or services that you request, with your prior consent, or, in POZ's sole and absolute discretion, as follows: as required by law, such as to respond to subpoenas, or court, administrative, or governmental orders; to protect the rights of POZ; in connection with possible breaches of POZ's terms of use; in connection with claims that the rights of third parties have been violated; or in connection with possible illegal activity, misrepresentation, fraud or harm to any person.</p>  <p></p>  <p>POZ uses "cookies," pieces of data stored on users' hard drives for record keeping purposes. Cookies can make the POZ.com Web site and the Service more useful by storing information about the User's preferences.</p>  <p></p>  <p>If you have questions about this Privacy Policy you can contact us at <a href="mailto:website@poz.com?subject=Question%20about%20POZ%20Privacy%20Policy">website@poz.com</a>.</p>  <p></p>  <p>Effective: March 19, 2008</p>  <p></p>  <p style="text-align: left;" align="center"><a href="http://www.poz.com/page/term-use">Click here to see the POZ.com Terms of Use</a></p>
+            <p>CDM Publishing, LLC, D.B.A. as Smart + Strong and POZ (“Smart + Strong” or “POZ”) operates the POZ.com Web site.</p>  <p></p>  <p>The privacy of the users of POZ.com is important to POZ.</p>  <p></p>  <p>Please read the following POZ Privacy Policy: <br> <br> This privacy policy governs how POZ treats personally identifiable information (such as your name, e-mail address, physical address, and other information about you that is not publicly available) that POZ receives and collects in connection with your use of the POZ.com Web site and POZ Personals, a dating service for HIV positive people, and other services that POZ may offer, such as, bulletin boards and chat rooms, on POZ.com (the “Service”). POZ may update this policy from time to time by posting a notice of such update on POZ.com or by notifying you directly.</p>  <p></p>  <p>You will need to provide personally identifiable information in order to register for the Service.</p>  <p></p>  <p>Personally identifiable information will be used by POZ only as provided below or for the following purposes: to contact you; to fulfill your requests in connection with the Service or POZ.com, such as for products or services; to match you with another user on POZ Personals; to perform analyses of user behavior in order to measure customer interest in the various areas of POZ.com; or for such purposes as are described at the point of collection. POZ uses list services to send out information and change notices to users. While POZ only uses list services that it believes are responsible, it will not be liable for any breach of security or for any other action by such list services.</p>  <p></p>  <p>POZ does not knowingly collect personally identifiable information from a child under the age of 13.</p>  <p></p>  <p>POZ uses reasonable precautions to keep secure all personally identifiable information that you share with us. However, e-mail is not secure against interception. If your communication is very sensitive, you may want to send it by postal mail instead. If we share demographic information with third parties, we will give them aggregate information only. POZ does not disclose, give, sell, lease or transfer personally identifiable information to third parties, except to provide products or services that you request, with your prior consent, or, in POZ’s sole and absolute discretion, as follows: as required by law, such as to respond to subpoenas, or court, administrative, or governmental orders; to protect the rights of POZ; in connection with possible breaches of POZ’s terms of use; in connection with claims that the rights of third parties have been violated; or in connection with possible illegal activity, misrepresentation, fraud or harm to any person.</p>  <p></p>  <p>POZ uses “cookies,” pieces of data stored on users’ hard drives for record keeping purposes. Cookies can make the POZ.com Web site and the Service more useful by storing information about the User’s preferences.</p>  <p></p>  <p>If you have questions about this Privacy Policy you can contact us at <a href="mailto:website@poz.com?subject=Question%20about%20POZ%20Privacy%20Policy">website@poz.com</a>.</p>  <p></p>  <p>Effective: March 19, 2008</p>  <p></p>  <p style="text-align: left;" align="center"><a href="http://www.poz.com/page/term-use">Click here to see the POZ.com Terms of Use</a></p>
 
-            <hr>
+
+                                                                                                                                                                                                                                      
+              
+              
+                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                      
+                                                                      
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                              
+                      
+                                                                                                                              
+                                                                                                                                                                                              
+                                
+
+
+                                                                                                                                                                                                                                      
+              
+              
+                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                      
+                                                                      
+                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                
+                      
+                                                                                                                              
+                                                                                                                                                                                              
+                                
+
+
+
+
+
+
+
+              <hr>
 
                       </div>
           <!-- .content-block -->
@@ -1112,28 +1362,35 @@
           
             <div class="ad-block ad-middle text-center " id="ad-middle-container">
     <span class="ad-label">Advertisement</span>
-    <script type="text/javascript">
+
+        <script type="text/javascript">
+
+//        MyOpenXAsync.setAdUnitSlotId(mid_auid,"ad_middle_landing");
+//        MyOpenXAsync.load();
+
+//      if (typeof OX == 'function') { MyOpenXAsync.showAdUnit(mid_auid); }
       loadAd(mid_auid);
     </script>
 
-    <noscript><iframe id="ede153ebee" name="ede153ebee" src="//cdm-d.openx.net/w/1.0/afr?auid=538187994&cb=INSERT_RANDOM_NUMBER_HERE" frameBorder="0" frameSpacing="0" scrolling="no"
-                      width="728" height="90"><a href="//cdm-d.openx.net/w/1.0/rc?cs=ede153ebee&cb=INSERT_RANDOM_NUMBER_HERE">
-          <img src="//cdm-d.openx.net/w/1.0/ai?auid=538187994&cs=ede153ebee&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
+    
+    <noscript><iframe id="ede153ebee" name="ede153ebee" src="//cdm-d.openx.net/w/1.0/afr?auid=538187994&cb=965377085" frameBorder="0" frameSpacing="0" scrolling="no"
+                      width="728" height="90"><a href="//cdm-d.openx.net/w/1.0/rc?cs=ede153ebee&cb=965377085">
+          <img src="//cdm-d.openx.net/w/1.0/ai?auid=538187994&cs=ede153ebee&cb=965377085" border="0" alt=""></a></iframe>
     </noscript>
+
   </div>
-<!-- .ad-block -->
 
-                              
           
-
-                    <hr>
+          
+            
+          <hr>
                   </div>
         <!-- .post-content -->
       </article>
       <!-- .col-8 -->
 
 
-      <!--googleoff: index-->
+      <!--googleoff: all-->
 
   <div class="extra related">
     <a href="#" class="trigger-sidebar" rel="nofollow" onclick="gaButtonClick('Related-Button')"></a>
@@ -1163,7 +1420,28 @@
 <div class="social-widget-spacing social-widget"><div align="center"><a href="http://personals.poz.com" target="_blank"><img src="https://cdm-dam.s3-us-west-1.amazonaws.com/11439_login-signup.jpg_13e2d0b2-21c1-4f87-ae96-afd941fec571.jpeg"></a></div></div>
 <!-- .box -->
 
-              <div class="tabbable tabs three-tabs box-side" id="tabs-44084">
+              <div class="ad-block ad-side clearfix text-center">
+  <span class="adv-widget">Advertisement</span>
+
+
+    
+        <script type="text/javascript">
+                   loadAd(sidebar1_auid);
+                </script>
+
+  <noscript><iframe id="sidebar1_auid" name="sidebar1_auid" src="//cdm-d.openx.net/w/1.0/afr?auid=538187995&cb=556542807" frameBorder="0" frameSpacing="0" scrolling="no"
+                    width="300" height="250"><a href="//cdm-d.openx.net/w/1.0/rc?cs=sidebar1_auid&cb=556542807">
+        <img src="//cdm-d.openx.net/w/1.0/ai?auid=538187995&cs=sidebar1_auid&cb=556542807" border="0" alt=""></a></iframe>
+  </noscript>
+
+        
+                        
+            
+                                           
+                                                   
+                          
+</div>
+<!-- .ad -->              <div class="tabbable tabs three-tabs box-side" id="tabs-44084">
   <ul class="nav nav-tabs">
     <li class="active">
       <a href="#panel-1" data-toggle="tab">Trending</a>
@@ -1178,29 +1456,29 @@
   <div class="tab-content">
     <div class="tab-pane active" id="panel-1">
       <ul class="list-unstyled latest post-side">
-                <li><a href="/article/HIV-risk-25382-5829" rel="nofollow">Against All Odds: What Are Your Chances of Getting HIV in These Scenarios? </a></li>
-                <li><a href="/article/HPTN-052-transmission-27517-8582" rel="nofollow">New Proof That Passing On HIV While Undetectable Is Very Unlikely </a></li>
-                <li><a href="/article/freddie-mercury-bio-links-rock-star-aids-patient-zero" rel="nofollow">Freddie Mercury Bio Links the Rock Star to AIDS “Patient Zero” </a></li>
-                <li><a href="/article/new-study-finds-hiv-reservoir-may-endure-longer-previously-thought" rel="nofollow">New Study Finds HIV Reservoir May Endure Longer Than Previously Thought </a></li>
-                <li><a href="/article/appeals-court-reverses-30-year-hiv-conviction-of-michael-johnson" rel="nofollow">Appeals Court Reverses 30-Year HIV Conviction of Michael Johnson </a></li>
+                <li><a href="/article/marijuana-affect-people-hiv" rel="nofollow">How Does Marijuana Affect People With HIV? </a></li>
+                <li><a href="/article/mouse-study-reveals-promising-hiv-functional-cure-treatment" rel="nofollow">Mouse Study Reveals Promising HIV Functional Cure Treatment </a></li>
+                <li><a href="/article/michael-johnson-serve-10-years-disclosing-hiv-sex-partners" rel="nofollow">Michael Johnson to Serve 10 Years for Not Disclosing HIV to Sex Partners </a></li>
+                <li><a href="/article/cdc-effectively-no-risk-of-sexual-hiv-transmission-if-undetectable" rel="nofollow">CDC: “Effectively No Risk” of Sexual HIV Transmission if Undetectable </a></li>
+                <li><a href="/article/2017-poz-100-celebrating-women" rel="nofollow">The POZ 100: Celebrating Women </a></li>
               </ul>
     </div>
     <div class="tab-pane" id="panel-2">
       <ul class="list-unstyled latest post-side">
                 <li><a href="/article/prep-fails-gay-man-adhering-daily-truvada-contracts-drugresistant-hiv" rel="nofollow">PrEP Fails in Gay Man Adhering to Daily Truvada, He Contracts Drug-Resistant HIV</a></li>
-                <li><a href="/article/longacting-antibody-successfully-combats-drugresistant-hiv" rel="nofollow">Long-Acting Antibody Successfully Combats Drug-Resistant HIV</a></li>
-                <li><a href="/article/hiv-longterm-survivors-awareness-day-2016" rel="nofollow">HIV Long-Term Survivors Awareness Day 2016</a></li>
-                <li><a href="/article/zero-hiv-transmissions-major-san-francisco-prep-program" rel="nofollow">Zero HIV Transmissions in Major San Francisco PrEP Program</a></li>
-                <li><a href="/article/official-nyc-will-aids-memorial-park" rel="nofollow">It’s Official: NYC Will Have an AIDS Memorial Park</a></li>
+                <li><a href="/article/fda-approves-generic-truvada" rel="nofollow">FDA Approves Generic Truvada for HIV Treatment and PrEP</a></li>
+                <li><a href="/article/nastad-releases-statement-hiv-risk-undetectable" rel="nofollow">NASTAD Releases Statement of HIV Risk When Undetectable</a></li>
+                <li><a href="/article/david-russell" rel="nofollow">Music Industry Insider David Russell on Living With HIV</a></li>
+                <li><a href="/article/8week-longacting-injectable-hiv-treatment-succeeds-moving-advanced-trials" rel="nofollow">8-Week Long-Acting Injectable HIV Treatment Succeeds, is Moving to Advanced Trials</a></li>
               </ul>
     </div>
     <div class="tab-pane" id="panel-3">
       <ul class="list-unstyled latest post-side">
-                <li><a href="/article/unintended-consequences-aids-survival" rel="nofollow">The Unintended Consequences of AIDS Survival</a></li>
-                <li><a href="/article/tv-dating-show-contestant-says-pressured-reveal-hiv-status" rel="nofollow">TV Dating Show Contestant Says He Was Pressured to Reveal HIV Status</a></li>
-                <li><a href="/article/charlie-sheen-says-injectable-hiv-med-no-side-effects" rel="nofollow">Charlie Sheen Says His New Injectable HIV Med Has No Side Effects</a></li>
-                <li><a href="/article/freddie-mercury-bio-links-rock-star-aids-patient-zero" rel="nofollow">Freddie Mercury Bio Links the Rock Star to AIDS “Patient Zero”</a></li>
-                <li><a href="/article/appeals-court-reverses-30-year-hiv-conviction-of-michael-johnson" rel="nofollow">Appeals Court Reverses 30-Year HIV Conviction of Michael Johnson</a></li>
+                <li><a href="/article/marijuana-affect-people-hiv" rel="nofollow">How Does Marijuana Affect People With HIV?</a></li>
+                <li><a href="/article/can-quarantine-people-living-hiv" rel="nofollow">Can We Quarantine People Living With HIV?</a></li>
+                <li><a href="/article/michael-johnson-serve-10-years-disclosing-hiv-sex-partners" rel="nofollow">Michael Johnson to Serve 10 Years for Not Disclosing HIV to Sex Partners</a></li>
+                <li><a href="/article/unpacking-michael-weinsteins-latest-prep-denialism" rel="nofollow">Unpacking Michael Weinstein's Latest PrEP Denialism</a></li>
+                <li><a href="/article/trump-picks-expharma-executive-alex-azar-health-secretary" rel="nofollow">Trump Picks Ex-Pharma CEO Alex Azar as Health Secretary</a></li>
               </ul>
     </div>
 
@@ -1210,13 +1488,23 @@
 </div>
 <!-- .tabs -->              <div class="ad-block ad-side clearfix text-center">
   <span class="adv-widget">Advertisement</span>
-    <script type="text/javascript">
-    loadAd(sidebar1_auid);
-  </script>
-  <noscript><iframe id="sidebar1_auid" name="sidebar1_auid" src="//cdm-d.openx.net/w/1.0/afr?auid=538187995&cb=INSERT_RANDOM_NUMBER_HERE" frameBorder="0" frameSpacing="0" scrolling="no"
-                    width="300" height="250"><a href="//cdm-d.openx.net/w/1.0/rc?cs=sidebar1_auid&cb=INSERT_RANDOM_NUMBER_HERE">
-        <img src="//cdm-d.openx.net/w/1.0/ai?auid=538187995&cs=sidebar1_auid&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
+
+
+            <script type="text/javascript">
+                   loadAd(sidebar2_auid);
+                </script>
+
+  <noscript><iframe id="sidebar2_auid" name="sidebar2_auid" src="https://cdm-d.openx.net/w/1.0/afr?auid=538187996&cb=47729022" frameBorder="0" frameSpacing="0" scrolling="no"
+                    width="300" height="250"><a href="https://cdm-d.openx.net/w/1.0/rc?cs=sidebar2_auid&cb=47729022">
+        <img src="https://cdm-d.openx.net/w/1.0/ai?auid=538187996&cs=sidebar2_auid&cb=47729022" border="0" alt=""></a></iframe>
   </noscript>
+
+                
+                        
+            
+                                           
+                                                   
+                          
 </div>
 <!-- .ad -->              <div class="box box-side">
   <h3 class="section-title text-center">
@@ -1224,20 +1512,20 @@
   </h3>
     <div class="magazine magazine-widget">
     <div class="cover">
-      <a href="/magazine/poz-januaryfebruary-2017" rel="nofollow"><picture>
-          <img class="img-responsive current-issue-img" src="https://cdm-dam.s3-us-west-1.amazonaws.com/23734_cover-POZ-01-0217.jpg_757d7399-74b1-48ff-b5f7-54b1d08272c3.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/23734_cover-POZ-01-0217.jpg_757d7399-74b1-48ff-b5f7-54b1d08272c3.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/23734_cover-POZ-01-0217.jpg_757d7399-74b1-48ff-b5f7-54b1d08272c3_x2.jpeg 2x" alt="Alt text">
+      <a href="/magazine/poz-december-2017" rel="nofollow"><picture>
+          <img class="img-responsive current-issue-img" src="https://cdn2.poz.com/39711_GatefoldCVR-POZ-1217-closed.jpg_e4080468-6ff6-4f4d-baef-81a0d1b1078d.jpeg" srcset="https://cdn2.poz.com/39711_GatefoldCVR-POZ-1217-closed.jpg_e4080468-6ff6-4f4d-baef-81a0d1b1078d.jpeg, https://cdn1.poz.com/39711_GatefoldCVR-POZ-1217-closed.jpg_e4080468-6ff6-4f4d-baef-81a0d1b1078d_x2.jpeg 2x" alt="Alt text">
         </picture></a>
-      <h2 class="h6 name"> <a href="/magazine/poz-januaryfebruary-2017" rel="nofollow">POZ January-February 2017 </a></h2>
+      <h2 class="h6 name"> <a href="/magazine/poz-december-2017" rel="nofollow">POZ December 2017 </a></h2>
     </div>
   </div>
   <!-- .magazine -->
   <ul class="list-unstyled latest post-side">
-        <li><a href="/article/southern-exposure" rel="nofollow">Southern Exposure</a></li>
-        <li><a href="/article/prep-dream-deferred" rel="nofollow">PrEP: A Dream Deferred</a></li>
-        <li><a href="/article/2017-hivaids-awareness-days" rel="nofollow">2017 HIV/AIDS Awareness Days</a></li>
+        <li><a href="/article/2017-poz-100-celebrating-women" rel="nofollow">The POZ 100: Celebrating Women</a></li>
+        <li><a href="/article/2017-poz-100-ac" rel="nofollow">The POZ 100: A-C</a></li>
+        <li><a href="/article/2017-poz-100-dg" rel="nofollow">The POZ 100: D-G</a></li>
       </ul>
   <div class="widget-footer text-center">
-    <a href="/magazine/poz-januaryfebruary-2017" rel="nofollow" class="btn btn-primary">View more  </a>
+    <a href="/magazine/poz-december-2017" rel="nofollow" class="btn btn-primary">View more</a>
   </div>
   </div>
 <!-- .box -->              <div class="box box-side tag-widget-fix-pb">
@@ -1249,65 +1537,83 @@
             <li> <a href="/tag/hiv">#HIV</a> </li>
             <li> <a href="/tag/prevention">#Prevention</a> </li>
             <li> <a href="/tag/aids">#AIDS</a> </li>
-            <li> <a href="/tag/global">#Global</a> </li>
             <li> <a href="/tag/prep">#PrEP</a> </li>
+            <li> <a href="/tag/global">#Global</a> </li>
             <li> <a href="/tag/msm">#MSM</a> </li>
-            <li> <a href="/tag/antiretrovirals">#antiretrovirals</a> </li>
-            <li> <a href="/tag/cdc">#CDC</a> </li>
             <li> <a href="/tag/hepatitis-c">#hepatitis C</a> </li>
-            <li> <a href="/tag/criminalization">#Criminalization</a> </li>
             <li> <a href="/tag/gay">#gay</a> </li>
-            <li> <a href="/tag/treatment">#treatment</a> </li>
-            <li> <a href="/tag/fda">#FDA</a> </li>
-            <li> <a href="/tag/cure">#Cure</a> </li>
-            <li> <a href="/tag/world-aids-day">#World AIDS Day</a> </li>
-            <li> <a href="/tag/women">#Women</a> </li>
             <li> <a href="/tag/advocacy">#Advocacy</a> </li>
-            <li> <a href="/tag/new-york">#New York</a> </li>
-            <li> <a href="/tag/testing">#testing</a> </li>
+            <li> <a href="/tag/antiretrovirals">#antiretrovirals</a> </li>
+            <li> <a href="/tag/criminalization">#Criminalization</a> </li>
+            <li> <a href="/tag/world-aids-day">#World AIDS Day</a> </li>
+            <li> <a href="/tag/cure">#Cure</a> </li>
+            <li> <a href="/tag/celebrities">#Celebrities</a> </li>
+            <li> <a href="/tag/women">#Women</a> </li>
+            <li> <a href="/tag/food-and-drug-administration">#Food and Drug Administration</a> </li>
+            <li> <a href="/tag/transmission">#transmission</a> </li>
+            <li> <a href="/tag/treatment">#treatment</a> </li>
+            <li> <a href="/tag/stigma">#stigma</a> </li>
           </ul>
   </div>
 </div>
-<!-- .box -->              <div class="ad-block ad-side clearfix text-center">
-  <span class="adv-widget">Advertisement</span>
-      <script type="text/javascript">
-    loadAd(sidebar2_auid);
-  </script>
-  <noscript><iframe id="sidebar2_auid" name="sidebar2_auid" src="https://cdm-d.openx.net/w/1.0/afr?auid=538187996&cb=INSERT_RANDOM_NUMBER_HERE" frameBorder="0" frameSpacing="0" scrolling="no"
-                    width="300" height="250"><a href="https://cdm-d.openx.net/w/1.0/rc?cs=sidebar2_auid&cb=INSERT_RANDOM_NUMBER_HERE">
-        <img src="https://cdm-d.openx.net/w/1.0/ai?auid=538187996&cs=sidebar2_auid&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
-  </noscript>
-</div>
-<!-- .ad -->              <div class="box box-side poll-id" data-poll-id="105">
+<!-- .box -->              <div class="box box-side poll-id" data-poll-id="190">
     <h3 class="section-title text-center">
       POZ <span>Poll</span>
     </h3>
           <div class="box-content">
-        <div class="pollText display-none poll-text-template-105" data-attr="pollText">
-          <p><a href="https://www.poz.com/article/many-churches-now-offer-syringe-exchange-harm-reduction-programs">POZ Poll: Have you ever received HIV-related care or support from a church?</a></p>
+        <div class="pollText display-none poll-text-template-190" data-attr="pollText">
+          <p><a href="https://www.poz.com/article/early-hiv-treatment-linked-two-thirds-lower-1year-death-risk">POZ Poll: How long after your HIV diagnosis did you start treatment?</a></p>
         </div>
-        <div data-attr="pollNoResult" class="display-none poll-no-results-template-105">
+        <div data-attr="pollNoResult" class="display-none poll-no-results-template-190">
           <p>Thank you for your participation!</p>
           <p>This is poll is currently not showing results, please visit our poll listing for current or past polls.</p>
         </div>
 
 
-        <form method="post" role="form" class="display-none poll-form-template-105">
+        <form method="post" role="form" class="display-none poll-form-template-190">
           <input type="hidden" name="_token" value="">
-          <input type="hidden" name="poll[poll_id]" value="105">
+          <input type="hidden" name="poll[poll_id]" value="190">
           <input type="hidden" name="poll[show]" value="1">
           <ul class="list-group poll">
                           <li class="list-group-item">
                 <div class="radio">
                   <label>
-                    <div class="iradio"><input class="custom-input" type="radio" name="poll[option_id]" value="289" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"><ins class="iCheck-helper" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"></ins></div> Yes
+                    <input class="custom-input" type="radio" name="poll[option_id]" value="505"> Within 30 days
                   </label>
                 </div>
               </li>
                           <li class="list-group-item">
                 <div class="radio">
                   <label>
-                    <div class="iradio"><input class="custom-input" type="radio" name="poll[option_id]" value="290" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"><ins class="iCheck-helper" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"></ins></div> No
+                    <input class="custom-input" type="radio" name="poll[option_id]" value="506"> Within 31 days and one year
+                  </label>
+                </div>
+              </li>
+                          <li class="list-group-item">
+                <div class="radio">
+                  <label>
+                    <input class="custom-input" type="radio" name="poll[option_id]" value="507"> Within one and five years
+                  </label>
+                </div>
+              </li>
+                          <li class="list-group-item">
+                <div class="radio">
+                  <label>
+                    <input class="custom-input" type="radio" name="poll[option_id]" value="508"> After five years
+                  </label>
+                </div>
+              </li>
+                          <li class="list-group-item">
+                <div class="radio">
+                  <label>
+                    <input class="custom-input" type="radio" name="poll[option_id]" value="509"> I have HIV but am not on treatment
+                  </label>
+                </div>
+              </li>
+                          <li class="list-group-item">
+                <div class="radio">
+                  <label>
+                    <input class="custom-input" type="radio" name="poll[option_id]" value="510"> I do not have HIV
                   </label>
                 </div>
               </li>
@@ -1316,31 +1622,59 @@
           <div class="poll-footer text-center">
             <button type="button" class="btn btn-primary poll_btn">Submit</button>
 
-            <input type="hidden" class="poll-results-105" value="{&quot;289&quot;:{&quot;count&quot;:42,&quot;percent&quot;:14},&quot;290&quot;:{&quot;count&quot;:259,&quot;percent&quot;:86}}">
+            <input type="hidden" class="poll-results-190" value="{&quot;505&quot;:{&quot;count&quot;:217,&quot;percent&quot;:33},&quot;506&quot;:{&quot;count&quot;:127,&quot;percent&quot;:20},&quot;507&quot;:{&quot;count&quot;:119,&quot;percent&quot;:18},&quot;508&quot;:{&quot;count&quot;:114,&quot;percent&quot;:18},&quot;509&quot;:{&quot;count&quot;:11,&quot;percent&quot;:2},&quot;510&quot;:{&quot;count&quot;:63,&quot;percent&quot;:10}}">
           </div>
         </form>
 
-                  <div class="pollResultsTemplate display-none poll-results-template-105">
+                  <div class="pollResultsTemplate display-none poll-results-template-190">
                         <div class="graph-wrapper">
-                              <p class="label-answer">Yes</p>
+                              <p class="label-answer">Within 30 days</p>
                 <div class="bar-container">
-                  <p class="poll-results-percent-105-289">14%</p>
+                  <p class="poll-results-percent-190-505">33%</p>
                   <div class="bar-wrapper">
-                    <div class="bar poll-results-bar-105-289" style="width:14%;"></div>
+                    <div class="bar poll-results-bar-190-505" style="width:33%;"></div>
                   </div>
                 </div>
-                              <p class="label-answer">No</p>
+                              <p class="label-answer">Within 31 days and one year</p>
                 <div class="bar-container">
-                  <p class="poll-results-percent-105-290">86%</p>
+                  <p class="poll-results-percent-190-506">20%</p>
                   <div class="bar-wrapper">
-                    <div class="bar poll-results-bar-105-290" style="width:86%;"></div>
+                    <div class="bar poll-results-bar-190-506" style="width:20%;"></div>
+                  </div>
+                </div>
+                              <p class="label-answer">Within one and five years</p>
+                <div class="bar-container">
+                  <p class="poll-results-percent-190-507">18%</p>
+                  <div class="bar-wrapper">
+                    <div class="bar poll-results-bar-190-507" style="width:18%;"></div>
+                  </div>
+                </div>
+                              <p class="label-answer">After five years</p>
+                <div class="bar-container">
+                  <p class="poll-results-percent-190-508">18%</p>
+                  <div class="bar-wrapper">
+                    <div class="bar poll-results-bar-190-508" style="width:18%;"></div>
+                  </div>
+                </div>
+                              <p class="label-answer">I have HIV but am not on treatment</p>
+                <div class="bar-container">
+                  <p class="poll-results-percent-190-509">2%</p>
+                  <div class="bar-wrapper">
+                    <div class="bar poll-results-bar-190-509" style="width:2%;"></div>
+                  </div>
+                </div>
+                              <p class="label-answer">I do not have HIV</p>
+                <div class="bar-container">
+                  <p class="poll-results-percent-190-510">10%</p>
+                  <div class="bar-wrapper">
+                    <div class="bar poll-results-bar-190-510" style="width:10%;"></div>
                   </div>
                 </div>
                           </div>
             <!-- .graphwrapper -->
           </div>
         
-        <a class="re-vote-btn" data-target="105" href="/poll/hiv-support-church" rel="nofollow" style="display:none">
+        <a class="re-vote-btn" data-target="190" href="/poll/when-start-hiv-treatment" rel="nofollow" style="display:none">
           <button class="btn btn-form" type="button">VOTE AGAIN</button>
         </a>
 
@@ -1355,7 +1689,26 @@
     POZ <span>Survey</span>
   </h3>
   <div class="box-content">
-    <p><a href="/survey/poz-focus-healthy-partnership">POZ Focus - Healthy Partnership</a></p>
+    <p><a href="/survey/the-big-c">The Big C</a></p>
+  </div>
+</div>
+<!-- .box -->              <div class="box box-side">
+  <h3 class="section-title text-center">
+    Service <span>Directory</span>
+  </h3>
+  <div class="box-content text-center">
+
+    <form action="/directory" method="get">
+      <p>Find health resources near you</p>
+
+      <div class="form-group mb-30">
+        <input type="text" name="q" class="form-control search-text-widget" id="search-text-widget" placeholder="Search by City or Zip Code">
+      </div>
+
+      <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+
+
   </div>
 </div>
 <!-- .box -->              <div class="box box-side">
@@ -1364,22 +1717,104 @@
   </h3>
   <ul class="list-unstyled latest post-side">
         <li>
-      <a href="/blog/great-work-begins" rel="nofollow">The Great Work Begins</a>
+      <a href="/blog/hivaids-stigma" rel="nofollow">I Thought the Days of HIV Stigma Were Behind Us…</a>
     </li>
         <li>
-      <a href="/blog/hiv-advocacy-in-the-age-of-trump" rel="nofollow">HIV Advocacy in The Age of Trump</a>
+      <a href="/blog/movements-work-shifting-condoms-hiv-care" rel="nofollow">“Our Movement’s Work Is Shifting From Condoms to HIV Care”</a>
     </li>
         <li>
-      <a href="/blog/chapter-one" rel="nofollow">Chapter One</a>
+      <a href="/blog/hiv-science-breakthrough-took-away-fear-shame" rel="nofollow">How an HIV Science Breakthrough Took Away My Fear and Shame</a>
     </li>
       </ul>
 </div>
-<!-- .box -->              <div class="box box-side social-media-box-fix">
+<!-- .box -->              <div class="tabbable tabs three-tabs box-side" id="tabs-44085">
+  <ul class="nav nav-tabs">
+        <li class="active">
+      <a href="#panel-0-mFnw7" data-toggle="tab">20 Years</a>
+    </li>
+        <li>
+      <a href="#panel-1-mFnw7" data-toggle="tab">15 Years</a>
+    </li>
+        <li>
+      <a href="#panel-2-mFnw7" data-toggle="tab">10 Years</a>
+    </li>
+      </ul>
+
+  <div class="tab-content">
+    
+    <div class="tab-pane active" id="panel-0-mFnw7">
+            <div class="magazine magazine-widget">
+        <div class="cover">
+          <a href="/magazine/poz-november-1997" rel="nofollow">
+            <picture>
+              <img class="img-responsive time-capsule-fix" src="https://cdn1.poz.com/3217_POZ-Cover-November-1997_569dab1f-95ae-472f-94f8-0580f42ceb24.jpeg" srcset="https://cdn1.poz.com/3217_POZ-Cover-November-1997_569dab1f-95ae-472f-94f8-0580f42ceb24.jpeg, https://cdn.poz.com/3217_POZ-Cover-November-1997_569dab1f-95ae-472f-94f8-0580f42ceb24_x2.jpeg 2x" alt="Alt text">
+            </picture>
+          </a>
+          <h2 class="h6 name"> <a href="/magazine/poz-november-1997" rel="nofollow">POZ November 1997 </a></h2>
+        </div>
+      </div>
+      <ul class="list-unstyled latest post-side">
+                <li> <a href="/article/choosing-hiv" rel="nofollow">Choosing HIV?</a></li>
+                <li> <a href="/article/elizabeth-taylor-aids-hiv-13608-4583" rel="nofollow">Elizabeth Taylor Tells the Truth</a></li>
+                <li> <a href="/article/british-hiv-prevention-12943-3982" rel="nofollow">S.O.S.</a></li>
+              </ul>
+      <div class="widget-footer text-center">
+        <a href="/magazine/poz-november-1997" rel="nofollow" class="btn btn-primary">View more  </a>
+      </div>
+          </div>
+
+    
+    <div class="tab-pane" id="panel-1-mFnw7">
+            <div class="magazine magazine-widget">
+        <div class="cover">
+          <a href="/magazine/poz-november-2002" rel="nofollow">
+            <picture>
+              <img class="img-responsive time-capsule-fix" src="https://cdn1.poz.com/3471_POZ-Cover-November-2002_7d2e4f0a-4c98-4ea6-af08-1a6d08bf050c.jpeg" srcset="https://cdn1.poz.com/3471_POZ-Cover-November-2002_7d2e4f0a-4c98-4ea6-af08-1a6d08bf050c.jpeg, https://cdn.poz.com/3471_POZ-Cover-November-2002_7d2e4f0a-4c98-4ea6-af08-1a6d08bf050c_x2.jpeg 2x" alt="Alt text">
+            </picture>
+          </a>
+          <h2 class="h6 name"> <a href="/magazine/poz-november-2002" rel="nofollow">POZ November 2002 </a></h2>
+        </div>
+      </div>
+      <ul class="list-unstyled latest post-side">
+                <li> <a href="/article/Special-Report-Takin-It-to-the-Street-993-6809" rel="nofollow">Special Report: Takin' It to the Street</a></li>
+                <li> <a href="/article/Special-Report-Dangerous-Council-994-3222" rel="nofollow">Special Report: Dangerous Council</a></li>
+                <li> <a href="/article/Special-Report-New-Enemies-List-995-2969" rel="nofollow">Special Report: New Enemies List...</a></li>
+              </ul>
+      <div class="widget-footer text-center">
+        <a href="/magazine/poz-november-2002" rel="nofollow" class="btn btn-primary">View more  </a>
+      </div>
+          </div>
+
+    
+    <div class="tab-pane" id="panel-2-mFnw7">
+            <div class="magazine magazine-widget">
+        <div class="cover">
+          <a href="/magazine/poz-november-2007" rel="nofollow">
+            <picture>
+              <img class="img-responsive time-capsule-fix" src="https://cdn1.poz.com/3956_POZ-Cover-November-2007_859e3d2d-a51a-4903-ba5b-a72ac0972b6f.jpeg" srcset="https://cdn1.poz.com/3956_POZ-Cover-November-2007_859e3d2d-a51a-4903-ba5b-a72ac0972b6f.jpeg, https://cdn.poz.com/3956_POZ-Cover-November-2007_859e3d2d-a51a-4903-ba5b-a72ac0972b6f_x2.jpeg 2x" alt="Alt text">
+            </picture>
+          </a>
+          <h2 class="h6 name"> <a href="/magazine/poz-november-2007" rel="nofollow">POZ November 2007 </a></h2>
+        </div>
+      </div>
+      <ul class="list-unstyled latest post-side">
+                <li> <a href="/article/stacey-latimer-church-13275-2730" rel="nofollow">Pray Tell</a></li>
+                <li> <a href="/article/south-aids-epicenter-13272-4880" rel="nofollow">The South Shall Rise Again</a></li>
+                <li> <a href="/article/hiv-addiction-mentors-13274-4910" rel="nofollow">Coming Clean</a></li>
+              </ul>
+      <div class="widget-footer text-center">
+        <a href="/magazine/poz-november-2007" rel="nofollow" class="btn btn-primary">View more  </a>
+      </div>
+          </div>
+
+      </div>
+</div>
+<!-- .tabs -->              <div class="box box-side social-media-box-fix">
   <h3 class="section-title text-center">
     POZ <span>on Facebook</span>
   </h3>
 </div>
-<div class="social-widget-spacing social-widget"><div class="fb-page" data-href="https://www.facebook.com/POZmagazine/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/POZmagazine/"><a href="https://www.facebook.com/POZmagazine/">POZ</a></blockquote></div></div></div>
+<div class="social-widget-spacing social-widget"><div class="fb-page fb_iframe_widget" data-href="https://www.facebook.com/POZmagazine/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;app_id=141280903568&amp;container_width=300&amp;hide_cover=true&amp;href=https%3A%2F%2Fwww.facebook.com%2FPOZmagazine%2F&amp;locale=en_US&amp;sdk=joey&amp;show_facepile=false&amp;small_header=true&amp;tabs=timeline"><span style="vertical-align: top; width: 0px; height: 0px; overflow: hidden;"><iframe name="f2b8aeca67a8568" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:page Facebook Social Plugin" src="https://www.facebook.com/v2.4/plugins/page.php?adapt_container_width=true&amp;app_id=141280903568&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FFdM1l_dpErI.js%3Fversion%3D42%23cb%3Df37b2f60635f344%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff1a88ccb9b1ea8c%26relation%3Dparent.parent&amp;container_width=300&amp;hide_cover=true&amp;href=https%3A%2F%2Fwww.facebook.com%2FPOZmagazine%2F&amp;locale=en_US&amp;sdk=joey&amp;show_facepile=false&amp;small_header=true&amp;tabs=timeline" style="border: none; visibility: visible; width: 0px; height: 0px;"></iframe></span></div></div>
 <!-- .box -->
 
               <div class="box box-side social-media-box-fix">
@@ -1400,133 +1835,51 @@
       </tbody></table></div>
 <!-- .box -->
 
-              <div class="tabbable tabs three-tabs box-side" id="tabs-44085">
-  <ul class="nav nav-tabs">
-        <li class="active">
-      <a href="#panel-0-EN7bL" data-toggle="tab">20 Years</a>
-    </li>
-        <li>
-      <a href="#panel-1-EN7bL" data-toggle="tab">15 Years</a>
-    </li>
-        <li>
-      <a href="#panel-2-EN7bL" data-toggle="tab">10 Years</a>
-    </li>
-      </ul>
-
-  <div class="tab-content">
-    
-    <div class="tab-pane active" id="panel-0-EN7bL">
-            <div class="magazine magazine-widget">
-        <div class="cover">
-          <a href="/magazine/poz-december-1996january-1997" rel="nofollow">
-            <picture>
-              <img class="img-responsive time-capsule-fix" src="https://cdm-dam.s3-us-west-1.amazonaws.com/3189_POZ-Cover-December-Jaunuary-1997_0216950a-bf9f-4196-ab6b-c7a8865eb818.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/3189_POZ-Cover-December-Jaunuary-1997_0216950a-bf9f-4196-ab6b-c7a8865eb818.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/3189_POZ-Cover-December-Jaunuary-1997_0216950a-bf9f-4196-ab6b-c7a8865eb818_x2.jpeg 2x" alt="Alt text">
-            </picture>
-          </a>
-          <h2 class="h6 name"> <a href="/magazine/poz-december-1996january-1997" rel="nofollow">POZ December 1996-January 1997 </a></h2>
-        </div>
-      </div>
-      <ul class="list-unstyled latest post-side">
-                <li> <a href="/article/The-Bride-Wore-White-12432-3272" rel="nofollow">The Bride Wore White: A community gathers to fulfill a six-year-old's wedding dreams</a></li>
-                <li> <a href="/article/Cheese-and-Crackers-1684-4255" rel="nofollow">Cheese and Crackers: You can take the boy out of small-town Virginia...but when that boy is Shawn Decker, don't even try to take away anything else</a></li>
-                <li> <a href="/article/Blood-from-a-Stone-1685-5985" rel="nofollow">Blood from a Stone: People with HIV and hemophilia will be ignored no more</a></li>
-              </ul>
-      <div class="widget-footer text-center">
-        <a href="/magazine/poz-december-1996january-1997" rel="nofollow" class="btn btn-primary">View more  </a>
-      </div>
-          </div>
-
-    
-    <div class="tab-pane" id="panel-1-EN7bL">
-            <div class="magazine magazine-widget">
-        <div class="cover">
-          <a href="/magazine/poz-january-2002" rel="nofollow">
-            <picture>
-              <img class="img-responsive time-capsule-fix" src="https://cdm-dam.s3-us-west-1.amazonaws.com/3453_POZ-Cover-January-2002_2c575941-a95f-413c-8e94-5c0a10cbd20e.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/3453_POZ-Cover-January-2002_2c575941-a95f-413c-8e94-5c0a10cbd20e.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/3453_POZ-Cover-January-2002_2c575941-a95f-413c-8e94-5c0a10cbd20e_x2.jpeg 2x" alt="Alt text">
-            </picture>
-          </a>
-          <h2 class="h6 name"> <a href="/magazine/poz-january-2002" rel="nofollow">POZ January 2002 </a></h2>
-        </div>
-      </div>
-      <ul class="list-unstyled latest post-side">
-                <li> <a href="/article/Generation-Next-753-8494" rel="nofollow">Generation Next: From Brooklyn to Beijing, these mavericks, pioneers and agitators will make this the last decade of AIDS.</a></li>
-                <li> <a href="/article/2002-For-Beginners-754-5869" rel="nofollow">2002 For Beginners: Start the New Year with eight resolutions you can make and keep</a></li>
-                <li> <a href="/article/Sex-Pistols-763-3362" rel="nofollow">Sex Pistols: A chill is falling on HIV prevention groups that take federal money</a></li>
-              </ul>
-      <div class="widget-footer text-center">
-        <a href="/magazine/poz-january-2002" rel="nofollow" class="btn btn-primary">View more  </a>
-      </div>
-          </div>
-
-    
-    <div class="tab-pane" id="panel-2-EN7bL">
-            <div class="magazine magazine-widget">
-        <div class="cover">
-          <a href="/magazine/poz-january-2007" rel="nofollow">
-            <picture>
-              <img class="img-responsive time-capsule-fix" src="https://cdm-dam.s3-us-west-1.amazonaws.com/3940_POZ-Cover-JanuaryFebruary-2007_c61ef5e9-e435-4eb6-925f-32d278ba1300.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/3940_POZ-Cover-JanuaryFebruary-2007_c61ef5e9-e435-4eb6-925f-32d278ba1300.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/3940_POZ-Cover-JanuaryFebruary-2007_c61ef5e9-e435-4eb6-925f-32d278ba1300_x2.jpeg 2x" alt="Alt text">
-            </picture>
-          </a>
-          <h2 class="h6 name"> <a href="/magazine/poz-january-2007" rel="nofollow">POZ January 2007 </a></h2>
-        </div>
-      </div>
-      <ul class="list-unstyled latest post-side">
-                <li> <a href="/article/Labors-of-Love-10990-4313" rel="nofollow">Labors of Love: Two HIV positive mothers fight to protect their kids, all negative, from the stigma many positive parents face</a></li>
-                <li> <a href="/article/The-Kids-Aren-t-Alright-10991-2768" rel="nofollow">The Kids Aren't Alright: Young people who have contracted HIV through sex share what they wish they'd learned beforehand</a></li>
-                <li> <a href="/article/With-Honors-10992-4644" rel="nofollow">With Honors: An HIV positive schoolteacher instructs his pupils in Safer Sex 101, after grading their math homework</a></li>
-              </ul>
-      <div class="widget-footer text-center">
-        <a href="/magazine/poz-january-2007" rel="nofollow" class="btn btn-primary">View more  </a>
-      </div>
-          </div>
-
-      </div>
-</div>
-<!-- .tabs -->              <div class="box box-side">
+              <div class="box box-side">
   <h3 class="section-title text-center">
     Most <span>viewed</span>
   </h3>
   <ul class="list-unstyled latest post-side">
         <li>
-      <a href="/article/HIV-risk-25382-5829">
+      <a href="/article/marijuana-affect-people-hiv">
         <p class="without-margin">
-          Against All Odds: What Are Your Chances of Getting HIV in These Sce...
+          How Does Marijuana Affect People With HIV?
         </p>
 
       
       </a>
     </li>
         <li>
-      <a href="/article/HPTN-052-transmission-27517-8582">
+      <a href="/blog/almost-three-years-since-tested-hiv-positive">
         <p class="without-margin">
-          New Proof That Passing On HIV While Undetectable Is Very Unlikely
+          7 Facts I Learned Since Testing HIV Positive 3 Years Ago
         </p>
 
       
       </a>
     </li>
         <li>
-      <a href="/article/freddie-mercury-bio-links-rock-star-aids-patient-zero">
+      <a href="/article/mouse-study-reveals-promising-hiv-functional-cure-treatment">
         <p class="without-margin">
-          Freddie Mercury Bio Links the Rock Star to AIDS “Patient Zero”
+          Mouse Study Reveals Promising HIV Functional Cure Treatment
         </p>
 
       
       </a>
     </li>
         <li>
-      <a href="/article/new-study-finds-hiv-reservoir-may-endure-longer-previously-thought">
+      <a href="/blog/5-reasons-hiv-undetectable-must-mean-untransmittable">
         <p class="without-margin">
-          New Study Finds HIV Reservoir May Endure Longer Than Previously Tho...
+          5 Reasons 'HIV Undetectable' Must Mean 'Untransmittable'
         </p>
 
       
       </a>
     </li>
         <li>
-      <a href="/blog/madonnas-blond-ambition-dancer-slam-ready-talk-hivjust-ask-vogue">
+      <a href="/article/michael-johnson-serve-10-years-disclosing-hiv-sex-partners">
         <p class="without-margin">
-          Madonna’s Blond Ambition Dancer “Slam” Is Ready to Talk About...
+          Michael Johnson to Serve 10 Years for Not Disclosing HIV to Sex Par...
         </p>
 
       
@@ -1544,10 +1897,10 @@
   </tr>
   <tr>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
-    <td><a href="https://www.facebook.com/POZmagazine" class="media-heading h4">
-	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/2422_Facebook-crop.jpg_dc5e2b82-9bf0-4597-82fc-26c1e05a9954.jpeg" width="65" align="left" border="0"></a></td>
+    <td><a href="https://www.facebook.com/POZmagazine" class="media-heading h4" target="_blank">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/33484_facebook-65-wide.jpeg_6632e159-0672-4193-912f-90acd27507e9.jpeg" width="65" align="left" border="0"></a></td>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
-    <td><span class="media-heading h4"><a href="https://www.facebook.com/POZmagazine" class="media-heading h4">
+    <td><span class="media-heading h4"><a href="https://www.facebook.com/POZmagazine" class="media-heading h4" target="_blank">
 	 	Facebook</a><br></span></td>
   </tr>
   <tr>
@@ -1555,10 +1908,10 @@
   </tr>
   <tr>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
-    <td><a href="https://twitter.com/pozmagazine" class="media-heading h4">
-	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/2453_Twitter-Icon-crop.jpg_2f2fc6de-b8b2-4026-b26d-b2b3e33cc863.jpeg" width="60" align="left" border="0"></a></td>
+    <td><a href="https://twitter.com/pozmagazine" class="media-heading h4" target="_blank">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/33483_twitter-60-wide.jpeg_97e783e9-3e03-435e-bac5-ea683bcf931e.jpeg" width="60" align="left" border="0"></a></td>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
-    <td><span class="media-heading h4"><a href="https://twitter.com/pozmagazine" class="media-heading h4">
+    <td><span class="media-heading h4"><a href="https://twitter.com/pozmagazine" class="media-heading h4" target="_blank">
 		Twitter</a><br></span></td>
   </tr>
   <tr>
@@ -1566,10 +1919,10 @@
   </tr>
   <tr>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
-    <td><a href="http://pozmagazine.tumblr.com/" class="media-heading h4">
-	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/2455_Tumblr-Icon-crop.jpg_72e5033f-cff1-4874-b873-52a6a55dcb9d.jpeg" width="55" align="left" border="0"></a></td>
+    <td><a href="http://pozmagazine.tumblr.com/" class="media-heading h4" target="_blank">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/33485_tumblr-55.jpeg_0be644a3-faca-4573-8aad-58ead32a56aa.jpeg" width="55" align="left" border="0"></a></td>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
-    <td><span class="media-heading h4"><a href="http://pozmagazine.tumblr.com/" class="media-heading h4">
+    <td><span class="media-heading h4"><a href="http://pozmagazine.tumblr.com/" class="media-heading h4" target="_blank">
 	 	Tumblr</a><br></span></td>
   </tr>
   <tr>
@@ -1577,10 +1930,10 @@
   </tr>
   <tr>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
-    <td><a href="https://www.instagram.com/pozmagazine" class="media-heading h4">
-	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/13453_Instagram-cropped.jpg_d09b0347-376d-4d34-a4ec-7c87c0bb10af.jpeg" width="55" align="left" border="0"></a></td>
+    <td><a href="https://www.instagram.com/pozmagazine" class="media-heading h4" target="_blank">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/33488_instagram-55.jpeg_3917ccb7-c44a-40c6-8113-fac88d322d34.jpeg" width="55" align="left" border="0"></a></td>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
-    <td><span class="media-heading h4"><a href="https://www.instagram.com/pozmagazine" class="media-heading h4">
+    <td><span class="media-heading h4"><a href="https://www.instagram.com/pozmagazine" class="media-heading h4" target="_blank">
 	 	Instagram</a><br></span></td>
   </tr>
   <tr>
@@ -1588,10 +1941,10 @@
   </tr>
   <tr>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
-    <td><a href="https://www.pinterest.com/pozmagazine/" class="media-heading h4">
-	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/13454_Pinterest-cropped.jpg_ed23f20a-8429-4edc-a453-e4ff90b93f65.jpeg" width="65" align="left" border="0"></a></td>
+    <td><a href="https://www.pinterest.com/pozmagazine/" class="media-heading h4" target="_blank">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/33486_pinterest-65.jpeg_3050ec95-5fc3-46f2-80ef-6d775d09ec40.jpeg" width="65" align="left" border="0"></a></td>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
-    <td><span class="media-heading h4"><a href="https://www.pinterest.com/pozmagazine/" class="media-heading h4">
+    <td><span class="media-heading h4"><a href="https://www.pinterest.com/pozmagazine/" class="media-heading h4" target="_blank">
 	 	Pinterest</a><br></span></td>
   </tr>
   <tr>
@@ -1599,13 +1952,24 @@
   </tr>
   <tr>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
-    <td><a href="http://www.youtube.com/user/poz10110" class="media-heading h4">
+    <td><a href="https://plus.google.com/112301081684500341627" class="media-heading h4" target="_blank">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/33487_google-plus-65.png_ff62d525-b90d-4c9f-9679-e9d246175e17.png" width="65" align="left" border="0"></a></td>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
+    <td><span class="media-heading h4"><a href="https://plus.google.com/112301081684500341627" class="media-heading h4" target="_blank">
+	 	Google+</a><br></span></td>
+  </tr>
+  <tr>
+    <td height="10" colspan="4"><br></td>
+  </tr>
+  <tr>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
+    <td><a href="http://www.youtube.com/c/poztv" class="media-heading h4" target="_blank">
 	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/13452_youtube-cropped.jpg_0edb53e3-8ac4-42b9-b114-618387e1a2dd.jpeg" width="60" align="left" border="0"></a></td>
     <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
-    <td><span class="media-heading h4"><a href="http://www.youtube.com/user/poz10110" class="media-heading h4">
+    <td><span class="media-heading h4"><a href="http://www.youtube.com/c/poztv" class="media-heading h4" target="_blank">
 	 	YouTube</a><br></span></td>
   </tr>
-</tbody></table>	</div>
+</tbody></table></div>
 <!-- .box -->
 
               <div class="box box-side">
@@ -1615,13 +1979,14 @@
   <ul class="list-unstyled latest condensed">
         <li> <a href="https://www.hepmag.com" rel="nofollow">HEP </a> </li>
         <li> <a href="https://www.realhealthmag.com" rel="nofollow">REAL HEALTH </a> </li>
-        <li> <a href="http://www.smartandstrong.com" rel="nofollow">SMART + STRONG </a> </li>
+        <li> <a href="https://www.cancerhealth.com" rel="nofollow">CANCER HEALTH </a> </li>
+        <li> <a href="https://www.smartandstrong.com" rel="nofollow">SMART + STRONG </a> </li>
       </ul>
 </div>
 <!-- .box -->          </aside>
   </div>
 
-  <!--googleon: index-->
+  <!--googleon: all-->
 
 
     </div>
@@ -1629,7 +1994,9 @@
 
   </div>
 
-  </div>
+  
+  
+</div>
 
                     <div id="newsletter_0" class="modal fade modal-newsletter-main" role="dialog">
   <div class="modal-dialog modal-width modal-newsletter" role="document">
@@ -1689,7 +2056,7 @@
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
-                                                                                                                                                                  
+                                                                                                                                                                            
   <div id="adblock_modal" class="modal fade" role="dialog">
   <div class="modal-dialog modal-width" role="document">
     <div class="modal-content box modal-customize bg-white-color">
@@ -1709,30 +2076,31 @@
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
 
-  <script type="text/javascript" src="/js/vendor/detectadblock.js"></script>
-  <script type="text/javascript" src="/js/jquery.mobile.custom.min.js"></script>
-  <script type="text/javascript" src="/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="/js/slick.min.js"></script>
-  <script type="text/javascript" src="/js/picturefill.min.js"></script>
-  <script type="text/javascript" src="/js/icheck.min.js"></script>
-  <script type="text/javascript" src="/js/jquery.heapbox-0.9.4.min.js"></script>
-  <script type="text/javascript" src="/js/jquery.mobile-events.min.js"></script>
-  <script type="text/javascript" src="/js/scripts.js?v=1.01"></script>
+  <script type="text/javascript">
+                                    
+                                                                                                                        
+        setTimeout(function() {
+            fixIframeAdv();
+            setTimeout(function() { fixIframeAdv(); }, 1500);
+        }, 500);
+      </script>
 
   <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+//    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+//    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+//    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+//    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-186144-42', 'auto');
+    var gaId = 'UA-186144-42';
+    var requestPath = 'page/privacy-policy';
 
-    var GAcustomVariables = {};
-    if (author) { GAcustomVariables.dimension1 = author; }
-    if (tags) { GAcustomVariables.dimension2 = tags; }
-    if (categories) { GAcustomVariables.dimension3 = categories; }
-
-    ga('send', 'pageview', GAcustomVariables);
+    
+//    var GAcustomVariables = {};
+//    if (author) { GAcustomVariables.dimension1 = author; }
+//    if (tags) { GAcustomVariables.dimension2 = tags; }
+//    if (categories) { GAcustomVariables.dimension3 = categories; }
+//
+//    ga('send', 'pageview', GAcustomVariables);
 
     function gaButtonClick(eventTargetName) {
       if (eventTargetName == 'Related-Button' && $('.extra.related').hasClass('while-scroll')) {
@@ -1746,20 +2114,100 @@
     if (typeof twttr != "undefined") twttr.events.bind('tweet', function (ev) { gaButtonClick('Social-Tweet') });
 
     // GA Categories and Tags
-                          
-    if (typeof author !== 'undefined' && author) {
-      ga('send', 'event', 'Authors', author, 'page/privacy-policy');
-    }
+    var eventCategories = [];
+    
+    var eventTags = [];
+              
+    
+    
+                </script>
 
-  </script>
 
-  <script type="text/javascript" src="/js/custom.1.4.js?v=1.040"></script>
-  <script type="text/javascript" src="/js/adv.js"></script>
 
-  
+    
+    <script src="/build/js/app.scripts.min-4edc3608c3.js"></script>
+
+          <script type="text/javascript" src="/js/vendor/multiple-select/multiple-select.js"></script>
+
+        <script>
+            $('.single-dropdown').multipleSelect({
+                single: true
+            });
+        </script>
+    
   </div>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDt6Sjywu6k0Z3_k9AP0p3ZfAReO5UrS9A&amp;libraries=places&amp;language=en" async="" defer=""></script>
+
+  <div id="login-timeout-warning" class="modal fade modal-cancel-subscription" role="dialog">
+  <div class="modal-dialog modal-width modal-personal" role="document">
+    <div class="modal-content box modal-customize bg-white-color">
+      <div class="modal-header modal-header-personal">
+                <h3 class="text-center">Stay Logged In?</h3>
+      </div>
+      <div class="modal-body modal-body-personal">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12">
+              <p>
+                  You have been inactive for 60 minutes and will be logged out in <span id="login-timeout-warning-time"></span>. Any updates not saved will be lost.
+              </p>
+
+              <div class="form-group special-personal-group">
+                <div class="btn2-center-block">
+                  <button class="btn btn-primary center-block" type="button" data-dismiss="modal" aria-label="Close" onclick="updateActivityAndInterval()">Continue</button>
+                  <button class="btn btn-primary center-block" type="button" onclick="fullLogOut(); pageReload()">Log out</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div id="login-timeout-done" class="modal fade modal-cancel-subscription-confirm" role="dialog">
+  <div class="modal-dialog modal-width modal-personal" role="document">
+    <div class="modal-content box modal-customize bg-white-color">
+      <div class="modal-header modal-header-personal">
+        <button id="close-customize" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h3 class="text-center">You Have Been Logged Out</h3>
+      </div>
+      <div class="modal-body modal-body-personal">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12">
+              <p>
+                  <a href="/login">Click here</a> to log back in.
+              </p>
+
+              <div class="form-group special-personal-group">
+                <button class="btn btn-primary center-block" type="button" data-dismiss="modal" aria-label="Close">OKAY</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
 
 <div></div>
 
+<script type="text/javascript">
+    function downloadJSAtOnload() {
+        var element = document.createElement("script");
+        element.src = "/js/defer.js";
+        document.body.appendChild(element);
+    }
+    if (window.addEventListener)
+        window.addEventListener("load", downloadJSAtOnload, false);
+    else if (window.attachEvent)
+        window.attachEvent("onload", downloadJSAtOnload);
+    else window.onload = downloadJSAtOnload;
+</script>
 
-</body></html>
+
+<script src="/js/defer.js"></script></body></html>
