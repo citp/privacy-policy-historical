@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the musicindustryhowto.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129181823id_/http%3A//www.musicindustryhowto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicindustryhowto.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119024410id_/https%3A//www.musicindustryhowto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Music Industry How To
 
-This Privacy Policy governs the manner in which Music Industry How To collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.musicindustryhowto.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Music Industry How To.
+This Privacy Policy governs the manner in which Music Industry How To collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://www.musicindustryhowto.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Music Industry How To.
 
 **Personal identification information**
 
@@ -61,13 +61,13 @@ Music Industry How To has the discretion to update this privacy policy at any ti
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.musicindustryhowto.com/privacy-policy/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.musicindustryhowto.com/privacy-policy/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Music Industry How To](http://www.musicindustryhowto.com/)  
-<http://www.musicindustryhowto.com/>  
-[Contact](http://www.musicindustryhowto.com/contact/)
+[Music Industry How To](https://www.musicindustryhowto.com/)  
+<https://www.musicindustryhowto.com/>  
+[Contact](https://www.musicindustryhowto.com/contact/)
 
 This document was last updated on March 31, 2014
