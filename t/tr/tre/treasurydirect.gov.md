@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505101806id_/https%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119164247id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Legal Notices
 
@@ -54,7 +54,7 @@ If you have an account with us, we may use customization technologies, such as p
 
 We have statutory authority to ask for personal information as follows:
 
-  * [31 U.S.C. chapter 31](http://www.access.gpo.gov/uscode/title31/subtitleiii_chapter31_subchapteri_.html) authorizes the Secretary of the Treasury (delegated to the Bureau of the Fiscal Service) to perform necessary functions to sell Treasury securities.
+  * [31 U.S.C. chapter 31](https://www.gpo.gov/fdsys/search/pagedetails.action?collectionCode=USCODE&searchPath=Title+31&oldPath=Title+31&isCollapsed=true&selectedYearFrom=2016&ycord=1290&browsePath=Title+31&granuleId=&packageId=USCODE-2016-title31&collapse=true&fromBrowse=true) authorizes the Secretary of the Treasury (delegated to the Bureau of the Fiscal Service) to perform necessary functions to sell Treasury securities.
   * [44 U.S.C. § 3101](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+44USC3101) lets us maintain records containing personal information to provide a record of our securities programs in order to protect the legal and financial rights of the government and the investor.
   * [26 U.S.C. § 6109](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+26USC6109) requires us to ask for your Social Security Number and to include it on reports we must send to the IRS.
   * [31 U.S.C. § 7701](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+31USC7701) lets us ask for your personal information in order to report and collect amounts owed to the United States.
