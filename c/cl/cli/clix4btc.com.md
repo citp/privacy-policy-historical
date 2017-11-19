@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clix4btc.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004650id_/http%3A//www.clix4btc.com/index.php%3Fview%3Dprivacy_policy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clix4btc.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119232450id_/http%3A//www.clix4btc.com/index.php%3Fview%3Dprivacy_policy%26) for the most accurate reproduction.*
 
 # Clix4BTC :: Privacy Policy
 
@@ -56,10 +56,10 @@
   * Monitor third-party email marketing services for compliance, if one is used.
   * Honor opt-out/unsubscribe requests quickly.
   * Allow users to unsubscribe by using the link at the bottom of each email.
-If at any time you would like to unsubscribe from receiving future emails, you can email us at admin@clix4btc.com and we will promptly remove you from ALL correspondence. 
+If at any time you would like to unsubscribe from receiving future emails, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence. 
   * Contacting Us
   * If there are any questions regarding this privacy policy you may contact us using the information below.
 clix4btc.com 
-  * admin@clix4btc.com
+  * [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 
