@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookieandkate.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623004935id_/http%3A//cookieandkate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookieandkate.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119104616id_/https%3A//cookieandkate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cookie and Kate
 
@@ -64,7 +64,7 @@ This policy was last modified on 10/18/2012.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://cookieandkate.com
+https://cookieandkate.com
 
 United States  
 cookieandkate [at] gmail.com
