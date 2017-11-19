@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the lindtusa.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519102058id_/http%3A//www.lindtusa.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindtusa.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119153647id_/https%3A//www.lindtusa.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Lindt USA
+# Privacy Policy | Lindt Chocolate
 
-  
 Last Modified: November 2, 2014
 
 This is the official privacy policy (the "Privacy Policy") of Lindt & Sprüngli (USA) Inc. ("Lindt"), makers of fine chocolates. We at Lindt respect your concerns about privacy. Accordingly, we have adopted the following Privacy Policy which describes the information we collect about you from this, and other websites operated by Lindt & Sprüngli (USA) Inc. (the "website"), as well as why and how we use it. We also explain the choices you can make about how we collect and use your information. By using this website, you agree with the terms of this Privacy Policy. Whenever you submit information via our website (collectively, the "website"), you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. As we continue to develop our website and take advantage of technologies to improve the services we provide, our Privacy Policy will periodically change and evolve. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.
@@ -57,7 +56,7 @@ Our website is not designed for use by children under the age of thirteen. We do
 
 Access to Personal Information
 
-Our goal is to provide our customers with the best service possible. To do this, we need to make sure that our information is accurate, current, and reliable for its intended use. In order to provide you with the best service possible, we actively attempt to ensure that all contact information is accurate and up-to-date. If your personal information changes or if you no longer wish to receive our Communications, you may correct, amend, or delete your information at any time. If you are a registered user of the website, you can access, correct, update or remove your information in our databases any time by logging into [My Account](http://www.lindtusa.com/shop/AjaxLogonForm?catalogId=10002&myAcctMain=1&langId=&storeId=10151), by contacting our [Customer Service Department](http://www.lindtusa.com/shop/LindtContactUsView), or by calling 1-877-MY-LINDT (1-877-695-4638).
+Our goal is to provide our customers with the best service possible. To do this, we need to make sure that our information is accurate, current, and reliable for its intended use. In order to provide you with the best service possible, we actively attempt to ensure that all contact information is accurate and up-to-date. If your personal information changes or if you no longer wish to receive our Communications, you may correct, amend, or delete your information at any time. If you are a registered user of the website, you can access, correct, update or remove your information in our databases any time by logging into [My Account](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?catalogId=10102&langId=-1&storeId=11001), by contacting our [Customer Service Department](http://www.lindtusa.com/shop/LindtContactUsView), or by calling 1-877-MY-LINDT (1-877-695-4638).
 
 Cookies and Other Technologies
 
