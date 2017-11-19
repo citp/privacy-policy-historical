@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dollarvigilante.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130024553id_/https%3A//dollarvigilante.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarvigilante.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119180749id_/https%3A//dollarvigilante.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Dollar Vigilante
-
-## Privacy Policy:
 
 The Dollar Vigilante (" **TDV** ") operates dollarvigilante.com and may operate other websites. It is TDV's policy to respect your privacy regarding any information we may collect while operating our websites.
 
