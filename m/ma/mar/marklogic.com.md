@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the marklogic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154513id_/http%3A//www.marklogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marklogic.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119222711id_/http%3A//www.marklogic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MarkLogic Corporation
 
-_Last updated: 06/29/2015_
+_Last updated: March 20, 2017_
 
 MarkLogic is strongly committed to protecting the privacy of site visitors, prospects, and customers. We will not sell your personal information to anyone. The information you give us as part of registration will be processed by MarkLogic and its ASPs entirely within the United States.
 
-The purpose of this policy is to explain the types of information we obtain from users through the MarkLogic web site ([www.marklogic.com](https://web.archive.org/) or “Site”), how the information is obtained, how it is used, how it may be obtained by others, and how its use and disclosure can be restricted.
+The purpose of this policy is to explain the types of information we obtain from users through the MarkLogic web sites (the “Site”), how the information is obtained, how it is used, how it may be obtained by others, and how its use and disclosure can be restricted.
 
 ### Questions/Contact
 
