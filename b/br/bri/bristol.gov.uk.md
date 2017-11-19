@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204101735id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119120959id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
 
 # Privacy - bristol.gov.uk
 
@@ -44,6 +44,7 @@ We collect your personal details when you fill in a form on our websites or send
 5\. We may also use your data to identify, understand and meet the needs of individuals and families who will benefit from a multi- agency response.
 
   * Find out more about our ‘[Think Family](https://web.archive.org/c/portal/layout?p_l_id=31725)’ group who use data to support families in Bristol.
+  * See our [privacy notice (pdf, 157k) (opens new window)](https://web.archive.org/documents/20182/33912/Privacy+notice+2017/ffdb52f4-33a7-427f-aabb-bd093099428f) for how we collect, use and share information about families with young children who use early years services. 
 
 
 
@@ -60,6 +61,9 @@ We collect your personal details when you fill in a form on our websites or send
   * there is a risk of serious harm or threat to life.
 
 
+
+8\. We may use data collected in the administration of Council Tax and Business Rates to recover other debts owed to the Council.  
+ 
 
 We will always ask you before we use it for any other reason or for marketing.
 
@@ -101,7 +105,7 @@ You may view the council's Data Protection Notification by searching for our reg
 
 ## CCTV video
 
-[Apply for information held on the council's CCTV system](https://web.archive.org/c/portal/layout?p_l_id=27722).
+[Apply for information held on the council's CCTV system](https://web.archive.org/c/portal/layout?p_l_id=27713).
 
 ## Contact the data protection officer
 
