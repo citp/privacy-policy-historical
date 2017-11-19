@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodporndaily.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614141713id_/http%3A//foodporndaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodporndaily.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119130045id_/http%3A//foodporndaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy « FoodPornDaily | Food Porn, Food Photography
 
