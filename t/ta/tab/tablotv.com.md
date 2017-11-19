@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tablotv.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111184617id_/https%3A//www.tablotv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablotv.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119132747id_/https%3A//www.tablotv.com/privacy) for the most accurate reproduction.*
 
 # Tablo Privacy Policy | Over The Air (OTA) DVR | Tablo
-
-## TABLOTV.COM PRIVACY POLICY
 
 Nuvyyo respects your right to privacy. During your visit to our website, your privacy is respected. We do not collection personal information about you unless you opt to complete forms or applications that request necessary personal information. We recognize the need to ensure the appropriate protection and management of any information that you may provide us while you are visiting our website. This following text outlines the steps that we have taken to ensure your privacy.
 
