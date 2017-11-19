@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the policeone.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130072154id_/https%3A//www.policeone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policeone.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119213232id_/https%3A//www.policeone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PRIVACY POLICY**
+### PRIVACY POLICY
 
 This Web site is owned and operated by:
 
-Praetorian Digital
-
-200 Green St., Suite 200
-
-San Francisco, CA 94111
-
-Toll Free: 866/402-4371
+Praetorian Digital   
+200 Green St., Suite 200   
+San Francisco, CA 94111   
+Toll Free: 866/402-4371 
 
 We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy applies to [www.PoliceOne.com](http://www.policeone.com/) (“PoliceOne”) sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
 
@@ -20,7 +17,7 @@ PoliceOne is dedicated to safeguarding your privacy online. As a policy, we will
 
 This privacy policy was last updated on 05/06/2015
 
-**What personal information does PoliceOne collect from me?**
+### What personal information does PoliceOne collect from me?
 
 PoliceOne collects information in several ways from different parts of our network of web sites.
 
@@ -28,7 +25,7 @@ Some personal information is gathered when you register. During registration, Po
 
 In addition to registration we may ask you for personal information (such as the above) at other times, including (but not limited to) when you enter a sweepstakes, contest or promotion sponsored by PoliceOne and/or our many partners; when you post a PoliceOne Classified ad; when you submit a listing for a web site; and when you report a problem with one of our sites or services. If you contact PoliceOne we may keep a record of that correspondence. PoliceOne also occasionally asks users to complete surveys that we use for research purposes. Wherever PoliceOne collects personal information we include a link to this Privacy Policy on that page.
 
-**What are cookies/tracking technologies and how does PoliceOne use them?**
+### What are cookies/tracking technologies and how does PoliceOne use them?
 
 Technologies such as: cookies, beacons, tags and scripts are used by PoliceOne and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
@@ -46,14 +43,13 @@ Advertising networks that serve ads onto PoliceOne may also use their own cookie
 
 You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those PoliceOne services that require registration in order to participate.
 
-We use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here:  
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+We use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies [click here:](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
 As is true of most web sites, we gather certain information automatically and store it in log files. PoliceOne also collects IP addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data for system administration and to report aggregate information to our advertisers. In addition, PoliceOne Mail includes IP addresses in outgoing mail message headers. We do not link this automatically collected data to other information we collect about you.
 
 Our tracking technology used to for client campaigns throughout the site does not collect any personal identifiable information that you provide as a part of your PoliceOne membership.  Your personal information stored in cookies is only used for the purposes listed above to help improve your user experience.
 
-**Who is collecting information?**
+### Who is collecting information?
 
 When you are on a PoliceOne site and are asked for personal information, you are sharing that information with PoliceOne alone, unless it is specifically stated otherwise. For example, some PoliceOne services, like BLUtube, are offered as a brand of PoliceOne using the same infrastructure and member database.  This information is stored within a cookie during login and not otherwise collected by a partner company for any purpose.  If data is being collected and/or maintained by any company other than PoliceOne, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.  Our privacy policy does apply to the information collected on these co-branded sites.  You should read the privacy statement of our co-branded partner. If you have any questions about the use of your information by co-branded sites or experience login problems on a co-branded site please visit the [technical support section](http://www.policeone.com/TechnicalHelp/).
 
@@ -61,7 +57,7 @@ Promotions that run on PoliceOne may be sponsored by companies other than Police
 
 Please be aware that PoliceOne advertisers or web sites that have links on our site may collect personal information about you. The information practices of those web sites linked to PoliceOne are not covered by this privacy statement. We encourage you to carefully read the privacy policy of any Web site you visit.
 
-**With whom does PoliceOne share my information?**
+### With whom does PoliceOne share my information?
 
 As a general rule, PoliceOne will not disclose any of your personal information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
 
@@ -75,7 +71,7 @@ From time to time, you may be offered the opportunity to receive materials or sp
 
 Third Party Data & Data in the Aggregate: Under confidentiality agreements, PoliceOne may match user information with third party data. Also, PoliceOne discloses aggregated user statistics (for example, 75% of our users are male and are interested in firefighting) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
-**Disclosure of Personal Information to Third Parties**
+### Disclosure of Personal Information to Third Parties
 
 Access to your personal information is restricted to our employees, agents, representatives and service providers and entities for whom we are acting as an agent, licensee or publisher, such as societies and our affiliated group companies, for the purposes set forth above. Service providers are only allowed to use your personal information _only as necessary to provide_ these services to us.
 
@@ -89,7 +85,7 @@ We will not otherwise disclose any personal information without your consent exc
 
 \- If PoliceOne, a related asset or line of business is acquired by, transferred to or merged with another company, in which case, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-**What are my choices regarding collection, use, and distribution of my information?**
+### What are my choices regarding collection, use, and distribution of my information?
 
 PoliceOne may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from PoliceOne and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only PoliceOne (or agents working on behalf of PoliceOne and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily edit your PoliceOne Account Information to no longer receive such offers and mailings. You will need your PoliceOne ID and Password in order to access your PoliceOne Account Information.  To update your profile, subscription options or any other PoliceOne member information please visit your profile page.
 
@@ -97,7 +93,7 @@ On some types of PoliceOne promotions, we will ask for your email address in ord
 
 PoliceOne does not sell or rent user information to anyone. We will only share PII with third parties in ways that are described in this privacy policy. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests or you contact us at [customersupport@PoliceOne.com](mailto:customersupport@PoliceOne.com).
 
-**What is PoliceOne's policy on allowing me to update, correct, or delete my personal information?**
+### What is PoliceOne's policy on allowing me to update, correct, or delete my personal information?
 
 You may edit, update or delete your PoliceOne Account Information and your public PoliceOne Profile at any time by using your PoliceOne ID and password. If you have forgotten your password, please click [here](https://www.policeone.com/forgot/) to request a new password. For all other problems signing in to PoliceOne, please contact us at [customersupport@PoliceOne.com](mailto:customersupport@PoliceOne.com).
 
@@ -111,11 +107,11 @@ If you are participating in a PoliceOne promotion and you wish to update your em
 
 Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. But as with all personal information, we do not make this available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding financial product or service usage on PoliceOne are provided in the aggregate only and do not include any personal information about any individual user.
 
-**Data Retention**
+### Data Retention
 
 We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting Praetorian Digital below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**Unsubscribing and opting out of personal information**
+### Unsubscribing and opting out of personal information
 
 Your username may be displayed while participating in the PoliceOne Forums, BLUtube and when submitting member comments to any article, tip or video on PoliceOne. Your email address will only be used for us to send you materials that you have subscribed to in the past. We provide you the opportunity to ‘opt-out’ of having your personal information used for certain purposes, when we ask for this information. If you wish to update or remove any of your personal information please visit your profile page at anytime.
 
@@ -125,15 +121,15 @@ If you continue to have issues after using all the resources above, then give us
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
-**Tell a Friend**
+### Tell a Friend
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. This feature is available with PoliceOne articles, tips and videos throughout PoliceOne.com and http://BLUtube.PoliceOne.com/. We will automatically send your friend a one-time email inviting him or her to visit the site. PoliceOne does not store this information and will not send any additional messages to the referred user.
 
-**Service Providers Public Forums**
+### Service Providers Public Forums
 
 We use other third parties to provide forums on PoliceOne.com. When you sign up for a PoliceOne member account, we will share your username as necessary for the forums application to provide that service. If you use a bulletin board, blog, or forum on this Web site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. These third parties are prohibited from using your personal information for any other purpose than listed above. To request removal of your personal information from our blog or community forum, contact us at customersupport@PoliceOne.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-**What security precautions are in place to protect the loss, misuse, or alteration of my information?**
+### What security precautions are in place to protect the loss, misuse, or alteration of my information?
 
 Your PoliceOne Account Information and PoliceOne Profile are password-protected so that you and only you have access to this personal information. You may edit your PoliceOne Account Information and PoliceOne Profile by using your PoliceOne ID and password.
 
@@ -141,19 +137,19 @@ We recommend that you do not divulge your password to anyone. PoliceOne will nev
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, PoliceOne cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
-**What security precautions are in place to protect the identity and security of Law Enforcement officials on PoliceOne?**
+### What security precautions are in place to protect the identity and security of Law Enforcement officials on PoliceOne?
 
 PoliceOne has taken several precautions to protect the identity, account names and passwords of officers when they register and log on to PoliceOne.com. All transfer of registration and login information is encrypted using Secure Socket Layer (SSL). Unfortunately, this process cannot be 100% secure and PoliceOne is not responsible for the misuse of these user names and passwords. Despite all of our precautions, you use PoliceOne at your own risk.
 
-**Testimonials**
+### Testimonials
 
 We periodically post member testimonials on PoliceOne which may contain personal information such as the member's username. We do obtain the member's consent prior to posting each testimonial. If you have any questions regarding testimonials on PoliceOne or would like a testimonial that includes your personal information removed please [contact us](mailto:support@policeone.com).
 
-**Social Media Widgets**
+### Social Media Widgets
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-**Changes in this Privacy Statement**
+### Changes in this Privacy Statement
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
@@ -162,7 +158,3 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you ever have questions regarding the PoliceOne privacy policy please email [customersupport@PoliceOne.com](mailto:customersupport@PoliceOne.com).
 
 * * *
-
-_PoliceOne has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.PoliceOne.com._
-
-_If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe[here](https://feedback-form.truste.com/watchdog/request)._
