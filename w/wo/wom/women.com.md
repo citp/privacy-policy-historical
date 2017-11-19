@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the women.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326080919id_/https%3A//women.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the women.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119161334id_/https%3A//women.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Women.com
+# Privacy Policy | Women.com
 
 ## Introduction and Scope
 
