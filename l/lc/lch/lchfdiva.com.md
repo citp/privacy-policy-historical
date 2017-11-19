@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lchfdiva.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620191504id_/http%3A//lchfdiva.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lchfdiva.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119172817id_/http%3A//lchfdiva.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
