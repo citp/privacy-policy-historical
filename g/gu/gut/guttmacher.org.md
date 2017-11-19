@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406141327id_/https%3A//www.guttmacher.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119090233id_/https%3A//www.guttmacher.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guttmacher Institute
 
@@ -69,4 +69,4 @@ _Updated: December 2016_
 
 ## Support Our Work
 
-Your support enables the Guttmacher Institute to advance sexual and reproductive health and rights in the United States and worldwide through our interrelated program of research, public education and policy analysis.
+Your support enables the Guttmacher Institute to advance sexual and reproductive health and rights in the United States and globally through our interrelated program of high-quality research, evidence-based advocacy and strategic communications.
