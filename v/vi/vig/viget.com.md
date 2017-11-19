@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viget.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611121957id_/https%3A//www.viget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viget.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119222558id_/https%3A//www.viget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viget
 
