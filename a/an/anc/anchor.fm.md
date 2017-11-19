@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchor.fm privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511042821id_/https%3A//anchor.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchor.fm privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119121836id_/https%3A//anchor.fm/privacy) for the most accurate reproduction.*
 
 # Anchor - Radio, reinvented
 
