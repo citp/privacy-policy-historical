@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trickyenough.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324184342id_/http%3A//www.trickyenough.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickyenough.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119231748id_/https%3A//www.trickyenough.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tricky Enough
 
-This Privacy Policy governs the manner in which trickyenough collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.trickyenough.com website (“Site”). This privacy policy applies to the Site and all products and services offered by trickyenough.
+This Privacy Policy governs the manner in which trickyenough collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.trickyenough.com website (“Site”). This privacy policy applies to the Site and all products and services offered by trickyenough.
 
  **Personal identification information** We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
@@ -62,9 +62,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Robin Khokhar  
-http://www.trickyenough.com
+https://www.trickyenough.com
 
 Admin@trickyenough.com  
-[Contact us form](http://www.trickyenough.com/contact-us/)
+[Contact us form](https://www.trickyenough.com/contact-us/)
 
 09653240520
