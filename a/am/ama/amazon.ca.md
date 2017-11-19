@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amazon.ca privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608090824id_/https%3A//www.amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.ca privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119154900id_/https%3A//www.amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
 
 # Amazon.ca Help: Amazon.ca Privacy Notice
 
-**Last Updated: April 13, 2012** ([ Click here](https://www.amazon.ca/gp/help/customer/display.html?nodeId=200038080) to see what's changed.)
+**Last Updated: August 18, 2017** ([ Click here](https://www.amazon.ca/gp/help/customer/display.html?nodeId=200038080) to see what's changed.)
 
 Amazon.ca knows you care how information about you is used and shared, and we appreciate your trust that we'll do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.ca, you're accepting the practices described in this Privacy Notice.**
 
@@ -14,7 +14,6 @@ Amazon.ca knows you care how information about you is used and shared, and we ap
   * Which Information Can I Access?
   * What Choices Do I Have?
   * Are Children Allowed to Use Amazon.ca?
-  * Does Amazon.ca Participate in the Safe Harbour Program?
   * Conditions of Use, Notices, and Revisions
   * Examples of Information Collected
 
@@ -62,7 +61,7 @@ Information about our customers is an important part of our business, and we're 
 
 ## What About Third-Party Advertisers and Links to Other Web Sites?
 
-Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.ca, including personalized or interest-based ads, please read our [Interest-Based Ads policy](https://www.amazon.ca/gp/BIT/InternetBasedAds).
+Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.ca, including personalized or interest-based ads, please read our [Interest-Based Ads policy](https://web.archive.org/gp/help/customer/display.html?nodeId=202146130).
 
 ## Which Information Can I Access?
 
@@ -82,24 +81,13 @@ Amazon.ca gives you access to a broad range of information about your account an
 
 Amazon.ca does not sell products for purchase by children. We sell children's products for purchase by adults. If you're under 18, you may use Amazon.ca only with the involvement of a parent or guardian.
 
-## Does Amazon.ca Participate in the Safe Harbour Program?
-
-Any personal information provided to or to be gathered by Amazon.ca is controlled by Amazon.com.ca, Inc. of 410 Terry Avenue North, Seattle, WA 98109 and stored in the U.S. Amazon.com, Inc. and its controlled U.S. subsidiaries, including Amazon.com.ca, Inc., are participants in the Safe Harbour program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbour and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web Site. If you would like to contact Amazon.com and its controlled U.S. subsidiaries directly about the Safe Harbour program, please send an e-mail to safeharbour@amazon.com.
-
 ## Conditions of Use, Notices, and Revisions
 
 If you choose to visit Amazon.ca, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.ca, please [contact us](https://www.amazon.ca/gp/help/customer/display.html?nodeId=915404) with a thorough description, and we'll try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://www.amazon.ca/gp/help/customer/display.html?nodeId=918816) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-Related Practices and Information   
-
-
-  * [ Conditions of Use](https://www.amazon.ca/gp/help/customer/display.html?nodeId=918816)
-  * [ Amazon.ca Charter of Rights](https://www.amazon.ca/gp/help/customer/display.html?nodeId=918828)
-  * [ Help department](https://www.amazon.ca/gp/help/customer/display.html?nodeId=915400)
-
-
+Related Practices and Information 
 
 ## Examples of Information Collected
 
