@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siriusdecisions.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328040738id_/https%3A//www.siriusdecisions.com/Misc/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriusdecisions.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119213352id_/https%3A//www.siriusdecisions.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy | SiriusDecisions
 
@@ -42,11 +42,11 @@ Document Use
   * Users may not: 
     * Store documents in shared folders.
     * Act as a 'librarian' for redistribution of documents to non-users unless otherwise stated in their contract terms.
-    * Reproduce or distribute documents externally without SiriusDecisions’ prior written permission from [ashlyn.bohling@siriusdecisions.com](mailto:ashlyn.bohling@siriusdecisions.com).
+    * Reproduce or distribute documents externally without SiriusDecisions’ prior written permission from [ashlyn.westling@siriusdecisions.com](mailto:ashlyn.westling@siriusdecisions.com).
 
 
 
-###  Usage Tracking ("Cookies")
+### Usage Tracking ("Cookies")
 
 We monitor how you use our Web sites through pages visited and documents viewed. If you are a registered user, this information is stored with your registration information. It is unique-number identifiable, and is used solely for purposes of enabling us to provide you with a personalized Web site experience. Aggregated (not personally identifiable) forms of this data may also be used in order to help us understand areas for future research and to identify future features and functions to develop for the Web sites. 
 
@@ -72,4 +72,4 @@ We will notify you about significant changes to our Privacy Policy by placing a 
 
 ### Contact SiriusDecisions
 
-If you would like to be taken off our marketing lists, please send an e-mail to [ashlyn.bohling@siriusdecisions.com](mailto:ashlyn.bohling@siriusdecisions.com), or write to us at SiriusDecisions, Attention: Privacy Dept, 187 Danbury Road, Wilton, CT 06897.
+If you would like to be taken off our marketing lists, please send an e-mail to [ashlyn.westling@siriusdecisions.com](mailto:ashlyn.westling@siriusdecisions.com), or write to us at SiriusDecisions, Attention: Privacy Dept, 187 Danbury Road, Wilton, CT 06897.
