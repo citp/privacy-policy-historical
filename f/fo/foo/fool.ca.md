@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fool.ca privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126073712id_/http%3A//www.fool.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.ca privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120001620id_/https%3A//www.fool.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Motley Fool Canada
 
 The Motley Fool Canada, ULC, (“The Motley Fool”) takes the issue of privacy very seriously and is committed to protecting and respecting your privacy.  This Privacy Policy describes how we may collect, use and disclose personal information of our users, readers and subscribers.  It does not apply to personal information that we collect, use or disclose for journalistic purposes.
 
-Submitting your personal information, subscribing to our services or products or using our website, you signifies your agreement to the terms and conditions of this Privacy Policy.
+Submitting your personal information, subscribing to our services or products or using our website, signifies your agreement to the terms and conditions of this Privacy Policy.
 
 If you have any queries or concerns regarding our privacy practices, please contact us at [privacy@fool.ca](mailto:privacy@fool.ca).
 
