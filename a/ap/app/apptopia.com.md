@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apptopia.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822122530id_/https%3A//apptopia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptopia.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119073946id_/https%3A//apptopia.com/legal/privacy) for the most accurate reproduction.*
 
-# Apptopia
+# Privacy Policy | Apptopia
 
 Apptopia.com is owned and controlled by Apptopia, Inc. (“Apptopia”, “we”, “us” or “our”). We are sensitive to your concerns about how we use the personal information we collect from someone that accesses, browses, or in any way uses the Services (“You”, “you”, or “User”) through Apptopia.com website(s), domains, Applications, or any of its Services (the “Site”). We have implemented this privacy policy (the “Privacy Policy”) and practices to keep your personal information secure, and it describes how we collect and use such information, and the choices you have regarding our use. This Privacy Policy is incorporated into our Terms of Services and therefore governs your use of the Services. BY ACCESSING OR USING THE SERVICES, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MAY NOT ACCESS OR USE THE SERVICES.
 
@@ -60,6 +60,6 @@ We do not offer products or services for anyone under 18 (“Child”). If you a
 
 We reserve the right to revise this Privacy Policy or any part of it from time to time. We will provide notice (e.g., via email or our website) of material changes before any such changes take effect. Changes to this Privacy Policy may affect User Information provided to Apptopia before the revised Privacy Policy. Please review the Privacy Policy periodically for changes. You acknowledge and agree that your use of the Services after Apptopia posts an updated privacy policy will constitute notice of, and consent to, the updated policy.
 
-If you have any questions or concerns about this Privacy Policy or its implementation, you may contact Apptopia via [privacy@apptopia.com](mailto:privacy@apptopia.com) or at the following address: Apptopia, Inc., 745 Atlantic Ave, 8th Floor, Boston, MA 02111.
+If you have any questions or concerns about this Privacy Policy or its implementation, you may contact Apptopia via [privacy@apptopia.com](mailto:privacy@apptopia.com) or at the following address: Apptopia, Inc., 132 Lincoln St, 3rd Floor, Boston, MA 02111.
 
-This Policy was last Updated on May 28, 2015.
+This Policy was last Updated on September 21, 2016.
