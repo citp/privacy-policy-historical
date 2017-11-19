@@ -1,80 +1,144 @@
-> *The following text is extracted and transformed from the landmarkcinemas.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415160850id_/http%3A//www.landmarkcinemas.ca/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D115) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkcinemas.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119120658id_/https%3A//www.landmarkcinemas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Landmark Cinemas Privacy Policy
 
-(Last updated June 1, 2009)  
-Landmark Cinemas of Canada Inc. respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains Landmark Cinemas of Canada Inc. and its subsidiaries’ (collectively, "Landmark Cinemas") treatment of your personally identifiable information collected in connection with your activities on or related to all Landmark Cinemas websites referencing this Privacy Policy (the "Landmark Cinemas Sites") and all services made available on the Landmark Cinemas Sites (collectively, unless noted otherwise, the "Landmark Cinemas Services"). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information.  
-We urge you to read this Privacy Policy carefully and to check back periodically as this Privacy Policy may change from time to time. Please note that this Privacy Policy does not apply to the practices of companies or websites which are not owned or controlled by Landmark Cinemas.
+**Last updated: November 23, 2016**
 
-INFORMATION COLLECTED  
-In the course of operating the Landmark Cinemas Services, we may collect two types of information about our users: Personal Information and Non-Personal Information.  
-"Personal Information" is personally identifiable information, such as your name, address, email address, birth date and gender. Personal Information is collected by us when you choose to provide it to us when registering for a Landmark Cinemas Service, such as when you choose to subscribe to a Landmark Cinemas Service, enter a Landmark Cinemas promotion or choose to receive a Landmark Cinemas newsletter. In addition, if you choose to contact any of our customer service representatives, we may keep a record of that correspondence so that we may fully address the subject matter. We may also receive Personal Information from our business partners and other third parties, provided that such third parties confirm to us that you have permitted them to share such information.  
-Business contact information such as the name, title, business address, email address or telephone number of a business or professional person or an employee of an organization is not considered Personal Information.  
-"Non-Personal Information" is information of an anonymous nature, such as your Internet Protocol Address (IP Address), the domain you may have used to access a Landmark Cinemas Service, the type and version of browser or operating system you may be using, and the website you may have come from and visit next. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors and average time spent on a Landmark Cinemas Service, is also considered Non-Personal Information.  
-Non-Personal Information is collected or derived by us in the course of operating the Landmark Cinemas Services. For example, our Web servers may automatically collect Non- Personal Information which is provided through your browser or stored on a Cookie (as defined herein) when you choose to visit a Landmark Cinemas Service. Non-Personal Information is used by Landmark Cinemas as described in this Privacy Policy.
+This Privacy Policy provides you with information regarding the practices of Landmark Cinemas of Canada Inc. with respect to the collection, use, retention, storage and disclosure of your Personal Information by Landmark Cinemas of Canada Inc. (“ **Landmark** ”), Suite 100, 14505 Bannister Rd SE Calgary, Alberta T2X 3J3, **** by the website landmarkcinemas.com.
 
-USE OF PERSONAL INFORMATION  
-Personal Information may be used by us for the following purposes:  
-a.    Providing you with the Landmark Cinemas Services and information you have requested from us, including your use of the Landmark Cinemas Sites. We may from time to time use your Personal Information to contact you about changes, enhancements or similar notices related to the Landmark Cinemas Services;  
-b.    If you indicated that you were interested in receiving offers or information from Landmark Cinemas or certain of our selected sponsors or advertisers, Landmark Cinemas may send you email materials and other mailings about products and services that we feel may be of interest to you. If at any time you would like to end your subscription to any such email materials, follow the directions posted at the bottom of the email material;  
-c.    If you enter a contest or other promotion offered on a Landmark Cinemas Site, we may, under the rules of the promotion, use your name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion; or  
-d.    Landmark Cinemas may also use Personal Information if it has reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law or in order to protect or defend a legal interest.
+The following defined terms are used in this Privacy Policy:   
+**“We” or “us”** means Landmark Cinemas of Canada Inc. and our Affiliates.  
+“ **Site** ” means the Landmark website at [www.landmarkcinemas.com](https://www.landmarkcinemas.com/).  
+“ **Personal Information** ” means information about you as an identifiable individual.  This includes information such as your name, home address, telephone number, personal e-mail address, and personal social media addresses.  If you are an individual and not a business organization, your business address, title, and business telephone number are not Personal Information when used for business purposes.  
+“ **Affiliates** ” means our affiliates, subsidiaries and other related entities.   
+“ **Service Providers** ” means other companies and individuals who provide us with services but who are not our employees or Affiliates.  
+We may update this Privacy Policy without prior notice to you, and any changes will be effective immediately upon the posting of the revised Privacy Policy on the Site. ****
 
-DISCLOSURE OF PERSONAL INFORMATION  
-We will not sell or rent your Personal Information to anyone.   
-We will only disclose your Personal Information to third parties:  
-a.    Where you have specifically given us your consent to disclose your Personal Information for a designated purpose;  
-b.    Who are acting on our behalf as our agents, suppliers or service providers, solely to enable us to more efficiently provide you with the Landmark Cinemas Services. Such entities act under strict contractual controls, requiring them to maintain the confidentiality of all such Personal Information and to use such information solely for purposes related to the provision of the Landmark Cinemas Services;  
-c.    As may be set out in the Terms and Conditions applicable to a Landmark Cinemas Service, to facilitate the provision of such Landmark Cinemas Service, such as fulfilling legal requirements;  
-d.    As required by law, including by an order of any court, institution or body with jurisdiction or authority to compel the production of information, or in order to protect or defend a legal interest; or  
-e.    In connection with a Landmark Cinemas corporate re-organization, merger or amalgamation with another entity, or a sale of all or a substantial portion of the assets of Landmark Cinemas provided that the Personal Information disclosed continues to be used for the purposes permitted by this Privacy Policy by the entity acquiring the information.
+**QUICK LINKS**  
+Click on one of the links below to access the content of the listed section:
 
-LINKS TO OTHER SITES AND ADVERTISEMENTS  
-A Landmark Cinemas Service may contain links to other websites and services. While we try to link only to sites and services that share our high standards and respect for privacy, please understand that we are not responsible for the content of, or the privacy practices employed by, other companies or websites. This Privacy Policy applies only to the Landmark Cinemas Services referencing this Privacy Policy.  
-The majority of the advertisements which are displayed in connection with the Landmark Cinemas Services are served through reputable third party advertisement serving partner(s), in accordance with their policies as described on their own website.
+  * **Application of this Privacy Policy**
+  * **Information we collect**
+  * **Children and Minors**
+  * **Uses of the information we collect**
+  * **How we obtain your consent**
+  * **How we share your information**
+  * **How we store and protect your Personal Information**
+  * **Links to external content**
+  * **Cookies, advertising and how to opt-out**
+  * **Accessing your Personal Information**
+  * **How to contact us**
 
-  
-SECURITY  
-The security of your Personal Information is important to us. Landmark Cinemas takes technical, contractual, administrative, and physical security steps to protect Personal Information that you provide to us. We instruct our employees with access to your Personal Information that it is to be used only in adherence with the principles set forth in this Privacy Policy and the laws applicable to each specific business.  
-In certain areas, such as when you provide credit card information to us, we work to help protect the security of your credit card information during transmission by using industry standard Secure Sockets Layer (SSL) encryption technology.  
-You can help protect the security of your Personal Information as well. For instance, never give out your password, since this is what is used to access your account or registration information. Also remember to log out of your account and close your browser window when you finish using a Landmark Cinemas Service or surfing the Web, so that other people using the same computer won't have access to your information.
 
-  
-CHANGES TO THIS PRIVACY POLICY  
-Landmark Cinemas may from time to time change this Privacy Policy as new Landmark Cinemas Services are added or old ones changed. Changes will be effective when notice of such change is posted at a Landmark Cinemas Site. Please check this Privacy Policy regularly for updates by checking the date of "Last updated" at the top of this document.
 
-  
-ADDITIONAL PRIVACY PROCEDURES  
-Privacy procedures specific to a Landmark Cinemas Service can be found on a Landmark Cinemas Site at the location of the particular Landmark Cinemas Service, or in additional terms referenced at such Landmark Cinemas Site. Those procedures are an addendum to this Privacy Policy, and are provided to you at the place where they will be of most use to you.
+* * *
 
-  
-ACCESSING AND CHANGING ACCOUNT / REGISTRATION INFORMATION  
-Landmark Cinemas provides you with the means to access, update, edit or delete any account or registration information you may have provided to us at any time on your own by going to the appropriate page in the account or registration section of the relevant Landmark Cinemas Service, and changing or deleting such information as desired.  If you are unsure whether we have a record containing any of your Personal Information and would like to confirm whether or not we do, please send an e-mail indicating all e-mail addresses that you may have given us.  
-If you decide at any time that you do not want to receive any e-mail materials to which you have subscribed, you may choose to unsubscribe to these e-mails by following the instructions at the end of the message.
+**1.Application of this Privacy Policy**
 
-  
-QUESTIONS, COMMENTS OR SUGGESTIONS?  
-If you have questions, comments or suggestions about this Privacy Policy or Landmark Cinemas' privacy practices that were not answered here, send us an e-mail.
+This Privacy Policy applies to Personal Information that we collect through the Site and when you contact us. 
 
-  
-USE OF NON-PERSONAL INFORMATION  
-Non-Personal Information is collected or derived by us in the course of operating the Landmark Cinemas Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a Cookie when you choose to visit a Landmark Cinemas Service.  
-In addition to Landmark Cinemas' practices related to IP Addresses or Cookies, Non-Personal Information is used generally by Landmark Cinemas to monitor and improve the operation of the Landmark Cinemas Services, to perform statistical analyses of the collective characteristics and behavior of our users, to measure user demographics and interests regarding specific Landmark Cinemas Services, to describe our services to third parties such as prospective business partners and advertisers and to analyze how and where best to use our resources. No Personal Information will be disclosed during these activities.  
-Landmark Cinemas may also use Non-Personal Information to inform our sponsors and advertisers as to the performance of a particular sponsorship (such as a contest) or advertisement. In such case we may disclose to those third-party sponsors and advertisers the overall aggregate demographics available regarding, for example who participated in a contest or who saw and "clicked" on an advertisement. No Personal Information will be disclosed to these sponsors and advertisers as part of this process; only information in an anonymous, aggregate form will be disclosed.
+**2.Information we collect**
 
-  
-IP ADDRESSES  
-An IP Address is the unique number which is assigned to every direct Internet access point. Many IP Addresses can generally be associated with certain Internet service providers or large organizations. IP Addresses do not contain any Personal Information. When you, through your browser, request a web page or similar Internet information from another computer on the Internet, your browser automatically provides that computer with an IP address to which it will send the requested information.  
-Landmark Cinemas and IP Addresses:  
-Whenever you request a Landmark Cinemas Service web page or certain other similar Landmark Cinemas content, your browser automatically provides our computers with your IP Address, to which our computers will send the requested information. Each such request is logged by our computers with information including the IP Address of the computer that requested the page and is stored by our computers as needed for the purposes described in this Privacy Policy;  
-a.    Landmark Cinemas may use your IP Address to display more appropriate and relevant content and advertising, such as content and advertising based on your geographic area. Aggregate information derived from IP Addresses may be reported by Landmark Cinemas to its advertisers and partners. For example, Landmark Cinemas may report to its advertisers the estimated total number of users accessing a particular Landmark Cinemas Site from a specific province;  
-b.    Landmark Cinemas may use your IP Address to facilitate the diagnoses and remedy of a technical problem reported by you or our technical team.
+We collect information when you provide it to us.  We also collect information about you through automated technologies on our Site and from third parties.  When we link information to you that was collected through automated technology, we treat that information as Personal Information.
 
-  
-COOKIES   
-A “Cookie” is a small text file containing a unique identification number that is transferred (through your browser) from a web site to the hard drive of your computer. The Cookie identifies your browser and will not let a web site know any personal information about you, such as your name and address. Since Cookies are only text files, they cannot run on your computer, search your computer for other information or transmit any information to anyone.  
-Landmark Cinemas may use Cookies to:  
-a.    Monitor website usage and improve the operation and performance of the Landmark Cinemas Services and to make our Landmark Cinemas Services easier and more convenient to use. For example, Cookies help us remember who you are through your browser settings so that we can offer and provide more personalized services (e.g. language preference). Cookies also allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit a Landmark Cinemas Service;  
-b.    Measure aggregate user traffic and demographic statistics related to the Landmark Cinemas Services and advertisements (e.g. number of users, average time spent, average age and similar statistics). This information helps us to better understand when to update, change or offer new services and provides us with details as to the performance of third party advertisements and content. This information may be reported, in aggregate form only, to our current and prospective sponsors, advertisers and business partners. No Personal Information will be disclosed in such reports;  
-c.    Displaying advertisements. Landmark Cinemas and third party advertising providers used by Landmark Cinemas may use Cookies when serving advertisements.  
-Cookies are used on many major web sites. Most browsers are initially set up to accept Cookies. If you prefer, you can reset your browser either to notify you when you have received a Cookie, or to refuse to accept Cookies. You should understand that while Landmark Cinemas does not require you to use Cookies, certain Landmark Cinemas Services will not function properly if you set your browser to not accept Cookies.
+**Information that you provide**  
+Landmark and our Affiliates and Service Providers collect Personal Information from you when you provide it.  For example, you might provide us with your Personal Information when you e-mail us, sign up for an e-mail newsletter, participate in a promotion, survey or other feature of the Site, register for an account, make payment on your account, communicate or interact with us through our Site. ****  
+If you do not want your Personal Information collected, please do not submit it. ****
+
+**Automated information and cookies**  
+When you visit or interact with us, we and our Affiliates and Service Providers may use technologies that automatically collect information about how you access, navigate and leave our Site.  For example, we will collect information on what other website you came from before visiting the Site, what browser type and operating system you are using, the internet protocol (IP) address you are accessing the Site from, the pages you are navigating through and what website you go to after visiting our Site.  In general, we do not associate this type of information with other Personal Information about you except in the case of an investigation into our website security.
+
+Our Site uses cookies.  Cookies are data files that are placed on the device you use to access our Site.  These cookies may be used to remember your language preference and to facilitate your navigation of our Site.  We may also use technologies such as web beacon technologies (sometimes referred to as pixel tags and clear GIFs).  These are transparent images that provide us, our Affiliates or our Service Providers with information about whether a webpage or e-mail has been viewed or forwarded and may communicate with our servers or those of our Affiliates, or our Service Providers in order to obtain images and other content and to relay information about the IP address being used to access our Site and information about your browser.  We use cookies and web beacons to present advertisements to you that we think may be of interest to you.  Although the information we collect through cookies and web beacons is typically not combined with information that would identify you, there is the potential for this information to be associated with you and, therefore, we treat it as Personal Information.
+
+This Site uses Google Analytics, a web analytics service provided by Google, Inc. (“ **Google** ”). Google Analytics uses cookies to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. 
+
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of this Site.   
+Please also see cookies, advertising and how to opt-out for more information on how we use cookies and web beacons and how you may opt-out.
+
+**Information from third parties**  
+We may collect or receive information about you from third parties.  If you are on another website and you opt-in to receive information from us, we may receive information about you. 
+
+**3.Children and Minors**
+
+The Site is not directed to or suitable for children under 13.  We do not knowingly collect Personal Information from anyone under 13 years of age.  If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will delete this information from our records or, if that is not reasonable, we will take reasonable available steps to de-identify the information.  Children who are over the age of 13 but under the age of majority in the jurisdiction in which they reside should not provide us with Personal Information without their parent’s or guardian’s consent.
+
+**4.Uses of the information we collect**
+
+We use information collected from you for business purposes.  For example, we use Personal Information:
+
+  * to provide you with services and information you have requested from us, including your use of the Site. We may from time to time use your Personal Information to contact you about changes, enhancements or similar notices related to our services;
+  * if you indicated that you were interested in receiving offers or information from us or certain of our Affiliates or Service Providers, we may send you email materials and other mailings about products and services that we believe may be of interest to you. If at any time you would like to end your subscription to any such email materials, follow the directions posted at the bottom of the email material; 
+  * if you enter a contest or other promotion offered on our Site, we may, under the rules of the promotion, use your name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion;
+  * to provide legal notices.
+
+
+
+In addition, we use information in order to learn about our customers in order to improve our Site and to develop new products and services.  For example, we use information received from automated technologies such as your domain type, IP address and clickstream information to determine how many visitors visit areas of our Site, how long they remain on our Site, and whether they use the hyperlinks we provide.  Please also see Cookies, advertising and how to opt-out for more information on how we use cookies and web beacons and how you may opt-out.
+
+**5.How we obtain your consent**
+
+You consent to the collection, storage and use of your Personal Information when you provide it to us or you provide it to a third party and give the third party permission to send that information to us.  The purposes for the collection of Personal Information that you provide to us are usually stated or implicit in the context in which you gave it to us or a third party acting on our behalf.  If we want to make additional uses of your Personal Information, we will ask you for your express consent.  For example, if you provide us with your e-mail address so that we can provide you with a newsletter, we obtain your implied consent to use your e-mail address for providing you with our newsletters.  If you provide us with your e-mail address when you make an inquiry, we obtain your implied consent to use it for the purposes of responding to your inquiry.  We may ask you for your opt-in consent to use your e-mail for other purposes, such as adding you to our newsletter list.  
+We use opt-out consent for cookies and web beacons and other automated information.  If you do not want us to collect or use this information, please do not visit our Site.  In addition, you may opt-out by using browser settings that will not accept cookies or setting your e-mail application to not download images.  In addition, you may opt-out of certain on-line advertising.  Please see Cookies, advertising and how to opt-out for more information.
+
+**6.How we share your information**
+
+We may share information we collect about you in the following circumstances.
+
+**Affiliates and Service Providers providing services to us or on our behalf**  
+Our Affiliates and Service Providers provide services to us and may provide services to you on our behalf.  We may share your Personal Information or information that we have collected through automated means on our Site with our Affiliates and Service Providers.  For example, our Affiliates and Service Providers may host our Site, analyze data collected from our Site, provide customer services on our behalf, administer our promotions, provide marketing or promotional assistance, post our advertisements, and collect your feedback on our Site and advertisements.
+
+**Aggregated or de-identified information**  
+We may share information in aggregated statistics and de-identified form with third parties, which does not include your Personal Information.
+
+**When you specifically agree to us sharing your information**  
+In some situations, you may specifically agree to us sharing your information.  For example, if you provide us with your contact information, e-mail address, Facebook account, or Twitter account for the purposes of signing up for information or marketing offers from an Affiliate, Service Provider or other third party, we may share your Personal Information for that purpose.  Your Personal Information will be subject to the privacy policy and business practices of our Affiliate, Service Provider or other third party.
+
+**Business Mergers or Acquisitions**  
+We may sell or purchase our shares or assets, or enter into other transactions.  If another entity acquires us or all or a portion of our assets or we are involved in a corporate re-organization, merger or amalgamation with another entity, information that we collected from you may be shared with that entity.  The information will be shared for the purpose of that entity considering whether to enter into the transaction and also to complete the transaction.  Should such a sale or transfer or other transaction occur, we will use reasonable efforts to cause that entity to use your information in a manner that is consistent with this Privacy Policy and the purposes for which the information was originally collected.    
+
+**Other legally required or permitted disclosures**  
+We may also disclose your Personal Information in the following circumstances: (a) if such disclosure is necessary for us to receive legal advice; (b) to collect a debt from you; (c) if we are required to disclose your Personal Information in order to comply with any legal obligation or the decision of a judicial authority; (d) if disclosure is requested by an investigatory body, law enforcement official or governmental authority which has lawful authority to request the disclosure of the information in respect of an investigation; (e) if we have reasonable grounds to believe that the information relates to a breach of an agreement or contravention of a law; or (f) where we are otherwise permitted to do so by applicable law.
+
+**7.How we store and protect your Personal Information**
+
+We retain your Personal Information to fulfill the purposes for which it was collected.  We maintain and also require our Service Providers to maintain administrative, technical and physical safeguards in an effort to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of your Personal Information.  For example, we use password protection where appropriate and limit access to staff, employees, Affiliates and Service Providers who need to have access to it for the purposes for which it was collected and who have acknowledged their obligations to protect your Personal Information.  When we transfer your Personal Information, we use encryption where appropriate. Please understand, however, that we cannot and do not guarantee the security of your Personal Information.
+
+If you are located in Canada, please be aware that information we collect may be transferred to and processed in the United States and other countries in which our Affiliates and Service Providers have operations, and will be subject to the laws of those jurisdictions, which may be different from Canada’s laws. 
+
+**8.Links to external content **
+
+Our Site may link or direct you to other websites, services or external content resources which are outside of our control.  Once you have left our Site, we cannot safeguard and are not responsible for the protection and privacy of any Personal Information which you provide on other websites.  These other websites may send their own cookies to your device and may independently collect data or solicit Personal Information.  Please review the applicable terms of use and privacy policies for those other websites.
+
+**9.Cookies, advertising and how to opt-out**
+
+We, or our third-party advertising Service Providers, may use cookies, web beacons and other technologies.  We use these technologies to gather statistical information such as your use of our Site, and whether you have opened e-mail advertising from us, and for other marketing purposes, including delivering advertising to you.
+
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject any cookies.  You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it.
+
+You may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you.  Please visit [Digital Advertising Alliance of Canada Opt-Out Page](http://youradchoices.ca/understanding-online-advertising), [NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp) and the [Ad Choices Opt-Out Page](http://www.aboutads.info/choices/).  
+These websites provide tools that identify member companies that have cookies on your browser and provides mechanisms to opt-out of those cookies.  You will still receive other types of advertising from participating companies; however, it will not be based on your interests.  Deleting browser cookies can remove your opt-out preferences, so you should use these tools periodically to ensure that your preferences are up-to-date.
+
+**10.Accessing your Personal Information**
+
+If you wish to verify, correct, or update any of your Personal Information collected by us or our Service Providers or Affiliates acting on our behalf and that we have received from these Service Providers or Affiliates, you may do so by contacting us at the address listed below in “How to Contact Us.”
+
+Please note that we may request Personal Information from you in order to authenticate your identity before providing you with access to your Personal Information or complying with any request to correct or update your Personal Information.    
+Please also note that in some cases we may legally deny you access to the information that we have collected about you.  For example, this may occur where the information is subject to solicitor-client privilege or consists of references to other persons or proprietary information that cannot be severed from your information.
+
+We may routinely delete certain records that contain Personal Information in accordance with our record-keeping practices.  Although we will make efforts to comply with any request that you may make to destroy Personal Information about you that is not otherwise required by us to fulfill legal requirements or to protect our interests, you should be aware that it is not always possible to completely remove or delete all of your Personal Information from our databases without some residual copies of data because of back-ups, archival systems and other reasons.  We will not, however, continue to use your Personal Information for active purposes once you have requested us not to do so.
+
+**11.How to contact us **
+
+If you have any questions or comments about this Privacy Policy, please contact us:
+
+  * by email at [privacyofficer@Landmarkcinemas.com](mailto:privacyofficer@Landmarkcinemas.com);
+  * by telephone at 1-403-262-4255; or
+  * by mail at:
+    * Attn: Guest Services
+
+
+
+Landmark Cinemas   
+Suite 100, 14505 Bannister Rd SE  
+Calgary, Alberta  
+T2X 3J3
