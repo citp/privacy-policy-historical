@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edureka.co privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112202757id_/http%3A//www.edureka.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edureka.co privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119220629id_/https%3A//www.edureka.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edureka
 
@@ -17,7 +17,7 @@ If you choose to register, and are 13 years of age or older, we will collect and
   * We may collect information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies help us improve our Site and deliver a better and personalized service. Cookies enable Us:
     * to estimate Our users’ usage size and pattern;
     * to store information about your preferences, and allow us to customize our Site according to your interests;
-    *   * to recognize you when you return to our Site. 
+  * to recognize you when you return to our Site. 
 
 
 
