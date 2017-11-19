@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uea.ac.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627155629id_/https%3A//www.uea.ac.uk/about/legalstatements%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uea.ac.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120003923id_/https%3A//www.uea.ac.uk/about/legalstatements%23cookies) for the most accurate reproduction.*
 
 # Legal Statements - UEA
 
