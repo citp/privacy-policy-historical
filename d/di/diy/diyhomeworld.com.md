@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyhomeworld.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629055409id_/http%3A//diyhomeworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyhomeworld.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119053332id_/http%3A//diyhomeworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
