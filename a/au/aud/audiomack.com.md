@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audiomack.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405024359id_/https%3A//www.audiomack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiomack.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119063501id_/https%3A//www.audiomack.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Audiomack
+# Privacy Policy
 
 Effective as of February 10, 2016
 
@@ -30,7 +30,7 @@ The public availability of certain kinds of personal information you elect to sh
 
 Visiting and using the Platform does not require you to provide any personal information, however, by electing to register for a user account you will provide us with certain information as you complete the registration process:
 
-**Opt-In/Registration Data:**
+ **Opt-In/Registration Data:**
 
 To register for an Audiomack account, you must provide us with a valid email address. If you use Social Login (e.g. Facebook) to sign up, we will receive the email address you have registered with Facebook. You may _elect_ to provide us with certain other personal information - personal/artist biography, hometown, and links to your profiles on other social media platforms (Facebook, Twitter, etc).
 
@@ -40,7 +40,7 @@ You will also provide certain personal data if you use our Contact Us tools, on-
 
 You _may_ also provide other personal information through your use of the site and posting of audio material, in the track description, comments, or title fields.
 
-**Data we collect on usage, analytics, and cookies:**
+ **Data we collect on usage, analytics, and cookies:**
 
 By using the Platform, you consent to our use of different technologies and methods that collect information about how you use, access, and interact with the Platform, which may include any of the following;
 
@@ -106,6 +106,8 @@ Audiomack may disclose your personal information if we feel it is necessary to d
 
 Audiomack may transfer your information to any person or party that acquires all or a substantial portion of our company or assets, or in the case of a merger, acquisition, or if the company becomes insolvent.
 
+We use third-party advertising companies to serve ads and collect information when you visit our website. These companies will NOT have access to or use any personally identifiable information (including your name, address, email address or telephone number) but will use other non-personal information about your visits to this and other websites in order to provide advertisements on this website, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp> or <http://www.aboutads.info/choices>.
+
 ## 5 - How we use cookies and technology
 
 Audiomack uses cookies and related technology to enhance the Platform, provide you with a consistent experience, record login and registration information, and to serve you more relevant
@@ -118,7 +120,7 @@ Audiomack does not currently respond to or acknowledge Do Not Track (DNT) reques
 
 ## 6 - Accessing and updating your information
 
-You may update your personal information at any time by visiting your Dashboard page in your user profile. Please bear in mind that profile 
+You may update your personal information at any time by visiting your Dashboard page in your user profile. Please bear in mind that profile
 
 Your data will be deleted if you delete your account, however, please bear in mind that it may still show up on internet search engines for some time after deletion due to caching.
 
