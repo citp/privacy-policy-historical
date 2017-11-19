@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgewinners.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608150241id_/http%3A//bridgewinners.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgewinners.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119053911id_/http%3A//bridgewinners.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Bridge Winners: Privacy Policy
 
