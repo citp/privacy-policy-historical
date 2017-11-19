@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gll.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628210319id_/http%3A//www.gll.org/b2b/pages/31) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gll.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119135349id_/http%3A//www.gll.org/b2b/pages/31) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy & Data Protection
 
-We respect each individual’s right to personal privacy ("you"/"your"). We will collect and use information through our website only in the ways covered in this statement. This statement applies solely to information collected on our website [www.better.org.uk](https://web.archive.org/web/20170628210319id_/http%3A//) and [www.gll.org](http://www.gll.org/) ("our website(s)").
+We respect each individual’s right to personal privacy ("you"/"your"). We will collect and use information through our website only in the ways covered in this statement. This statement applies solely to information collected on our website [www.better.org.uk](http://cms.better.org.uk/admin/) and [www.gll.org](http://www.gll.org/) ("our website(s)").
 
 For the purposes of the Data Protection Act 1998 ("Act"), the data controller is Greenwich Leisure Ltd ("we"/"our"/"us") of Middlegate House, 1 Seymour Street, Woolwich, London SE18 6SX. Our nominated representative for the purposes of the Act is Philip Donnay.
 
@@ -37,6 +37,32 @@ We share your information with third parties where we manage their facilities. T
 We may disclose your information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
 We may disclose your information in the event that we sell or buy any business assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+
+### Data Protection
+
+_The Framework_
+
+GLL Better is committed to operating in a way that complies fully with the provisions of the Data Protection Act 1998. GLL Better recognises that the personal data legitimately required in order to carry out its business must be collected, processed, stored and disposed of fairly, lawfully and with due regard to confidentiality. GLL Better fully respects your privacy. 
+
+GLL has a clear internal framework to enable it to meet its obligations in relation to the eight legally enforceable Data Protection Principles laid out in the Act. You can view these principles [here](https://ico.org.uk/for-organisations/guide-to-data-protection/data-protection-principles/).
+
+All GLL workers and employees have responsibilities under the Data Protection Act 1998 and are trained appropriately for their specific roles on complying with the provisions of the Act. Managers are trained to ensure that within their areas their staff and workers are aware of their responsibilities and adhere to the relevant requirements and processes.
+
+The details of GLL’s registration (Ref No.  **Z5607003** ) can be accessed on the [Information Commissioner’s Office website](https://ico.org.uk/ESDWebPages/DoSearch).
+
+_Processing and using your data_
+
+By providing your personal data, you are agreeing to its processing and use by GLL Better and / or its partner organisations (principally those who own the facilities we manage) for the purpose for which it was given. You can opt out of processing and sharing for marketing purposes by contacting us at [www.better.org.uk/contactus](https://www.better.org.uk/contactus) or by indicating your preference on the paper copy of the form you completed. Your personal data in the form of images may be captured at some facilities where GLL manages or operates CCTV cameras.
+
+We may also disclose your personal information to any subsidiary or parent company or any department or area of our business and /or our partner organisations in connection with the purpose for which you provided the data. We will not share the data with any other third party unless permitted to under the Act, including for example, disclosures in respect of the prevention or detection of crime, the assessment or collection of tax or duty, disclosures required by law or by order of a court, or disclosures for the purpose of or in connection with any legal proceedings.
+
+_Security_
+
+Managers and staff within GLL will take all necessary steps to make sure that personal data is kept secure at all times against unauthorised or unlawful loss or disclosure. GLL will retain personal data only for as long as it is needed for its original purpose. Any data no longer required will be deleted or disposed of confidentially and completely. Records deleted on live systems will also be deleted from system back-ups and archives, along with any hard copies.
+
+_Access_
+
+The Data Protection Act gives rights to individuals in respect of the personal data held about them. Please refer to [Information Commissioner’s Office website](http://www.ico.org.uk/) for further information. One of those rights is the right to access the information we hold about you (for which there may be a small charge). You can obtain a copy GLL’s Data Protection Access Request Form, which outlines the process for dealing with a request for data disclosure, from the Data Protection Officer by emailing [customerservices@gll.org](mailto:customerservices@gll.org).
 
 ### Links
 
