@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the symplur.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126194620id_/https%3A//www.symplur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symplur.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119144252id_/https%3A//www.symplur.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Symplur
 
 Symplur commits to strong, secure and transparent privacy practices. Our Privacy Policy explains:
 
@@ -14,7 +14,7 @@ We have kept this simple for your understanding, but if you’re not familiar wi
 
 Effective as of July 1, 2016
 
-Symplur LLC (“Symplur”, “we”, “us”, “our”) provides this “Privacy Policy” to inform our users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information that we receive when they visit and use the [www.symplur.com](http://www.symplur.com/) site and any websites owned by Symplur (collectively, the “Sites”), and when they use any of Symplur’s services. For ease of reading in this Privacy Policy, the Sites and our services are collectively referred to as the “Service(s).” This Privacy Policy applies only to information that you provide to us when you use the Sites or Service.
+Symplur LLC (“Symplur”, “we”, “us”, “our”) provides this “Privacy Policy” to inform our users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information that we receive when they visit and use the [www.symplur.com](https://www.symplur.com/) site and any websites owned by Symplur (collectively, the “Sites”), and when they use any of Symplur’s services. For ease of reading in this Privacy Policy, the Sites and our services are collectively referred to as the “Service(s).” This Privacy Policy applies only to information that you provide to us when you use the Sites or Service.
 
 ## Symplur’s Service and Social Data
 
@@ -110,4 +110,4 @@ We may make available on our Site, or link to, certain opportunities for our mem
 
 ## Questions?
 
-If you have any questions or concerns at all about our Privacy Policy, please feel free to [contact us](http://www.symplur.com/contact/)!
+If you have any questions or concerns at all about our Privacy Policy, please feel free to [contact us](https://www.symplur.com/contact/)!
