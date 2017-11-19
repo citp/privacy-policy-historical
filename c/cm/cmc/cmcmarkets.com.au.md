@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmcmarkets.com.au privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408005907id_/https%3A//www.cmcmarkets.com/en-au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmcmarkets.com.au privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119091403id_/https%3A//www.cmcmarkets.com/en-au/privacy) for the most accurate reproduction.*
 
-# Privacy & Security Policy | CMC Markets
+# Privacy & Security Policy | CMC Markets| CMC Markets
 
 This privacy statement explains how the CMC Markets Group (‘CMC Markets’) collects, maintains, uses and discloses your personal information.
 
