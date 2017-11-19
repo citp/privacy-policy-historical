@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pba.ph privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628050036id_/http%3A//pba.ph/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pba.ph privacy policy that was archived on 2017-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119230430id_/https%3A//pba.ph/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//cdn.taboola.com/libtrc/pba/loader.js" id="tb_loader_script"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -11,27 +11,27 @@
   </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=10.0" name="viewport">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; minimum-scale=1.0; user-scalable=no; target-densityDpi=device-dpi">
 
-    <!-- <meta property="fb:app_id" content="1579181439054691" /> -->
+    <meta property="fb:app_id" content="1579181439054691">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Privacy Policy | PBA - The Official Website</title>
 
     <!-- Bootstrap -->
-    <link href="/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
-    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="https://pba.ph/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
+    <link href="https://pba.ph/assets/css/bootstrap.css" rel="stylesheet">
     <!-- <link href="https://fonts.googleapis.com/css?family=Anton|Lato:300i,400,900" rel="stylesheet"> -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,500,900" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/lightbox.min.css">
-    <link rel="shortcut icon" href="/assets/img/favicon_1.ico" type="image/x-icon">
-    <link rel="icon" href="/assets/img/favicon_1.png" type="image/x-icon">
-    <link href="/assets/css/styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,500,600,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://pba.ph/assets/css/lightbox.min.css">
+    <link rel="shortcut icon" href="https://pba.ph/assets/img/favicon_1.ico" type="image/x-icon">
+    <link rel="icon" href="https://pba.ph/assets/img/favicon_1.png" type="image/x-icon">
+    <link href="https://pba.ph/assets/css/pba-style.css" rel="stylesheet">
 
     <!-- You can use latest version of jQuery  -->
-    <script src="/assets/js/jquery-1.9.1.min.js"></script>
-    <link href="/assets/css/lity.min.css" rel="stylesheet">
-    <script src="/assets/js/jquery.js"></script>
-    <script src="/assets/js/lity.min.js"></script>
+    <script src="https://pba.ph/assets/js/jquery-1.9.1.min.js"></script>
+    <link href="https://pba.ph/assets/css/lity.min.css" rel="stylesheet">
+    <script src="https://pba.ph/assets/js/jquery.js"></script>
+    <script src="https://pba.ph/assets/js/lity.min.js"></script>
 
     <!-- Include js plugin -->
    <!-- <script src="/assets/js/owl.carousel.js"></script>-->
@@ -71,6 +71,7 @@
       ga('send', 'pageview');
 
     </script>
+
     <script>
        function onSubmit(token) {
         grecaptcha.execute();
@@ -85,11 +86,16 @@
         document.getElementById("contact_us").submit();
        }
     </script>
-    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script>
+      document.documentElement.addEventListener('touchstart', function (event) {
+            if (event.touches.length > 1) {
+                event.preventDefault();
+            }
+        }, false);
+    </script>
   </head>
 <body>
 <div id="fb-root"></div>
-
 <script>
 
 	// This is called with the results from from FB.getLoginStatus().
@@ -181,6 +187,7 @@
 		        $('#username').val(response.id);
 		        $('#password').val(response.id);
 		        $('#cpassword').val(response.id);
+		        $('#image').val(response.picture.data.url);
 		        $('#facebook').val('1');
 
 
@@ -190,7 +197,7 @@
 	function doLogin() {
 		FB.api('/me', {fields: 'id,first_name,last_name,email,gender,picture'},
 			function(response) {
-				//alert('<pre>' + JSON.stringify(response) + '</pre>');
+				// alert('<pre>' + JSON.stringify(response) + '</pre>');
 		        $('#login_username').val(response.id);
 		        $('#login_password').val(response.id);
 		        $('#firstname').val(response.first_name);
@@ -199,6 +206,7 @@
 		        $('#username').val(response.id);
 		        $('#password').val(response.id);
 		        $('#cpassword').val(response.id);
+		        $('#image').val(response.picture.data.url);
 		        $('#facebook').val('1');
 
 				document.getElementById("login_form").submit();
@@ -206,514 +214,596 @@
 	}
 </script>
 
+	<script>
+		function show_side_nav(){
+				$(".overlay-box").css("visibility", "visible");
+		        $(".menu-list-container").animate({left: "0"});
+		    	$(document.body).css("overflow-y", "hidden");
+		    	$(document.body).css("position", "fixed");
+		}
 
-		<script>
-		$(document).ready(function(){
-		    $("#navigation").click(
-				function(){
-		        	        $(".overlay-box").css("visibility", "visible");
-		        		  }
-		);
-		});
+		function hide_side_nav(){
+				$(".overlay-box").css("visibility", "hidden");
+				$(".menu-list-container").animate({left: "-326"});
+				$(document.body).css("overflow-y", "scroll");
+				$(document.body).css("position", "");
+		}
 
-		$(document).ready(function(){
-		    $("#navigation").click(
-		    	function(){
-		        			$(".menu-list-container").animate({left: "0"});
-						  }
-		);
-		});
+		function show_side_nav2(){
+				$(".overlay-box").css("visibility", "visible");
+		        $(".nav-account-container").animate({right: "0"});
+		    	$(document.body).css("overflow-y", "hidden");
+		    	$(document.body).css("position", "fixed");
+		}
 
-		$(document).ready(function(){
-		    $("#navigation").click(
-		    	function(){
-		        			$(".menu-list-container-2").animate({left: "0"});
-						  }
-		);
-		});
-
-		$(document).ready(function(){
-		    $("#navigation").click(
-		    	function(){
-		        			$(document.body).css("overflow-y", "hidden");
-		        			$(document.body).css("position", "fixed");
-						  }
-		);
-		});
-		</script>
+		function hide_side_nav2(){
+				$(".overlay-box").css("visibility", "hidden");
+				$(".nav-account-container").animate({right: "-320"});
+				$(document.body).css("overflow-y", "scroll");
+				$(document.body).css("position", "");
+		}
+	</script>
 
 
-		<script>
-		$(document).ready(function(){
-		    $("#navigation-active").click(
-				function(){
-		        	        $(".overlay-box").css("visibility", "hidden");
-		        		  }
-		);
-		});
-
-		$(document).ready(function(){
-		    $("#navigation-active").click(
-		    	function(){
-		        			$(".menu-list-container").animate({left: "-326"});
-						  }
-		);
-		});
-
-		$(document).ready(function(){
-		    $("#navigation-active", ".overlay-box").click(
-		    	function(){
-		        			$(document.body).css("overflow-y", "scroll");
-						  }
-		);
-		});
-
-		$(document).ready(function(){
-		    $("#navigation-active").click(
-		    	function(){
-		        			$(".menu-list-container-2").animate({left: "-326"});
-						  }
-		);
-		});
-
-		$(document).ready(function(){
-		    $("#navigation-active").click(
-		    	function(){
-		        			$(document.body).css("overflow-y", "scroll");
-		        			$(document.body).css("position", "");
-						  }
-		);
-		});
-		</script>
+	<script>
+	$(document).ready(function(){
+	    $("#teams-players").click(function(){
+	        $("#drop").slideToggle("fast");
+	        $("#drop6").slideUp("fast");
+	        $("#drop5").slideUp("fast");
+	        $("#drop4").slideUp("fast");
+	        $("#drop3").slideUp("fast");
+	        $("#drop2").slideUp("fast");
 
 
 
-		<div class="resp-navbar">
-			<div class="resp-navs">
-				<div class="home-logo-brand">
-					<a class="hidden-lg hidden-xl resp-drawer-initiator standard-style " disabled="" id="navigation"><span class="init-icon glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span> <img class="init-brand" src="http://pba.ph/assets/img/pba.png">
-					</a>
-					<a href="http://pba.ph/home" "=""><img class="brand-logo hidden-md hidden-sm hidden-xs" src="http://pba.ph/assets/img/pba.png"></a>
-				</div>
-				<div class="resp-nav hidden-md hidden-sm hidden-xs">
-					<ul>
-											 	<li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/news">NEWS</a></li>
-						 	<li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/standings">STANDINGS</a></li>
-				            <li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/recap">RECAP</a></li>
-				            <li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/schedule">SCHEDULE</a></li>
+	    });
+	});
 
-				            <li><a href="#" class="standard-style font-lg1 site-tab ">PBA LIVE <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+	$(document).ready(function(){
+	    $("#schedule-standings").click(function(){
+	        $("#drop2").slideToggle("fast");
+	        $("#drop6").slideUp("fast");
+	        $("#drop5").slideUp("fast");
+	        $("#drop4").slideUp("fast");
+	        $("#drop3").slideUp("fast");
+	        $("#drop").slideUp("fast");
 
-								<ul>
-									<li style="padding-top:15px;"><a href="http://www.pba.com.ph/live">WATCH LIVE</a></li>
-									<li style="padding-top:15px;"><a href="http://pba.ph/playbyplay">PLAY BY PLAY</a></li>
-								</ul>
-				            </li>
+	    });
+	});
 
-
-				            <li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/stats">STATS</a></li>
-				            <li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/players">PLAYERS</a></li>
-				 			<li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/teams">TEAMS</a></li>
-				            <li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/transaction">TRANSACTIONS</a></li>
-				            <li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/events">EVENTS</a></li>
-				            <li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/promotions">PROMOTIONS</a></li>
-
-				            <li><a href="#" class="standard-style font-lg1 site-tab ">GALLERY <i class="fa fa-caret-down" aria-hidden="true"></i></a>
-
-								<ul>
-									<li style="padding-top:15px;"><a href="http://www.pba.ph/videos">VIDEOS</a></li>
-									<li style="padding-top:15px;"><a href="http://pba.ph/gallery">PHOTOS</a></li>
-								</ul>
-				            </li>
-
-				            <li><a class="standard-style font-lg1 site-tab " href="http://pba.ph/tickets">TICKETS</a></li>
+	$(document).ready(function(){
+	    $("#news-media").click(function(){
+	        $("#drop3").slideToggle("fast");
+	        $("#drop6").slideUp("fast");
+	        $("#drop5").slideUp("fast");
+	        $("#drop2").slideUp("fast");
+	        $("#drop4").slideUp("fast");
+	        $("#drop").slideUp("fast");
 
 
-				           	<!--<li><a class="standard-style font-lg1" href="gallery.html">D-LEAGUE</a></li>
-				            <li><a class="standard-style font-lg1" href="gallery.html">PBA WOMENS</a></li>
-				            <li><a class="standard-style font-lg1" href="gallery.html">ALAGANG PBA</a></li>-->
-				            <li><a class="standard-style font-lg1 site-tab privacy-policy" href="https://www.pbafantasy.com/" target="_new">PBA FANTASY</a></li>
+	    });
+	});
 
-					</ul>
+	$(document).ready(function(){
+	    $("#entertainment").click(function(){
+	        $("#drop4").slideToggle("fast");
+	        $("#drop6").slideUp("fast");
+	        $("#drop5").slideUp("fast");
+	        $("#drop3").slideUp("fast");
+	        $("#drop2").slideUp("fast");
+	        $("#drop").slideUp("fast");
+	    });
+	});
 
-
-				</div>
-
-				<!-- <div class="resp-nav  pull-right" style="margin-top: 25px;">
-							                    			<ul>
-		        		<li style="width: 100px;"><a href="#" class="standard-style font-lg1 site-tab ">
-		        			<i style="margin-top: 10px;" class="fa fa-caret-down pull-right" aria-hidden="true"></i></a>
-	 						<img class="account-login pull-right" src="http://pba.ph/assets/img/user2.png"></a>
-
-								<ul class="ul2">
-									<li style="padding-top:15px;"><a  href="http://pba.ph/login">LOGIN</a></li>
-									<li style="padding-top:15px;"><a  href="http://pba.ph/registration">REGISTER</a></li>
-								</ul>
-				            </li>
-				    </ul>
-	            				</div> -->
-<!--
-				<div class="nav-live pull-right">
-					<ul class="live-tabs">
-                           <a href="#"><li class="tab-link live-link-left"><span class="blink-2">&#8226;</span> LIVE</li></a> --><!--
-                        --><!-- <a href="#"><li class="tab-link live-link-right">PLAY BY PLAY</li></a>
-                      </ul>
-				</div> -->
-
-				<script>
-				$(document).ready(function(){
-				    $("#acct-menu-int").click(function(){
-				        $(".account-menu-container").toggle();
-				    });
-				});
-				</script>
+	 $(document).ready(function(){
+	    $("#community").click(function(){
+	        $("#drop5").slideToggle("fast");
+	        $("#drop6").slideUp("fast");
+	        $("#drop4").slideUp("fast");
+	        $("#drop3").slideUp("fast");
+	        $("#drop2").slideUp("fast");
+	        $("#drop").slideUp("fast");
+	    });
+	   });
 
 
+	 $(document).ready(function(){
+	    $("#live").click(function(){
+	        $("#drop6").slideToggle("fast");
+	        $("#drop5").slideUp("fast");
+	        $("#drop4").slideUp("fast");
+	        $("#drop3").slideUp("fast");
+	        $("#drop2").slideUp("fast");
+	        $("#drop").slideUp("fast");
+
+	    });
+	   });
+	</script>
+
+
+		<nav class="pba-navbar">
+
+			<div class="pba-navbar-brand">
+
+				<a class="hidden-lg" disabled="" onclick="show_side_nav();"><span class="resp-action-menu-2 glyphicon glyphicon-menu-hamburger"></span></a>
+				<a class="logo" href="https://pba.ph/home"><span class="brand-main"><img src="https://pba.ph/assets/img/pba.png"></span></a>
 
 			</div>
-		</div>
 
-		<div class="menu-list-container hidden-lg hidden-xl">
+			<div class="pba-navbar-links">
+					<ul class="hidden-sm hidden-xs hidden-md">
+						<li class="parent-menu"><a class="parent-link" href="https://pba.ph/tickets">Tickets</a>
+							<!-- <div class="collapse-container-1">
+							<ul>
+								<a href="#"><li>Season Tickets</li></a>
+							</ul>
+							<ul>
+								<a href="#"><li>Conference Game Tickets</li></a>
+							</ul>
+							<ul>
+
+								<a href="#"><li>Group Tickets</li></a>
+								<a href="#"><li>Ticket Prices</li></a>
+							</ul> -->
+							<!-- <ul>
+								<a href="#"><li>Venue Seat Plan</li></a>
+								<a href="#"><li>Ticketing Partners</li></a>
+							</ul> -->
+							<!-- <ul>
+								<a href="#"><li>FAQ</li></a>
+							</ul>
+							</div> -->
+						</li><!--
+						--><li class="parent-menu"><a href="#" class="parent-link">Teams &amp; Players</a>
+							<div class="collapse-container-1">
+								<ul>
+									<a class="child-link" href="https://pba.ph/teams"><li>Teams</li></a>
+									<a class="child-link" href="https://pba.ph/players"><li>Players</li></a>
+							    	<a class="child-link" href="https://pba.ph/stats"><li>Conference Leaders</li></a>
+
+								</ul>
+								<ul>
+
+
+									<!-- <a href="#"><li>History</li></a> -->
+								</ul>
+								<!-- <ul>
+
+									<a href="#"><li>Players Appearance From Sponsors</li></a>
+								</ul> -->
+							</div>
+							<!-- <ul class="nav-tp">
+								<a href="#"><li>Teams</li></a>
+								<a href="#"><li>Players</li></a>
+								<a href="#"><li>League Leaders</li></a>
+								<a href="#"><li>History</li></a>
+								<a href="#"><li style="padding-top:10px;">Player Appearances From Sponsors</li></a>
+							</ul> -->
+						</li><!--
+						--><li class="parent-menu"><a href="#" class="parent-link">Schedules &amp; Standings</a>
+							<div class="collapse-container-1">
+								<ul>
+									<a class="child-link" href="https://pba.ph/schedule"><li>Schedule &amp; Recap</li></a>
+									<a class="child-link" href="https://pba.ph/standings"><li>Standings</li></a>
+
+								</ul>
+								<!-- <ul>
+
+									<a href="#"><li>TV / CIGNAL / PBA Rush Programs / Listings</li></a>
+									<a href="#"><li>Radio Partners / Programs</li></a>
+								</ul> -->
+
+							</div>
+							<!-- <ul class="nav-ss">
+								<a href="#"><li>Game Schedule</li></a>
+								<a href="#"><li>Standings</li></a>
+								<a href="#"><li style="padding-top:10px;">TV / CIGNAL / PBA Rush Programs / Listings</li></a>
+								<a href="#"><li>Radio Partners / Programs</li></a>
+								<a href="#"><li>Schedule Download</li></a>
+
+							</ul> -->
+						</li><!--
+						--><li class="parent-menu"><a class="parent-link" href="#">News &amp; Media</a>
+							<div class="collapse-container-1">
+								<ul>
+									<a class="child-link" href="https://pba.ph/news"><li>News</li></a>
+									<!-- <a href="https://pba.ph/recap"><li>Rewind</li></a> -->
+									<a class="child-link" href="https://pba.ph/events"><li>Events &amp; Promotions</li></a>
+									<a class="child-link" href="https://pba.ph/transaction"><li>Transactions</li></a>
+
+									<a class="child-link" href="https://pba.ph/videos"><li>Videos &amp; Highlights</li></a>
+									<a class="child-link" href="https://pba.ph/gallery"><li>Photo Galleries</li></a>
+
+								</ul>
+
+								<!-- <ul>
+									<a href="#"><li>Hall of Fame</li></a>
+								</ul> -->
+							</div>
+							<!-- <ul class="nav-nm">
+								<a href="#"><li>News Archive</li></a>
+								<a href="#"><li>Rewind</li></a>
+								<a href="#"><li>Videos + Highlights</li></a>
+								<a href="#"><li>Photo Galleries</li></a>
+								<a href="#"><li>Hall of Fame</li></a>
+								<a href="#"><li>Events</li></a>
+								<a href="#"><li>Transactions</li></a>
+
+							</ul> -->
+
+						</li><!--
+						 --><li class="parent-menu"><a class="parent-link" href="#">Entertainment</a>
+							<div class="collapse-container-1">
+								<ul>
+									<!-- <a class="child-link" href="#"><li>PBA Mascot</li></a> -->
+									<a class="child-link" href="https://pba.ph/theapp"><li>Official PBA App</li></a>
+									<a class="child-link" target="_blank" href="https://www.pbafantasy.com/"><li>PBA Fantasy Basketball</li></a>
+									<a class="child-link" target="_blank" href="https://pba.ph/swish"><li>PBA Swish</li></a>
+									<!-- <a class="child-link" href="#"><li>Fan Code of Conduct</li></a> -->
+
+								</ul>
+								<!-- <ul>
+									<a class="child-link" href="#"><li>Dancers</li></a>
+									<a class="child-link" href="#"><li>In-Arena Entertainment</li></a>
+									<a class="child-link" href="#"><li>Greetings (Game Day) Requests</li></a>
+								</ul>
+								<ul>
+
+
+								</ul>
+								<ul>
+
+								</ul> -->
+							</div>
+						<!-- 	<ul class="nav-ent">
+								<a href="#"><li>PBA Mascot</li></a>
+								<a href="#"><li>Dancers</li></a>
+								<a href="#"><li>In-Arena Entertainment</li></a>
+								<a href="#"><li style="padding-top:10px;">Greetings (Game Day) Requests</li></a>
+								<a href="#"><li>Fan Code of Conduct</li></a>
+								<a href="#"><li>Official PBA App</li></a>
+								<a href="#"><li>PBA Fantasy Basketball</li></a>
+							</ul> -->
+						</li><!--
+						--><li class="parent-menu"><a class="parent-link" href="#">Community</a>
+							<div class="collapse-container-1">
+								<ul>
+									<a class="child-link" href="https://pba.ph/batang-achievers"><li>PBA Batang Achievers</li></a>
+
+								</ul>
+
+							 </div>
+						</li><!--
+						 --><li class="parent-menu"><a href="#" class="parent-link">PBA LIVE</a>
+							<div class="collapse-container-1">
+								<ul>
+									<a class="child-link" href="https://pba.ph/live"><li>Live Stream</li></a>
+									<a class="child-link" href="http://www.pba.ph/playbyplay"><li>Play by Play</li></a>
+
+
+								</ul>
+								<ul>
+
+
+									<!-- <a href="#"><li>History</li></a> -->
+								</ul>
+								<!-- <ul>
+
+									<a href="#"><li>Players Appearance From Sponsors</li></a>
+								</ul> -->
+							</div>
+							<!-- <ul class="nav-tp">
+								<a href="#"><li>Teams</li></a>
+								<a href="#"><li>Players</li></a>
+								<a href="#"><li>League Leaders</li></a>
+								<a href="#"><li>History</li></a>
+								<a href="#"><li style="padding-top:10px;">Player Appearances From Sponsors</li></a>
+							</ul> -->
+						</li><!--
+						<li class="parent-menu"><a href="#">Shop</a>
+							<div class="collapse-container-4">
+								<ul>
+									<a href="#"><li>Online Site</li></a>
+									<a href="#"><li>Merchandise</li></a>
+
+								</ul>
+								<ul>
+									<a href="#"><li>Tshirts</li></a>
+									<a href="#"><li>Jerseys</li></a>
+								</ul>
+
+
+
+							</div>
+							<ul class="nav-shop">
+								<a href="#"><li>Online Site</li></a>
+								<a href="#"><li>Merchandise</li></a>
+								<a href="#"><li>Tshirts</li></a>
+								<a href="#"><li>Jerseys</li></a>
+
+
+							</ul>
+
+						</li> -->
+						</ul>
+			</div>
+
+			<div class="pba-navbar-links-right">
+				<center>
+						<a disabled="" onclick="show_side_nav2();" href="#">
+							<img src="https://pba.ph/assets/img/user2.png"><br>
+							<h5 class="color-teal hidden-sm hidden-xs">LOGIN / REGISTER</h5></a></center><a disabled="" onclick="show_side_nav2();" href="#">
+						</a>
+					
+	 						</div>
+		</nav>
+
+
+		<div class="menu-list-container">
 
 			<div class="navigation-holder2">
-				<a class="resp-drawer-initiator standard-style" disabled="" id="navigation-active"><span class="init-icon2 glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span> <img class="init-brand" src="http://pba.ph/assets/img/brand.png"></a>
+				<a class="hidden-lg" disabled="" onclick="hide_side_nav();"><span class="resp-action-menu glyphicon glyphicon-menu-hamburger"></span></a>
+
+				<span class="brand-main"><img src="https://pba.ph/assets/img/pba.png"></span>
 			</div>
 
 			<div id="nav-scroll">
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/home" class="navigation-item"><span>HOME</span></a>
+
+				<div>
+					<a class="normal-link" href="https://pba.ph/tickets">Tickets</a>
 				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/news" class="navigation-item"><span>NEWS</span></a>
+				<div>
+					<span class="accord-menu-1" id="teams-players"><a disabled="" href="#">Teams &amp; Players</a></span>
+
+					<div id="drop">
+						<span class="accord-menu-2"><a href="https://pba.ph/teams">Teams</a></span>
+						<span class="accord-menu-2"><a href="https://pba.ph/players">Players</a></span>
+					    <span class="accord-menu-2"><a href="https://pba.ph/stats">Conference Leaders</a></span>
+					</div>
 				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/recap" class="navigation-item"><span>RECAP</span></a>
+
+
+				<div>
+					<span class="accord-menu-1" id="schedule-standings"><a disabled="" href="#">Schedules &amp; Standings</a></span>
+
+					<div id="drop2">
+						<span class="accord-menu-2"><a href="https://pba.ph/schedule">Schedule &amp; Recap</a></span>
+						<span class="accord-menu-2"><a href="https://pba.ph/standings">Standings</a></span>
+					</div>
 				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/schedule" class="navigation-item"><span>SCHEDULE</span></a>
+
+				<div>
+					<span class="accord-menu-1" id="news-media"><a disabled="" href="#">News &amp; Media</a></span>
+
+					<div id="drop3">
+
+						<span class="accord-menu-2"><a href="https://pba.ph/news">News</a></span>
+						<span class="accord-menu-2"><a href="https://pba.ph/events">Events &amp; Promotions</a></span>
+						<span class="accord-menu-2"><a href="https://pba.ph/transaction">Transactions</a></span>
+						<span class="accord-menu-2"><a href="https://pba.ph/videos">Videos &amp; Highlights</a></span>
+						<!-- <span class="accord-menu-2"><a href="https://pba.ph/recap">Game Rewind Archive</a></span> -->
+						<span class="accord-menu-2"><a href="https://pba.ph/gallery">Photo Galleries</a></span>
+
+						<!-- <span class="accord-menu-2"><a href="#">Insider E-News</a></span> -->
+					</div>
 				</div>
-				<div class="navigation-item-box">
-					<a href="http://www.pba.com.ph/live" class="navigation-item"> PBA LIVE</a>
+
+				<div>
+					<span class="accord-menu-1" id="entertainment"><a disabled="" href="#">Entertainment</a></span>
+
+				<div id="drop4">
+						<!-- <span class="accord-menu-2"><a href="#">PBA Mascot</a></span>
+						<span class="accord-menu-2"><a href="#">Fan Code of Conduct</a></span> -->
+						<span class="accord-menu-2"><a href="https://pba.ph/theapp">Official PBA App</a></span>
+						<span class="accord-menu-2"><a target="_blank" href="https://www.pbafantasy.com/">PBA Fantasy Basketball</a></span>
+						<span class="accord-menu-2"><a target="_blank" href="https://pba.ph/swish">PBA Swish</a></span>
+
+					</div>
 				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/playbyplay" class="navigation-item"> PLAY BY PLAY</a>
+
+			 <div>
+					<span class="accord-menu-1" id="community"><a href="#">Community</a></span>
+
+					<div id="drop5">
+						<span class="accord-menu-2"><a href="https://pba.ph/batang-achievers">PBA Batang Achievers</a></span>
+
+					</div>
 				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/standings" class="navigation-item"><span>STANDINGS</span></a>
+				<div>
+					<span class="accord-menu-1" id="live"><a disabled="" href="#">PBA Live</a></span>
+
+				<div id="drop6">
+						<span class="accord-menu-2"><a href="https://pba.ph/live">Live Stream</a></span>
+						<span class="accord-menu-2"><a href="http://www.pba.ph/playbyplay">Play by Play</a></span>
+
+					</div>
 				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/stats" class="navigation-item"><span>STATS</span></a>
-				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/players" class="navigation-item"><span>PLAYERS</span></a>
-				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/teams" class="navigation-item"><span>TEAMS</span></a>
-				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/transaction" class="navigation-item"><span>TRANSACTIONS</span></a>
-				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/events" class="navigation-item"><span>EVENTS</span></a>
-				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/promotions" class="navigation-item"><span>PROMOTIONS</span></a>
-				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/gallery" class="navigation-item"><span>PHOTOS</span></a>
-				</div>
-				<div class="navigation-item-box">
-					<a href="http://www.pba.ph/videos" class="navigation-item"><span>VIDEOS</span></a>
-				</div>
-				<div class="navigation-item-box">
-					<a href="http://pba.ph/tickets" class="navigation-item"><span>TICKETS</span></a>
-				</div>
-				<div class="navigation-item-box">
-					<a href="https://www.pbafantasy.com/" class="navigation-item"><span>PBA FANTASY BASKETBALL</span></a>
-				</div>
+
+
+
+					<!-- <div>
+					<a class="normal-link" href="#">Shop</a>
+				</div> -->
+
 			</div>
 
 		</div>
 
+		<div class="nav-account-container">
+			
+				<div class="nav-account-image">
 
+					<div class="close-section">
+						<h5 onclick="hide_side_nav(); hide_side_nav2();">X</h5>
+					</div>
+				</div>
 
+				<div class="nav-account-login">
+					<center>
+					<p>Login to your PBA account to participate in our upcoming promotions.</p>
+				<!--
+					<input type="text" class="uname" name="username" placeholder="USERNAME">
+					<input type="text" class="pword" name="password" placeholder="PASSWORD"> -->
+					<a href="https://pba.ph/login"><button class="login" type="submit">LOGIN</button></a>
+					<!-- <button class="login-fb" type="submit">Login with Facebook</button> -->
+					<p>Don't have an Account?</p>
+					</center>
+					<a href="https://pba.ph/registration"><button class="register" type="submit">REGISTER</button></a>
 
+				</div>
+			
+			<!-- <div class="we-are-pba">
+				<img src="https://pba.ph/assets/img/ads/ad7.jpg" width="100%">
+			</div> -->
+		</div>
 
-	<div class="overlay-box "></div>
-    
-
-<div class="main-holder-md ">
+	<div class="overlay-box " onclick="hide_side_nav(); hide_side_nav2();"></div>
+<div class="normal-base-limit">
 
   <div class="row">
-  <!--LEFT MAIN CONTENT START-->
-    <div class="col-lg-8 col-md-8 news-holder-main">
-      <div class="row">
-        
-        <div class="col-lg-12 col-md-12">
-              <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 section-title-container ">
-                  <span>PRIVACY POLICY</span>
-                </div>
-              </div>
-
-
- 	<!-- <center><img src="/assets/img/about-logo.png"></center> -->
- 	<p class="about-main standard-style">
-        Please read Our Privacy Policy carefully and contact Us before submitting any personal information to Us, if You need clarification on any of the topics. This privacy policy applies only to information collected online. It does not apply to information collected by Us in any other way, including information submitted to Us offline.<br><br>
-
-        We value Your privacy. Your confidence in Us is Our main priority. This Privacy Policy sets out how We will process and use any personal data that You provide to Us, or that We may collect as a result of You visiting and using Our website and applications. Please read the following information to understand Our practices with regards to Your personal data and how We will treat it. We commit ourselves to protecting and respecting Your privacy.
-
-    </p>
-    <p class="about-main standard-style">
-        <strong>1. What information do We collect?</strong><br>
-        We may collect and process the following data: <br><br>
-
-        a) Any information that You provide by completing any of our forms. This includes information You provided at the time of registration, visiting Our website, applications, subscribing to and/or purchasing any products and services offered on Our Sites and applications.<br><br>
-
-        b) Your name, e-mail address, mailing address, phone number or other personal information that You may be asked to enter when registering on Our Site.<br><br>
-
-        c) Any correspondence between You, and Us.<br><br>
-
-        d) Details of the resources You access and of Your visits to Our Site.<br><br>
-
-        e) Details of transactions You may carry out through Our Site.<br><br>
-
-        f) Information about You and Your computer, including but not limited to Your IP address where available, operating system and browser type.<br><br>
-
-        g) Information about Your general Internet usage using cookie files stored on the hard drive of all computers. The cookies contain valuable information that is transferred to Your computer`s hard drive. In collecting this information We are able to improve Our website and applications and deliver a better and more personalized service.<br><br>
-
-        h) Information about Your general Internet usage Using cookie files transferred to and stored on Your computer. In collecting this information, We are able to improve Our website and/or applications and deliver a better and more personalized service. You may refuse to accept cookies, but note that in doing so You may be unable to access all or certain parts of Our website. You can do this by activating the settings on Your browser, which would allow You to refuse accepting cookies. Our advertisers may also Use cookies, but please note that We have no control over this.
-
-        <br><br><strong>2. What do We use Your information for?</strong><br>
-        Any of the information We collect from You may be used in one of the following ways:<br><br>
-        a) To personalize Your experience. Your information helps Us to better respond to Your individual needs.<br><br>
-        b) To improve Our website, applications and games. We continually strive to improve Our products and services based on the information and feedback We receive from You.<br><br>
-        c) To improve Our customer service. Your information helps Us to more effectively respond to Your customer service requests and support needs.<br><br>
-        d) To process transactions.<br><br>
-        e) To administer a contest, promotion, survey or other Site feature.<br><br>
-        f) To send periodic emails. The email address You provide for order processing will only be used to send You information and updates pertaining to Your order.
-
-        <br><br><strong>3. Protection of Your information?</strong><br>
-        We have implemented, continually update and use a variety of security measures to maintain the safety of Your personal information when You place an order or access Your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-
-        <br><br><strong>4. Cookies</strong><br>
-        Cookies are small files that a Site or its service provider transfers to Your computers’ hard drive through Your Web browser (if You allow), which enables the sites or service providers systems to recognize Your browser and capture and remember certain information. We Use cookies to help Us remember and process the items in Your shopping cart, understand and save Your preferences for future visits, and keep track of advertisements and compile aggregate data about Site traffic and Site interaction so that We can offer better Site experiences and tools in the future. We may contract with third-party service providers to assist Us in better understanding Our Site visitors. These service providers are not permitted to Use the information collected on Our behalf except to help Us conduct and improve Our business. If You prefer, You can choose to have Your computer warn You each time a cookie is being sent, or You can choose to turn off all cookies via Your browser settings. Like most Websites, if You turn Your cookies off, some of Our services may not function properly.
-
-        <br><br><strong>5. Disclosure of information to third parties?</strong><br>
-        We do not sell, trade, or otherwise transfer to outside parties Your personally identifiable information. This does not include trusted third parties who assist Us in operating Our website, applications, conducting Our business, or servicing You, so long as those parties agree to keep this information confidential. We may also release Your information, when ordered by a court of competent jurisdiction or when We believe release is appropriate to comply with the law, enforce Our Site policies, or protect Our or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br>
-        Your information, whether public or private, will not be sold, to any other company without Your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-        <br><br><strong>6. Third Party Websites</strong><br>
-        Occasionally, at Our discretion, We may include links or offer third party products or services on Our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, We seek to protect the integrity of Our Site and welcome any feedback about these sites.
-
-        <br><br><strong>7. Your Private Data Storage Location</strong><br>
-        Some or all of Your personal data may be stored on servers in the Philippines. From time to time Your data may also be transferred to and processed on servers situated in other jurisdictions for the purposes indicated below, including but not limited to backup and disaster recovery. Such processing may be performed by Us or on Our behalf, by Our staff, agents and sub-contractors who may be located anywhere in the world. By submitting Your personal data, You agree to this storing, transfer and processing. We will take utmost care and all commercially reasonable and necessary steps to ensure that Your data is treated securely and in accordance with this Privacy Policy. We will encrypt certain portions of Your personal data where appropriate, including payment transactions if applicable. If We ever decommission or reallocate any computer equipment We will ensure that all sensitive information contained on such equipment will be permanently erased either using specialist software or by physically damaging the equipment.
-
-        <br><br><strong>8. Password &amp; Data Transmission</strong><br>
-        You may be prompted to create a password, which would enable You to access Your Account or specific parts of the Website or Our App. You are responsible for keeping this password confidential to prevent any unauthorized use of Your Account. We do not recommend You share Your username or password with any other person. The transmission of information via the Internet is not fully secure. We will do Our best to protect Your personal data, however We cannot completely guarantee the security of the data transmitted to or uploaded, which takes place at Your own risk. Once We have received Your information, We will use strict procedures and security features to prevent unauthorized access.
-
-        <br><br><strong>9. Your Consent: </strong><br>
-        By Using Our Site and/or App, You consent to Our privacy policy.
-
-        <br><br><strong>10. Your rights in relation to Your private information</strong><br>
-        We strive to keep Your information as accurate as possible. You can contact Us at any time to review, change, obtain a copy of Your information or have Your details altered or corrected. There may be a small charge to cover the cost of administration regarding any request made by You.
-
-        <br><br><strong>11. Changes to Our Privacy Policy</strong><br>
-        From time to time, without prior notice, We may change or amend this privacy policy. If We decide to change Our privacy policy, We will post those changes on this page, may send an email notifying You of any changes, and/or update the Privacy Policy modification date below.
-
-        <br><br><strong>12. Venue &amp; Jurisdiction:</strong><br> 
-        As stated in the Terms &amp; Conditions.
-
-        <br><br><strong>13. Changes to Our Privacy Policy</strong><br>
-        From time to time, without prior notice, We may change or amend this privacy policy. If We decide to change Our privacy policy, We will post those changes on this page, may send an email notifying You of any changes, and/or update the Privacy Policy modification date below.
-
-        <br><br><strong>14. Contact us:</strong><br> 
-        If there are any questions regarding this privacy policy, please use the “Contact Us” page and/or feature on our website and applications.
-
- 	</p>
-
+        <div class="col-lg-12">
+            <div class="top-lb-ad hidden-sm hidden-xs">
                 
-          
+            </div>
+            <div class="resp-ads text-center hidden-md hidden-lg">
+              
+            </div>
+        </div>
+  </div>
+
+  <div class="row">
+       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <h1 class="page-title">PRIVACY POLICY</h1>
+       </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+    <div class="col-lg-12 static-page-container">
+      <div class="row">
+
+      <div class="row">
+        <div class="col-lg-12">
+          <p>
+          <br>
+            Please read Our Privacy Policy carefully and contact Us before submitting any personal information to Us, if You need clarification on any of the topics. This privacy policy applies only to information collected online. It does not apply to information collected by Us in any other way, including information submitted to Us offline.<br><br>
+
+            We value Your privacy. Your confidence in Us is Our main priority. This Privacy Policy sets out how We will process and use any personal data that You provide to Us, or that We may collect as a result of You visiting and using Our website and applications. Please read the following information to understand Our practices with regards to Your personal data and how We will treat it. We commit ourselves to protecting and respecting Your privacy.<br><br>
+
+
+            <strong>1. What information do We collect?</strong><br>
+            We may collect and process the following data: <br><br>
+
+            a) Any information that You provide by completing any of our forms. This includes information You provided at the time of registration, visiting Our website, applications, subscribing to and/or purchasing any products and services offered on Our Sites and applications.<br><br>
+
+            b) Your name, e-mail address, mailing address, phone number or other personal information that You may be asked to enter when registering on Our Site.<br><br>
+
+            c) Any correspondence between You, and Us.<br><br>
+
+            d) Details of the resources You access and of Your visits to Our Site.<br><br>
+
+            e) Details of transactions You may carry out through Our Site.<br><br>
+
+            f) Information about You and Your computer, including but not limited to Your IP address where available, operating system and browser type.<br><br>
+
+            g) Information about Your general Internet usage using cookie files stored on the hard drive of all computers. The cookies contain valuable information that is transferred to Your computer`s hard drive. In collecting this information We are able to improve Our website and applications and deliver a better and more personalized service.<br><br>
+
+            h) Information about Your general Internet usage Using cookie files transferred to and stored on Your computer. In collecting this information, We are able to improve Our website and/or applications and deliver a better and more personalized service. You may refuse to accept cookies, but note that in doing so You may be unable to access all or certain parts of Our website. You can do this by activating the settings on Your browser, which would allow You to refuse accepting cookies. Our advertisers may also Use cookies, but please note that We have no control over this.
+
+            <br><br><strong>2. What do We use Your information for?</strong><br>
+            Any of the information We collect from You may be used in one of the following ways:<br><br>
+            a) To personalize Your experience. Your information helps Us to better respond to Your individual needs.<br><br>
+            b) To improve Our website, applications and games. We continually strive to improve Our products and services based on the information and feedback We receive from You.<br><br>
+            c) To improve Our customer service. Your information helps Us to more effectively respond to Your customer service requests and support needs.<br><br>
+            d) To process transactions.<br><br>
+            e) To administer a contest, promotion, survey or other Site feature.<br><br>
+            f) To send periodic emails. The email address You provide for order processing will only be used to send You information and updates pertaining to Your order.
+
+            <br><br><strong>3. Protection of Your information?</strong><br>
+            We have implemented, continually update and use a variety of security measures to maintain the safety of Your personal information when You place an order or access Your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+            <br><br><strong>4. Cookies</strong><br>
+            Cookies are small files that a Site or its service provider transfers to Your computers’ hard drive through Your Web browser (if You allow), which enables the sites or service providers systems to recognize Your browser and capture and remember certain information. We Use cookies to help Us remember and process the items in Your shopping cart, understand and save Your preferences for future visits, and keep track of advertisements and compile aggregate data about Site traffic and Site interaction so that We can offer better Site experiences and tools in the future. We may contract with third-party service providers to assist Us in better understanding Our Site visitors. These service providers are not permitted to Use the information collected on Our behalf except to help Us conduct and improve Our business. If You prefer, You can choose to have Your computer warn You each time a cookie is being sent, or You can choose to turn off all cookies via Your browser settings. Like most Websites, if You turn Your cookies off, some of Our services may not function properly.
+
+            <br><br><strong>5. Disclosure of information to third parties?</strong><br>
+            We do not sell, trade, or otherwise transfer to outside parties Your personally identifiable information. This does not include trusted third parties who assist Us in operating Our website, applications, conducting Our business, or servicing You, so long as those parties agree to keep this information confidential. We may also release Your information, when ordered by a court of competent jurisdiction or when We believe release is appropriate to comply with the law, enforce Our Site policies, or protect Our or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br>
+            Your information, whether public or private, will not be sold, to any other company without Your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+            <br><br><strong>6. Third Party Websites</strong><br>
+            Occasionally, at Our discretion, We may include links or offer third party products or services on Our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, We seek to protect the integrity of Our Site and welcome any feedback about these sites.
+
+            <br><br><strong>7. Your Private Data Storage Location</strong><br>
+            Some or all of Your personal data may be stored on servers in the Philippines. From time to time Your data may also be transferred to and processed on servers situated in other jurisdictions for the purposes indicated below, including but not limited to backup and disaster recovery. Such processing may be performed by Us or on Our behalf, by Our staff, agents and sub-contractors who may be located anywhere in the world. By submitting Your personal data, You agree to this storing, transfer and processing. We will take utmost care and all commercially reasonable and necessary steps to ensure that Your data is treated securely and in accordance with this Privacy Policy. We will encrypt certain portions of Your personal data where appropriate, including payment transactions if applicable. If We ever decommission or reallocate any computer equipment We will ensure that all sensitive information contained on such equipment will be permanently erased either using specialist software or by physically damaging the equipment.
+
+            <br><br><strong>8. Password &amp; Data Transmission</strong><br>
+            You may be prompted to create a password, which would enable You to access Your Account or specific parts of the Website or Our App. You are responsible for keeping this password confidential to prevent any unauthorized use of Your Account. We do not recommend You share Your username or password with any other person. The transmission of information via the Internet is not fully secure. We will do Our best to protect Your personal data, however We cannot completely guarantee the security of the data transmitted to or uploaded, which takes place at Your own risk. Once We have received Your information, We will use strict procedures and security features to prevent unauthorized access.
+
+            <br><br><strong>9. Your Consent: </strong><br>
+            By Using Our Site and/or App, You consent to Our privacy policy.
+
+            <br><br><strong>10. Your rights in relation to Your private information</strong><br>
+            We strive to keep Your information as accurate as possible. You can contact Us at any time to review, change, obtain a copy of Your information or have Your details altered or corrected. There may be a small charge to cover the cost of administration regarding any request made by You.
+
+            <br><br><strong>11. Changes to Our Privacy Policy</strong><br>
+            From time to time, without prior notice, We may change or amend this privacy policy. If We decide to change Our privacy policy, We will post those changes on this page, may send an email notifying You of any changes, and/or update the Privacy Policy modification date below.
+
+            <br><br><strong>12. Venue &amp; Jurisdiction:</strong><br> 
+            As stated in the Terms &amp; Conditions.
+
+            <br><br><strong>13. Changes to Our Privacy Policy</strong><br>
+            From time to time, without prior notice, We may change or amend this privacy policy. If We decide to change Our privacy policy, We will post those changes on this page, may send an email notifying You of any changes, and/or update the Privacy Policy modification date below.
+
+            <br><br><strong>14. Contact us:</strong><br> 
+            If there are any questions regarding this privacy policy, please use the “Contact Us” page and/or feature on our website and applications.
+
+          </p>
         </div>
       </div>
+    
     </div>
-  <!--LEFT MAIN CONTENT END-->
-
-  <div class="col-lg-4 col-md-4 hidden-sm hidden-xs">
-      <div class="col-lg-12">
-        <center><img src="/assets/img/ads/long-ads.jpg"></center>
-      </div>
-      <div class="col-lg-12 text-center" style="margin-top:15px;">
-        <center><img src="/assets/img/ads/long-ads2.jpg"></center>
-      </div>
-      <div class="col-lg-12 text-center" style="margin-top:15px;">
-        <center><img src="/assets/img/ads/box-ads.jpg"></center>
-      </div>
     </div>
   </div>
 </div>
-<style>
-  .bg-primary_footer{
-    margin-top: 50px;
-    padding: 50px 0px 20px;
-    background-color: #1e1e1e;
-    color: #f0f0f0;
-  }
-   .footer-link-wrapper ul li {
-    list-style-type: none;
-    padding: 0px;
-    margin: 0px;
-  }
-  .footer-link-wrapper > ul > li {
-    text-decoration: none;
-    display: inline-block;
-    margin-left: 25px;
-  }
-  .footlink {
-    padding-bottom: 0px;
-  }
-  .footlink ul {
-    padding: 0px;
-    margin: 0 auto;
-  }
-  .footlink ul > li > a {
-    color: #f0f0f0 !important;
-    font-size: 14px;
-    line-height: 1.6em;
-  }
-  .footlink > h4 {
-    margin-bottom: 22px;
-    color: #f0f0f0;
-    font-size: 18px;
-  }
-  .fa-stack {
-    position: relative;
-    display: inline-block;
-    width: 2em;
-    height: 2.2em;
-    line-height: 2em;
-    vertical-align: middle;
-  }
-  .fa-lg {
-    font-size: 1.8em;
-  }
-  .fa-inverse:hover {
-      color: #333;
-  }
-  .fa-stack-1x {
-      line-height: inherit;
-  }
-  .fa {
-      display: inline-block;
-      /* font: normal normal normal 14px/1 FontAwesome; */
-      /* font-size: inherit; */
-      text-rendering: auto;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-      transform: translate(0,0);
-  }
-  .fa-stack-1x, .fa-stack-2x {
-      position: absolute;
-      left: 0;
-      width: 100%;
-      text-align: center;
-  }
-  a.social-icons {
-      color: #333 !important;
-  }
-  .copyright {
-    margin-top: 20px;
-  }
-  @media only screen and (min-width: 1740px)
-  .content-1 {
-    padding-left: 60px !important;
-  }
 
-  .footer-link-wrapper{
-    max-width: 620px;
-    margin: 0 auto;
-
-  }
-</style>
-
-<section class="bg-primary_footer" id="contact">
-<div class="container">
+<div class="main-footer">
+  <div class="base-limit">
     <div class="row">
-        <div class=" col-lg-12 col-sm-12 col-md-12 col-xs-12  footlink content-1">
-        <div class="footer-link-wrapper">
-            <ul class="text-center">
-                <li><a href="/">Home</a></li>
-                <li><a href="/about-us">About</a></li>
-                <li><a href="/terms-of-service">Terms of Service</a></li>
-                <li><a href="/privacy-policy">Privacy Policy</a></li>
-                <li><a href="/contact-us">Contact Us</a></li>
-                <li><a href="/advertise-with-us">Advertise With Us</a></li>
-                <!-- <li><a href="#">Site Map</a></li> -->
-            </ul>
-         </div>
+      <div class="col-lg-12">
+        <center>
+          <ul class="footer-link">
+            <li><a href="https://pba.ph/">HOME</a></li>
+            <li><a href="https://pba.ph/about-us">ABOUT PBA</a></li>
+            <li><a href="https://pba.ph/terms-of-service">TERMS OF SERVICE</a></li>
+            <li><a href="https://pba.ph/privacy-policy">PRIVACY POLICY</a></li>
+            <li><a href="https://pba.ph/contact-us">CONTACT US</a></li>
+            <li><a href="https://pba.ph/advertise-with-us">ADVERTISE WITH US</a></li>
+          </ul>
+        </center>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <center>
+          <ul class="footer-social">
+            <li><a target="_blank" href="https://www.facebook.com/pbaofficial/"><img src="https://pba.ph/assets/img/fb.png"></a></li>
+            <li><a target="_blank" href="https://twitter.com/pbaconnect/"><img src="https://pba.ph/assets/img/tw.png"></a></li>
+            <li><a target="_blank" href="https://www.youtube.com/pbaofficial"><img src="https://pba.ph/assets/img/yt.png"></a></li>
+            <li><a target="_blank" href="https://www.instagram.com/pbaconnect/"><img src="https://pba.ph/assets/img/ig.png"></a></li>
+          </ul>
+        </center>
         </div>
-       <!--  <div class="col-sm-3 col-md-3 footlink content-2">
-            <h4>This is a title</h4>
-            <ul>
-                <li><a href="#"> This is a link</a></li>
-                <li><a href="#"> This is a link</a></li>
-            </ul>
-        </div>
-        <div class="col-sm-3 col-md-3 footlink content-3">
-            <h4>This is a title</h4>
-            <ul>
-                <li><a href="#">This is a link</a></li>
-                <li><a href="#">This is a link</a></li>
-                <li><a href="#">This is a link</a></li>
-            </ul>
-        </div>
-        <div class="col-sm-3 col-md-3 footlink content-4">
-            <h4>Contact Us</h4>
-            <ul>
-                <li><a href="#">support@pba.com.ph</a></li>
-            </ul>
-        </div> -->
-
-        </div>
-        <div class="row">
-            <div class="socials-section text-center">
-                <div class="col-lg-12 copyright">
-
-                    <div class="col-md-12 col-sm-12 col-xs-12 button_wrapper" id="footer-social-button-group">
-                        <span class="fa-stack fa-lg">
-                          <a href="https://www.facebook.com/pbaofficial/" target="_blank" class="social-icons"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></a>
-                        </span>
-                        <span class="fa-stack fa-lg ">
-                          <a href="http://www.youtube.com/pbaofficial" target="_blank" class="social-icons"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-youtube fa-stack-1x fa-inverse"></i></a>
-                        </span>
-                        <span class="fa-stack fa-lg">
-                          <a href="https://www.instagram.com/pbaconnect/" target="_blank" class="social-icons"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-instagram fa-stack-1x fa-inverse"></i></a>
-                        </span>
-                        <span class="fa-stack fa-lg">
-                          <a href="https://twitter.com/pbaconnect/" target="_blank" class="social-icons"><i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-twitter fa-stack-1x fa-inverse"></i></a>
-                        </span>
-                        <span class="fa-stack fa-lg hidden ">
-                          <a href="#" target="_blank" class="social-icons"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-tumblr fa-stack-1x fa-inverse"></i></a>
-                        </span>
-                        <!-- <span class="fa-stack fa-lg">
-                        <a href="#" target="_blank" class="social-icons"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-bold fa-stack-1x fa-inverse"></i> </a>
-                        </span>
-                        <span class="fa-stack fa-lg">
-                        <a href="#" target="_blank" class="social-icons"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-pinterest-p fa-stack-1x fa-inverse"></i> </a>
-                        </span> -->
-                    </div>
-
-                    <hr style="border-color:#9d9fa1; width:100% !important; max-width:100% !important; padding:0px !important;">
-                    <div class="col-lg-12 text-center" style="font-size: 1.5rem; color: rgb(177,177,177);"> © 2017 Philippine Basketball Association <br> All rights reserved.</div>
-                </div>
-            </div>
-        </div>
-
+      </div>
+      <div class="row">
+      <div class="col-lg-12 footer-copyright">
+        <center>
+        <h5>© 2017 Philippine Basketball Association - All rights reserved.</h5>
+        </center>
+       </div>
+       </div>
+  </div>
 </div>
 
-
-
-</section>
 <!-- /.footer -->
     <script type="text/javascript">
       window._taboola = window._taboola || [];
@@ -754,13 +844,85 @@
         },1000);
     });
     </script>
+
+
+    <script>
+      function ready(fn) {
+        if (document.readyState != 'loading'){
+          fn();
+        } else {
+          document.addEventListener('DOMContentLoaded', fn);
+        }
+      }
+
+      function registerListener(event, func) {
+          if (window.addEventListener) {
+              window.addEventListener(event, func);
+          } else {
+              window.attachEvent('on' + event, func);
+          }
+      }
+
+      function isInViewport(el){
+        var rect = el.getBoundingClientRect();
+        
+        //console.log(el);
+        //console.log(rect);
+        
+        return (
+          rect.top >= 0 &&
+          rect.left >= 0 &&
+          rect.top <= (window.innerHeight || document.documentElement.clientHeight) && /*or $(window).height() */
+          rect.left <= (window.innerWidth || document.documentElement.clientWidth) /*or $(window).width() */
+        );
+      }
+
+      function lazyLoad(){
+        var elements = document.getElementsByClassName('lazyload');
+        var noscript;
+        for (var i=0; i < elements.length; i++) {
+            if ( isInViewport( elements[i] ) ) {
+              // console.log('element in viewport');
+              noscript = elements[i].getElementsByTagName('noscript');
+              if( noscript.length > 0 ) {
+                // add img tag just after the opening tag of the div.lazyload)
+                elements[i].insertAdjacentHTML('afterbegin',  noscript[0].textContent );
+                // add class lazyloaded (so we still have a little css if the image url is broken)
+
+                // send ga tracker
+                // console.log(elements[i].dataset.name);
+                ga('send', 'event', 'Impressions', elements[i].dataset.device +' Impressions', elements[i].dataset.name + ' Impressions');
+
+                // remove class lazyload so the next time it won't be checked
+                elements[i].classList.toggle('lazyloaded');
+                elements[i].classList.toggle('lazyload');
+                // from this point elements[i] is no longer available because it's not recogizable anymore with that class
+              }
+            } else {
+              // remove this else for produtcion
+              // console.log('element not in viewport');
+            }
+        }
+      }
+
+      ////////////////////////////////////
+
+      registerListener('load', lazyLoad); // Not working on jsFiddle, use ready( func );
+      //ready( lazyLoad );
+      registerListener('scroll', lazyLoad);
+      registerListener('resize', lazyLoad);
+      registerListener('gestureend', lazyLoad); // to detect pinch on mobile devices
+    </script>
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>-->
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="https://pba.ph/assets/js/bootstrap.min.js"></script>
+
+     <script src="https://pba.ph/assets/js/jquery-1.9.1.min.js"></script>
+     <script src="https://pba.ph/assets/js/lightbox-plus-jquery.min.js"></script>
 
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58589f6f30fc0106"></script>
 
-</body></html>
+</div></body></html>
