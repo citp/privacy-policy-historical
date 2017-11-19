@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacetube.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011727id_/http%3A//jacetube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacetube.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119075752id_/http%3A//jacetube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – JaceTube.Com
 
@@ -89,6 +89,6 @@ Pasig City, NCR 1605
 
 Philippines
 
-justteeng@jacetube.com
+jacegeronimo21@gmail.com
 
 Last Edited on 2016-07-26
