@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194344id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendio.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119020420id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
 
 # Vendio Privacy Statement
 
@@ -75,10 +75,10 @@ Our site provides users the opportunity to opt-out of receiving communications f
 If you have any questions about this privacy statement, or the privacy practices of Vendio, you can contact the company by sending an email [using this form](http://www.vendio.com/ecommerce/contact). For general inquiries relating to any Vendio website, users may send an email [using this form](http://www.vendio.com/ecommerce/contact&subject=service).   
 You can also contact us at: 
 
-Vendio Services, Inc.  
-18 W 18th Street  
-Floor 9  
-New York, NY 10011  
+Vendio Services, LLC  
+152 W. 25th St.  
+12th Floor  
+New York, NY 10001  
 
 
 **11\. Notification of Changes.**   
