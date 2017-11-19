@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608013523id_/https%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119111341id_/https%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
@@ -15,6 +15,8 @@ The following information may be collected, but will be anonymised and will not 
 • Technical information, including the Internet protocol (IP) address of your computer, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and
 
 • Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
+
+• Information that we collect about you may be shared with third parties for the purpose of providing you with the Lovehoney website, email services and delivery services and returns services. Third parties include but are not limited to the Royal Mail and other delivery services.
 
 We use cookies to keep track of your current shopping session so that you may retrieve your shopping basket at any time, and to personalise the contents our website as well as to ensure a consistent experience. We also use cookies to track how visitors interact with our website to monitor how we are performing.
 
