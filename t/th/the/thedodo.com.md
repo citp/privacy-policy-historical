@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedodo.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622200538id_/https%3A//www.thedodo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedodo.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119175848id_/https%3A//www.thedodo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - The Dodo
 
