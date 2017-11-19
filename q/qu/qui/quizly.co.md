@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quizly.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015629id_/http%3A//quizly.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizly.co privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119091654id_/http%3A//quizly.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Quizly
+# Privacy Policy – Quizly
 
 This Privacy Policy governs the manner in which Quizly collects, uses, maintains and discloses information collected from users (each, a “User”) of the quizly.co website (“Site”). This privacy policy applies to the Site and all products and services offered by Quizly.
 
@@ -37,11 +37,11 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We do not sell, trade, or rent Users personal identification information to others.
 
-Google Adsense
+Advertising
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+We use third-party advertising companies to serve ads when you visit our Site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Compliance with children’s online privacy protection act
 
