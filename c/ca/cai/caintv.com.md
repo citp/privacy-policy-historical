@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caintv.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129165941id_/https%3A//www.hermancain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caintv.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119134221id_/https%3A//www.hermancain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Herman Cain
 
