@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netvouchercodes.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628020551id_/http%3A//netvouchercodes.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netvouchercodes.co.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119071252id_/https%3A//www.netvouchercodes.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NetVoucherCodes.co.uk
 
@@ -6,7 +6,7 @@ Here at NetVoucherCodes.co.uk we take your privacy very seriously, please take a
 
 This policy (together with our website Terms & Conditions, Security Policy and Cookie Policy apply to your use of our website and Mobile app) sets out the basis on which any personal data that we collect from you, or you provide to us, will be used.
 
-For the purposes of the Data Protection Act 1998 the data controller is 4DX Media Ltd (Registration Number ZA041211)
+For the purposes of the Data Protection Act 1998 the data controller is ZXDigital Ltd (Registration Number ZA041211)
 
 ### Information We May Collect About You
 
@@ -54,7 +54,7 @@ We will use the information we have about you in a number of ways, which include
 
 ### Direct Mailings
 
-If you register your details on our site or Mobile app, or sign up for our newsletters and alerts we will send you information about our voucher codes, deals and sales plus any other products and services we feel may be of interest to you from 4DX Media Ltd and its subsidiaries.
+If you register your details on our site or Mobile app, or sign up for our newsletters and alerts we will send you information about our voucher codes, deals and sales plus any other products and services we feel may be of interest to you from ZXDigital Ltd and its subsidiaries.
 
 You may sign up to receive our newsletters from the “sign up boxes” featured throughout the website and Mobile app; by providing your email address you agree to receive regular newsletter emails from NetVoucherCodes.co.uk   
 If you no longer wish to receive email newsletters you can unsubscribe at any time by clicking the “Unsubscribe” link within the newsletter.
@@ -66,7 +66,7 @@ For further information on site security please refer to our [Security Policy](h
 
 ### Disclosure Of Your Information
 
-We will not disclose the information we have on you to any external companies, we may however pass information to subsidiaries of 4DX Media Ltd. With regard to our use of affiliate partnerships we may disclose your personal information but this is only to the extent that you have redeemed a voucher offered by the affiliate or participated in an offer, contest or other activity which has been sponsored or offered through our website on the behalf of the affiliate.
+We will not disclose the information we have on you to any external companies, we may however pass information to subsidiaries of ZXDigital Ltd. With regard to our use of affiliate partnerships we may disclose your personal information but this is only to the extent that you have redeemed a voucher offered by the affiliate or participated in an offer, contest or other activity which has been sponsored or offered through our website on the behalf of the affiliate.
 
 We may disclose your information to our service providers, whom we use in relation to processing payments etc. Our service providers are legally bound to protect any personal information and are only allowed to use the information in relation to our service agreement with them.
 
@@ -94,7 +94,7 @@ We welcome your questions, comments and feedback about our services. Please use 
 If you wish to contact us regarding this privacy policy then please send your enquiry via email to privacy@netvouchercodes.co.uk
 
 This site is wholly owned and operated by:  
-4DX Media Ltd, Registered in England, Company No. 5990184
+ZXDigital Ltd, Registered in England, Company No. 5990184
 
 **Address**   
 17 St Peter’s Place   
