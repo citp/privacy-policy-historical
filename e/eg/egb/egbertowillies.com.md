@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egbertowillies.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030141340id_/http%3A//egbertowillies.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egbertowillies.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119093239id_/https%3A//egbertowillies.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - EgbertoWillies.com
 
@@ -48,7 +48,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
 
 **Childrens Online Privacy Protection Act Compliance**
 
