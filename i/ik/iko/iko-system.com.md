@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iko-system.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071218id_/http%3A//www.iko-system.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iko-system.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119104311id_/http%3A//www.iko-system.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Sales automation
+# Privacy policy : AI-powered prospecting
 
 ### **Our commitment to privacy and security**
 
@@ -33,3 +33,6 @@ If you request the complete deletion of your profile, we will ensure your privac
 ### **Payment and billing information**
 
 We do not view, manipulate or store your payment information. Your credit card details are completely managed by Paypal Inc or by a regulated banking institution. Billing information is operated from Salesforce.com service.
+
+  
+
