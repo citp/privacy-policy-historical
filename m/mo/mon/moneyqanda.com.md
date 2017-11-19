@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyqanda.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002822id_/http%3A//moneyqanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyqanda.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119230907id_/https%3A//moneyqanda.com/privacy-policy) for the most accurate reproduction.*
 
 # Money Q&A's Privacy Policy to Protect Your Information and Privacy
 
@@ -34,5 +34,3 @@ Money Q&A makes use of affiliate relationships with merchants for monetization. 
 The opinions expressed here are those of myself as an individual and are not necessarily the opinions of nor reflect the views of any merchants I am affiliated with. I have chosen to only recommend products and services on Money Q&A that I use or have thoroughly researched. I earn a full-time living as an affiliate marketer, so it is essential that I maintain my credibility.
 
 The Money Q&A traffic is increasing monthly. A lot of people who come here for advice, help, and support. I take my responsibility as an affiliate and subject matter expert very seriously.
-
-[](https://myfico.7eer.net/c/34808/87502/2185?subId1=after-post-banner)
