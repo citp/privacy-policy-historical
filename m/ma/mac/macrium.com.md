@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the macrium.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420132055id_/https%3A//www.macrium.com/terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrium.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119105414id_/https%3A//www.macrium.com/terms-and-privacy-policy) for the most accurate reproduction.*
 
-# Terms and Privacy Policy | Macrium Software
+# Macrium Software | Terms & Privacy Policy
 
 #### Terms
 
-All purchases of Macrium Reflect software are subject to a 30-day, no question, money-back guarantee. In the unlikely event that you are not satisfied with your purchase, please [contact us](http://www.macrium.com/support.aspx#tickets) and your request will be dealt with promptly by our team.
+All purchases of Macrium Reflect software are subject to a 30-day, no question, money-back guarantee. In the unlikely event that you are not satisfied with your purchase, please [contact us](http://www.macrium.com/support.aspx#tickets) and your request will be dealt with promptly by our team.
 
 All purchases made online via our website are fulfilled by our distribution partner cleverbridge Ag. Full details of their terms and condition and privacy policy are accessible via the links on the shopping cart page. Please note that Paramount Software UK Limited never have access to or store any of your credit card information.
 
@@ -63,7 +63,7 @@ Our website may contain links to enable you to visit other websites of interest 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * Any marketing email you receive from us will always include a link to easily unsubscribe from our marketing list.
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or   
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or   
 [sending us a ticket](http://www.macrium.com/support.aspx#tickets).
 
 
