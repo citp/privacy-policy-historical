@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coconuts.co privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313104755id_/https%3A//coconuts.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coconuts.co privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119013741id_/https%3A//coconuts.co/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Coconuts
 
