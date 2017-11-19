@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627211114id_/http%3A//surfersvillage.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119140618id_/http%3A//surfersvillage.com/content/privacy) for the most accurate reproduction.*
 
 # surfersvillage.com - Privacy - Surfing News, Surfing Contest, All the surf in one website
 
