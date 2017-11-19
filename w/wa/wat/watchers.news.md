@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchers.news privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629043125id_/https%3A//watchers.news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchers.news privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119115336id_/https%3A//watchers.news/privacy-policy) for the most accurate reproduction.*
 
 # The Watchers - Daily news service | Watchers.NEWS
 
