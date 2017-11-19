@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentboard.ca privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123234016id_/https%3A//www.rentboard.ca/company/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentboard.ca privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119152001id_/https%3A//www.rentboard.ca/company/privacy_policy.aspx) for the most accurate reproduction.*
 
 # The Rent Board of Canada | Privacy Policy
 
@@ -15,7 +15,7 @@ This statement is used to identify:
 
 
 
-Whenever you create an on-line listing on our site, we ask that you provide a means (either a telephone number and/or E-mail address) by which you may be contacted. The contact information you supply us is displayed with your listing. All information collected is stored by RentBoard.ca and is not sold, distributed or licensed to any third party. You have a choice of supplying a telephone number, E-mail address or both when entering contact information. The contact information you supply is used by customers to respond to your listing. Your listings may be sent to other rental-related sites for the purpose of giving your listing greater exposure, however all contact information remains on the RentBoard.ca site. 
+Whenever you create an on-line listing on our site, we ask that you provide a means (either a telephone number and/or E-mail address) by which you may be contacted. The contact information you supply us is displayed with your listing. All private account information collected is stored by RentBoard.ca and is not sold, distributed or licensed to any third party. Rentboard.ca reserves the right to sell, distribute and license data, information, statistics, and reports that are visible to the public. You have a choice of supplying a telephone number, E-mail address or both when entering contact information. The contact information you supply is used by customers to respond to your listing. Your listings may be sent to other rental-related sites for the purpose of giving your listing greater exposure, however all contact information remains on the RentBoard.ca site. 
 
 You may update any of the information you provide via your account. Your account allows you to maintain the on-line listings you create. You may choose to close your account at any time. 
 
