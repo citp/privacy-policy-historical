@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220011144id_/https%3A//www.broadsheet.com.au/melbourne/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119163951id_/https%3A//www.broadsheet.com.au/melbourne/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Broadsheet
 
 ## Broadsheet Media Pty Ltd
 
@@ -30,6 +30,9 @@ ACN 131 593 201
 
 a) provide you with products and services (both our own and those of other entities) that may be of interest to you;
 
+
+
+
 b) collect payments and/or administer your account;
 
 c) provide you with updated or new information about products and services (both our own and those of other entities);
@@ -48,7 +51,7 @@ i) promote our and our suppliers' other products and services to you; and
 
 j) do any other act or thing required or authorised by law.
 
-  2. In providing our products and services or collecting and using your personal information, we may be required to disclose some of your personal information to third party organisations, including:
+* In providing our products and services or collecting and using your personal information, we may be required to disclose some of your personal information to third party organisations, including:
 
 a) outsourced service providers and their personnel;
 
@@ -60,11 +63,9 @@ d) regulatory, government and other authorities as required by law; and
 
 e) our related organisations.
 
-  3. All information sent by your web browser will be used only to assist us for the purposes of providing an effective service on the Website or App. We may from time to time supply the owners or operators of third party websites from which it is possible to link to the Website or App with information relating to the number of users linking to the Website from such third party website. You will not personally be identifiable from this information.
+* All information sent by your web browser will be used only to assist us for the purposes of providing an effective service on the Website or App. We may from time to time supply the owners or operators of third party websites from which it is possible to link to the Website or App with information relating to the number of users linking to the Website from such third party website. You will not personally be identifiable from this information.
 
-  4. Broadsheet Media may use the information that it automatically receives from your web browser to see which pages you visit within the Website or App, which website you visited before coming to ours, and where you go after you leave. Broadsheet Media can then develop statistics that are helpful in understanding how our visitors use the Website or App. We may use this information to measure the use of the Website or App and to administer and improve the Website or App. Once aggregated for statistical purposes, you will not be personally identified from this information. This statistical data is interpreted by Broadsheet Media in its continuing effort to present the Website and App content that visitors are seeking in a format they find most helpful.
-
-
+* Broadsheet Media may use the information that it automatically receives from your web browser to see which pages you visit within the Website or App, which website you visited before coming to ours, and where you go after you leave. Broadsheet Media can then develop statistics that are helpful in understanding how our visitors use the Website or App. We may use this information to measure the use of the Website or App and to administer and improve the Website or App. Once aggregated for statistical purposes, you will not be personally identified from this information. This statistical data is interpreted by Broadsheet Media in its continuing effort to present the Website and App content that visitors are seeking in a format they find most helpful.
 
 ## Will you receive direct marketing?
 
