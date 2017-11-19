@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the scholarshipowl.com privacy policy that was archived on 2017-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170314072156id_/https%3A//scholarshipowl.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scholarshipowl.com privacy policy that was archived on 2017-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119040533id_/https%3A//scholarshipowl.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-					<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TJRBS3"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
+					<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TJRBS3"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
   var _fbq = window._fbq || (window._fbq = []);
   if (!_fbq.loaded) {
     var fbds = document.createElement('script');
@@ -19,159 +19,183 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=759701230793431&amp;ev=PixelInitialized" /></noscript>
 		
+        <link rel="manifest" href="/manifest.json">
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
+<script>
+    var postAjax = function (url, data) {
+        var params = typeof data == 'string' ? data : Object.keys(data).map(
+                function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
+        ).join('&');
+
+        var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+        xhr.open('POST', url);
+//        xhr.onreadystatechange = function() {
+//            if (xhr.readyState>3 && xhr.status==200) { success(xhr.responseText); }
+        xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+        xhr.send(params);
+        return xhr;
+    }
+
+    var oneSignalSyncUser = function() {
+        if (!OneSignal.isPushNotificationsSupported()) {
+            return;
+        }
+
+        OneSignal.getUserId(function (userId) {
+            console.log("OneSignal User ID:", userId);
+            postAjax('/rest/v1/onesignal/account', {'userId': userId, 'app': 'web'});
+        });
+    };
+
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+        appId: "45a416c7-6172-4c94-bf17-7b619906c30c",
+        subdomainName: "scholarship",
+        autoRegister: false, /* Set to true to automatically prompt visitors */
+        httpPermissionRequest: {
+            enable: false
+        },
+        // Your other init options here
+        promptOptions: {
+            /* Change bold title, limited to 30 characters */
+            siteName: 'ScholarshipOwl',
+            /* Subtitle, limited to 90 characters */
+            actionMessage: "We'd like to show you notifications for the latest news and updates.",
+            /* Example notification title */
+            exampleNotificationTitle: 'Example notification',
+            /* Example notification message */
+            exampleNotificationMessage: 'This is an example notification',
+            /* Text below example notification, limited to 50 characters */
+            exampleNotificationCaption: 'You can unsubscribe anytime',
+            /* Accept button text, limited to 15 characters */
+            acceptButtonText: "ALLOW",
+            /* Cancel button text, limited to 15 characters */
+            cancelButtonText: "NO THANKS"
+        },
+        notifyButton: {
+            enable: false /* Set to false to hide */
+        }
+    }]);
+
+    var OneSignalEnabled = OneSignal.isPushNotificationsSupported ? OneSignal.isPushNotificationsSupported() : false;
+
+    OneSignal.push(function() {
+        OneSignal.isPushNotificationsEnabled(function(enabled) {
+            OneSignalEnabled = enabled;
+        });
+        OneSignal.on('subscriptionChange', function (isSubscribed) {
+            if (isSubscribed) {
+                OneSignalEnabled = true;
+                oneSignalSyncUser();
+            }
+        });
+    });
+
+    var oneSignalRequestPermissionAfterApplication = function() {
+        if (OneSignalEnabled) return;
+
+        var getCookie = function (name) {
+            var value = "; " + document.cookie;
+            var parts = value.split("; " + name + "=");
+            if (parts.length == 2) return parts.pop().split(";").shift();
+        };
+
+        /**
+         * Don't ask for permission after first request.
+         * TODO: Move to scholarships page logic
+         */
+        if (!getCookie('__sofpo')) {
+            document.cookie = '__sofpo=1; path=/;';
+            return;
+        }
+
+        /**
+         * Don't show popup for 2 hours after request.
+         */
+        if (!getCookie('__soospn')) {
+            console.log('registerForPushNotifications');
+            OneSignal.registerForPushNotifications({ modalPrompt: true });
+
+            var expire = new Date();
+            expire.setTime(expire.getTime() + 2 * 3600 * 1000);
+            document.cookie = '__soospn=1; expires=' + expire.toUTCString() + '; path=/;';
+        }
+    };
+</script>
+
         <meta charset="utf-8">
-                <meta name="description" content="Scholarship Owl is a collection of dedicated professionals looking to make finding money easier for students.">
-        <meta name="keyword" content="students, education, scholarship consultants, apply for scholarship, graduate debt free, financial aid, account managers">
-        <meta name="author" content="ScholarshipOwl">
+                    <meta name="description" content="Scholarship Owl is a collection of dedicated professionals looking to make finding money easier for students.">
+            <meta name="keyword" content="students, education, scholarship consultants, apply for scholarship, graduate debt free, financial aid, account managers">
+            <meta name="author" content="ScholarshipOwl">
+            <meta property="og:image" content="https://scholarshipowl.com/assets/img/mascot.png">
+            <meta property="og:description" content="Scholarship Owl is a collection of dedicated professionals looking to make finding money easier for students.">
+            <meta name="twitter:image" content="https://scholarshipowl.com/assets/img/mascot.png">
+            <meta name="twitter:description" content="Scholarship Owl is a collection of dedicated professionals looking to make finding money easier for students.">
         		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 
-		
+		        <meta property="fb:app_id" content="666760003415916">
+        <meta property="og:site_name" content="ScholarshipOwl">
+        <meta property="og:url" content="http://scholarshipowl.com/privacy">
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@ScholarshipOwl">
+
                     <title>ScholarshipOwl - hundreds of scholarships one click away</title>
+            <meta property="og:title" content="ScholarshipOwl - hundreds of scholarships one click away">
+            <meta name="twitter:title" content="ScholarshipOwl - hundreds of scholarships one click away">
         
         <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700|Raleway:300,700,800,900" rel="stylesheet">
+        <!-- <link rel="stylesheet" href="/assets/css/mobile-registration.css?db69102e8c624bcdad93105f4bf3ede2f3264077"> -->
 
         <link media="all" type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/jquery.mcustomscrollbar/3.0.9/jquery.mCustomScrollbar.min.css">
 
-		<link href="/assets/css/build/a3729bc71df1b498a6245f112d0317e2.css" rel="stylesheet">
+		<link href="/assets/css/build/83dc994a05a7057d21b93c2adccdc8ae.css" rel="stylesheet">
 
 
-            <link href="/assets/css/build/48b315be7d391de3437384e0e1f71d91.css" rel="stylesheet">
+        <link href="/assets/css/build/4037d057ced2300b296c7288adde4ad7.css" rel="stylesheet">
 
-        <link href="/assets/css/build/41cb3ff389d788d2b7ce8b4c55626ff9.css" rel="stylesheet">
+                  <!-- SASS -->
+        <link href="/assets/css/build/2bd544c0571f5e7f20438d4701f09e7c.css" rel="stylesheet">
 
+                <!-- \SASS -->
     <!--		<link media="all" type="text/css" rel="stylesheet" href="https://scholarshipowl.com/assets/css/font-awesome.css"> -->
 
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 7]>
-			<link href="/assets/css/build/70130d6382391369371d533a0d06d131.css" rel="stylesheet">
+			<link href="/assets/css/build/98ba6eb16151b18e67dbbbbde5cd3077.css" rel="stylesheet">
 
-			<link href="/assets/css/build/141051daeaf01e71658ed6c3e5c31009.css" rel="stylesheet">
+			<link href="/assets/css/build/e884c177c604b612b3171ae50438a8b6.css" rel="stylesheet">
 
 		<![endif]-->
 
-        <script type="text/javascript">
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-	(function() {
-		var gads = document.createElement('script');
-		gads.async = true;
-		gads.type = 'text/javascript';
-		var useSSL = 'https:' == document.location.protocol;
-		gads.src = (useSSL ? 'https:' : 'http:') +
-		'//www.googletagservices.com/tag/js/gpt.js';
-		var node = document.getElementsByTagName('script')[0];
-		node.parentNode.insertBefore(gads, node);
-	})();
-</script>
-
-<script type="text/javascript">
-	googletag.cmd.push(function() {
-		googletag.defineSlot('/59608524/72890-my-account-banner', [728, 90], 'div-gpt-ad-1431868121892-0').addService(googletag.pubads());
-		googletag.pubads().enableSingleRequest();
-		googletag.enableServices();
-	});
-</script>
-
-<script type="text/javascript">
-	googletag.cmd.push(function() {
-		googletag.defineSlot('/59608524/72890-my-account-banner', [728, 90], 'div-gpt-ad-1431869661410-0').addService(googletag.pubads());
-		googletag.pubads().enableSingleRequest();
-		googletag.enableServices();
-	});
-</script>
-
-<script type="text/javascript">
-	googletag.cmd.push(function() {
-		googletag.defineSlot('/59608524/300250-my-account-TOP', [300, 600], 'div-gpt-ad-1431869617553-0').addService(googletag.pubads());
-		googletag.pubads().enableSingleRequest();
-		googletag.enableServices();
-	});
-</script>
-
-<script type="text/javascript">
-	googletag.cmd.push(function() {
-		googletag.defineSlot('/59608524/300250-my-account-LOWER', [300, 250], 'div-gpt-ad-1431869531175-0').addService(googletag.pubads());
-		googletag.pubads().enableSingleRequest();
-		googletag.enableServices();
-	});
-</script>
-
-<script type="text/javascript">
-    var slot1 = '';
-    googletag.cmd.push(function() {
-        slot1 = googletag.defineSlot('/59608524/popup_258_258', [250, 250], 'div-gpt-ad-1441284394641-0').addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-    });
-</script>
-
-<script type="text/javascript">
-    var slot2 = '';
-    googletag.cmd.push(function() {
-    slot2 = googletag.defineSlot('/59608524/popup_258_258_B', [250, 250], 'div-gpt-ad-1441798890072-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.pubads().enableSyncRendering();
-    googletag.enableServices();
-    });
- </script>
-
-<script type="text/javascript">
-    var slot3 = '';
-    googletag.cmd.push(function() {
-        slot3 = googletag.defineSlot('/59608524/300250C', [250, 250], 'div-gpt-ad-1445260903865-0').addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-    });
-</script>
-
-<script type="text/javascript">
-    googletag.cmd.push(function() {
-        googletag.defineSlot('/59608524/popup250250D', [250, 250], 'div-gpt-ad-1445942750196-0').addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-    });
-</script>
-
-<script type="text/javascript">
-    googletag.cmd.push(function() {
-        googletag.defineSlot('/59608524/popup_258_258_E', [250, 250], 'div-gpt-ad-1445942892066-0').addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-    });
-</script>
-
-<script type="text/javascript">
-    googletag.cmd.push(function() {
-        googletag.defineSlot('/59608524/popup_258_258_F', [250, 250], 'div-gpt-ad-1445943114160-0').addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-    });
-</script>
-
-<script type="text/javascript">
-    googletag.cmd.push(function() {
-        googletag.defineSlot('/59608524/popup_258_258_G', [250, 250], 'div-gpt-ad-1445943183132-0').addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-    });
-</script>
-
-<script type="text/javascript">
-    googletag.cmd.push(function() {
-        googletag.defineSlot('/59608524/popup_258_258_H', [250, 250], 'div-gpt-ad-1471955879460-0').addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-    });
-</script>        <!-- start Mixpanel -->
+        <!-- start Mixpanel -->
 <script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
             0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
         for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
-    mixpanel.init("eceeea19b7032ff331857d4fb4a89e00");
-    mixpanel.track('pageView', {
-                'url' : window.location.pathname
-    });
+
+    window.SOWLMixpanelTrack = function(event, properties) {
+        properties = properties || {};
+
+        var props = {
+                        'affid' : "none",
+            'isMobile' : false,
+            'fset' : 'Default',
+            'SRV' : 'prod',
+            'country' : 'US',
+            'source' : 'unknown',
+            'url' : window.location.pathname
+        };
+
+        for (var property in properties) { props[property] = properties[property]; }
+
+                mixpanel.track(event, props);
+            };
+
+        mixpanel.init("eceeea19b7032ff331857d4fb4a89e00");
+    
+    window.SOWLMixpanelTrack('pageView');
 </script>
 <!-- end Mixpanel -->
         
@@ -184,23 +208,24 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
         <script src="https://apis.google.com/js/client.js?onload=checkAuth"></script>
 
 
+        <script>
+window.fbAsyncInit = function() {
+    FB.init({
+        appId      : "666760003415916",
+        version    : "v2.6",
+        xfbml      : true,
+    });
+};
+
+(function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));
+</script>
 	    <script>
-            window.fbAsyncInit = function() {
-                FB.init({
-                    appId      : "666760003415916",
-                    xfbml      : true,
-                    version    : "v2.4"
-                });
-            };
-
-            (function(d, s, id){
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) {return;}
-                js = d.createElement(s); js.id = id;
-                js.src = "//connect.facebook.net/en_US/sdk.js";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, "script", "facebook-jssdk"));
-
             window.twttr = (function(d, s, id) {
                 var js, fjs = d.getElementsByTagName(s)[0],
                     t = window.twttr || {};
@@ -229,574 +254,545 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 
 </script>
 
-					            <script id="sowl-config" type="application/json">{"zendesk.payment-popup.timeout":"\"180\""}</script>
+					            <script id="sowl-config" type="application/json">{"fset":{"id":1,"name":"Default"},"onesignal.app":"45a416c7-6172-4c94-bf17-7b619906c30c","defaultPaymentMethod":3,"uc":"US","zendesk.payment-popup.timeout":"180"}</script>
+            <script type="application/javascript">
+    var SOWLStorage = {"settings":{"fset":{"id":1,"name":"Default"},"onesignal.app":"45a416c7-6172-4c94-bf17-7b619906c30c","defaultPaymentMethod":3,"uc":"US","zendesk.payment-popup.timeout":"180"},"account":null};
+</script>
 	</head>
 
-	<body>
+	<body class="">
         <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJRBS3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 
 		            <header id="header-component" role="banner" aria-label="header">
-		<nav class="navbar navbar-default navbar-fixed-top" role="navigation" aria-label="main navigation">
-			<div class="container">
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation" aria-label="main navigation">
+		<div class="container">
 
-				<div id="navbar" class="row">
-					<!-- Logo -->
-					<div class="logo col-xs-2 col-sm-4 col-md-3 mod-logo">
-						<a class="navbar-brand sprite-logo" href="https://scholarshipowl.com" title="ScholarshipOwl">
-							<h1 class="text-hide" id="site-name">Scholarship Owl</h1>
-						</a>
-					</div>
-
-					<!-- collapsible menu -->
-					<div class="col-xs-12 col-sm-4 navbar-collapse-xs navbar-collapse collapse">
-						<div id="navbar-collapse">
-
-
-							<ul class="nav navbar-nav menu-main hidden-sm" role="menu">
-
-					<!-- INFO -->
-								<!-- visible on XS -->
-								<li class="hidden-sm hidden-md hidden-lg">
-									<a data-toggle="collapse" href="#collapse-info" aria-expanded="false" aria-controls="collapse-about-us">
-										Info <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
-									</a>
-									<ul id="collapse-info" aria-expanded="false" class="list-unstyled menu-link-mod-xs collapse">
-										<li>
-											<a href="https://scholarshipowl.com/howtoapply">
-												Tips on how to apply
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/faq">
-												FAQ
-											</a>
-										</li>
-										<li>
-											<a target="_blank" href="https://scholarshipowl.zendesk.com/hc/en-us">Helpdesk (beta)</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/what-people-say-about-scholarshipowl">
-												What people say about us
-											</a>
-										</li>
-										<li class="menu-item">
-											<a href="https://scholarshipowl.com/awards/scholarship-winners">
-												Scholarship Winners
-											</a>
-										</li>
-                                        <li class="menu-item">
-                                            <a href="https://scholarshipowl.com/list-your-scholarship">
-                                                List your scholarship
-                                            </a>
-                                        </li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/refer-a-friend">
-												Refer A Friend
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/previous-winners">
-												Previous Winners
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/satisfaction-guarantee">
-												Money-back / Satisfaction Guarantee
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/recommended-colleges">
-												Recommended Colleges
-											</a>
-										</li>
-									</ul>
-								</li>
-								<!-- visible on md and lg -->
-								<li class="dropdown hidden-xs hidden-sm">
-									<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
-										Info <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
-									</a>
-									<ul class="dropdown-menu" role="menu">
-										<li>
-											<a href="https://scholarshipowl.com/howtoapply">
-												Tips on how to apply
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/faq">
-												FAQ
-											</a>
-										</li>
-										<li>
-											<a target="_blank" href="https://scholarshipowl.zendesk.com/hc/en-us">Helpdesk (beta)</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/what-people-say-about-scholarshipowl">
-												What people say about us
-											</a>
-										</li>
-										<li class="menu-item">
-											<a href="https://scholarshipowl.com/awards/scholarship-winners">
-												Scholarship Winners
-											</a>
-										</li>
-                                        <li class="menu-item">
-                                            <a href="https://scholarshipowl.com/list-your-scholarship">
-                                                List your scholarship
-                                            </a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="https://scholarshipowl.com/refund-policy">
-                                                Refund Policy
-                                            </a>
-                                        </li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/refer-a-friend">
-												Refer A Friend
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/previous-winners">
-												Previous Winners
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/satisfaction-guarantee">
-												Money-back / Satisfaction Guarantee
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/recommended-colleges">
-												Recommended Colleges
-											</a>
-										</li>
-									</ul>
-								</li>
-
-					<!-- ABOUT US -->
-								<!-- visible on XS-->
-								<li class="hidden-sm hidden-md hidden-lg">
-									<a data-toggle="collapse" href="#collapse-about-us" aria-expanded="false" aria-controls="collapse-about-us">
-										About us <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
-									</a>
-									<ul id="collapse-about-us" aria-expanded="false" class="list-unstyled menu-link-mod-xs collapse">
-										<li>
-											<a href="https://scholarshipowl.com/FindingABetterWayToPayForCollege.pdf" target="_blank">
-												A better way to pay for College
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/about-us">
-												About us
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/whatwedo">
-												What we do
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/whoweare">
-												Who we are
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/giving-back-to-students">
-												Giving Back to Students/Society
-											</a>
-										</li>
-                                        <li>
-                                            <a href="https://scholarshipowl.com/partners">
-                                                Partners
-                                            </a>
-                                        </li>
-										<li>
-											<a href="https://scholarshipowl.com/press">
-												Press
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/corporate-contact">
-												Corporate Contact
-											</a>
-										</li>
-									</ul>
-								</li>
-								<!-- visible on MD and LG -->
-								<li class="dropdown hidden-xs hidden-sm">
-									<a href="#" onclick="return false" class="dropdown-toggle" data-toggle="dropdown">
-										About us <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
-									</a>
-									<ul class="dropdown-menu" role="menu">
-										<li>
-											<a href="https://scholarshipowl.com/FindingABetterWayToPayForCollege.pdf" target="_blank">
-												A better way to pay for College
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/about-us">
-												About us
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/whatwedo">
-												What we do
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/whoweare">
-												Who we are
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/giving-back-to-students">
-												Giving Back to Students/Society
-											</a>
-										</li>
-                                        <li>
-                                            <a href="https://scholarshipowl.com/partners">
-                                                Partners
-                                            </a>
-                                        </li>
-										<li>
-											<a href="https://scholarshipowl.com/press">
-												Press
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/corporate-contact">
-												Corporate Contact
-											</a>
-										</li>
-									</ul>
-								</li>
-
-					<!-- SERVICES -->
-								<!-- visible on xs-->
-								<li class="hidden-sm hidden-md hidden-lg">
-									<a data-toggle="collapse" href="#collapse-services" aria-expanded="false" aria-controls="collapse-services">
-										Services <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
-									</a>
-
-									<ul id="collapse-services" aria-expanded="false" class="list-unstyled menu-link-mod-xs collapse">
-										<li>
-											<a href="https://scholarshipowl.com/additional-services">
-												Additional Services
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/premium-services">
-												Why We Charge For The Premium Services
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/our-promise-to-you">
-												What You Get / Our Promise To You
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/ebook">
-												eBook
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/tools">
-												Tools
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/what-i-get">
-												What Does The Free Service Include
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/offerings">
-												Offerings
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/resources-and-education-center">
-												Resources And Educational Center
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/international-scholarships">
-												International Students
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/get-connected-to-recipients">
-												Get Connected To Previous Recipients
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/offer-wall">
-												Offer wall
-											</a>
-										</li>
-									</ul>
-								</li>
-								<!-- visible on MD and LG -->
-								<li class="dropdown hidden-xs hidden-sm">
-									<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
-										Services <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
-									</a>
-									<ul class="dropdown-menu" role="menu">
-										<li>
-											<a href="https://scholarshipowl.com/additional-services">
-												Additional Services
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/premium-services">
-												Why We Charge For The <br>Premium Services
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/our-promise-to-you">
-												What You Get / Our Promise To You
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/ebook">
-												eBook
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/tools">
-												Tools
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/what-i-get">
-												What Does The Free Service Include
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/offerings">
-												Offerings
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/resources-and-education-center">
-												Resources And Educational Center
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/international-scholarships">
-												International Students
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/get-connected-to-recipients">
-												Get Connected To Previous Recipients
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/offer-wall">
-												Offer wall
-											</a>
-										</li>
-									</ul>
-								</li>
-
-					<!-- PARTNER -->
-								<!-- visible on xs-->
-								<li class="hidden-sm hidden-md hidden-lg hidden">
-									<a data-toggle="collapse" href="#collapse-partner" aria-expanded="false" aria-controls="collapse-services">
-										Partner <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
-									</a>
-									<ul id="collapse-partner" aria-expanded="false" class="list-unstyled menu-link-mod-xs collapse">
-										<li>
-											<a href="https://scholarshipowl.com/list-your-scholarship">
-												List Your Scholarship
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/partners">
-												Partners
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/promote-your-scholarship">
-												Promote Your Scholarship
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/advertise-with-us">
-												Advertise With Us
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/partnerships">
-												Partnerships
-											</a>
-										</li>
-									</ul>
-								</li>
-								<!-- visible on MD and LG -->
-								<li class="dropdown hidden-xs hidden-sm hidden">
-									<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
-										Partner <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
-									</a>
-									<ul class="dropdown-menu" role="menu">
-										<li>
-											<a href="https://scholarshipowl.com/list-your-scholarship">
-												List Your Scholarship
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/partners">
-												Partners
-											</a>
-										</li>
-										<li class="hidden">
-											<a href="https://scholarshipowl.com/promote-your-scholarship">
-												Promote Your Scholarship
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/advertise-with-us">
-												Advertise With Us
-											</a>
-										</li>
-										<li>
-											<a href="https://scholarshipowl.com/partnerships">
-												Partnerships
-											</a>
-										</li>
-	                </ul>
-								</li>
-
-					<!-- CONTACT -->
-								<!-- visible on all -->
-								<li>
-									<a href="https://scholarshipowl.com/contact">
-										Contact
-									</a>
-								</li>
-							</ul>
-
-						</div>
-					</div>
-
-					
-	  			<div class="col-xs-8 col-sm-7 col-md-5 navbar-height no-gutter-this">
-	  				<div class="navbar-nav-logginApply-container pull-right">
-	    				<div class="navbar-height">
-                                                            <div class="phoneNumber vertical-center text-right pull-left">
-                                    <span class="glyphicon glyphicon-earphone"></span>
-                                    <span class="phone-number" data-phone="800 494 49 08">
-											800 494 49 08
-                                    </span>
-                                </div>
-                            
-								<div class="apply-btn-container center-block vertical-center pull-right">
-									<a id="register" class="btn btn-warning btn-block btn-apply" href="https://scholarshipowl.com/register">Apply</a>
-								</div>
-                                <div class="login-btn-container vertical-center pull-right">
-									<a class="btn btn-block login-btn btn-block center-block text-center" data-toggle="modal" data-target="#LoginFormModal">Login</a>
-								</div>
-
-							</div>
-						</div>
-					</div>
-					
-
-					<div class="col-xs-2 col-sm-1 no-gutter-this hidden-md hidden-lg mod-navbar-toggle">
-						<div class="navbar-toggle-container">
-							<button type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target=".navbar-collapse">
-								<span class="sr-only">Toggle navigation</span>
-							</button>
-
-							<div class="spinner-master2">
-							  <input type="checkbox" id="spinner-form2">
-							  <label for="spinner-form2" class="spinner-spin2">
-							    <div class="spinner2 diagonal part-1"></div>
-							    <div class="spinner2 horizontal"></div>
-							    <div class="spinner2 diagonal part-2"></div>
-							  </label>
-							</div>
-
-						</div>
-					</div>
-
+			<div id="navbar" class="row">
+				<!-- Logo -->
+				<div class="logo col-xs-2 col-sm-4 col-md-3 mod-logo">
+					<a class="navbar-brand sprite-logo" href="https://scholarshipowl.com" title="ScholarshipOwl">
+						<h2 class="text-hide" id="site-name">Scholarship Owl</h2>
+					</a>
 				</div>
-			</div>
 
-								    <div id="LoginFormModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="LoginFormModal" aria-hidden="true">
-	<div class="center-vert-container">
-		<div class="login-modal-dialog">
-			<div class="login-modal-content">
-				<div class="login-modal-header">
-					<button type="button" class="close" data-dismiss="modal">
-						<span aria-hidden="true">×</span>
-						<span class="sr-only">Close</span>
-					</button>
-					<div class="login-title">
-						<div class="modal-title" id="logIn">
-							Log In
-						</div>
+				<!-- collapsible menu -->
+				<div class="col-xs-12 col-sm-4 navbar-collapse-xs navbar-collapse collapse">
+					<div id="navbar-collapse">
+
+
+						<ul class="nav navbar-nav menu-main hidden-sm" role="menu">
+
+							<!-- INFO -->
+							<!-- visible on XS -->
+							<li class="hidden-sm hidden-md hidden-lg">
+								<a data-toggle="collapse" href="#collapse-info" aria-expanded="false" aria-controls="collapse-about-us">
+									Info <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
+								</a>
+								<ul id="collapse-info" aria-expanded="false" class="list-unstyled menu-link-mod-xs collapse">
+									<li>
+										<a href="https://scholarshipowl.com/faq">
+											FAQ
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://scholarshipowl.zendesk.com/hc/en-us">Helpdesk (beta)</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/what-people-say-about-scholarshipowl">
+											Reviews
+										</a>
+									</li>
+									<li class="menu-item">
+										<a href="https://scholarshipowl.com/awards/scholarship-winners">
+											Scholarship Winners
+										</a>
+									</li>
+									<li class="menu-item">
+										<a href="https://scholarshipowl.com/refund-policy">
+											Refund Policy
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/refer-a-friend">
+											Refer A Friend
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/previous-winners">
+											Previous Winners
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/satisfaction-guarantee">
+											Money-back / Satisfaction Guarantee
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/recommended-colleges">
+											Recommended Colleges
+										</a>
+									</li>
+								</ul>
+							</li>
+							<!-- visible on md and lg -->
+							<li class="dropdown hidden-xs hidden-sm">
+								<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
+									Info <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
+								</a>
+								<ul class="dropdown-menu" role="menu">
+									<li class="menu-item">
+										<a href="https://scholarshipowl.com/faq">
+											FAQ
+										</a>
+									</li>
+									<li class="menu-item">
+										<a target="_blank" href="https://scholarshipowl.zendesk.com/hc/en-us">Helpdesk (beta)</a>
+									</li>
+									<li class="menu-item">
+										<a href="https://scholarshipowl.com/what-people-say-about-scholarshipowl">
+											Reviews
+										</a>
+									</li>
+									<li class="menu-item">
+										<a href="https://scholarshipowl.com/awards/scholarship-winners">
+											Scholarship Winners
+										</a>
+									</li>
+									<li class="menu-item">
+										<a href="https://scholarshipowl.com/refund-policy">
+											Refund Policy
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/refer-a-friend">
+											Refer A Friend
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/previous-winners">
+											Previous Winners
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/satisfaction-guarantee">
+											Money-back / Satisfaction Guarantee
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/recommended-colleges">
+											Recommended Colleges
+										</a>
+									</li>
+								</ul>
+							</li>
+
+							<!-- ABOUT US -->
+							<!-- visible on XS-->
+							<li class="visible-xs">
+								<a data-toggle="collapse" href="#collapse-about-us" aria-expanded="false" aria-controls="collapse-about-us">
+									About us <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
+								</a>
+								<ul id="collapse-about-us" aria-expanded="false" class="list-unstyled menu-link-mod-xs collapse">
+									<li>
+										<a href="https://scholarshipowl.com/about-us">
+											About us
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/press">
+											Press
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/giving-back-to-students">
+											Giving Back to Students/Society
+										</a>
+									</li>
+								</ul>
+							</li>
+							<!-- visible on MD and LG -->
+							<li class="dropdown hidden-xs hidden-sm">
+								<a href="#" onclick="return false" class="dropdown-toggle" data-toggle="dropdown">
+									About us <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
+								</a>
+								<ul class="dropdown-menu" role="menu">
+									<li>
+										<a href="https://scholarshipowl.com/about-us">
+											About us
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/press">
+											Press
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/giving-back-to-students">
+											Giving Back to Students/Society
+										</a>
+									</li>
+								</ul>
+							</li>
+
+							<!-- SERVICES -->
+							<!-- visible on xs-->
+							<li class="hidden-sm hidden-md hidden-lg">
+								<a data-toggle="collapse" href="#collapse-services" aria-expanded="false" aria-controls="collapse-services">
+									Services <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
+								</a>
+
+								<ul id="collapse-services" aria-expanded="false" class="list-unstyled menu-link-mod-xs collapse">
+									<li>
+										<a href="https://scholarshipowl.com/additional-services">
+											Additional Services
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/premium-services">
+											Why We Charge For The Premium Services
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/ebook">
+											eBook
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/tools">
+											Tools
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/what-i-get">
+											What Does The Free Service Include
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/offerings">
+											Offerings
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/get-connected-to-recipients">
+											Get Connected To Previous Recipients
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/offer-wall">
+											Featured Scholarships
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.studentbeans.com/us" target="_blank">
+											Student discount
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/jobs">
+											jobs
+										</a>
+									</li>
+								</ul>
+							</li>
+							<!-- visible on MD and LG -->
+							<li class="dropdown hidden-xs hidden-sm">
+								<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
+									Services <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
+								</a>
+								<ul class="dropdown-menu" role="menu">
+									<li>
+										<a href="https://scholarshipowl.com/additional-services">
+											Additional Services
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/premium-services">
+											Why We Charge For The <br>Premium Services
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/ebook">
+											eBook
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/tools">
+											Tools
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/what-i-get">
+											What Does The Free Service Include
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/offerings">
+											Offerings
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/get-connected-to-recipients">
+											Get Connected To Previous Recipients
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/offer-wall">
+											Featured Scholarships
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.studentbeans.com/us" target="_blank">
+											Student discount
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/jobs">
+											Jobs
+										</a>
+									</li>
+								</ul>
+							</li>
+
+							<!-- PARTNER -->
+							<!-- visible on xs-->
+							<li class="hidden-sm hidden-md hidden-lg hidden">
+								<a data-toggle="collapse" href="#collapse-partner" aria-expanded="false" aria-controls="collapse-services">
+									Partner <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
+								</a>
+								<ul id="collapse-partner" aria-expanded="false" class="list-unstyled menu-link-mod-xs collapse">
+									<li>
+										<a href="https://scholarshipowl.com/partners">
+											Partners
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/promote-your-scholarship">
+											Promote Your Scholarship
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/advertise-with-us">
+											Advertise With Us
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/partnerships">
+											Partnerships
+										</a>
+									</li>
+								</ul>
+							</li>
+							<!-- visible on MD and LG -->
+							<li class="dropdown hidden-xs hidden-sm hidden">
+								<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
+									Partner <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
+								</a>
+								<ul class="dropdown-menu" role="menu">
+									<li>
+										<a href="https://scholarshipowl.com/partners">
+											Partners
+										</a>
+									</li>
+									<li class="hidden">
+										<a href="https://scholarshipowl.com/promote-your-scholarship">
+											Promote Your Scholarship
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/advertise-with-us">
+											Advertise With Us
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/partnerships">
+											Partnerships
+										</a>
+									</li>
+								</ul>
+							</li>
+
+							<li class="hidden-sm hidden-md hidden-lg">
+								<a data-toggle="collapse" href="#collapse-contact" aria-expanded="false" aria-controls="collapse-services">
+									Contact <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
+								</a>
+								<ul id="collapse-contact" aria-expanded="false" class="list-unstyled menu-link-mod-xs collapse">
+									<li>
+										<a href="https://scholarshipowl.com/contact">
+											Contact
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/list-your-scholarship">
+											List your scholarship
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/partners">
+											Partners
+										</a>
+									</li>
+								</ul>
+							</li>
+							<li class="hidden-sm hidden-md hidden-lg">
+								<a href="http://blog.scholarshipowl.com" target="_blank">
+									Blog
+								</a>
+							</li>
+
+							<li class="dropdown hidden-xs">
+								<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
+									Contact <span class="caret hidden-xs"></span><span class="plus-minus visible-xs-inline-block"></span>
+								</a>
+								<ul class="dropdown-menu" role="menu">
+									<li>
+										<a href="https://scholarshipowl.com/contact">
+											Contact
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/list-your-scholarship">
+											List your scholarship
+										</a>
+									</li>
+									<li>
+										<a href="https://scholarshipowl.com/partners">
+											Partners
+										</a>
+									</li>
+									<li class="dropdown hidden-xs hidden-md hidden-lg">
+										<a href="http://blog.scholarshipowl.com" target="_blank">
+											Blog
+										</a>
+									</li>
+								</ul>
+							</li>
+							<li class="hidden-sm hidden-xs">
+								<a href="http://blog.scholarshipowl.com" target="_blank">
+									Blog
+								</a>
+							</li>
+						</ul>
 					</div>
 				</div>
 
-				<div class="modal-body">
-					<!-- form -->
-					<div class="login-form">
-						<form name="loginModal" id="loginModal" role="form" action="/post-login" method="post" novalidate="novalidate" class="bv-form ajax_form">
-							<input name="_token" type="hidden" value="0hs3hx88yhop4KjFdu1COLpAPgcUjROclv0aZyvQ">
+				<div class="col-xs-2 col-sm-1 no-gutter-this hidden-md hidden-lg mod-navbar-toggle pull-right">
+					<div class="navbar-toggle-container">
+						<button type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+						</button>
+
+						<div class="spinner-master2">
+							<input type="checkbox" id="spinner-form2">
+							<label for="spinner-form2" class="spinner-spin2">
+								<div class="spinner2 diagonal part-1"></div>
+								<div class="spinner2 horizontal"></div>
+								<div class="spinner2 diagonal part-2"></div>
+							</label>
+						</div>
+
+					</div>
+				</div>
+
+				
+				<div class="col-xs-8 col-sm-7 col-md-4 pull-right navbar-height no-gutter-this">
+					<div class="navbar-nav-logginApply-container pull-right">
+						<div class="navbar-height">
+														<div class="phoneNumber vertical-center text-right pull-left">
+								<span class="glyphicon glyphicon-earphone"></span>
+								<span class="phone-number" data-phone="800 494 4908">
+									800 494 4908
+								</span>
+							</div>
 							
-							<div class="form-group">
-								<div class="input-group input-group-lg">
-									<label for="inputEmail" class="sr-only">Email</label>
-									<input type="text" name="email" id="inputEmail" class="form-control" placeholder="Your email address" data-bv-field="email">
-								</div>
-
-								<small id="LoginErrorEmail" class="help-block" style="display: none;"></small>
+							<div class="apply-btn-container center-block vertical-center pull-right">
+								<a id="register" class="btn btn-warning btn-block btn-apply" href="https://scholarshipowl.com/register">Apply</a>
+							</div>
+							<div class="login-btn-container vertical-center pull-right">
+								<a class="btn btn-block login-btn btn-block center-block text-center">Login</a>
 							</div>
 
-							<div class="form-group">
-								<div class="input-group input-group-lg">
-									<label for="inputPassword" class="sr-only">Password</label>
-									<input type="password" name="password" class="form-control" id="inputPassword" placeholder="Password" data-bv-field="password">
-								</div>
-
-								<small id="LoginErrorPassword" class="help-block" style="display: none;"></small>
-							</div>
-
-							<div class="dialog-message"></div>
-
-							<div class="form-group">
-								<div class="login-submit">
-									<button type="submit" class="btn btn-warning btn-block text-uppercase LoginButton" id="inputSubmit">Login</button>
-								</div>
-							</div>
-
-							<div class="input-group dotted-bottom">
-                                <label>
-                                   <input name="remember" type="checkbox" class="checkbox" value="1" checked="checked">
-                                   <span class="lbl padding-8">Keep me logged in</span>
-                                </label>
-							</div>
-						</form>
+						</div>
 					</div>
-
-          <div class="modal-footer">
-              <div class="reminder">
-                  <a data-toggle="modal" data-target="#ForgotPasswordModal" id="remind" data-dismiss="modal">Forgot your password ?</a>
-              </div>
-          </div>
-
 				</div>
-				<!-- /form -->
+				
 			</div>
+		</div>
+		<div class="clearfix"></div>
+
+				<div id="LoginFormModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="LoginFormModal" aria-hidden="true">
+    <div class="center-vert-container">
+        <div class="login-modal-dialog">
+            <div class="login-modal-content">
+                <div class="login-modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">×</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <div class="login-title">
+                        <div class="modal-title" id="logIn">
+                            Log In
+                        </div>
+                    </div>
+                </div>
+
+                <div class="modal-body">
+                    <!-- form -->
+                    <div class="login-form">
+                        <form name="loginModal" id="loginModal" role="form" action="/post-login" method="post" novalidate="novalidate" class="bv-form ajax_form">
+                            <input name="_token" type="hidden" value="5u0o3ZogxYb1oZYMApR2g8hxYeAjs9n2AEz69dQ0">
+                            
+                            <div class="form-group">
+                                <div class="input-group input-group-lg">
+                                    <label for="inputEmail" class="sr-only">Email</label>
+                                    <input type="text" name="email" id="inputEmail" class="form-control" placeholder="Your email address" data-bv-field="email">
+                                </div>
+
+                                <small id="LoginErrorEmail" class="help-block" style="display: none;"></small>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="input-group input-group-lg">
+                                    <label for="inputPassword" class="sr-only">Password</label>
+                                    <input type="password" name="password" class="form-control" id="inputPassword" placeholder="Password" data-bv-field="password">
+                                </div>
+
+                                <small id="LoginErrorPassword" class="help-block" style="display: none;"></small>
+                            </div>
+
+                            <div class="dialog-message"></div>
+
+                            <div class="form-group">
+                                <div class="login-submit">
+                                    <button type="submit" class="btn btn-warning btn-block text-uppercase LoginButton" id="inputSubmit">Login
+                                    </button>
+                                </div>
+                            </div>
+
+                            <div class="input-group dotted-bottom">
+                                <label>
+                                    <input name="remember" type="checkbox" class="checkbox" value="1" checked="checked">
+                                    <span class="lbl padding-8">Keep me logged in</span>
+                                </label>
+                            </div>
+                        </form>
+                    <div class="modal-footer">
+                        <div class="reminder">
+                            <a data-toggle="modal" data-target="#ForgotPasswordModal" id="remind" data-dismiss="modal">Forgot
+                                your password ?</a>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /form -->
+            </div>
 
 		</div>
 	</div>
-</div>				    <div id="ForgotPasswordModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="ForgotPasswordModal" aria-hidden="true">
+</div>
+		<div id="ForgotPasswordModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="ForgotPasswordModal" aria-hidden="true">
 	<div class="center-vert-container">
 		<div class="forgot-password-modal-dialog">
             <div class="forgot-password-modal-content">
@@ -813,7 +809,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
                 <!-- form -->
                 <div class="forgot-password-form" id="forgot-password-form">
                     <form name="forgotPasswordModal" id="forgotPasswordModal" role="form" action="/post-forgot-password" method="post" novalidate="novalidate" class="bv-form ajax_form">
-                        <input name="_token" type="hidden" value="0hs3hx88yhop4KjFdu1COLpAPgcUjROclv0aZyvQ">
+                        <input name="_token" type="hidden" value="5u0o3ZogxYb1oZYMApR2g8hxYeAjs9n2AEz69dQ0">
 
                         <div class="form-group">
                             <div class="input-group input-group-lg">
@@ -839,7 +835,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
             </div>
 		</div>
 	</div>
-</div>		            		                <div class="social hidden-xs hidden-sm">
+</div>				<div class="social hidden-xs hidden-sm">
     SHARE
     <ul>
         <li>
@@ -862,369 +858,276 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
             </a>
         </li>
     </ul>
-</div>		            				
-		</nav>
+</div>				
+	</div></nav>
 
 
-		<!-- Collect the nav links, forms, and other content for toggling -->
-		<nav class="navbar-collapse navbar-collapse-sm collapse" id="navbar-collapse-2">
-			<div class="container">
-				<div class="row">
-					<ul id="navbarNavSm" class="nav navbar-nav menu-main-sm visible-sm-block first-level" role="menu">
-						<li>
+	<!-- Collect the nav links, forms, and other content for toggling -->
+	<nav class="navbar-collapse navbar-collapse-sm collapse" id="navbar-collapse-2">
+		<div class="container">
+			<div class="row">
+				<ul id="navbarNavSm" class="nav navbar-nav menu-main-sm visible-sm-block first-level" role="menu">
+					<li>
 
-							<!-- INFO -->
-							<ul role="menu" class="menu-main-sm_second-level col-sm-3">
-								<li class="menu-item mod-first-child">
-									<p class="text-lg">Info</p>
-								</li>
-								<li class="menu-item mod-last-child">
-									<a href="https://scholarshipowl.com/howtoapply">
-										Tips on how to apply
-									</a>
-								</li>
-								<li>
-									<a href="https://scholarshipowl.com/faq">
-										FAQ
-									</a>
-								</li>
-								<li>
-									<a target="_blank" href="https://scholarshipowl.zendesk.com/hc/en-us">Helpdesk (beta)</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/what-people-say-about-scholarshipowl">
-										What people say about us
-									</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/awards/scholarship-winners">
-										Scholarship Winners
-									</a>
-								</li>
-                                <li class="menu-item">
-                                    <a href="https://scholarshipowl.com/list-your-scholarship">
-                                        List your scholarship
-                                    </a>
-                                </li>
-								<li class="menu-item hidden">
-									<a href="https://scholarshipowl.com/refer-a-friend">
-										Refer A Friend
-									</a>
-								</li>
-								<li class="menu-item hidden">
-									<a href="https://scholarshipowl.com/previous-winners">
-										Previous Winners
-									</a>
-								</li>
-								<li class="menu-item hidden">
-									<a href="https://scholarshipowl.com/satisfaction-guarantee">
-										Money-back / Satisfaction Guarantee
-									</a>
-								</li>
-								<li class="menu-item hidden">
-									<a href="https://scholarshipowl.com/recommended-colleges">
-										Recommended Colleges
-									</a>
-								</li>
-							</ul>
-						</li>
+						<!-- INFO -->
+						<ul role="menu" class="menu-main-sm_second-level col-sm-3">
+							<li class="menu-item mod-first-child">
+								<p class="text-lg">Info</p>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/faq">
+									FAQ
+								</a>
+							</li>
+							<li class="menu-item">
+								<a target="_blank" href="https://scholarshipowl.zendesk.com/hc/en-us">Helpdesk (beta)</a>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/what-people-say-about-scholarshipowl">
+									Reviews
+								</a>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/awards/scholarship-winners">
+									Scholarship Winners
+								</a>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/refund-policy">
+									Refund Policy
+								</a>
+							</li>
+							<li class="menu-item hidden">
+								<a href="https://scholarshipowl.com/refer-a-friend">
+									Refer A Friend
+								</a>
+							</li>
+							<li class="menu-item hidden">
+								<a href="https://scholarshipowl.com/previous-winners">
+									Previous Winners
+								</a>
+							</li>
+							<li class="menu-item hidden">
+								<a href="https://scholarshipowl.com/satisfaction-guarantee">
+									Money-back / Satisfaction Guarantee
+								</a>
+							</li>
+							<li class="menu-item hidden">
+								<a href="https://scholarshipowl.com/recommended-colleges">
+									Recommended Colleges
+								</a>
+							</li>
+						</ul>
+					</li>
 
-						<li>
-							<!-- ABOUT US -->
-							<ul role="menu" class="menu-main-sm_second-level col-sm-3">
-								<li class="menu-item mod-first-child">
-									<p class="text-lg">About us </p>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/FindingABetterWayToPayForCollege.pdf" target="_blank">
-										A better way to pay for College
-									</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/about-us">
-										About us
-									</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/whatwedo">
-										What we do
-									</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/whoweare">
-										Who we are
-									</a>
-								</li>
-								<li class="menu-item hidden">
-									<a href="https://scholarshipowl.com/giving-back-to-students">
-										Giving Back to Students/Society
-									</a>
-								</li>
-                                <li>
-                                    <a href="https://scholarshipowl.com/partners">
-                                        Partners
-                                    </a>
-                                </li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/press">
-										Press
-									</a>
-								</li>
-							</ul>
-						</li>
+					<li>
+						<!-- ABOUT US -->
+						<ul role="menu" class="menu-main-sm_second-level col-sm-3">
+							<li class="menu-item mod-first-child">
+								<p class="text-lg">About us</p>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/about-us">
+									About us
+								</a>
+							</li>
+							<li class="menu-item">
+								<a href="http://blog.scholarshipowl.com" target="_blank">
+									Blog
+								</a>
+							</li>
+							<li class="menu-item hidden">
+								<a href="https://scholarshipowl.com/giving-back-to-students">
+									Giving Back to Students/Society
+								</a>
+							</li>
+						</ul>
+					</li>
 
-						<li>
-							<!-- SERVICES -->
-							<ul role="menu" class="menu-main-sm_second-level col-sm-3">
-								<li class="menu-item mod-first-child">
-									<p class="text-lg">Services</p>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/additional-services">
-										Additional Services
-									</a>
-								</li>
-								<li class="menu-item hidden">
-									<a href="https://scholarshipowl.com/premium-services">
-										Why We Charge For The Premium Services
-									</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/our-promise-to-you">
-								    	What You Get / Our Promise To You
-								    </a>
-								  </li>
-								<li class="menu-item mod-last-child">
-									<a href="https://scholarshipowl.com/ebook">
-										eBook
-									</a>
-								</li>
-								<li class="menu-item mod-last-child hidden">
-									<a href="https://scholarshipowl.com/tools">
-										Tools
-									</a>
-								</li>
-								<li class="menu-item hidden">
-									<a href="https://scholarshipowl.com/what-i-get">
-										What Does The Free Service Include
-									</a>
-								</li>
-								<li class="menu-item hidden">
-									<a href="https://scholarshipowl.com/offerings">
-										Offerings
-									</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/resources-and-education-center">
-										Resources And Educational Center
-									</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/international-scholarships">
-										International Students
-									</a>
-								</li>
-								<li class="menu-item hidden">
-									<a href="https://scholarshipowl.com/get-connected-to-recipients">
-										Get Connected To Previous Recipients
-									</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/offer-wall">
-										Offer wall
-									</a>
-								</li>
-							</ul>
-						</li>
+					<li>
+						<!-- SERVICES -->
+						<ul role="menu" class="menu-main-sm_second-level col-sm-3">
+							<li class="menu-item mod-first-child">
+								<p class="text-lg">Services</p>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/additional-services">
+									Additional Services
+								</a>
+							</li>
+							<li class="menu-item hidden">
+								<a href="https://scholarshipowl.com/premium-services">
+									Why We Charge For The Premium Services
+								</a>
+							</li>
+							<li class="menu-item mod-last-child">
+								<a href="https://scholarshipowl.com/ebook">
+									eBook
+								</a>
+							</li>
+							<li class="menu-item mod-last-child hidden">
+								<a href="https://scholarshipowl.com/tools">
+									Tools
+								</a>
+							</li>
+							<li class="menu-item hidden">
+								<a href="https://scholarshipowl.com/what-i-get">
+									What Does The Free Service Include
+								</a>
+							</li>
+							<li class="menu-item hidden">
+								<a href="https://scholarshipowl.com/offerings">
+									Offerings
+								</a>
+							</li>
+							<li class="menu-item hidden">
+								<a href="https://scholarshipowl.com/get-connected-to-recipients">
+									Get Connected To Previous Recipients
+								</a>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/offer-wall">
+									Featured Scholarships
+								</a>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.studentbeans.com/us" target="_blank">
+									Student discount
+								</a>
+							</li>
+							<li>
+								<a href="https://scholarshipowl.com/jobs">
+									Jobs
+								</a>
+							</li>
+						</ul>
+					</li>
 
 
-						<li>
-							<!-- PARTNER -->
-							<ul role="menu" class="menu-main-sm_second-level col-sm-3 hidden">
-								<li class="menu-item mod-first-child">
-									<p class="text-lg">Partner</p>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/list-your-scholarship">
-										List Your Scholarship
-									</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/partners">
-										Partners
-									</a>
-								</li>
-								<li class="menu-item hidden">
-									<a href="https://scholarshipowl.com/promote-your-scholarship">
-
-										Promote Your Scholarship
-									</a>
-								</li>
-								<li class="menu-item">
-									<a href="https://scholarshipowl.com/advertise-with-us">
-										Advertise With Us
-									</a>
-								</li>
-								<li class="menu-item mod-last-child">
-									<a href="https://scholarshipowl.com/partnerships">
-										Partnerships
-									</a>
-								</li>
-							</ul>
+					<li>
+						<!-- PARTNER -->
+						<ul role="menu" class="menu-main-sm_second-level col-sm-3 hidden">
+							<li class="menu-item mod-first-child">
+								<p class="text-lg">Partner</p>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/partners">
+									Partners
+								</a>
+							</li>
+							<li class="menu-item hidden">
+								<a href="https://scholarshipowl.com/promote-your-scholarship">
+									Promote Your Scholarship
+								</a>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/advertise-with-us">
+									Advertise With Us
+								</a>
+							</li>
+							<li class="menu-item mod-last-child">
+								<a href="https://scholarshipowl.com/partnerships">
+									Partnerships
+								</a>
+							</li>
+						</ul>
 
 
-							<!-- CONTACT -->
-							<ul role="menu" class="menu-main-sm_second-level col-sm-3">
-								<li class="menu-item mod-first-child">
-									<p class="text-lg">Contact us</p>
-								</li>
-								<li>
-									<a href="https://scholarshipowl.com/contact">
-										Contact
-									</a>
-								</li>
-							</ul>
+						<!-- CONTACT -->
+						<ul role="menu" class="menu-main-sm_second-level col-sm-3">
+							<li class="menu-item mod-first-child">
+								<p class="text-lg">Contact us</p>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/contact">
+									Contact
+								</a>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/list-your-scholarship">
+									List your scholarship
+								</a>
+							</li>
+							<li class="menu-item">
+								<a href="https://scholarshipowl.com/partners">
+									Partners
+								</a>
+							</li>
+						</ul>
 
-						</li>
-					</ul>
-				</div>
+					</li>
+				</ul>
 			</div>
-		</nav>
+		</div>
+	</nav>
 
 	<!-- ××× -->
-	</header>
+</header>
         
 		<main role="main" aria-label="main content" id="main" tabindex="-1">
 
             
             
-<!-- Privacy header -->
-<div class="blue-bg clearfix">
-				<div class="container">
-					<div class="row">
-						<div class="text-container text-center text-white">
-							<h2 class="text-large text-light">Privacy Policy</h2>
-						</div>
-					</div>
-				</div>
-			</div>
+    <!-- Privacy header -->
+    <div class="blue-bg clearfix">
+      <div class="container">
+        <div class="row">
+          <div class="text-container text-center text-white">
+            <h2 class="text-large text-light">Privacy Policy</h2>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<!-- Privacy content -->
-<div class="section--privacy paleBlue-bg clearfix">
-				<div class="container">
-					<div class="row">
-						<div class="text-container">
+    <!-- Privacy content -->
+    <div class="section--privacy paleBlue-bg clearfix">
+      <div class="container">
+        <div class="row">
+          <div class="text-container">
 
-							<h3><b>ScholarshipOwl - Privacy Policy</b></h3>
+            <h2 class="h3"><b>ScholarshipOwl - Privacy Policy</b></h2>
+            <p><strong>ScholarshipOwl - Privacy Policy</strong></p>
+            <p>Last updated: June 2017</p>
+            <p>Owl Marketing Ltd. (“<strong>Owl</strong>” or “<strong>we</strong>”) respect the privacy of its customers and visitors (“<strong>you</strong>”) and are committed to maintaining the privacy and confidentiality of your information including your personal data (collectively, “<strong>information</strong>”). Your “<strong>personal data</strong>” means data or personally identifiable information that allows someone to identify or contact you, including, for example, your name, e-mail address, telephone number, credit card information for account set-up and billing, as well as any other non-public information about you that is associated with or linked to any of the foregoing data.</p>
+            <p><strong>By visiting our website and/or using our services, you accept our privacy practices described in this Privacy Policy.</strong></p>
+            <h2 class="h4"><p><strong>1. </strong><strong>Information We Collect</strong></p></h2>
+            <p>We collect your information as follows:</p>
+            <p><strong>1.1</strong> <u>Information that You Provide Us</u>. We collect any information you enter on our website or through your use of the Services or that you otherwise provide us (via chat, telephone calls, emails, online forms, etc.). This information may include identifying information such as your name, address, phone number, email address and information on services ordered. We may also collect other information from you, such as essays, scholastic information, and information regarding your education and interests, and we may also take your photograph or a video of you. We may ask you to provide your credit card or other financial account information to enable us to charge your account when you purchase products or services from us. </p>
+            <p><strong>1.2</strong> <u>Information that is Collected Automatically</u>. We collect certain types of information when you interact with us. This information may include but is not limited to IP address, location, email address, hardware settings, the browser you used to visit our site, system crashes, time and duration of your connection, run time information about the state of your virtual machine for example: uptime, CPU, network and disk utilization (R/W), etc.</p>
+            <p><strong>1.3</strong> <u>Cookies</u>. We use cookies and similar technologies such as digital identifiers, log files, web beacons, and plugins (“Cookies”) , which store certain information from user devices, for various reasons, such as to keep track of your activities on our website, to recognize return visitors, to track our promotions, and to compile aggregate data about site traffic and site interaction. If you choose to provide personally identifiable information to us, then this information may be linked to data stored in the relevant Cookie. Some third parties that advertise on our website also use Cookies and similar technologies. Please note that this privacy policy does not cover how third parties use their Cookies. You may choose to have your browser reject some or all Cookies.</p>
+            <p><strong>1.4 </strong><u>Information We May Obtain from Third Party Partners and Social Media</u><strong>.</strong> We may receive information, including personal data, about you from Third Party Partners or social media. We may add information provided to us about you from our Third Party Partners or social media to information that we have already collected from you. </p>
+            <p>“<strong>Third Party Partners</strong>” means third parties, including without limitation scholarship sponsors, scholarship providers, tutoring and essay writers, providers of college placement services, providers of student loans, and data resellers.</p>
+            <p><strong>1.5 </strong><u>Opting-Out</u>. <strong>You can decide at any time to not provide us with any further information about yourself </strong>by sending an email to <a href="mailto:contact@scholarshipowl.com">contact@scholarshipowl.com</a>, putting “Close Account” in the subject line, and closing your account with us and ceasing to visit our website.</p>
+            <h2 class="h4"><p><strong>2. </strong><strong>How We Use Your Information</strong></p></h2>
+            <p><strong>2.1</strong> <u>Use of Your Information</u>. We use your information only for the purposes set forth in this Privacy Policy. We may directly or indirectly (through our affiliates, subcontractors, representatives and agents (which may include Third Party Partners)) use your information (regardless of whether such information is provided by you actively, or collected by us or a third party) to offer and provide our products and services (including by way of example, to create, maintain, secure and close your account with us including your Owl personalized email address, to identify you as a user in our system, to respond to your communications, to solicit feedback, to send promotional communications such as newsletters, to send upgrades and offers related to our products and services, to improve and develop our products and services, to maintain our website, and to help prevent spam, fraud and abuse), for our processing, marketing and remarketing purposes, and for the processing, marketing and other commercialization purposes of our Third Party Partners and other third parties.</p>
+            <p><strong>2.2</strong> <u>Unsubscribing</u>. You may choose at any time to unsubscribe from receiving our post and email notifications and our newsletters by sending us an email to <a href="mailto:unsubscribe@scholarshipowl.com"><u>unsubscribe@scholarshipowl.com</u></a>, and from our notifications by land line, mobile phone, cellular phone or text message (including internet-to-phone text message), by revoking your consent through any reasonable means at any time. </p>
+            <h2 class="h4"><p><strong>3. </strong><strong>Disclosure of Your Information</strong></p></h2>
+            <p><strong>3.1</strong> <u>To whom we disclose your Information, including your Personal Data</u>. <strong>We may disclose your information, including your personal data, without your prior written consent, as follows</strong>: (i) to our affiliates, subcontractors, representatives and agents (which may include Third Party Partners), including but not limited to scholarship providers and payment processors, in connection with the provision of our products or services to you, (ii) to our remarketers in connection with remarketing services provided by our remarketers to us, such as target advertising on other sites or applications based on your online activity, (iii) to Third Party Partners for such Third Party Partners’ processing, marketing and other commercialization purposes, including where applicable further disclosure to other third parties, (iv) where we in good faith believe it is required by applicable law, court order, or by a governmental, administrative, or law enforcement authority, (v) to an acquirer of all or part of our company or our business, (vi) where we in good faith believe it is necessary in order to protect our safety or rights, or those of a third party, including but not limited to in connection with fraud detection or prevention, or security or technical issues, or (vii) where we in good faith believe it is necessary in order to enforce the provisions of this Privacy Policy.</p>
+            <p>We will not disclose your information, including your personal information, to any third party or for any reason except for those listed above (as may be amended from time to time in our sole discretion upon an amendment of this Privacy Policy pursuant to Section 8 below) unless we have received your express written consent to such disclosure.</p>
+            <p>We may be compensated for information, including personal data, that is disclosed to Third Party Partners or other third parties. </p>
+            <p><strong>3.2</strong> <u>Third Party Privacy Policies</u>. Upon your information being shared with our affiliate, subcontractor, representative, agent, remarketer, Third Party Partner or other third party pursuant to Section 3.1 above, we will treat your information according to the terms of our Privacy Policy, and the relevant affiliate, subcontractor, representative, agent, remarketer, Third Party Partner or other third party will treat your information according to the terms of its own privacy policy.</p>
+            <p><strong>3.3 </strong><u>Third-Party</u><u>Opting Out</u>. If we have already disclosed your information to any third party, you will need to be in direct contact with that third party in connection with your concern, question, request or demand in connection with such third party’s use or disclosure of your personal information. </p>
+            <p>Third-party remarketers, including Google, AdRoll and Facebook use cookies to serve ads based on a user’s prior visits to our website. Google’s use of advertising Cookies enables it and its partners to serve ads based on visits to our site or other sites on the internet. You can opt out of personalized advertising by visiting Google’s <a href="https://support.google.com/ads/answer/2662856?hl=en">Ads Settings</a>. Alternately, you can opt out of other third-party vendors’ uses of cookies by visiting the Digital Advertising Alliance’s (DAA) opt out page at <a href="http://www.aboutads.info/choices"><u>http://www.aboutads.info/choices</u></a> or <u><a href="http://www.aboutads.info/appchoices">http://www.aboutads.info/appchoices</a></u><u>.</u> To find out more about how Google uses data it collects please visit <a href="https://www.google.com/privacy_ads.html">Google Privacy &amp; Terms</a>.</p>
+            <h2 class="h4"><p><strong>4. </strong><strong>Information Security</strong></p></h2>
+            <p>We implement commercially reasonable industry-standard security measures designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of your information, including encryption, firewalls, and access controls.</p>
+            <p>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software. </p>
+            <p><strong>Although we make good faith efforts to store your information in a secure operating environment, we cannot guarantee security. </strong>You understand and agree that all information collected through the website and the products and services that we provide is at your own risk and is subject to the provisions and disclaimers of both this Privacy Policy and our Customer Agreement.</p>
+            <h2 class="h4"><p><strong>5. </strong><strong>Inquiries or Complaints</strong></p></h2>
+            <p>If you have an inquiry or complaint about this Privacy Policy or our information collection practices, please contact us at <a href="mailto:inquiries@scholarshipowl.com"><u>contact@scholarshipowl.com</u></a>.</p>
+            <h2 class="h4"><p><strong>6. </strong><strong>Links to Other Sites</strong></p></h2>
+            <p>Our website contains links to external websites. We are not responsible for the privacy practices or the content of such third party websites. We encourage you to review their privacy policies before submitting your information.</p>
+            <h2 class="h4"><p><strong>7. </strong><strong>Contact Us; Removal</strong></p></h2>
+            <p>If you would like to contact us in connection with our Privacy Policy, including to request deletion of your information that is stored on our systems, please send an email to <a href="mailto:inquiries@scholarshipowl.com"><u>contact@scholarshipowl.com</u></a> detailing your request. </p>
+            <p>If you are a minor, you may request that we remove any content you have posted from our website, products services by writing us at <a href="mailto:inquiries@scholarshipowl.com"><u>contact@scholarshipowl.com</u></a>. </p>
+            <p>Please note that any removal process does not ensure complete or comprehensive removal of the content or information, and, unless removal is otherwise required by applicable law, content or information related to your acceptance of a scholarship will not be subject to removal. </p>
+            <h2 class="h4"><p><strong>8. </strong><strong>Updates</strong></p></h2>
+            <p><strong>From time to time, we may update our Privacy Policy, and your continued use of our website or our products services will signify your express agreement to such updated Privacy Policy.</strong> We will post any Privacy Policy changes on our website, and in some cases, in our sole discretion, we may notify you by email. </p>
+            <p><strong>You agree to accept posting of a revised Privacy Policy electronically on the website as actual notice to you.</strong> We encourage you to periodically check to review our Privacy Policy for updates.</p>						</div>
+          </div>
+        </div>
+      </div>
 
-							<p>Last updated: January 2017</p>
-
-							<p>
-								Owl Marketing Ltd. (<b>“Owl”</b> or <b>“we”</b>) respect the privacy of its customers and visitors (<b>“you”</b>) and are committed to maintaining the privacy and confidentiality of your information including your personal data (collectively, <b>“information”</b>). Your <b>“personal data”</b> means data or personally identifiable information that allows someone to identify or contact you, including, for example, your name, e-mail address, telephone number, credit card information for account set-up and billing, as well as any other non-public information about you that is associated with or linked to any of the foregoing data.
-							</p>
-							<p>
-								<b>By visiting our website and/or using our services, you accept our privacy practices described in this Privacy Policy.</b>
-							</p>
-							<h4><b>1. Information We Collect</b></h4>
-
-							<p>
-								We collect your information as follows:
-							</p>
-
-							<p><b>1.1</b> <span class="underline">Information that You Provide Us</span>.</p>
-							<p>We collect any information you enter on our website or through your use of the Services or that you otherwise provide us (via chat, telephone calls, emails, online forms, etc.). This information may include identifying information such as your name, address, phone number, email address and information on services ordered. We may also collect other information from you, such as essays, scholastic information, and information regarding your education and interests, and we may also take your photograph or a video of you. We may ask you to provide your credit card or other financial account information to enable us to charge your account when you purchase products or services from us.
-							</p>
-
-							<p><b>1.2</b> <span class="underline">Information that is Collected Automatically</span>.</p>
-							<p>We collect certain types of information when you interact with us. This information may include but is not limited to IP address, location, email address, hardware settings, the browser you used to visit our site, system crashes, time and duration of your connection, run time information about the state of your virtual machine for example: uptime, CPU, network and disk utilization (R/W), etc.
-							</p>
-
-							<p><b>1.3</b> <span class="underline">Cookies</span>.</p>
-							<p>We use cookies and similar technologies for various reasons, such as to keep track of your activities on our website, to recognize return visitors, and to track our promotions. If you choose to provide personally identifiable information to us, then this information may be linked to data stored in the relevant cookie. Some third parties that advertise on our website also use cookies and similar technologies. Please note that this privacy policy does not cover how third parties use their cookies. You may choose to have your browser reject some or all cookies.
-							</p>
-
-							<p><b>1.4</b> <span class="underline">Information We May Obtain from Third Party Partners and Social Media</span>.</p>
-							<p>We may receive information, including personal data, about you from Third Party Partners or social media. We may add information provided to us about you from our Third Party Partners or social media to information that we have already collected from you.
-							</p>
-
-							<p><b>“Third Party Partners”</b> means third parties, including without limitation scholarship sponsors, scholarship providers, tutoring and essay writers, providers of college placement services, providers of student loans, and data resellers.
-							</p>
-
-							<p><b>1.5</b> <span class="underline">Opting-Out</span>.</p>
-							<p><b>You can decide at any time to not provide us with any further information about yourself</b> by sending an email to <a href="mailto:contact@scholarshipowl.com" target="_blank">contact@scholarshipowl.com</a>, putting “Close Account” in the subject line, and closing your account with us and ceasing to visit our website.
-							</p>
-
-							<h4><b>2. How We Use Your Information</b></h4>
-
-							<p><b>2.1</b> <span class="underline">Use of Your Information</span>.</p>
-							<p>We use your information only for the purposes set forth in this Privacy Policy. We may directly or indirectly (through our affiliates, subcontractors, representatives and agents (which may include Third Party Partners)) use your information (regardless of whether such information is provided by you actively, or collected by us or a third party) to offer and provide our products and services (including by way of example, to create, maintain, secure and close your account with us including your Owl personalized email address, to identify you as a user in our system, to respond to your communications, to solicit feedback, to send promotional communications such as newsletters, to send upgrades and offers related to our products and services, to improve and develop our products and services, to maintain our website, and to help prevent spam, fraud and abuse), for our processing, marketing and remarketing purposes, and for the processing, marketing and other commercialization purposes of our Third Party Partners and other third parties.
-							</p>
-
-							<p><b>2.2</b> <span class="underline">Unsubscribing</span>.</p>
-							<p>You may choose at any time to unsubscribe from receiving our post and email notifications and our newsletters by sending us an email to <a href="mailto:unsubscribe@scholarshipowl.com">unsubscribe@scholarshipowl.com</a>, and from our notifications by land line, mobile phone, cellular phone or text message (including internet-to-phone text message), by revoking your consent through any reasonable means at any time.
-							</p>
-
-							<h4><b>3. Disclosure of Your Information</b></h4>
-							<p><b>3.1</b> <span class="underline">To whom we disclose your Information, including your Personal Data</span>.</p>
-							<p><b>We may disclose your information, including your personal data, without your prior written consent, as follows:</b> (i) to our affiliates, subcontractors, representatives and agents (which may include Third Party Partners), including but not limited to scholarship providers and payment processors, in connection with the provision of our products or services to you, (ii) to our remarketers in connection with remarketing services provided by our remarketers to us, such as target advertising on other sites or applications based on your online activity, (iii) to Third Party Partners for such Third Party Partners’ processing, marketing and other commercialization purposes, including where applicable further disclosure to other third parties, (iv) where we in good faith believe it is required by applicable law, court order, or by a governmental, administrative, or law enforcement authority, (v) to an acquirer of all or part of our company or our business, (vi) where we in good faith believe it is necessary in order to protect our safety or rights, or those of a third party, including but not limited to in connection with fraud detection or prevention, or security or technical issues, or (vii) where we in good faith believe it is necessary in order to enforce the provisions of this Privacy Policy.</p>
-							<p>We will not disclose your information, including your personal information, to any third party or for any reason except for those listed above (as may be amended from time to time in our sole discretion upon an amendment of this Privacy Policy pursuant to Section 8 below) unless we have received your express written consent to such disclosure.</p>
-							<p>We may be compensated for information, including personal data, that is disclosed to Third Party Partners or other third parties.</p>
-
-							<p><b>3.2</b> <span class="underline">Third Party Privacy Policies</span>.</p>
-							<p>Upon your information being shared with our affiliate, subcontractor, representative, agent, remarketer, Third Party Partner or other third party pursuant to Section 3.1 above, we will treat your information according to the terms of our Privacy Policy, and the relevant affiliate, subcontractor, representative, agent, remarketer, Third Party Partner or other third party will treat your information according to the terms of its own privacy policy.</p>
-
-							<p><b>3.3</b> <span class="underline">Third-Party Opting Out</span>.</p>
-							<p>If we have already disclosed your information to any third party, you will need to be in direct contact with that third party in connection with your concern, question, request or demand in connection with such third party’s use or disclosure of your personal information.</p>
-							<p>Third-party remarketers, including Google, AdRoll and Facebook use cookies to serve ads based on a user’s prior visits to our website.</p>
-							<p>
-							<b>You can opt out of Google's use of cookies</b> by visiting the <a href="https://www.google.com/ads/preferences/" target="_blank">Ads Preferences Manager</a>. In addition, you can opt out of other third-party vendor's use of cookies by visiting the <a href="https://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative opt-out page</a>. To find out more about how Google uses any data it collects please visit <a href="https://www.google.com/privacy_ads.html" target="_blank">Google Privacy &amp; Principals</a>.
-							</p>
-							<p>
-							<b>You can opt out of receiving targeted advertisements from AdRoll</b> by visiting the NAI website opt-out page at <a href="http://www.networkadvertising.org/choices/" target="_blank">http://www.networkadvertising.org/choices/</a> or the DAA opt-out page at <a href="http://www.aboutads.info/" target="_blank">http://www.aboutads.info/</a>
-							</p>
-
-							<h4><b>4. Information Security</b></h4>
-
-							<p>We implement commercially reasonable industry-standard security measures designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of your information, including encryption, firewalls, and access controls.</p>
-
-							<p>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software.</p>
-
-							<p>
-								<b>Although we make good faith efforts to store your information in a secure operating environment, we cannot guarantee security.</b> You understand and agree that all information collected through the website and the products and services that we provide is at your own risk and is subject to the provisions and disclaimers of both this Privacy Policy and our Customer Agreement.
-							</p>
-
-							<h4><b>5. Inquiries or Complaints</b></h4>
-
-							<p>
-								If you have an inquiry or complaint about this Privacy Policy or our information collection practices, please contact us at <a href="mailto:contact@scholarshipowl.com" target="_blank">contact@scholarshipowl.com</a>.
-							</p>
-
-							<h4><b>6. Links to Other Sites</b></h4>
-
-							<p>Our website contains links to external websites. We are not responsible for the privacy practices or the content of such third party websites. We encourage you to review their privacy policies before submitting your information.</p>
-
-							<h4><b>7. Contact Us; Removal</b></h4>
-
-							<p>
-								If you would like to contact us in connection with our Privacy Policy, including to request deletion of your information that is stored on our systems, please send an email to <a href="mailto:contact@scholarshipowl.com" target="_blank">contact@scholarshipowl.com</a> detailing your request.
-							</p>
-							<p>
-								If you are a minor, you may request that we remove any content you have posted from our website, products services by writing us at <a href="mailto:contact@scholarshipowl.com" target="_blank">contact@scholarshipowl.com</a>.
-							</p>
-							<p>Please note that any removal process does not ensure complete or comprehensive removal of the content or information, and, unless removal is otherwise required by applicable law, content or information related to your acceptance of a scholarship will not be subject to removal.</p>
-
-							<h4><b>8. Updates</b></h4>
-
-							<p>
-								<b>From time to time, we may update our Privacy Policy, and your continued use of our website or our products services will signify your express agreement to such updated Privacy Policy.</b> We will post any Privacy Policy changes on our website, and in some cases, in our sole discretion, we may notify you by email.
-							</p>
-							<p><b>You agree to accept posting of a revised Privacy Policy electronically on the website as actual notice to you.</b> We encourage you to periodically check to review our Privacy Policy for updates.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<!-- Refer a friend -->
+      <!-- Refer a friend -->
 
 <section role="region" aria-label="Refer a friend">
 	<div id="refer-a-friend" class="refer-a-friend-wrapper">
@@ -1232,7 +1135,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 			<div class="row">
 				<div class="col-xs-12">
 				<div class="refer-friend clearfix">
-					<h3 class="refer-friend-title text-blue text-light">Refer a Friend</h3>
+					<h2 class="refer-friend-title text-blue text-light">Refer a Friend</h2>
 					<p class="text-medium">Have a friend in need of our help? Send them our way and <span class="linebreak"><strong class="text-blue">receive some great rewards.</strong> We love working with new users, </span><span class="linebreak">and we want to reward you for sending them our way. There is no limit </span><span class="linebreak">to the number of friends you can refer!</span>
 					</p>
 					<ul class="refer text-left">
@@ -1260,40 +1163,44 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 			</div>
 		</div>
 	</div>
-</section>		</main>
+</section>      		</main>
 
-                    <footer class="footer" role="contentinfo" aria-label="footer">
+        <div id="login-modal"></div>
+                                    <footer class="footer" role="contentinfo" aria-label="footer">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-lg-12">
-                    <h3 class="sr-only">Footer</h3>
+                    <h2 class="sr-only">Footer</h2>
                     <div class="links">
                         <a href="https://scholarshipowl.com">Home</a>
                         <a href="https://scholarshipowl.com/faq">FAQ</a>
                         <a target="_blank" href="https://scholarshipowl.zendesk.com/hc/en-us">Helpdesk (beta)</a>
+                        <a href="https://scholarshipowl.com/press">Press</a>
                         <a href="https://scholarshipowl.com/help">Help</a>
                         <a href="https://scholarshipowl.com/disclaimer">Disclaimer</a>
                         <a href="https://scholarshipowl.com/privacy">Privacy Policy</a>
-                        <a href="https://scholarshipowl.com/terms">Terms and Conditions</a>
+                        <a href="https://scholarshipowl.com/terms">Terms of Use</a>
                         <a href="https://scholarshipowl.com/contact">Contact</a>
+                        <a target="_blank" href="https://scholarshipowl.recruitee.com/">Jobs</a>
                     </div>
-                    <div class="text-center">
-                        <p>
-                            </p><div class="sprite-ssl-logo"></div>
-                        <p></p>
-                        <p>
-                            <a class="sprite-dmca-protected-sml-120n" href="https://www.dmca.com/Protection/Status.aspx?ID=dc472339-93d3-4fee-b5fd-cc22f5f05ebd" title="DMCA.com Protection Status" target="_blank"></a>
-                        </p>
-                    </div>
-                    <div class="copyrights">
+                                            <div class="text-center">
+                            <p>
+                                </p><div class="sprite-ssl-logo"></div>
+                            <p></p>
+                            <p>
+                                <a class="sprite-dmca-protected-sml-120n" href="https://www.dmca.com/Protection/Status.aspx?ID=dc472339-93d3-4fee-b5fd-cc22f5f05ebd" title="DMCA.com Protection Status" target="_blank"></a>
+                            </p>
+                        </div>
+                                        <div class="copyrights">
                         <p>Copyrights © ScholarshipOwl, All rights reserved</p>
 
                         <p>Scholarshipowl.com is owned and operated by Owl Marketing Limited</p>
                         <p>210/2 Manwel Dimech Street, SLM 1050, Sliema, Malta</p>
-                        <p>800 494 49 08</p>
+                        <p>800 494 4908</p>
                     </div>
                     <div class="disclaimer-note">
-                        <p>Note: ScholarshipOwl does not guarantee the receipt of any scholarship. Upgrading to premium membership does not increase your chances of receiving a specific scholarship.</p>
+                        <p>ScholarshipOwl is a personalized scholarship matching service and management tool. It does not guarantee the receipt of any scholarship. Upgrading to premium membership does not increase your chances of winning a specific scholarship.
+</p>
                     </div>
                 </div>
             </div>
@@ -1305,7 +1212,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
         <div class="row">
             <div class="col-xs-12 text-center">
                 <div class="bubble center-block">
-                    <h3 class="h4 mod-heading text-white">Check what others say about us</h3>
+                    <h2 class="h4 mod-heading text-white">Check what others say about us</h2>
                 </div>
             </div>
         </div>
@@ -1329,17 +1236,85 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
     </div>
 </div>
 </footer>
-        
+                    
 
                             
         
 		
-        <script src="https://cdn.ravenjs.com/3.9.1/raven.min.js"></script>
+        			<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 961097412;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961097412/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+					
+        		
+        
+        <!-- Include cookie policy disclaimer -->
+        <!-- cookie policy disclaimer -->
+<div id="cookie-disclaimer" class="cookie-modal">
+    <span class="ctrl ctrl_cookie">+</span>
+    <p class="cookie-modal__text">
+        We use cookies to personalize content and ads, to provide social media features
+        and to analyze our traffic. We also share information about your use of our site
+        with our social media, advertising and analytics partners.
+    </p>
+    <a class="link" href="/privacy" target="_blank">Learn more</a>
+</div>
+
+                <!-- Plugins JS -->
+        <script src="/assets/js/build/2d7db08c0a216c7e52cd73eb5662ba60.js"></script>
+
+        <!-- Scripts JS -->
+        
+        <!-- Core JS -->
+        <script src="/assets/js/build/04900de3c65cfdbaee574f28a8da5005.js"></script>
+
+        <script src="/js/external-components.js?db69102e8c624bcdad93105f4bf3ede2f3264077"></script>
+        <!-- Scripts 2 JS -->
+          <script src="/assets/js/build/cadda5c52f08b3ec830f48d6c829a029.js"></script>
+
+    
+        <!-- Coregs JS -->
+                                    <script src="/assets/js/build/51b85a5160c50b89a9c53387ec0cf8a7.js"></script>
+
+
+                            
+                            
+                            
+                            
+                            
+                            
+                    
+                    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1779250712320447&ev=PageView&noscript=1"/></noscript>
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1779250712320447');
+    fbq('track', "PageView");
+</script>
+
+
+
+                <script src="https://cdn.ravenjs.com/3.9.1/raven.min.js"></script>
     <script>
     if (typeof Raven !== 'undefined') {
         // Ignore list based off: https://gist.github.com/1878283
         var ravenOptions = {
-            release: '4d60013571ce8a052996edffe359f1df1773f9ab',
+            release: 'db69102e8c624bcdad93105f4bf3ede2f3264077',
             // Will cause a deprecation warning, but the demise of `ignoreErrors` is still under discussion.
             // See: https://github.com/getsentry/raven-js/issues/73
             ignoreErrors: [
@@ -1385,61 +1360,47 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
             ]
         };
 
-        Raven.config('https://4f371c11b39c4a5facbb0d95f827ce62@sentry.io/102054', ravenOptions).install();
+//        (function() {
+//            var origOpen = XMLHttpRequest.prototype.open;
+//            XMLHttpRequest.prototype.open = function() {
+//                // copy open method arguments
+//                var requestParemeters = arguments;
+//
+//                // create hook
+//                this.addEventListener('readystatechange', function(ev) {
+//                  errorHandler(ev, this, requestParemeters);
+//                });
+//
+//                // apply stndart open behavior
+//                origOpen.apply(this, arguments);
+//            };
+//
+//            function errorHandler(event, xhr, requestParemeters) {
+//
+//              if (xhr.readyState != 4) return;
+//
+//              if (xhr.status != 200) {
+//                console.log(arguments);
+//
+//                Raven.captureMessage(xhr.statusText, {
+//                    extra: {
+//                        type: requestParemeters[0], // request type
+//                        url: requestParemeters[1], // url
+//                        // data: ajaxSettings.data, // sended data
+//                        status: xhr.status,
+//                        error: xhr.statusText,
+//                        response: xhr.responseText.substring(0, 100)
+//                    }
+//                });
+//              }
+//            }
+//        })();
+
+        Raven.config('https://8972724f106540c0ba0417d6fc4f9836@sentry.io/157702', ravenOptions).install();
 
             }
     </script>
-
-        			<!-- Google Code for Remarketing Tag -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 961097412;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961097412/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-					        		
-                <!-- Plugins JS -->
-        <script src="/assets/js/build/00a34270cf5c16e0e4a9568004ac1d57.js"></script>
-
-        <!-- Scripts JS -->
-                <!-- Core JS -->
-        <script src="/assets/js/build/e4b33025ded37f458ae77196316482e7.js"></script>
-
-        <!-- Scripts 2 JS -->
-            <script src="/assets/js/build/843efc70f42f0aa2871d860520abf843.js"></script>
-
-
-        <!-- Coregs JS -->
-                                    <script src="/assets/js/build/e1d288de114a655a2b2aaee81a79267d.js"></script>
-
-
-                            
-                            
-                            
-                    
-                    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1779250712320447&ev=PageView&noscript=1"/></noscript>
-<script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-            document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
-    fbq('init', '1779250712320447');
-    fbq('track', "PageView");
-</script>
-
-
-
-                
+        
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -1447,7 +1408,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-TJRBS3');</script>
 <!-- End Google Tag Manager -->
+<script>
+    dataLayer.push({
+                'affid' : "none",
+        'isMobile' : false,
+        'fset' : 'Default',
+        'SRV' : 'prod',
+        'url' : window.location.pathname
+    })
+</script>
 	
-
 
 </body></html>
