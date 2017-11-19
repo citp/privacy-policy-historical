@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujitv.live privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620160433id_/http%3A//fujitv.live/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujitv.live privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119193100id_/https%3A//fujitv.live/privacy) for the most accurate reproduction.*
 
 # FUJITV - Privacy Policy
 
