@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olympic.org privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528193952id_/https%3A//www.olympic.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympic.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119022451id_/https%3A//www.olympic.org/privacy-policy) for the most accurate reproduction.*
 
 # Olympics | Olympic Games, Medals, Results, News | IOC
 
