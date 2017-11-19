@@ -1,0 +1,686 @@
+<!--The following is the downloaded HTML source of the stream.org privacy policy that was archived on 2017-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119193154id_/https%3A//stream.org/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="msvalidate.01" content="FA99D250EB22C936B47C4DA83BD2180F">
+	<meta name="robots" content="index, follow">
+	<meta name="google-site-verification" content="r9avYQKEjfZ4lsJlFUgvS21Qss9HHq-Ky_apG7ReUFg">
+	<title>Privacy Policy | The Stream</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://stream.org/xmlrpc.php">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,800,700,300|Montserrat:400,700|Open+Sans+Condensed:300,700|Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="/icomoon/style.css">
+	<link rel="stylesheet" type="text/css" media="all" href="https://stream.org/wp-content/themes/TheStreamBuzz/style.css">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/android-chrome-192x192.png" sizes="192x192">
+	<meta name="msapplication-square70x70logo" content="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/smalltile.png">
+	<meta name="msapplication-square150x150logo" content="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/mediumtile.png">
+	<meta name="msapplication-wide310x150logo" content="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/widetile.png">
+	<meta name="msapplication-square310x310logo" content="https://stream.org/wp-content/themes/TheStreamBuzz/images/home_icons/largetile.png">
+	<script src="https://stream.org/wp-content/themes/TheStreamBuzz/js/vendor/jquery.1.11.3.min.js"></script>
+	<script src="https://stream.org/wp-content/themes/TheStreamBuzz/js/vendor/cookie.jquery.js" type="text/javascript"></script>
+	<script src="https://stream.org/wp-content/themes/TheStreamBuzz/js/vendor/jquery.cycle2.js" type="text/javascript"></script>
+	<script src="https://stream.org/wp-content/themes/TheStreamBuzz/js/vendor/jquery.waypoints.js" type="text/javascript"></script>
+	<script src="https://stream.org/wp-content/themes/TheStreamBuzz/js/vendor/imagesloaded.js" type="text/javascript"></script>
+	<script src="https://stream.org/wp-content/themes/TheStreamBuzz/js/vendor/masonry.js" type="text/javascript"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.1.0/jquery.fitvids.min.js"></script>
+	<script src="https://stream.org/wp-content/themes/TheStreamBuzz/js/main.js" type="text/javascript"></script>
+	<script>
+		$(document).ready(function(){
+			init_site();
+						$("article.the_post").fitVids();
+
+			if ($(".the_featured_image img").width() >= $(".the_featured_image img").parents(".the_post").width()-30) {
+				$(".the_featured_image .image_with_credit").css("margin-right", "0");
+			}
+		});
+		var addthis_config = {
+			data_track_clickback: false
+		}
+
+		function _gaLt(event){
+			var el = event.srcElement || event.target;
+
+			/* Loop up the DOM tree through parent elements if clicked element is not a link (eg: an image inside a link) */
+			while(el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href)){
+				el = el.parentNode;
+			}
+
+			if(el && el.href){
+				/* link */
+				var link = el.href;
+				if(link.indexOf(location.host) == -1 && !link.match(/^javascript\:/i)){ /* external link */
+					/* HitCallback function to either open link in either same or new window */
+					var hitBack = function(link, target){
+						target ? window.open(link, target) : window.location.href = link;
+					};
+					/* Is target set and not _(self|parent|top)? */
+					var target = (el.target && !el.target.match(/^_(self|parent|top)$/i)) ? el.target : false;
+					/* send event with callback */
+					ga(
+						"send", "event", "Outgoing Links", link,
+						document.location.pathname + document.location.search,
+						{"hitCallback": hitBack(link, target)}
+					);
+
+					/* Prevent standard click */
+					event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+				}
+
+			}
+		}
+
+		/* Attach the event to all clicks in the document after page has loaded */
+		var w = window;
+		w.addEventListener ? w.addEventListener("load",function(){document.body.addEventListener("click",_gaLt,!1)},!1)
+		 : w.attachEvent && w.attachEvent("onload",function(){document.body.attachEvent("onclick",_gaLt)});
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script> 
+	
+<!-- This site is optimized with the Yoast SEO plugin v3.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://stream.org/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | The Stream">
+<meta property="og:description" content="By using this website, you agree to The Stream’s Privacy Policy. Privacy Statement LIFE Outreach International is committed to protecting the privacy rights of all visitors to our website, The Stream (www.stream.org). We assure you that the identity of anyone...">
+<meta property="og:url" content="https://stream.org/privacy-policy/">
+<meta property="og:site_name" content="The Stream">
+<meta property="article:publisher" content="https://www.facebook.com/TheStream.org/">
+<meta property="og:image" content="https://stream.org/wp-content/uploads/TheStream_Logo_Vertical-Crop-e1499870892749.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="By using this website, you agree to The Stream’s Privacy Policy. Privacy Statement LIFE Outreach International is committed to protecting the privacy rights of all visitors to our website, The Stream (www.stream.org). We assure you that the identity of anyone...">
+<meta name="twitter:title" content="Privacy Policy | The Stream">
+<meta name="twitter:site" content="@streamdotorg">
+<meta name="twitter:image" content="https://stream.org/wp-content/uploads/TheStream_Logo_Vertical-Crop-e1499870892749.jpg">
+<meta name="twitter:creator" content="@streamdotorg">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="The Stream » Feed" href="https://stream.org/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Stream » Comments Feed" href="https://stream.org/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/stream.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://stream.org/wp-includes/js/wp-emoji-release.min.js?ver=4.5.3" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://stream.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_image_widget-css" href="https://stream.org/wp-content/plugins/jetpack/modules/widgets/image-widget/style.css?ver=20140808" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://stream.org/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3" type="text/css" media="all">
+<script type="text/javascript" src="https://stream.org/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://stream.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://stream.org/wp-content/plugins/wp-experiments-free/js/jquery.cookie.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpex = {"ajaxurl":"https:\/\/stream.org\/wp-admin\/admin-ajax.php","hide_body":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stream.org/wp-content/plugins/wp-experiments-free/js/titles.js?ver=8.4"></script>
+<link rel="https://api.w.org/" href="https://stream.org/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://stream.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://stream.org/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.5.3">
+<link rel="shortlink" href="https://wp.me/P6enQn-13a6">
+<link rel="alternate" type="application/json+oembed" href="https://stream.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstream.org%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://stream.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstream.org%2Fprivacy-policy%2F&amp;format=xml">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('require', 'displayfeatures');
+  ga('create', 'UA-58698032-1', 'auto');
+  ga('send', 'pageview');
+
+</script><!-- <meta name="NextGEN" version="2.1.57" /> -->
+    <style type="text/css" media="screen">
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:hover, div.printfriendly a:visited {
+            text-decoration: none;
+            border: none;
+          }
+    </style>
+           <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 12px 12px 12px 0px;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            font-size: 14px;
+            color: #6D9F00;
+            vertical-align: bottom;
+          }
+          .printfriendly a {
+            box-shadow:none;
+          }
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<style type="text/css" media="screen"> 
+  html { margin-top: 0px !important; } 
+  * html body { margin-top: 0px !important; } 
+  </style><script type="text/javascript" src="https://pf-cdn.printfriendly.com/ssl/main.js"></script><script async="" type="text/javascript" src="//streamdotorg.disqus.com/count.js"></script></head>
+
+<body class="page page-id-250486 page-template-default">
+	<div class="wrap">
+		<header>
+			<div class="grid">
+				<div class="navigation">
+					<a href="/" class="logo_for_sticky">The Stream</a>
+					<a style="margin: 1.5em .5em 1em .5em;" class="more" href="#"><i class="icon-menu"></i></a>
+					<div class="search"><a class="search_toggle" href="#"><i class="icon-search"></i></a></div>
+					<a class="channel_settings" href="#" title="Choose your Channels"><i class="icon-UserSettings"></i></a>
+					<nav role="navigation">
+						<ul>
+							<li class="more"><a href="#">More</a></li>
+								<li class="cat-item cat-item-10"><a href="https://stream.org/category/us/">US</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://stream.org/category/globe/">Globe</a>
+</li>
+	<li class="cat-item cat-item-102"><a href="https://stream.org/category/family/">Family</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="https://stream.org/category/opinion/">Opinion</a>
+</li>
+	<li class="cat-item cat-item-18241"><a href="https://stream.org/category/a-e/">A&amp;E</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://stream.org/category/god/">God</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="https://stream.org/category/sci-tech/">Sci-tech</a>
+</li>
+	<li class="cat-item cat-item-18710"><a href="https://stream.org/category/videoaudio/">Video/Audio</a>
+</li>
+	<li class="cat-item cat-item-49927"><a href="https://stream.org/category/donate/">Donate</a>
+</li>
+						</ul>
+					</nav>
+				</div>
+				<ul class="channels">
+					<li class="heading"><h5>Channels</h5><p><em>Choose the Channels that interest you</em></p></li><li id="channel_10"><a href="#" class="channel" data-channel="10">US<span class="checkbox" href="#"><i class="icon-checkmark"></i></span></a></li><li id="channel_3"><a href="#" class="channel" data-channel="3">Globe<span class="checkbox" href="#"><i class="icon-checkmark"></i></span></a></li><li id="channel_102"><a href="#" class="channel" data-channel="102">Family<span class="checkbox" href="#"><i class="icon-checkmark"></i></span></a></li><li id="channel_76"><a href="#" class="channel" data-channel="76">Opinion<span class="checkbox" href="#"><i class="icon-checkmark"></i></span></a></li><li id="channel_18241"><a href="#" class="channel" data-channel="18241">A&amp;E<span class="checkbox" href="#"><i class="icon-checkmark"></i></span></a></li><li id="channel_9"><a href="#" class="channel" data-channel="9">God<span class="checkbox" href="#"><i class="icon-checkmark"></i></span></a></li><li id="channel_2"><a href="#" class="channel" data-channel="2">Sci-tech<span class="checkbox" href="#"><i class="icon-checkmark"></i></span></a></li><li id="channel_18710"><a href="#" class="channel" data-channel="18710">Video/Audio<span class="checkbox" href="#"><i class="icon-checkmark"></i></span></a></li><li id="channel_49927"><a href="#" class="channel" data-channel="49927">Donate<span class="checkbox" href="#"><i class="icon-checkmark"></i></span></a></li><li class="save"><a class="save_channels button" href="#">Save Selections</a></li><li class="advertisement"></li>				</ul>
+			</div>
+			<div class="mega_menus">
+				<div class="grid">
+					<a class="close" href="#"><i class="icon-close"></i></a>
+					<ul class="more">
+						<li class="categories">
+							<h5 class="categories_title">Channels</h5>
+							<ul>
+								<li class="cat-item cat-item-10"><a href="https://stream.org/category/us/">US</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://stream.org/category/globe/">Globe</a>
+</li>
+	<li class="cat-item cat-item-102"><a href="https://stream.org/category/family/">Family</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="https://stream.org/category/opinion/">Opinion</a>
+</li>
+	<li class="cat-item cat-item-18241"><a href="https://stream.org/category/a-e/">A&amp;E</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://stream.org/category/god/">God</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="https://stream.org/category/sci-tech/">Sci-tech</a>
+</li>
+	<li class="cat-item cat-item-18710"><a href="https://stream.org/category/videoaudio/">Video/Audio</a>
+</li>
+	<li class="cat-item cat-item-49927"><a href="https://stream.org/category/donate/">Donate</a>
+</li>
+							</ul>
+						</li>
+						<li class="company">
+							<a href="#" class="company_more"><i class="icon-plus"></i></a>
+							<ul id="menu-footer-menu" class="quicklinks clearfix"><li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://stream.org/us/">About Us</a></li>
+<li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-560"><a href="https://stream.org/summary-ten-principles/">Summary of Our Ten Principles</a></li>
+<li id="menu-item-561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561"><a href="https://stream.org/ten-principles/">Our Ten Principles</a></li>
+<li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200"><a href="https://stream.org/contact-us/">Contact Us</a></li>
+<li id="menu-item-163936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163936"><a href="/podcast/">Podcasts</a></li>
+<li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="https://stream.org/subscribe/">Subscribe</a></li>
+<li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://stream.org/user-agreement/">User Agreement</a></li>
+<li id="menu-item-15883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15883"><a href="https://stream.org/stream-comment-policy/">The Stream Comment Policy</a></li>
+<li id="menu-item-59482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59482"><a href="https://stream.org/homepage/">Make The Stream My Homepage</a></li>
+<li id="menu-item-250496" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-250486 current_page_item menu-item-250496"><a href="https://stream.org/privacy-policy/">Privacy Policy</a></li>
+</ul>						</li>
+						<li class="search">
+							<form method="get" action="https://stream.org/">
+								<input type="text" value="Search" name="s" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+								<a class="search_submit" href="#"><i class="icon-search"></i></a>
+							</form>
+						</li>
+						<li class="authors">
+							<a class="voices_link" href="#">Voices<i class="icon-plus"></i></a>
+							<ul class="clearfix">
+								<li><a href="https://stream.org/author/jayrichards/">Jay Richards</a></li><li><a href="https://stream.org/author/johnzmirak/">John Zmirak</a></li><li><a href="https://stream.org/author/davidmills/">David Mills</a></li><li><a href="https://stream.org/author/rachelalexander/">Rachel Alexander</a></li><li><a href="https://stream.org/author/alperrotta/">Al Perrotta</a></li><li><a href="https://stream.org/author/owenstrachan/">Owen Strachan</a></li><li><a href="https://stream.org/author/williammbriggs/">William M Briggs</a></li><li><a href="https://stream.org/author/jonathanwitt/">Jonathan Witt</a></li><li><a href="https://stream.org/author/jamesrobison/">James Robison</a></li><li><a href="https://stream.org/author/keithfournier/">Deacon Keith Fournier</a></li><li><a href="https://stream.org/author/michaelbrown/">Michael Brown</a></li><li><a href="https://stream.org/author/jasonjones/">Jason Scott Jones</a></li><li><a href="https://stream.org/author/jonahgoldberg/">Jonah Goldberg</a></li><li><a href="https://stream.org/author/tomsileo/">Tom Sileo</a></li><li><a href="https://stream.org/author/anikasmith/">Anika Smith</a></li><li><a href="https://stream.org/author/robisonrichards/">James Robison &amp; Jay Richards</a></li><li><a href="https://stream.org/author/dustinsiggins/">Dustin Siggins</a></li><li><a href="https://stream.org/author/ryantanderson/">Ryan Anderson</a></li><li><a href="https://stream.org/author/bethmoore/">Beth Moore</a></li><li><a href="https://stream.org/author/heatherwilhelm/">Heather Wilhelm</a></li><li><a href="https://stream.org/author/mitchboersma/">Mitch Boersma</a></li><li><a href="https://stream.org/author/tomgilson/">Tom Gilson</a></li><li><a href="https://stream.org/author/cathyruse/">Cathy Ruse</a></li><li><a href="https://stream.org/author/judeeden/">Jude Eden</a></li><li><a href="https://stream.org/author/kathrynlopez/">Kathryn Jean Lopez</a></li><li><a href="https://stream.org/author/thomassowell/">Thomas Sowell</a></li><li><a href="https://stream.org/author/charleskrauthammer/">Charles Krauthammer</a></li><li><a href="https://stream.org/author/ericmetaxas/">Eric Metaxas</a></li><li><a href="https://stream.org/author/johnstonestreet/">John Stonestreet</a></li><li><a href="https://stream.org/author/samuel-gregg/">Samuel Gregg</a></li><li><a href="https://stream.org/author/georgeyancey/">George Yancey</a></li><li><a href="https://stream.org/author/matt-barber/">Matt Barber</a></li><li><a href="https://stream.org/author/joshuacharles/">Joshua Charles</a></li><li><a href="https://stream.org/author/marktooley/">Mark Tooley</a></li><li><a href="https://stream.org/author/dudleyhall/">Dudley Hall</a></li><li><a href="https://stream.org/author/calvinbeisner/">Calvin Beisner</a></li><li><a href="https://stream.org/author/davidlimbaugh/">David Limbaugh</a></li><li><a href="https://stream.org/author/harryjackson/">Harry Jackson</a></li><li><a href="https://stream.org/author/jenniferhartline/">Jennifer Hartline</a></li><li><a href="https://stream.org/author/alaneason/">Alan Eason</a></li><li><a href="https://stream.org/author/johnmurdock/">John Murdock</a></li><li><a href="https://stream.org/author/richlowry/">Rich Lowry</a></li><li><a href="https://stream.org/author/chelsenvicari/">Chelsen Vicari</a></li><li><a href="https://stream.org/author/joe-carter/">Joe Carter</a></li><li><a href="https://stream.org/author/calthomas/">Cal Thomas</a></li><li><a href="https://stream.org/author/mikeadams/">Mike Adams</a></li><li><a href="https://stream.org/author/kenblackwell/">Ken Blackwell</a></li><li><a href="https://stream.org/author/seanmcdowell/">Sean McDowell</a></li><li><a href="https://stream.org/author/davidgoldman/">David Goldman</a></li><li><a href="https://stream.org/author/toddstarnes/">Todd Starnes</a></li><li><a href="https://stream.org/author/faith-mcdonnell/">Faith McDonnell</a></li><li><a href="https://stream.org/author/paul-kengor/">Paul Kengor</a></li><li><a href="https://stream.org/author/frankturek/">Frank Turek</a></li><li><a href="https://stream.org/author/marclivecche/">Marc LiVecche</a></li><li><a href="https://stream.org/author/laelarrington/">Lael Arrington</a></li><li><a href="https://stream.org/author/matstaver/">Mat Staver</a></li><li><a href="https://stream.org/author/monacharen/">Mona Charen</a></li><li><a href="https://stream.org/author/melodywood/">Melody Wood</a></li><li><a href="https://stream.org/author/michaelcook/">Michael Cook</a></li><li><a href="https://stream.org/author/michaeldenton/">Michael Denton</a></li><li><a href="https://stream.org/author/michaelhart/">Michael Hart</a></li><li><a href="https://stream.org/author/michaelmathesonmiller/">Michael Matheson Miller</a></li><li><a href="https://stream.org/author/mikeevans/">Mike Evans</a></li><li><a href="https://stream.org/author/neilfrank/">Neil Frank</a></li><li><a href="https://stream.org/author/natashacrain/">Natasha Crain</a></li><li><a href="https://stream.org/author/nancy-valko/">Nancy Valko</a></li><li><a href="https://stream.org/author/nicolasloris/">Nicolas Loris</a></li><li><a href="https://stream.org/author/nicoleking/">Nicole King</a></li><li><a href="https://stream.org/author/normandavis/">Norman Davis, Jr.</a></li><li><a href="https://stream.org/author/norbertmichel/">Norbert Michel</a></li><li><a href="https://stream.org/author/nimasanandaji/">Nima Sanandaji</a></li><li><a href="https://stream.org/author/nancyflorylibertymcartor/">Nancy Flory &amp; Liberty McArtor</a></li><li><a href="https://stream.org/author/nancyflory/">Nancy Flory</a></li><li><a href="https://stream.org/author/michelebachmann/">Michele Bachmann</a></li><li><a href="https://stream.org/author/michaelsherrard/">Michael Sherrard</a></li><li><a href="https://stream.org/author/michael-shermer_frank-turek/">Michael Shermer &amp; Frank Turek</a></li><li><a href="https://stream.org/author/michelecushatt/">Michele Cushatt</a></li><li><a href="https://stream.org/author/mikegonzalez/">Mike Gonzalez</a></li><li><a href="https://stream.org/author/mikekellymikelee/">Mike Kelly &amp; Mike Lee</a></li><li><a href="https://stream.org/author/mikehayes/">Mike Hayes</a></li><li><a href="https://stream.org/author/michael-novak/">Michael Novak</a></li><li><a href="https://stream.org/author/marshablackburn/">Marsha Blackburn</a></li><li><a href="https://stream.org/author/leestrobel/">Lee Strobel</a></li><li><a href="https://stream.org/author/leeedwards/">Lee Edwards</a></li><li><a href="https://stream.org/author/laurenenriquez/">Lauren Enriquez</a></li><li><a href="https://stream.org/author/lauraweldon/">Laura Grace Weldon</a></li><li><a href="https://stream.org/author/strobelmittelberg/">Lee Strobel &amp; Mark Mittelberg</a></li><li><a href="https://stream.org/author/libertymcartor/">Liberty McArtor</a></li><li><a href="https://stream.org/author/scottmann/">Lt. Col. Scott Mann (ret.)</a></li><li><a href="https://stream.org/author/lindaroyall/">Linda Royall</a></li><li><a href="https://stream.org/author/lindachavez/">Linda Chavez</a></li><li><a href="https://stream.org/author/lilarose/">Lila Rose</a></li><li><a href="https://stream.org/author/larryelder/">Larry Elder</a></li><li><a href="https://stream.org/author/lancewray/">Lance Wray</a></li><li><a href="https://stream.org/author/ken-eldred/">Ken Eldred</a></li><li><a href="https://stream.org/author/kenblackwellthomasfarr/">Ken Blackwell and Dr. Thomas F. Farr</a></li><li><a href="https://stream.org/author/kenblackwellkenklukowski/">Ken Blackwell &amp; Ken Klukowski</a></li><li><a href="https://stream.org/author/blackwellmorrison/">Ken Blackwell &amp; Bob Morrison</a></li><li><a href="https://stream.org/author/kevin-burke/">Kevin Burke</a></li><li><a href="https://stream.org/author/kevinmajeres/">Kevin Majeres</a></li><li><a href="https://stream.org/author/kristiwatts/">Kristi Watts</a></li><li><a href="https://stream.org/author/kristanhawkins/">Kristan Hawkins</a></li><li><a href="https://stream.org/author/kishorejayabalan/">Kishore Jayabalan</a></li><li><a href="https://stream.org/author/kimholmes/">Kim Holmes</a></li><li><a href="https://stream.org/author/jerryboykin/">Lt. Gen. (Ret.) Jerry Boykin</a></li><li><a href="https://stream.org/author/luannezurlo/">Luanne Zurlo</a></li><li><a href="https://stream.org/author/marypowers/">Mary Powers</a></li><li><a href="https://stream.org/author/maryclarereim/">Mary Clare Reim</a></li><li><a href="https://stream.org/author/olgapahom/">Olga Pahom</a></li><li><a href="https://stream.org/author/markrutland/">Mark Rutland</a></li><li><a href="https://stream.org/author/matstaverkeithfournier/">Mat Staver &amp; Keith Fournier</a></li><li><a href="https://stream.org/author/mathew-otieno/">Mathew Otieno</a></li><li><a href="https://stream.org/author/megantoombs/">Megan Toombs</a></li><li><a href="https://stream.org/author/maureenmullarkey/">Maureen Mullarkey</a></li><li><a href="https://stream.org/author/matthewspalding/">Matthew Spalding</a></li><li><a href="https://stream.org/author/mattsharp/">Matt Sharp</a></li><li><a href="https://stream.org/author/mark-regnerus/">Mark Regnerus</a></li><li><a href="https://stream.org/author/markmittelberg/">Mark Mittelberg</a></li><li><a href="https://stream.org/author/marcus-roberts/">Marcus Roberts</a></li><li><a href="https://stream.org/author/maggiegallagher/">Maggie Gallagher</a></li><li><a href="https://stream.org/author/lyntonturkington/">Lynton Turkington</a></li><li><a href="https://stream.org/author/lydiamcgrew/">Lydia McGrew</a></li><li><a href="https://stream.org/author/margaretsomerville/">Margaret Somerville</a></li><li><a href="https://stream.org/author/marjoriedannenfelser/">Marjorie Dannenfelser</a></li><li><a href="https://stream.org/author/mark-krikorian/">Mark Krikorian</a></li><li><a href="https://stream.org/author/markkellner/">Mark Kellner</a></li><li><a href="https://stream.org/author/markhendrickson/">Mark Hendrickson</a></li><li><a href="https://stream.org/author/melindapenner/">Melinda Penner</a></li><li><a href="https://stream.org/author/philipwegmann/">Philip Wegmann</a></li><li><a href="https://stream.org/author/the-editors/">The Editors</a></li><li><a href="https://stream.org/author/streamstaff/">The Stream</a></li><li><a href="https://stream.org/author/suzannefields/">Suzanne Fields</a></li><li><a href="https://stream.org/author/susanyoshihara/">Susan Yoshihara</a></li><li><a href="https://stream.org/author/stevenbucci/">Steven Bucci</a></li><li><a href="https://stream.org/author/theresaburke/">Theresa Burke</a></li><li><a href="https://stream.org/author/thomas-cook/">Thomas Cook</a></li><li><a href="https://stream.org/author/timothyjackson/">Timothy M. Jackson</a></li><li><a href="https://stream.org/author/thomas-mcardle/">Thomas McArdle</a></li><li><a href="https://stream.org/author/thomasjnash/">Thomas J. Nash</a></li><li><a href="https://stream.org/author/thomasglessneranneoconnor/">Thomas Glessner &amp; Anne O'Connor</a></li><li><a href="https://stream.org/author/steve-deace/">Steve Deace</a></li><li><a href="https://stream.org/author/steveberman/">Steve Berman</a></li><li><a href="https://stream.org/author/shellyduffer/">Shelly Duffer</a></li><li><a href="https://stream.org/author/sheilawalsh/">Sheila Walsh</a></li><li><a href="https://stream.org/author/sheila-liaugminas/">Sheila Liaugminas</a></li><li><a href="https://stream.org/author/shannonhenderson/">Shannon Henderson</a></li><li><a href="https://stream.org/author/sidcynewulf/">Sid Cynewulf</a></li><li><a href="https://stream.org/author/stefanogennarini/">Stefano Gennarini</a></li><li><a href="https://stream.org/author/stephenmoore/">Stephen Moore</a></li><li><a href="https://stream.org/author/stephenmeyer/">Stephen Meyer</a></li><li><a href="https://stream.org/author/stephenmansfield/">Stephen Mansfield</a></li><li><a href="https://stream.org/author/herreidstephen/">Stephen Herreid</a></li><li><a href="https://stream.org/author/timothyterrell/">Timothy Terrell</a></li><li><a href="https://stream.org/author/titomontes/">Tito Montes</a></li><li><a href="https://stream.org/author/wesleysmith/">Wesley J. Smith</a></li><li><a href="https://stream.org/author/warrensmith/">Warren Cole Smith</a></li><li><a href="https://stream.org/author/walterwilliams/">Walter Williams</a></li><li><a href="https://stream.org/author/jayarajvijay/">Vijay Jayaraj</a></li><li><a href="https://stream.org/author/williambowman/">William Bowman</a></li><li><a href="https://stream.org/author/william-kilpatrick/">William Kilpatrick</a></li><li><a href="https://stream.org/author/zac-alstin/">Zac Alstin</a></li><li><a href="https://stream.org/author/yvonneortega/">Yvonne Ortega</a></li><li><a href="https://stream.org/author/wintery-knight/">Wintery Knight</a></li><li><a href="https://stream.org/author/williamcraigseanmcdowell/">William Lane Craig &amp; Sean McDowell</a></li><li><a href="https://stream.org/author/veroniquederugy/">Veronique de Rugy</a></li><li><a href="https://stream.org/author/traviswebercathyruse/">Travis Weber &amp; Cathy Ruse</a></li><li><a href="https://stream.org/author/tomlocke/">Tom Locke</a></li><li><a href="https://stream.org/author/tombethell/">Tom Bethell</a></li><li><a href="https://stream.org/author/toddyoung/">Todd Young</a></li><li><a href="https://stream.org/author/toddscacewater/">Todd Scacewater</a></li><li><a href="https://stream.org/author/tonyevans/">Tony Evans</a></li><li><a href="https://stream.org/author/tonyperkins/">Tony Perkins</a></li><li><a href="https://stream.org/author/travisweber/">Travis Weber</a></li><li><a href="https://stream.org/author/travisdickinson/">Travis Dickinson</a></li><li><a href="https://stream.org/author/travis-brown/">Travis Brown</a></li><li><a href="https://stream.org/author/tonyperkinskenblackwell/">Tony Perkins &amp; Ken Blackwell</a></li><li><a href="https://stream.org/author/mikelee/">Sen. Mike Lee</a></li><li><a href="https://stream.org/author/jiminhofe/">Sen. Jim Inhofe</a></li><li><a href="https://stream.org/author/rachaelwong/">Rachael Wong</a></li><li><a href="https://stream.org/author/rachelalexanderdustinsiggins/">Rachel Alexander &amp; Dustin Siggins</a></li><li><a href="https://stream.org/author/rabbishmuleyboteach/">Rabbi Shmuley Boteach</a></li><li><a href="https://stream.org/author/rabbiaryehspero/">Rabbi Aryeh Spero</a></li><li><a href="https://stream.org/author/quenagonzalez/">Quena Gonzalez</a></li><li><a href="https://stream.org/author/rachelgreszler/">Rachel Greszler</a></li><li><a href="https://stream.org/author/randybarnett/">Randy Barnett</a></li><li><a href="https://stream.org/author/regisnicoll/">Regis Nicoll</a></li><li><a href="https://stream.org/author/reggielittlejohn/">Reggie Littlejohn</a></li><li><a href="https://stream.org/author/rebekahlyons/">Rebekah Lyons</a></li><li><a href="https://stream.org/author/randybrashears/">Randy Brashears</a></li><li><a href="https://stream.org/author/phyllisschlafly/">Phyllis Schlafly</a></li><li><a href="https://stream.org/author/kelseyharkness/">Kelsey Harkness</a></li><li><a href="https://stream.org/author/petevere/">Pete Vere</a></li><li><a href="https://stream.org/author/paulcameronandkirkcameron/">Paul Cameron &amp; Kirk Cameron</a></li><li><a href="https://stream.org/author/patrinamosley/">Patrina Mosley</a></li><li><a href="https://stream.org/author/patfagan/">Patrick Fagan</a></li><li><a href="https://stream.org/author/petewehner/">Pete Wehner</a></li><li><a href="https://stream.org/author/peterhong/">Peter Hong</a></li><li><a href="https://stream.org/author/peterwood/">Peter Wood</a></li><li><a href="https://stream.org/author/peterwolfgang/">Peter Wolfgang</a></li><li><a href="https://stream.org/author/petersprigg/">Peter Sprigg</a></li><li><a href="https://stream.org/author/petersmith/">Peter Smith</a></li><li><a href="https://stream.org/author/rev-gregory-jensen/">Rev. Gregory Jensen</a></li><li><a href="https://stream.org/author/rev-hans-jacobse/">Rev. Hans Jacobse</a></li><li><a href="https://stream.org/author/salenazito/">Salena Zito</a></li><li><a href="https://stream.org/author/ryanhuber/">Ryan Huber</a></li><li><a href="https://stream.org/author/rustyburns/">Rusty Burns</a></li><li><a href="https://stream.org/author/rosebrugger/">Rose Brugger</a></li><li><a href="https://stream.org/author/rodriguezrobison/">Samuel Rodriguez &amp; James Robison</a></li><li><a href="https://stream.org/author/sarah-heaton/">Sarah Heaton</a></li><li><a href="https://stream.org/author/jameslankford/">Sen. James Lankford</a></li><li><a href="https://stream.org/author/chuckgrassley/">Sen. Chuck Grassley</a></li><li><a href="https://stream.org/author/scott-s-powell/">Scott Powell</a></li><li><a href="https://stream.org/author/sarahperry/">Sarah Perry</a></li><li><a href="https://stream.org/author/ronniefloyd/">Ronnie Floyd</a></li><li><a href="https://stream.org/author/robert-reilly/">Robert Reilly</a></li><li><a href="https://stream.org/author/rob_schwarzwalder-pat_fagan/">Rob Schwarzwalder &amp; Pat Fagan</a></li><li><a href="https://stream.org/author/robschwarzwalder/">Rob Schwarzwalder</a></li><li><a href="https://stream.org/author/rickscarboroughmathewstaverdeaconkeithfournier/">Rick Scarborough, Mathew Staver &amp; Deacon Keith Fournier</a></li><li><a href="https://stream.org/author/richardweikart/">Richard Weikart</a></li><li><a href="https://stream.org/author/robwarren/">Rob Warren</a></li><li><a href="https://stream.org/author/robertgagnon/">Robert Gagnon</a></li><li><a href="https://stream.org/author/robert-nicholson-and-juliana-taimoorazy/">Robert Nicholson and Juliana Taimoorazy</a></li><li><a href="https://stream.org/author/robertmorrison/">Robert Morrison</a></li><li><a href="https://stream.org/author/rjmoeller/">Robert Moeller</a></li><li><a href="https://stream.org/author/robertjmarks/">Robert J. Marks</a></li><li><a href="https://stream.org/author/olofedsinger/">Olof Edsinger</a></li><li><a href="https://stream.org/author/joshcraddock/">Josh Craddock</a></li><li><a href="https://stream.org/author/dangainor/">Dan Gainor</a></li><li><a href="https://stream.org/author/dan-celia/">Dan Celia</a></li><li><a href="https://stream.org/author/cordelia-anderson/">Cordelia Anderson</a></li><li><a href="https://stream.org/author/claytonking/">Clayton King</a></li><li><a href="https://stream.org/author/davidhart/">Dan Hart</a></li><li><a href="https://stream.org/author/danmitchell/">Dan Mitchell</a></li><li><a href="https://stream.org/author/davidanderson/">David Anderson</a></li><li><a href="https://stream.org/author/dave-bratt/">Dave Bratt</a></li><li><a href="https://stream.org/author/dantewitt/">Dante Witt</a></li><li><a href="https://stream.org/author/danielakbari/">Daniel Akbari</a></li><li><a href="https://stream.org/author/chuckcolson/">Chuck Colson</a></li><li><a href="https://stream.org/author/christopherwhite/">Christopher White</a></li><li><a href="https://stream.org/author/charlesgilliland/">Charles Gilliland</a></li><li><a href="https://stream.org/author/charlesclough/">Charles Clough</a></li><li><a href="https://stream.org/author/chadjudice/">Chad Judice</a></li><li><a href="https://stream.org/author/catherineshackelford/">Catherine Shackelford</a></li><li><a href="https://stream.org/author/chris-michalski/">Chris Michalski</a></li><li><a href="https://stream.org/author/christiesaunders/">Christie Jean Saunders</a></li><li><a href="https://stream.org/author/christophermonckton/">Christopher Monckton of Brenchley</a></li><li><a href="https://stream.org/author/christopher-manion/">Christopher Manion</a></li><li><a href="https://stream.org/author/christophercorbett/">Christopher Corbett</a></li><li><a href="https://stream.org/author/christinecaine/">Christine Caine</a></li><li><a href="https://stream.org/author/david-deavel/">David Deavel</a></li><li><a href="https://stream.org/author/davidjenkins/">David Jenkins</a></li><li><a href="https://stream.org/author/edwardmartinez/">Edward Martinez</a></li><li><a href="https://stream.org/author/edmundhaislmaier/">Edmund Haislmaier</a></li><li><a href="https://stream.org/author/edstetzer/">Ed Stetzer</a></li><li><a href="https://stream.org/author/ewjackson/">E.W. Jackson</a></li><li><a href="https://stream.org/author/eileennorcross/">Eileen Norcross</a></li><li><a href="https://stream.org/author/elainedonnelly/">Elaine Donnelly</a></li><li><a href="https://stream.org/author/estheroreilly/">Esther O'Reilly</a></li><li><a href="https://stream.org/author/erickerickson/">Erick Erickson</a></li><li><a href="https://stream.org/author/ericmetaxasrobertorivera/">Eric Metaxas &amp; Roberto Rivera</a></li><li><a href="https://stream.org/author/elizabethsunshine/">Elizabeth Sunshine</a></li><li><a href="https://stream.org/author/tracymiller/">Dr. Tracy Miller</a></li><li><a href="https://stream.org/author/douglasaxe/">Douglas Axe</a></li><li><a href="https://stream.org/author/deacon-jim-russell/">Deacon Jim Russell</a></li><li><a href="https://stream.org/author/davidmarshall/">David Marshall</a></li><li><a href="https://stream.org/author/davidlegates/">David Legates</a></li><li><a href="https://stream.org/author/davidkreutzer/">David Kreutzer</a></li><li><a href="https://stream.org/author/debrasaunders/">Debra Saunders</a></li><li><a href="https://stream.org/author/deniseshick/">Denise Shick</a></li><li><a href="https://stream.org/author/donaldmclaughlin/">Donald McLaughlin</a></li><li><a href="https://stream.org/author/denyseoleary/">Denyse O'Leary</a></li><li><a href="https://stream.org/author/dennyburk/">Denny Burk</a></li><li><a href="https://stream.org/author/dennisprager/">Dennis Prager</a></li><li><a href="https://stream.org/author/caseymattox/">Casey Mattox</a></li><li><a href="https://stream.org/author/carsonholloway/">Carson Holloway</a></li><li><a href="https://stream.org/author/andyandrews/">Andy Andrews</a></li><li><a href="https://stream.org/author/andrewthomas/">Andrew Thomas</a></li><li><a href="https://stream.org/author/andrewparrish/">Andrew Parrish</a></li><li><a href="https://stream.org/author/andrew-mullins/">Andrew Mullins</a></li><li><a href="https://stream.org/author/andytilsley/">Andy Tilsley</a></li><li><a href="https://stream.org/author/angelo-codevilla/">Angelo Codevilla</a></li><li><a href="https://stream.org/author/anneconlon/">Anne Conlon</a></li><li><a href="https://stream.org/author/annebradley/">Anne Bradley</a></li><li><a href="https://stream.org/author/annamccarthy/">Anna McCarthy</a></li><li><a href="https://stream.org/author/anitastaver/">Anita Staver</a></li><li><a href="https://stream.org/author/andrewklostermaryclarereim/">Andrew Kloster &amp; Mary Clare Reim</a></li><li><a href="https://stream.org/author/harrodandrewe/">Andrew E. Harrod</a></li><li><a href="https://stream.org/author/alexchediak/">Alex Chediak</a></li><li><a href="https://stream.org/author/aldenabbott/">Alden Abbott</a></li><li><a href="https://stream.org/author/alandowd/">Alan Dowd</a></li><li><a href="https://stream.org/author/alperrottajohnzmirak/">Al Perrotta &amp; John Zmirak</a></li><li><a href="https://stream.org/author/alextabarrok/">Alex Tabarrok</a></li><li><a href="https://stream.org/author/allanparker/">Allan Parker</a></li><li><a href="https://stream.org/author/andreaswidmer/">Andreas Widmer</a></li><li><a href="https://stream.org/author/andreamrozek/">Andrea Mrozek</a></li><li><a href="https://stream.org/author/ameliahamilton/">Amelia Hamilton</a></li><li><a href="https://stream.org/author/amandawitt/">Amanda Witt</a></li><li><a href="https://stream.org/author/anthony-esolen/">Anthony Esolen</a></li><li><a href="https://stream.org/author/anthonysacramone/">Anthony Sacramone</a></li><li><a href="https://stream.org/author/brucechapman/">Bruce Chapman</a></li><li><a href="https://stream.org/author/brianmattson/">Brian Mattson</a></li><li><a href="https://stream.org/author/bradleypolumbo/">Bradley Polumbo</a></li><li><a href="https://stream.org/author/bobhartman/">Bob Hartman</a></li><li><a href="https://stream.org/author/bruce-klinger/">Bruce Klingner</a></li><li><a href="https://stream.org/author/bryanriley/">Bryan Riley</a></li><li><a href="https://stream.org/author/carrie-gress/">Carrie Gress</a></li><li><a href="https://stream.org/author/carolynmoynihan/">Carolyn Moynihan</a></li><li><a href="https://stream.org/author/campbell-markham/">Campbell Markham</a></li><li><a href="https://stream.org/author/calvinfreiburger/">Calvin Freiburger</a></li><li><a href="https://stream.org/author/blakeneff/">Blake Neff</a></li><li><a href="https://stream.org/author/blairhitch/">Blair Hitch</a></li><li><a href="https://stream.org/author/bengodwin/">Ben Godwin</a></li><li><a href="https://stream.org/author/austinruse/">Austin Ruse</a></li><li><a href="https://stream.org/author/austenivereigh/">Austen Ivereigh</a></li><li><a href="https://stream.org/author/arinagrossu/">Arina Grossu</a></li><li><a href="https://stream.org/author/benjohnson/">Ben Johnson</a></li><li><a href="https://stream.org/author/benshapiro/">Ben Shapiro</a></li><li><a href="https://stream.org/author/beverlyhallberg/">Beverly Hallberg</a></li><li><a href="https://stream.org/author/bettyrobison/">Betty Robison</a></li><li><a href="https://stream.org/author/bernybelvedere/">Berny Belvedere</a></li><li><a href="https://stream.org/author/benjaminwatson/">Benjamin Watson</a></li><li><a href="https://stream.org/author/everettpiper/">Everett Piper</a></li><li><a href="https://stream.org/author/faithmcdonnelldararagubo/">Faith McDonnell &amp; Darara Gubo</a></li><li><a href="https://stream.org/author/johnwest/">John West</a></li><li><a href="https://stream.org/author/johnstonestreetrobertorivera/">John Stonestreet &amp; R. Rivera</a></li><li><a href="https://stream.org/author/johnstemberger/">John Stemberger</a></li><li><a href="https://stream.org/author/johnsparks/">John Sparks</a></li><li><a href="https://stream.org/author/johnwohlstetter/">John Wohlstetter</a></li><li><a href="https://stream.org/author/johnyoest/">John Yoest</a></li><li><a href="https://stream.org/author/jonathanmorrow/">Jonathan Morrow</a></li><li><a href="https://stream.org/author/jonathanlewis/">Jonathan Lewis</a></li><li><a href="https://stream.org/author/jonathan-leaf/">Jonathan Leaf</a></li><li><a href="https://stream.org/author/johnzmirakalperrotta/">John Zmirak &amp; Al Perrotta</a></li><li><a href="https://stream.org/author/johnhorvatt/">John Horvat, II</a></li><li><a href="https://stream.org/author/johnhawkins/">John Hawkins</a></li><li><a href="https://stream.org/author/jim-demint/">Jim DeMint</a></li><li><a href="https://stream.org/author/jerrybowyer/">Jerry Bowyer</a></li><li><a href="https://stream.org/author/jeromedanner/">Jerome Danner</a></li><li><a href="https://stream.org/author/jeremytedesco/">Jeremy Tedesco</a></li><li><a href="https://stream.org/author/jimtonkowich/">Jim Tonkowich</a></li><li><a href="https://stream.org/author/jimmystone/">Jimmy Stone</a></li><li><a href="https://stream.org/author/johncouretas/">John Couretas</a></li><li><a href="https://stream.org/author/johannes-de-jong/">Johannes de Jong</a></li><li><a href="https://stream.org/author/joelong/">Joe Long</a></li><li><a href="https://stream.org/author/joedallas/">Joe Dallas</a></li><li><a href="https://stream.org/author/jonathanwells/">Jonathan Wells</a></li><li><a href="https://stream.org/author/jonathanwittjayrichards/">Jonathan Witt &amp; Jay Richards</a></li><li><a href="https://stream.org/author/justinjohnson/">Justin Johnson</a></li><li><a href="https://stream.org/author/juliemanning/">Julie Manning</a></li><li><a href="https://stream.org/author/julieloos/">Julie Loos</a></li><li><a href="https://stream.org/author/julianatamaroozy/">Juliana Taimoorazy</a></li><li><a href="https://stream.org/author/katescanlon/">Kate Scanlon</a></li><li><a href="https://stream.org/author/katietubb/">Katie Tubb</a></li><li><a href="https://stream.org/author/kelliefiedorek/">Kellie Fiedorek</a></li><li><a href="https://stream.org/author/kaycolejames/">Kay Coles James</a></li><li><a href="https://stream.org/author/katrinatrinko/">Katrina Trinko</a></li><li><a href="https://stream.org/author/katieyoder/">Katie Yoder</a></li><li><a href="https://stream.org/author/juliaseymour/">Julia Seymour</a></li><li><a href="https://stream.org/author/judahsmith/">Judah Smith</a></li><li><a href="https://stream.org/author/josephfarah/">Joseph Farah</a></li><li><a href="https://stream.org/author/joseph-hippilito/">Joseph D'Hippolito</a></li><li><a href="https://stream.org/author/jorge-velardo-rosso/">Jorge Velardo Rosso</a></li><li><a href="https://stream.org/author/jordanballor/">Jordan Ballor</a></li><li><a href="https://stream.org/author/josephgrabowski/">Joseph Grabowski</a></li><li><a href="https://stream.org/author/josephhorton/">Joseph J. Horton</a></li><li><a href="https://stream.org/author/joshshepherd/">Josh Shepherd</a></li><li><a href="https://stream.org/author/josephsunde/">Joseph Sunde</a></li><li><a href="https://stream.org/author/joseph-sciambra/">Joseph Sciambra</a></li><li><a href="https://stream.org/author/josephpearce/">Joseph Pearce</a></li><li><a href="https://stream.org/author/jentezenfranklin/">Jentezen Franklin</a></li><li><a href="https://stream.org/author/jennifer-roback-morse/">Jennifer Roback Morse</a></li><li><a href="https://stream.org/author/glennsunshine/">Glenn Sunshine</a></li><li><a href="https://stream.org/author/giulio-meotti/">Giulio Meotti</a></li><li><a href="https://stream.org/author/ginadalfonzo/">Gina Dalfonzo</a></li><li><a href="https://stream.org/author/gerardmnadal/">Gerard M. Nadal</a></li><li><a href="https://stream.org/author/greg-laughlin/">Greg Laughlin</a></li><li><a href="https://stream.org/author/hancehaney/">Hance Haney</a></li><li><a href="https://stream.org/author/hunterbaker/">Hunter Baker</a></li><li><a href="https://stream.org/author/henrypayne/">Henry Payne</a></li><li><a href="https://stream.org/author/heatherzeiger/">Heather Zeiger</a></li><li><a href="https://stream.org/author/hansvonspakovsky/">Hans von Spakovsky</a></li><li><a href="https://stream.org/author/genevievewood/">Genevieve Wood</a></li><li><a href="https://stream.org/author/gary-smith/">Gary Smith</a></li><li><a href="https://stream.org/author/frankgregorskydonmorrissey/">Frank Gregorsky &amp; Don Morrissey</a></li><li><a href="https://stream.org/author/frankgregorsky/">Frank Gregorsky</a></li><li><a href="https://stream.org/author/frankpavone/">Fr. Frank Pavone</a></li><li><a href="https://stream.org/author/fosterfriess/">Foster Friess</a></li><li><a href="https://stream.org/author/frankschubert/">Frank Schubert</a></li><li><a href="https://stream.org/author/fredsmith/">Fred L. Smith, Jr.</a></li><li><a href="https://stream.org/author/gabriellebosche/">Gabrielle Bosche</a></li><li><a href="https://stream.org/author/gabriele-kuby/">Gabriele Kuby</a></li><li><a href="https://stream.org/author/gwbrown/">G.W. Brown</a></li><li><a href="https://stream.org/author/fredlucas/">Fred Lucas</a></li><li><a href="https://stream.org/author/iainmurray/">Iain Murray</a></li><li><a href="https://stream.org/author/inesmurzaku/">Ines Murzaku</a></li><li><a href="https://stream.org/author/janetboynes/">Janet Boynes</a></li><li><a href="https://stream.org/author/janeorient/">Jane Orient, MD</a></li><li><a href="https://stream.org/author/james-wanliss/">James Wanliss</a></li><li><a href="https://stream.org/author/randyrobison/">James Randall Robison</a></li><li><a href="https://stream.org/author/janet-morana/">Janet Morana</a></li><li><a href="https://stream.org/author/janetmoranakevinburke/">Janet Morana &amp; Kevin Burke</a></li><li><a href="https://stream.org/author/jeffrey-tucker/">Jeffrey Tucker</a></li><li><a href="https://stream.org/author/jeff-walton/">Jeff Walton</a></li><li><a href="https://stream.org/author/jeannemancini/">Jeanne Mancini</a></li><li><a href="https://stream.org/author/janisharris/">Janis Harris</a></li><li><a href="https://stream.org/author/jameslopez/">James Lopez</a></li><li><a href="https://stream.org/author/jamesgottry/">James Gottry</a></li><li><a href="https://stream.org/author/jack-graham/">Jack Graham</a></li><li><a href="https://stream.org/author/jdvance/">J.D. Vance</a></li><li><a href="https://stream.org/author/jwarnerwallace/">J. Warner Wallace</a></li><li><a href="https://stream.org/author/jbudziszewski/">J. Budziszewski</a></li><li><a href="https://stream.org/author/jackiegingrichcushman/">Jackie Gingrich Cushman</a></li><li><a href="https://stream.org/author/jacobrudolfsson/">Jacob Rudolfsson</a></li><li><a href="https://stream.org/author/jamesgattuso/">James Gattuso</a></li><li><a href="https://stream.org/author/jamescarafano/">James Carafano</a></li><li><a href="https://stream.org/author/jakobschneider/">Jakob Schneider</a></li><li><a href="https://stream.org/author/kelly-monroe-kullberg/">Kelly Monroe Kullberg</a></li>								<li style="width: 100%;"><a class="more_voices_button button" href="/voices/">More Voices</a></li>
+							</ul>
+						</li>
+						<li class="social_links">
+							<h5 class="social_title">Follow Us</h5>
+							<ul class="clearfix">
+								<li><a href="https://www.facebook.com/TheStream.org" target="_blank"><i class="icon-facebook"></i></a></li>
+								<li><a href="https://twitter.com/#!/Streamdotorg" target="_blank"><i class="icon-twitter"></i></a></li>
+																<li><a href="/what-is-rss/"><i class="icon-rss"></i></a></li>
+							</ul>
+						</li>
+						<li class="subscribe">
+														<h2 class="widgettitle subscribe_title"><label for="email">Subscribe to The Stream</label></h2>
+							<p>Get updates with all the important daily news delivered to your e-mail inbox.</p>
+							<form id="subscribe" action="/process/ajax.php" method="POST">
+								<div class="subscribe_message"></div>
+								<input type="email" id="email" name="email" value="Email Address" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+								<input type="hidden" name="key" value="VuonJEWhN0mL+fU1p89+7Ft06k+rC8vD0p41i26mMdypse/APYcL2SAKyHSlDBjT">
+								<a class="button subscribe_submit" href="#">Subscribe</a>
+							</form>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<form class="search_form" method="get" action="https://stream.org/">
+				<div class="grid clearfix">
+					<input type="text" value="Search Website" name="s" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+					<a class="search_submit" href="#"><i class="icon-search"></i></a>
+				</div>
+			</form>
+		</header>
+		<span class="clear"></span>
+				<div class="subheader">
+			<div class="grid">
+				<div class="logo">
+					<h1><a href="/">The Stream</a></h1>
+				</div>
+				<div class="social_links">
+					<ul>
+													<li><a href="https://stream.org" title="The Stream"><i class="icon-home"></i></a></li>
+												<li><a href="https://www.facebook.com/TheStream.org" target="_blank"><i class="icon-facebook"></i></a></li>
+						<li><a href="https://twitter.com/#!/Streamdotorg" target="_blank"><i class="icon-twitter"></i></a></li>
+												<li><a href="/podcast/"><i class="icon-podcast"></i></a></li>
+						<li><a href="/what-is-rss/"><i class="icon-rss"></i></a></li>
+					</ul>
+					<span class="clear"></span>
+					<a href="/homepage/" class="homepage_link">Make The Stream my Homepage</a>
+				</div>
+				<span class="clear"></span>
+			</div>
+			<span class="clear"></span>
+		</div>
+		<span class="clear"></span>
+		<div class="page_wrap">
+			<div class="grid clearfix">
+
+	<div class="subpage_template">
+		<section class="page">
+			<article id="post-250486" class="the_post">
+				<h1 class="title">Privacy Policy</h1>
+				<div class="content clearfix">
+										<div class="content clearfix">
+						<div class="pf-content"><p>By using this website, you agree to <em>The Stream</em>’s Privacy Policy.</p>
+<h4>Privacy Statement</h4>
+<p>LIFE Outreach International is committed to protecting the privacy rights of all visitors to our website, <em>The Stream</em> (<a href="http://www.stream.org/" target="_blank">www.stream.org</a>). We assure you that the identity of anyone accessing our website is kept strictly confidential. LIFE does not rent, sell or exchange our mailing list with any third party. We always strive to be responsible in management practices, truthful in our promotion campaigns, as well as, cost effective in our fundraising efforts. LIFE endeavors to maintain a high standard of financial accountability and stewardship, as well. As a long time member of the Evangelical Council for Financial Accountability, LIFE strives to keep all costs to a minimum while maximizing the funds received for ministry and mission outreaches. Upon receipt of sufficient funds for specific projects, support will be used for television broadcasts and equally important outreaches of the ministry.</p>
+<p>The following explains, in part, how we gather data from our website and how we use it:</p>
+<h4>Security</h4>
+<p>LIFE Outreach is firmly committed to ensuring the security of information from visitors to our site. We have implemented physical, managerial and electronic procedures to secure the data we collect online. Our internet host utilizes secure servers (https) for all financial transaction information. In addition for U.S. donors, we use an internet security service to collect or transfer credit card information. Every effort is made to maintain data privacy and accuracy, to prevent unauthorized access and to guarantee the proper use of information. <em>The Stream</em>&nbsp;does not store credit card numbers.</p>
+<h4>Information Collection</h4>
+<p>Once a visitor accesses <em>The Stream</em>, our web servers record the Internet Protocol (IP) address, which informs us which domain the visitors are using. We do not capture email addresses unless users provide them. <em>The Stream</em> tracks traffic patterns through links accessed on our email messages. This information is used only to enable <em>The Stream</em> to better serve our audiences, donors and friends and to determine overall interests in our site and organization. <em>The Stream</em>&nbsp;allows the usage of “cookies,” which enable users to log in quicker and easier. Users may override these by modifying their browser settings. The website does not utilize spyware or adware. Our servers are routinely scanned for viruses, including real-time firewall scans to prevent any type of malware.</p>
+<h4>E-Mail Updates</h4>
+<p>Be assured that your E-mail address will NOT be sold, traded, rented or shared with a third party. Some email Updates may require your name for database management; however, all information will be strictly confidential. If you wish to have your name removed from our email list, you may follow the “unsubscribe” instructions at the bottom of the email message.</p>
+<h4>How to Contact <em>The Stream</em></h4>
+<p>If you have questions or comments about <em>The Stream</em>’s privacy policy, you can fill out <a href="https://stream.org/contact-us/" target="_blank">this form</a>.</p>
+</div>					</div>
+					<span class="clear"></span>
+					<!-- AddThis BEGIN -->
+					<div class="addthis_sharing_toolbox" style="margin-top: 30px;"></div>
+					<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53987e93667d4c10"></script>
+					<!-- AddThis END -->
+									</div>
+			</article><!-- #post-## -->
+		</section>
+		<section class="insp_sidebar">
+			<section class="inspiration">
+	<h5 class="title">Inspiration</h5>
+	<a class="insp_image" href="https://stream.org/no-i-in-team/" style="background-image: url(https://stream.org/wp-content/uploads/Football-Team-Huddle-Inspiration-900.jpg)"></a><span class="insp_title"><a href="https://stream.org/no-i-in-team/"><span data-wpex-title-id="263552" style="min-height: 1em; display: inline-block;" data-original="Q2hyaXN0aWFucywgV2UmIzgyMTc7cmUgYSBUZWFtLiBMZXQmIzgyMTc7cyBBY3QgTGlrZSBPbmU="></span></a></span>			<h5 class="insp_author"><a href="https://stream.org/author/libertymcartor/">Liberty McArtor</a></h5>
+			</section>
+<span class="clear"></span>		</section>
+		<section class="buzzing clearfix">
+			<span class="clear"></span>
+			<h5 class="title">Most Popular</h5>
+			<div class="masonry">
+				<div class="grid-sizer"></div>
+				<div class="gutter-sizer"></div>
+				
+<article id="post-239481" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/kathy-griffin-cheap-grace-mechanisms-evil/" style="background-image: url(https://stream.org/wp-content/uploads/People-Kathy-Griffin-900.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/kathy-griffin-cheap-grace-mechanisms-evil/">Kathy Griffin, Cheap Grace, and the Mechanisms of Evil</a></h3>
+						<h5 class="author"><a href="https://stream.org/author/johnzmirak/" title="Posts by John Zmirak" rel="author">John Zmirak</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>
+<article id="post-245640" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/predator-fashion-magazine-teen-vogue-coaches-teenagers-sodomy/" style="background-image: url(https://stream.org/wp-content/uploads/Teen-Vogue-Youtube-Screen-Grab-Dancing-Pride-Prom-900.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/predator-fashion-magazine-teen-vogue-coaches-teenagers-sodomy/">The Predator in the Fashion Magazine: <i>Teen Vogue</i> Coaches Teenagers in Sodomy</a></h3>
+						<h5 class="author"><a href="https://stream.org/author/jenniferhartline/" title="Posts by Jennifer Hartline" rel="author">Jennifer Hartline</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>
+<article id="post-256178" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/why-didnt-god-heal-nabeel-qureshi/" style="background-image: url(https://stream.org/wp-content/uploads/Nabeel-Qureshi.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/why-didnt-god-heal-nabeel-qureshi/">Why Didn’t God Heal Nabeel Qureshi?</a></h3>
+						<h5 class="author"><a href="https://stream.org/author/frankturek/" title="Posts by Frank Turek" rel="author">Frank Turek</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>
+<article id="post-237652" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/banning-lou-reed-the-cultural-revolution-eats-its-fathers/" style="background-image: url(https://stream.org/wp-content/uploads/Lou-Reed-Graffiti-900.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/banning-lou-reed-the-cultural-revolution-eats-its-fathers/">Banning Lou Reed: The Cultural Revolution Eats Its Fathers</a></h3>
+						<h5 class="author"><a href="https://stream.org/author/maggiegallagher/" title="Posts by Maggie Gallagher" rel="author">Maggie Gallagher</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>
+<article id="post-245068" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/yes-gay-activists-are-after-your-children/" style="background-image: url(https://stream.org/wp-content/uploads/iStock_89064231_MEDIUM-e1491355746716.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/yes-gay-activists-are-after-your-children/">Yes, Gay Activists are After Your Children</a></h3>
+						<h5 class="author"><a href="https://stream.org/author/michaelbrown/" title="Posts by Michael Brown" rel="author">Michael Brown</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>
+<article id="post-264311" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/good-samaritan-who-shot-texas-church-gunman-needs-prayers-friend-says/" style="background-image: url(https://stream.org/wp-content/uploads/Stephen-Willeford-CBS-900.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/good-samaritan-who-shot-texas-church-gunman-needs-prayers-friend-says/">‘Good Samaritan’ Who Shot Texas Church Gunman Needs Prayers, Friend Says</a></h3>
+						<h5 class="author"><a href="https://stream.org/author/nancyflory/" title="Posts by Nancy Flory" rel="author">Nancy Flory</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>
+<article id="post-264473" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/carl-lentz-view-abortion/" style="background-image: url(https://stream.org/wp-content/uploads/GettyImages-831350472-e1510252597896.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/carl-lentz-view-abortion/"><span data-wpex-title-id="264473" style="min-height: 1em; display: inline-block;" data-original="Q2FybCBMZW50eiwgPGk+VGhlIFZpZXc8L2k+IGFuZCBBYm9ydGlvbg=="></span></a></h3>
+						<h5 class="author"><a href="https://stream.org/author/michaelbrown/" title="Posts by Michael Brown" rel="author">Michael Brown</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>			</div>
+		</section>
+		<section class="sidebar">
+			<div id="image-2" class="widget widget_image"><div class="jetpack-image-container"><a target="_blank" href="https://www.amazon.com/Seconds-Courage-Soldiers-Story-Immigrant/dp/1501165887/ref=sr_1_1?ie=UTF8&amp;qid=1506095123&amp;sr=8-1&amp;keywords=8+seconds+of+courage"><img src="https://stream.org/wp-content/uploads/8-Seconds-of-Courage-Hardcover.jpg" title="8 Seconds of Courage" class="aligncenter" width="250" height="375"></a></div>
+</div>			<section class="recommended-subpage">
+	<h5 class="title">Recommended</h5>
+	<div class="postlist">
+		
+<article id="post-254153" class="post non-feature">
+	<a class="image banner-updated" href="https://stream.org/exploiting-people-emergency-laws-against-price-gouging-both-wrong/" style="background-image: url(https://stream.org/wp-content/uploads/Insane-Gas-Prices-900.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/exploiting-people-emergency-laws-against-price-gouging-both-wrong/">Why Sound Arguments Against Price Gouging Laws Fall on Deaf Ears</a></h3>
+						<h5 class="author"><a href="https://stream.org/author/jayrichards/" title="Posts by Jay Richards" rel="author">Jay Richards</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>
+<article id="post-254264" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/solving-immigration-problem/" style="background-image: url(https://stream.org/wp-content/uploads/GettyImages-841662422.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/solving-immigration-problem/">Solving the Immigration Problem</a></h3>
+						<h5 class="author"><a href="https://stream.org/author/rodriguezrobison/" title="Posts by Samuel Rodriguez &amp; James Robison" rel="author">Samuel Rodriguez &amp; James Robison</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>
+<article id="post-249833" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/on-communism-and-socialism-many-americans-are-still-clueless/" style="background-image: url(https://stream.org/wp-content/uploads/Cambodian-killing-fields-skulls-compressed.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/on-communism-and-socialism-many-americans-are-still-clueless/"><span data-wpex-title-id="249833" style="min-height: 1em; display: inline-block;" data-original="T24gQ29tbXVuaXNtIGFuZCBTb2NpYWxpc20sIE1hbnkgQW1lcmljYW5zIGFyZSBTdGlsbCBDbHVlbGVzcw=="></span></a></h3>
+						<h5 class="author"><a href="https://stream.org/author/jayrichards/" title="Posts by Jay Richards" rel="author">Jay Richards</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>
+<article id="post-248259" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/help-straight-man-trapped-gay-mans-body-part-2/" style="background-image: url(https://stream.org/wp-content/uploads/Gay-Marriage-Equality-Bible-rights-900.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/help-straight-man-trapped-gay-mans-body-part-2/">Sexual Orientation is Fixed, but Gender’s Completely Fluid. And 2 + 2 = 5.</a></h3>
+						<h5 class="author"><a href="https://stream.org/author/joseph-sciambra/" title="Posts by Joseph Sciambra" rel="author">Joseph Sciambra</a></h5>
+					</div>
+	<span class="clear"></span>
+</article>
+<article id="post-248060" class="post non-feature">
+	<a class="image banner-none" href="https://stream.org/democrats-double-dumb-ideas-economy/" style="background-image: url(https://stream.org/wp-content/uploads/AP17205637733851__1501070170_198.49.27.212-e1501089103726.jpg)"></a>	<div class="meta">
+							<h3 class="title"><a href="https://stream.org/democrats-double-dumb-ideas-economy/">Democrats Double Down on Dumb Ideas for the Economy</a></h3>
+						<h5 class="author"><a href="https://stream.org/author/jayrichards/" title="Posts by Jay Richards" rel="author">Jay Richards</a></h5>
+					</div>
+	<span class="clear"></span>
+</article><a class="more_toggle view_all button" data-page="2" data-section="recommended-subpage" data-element=".recommended-subpage .postlist" href="/postgroup/recommended/">More</a>	</div>
+</section>
+			<div id="blog_subscription-2" class="widget jetpack_subscription_widget-subpage subscribe">
+	<div class="subscribe_message"></div>
+	<h5 class="widgettitle subscribe_title"><label for="email">Sign-Up for Updates</label></h5>
+	<form id="subscribe" action="/process/ajax.php" method="POST">
+		<input type="email" id="email" name="email" value="Email Address" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+		<input type="hidden" name="key" value="VuonJEWhN0mL+fU1p89+7O0VpexJ2CwXRX1STJTTotVM78BQPznfqtvi3LgVgJ+y">
+		<a class="button subscribe_submit" href="#">Subscribe</a>
+	</form>
+</div>		</section>
+		<div class="clear"><!-- --></div>
+	</div>
+</div><!-- Grid -->
+            <a class="back_to_top" href="#"><i class="icon-back_to_top"></i></a>
+        </div><!-- Page Wrap -->
+        <div class="subfooter">
+            <div class="grid clearfix">
+                <a class="logo" href="https://stream.org" title="The Stream"></a>
+                <div class="widget footer_content">
+                    <p>The national daily championing freedom, smaller government and human dignity. The Stream offers a rich and lively source for breaking news, Christian inspiration and conservative commentary while challenging the worst in the mainstream media.</p>
+                </div>
+                <div class="connect">
+                    <h5>Connect with Us</h5>
+                    <ul>
+                        <li><a href="https://www.facebook.com/TheStream.org" class="icon-facebook" target="_blank"></a></li>
+                        <li><a href="https://twitter.com/#!/Streamdotorg" class="icon-twitter" target="_blank"></a></li>
+                                                <li><a href="/what-is-rss/" class="icon-rss"></a></li>
+                        <li class="tab-links">
+                            <form class="search" method="get" action="https://stream.org/">
+                                <input type="text" value="Search" name="s" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+                                <a class="search_submit" href="#"><i class="icon-search"></i></a>
+                            </form>
+                                                            <a href="https://stream.org" title="The Stream"><i class="icon-home"></i></a>
+                                                    </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="grid clearfix">
+                <nav class="menu-footer-menu-container"><ul id="menu-footer-menu-1" class="quicklinks clearfix"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://stream.org/us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-560"><a href="https://stream.org/summary-ten-principles/">Summary of Our Ten Principles</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561"><a href="https://stream.org/ten-principles/">Our Ten Principles</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200"><a href="https://stream.org/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163936"><a href="/podcast/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="https://stream.org/subscribe/">Subscribe</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://stream.org/user-agreement/">User Agreement</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15883"><a href="https://stream.org/stream-comment-policy/">The Stream Comment Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59482"><a href="https://stream.org/homepage/">Make The Stream My Homepage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-250486 current_page_item menu-item-250496"><a href="https://stream.org/privacy-policy/">Privacy Policy</a></li>
+</ul></nav>                <p class="copyright">© 2017 The Stream. All Rights Reserved. </p>
+                <a class="icon-am" target="_blank" href="http://www.amdesign.com" title="Site By AM Design"></a>
+            </div>
+        </footer>
+        <!-- ngg_resource_manager_marker --><script type="text/javascript" src="https://stream.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/stream.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stream.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201746"></script>
+<script type="text/javascript" src="https://stream.org/wp-includes/js/wp-embed.min.js?ver=4.5.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"streamdotorg"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stream.org/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.5.3"></script>
+      <script type="text/javascript">
+
+          var pfHeaderImgUrl = '/wp-content/themes/TheStreamBuzz/images/logo_new.png';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '1';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '1';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+      (function() {
+            var e = document.createElement('script'); e.type="text/javascript";
+        if('https:' == document.location.protocol) {
+        js='https://pf-cdn.printfriendly.com/ssl/main.js';
+        }
+        else{
+        js='http://cdn.printfriendly.com/printfriendly.js';
+        }
+            e.src = js;
+            document.getElementsByTagName('head')[0].appendChild(e);
+        })();
+      </script>
+<script type="text/javascript" src="https://stats.wp.com/e-201746.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'92086267',post:'250486',tz:'-6',srv:'stream.org'} ]);
+	_stq.push([ 'clickTrackerInit', '92086267', '250486' ]);
+</script>
+    </div><!-- Wrap -->
+    
+    <script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'streamdotorg'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+
+    var textInterval;
+
+    $(document).ready(function() {
+        textInterval = setInterval(function(){
+            if ($(".meta .disqus-comment-count").text() == "No Comments") {
+                $(".meta .comment_line").hide();
+            }
+            if ($(".meta .comment_line").text() == " • ") {
+                $(".meta .comment_line").hide();
+            }
+            if ($(".meta .disqus-comment-count").text() != "No Comments" && $(".meta .comment_line").text() != " • ") {
+                $(".meta .comment_line").show();
+            }
+
+            if ($(".comments_toggle .comment_count").text() == "()") {
+                $(".comments_toggle .comment_count").hide();
+            }
+            if ($(".comments_toggle .comment_count").text() != "()" && $(".comments_toggle .comment_count").text() != "(No Comments)") {
+                $(".comments_toggle .comment_count").show();
+                clearInterval(textInterval);
+            }
+            if ($(".comments_toggle .comment_count").text() == "(No Comments)") {
+                $(".comments_toggle .comment_count").hide();
+                clearInterval(textInterval);
+            }
+        }, 1000);
+
+        $(document).on("click", ".more_toggle", function(e) {
+            e.preventDefault();
+            var load_more = $(this),
+                page = $(this).data('page'),
+                section = $(this).data('section'),
+                element = $(this).data('element');
+
+            load_more.html('Loading...').addClass('loading').unbind();
+
+            $.ajax({
+                type: 'POST',
+                url: '/wp-content/themes/TheStreamBuzz/template-parts/'+section+'.php',
+                data: {'page': page, 'is_ajax': 'true' },
+                success: function( html ){
+                    if( html.length > 0 ){
+                        var el = $(html);
+                        load_more.fadeOut().remove();
+                        if (section == "center") {
+                            $(element).append(el).masonry( 'appended', el, true );
+                            $(element).find('.view_all').appendTo($(element).parent());
+                        } else {
+                            $(element).append(el);
+                        }
+                        titleex_run_experiment();
+                        $(document).on('titlesLoaded', masonryUpdate);
+                    }
+                }
+            });
+        });
+
+        $(".home-layout").on('titlesLoaded', function() {
+            console.log("reloading masonry...");
+            masonryUpdate();
+        });
+    });
+    </script> 
+
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+     
+    fbq('init', '787378821372991');
+    fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=787378821372991&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+    <script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async=""></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ea51d8275e","applicationID":"7824039","transactionName":"NABabEQFXxdRARENWg1KbUpfS1gKVAcdSkULFQ==","queueTime":0,"applicationTime":8,"atts":"GEdZGgwfTBk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<!-- ZenCache file path: /cache/zencache/cache/https/stream-org/privacy-policy.html -->
+<!-- ZenCache file built for (https://stream.org/privacy-policy/) in 7.82504 seconds, on: Nov 19th, 2017 @ 9:46 am CST. -->
+<!-- This ZenCache file will auto-expire (and be rebuilt) on: Nov 26th, 2017 @ 9:46 am CST (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- ZenCache fully functional :-) Cache file served for (https://stream.org/privacy-policy/) in 0.00196 seconds, on: Nov 19th, 2017 @ 7:31 pm UTC. --></body></html>
