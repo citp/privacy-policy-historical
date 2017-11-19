@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorshangout.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118213809id_/http%3A//investorshangout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorshangout.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119083553id_/https%3A//investorshangout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Investors Hangout
 
@@ -17,10 +17,6 @@ You may occasionally get cookies from advertisers on the site, which is standard
 **Links to Other Sites**
 
 It is important to note that this site contains links to other sites, and that those sites may not follow the same privacy policies as our site. For instance, if you click on an advertisement on the site, this will take you away from the site and to an entirely different site. These sites may send their own cookies to you, and may collect data and make uses of it that this site would not. 
-
-**Commitment To Children's Privacy Protection**
-
-In compliance with the Children's Online Privacy Protection Act, no information should be submitted to or posted on the message board by users under the age of 13. Children under the age of 13 are not eligible to use our services 
 
 **  
 Security**
