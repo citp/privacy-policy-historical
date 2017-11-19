@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebe.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613080901id_/http%3A//www.bebe.com/custserv/custservsection.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebe.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120004057id_/http%3A//www.bebe.com/custserv/custservsection.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security | bebe
 
