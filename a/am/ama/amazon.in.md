@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.in privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222145id_/http%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.in privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119021930id_/https%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
 
 # Amazon.in Help: Amazon.in Privacy Notice
 
@@ -30,9 +30,9 @@ The information we learn from customers helps us personalise and continually imp
 
 Here are the types of information we gather.
 
-**Information You Give Us:** We receive and store any information you enter on our website or give us in any other way. Click [here](https://www.amazon.in/gp/help/customer/display.html?nodeId=200534380#information) to see examples of what we collect. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our platform, and communicating with you.
+**Information You Give Us:** We receive and store any information you enter on our website or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our platform, and communicating with you.
 
-**Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your Web browser accesses Amazon.in or advertisements and other content served by or on behalf of Amazon.in on other Web sites. Click [here](https://www.amazon.in/gp/help/customer/display.html?nodeId=200534380#information) to see examples of the information we receive. We may also receive/store information about your location and your mobile device, including a unique identifier for your device. We may use this information for internal analysis and to provide you with location-based services, such as advertising, search results, and other personalized content.
+**Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your Web browser accesses Amazon.in or advertisements and other content served by or on behalf of Amazon.in on other Web sites. Click here to see examples of the information we receive. We may also receive/store information about your location and your mobile device, including a unique identifier for your device. We may use this information for internal analysis and to provide you with location-based services, such as advertising, search results, and other personalized content.
 
 **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.in if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.
 
@@ -40,7 +40,7 @@ Here are the types of information we gather.
 
 By using or continuing to use the site you agree to our use of your information (including sensitive personal information) in accordance with this Privacy Notice, as may be amended from time to time by Amazon.in in its discretion. You also agree and consent to us collecting, storing, processing, transferring and sharing information (including sensitive personal information) related to you with third parties or service providers for the purposes as set out in this Privacy Notice.
 
-We may be required to share the aforesaid information with government authorities and agencies for the purposes of verification of identity or for prevention, detection, investigation including cyber incidents, prosecution and punishment of offences. You agree and consent for Amazon.in to disclose your information, if so required under the applicable law.
+We may be required to share the aforesaid information with government authorities and agencies for the purposes of verification of identity or for prevention, detection or investigation, including of cyber incidents, prosecution and punishment of offences. You agree and consent for Amazon.in to disclose your information, if so required, under applicable law.
 
 Back to Top
 
@@ -59,15 +59,13 @@ Back to Top
 Information about our customers is an important part of our business and we are not in the business of selling it to others. Amazon.in shares customer information only as described below and with Amazon.com, Inc. and the subsidiaries which Amazon.com, Inc., controls and that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
   * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.in or sell offerings to you at Amazon.in. In other cases, we provide services jointly with or on behalf of these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions and we share customer information related to those transactions with that third party.
-  * **Third Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Notice and as permitted by the applicable law.
-  * **Promotional Offers:** Sometimes we send offers to selected groups of Amazon.in customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Customer Communication Preferences.
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc. or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-  * **Protection of Amazon.in and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property or safety of Amazon.in, our users or others. This includes exchanging information with other companies, organisations, government or regulatory authorities for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Notice
-  * **With your consent:** Other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share the information.
+  * **Third Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Notice and as permitted by applicable law.
+  * · **Promotional Offers:** Sometimes we send offers to selected groups of Amazon.in customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Customer Communication Preferences.
+  * · **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc. or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+  * · **Protection of Amazon.in and Others:** We release account and other personal information when we believe release is appropriate to comply with applicable law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property or safety of Amazon.in, our users or others. This includes exchanging information with other companies, organisations, government or regulatory authorities for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Notice
+  * · **With your consent:** Other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share the information.
 
 
-
-Whenever we transfer personal information to countries outside India in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by the applicable laws including but not limited to Information Technology Act, 2000 and the rules framed thereunder.
 
 Back to Top
 
@@ -97,7 +95,7 @@ Back to Top
 ##  What Choices Do I Have?
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.in features as Your Profile, Wish Lists, Customer Reviews and Amazon Prime.
-  * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the previous version for our records.
+  * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the previous version for our records. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.in and orders placed with Amazon.in, and it is your responsibility to review them for changes.)
   * If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.in and orders placed with Amazon.in, and it is your responsibility to review them for changes.)
   * If you do not want us to use personal information that we gather to personalise advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.in/adprefs).
   * The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.
@@ -132,7 +130,7 @@ You provide most such information when you search, buy, bid, post, participate i
 
 **Automatic Information**
 
-Examples of the information we collect and analyse include: the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version; operating system and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Best Sellers; the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); cookie number; products you viewed or searched for; and any phone number used to call our [.] customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+Examples of the information we collect and analyse include: the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version; operating system and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Best Sellers; the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); cookie number; products you viewed or searched for; and any phone number used to call our customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
 **Information from Other Sources**
 
@@ -142,4 +140,24 @@ Examples of information we receive from other sources include: updated delivery 
 
 Examples of information you can access easily at Amazon.in include: up-to-date information regarding recent orders; personal information (including name, e-mail, password, communications and personalised advertising preferences and address book); payment settings (including credit-card information and gift certificate, gift card and cheque balances); e-mail notification settings (including Alerts, Available to Order notifications, Delivers, Recommended for You and newsletters); recommendations (including recent product-view history, prior-order history and Favourites); Wish Lists and Marketplace seller accounts and Your Profile (including your product Reviews, Requests and Recommendations, your Listmania lists, "So You'd Like to..." guides, personal profile, people you tagged as interesting, and Amazon Friends).
 
-Back to Top
+If you have any concerns or questions in relation to this Privacy Notice, you may address them to our grievance officer at:
+
+**E-mail PDF** : notice@amazon.in
+
+**Subject Line** : Claim of Objectionable Content
+
+_or_
+
+**Fax** : 040-39922887
+
+_or_
+
+**Physical Address** : Amazon Seller Services Private Limited
+
+Ground Floor,
+
+Eros Plaza, Eros Corporate Tower,
+
+Nehru Place,
+
+New Delhi 110019
