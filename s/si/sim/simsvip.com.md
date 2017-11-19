@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simsvip.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108152823id_/http%3A//simsvip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simsvip.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119231107id_/https%3A//simsvip.com/privacy-policy) for the most accurate reproduction.*
 
 # | SimsVIP
 
@@ -33,7 +33,3 @@ We reserve the right to disclose your personally identifiable information as req
 ## Contact Details
 
 If you have any questions regarding this policy, please email [SimsVIPContact@Gmail.com](mailto:SimsVIPContact@Gmail.com).
-
-**SimsVIP  
-P.O. Box 4514  
-Clearwater, FL 33758**
