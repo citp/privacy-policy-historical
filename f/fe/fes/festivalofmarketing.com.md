@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the festivalofmarketing.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172111id_/http%3A//www.festivalofmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festivalofmarketing.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119063504id_/http%3A//www.festivalofmarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Festival Of Marketing 2017
 
