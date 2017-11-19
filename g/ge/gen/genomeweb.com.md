@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112032534id_/https%3A//www.genomeweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119161925id_/https%3A//www.genomeweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GenomeWeb
 
-GenomeWeb values your privacy. This statement explains what information GenomeWeb gathers from you through our website and how we may use it. By using genomeweb.com you indicate your acceptance of GenomeWeb's privacy policy.
+GenomeWeb LLC values your privacy. This statement explains what information GenomeWeb LLC's affiliate publications gather from you through our websites and how we may use it. By using genomeweb.com or 360Dx.com you indicate your acceptance of GenomeWeb LLC's privacy policy.
 
 ### What information do we collect?
 
@@ -24,7 +24,7 @@ Any of the information we collect from you may be used in one of the following w
 
 •    To administer a contest, promotion, survey or other site feature
 
-•    To send periodic emails (The email address you provide may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, offers from GenomeWeb and its partners, etc.) Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent.
+•    To send periodic emails (The email address you provide may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, offers from GenomeWeb LLC and its partners, etc.) Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email, or you can request to unsubscribe by contacting [customerservice@genomeweb.com](mailto:customerservice@genomeweb.com).
 
@@ -80,7 +80,7 @@ This policy was last modified on March 24, 2014.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-GenomeWeb  
+GenomeWeb LLC  
 40 Fulton St., 10th Floor  
 New York, NY 10038
 
