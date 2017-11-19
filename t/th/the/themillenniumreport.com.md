@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themillenniumreport.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611170943id_/http%3A//themillenniumreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themillenniumreport.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119140756id_/http%3A//themillenniumreport.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY | The Millennium Report
+# PRIVACY – The Millennium Report
 
 ### **PRIVACY POLICY**
 
@@ -8,11 +8,11 @@ If you require any more information or have any questions about our privacy poli
 
 At _The Millennium Report_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by _The Millennium Report_ and how it is used.
 
-**Log Files**
+ **Log Files**
 
 Like many other Web sites, http://www.TheMillenniumReport.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 http://www.TheMillenniumReport.com does not use cookies.
 
@@ -26,11 +26,11 @@ DoubleClick DART Cookie
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-**Google Adsense**
+ **Google Adsense**
 
 These third-party ad servers or ad networks use technology connected to the advertisements and links that appear on http://www.TheMillenniumReport.com which send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad delivery networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
-_**The Millennium Report**_ has no access to or control over these cookies that are used by third-party advertisers.
+ _ **The Millennium Report**_ has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. TheMillenniumReport.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
@@ -38,6 +38,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 We hope this helps.
 
-**_The Millennium Report_**
+ ** _The Millennium Report_**
 
 [](http://themillenniumreport.com/wp-content/uploads/2014/07/volcanoesstormnationalgeogr.jpg)
