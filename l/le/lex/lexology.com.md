@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lexology.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620021321id_/http%3A//www.lexology.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexology.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119213429id_/https%3A//www.lexology.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Globe Business Publishing Ltd ("We") are committed to protecting and respecting your privacy.
 
-This privacy policy (together with our [terms of use](https://web.archive.org/Info/Terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data, how we will treat it and the basis on which it will be disclosed to third parties. By visiting [www.lexology.com](http://www.lexology.com/) ("our site") and/or registering for the service and/or providing information about yourself you are accepting and consenting to the practices described in this policy. 
+This privacy policy (together with our [terms of use](https://web.archive.org/Info/Terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data, how we will treat it and the basis on which it will be disclosed to third parties. By visiting [www.lexology.com](https://www.lexology.com/) ("our site") and/or registering for the service and/or providing information about yourself you are accepting and consenting to the practices described in this policy. 
 
 For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Globe Business Publishing Ltd. We have our registered office at St Brides House, 10 Salisbury Square, London, EC4Y 8EH. Our main trading address is New Hibernia House, Winchester Walk, London Bridge, London SE1 9AG. 
 
@@ -12,7 +12,7 @@ For the purpose of the Data Protection Act 1998 (the "Act"), the data controller
 
 We may collect and process the following data about you: 
 
-  * **Information you give us.** You may give us information about you by filling in forms on our site [www.lexology.com](http://www.lexology.com/) or by corresponding with us by phone, e-mail or otherwise. 
+  * **Information you give us.** You may give us information about you by filling in forms on our site [www.lexology.com](https://www.lexology.com/) or by corresponding with us by phone, e-mail or otherwise. 
     * This includes information you provide when you register to use our site, subscribe to our service, sign up for newsletters, participate in discussion boards or other social media functions on our site and when you report a problem with our site. 
     * The information you give us may include your name, address, e-mail address and phone number, personal description and photograph, educational and employment history. 
   * **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information: 
