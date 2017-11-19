@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the okhype.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124001459id_/https%3A//www.okhype.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okhype.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119222643id_/https%3A//www.okhype.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY – Ok Hype
+# PRIVACY POLICY – Okhype.com
 
 At **OKHYPE.COM,** the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by **OKHYPE.COM** and how it is used.
 
