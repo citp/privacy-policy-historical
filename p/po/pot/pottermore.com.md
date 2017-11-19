@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the pottermore.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629040503id_/https%3A//www.pottermore.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pottermore.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119090619id_/http%3A//pottermore.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - Pottermore
 
 This Privacy & Cookies Policy contains 15 sections. You can view each section by selecting the relevant link below:
 
   * 1 Introduction
-  * 2 Changes to this Privacy Cookies Policy
+  * 2 Changes to this Privacy & Cookies Policy
   * 3 The information we collect and how we use it
   * 4 How else may we use the information we collect?
   * 5 Information sharing and disclosure
@@ -26,7 +26,7 @@ This Privacy & Cookies Policy contains 15 sections. You can view each section by
 
 1.1 Welcome to our website (the “Site”), the digital heart of J.K. Rowling’s Wizarding World, dedicated to unlocking the power of imagination. The Site is described in more detail in our [Terms & Conditions](https://web.archive.org/about/terms). The Site is owned by Pottermore Limited (referred to as “Pottermore”, “we”, “us” or “our” as appropriate), a company established in England and Wales. The main part of the Site is currently available at [https://www.pottermore.com](https://www.pottermore.com/). The Site also includes the online digital content store of the Harry Potter books, artwork and other merchandise (the “Pottermore Shop”), which is currently available at [https://uk.shop.pottermore.com](https://uk.shop.pottermore.com/), [https://gbp.shop.pottermore.com](https://gbp.shop.pottermore.com/), [https://eur.shop.pottermore.com](https://eur.shop.pottermore.com/) or [https://usd.shop.pottermore.com](https://usd.shop.pottermore.com/) (depending on your location). We may also make the Site, parts of it or other versions of it available through further digital channels or devices.
 
-1.2 This Privacy & Cookies Policy describes our practices with regard to the information that we collect when you use the Site, what we do with such information and how we protect it. It also describes our practices on the use of cookies. For the purpose of relevant laws (such as, in the UK, the Data Protection Act 1998, as amended), the data controller is Pottermore Limited. Please see our [Terms & Conditions](https://web.archive.org/about/terms) and our [About](https://web.archive.org/about/us) page for more information about Pottermore Limited and the basis on which we provide the Site. Some of the capitalised words used in this Privacy & Cookies Policy are defined in our [Terms & Conditions](https://web.archive.org/about/terms) and our [Pottermore Shop Terms & Conditions](https://web.archive.org/about/terms-shop-en).
+1.2 This Privacy & Cookies Policy describes our practices with regard to the information that we collect when you use the Site, what we do with such information and how we protect it. It also describes our practices on the use of cookies. For the purpose of relevant laws (such as, in the UK, the Data Protection Act 1998, as amended), the data controller is Pottermore Limited. Please see our [Terms & Conditions](https://web.archive.org/about/terms) and our [About](https://web.archive.org/about/us) page for more information about Pottermore Limited and the basis on which we provide the Site. Some of the capitalised words used in this Privacy & Cookies Policy are defined in our [Terms & Conditions](https://web.archive.org/about/terms) and our [US Pottermore Shop Terms & Conditions](https://web.archive.org/about/terms-shop-en-us) for our US customers, or our [Pottermore Shop Terms & Conditions](https://web.archive.org/about/terms-shop-en) for all our other customers.
 
 1.3 We strive to protect the privacy of Site users. We encourage all users to act responsibly and with care when it comes to their personal information and that of others. Please read this Privacy & Cookies Policy to understand how the information you provide to us is used. If you have any queries or concerns regarding these practices, please see the end of this Privacy & Cookies Policy for details of how to contact us.
 
@@ -44,7 +44,7 @@ This Privacy & Cookies Policy contains 15 sections. You can view each section by
 
  **Personal information**
 
-3.1 We do not collect information that identifies you personally on or via the Site, unless: (a) you choose to provide it to us when contacting us; or (b) the technical data that we collect (such as an IP address) are treated as personally identifying information under applicable laws; or (c) you provide this information to us in order to set up a Pottermore Account during the registration process.
+3.1 We collect information that identifies you personally on or via the Site, in limited cicumstances described below, including when: (a) you choose to provide it to us when contacting us; or (b) the technical data that we collect (such as an IP address) are treated as personally identifying information under applicable laws; or (c) you provide this information to us in order to set up a Pottermore Account during the registration process.
 
  **Pottermore Account registration data**
 
@@ -54,7 +54,7 @@ When you register for a Pottermore Account, we may collect:
 
  **Your month and year of birth – these are not displayed publicly. We use this information only:**
 
-  * to ensure that the site features and any communications you are offered are appropriate for your age range.
+  * to ensure that the site features and any communications you are offered are appropriate for your age.
 
 
 
@@ -83,7 +83,9 @@ When you register for a Pottermore Account, we may collect:
 
  **Information from other sources – this is not displayed publicly.**
 
-We also work closely with third parties (including, for example, business partners and analytics providers) and may receive information about you from them. In either case, we use this information in relation to the Site for the purpose of understanding our audience.
+  * We also work closely with third parties (including, for example, business partners and analytics providers) and may receive information about you from them. In either case, we use this information in relation to the Site for the purpose of understanding our audience.
+
+
 
 When you register to use the Pottermore Shop and/or place an order from the Pottermore Shop, we collect:
 
@@ -108,13 +110,19 @@ When you register to use the Pottermore Shop and/or place an order from the Pott
 
 
 
+ **Information collected for purchasing and receiving gifts via the Pottermore Shop**
+
+You can purchase a book on the Pottermore Shop as a gift to be made available for download to another person in accordance with our [US Pottermore Shop Terms & Conditions](https://web.archive.org/about/terms-shop-en-us) for our US customers, or our [Pottermore Shop Terms & Conditions](https://web.archive.org/about/terms-shop-en) for all our other customers. We refer to the person purchasing the gift as the “purchaser” and the person receiving the gift as the “recipient”. The purchaser may send us details of the recipient’s first name, surname and email address (and any other information that the purchaser may choose to provide) so that we can provide the gift to the recipient. If you are the purchaser, by sending us the recipient’s information you are confirming that the recipient is not under the age of majority in the relevant territory and that the recipient has given consent for us to use the recipient’s information to provide the gift and in the other ways referred to above. If you are the recipient, by using the Site, starting to download the gift, or accessing or using the gift by any other means, you are agreeing to the use of your information and the use of cookies, as described in this Privacy & Cookies Policy (in particular, without limitation, the use of your first name, surname and email address in the ways described above). If you are a recipient and would like to have your personal information deleted, please contact us using the contact information below. Please note that we may continue to retain information in some cases following a deletion request for purposes required by law, or when deletion is not practicable.
+
+ **Customer service queries** If you contact us to raise a query, in doing so you may provide us with some of your personal information, such as your name or contact details. We use that personal information only for the purpose of responding to your query.
+
  **Other types of information we collect and use**
 
 In addition we may collect information that does not identify you personally for a variety of purposes as set out below:
 
  **Anonymous analytics data**
 
-Like many companies who operate websites, we collect basic information about your use of our site, such as the number and duration of visits to the Site, any search queries entered on our site, and details of which particular pages have been visited. We do not combine this information with any other information that could identify you personally. We use this information to analyse how the Site is functioning and how it is used by our users, to help us maintain and improve the Site on an ongoing basis.
+Like many companies who operate websites, we collect basic information about your use of our Site, such as the number and duration of visits to the Site, any search queries entered on our Site, and details of which particular pages have been visited. We do not combine this information with any other information that could identify you personally. We use this information to analyse how the Site is functioning and how it is used by our users, to help us maintain and improve the Site on an ongoing basis.
 
  **Performance data**
 
@@ -122,23 +130,15 @@ While using the Site, certain information is automatically logged about how you 
 
  **Third-party analytics data**
 
-Like many companies that operate websites, we allow carefully selected third parties to set cookies in order to capture analytics information. When you use social-media functionality on the Site, analytics cookies may be set to measure usage. This information is collected in an anonymous way that does not identify you personally.
-
- **Customer service queries**
-
-If you contact us to raise a query, in doing so you may provide us with some of your personal information, such as your name or contact details. We use that personal information only for the purpose of responding to your query.
+Like many companies that operate websites, we allow carefully selected third parties to set cookies in order to capture analytics information. When you use social-media functionality on the Site, analytics cookies may be set to measure usage. This information nayb be linked to your device but otherwise is collected in a way that does not identify you personally.
 
  **Children’s privacy**
 
-We do not knowingly collect or use personal information from children under the age of 13. If we become aware that we have inadvertently collected personal information from a user under the age of 13, we will delete such information from our records. If you believe your child has provided us with personal information and you would like to have the personal information deleted, please contact us using the contact information below.
+We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently collected personal information from a user under the age of 13, we will delete such information from our records. If you believe your child has provided us with personal information and you would like to have the personal information deleted, please contact us using the contact information below.
 
  **Minors’ privacy in the context of the Pottermore Shop**
 
 In the context of purchasers from the Pottermore Shop, we do not knowingly use personal information from persons under the age of majority in the relevant country. If we become aware that a person under the age of majority in the relevant country is attempting to access the Pottermore Shop, we may use technical measures to prevent such person from entering into transactions on the Pottermore Shop. If you believe your child has provided us with personal information and you would like to have the personal information deleted in such context, please contact us using the contact information below.
-
- **Information collected for purchasing and receiving gifts via the Pottermore Shop**
-
-You can purchase a book on the Pottermore Shop as a gift to be made available for download to another person in accordance with our [Pottermore Shop Terms & Conditions](https://www.pottermore.com/about/terms-shop-en). We refer to the person purchasing the gift as the “giftor” and the person receiving the gift as the “giftee”. The giftor may send us details of the giftee’s first name, surname and email address (and any other information that the giftor may choose to provide) so that we can provide the gift to the giftee. If you are the giftor, by sending us the giftee’s information you are confirming that the giftee is not under the age of majority in the relevant territory and that the giftee has given consent for us to use the giftee’s information to provide the gift and in the other ways referred to above. If you are the giftee, by using the Site, starting to download the gift, or accessing or using the gift by any other means, you are agreeing to the use of your information and the use of cookies, as described in this Privacy & Cookies Policy (in particular, without limitation, the use of your first name, surname and email address in the ways described above). If you are a giftee and would like to have your personal information deleted, please contact us using the contact information below.
 
 ## 4\. How else may we use the information we collect?
 
@@ -158,13 +158,15 @@ We share your personal information in certain limited ways as described below.
 
 5.4 In addition, we may share information about visitors to the Site in an anonymous and aggregate form with third parties (including our business partners) to understand user trends and patterns and to manage and improve our business relationships.
 
-5.4 We do not send any information that we collect on the Site to any social networking sites, nor do we share that information with such sites. We do not collect any personal information about you from those sites. We may, however, disclose information we collect, including personal information, as set out below:
+5.5 We do not send any information that we collect on the Site to any social networking sites, nor do we share that information with such sites. We do not collect any personal information about you from those sites.
 
-(a) to our employees, agents Partners, and authorised third-party providers for them to administer any accounts or services provided to you through the Site as described above (including, if you are a Registered User, in relation to the registration, creation and operation of your Pottermore Account); 
+5.6 We may disclose information we collect, including personal information, as set out below:
+
+(a) to our employees, agents Partners, and authorised third-party providers for them to administer any accounts or services provided to you through the Site as described above (including, if you are a Registered User, in relation to the registration, creation and operation of your Pottermore Account);
 
 (b) if you consent to receiving marketing communications from our Partners, to those Partners, to their employees and agents for them to send you marketing communications regarding products, content and services they offer;
 
-(c) if there is a change in the ownership of Pottermore Limited or any of its assets, including a change as a result of insolvency or bankruptcy, we may disclose information to the new owner and, if we do so, we will require them to use it only in accordance with the terms of our Privacy & Cookies Policy; 
+(c) if there is a change in the ownership of Pottermore Limited or any of its assets, including a change as a result of insolvency or bankruptcy, we may disclose information to the new owner and, if we do so, we will require them to use it only in accordance with the terms of our Privacy & Cookies Policy;
 
 (d) apart from the use and sharing of your personal information in the circumstances already described, we may share information we collect (including personal information) as required or allowed by law (for example, as needed to protect our and our licensors’ rights and property or to comply with any applicable law or valid legal process);
 
@@ -180,7 +182,7 @@ We will never send you an email containing your full payment details, and we wil
 
 7.1 We aim to provide a number of features that help provide a more personalised and enhanced experience to our users. To achieve this, we may collect and use a limited amount of non-personal information from you. In addition, we may ask you about which books and films in the Harry Potter series you have enjoyed. We will never publicly disclose any such information on the Site without obtaining your permission.
 
-7.2 We also collect non-personal data, including aggregated, statistical data about visitors to the Site and traffic patterns (and share it with third parties such as our Partners). This information does not identify you in any personal capacity; it simply gives generalised information about the users of the Site. Please see below for more information on our use of cookies and similar technologies.
+7.2 We also collect non-personal data, including aggregated, statistical data about visitors to the Site and traffic patterns (and share it with third parties such as our Partners). This information does not identify you in any capacity; it simply gives generalised information about the users of the Site. Please see below for more information on our use of cookies and similar technologies.
 
 7.3 We also use watermarking technology to help us combat hacking, piracy and the unauthorised use of books sold through the Pottermore Shop. This involves the use of code numbers to help us to identify individual copies of a book. We may use such watermarking technology to identify items purchased through your Pottermore Account to help us investigate and protect against hacking, piracy, unauthorised use and any other behaviour that may be in breach of our [Terms & Conditions](https://web.archive.org/about/terms) or applicable laws.
 
@@ -195,23 +197,22 @@ We will never send you an email containing your full payment details, and we wil
 8.3 We use various different types of cookie via the Site.
 
   * We use cookies that are necessary and/or useful for the functioning of the Site. For example, if you use the Pottermore Shop, we use “session cookies” (which will usually be deleted when you log out) to keep track of your internet session while on the Pottermore Shop, which, for instance, allow us to remember the items you add to your shopping basket and the site language and currency you have selected to use. Without these cookies the online services that you have asked for cannot be provided.
-  * We also use “persistent cookies” (which are longer-term) (and other automatically tracked information) to help you move around and enjoy the features on the Pottermore Shop more easily and to remember settings to improve your visit (at your request), such as your site language preferences or whether you want to be signed in automatically next time you visit.
+  * We also use “persistent cookies” (which are longer-term) (and other automatically tracked information) to help you move around and enjoy the features on the Pottermore Shop more easily and to remember settings to improve your visit, such as, for example, your site language preferences or whether you want to be signed in automatically next time you visit.
   * We also use cookies to help improve the performance of the Site and to provide you with a better, more personalised user experience.
   * We also use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly.
+  * So cookies allow you to take advantage of some of the Site's key features. If you choose to decline cookies, you may not be able to sign in or to use other interactive features of the Site and its services that depend on cookies.
 
 
 
-So cookies allow you to take advantage of some of the Site's key features, which if you choose to decline cookies, mean you may not be able to sign in or to use other interactive features of the Site and its services that depend on cookies.
-
-In further detail, Pottermore cookies fall into the following categories, which we have documented to help you understand the types of cookies that are used to improve your browsing experience on the Site:
+Third parties on this Site may use cookies to collect information about online activities over time and across this and other websites on the internet. In further detail, Pottermore cookies fall into the following categories, which we have documented to help you understand the types of cookies that are used to improve your browsing experience on the Site:
 
 ### Analytics (e.g. Google Analytics; Webengage)
 
-These cookies are used to compile various (anonymised) metrics for our users to get a better understanding of how the Site is used (pages visited and time spent on the Site, for example), so that we can deliver more of the content you want, and less of the content you don’t. This information also helps us to make better decisions for our future initiatives. We use partners like [Webengage](http://webengage.com/privacy) and [Google Analytics](http://www.google.co.uk/intl/en-GB/policies/technologies/types/). These analytics cookies are set by those partners, and set in accordance with the relevant partner’s own privacy and cookies policies.
+These cookies are used to compile various (anonymised) metrics for our users to get a better understanding of how the Site is used (pages visited and time spent on the Site, for example), so that we can deliver more of the content you want, and less of the content you don’t. This information also helps us to make better decisions for our future initiatives. We use partners like [Webengage](http://webengage.com/privacy) and [Google Analytics](http://www.google.co.uk/intl/en-GB/policies/technologies/types/). These analytics cookies are set by those partners, and set in accordance with the relevant partner’s own privacy and cookies policies. Please see section 8.4 below for information on opting out of Google Analytics.
 
 ### E-commerce (Shopify)
 
-Used via the Pottermore Shop to manage your shopping basket and user experience. We use [Shopify](https://www.shopify.co.uk/legal/cookies). These e-commerce cookies are set by Shopify in accordance with its own privacy and cookies policies.
+These cookies are used via the Pottermore Shop to manage your shopping basket and user experience. We use [Shopify](https://www.shopify.co.uk/legal/cookies). These e-commerce cookies are set by Shopify in accordance with its own privacy and cookies policies.
 
 ### Customer Service (ZenDesk)
 
@@ -241,19 +242,19 @@ The cookies outlined above expire after varying periods from around 30 minutes u
 
 By continuing to use the Site, you are providing your consent for us to use cookies in these ways, but you can disable any of these cookies at any time if you wish (as set out below).
 
-8.3 You may refuse to accept cookies by activating the setting on your web browser that allows you to refuse the setting of cookies, or you can modify your browser so that it notifies you when cookies are sent to it. The Help portion of your browser, most likely found on the toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You can check whether these settings are currently enabled on your computer – or find out how to change your current settings – here:
+8.4 You may refuse to accept cookies by activating the setting on your web browser that allows you to refuse the setting of cookies, or you can modify your browser so that it notifies you when cookies are sent to it. The Help portion of your browser, most likely found on the toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You can check whether these settings are currently enabled on your computer – or find out how to change your current settings – here (but note that Pottermore does not control these third-party resources):
 
-Javascript: [www.enable-javascript.com](https://web.archive.org/web/20170629040503id_/https%3A//www.pottermore.com/about/www.enable-javascript.com)
+Javascript: [www.enable-javascript.com](http://www.enable-javascript.com/)
 
-Cookies: [www.whatarecookies.com](https://web.archive.org/web/20170629040503id_/https%3A//www.pottermore.com/about/www.whatarecookies.com)
+Cookies: [www.whatarecookies.com](http://www.whatarecookies.com/)
 
 Unless you do this, cookies will be issued when you use the Site, but you can disable them via your browser at any time. If you do not accept cookies or decide to disable them, you will still be able to access and use the Site, but you may lose some features and functionality. For example, you cannot remain signed in to your Pottermore Account if you disable cookies.
 
-If you wish to restrict or block web browser cookies which are set on your device, then you can do this by going to the help menu within your internet browser. Alternatively, you may wish to visit the “manage cookies” section on [www.allaboutcookies.org](https://web.archive.org/web/20170629040503id_/https%3A//www.pottermore.com/about/www.allaboutcookies.org), which contains information on how to prevent cookies from being stored on your device.
+If you wish to restrict or block web browser cookies which are set on your device, then you can do this by going to the help menu within your internet browser. Alternatively, you may wish to visit the “manage cookies” section on [www.allaboutcookies.org](http://www.allaboutcookies.org/), which contains information on how to prevent cookies from being stored on your device.
 
-To opt out of being tracked by Google Analytics across all websites visit: <http://tools.google.com/dlpage/gaoptout/>
+To opt out of being tracked by Google Analytics across websites visit: <http://tools.google.com/dlpage/gaoptout/>
 
-You can find out more about cookies at [www.allaboutcookies.org](https://web.archive.org/web/20170629040503id_/https%3A//www.pottermore.com/about/www.allaboutcookies.org) and [www.youronlinechoices.eu](https://web.archive.org/web/20170629040503id_/https%3A//www.pottermore.com/about/www.youronlinechoices.eu).
+You can find out more about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
 ## 9\. Links
 
@@ -263,7 +264,7 @@ The Site contains links posted by us to third-party websites (including social n
 
 10.1 As required by applicable data-protection and privacy laws, we follow appropriate security procedures in relation to the storage and disclosure of information that you have given to us in order to protect against unauthorised access. In particular, we take steps to protect the security of your information, including your payment information and passwords, with appropriate physical, technological and administrative measures. You accept the inherent risks of providing information and dealing online and will not hold us responsible for any breach of security that is due to circumstances beyond our reasonable control.
 
-10.2 If you have any concerns about data security, please see the end of this Privacy & Cookies Policy for details of how to contact us. 
+10.2 If you have any concerns about data security, please see the end of this Privacy & Cookies Policy for details of how to contact us.
 
 ## 11\. Editing your Pottermore Account settings and unsubscribing from Pottermore emails
 
@@ -274,7 +275,10 @@ The Site contains links posted by us to third-party websites (including social n
 11.3 You can also edit your settings as described above in section 11.1 or 11.2 above to correct or update your personal details held by us, i.e. to change your:
 
   * name;
-  * email address; and/or
+  * email address;
+  * country of residence;
+  * billing address (if you have one)
+  * delivery address; and/or
   * password.
 
 
@@ -283,7 +287,7 @@ The Site contains links posted by us to third-party websites (including social n
 
 12.1 You can access and edit information on your profile at the Account Settings page in your Pottermore Account.
 
-Your right to access your personal information
+ **Your right to access your personal information**
 
 12.2 You may have a right under relevant legislation (such as, in the UK, the Data Protection Act 1998, as amended) to see, correct and/or request deletion of the personal information that we hold about you, whether collected through your use of the Site or through any communications that you have had with us. You will need to provide us with a written request and in accordance with local laws you may be asked to pay a small fee (for example, where the request entails administrative costs). In that case, we will inform you of the fee to obtain your consent before proceeding with your request. If you have any queries about your rights or wish to make such a request, please see the end of this Privacy & Cookies Policy for details of how to contact us.
 
@@ -291,7 +295,7 @@ Your right to access your personal information
 
 13.1 We reserve the right to suspend or terminate access to your Pottermore Account for any reason, and we reserve the right to delete your Pottermore Account and any personal information associated with your Pottermore Account.
 
-13.2 You can delete your Pottermore Account by sending us a written request. To find out how to do so, please refer to our [FAQ pages](https://web.archive.org/faqs) in the first instance. We will endeavour to comply with any such request promptly and in any event within thirty (30) days of receiving your request.
+13.2 You can delete your Pottermore Account by sending us a written request. To find out how to do so, please refer to our [FAQ pages](https://help.pottermore.com/) in the first instance. We will endeavour to comply with any such request promptly and in any event within thirty (30) days of receiving your request.
 
 13.3 When we terminate or delete your Pottermore Account, we will delete all the personal information, including your activity history, associated with that Pottermore Account. Once your account has been deleted, you will not be able to log in to your Pottermore Account unless you create a new Pottermore Account. If we terminate your Pottermore Account, we reserve the right to refuse re-registration.
 
@@ -307,9 +311,9 @@ Your right to access your personal information
 
 14.4 You should be aware that the governments, courts or law-enforcement or regulatory authorities of countries outside the EEA, in addition to those within the EEA, may be able to obtain access to or disclosure of any personal information processed in those locations through the laws of their respective countries.
 
-14.5 Should you wish to access written information about our policies and practices regarding any of our authorised third-party service providers, please contact us. Please see the end of this Privacy & Cookies Policy for details of how to contact us
+14.5 Should you wish to access written information about our policies and practices regarding any of our authorised third-party service providers, please contact us. Please see the end of this Privacy & Cookies Policy for details of how to contact us.
 
-## 15\. About us and how to contact us
+## 15\. About us and how to [contact us](https://help.pottermore.com/hc/en-gb/requests/new)
 
 15.1 The Site is owned by Pottermore Limited, a company incorporated in England and Wales, whose company details are as follows:
 
@@ -330,12 +334,16 @@ Z2535777
 
 15.2 If you would like to contact us to request the information that we hold on you, please write to us at Pottermore Limited, PO Box 7828, London W1A 4GE, UK, marking it clearly as a “Data subject access request”. If you have any other queries about privacy or cookies on the Site, please feel free to contact us:
 
-__By post: __Pottermore Limited, PO Box 7828, London W1A 4GE, UK 
+ **By online form:**[Contact Us](https://help.pottermore.com/hc/en-gb/requests/new)
 
-**By email:** You can send us any queries using the online [contact form ](https://help.pottermore.com/hc/en-gb/requests/new)or by emailing us directly at help@pottermore.com 
+ **By post:** Pottermore Limited, PO Box 7828, London W1A 4GE, UK
 
-**By telephone:** +44 (0) 845 366 0120
+ **By email:**[help@pottermore.com ](mailto:help@pottermore.com)
 
- **Last updated:** 22 May 2017 Please see here for an [archive of previous Pottermore Privacy & Cookie Policies](https://web.archive.org/about/privacy-previous).
+**Last updated:** 23 October 2017
+
+Please see here for an [archive of previous Pottermore Privacy & Cookie Policies](https://web.archive.org/about/privacy-previous).
+
+15.3 In Delaware and California, online booksellers may be legally required to prepare an annual report providing information about disclosures of personal information made to comply with legal process. Pottermore is currently exempt from this requirement, so no report has been prepared.
 
 * * *
