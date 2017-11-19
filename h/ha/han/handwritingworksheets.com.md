@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handwritingworksheets.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118063629id_/https%3A//handwritingworksheets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handwritingworksheets.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119174744id_/https%3A//handwritingworksheets.com/privacy.html) for the most accurate reproduction.*
 
 # handwritingworksheets.com | Privacy Policy
 
