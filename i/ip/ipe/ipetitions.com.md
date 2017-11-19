@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipetitions.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121203020id_/http%3A//www.ipetitions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipetitions.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119220353id_/https%3A//www.ipetitions.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | iPetitions
 
@@ -14,7 +14,7 @@ There are three possible exceptions to this rule, however, and those are when 1)
 
 Please be aware that this applies only to petitions powered by iPetitions on iPetitions' servers (these petitions will have a URL of the form: http://www.ipetitions.com/petition/some_petition). Petitions sponsored by external organizations but using our software may have different privacy policies.
 
-**3) The third exception:** iPetitions may disclose user or signer information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Membership Agreement or may be causing injury or interference, intentionally or unintentionally, to iPetitions' rights or property, other iPetitions users, or anyone else that could be harmed by such activities. We may share information in this case in response to a specific legal request or at the discretion of our own judgement if we believe it is in the legal or other interest to share such information. YOU EXPRESSLY AGREE THAT UNDER NO CIRCUMSTANCES CAN IPETITIONS BE HELD ACCOUNTABLE FOR SHARING SUCH INFORMATION IF WE HAVE SHARED THE INFORMATION WITH THE BELIEF (WHETHER THAT BELIEF LATER PROVES FOUNDED OR UNFOUNDED) THAT IT WAS NECESSARY FOR LEGAL REASONS.
+**3) The third exception:** iPetitions may disclose user or signer information when we have reason to believe that disclosing this information is necessary for legal reasons. We may do so in response to a specific legal query, or even without such a query if we have reason to believe that sharing such information may be: in the interests of public or private safety; necessary to prevent or remedy an illegal or potentially illegal act (in any jurisdiction of the world); necessary to prevent harm to iPetitions, our members, users, or any other member of the public anywhere in the world; or any other reason which we believe to be valid or necessary. In the event we share information in response to a specific legal query or request (including but not limited to a court order, police request, or subpoena), we may choose solely at our own discretion to waive the requirement of service of summons and respond to a verbal, emailed or other request. YOU EXPRESSLY AGREE THAT UNDER NO CIRCUMSTANCES CAN IPETITIONS BE HELD ACCOUNTABLE FOR SHARING INFORMATION IF WE HAVE SHARED THE INFORMATION WITH THE BELIEF (WHETHER THAT BELIEF LATER PROVES FOUNDED OR UNFOUNDED) THAT IT WAS NECESSARY FOR LEGAL OR OTHER REASONS.
 
 Please be aware that these exceptions and policies (as well as those contained elsewhere in this Privacy Statement) apply only to petitions powered by iPetitions on iPetitions' servers. Petitions sponsored by external organizations but using our software may have different privacy policies.
 
@@ -42,7 +42,7 @@ All members of iPetitions have the option of subscribing to our free newsletter.
 
 ## CONTENT
 
-While we do everything possible to monitor the contents of individual petitions and comments on our site, we cannot be held liable for any offence, damage, injury or other legal infraction attributed to such content. iPetitions is a service provider; we are not content generators.
+While we do everything possible to monitor the contents of individual petitions and comments on our site, we cannot be held liable for any offence, damage, injury or other legal infraction attributed to such content. iPetitions is a service provider; we are not content generators. WE EXPRESSLY WAIVE ALL LIABILITY OR RESPONSIBILITY IN ALL JURISDICTIONS FOR CONTENT CREATED ON OUR SITE BY USERS OR OTHER THIRD PARTIES.
 
 ## "EMAIL FRIENDS"
 
@@ -51,10 +51,6 @@ All petitions come with a "Email Friends" tab, which allows signers to forward a
 ## NOTIFICATIONS
 
 Petition hosts have the option of subscribing to email updates ("Notifications") about their petition and other related information. Such Notifications provide information on the number of signatures a petition has received, and can be turned off in the Notifications section of "My Account/ My Petitions"
-
-## SIGNATURE CONFIRMATION
-
-When you sign an iPetitions petition, you will receive an email confirming that your signature has been received. This is a one-time correspondence, sent only to confirm your signature, and we do not send you any further emails or notifications unless you have specifically requested them. 
 
 ## SECURITY
 
@@ -66,7 +62,7 @@ We do not store credit card or other payment information on our servers. However
 
 ## SITE AND SERVICE UPDATES
 
-We send members occasional site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about iPetitions. Signers, however, will only receive these announcements if they indicate their desire to do so when signing a petition. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
+We send members occasional site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about iPetitions.
 
 ## CORRECTION/UPDATING PERSONAL INFORMATION
 
