@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rentmen.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120052743id_/https%3A//rentmen.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentmen.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119025357id_/https%3A//rentmen.eu/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | RentMen.com
+# Privacy Policy | RentMen
 
-RENTM MEDIA GmbH - Germany (the “ ** _Company_** ”), respects your privacy and is committed to protecting it through this privacy policy (the “ ** _policy_** ”). This policy describes the types of information the Company may collect from you or that you may provide when you visit the websites located at [RentMen.com](https://rentmen.com/) and [rent.men](https://rent.men/) (the “ ** _Websites_** ”) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information.
+\- Germany (the “ ** _Company_** ”), respects your privacy and is committed to protecting it through this privacy policy (the “ ** _policy_** ”). This policy describes the types of information the Company may collect from you or that you may provide when you visit the websites located at [RentMen.eu](https://rentmen.eu/) and [rent.men](https://rent.men/) (the “ ** _Websites_** ”) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information.
 
 This policy applies to information the Company collects:
 
@@ -133,22 +133,25 @@ The Company may use the information it has collected from you to allow the Compa
 
 The Company may disclose aggregated information about its users, and information that does not identify any individual, without restriction.
 
-The Company may disclose personal information that it collects or you provide as described in this policy:
+The Company may disclose information that it collects or you provide as described in this policy, if not in contrary with the [Personal Data Protection Policy:](https://web.archive.org/about/datacollection/)
 
-  * To the Company’s subsidiaries and affiliates.
-  * To contractors, service providers, and other third parties the Company uses to support its business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which the Company discloses it to them.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, assignment, or other sale or transfer of some or all of the Company’s assets, whether as a going concerning or as part of bankruptcy, liquidation, receivership, or similar proceeding, in which personal information held by the Company about the Website’s users is among the assets transferred.
-  * To third parties to market their products or services to you if you have not opted out of these disclosures. The Company contractually requires these third parties to keep personal information confidential and use it only for the purposes for which the Company discloses it to them. For more information, see **_What choices do you have about how the Company uses and discloses your information_**.
+[
+
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, assignment, or other sale or transfer of some or all of the Company’s assets, whether as a going concerning or as part of bankruptcy, liquidation, receivership, or similar proceeding, in which information held by the Company about the Website’s users is among the assets transferred.
   * To fulfill the purpose for which you provide it.
   * For any other purpose disclosed by the Company when you provide the information.
   * With your consent.
 
 
 
-The Company may also disclose your personal information:
+The Company may also disclose your information:
 
+](https://web.archive.org/about/datacollection/)
+
+[
   * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply the [Terms of Service](https://web.archive.org/about/terms) and other agreements, including for billing and collection purposes.
+](https://web.archive.org/about/datacollection/)
+  * [To enforce or apply the ](https://web.archive.org/about/datacollection/)[Terms of Service](https://web.archive.org/about/terms) and other agreements, including for billing and collection purposes.
   * If the Company believes disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, its customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
@@ -242,9 +245,9 @@ The Company does not control third-party tracking technologies or how third part
 
 
 
-California Civil Code § 1798.83 permits users of the Website that are California residents to request certain information about the Company’s disclosure of personal information to third parties for their direct marketing purposes. To make this request, please send an email to rentmen@rentmen.com.     
+California Civil Code § 1798.83 permits users of the Website that are California residents to request certain information about the Company’s disclosure of personal information to third parties for their direct marketing purposes. To make this request, please send an email to rentmen@rentmmedia.com.     
 
-Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for marketing purposes, please send an email to rentmen@rentmen.com. Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law.
+Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for marketing purposes, please send an email to rentmen@rentmmedia.com. Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law.
 
   12. CA - Your Canada Privacy Rights
 
@@ -256,7 +259,7 @@ The Company will only use your personal information for the purposes intended an
 
 Residents of Canada are notified that the personal information they provide to the Company may be stored in databases outside of Canada, including in the United States or Europe, and may be subject to disclosure to authorized law enforcement or government agencies in response to lawful demand under the laws of that country.
 
-If you need to contact the Company about your personal information or believe that the Company has violated your privacy rights, please email the Company at rentmen@rentmen.com. You may visit [www.priv.gc.ca](http://www.priv.gc.ca/) for more information about your privacy rights.
+If you need to contact the Company about your personal information or believe that the Company has violated your privacy rights, please email the Company at rentmen@rentmmedia.com. You may visit [www.priv.gc.ca](http://www.priv.gc.ca/) for more information about your privacy rights.
 
   13. Links to Other Websites
 
@@ -280,6 +283,6 @@ The Company will post any changes it makes to this policy on this page. If the C
 
 
 
-To ask questions or comment about this policy and the Company’s privacy practices, contact the Company at rentmen@rentmen.com.
+To ask questions or comment about this policy and the Company’s privacy practices, contact the Company at rentmen@rentmmedia.com.
 
 **Last Updated: June 1, 2016**
