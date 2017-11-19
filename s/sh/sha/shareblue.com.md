@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the shareblue.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623163845id_/http%3A//shareblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareblue.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119071237id_/https%3A//shareblue.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Shareblue
+# Privacy | Shareblue Media
 
-#### Shareblue Privacy Policy
+#### Shareblue Media Privacy Policy
 
 Last Updated:  _September 7, 2016_
 
-This Privacy Policy explains how information about you is collected, used and disclosed by True Blue Media, LLC  (“True Blue Media”).  This Privacy Policy applies to information we collect when you use our website located atshareblue.com and our other Shareblue websites, mobile sites and mobile applications that link to this Privacy Policy (collectively, the “Sites”).
+This Privacy Policy explains how information about you is collected, used and disclosed by True Blue Media, LLC  (“True Blue Media”).  This Privacy Policy applies to information we collect when you use our website located atshareblue.com and our other Shareblue Media websites, mobile sites and mobile applications that link to this Privacy Policy (collectively, the “Sites”).
 
-  We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification).  We encourage you to review the Privacy Policy whenever you access the Sites to stay informed about our information practices and the ways you can help protect your privacy.
+We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification).  We encourage you to review the Privacy Policy whenever you access the Sites to stay informed about our information practices and the ways you can help protect your privacy.
 
 ##### Collection of Information
 
@@ -22,7 +22,7 @@ When you access or use our Sites, we automatically collect information about you
     * **Device Information:** We collect information about the computer or mobile device you use to access our Sites, including the hardware model, operating system and version, unique device identifiers and mobile network information.
 
 
-  3. **Information Collected by Cookies and Other Tracking Technologies**    
+  3. **Information Collected by Cookies and Other Tracking Technologies**  
 We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.  Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Sites and your experience, see which areas and features of our Sites are popular and count visits.  We may also collect information using web beacons (also known as “tracking pixels”).  Web beacons are electronic images that may be used in our Sites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.  For more information about cookies, and how to disable them, please see “Your Choices” below.
 
 
@@ -51,13 +51,13 @@ True Blue Media is based in the United States and the information we collect is 
 
   6. **Sharing of Information**  
 We may share information about you as follows or as otherwise described in this Privacy Policy: 
-    * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
-    * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
-    * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of True Blue Media or others;
-    * In connection with, or during negotiations of, any merger, reorganization, asset sale, acquisition of all or a portion of the business, financing or lending transaction or in any other situation where information about you may be disclosed, shared or transferred as one of the assets of True Blue Media (including any sale, exchange or other sharing of information to a third party for such third party’s own marketing purposes, unless you opt out of such sharing as set forth below); and
-    * With your consent or at your direction, including if we notify you through our Sites that the information you provide will be shared in a particular manner and you provide such information.
+    *       * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+      * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+      * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of True Blue Media or others;
+      * In connection with, or during negotiations of, any merger, reorganization, asset sale, acquisition of all or a portion of the business, financing or lending transaction or in any other situation where information about you may be disclosed, shared or transferred as one of the assets of True Blue Media (including any sale, exchange or other sharing of information to a third party for such third party’s own marketing purposes, unless you opt out of such sharing as set forth below); and
+      * With your consent or at your direction, including if we notify you through our Sites that the information you provide will be shared in a particular manner and you provide such information.
 
-We may also share aggregated or anonymized information that does not directly identify you. 
+We may also share aggregated or anonymized information that does not directly identify you.
 
 
 
@@ -70,10 +70,8 @@ If you sign an online petition, you understand that such petition is public info
 
 
   9. **Advertising and Analytics Services Provided by Others**  
-We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services.  These entities may use cookies, web beacons and other technologies to collect information about your use of the Sites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by True Blue Media and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Sites and other websites and better understand your online activity. 
-
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services.  These entities may use cookies, web beacons and other technologies to collect information about your use of the Sites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by True Blue Media and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Sites and other websites and better understand your online activity.  
 For example, we may use various Google Analytics products, including Google Analytics for Display Advertising and Google Analytics Demographics and Interests Reporting, that may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) to provide advertising and analytics services and inform, optimize, and serve ads based on your activities.  This Policy does not apply to, and we are not responsible for, cookies or other technologies used by third parties. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). For information on how you can opt out of Google’s use of cookies for interest-based ads please see Google’s [Ads Settings](https://www.google.com/settings/ads) tool: <https://www.google.com/settings/ads>.
-
 
 
   10. **Security**  
@@ -83,10 +81,16 @@ True Blue Media takes reasonable measures to help protect information about you 
 
 ##### Your Choices
 
-****
-  11. **Cookies**  
-Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies.  Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Sites.  To delete or disable flash cookies please visit [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security) for more information.  Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Sites.
+  * Cookies
 
+
+  11. Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies.  Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Sites.  To delete or disable flash cookies please visit
+
+
+
+[www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security)
+
+for more information.  Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Sites.
 
   12. **Promotional Communications**  
 You may opt out of receiving promotional emails or text messages from True Blue Media by following the instructions in those emails or text messages or by emailing us at [info@shareblue.com](mailto:info@shareblue.com) with the word “remove” in the subject line.  If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
