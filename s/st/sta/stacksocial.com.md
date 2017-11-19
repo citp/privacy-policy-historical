@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stacksocial.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120053320id_/https%3A//stacksocial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksocial.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119034902id_/https%3A//stacksocial.com/privacy) for the most accurate reproduction.*
 
 # Privacy | StackSocial
 
