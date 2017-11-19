@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615091131id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119144750id_/https%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Talks News
 
@@ -113,19 +113,3 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 **Contact Us**
 
 If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/contact/).
-
-#### Trending Stories
-
-#### Get rich quick one day at a time
-
-Sign up for our free newsletter for ways to make, save, and grow your money daily:
-
-354,712 happy subscribers [__123,106](https://www.facebook.com/moneytalksnews/) [__12,213](https://twitter.com/moneytalksnews)
-
-#### It's Not The Usual Blah, Blah, Blah
-
-Join our 354,712 free newsletter subscribers building wealth and destroying debt:
-
-© 2017 Money Talks News. All Rights Reserved.
-
-Advertising Disclosure: This site may be compensated in exchange for featured placement of certain sponsored products and services, or your clicking on links posted on this website. 
