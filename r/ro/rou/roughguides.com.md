@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126133119id_/https%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119045826id_/https%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Rough Guides
 
@@ -7,7 +7,7 @@ This website is owned and operated by The Rough Guides Limited.
 ## Our Privacy Policy
 
 We want visitors to our website to be able to take part fully in the activities and offers we provide. We also want to make sure that when we collect information from you, we do so in a way that does not infringe your right to privacy. This Privacy Policy is designed to give you useful information about the way we collect and use personal information and how we use cookies.  
- **By using our website you accept the terms of this Privacy Policy.**
+**By using our website you accept the terms of this Privacy Policy.**
 
 ## Personal Information
 
@@ -29,7 +29,9 @@ We regularly run competitions and prize draws and, in addition to your answer or
 
 #### Shopping
 
-To purchase items from our online shop, you will be directed to our partner Penguin site(s), with which you will be required to register an account. For this, you will be asked to provide your name, email address, a password and password reminder, your billing and delivery address and bank details. Our partner sites use a third-party payment service to facilitate purchases so, by providing them with your information, you consent to them passing that information to their payment service provided for the purpose of completing your transactions. Purchases will be subject to the Terms and Conditions of Sale for those sites and buying anything from those sites will constitute an acceptance of those terms. We will indicate the availability of a product before you are directed to our partner site(s), but we cannot guarantee that availability statuses will be 100% accurate.
+To purchase ebooks from our online shop, you will be required to register an account. For this, you will be asked to provide your name, email address, a password and password reminder, your billing and delivery address. We do not share these personal details with any third parties. We use a third-party payment service (PayPal) to facilitate payment. We do not store credit card details nor do we share financial details with any third parties. Ebook purchases are subject to our [Terms and Conditions](https://www.roughguides.com/terms-conditions/) of Sale & Purchase.
+
+We provide links to other products & services offered by third party websites. Purchases made on those sites will be subject to the Terms and Conditions of Sale for those sites and buying anything from those sites will constitute an acceptance of those terms.
 
 #### Forums and User Content
 
@@ -82,12 +84,12 @@ If you nevertheless want to restrict, block or disable cookies, you can do so by
 
 If you have any questions about this web site or our privacy policy, please contact us by writing to:
 
-Director of Web Solutions  
-The Rough Guides Limited  
-80 Strand  
+Rough Guides Limited  
+136 Tooley Street  
 London  
-WC2R 0RL
+SE1 2TU  
+England
 
-or by telephoning: 020 7010 3000.
+or by telephoning: +44 (0)20 7403 0284.
 
-Last Updated: 3 January 2017
+Last Updated: 16 November 2017
