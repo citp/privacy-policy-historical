@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudfoundry.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183610id_/https%3A//www.cloudfoundry.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudfoundry.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119175141id_/https%3A//www.cloudfoundry.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloud Foundry
 
