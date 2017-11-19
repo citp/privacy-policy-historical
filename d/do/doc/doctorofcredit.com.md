@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorofcredit.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611165704id_/http%3A//www.doctorofcredit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorofcredit.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119121011id_/https%3A//www.doctorofcredit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Doctor Of Credit
 
@@ -61,7 +61,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.doctorofcredit.com/terms-of-use/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.doctorofcredit.com/terms-of-use/>
 
 **Your Consent**
 
@@ -73,9 +73,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Monday 3rd of February, 2014.
 
-<http://www.doctorofcredit.com/contact-us/>
-
-If you liked this post and want to receive others like it make sure you join our  **[rss feed](http://feeds.feedburner.com/DoctorofCredit)**  or  **[join the newsletter](http://www.doctorofcredit.com/win-25-a-month-just-by-joining-our-mailing-list/)**  (weekly updates, one lucky subscriber is chosen monthly to win $25 AND we share additional tips and secrets in the newsletter) or **[submit your e-mail here to get daily updates](http://www.doctorofcredit.com/get-daily-updates-via-e-mail/)**. 
+<https://www.doctorofcredit.com/contact-us/>
 
   
 
