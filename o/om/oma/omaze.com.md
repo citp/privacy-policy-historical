@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omaze.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619075357id_/https%3A//www.omaze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omaze.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119070125id_/https%3A//www.omaze.com/privacy) for the most accurate reproduction.*
 
 # Enter To Win Your Dream Experience - Omaze.com
 
@@ -28,7 +28,7 @@ Personally identifiable information refers to information that is collected in c
 
 Non-personally identifiable information refers to information that Omaze may collect from you that is not collected in conjunction with your name.
 
-Omaze does not seek any personally identifiable information from children, and our Website is not designed to solicit, information from children under 18. To participate in any sweepstakes through this Website, you must be at least 18 years of age.
+Omaze does not seek any personally identifiable information from children, and our Website is not designed to solicit information from children under 13. To participate in any sweepstakes through this Website, you must be at least 13 years of age.
 
 How Do We Use This Information?
 
@@ -83,6 +83,22 @@ Our Website is hosted in the United States and each Sweepstakes drawing takes pl
 Dispute Resolution
 
  If you believe that Omaze has not adhered to this Policy in connection with the transfer of your personal information to the United States, please contact Omaze by e-mail at service@Omaze.com.  We will do our best to address your concerns.  If you feel that your complaint has been addressed incompletely, we agree to settle your dispute exclusively under the JAMS Comprehensive Rules or International Rules of JAMS International (for more information, visit www.jamsinternational.com/rules-procedures/safeharbor).
+
+EU-U.S. Privacy Shield
+
+ Omaze complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the EU to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, the Privacy Shield Principles and to view our certification, please visit www.privacyshield.gov.
+
+Our participation in the Privacy Shield applies to all Personal Information that is received from the European Union and European Economic Area.
+
+We remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process Personal Information on our behalf do so in a manner inconsistent with the Principles, unless we can prove that we are not responsible for the event giving rise to the damage.
+
+You may request access to any Personal Information maintained on you by Omaze at any time by emailing [privacy@omaze.com](mailto:privacy@omaze.com).
+
+If you believe that we have not adhered to this Policy, please contact us by e-mail at [privacy@omaze.com](mailto:privacy@omaze.com). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. For any complaints that cannot be resolved with Omaze directly, we have chosen to settle the dispute exclusively under the JAMS Streamlined Arbitration Rules or JAMS International Mediation Rules). To file a complaint via JAMS, please visit https://www.jamsadr.com/eu-us-privacy-shield.
+
+For complaints left unresolved by all other available mechanisms, you may invoke binding arbitration with the Privacy Shield Panel, which consists of a pool of 20 arbitrators designated by the Department of Commerce and the European Commission, from which the parties will be able to select either one or three arbitrators.
+
+Omaze is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 California Users: Your California Privacy Rights.
 
