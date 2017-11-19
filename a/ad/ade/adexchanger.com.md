@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adexchanger.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301132158id_/https%3A//adexchanger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adexchanger.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120004520id_/https%3A//adexchanger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdExchanger
 
