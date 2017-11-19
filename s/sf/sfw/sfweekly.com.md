@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfweekly.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403011657id_/http%3A//www.sfweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfweekly.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120004808id_/http%3A//www.sfweekly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SF Weekly
 
