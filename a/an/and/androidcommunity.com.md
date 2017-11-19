@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidcommunity.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126052718id_/https%3A//androidcommunity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidcommunity.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119051533id_/https%3A//androidcommunity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Android Community
 
