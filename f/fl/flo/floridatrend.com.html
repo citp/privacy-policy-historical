@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the floridatrend.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606095343id_/http%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the floridatrend.com privacy policy that was archived on 2017-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119235648id_/http%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,7 +7,7 @@
 <meta name="description" content="">
 <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
-<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+
 <title>Privacy Policy</title>
 
 
@@ -98,7 +98,13 @@ googletag.cmd.push(function() {
 googletag.defineSlot('/30454158/trendros', [300, 250], 'flt_ad-bigbox').addService(googletag.pubads()).setTargeting('pos','medrect1');
 googletag.defineSlot('/30454158/trendros', [300, 250], 'flt_ad-bigbox-2').addService(googletag.pubads()).setTargeting('pos','medrect2');
 googletag.defineSlot('/30454158/trendros', [300, 250], 'flt_ad-bigbox-3').addService(googletag.pubads()).setTargeting('pos','medrect1');
-
+if( $(window).width() > 768 ) {
+ googletag.defineSlot('/30454158/trenderstitial', [600, 500], 'flt_ad-inter').addService(googletag.pubads()).setTargeting('pos','intr'); }
+else {
+ googletag.defineSlot('/30454158/trenderstitial', [300, 250], 'flt_ad-inter').addService(googletag.pubads()).setTargeting('pos','intr');
+};
+googletag.defineSlot('/30454158/trendros', [300, 600], 'flt_ad-filmstrip').addService(googletag.pubads()).setTargeting('pos','halfpage1');
+googletag.defineSlot('/30454158/trendros', [728, 90], 'flt_ad-leader').addService(googletag.pubads()).setTargeting('pos','ldr');
 googletag.defineSlot('/30454158/trendros', [300, 100], 'flt_ad-rect-1').addService(googletag.pubads()).setTargeting('pos','rectl');
 googletag.defineSlot('/30454158/trendros', [300, 100], 'flt_ad-rect-2').addService(googletag.pubads()).setTargeting('pos','rectr');
 googletag.pubads().enableAsyncRendering();
@@ -158,7 +164,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-ML4X4L');</script>
 <!-- End Google Tag Manager -->
-<script src="http://code.jquery.com/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script>
 $(document).ready(function() {
 	if (!readCookie('hide')) {
@@ -167,13 +172,19 @@ $(document).ready(function() {
 	
 	$('a.bcp_close').click(function() {
 		$('#weasel').hide();
-		createCookie('hide', true, 5)
+		createCookie('hide', true, 1)
+		return false;
+	});
+
+	$('a.backdown').click(function() {
+		$('#weasel').hide();
+		createCookie('hide', true, 1)
 		return false;
 	});
 
 	$('a.connect').click(function() {
 		$('#weasel').hide();
-		createCookie('hide', true, 5)
+		createCookie('hide', true, 1)
 	});
 });
 
@@ -204,10 +215,15 @@ function eraseCookie(name){
 </script>
 
 
-<div id="weasel">
-<div id="poppel"><p style="position:absolute; margin: 8px; right:0;"><a class="bcp_close" href="#">
-	<img src="http://www.floridatrend.com/public/img/mk_ex.png" style="border:0" title="Close" id="Interstitial_View"></a></p>
-    <a href="/movers/submit" target="_blank" class="connect"><img src="http://www.floridatrend.com/public/userfiles/ads/movers/M&amp;I_red1.png" style="border:0; width:100%" id="Interstitial_Click"></a>
+<div id="weasel"><a class="backdown" href="#"><img src="http://www.floridatrend.com/public/img/backblast.png" style="position:absolute; width:100vw; min-height:100vh"></a>
+<div id="popper"><p style="position:absolute; margin: 8px; right:0;"><a class="bcp_close" href="#">
+	<img src="http://www.floridatrend.com/public/img/mk_ex.png" style="border:0" title="Close"></a></p>
+    <!-- /30454158/trenderstitial -->
+<div id="flt_ad-inter">
+<script>
+googletag.cmd.push(function() { googletag.display('flt_ad-inter'); });
+</script>
+</div>
     </div>
 </div>
 <!-- HEADER (Subscribe Zone [eNews sign-up, Subscribe Cover]; Masthead [Login/Register links, Social Media, Main Logo]; Navigation -->
@@ -217,7 +233,7 @@ function eraseCookie(name){
   <div id="ft_search">
   <img src="http://www.floridatrend.com/public/img/search.png" style="margin: 0 5px 0 0; float:left;">
 	<form action="/search" method="get">
-	<input type="text" name="k" class="ft_searchfield" style="width: 163px; border: 1px solid #861515; height:18px; padding:0; margin:0" value="">
+	<input type="text" name="addsearch" class="ft_searchfield" style="width: 163px; border: 1px solid #861515; height:18px; padding:0; margin:0" value="">
 	<!-- <input type="submit" value="Go" style="margin: 0; width:38px; height: 23px; padding:0" />-->
 	</form>
   </div>
@@ -235,7 +251,7 @@ function eraseCookie(name){
 
  <!-- START of Subscribe Zone -->
   <div id="ft_subsci">
-		<a href="https://support.floridatrend.com/ft/DigitalAccess.aspx?PC=FT&amp;BID=06012017&amp;PK=M72WB01">
+		<a href="https://support.floridatrend.com/ft/DigitalAccess.aspx?PC=FT&amp;BID=11012017&amp;PK=M72WB01">
 	<img class="cover" src="http://www.floridatrend.com/img?h=133&amp;src=/img/covers/cover.jpg" alt="Florida Trend">	<img class="offer" src="http://www.floridatrend.com/public/img/subcorner.png"></a>
   </div> 
  <!-- End of Subscribe Zone -->  
@@ -323,13 +339,10 @@ function eraseCookie(name){
 <div id="maincontain">
 
     <div id="primary">
-        <!--
-<div id="breaker" style="box-sizing: border-box; display: block; margin: 15px auto; float:left; width: 648px; min-height:44px; border: 1px #000 solid; padding: 10px 12px; background-color:#C00; position:relative; overflow:visible">
-  <p style="margin:0 auto; text-align:center; font-family: 'Fira Sans Extra Condensed', sans-serif; font-size:18px">
-<a href="http://bit.ly/1nkm83F"><strong style="color:#ff0">
-President of the Florida Senate Joe Negron and Speaker of the Florida House of Representatives Richard Corcoran join Governor Rick Scott for major announcement</strong></a></p>
-</div>
--->        <div id="datetag">June 6, 2017</div>
+        <!-- <div id="breaker" style="box-sizing: border-box; display: block; margin: 15px auto; float:none; clear:both; width: 648px; min-height:44px; border: 1px #000 solid; padding: 10px 12px; background-color:#0A2140; position:relative; overflow:visible">
+  <p style="margin:0 auto; text-align:center; font-family: sans-serif; font-size:18px; font-color:fff;"><a href="http://www.floridatrend.com/article/23092/nova-southeastern-university-receives-200-million-commitment-from-patel-family-foundation" class="size3sanserif" style="color:white"><strong>BREAKING NEWS: NSU receives $200 million commitment from Patel Family Foundation</strong></a></p>
+</div> -->
+        <div id="datetag">November 19, 2017</div>
     
 <div>
 	<div class="content">
@@ -409,18 +422,18 @@ If you wish to discontinue receiving communications from us at any time, please 
             <tbody>
                 <tr>
                     <td>DOW</td>
+                                        <td>23,358.24</td>
+                    <td style="color: red;">-100.12</td>
+                                    </tr>
+                <tr>
+                    <td>NASDAQ</td>
                                         <td></td>
                     <td style="color: green;"></td>
                                     </tr>
                 <tr>
-                    <td>NASDAQ</td>
-                                        <td>6295.684</td>
-                    <td style="color: red;">-10.112</td>
-                                    </tr>
-                <tr>
                     <td>S&amp;P 500</td>
-                                        <td>2439.07</td>
-                    <td style="color: green;">+9.01</td>
+                                        <td></td>
+                    <td style="color: green;"></td>
                                     </tr>
             </tbody>
         </table>
@@ -461,7 +474,13 @@ span.icon-double-arrow {
 
 
  <!-- Right Side Rail (Search Box, Medium Rectangle, Most Read Articles, Video, Ballot Box) -->
-    <div id="siderail" style="margin-top:15px">
+    <div id="siderail" style="margin-top: 15px">
+
+	<div class="boxmod" id="flt_ad-filmstrip" style="margin-bottom: 15px">
+	<script type="text/javascript">
+	 googletag.cmd.push(function() { googletag.display('flt_ad-filmstrip'); });
+	</script>
+	</div>
 
 	
 	<div class="boxmod" id="flt_ad-bigbox">
@@ -473,7 +492,7 @@ span.icon-double-arrow {
 <!-- Right Rail TOC Promo -->
 		<!-- TOC Promo Box -->
 <div id="tocbox">
-<div class="coverbox" style="height: 147px; overflow:hidden"><iframe width="175" height="175" src="http://digital.floridatrend.com/flippingGen.php?i=390714&amp;m=28897&amp;ttype=resizedynamic&amp;popup=true&amp;h=3382&amp;lim=&amp;remToolbars=true&amp;roll=" noresize="noresize" frameborder="0" border="0" cellspacing="0" scrolling="no" marginwidth="0" marginheight="0" allowtransparency="yes" style="margin: -25px 0 -15px 0;"></iframe></div>
+<div class="coverbox" style="height: 147px; overflow:hidden"><iframe width="175" height="175" src="http://digital.floridatrend.com/flippingGen.php?i=437805&amp;m=28897&amp;ttype=resizedynamic&amp;popup=true&amp;h=3382&amp;lim=&amp;remToolbars=true&amp;roll=" noresize="noresize" frameborder="0" border="0" cellspacing="0" scrolling="no" marginwidth="0" marginheight="0" allowtransparency="yes" style="margin: -25px 0 -15px 0;"></iframe></div>
 <p class="headtag" style="margin: 0 0 1px 0;">Digital Access</p>
 <div class="toctype">
   <div class="tocdiv"><div>
@@ -484,7 +503,7 @@ span.icon-double-arrow {
   </div>
 </div>  
 
-<p class="toctag"><a href="https://support.floridatrend.com/ft/digitallogin.aspx?PC=FT&amp;ID=409924" style="font-weight:bold; color:#fff" target="_blank">ACCESS THIS ISSUE »</a></p>
+<p class="toctag"><a href="https://support.floridatrend.com/ft/digitallogin.aspx?PC=FT&amp;ID=445126" style="font-weight:bold; color:#fff" target="_blank">ACCESS THIS ISSUE »</a></p>
 
 </div>
 <!-- END TOC Promo Box -->	
@@ -499,21 +518,21 @@ span.icon-double-arrow {
 	<div class="railbox">
 
     		<p class="headtag">Florida Business News</p>
-		<ul class="top_headlines">        <li><a href="http://www.floridatrend.com/article/22299/mondays-afternoon-update">BP dollars finally bound for Panhandle</a>
-          <p> Florida counties are going to finally get a share of money given to the state for damages related to the 2010 Deepwater Horizon oil spill in the Gulf of Mexico.</p></li>         
+		<ul class="top_headlines">       <li><a href="http://www.floridatrend.com/article/23450/fridays-afternoon-update">Florida jobs recover from Irma, unemployment rate drops </a>
+          <p>The state added 125,300 jobs in October, almost breaking even from the 127,400 jobs it lost in September.</p></li>
           
-          <li><a href="http://www.floridatrend.com/article/22299/mondays-afternoon-update"> <span class="BoxedWords"><font color="#CC0000"> Ron Stein Column </font></span><br>
-How an 1862 law fostered UF's Innovation Station in Sarasota</a>
-          <p>Erik Sander, the Founding Director of the University of Florida's Engineering Innovation Institute, was tasked with establishing a state-wide network to support tech workforce and business development.</p></li>
-          <p class="pulsetitle"><a href="http://www.floridatrend.com/article/22299/mondays-afternoon-update">Affordable housing a cause of concern for South Florida CEOs</a></p>
-          <p>South Florida CEOs answer the question: How does the local affordable housing shortage impact your business?</p>
-
-          <p class="pulsetitle"><a href="http://www.floridatrend.com/article/22299/mondays-afternoon-update">Gas prices surged in Florida last week, up 13 cents/gal. in Tampa</a></p>
-          <p>Florida gas prices rose 7 cents during the past week. Tampa Bay had the largest weekly gas price increase of any major metro market in the state, jumping 13 cents. </p>
-
-          <p class="pulsetitle"><a href="http://www.floridatrend.com/article/22299/mondays-afternoon-update"> <span class="BoxedWords"><font color="#CC0000"> Small Business Advice </font></span><br>
-Retirement plan options for small businesses </a></p>
-          <p> In addition to health insurance, a retirement plan is a great way to maintain and show your appreciation to loyal workers.</p></ul>	
+          <p class="pulsetitle"><a href="http://www.floridatrend.com/article/23450/fridays-afternoon-update">Florida among top states competing for military retirees</a></p>
+          <p>There’s a new tug of war over military retirees who come with pensions, health care and are a proven workforce.</p>
+          
+          <p class="pulsetitle"><a href="http://www.floridatrend.com/article/23450/fridays-afternoon-update">All Aboard Florida wins again in water district dispute</a></p>
+          <p>All Aboard Florida’s efforts to clear a needed environmental permit from challenges won another victory this week.</p>
+          
+          <p class="pulsetitle"><a href="http://www.floridatrend.com/article/23450/fridays-afternoon-update"> Florida employees take lead from companies in volunteer work, corporate giving</a></p>
+          <p>More and more Floridians are joining with their employers in supporting charitable causes.</p>
+          
+          <p class="pulsetitle"><a href="http://www.floridatrend.com/article/23450/fridays-afternoon-update">Winter forecast for Florida: Warm, even though rest of globe might be a bit cooler</a></p>
+          <p> Like last year, a weather system called La Niña is bringing a warm and dry winter to  Florida. </p>
+          </ul>	
 	</div>
 
 
@@ -521,12 +540,12 @@ Retirement plan options for small businesses </a></p>
   		<div class="boxmod" style="height: auto; background:transparent">
 		<div style="position: relative; height:250px">
       <div style="position: absolute; top: 0px; left: 0px; display: table; width: 300px; height: 35px; z-index:1000; background: #212121"><div style="margin: 4px 8px; width: 280px;">
-      <a href="/video-picks" style="color:#efefef">Retirees head to Latin America</a></div></div>
-      <div style="position: absolute; top: 95px; left: 120px; display: block; z-index:1000;"><a href="/video-picks"><img src="/public/img/pbjt.png" alt="Retirees head to Latin America" border="0"></a></div>
-      <a href="/video-picks"><img src="/img?w=300&amp;h=250&amp;zc=1&amp;src=http://s3.amazonaws.com/floridatrend/19252/retirees-head-to-latin-america.jpeg" alt="Retirees head to Latin America" border="0"></a>
+      <a href="/video-picks" style="color:#efefef">Test driving the Bugatti Chiron</a></div></div>
+      <div style="position: absolute; top: 95px; left: 120px; display: block; z-index:1000;"><a href="/video-picks"><img src="/public/img/pbjt.png" alt="Test driving the Bugatti Chiron" border="0"></a></div>
+      <a href="/video-picks"><img src="/img?w=300&amp;h=250&amp;zc=1&amp;src=http://s3.amazonaws.com/floridatrend/20731/test-driving-the-bugatti-chiron.png" alt="Test driving the Bugatti Chiron" border="0"></a>
  <div style="position: absolute; bottom: 0px; left: 0px; display: table; width: 300px; height: 35px; z-index:1000; background: #212121"></div>      
     </div>
-  <p></p><p>American retirees, including many Floridians, are heading to Latin America, where middle-class money can buy upper-class lifestyle.</p><p></p>
+  <p></p><p class="title video-title">What's it like to drive a $3 million car in the streets of Miami?&nbsp;</p><p></p>
   <p><strong><a href="/video-picks/">Earlier Videos</a></strong> | 
      <strong><a href="/viewpoints/">Viewpoints@FloridaTrend</a></strong></p>
 	</div>
@@ -546,16 +565,18 @@ Retirement plan options for small businesses </a></p>
 
     <div id="poll-wrap">
 
-    <p>Does it bother you that Florida's Governor, House Speaker and the Senate President arrived at a state budget in secret?</p>
+    <p>With the end of the year approaching, do you still have a lot of unused vacation time to take?</p>
 
     <form id="poll" action="/polls/vote" method="post">
       <fieldset>
-        <input type="hidden" name="poll_id" value="658">
+        <input type="hidden" name="poll_id" value="725">
         
         <ul style="margin: 0;">
-                    <li style="padding: 0; margin: 10px 0;"><input type="radio" name="answer_id" value="2596"> Yes, a lot</li>
-                    <li style="padding: 0; margin: 10px 0;"><input type="radio" name="answer_id" value="2597"> Some</li>
-                    <li style="padding: 0; margin: 10px 0;"><input type="radio" name="answer_id" value="2598"> No</li>
+                    <li style="padding: 0; margin: 10px 0;"><input type="radio" name="answer_id" value="2857"> Yes, on purpose</li>
+                    <li style="padding: 0; margin: 10px 0;"><input type="radio" name="answer_id" value="2858"> Yes, but unintentional (I hope I don't lose vacation time)</li>
+                    <li style="padding: 0; margin: 10px 0;"><input type="radio" name="answer_id" value="2859"> Not a lot, but some</li>
+                    <li style="padding: 0; margin: 10px 0;"><input type="radio" name="answer_id" value="2860"> No</li>
+                    <li style="padding: 0; margin: 10px 0;"><input type="radio" name="answer_id" value="2861"> N/A (retired or not working)</li>
                   </ul>
 
         <div class="clearfix"></div>
@@ -606,18 +627,18 @@ Retirement plan options for small businesses </a></p>
   	<div id="pub-slider">		
 		<div class="viewport">
 			<ul class="overview">
-				                								<li><a href="/small-business"><img src="/public/img/covers/fsb.gif" style="width: auto; height: 115px;"><br><span>Entrepreneur Assistance</span></a></li>
-								<li><a href="/florida-travel/summer"><img src="/public/img/covers/florida_travel_summer.jpg" style="width: auto; height: 115px;"><br><span>Summer Travel Planner</span></a></li>
-								<li><a href="/portraits/hightechcorridor"><img src="/public/userfiles/logos/cp/hightech_l.jpg" style="width: auto; height: 115px;"><br><span>Spotlight</span></a></li>
-								<li><a href="/portraits"><img src="/public/userfiles/logos/cp/polk_l.jpg" style="width: auto; height: 115px;"><br><span>Community Profile</span></a></li>
-								<li><a href="/business-florida"><img src="/public/img/covers/business_florida.jpg" style="width: auto; height: 115px;"><br><span>Business Opportunity&nbsp;Guide</span></a></li>
-								<li><a href="http://www.floridanext.com"><img src="/public/img/covers/next.jpg" style="width: auto; height: 115px;"><br><span>Florida College Guide</span></a></li>
-								<li><a href="/research-florida"><img src="/public/img/covers/research_florida.jpg" style="width: auto; height: 115px;"><br><span>Technology &amp; Research</span></a></li>
-								<li><a href="/best-companies"><img src="/public/img/covers/best_companies.jpg" style="width: auto; height: 115px;"><br><span>Best Companies</span></a></li>
-								<li><a href="/350"><img src="/public/img/covers/top_350.jpg" style="width: auto; height: 115px;"><br><span>Biggest Public &amp; Private Cos.</span></a></li>
-								<li><a href="/legal-elite"><img src="/public/img/covers/legal_elite.jpg" style="width: auto; height: 115px;"><br><span>Florida's Top Attorneys</span></a></li>
-								<li><a href="http://www.floridatrend.com/golden-spoons"><img src="/public/img/covers/golden_spoons.jpg" style="width: auto; height: 115px;"><br><span>Golden Spoons: Best Restaurants</span></a></li>
-								<li><a href="/florida-travel/winter"><img src="/public/img/covers/florida_travel_winter.jpg" style="width: auto; height: 115px;"><br><span>Winter Travel Planner</span></a></li>
+				                								<li><a href="/business-florida"><img src="/img?h=115&amp;src=/public/img/covers/business_florida.jpg" style="width: auto; height: 115px;"><br><span>Business Opportunity&nbsp;Guide</span></a></li>
+								<li><a href="/research-florida"><img src="/img?h=115&amp;src=/public/img/covers/research_florida.jpg" style="width: auto; height: 115px;"><br><span>Technology &amp; Research</span></a></li>
+								<li><a href="/portraits"><img src="/img?h=115&amp;src=/public/userfiles/logos/cp/tampa_l.jpg" style="width: auto; height: 115px;"><br><span>Community Profile</span></a></li>
+								<li><a href="http://www.floridanext.com"><img src="/img?h=115&amp;src=/public/img/covers/next.jpg" style="width: auto; height: 115px;"><br><span>Florida College Guide</span></a></li>
+								<li><a href="/best-companies"><img src="/img?h=115&amp;src=/public/img/covers/best_companies.jpg" style="width: auto; height: 115px;"><br><span>Best Companies</span></a></li>
+								<li><a href="/350"><img src="/img?h=115&amp;src=/public/img/covers/top_350.jpg" style="width: auto; height: 115px;"><br><span>Biggest Public &amp; Private Cos.</span></a></li>
+								<li><a href="/legal-elite"><img src="/img?h=115&amp;src=/public/img/covers/legal_elite.jpg" style="width: auto; height: 115px;"><br><span>Florida's Top Attorneys</span></a></li>
+								<li><a href="/small-business"><img src="/img?h=115&amp;src=/public/img/covers/fsb.gif" style="width: auto; height: 115px;"><br><span>Entrepreneur Assistance</span></a></li>
+								<li><a href="/florida-travel/summer"><img src="/img?h=115&amp;src=/public/img/covers/florida_travel_summer.jpg" style="width: auto; height: 115px;"><br><span>Summer Travel Planner</span></a></li>
+								<li><a href="/portraits/hightechcorridor"><img src="/img?h=115&amp;src=/public/userfiles/logos/cp/hightech_l.jpg" style="width: auto; height: 115px;"><br><span>Spotlight</span></a></li>
+								<li><a href="http://www.floridatrend.com/golden-spoons"><img src="/img?h=115&amp;src=/public/img/covers/golden_spoons.jpg" style="width: auto; height: 115px;"><br><span>Golden Spoons: Best Restaurants</span></a></li>
+								<li><a href="/florida-travel/winter"><img src="/img?h=115&amp;src=/public/img/covers/florida_travel_winter.jpg" style="width: auto; height: 115px;"><br><span>Winter Travel Planner</span></a></li>
 							</ul>
 		</div>
 		<a id="pub-previous">&lt;</a>
@@ -653,7 +674,6 @@ Retirement plan options for small businesses </a></p>
 <div id="ballot-tab"><a href="/ballot-box">Ballot Box</a></div>
 <div id="register-tab"><a href="https://support.floridatrend.com/ft/DigitalAccess.aspx?PC=FT&amp;PK=M42WB01">Subscribe</a></div>
 <!-- <div id="register-tab"><a href="https://support.floridatrend.com/ft/register.aspx">Register</a></div> -->
-<script src="http://code.jquery.com/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script src="http://s3.amazonaws.com/floridatrend/_public/vendor/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
 <script src="http://s3.amazonaws.com/floridatrend/_public/js/jquery.cycle.all.latest.js" type="text/javascript"></script>
 <script src="http://s3.amazonaws.com/floridatrend/_public/js/jquery.infinite-carousel.js" type="text/javascript"></script>
