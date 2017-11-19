@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metaspoon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154552id_/http%3A//www.metaspoon.com/privacy-policy-metaspoon) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metaspoon.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119041437id_/http%3A//www.metaspoon.com/privacy-policy-metaspoon) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -168,6 +168,6 @@ Metaspoon.com
 
 Canada
 
-contact.metaspoon AT gmail DOT COM
+contact AT metaspoon DOT COM
 
 Last Edited on 2016-11-03
