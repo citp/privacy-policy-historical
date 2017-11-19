@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performinsider.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122448id_/http%3A//pacedm.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performinsider.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119054737id_/http%3A//pacedm.com/privacy-policy-2) for the most accurate reproduction.*
 
 # PRIVACY POLICY - PACEDm.com - Performance Marketing Insider
 
