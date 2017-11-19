@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techdows.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620143134id_/http%3A//techdows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdows.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119011056id_/http%3A//techdows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Techdows
 
-[TechDows.com](https://web.archive.org/web/20170620143134id_/http%3A//) values our readers privacy. How ever we  do collect our readers information to improve our website and to collect statistics of visitors info for our website we use Google Analytics. We never share our readers information with third parties. Your privacy is very important to us.
+[TechDows.com](https://web.archive.org/web/20171119011056id_/http%3A//) values our readers privacy. How ever we  do collect our readers information to improve our website and to collect statistics of visitors info for our website we use Google Analytics. We never share our readers information with third parties. Your privacy is very important to us.
 
 We use tool such Google Analytics to collect our readers information such as IP addresses and operating system use.
 
