@@ -1,72 +1,66 @@
-> *The following text is extracted and transformed from the yooker.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921234612id_/http%3A//www.yooker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yooker.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119081418id_/https%3A//zeerk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Yooker.com Webmaster Market
+# Privacy Policy | Zeerk
 
-Welcome to Yooker.com  (the "Site").
+[Privacy Policy (English)](https://zeerk.com/privacy-policy/)
 
-We understand that privacy online is important to users of our Site, especially when conducting business.  
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without  
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Yooker.com  (collectively, "Services") ("Authorized Customers").
+[Politique de confidentialité (French)](https://zeerk.com/privacy-policy-french/)
 
-Yooker.com  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+[Datenschutzbestimmungen (German)](https://zeerk.com/privacy-policy-german/)
 
-Yooker.com  may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+[Informativa sulla Privacy (Italian)](https://zeerk.com/privacy-policy-italian/)
 
-What Personally Identifiable Information is collected
+[Política de Privacidade (Portuguese)](https://zeerk.com/privacy-policy-portuguese/)
 
-When visiting Yooker.com , you may provide us with two types of information:
+[Política de privacidad (Spanish)](https://zeerk.com/privacy-policy-spanish/)
 
-\- Personal information you choose to provide. The personal information you choose to provide includes your name and email address when you fill out any of our registration forms.
+[Політика Конфіденційності (Ukrainian)](https://zeerk.com/privacy-policy-ukrainian/)
 
-\- Data collected by the log files as you browse the site. Data collected in the log files include your IP, the browser you use, your internet service provider, the pages of our site you visit, and the time you spend in them. We use that information to collect statistical data about our visitors in order to improve our site. None of this recorded information is linked to personally identifiable information.
+We take the protection of your personal data very seriously. Whenever we collect, process or use (“use”) your personal data for the purpose of the services offered by Zeerk, this will take place within the scope of the services offered by Zeerk at zeerk.com’s registered office.
 
-What we do with the information we gather
+We will use the personal data that you disclose to us to provide the services offered by Zeerk on the basis of and in compliance with the valid data protection regulations contained in Data Protection Act. This includes, in particular, allowing you to access the content of the Zeerk.com website, managing the content uploaded by you on your behalf, providing you with information about this, and providing you with other services with your agreement, where applicable.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Where Zeerk is used by a natural person, he/she will be obliged to disclose or make the following personal data accessible to Zeerk upon registering and when using Zeerk services:
 
-• Personal information you provide may be used occasionally to send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+ *** Email**
 
-• Information provided by the log files is collected for statistical purposes and used to help us improve our site.
+ *** Username**
 
-How is Personally Identifiable Information stored
+ *** Password**
 
-Personally Identifiable Information collected by Yooker.com  is securely stored and is not accessible to third parties or employees of Yooker.com .
+ *** Paypal,[Payza](https://secure.payza.com/?NZPOMya9iLZ1heZofhNZebLYuHPLX6Z8xI6NOD0L81o%3d), [Payoneer](https://share.payoneer.com/nav/oB-6A8iPjLKGVez4aB7oBABed26UZBfAzUc_78jbpdI6YBSPr1uQIppK-QO7NwRr2CaRLmjw6EYIvFW-3jTj5A2) email  
+**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+By registering and accepting the terms and conditions of use, the user consents to his or her personal data being processed in accordance with according law and he or she also consents to this data being used and stored by Zeerk for the purposes of providing and guaranteeing Zeerk services.
 
-How Cookies Used on the Site
+The user will grant his or her consent in accordance with the DPA for the entire duration of his or her registration and use of the Zeerk services. If the user’s member account is deleted for any reason, or if any other use of the Zeerk services is terminated for any reason, Zeerk will ensure that the personal data disclosed to it by the user is deleted.
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers.
+You may withdraw your consent issued once in accordance with the relevant provisions of the DPA in writing at any time and/or object to the future use of your data in writing. Your consent will lapse one month after the delivery of written withdrawal to the Zeerk address given above.
 
-Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+We may analyse fictitious usage profiles for advertising and market research purposes and to improve our services to the extent permitted by law, but will only do so if you have not asserted your legal right to object to your data being used in such a way.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We will not pass on your personal data to third parties unless this is necessary to provide the services offered, or if transmission is otherwise permitted by relevant statutory provisions, in particular by the DPA.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+ **Do we use cookies?**
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can modify your browser setting to decline cookies if you prefer. This change may prevent you from taking full advantage of the website.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow it) that enable the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
 
-Links
+We use cookies to understand and save your preferences for future visits.
 
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. You should exercise caution  and we encourage you to  read the privacy statements of these linked sites as their privacy policies may differ from ours.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-Once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement.
+ **Third party links**
 
-What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Yooker.com  has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
-Our privacy policy does not cover their collection or use of this information.  
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+ **Children’s Online Privacy Protection Act Compliance**
 
- If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing us on http://www.yooker.com/support
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13-years-old or older.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+ **Your consent**
 
-How can Visitors correct any inaccuracies in Personally Identifiable Information?
+By using our site, you consent to our privacy policy.
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies at http://www.yooker.com/support
+ **Changes to our Privacy Policy**
 
-And Finally...
-
-We thank you for choosing Yooker.com and we look forward to a long a fruitful time together!
+If we decide to change our privacy policy, we will post those changes on this page.
