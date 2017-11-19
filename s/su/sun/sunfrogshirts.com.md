@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunfrogshirts.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020131629id_/https%3A//www.sunfrog.com/legal/terms/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunfrogshirts.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119040943id_/https%3A//www.sunfrog.com/legal/terms/privacy-policy.cfm) for the most accurate reproduction.*
 
-# SunFrog - Privacy Policy T-Shirt
+# SunFrog - Privacy Policy
 
 Your privacy is very important to us, and we want you to use SunFrog Shirts with the confidence that your personal information is protected. Accordingly, we developed this Privacy Policy to help you understand how we collect, use, communicate, disclose, and secure your personal information. This Privacy Policy does not apply to the websites of other companies, individuals, or organizations to which we may provide links. 
 
