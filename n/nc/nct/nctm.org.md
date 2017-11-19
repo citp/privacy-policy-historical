@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nctm.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034456id_/http%3A//www.nctm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nctm.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119122709id_/http%3A//www.nctm.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - National Council of Teachers of Mathematics
 
