@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ledgergazette.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616231322id_/https%3A//ledgergazette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledgergazette.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119021544id_/https%3A//ledgergazette.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Ledger Gazette
+# Privacy Policy - The Ledger Gazette
 
 **The Ledger Gazette** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
