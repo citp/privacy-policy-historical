@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reelzchannel.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530042305id_/http%3A//www.reelz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reelzchannel.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119160904id_/http%3A//www.reelz.com/privacy-policy) for the most accurate reproduction.*
 
-# REELZChannel Privacy Policy
+# Privacy Policy - REELZChannel
 
-_Updated:  May 2016_
+_Updated: March  2017_
 
 This is the Privacy Policy for the REELZChannel website run by REELZChannel, LLC.  Your privacy is important to us, and we provide this Privacy Policy regarding our online collection, use and disclosure practices to help you to make informed decisions regarding use of this site, and exercising choices regarding our collection, use and disclosure of the personal information about you from this website.
 
@@ -41,6 +41,10 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 ## **Our Commitment To Security**
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+## REELZ NOW
+
+REELZChannel and REELZ NOW do not store or have access to your username, password or any other information related to your TV provider subscription.
 
 ## **Notice Regarding Changes to this Policy**
 
