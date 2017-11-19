@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoopsrumors.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175414id_/https%3A//www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopsrumors.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119203908id_/https%3A//www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html) for the most accurate reproduction.*
 
 # HoopsRumors.com Privacy Policy | Hoops Rumors
 
@@ -8,7 +8,7 @@ Our postal address is
 **P.O. Box 72523  
 Roselle, IL 60172**
 
-We can be reached via e-mail [via the site's contact form](https://cdn.hoopsrumors.com/contact.html).
+We can be reached via e-mail [via the site's contact form](https://web.archive.org/contact.html).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
