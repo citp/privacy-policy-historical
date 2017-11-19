@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the official-drivers.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520221908id_/http%3A//www.official-drivers.com/installer/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the official-drivers.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119212935id_/http%3A//www.official-drivers.com/installer/privacy.php) for the most accurate reproduction.*
 
 # Windows Drivers Download - Windows
 
@@ -33,4 +33,4 @@ Driver Update Utility
 
 DriverTuner was created to save your time resolving driver problems by providing you with a single, automatic tool. 
 
-Compatible with Windows 7/8/8.1 
+Compatible with Windows 7/8/10 
