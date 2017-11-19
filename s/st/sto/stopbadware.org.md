@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopbadware.org privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318052819id_/https%3A//www.stopbadware.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopbadware.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119134418id_/https%3A//www.stopbadware.org/privacy) for the most accurate reproduction.*
 
 # Privacy | StopBadware
 
