@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourordinarylife.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628072949id_/https%3A//www.ourordinarylife.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourordinarylife.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119084943id_/https%3A//www.ourordinarylife.com/product-review-blogs-2017-reviews-our-ordinary-life-cision/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Ordinary Life
 
