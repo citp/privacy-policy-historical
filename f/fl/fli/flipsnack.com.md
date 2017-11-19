@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flipsnack.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221022108id_/https%3A//www.flipsnack.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipsnack.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119074031id_/https%3A//www.flipsnack.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
 
 # FlipSnack | Privacy policy
 
-Thank you for visiting Flipsnack.com and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Sites unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from FlipSnack. 
+Thank you for visiting Flipsnack.com and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Sites unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from Flipsnack. 
 
-We do not collect nor distribute private data such as credit card numbers at all. Some personal information is recorded for FlipSnack account purposes. All passwords are non-reversible encrypted (MD5) before being saved to the data base, to ensure that they (and your personal information) cannot be stolen from us, even in case of a hacking attack. We do not collect any passwords at all for users that are connecting using the Facebook Connect API as well as for those connecting with Twitter, Google and Yahoo APIs. 
+We do not collect nor distribute private data such as credit card numbers at all. Some personal information is recorded for Flipsnack account purposes. All passwords are non-reversible encrypted (MD5) before being saved to the data base, to ensure that they (and your personal information) cannot be stolen from us, even in case of a hacking attack. We do not collect any passwords at all for users that are connecting using the Facebook Connect API as well as for those connecting with Twitter, Google and Yahoo APIs. 
 
 ### What Information Do We Gather?
 
@@ -16,16 +16,16 @@ Cookies: A cookie is a small file that is stored on the hard drive of your compu
 
 You may be asked to provide personal information in certain fields on our website. The personal information we collect is used only for the purpose we state at the time of collection.
 
-FlipSnack does not collect personally identifiable information when you browse the website and request pages from our servers unless you voluntarily and knowingly provide such information to us. This means that we will not know your name, your email address, or any other personally identifiable information just because you browse FlipSnack unless you:
+Flipsnack does not collect personally identifiable information when you browse the website and request pages from our servers unless you voluntarily and knowingly provide such information to us. This means that we will not know your name, your email address, or any other personally identifiable information just because you browse Flipsnack unless you:
 
   * access flipsnack.com from a link in an email that we have sent to you;
   * have created a profile and you either log-in to your account or choose to be remembered via your cookie, including on your web-enabled mobile device.
 
 
 
-In these cases we will know who you are based on the information you previously supplied to us. When you request a page from flipsnack.com, our servers log the information provided in the HTTP request header including the IP number, the time of the request, the URL of your request and other information that is provided in the HTTP header. We collect the HTTP request header information in order to make FlipSnack function correctly and provide you the functionality that you expect to see. We also use this information to personalize content presented to you, better understand how visitors use FlipSnack and how we can better tune it, its contents, and functionality to meet your needs.
+In these cases we will know who you are based on the information you previously supplied to us. When you request a page from flipsnack.com, our servers log the information provided in the HTTP request header including the IP number, the time of the request, the URL of your request and other information that is provided in the HTTP header. We collect the HTTP request header information in order to make Flipsnack function correctly and provide you the functionality that you expect to see. We also use this information to personalize content presented to you, better understand how visitors use FlipSnack and how we can better tune it, its contents, and functionality to meet your needs.
 
-You can delete cookies from your hard drive at any time. You can set your Internet browser so that it will not allow cookies to be stored on your device. This may reduce functionality of FlipSnack and may mean that certain features or content will not be available to you. Further information on how to prevent cookies from being stored on your device can be found on [www.allaboutcookies.org](http://www.allaboutcookies.org/) under the 'manage cookies' section. Alternatively, you can access further information by going to the help menu within your Internet browser. To opt out of being tracked by Google Analytics visit <http://tools.google.com/dlpage/gaoptout>.
+You can delete cookies from your hard drive at any time. You can set your Internet browser so that it will not allow cookies to be stored on your device. This may reduce functionality of Flipsnack and may mean that certain features or content will not be available to you. Further information on how to prevent cookies from being stored on your device can be found on [www.allaboutcookies.org](https://www.allaboutcookies.org/) under the 'manage cookies' section. Alternatively, you can access further information by going to the help menu within your Internet browser. To opt out of being tracked by Google Analytics visit [http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 We use multiple Google products (like Google Analytics, Google+, Google Wallet) throughout our website. Therefore we inform you that Google does collect information on it's own. Here is a link to Google's Privacy Policy page: <http://www.google.com/intl/en/policies/privacy/> where you'll also find more information on how to opt out of being tracked by Google.
 
@@ -57,11 +57,11 @@ Other than agents who act on our behalf, the information you provide us will not
 
 ### How Do You Correct and Update Your Personal Information?
 
-You can change or correct your account information at any time by logging into your FlipSnack account.
+You can change or correct your account information at any time by logging into your Flipsnack account.
 
 ### What is Our Privacy Policy If You Are Under 13 Years of Age?
 
-FlipSnack is not directed to children under thirteen (13) years of age, and children under such age must not use FlipSnack or the services offered on it to submit any individually identifiable information about themselves.
+Flipsnack is not directed to children under thirteen (13) years of age, and children under such age must not use Flipsnack or the services offered on it to submit any individually identifiable information about themselves.
 
 ### What Happens When You Link to a Third-Party Web Site?
 
@@ -69,17 +69,17 @@ If you click on a link and go to another site, you will be subject to that websi
 
 ### What About Intellectual Property? Copyrights? Trademarks?
 
-The materials found on FlipSnack are protected by United States and other copyright laws, except for works of the United States Government pursuant to 1 U.S.C. Section 105. The selection, arrangement and presentation of all materials (including information in the public domain), and the overall design of FlipSnack is copyrighted © 2015, Smartketer LLC.
+The materials found on Flipsnack are protected by United States and other copyright laws, except for works of the United States Government pursuant to 1 U.S.C. Section 105. The selection, arrangement and presentation of all materials (including information in the public domain), and the overall design of Flipsnack is copyrighted © 2015, Smartketer LLC.
 
-Permission is granted to view and print materials from FlipSnack for the non-commercial purpose of viewing, reading and retaining for reference. Any other copying, distribution, retransmission or modification of information or materials from FlipSnack, whether in electronic or hard copy form, without the express prior written permission of Smartketer LLC, is strictly prohibited.
+Permission is granted to view and print materials from Flipsnack for the non-commercial purpose of viewing, reading and retaining for reference. Any other copying, distribution, retransmission or modification of information or materials from FlipSnack, whether in electronic or hard copy form, without the express prior written permission of Smartketer LLC, is strictly prohibited.
 
-The materials found on FlipSnack are protected by United States and other copyright laws, except for works of the United States Government pursuant to 1 U.S.C. Section 105. The selection, arrangement and presentation of all materials (including information in the public domain), and the overall design of FlipSnack is copyrighted © 2015, Smartketer LLC.
+The materials found on Flipsnack are protected by United States and other copyright laws, except for works of the United States Government pursuant to 1 U.S.C. Section 105. The selection, arrangement and presentation of all materials (including information in the public domain), and the overall design of Flipsnack is copyrighted © 2015, Smartketer LLC.
 
-FlipSnack.com is a trademark and service mark of Smartketer LLC. For more information, please see the Terms of Service.
+Flipsnack.com is a trademark and service mark of Smartketer LLC. For more information, please see the Terms of Service.
 
 ### What Happens When We Update Our Privacy Policy?
 
-We may on occasion update our Policy. Your acceptance of any minor changes to this Policy is indicated by your continued use of our Services. If we make any material changes to our Policy, we will post a notice about the change at a prominent location on FlipSnack. We encourage you to periodically review FlipSnack and this Policy for any changes.
+We may on occasion update our Policy. Your acceptance of any minor changes to this Policy is indicated by your continued use of our Services. If we make any material changes to our Policy, we will post a notice about the change at a prominent location on Flipsnack. We encourage you to periodically review Flipsnack and this Policy for any changes.
 
 ### What If You Have Questions?
 
