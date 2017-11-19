@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakeup-world.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527051631id_/https%3A//wakeup-world.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeup-world.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119061350id_/https%3A//wakeup-world.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wake Up World
 
