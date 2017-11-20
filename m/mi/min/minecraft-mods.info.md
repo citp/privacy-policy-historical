@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-mods.info privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095650id_/http%3A//minecraft-mods.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-mods.info privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180340id_/http%3A//minecraft-mods.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,6 +23,6 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
  **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 [http://minecraft-mods.info](http://minecraft-mods.info/ "http://minecraft-mods.info")  
-**crazyminecraft.net@gmail.com**
+**[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
 
  **Thanks for your visitation.**
