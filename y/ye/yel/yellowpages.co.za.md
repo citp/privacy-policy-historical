@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages.co.za privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521044132id_/http%3A//www.yellowpages.co.za/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.co.za privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120030406id_/http%3A//www.yellowpages.co.za/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yellow Pages South Africa
 
@@ -122,3 +122,28 @@ We and third-party vendors, including Google, use first-party cookies (such as t
 How we use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
 
 Because laws across countries and territories vary, and because Google Analytics can be used in many ways, Google is unable to provide the exact language we need to include in our privacy policy. We understand the unique aspects and special considerations of our business, and our privacy policy should account for this information that only we can provide.
+
+#### Supply Your Details To Receive Your Quotation
+
+####   
+Cancel Listing
+
+## Confirm Products To Cancel
+
+**ProductType** | ****|  **UdacAdvertCode** | **Location** | **Description /  
+Classification** | **Edition/Book** | ****| ****| **MonthlyPrice**  
+---|---|---|---|---|---|---|---|---  
+  
+  
+
+
+### Give a reason for Cancelation
+
+  
+
+
+### Add a comment for Cancelation
+
+## Upload Supporting Documents
+
+Submit Cancelation
