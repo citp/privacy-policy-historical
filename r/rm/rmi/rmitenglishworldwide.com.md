@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmitenglishworldwide.com privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228132400id_/https%3A//rmitenglishworldwide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmitenglishworldwide.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120122202id_/https%3A//rmitenglishworldwide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
