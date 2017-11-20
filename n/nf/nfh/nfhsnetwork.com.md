@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfhsnetwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020810id_/http%3A//www.nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfhsnetwork.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120045029id_/http%3A//www.nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Live high school sports video and live stats on the NFHS Network | NFHSNetwork.com
+# Privacy Policy | Live high school sports video on the NFHS Network | NFHSNetwork.com
 
 The NFHS Network is committed to protecting your privacy. This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information. This policy may change from time to time, so please refer back to it periodically. By accessing our website or otherwise using our service, you consent to our information practices.
 
