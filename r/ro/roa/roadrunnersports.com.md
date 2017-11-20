@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080522id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120144957id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
 
 # Road Runner Sports Privacy & Security Policy
 
 | 
 
-We appreciate the trust you place in Road Runner Sports, and are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on October 18, 2016 describes the information we collect and how we use it.
+We appreciate the trust you place in Road Runner Sports, and are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on September 7, 2017 describes the information we collect and how we use it.
 
 We will modify this Policy if our privacy practices materially change in the future. We will notify you of such changes only by posting the new policy on our Site and indicating the date it was last updated. We encourage you to review the Policy each time you visit our Site to see if it has been updated since your last visit to make sure you understand how personal information you provide will be used.
 
@@ -53,7 +53,7 @@ We use third-party service providers to serve ads on our behalf across the Inter
 We currently contract with several online partners to help manage and optimize our Internet business and communications. We use these services to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes product codes and prices for merchandise that visitors purchase, the pages visited, etc... By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking [here](http://www.coremetrics.com/company/privacy.php).
 
 **Cookies**  
-A cookie is a small piece of information stored by your browser on your computer. Cookies provide a way for you to browse the Road Runner Sports online store and add items to your shopping cart. They make shopping easier and more convenient for you. Cookies do not contain any personal information and they do not give Road Runner Sports access to your computer. If you decide to not utilize cookies, you should be able to update your browser to block the acceptance of cookies. We use cookies for our customers convenience and to reference the user's account for future use.
+A cookie is a small piece of information stored by your browser on your computer. Cookies provide a way for you to browse the Road Runner Sports online store and add items to your shopping cart. They make shopping easier and more convenient for you. Cookies do not contain any personal information and they do not give Road Runner Sports access to your computer. If you decide to not utilize cookies, you should be able to update your browser to block the acceptance of cookies. We use cookies for our customers convenience and to reference the user's account for future use. To opt out of our cookies used for online display advertising [click here](http://dtmc.roadrunnersports.com/adinfo/choice/prod/?type=fpc&cid=61869&cname=Road%20Runner%20Sports&cmagic=559ccf&clogo=61869.png&loc=us&lang=en-us).
 
 **How We Use the Information We Collect**  
 Information collected may be used to notify consumers about order updates, updates to our Web site or used by us for marketing purposes. When you provide us your email address, we may send you emails necessary to process your order, respond to a request or inform you of new products, services and offers. For example, after you place an order at roadrunnersports.com, you will receive an email confirming your order, and, in most cases, an email with shipment information. We may also contact you with information regarding backordered items, discontinued products, Run America Club membership/promotion expiration information and customer satisfaction surveys.
@@ -107,9 +107,9 @@ Road Runner does not collect any information from children. Road Runner does not
 
 Road Runner advises parents via a disclosure statement on its webpage that parents may post images, including images of their children, via Instagram, Facebook, Twitter and other social media sites with the #RRSuperhero hashtag, which may then be re-posted to the Road Runner site. Posting of images by children under 13 years is strictly prohibited by Road Runner. Road Runner will only re-post images from social media sites that prohibit posting of images by children under 13 years.
 
-Any parent can review or have deleted the child's images and refuse to permit its further collection or use. Please click the following link listening@roadrunnersports.com, or call 800-743-3206 to request a deletion of your child's image and/or to refuse to permit any further collection or use.
+Any parent can review or have deleted the child's images and refuse to permit its further collection or use. Please click the following link listening@roadrunnersports.com, or call 800-743-3206 to request a deletion of your child's image and/or to refuse to permit any further collection or use. 
 
- **Policy Changes**  
+**Policy Changes**  
 From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our Web site. We encourage you to review our privacy policy periodically.
 
 If you feel that this site is not following its stated information policy, you may contact us by sending us an e-mail (listening@roadrunnersports.com), calling Road Runner Sports Customer Service directly at (800) 743-3206 or writing to us at the below address:
@@ -117,3 +117,7 @@ If you feel that this site is not following its stated information policy, you m
 Road Runner Sports  
 5549 Copley Drive  
 San Diego, CA 92111
+
+**Mobile Texting Policy**  
+By texting VIP to 47784, you consent to receive 1 automated marketing message per request to the mobile number provided from or on behalf of Road Runner Sports.   
+Consent is not a condition of purchase. Message and data rates may apply. The wireless carriers are not liable for delayed or undelivered messages. For more information, reply "HELP" to 47784 or contact Road Runner Customer Service Support at 1-800-636-3560 
