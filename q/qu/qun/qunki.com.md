@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qunki.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326075540id_/http%3A//qunki.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qunki.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120074210id_/https%3A//qunki.com/privacy-policy) for the most accurate reproduction.*
 
-# Qunki.com - Everything high rated !!
+# Qunki - Best content right into your feed!
 
 Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
