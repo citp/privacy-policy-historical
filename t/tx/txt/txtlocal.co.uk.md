@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615001829id_/https%3A//www.textlocal.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120194642id_/https%3A//www.textlocal.com/legal/privacy) for the most accurate reproduction.*
 
 # Our User & Website Privacy Policy & Practices - Textlocal
 
@@ -8,7 +8,7 @@ TxtLocal Limited is committed to protecting and respecting your privacy.
 
 This Privacy Policy is incorporated into Our Terms of Service which can be found on Our website, www.textlocal.comand sets out the basis on which any personal data We collect from You, or that You provide to Us (in relation to You only and not Your customers or clients), will be processed by Us. Please read the following carefully to understand Our views and practices regarding Your personal data and how We will treat it. By visiting [www.textlocal.com](https://www.textlocal.com/) You are accepting and consenting to the practices described in this Privacy Policy.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is TxtLocal Limited (company no. 5578161), having its registered office at IMImobile, Tempus Court, Bellfield Road, High Wycombe, Buckinghamshire, HP13 5HA which trades as **Textlocal**.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is TxtLocal Limited (company no. 5578161), having its registered office at IMImobile, 5 St. John’s Lane, Farringdon, London, England, EC1M 4BH which trades as **Textlocal**.
 
 ### INFORMATION WE MAY COLLECT FROM YOU
 
