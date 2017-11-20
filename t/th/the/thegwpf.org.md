@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegwpf.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701091428id_/http%3A//www.thegwpf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegwpf.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120011242id_/http%3A//www.thegwpf.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for www.thegwpf.org | The Global Warming Policy Foundation (GWPF)
+# Privacy Policy | The Global Warming Policy Foundation (GWPF)
 
 We take the privacy of all visitors to this website very seriously and therefore set out in this privacy policy our position regarding certain privacy matters.
 
@@ -40,7 +40,10 @@ You mind find links to third party websites on our website. These websites shoul
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [info@thegwpf.org](mailto:info@thegwpf.org). If you prefer to write to us then our contact address is:
 
-The Global Warming Policy Foundation,  
-10 Upper Bank Street  
-London E14 5NP  
+The Global Warming Policy Foundation
+
+55 Tufton Street
+
+London SW1P 3QL
+
 United Kingdom
