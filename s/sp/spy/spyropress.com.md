@@ -1,45 +1,119 @@
-> *The following text is extracted and transformed from the spyropress.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223174622id_/http%3A//spyropress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyropress.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120032823id_/http%3A//spyropress.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Spyropress
+# SpyroPress’s Privacy Policy - Best WordPress Theme 2017
 
-At Spyropress we have a few fundamental principles:
+Skip to content
 
-  * We don’t ask you for personal information unless we truly need it.
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+[](http://spyropress.com/)
+
+[Home](http://spyropress.com/ "Go to Best WordPress Theme 2017.")SpyroPress’s Privacy Policy
+
+## Welcome to Spyropress’s Privacy Policy
+
+  1. Hi, we’re SpyroPress( RedExp ) and welcome to our privacy policy. This policy sets out how we handle personal information and applies across all of  SpyroPress’s businesses, including our themes, plugins and the support forum.
+  2. When we say ‘we’, ‘us’ or ‘SpyroPress’ ( RedExp ) it’s because that’s who we are and we own and run the Sites and the Plugins, Themes we made. If we say ‘policy’ we’re talking about this privacy policy. If we say ‘user terms’ we’re talking about the rules for using each of the Sites. Take the time to read this policy because it forms a part of the user terms for each of our Sites. By using any of our Sites, you agree to this policy. If you do not agree to this policy we won’t take it personally, but please do not use our Sites.
 
 
 
-Below is our privacy policy which incorporates these goals:
+### What type of personal information do we collect?
 
-#### Website Visitors
+  3. We collect certain personal information about visitors and users of our Sites. The most common types of information we collect are things like: usernames, member names, email addresses, other contact details, support queries, forum comments and web analytics data from our sites, our products.
 
-Like most website operators, Spyropress collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Spyropress’s purpose in collecting non-personally identifying information is to better understand how Spyropress’s visitors use its website. From time to time, Spyropress may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Spyropress also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our blog. Spyropress only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-#### Gathering of Personally-Identifying Information
+### How we collect personal information
 
-Certain visitors to Spyropress’s websites choose to interact with Spyropress in ways that require Spyropress to gather personally-identifying information. The amount and type of information that Spyropress gathers depends on the nature of the interaction. For example, we ask visitors who purchase a product at [mantrathemes.com](https://mantrathemes.com/) to provide their name, a username, and an email address. Spyropress collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitors interaction with Spyropress. Spyropress does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+  4. We may collect personal information directly when you provide it to us, automatically as you navigate through the our sites, products or through other people when you use services associated with us.
+  5. When you provide personal information to us via the Sites you’re consenting to us collecting and using that information in line with this policy and the user terms of each of the Sites. You are likely to provide personal information when you complete membership registration and buy or provide items or services on our Sites, subscribe to a newsletter, email list, submit feedback, enter a contest, fill out a survey, or send us a communication.
+  6. If you choose not to provide personal information, we may not be able to provide you with our services and you may not be able to carry out transactions or access the full range of features available through our Sites.
 
-#### Aggregated Statistics
 
-Spyropress may collect statistics about the behavior of visitors to its websites. Spyropress may display this information publicly or provide it to others. However, Spyropress does not disclose personally-identifying information other than as described below.
 
-#### Protection of Certain Personally-Identifying Information
+### Personal information we collect about you from others
 
-Spyropress discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Spyropress’s behalf or to provide services available at Spyropress’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Spyropress’s websites, you consent to the transfer of such information to them. Spyropress will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Spyropress discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Spyropress believes in good faith that disclosure is reasonably necessary to protect the property or rights of Spyropress, third parties or the public at large. If you are a registered user of Spyropress website and have supplied your email address, Spyropress may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Spyropress and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Spyropress takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+  7. Although we generally collect personal information directly from you, we may on occasion also collect information about you from other people (such as the payment provider account details required to process a transaction) and by using tracking technologies such as cookies, web beacons and other web analytics software or services.
 
-#### Cookies
 
-A cookie is a string of information that a website stores on a visitors computer, and that the visitors browser provides to the website each time the visitor returns. Spyropress uses cookies to help Spyropress identify and track visitors, their usage of Spyropress website, and their website access preferences. Spyropress visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Spyropress’s websites, with the drawback that certain features of Spyropress’s websites may not function properly without the aid of cookies.
 
-#### Business Transfers
+### How do we use personal information?
 
-If Spyropress, or substantially all of its assets were acquired, or in the unlikely event that Spyropress goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Spyropress may continue to use your personal information as set forth in this policy.
+  8. We may use your personal information in order for us to:
+    1. operate the Sites and provide you with services described on the Sites, like to verify your identity when you sign in to any of our Sites, to facilitate and process transactions that take place on the Sites, to respond to support tickets and to help facilitate the resolution of any disputes
+    2. Customise our services and websites, like advertising that may appear on the Sites, in order to provide a more personalised experience
+    3. update you with operational news and information about our Sites and services like to notify you about changes to our Sites, website disruptions or security updates
+    4. provide you with information that you request from us or, where we have your consent to do so, provide you with marketing information about products and services which we feel may interest you
+    5. carry out technical analysis to determine how to improve the Sites and services we provide
+    6. monitor activity on the Sites, like to identify potential fraudulent activity and to ensure compliance with the user terms that apply to the Sites
+    7. manage our relationship with you, like by responding to your comments or queries submitted to us on the Sites or asking for your feedback or whether you want to participate in a survey
+    8. manage our legal and operational affairs
+    9. train SpyroPress staff about how to best serve our community
+    10. provide general administrative and performance functions and activities.
 
-#### Privacy Policy Changes
 
-Although most changes are likely to be minor, Spyropress may change its Privacy Policy from time to time, and in Spyropress’s sole discretion. Spyropress encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-This Privacy Policy was crafted from [Automattic’s version](http://automattic.com/privacy/), which is available under a Creative Commons Sharealike license.
+### When may we disclose your personal information?
+
+  9. We may disclose personal information to people like:
+    1. companies that are in the SpyroPress group of companies
+    2. subcontractors and service providers who assist us in connection with the ways we may use personal information (as set out above)
+    3. our professional advisers (lawyers, accountants, financial advisers etc)
+    4. regulators and government authorities in connection with our compliance procedures and obligations
+    5. a purchaser or prospective purchaser of all or part of our assets or our business, and their professional advisers, in connection with the purchase
+    6. other people where we are authorised or required by law to do so.
+
+
+
+### How do we store your personal information?
+
+  11. We store personal information on secure servers that are managed by us and our service providers, and occasionally hard copy files that are kept in a secure location. Personal information that we store is subject to security and access controls, including username and password authentication and data encryption where appropriate.
+
+
+
+### Choices regarding control of your personal information
+
+  13. Where we have your consent to do so (e.g if you have subscribed to one of our e-mail lists or have otherwise indicated that you are interested in receiving offers or information from us), we may send you marketing communications about products and services that we feel may be of interest to you. You can ‘opt-out’ of such communications if you would prefer not to receive them in the future.
+  14. If your e-mail address has changed and you would like to continue to receive our e-mails, you will need to access your account and update your e-mail address information in your account and sign-up again for those e-mails that you want to receive.
+  15. If we send e-mails with commercial content we will generally include an “unsubscribe” facility that you can use to opt-out of further communications – to opt-out, just follow the instructions in the e-mail. We might not include an opt-out facility in important operational and service-based e-mails concerning things like your purchases, the user terms, important updates and need-to-know messages. By using our Sites you agree that we do not need to include opt-out facilities in those messages.
+  16. You also have choices about cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject cookies some parts of our Sites may not work properly in your case.
+
+
+
+### Cookies (not the type you eat!) and web analytics
+
+  17. For more information about how we use cookies, web beacons and similar technologies see our cookie policy and for more general information on cookies, see http://www.allaboutcookies.org.
+  18. Generally speaking, when you visit our Sites, there’s certain information that’s recorded which is generally anonymous information and may not reveal your true super-hero identity. If you’re logged into your account some of this information could be associated with your account. We’re talking about the following kinds of details:
+    1. your IP or proxy server IP
+    2. basic domain information
+    3. your Internet service provider is sometimes captured depending on the configuration of your ISP connection
+    4. the date and time of your visit to the website
+    5. the length of your session
+    6. the pages which you have accessed
+    7. the number of times you access our site within any month;
+    8. the size of file you look at
+    9. the website which referred you to our Sites
+    10. the operating system which your computer uses.
+  19. Occasionally, we may use third party advertising companies to serve ads based on prior visits to some Sites. These advertising companies use cookies to anonymously collect data. No personally identifiable information is collected by these cookies. The anonymous data they collect is kept separate from the personal information about you as a user.
+
+
+
+### Information about children
+
+  20. Our Sites are not suitable for children under the age of 13 years, so if you are under 13 we ask that you do not use our Sites or give us your personal information (if you are a young tech wiz, please direct your nearest responsible adult to use the Sites for you!). If you are from 13 to 18 years, you can browse the Sites but will need the supervision of a parent or guardian to become a registered user. It is the responsibility of parents or guardians to monitor their children’s use of our Sites.
+
+
+
+### Information you make public or give to others
+
+  21. If you make your personal information available to other people, we can’t control or accept responsibility for the way they will use or manage that information. There are lots of ways that you may find yourself providing information to other people, like when you post a public message on a forum thread, share information via social media, or make contact with another user via our Sites. Before making your information publicly available or giving your information to anyone else, think carefully. If giving information to another user via our Sites, ask them how they will handle your information. If you’re sharing information via another website, check the privacy policy for that site to understand its information management practices as this privacy policy will not apply.
+
+
+
+### When we need to update this policy
+
+  22. We may need to change this policy from time to time in order to make sure it stays up to date with the latest legal requirements and any changes to our privacy management practices. When we do amend the policy, the changes will be effective straightaway. We’ll usually publish information about changes to be made to this policy on our Sites – but please be aware that it is your responsibility to check in and make sure you keep up to date with any changes to this policy.
+
+
+
+### How can you contact us?
+
+Please contact us via email: [Support@cmssuperheroes.com](mailto:support@cmssuperheroes.com)
