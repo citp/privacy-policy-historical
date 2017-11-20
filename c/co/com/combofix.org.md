@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the combofix.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113038id_/http%3A//combofix.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the combofix.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120071021id_/http%3A//combofix.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | COMBOFIX
+# Privacy Policy - COMBOFIX
 
 If you need more Privacy Policy information or have any problems about our privacy policy, Please contact us at the? homepage’s? Contact Us Link ,at http://www.combofix.org, the visitors privacy is very important to us. This privacy policy outlines the types of personal information that is collected and received? by http://www.combofix.org and how the information is used.
 
