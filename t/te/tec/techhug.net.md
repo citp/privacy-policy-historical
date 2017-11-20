@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techhug.net privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616151403id_/http%3A//www.techhug.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techhug.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120143201id_/http%3A//www.techhug.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechHug
 
