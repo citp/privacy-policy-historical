@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awmi.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131909id_/http%3A//www.awmi.net/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awmi.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120135441id_/http%3A//www.awmi.net/more/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Andrew Wommack Ministries
 
@@ -100,5 +100,3 @@ If you have questions about this Privacy Policy, please contact AWM or Charis vi
   * postal mail to: Privacy Administrator, Andrew Wommack Ministries, PO Box , Colorado Springs, CO
 
 
-
-© 2017 Andrew Wommack Ministries. All rights reserved. 
