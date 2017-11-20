@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collectorcorps.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318012219id_/https%3A//www.collectorcorps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorcorps.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120103639id_/https%3A//www.collectorcorps.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY – Marvel Collector Corps
+# PRIVACY POLICY – Collector Corps by Funko
 
 Funko LLC ( **“Funko”** , **“we”** , or **“us”** ) is committed to providing a fun, entertaining, and safe experience for our customers. This Privacy Policy (this **“Policy”** ) applies to and governs any and all Personal Information (as defined below) you provide to us or we collect about you while ( **“you”** , **“your”** , or **“user”** ) visiting, using our Funko.com and the various product specific websites managed by Funko listed at [link], including, www.collectorscorps.com, [www.vinylsugar.com](http://www.vinylsugar.com/ "www.vinylsugar.com"), [www.funko-shop.com](http://www.funko-shop.com/ "www.funko-shop.com"), [www.smugglersbounty.com](http://www.smugglersbounty.com/ "www.smugglersbounty.com"), and [www.legionofcollectors.com](http://www.legionofcollectors.com/ "www.legionofcollectors.com") (the **“Sites”** ). This Policy applies whether you access the Sites through a personal computer, mobile device, or any other means. 
 
