@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infofree.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119142723id_/http%3A//www.infofree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infofree.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120030228id_/http%3A//www.infofree.com/privacy) for the most accurate reproduction.*
 
 # Infofree.com's Privacy Policy
 
@@ -8,7 +8,7 @@ Infofree.com and its affiliated companies (collectively, “infofree”, “we�
 
 ### **Data provided by customer to infofree.com:**
 
-Some of our pages on this website include registration forms that require users to give us contact information (like your name) and unique identifiers (such as your email address)(collectively, “Contact Information”). Your Contact Information is not shared with any other company or organization, except as described below. We may use your Contact Information to send you information related to infofreeʼs products and services. Your Contact Information may also be used to contact you when necessary for administrative purposes related to your account. We use your email as a unique identifier in our record system, to verify communications from you, and to send you newsletters and promotional offerings of ours.
+Some of our pages on this website include registration forms that require users to give us contact information (like your name) and unique identifiers (such as your email address)(collectively, “Contact Information”). Your Contact Information is not shared with any other company or organization, except as described below. We may use your Contact Information to send you information related to infofree?s products and services. Your Contact Information may also be used to contact you when necessary for administrative purposes related to your account. We use your email as a unique identifier in our record system, to verify communications from you, and to send you newsletters and promotional offerings of ours.
 
 Additionally, we ask for registration information when accessing our online order system. Infofree.com utilizes both internal resources and external vendor partners in order to offer our services. You will never be contacted by any of our vendor partners using the information you have provided infofree.com during the registration or order process, nor will they ever share your information with any other 3rd party.
 
