@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caltrain.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123800id_/http%3A//www.caltrain.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caltrain.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120065116id_/http%3A//www.caltrain.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,9 +21,6 @@ If you have any additional questions or concerns about our privacy policy, pleas
 
 Amended Oct. 21, 2004 + June 30, 2010
 
-You can now receive Caltrain notifications via e-mail!
-
-Find out more [HERE  
-](https://web.archive.org/riderinfo/subscribe.html)
+You can now receive Caltrain news via e-mail!
 
 [](http://www.caltrain.com/SocialMedia)
