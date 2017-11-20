@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexencounters.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075022id_/http%3A//www.sexencounters.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexencounters.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120045345id_/http%3A//www.sexencounters.com/site/privacy) for the most accurate reproduction.*
 
 # SexEncounters - Spice up your life with a discreet encounter!
 
