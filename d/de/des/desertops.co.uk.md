@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desertops.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143932id_/http%3A//www.desertops.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertops.co.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120144613id_/https%3A//www.desertops.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Desert Operations
 
