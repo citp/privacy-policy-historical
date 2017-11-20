@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenewsus.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094440id_/http%3A//www.livenewsus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenewsus.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120070903id_/http%3A//www.livenewsus.com/privacy) for the most accurate reproduction.*
 
 # Privacy - LiveNewsUS
 
@@ -38,10 +38,10 @@ The ABC will review this policy regularly, and may update it from time to time. 
 
 The ABC collects personal information about you:
 
-  * **because you have provided it to us** , for instance if you contact us to make comments, complaints or to ask us questions, or you have interacted with one of our digital services (including online and mobile services), for instance by participating in forums, polls or competitions;
-  * **because we need it to provide a product or service that you have requested** , for instance, if you subscribe to an email list or loyalty program, enter a competition, or purchase products from the ABC;
-  * **because we would like to improve our services** , for instance through the collection and analysis of statistical and research data and use of cookies (see below);
-  * **because you work for us** , or apply to us for a job, a cadetship or work experience;
+  *  **because you have provided it to us** , for instance if you contact us to make comments, complaints or to ask us questions, or you have interacted with one of our digital services (including online and mobile services), for instance by participating in forums, polls or competitions;
+  *  **because we need it to provide a product or service that you have requested** , for instance, if you subscribe to an email list or loyalty program, enter a competition, or purchase products from the ABC;
+  *  **because we would like to improve our services** , for instance through the collection and analysis of statistical and research data and use of cookies (see below);
+  *  **because you work for us** , or apply to us for a job, a cadetship or work experience;
   * for purposes directly related to any of the above.
 
 
@@ -54,9 +54,9 @@ Broadly, there are two types of information or data we collect:
 
 For example, you may provide information about yourself when you are filling in a form or when you sign up to a service. This type of information may include your name, email address and age. The information that you give us may be:
 
-  * **Personal information that is required.** In some instances, you must provide personal information if you wish to use a particular service or participate in an activity. For example, your age may be required if we need to confirm that you are old enough to use a particular service.
-  * **Personal information that is optional.** You may choose to provide some personal information which is not required but is directly related to the ABC’s functions or activities. Usually this type of information will enable the ABC to improve or broaden the services we can offer you. If you choose not to provide this optional information, we would still be able to offer you the service, but perhaps with fewer options than if you had provided the optional information. For example, if you tell us your interests in a particular area, we may be able to provide you with specific ABC content that matches your interests. If you provide us with unsolicited information that we do not require or which is not directly related to the ABC’s functions or activities, the ABC may be required to destroy or de-identify that information, provided it is lawful and reasonable to do so.
-  * **Permissions.** Sometimes you will be asked to confirm that you agree to a particular activity. For example, you may need to expressly agree that you would like to receive a newsletter or to confirm that you agree to the terms and conditions of a competition.
+  *  **Personal information that is required.** In some instances, you must provide personal information if you wish to use a particular service or participate in an activity. For example, your age may be required if we need to confirm that you are old enough to use a particular service.
+  *  **Personal information that is optional.** You may choose to provide some personal information which is not required but is directly related to the ABC’s functions or activities. Usually this type of information will enable the ABC to improve or broaden the services we can offer you. If you choose not to provide this optional information, we would still be able to offer you the service, but perhaps with fewer options than if you had provided the optional information. For example, if you tell us your interests in a particular area, we may be able to provide you with specific ABC content that matches your interests. If you provide us with unsolicited information that we do not require or which is not directly related to the ABC’s functions or activities, the ABC may be required to destroy or de-identify that information, provided it is lawful and reasonable to do so.
+  *  **Permissions.** Sometimes you will be asked to confirm that you agree to a particular activity. For example, you may need to expressly agree that you would like to receive a newsletter or to confirm that you agree to the terms and conditions of a competition.
 
 
 
@@ -97,7 +97,7 @@ The ABC may disclose your personal information to third parties for the followin
 
 The ABC is assisted by a variety of third parties to deliver the services offered by the ABC. These third parties are too numerous to list, and they change from time to time. Some examples of the types of third parties include:
 
-  * technology service providers including: 
+  * technology service providers including:
     * Internet service providers such as Akamai
     * App service providers such as Wildfire
     * cloud service providers such as Engine Yard and Amazon Web Services
@@ -139,4 +139,4 @@ You have the right to request access to personal information that is held by the
 
 You also have the right to request the correction of any of your personal information that the ABC holds. The ABC will take reasonable steps to make appropriate corrections to personal information so that it is accurate, complete and up-to-date. To seek access to, or correction of, your personal information please contact the ABC as follows:
 
-**By email:**
+ **By email:**
