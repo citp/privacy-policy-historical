@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regator.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522235235id_/http%3A//regator.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regator.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120165953id_/http%3A//regator.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Regator - Curated Blog Search and Discovery
 
