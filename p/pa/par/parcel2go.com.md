@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318051203id_/https%3A//www.parcel2go.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120092942id_/https%3A//www.parcel2go.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Parcel2Go
 
-  1. [Home](https://web.archive.org/)
-  2. Privacy Policy | Parcel2Go
-
-
-
-At Parcel2go.com we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by [website privacy policy](http://www.legalcentre.co.uk/ecommerce/privacy-policy-template.php) provider LegalCentre.co.uk. 
+At Parcel2go.com we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. . 
 
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
 
