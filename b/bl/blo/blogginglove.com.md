@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogginglove.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062107id_/http%3A//www.blogginglove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogginglove.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120073211id_/https%3A//www.blogginglove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
  **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. http://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We use Google AdSense Advertising on our website.
 
