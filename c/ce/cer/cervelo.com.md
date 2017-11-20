@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cervelo.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302030931id_/https%3A//www.cervelo.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cervelo.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120060127id_/https%3A//www.cervelo.com/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - cervelo.com
 
