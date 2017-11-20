@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplicity.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611162836id_/http%3A//www.simplicity.com/simp-privacy-policy/simp-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplicity.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120170342id_/http%3A//www.simplicity.com/simp-privacy-policy/simp-privacy-policy.html) for the most accurate reproduction.*
 
 # Simplicity Privacy Policy
 
