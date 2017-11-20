@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techintor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212805id_/https%3A//www.techintor.com/at-techintor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techintor.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120060211id_/https%3A//www.techintor.com/at-techintor) for the most accurate reproduction.*
 
-# Privacy Policy | 3G/4G Tricks May 2017, Free Recharge, Internet and Calling Tricks
+# Privacy Policy
 
 At **techintor.blogspot.com**  the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Techintor and how it is used.  
 **Log Files**  
