@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superheroyou.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060254id_/http%3A//superheroyou.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superheroyou.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120015307id_/http%3A//superheroyou.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - SuperheroYou
 
