@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heart.co.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622104520id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heart.co.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120040616id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Global Radio Privacy Policy - - Heart Radio
+# Global Radio Privacy Policy - Heart
 
 Any information you provide about yourself (“personal information”) to Global Media & Entertainment Ltd’ (“Global Radio”) will only be used in accordance with our Privacy Policy, detailed below. 
 
@@ -13,7 +13,7 @@ This Privacy Policy outlines the kinds of personal information we collect, how w
 
 We are part of “Global Media & Entertainment Ltd" and we are obsessive about respecting the privacy of our listeners and customers.
 
-This policy explains how we will collect information about you through interaction with us over the [radio](https://web.archive.org/), on the TV, our charity activities or through any sales channel and what we will use it for. 
+This policy explains how we will collect information about you through interaction with us over the radio, on the TV, our charity activities or through any sales channel and what we will use it for. 
 
 Any personal information you provide about yourself to us, may be shared across our "Global Media & Entertainment Ltd’
 
@@ -29,7 +29,7 @@ Please note, this Privacy Policy does not apply to websites or text services ope
 
 When we first collect your personal information, we will tell you that we want to keep in contact with you to keep you informed about things that we believe you will be interested in.
 
-You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com) .
+You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
 
 **2 Collection of Information**
 
@@ -48,7 +48,7 @@ If you use any of our apps, we will collect the following information:
 (ii)          your device - if you access our services from a device such as a mobile telephone running an application, we will uniquely identify each instance of the application, but we will not be able to personally identify you from this information.
 
 **Cookies  
-** We also collect certain information through the use of “cookies” and other similar automated means. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. For more information about cookies and how they are used, please read our cookie policy[JG1]  .
+**We also collect certain information through the use of “cookies” and other similar automated means. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. For more information about cookies and how they are used, please read our cookie policy[JG1] .
 
   
 **3\. Use of Information**
@@ -106,7 +106,7 @@ We may transfer the personal information we collect about you to countries other
 If you are registered for an account with one of our websites you may update your personal information at any time via the "My Details" page for web users, where registration is available on the site. You can access the "My Details Page" from most pages on the website if you are logged-on. If you are a text message user of one of our services then, where appropriate, the text messages you receive from us will alert you to options for un-subscription and/or change of details – please follow these messages.
 
 You have certain rights to the personal information we process about you.   
-You may request access to the personal information we hold about you. If you would like to submit a request please contact us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com) .
+You may request access to the personal information we hold about you. If you would like to submit a request please contact us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
 
   
 **8\. Changes to our Privacy Policy**
