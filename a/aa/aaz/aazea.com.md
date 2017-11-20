@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the aazea.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622011810id_/http%3A//www.aazea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aazea.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120063048id_/https%3A//www.aazea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We, at AAzea.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.AAzea.com and how it is used.
 
-**Log Files**
+ **Log Files**
 
 The AAzea.com utilizes log files just like other websites. The log files contain information including Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), time and date, referring or exit pages and how many clicks were done to analyze trends, site administration, user movement tracking within the site and collect demographic information. The IP addresses and other information stored on log files are not related to any data that is personally identifiable.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 www.AAzea.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**Amazon Associates Program**
+ **Amazon Associates Program**
 
 AAzea.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-**Cookies & 3rd Party Advertisements**
+ **Cookies & 3rd Party Advertisements**
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
