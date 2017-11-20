@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieee802.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070315id_/http%3A//www.ieee.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieee802.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120152247id_/http%3A//www.ieee.org/privacy) for the most accurate reproduction.*
 
 # IEEE - Privacy & Opting Out of Cookies
 
