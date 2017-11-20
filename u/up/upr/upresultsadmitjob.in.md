@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upresultsadmitjob.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024342id_/http%3A//www.upresultsadmitjob.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upresultsadmitjob.in privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120192438id_/http%3A//www.upresultsadmitjob.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# UP Results Admit card Vacancy 2017 - UPResultsAdmitJob.in: Privacy Policy
+# UPResultsAdmitJob.in: Privacy Policy
 
 This Privacy Policy governs the manner in which upresultsadmitjob.in collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.upresultsadmitjob.in website ("Site"). This privacy policy applies to the Site and all products and services offered by upresultsadmitjob.in.
 
