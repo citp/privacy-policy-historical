@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalol.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015339id_/http%3A//www.metalol.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalol.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173540id_/http%3A//www.metalol.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MetaLoL
 
@@ -38,7 +38,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on January 15th, 2015.
 
-Images and graphics are property of their respective owners. MetaLoL © 2015. All rights reserved. League of Legends and Riot Games Inc. are registered trademarks of Riot Games, Inc. 
+Images and graphics are property of their respective owners. MetaLoL © 2013-2017. All rights reserved. League of Legends and Riot Games Inc. are registered trademarks of Riot Games, Inc. 
 
   
 
