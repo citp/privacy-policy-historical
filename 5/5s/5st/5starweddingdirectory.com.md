@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 5starweddingdirectory.com privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413165455id_/http%3A//www.5starweddingdirectory.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5starweddingdirectory.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120113145id_/https%3A//5starweddingdirectory.com/privacy) for the most accurate reproduction.*
 
-# WEBSITE PRIVACY POLICY
+# Privacy Policy - Wedding Directory | 5starweddingdirectory.com
+
+## Privacy Policy
 
 The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to 5 Star Wedding Directory to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
