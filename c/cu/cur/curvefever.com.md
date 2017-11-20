@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curvefever.com privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902173729id_/http%3A//curvefever.com/content/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curvefever.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120031803id_/http%3A//forum.curvefever.com/node/594) for the most accurate reproduction.*
 
 # Privacy Policy | Curve Fever
 
