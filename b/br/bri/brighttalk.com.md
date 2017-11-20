@@ -1,97 +1,175 @@
-> *The following text is extracted and transformed from the brighttalk.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410023906id_/https%3A//www.brighttalk.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighttalk.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120071609id_/https%3A//corp.brighttalk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | BrightTALK
+# Privacy Policy - BrightTALK Business
 
-_(date of last revision: October 20 2015)_
+### BrightTALK Privacy Policy
 
-#### 1\. INTRODUCTION
+_(date of last revision: October 12 th 2017)_
 
-BrightTALK™ recognizes that privacy is important when using the Web for communications. This policy explains how BrightTALK collects, stores, uses and shares personal information and information about your visits to the network, including the pages you view, the links you click and other actions taken in connection with any Web site with the brighttalk.com domain (the "Site") which is owned by BrightTALK. For the purposes of this Privacy Policy, BrightTALK means collectively BrightTALK Inc and BrightTALK Ltd and from time to time any subsidiary corporations, successors and assigns. Personal information is information from which you can be personally identified, such as your name, address, email address, or telephone number, and demographic or other information about you when such information is tied to personally identifiable information. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. It is important that you read and understand this Privacy Policy ("Policy"). You must accept all the terms and conditions of this Policy and the User Agreement before accessing any service provided on, through or by the Site ("Services"). If you do not accept the terms and conditions of this Policy, then you cannot access the Services.
+BrightTALK recognizes that privacy is important when using the Web for communications. This policy explains how BrightTALK collects, stores, uses and shares Personal Data.
 
-BrightTALK may update this Policy at any time. In the event there are material changes in the way we treat your personal information, we will notify you by email. Unless stated otherwise, our current Policy applies to all personal information that we have about you and your account. This policy in no way restricts or limits our collection and use of aggregate information.
+This Policy is issued by BrightTALK Inc. (“ **BrightTALK** ”) and is addressed to individuals outside our organisation with whom we interact, including visitors to our website (our “ **Site** ”) and other users of our services (together, “ **you** ”). Defined terms used in this Policy are explained in Section (15) below.
 
-Minors under the age of eighteen years old are not eligible to use the Site and we therefore ask that minors do not submit any personal information to us or use any of the services provided on, through or by the Site (the "Services").
+For the purposes of this Policy, BrightTALK is the Controller. Contact details are provided in Section (14) below.
 
-If you have questions or concerns regarding this Policy, please contact BrightTALK at the address below.
+This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of Personal Data, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make in accordance with the terms of this Policy.
 
-#### 2\. PRIVACY RIGHTS FOR CALIFORNIA RESIDENTS
+3\. Processing your Personal Data
 
-Under California law, customers who are California residents are entitled to annually request and obtain information about the personal information we shared, if any, with other businesses for their own direct marketing. If applicable, the information would include the categories of personal information and the names and addresses of those businesses with which we shared personal information for the immediately prior calendar year. To make such a request, please send a written request to The Secretary, BrightTALK Inc., 501 Folsom Street, San Francisco, CA 94105, USA. Please note that not all information sharing is covered under the California law, and only information on covered sharing will be included in our response.
+**Collection of Personal Data:  **We may collect Personal Data about you, such as your name, address and contact details. Examples of sources from which we may collect Personal Data include the following:
 
-#### 3\. DATA PROTECTION FOR EUROPEAN RESIDENTS
+  * We may obtain your Personal Data when you provide it to us (e.g., where you contact us via email or telephone, or by any other means).
+  * We may collect your Personal Data in the ordinary course of our relationship with you (e.g., in the course of administering your BrightTALK account).
+  * We may collect Personal Data that you manifestly choose to make public, including via our Site.
+  * We may receive your Personal Data from third parties who provide it to us (e.g., social media platforms via plugins).
+  * We may collect or obtain Personal Data when you visit our Site, or use any features or resources available on or through our Site. When you visit our Site, your device and browser will automatically disclose certain information, some of which may constitute Personal Data (see below).
 
-For the purposes of the UK Data Protection Act 1998 (the "Act"), the data controller is BrightTALK Limited of Cedar House, Breckland, Linford Wood, Milton Keynes, Buckinghamshire, MK14 6EX.
 
-#### 4\. INFORMATION COLLECTED
 
-4.1 Personal Information
+**Creation of Personal Data:  **We may also create Personal Data about you, such as records of your interactions using our Site, and details of your account history.
 
-We may collect certain information you voluntarily provide to us which may contain personal information. For example, to set up a brighttalk.com account you are required to complete the registration process. This process requires you to provide certain personal information such as your name, email address, telephone number, company name and job title as well as information about your company such as country and industry sector. We may also collect user profile information such as age, gender, postcode, survey responses, voting choices and areas of special interest to you.
+**Categories of Personal Data:  **The categories of Personal Data about you that we may Process include:
 
-If you subscribe to a paid for service, including choosing to become a Channel Owner (for the purposes of this Policy, "Channel Owner" means someone who sets up, manages, and populates a Channel, and "Channel" means an embeddable webinar player on which the Channel Owner can provide Subscribers with access to upcoming, live and recorded webinars), a Sponsor (for the purposes of this Policy, Sponsor has the meaning given in paragraph 5.2 below) or otherwise subscribing to any paid for service offered by BrightTALK, we may ask for additional information such as your credit card details and/or billing details.
+  * _Personal details:_  given name(s); preferred name; gender; date of birth / age; nationality; photograph; preferences; and account settings.
+  * _Contact details:_  telephone number; email address; and social media profile details.
+  * _Professional details:_  professional profile details; association memberships; qualifications and company insight data.
+  * _Device details:_  device type, operating system, browser type, browser settings, IP address, language settings, dates and times of connecting to our Site and other technical communications information.
+  * _Payment details:_  billing address; bank account number or credit card number; cardholder or accountholder name; card or account security details; card ‘valid from’ date; card expiry date.
+  * _Usage details:_  records of your use of our Site and other services, including: registrations; details of content with which you interact; votes; questions; downloads; ratings; feedback; profile views; search queries; anonymous viewings; page views; player clickstream; chapters; and favourite moments.
+  * _Analysis data:_  keywords, communities, trends, content quality and content importance.
+  * _Views, opinions and interests:_  any comments, ratings, views or opinions that you choose to send to us, post via our Site, via a survey, or publicly post via social media platforms; your community interests and solution interests.
 
-4.2 Cookies
 
-In common with standard industry practice, BrightTALK uses cookies to track site usage. A cookie is a small text file containing a unique identification number that is placed on the hard disk of your computer by a Web page server, enabling the Web server to identify your web browser and passively track its activities on that website. Cookies do not contain any executable code and cannot be used for infecting your computer with a virus. Most Web browsers automatically accept cookies but usually provide the option of configuring your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. You can change your settings in the preferences or options menu of your browser. If you choose to decline cookies, certain features of our Services may not be available to you.
 
-The table below explains the cookies we use and their purpose.
+**Lawful basis for Processing Personal Data:  **In Processing your Personal Data in connection with the purposes set out in this Policy, we may rely on one or more of the following legal bases, depending on the circumstances:
 
-BRIGHTTALK COOKIES
+  * we have obtained your prior express consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way);
+  * the Processing is necessary in connection with any contract that you may enter into with us;
+  * the Processing is required by applicable law;
+  * the Processing is necessary to protect the vital interests of any individual; or
+  * we have a legitimate interest in carrying out the Processing for the purpose of managing, operating or promoting our business, and that legitimate interest is not overridden by your interests, fundamental rights, or freedoms.
 
-Cookie| Cookie Name| Purpose| Type  
----|---|---|---  
-BT Session Cookie | BTSESSION | Persistent cookie. For users that do not log in, tracks anonymous webinar viewings and uses user IP address to estimate user time zone so event times can be shown in local times for that user. For users that do log in, enables Site to be personalised based on log-in information. | Persistent cookie. Duration from 90 days, dependent on user activity on Site.  
-BT Login Info Cookie | BTLOGININFO | If a user attempts to view content when not logged in, this cookie is used to enable user to be automatically redirected back to the desired content following login. | Persistent cookie. Expires after one hour.  
-Campaign Tracking Cookie | BTREDIRECT | Anonymously tracks visits to Site in direct response to email campaigns | Persistent cookie. Expires after 14 days or upon user login if earlier.  
-Symfony Portal Session Cookie | PHPSESSID | Manages session for logged in user, enabling access according to authorisation level. | Standard PHP Session cookie, deleted when browser closed.  
-  
-THIRD PARTY COOKIES
 
-Cookie| Cookie Name| Purpose| Duration  
----|---|---|---  
-Marketo Tracking | _mkto_trk | Anonymously tracks, creating anonymous tracking records. | Persistent cookie. Variable duration set by Marketo, Inc.  
-Google Analytics | _utma _utmb _utmc _utmz | These cookies are used to collect information about how visitors use our Site. We use the information to compile reports and to help us improve the Site. The cookies collect information in an anonymous form, including the number of visitors to the Site, where visitors have come from and the pages they visited. | _ utmc is a session cookie The others are persistent cookies whose duration is set by Google. Further information can be found in the Google Analytics Overview within the privacy section on www.google.com .  
-  
-4.3 Web Beacons
 
-Web beacons, sometimes called single-pixel GIFs, are small electronic image files that we may place on the Site Web pages and within certain email. Combined with cookies, Web beacons allow us to count the number of unique users who have visited a specific page and the number of times those pages are displayed. We can also use Web beacons to let us know how many people opened certain types of email. Information we may collect using Web beacons will be in aggregate form only and will not contain your personal information. Third party advertisers may use Web beacons in their advertisements on BrightTALK Web sites. This enables us to compile aggregated statistics and determine the effectiveness of promotional campaigns. We do not allow Web beacons on our Web sites to be used by third parties to collect or access your personal information.
+**Processing your Sensitive Personal Data:  **We do not seek to collect or otherwise Process your Sensitive Personal Data, except where:
 
-4.4 Log Information
+  * the Processing is required or permitted by applicable law (e.g., to comply with our diversity reporting obligations);
+  * the Processing is necessary for the detection or prevention of crime (including the prevention of fraud);
+  * the Processing is necessary for the establishment, exercise or defence of legal rights; or
+  * we have, in accordance with applicable law, obtained your prior explicit consent prior to Processing your Sensitive Personal Data (as above, this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
 
-When you use the Site, our servers record, in a server log, information that your browser sends whenever you visit a website. Server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
-4.5 User Communications
 
-When you send email or other communication to BrightTALK or another user, we may retain those communications in order to process your enquiries, respond to your requests and to improve our services.
+**Purposes for which we may Process your Personal Data:  **The purposes for which we may Process Personal Data, subject to applicable law, include:
 
-4.6 Affiliated Sites
+  * _Our Site:_  operating and managing our Site; providing content to you; displaying advertising and other information to you; and communicating and interacting with you via our Site.
+  * _Provision of services to you:_  providing our Site and other services to you (including suggesting content that may be of interest to you, based on your past activity); communicating with you in relation to those services; recommending content that may be of interest to you; and recommending your content to others.
+  * _Marketing communications:_  communicating with you via any means (including via email, telephone, text message, social media, post or in person) news items and other information in which you may be interested, subject to ensuring that such communications are provided to you in compliance with applicable law.
+  * _Disclosing Personal Data to our customers:_  in accordance with the provisions of this Policy and applicable law, we may disclose certain Personal Data to our customers. With your prior express consent, we may provide your personal data to our customers for the purposes of enabling them to contact you with information that may be of interest to you.
+  * _Communications and IT operations:_  management of our communications systems; operation of IT security; and IT security audits.
+  * _Health and safety:_  health and safety assessments and record keeping; and compliance with related legal obligations.
+  * _Financial management:_  sales; finance; corporate audit; and vendor management.
+  * _Surveys:_  engaging with you for the purposes of obtaining your views on our Site or our services.
+  * _Improving our Site and our services:_  identifying issues with existing Site and our services; planning improvements to existing Site and our services; creating new Site and our services.
 
-We may offer services in connection with other Web sites or suppliers. Personal information that you provide to those sites may be sent to us in order to deliver these services. We process such information in accordance with this Privacy Policy.
 
-4.7 Activity Data
 
-When you access the BrightTALK Services through the Site, we may collect information about your viewing and search habits within the Services and Site ("Activity Data"). This information includes which Channels, Summits, other content, and advertisements you view and for how long. It may also include information about the search terms you use in searching through the Site.
+4\. Disclosure of Personal Data to third parties
 
-#### 5\. USE AND SHARING OF INFORMATION
+We may disclose your Personal Data to other entities within the BrightTALK group, for legitimate business purposes (including providing services to you and operating our Site), in accordance with applicable law. In addition, we may disclose your Personal Data to: our customers, subject always to compliance with the terms of this Policy and the requirements of applicable law;
 
-5.1 BrightTALK’s Use of Information
+  * legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation;
+  * accountants, auditors, lawyers and other outside professional advisors to BrightTALK, subject to binding contractual obligations of confidentiality;
+  * third party Processors (such as IT service providers; social media plugin providers;; etc.), located anywhere in the world, subject to the requirements noted below in this Section (4);
+  * any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defence of legal rights;
+  * any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security;
+  * any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); and
+  * our Site may use third party plugins or content (e.g., social media plugins). If you choose to interact with any such plugins or content, your Personal Data may be shared with the third party provider of the relevant social media platform.
 
-BrightTALK collects and uses your personal, profile and Activity Data information (together referred to as "Profile Information") as described in this Policy, to operate and improve its services, to carry out the transactions you request, to provide you with information you request or to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use, and our administration, of the Site, and for the purpose for which the information was provided. These uses may include making our services easier to use by eliminating the need for you to enter the same information repeatedly, for research and analysis to improve our services and technologies, to display customized content and advertising, to contact you in connection with your enquiries, surveys, your Account or to deliver promotional material, and to provide anonymous reporting to BrightTALK Content Owners.
 
-BrightTALK may store and process personal information collected on the Site or other BrightTALK Web sites in locations in which BrightTALK or its affiliates, subsidiaries or agents maintain facilities, and by using a BrightTALK service, you consent to any such transfer, if necessary to provide our services, of your information outside your country and the European Economic Area.
 
-5.2 Sharing of Information
+If we engage a third-party Processor to Process your Personal Data, the Processor will be subject to binding contractual obligations to: (i) only Process the Personal Data in accordance with our prior written instructions; and (ii) use measures to protect the confidentiality and security of the Personal Data; together with any additional requirements under applicable law.
 
-BrightTALK does not share or sell your Profile Information with third parties or non-affiliated companies except to provide the products or services you have requested, when we have your permission, or under the following circumstances:
+5\. International transfer of Personal Data
 
-When you attend or view content in a Channel, you will automatically be subscribed to that Channel (a "Subscription").  When you attend or view a Channel, Summit, a webinar, a video or other content, BrightTALK may share your Profile Information including your email address and telephone number (as well as details and viewing times of the content you have viewed on that Channel, Summit, webinar, video or other content) with that Channel Owner or with the Sponsor of that Summit or webinar or owner of the content viewed (each a "Content Owner"). Further, we utilize smart technology that analyzes your Activity Data and matches you with other similar Channels, Summits, or other content ("Content Match"), and you will automatically be subscribed to such Channels, Summits, or other content. For the purposes of this Policy, "Summit" means a collection of various webinars on a particular topic that may include webinars from more than one Channel, and "Sponsor" means someone who sponsors a BrightTALK Summit or webinar or other content in exchange for brand promotion, thought leadership opportunities, and the leads generated from the Summit or webinar audience where applicable. In attending or viewing a Channel, Summit, webinar, video or other content, you consent to our sharing your Profile Information with both the Content Owner of the content you viewed and the Content Owner of any Content Matches, who may use such information to provide you with marketing messages, and we encourage you to review the Content Owner's own Privacy Policy to ensure you are satisfied with the provisions. BrightTALK does not control or limit, and we are not responsible for, the activities of Content Owners in the use, control and protection of personal information. We may provide your Profile Information including your email address and telephone number to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing Profile Information on our behalf. These parties are required to process such information based on our instructions and in accordance with this Policy. They do not have any independent right to share this information. We may share your personal information with a credit checking company or with a credit card processing company to bill users for our services. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality requirements which limit their use of such information. We may disclose such personal information to satisfy any applicable law, regulation, legal process or enforceable government request, to enforce our User Agreement and investigate violations thereof, to prevent, detect and address fraud, security or technical issues, or to protect against harm to the rights and property of BrightTALK and its users as required or permitted by law. We may disclose or transfer your Profile Information if BrightTALK is acquired by or merged with another company or in the event of a sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of BrightTALK. We will provide notice before this occurs and will post a new Privacy Policy if necessary. Sharing your Profile Information in the circumstances described above may involve your personal information being transferred outside your country and the EEA and in accepting this Policy and using the Services you consent to any such transfer.
+Because of the international nature of our business, we may need to transfer your Personal Data within the BrightTALK group, and to third parties as noted in Section (4) above, in connection with the purposes set out in this Policy. For this reason, we may transfer your Personal Data to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
 
-#### 6\. ACCESSING AND AMENDING YOUR ACCOUNT INFORMATION
+Where we transfer your Personal Data to other countries, we do so on the basis of Standard Contractual Clauses. You may request a copy of our Standard Contractual Clauses using the contact details provided in Section (14) below.
 
-You can amend your account information and/or cancel your Subscription at any time by visiting your account page on the Site. If you cancel your Subscription we will remove your personal details from the subscriber base for that Channel, but if your personal information has been previously shared with a Content Owner, you will need to contact the Content Owner directly to request your information be removed from its database. You can close your account in accordance with our User Agreement. If you close your account, we may retain your personal information but only for the purposes of preventing fraud or future abuse, enforcing our User Agreement, protecting against harm to the rights and property of BrightTALK and its users, and if required or permitted by law. All retained information will continue to be subject to the terms of this Policy. You have a right under the Act to access information held about you, subject to an administrative fee to meet our reasonable costs. You may also ask us to stop processing your personal information at any time.
+We have implemented appropriate technical and organizational security measures designed to protect your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with applicable law.
 
-#### 7\. SECURITY
+You are responsible for the ensuring that any Personal Data that you send to us are sent securely.
 
-To secure your personal information, access to your data is password protected, and sensitive information is protected by encryption when it is exchanged between your Web browser and our Web site. It is your responsibility to keep your password confidential and not to share this information with anyone. To protect data stored on our servers, we regularly audit our system for possible vulnerabilities and attacks and we use only secured access tier 1 data centers.
+We take every reasonable step to ensure that:
 
-Whilst we will implement the security measures detailed above, transmission of information via the Internet is not completely secure and therefore transmission via the Internet is at your own risk.
+  * your Personal Data that we Process are accurate and, where necessary, kept up to date; and
+  * any of your Personal Data that we Process that are inaccurate (having regard to the purposes for which they are Processed) are erased or rectified without delay.
+
+
+
+From time to time we may ask you to confirm the accuracy of your Personal Data.
+
+We take every reasonable step to ensure that your Personal Data that we Process are limited to the Personal Data reasonably required in connection with the purposes set out in this Policy.
+
+The criteria for determining the duration for which we will keep your Personal data are as follows: we will retain copies of your Personal Data in a form that permits identification only for as long as is necessary in connection with the purposes set out in this Policy, unless applicable law requires a longer retention period. In particular, we may retain your Personal Data for the duration of any period necessary to establish, exercise or defend any legal rights.
+
+Subject to applicable law, you may have a number of rights regarding the Processing of your Personal Data, including:
+
+  * the right to request access to, or copies of, your Personal Data that we Process or control;
+  * the right to request rectification of any inaccuracies in your Personal Data that we Process or control;
+  * the right to request, on legitimate grounds: 
+    * erasure of your Personal Data that we Process or control; or
+    * restriction of Processing of your Personal Data that we Process or control;
+  * the right to object, on legitimate grounds, to the Processing of your Personal Data by us or on our behalf;
+  * the right to have your Personal Data that we Process or control transferred to another Controller, to the extent applicable;
+  * where we Process your Personal Data on the basis of your consent, the right to withdraw that consent; and
+  * the right to lodge complaints with a Data Protection Authority regarding the Processing of your Personal Data by us or on our behalf.
+
+
+
+This does not affect your statutory rights.
+
+To exercise one or more of these rights, or to ask a question about these rights or any other provision of this Policy, or about our Processing of your Personal Data, please use the contact details provided in Section (14) below.
+
+A cookie is a small file that is placed on your device when you visit a website (including our Site). It records information about your device, your browser and, in some cases, your preferences and browsing habits. We may Process your Personal Data through cookie technology, in accordance with our [Cookie Policy](https://business.brighttalk.com/company/cookie-policy).
+
+Minors under the age of eighteen years old are not eligible to use our Site and we therefore ask that minors do not submit any Personal Data to us, or use any of the services provided on, through or via our Site.
+
+All use of our Site is subject to our Terms of Use.
+
+If you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of Personal Data by BrightTALK, please contact:
+
+#### Support Department
+
+#### BrightTALK Inc.
+
+#### 501 Folsom Street
+
+#### San Francisco
+
+#### CA 94105
+
+#### USA
+
+#### support@brighttalk.com
+
+#### 415 625 1500
+
+  * **‘Controller’  **means the entity that decides how and why Personal Data is Processed. In many jurisdictions, the Controller has primary responsibility for complying with applicable data protection laws.
+
+
+  * **‘Data Protection Authority’**  means an independent public authority that is legally tasked with overseeing compliance with applicable data protection laws.
+
+
+  * **‘Personal Data’**  means information that is about any individual, or from which any individual is identifiable. Examples of Personal Data that we may Process are provided in Section (3)
+
+
+  * **‘Process’** ,  **‘Processing’**  or  **‘Processed’  **means anything that is done with any Personal Data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+
+
+  * **‘Processor’  **means any person or entity that Processes Personal Data on behalf of the Controller (other than employees of the Controller).
+
+
+  * **‘Sensitive Personal Data’**  means Personal Data about race or ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sexual life, any actual or alleged criminal offences or penalties, national identification number, or any other information that may be deemed to be sensitive under applicable law.
+
+
