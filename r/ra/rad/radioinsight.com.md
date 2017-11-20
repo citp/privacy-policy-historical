@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radioinsight.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200221id_/http%3A//radioinsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioinsight.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120040014id_/http%3A//radioinsight.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - RadioInsight
+# Privacy Policy – RadioInsight
 
 FORWARD  
 Modern information and communication technologies play a fundamental role in the activities of an organization like RadioInsight. Keeping and maintaining accurate statistics on visitors, as well as an extensive client database is essential. These policies and standards are fully compliant with the regulations of the place of origin, the United States of America. Our principal activity is American radio information, and this policy covers RadioInsight, and its Web Sites.
@@ -14,17 +14,17 @@ Our Web Sites enable you to communicate with other visitors or to post informati
 3\. AUTOMATIC COLLECTION OF INFORMATION  
 We automatically log personal data by means such as programming or we link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes:
 
-  * Technical administration of the Web Site 
-  * Research and development 
-  * Customer administration 
+  * Technical administration of the Web Site
+  * Research and development
+  * Customer administration
   * Marketing
 
 
 
 We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes:
 
-  * Technical administration of the Web site 
-  * Research and development 
+  * Technical administration of the Web site
+  * Research and development
   * Customer administration
 
 
@@ -33,9 +33,9 @@ We use cookies to store personal data or we link information stored in cookies w
 We collect the personal data that you may volunteer while using our services, however, we do not collect information about our visitors from other sources, such as public records or bodies, or private organisations,  
 or use personal data for any purpose other than that indicated below:
 
-  * Technical administration of the Web Site: Name, Gender, Geographic location, E-mail address 
-  * Research and development: Name, Gender, Geographic location 
-  * Customer administration: Name, Gender, Address, E-mail, Phone/Fax, as well as any and all mandatory information on new client application forms 
+  * Technical administration of the Web Site: Name, Gender, Geographic location, E-mail address
+  * Research and development: Name, Gender, Geographic location
+  * Customer administration: Name, Gender, Address, E-mail, Phone/Fax, as well as any and all mandatory information on new client application forms
   * Marketing: Name, Gender, Geographic location, frequented Web Sites, visited advertisements
 
 
