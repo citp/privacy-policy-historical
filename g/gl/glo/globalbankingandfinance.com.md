@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914010517id_/https%3A//www.globalbankingandfinance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120094627id_/https%3A//www.globalbankingandfinance.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Global Banking And Finance Review Magazine – Financial & Business Insights
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address. 
 
