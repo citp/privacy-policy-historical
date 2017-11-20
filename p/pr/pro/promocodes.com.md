@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the promocodes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172117id_/http%3A//www.promocodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodes.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120222617id_/http%3A//www.promocodes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Promocodes.com
-
-[ ](http://www.promocodes.com/ "back to homepage")
-
-6/6/2017 10:21:17 AM
 
 ## Your privacy is important to us
 
@@ -29,13 +25,3 @@ It is also important for users to note that Promocodes.com features links to var
 ## Disclaimer
 
 Please note that, in some cases, an item was supplied by the manufacturer and / or a fee was paid for the review or content within the associated blogs. Promocodes.com reserves the right to alter or remove this privacy policy at our discretion. To remain informed of any updates to this statement we recommend that you visit our privacy policy page from time to time.If you have any questions or comments regarding this statement… reach out to us at [contact@promocodes.com](mailto:contact@promocodes.com). 
-
-  * [Sitemap](http://www.promocodes.com/site-map)
-  * [Privacy Policy](http://www.promocodes.com/privacy-policy)
-
-
-
-[](https://web.archive.org/blackhole/)
-
-
-
