@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hockeydb.com privacy policy that was archived on 2017-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170527232503id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hockeydb.com privacy policy that was archived on 2017-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120040451id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta charset="UTF-8">
@@ -10,11 +10,35 @@
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen">
 <link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print">
 
-
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="/js/all.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="/js/all.js"></script>
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ 
+    var gads = document.createElement('script'); gads.async = true;
+    gads.type = 'text/javascript'; 
+    var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0]; 
+    node.parentNode.insertBefore(gads, node); 
+  })();
+</script>
+<script>
+  googletag.cmd.push(function() {
+    var topAd = googletag.sizeMapping()
+      .addSize([760, 0], [728, 90])
+      .addSize([0, 0], [320, 50])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
 <title>Privacy Policy at Hockeydb.com</title>
 </head>
 
@@ -37,21 +61,26 @@
 </div>
 
 <div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
-<script type="text/javascript" src="/common/ad_768_768_320.php"></script>
+   <div id="top_leaderboard">
+   <script type="text/javascript" src="/common/ad_proxy.php"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
 </div>
 
   <div id="headerbar" style="clear:both; width:965px">
-     <a href="/" onmouseover="BW_imgOver('home')" onmouseout="BW_imgOut('home')">
+     <a href="/">
        <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home"></a>
-     <a href="/ihdb/stats/leagues.html" onmouseover="BW_imgOver('league')" onmouseout="BW_imgOut('league')">
+     <a href="/ihdb/stats/leagues.html">
        <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league"></a>
-     <a href="/ihdb/stats/teams.html" onmouseover="BW_imgOver('team')" onmouseout="BW_imgOut('team')">
+     <a href="/ihdb/stats/teams.html">
        <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team"></a>
-     <a href="/vb/" onmouseover="BW_imgOver('forums')" onmouseout="BW_imgOut('forums')">
+     <a href="/vb/">
        <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums"></a>
-     <a href="/scoreboard" onmouseover="BW_imgOver('mr')" onmouseout="BW_imgOut('mr')">
+     <a href="/scoreboard">
        <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr"></a>
-     <a href="/feedback.html" onmouseover="BW_imgOver('contact')" onmouseout="BW_imgOut('contact')">
+     <a href="/feedback.html">
        <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact"></a>
    </div>
 
@@ -61,7 +90,7 @@
 </div>
 
 <div id="hb_red">
-    <form name="player" method="get" action="/ihdb/stats/findplayer.php">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
       <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"></div>
       <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif"></div>
     </form>
@@ -176,6 +205,8 @@ If you have any questions about your privacy, please <a href="/feedback.html">co
 </noscript>
 
 <!-- End Quantcast tag -->
+
+<script src="//storage.googleapis.com/didna-files/didna-pixel-hdb.js"></script>
 
 
 
