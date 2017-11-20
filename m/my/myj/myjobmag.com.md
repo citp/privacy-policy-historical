@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjobmag.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809014758id_/http%3A//www.myjobmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobmag.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120030808id_/https%3A//www.myjobmag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My JobMag
 
@@ -32,7 +32,7 @@ We may also release your information when we believe release is appropriate to c
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **_Terms and Conditions_**  
-Please refer to our terms and conditions section at http://www.myjobmag.com/terms
+Please refer to our terms and conditions section at https://www.myjobmag.com/terms
 
 **_Your Consent_**  
 By using our site, you consent to our privacy policy
@@ -45,4 +45,4 @@ This policy was last modified on 24/09/2015
 If at any time you wish to stop receiving our Information/updates/alerts you can unsubcribe by clicking on the unsubcription link in our newsletters or send a request to services@myjobmag.com. You can stop receiving alerts from us by unsubcribing from your profile page or sending a request to services@myjobmag.com
 
 **_Contacting us_**  
-If there are any questions regarding this privacy policy you may contact us by clicking [HERE](http://www.myjobmag.com/contact.php)
+If there are any questions regarding this privacy policy you may contact us by clicking [HERE](https://www.myjobmag.com/contact.php)
