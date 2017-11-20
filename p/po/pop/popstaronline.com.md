@@ -1,210 +1,98 @@
-> *The following text is extracted and transformed from the popstaronline.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609065552id_/http%3A//www.popstaronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popstaronline.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120044627id_/http%3A//www.popstaronline.com/privacy-policy) for the most accurate reproduction.*
 
-# POPSTAR! » Privacy Policy
+# Privacy Policy - POPSTAR!
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+**PRIVACY POLICY**
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+**             **This Privacy Policy governs each website, mobile site, application and/or other service, regardless of how distributed, transmitted, published or broadcast (herein collectively “Services”) provided by Popstar Publishing, Inc. (“Popstar,” “we,” “us,” or “our”).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your Name, Email address or other details to help you with your experience.
+**(1)   Information You Provide**
 
-**When do we collect information?**
+We may ask you to provide us with certain categories of information such as: (1) personal information that could reasonably be used to identify you personally, such as your name, e-mail address, date of birth and physical address (“Personal Information”); and (2) demographic information such as information about your family and age (“Demographic Information”).  We may collect this information through various places through the Services, including online subscription, contact us forms, or when you otherwise interact with us.
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter or enter information on our site.
+(a)  Cookies and Other Technology
 
-**How do we use your information?**
+A cookie is a data file that is sent to your browser from a web site’s computer and is stored on your computer or other device being used to access the Services.  Some cookies are Flash Cookies, which is a data file placed on your computer or other device via the Adobe Flash plug-in that may be built-in or downloaded by you to your computer or device.  Cookies and Flash are standard in the industry and may be used for many purposes.  These keep track of things such as areas of the website you visit, for how long, and the websites that referred you to the website or applications, to track your preferences and interests.  If you choose to disable cookies or Flash cookies on your computer or device, some features of the Services may not function properly.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may also use cookie information to collect aggregate information about web site users on an anonymous basis.  We may shore this aggregate demographic and usage information with our prospective and actual business partners, advertisers, and other third parties for any business purpose.
 
-**•** To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+Some of our emails may contain tags that allow us and our advertisers and other partners to determine the type of content that may be of interest to you.  Those tags may contain Personally Identifiable Information and may be shared with others.  These tags may not be deleted but you can opt out of receiving theses emails.
 
-**•** To improve our website in order to better serve you.
+(b)  IP Addresses
 
-**•** To allow us to better service you in responding to your customer service requests.
+Your Internet Protocol (“IP”) address is a number that is automatically assigned to your computer or device, usually associated with the place from which you enter the Internet.  When you access our Services, we collect some general information about your computer or device, including its IP address, the operating system it uses, the browser software it uses, and your Internet service provider.  We may also retain information regarding the pages you visited, the web sites you visited after visiting this web site, the ads you see, and the ads you click on.  We may use your IP address to help diagnose problems with our services, gather broad demographic information, and administer our Services.
 
-**•** To administer a contest, promotion, survey or other site feature.
+(c)  GIFS
 
-**•** To quickly process your transactions.
+We may use “clear GIFs” (aka “web becons” or “pixel tags”) or similar technologies, in the sites and in our communications with you to enable us to know whether you have visited a web page or received a message.  A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well) located on a web page or in an e-mail or other type of message which is retrieved from a remote site on the Internet enabling the verification of an individual’s viewing or receipt of a web page or message.  We may use this technology, or similar technology, to assist us in delivering cookies on our online Services, to count users of the online Services, to monitor how users navigate the online Services, to count how many e-mails that were sent were actually opened or acted upon, or to count how many particular articles or links were actually viewed.
 
-     
+(d)  Embedded Scripts
 
-**•** To send periodic emails regarding your order or other products and services.
+An embedded script is programming code that is designed to collect information about your interaction with the Services, such as the links you click on.  The code is temporarily downloaded onto your computer or device from our web server or a third-party service provider, is only active while you are connected to the Services, and is deactivated or deleted thereafter.
 
-**How do we protect visitor information?**
+(e)  Third Parties
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+We may receive information from third parties, including Demographic Information from your mobile carrier, and information from third parties that solicit subscriptions to our magazines.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+Also, if you choose to access, visit, and/or use any third party social networking service(s) that may be integrated with the Services, we may receive personally identifiable information and other information about you and your computer, mobile or other device that you have made available to those services, including information about your contacts on those services.  For example, some social networking services allow you to push content from our Services to your contacts or to pull information about your contacts so you can connect with them on or through our Service.  Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Services.  Your decision to use a social networking site in connection with our Services is voluntary.  However, you should make sure you are comfortable with the information your third party social networking services may make available to our Services by visiting those services’ privacy policies and/or modifying your privacy setting directly with those services’ privacy policies and/or modifying your privacy setting directly with those services.  We reserve the right to use, transfer, assign, sell, share, and provide access to all personally identifiable information and other information about you and your computer, mobile or other device that we receive through third-party social networking services in the same ways described in this Agreement as all of your other information.
 
-We implement a variety of security measures when a user places an order
+(f)  Tracking Requests
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+Some third-party browsers provide “do not track” machine readable signals for websites or other online Services which are automatically applied by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive advertisements tailored to their interests.  As a result, we do not respond to these signals.  Go to [www.networkadvertising.org](http://www.networkadvertising.org/) or [www.aboutads.info](http://www.aboutads.info/) if you wish to learn more about your options to not accept tracking cookies for the purpose of receiving targeted interest-based advertisements.
 
-**Do we use ‘cookies’?**
+**(2)   Use of Information**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+(a)  We use information we collect from you in part to provide you with the service you have requested.  If you subscribe to POPSTAR, we may also use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine.  Similarly, if you enter online sweepstakes, we will use this information to notify you if you are a winner.  We also use your information to identify you as a user, improve our Services, and send you administrative notifications, and respond to your inquiries.  We might also send out e-mails to users and sweepstakes/contest entrants to announce special offers, services and announcements.
 
-**We use cookies to:**
+(b) We may combine and use any and all information we collect on you either online or otherwise, including from third parties, for marketing purposes.
 
-**•** Help remember and process the items in the shopping cart.
+(c)  In addition, we may use the information you provide us through emails, Q&A, blogs, forums, in response to polls, or through any other user generated submission for editorial purposes, and may use your name and any stories you provide us in articles published online and in our magazine.  If you provide us with personal anecdotes, they may be attributed to you.  We can edit, rewrite, use and reuse the content, including your name, likeness, photograph, and biographical information you provide, with or without attribution, including publication in the magazine, and in trade media and advertising.
 
-**•** Understand and save user’s preferences for future visits.
+(e)  We may create Anonymous Information from Personally Identifiable Information by excluding information (such as your name) that make the data personally identifiable to you.  We use this Anonymous Information for any purpose and disclose Anonymous Information to third parties in our sole discretion.
 
-**•** Keep track of advertisements.
+**(3)   Disclosure of Your Information**
 
-     
+(a)  We use Personal Information that you supply through the Services to provide you with the merchandise, product, service and/or content you have requested.
 
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+(b)  Unless otherwise specified on the Services, we may sell or share information about you and your computer, mobile or other device, including without limitation your Personal Information with carefully selected companies who we think may offer services and/or products that may be of interest to you.  In the event that you provide your email address in connection with a requested product or content, we may send you related commercial messages.  If you do not wish to receive future commercial messages from us, simply follow the unsubscribe instruction contained within the message you receive.  You may continue to receive certain communications from us, such as transactional or relationship message and/or messages about your account.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+(c)  We may also allow access to our database by third parties that provide us with services, such as technical maintenance, market research, community forums management, auction services, and shopping, personal/job search and other classified ads functionality, but only for the purpose of and to the extent necessary to provide those services, including without limitation content, on or through features on the Services, we may forward your information to third parties for services such as credit card or other payment processing, order fulfillment, credit pre-authorization, and address verification.  There are also times when you provide information about yourself to us in areas of the Services that may be managed or participated in by third parties.  In such cases, the information may be used by us and by third party(ies) each pursuant to its own policies.  We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests.  While we may seek to require such third parties to follow appropriate privacy policies.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+(d)  Your information may be transferred to, and maintained on, servicers and databases located outside of your state, province, country or other governmental jurisdiction where privacy laws may not be as protective as your jurisdiction.  Please be advised that we may transfer your information from any state, province country or other governmental jurisdiction, and process it in the United States, or elsewhere.  Your content to this Privacy Policy followed by your submission of such information represents your agreement to such transfer.
 
-However, you can still place orders.
+(e)  We reserve the right to access, use and share with others your Personal Information for the purposes of health, safety and other matters in the public interest.
 
-**Third Party Disclosure**
+(f)  We may also provide access to our database in order to cooperate with official investigations or legal proceeding initiated by governmental and/or law enforcement officials, as well as private parties, including, for example, in response to subpoenas, search warrants, court orders, or other legal process.
 
-No, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+(g)  In addition, we reserve the right to use the information we collect about your computer, mobile or other device (including its geographic location), which at times may be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, analyze trends, track users’ movement around the Service, and to otherwise administer the Service.  Geographic location information about you and/or your computer, mobile or other device may specifically be used to show you content and sponsored messaging based on geographic location.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+(h)  We reserve the right to use, transfer, sell and share aggregated, anonymous data about our users as a group for any lawful business purpose, such as analyzing trends and seeking compatible advertisers, sponsors, clients and customers.
 
-**Third party links**
+(i)  In addition, as our business changes, we may buy or sell various assets.  In the event all or a portion of the assets owned or controlled by us, our parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Service users may be among the transferred assets.
 
-We do not include or offer third party products or services on our website.
+(j)  We reserve the right to identify you from your registration information and/or merge or co-mingle anonymous or non-personally identifiable data about you, your offline and online behavior, and/or your computer, mobile or other device (including its geographic location), with your Personal Information and/or other personally identifiable data for any lawful business purpose.
 
-**Google**
+(j)  We may offer sweepstakes, contests, and other promotions (any, a “Promotion”) through the Services that may require registration for the Promotion.  By participating in a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, allowing the sponsor of the Promotions to use your name, voice and/or likeness in advertising or marketing associated with the Promotion.   If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+**(4)   Your California Privacy Rights**
 
-We use Google AdSense Advertising on our website.
+California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes.  Alternatively, such business may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information sharing.  Pursuant to the Shine the Light Law, Popstar will respond to written requests for this information.  If you would like to request this information, please send your written request to the contact address listed below.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**(5)   Policies for Individuals Under 13**
 
-**We have implemented the following:**
+(a)  These Services are not intended for use by children, especially those under the age of 13.  No one under the age of 13 is allowed to register for the Service or provide any personally identifiable information to the Services.  Minors between the ages of 13 to 17, inclusive, must get permission from a parent or legal guardian before making purchases, including subscription, on this Service.
 
-**•** Google Display Network Impression Reporting
+(b)  If a child discloses information about themselves in publicly accessible areas of the Service, they may get unsolicited messages from other parties.  Accordingly, parents or legal guardians should instruct children not to provide such information on this website, or the internet in general.
 
-     
+**(6)   Privacy Policy Coordinator and Other Privacy Inquiries**
 
-**•** DoubleClick Platform Integration
+**             **For all questions and concerns regarding this Privacy Policy, please contact us at:
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+POPSTAR PUBLISHING, INC.
 
-Opting out:Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Attn: Privacy Policy Coordinator  
+1810 East Sahara Ave. Suite 751
 
-**California Online Privacy Protection Act**
+Las Vegas, NV 89104
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-**According to CalOPPA we agree to the following:**
-
-Users can visit our site anonymously.
-
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:
-
-     
-
-**•** On our Privacy Policy Page
-
-Users are able to change their personal information:
-
-**•** By emailing us
-
-**•** By calling us
-
-**•** By logging in to their account
-
-     
-
-**•** By chatting with us or sending us a ticket
-
-**How does our site handle do not track signals?**
-
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-**Does our site allow third party behavioral tracking?**
-
-It’s also important to note that we do not allow third party behavioral tracking
-
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online. We market to children under 13.
-
-**In order to remove your child’s information please contact the following personnel:**
-
-**We adhere to the following COPPA tenants:**
-
-     
-
-**•** Parents can review, delete, manage or refuse with whom their child’s information is shared through contacting us directly.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email
-
-We will notify the users via in site notification
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**
-
-**•** Send information, respond to inquiries, and/or other requests or questions.
-
-**•** Process orders and to send information and updates pertaining to orders
-
-**•** We may also send you additional information related to your product and/or service.
-
-     
-
-**•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
-
-**To be accordance with CANSPAM we agree to the following:**
-
-**•** NOT use false, or misleading subjects or email addresses
-
-**•** Identify the message as an advertisement in some reasonable way
-
-**•** Include the physical address of our business or site headquarters
-
-**•** Monitor third party email marketing services for compliance, if one is used.
-
-**•** Honor opt-out/unsubscribe requests quickly
-
-     
-
-**•** Allow users to unsubscribe by using the link at the bottom of each email
-
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can**
-
-     
-
-**•** Follow the instructions at the bottom of each email.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-Popstaronline.com
-
-130 W Pleasant Ave, Suite 387
-
-Maywood, NJ 07607
-
-privacy@popstaronline.com
-
-1-866-539-5624
-
-Last Edited on 2014-09-10
+**If you do not agree to the terms contained in this Privacy Policy and/or User Agreement, you must immediately exit the Services.**
