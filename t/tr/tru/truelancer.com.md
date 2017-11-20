@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truelancer.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106200742id_/https%3A//www.truelancer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelancer.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120104019id_/https%3A//www.truelancer.com/privacy-policy%3Fsource%3Dwebsite_footer) for the most accurate reproduction.*
 
 # Privacy Policy | Truelancer
 
