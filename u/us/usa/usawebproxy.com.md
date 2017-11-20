@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usawebproxy.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514041105id_/http%3A//usawebproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usawebproxy.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120035245id_/http%3A//www.usawebproxy.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.rapidproxy.org
 
