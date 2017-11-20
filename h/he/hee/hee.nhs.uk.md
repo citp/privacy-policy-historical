@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hee.nhs.uk privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302142121id_/https%3A//www.hee.nhs.uk/about-us/contact-us/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hee.nhs.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120081825id_/https%3A//www.hee.nhs.uk/about-us/contact-us/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies | Health Education England
 
@@ -100,7 +100,9 @@ We want to provide interesting and engaging content on our website. On a number 
 
 We will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The ‘Help’ function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies. Please be aware that restricting cookies may impact on the functionality of our website. If you wish to view your cookie code, just click on a cookie to open it. You’ll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
 
-This Page was last updated on: 9 November 2015
+This Page was last updated on: 
+
+9 November 2015
 
   * [PDF version](https://web.archive.org/printpdf/about-us/contact-us/privacy-cookies "Display a PDF version of this page.")
 
