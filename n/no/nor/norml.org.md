@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003406id_/http%3A//norml.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120110250id_/http%3A//norml.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ NORML does not collect personal information through our website other than what 
 NORML's web site does not use cookies, except for the case of periodic pop-up windows relating to NORML messages and legislative alerts. Third party entities with embedded tags on NORML's web site may set cookies to track user traffic trends. You may set your browser to: (1) inform you when cookies are being set before a cookie is stored; (2) not accept cookies at all; and (3) erase all cookies from your hard drive.
 
  **Email News List**  
-NORML allows you to sign up for a free weekly electronic newsletter. To subscribe, you must provide your name and email address. This information is used only to send you news and informational material. You may unsubscribe to stop receiving future mailings by clicking the "unsubscribe" link located at the bottom of the mailing list messages you receive.   
+NORML allows you to sign up for a free weekly electronic newsletter. To subscribe, you must provide your email address and zip code. This information is used only to send you news and informational material. You may unsubscribe to stop receiving future mailings by selecting the "unsubscribe" link located at the bottom of the mailing list messages you receive.   
 *** This information is never provided to any other organizations.**
 
 **Providing State Information  
