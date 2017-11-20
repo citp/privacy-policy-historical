@@ -1,76 +1,86 @@
-> *The following text is extracted and transformed from the academyft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164137id_/http%3A//www.academyft.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academyft.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120133953id_/http%3A//www.academyft.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Academy of Financial Trading Privacy Policy
 
-Academy of Financial Trading. 
+Academy of Financial Trading Website Privacy Statement 
 
-This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. 
+Academy of Financial Trading (AFT) is committed to protecting your privacy and takes its responsibility regarding the security of customer information very seriously. Our website Privacy Statement sets out what information we collect, how we collect it, what we do with it and how we protect this information. Any personal data is collected and processed in accordance with Irish and EU data protection laws. 
 
-This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy. 
+**Collection of Personal Data:**
 
-By submitting your information you consent to the use of that information as set out in this policy.
+In order to facilitate the provision of education, we collect personal details from you together with information we learn about you from your use of our website. These details may include (where applicable) your name, address, telephone number, e-mail and IP addresses, credit/debit card or other payment details. To provide location-based services we may collect, use, and share precise location data, including the real-time geographic location of your computer or device through GPS, Bluetooth, and your IP address, along with crowd-sourced Wi-Fi hotspot and cell tower locations. This location data is collected anonymously, unless you provide consent. You may withdraw consent to AFT and our partners’ collection, use, transmission, processing and maintenance of location and account data at any time by not using the location-based features and turning off the Location Services settings (as applicable) on your device and computer. 
 
-**This Privacy Policy protects your privacy by:**
+Your data may be used for the following purposes: providing products and services you request, contacting you regarding your course, credit or other payment card verification/screening, legal purposes, statistical and marketing analysis, systems testing, customer surveys, customer relations communications and offering you services and products we believe may interest you.
 
-**Informing you about:**
+**Sharing information about you:**
 
-  * The types of personal information we collect about you through our Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure.
+We follow strict security procedures in the storage and disclosure of student information.
 
+We may disclose your information to trusted contracted companies who act as "data processors" on our behalf for the purposes set out in this Privacy Statement. AFT has transfer agreements in place with all entities to which it transfers data for processing on its behalf. The agreements provide for specific and limited processing of user data in service of AFT’s operations and have been prepared so as to meet the requirements of Irish and EU law.
 
+We may also pass your information on to government authorities or enforcement bodies for compliance with legal requirements.
 
-**Empowering you to choose:**
+AFT operates businesses in multiple jurisdictions, some of which are not located in the European Economic Area (EEA). While countries outside the EEA do not always have strong data protection laws, we will ensure that AFT and our services providers process your information in a secure manner and in accordance with this Privacy Statement.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
+You may be able to access third party social media services through our website or before coming to our website. When you are registered with your social service account, we will obtain the personal information you choose to share with us through these social media services pursuant to their privacy settings in order to improve and personalize your use of our website. This may include a list of friends and reviews of other users in your network. We may also use social media plugins on our website. As a result your information will be shared with your social media provider and possibly presented on your social media profile to be shared with others in your network. Please refer to the privacy policy of these third-party social media providers to find out more about these practices. 
 
+**AFT Member Area :**
 
+All data collected upon registration in AFT will be processed in line with this Privacy Statement. In your personal AFT member area we store all your course information, so that you can access it whenever you wish.
 
-**Assuring you that the Academy of Financial Trading:**
+We understand the importance of taking extra precautions to protect the privacy and safety of children. Accordingly, children under 16 will not be permitted to open an AFT account. We will take reasonable steps to delete any AFT account or information created by a child under 16, as soon as we learn about it.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+All payment details are transmitted over a secure connection (Secure Socket Layer-SSL) across dedicated network infrastructure (Multiprotocol Label Switching-MPLS) and stored in compliance with Payment Card Industry Data Security Standards (PCI DSS).
 
+You will have the option to stay signed-in into your AFT account by checking the “remember me” box. This option will only apply to the computer / device and the browser that you're using when you select the box. If you do not wish to stay signed on a particular browser, simply sign out of your AFT account on that browser.
 
+You may delete your AFT account by contacting AFT support [here](http://www.academyft.com/contact-academy-financial-trading-online.htm)
 
-**Ensuring accountability**
+**Direct Marketing Material :**
 
-to individuals who believe that the Academy of Financial Trading has not complied with these privacy principles. 
+From time to time we or our selected partners may contact you with information regarding course promotions and ancillary products via email. However, you will be given the opportunity on every e-communication that we or our trusted partners send you to indicate that you no longer wish to receive our or their direct marketing material.
 
-**Information Corrections or Changes**
+**Site tracking :**
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. If you need assistance or have questions about correcting information, you can contact us via e-mail at privacy@academyft.com. 
+We use tracking software to monitor customer traffic patterns and site usage to help us develop the design and layout of the websites. This software does not enable us to capture any personal passenger information.
 
-The Academy of Financial Trading respect and value the security and privacy of its contacts. The Academy of Financial Trading follows strict security procedures in the storage and disclosure of personal information in order to prevent unauthorised access. Personal Data is held on our contacts and administration database either because of work we have undertaken or are currently engaged in, or because we believe that clients may be interested in receiving material from us about our business and services. As such we hold client contact details and the history of our client relationship. This allows us to manage our client relationships effectively and target items of interest so that you do not receive unwanted material through the post.
+**Cookies**
 
-You may request the amendment of the personal information held or to cease receiving direct marketing materials. 
+This site uses cookies to enable us to improve our service to you and to provide certain features that you may find useful (click here for AFT’s Cookie Policy). 
 
-The Academy of Financial Trading does not sell, rent or deal in the personal information we hold. 
+Cookies are small text files that are transferred to your computer's hard drive through your web browser to enable us to recognise your browser and help us to track visitors to our site; thus enabling us to understand better the products and services that will be most suitable to you. A cookie contains your contact information and information to allow us to identify your computer when you travel around our site for the purpose of helping you accomplish your registration. Most Web browsers automatically accept cookies, but, if you wish, you can set your browser to prevent it from accepting cookies. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. The cookies we use do not detect any information stored on your computers.
 
-Owing to the global nature of the Internet infrastructure, the information you provide may be transferred in transit to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. However, we have taken steps outlined above to try to improve the security of your information. By submitting your information you consent to these transfers.
+For more information about cookies and how to stop cookies being installed visit the following website: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-**Employee Accountability**
+**Links to Third Party Websites**
 
-Only those the Academy of Financial Trading employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by an Academy of Financial Trading employee is prohibited and constitutes grounds for disciplinary action.
+This privacy statement only covers websites that we own and control. It does not cover links to other websites and accordingly any information collected by those parties that own and control those websites or their use of cookies set from their domains when you visit their websites. Please be aware that individual third-party organizations operate their own policies regarding the use and sale of personal information and the use of cookies. If you have a concern regarding the way your personal information will be used on other sites or on the type of cookies used and how they are being used then you are advised to read the relevant privacy statement and cookie policy or in the absence of such a statement and policy on the site, contact the company concerned. Any data stored by third party websites are stored completely separately by third party. 
 
-**Notification of Changes**
+**Security**
 
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. Continued use of the service will signify that you agree to any such changes. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to privacy@academyft.com. 
+We take great care to ensure the security of our website. The data you provide to us is protected using SSL (Secure Socket Layer) technology. SSL is the industry standard method of encrypting personal information and credit card details so that they can be securely transferred over the Internet.
 
-If you have any questions regarding this Privacy Policy, please contact privacy@academyft.com
+**Your Rights**
 
-**Definitions**  
-In these terms and conditions: 
+You may ask in writing for a copy of the information we hold about you (for which we may charge a maximum fee of €6.35). You also have the right to request correction of any inaccuracies in your personal data or, where appropriate, the erasure of such data.
 
-  1. 'This website' means our presence on the Internet;
-  2. 'our', 'we' and 'us' means the Academy of Financial Trading and, where applicable, its officers, employees and authorised agents; and
-  3. 'you' and 'your' refer to any individual, company or business (whether registered by us as an investor or not) to whom we provide Services by means, including but not limited to, telephone, face-to-face contact, postal correspondence, electronic mail or via our website www.academyft.com hereon referred to as the website. 
+For this purpose, you must provide the following documents: 
 
+  * A signed request;
+  * A copy of your passport or national ID, so that we can verify your identity; 
+  * A signed authority from any third party whose data you request on their behalf. 
 
 
-[Contact Us](https://web.archive.org/web/20170606164137id_/http%3A//www.academyft.com/contact-academy-financial-trading-online.htm) if you have an enquiry or concern about our privacy policy. 
+
+**Our registered address is:**
+
+  * Academy of Financial Trading
+  * Block P4B, Eastpoint Business Park
+  * Dublin 3
+  * Ireland
+
+
+
+**Changes to Privacy Statement**
+
+Our Privacy Statement may change from time to time and any changes to the statement will be posted on this page. 
