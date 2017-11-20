@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cxmagazine.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005010134id_/http%3A//cxmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxmagazine.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120055322id_/https%3A//www.cxmagazine.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Cyclocross Magazine - Cyclocross News, Races, Bikes, Photos, Videos
 
 **What information do we collect?**
 
@@ -8,7 +8,7 @@ We collect information from you when you place an order.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
 **What do we use your information for?**
 
@@ -29,7 +29,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 **Childrens** **Online Privacy Protection Act Compliance**
 
@@ -47,7 +47,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on  **1/3/2012**
+This policy was last modified on **5/27/2017**
 
 **Contacting Us**
 
@@ -59,8 +59,9 @@ Cyclocross Magazine LLC
 Mountain View, California 94041  
 United States  
 info@cxmagazine.com  
-(650) 450-9499  
-http://www.cxmagazine.com/
+(650) 450-9499
+
+> [Home Page](https://www.cxmagazine.com/)
 
 **Privacy Policy Customer Pledge**
 
@@ -69,4 +70,4 @@ Childrens Online Privacy Protection Act
 Privacy Alliance  
 Trust Guard Privacy Requirements
 
-If you think this privacy policy could be improved and you're a lawyer or have access to one, let us k
+If you think this privacy policy could be improved and you’re a lawyer or have access to one, let us know.
