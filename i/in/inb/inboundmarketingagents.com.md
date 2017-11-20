@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboundmarketingagents.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608061343id_/http%3A//www.inboundmarketingagents.com/ima-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundmarketingagents.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120172936id_/http%3A//www.inboundmarketingagents.com/ima-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inbound Marketing Agents
 
