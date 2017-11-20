@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the techisher.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104930id_/http%3A//www.techisher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techisher.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120112538id_/http%3A//www.techisher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TECHISHER
+
+You are here: [Home](http://www.techisher.com/) / Privacy Policy
 
 This Privacy Policy was last modified on Nov 11, 2014.  
 Techisher (“us”, “we”, or “our”) operates www.techisher.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.  
