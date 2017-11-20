@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121065551id_/http%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120051528id_/https%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
 
 # Booktopia - Books, Online Books, #1 Australian online bookstore, Buy Discount Books, eBooks and DVDs from Australia and the world.
 
@@ -51,7 +51,7 @@ Booktopia Pty Ltd will not use or disclose any of your personal information with
 
 In seeking to give you the most worthwhile experience in using the Booktopia website, your personal information may be used to send you advertisements about products and services that we think you are likely to be interested in.
 
-Booktopia does not disclose your personal information to advertisers, or any overseas entity. In order to operate the Booktopia website, fulfil the purposes set out above or otherwise deliver products or services, Booktopia will not otherwise disclose your personal information to other companies or third parties without your explicit consent.
+Booktopia does not disclose your personal information to advertisers. We use the services of one or more trusted service providers located overseas to use and process personal information for the explicit purpose of fraud detection, transaction processing, or for providing a product or service to you, in accordance with applicable privacy and data protection laws. In order to operate the Booktopia website, fulfill the purposes set out above or otherwise deliver products or services, Booktopia will not otherwise disclose your personal information to other companies or third parties without your consent.
 
 #### When Booktopia Pty Ltd will contact you
 
