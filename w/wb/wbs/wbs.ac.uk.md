@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbs.ac.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628183335id_/http%3A//www.wbs.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbs.ac.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120023505id_/http%3A//www.wbs.ac.uk/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Warwick Business School
 
@@ -48,6 +48,9 @@ _the page from which a visitor comes, if by clicking on another site's link_
 _e.g.. whether Firefox, Chrome or IE; what version; whether Macintosh, PC, or smartphone_
 
   * **Search terms used to arrive at a page.**
+
+  * **Mouseflow web analytics**  
+This website uses Mouseflow, a third-party analytics tool, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at <https://mouseflow.com/opt-out/>
 
 
 
