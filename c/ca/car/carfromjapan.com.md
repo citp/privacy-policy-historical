@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carfromjapan.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613031147id_/http%3A//business.carfromjapan.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carfromjapan.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120051637id_/https%3A//carfromjapan.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Car From Japan
+# User privacy policy - Car From Japan
 
 Welcome to **Car From Japan**.  
 **Car From Japan** knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting [CarFromJapan.com](http://carfromjapan.com/ "Car From Japan"), you are accepting the practices described in this Privacy Policy.
