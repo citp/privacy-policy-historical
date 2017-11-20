@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192729id_/https%3A//sellics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellics.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120211122id_/https%3A//sellics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sellics
 
