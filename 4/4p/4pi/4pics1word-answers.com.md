@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4pics1word-answers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021536id_/http%3A//4pics1word-answers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4pics1word-answers.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180507id_/http%3A//4pics1word-answers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4 Pics 1 Word Answers
 
@@ -94,6 +94,6 @@ _Changes to the Privacy Policy:_ 4pics1word-Answers reserves the right, at our d
 
 _Security_ : 4pics1word-Answers uses all reasonable means to safeguard data against unauthorized use and theft.
 
-_Contact Us:_ If you have questions about privacy please contact us at privacy@answersnetwork.com. 
+_Contact Us:_ If you have questions about privacy please contact us at contact@groupomada.com. 
 
 **Effective date:** January 1, 2013 ****
