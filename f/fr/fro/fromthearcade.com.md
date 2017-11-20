@@ -1,102 +1,57 @@
-> *The following text is extracted and transformed from the fromthearcade.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224223753id_/http%3A//www.fromthearcade.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromthearcade.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120013341id_/http%3A//fromthearcade.com/privacy) for the most accurate reproduction.*
 
-# Free Games : FromTheArcade.com : Privacy Policy
+# Privacy - From The Arcade
 
-FROMTHEARCADE.COM PRIVACY POLICY STATEMENT
+**Privacy**
 
-  1. Welcome to the FromTheArcade.com website. FromTheArcade.com is committed to safeguarding your privacy online. This Privacy Policy discloses how we collect and use information, and the choices that you can make about the way we collect and use your information. We understand that your trust depends on how we respect your privacy and how we safeguard information you provide us. We want you to feel comfortable using our website, products, and services and encourage you to read this Privacy Policy, detailing the online practices for FromTheArcade.com ("FromTheArcade").
-  2. Products Covered by This Policy: casual games that are promoted through FromTheArcade.com (collectively "Products"). This Privacy Policy may also apply to new Products we develop.
-  3. Sites Covered by This Policy: www.fromthearcade.com and other sites we own that post a link to this Privacy Policy (collectively "Sites"). This Privacy Policy may also apply to new Sites we develop.
+This privacy policy sets out how From TheArcade uses and protects any information that you give From TheArcade when you use From TheArcade. From TheArcade is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using From TheArcade, then you can be assured that it will only be used in accordance with this privacy statement. From TheArcade may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of August, 2012.
 
+**What we collect  
+**We may collect the following information:
 
-
-OVERVIEW OF OUR PRIVACY POLICY
-
-  * Please read this Privacy Policy carefully so that you understand our online privacy practices regarding:
-    * Information We Collect
-    * How We Use Your Information
-    * How We Use and Share Your Information
-    * Your Choices
-    * The Children's Online Privacy Protection Act
-  * By accessing and using our Sites or providing any information requested, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use our Sites.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-FROMTHEARCADE'S OFFERS
+**  
+What we do with the information we gather  
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  1. On FromTheArcade.com, you can download software and content. In exchange for FromTheArcade’s content or services, the user may decide to pay a fee, download software, share personal information, or view upfront advertising; it's up to the user. A variety of products and services are available at FromTheArcade and FromTheArcade or any third party service provider used by FromTheArcade to provide such products and services may collect different types and levels of personal information for each model, product, or service.
-
-
-
-THE INFORMATION WE COLLECT
-
-  1. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, and information about your interests in and use of various products, programs, and services.
-  2. There are also times when you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card, or to refer them to our Sites or content (e.g., Tell-A-Friend). The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
-  3. We also may collect certain non-personally identifiable information when you visit many of our web pages, such as the type of browser you are using (e.g., Mozilla Firefox, Internet Explorer), the type of operating system you are using, (e.g., Windows Vista or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
 
 
-HOW WE USE THE INFORMATION
+**  
+Security  
+**We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-  1. We, or a third party service provider used by FromTheArcade, may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
-  2. We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements or to contact you about your account with us. If you no longer wish to receive promotional communications, you may opt-out of receiving them by following the instructions included in the communication or by emailing us at privacy [at] fromthearcade dotcom.
-  3. If you choose to submit content for publication (e.g., a review of a Product) we may publish your name and other information you have provided to us.
-  4. We also use one or more third parties to facilitate and optimize the services provided on FromTheArcade.com, and we may share personally identifiable information as necessary for such purposes.
-  5. We sometimes use non-personally identifiable information to improve the design and content of our site and to enable us to personalize your internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
-  6. We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+**  
+How we use cookies  
+**A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
+**  
+Links to other websites  
+**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
+**  
+Controlling your personal information  
+**You may choose to restrict the collection or use of your personal information in the following ways: **  
+** whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes ** ** if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us via our Contact Form.
 
-INFORMED CONSENT
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-  1. Except as set forth in this Privacy Policy, FromTheArcade.com will not disclose personally identifiable information to companies not owned by us who want to market products or services to you without your prior informed consent.
+**Third-party online advertising**
 
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
 
+Please remember that From TheArcade does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy.
 
-COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS
+These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative (“NAI”), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at http://www.networkadvertising.org/managing/opt_out.asp. 
 
-  1. FromTheArcade contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies, as we have no control over information that is submitted to or collected by websites that are not our own.
-  2. From time to time FromTheArcade may offer contests, sweepstakes, promotions, or deals that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit. After such submissions, FromTheArcade.com has no control over third-party sponsors' use of this information.
-  3. FromTheArcade will provide notice if third-party sponsors will so obtain such information. FromTheArcade.com may use reputable third parties to present or serve the advertisements that you may see at our web pages and to conduct research about the advertisements. Our Privacy Policy does not cover any use of information by such third parties or the methods by which third-parties collect that information (e.g., cookies, web beacons and clear gifs).
-
-
-
-THIRD-PARTY AD SERVING
-
-  1. We may use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visit to FromTheArcade.com in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the FromTheArcade.com website, our third-party advertising companies may place or recognize a unique "cookie" on your browser.
-
-
-
-COOKIES
-
-  1. To enhance your experience with our website, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our website. However, once you choose to furnish FromTheArcade with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings at FromTheArcade. For example, cookies may be used to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), and save your password in password-protected areas. We also may use cookies to offer you products, programs, or services. Small pieces of code called "web beacons" or "clear gifs" may be used to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. Third parties (e.g., service providers) may also use cookies and web beacons on our website in connection with our website, products, and services.
-
-
-
-OUR COMMITMENT TO SECURITY
-
-  1. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and prevent unauthorized access, to maintain data security, and correctly use the information we collect online.
-
-
-
-SPECIAL NOTE FOR PARENTS
-
-  1. In an effort to be compliant with the Children's Online Protection Privacy Act (COPPA) it is our policy to collect no personally identifiable information from children. Therefore, all individuals are required to be 14 years and older to submit any personal information.
-
-
-
-MISCELLANEOUS PROVISIONS
-
-  1. Disclaimer of Liability. YOUR USE OF OUR SERVICES IS AT YOUR OWN RISK. OUR SERVICES (INCLUDING ALL CONTENT AND FUNCTIONS MADE AVAILABLE ON OR ACCESSED THROUGH OUR SITES) IS PROVIDED "AS IS." WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WHATSOEVER ABOUT: (1) THE ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT; (2) THE SERVER THAT MAKES THE SERVICES AVAILABLE, INCLUDING THAT IT IS FREE OF VIRUSES OR OTHER COMPONENTS THAT MAY INFECT, HARM, OR CAUSE DAMAGE TO YOUR COMPUTER EQUIPMENT OR ANY OTHER PROPERTY WHEN YOU ACCESS, BROWSE, DOWNLOAD FROM, OR OTHERWISE USE THE SITE.
-  2. UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO OUR NEGLIGENCE, SHALL WE BE LIABLE FOR ANY CONSEQUENTIAL, DIRECT, INCIDENTAL, INDIRECT, PUNITIVE, OR SPECIAL DAMAGES RELATED TO (A) THE USE OF, (B) THE INABILITY TO USE, OR (C) ERRORS OR OMISSIONS IN THE CONTENTS AND FUNCTIONS OF OUR SITES AND SERVICES, EVEN IF WE OR OUR REPRESENTATIVES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT OR TORT, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE OR OTHERWISE) EXCEED $10.00.
-  3. Indemnification. You agree to indemnify, defend, and hold us and all of our agents, directors, employees, information providers, licensors and licensees, officers, and subsidiaries (collectively, "Indemnified Parties") harmless from and against any and all liability and costs (including, without limitation, attorneys' fees and costs) incurred by you in connection with any claim arising out of any breach by you of this Privacy Policy. You will cooperate as fully as reasonably required in our defense of any claim. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you shall not in any event settle any matter without our written consent. International Policy. Our Services are hosted by servers in the United States. Accordingly, if you are located outside of the United States, we will transfer the personal information you provide to us to the United States. By submitting your personal information, you fully understand and consent, to its transfer, storage and processing in the United States.
-
-
-
-HOW TO CONTACT US
-
-  1. If you have any questions or concerns about this FromTheArcade.com Privacy Policy or its implementation please contact us via email at the following address: privacy [at] fromthearcade dotcom
-
-
-
-Updated: January 15, 2011
+Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
