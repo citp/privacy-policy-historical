@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617151637id_/https%3A//ird.govt.nz/about-this-site/privacy%3Fid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120140218id_/http%3A//www.ird.govt.nz/about-this-site/privacy%3Fid%3Dfooter) for the most accurate reproduction.*
 
 # Your privacy (About this site)
 
