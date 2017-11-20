@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the easyjet.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231326id_/http%3A//www.easyjet.com/en/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyjet.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120165949id_/https%3A//www.easyjet.com/en/policy/privacy) for the most accurate reproduction.*
 
 # Privacy policy | easyJet
 
 easyJet is committed to protecting your privacy, and takes its responsibilities regarding the security of customer information very seriously. This policy explains how we use customer information and how we protect your privacy. 
 
-**1\. Use of Customer Information** We require certain information to allow us to process your flight booking. easyJet collects the details provided by you, together with information we learn about you from your use of our service and your visits to our web site and other sites accessible from them. We also collect information about the transactions you undertake including details of payment cards used. 
+**1\. Use of Customer Information**  
+
+We require certain information to allow us to process your flight booking. easyJet collects the details provided by you, together with information we learn about you from your use of our service and your visits to our web site and other sites accessible from them. We also collect information about the transactions you undertake including details of payment cards used. 
 
 We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback. 
 
@@ -26,25 +28,37 @@ We may also use and analyse the information that we collect so that we can admin
 
 The information that you provide to us will be held in our systems, which are located on our premises or those of an appointed third party. We may also allow access to your information by other third parties who act for us for the purposes set out in this policy or for other purposes approved by you. It is possible that your data may be processed outside of Europe. 
 
-**2\. Site tracking** We use tracking software to monitor customer traffic patterns and site usage to help us develop the design and layout of the site to better meet the needs of visitors to easyJet.com. This software does not enable us to capture any personally identifying information. 
+**2\. Site tracking**  
 
-**3.   Requesting personal data**  You have a right to request a copy of information that either easyJet Airline Company Ltd (“easyJet UK”) or easyJet Switzerland S.A. (“easyJet Switzerland”) holds about you. This could include booking information relating to flights you have taken with us.
+We use tracking software to monitor customer traffic patterns and site usage to help us develop the design and layout of the site to better meet the needs of visitors to easyJet.com. This software does not enable us to capture any personally identifying information.
+
+**3.   Requesting personal data**  
+
+You have a right to request a copy of information that either easyJet Airline Company Ltd (“easyJet UK”) or easyJet Switzerland S.A. (“easyJet Switzerland”) holds about you. This could include booking information relating to flights you have taken with us.
 
 easyJet UK is governed by the UK Data Protection Act 1998.  easyJet Switzerland is governed by the Swiss Federal Act on Data Protection and the Ordinance to the Federal Act on Data Protection (“Swiss Law on Data Protection”). 
 
-Information on how we use personal data can be found in our Terms and Conditions.
+**If you would like to request a copy of your personal data, please complete the web-form here:  **<https://www.easyjet.com/en/policy/datarequest>
 
-If you would like to request a copy of your personal data, please send a letter (in English) to the below address, including the following:
+If you are requesting a call recording, please note that easyJet’s policy is to delete copies of customer calls after 90 days.  Note also that easyJet are not the data holder for any CCTV footage that may be captured.
 
-  * your full name and postal address;
-  * a copy of your ID card/passport (page with picture on);
-  * your email address (and if requesting flight booking information, all email addresses used to make bookings);
+Information regarding flight disruption does not constitute personal data and therefore does not fall under the scope of a data request.  If you would like to claim compensation for a delayed or cancelled flight, please visit our website at: <https://www.easyjet.com/en/claim/eu261>
+
+We will endeavour to begin processing your data request within ten (10) working days.  If we require any additional information from you in order to begin processing your data request, then we will contact you directly and you will have thirty (30) days to provide us with the additional information.  If we have not heard from you after thirty (30) days, then we will automatically archive your data request and you may be required to submit a new data request.
+
+**If you have any questions relating to data protection, please contact us at:**[data.protection@easyjet.com](mailto:data.protection@easyjet.com).
+
+If you are unable to complete the web-form, then please send a letter to the below address, including the following:
+
+  * your full name;
+  * a copy of your current and valid photo ID (e.g. passport page);
+  * all email addresses (past and present) used to book flights with easyJet;
   * a cheque for £10 made payable to “easyJet Airline Company Limited” to cover our administration costs (for easyJet UK requests only); and
-  * your booking references if you still have them.
+  * your booking references (if you still have them).
 
 
 
-The above should be sent to the following address (for both easyJet UK and easyJet Switzerland):
+The above should be sent to the following address:
 
 Legal Department  
 easyJet Airline Company Ltd  
@@ -54,15 +68,9 @@ Luton, Bedfordshire
 LU2 9PF  
 United Kingdom
 
-Once the easyJet legal department has received all of the above information and/or documentation, we will process your request. Whilst we aim to process your request as soon as possible, we acknowledge the timeframe for responses as governed by the applicable data protection law.
+**4\. Security to protect your information and data retention**  
 
-If you are requesting a call recording, please note that easyJet’s policy is to delete copies of customer calls after 90 days.  Note also that easyJet are not the data holder for any CCTV footage that may be captured.
-
-Information on flight delays is not considered personal data and is therefore not available under the data protection framework. If you would like to claim compensation for a delayed or cancelled flight, please visit our website at: <https://www.easyjet.com/en/claim/eu261>
-
-If you have any questions relating to data protection, please contact us at :
-
-**4\. Security to protect your information and data retention** When you book a flight or enter personally identifying information, your details are transmitted across the internet securely using high-grade encryption (128 bit). 
+When you book a flight or enter personally identifying information, your details are transmitted across the internet securely using high-grade encryption (128 bit). 
 
 Furthermore, as required by the UK Data Protection Acts of 1984 and 1998 (or, where applicable, the Swiss Law on Data Protection), we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access. Our security procedures mean that we may request proof of identity before we are able to disclose sensitive information to you. 
 
@@ -70,21 +78,29 @@ In the circumstances set out in this policy where easyJet passes your informatio
 
 We will retain your information for a reasonable period or as long as the law requires. 
 
-**5\. Cookies** Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They enable easyJet to provide features such as remembering aspects of your last flight search to make subsequent searches faster. Cookies can be deleted from your hard drive if you wish. Most web browsers automatically accept cookies, but you can change your browser settings to prevent that. Even without a cookie you can use most of the features on the web site. Our cookies do not contain any personally identifying information.
+**5\. Cookies**  
+
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They enable easyJet to provide features such as remembering aspects of your last flight search to make subsequent searches faster. Cookies can be deleted from your hard drive if you wish. Most web browsers automatically accept cookies, but you can change your browser settings to prevent that. Even without a cookie you can use most of the features on the web site. Our cookies do not contain any personally identifying information.
 
  Cookies are also used in email messages you have agreed to receive and at our website to help us measure the effectiveness of our advertising and how visitors use our site. If you do not want to help us learn how to improve our offers and marketing strategy, you can “opt-out” of this email cookie. If you click on a link in the e-mail, we may set a cookie on your browser. 
 
 If you visit easyJet.com as a result of clicking on a link, we are able to understand how you interact with the pages of our website through the combination of the cookie and pixels set on the pages of our website. This enables us to understand what interested you in our emails and what did not, and what interests you about our website and what does not. We can then try to send you more interesting information in the future. Please note that this information is for our use only – we do not disclose or share this information with any third parties. If you do not wish this to happen, you can change the cookie settings in your browser. 
 
-**6\. Use of pixels** In order to understand how our customers interact with the emails and the content that we send, we use pixels in the email in order to understand who has opened the message. In order to provide our content in the most interesting way, we may also use pixels to learn whether you can receive emails in text or html form. 
+**6\. Use of pixels**  
 
-**7\. Disclosure to third parties** Your information may be passed to and used by easyJet Airline Company Limited and easyJet plc. We may pass on your information to Hotelopia S.L.U. a legally constituted Spanish company, which operates as a wholesale-retail travel agency. Hotelopia, S.L.U. is based in Palma de Mallorca 07006 (Spain), C/ Calle Padre Ventura 19, with licence number BAL-481 M/D, tax identification code B-57218356 and registered in the Mercantile Register of Mallorca (page PM-44857, volume 2007, folio 148); or to Europcar International S.A.S.U., a company registered in France under number 542065305 and whose registered office is at 3 Avenue du Centre, 78881 Saint Quentin en Yvelines, France; or to Holiday Extras Limited, a company registered in England under number 01693250 and whose registered office is at Ashford Road, Newingreen, Hythe, Kent, CT21 4JF; or to AWP Assistance UK Ltd a company registered in England under number 1710361 and whose registered office is at , PO Box 74005, 60 Gracechurch Street, London, EC3P 3DS. Booking.com B.V. is registered with the trade register of the Chamber of Commerce in Amsterdam, the Netherlands, under registration number 31047344. VAT registration number is NL805734958B01. Registration number with Dutch Data Protection Authority is 1288246. We or our partners may also send you details of other products which we think may be of interest. easyJet passes your personal data onto the Civil Aviation Authority for the purposes of ensuring compliance with and the enforcement of ATOL regulations. easyJet may also pass your information on to government authorities or enforcement bodies e.g. for compliance with Advanced Passenger Information requirements. 
+In order to understand how our customers interact with the emails and the content that we send, we use pixels in the email in order to understand who has opened the message. In order to provide our content in the most interesting way, we may also use pixels to learn whether you can receive emails in text or html form. 
+
+**7\. Disclosure to third parties**  
+
+Your information may be passed to and used by easyJet Airline Company Limited and easyJet plc. We may pass on your information to Hotelopia S.L.U. a legally constituted Spanish company, which operates as a wholesale-retail travel agency. Hotelopia, S.L.U. is based in Palma de Mallorca 07006 (Spain), C/ Calle Padre Ventura 19, with licence number BAL-481 M/D, tax identification code B-57218356 and registered in the Mercantile Register of Mallorca (page PM-44857, volume 2007, folio 148); or to Europcar International S.A.S.U., a company registered in France under number 542065305 and whose registered office is at 3 Avenue du Centre, 78881 Saint Quentin en Yvelines, France; or to Holiday Extras Limited, a company registered in England under number 01693250 and and whose registered office is at Ashford Road, Newingreen, Hythe, Kent, CT21 4JF; or to Collinson Insurance Services Limited, a company registered in England and Wales with registered number 00758979 whose registered office is at Cutlers Exchange, 123 Houndsditch, London, EC3A 7BU and Zurich Insurance plc, a public limited company incorporated in Ireland (registration no. 13460) with its registered branch in the UK, (UK establishment number BR7985), located at The Zurich Centre, 3000 Parkway, Whiteley, Fareham, Hampshire, PO15 7JZ. Booking.com B.V. is registered with the trade register of the Chamber of Commerce in Amsterdam, the Netherlands, under registration number 31047344. VAT registration number is NL805734958B01. Registration number with Dutch Data Protection Authority is 1288246. We or our partners may also send you details of other products which we think may be of interest. easyJet passes your personal data onto the Civil Aviation Authority for the purposes of ensuring compliance with and the enforcement of ATOL regulations. easyJet may also pass your information on to government authorities or enforcement bodies e.g. for compliance with Advanced Passenger Information requirements. 
 
 From time to time, we make certain third party offers available through our site. If you choose to accept such an offer, we will disclose your contact and billing information to the third party who made the offer available to you. 
 
 easyJet passes personal data, which includes information about your method of payment and flight booking, to the credit or debit card company that issued the card with which you made your booking. For your convenience and information the easyJet website provides links to other websites. easyJet would like to make you aware that these sites may have different security and privacy policies and that we have no control over and take no responsibility for any information contained in these sites. 
 
-**8\. Your consent** In using the easyJet web site, you consent to the collection and use of this information by easyJet Airline Company Limited and easyJet Switzerland S.A in the ways described above. 
+**8\. Your consent**  
+
+In using the easyJet web site, you consent to the collection and use of this information by easyJet Airline Company Limited and easyJet Switzerland S.A in the ways described above. 
 
 If you have any further questions about our Privacy Policy or its implementation, please contact our customer services department. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and in what circumstances we disclose it.
 
