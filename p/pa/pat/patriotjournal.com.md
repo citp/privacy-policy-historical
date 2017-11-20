@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the patriotjournal.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623121613id_/http%3A//patriotjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotjournal.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120144635id_/http%3A//patriotjournal.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Patriot Journal
+# Privacy Policy | Patriot Journal
 
 **Privacy policy**
 
-  1. **Introduction**
+  
+
+
+  1.  **Introduction**
 
 
 
@@ -206,4 +209,4 @@
 
 
 
-14.1 You can contact us emailing us at info@patriotjournal.com.
+14.1 You can contact us emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
