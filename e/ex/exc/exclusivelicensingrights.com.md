@@ -1,91 +1,114 @@
-> *The following text is extracted and transformed from the exclusivelicensingrights.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216172657id_/http%3A//exclusivelicensingrights.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivelicensingrights.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120045232id_/https%3A//promotelabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal – Privacy Policy – PromoteLabs
 
-PRIVACY POLICY
+Last updated: December 03, 2015
 
-**BACKGROUND:**  
-This Policy applies as between you, the User of this and any web site you visit that is owned and operated by ExclusiveLicensingRights.com  This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
+Promote Labs Inc. (“us”, “we”, or “our”) operates the https://promotelabs.com website (the “Service”).
 
-**1\. Definitions and Interpretation**  
-In this Policy the following terms shall have the following meanings: 
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-"Account" means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-"Content" means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://promotelabs.com
 
-"Cookie" means a small text file placed on your computer by ExclusiveLicensingRights.com when you visit certain parts of our Web Sites. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Where e-commerce facilities are provided, Cookies may be used to store your information. Further details are contained in Clause 10 and Schedule 1 of this Policy;
+**Information Collection And Use**
 
-"Data" means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information (“Personal Information”).
 
-"ExclusiveLicensingRights.com" means ExclusiveLicensingRights.com;
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-"Service" means collectively any online facilities, tools, services or information that ExclusiveLicensingRights.com makes available through the Web Site either now or in the future;
+**Log Data**
 
-"System" means any online communications infrastructure that ExclusiveLicensingRights.com makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-"User" / "Users" means any third party that accesses the Web Site and is not employed by ExclusiveLicensingRights.com and acting in the course of their employment; 
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-and "Web Site" means the website that you are currently using and any sub-domains of this site and all sites owned by ExclusiveLicensingRights.com unless expressly excluded by their own individual terms and conditions.
+**Cookies**
 
-**2\. Data Collected**  
-Without limitation, any of the following Data may be collected:  
-2.1 name;  
-2.2 date of birth;  
-2.3 gender;  
-2.4 job title;  
-2.5 profession;  
-2.6 contact information such as email addresses and telephone numbers;  
-2.7 demographic information such as post code, preferences and interests;  
-2.8 financial information such as credit / debit card numbers;  
-2.9 IP address (automatically collected);  
-2.10 web browser type and version (automatically collected);  
-2.11 operating system (automatically collected);  
-2.12 a list of URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected);   
-2.13 Cookie information (see clause 10 below).
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
 
-**3\. Our Use of Data**  
-3.1 Any personal Data you submit will be retained by ExclusiveLicensingRights.com for as long as you use the Services and Systems provided on the Web Site. Data that you may submit through any communications System that we may provide may be retained for a longer period of up to 6 years.  
-3.2 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. This does not include our affiliates and / or other companies within our group.  
-3.3 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 9 below.  
-3.4 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:  
-3.4.1 internal record keeping;  
-3.4.2 improvement of our products / services;  
-3.4.3 transmission by email of promotional materials that may be of interest to you;  
-3.4.4 contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update the Web Site.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
 
-**4\. Third Party Web Sites and Services**  
-ExclusiveLicensingRights.com may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services may have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that ExclusiveLicensingRights.com requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
-**5\. Changes of Business Ownership and Control**  
-5.1 ExclusiveLicensingRights.com may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.  
-5.2 In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
+**DoubleClick Cookie**
 
-**6\. Controlling Access to your Data**  
-6.1 Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:  
-6.1.1 use of Data for direct marketing purposes; and  
-6.1.2 sharing Data with third parties.
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-**7\. Your Right to Withhold Information**  
-7.1 You may access certain areas of the Web Site without providing any Data at all. However, to use all Services and Systems available on the Web Site you may be required to submit Account information or other Data.  
-7.2 You may restrict your internet browser's use of Cookies. For more information see clause 10.4 below.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
 
-**8\. Accessing your own Data**  
-8.1 You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.  
-8.2 You have the right to ask for a copy of your personal Data on payment of a administration fee.
+**Behavioral Remarketing**
 
-**9\. Security**  
-9.1 Data security is of great importance to ExclusiveLicensingRights.com and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
+Promote Labs Inc. uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-**10\. Cookies**  
-10.1 ExclusiveLicensingRights.com may set and access Cookies on your computer. Cookies that may be placed on your computer are detailed in Schedule 1 to this Policy.  
-10.2 A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.   
-10.3 You may delete Cookies, however you may loose any information that enables you to access the Web Site more quickly.  
-10.4 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
+  * **Google** Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads "Google Ads Settings") page. 
 
-**11\. Changes to this Policy**  
-ExclusiveLicensingRights.com reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
+Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on") for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-No part of this website may be reproduced or transmitted in any form or by any means without written permission from ExclusiveLicensingRights.com  
-**Copyright 2020, MemberSpeed, Inc. and ExclusiveLicensingRights.com. All Rights Reserved.  
-USA: 2248 Meridian Boulevard Suite H. Minden, NV 89423**
+For more information on the privacy practices of Google, please visit the [Google Privacy & Terms](http://www.google.com/intl/en/policies/privacy/ "Google Privacy & Terms") web page.
+
+
+
+
+**Do Not Track Disclosure**
+
+We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+**Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+
+**Communications**
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+**Compliance With Laws**
+
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
+**Business Transaction**
+
+If Promote Labs Inc. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
+
+**Security**
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+**International Transfer**
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+**Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children’s Privacy**
+
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+**Changes To This Privacy Policy**
+
+This Privacy Policy is effective as of December 03, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us.
