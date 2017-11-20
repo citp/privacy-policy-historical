@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homegauge.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132409id_/http%3A//homegauge.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegauge.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120182525id_/http%3A//www.homegauge.com/privacy.html) for the most accurate reproduction.*
 
 # HomeGauge Privacy Policy
 
