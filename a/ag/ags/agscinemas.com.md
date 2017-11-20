@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agscinemas.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629123018id_/http%3A//www.agscinemas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agscinemas.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120053730id_/http%3A//www.agscinemas.com/privacy-policy) for the most accurate reproduction.*
 
 # Movie Theatre in Chennai, Tamil Nadu - BookMyShow
 
@@ -16,7 +16,7 @@ We also collect information about your movie preferences. For example, we may co
 
 ## DELETION OF INFORMATION AND RECORDS
 
-While [agscinemas.com](https://web.archive.org/web/20170629123018id_/http%3A//www.agscinemas.com/agscinemas.com) may track and store information, [agscinemas.com](https://web.archive.org/web/20170629123018id_/http%3A//www.agscinemas.com/agscinemas.com) shall not be obligated to do so and may delete any information and records, in whole or in part, at any time.
+While [agscinemas.com](https://web.archive.org/web/20171120053730id_/http%3A//www.agscinemas.com/agscinemas.com) may track and store information, [agscinemas.com](https://web.archive.org/web/20171120053730id_/http%3A//www.agscinemas.com/agscinemas.com) shall not be obligated to do so and may delete any information and records, in whole or in part, at any time.
 
 ## What we use the information for :
 
