@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keloland.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619165256id_/http%3A//www.keloland.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keloland.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120164429id_/http%3A//www.keloland.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,7 +61,7 @@ We employ certain physical, administrative, and technical measures in an attempt
 If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you may contact us at:
 
 By email: [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv)  
-By phone: 855-997-2470  
+By phone: 972-373-8800  
 By mail: Digital Privacy Administrator  
 Nexstar Broadcasting, Inc.  
 545 E. John Carpenter, Suite 700  
