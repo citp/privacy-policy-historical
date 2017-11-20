@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111018id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120044337id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - HOMEMADE BDSM
 
@@ -37,75 +37,76 @@ HomeMadeBDSM.com provides email support for users who purchase the software at o
 Find your Alternative playmate!   
 | 
 
-[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=innocentemmy)
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=nataliarain)
 
 HD
 
-[ innocentemmy](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=innocentemmy) 22
+[ nataliarain](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=nataliarain) 20
 
-  * hello ! #shes18 #teen_friend #she_doenst_know_about_us #shh #not_alone #500tk_snap_and_one_squirtvid #best_squirter - Multi-Goal : cum #lovense_lush #squirt #creamy_cum #big_tits
+  * Natalia Rain #dance #petite #hothits #dancenight
 
 
-  * 21 mins, 6439 viewers
+  * 27 mins, 4580 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=aliciagrey)
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=andrewiulian)
 
 HD
 
-[ aliciagrey](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=aliciagrey) 26
+[ andrewiulian](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=andrewiulian) 18
 
-  * Cum show,pm=50,boobiez=100,kitty=200,c2c=250,SNAP=555, PV ON,(pm before) smile=111, kissyou=222, loveyou=444.9OLD VIDEOS=500,2NEW VIDEOS=444(leave email in tip note please) [1466 tokens remaining]
+  * Parent's bedroom - Anal 444tkns single tip #student #cum #lush #brunette #fuck #squirt #cum [Drain rate: 1 token every second]
 
 
-  * 11 mins, 2793 viewers
+  * 16 mins, 3490 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=sweetddianna)
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=butterybubblebutt)
 
 HD
 
-[ sweetddianna](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=sweetddianna) 24
+[ butterybubblebutt](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=butterybubblebutt) 22
 
-  * fuck blonde [254 tokens remaining]
+  * 🍑 S N A P C H A T SALE! TIP 222! / Dick Ride @ every goal / CUM SHOW @ 7 goals! / tip 500 tokens to preorder the sexy vid with my sister! / VIP status on snap = 420
 
 
-  * 10 mins, 2241 viewers
+  * 8 mins, 1817 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=couplesexe10)
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=saltycarpetsnake)
 
 HD
 
-[ couplesexe10](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=couplesexe10) 24
+[ saltycarpetsnake](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=saltycarpetsnake) 22
 
-  * 'CrazyTicket': timer ON : blowjob fuck pussy cum shot Type /cmds to see all commands.
+  * CUMSHOT [559 tokens remaining]
 
 
-  * 10 mins, 3469 viewers
+  * 0 mins, 1710 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=wabashtke)
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=cedarnpearl)
 
 HD
 
-[ wabashtke](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=wabashtke) 39
+[ cedarnpearl](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=cedarnpearl) 25
 
-  * 
+  * AFTER SHOW: Please give a THUMBS UP if you enjoyed the show! Also follow here %26 on Twitter: @cedarnpearl.
 
-  * 17 mins, 1069 viewers
+
+  * 31 mins, 1823 viewers
 
   
   
