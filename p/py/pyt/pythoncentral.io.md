@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pythoncentral.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023003id_/http%3A//pythoncentral.io/python-central-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pythoncentral.io privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120172000id_/http%3A//pythoncentral.io/python-central-privacy-policy) for the most accurate reproduction.*
 
 # Python Central Privacy Policy | Python Central
 
@@ -26,5 +26,3 @@ Although most changes are likely to be minor, Python Central may change its Priv
 ## Third Party Advertising
 
 Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
-
-Python is a beautiful language. 
