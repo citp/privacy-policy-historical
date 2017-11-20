@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dudesnude.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103855id_/http%3A//dudesnude.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudesnude.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174049id_/http%3A//dudesnude.com/privacy.php) for the most accurate reproduction.*
 
 # dudes nude | privacy policy
 
-[](http://dudesnude.com/warning.php)
+[](http://www.dudesnude.com/warning.php)
 
 dudesnude privacy policy
 
