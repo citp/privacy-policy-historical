@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoonyexperiment.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095100id_/http%3A//spoonyexperiment.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoonyexperiment.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120045209id_/http%3A//spoonyexperiment.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | The Spoony Experiment
 
@@ -54,4 +54,4 @@ Our website may contain links to enable you to visit other websites of interest 
 **Log Files**  
 Like many other websites, we make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information, are not linked to any information that is personally identifiable.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at [spoonyone@spoonyexperiment.com.](mailto:s%70oo%6eyone@sp%6fon%79%65xper%69m%65%6et.%63om.) We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at [spoonyone@spoonyexperiment.com.](mailto:sp%6fonyo%6ee@%73%70oo%6e%79expe%72i%6den%74%2ec%6fm%2e) We will promptly correct any information found to be incorrect.
