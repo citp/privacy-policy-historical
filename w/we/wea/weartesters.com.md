@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weartesters.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131958id_/http%3A//weartesters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weartesters.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120113051id_/https%3A//weartesters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WearTesters
 
-This Privacy Policy governs the manner in which WearTesters collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.weartesters.com website (“Site”).
+This Privacy Policy governs the manner in which WearTesters collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.weartesters.com website (“Site”).
 
 ### Personal identification information
 
