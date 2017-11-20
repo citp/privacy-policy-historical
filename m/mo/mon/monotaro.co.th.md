@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monotaro.co.th privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221095609id_/http%3A//monotaro.co.th/pages/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monotaro.co.th privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173955id_/http%3A//monotaro.co.th/pages/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - MonotaRO Thailand
 
@@ -55,6 +55,8 @@ MonotaRO will not, to any third party, provide or disclose collected personal in
     4. When necessary to makes inquiries to consumer data companies in order to confirm User’s ability to make payments.
     5. When MonotaRO is asked by credit card companies to provide certain personal information in order to conduct investigation on illegal use of credit cards.
     6. When MonotaRO is obliged to provide certain personal information to courts or other entities according to related laws and regulations or other rules.  
+
+    7. When MonotaRO needs to provide companies which manufacture products certain personal information necessary for export related documents preparation for observe laws and regulations.  
 
   3. Disclosure and Correction of Personal Information
 
@@ -146,4 +148,4 @@ In our website, [www.monotaro.sg](http://www.monotaro.sg/), encryption technolog
 
 
 
-Effective Date:August 26, 2015
+Effective Date:May 2, 2017
