@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monash.edu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628015457id_/http%3A//www.monash.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monash.edu privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120073514id_/http%3A//www.monash.edu/privacy) for the most accurate reproduction.*
 
 # Monash University Websites Privacy Statement - Monash University
 
