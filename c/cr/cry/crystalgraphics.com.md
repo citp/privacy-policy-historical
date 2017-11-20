@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalgraphics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100127id_/http%3A//www.crystalgraphics.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalgraphics.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180247id_/http%3A//www.crystalgraphics.com/privacy.asp) for the most accurate reproduction.*
 
 # CrystalGraphics - Energize your presentations, Videos and Web sites!
 
@@ -59,15 +59,12 @@ Our policy is to occasionally provide electronic links to other sites which may 
 
 **How to Contact Us**
 
-Should you have other questions or concerns about our privacy policy, please don't hesitate to contact us at:
+Should you have other questions or concerns about our privacy policy, please don't hesitate to contact us. See the Contact Us link in the **Help** section below.
 
-[E-mail address](mailto:marketing@CrystalGraphics.com)  
-Phone (408) 496-6175
-
-CrystalGraphics, Inc.  
-Marketing Department  
-3350 Scott Blvd. Building 14  
-Santa Clara, CA USA 95054
+**CrystalGraphics, Inc.**  
+1999 S. Bascom Avenue  
+Suite 700  
+Campbell, CA USA 950008
 
 Your Friends at CrystalGraphics
 
