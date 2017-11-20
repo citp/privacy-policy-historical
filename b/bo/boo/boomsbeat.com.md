@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomsbeat.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630191716id_/http%3A//www.boomsbeat.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomsbeat.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180308id_/http%3A//www.boomsbeat.com/privacypolicy) for the most accurate reproduction.*
 
 # BOOMSbeat
 
