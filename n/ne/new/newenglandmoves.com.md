@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newenglandmoves.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013221457id_/https%3A//www.coldwellbankerhomes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newenglandmoves.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120054500id_/https%3A//www.coldwellbankerhomes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - ColdwellBankerHomes.com
 
@@ -64,7 +64,7 @@ Our hosting service maintains its systems in accordance with reasonable industry
 
 Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (2) the names and addresses of all such third parties.
 
-To request the above information please submit a [Consumer Information Disclosure Inquiry Form](https://web.archive.org/consumer-information-disclosure-inquiry/).
+To request the above information please [contact us](https://web.archive.org/about/contact-us/).
 
 We will respond to such requests within 30 days of receipt. Please note that we are only required to respond to each customer once per calendar year.
 
