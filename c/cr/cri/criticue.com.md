@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the criticue.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521115607id_/http%3A//www.criticue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticue.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120163848id_/http%3A//www.criticue.com/privacy) for the most accurate reproduction.*
 
 # Get Feedback for Your Website - Criticue.com
 
 ### Complete text
 
-This Privacy Policy governs the manner in which Designed.ly sp. z o.o. collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.criticue.com](https://web.archive.org/web/20170521115607id_/http%3A//www.criticue.com/www.criticue.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Designed.ly sp. z o.o.. 
+This Privacy Policy governs the manner in which Designed.ly sp. z o.o. collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.criticue.com](https://web.archive.org/web/20171120163848id_/http%3A//www.criticue.com/www.criticue.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Designed.ly sp. z o.o.. 
 
 #### Personal identification information
 
@@ -53,7 +53,7 @@ Designed.ly sp. z o.o. has the discretion to update this privacy policy at any t
 
 #### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20170521115607id_/http%3A//www.criticue.com/www.criticue.com/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20171120163848id_/http%3A//www.criticue.com/www.criticue.com/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
 #### Contacting us
 
