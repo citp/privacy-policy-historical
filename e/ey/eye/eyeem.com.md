@@ -1,104 +1,101 @@
-> *The following text is extracted and transformed from the eyeem.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814194124id_/http%3A//www.eyeem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeem.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120043756id_/https%3A//www.eyeem.com/en/privacy) for the most accurate reproduction.*
 
-# EyeEm
+# Our Privacy | EyeEm
 
-##### Privacy Policy - EyeEm Community
+ENG
 
-We take the protection of your personal data very seriously and strictly comply with the rules of the data protection regulations. Our staff is obligated to protect your personal data in keeping with the legal regulations. The explanations below provide you with an overview of how we ensure this protection and what kind of data is collected for what purpose. 
+[GER](https://web.archive.org/de/datenschutz)[Download Privacy Policy PDF](http://dl.eyeem.com/market/PP_EN_mar17.pdf)
 
-##### 1\. Responsible authority
+EyeEm offers a platform (hereinafter "EyeEm Community") in which users can share their photos with the community, search for photos of other users or comment on them. The services can be accessed via the mobile EyeEm app (hereinafter "App") or on www.eyeem.com (hereinafter "Website"). Moreover, EyeEm provides a marketplace (hereinafter "EyeEm Market) on which users can offer their photos to others for licensing.
 
-The responsible authority as defined by the Data Protection Law is EyeEm Mobile GmbH, Kohlfurter Strasse 41/43, 10999 Berlin, Germany (hereinafter “EyeEm”). 
+EyeEm Mobile GmbH, Kohlfurter Str. 41/43, 10999 Berlin, Germany (hereinafter "EyeEm" or "we/our") is legally responsible for the collection, processing, and use of personal data in connection with the services provided by EyeEm Community and EyeEm Market, and takes the protection of personal data very seriously. The following explanations give an overview of what data is collected, for what purpose, and how EyeEm ensures protection of your data.
 
-##### 2\. Personal data
+### 1 How is personal data collected, processed and used?
 
-Personal data is individual information about personal or factual affairs of a certain natural person. In order to use the EyeEm Community, it is necessary to enter such personal data. You can revoke your consent to using the data for the future at any time by informing EyeEm using the contact information indicated below. 
+1.1 We collect, process and use your personal data, i.e. information about you as a person, only to the extent necessary to provide our services. This, for example, is the case during the registration process in order to allow the use of EyeEm Community and/or EyeEm Market and to carry out transactions (including verifying the identity of buyers and sellers). User registration information for EyeEm Community includes name, email address, username and/or profile picture. For joining EyeEm Market, additional information such as address, date of birth, tax number and PayPal account information may need to be provided. In order to fulfil EyeEm Market transactions, EyeEm Market users must always provide their real name; the use of an alias is not possible.
 
-##### 3\. EyeEm-Community
+1.2 We also collect, process and use your personal data to improve the use of EyeEm services and ensure their technical functionality, to develop new services, or to make the services more attractive for you. Among others, cookies and similar technologies will be used for this. You can find further details on this in the "Cookies" section below.
 
-3.1 In order to enable you to use the EyeEm-Community, we collect, process and use 
+1.3 We also collect, process and use personal data to send you information via push notification or email. You can select, at any time, which alerts you want to receive via the App (push notifications) and via email (including newsletters, promotional information and Community updates) by selecting "Settings" in your EyeEm account. We will send you corresponding information on the topics selected by you (e.g. if your photo has been selected for the EyeEm Collection or EyeEm Blog or if your photo has been sold). If you do not want to receive promotional emails, you can unsubscribe at any time via the link provided in the email.
 
-  * your first and last name, 
+1.4 We also collect and process information that is embedded in the metadata of the photo (exif data such as date, time and location when/where the photo has been taken, camera model, shutter speed, etc.) and use such information for the purposes of our services, i.e. to increase the chances of selling your photo through EyeEm Market. We will collect and process information on the location where your photo has been taken (a) if such information is contained in the Exif data of the photo or (b) if it is clearly visible and attributable (such as with landmarks, etc.) or (c) if you have added such data when uploading the photo. To enable you to add location data in the upload process, we use the Foursquare Labs, Inc. database services.
 
-  * the email address you used for registration 
-
-  * the username used for registration 
-
-  * the password used for registration. 
+1.5 As part of the App we also collect, process and use the personal data of your friends or followers on social networks if shared by you. If, for example, you use the "Find People" function, we check if some of your social networks contacts from Facebook, Inc. or Twitter, Inc. are also registered with EyeEm. We will only find them if they have registered on EyeEm with the corresponding social network.
 
 
 
 
-(hereinafter “personal data”). 
+### 2 When is personal data transmitted to a third party?
 
-3.2 We use the data provided by you to render our services. Your data is not transmitted to third parties or used for marketing purposes subject to the following regulations. After termination of the Community License Agreement your data will be blocked for further use and deleted once the mandatory storage periods defined in tax and commercial legislation have passed, unless you have explicitly agreed to its further use in accordance with these data protection regulations. 
+We transmit your personal data to third parties only where this is legally permissible. This may be when transmitting to a licensee or to suppliers contractually connected with us such as agencies, partners, or payment service providers whenever necessary in order for EyeEm to meet its licensing obligations. This may also be necessary if EyeEm is required to do so by a governmental or judicial order. When you have provided a Model and/or Property Release, we will store the data on our servers and can transmit such releases to distributors, licensees and third parties in order to prove the rights approval and/or to respond to any potential or actual legal action or to comply with applicable laws, regulations, and/or other legal requirements.
 
-3.3 EyeEm also uses your personal data to inform you by email about campaigns and offers which are similar to those you are using. You have the right at any time to object to the use of the data in accordance with this section. 
+If you register with the EyeEm Community through the login function of the social networks of Facebook, Inc. or Google, Inc., EyeEm is given certain information on these services by default. More information can be found below in the "Connect Services" section below.
 
-##### 4\. Entering into contact
 
-You can direct questions, opinions and ideas by using the contact form. The information given in this contact form will only be used to answer your questions or to respond to your comments or ideas. 
 
-##### 5\. Transfer to third parties
 
-Data is only transferred to a third party within the scope of legal provisions. Personal data is only transferred to a third party if EyeEm is obliged to transfer the collected data due to a government or court order, or if applicable legal provisions authorise the transfer. 
+### 3 Which cookies and similar technologies are used?
 
-##### 6\. Use of cookies
+We use several technologies to make EyeEm more interesting for you:
 
-Some services of the Community use cookies to offer you a convenient online service featuring numerous functions. Cookies are text files containing information to identify returning visitors exclusively for the time of their visit to the Community. Cookies are saved on the hard disk of your computer and do not cause any harm. Cookies spare you the burden of entering data repeatedly, facilitate the transfer of specific content and help us to identify especially popular sections of our online service. Among others, they enable us to tailor the content of the Community to your needs. 
+3.1 On the website we use cookies, for example, to offer a convenient online service with many features.
 
-You can deactivate the use of cookies in the settings of your browser at any time. To find out how to change the settings, please refer to the help function of your internet browser. 
+Cookies are text files that are stored on the hard disk of your device. Cookies save users the trouble of repeatedly entering data. You can disable the use of cookies in your browser's settings at any time. Instructions for changing the settings can be found in your browser's help function. Some cookies, such as those used for the purpose of web analytics, help EyeEm to identify particularly popular areas of the website. We use the service described below for this.
 
-##### 7\. Google Analytics
+Google Analytics:
 
-For the services of the Community, we use Google Analytics, a web analysing tool by Google Inc. ("Google"). Google Analytics uses so-called "Cookies", text files which are saved on your computer enabling an analysis of your use of the Community. The information generated by the cookie is, as a rule, transmitted to a Google sever in the USA where it will be saved. However, if IP anonymisation is activated in the Community, your IP address will be shortened within the member states of the European Union or other contracting parties to the Agreement on the European Economic Area, prior to transmission. 
+The EyeEm website uses Google Analytics, a web analysis tool from Google, Inc. (hereinafter "Google"). Google Analytics uses cookies to analyze the use of the site by the User. The information generated by the cookie is routinely transmitted to a Google server in the USA and stored there. However, since the IP anonymization is activated on the EyeEm website, the IP address of the User is shortened before transmission within EU Member States or other parties to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and shortened there.
 
-Only in exceptional cases, is the full IP address transmitted to a server of Google in the USA and shortened there. On behalf of EyeEm, Google will use this information to analyse your use of the Community, compile reports on the activities of the Community and to render further services in connection with the use of the Community to EyeEm. The IP address transmitted by your browser within the framework of Google Analytics will not be merged with other data collected by Google. 
+Google uses this information on behalf of EyeEm to analyze the use of the site by the User, to create reports on website activity and to provide other services for EyeEm in connection with the use of the website. The IP address transmitted from the User's browser as part of the Google Analytics service will not be merged with other data collected by Google.
 
-You can prevent your browser from saving cookies by setting your software accordingly; however, be advised that you might not be able to use all Community functions to their full extent. In addition, you can prevent the collection of the Community usage data (incl. your IP address), which were generated by the cookie as well as the processing of this data by Google by downloading and installing the following browser plugin using the following link: _<http://tools.google.com/dlpage/gaoptout?hl=de>_. 
+You can prevent the data generated by the cookie about your website usage (including your IP address) and its processing being captured by Google by downloading and installing the following browser plug-in via the link below: <http://tools.google.com/dlpage/gaoptout?hl=en>.
 
-##### 8\. Localytics 
+Intercom:
 
-For the services of the Community, we use Localytics, an analysing service that collects location information of your mobile device. The location information gained in this way is, as a rule, transmitted to and served on a server of Localytics in the USA. There the information is analysed and transmitted to us. This service enables us to make the Community user-friendlier and more attractive, and to integrate location specific services. 
+For sending emails to our users such as news, promotions and activities related to their account and also for providing live chats on EyeEm we use the Intercom service provided by Intercom Inc. Personal data transmitted to Intercom include your email address and user ID. Further information can be found at <http://docs.intercom.io/privacy>.
 
-##### 9\. Location information
+Logit.io:
 
-If you share your location with other users or add a location description to some content you uploaded to the Community, we will treat this information in the same way as all other personal data. 
+We use the services of Logit.io Ltd. (UK) to collect and store log data. Log data is data that is automatically recorded when you visit our website and process certain requests. The data gathered may include information such as internet protocol (IP) address, browser type, internet service provider (ISP) name, entry and exit pages, platform type, date/time stamp, and number of clicks. The data is stored by Logit.io within the EU. We only use the data for troubleshooting, statistics, analytics, quality assurance, and to monitor and analyze system security. For further information, please check the Privacy Policy at [https://logit.io](https://logit.io/).
 
-##### 10\. Connect services
+3.2 Within the App we use services of Google Analytics, Logit.io, Intercom and the following third party technologies to make our services more interesting for you:
 
-If you log on to the Community via your log-in of the social networks Facebook, Twitter, Fumblr, Flickr or Foursquare (hereinafter collectively referred to as “Network”) you allow us to collect authentication information, such as your username, encrypted log-on information and other data, which is available on or by means of your network account, e.g. your name, your profile picture, your country, you hometown, your email address, your date of birth, your gender, the names of your friends and profile pictures and networks. We save this information to use it for the purposes specified in section 11 and check your network data. 
+Amplitude:
 
-##### 11\. Usage of data 
+We use the services of Amplitude Inc. to collect and analyze specific data on the use of the App in connection with the EyeEm Community and EyeEm Market. This involves your country of origin, the language used by you and your device ID. The data obtained in this way is routinely transmitted and stored on servers of Amplitude in the USA. The data is analyzed there and then transmitted to EyeEm. This service allows EyeEm to make the EyeEm Community and EyeEm Market more user-friendly and attractive. More on how Amplitude uses information for analytical purposes can be found at Amplitude Privacy Policy: <https://amplitude.com/privacy>.
 
-We use the information collected, including your personal data in order to (a) provide the service, to personalise and to improve the use of the services, the products and other offers the service provides, e.g. by offering the adjusted and localised content and advertising; (b) to ensure the technical functionality of the service and the products and services offered via the service, to develop new products and services and to analyse your use of the service, including your interactions with applications, advertising, products and services that are offered, linked on the service and are available; (c) to contact you in matters regarding the service, also by means of e-mails and messaging; (d) to facilitate and make known the service, including functions and contents of the service, such as sharing information, user interactions, notes or tips and suggestions and the integration of third-party services; (e) to implement this Data Protection Declaration and the Conditions of Use, also for the reason to protect rights, the property and security of EyeEm, the User or other persons as well as the parts of the service protected by copyright; and (f) as otherwise herein explained. 
+Crashlytics:
 
-A further use of your data requires your explicit agreement. The granted or refused permission will be documented. 
+For analysis we use the services of Crashlytics from Twitter, Inc. This analysis service provides EyeEm with information on how and under what circumstances the App crashes. The service looks for app crashes, analyzes the collected data and provides reports to EyeEm.
 
-##### 12\. References and links
+Crashlytics automatically collects the User ID and device ID on behalf of EyeEm. This information gives an indication of how the App was functioning at the time of the crash.
 
-Liability for contents of external linked websites (“Hyperlinks”) that lie outside the sphere of responsibility of EyeEm is only assumed if EyeEm is aware of the infringing content and only in the scope of the technically possible and reasonable. 
+More about how Crashlytics works can be found at <http://try.crashlytics.com/terms>.
 
-EyeEm hereby expressly declares that, at the time of the linking, no illegal contents were recognisable on the pages that were to be linked. EyeEm is completely without influence on the current and future form, on the contents and on the authorship of the linked/connected pages. EyeEm therefore herewith expressly dissociates itself from all contents of all linked/connected pages that were changed after the linking. This statement is valid for all links and references established in the EyeEm´s own internet offering, as well as for foreign entries in visitor’s books, forums, link directories and mailing lists and in all kinds of databases where external input to the content is possible. The provider of the pages, to which reference is made, is liable for illegal, incorrect or incomplete contents and, in particular, for damages which result from the use or non-use of such offered information, and not he who merely makes reference to the particular publication via a link. 
 
-##### 13\. Data security
 
-We employ technical and organisational measures in order to safeguard the Community and other systems against loss, destruction, access, changes or the distribution of your data by unauthorised persons. Despite regular controls a complete protection against all dangers is, however, not possible. 
 
-The access to your Community account is possible only after entering your personal password. You should always treat your access information confidentially and close the browser window, once you have ended your communication with us, particularly if you share the use of the computer with others. 
+### 4 How do Connect Services work?
 
-##### 14\. Your rights / duration of use of data
+If you register to the EyeEm Community through a social network such as Facebook, Inc. or Google, Inc., EyeEm receives certain information from the respective social network by default. These include, for example, authentication information necessary for registration, such as your full name, your email address, and User ID. All other data transmitted by the social network – for example, your profile picture, country, hometown, date of birth, gender, etc. – are only sent to EyeEm if you have given authorization.
 
-Through the Federal Data Protection Act (Bundesdatenschutzgesetz), you have the guaranteed rights to information, correction, deletion or blocking of personal data. These rights are to be exercised by a message sent by mail or e-mail to EyeEm´s address mentioned above or the following e-mail address support@eyeem.com. For your own security, please understand that in the event of a request for information or a change we have to verify your data. 
 
-##### 15\. Further information
 
-Should you have further questions about our data protection regulations, you may contact us by e-mail at any time at support@eyeem.com 
 
-##### 16\. Changes to data protection regulations
+### 5 How can you ask for information, correction or deletion?
 
-EyeEm reserves the right to change these data protection regulations at any time, taking into account currently applicable data protection provisions. In case of any changes, you will be notified upon log-on to any service and you will have to agree to the modified data protection regulations pursuant to section 11 of the regulations. 
+You can request information on and/or adjustment, removal or blocking of your stored personal data at any time. Please direct all inquiries on this to: support@eyeem.com. EyeEm will verify your data for your own safety in case of a request or modification.
 
-Should essential parts of EyeEm be sold or become the property of another company, the customer will also be informed about this when logging on to the services of EyeEm. EyeEm reserves the right to grant the acquirer access to personal data if the customer agrees to this pursuant to section 11 of these data protection regulations. 
 
-**As at: February 2014**
+
+
+### 6 What does EyeEm do to make your data secure?
+
+6.1 EyeEm takes technical and organizational measures to protect the website and other systems against loss, destruction, access, modification or dissemination of your personal data.
+
+6.2 Access to your profile is only possible after entering a password. You should therefore always treat access information confidentially and close your browser window after closing the session with EyeEm.
+
+
+
+
+### March 2017
