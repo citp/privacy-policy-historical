@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacermonitor.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210001112id_/https%3A//www.pacermonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacermonitor.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120101510id_/https%3A//www.pacermonitor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
