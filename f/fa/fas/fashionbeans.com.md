@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013616id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120052945id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
 
 # FashionBeans.com Official Privacy Policy
 
 BeansPublishing Limited. (“we”, “our”, “us”) are committed to protecting and respecting your privacy. FashionBeans.com (“website”, “FashionBeans”, “FashionBeans.com”) is operated and run by BeansPublishing Limited, which is registered in England and Wales with Company No. 7740652 and VAT Registration 939 2582 86.
 
-This privacy policy (together with our website [terms and conditions](http://www.fashionbeans.com/terms-and-conditions/) that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [privacy@beanspublishing.com](https://web.archive.org/web/20170606013616id_/http://www.fashionbeans.com/privacy-policy/mailto@privacy@beanspublishing.com).
+This privacy policy (together with our website [terms and conditions](http://www.fashionbeans.com/terms-and-conditions/) that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [privacy@beanspublishing.com](https://web.archive.org/web/20171120052945id_/http://www.fashionbeans.com/privacy-policy/mailto@privacy@beanspublishing.com).
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is BeansPublishing Limited. of 49 Southwark Bridge Road, 2nd Floor, London, SE1 9HH.
 
@@ -147,4 +147,4 @@ FashionBeans.com
 London,  
 SE1 9HH
 
-Alternatively, you can email us at: [privacy@beanspublishing.com](https://web.archive.org/web/20170606013616id_/http://www.fashionbeans.com/privacy-policy/mailto@privacy@beanspublishing.com).
+Alternatively, you can email us at: [privacy@beanspublishing.com](https://web.archive.org/web/20171120052945id_/http://www.fashionbeans.com/privacy-policy/mailto@privacy@beanspublishing.com).
