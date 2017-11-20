@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncaa.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064433id_/https%3A//www.ncaa.org/about/ncaaorg-terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncaa.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120030218id_/https%3A//www.ncaa.org/about/ncaaorg-terms-and-privacy-policy) for the most accurate reproduction.*
 
 # NCAA.org Terms and Privacy Policy | NCAA.org - The Official Site of the NCAA
 
