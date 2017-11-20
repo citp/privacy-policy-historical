@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blancgroup.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119064437id_/http%3A//blancgroup.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blancgroup.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120023136id_/https%3A//blancgroup.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # BLANC & ECLARE
 
@@ -60,17 +60,10 @@ Email us: [info@blancgroup.com](mailto:info.english@blancgroup.com) from the ema
 
 Write us:
 
-c/o BLANC & ECLARE
-
-NVO Air Terminal
-
-Unit D & E , 8 floor
-
-Sunshine Kln Bay Cargo Centre
-
-59 Tai Yip Street, Kowloon Bay,
-
-Kowloon, H.K.
+c/o BLANC GROUP LIMITED  
+Suite 1502,   
+43 Lyndhurst terrace,   
+Central, Hong Kong
 
 Contact us:
 
