@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytephoto.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629150705id_/http%3A//www.bytephoto.com/content.php%3Fr%3D182-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytephoto.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174230id_/http%3A//www.bytephoto.com/content.php%3Fr%3D182-Privacy-Policy) for the most accurate reproduction.*
 
 # Home - Privacy Policy
 
