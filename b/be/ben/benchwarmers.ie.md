@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benchwarmers.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081602id_/http%3A//www.benchwarmers.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benchwarmers.ie privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120024143id_/http%3A//www.benchwarmers.ie/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BenchWarmers
+# Privacy Policy
 
 **Updated 31/07/2015**  
 At Benchwarmers.ie we take your privacy and the protection of your information seriously. We have created this policy in line with the Data Protection Commissioner to demonstrate this commitment and to tell you how we handle and use your data.
