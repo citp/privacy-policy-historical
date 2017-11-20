@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natgeotraveller.in privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623231955id_/http%3A//www.natgeotraveller.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natgeotraveller.in privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174604id_/http%3A//www.natgeotraveller.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nat Geo Traveller India
 
