@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheezitmvc.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604052410id_/http%3A//www.kelloggcompany.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheezitmvc.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173026id_/http%3A//www.kelloggcompany.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
