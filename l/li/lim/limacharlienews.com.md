@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limacharlienews.com privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921111355id_/http%3A//www.limacharlienews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limacharlienews.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120042058id_/https%3A//limacharlienews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lima Charlie News
 
@@ -23,10 +23,10 @@ This Privacy Policy applies to information collected through Lima Charlie Media,
   * **_INFORMATION YOU PROVIDE US_**
   * **_INFORMATION YOU CHOOSE TO PUBLICLY DISPLAY THROUGH THE SITES, AND POSTING CONTENT TO THIRD PARTY SITES_**
   * **_INFORMATION YOU PROVIDE ABOUT A THIRD PARTY_**
-  * **_INFORMATION WE COLLECT AUTOMATICALLY AS YOU ACCESS AND USE THE SITES_**
+  * **_INFORMATION WE COLLECT AUTOMATICALLY AS YOU ACCESS AND — USE THE SITES_**
   * **_HOW WE RESPOND TO DO NOT TRACK SIGNALS_**
   * **_INFORMATION THIRD PARTIES PROVIDE ABOUT YOU AND SOCIAL MEDIA INTERACTIONS_**
-  * **_HOW WE USE THE INFORMATION WE COLLECT_**
+  * **_HOW WE — USE THE INFORMATION WE COLLECT_**
   * **_HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES_**
   * **_THIRD PARTY ANALYTICS PROVIDERS, AD SERVERS AND SIMILAR THIRD PARTIES_**
   * **_CHANGING YOUR SUBSCRIPTIONS  _**
@@ -61,7 +61,7 @@ You may be able to submit comments, ideas, reviews, suggestions and other conten
 
 **_Note that anything you post to a Community Forum is public_** **.** Information you choose to post or make available in the Community Forums may be viewed, collected and used by others.  If you choose to voluntarily disclose User Content, the protections of this Privacy Policy will not cover your disclosure of that information or content. Think carefully before you post and use caution before disclosing any Personal Information.
 
-Lima Charlie may publish User Content online or offline in any media or format (currently existing or later developed). **Subject to applicable law, we may also publish your name, voice, likeness and other Personal Information with your User Content, and Lima Charlie Media may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.** For full terms and conditions regarding User Content you submit, please review our **_[Terms of Use.](http://www.limacharlienews.com/terms-of-use/)_**
+Lima Charlie may publish User Content online or offline in any media or format (currently existing or later developed). **Subject to applicable law, we may also publish your name, voice, likeness and other Personal Information with your User Content, and Lima Charlie Media may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.** For full terms and conditions regarding User Content you submit, please review our **_[Terms of Use.](https://limacharlienews.com/terms-of-use/)_**
 
 Also, if you choose to “like” content on one of the Sites, to tweet from the Sites or to otherwise post information from or via the Sites to a third party web site, feature or application, that information may be public and the third party may have access to information about you and your use of our Sites.
 
@@ -69,7 +69,7 @@ Also, if you choose to “like” content on one of the Sites, to tweet from the
 
 If you send someone else a communication from the Sites, such as sending a video to a friend, the information you provide (names, e-mail addresses, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person.
 
-**INFORMATION WE COLLECT AUTOMATICALLY AS YOU ACCESS AND USE THE SITES**
+**INFORMATION WE COLLECT AUTOMATICALLY AS YOU ACCESS AND — USE THE SITES**
 
 We, as well as any third-party advertisers, service providers and content providers, may use a variety of technologies that automatically or passively collect certain Site usage information whenever you visit or interact with us or our content found elsewhere on the internet (“ **Usage Information** ”). Usage Information may include browser type, operating system, all of the areas within our Sites that you visit, including content that you browse, and the time of day, among other information. We may use Usage Information for a variety of purposes, including to enhance or otherwise improve the Sites and our services. In addition, we automatically collect your IP address or other unique identifier (“ **Device Identifier** ”) for the particular device you use to access the Sites. A Device Identifier is a number that is automatically assigned to your computer, mobile phone, or other device used to access the Sites and our servers identify your device by its Device Identifier. Some mobile service providers may also provide us or our third party service providers with information regarding ** _ _** the physical location of the device used to access our Sites. Usage Information is generally non-identifying, but if we associate it with you as a specific and identifiable person, we treat it as Personal Information.
 
@@ -101,7 +101,7 @@ We may receive information about you from third parties. For example, if you are
 
 We also may verify or supplement the information we collect ** ** with outside records from third parties in order to provide you with information, services or goods you have requested, to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those other sources with information we collect through the Sites. In those cases, we will apply this Privacy Policy to the combined information.
 
-**HOW WE USE THE INFORMATION WE COLLECT**
+**HOW WE — USE THE INFORMATION WE COLLECT**
 
 Lima Charlie Media may use your information, including your Personal Information: (1) to allow you to participate in features we offer; (2) to provide related customer service, including, without limitation, to respond to your questions, complaints or comments; (3) to provide you with information or services that you have requested or agreed to receive (either by opting in or choosing not to opt-out); (4) to process your registration with the Sites, including verifying that your e-mail ** _ _** address is active and valid; (5) to improve the Sites or our services; (6) to tailor content we display to you and offers we may present to you, both on the Sites and elsewhere online;  (7) to contact you with regard to your use of the Sites and, in our discretion, changes to the Sites’ policies; (8) for internal business purposes; and (9) for purposes disclosed at the time you provide your Personal Information or otherwise with your consent.
 
