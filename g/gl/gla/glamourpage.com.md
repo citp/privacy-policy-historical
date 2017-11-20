@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glamourpage.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523002210id_/http%3A//www.glamourpage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamourpage.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120191434id_/http%3A//www.glamourpage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Glamourpage
 
@@ -94,6 +94,6 @@ You further acknowledge that Glamourpage operates in the United States. You agre
 
 Glamourpage or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the Glamourpage Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If Glamourpage or its assets are acquired, customer information will of course be one of the transferred assets.
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Glamourpage email list, please click here or write to us at Glamourpage, 303 Ray Street, Pleasanton, CA 94566 and request to be removed.
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Glamourpage email list, please click here or write to us at Glamourpage, 4725 First St. Suite 215, Pleasanton, CA 94566 and request to be removed.
 
-If you feel that Glamourpage is not abiding by its posted privacy policy, write us at Glamourpage, 303 Ray Street, Pleasanton, CA 94566.
+If you feel that Glamourpage is not abiding by its posted privacy policy, write us at Glamourpage, 4725 First St. Suite 215, Pleasanton, CA 94566.
