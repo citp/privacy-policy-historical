@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiram.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141936id_/http%3A//www.hiram.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiram.edu privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120012729id_/http%3A//www.hiram.edu/privacy-policy) for the most accurate reproduction.*
 
 # Hiram College | Privacy Policy
 
