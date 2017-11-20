@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the first-avenue.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627031814id_/http%3A//first-avenue.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first-avenue.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120040825id_/http%3A//first-avenue.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | First Avenue
 
