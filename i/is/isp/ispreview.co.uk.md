@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616051658id_/http%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120070307id_/https%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
 
 # Website Privacy and Cookie Policy - ISPreview UK
 
-The following page details how ISPreview.co.uk handles privacy and the use of cookie files, including the disclosure of our information gathering and dissemination practices. Please also check our the [Terms of Use](http://www.ispreview.co.uk/terms.shtml) for further details. 
+The following page details how ISPreview.co.uk handles privacy and the use of cookie files, including the disclosure of our information gathering and dissemination practices. Please also check our the [Terms of Use](https://www.ispreview.co.uk/terms.shtml) for further details. 
 
 ### **Information Automatically Logged**
 
@@ -21,11 +21,11 @@ Like most websites ISPreview.co.uk also uses a number of external authentication
 >  A social networking site, which can be used with news comments. At present we have not enabled this feature.
 > 
 > **Facebook**  
->  http://www.facebook.com/about/privacy/  
+>  https://www.facebook.com/about/privacy/  
 >  A social networking site, which is technically usable on our discussion forum. At present we have not enabled this feature.
 > 
 > **Disqus ( __jid, _utmz_ )**  
->  http://docs.disqus.com/help/30/  
+>  https://docs.disqus.com/help/30/  
 >  An article comments system that is used on a small number of this sites pages.
 > 
 > _
@@ -82,15 +82,15 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ### **Security**
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All information such as IP, E-Mails (if submitted) are kept in �none readable� locations and protected by �admin only access�. The only person with the ability to access this information is the owner of the server and nobody else, your data is kept totally confidential. Please see 'Special Relationships' above for information regarding our partnership with Thinkbroadband. 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All information such as IP, E-Mails (if submitted) are kept in 'none readable' locations and protected by 'admin only access'. The only person with the ability to access this information is the owner of the server and nobody else, your data is kept totally confidential. Please see 'Special Relationships' above for information regarding our partnership with Thinkbroadband. 
 
 ### **Choice/Opt-Out**
 
-  * You can send email to: [Mark Jackson](http://www.ispreview.co.uk/contact.shtml)
-  * You can visit the following URL: [http://www.ispreview.co.uk](http://www.ispreview.co.uk/)
+  * You can send email to: [Mark Jackson](https://www.ispreview.co.uk/contact.shtml)
+  * You can visit the following URL: [https://www.ispreview.co.uk](https://www.ispreview.co.uk/)
 
 
 
 ### **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us: [HERE](http://www.ispreview.co.uk/contact.shtml). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us: [HERE](https://www.ispreview.co.uk/contact.shtml). 
