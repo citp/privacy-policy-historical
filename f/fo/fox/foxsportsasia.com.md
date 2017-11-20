@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the foxsportsasia.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612014300id_/http%3A//www.foxsportsasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsportsasia.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120025037id_/http%3A//www.foxsportsasia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FOX SPORTS
+# Privacy Policy - FOX Sports Asia
 
 **Table of Contents:**  
 
 
-  1. INTRODUCTION
-  2. COLLECTION OF INFORMATION
-  3. USE AND DISCLOSURE
-  4. SECURITY
-  5. USER ACCESS AND CONTROL
-  6. OTHER IMPORTANT INFORMATION
-  7. CONTACT DETAILS AND COMPLAINTS HANDLING
+  1. [INTRODUCTION](http://www.foxsportsasia.com/privacy-policy/#intro)
+  2. [COLLECTION OF INFORMATION](http://www.foxsportsasia.com/privacy-policy/#coi)
+  3. [USE AND DISCLOSURE](http://www.foxsportsasia.com/privacy-policy/#uad)
+  4. [SECURITY](http://www.foxsportsasia.com/privacy-policy/#secure)
+  5. [USER ACCESS AND CONTROL](http://www.foxsportsasia.com/privacy-policy/#uac)
+  6. [OTHER IMPORTANT INFORMATION](http://www.foxsportsasia.com/privacy-policy/#oii)
+  7. [CONTACT DETAILS AND COMPLAINTS HANDLING](http://www.foxsportsasia.com/privacy-policy/#cdch)
 
 
   1. **INTRODUCTION**
