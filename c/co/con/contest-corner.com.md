@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contest-corner.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430205722id_/http%3A//www.contest-corner.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contest-corner.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120181128id_/http%3A//www.contest-corner.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Contest Corner: The Best Giveaways on The Net! | Oregon Coast Blogger
 
