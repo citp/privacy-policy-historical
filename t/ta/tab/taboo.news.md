@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taboo.news privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511141751id_/http%3A//taboo.news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taboo.news privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120085306id_/http%3A//taboo.news/privacy-policy) for the most accurate reproduction.*
 
 # taboo.news Privacy Policy – Taboo News
 
