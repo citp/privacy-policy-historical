@@ -1,28 +1,27 @@
-<!--The following is the downloaded HTML source of the mangafox.me privacy policy that was archived on 2017-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170626172610id_/http%3A//mangafox.me/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mangafox.me privacy policy that was archived on 2017-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120204711id_/https%3A//mangafox.me/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-
 <meta name="keywords" content="manga,read manga,manga online,magna scans,manga volume,manga chapter,online manga,read free manga,free manga,read free manga online,manga viewer,manga download,manga downloads,japanese comic">
 <meta name="description" content="Read your favorite mangas online! Hundreds of high-quality free manga for you, with a list being updated daily. Naruto manga, Bleach manga, One Piece manga, Air Gear manga, Claymore manga, Fairy Tail manga, Inuyasha manga, and many more...">
 <title>Manga Fox: Privary Policy</title>
 <meta property="og:title" content="Read Manga Online">
 <meta property="og:site_name" content="Manga Fox">
-<meta property="og:image" content="http://mangafox.me/media/logotn.png">
+<meta property="og:image" content="http://c.mfcdn.net/media/logotn.png">
 <meta property="fb:admins" content="100008598698356">
 <meta property="fb:admins" content="100008320095886">
 <meta property="fb:app_id" content="105895693075169">
 
-<link rel="Shortcut Icon" href="http://mangafox.me/favicon.ico" type="image/x-icon">
-<link rel="apple-touch-icon" href="http://mangafox.me/apple-touch-icon.png">
-<link rel="search" type="application/opensearchdescription+xml" title="Manga Fox Search" href="http://mangafox.me/opensearch.xml">
+<link rel="Shortcut Icon" href="//mangafox.me/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="//mangafox.me/apple-touch-icon.png">
+<link rel="search" type="application/opensearchdescription+xml" title="Manga Fox Search" href="//mangafox.me/opensearch.xml">
 <meta name="google-site-verification" content="nYL050P9BCH5N_tE2hN4RuZXvCCAYkAr5pEQbApF6UU">
-<link rel="stylesheet" type="text/css" media="screen" href="http://mangafox.me/media/css/all.css?20170124143218">
+<link rel="stylesheet" type="text/css" media="screen" href="//c.mfcdn.net/media/css/all.css?20171108135045">
 <!--[if gt IE 7]><!-->
-<link rel="stylesheet" href="http://mangafox.me/media/css/all.img.css?20170124143218" type="text/css" media="all">
+<link rel="stylesheet" href="//c.mfcdn.net/media/css/all.img.css?20171108135045" type="text/css" media="all">
 <!--<![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://mangafox.me/media/js/LAB.js?20170124143218"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//c.mfcdn.net/media/js/LAB.js?20171108135045"></script>
 <script type="text/javascript">
 
 
@@ -32,150 +31,199 @@ if (top.location != self.location) {
 	alert("This is a fraud site, the page will be redirected.");
 	top.location=self.location;
 }
-var img_url="http://mangafox.me/media/";
+var img_url="//c.mfcdn.net/media/";
 var is_loggedin=false;
 
 $LAB
-.queueScript("http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js").queueWait()
-.queueScript("http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js").queueWait()
-.queueScript("http://mangafox.me/media/js/default.min.js?20170124143218")
+.queueScript("//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js").queueWait()
+.queueScript("//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js").queueWait()
+.queueScript("//c.mfcdn.net/media/js/default.min.js?20171108135045")
+.queueScript("//c.mfcdn.net/media/js/fb_dialog.js?20171108135045")
+.queueScript("//c.mfcdn.net/media/js/history.js?20171108135045")
 .queueWait();
 </script>
 
 
 <script type="text/javascript">
-
-if(!getCookie) {
-    function setCookie(c_name,value,expiredays) {
-        var exdate=new Date()
-        exdate.setDate(exdate.getDate()+expiredays)
-        cookieVal=c_name+ "=" +escape(value)+((expiredays==null) ? "" : ";expires="+exdate.toGMTString())+";domain=.mangafox.me;path=/";
-        console.log(cookieVal);
-        document.cookie=cookieVal;
+    var cookie = {
+        set:function(key,val,time){
+            var date=new Date();
+            var expiresDays=time;
+            date.setTime(date.getTime()+expiresDays*24*3600*1000);
+            document.cookie=key + "=" + val +";path=/;expires="+date.toGMTString();
+            return true;
+        },
+        get:function(key){
+            var getCookie = document.cookie.replace(/[ ]/g,"");
+            var arrCookie = getCookie.split(";")
+            var v = null;
+            for(var i=0;i<arrCookie.length;i++){
+                var arr=arrCookie[i].split("=");
+                if(key==arr[0]){
+                    v=arr[1];
+                    break;
+                }
+            }
+            return v;
+        },
+        delete:function(key){
+            var date = new Date();
+            date.setTime(date.getTime()-10000);
+            document.cookie = key + "='';path=/;expires =" +date.toGMTString();
+            return true;
+        }
     }
-    function getCookie(c_name) {
-        if (document.cookie.length>0)
-        {
-            c_start=document.cookie.indexOf(c_name + "=")
-            if (c_start!=-1)
-            {
-                c_start=c_start + c_name.length+1
-                c_end=document.cookie.indexOf(";",c_start)
-                if (c_end==-1) c_end=document.cookie.length
-                return unescape(document.cookie.substring(c_start,c_end))
+
+    function jumpMoible() {
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+            if (document.location.href.indexOf('f=mobile')>0) {
+                cookie.set("MHNMM", 1, 1);
+            } else if (!cookie.get('MHNMM')) {
+                console.log('jump mobile site.');
+                window.location.href = "http://m.mangafox.me" + window.location.href.split(window.location.host)[1];
             }
         }
-        return ""
     }
-}
-
-function jumpMoible(){
-	var web_url = 'http://mangafox.me/';
-	var mobile_url = 'm.mangafox.me';
-	var local_url = document.location.href;
-	if(/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
-	        var hide = getCookie('MHNMB');
-	        if(hide == "" || hide != 1) {
-	        	if(document.location.href==web_url){
-	        		document.location.href='http://'+mobile_url;
-	        	}else{
-	        		var path_url = document.location.pathname;
-	        		if(path_url=='/'){
-	        			var search = document.location.search;
-	        			search = search.replace('?','');
-	        			search = search.replace('#','');
-	        			var search_params = search.split('&');
-	        			for (var i = search_params.length - 1; i >= 0; i--) {
-	        				if(search_params[i]=='f=mobile'){
-	        					 setCookie("MHNMB", 1, null);
-	        				}
-	        			};
-
-	        		}else if(/^(\/manga)\/(\w+\/?)+/i.test(path_url)){
-	        			document.location.href='http://'+mobile_url+path_url;
-	        		}
-	        	}
-	        }
-	}
-}
-jumpMoible();
-
+    jumpMoible();
 </script>
 </head>
 <body id="body">
 <a name="top"></a>
-<script type="text/javascript">
-$LAB
-.queueScript("http://forums.mangafox.me/clientscript/vbulletin_md5.js").queueWait(function(){
-	$('.loaded').show();
-	$("#login").dialog({
-		autoOpen: false,
-		width: 497,
-		height: 324,
-		modal: true,
-		dialogClass: 'login-dialog',
-		draggable: false,
-		resizable: false,
-		open: function(event, ui) { $('.ui-widget-overlay').bind('click', function(){ $("#login").dialog('close'); }); }
-	});
-});
-</script>
-<div id="login" style="display:none">
-<form action="/ajax/login.php" id="loginform" method="post">
-<input type="hidden" name="cookieuser" value="1">
-<input type="hidden" name="s" value="">
-<input type="hidden" name="securitytoken" value="guest">
-<input type="hidden" name="do" value="login">
-<input type="hidden" name="vb_login_md5password">
-<input type="hidden" name="vb_login_md5password_utf">
-
-<input type="text" class="textbox" name="vb_login_username" id="navbar_username" maxlength="100" size="10" accesskey="u" tabindex="101" value="">
-<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10">
-
-<a href="javascript:void(0);"><button class="button login_button" type="button" id="dialog-login">Login</button></a>
-<a href="http://forums.mangafox.me/register.php"><button class="button signup_button" type="button">Sign Up</button></a>
-
-
-<!-- <span id="fb_headerbox" class="hidden"><a id="fb_loginbtn" href="javascript:void(0);"><button class="button facebook_button" type="button">Facebook Connect</button></a></span> -->
-</form>
-</div>
-    <a href="https://z6.com/anime-series-topic/transformers-for-sale.html" target="_blank">
-    <div style="background:url(http://h.mfcdn.net/store/mfbanners/pc.skin_1498202209.png?token=2480b2ca8e0fcf94f7fea20703b137e2&amp;ttl=1498582800&amp;v=1498202209) no-repeat scroll right top transparent;height:768px;left:-475px;top:94px;position:fixed;width:50%;cursor:pointer"></div></a>
-    <a href="https://z6.com/anime-series-topic/transformers-for-sale.html" target="_blank">
-    <div style="background:url(http://h.mfcdn.net/store/mfbanners/pc.skin_1498202221.png?token=38d94dc5b71e7c9654db0fd1e40db053&amp;ttl=1498582800&amp;v=1498202221) no-repeat scroll 475px top transparent;height:768px;right:0;top:94px;position:fixed;width:50%;cursor:pointer"></div></a>
+    <a href="http://mangazoneapp.com/?utm_source=MangaFox&amp;utm_medium=banner&amp;utm_term=MangaZoneOfficial&amp;utm_content=Android&amp;utm_campaign=MF_PC_Skin" target="_blank">
+    <div style="background:url(https://lmfcdn.secure.footprint.net/store/mfbanners/pc.skin_1482302689.png?token=7ac8c3eb9b9b77b090cc9535ead76af324bda116&amp;ttl=1511294400&amp;v=1482302689) no-repeat scroll right top transparent;height:768px;left:-475px;top:94px;position:fixed;width:50%;cursor:pointer"></div></a>
+    <a href="http://mangazoneapp.com/?utm_source=MangaFox&amp;utm_medium=banner&amp;utm_term=MangaZoneOfficial&amp;utm_content=Android&amp;utm_campaign=MF_PC_Skin" target="_blank">
+    <div style="background:url(https://lmfcdn.secure.footprint.net/store/mfbanners/pc.skin_1482302681.png?token=3533282d1b15ad89b2a2da9acacf2e8f294a5ced&amp;ttl=1511294400&amp;v=1482302681) no-repeat scroll 475px top transparent;height:768px;right:0;top:94px;position:fixed;width:50%;cursor:pointer"></div></a>
     <!--            <div class="test">-->
 <div id="header" class="clear">
 	<div class="widepage">
-		<a href="http://mangafox.me/" id="logo"><span>Manga Fox</span></a>
+		<a href="//mangafox.me/" id="logo"><span>Manga Fox</span></a>
 		<div id="corner">
-			<form action="http://mangafox.me/search.php" id="lookupform" class="left" method="get">
+			<form action="//mangafox.me/search.php" id="lookupform" class="left" method="get">
 				<fieldset class="left" id="searchbox">
 					<input name="name" type="text" value="Enter Manga Name..." maxlength="100" class="ui-autocomplete-input" id="lookupwords">
-					<a href="http://mangafox.me/search.php" rel="nofollow">Advanced</a>
-					<a href="http://mangafox.me/surprise.php" rel="nofollow">Surprise</a>
+					<a href="//mangafox.me/search.php" rel="nofollow">Advanced</a>
+					<a href="//mangafox.me/surprise.php" rel="nofollow">Surprise</a>
 				</fieldset>
 			</form>
-			<ul>
-															<li><a href="http://forums.mangafox.me/register.php" rel="nofollow">Register</a></li>
-						<li><a href="javascript:void(0);" onclick="$('#login').dialog('open');" class="loaded" rel="nofollow">Login</a></li>
-													</ul>
+			<span class="sign" id="sign">
+    			<script type="text/javascript">
+    			$LAB.queueScript('/ajax/is_login.php');
+    			</script>
+		    </span>  
 		</div>
 		<div class="clear"></div>
-		<iframe src="//www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3A%2F%2Fwww.facebook.com%2Fmangafoxlife&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=141149349292130" scrolling="no" frameborder="0" style="float:left;border:none;overflow:hidden;width:100px;height:21px;margin-top:22px;margin-left:10px;margin-top:30px" allowtransparency="true"></iframe>
+		<iframe src="//www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3A%2F%2Fwww.facebook.com%2Fmangafoxgo&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=141149349292130" scrolling="no" frameborder="0" style="float:left;border:none;overflow:hidden;width:100px;height:21px;margin-top:22px;margin-left:10px;margin-top:30px" allowtransparency="true"></iframe>
 		<ul id="menu">
-			<li class="left"><a href="http://mangafox.me/">Home</a></li>
-			<li><a href="http://mangafox.me/releases/">Latest Releases</a></li>
-			<li><a href="http://mangafox.me/directory/">Manga Directory</a></li>
-			<li><a href="http://forums.mangafox.me/">Forums</a></li>
-			<li><a href="http://mangafox.me/bookmark/" rel="nofollow">Bookmark</a></li>
-			<li class="new"><a href="http://mangafox.me/search/author/Saiko+Plus/" rel="nofollow">Partner Manhua</a></li>
-			<li class="right"><a href="http://orzzzz.com/acg?utm_source=mf&amp;utm_medium=nav&amp;utm_campaign=mfnav" target="_blank">ACG Topics</a></li>
+			<li class="left"><a href="//mangafox.me/">Home</a></li>
+			<li><a href="//mangafox.me/releases/">Latest Releases</a></li>
+			<li><a href="//mangafox.me/directory/">Manga Directory</a></li>
+			<li><a href="/goodbye_mf_forum.htm">Bye Forum</a></li>
+			<li><a href="//mangafox.me/bookmark/" rel="nofollow">Bookmark</a></li>
+			<li class="new"><a href="//mangafox.me/search/author/Saiko+Plus/" rel="nofollow">Partner Manhua</a></li>
+			
 		</ul>
 	</div>
 </div>
 <div class="clear"></div>
-
-<!-- content -->
+<div class="dialog_box" id="sign_up">
+    <a href="javascript:void(0);" class="close" onclick="javascript:boxRemove('sign_up');" title="Close">x</a>
+    <div class="title">Sign Up</div>
+    <p class="mb10"><strong class="color_0077">Want to save time?</strong> Sign up with your facebook account now</p>
+    <a href="javascript:;" class="facebook_sign fb-login"><span>f</span>Login with Facebook</a>
+    <p class="color_0077 mt10">Or complete the form below</p>
+    <div class="register">
+        <form id="signupform">
+        <ul class="register_list">
+        <li><label>User Name</label><input type="text" class="text" name="username" id="username"><span class="color_ff00">Required in 4 to 14 letters or numbers</span></li>
+        <li><label>Password</label><input type="password" class="text" name="password" id="password"><span class="color_ff00">Required in 6-14 characters</span></li>
+        <li><label><span class="re_type">Re-type<br>Password</span></label><input type="password" class="text" name="password_confirm" id="password_confirm"><span></span></li>
+        <li><label>Email</label><input type="text" class="text" name="email" id="email"><span></span></li>
+        <li><label class="checkbox_RM"><input type="checkbox" class="checkbox" value="1" id="iagree" checked="checked">I accept the <a class="color_0077" href="/privacy.htm" target="_blank">Privacy Policy</a>.</label></li>
+        <li class="ml80"><a href="javascript:void(0);" class="one_buttoon mr15" id="do_singup"><span>Sign Up</span></a></li>
+        </ul>
+        </form>
+    </div>
+</div>
+<div class="dialog_box" id="sign_in">
+<a href="javascript:void(0);" class="close" onclick="javascript:boxRemove('sign_in');" title="Close">x</a>
+<div class="title">Member Login</div>
+<p class="mb10"><strong class="color_0077">Log in with your facebook account</strong></p>
+<a href="javascript:;" class="facebook_sign fb-login"><span>f</span>Login with Facebook</a>
+<p class="color_0077 mt10">Or with mangafox account <a href="javascript:boxRemove('sign_in');boxShow('sign_up');" class="color_0077 tdu ml10">Don't have an account?</a></p>
+  <div class="login">
+	 <form id="signinform">
+         <ul class="login_list">
+           <li><label>Username</label><input type="text" class="text" name="vb_login_username"></li>
+           <li><label>Password</label><input type="password" class="text" name="vb_login_password"></li>
+           <li>
+    			 	<!-- <label class="checkbox_RM"><input type="checkbox" class="checkbox" value="1" name="remember" />Remember Me</label> -->
+    				<a href="/forgotpassword.htm" class="color_0077 ml10">Forget User Name/Password?</a>
+    			 </li>
+           <li class="ml80"><a href="javascript:void(0);" id="normal_login" class="one_buttoon mr15"><span>Login</span></a></li>
+         </ul>
+	 </form>
+  </div>
+</div>
+<script>
+$LAB.queueScript("//c.mfcdn.net/media/js/jquery.validate.js?20171108135045").queueWait()
+$LAB.queueWait(function(){
+	$('#normal_login').click(function(){
+		$.post(
+			'/ajax/login.php',
+			$("#signinform").serialize(),
+			function(r){
+				var r = eval('(' + r + ')');
+				if(r.code == 0){
+					window.location.reload();
+				}  else {
+					alert(r.message);
+				}
+			}
+		);
+	});
+	$('#signinform input').blur(function(){});
+	$('#signupform #do_singup').click(function(){
+        if(!$("#iagree").attr("checked")) {
+            alert("You need to accept the Privacy Policy.");
+        } else {
+            if($('#signupform .msg-correct').length >=4) {
+                $.post(
+                    '/ajax/signup.php',
+                    $("#signupform").serialize(),
+                    function(r){
+                        if(r == 0) window.location.reload();
+                        else alert(r);
+                    }
+                );
+            }
+        }
+	});
+	jQuery.validator.addMethod("username", function(value, element) {
+		return this.optional(element) || /^[A-Za-z0-9]+$/.test(value);
+	}, "Only allowed letters or numbers");
+	$("#signupform").validate({
+		rules: {
+			username: {required: true,rangelength: [4,14],remote: "/ajax/user.php"},
+			password: {required: true,rangelength: [6,14]},
+			password_confirm: {required: true,rangelength: [6,14],equalTo:"#password"},
+            email: {required: true,email: true,remote: "/ajax/email.php"}
+		},
+		messages: {
+			username: {required: "Please input your username",rangelength:jQuery.format("Only allowed {0} to {1} letters or numbers"),remote: jQuery.format("This username has already exist")},
+			password: {required: "Please input your password",rangelength:jQuery.format("Only allowed {0} to {1} characters")},
+			password_confirm: {required: "Please input your password again",rangelength:jQuery.format("Only allowed {0} to {1} characters"),equalTo: "Please verify your password again"},
+            email: {required: "Please input your Email",email: "Please input an valid Email address",remote: jQuery.format("This Email has already been used")}
+		},
+		errorPlacement: function(error, element) {
+			element.next().removeClass().addClass("msg-errors").html('');
+			element.next('span.msg-errors').append(error.html());
+		},
+		success: function(label,element) {
+			element.next().removeClass().addClass("msg-correct").html('');
+		}
+	});
+});
+</script><!-- content -->
 <div class="widepage" id="page" style="position:relative"><style style="text/css">
 #document{width:930px;padding:10px}
 #document p{text-align:justify;clear:both;margin:10px 0}
@@ -198,62 +246,63 @@ $LAB
 	<b>Website Policy Changes</b>
 	<p>MangaFox reserves the right to change this,  and any other policy located on our website at anytime without notifying our  users. If you have any comments, questions, or concerns regarding this policy,  or any other policy you may send them to us at policy at mangafox.me.</p>
 </div>
-	<div class="clear gap"></div>
+	<div class="clear"></div>
 	<!-- footer -->
 	<div id="footer">
 							<p class="affiliates">
-						<a href="https://z6.com/">Z6 Shop</a> | <a href="http://mangazoneapp.com/?utm_source=MF&amp;utm_medium=mobile%20link&amp;utm_term=manga%20app&amp;utm_content=keywords&amp;utm_campaign=MFML">Manga App</a> | <a href="http://www.mangatown.com/">Hot Manga</a> | <a href="https://z6.com/">Anime Products</a> | <a href="http://www.mangahere.co/">Free Manga</a> | <a href="http://www.orzzzz.com/tag/top_series">Hot Topics</a> | <a href="http://www.xhunter.me/">Hunter Online</a> | <a href="http://mangahome.com/shoujo">Shojo Manga</a> | <a href="http://animesama.com/">Anime Community App</a>					</p>
+						<a href="https://z6.com/">Z6 Shop</a> | <a href="http://mangazoneapp.com/?utm_source=MF&amp;utm_medium=mobile%20link&amp;utm_term=manga%20app&amp;utm_content=keywords&amp;utm_campaign=MFML">Manga App</a> | <a href="http://www.mangatown.com/">Hot Manga</a> | <a href="https://z6.com/">Anime Products</a> | <a href="http://www.mangahere.co/">Free Manga</a> | <a href="http://mangahome.com/shoujo">Shojo Manga</a> | <a href="http://animesama.com/">Anime Community App</a>					</p>
 							<div class="clear gap"></div>
-		<p id="copyright">Copyrights and trademarks for the manga, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law. © 2017 MangaFox.me. Current Time is GMT 05:26pm.<br>
-		<a href="http://mangafox.me/privacy.php" rel="nofollow">Privacy Policy</a> | <a href="http://mangafox.me/disclamer.php" rel="nofollow">Legal Disclaimer</a> |
-		<a href="http://mangafox.me/terms.php" rel="nofollow">Terms of Service</a> | <a href="http://forums.mangafox.me/sendmessage.php" rel="nofollow">Contact Us</a> | <a href="http://m.mangafox.me/" rel="nofollow">Mobile Version</a> | <a href="http://mangafox.me/faq/" rel="nofollow">FAQ</a> | <a href="#top" onclick="self.scrollTo(0,0);return false;" rel="nofollow">Top</a></p>
+		<p id="copyright">Copyrights and trademarks for the manga, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law. © 2017 MangaFox.me. Current Time is GMT 08:47pm.<br>
+		<a href="//mangafox.me/privacy.htm" rel="nofollow">Privacy Policy</a> | <a href="//mangafox.me/disclamer.htm" rel="nofollow">Legal Disclaimer</a> |
+		<a href="//mangafox.me/terms.htm" rel="nofollow">Terms of Service</a> | <a href="//mangafox.me/contact-us.htm" rel="nofollow">Contact Us</a> | <a href="http://m.mangafox.me/" rel="nofollow">Mobile Version</a> | <a href="//mangafox.me/faq/" rel="nofollow">FAQ</a> | <a href="#top" onclick="self.scrollTo(0,0);return false;" rel="nofollow">Top</a></p>
 		<div class="clear"></div>
 	</div>
 </div>
 <div style="display:none">
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : "105895693075169",
+      xfbml      : true,
+      version    : 'v2.10'
+    });
+    
+  };
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+$LAB.queueWait(function() {  
+	$('.fb-login').click(function(){
+	    FB.login(function(response){
+	    	if (response.authResponse) {	
+		    	console.log(response.authResponse.userID);
+		    	//var id = response.authResponse.userID;
+			    FB.api('/me?fields=id,email', function(response) {
+				    console.log(response);
+	          		if($('#sign_in').is(':visible')) {
+    			    	boxRemove('sign_in');
+    	          	}
+			    	var email = '';
+			    	if(response.email) {
+			    		email = response.email;
+			    	}
+			    	$('#fbform input[name="fbid"]').val(response.id);
+			    	$('#fbform input[name="email"]').val(email);
+			    	$('#fbform input[name="r"]').val(window.location);
+			    	$('#fbform').submit();
+		     	});
+		    } else {
+		    	console.log('User cancelled login or did not fully authorize.');
+		    }
+	    }, {scope:'email'});
+	})
+})
+</script>
 <script type="text/javascript">
-window.addEventListener('load', function() {
-	var dialogLogin = document.getElementById('dialog-login');
-	if (dialogLogin) {
-		dialogLogin.addEventListener('click', function() {
-			var xhr = new XMLHttpRequest,
-				url = document.getElementById('loginform').action,
-				data = new FormData,
-				username = document.getElementById('navbar_username').value,
-				password = document.getElementById('navbar_password').value;
-
-			if (!username || !password) {
-				// alert('username or password is required!');
-				return false;
-			}
-			data.append('vb_login_username', username);
-			data.append('vb_login_password', password);
-
-			xhr.open('POST', url);
-
-			xhr.onload = function() {
-				var res = JSON.parse(xhr.responseText);
-				switch(res.code) {
-					case 0:
-						window.location.reload(true);
-						break;
-					case 4:
-						if (confirm(res.message)) {
-							window.location.href = 'http://forums.mangafox.me/login.php?do=lostpw';
-						}
-						break;
-					case 1:
-					case 2:
-					case 3:
-					default:
-						alert(res.message);
-						break;
-				}
-			}
-			xhr.send(data);
-		});
-	}
-});
 $LAB.queueWait(function() {
 
     if(/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
@@ -309,19 +358,7 @@ is_mobile=true;
 }else{
 }
 </script>
-
-<script type="text/javascript">
-    (function() {
-        function async_load(script_url){
-            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
-            var s = document.createElement('script'); s.src = protocol + script_url;
-            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-        }
-        bm_website_code = '66C4D46F12E04DD5';
-        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
-        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
-    })();
-</script>
+    
 </div>
 
 <div class="sidetip" style="display:none;">
@@ -329,8 +366,13 @@ is_mobile=true;
   <div class="sidetip-btn"><a href="#" class="app_link" data-apple="http://goo.gl/OSzKX4" data-android="http://goo.gl/C6oMfN" target="_blank">Manga<br>App</a><a href="http://m.mangafox.me">For<br>Mobile</a></div>
 </div>
 
+<form id="fbform" method="post" action="/fb.php" style="display:none">
+	<input type="hidden" name="action" value="fb">
+	<input type="hidden" name="fbid">
+	<input type="hidden" name="email">
+	<input type="hidden" name="r">
+</form>
 
 
-
-<!-- 37.1.144.156 -->
+<!-- 37.1.144.147 -->
 </body></html>
