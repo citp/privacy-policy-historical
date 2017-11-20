@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vorply.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320022206id_/http%3A//www.vorply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vorply.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120175830id_/http%3A//www.vorply.com/privacy-policy) for the most accurate reproduction.*
 
 # Vorply - Starting Online Trends, Since 1901
 
