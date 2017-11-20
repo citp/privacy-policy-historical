@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haband.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521154414id_/http%3A//haband.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haband.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120143320id_/http%3A//haband.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security | Haband
 
@@ -161,8 +161,8 @@ As used in this Privacy Policy, the word "including" means "including, without l
 If you have questions about this policy or our privacy practices, please email us at [Service@Haband.com](mailto:Service@Haband.com) and write "Privacy" in the subject line or write us at:
 
 Haband  
-PO Box 126  
-Jessup, PA 18434
+PO Box 8  
+Warren, Pa 16366
 
   
 
