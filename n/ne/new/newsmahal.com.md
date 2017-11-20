@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newsmahal.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608062441id_/http%3A//newsmahal.com/247-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmahal.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173041id_/http%3A//newsmahal.com/247-2) for the most accurate reproduction.*
 
 # Privacy Policy » News Mahal
 
-[](http://newsmahal.com/ "News Mahal") Place Of Royal Quality News
+[
 
 ### _News Mahal Privacy Policy_
 
@@ -47,3 +47,5 @@ If you have any questions about this Privacy Policy, please contact us.
 Generated with permission from TermsFeed Generator.
 
 – See more at: http://www.newsmahal.com/privacy-policy/#sthash.7zP9tGE8.dpuf
+
+](http://newsmahal.com/telugu/)
