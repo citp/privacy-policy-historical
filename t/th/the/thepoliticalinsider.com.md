@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepoliticalinsider.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034144id_/http%3A//thepoliticalinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepoliticalinsider.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120054639id_/http%3A//thepoliticalinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - The Political Insider
 
@@ -12,7 +12,7 @@ Your privacy is important to us, and we are committed to protecting the personal
 
 By using the Site, you consent to this Privacy Policy. This Privacy Policy does not apply to the practices of third parties that The Political Insider does not own, control, manage, or employ.
 
-The Political Insider uses OpenX as its ad server. OpenX’s privacy policy can be found [here](http://openx.com/legal/privacypolicy/).  
+The Political Insider uses OpenX as its ad server. OpenX’s privacy policy can be found [here](https://www.openx.com/legal/privacypolicy/).  
 We are committed to following the National Advertising Initiative’s (NAI) privacy principles.
 
 Information We Collect through the Site
@@ -76,9 +76,9 @@ Once a request to opt out has been received, The Political Insider will send a 
 
 **Cookie Opt-Out Procedure**
 
-**IF YOU DO NOT WANT THE POLITICAL INSIDER TO SERVE ADVERTISING TO YOU USING OUR COOKIE, CLICK** ** **[ **HERE**](http://www.networkadvertising.org/choices/) ** ** **TO REPLACE YOUR UNIQUE THE POLITICAL INSIDER  COOKIE WITH OPT-OUT COOKIES FROM AOL ADVERTISING AND LOTAME SOLUTIONS.**
+**IF YOU DO NOT WANT THE POLITICAL INSIDER TO SERVE ADVERTISING TO YOU USING OUR COOKIE, CLICK** ** **[ **HERE**](https://www.networkadvertising.org/choices/) ** ** **TO REPLACE YOUR UNIQUE THE POLITICAL INSIDER  COOKIE WITH OPT-OUT COOKIES FROM AOL ADVERTISING AND LOTAME SOLUTIONS.**
 
-**YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM OTHER MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING** ** **[ **HERE**](http://www.networkadvertising.org/choices/) **.**
+**YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM OTHER MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING** ** **[ **HERE**](https://www.networkadvertising.org/choices/) **.**
 
 This opt-out functionality is cookie-based. When you receive this cookie, The Political Insider’s systems will know that you have opted out and will not attempt to assign other The Political Insider cookies in the future. In order for the opt-out to work on your computer, your Web browser must be set to accept third-party cookies and the The Political Insider opt-out cookie must remain on your computer for us to recognize you as an opt-out user. If you buy a new computer, change Web browsers, or delete this cookie, you will need to perform the opt-out task again.
 
@@ -90,7 +90,7 @@ PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will
 
 **Third Party Websites**
 
-The Site may contain links to websites or content operated and maintained by third parties. The Political Insider does not control those sites or their privacy practices, which may differ from our practices. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operator(s). You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before disclosing any information to the website. For more information, please click [here](http://www.networkadvertising.org/choices/).
+The Site may contain links to websites or content operated and maintained by third parties. The Political Insider does not control those sites or their privacy practices, which may differ from our practices. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operator(s). You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before disclosing any information to the website. For more information, please click [here](https://www.networkadvertising.org/choices/).
 
 **Spyware or Adware**
 
