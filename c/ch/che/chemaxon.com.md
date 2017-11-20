@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemaxon.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328194503id_/https%3A//docs.chemaxon.com/display/docs/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemaxon.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120015630id_/https%3A//docs.chemaxon.com/display/docs/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Documentation - ChemAxon - DOCS
 
