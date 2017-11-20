@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the danettemay.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624173855id_/http%3A//danettemay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danettemay.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120032001id_/http%3A//danettemay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Danette May
 
 **Last Revised: March 13, 2017**
 
@@ -38,7 +38,7 @@ In the event of a complaint, we may also receive personally identifiable informa
 
 We also collect non-personally identifiable information about you to help us make your experience more enjoyable, to measure site activity to identify future improvements that should be made, and compile aggregate data to help serve site visitors better. For example, we may use session and persistent “cookies,” session logs, web beacons, GIF/pixel tags, banner ads, third-party click tracking analytics tools (such as Google Analytics), third party retargeting networks that may display our advertisements to you on other sites that you visit to remind you about us, and third party networks that serve user-requested emails (e.g., for a refer-a-friend email) to collect non-personally identifiable or other aggregated information about site visitors.
 
-Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our Websites. Third party retargeting networks may also use cookies to display our advertisements to you on other sites. You can learn more about opting-out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our Websites. Third party retargeting networks may also use cookies to display our advertisements to you on other sites. You can learn more about opting-out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Emails or newsletters that we send electronically may use techniques such as web beacons or pixel tags to gather email metrics and information to improve the reader’s experience, such as the number of emails that are opened, whether they were forwarded or printed, the type of device from which they were opened, and the location (e.g. city, state, and county) associated with the applicable IP address.
 
