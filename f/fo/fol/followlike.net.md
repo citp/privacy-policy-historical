@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followlike.net privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128055859id_/http%3A//www.followlike.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followlike.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120030301id_/https%3A//www.followlike.net/privacy.php) for the most accurate reproduction.*
 
 # FollowLike - Social Exchange
 
@@ -41,6 +41,14 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
+**Requesting your held personal information**
+
+If you ever wish to know what information we hold about you, in full or part, you can contact us by either internal support ticket or from your registered email, asking for a list of what we have on record.
+
+**Deleting ALL your held personal information**
+
+If you ever wish to have your information cleared / wiped from our system, there are two ways. 1) Simply login and delete your account in account settings. This will put your account on the purge list to be stripped (wiped from our system) with all your information. 2) Send us a Delete request via email from your registered email asking for an account deletion. This is permanant and does not allow you a chance to cancel the request, which you get if you manually delete your account and information. 
+
 **Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
@@ -59,17 +67,21 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 **Compliance with children's online privacy protection act**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If you suspect usage of our services by someone under 13 you can report this to us using contact information below
 
 **Changes to this privacy policy**
 
 FollowLike has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
+**Refund Policy**
+
+Because coins are intangible goods, we cannot refund any purchase, so all coins bought can NOT be refunded. In the case of you having purchased more than the service we can deliver, we will process partial refund of the difference. Coins, Premium and Subscriptions are applied instantly but in some circumstances please allow up to 24 Hours. If 24 hours have passed contact us 
+
 **Your acceptance of these terms**
 
 By using this Site, you signify your acceptance of this policy and 
 
-[terms of service](https://web.archive.org/web/20161128055859id_/http%3A//www.followlike.net/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+[terms of service](https://web.archive.org/web/20171120030301id_/https%3A//www.followlike.net/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
@@ -79,4 +91,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://www.followlike.net](http://www.followlike.net/)  
 [admin@followlike.net](http://www.followlike.net/contact.php)
 
-This document was last updated on September 30, 2012
+This document was last updated on November 4th, 2017
