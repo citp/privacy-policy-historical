@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatapower-ddl.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622234149id_/http%3A//www.tatapower-ddl.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatapower-ddl.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120175603id_/http%3A//tatapower-ddl.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # TPDDl :: Privacy Policy
 
