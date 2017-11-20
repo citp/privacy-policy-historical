@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tokyofashion.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032005id_/http%3A//tokyofashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyofashion.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120172850id_/http%3A//tokyofashion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **What information do we collect?**
 
-We collect information from you when you register on our site. 
+We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
@@ -14,7 +14,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 ; To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -33,7 +33,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **Tokyo Fashion app analytics**
 
-The Tokyo Fashion iPhone and Android apps both use Flurry analytics to allow us to track bugs and crashes. If you would like to opt out of the Flurry analytics, you can do so [here](http://www.flurry.com/user-opt-out.html). 
+The Tokyo Fashion iPhone and Android apps both use Flurry analytics to allow us to track bugs and crashes. If you would like to opt out of the Flurry analytics, you can do so [here](http://www.flurry.com/user-opt-out.html).
 
 **California Online Privacy Protection Act Compliance**
 
@@ -49,10 +49,10 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
 This policy was last modified on 09/02/2012
 
-http://TokyoFashion.com/
+http://upqode.com/clients/tokyofashion.com/
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
