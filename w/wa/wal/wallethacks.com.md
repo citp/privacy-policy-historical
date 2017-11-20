@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallethacks.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615101526id_/https%3A//wallethacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallethacks.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120090614id_/https%3A//wallethacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wallet Hacks
 
