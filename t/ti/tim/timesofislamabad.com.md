@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesofislamabad.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129173519id_/https%3A//timesofislamabad.com/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesofislamabad.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120040709id_/https%3A//timesofislamabad.com/terms-conditions) for the most accurate reproduction.*
 
 # Privacy Policy - Times of Islamabad
 
@@ -6,7 +6,7 @@ Privacy Policy of Times of Islamabad deals with the collection, use and disclosu
 
 1) Personal information, which includes personal information you supply when you subscribe, order, complete a survey, register for one of our sites, enter a contest or provide your email address and
 
-2) Non-personal information collected through technology, which includes tracking information collected by us as well as third parties.
+2) Non-personal information collected through technology, which includes tracking information collected by [us](https://timesofislamabad.com/tag/US) as well as third parties.
 
 At timeofislamabad.com, users’ data is collected for the following reasons.
 
