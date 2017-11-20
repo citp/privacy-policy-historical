@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuhl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154815id_/http%3A//kuhl.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuhl.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120065406id_/http%3A//www.kuhl.com/content/privacy) for the most accurate reproduction.*
 
 # KÜHL Clothing Privacy Policy | Born in the Mountains
 
