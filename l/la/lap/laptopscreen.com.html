@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the laptopscreen.com privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118232411id_/http%3A//www.laptopscreen.com/English/article/Privacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laptopscreen.com privacy policy that was archived on 2017-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120023127id_/http%3A//www.laptopscreen.com/English/article/Privacy%2BPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -10,16 +10,16 @@
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="bookmark icon" href="/favicon.ico">
-    <meta name="msapplication-config" content="none"> 
+    <meta name="msapplication-config" content="none">
     <meta name="robots" content="all,index,follow">
-    <meta name="revisit-after" content="1 days"><link rel="canonical" href="/English/article/Privacy+Policy/">    
+    <meta name="revisit-after" content="1 days"><link rel="canonical" href="/English/article/Privacy+Policy/">
     <meta name="distribution" content="global">
 
     <meta name="Identifier-URL" content="http://www.laptopscreen.com">
     <meta name="copyright" content="Vancouver Laptop Inc. All rights reserved.">
     <meta name="Author" content="www.laptopscreen.com">
-  
-              
+
+     
              <link rel="alternate" href="http://www.laptopscreen.com/English/article/Privacy+Policy/" hreflang="en">
              <link rel="alternate" href="http://www.laptopscreen.com/French/article/Privacy+Policy/" hreflang="fr">
              <link rel="alternate" href="http://www.laptopscreen.com/German/article/Privacy+Policy/" hreflang="de">
@@ -27,60 +27,45 @@
              <link rel="alternate" href="http://www.laptopscreen.com/Russian/article/Privacy+Policy/" hreflang="ru">
              <link rel="alternate" href="http://www.laptopscreen.com/Spanish/article/Privacy+Policy/" hreflang="es">
              <link rel="alternate" href="http://www.laptopscreen.com/English/article/Privacy+Policy/" hreflang="x-default">
-             
+         
 
     
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
-
-        	<link type="text/css" rel="stylesheet" href="/a_laptopscreen_min.css?date=19">
+        	<link type="text/css" rel="stylesheet" href="/a_laptopscreen.min.css?15">
     
     <script src="/control.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
     <script type="text/cjs" data-cjssrc="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
 
 
-        <script type="text/javascript">
+        <script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-12569424-1','auto');ga('send','pageview');ga('require','ecommerce');</script>
+    <script data-cjssrc="/a_laptopscreen.min.js?v=9" type="text/cjs"></script>
 
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-12569424-1', 'auto');  // Replace with your property ID.
-    ga('send', 'pageview');
-    ga('require', 'ecommerce'); 
-    </script>
-    <script data-cjssrc="/a_laptopscreen_min.js" type="text/cjs"></script>
-    
-    <style>
-    .li_spacer {
-    width: 1px;
-}
-</style>
+    <style>.li_spacer{width:1px}</style>
 </head>
-<!-- Head 0.021533012390137  --><body>
+<!-- Head 0.017115831375122  --><body>
 
 
 <div id="main_container" class="ls_black">
-
+<link type="text/css" rel="stylesheet" href="/modules_new/css/header.css?v=27">
 <div id="black_overlay">
 </div>
 
 <script type="text/cjs">
 	$(function() {
 	    var autocomplete = $( ".search_ajax" ).autocomplete({
-	    	delay: 0,
+	    	delay: 150,
 	      	source: function( request, response ) {
 
-	    		$.post(	'/section/search/', 
+	    		$.post(	'/section/search/',
 	        			{ 	search_text : request.term,
 	        				ajax_search: 1 },
-		        		function(d) 
-		        		{ 
+		        		function(d)
+		        		{
 		        			 response( $.parseJSON(d) );
 		        		}
 	        		);
 	      	},
-	      	minLength: 1,
+	      	minLength: 3,
 	      	select: function( event, ui ) {
 				setTimeout(function(){
 					$(".search_ajax").closest("form").submit();
@@ -93,11 +78,11 @@
 	        	selector.css("top", "-=2");
 	        	selector.css("left", "+=1");
 	        	$("#autocomplete_phrase").show();
-	        	$("#black_overlay").fadeIn(200);
+	        	//$("#black_overlay").fadeIn(200);
 	      	},
 	      	close: function() {
 	        	$("#autocomplete_phrase").hide();
-	        	$("#black_overlay").fadeOut(200);
+	        	//$("#black_overlay").fadeOut(200);
 	        	$(".top_search").css("z-index", "0");
 	     	},
 	    });
@@ -110,193 +95,330 @@
 	            .append(newText)
 	            .appendTo(ul);
 	    };
-	    /*autocomplete.data("ui-autocomplete").close = function () {
+	    autocomplete.data("ui-autocomplete").close = function () {
 		     	return false;
-		};*/
+		};
+
+
+        $('.videoLinkContainer, .universities_link').on('click', function(){
+            location.href = $(this).data('link');
+        });
 	});
+
+
 </script>
-<style>
-ul.ui-autocomplete:before {
-	    content: "Search suggestions";
-}
-
-</style>
-
+<style>ul.ui-autocomplete:before{content:"Search suggestions"}</style>
 
 
 <div id="container">
-    <div id="ls_black_user_menu" class="ls_black_grad">
-	    <ul id="ls_black_lang_menu">
-	        <li class="active"><a href="/English/article/Privacy+Policy/"><b class="flags Eng"></b>Eng</a></li><li><a href="/French/article/Privacy+Policy/"><b class="flags Fr"></b>Fr</a></li><li><a href="/German/article/Privacy+Policy/"><b class="flags De"></b>De</a></li><li><a href="/Italian/article/Privacy+Policy/"><b class="flags It"></b>It</a></li><li><a href="/Russian/article/Privacy+Policy/"><b class="flags Rus"></b>Rus</a></li><li><a href="/Spanish/article/Privacy+Policy/"><b class="flags Esp"></b>Esp</a></li><li class="li_spacer"></li><li class="smaller">Currency</li><li class="active smaller"><a href="?set_currency=USD" rel="nofollow">USD</a></li><li class=" smaller"><a href="?set_currency=CAD" rel="nofollow">CAD</a></li><li class=" smaller"><a href="?set_currency=GBP" rel="nofollow">GBP</a></li><li class=" smaller"><a href="?set_currency=EUR" rel="nofollow">EUR</a></li>	    </ul>
-	    
-	    <ul id="ls_black_account_links">
-	        <li style="">
-		    Cart is Empty		    </li>     
-	        <li>
-		    <a href="https://www.laptopscreen.com/English/section/register/">New Customer</a> </li><li><a href="/English/section/account_login/">Log in</a> </li><li><a href="/English/section/Support-Tickets/">Support Tickets</a> 		    </li>     
-	    </ul>
-	    <div class="clearfix"></div>
-    </div>
-    
-    <div id="ls_black_sub_menu" class="ls_black_grad">
-	    <ul>
-	        <li style="padding: 3px 5px;"><a href="/"><span class="ls_black_home" style="margin-top: 3px;"></span> </a></li>
-		    <li><a href="/English/article/Warranty/">
-		    Warranty		    </a></li>      
-		    <li><a href="/English/article/Shipping/">
-    		    Shipping    		    </a></li>      
-		    <li><a href="/English/article/Payment/">
-    		    Payment    		    </a></li>      
-		    <li><a href="/English/article/Returns/">
-    		    Returns</a></li>      
-		    <li><a href="/English/article/About/">
-    		    About Us</a></li>      
-		    <li><a href="/English/section/contact-us/">
-		        Contact Us</a></li>      
-		    <li><a href="/English/section/address/">
-		        Address</a></li>      
-		    <li><a href="/English/article/New+suppliers/">
-    		    For New Suppliers</a></li>      
-		    <li><a href="/English/article/Discounts!/">
-    		    Discounts</a></li>
-		    <li class="right_edge"><a href="/English/section/Articles/">
-    		    Articles</a></li>       
-		    <li class="right_edge"><a href="/English/section/FAQ/">FAQ </a></li>      
-		    <li class="right_edge"><a href="http://www.laptopscreen.com/blog/">The Blog </a></li>      
-	    </ul>                        
-    </div>
-    
-        <div id="ls_black_logo_line" class="clearfix2">
-    	<!--  Logo + Search -->
-        <div class="ls_black_grad_2" style="position:relative;">
-                    <div class="ls_black_grad_2" style="height: 77px;padding-top: 5px;">
-            <div style="float: left; padding-top: 10px; width: 100px;padding-left: 20px;" class="">
-                <span class="gp_like_count_ls" style="left:63px;top:15px;height: 17px;">1188</span>
-                <!-- >span class="fb_like_count_ls" style='left:75px;top:43px;height: 17px;'></span -->
-                <div class="g-plusone" data-size="medium" data-href="http://www.laptopscreen.com" data-theme="dark"></div>
-                <br>
-                <div style="width:100px;text-align:left;margin-left: 5px;margin-top: 5px;" class="fb-like" data-href="http://www.facebook.com/LaptopScreen" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-colorscheme="light"></div>
-                </div>
-                <!-- >script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=invert&code=3c6c62ac8dff48cd8556a5efc409e729"></script -->
-                <img id="trustwaveSealImage" src="https://sealserver.trustwave.com/seal_image.php?customerId=3c6c62ac8dff48cd8556a5efc409e729&amp;size=105x54&amp;style=invert" border="0" style="cursor:pointer;" onclick="javascript:window.open('https://sealserver.trustwave.com/cert.php?customerId=3c6c62ac8dff48cd8556a5efc409e729&amp;size=105x54&amp;style=invert', 'c_TW', 'location=no, toolbar=no, resizable=yes, scrollbars=yes, directories=no, status=no, width=615, height=720'); return false;" oncontextmenu="javascript:alert('Copying Prohibited by Law - Trusted Commerce is a Service Mark of TrustWave Holdings, Inc.'); return false;" alt="This site is protected by Trustwave's Trusted Commerce program" title="This site is protected by Trustwave's Trusted Commerce program">"
-                
-                <iframe id="logos_verisign" src="/blank.php" width="115px" height="60px" style="margin:0 0 0 30px" scrolling="no"></iframe>
-                
-            </div>
-            <div class="ls_black_grad_2" style="height: 59px;padding: 11px 0;">
-                <span style="text-transform: uppercase; font-size: 2.3em; font-weight: bold;">
-                <a style="color:#7F7F80; text-decoration:none" href="/English/article/Returns/">
-                    Free return shipping                </a>
-                </span>
-                <div style="font-size: 1.14em;font-weight: bold; padding:0 0 10px">for continental US and Canada</div>
-            </div>
-            <div class="ls_black_grad_2">
-                <div style="text-transform: uppercase; font-size: 2.3em; font-weight: bold; padding:14px 0 15px">
-                    <a style="color:#7F7F80; text-decoration:none" href="/English/article/Warranty/">
-                    3 year Warranty                    </a>
-                </div>
-                <form action="/English/section/search/" method="post">
-    	        <div class="ls_green_grad ls_black_search_line input_wrapper top_search">
-    		        SEARCH 
-    		        <div class="ls_black_search_but_value">GO</div>
-    		        <input type="text" name="search_text" class="ls_y_grad search_ajax" placeholder="TYPE HERE"> 
-    		        <div class="ls_black_search_but" style="width: 56px"><input type="image" src="/a_images/ls_black_search.png" alt="Search" style="height: 31px;"></div>
-    		        <div class="clearfix"></div>
-            	</div>
-        	    </form>
-            </div>
+<!--**********************************************************************************************************************************-->
+<!--**********************************************************************************************************************************-->
+<!--    LS New Design   -->
+    <!--****************************************************-->
+    <!--    CSS     -->
+    <style type="text/css"></style>
+    <!--****************************************************-->
+    <!--    HTML     -->
+    <div class="topmenu_container gradient_1 ls_reset">
+        <div class="topbar_menu_1 d_inline_b p_left_10">
+            <ul class="d_inline_b">
+                <li class="d_inline_b p_right_10">
+                    <a href="/"><img class="pos_rel ls_logo" src="/new_images/logo.png"></a>
+                </li>
+                <li class="d_inline_b p_left_5 p_right_10 topbar_menu_1_line_height">
+                    <span class="fs_12">Language: </span>
+
+                    <div class="lang_dropdown d_inline_b pos_rel">
+                                                &nbsp;&nbsp;<div class="lang_logo lang_eng d_inline_b pos_rel">&nbsp;</div>
+                        &nbsp;<span>ENG</span>&nbsp;
+                        <img class="pos_rel down_arrow_icon" src="/new_images/down_arrow.png">
+                        <ul class="lang_options color_white">
+                                                                <li class="bg_black p_left_10 p_right_10">
+                                        <a href="/English/article/Privacy+Policy/">
+                                            <div class="lang_logo lang_eng d_inline_b pos_rel">&nbsp;</div>&nbsp;
+                                            ENG                                        </a>
+                                    </li>
+                                                                <li class="bg_black p_left_10 p_right_10">
+                                        <a href="/French/article/Privacy+Policy/">
+                                            <div class="lang_logo lang_fr d_inline_b pos_rel">&nbsp;</div>&nbsp;
+                                            FR                                        </a>
+                                    </li>
+                                                                <li class="bg_black p_left_10 p_right_10">
+                                        <a href="/German/article/Privacy+Policy/">
+                                            <div class="lang_logo lang_de d_inline_b pos_rel">&nbsp;</div>&nbsp;
+                                            DE                                        </a>
+                                    </li>
+                                                                <li class="bg_black p_left_10 p_right_10">
+                                        <a href="/Italian/article/Privacy+Policy/">
+                                            <div class="lang_logo lang_it d_inline_b pos_rel">&nbsp;</div>&nbsp;
+                                            IT                                        </a>
+                                    </li>
+                                                                <li class="bg_black p_left_10 p_right_10">
+                                        <a href="/Russian/article/Privacy+Policy/">
+                                            <div class="lang_logo lang_rus d_inline_b pos_rel">&nbsp;</div>&nbsp;
+                                            RUS                                        </a>
+                                    </li>
+                                                                <li class="bg_black p_left_10 p_right_10">
+                                        <a href="/Spanish/article/Privacy+Policy/">
+                                            <div class="lang_logo lang_esp d_inline_b pos_rel">&nbsp;</div>&nbsp;
+                                            ESP                                        </a>
+                                    </li>
+                                                    </ul>
                     </div>
-        
-        <!--  Youtube video -->
-        <div style="position:relative; width:412px; height:258px">
-        	
-            <div onclick="location.href=&quot;/English/video/&quot;" style="cursor: pointer;width:412px; height:257px;z-index:90; 
-            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#CCC), color-stop(100%,#6A6969));
-            background: -webkit-linear-gradient(top,  #CCC 0%,#6A6969 100%); 
-            background-image: linear-gradient(to bottom, #CCC 0px, #6A6969 100%);
-            background: linear-gradient(to bottom, #CCC 0%, #6A6969 100%) repeat scroll 0 0 transparent;
-            ">
-            <img src="/a_images/header_img.png" alt="screen repair" style="border: 0">
-            
-            </div>
+                </li>
+                                <li class="d_inline_b p_left_10 p_right_10 topbar_menu_1_line_height">
+                    <!-- Currency Text  -->
+                    <span class="fs_12">Currency: </span>
+                    <ul class="d_inline_b currency_options">
+                                                    <li class="d_inline_b p_left_5 p_right_5 bg_black">
+                                <a href="?set_currency=USD" rel="nofollow">USD</a>
+                            </li>
+                                                    <li class="d_inline_b p_left_5 p_right_5 ">
+                                <a href="?set_currency=CAD" rel="nofollow">CAD</a>
+                            </li>
+                                                    <li class="d_inline_b p_left_5 p_right_5 ">
+                                <a href="?set_currency=GBP" rel="nofollow">GBP</a>
+                            </li>
+                                                    <li class="d_inline_b p_left_5 p_right_5 ">
+                                <a href="?set_currency=EUR" rel="nofollow">EUR</a>
+                            </li>
+                                            </ul>
+                </li>
+            </ul>
         </div>
-        
-        <!-- Logo row -third column -->
-        <div class="ls_black_phone_col">
-        	<!-- Phones -->
-            <div class="ls_black_phone ls_black_grad_2" itemscope="" itemtype="http://schema.org/Organization">
-                <meta content="LaptopScreen.com" itemprop="name">
-                <a style="color:#7F7F80;text-decoration:none;" href="tel:1-855-630-1111"><span itemprop="telephone">1-855-630-1111</span></a><br>
-                +1-206-299-0699 outside of continental US and Canada
-            </div>
-            <!-- Chat -->
-            <div class="ls_black_support ls_black_grad_2">
-            	<div>
-            		<span>LIVE CHAT</span> <span class="button_off" style="cursor:pointer" id="btn_chat_txt" onclick="if(z_status==true){$zopim.livechat.window.show();} return false;">Offline</span><br>
-            		<div style="line-height:17px;margin-top: -4px;">
-            		M-F 3am - 9pm.<br> S-S 11am - 7pm Eastern Time 
-            		</div>
-            	</div>
-            	<div>
-            		<span>SUPPORT</span> <a href="/English/section/contact-us/"><span class="button_on">Contact</span></a><br>
-            		24/7 
-            	</div>
-            	<div class="clearfix"></div>
-            </div>
-            <!-- Delivery -->
-            <div class="ls_black_ship_info ls_black_grad_2">
-            	<div>
-	                <span>We ship from:</span>
-	                
-	                <span class="ship_countries seattle"><a href="/English/currency/USD/">Seattle <i class="small_flags usa"></i></a></span>
-	                <span class="ship_countries"><a href="/English/currency/CAD/">Vancouver <i class="small_flags canada"></i></a></span>
-	                <span class="ship_countries"><a href="/English/currency/GBP/">Gatwick <i class="small_flags england"></i></a></span>
-	                
-	                FREE US and Canada shipping for 10+ screens orders<br>
-	                Our inventory is live, over 126200 screens in stock!
+        <div class="topbar_menu_2 d_inline_b">
+            <ul class="d_inline_b">
+                                    <li class="d_inline_b p_left_10 p_right_10 fs_12">
+                        <a href="/English/section/orders/">Orders</a>                    </li>
+                                    <li class="d_inline_b p_left_10 p_right_10 fs_12">
+                        <a href="/English/section/Support-Tickets/">Support Tickets</a>                     </li>
+                                    <li class="d_inline_b p_left_10 p_right_10 fs_12">
+                        <a href="/English/section/account_login/">Log in</a>                     </li>
+                                    <li class="d_inline_b p_left_10 p_right_10 fs_12">
+                        <a href="https://www.laptopscreen.com/English/section/register/">New Customer</a>                     </li>
+                                <li class="d_inline_b p_left_10 p_right_10 fs_12 ">
+                    Cart is Empty                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="midmenu_container gradient_1 ls_reset">
+        <div class="midbar_menu_1 d_inline_b">
+            <ul class="d_inline_b">
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/">
+                        <img class="pos_rel home_logo" src="/new_images/home.png">
+                    </a>
+                </li>
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/English/article/Warranty/">
+                        Warranty &amp; Returns                    </a>
+                </li>
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/English/article/Shipping/">
+                        Shipping                    </a>
+                </li>
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/English/article/Payment/">
+                        Payment                    </a>
+                </li>
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/English/article/About/">
+    					About Us                    </a>
+                </li>
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/English/section/contact-us/">
+        				Contact Us                    </a>
+                </li>
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/English/section/address/">
+        				Address                    </a>
+                </li>
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/English/article/New+suppliers/">
+    					For New Suppliers                    </a>
+                </li>
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/English/article/Discounts!/">
+    					Discounts                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="midbar_menu_2">
+            <ul class="d_inline_b">
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="http://www.laptopscreen.com/blog/">
+                        The Blog                    </a>
+                </li>
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/English/section/FAQ/">FAQ</a>
+                </li>
+                <li class="d_inline_b p_left_10 p_right_10">
+                    <a href="/English/section/Articles/">
+        				Articles                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+            <div class="topcontent_container gradient_5 ls_reset pos_rel">
+            <div class="topcontent_left d_inline_b color_gray gradient_2">
+                <div class="topcontent_left_1">
+                    <div class="fs_20 p_left_10">
+                        <span class="uppercase">Thousands&nbsp;</span>
+                        <img class="pos_rel stars_logo" src="/new_images/stars.png">
+                        <span class="uppercase">&nbsp;Reviews Online</span>
+                    </div>
+                    <div class="review_links">
+                        <a class="color_blue" target="_blank" href="https://www.google.com/products/seller?zmi=laptopscreen.com">Google</a>
+                        <a class="color_blue" target="_blank" href="http://www.shopperapproved.com/reviews/laptopscreen.com/">Shopper Approved</a>
+                        <a class="color_blue" target="_blank" href="http://www.trustpilot.com/review/www.laptopscreen.com">Trust Pilot</a>
+                        <a class="color_blue" target="_blank" href="http://www.resellerratings.com/store/Laptop_Screen">Reseller Ratings</a>
+                    </div>
+                </div>
+                <div class="topcontent_left_2">
+                    <div class="p_bottom_15 p_left_20">
+                        <span class="uppercase fs_27">
+                            Lifetime Warranty
+                        </span>
+                        <a class="color_blue" href="/English/article/Warranty/">Details</a>
+                    </div>
+                    <div class="fs_27 p_left_20">
+                        <a class="uppercase color_gray remove_underline" href="/English/article/Returns/">Free Returns</a>
+												<span class="fs_13">for continental US and Canada</span>
+                    </div>
+                    <div class="p_top_15 p_left_20">
+                        <span class="uppercase fs_27">
+                            Same Day Shipping
+                        </span>
+                        <a class="color_blue" href="/English/article/Shipping/">Details</a>
+                    </div>
+                </div>
+                <!-- <div class="topcontent_left_3 gradient_2">
+                </div> -->
+                <div class="topcontent_left_4 search_container">
+                    <form action="/English/section/search/" method="post">
+                        <img class="search_logo pos_abs" src="/new_images/magnifier.png">
+                        <div class="d_inline_b">
+                            <!-- <input class="search_input gradient_3 fs_14" type="text" placeholder="" /> -->
+                            <input class="search_input gradient_3 fs_16 search_ajax" name="search_text" type="text" placeholder="Type model here">
+                        </div><div class="uppercase d_inline_b search_button gradient_4 fs_20 t_align_c" onclick="javascript:this.parentNode.submit();">
+                            <span class="pos_rel">search</span>
+                        </div>
+                    </form>
+                </div>
+                <div class="topcontent_left_5 fs_15 p_left_20">
+									<span class="v_align_m">
+		                <span class="uppercase">Laptop Screens</span><br> MADE BY LG, PHILLIPS, AUO,									</span>
+									<br>
+									<span class="v_align_m">
+										SAMSUNG, HANNSTAR, CHI-MEI										<a class="color_blue" href="/English/section/FAQ/">Details</a>
+									</span>
+                </div>
+            </div><div class="topcontent_middle d_inline_b t_align_c pos_rel">
+    			<!-- <div id="start_banner" class="pos_abs">
+    				<img src="/a_images/banner_shipping_Las_Vegas_434x345-min.jpg?3">
+    			</div>
+    			<div class="new_location_banner pos_abs" data-id='1'>
+    				<img src="/a_images/banner_shipping_Newark_434x345-min.jpg?3">
+    			</div> -->
+    			<div class="pos_abs t_align_c laptop_logo_container" onclick="location.href=&quot;/English/video/&quot;">
+            <img src="/new_images/laptop.png">
+						<div class="videoLinkContainer" data-link="/English/video/">
+							<span class="fs_19 color_gray">
+								Video Tutorial Library:
+							</span>
+	            <a class="fs_15 color_blue" href="/English/video/">
+	                1913 Screen replacement videos
+	                	            </a>
+						</div>
+    			</div>
+            </div><div class="topcontent_right d_inline_b t_align_c color_gray gradient_2">
+                <div class="topcontent_right_1 p_top_10 ">
+                    <a class="fs_50 color_gray remove_underline" href="tel:1-855-630-1111">1-855-630-1111</a>
+                    <div>+1-206-299-0699 outside of continental US and Canada</div>
+                    <div class="p_top_10 topcontent_right_2">
+                        <div class="d_inline_b topcontent_right_2_livechat p_left_15 v_align_t t_align_l" style="width: 218px;">
+                          <!-- <img class="livechat_message_icon pos_rel" src="/new_images/message_icon.png" />&nbsp; -->
+                          <span class="uppercase fs_16 color_white p_right_5 v_align_m">Live Chat</span>
+                          <style>.topcontent_right_2 #btn_chat_txt,.topcontent_right_2 .support_button{display:inline-block;border:1px solid #36d100;width:105px;background:#000;padding:7px!important;color:#36d100!important;text-align:center}.topcontent_right_2 #btn_chat_txt:hover,.topcontent_right_2 .support_button:hover{background:#36d100;color:#000!important}</style>
+                            <span class="button_off" style="cursor:pointer" id="btn_chat_txt" onclick="if(z_status==true){$zopim.livechat.window.show();} return false;">Offline</span>
+                        </div><div class="d_inline_b topcontent_right_2_support" style="width: 218px;">
+                            <!-- <img class="livechat_person_icon pos_rel" src="/new_images/person_icon.png" />&nbsp; -->
+                            <span class="uppercase fs_16 color_white p_right_5 v_align_m">Support</span>
+                            <a class="support_button bg_green d_inline_b remove_underline" href="/English/section/contact-support/">
+                                24/7&nbsp;
+                                <!-- <img style="width: 10px; height: 11px;" src="/new_images/arrow.png" /> -->
+                            </a>
+                        </div>
+                        <div class="p_top_10 t_align_l p_left_15">M-F 3am - 8:30pm. S-S 11am - 7pm Eastern Time</div>
+                    </div>
+                </div>
+                <!-- <div class="topcontent_right_2 gradient_2 p_top_10 p_bottom_10 t_align_l">
+                </div> -->
+                <div class="topcontent_right_3 p_top_5">
+                    <div class="fs_18 p_top_5 p_bottom_5">We ship from:</div>
+                    <ul class="p_top_5 p_bottom_5 t_align_l p_left_10">
+                        <li class="d_inline_b p_left_5 p_right_5">
+                            <div class="flag_icons flag_us d_inline_b pos_rel" style="margin-bottom: 5px">&nbsp;</div>
+                            <a class="color_blue" href="/English/section/address/?set_currency=USD#Newark">Newark, DE</a><br>
+                            <div class="flag_icons flag_us d_inline_b pos_rel">&nbsp;</div>
+                            <a class="color_blue" href="/English/section/address/?set_currency=USD#Vegas">Las Vegas, NV</a>
+                        </li>
+                        <li class="d_inline_b p_left_5 p_right_5">
+                        </li>
+                        <li class="d_inline_b p_left_5 p_right_5">
+                            <div class="flag_icons flag_can d_inline_b pos_rel" style="margin-bottom: 5px">&nbsp;</div>
+                            <a class="color_blue" href="/English/section/address/?set_currency=CAD#Toronto">Toronto, ON</a><br>
+                            <div class="flag_icons flag_can d_inline_b pos_rel">&nbsp;</div>
+                            <a class="color_blue" href="/English/section/address/?set_currency=CAD#Vancouver">Vancouver, BC</a>
+                        </li>
+                        <li class="d_inline_b p_left_5 p_right_5">
+                            <div class="flag_icons flag_uk d_inline_b pos_rel">&nbsp;</div>
+                            <a class="color_blue" href="/English/section/address/?set_currency=GBP#Gatwick">Gatwick, GB</a>
+                        </li>
+                    </ul>
+                    <div class="fs_14 p_top_5"><span class="uppercase">Free</span> US and Canada shipping for 10+ screens orders</div>
+                    <div class="fs_14 p_top_5">Our inventory is live, over 141100 screens in stock!</div>
+                </div>
+                <div class="topcontent_right_4 universities_link" data-link="/English/article/We accept Purchase Orders/">
+                  <!-- <div class="d_inline_b v_align_t p_right_5">
+                      <img class="bookmark_icon pos_rel" src="/new_images/bookmark.png" />
+                  </div> -->
+                  <a class="color_blue" href="/English/article/We accept Purchase Orders/">
+                    <span class="color_white fs_19 uppercase">Schools &amp; Universities Welcome</span>
+					</a>
+                  <!-- <div class="fs_19 color_white uppercase"></div> -->
                 </div>
             </div>
         </div>
+        <div class="midcontent_container fs_19 color_white bg_yellow ls_reset midcontent_margin_bottom">
+                <ul>
+            <li class="gradient_6 d_inline_b p_top_10 p_bottom_10 p_left_25 p_right_25 midcontent_menu ">
+                <a class="remove_underline" href="/English/">
+                    Laptop &amp; Tablet Screens                 </a>
+            </li><li class="gradient_6 d_inline_b p_top_10 p_bottom_10 p_left_25 p_right_25 midcontent_menu ">
+                <a class="remove_underline" href="/English/Apple/iPad/">
+                    Screens for iPad                </a>
+            </li><li class="gradient_6 d_inline_b p_top_10 p_bottom_10 p_left_25 p_right_25 midcontent_menu ">
+                <a class="remove_underline" href="/English/Apple/replacement-screens-to-repair-apple-iphone/">
+                    Screens for iPhone                 </a>
+            </li><li class="gradient_6 d_inline_b p_top_10 p_bottom_10 p_left_25 midcontent_menu  midcontent_menu_cleaners">
+                <a class="remove_underline" href="/English/section/cleaners/">
+                    Tools                </a>
+            </li><!-- <li class="d_inline_b p_top_10 p_bottom_10 p_right_15 pos_rel midcontent_menu_video">
+                <a class="color_black remove_underline" href="/English/video/">
+                    <img class="v_align_m pos_abs" src="/new_images/play_video.png?1" />
+                    Video Tutorial Library                </a>
+            </li>--><li class="gradient_6 d_inline_b p_top_10 p_bottom_10 last_mid_item">
+						&nbsp;
+						</li>
+        </ul>
     </div>
-   
-    
-        <div id="ls_black_adv_line" class="ls_black_grad">
-        <h3>
-        LAPTOP SCREENS MADE BY LG, PHILLIPS, AUO,<br>
-        SAMSUNG, HANNSTAR, CHI-MEI        <a style="text-transform:none;text-decoration:underline" href="/English/section/FAQ/">Details</a>
-        </h3>
-        <div onclick="location.href=&quot;/English/video/&quot;" style="cursor: pointer;padding:0;background: url(&quot;/a_images/videos_1.png&quot;) no-repeat scroll right -10px rgba(0, 0, 0, 0);">
-        <div id="header_video_link">
-        1710 screen replacement videos        <br>
-        <a href="/English/video/" style="color: white; text-decoration:underline">
-        watch now        </a>
-        </div>
-        </div>
-        <div>
-        All screens are brand new        <br>
-        Every order ships same day        </div>
-        <div class="clearfix"></div>
-    </div>
-     </div>
-
-
-<ul id="main_menu" class="ls_black" style="margin-bottom: 16px;"><li><a href="/English/">Laptop &amp; Tablet Screens </a></li><li>
-        <a href="/English/Apple/iPad/">Screens for iPad</a></li><li>
-        <a href="/English/Apple/replacement-screens-to-repair-apple-iphone/">Screens for iPhone </a></li><li>
-        <a href="/English/section/cables/">Cables</a></li><li>
-        <a href="/English/section/cleaners/">Tools and Cleaners</a></li><li class="li_blog ls_black_grad_2" style=" border-right: 2px solid orange; ">
-        <a style="color: black;font-weight:normal" href="/English/article/We accept Purchase Orders/">Schools and Universities welcome</a></li></ul><style>
-.smaller {
-    font-size: 1em !important;
-}
-.ship_countries a{
-    color:white;
-}
-#main_menu li.li_blog {
-    background: rgb(216, 216, 216);
-}
-</style>
-<div class="breadcrumb"><span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope=""><a href="http://www.laptopscreen.com/" itemprop="url"><span itemprop="title">LaptopScreen.com</span></a> </span>&nbsp;/&nbsp;<span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope=""><a href="http://www.laptopscreen.com/English/section/Articles/" itemprop="url"><span itemprop="title">Articles</span></a></span> / Privacy Policy</div><div class="article_container"><h3 itemprop="name" class="article_header">Privacy Policy</h3><div class="bg_grey"><b>At LAPTOPSCREEN.COM we respect your privacy.</b><br>
+<!--**********************************************************************************************************************************-->
+<!--**********************************************************************************************************************************-->
+<!--    Original Code   -->
+</div>
+<div class="breadcrumb"><span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope=""><a href="http://www.laptopscreen.com/" itemprop="url"><span itemprop="title">LaptopScreen.com</span></a> </span>&nbsp;/&nbsp;<span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope=""><a href="http://www.laptopscreen.com/English/section/Articles/" itemprop="url"><span itemprop="title">Articles</span></a></span> / Privacy Policy</div><style>.article_container{font-family:Arial}.article_container .bg_grey{font-size:14px}</style>
+<div class="article_container"><h3 itemprop="name" class="article_header">Privacy Policy</h3><div class="bg_grey"><b>At LAPTOPSCREEN.COM we respect your privacy.</b><br>
 • We are firm believers in our customer's right to privacy, and therefore we follow the Personal Information Protection and Electronic Documents Act regulations.<br>
 <br>
 <b>Collection Purpose:</b><br>
@@ -323,32 +445,14 @@ ul.ui-autocomplete:before {
 • We believe that you own your personal identifying information, and have the right to control our access to it. At any time, you can contact us and ask to modify, or remove your information from our server.<br>
 <br>
 <b>Accountability:</b><br>
-• If you believe that we have violated these terms, please, contact us and we will do our best to rectify the situation.</div><div class="bg_grey"><a itemprop="author" href="http://plus.google.com/108717975630094843141?rel=author" style="color:grey">Copyright (©) LaptopScreen.com </a> </div></div><div class="tupizm"> &nbsp;</div>
+• If you believe that we have violated these terms, please, contact us and we will do our best to rectify the situation.</div><div class="bg_grey"><a itemprop="author" href="http://plus.google.com/108717975630094843141?rel=author" style="color:grey">Copyright (©) LaptopScreen.com </a> </div></div><div class="footer_line tupizm"> &nbsp;</div>
 <div id="sub_footer"></div>
-    <div id="footer">
+    <div id="footer" style="padding-top:0">
+        <span class="site_small_ls_icon"></span><br>
         <div class="footer_shopperapproved">
-        
-<!-- Cached 2016-11-18 13:33:48 -->
-
-
-<a href="https://www.shopperapproved.com/reviews/laptopscreen.com/" rel="nofollow" target="shopperapproved">
-<span itemscope="" itemtype="http://schema.org/Store">
-  <span itemprop="name">laptopscreen.com</span>
-  <meta itemprop="url" content="www.laptopscreen.com">
-  has a Shopper Approved rating of
-  <span itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
-    <span itemprop="ratingValue">4.8</span>/<span itemprop="bestRating">5</span>
-    based on <span itemprop="ratingCount">16056</span> ratings and reviews
-    
-    
-  </span>
-</span>
-</a>
-
-
-        </div>
+                </div>
         ® Trade-mark of Interac Inc. Used under licence<br>
-        © 2005 — 2016 Laptop Screen Int. Inc. Unauthorized Reproduction Prohibited.<br>
+        © 2005 — 2017 Laptop Screen Int. Inc. Unauthorized Reproduction Prohibited.<br>
         <a href="/English/article/Privacy+Policy/">Privacy Policy</a><a href="/English/article/Terms+of+Use/">Terms of Use</a>        <a href="/English/">Home</a>
         <a href="https://plus.google.com/108717975630094843141" rel="publisher">Find us on Google+</a>
         <a href="https://www.facebook.com/LaptopScreen">Find us on Facebook</a>
@@ -357,13 +461,7 @@ ul.ui-autocomplete:before {
 <div id="fake_layer"></div>
 
 <div id="fb-root"></div>
-<script>
-
-var cjsscript = document.createElement('script');
-cjsscript.src = "/control.js";
-var cjssib = document.getElementsByTagName('script')[0];
-cjssib.parentNode.insertBefore(cjsscript, cjssib);
-</script>
+<script>var cjsscript=document.createElement('script');cjsscript.src="/control.js";var cjssib=document.getElementsByTagName('script')[0];cjssib.parentNode.insertBefore(cjsscript,cjssib);</script>
 
 <!-- google plus -->
 <script async="" type="text/javascript" src="//apis.google.com/js/plusone.js">
@@ -381,22 +479,22 @@ function updateStatus(s) {
         $('#btn_chat_txt').text('Offline').attr('class','button_off');
     }
     z_status = (s=="online")?true:false;
-    
+
 
 }
 $zopim(function() {
     $zopim.livechat
-    	.setOnStatus(updateStatus)
+      .setOnStatus(updateStatus)
     });
 //<!-- End of Zopim Live Chat Script -->
 
-    
+
 
 </script>
 
 
 
-<!-- 
+<!--
 
-2.5 megabytes -->
-<!-- All page 0.027562141418457  --></body></html>
+4.75 megabytes -->
+<!-- All page 0.043365955352783  --></body></html>
