@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 20dresses.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606100242id_/http%3A//www.20dresses.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 20dresses.com privacy policy that was archived on 2017-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120072156id_/http%3A//www.20dresses.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -321,64 +321,64 @@ function fblogin() {
 
 	$("#frmLogin div.error").show();	
 	$("#frmRegister div.error").show();	
-	   FB.login(function(response) {
-			if(response.authResponse) {
-						
-						$("#frmLogin div.error").html('Welcome!  Fetching your information.... ');
-						$("#frmRegister div.error").html('Welcome!  Fetching your information.... ');
-					FB.api('/me', function(user) {
-							if(user.id) {
-								console.log(user);
-							
-var strData						="id="+user.id+"&email="+user.email+"&fname="+user.first_name+"&lname="+user.last_name+"&birthday="+user.birthday+"&gender="+user.gender;
+	   FB.login(function(response) {               
+                if(response.authResponse) {
 
+                    $("#frmLogin div.error").html('Welcome!  Fetching your information.... ');
+                    $("#frmRegister div.error").html('Welcome!  Fetching your information.... ');
+                    FB.api('/me', function(user) {
+                    if(user.id) {                                
+                        var n = user.name.split(' ');
+                        var firstName = '';
+                        var lastName = '';
+                        if(n[0]) {
+                             firstName = n[0];
+                        } else {
+                             firstName = user.first_name;
+                        }
+                        if(n[1]) {
+                             lastName = n[1];
+                        } else {
+                             lastName = user.last_name;
+                        }
+                    var strData ="id="+user.id+"&email="+user.email+"&fname="+firstName+"&lname="+lastName+"&birthday="+user.birthday+"&gender="+user.gender;
+                    var base_url='http://www.20dresses.com/register/fblogin';
 
- var base_url='http://www.20dresses.com/register/fblogin';
+                    $.ajax({
+                        type:'POST',
+                        url:base_url,
+                        data:strData,
+                        dataType:'json',
+                        success:function(data) {                                    
+                                if(data.status=="success")	{
+                                    if(data.msg=="new") {
+                                            $('.register').fadeOut();
+                                            $('.fbregister').fadeIn();
+                                            $('.login').fadeOut();
+                                            $('.username').html(data.username);
 
-							  $.ajax({
-									type:'POST',
-									url:base_url,
-									data:strData,
-									dataType:'json',
-									success:function(data)
-									{
-										if(data.status=="success")	{
-										
-											if(data.msg=="new") {
-												$('.register').fadeOut();
-												$('.fbregister').fadeIn();
-												$('.login').fadeOut();
-												$('.username').html(data.username);
+                                            $('#mask').css({'background-color':'#000','opacity':'0.8'});
+                                    } else {
+    //												window.location.reload();
 
-												$('#mask').css({'background-color':'#000','opacity':'0.8'});
-											} else {
-												window.location.reload();
-
-											}
-
-
-										} else if(data.status=="error") {
-
-											$("#ajax-loader").hide();
-											$('#frmRegister div.error').html(data.msg);
-											$('#frmLogin div.error').html(data.msg);
-										}
-									}
-								});	
-							 }
-						  });
-						
-							
-			   } else {
-				   $("#ajax-loader").hide();
-				   $("#frmLogin div.error").show();
-				   $('#frmLogin div.error').html('');
-
-				 // console.log('User cancelled login or did not fully authorize.');
-			   }
-		}, {scope: 'email,public_profile,user_birthday'});
-	}
-
+                                    }
+                                } else if(data.status=="error") {S
+                                        $("#ajax-loader").hide();
+                                        $('#frmRegister div.error').html(data.msg);
+                                        $('#frmLogin div.error').html(data.msg);
+                                }
+                        }
+                    });	
+                }
+            });
+            } else {
+                    $("#ajax-loader").hide();
+                    $("#frmLogin div.error").show();
+                    $('#frmLogin div.error').html('');
+                  // console.log('User cancelled login or did not fully authorize.');
+            }
+        }, {scope: 'email,public_profile,user_birthday'});
+    }
 
 $(document).click(function() {
 	$(".dropdown").hide();
@@ -715,7 +715,7 @@ src="https://www.facebook.com/tr?id=833763146702563&ev=PageView&noscript=1"
 <p>Severity: Warning</p>
 <p>Message:  implode(): Invalid arguments passed</p>
 <p>Filename: include/headerhtml_20D.php</p>
-<p>Line Number: 907</p>
+<p>Line Number: 928</p>
 
 </div></span></a>
 								</li>
@@ -1568,7 +1568,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 							
 					<div class="fcat">
 					<a href="http://www.20dresses.com/Apparel/Tops">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/Grey-All-The-Way-Up-Top-1.jpg">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Exaggerated-In-Style-Top-1.jpg">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Tops</div>
@@ -1577,7 +1577,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 				
 					<div class="fcat">
 					<a href="http://www.20dresses.com/Apparel/Dresses">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/Double-Bell-Flare-Dress-1.jpg">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Sass-Of-The-Stripes-Dress-1.jpg">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Dresses</div>
@@ -1585,20 +1585,20 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 					</div> 
 				
 					<div class="fcat">
-					<a href="http://www.20dresses.com/Apparel/Denims-Jeggings-and-Leggings">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/The-Lightened-World-Blue-Denims-1.jpg">
+					<a href="http://www.20dresses.com/Apparel/Shorts-and-Skirts">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Patches-Of-Blue-Skirt-1.jpg">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
-						<div class="featured_name">Denims Jeggings and Leggings</div>
+						<div class="featured_name">Shorts and Skirts</div>
 						</a> 
 					</div> 
 				
 					<div class="fcat">
-					<a href="http://www.20dresses.com/Apparel/Shorts-and-Skirts">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/Maroon-The-Boardroom-Classic-Skirt-1.jpg">
+					<a href="http://www.20dresses.com/Apparel/Jumpsuits">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Maroon-The-Ruffled-Shoulder-Jumpsuit-1.jpg">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
-						<div class="featured_name">Shorts and Skirts</div>
+						<div class="featured_name">Jumpsuits</div>
 						</a> 
 					</div> 
 
@@ -1648,7 +1648,8 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Apparel/Shorts-and-Skirts">
 						
 						
-						Shorts &amp; Skirts 
+						Shorts &amp; Skirts								<span class="new_link">New!</span>
+								 
 						
 						</a>
 						
@@ -1728,7 +1729,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 							
 					<div class="fcat">
 					<a href="http://www.20dresses.com/Bags/Clutches">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/Textures-Of-Gold-Clutch-1.JPG">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Shades-Of-Darkness-Ombre-Clutch-1.JPG">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Clutches</div>
@@ -1737,7 +1738,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 				
 					<div class="fcat">
 					<a href="http://www.20dresses.com/Bags/Slings">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/The-Star-Trio-Sling-1.jpg">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Different-Desires-Colorblock-Sling-1.jpg">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Slings</div>
@@ -1745,17 +1746,8 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 					</div> 
 				
 					<div class="fcat">
-					<a href="http://www.20dresses.com/Bags/Hand-Bags">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/A-Studded-Weekend-Away-Duffel-Bag-1.JPG">
-					<br>
-						<!-- <div class="new-flag">Just Added</div> -->
-						<div class="featured_name">Hand Bags</div>
-						</a> 
-					</div> 
-				
-					<div class="fcat">
 					<a href="http://www.20dresses.com/Bags/Backpacks">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/The-Time-Traveler-Backpack-1.JPG">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Tied-Up-In-Bow-Backpack-1.jpg">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Backpacks</div>
@@ -1862,7 +1854,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 							
 					<div class="fcat">
 					<a href="http://www.20dresses.com/Accessories/Necklaces">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/Bling-All-Night-Long-Choker-Necklace-1.jpg">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/From-The-Land-Of-Feathers-Necklace-1.JPG">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Necklaces</div>
@@ -1870,29 +1862,29 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 					</div> 
 				
 					<div class="fcat">
-					<a href="http://www.20dresses.com/Accessories/Earrings">
-											<img src="http://www.20dresses.com/uploads/product/cart_img/The-Turquoise-Trio-Earrings-3.jpg">
-					<br>
-						<!-- <div class="new-flag">Just Added</div> -->
-						<div class="featured_name">Earrings</div>
-						</a> 
-					</div> 
-				
-					<div class="fcat">
-					<a href="http://www.20dresses.com/Accessories/Cuffs-and-Bangles">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/Distinct-Glaze-Cuff-1.JPG">
-					<br>
-						<!-- <div class="new-flag">Just Added</div> -->
-						<div class="featured_name">Cuffs and Bangles</div>
-						</a> 
-					</div> 
-				
-					<div class="fcat">
 					<a href="http://www.20dresses.com/Accessories/Belts">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/Black-Roll-It-On-Home-Slim-Belt-1.JPG">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/The-Slider-Crush-Belt-6.JPG">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Belts</div>
+						</a> 
+					</div> 
+				
+					<div class="fcat">
+					<a href="http://www.20dresses.com/Accessories/Sunglasses">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/All-A-Purr-Cat-Eye-Sunglasses-1.jpg">
+					<br>
+						<!-- <div class="new-flag">Just Added</div> -->
+						<div class="featured_name">Sunglasses</div>
+						</a> 
+					</div> 
+				
+					<div class="fcat">
+					<a href="http://www.20dresses.com/Accessories/Brooches-and-Collar-Pins">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Be-Your-Own-Boss-Brooch-1.JPG">
+					<br>
+						<!-- <div class="new-flag">Just Added</div> -->
+						<div class="featured_name">Brooches and Collar Pins</div>
 						</a> 
 					</div> 
 
@@ -1956,7 +1948,8 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Belts">
 						
 						
-						Belts 
+						Belts								<span class="new_link">New!</span>
+								 
 						
 						</a>
 						
@@ -2060,7 +2053,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 							
 					<div class="fcat">
 					<a href="http://www.20dresses.com/Shoes/Bellies-and-Flats">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/Always-On-The-Move-Flats-1.jpg">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/All-That-She-Wants-Flats-1.JPG">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Bellies and Flats</div>
@@ -2069,7 +2062,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 				
 					<div class="fcat">
 					<a href="http://www.20dresses.com/Shoes/Boots">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/Covering-All-Track-Booties-1.jpg">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Iconic-Buckle-Boots-1.jpg">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Boots</div>
@@ -2078,7 +2071,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 				
 					<div class="fcat">
 					<a href="http://www.20dresses.com/Shoes/Heels-and-Wedges">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/The-Blissful-Blushing-Bow-Heels-1.JPG">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Knotted-In-You-Mule-Heels-1.JPG">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Heels and Wedges</div>
@@ -2087,7 +2080,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 				
 					<div class="fcat">
 					<a href="http://www.20dresses.com/Shoes/Sneakers-and-Loafers">
-										<img src="http://www.20dresses.com/uploads/product/cart_img/The-Color-Of-Skin-Sneakers-1.jpg">
+										<img src="http://www.20dresses.com/uploads/product/cart_img/Pops-Of-Color-Sneakers-1.JPG">
 					<br>
 						<!-- <div class="new-flag">Just Added</div> -->
 						<div class="featured_name">Sneakers and Loafers</div>
@@ -2198,7 +2191,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 					<a href="http://www.20dresses.com/sale/Apparel"> 
 
 										
-					<img src="http://www.20dresses.com/uploads/product/cart_img/Play-Of-Checkers-Bardot-Top-1.JPG">
+					<img src="http://www.20dresses.com/uploads/product/cart_img/A-Whole-Lot-Of-Ruffles-Top-1.jpg">
 					
 						<br>					
 						<div class="featured_name">Apparel</div>
@@ -2208,7 +2201,8 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 					<div class="fcat">
 					<a href="http://www.20dresses.com/sale/Bags"> 
 
-											<img src="http://www.20dresses.com/uploads/product/cart_img/Cult-Colorblock-Sling-3.JPG">
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Stuck-In-Time-Backpack-1.JPG">
 					
 						<br>					
 						<div class="featured_name">Bags</div>
@@ -2218,7 +2212,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 					<div class="fcat">
 					<a href="http://www.20dresses.com/sale/Shoes"> 
 
-											<img src="http://www.20dresses.com/uploads/product/cart_img/Funky-Buckle-Moves-Heels-13.JPG">
+											<img src="http://www.20dresses.com/uploads/product/cart_img/The-Nautical-Tale-Flats-3.JPG">
 					
 						<br>					
 						<div class="featured_name">Shoes</div>
@@ -2481,6 +2475,13 @@ else
 	</li>
 	
 	<li>
+		<a target="_blank" href="https://www.instagram.com/20Dresses">
+		   <img src="http://www.20dresses.com/system/application/views/images/insta_footer.jpg" height="29" width="28" alt="Insta icon">
+		</a>
+	</li>
+	
+	
+	<li>
 		<a id="tweet" href="https://twitter.com/20dresses" target="_blank">
 		  <img src="http://www.20dresses.com/system/application/views/images/twitter_footer.jpg" height="29" width="28" alt="Twitter icon">
 	   </a>
@@ -2493,7 +2494,7 @@ else
    </li>
 	<li>
 		<a target="_blank" href="http://www.pinterest.com/20dresses">
-		  <img src="http://www.20dresses.com/system/application/views/images/pin_footer.jpg" height="29" width="28" alt="PINterest icon">
+		  <img src="http://www.20dresses.com/system/application/views/images/pin_footer.jpg" height="29" width="28" alt="Pinterest icon">
 		</a>
    </li>
 
@@ -2529,7 +2530,7 @@ padding: 8px;">
 			<span class="cash_delivery_f">$ </span>CASH ON DELIVERY
 	</li>
 	<li style="margin:0 10px;">
-		<img class="free_shipping_f" height="12" width="17" src="http://www.20dresses.com/system/application/views/images/truck_icon.png" alt="truck icon"> &nbsp;FREE SHIPPING <br>(ORDERS  ABOVE RS 494)
+		<img class="free_shipping_f" height="12" width="17" src="http://www.20dresses.com/system/application/views/images/truck_icon.png" alt="truck icon"> &nbsp;FREE SHIPPING <br>(ORDERS  ABOVE RS 994)
 	</li>
 	<li style="margin:0 10px;">
 		<img height="12" width="17" src="http://www.20dresses.com/system/application/views/images/easyreturns_icon.png" class="easy_returns_exchange" alt="EASY RETURNS &amp; CHANGES"> &nbsp;EASY RETURNS &amp; CHANGES
@@ -2549,7 +2550,7 @@ padding: 8px;">
 
 <div class="clearfix"></div>
 
-<div class="copyright">© 2012-2016 20DRESSES.COM. ALL  RIGHTS RESERVED </div>
+<div class="copyright">© 2012-2017 20DRESSES.COM. ALL  RIGHTS RESERVED </div>
  </div>
 </footer>
 
