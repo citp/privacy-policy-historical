@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the irishracing.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314020650id_/http%3A//www.irishracing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishracing.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120042644id_/http%3A//www.irishracing.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Irish Racing - Privacy Policy
+# Privacy Policy | Irishracing.com
 
-**Introduction**
+## Introduction
 
 **Information irish-racing.com collects:**
 
