@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vecto2000.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122612id_/http%3A//vecto2000.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vecto2000.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120044532id_/http%3A//vecto2000.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Vecto2000.com
 
