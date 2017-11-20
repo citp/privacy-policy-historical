@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextechclassifieds.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071915id_/http%3A//www.nextechclassifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextechclassifieds.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120042512id_/http%3A//www.nextechclassifieds.com/privacy) for the most accurate reproduction.*
 
 # Nex-Tech Classifieds
 
@@ -13,12 +13,15 @@ This privacy policy describes how we handle your personal information on our web
 
 You can browse the site anonymously without revealing any personal data. Once you sign up for an account you are no longer anonymous to our employees or other users. By creating an account you are providing consent to the storage and transfer of any related data to third parties as needed to provide services to you. 
 
-Potential Data Collected: 
+  
 
-  * E-mail address, phone numbers, address, username, password, IP address, location data and any web log related data for statistical analysis.
-  * When communicating with other users all messages sent or received via the site are stored and archived.
-  * Any data required to connect to third party sites, ie: Facebook, Twitter, etc.
-  * As a business account holder we will collect credit card and billing information.
+
+#### Potential Data Collected:
+
+  * E-mail address, phone numbers, address, username, password, IP address, location data and any web log related data for statistical analysis. 
+  * When communicating with other users all messages sent or received via the site are stored and archived. 
+  * Any data required to connect to third party sites, ie: Facebook, Twitter, etc. 
+  * As a business account holder we will collect credit card and billing information. 
 
   
 
