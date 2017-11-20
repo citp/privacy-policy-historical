@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moteefe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171556id_/https%3A//www.moteefe.com/privacy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moteefe.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120094315id_/https%3A//www.moteefe.com/privacy) for the most accurate reproduction.*
 
 # Moteefe
 
