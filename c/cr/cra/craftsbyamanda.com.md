@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsbyamanda.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329091911id_/http%3A//craftsbyamanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsbyamanda.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120102644id_/http%3A//craftsbyamanda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Crafts by Amanda
 
