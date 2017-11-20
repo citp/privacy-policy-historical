@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phoneky.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151240id_/http%3A//phoneky.com/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoneky.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180359id_/http%3A//phoneky.com/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# Phoneky -
+# PHONEKY -
 
 ### Privacy Policy
 
