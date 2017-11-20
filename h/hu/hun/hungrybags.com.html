@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hungrybags.com privacy policy that was archived on 2017-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623110421id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hungrybags.com privacy policy that was archived on 2017-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120175256id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <title></title>
@@ -176,7 +176,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="conatBoxWarpper" onclick="quickClose()"> </div>
 <div class="quicKontact" onclick="quickshow1()">
 	<div class="row">
-    <div class="pc_ic_ho foter_contact_hover"> <span class="float_l fa fa-mobile icn"></span> <span class="float_r txt">Call <br> Request</span> </div>	
+   <!-- <div class="pc_ic_ho foter_contact_hover"> <span class="float_l fa fa-mobile icn"></span> <span class="float_r txt">Call <br /> Request</span> </div>	-->
     </div>
 </div>
 
@@ -187,53 +187,57 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <input type="hidden" name="url" value="http://www.hungrybags.com/privacy_policy.php">
     <input type="hidden" name="city" value="">
     <input type="hidden" id="qtxtCaptcha1" name="qtxtCaptcha1">
-    	<div class="row cnt_Head">Quick Contact</div>
+    	<div style="margin-bottom:5px;" class="row cnt_Head">Quick Contact</div>
 		<div class="row frm_holder borderBox">
+        	
+            <div class="row" style="margin-bottom:10px;"> 
+            	<div class="container" style="text-align:center; line-height: 20px; font-size: 15px;">To experience the features of our new Holiday Search Engine, we recommend using our desktop site</div>
+            </div>
+            
     		<div class="row "> 
             	<div class="row"><label>Name </label></div>
             	<div class="row"><div class="ContIco"><span class="fa fa-user"> </span></div><input type="text" name="name" class="input inputRequired" placeholder="Name"> </div>
             </div>
-        <div class="row">
-            <div class="row"><label>Email</label></div>
-            <div class="row"><div class="ContIco"><span class="fa fa-envelope-o"></span></div><input type="text" data-type="email" name="email" class="input inputRequired" placeholder="Email"> </div>
-       	</div>
-        <div class="row">
-    		<div class="row"><label>Mobile</label></div>
-            <div class="row"><div class="ContIco"><span class="fa fa-mobile"></span></div>
-            <input type="text" data-type="number" name="mobile" class="input inputRequired" placeholder="Mobile">
-            </div>
-        </div>
-        <div class="row">
-        	<div class="row"><label>Message</label></div>
-    		<div lass="row"> <textarea type="text" name="message" class="massege inputRequired" rows="5" cols="20" placeholder="Message"></textarea></div>
-        </div>
-        
-        <div class="row">
-        	<div class="row"><label>Captcha</label></div>
-    		<div lass="row">
-            <div class="grid_40">
-            <input type="text" name="captcha" id="qtxtInput" maxlength="6" autocomplete="off" class="grid_60 captcha inputRequired" placeholder="captcha" data-type="captcha">
-            
-            </div>
-            <div class="grid_60">
-            <span id="qtxtCaptcha" class="txtCaptcha grid_40" style="background-image:url(http://www.hungrybags.com/img/cap_bg.jpg)"></span>
-			<a href="javascript:void(0);" name="btnrefresh" class="mar_l_2" onclick="DrawCaptcha_qcontact();" id="btnrefresh">Refresh</a>
-            </div>
-            </div>
-        </div>
-        
-        
-        <div class="row">
-        	<div class="row"><label>Confirmation</label></div>
             <div class="row">
-            	<input type="checkbox" class="cntchecked display_none inputRequired" value="1" data-type="checkbox" checked="checked" name="confirmation">
-            	<div class="ContIco " onclick="checkUncheck('.chkbIcon' , '.cntchecked')" style="display:block;"><span class="fa fa-check-square-o chkbIcon"></span></div> <span class="checkDiv" onclick="checkUncheck('.chkbIcon' , '.cntchecked')">I agree to Hungrybags.com T &amp; C</span>
+                <div class="row"><label>Email</label></div>
+                <div class="row"><div class="ContIco"><span class="fa fa-envelope-o"></span></div><input type="text" data-type="email" name="email" class="input inputRequired" placeholder="Email"> </div>
             </div>
-        </div>
-        <div class="row text_align_c">
-        	<input type="submit" name="send" class="cntsubmit" value="Contact Now">
-        </div>
-    </div>
+            <div class="row">
+                <div class="row"><label>Mobile</label></div>
+                <div class="row"><div class="ContIco"><span class="fa fa-mobile"></span></div>
+                <input type="text" data-type="number" name="mobile" class="input inputRequired" placeholder="Mobile">
+                </div>
+            </div>
+            <div class="row">
+                <div class="row"><label>Message</label></div>
+                <div lass="row"> <textarea type="text" style="padding:5px;" name="message" class="massege inputRequired" rows="5" cols="20" placeholder="Message"></textarea></div>
+            </div>
+        
+            <!--<div class="row">
+                <div class="row"><label>Captcha</label></div>
+                <div lass="row">
+                <div class="grid_40">
+                <input type="text" name="captcha" id="qtxtInput" maxlength="6" autocomplete="off" class="grid_60 captcha inputRequired" placeholder="captcha" data-type="captcha"/>
+                
+                </div>
+                <div class="grid_60">
+                <span id="qtxtCaptcha" class="txtCaptcha grid_40" style="background-image:url(http://www.hungrybags.com/img/cap_bg.jpg)"></span>
+                <a href="javascript:void(0);" name="btnrefresh" class="mar_l_2" onClick="DrawCaptcha_qcontact();" id="btnrefresh">Refresh</a>
+                </div>
+                </div>
+            </div>-->
+        
+            <div class="row">
+                <div class="row"><label>Confirmation</label></div>
+                <div class="row">
+                    <input type="checkbox" class="cntchecked display_none inputRequired" value="1" data-type="checkbox" checked="checked" name="confirmation">
+                    <div class="ContIco " onclick="checkUncheck('.chkbIcon' , '.cntchecked')" style="display:block;"><span class="fa fa-check-square-o chkbIcon"></span></div> <span class="checkDiv" onclick="checkUncheck('.chkbIcon' , '.cntchecked')">I agree to Hungrybags.com T &amp; C</span>
+                </div>
+            </div>
+            <div class="row text_align_c">
+                <input style="font-size:14px; padding: 5px; font-weight:500;" type="submit" name="send" class="cntsubmit" value="Contact Now">
+            </div>
+    	</div>
     </form>
 </div>
 <div rel="0" id="poupAct" style="display:none;"></div>
@@ -332,6 +336,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="clear"></div>
     </div>
 </footer>
+
 
 
  </body></html>
