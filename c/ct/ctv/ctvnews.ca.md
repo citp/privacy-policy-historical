@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctvnews.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032141id_/http%3A//www.bellmedia.ca/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctvnews.ca privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120031729id_/http%3A//www.bellmedia.ca/en/privacy.html) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : What is “personal” information?
 
@@ -269,7 +269,7 @@ What does “our companies” mean?
 
 When it comes to your preferences for privacy and marketing, “our companies” refers to the following companies and brands as they may exist over time:
 
-**Bell Aliant, Bell Canada, Bell ExpressVu LP (Bell TV), Bell Media, Bell Mobility, Cablevision du Nord, DMTS, KMTS, NorthernTel, Ontera, Solo Mobile and Télébec.**
+**Bell Aliant, Bell Canada, Bell ExpressVu LP (Bell TV), Bell Media, Bell Mobility, Bell MTS, Cablevision du Nord, DMTS, KMTS, NorthernTel, Ontera, Solo Mobile and Télébec.**
 
 * * *
 
