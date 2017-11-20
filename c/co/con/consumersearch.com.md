@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the consumersearch.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619162335id_/http%3A//www.consumersearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersearch.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120033725id_/https%3A//www.consumersearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ConsumerSearch.com
 
-Thank you for visiting ConsumerSearch, a production of ConsumerSearch, Inc. ("ConsumerSearch", "we", "us" or "our"). At ConsumerSearch, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected through our website (whether existing now or in the future, collectively, the “Services”). Below we describe what information we collect when you use the Services, how we protect that information, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy. 
+(As of: October 25, 2013)
+
+Thank you for visiting ConsumerSearch, a production of ConsumerSearch, Inc. ("ConsumerSearch", "we", "us" or "our"). At ConsumerSearch, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected through our website (whether existing now or in the future, collectively, the “Services”). Below we describe what information we collect when you use the Services, how we protect that information, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.
 
 This Privacy Policy only applies to properties we own and operate. Our properties may provide links to third party websites and this Privacy Policy will not apply to any information you may provide while on such third party websites. We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by means of a notice on our website.
 
@@ -10,13 +12,13 @@ This Privacy Policy only applies to properties we own and operate. Our propertie
 
 We explain the two ways that we collect and process information about you.
 
- **A. Information You Provide to Us**
+**A. Information You Provide to Us**
 
- **a. Feedback and Email Newsletter:** You may choose to submit feedback (such as reviews, tips, or comments) that may be shared with others through our Services. The feedback that you submit through the Services may be made available for other users of Consumer Search.com to read. We may also display your feedback on the Services, share it with businesses, and further distribute it to a wider audience through third party sites and services. We will however only use your name and/or email address for the purpose of answering to your feedback and when you sign up to receive our email newsletter.
+**a. Feedback and Email Newsletter:** You may choose to submit feedback (such as reviews, tips, or comments) that may be shared with others through our Services. The feedback that you submit through the Services may be made available for other users of Consumer Search.com to read. We may also display your feedback on the Services, share it with businesses, and further distribute it to a wider audience through third party sites and services. We will however only use your name and/or email address for the purpose of answering to your feedback and when you sign up to receive our email newsletter.
 
- **b. Communications:** If you participate in a survey, poll, promotion, contest, or sweepstakes; submit a customer service or other inquiry to us; request to receive certain communications from us; or contact us about employment opportunities posted to the Services, we may collect contact information such as your name, address, email address, or telephone number.
+**b. Communications:** If you participate in a survey, poll, promotion, contest, or sweepstakes; submit a customer service or other inquiry to us; request to receive certain communications from us; or contact us about employment opportunities posted to the Services, we may collect contact information such as your name, address, email address, or telephone number.
 
- **B. Information We Collect about your computer or mobile device when you Use the Services**
+**B. Information We Collect about your computer or mobile device when you Use the Services**
 
 When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:
 
@@ -36,11 +38,11 @@ When you use the Services, we automatically collect and store certain informatio
 
 8\. Information about your activity on the Services (e.g., your search queries, search results selected, clicks, pages viewed, how long you visited our Services, etc.)
 
- **About Location Information**
+**About Location Information**
 
 When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded. Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you. We keep this data for no longer than is reasonably necessary for providing our services. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature. We have explained how you can disable the collection of Mobile Device Location Information below:
 
- ** _How to Disable the Collection of Mobile Device Location Information._**
+**_How to Disable the Collection of Mobile Device Location Information._**
 
   * If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:
   * If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.
@@ -49,9 +51,9 @@ When you use one of our location-enabled services (for example, when you access 
 
 
 
- **Cookies, Mobile Device IDs and Online Advertising:**
+**Cookies, Mobile Device IDs and Online Advertising:**
 
- ** ** Cookies: We use cookies, pixel tags, web beacons, mobile device IDs, “flash cookies” and similar files or technologies to collect and store the information we automatically collect about your computer, device, and Services usage. A cookie is a small text file that is stored on your computer that enables us to recognize you when you visit our website, store your preferences and settings, enhance your experience by delivering content specific to your interests, perform research and analytics, track your use of our Services, and assist with security and administrative functions. To understand more about cookies, click [here](http://www.allaboutcookies.org/ "All About Cookies").
+** ** Cookies: We use cookies, pixel tags, web beacons, mobile device IDs, “flash cookies” and similar files or technologies to collect and store the information we automatically collect about your computer, device, and Services usage. A cookie is a small text file that is stored on your computer that enables us to recognize you when you visit our website, store your preferences and settings, enhance your experience by delivering content specific to your interests, perform research and analytics, track your use of our Services, and assist with security and administrative functions. To understand more about cookies, click [here](http://www.allaboutcookies.org/ "All About Cookies").
 
 Most browsers are set to automatically allow cookies. However, if you would like to remove cookies from your browser, you can delete or disable them by consulting your browser’s “help” menu. If you choose to decline or remove cookies, please note that this may affect the quality of the services. In addition, deleting or disabling cookies on one browser is unlikely to delete them on other browsers or other computers. Thus, you may have to delete or disable cookies in more than one location.
 
@@ -83,11 +85,11 @@ If you are using a mobile device, we use your unique mobile device ID number to 
 
 We use the information we collect from and about you for a variety of purposes, including to:
 
-  * • Respond to your queries.
-  * • Understand our users (their demographics, what they do on our Services, what features they like, how they use them, etc.), improve our Services, such as by personalizing content to your interests, process and complete your transactions, and make special offers.
-  * • Administer our Services and diagnose technical problems.
-  * • Send you communications that you have requested or that may be of interest to you.
-  * • Enable us to show you ads on our website that may be more relevant to your interests.
+  * Respond to your queries.
+  * Understand our users (their demographics, what they do on our Services, what features they like, how they use them, etc.), improve our Services, such as by personalizing content to your interests, process and complete your transactions, and make special offers.
+  * Administer our Services and diagnose technical problems.
+  * Send you communications that you have requested or that may be of interest to you.
+  * Enable us to show you ads on our website that may be more relevant to your interests.
 
 
 
