@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alteraforum.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164506id_/http%3A//www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alteraforum.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120072510id_/http%3A//www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html) for the most accurate reproduction.*
 
 # Intel Privacy Notice
 
@@ -95,7 +95,7 @@ We and our third-party service providers may collect this information in a varie
 We provide access to our Privacy Notice by:
 
   * Linking to it throughout our websites 
-  * Referencing it in our Terms of Use, End User License A  
+  * Referencing it in our Terms of Use, End User License Agreement  
 
   * Incorporating it into our contracts, agreements, and other documents as necessary or appropriate
 
