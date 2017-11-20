@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmbeachgroup.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602114450id_/http%3A//palmbeachgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachgroup.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120170441id_/https%3A//palmbeachgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Palm Beach Research Group
 
