@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensnow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105558id_/http%3A//opensnow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensnow.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120042223id_/http%3A//opensnow.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenSnow
 
@@ -16,7 +16,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 
-As you browse opensnow.com, advertising cookies will be placed on your web browser so that we can understand what content you are interested in. Our display advertising partner then enables us to present you with retargeting advertising on other sites based on your previous interaction with opensnow.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number and your session with opensnow.com will be kept anonymous. You can visit this page to opt out of advertising retargeting and their partners’ targeted advertising. <http://www.networkadvertising.org/choices/>
+As you browse opensnow.com, advertising cookies will be placed on your web browser so that we can understand what content you are interested in. Our display advertising partner then enables us to present you with retargeting advertising on other sites based on your previous interaction with opensnow.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number and your session with opensnow.com will be kept anonymous. You can visit this page to opt out of advertising retargeting and their partners’ targeted advertising. [http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/)
 
 You can also change the preferences or settings in your Web browser to control cookies. In some cases, you can choose to accept cookies from the primary site, but block them from third parties. In others, you can block cookies from specific advertisers, or clear out all cookies.
 
