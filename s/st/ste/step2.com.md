@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the step2.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624005602id_/https%3A//www.step2.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the step2.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120032437id_/https%3A//www.step2.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy at Step2
 
@@ -101,7 +101,7 @@ Our Site includes links to other websites whose privacy practices may differ fro
 
 **Reviews**
 
-All review content on www.step2.com is provided by PowerReviews. All submission and use of reviews and ratings is subject to PowerReviews' policies, including its Terms of Use, Usage Agreement, and Privacy Policy, available at <http://www.powerreviews.com/legal/>. Reviews posted at www.Step2.com may also be displayed at [Buzzillions.com](http://www.buzzillions.com/4294903459_4294965645_nz_toys_games_hobbies_reviews). 
+All review content on www.step2.com is provided by BaazarVoice. All submission and use of reviews and ratings is subject to BaazarVoice' policies, including its Terms of Use, Usage Agreement, and Privacy Policy, available at <http://www.bazaarvoice.com/legal/>. Reviews posted at www.Step2.com may also be displayed at [Buzzillions.com](http://www.buzzillions.com/4294903459_4294965645_nz_toys_games_hobbies_reviews). 
 
 If you wish to have your product review removed you may contact us at [Step2-Company@Step2.net](mailto:Step2-Company@Step2.net).
 
