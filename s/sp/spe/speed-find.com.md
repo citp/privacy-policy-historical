@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speed-find.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611144018id_/http%3A//www.thenexttask.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speed-find.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120042243id_/http%3A//www.thenexttask.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy, Cookies and Data Protection
 
