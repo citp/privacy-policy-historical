@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nidirect.gov.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172136id_/https%3A//www.nidirect.gov.uk/articles/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nidirect.gov.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120093846id_/https%3A//www.nidirect.gov.uk/articles/your-privacy) for the most accurate reproduction.*
 
 # Privacy | nidirect
 
@@ -37,7 +37,7 @@ Once you have received a reply, we will keep a record of your message for a maxi
 The nidirect site and some of the tools and services we link to use cookies. You can find more information on these cookies on the following nidirect pages:
 
   * [Cookies](https://web.archive.org/articles/cookies)
-  * [How we use cookies](https://web.archive.org/articles/how-we-use-cookies-0)
+  * [How we use cookies](https://web.archive.org/articles/how-we-use-cookies)
 
 
 
