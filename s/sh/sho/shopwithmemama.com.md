@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopwithmemama.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623200249id_/http%3A//shopwithmemama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwithmemama.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120012747id_/https%3A//shopwithmemama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shop With Me Mama
 
-This Privacy Policy governs the manner in which Shop with Me Mama collects, uses, maintains and discloses information collected from users ( _each, a “User”_ ) of the [http://www.shopwithmemama.com](http://www.shopwithmemama.com/) website ( _“Site”_ ). This privacy policy applies to the Site and all products and services offered by Shop with Me Mama.
+This Privacy Policy governs the manner in which Shop with Me Mama collects, uses, maintains and discloses information collected from users ( _each, a “User”_ ) of the [https://www.shopwithmemama.com](https://www.shopwithmemama.com/) website ( _“Site”_ ). This privacy policy applies to the Site and all products and services offered by Shop with Me Mama.
 
 **Personal identification information**
 
@@ -66,8 +66,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Shop with Me Mama](http://www.shopwithmemama.com/)  
-[http://www.shopwithmemama.com](http://www.shopwithmemama.com/)  
+[Shop with Me Mama](https://www.shopwithmemama.com/)  
+[https://www.shopwithmemama.com](https://www.shopwithmemama.com/)  
 Moore, Idaho 83255  
 shopwithme52@yahoo.com
 
