@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakhype.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021552id_/http%3A//sneakhype.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakhype.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120042201id_/http%3A//sneakhype.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sneakhype
 
@@ -69,7 +69,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://sneakhype.com/terms](https://web.archive.org/web/20170606021552id_/http%3A//terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://sneakhype.com/terms](https://web.archive.org/web/20171120042201id_/http%3A//terms)
 
 **Your Consent**
 
