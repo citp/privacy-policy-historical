@@ -1,60 +1,108 @@
-> *The following text is extracted and transformed from the stateofthemedia.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615125029id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateofthemedia.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120032547id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pew Research Center
 
-Pew Research Center shares your concerns about maintaining the integrity and privacy of personal information collected on the internet. Pew Research Center is committed to protecting your privacy, and this privacy policy (“Policy”) is intended to explain our information collection and dissemination practices in connection with Pew Research Center family of websites located at [www.pewresearch.org](http://www.pewresearch.org/) (the “Sites”). Please review the entire Policy and feel free to contact us at [info@pewresearch.org](mailto:info@pewresearch.org) if you have any questions. Also, please read our Terms & Conditions for accessing the Sites and using the content.
+Effective Date:  Oct. 10, 2017
 
-_By using the Sites, you consent to the collection, use, and disclosure of information in accordance with the terms of this Policy. This Policy was last updated on December 13, 2012 Any information you submitted prior to December 17, 2012 will be governed by the terms of the previous privacy policy. A link to the previous privacy policy can be found[here](http://www.pewresearch.org/privacy-policy-2011/). This updated Policy is effective as of December 17, 2012. Your continued use of the Sites after December 17, 2012 is deemed to constitute your consent to the updated Policy._
+Pew Research Center (“we,” “us,” or “our”) shares your concerns about maintaining the integrity and privacy of personal information collected on the internet.  We are committed to protecting your privacy, and this privacy policy (“Policy”) is intended to describe our information collection and dissemination practices in connection with Pew Research Center family of websites located at www.pewresearch.org or any website or service that links to or refers to this Policy (collectively, the “Sites”).
 
-_In addition, Pew Research Center reserves the right to update this Policy at any time. If we change our Policy, we will provide notice of the change on this page or send you an email so that you are aware of the information we collect, how we use it, and under what circumstances we disclose it. Use of the Sites after the effective date of any additional modifications of this Policy is deemed to constitute your consent to this Policy as further amended._
+Please review the entire Policy and feel free to contact us using the contact information below if you have any questions.  By using the Sites, you consent to the collection, use, and disclosure of your information in accordance with the Policy.
 
-### 1) Collection of Personal Information
+**I.** **COLLECTION OF INFORMATION**
 
-In order to monitor the Sites’ performance, provide you with a better experience when visiting the Sites and for statistical and routine system maintenance purposes, Pew Research Center may automatically collect the following through the use of first-party cookies: (a) the home server domain names, IP addresses, geographic location, type of computer and operating system, type of web browser or device of users of the Sites (“you”), and (b) aggregate information on which pages you access and relevant information such as the date on which these pages were accessed. This information is only used in aggregate form and does not identify you personally. Pew Research Center uses the services of Google Analytics, Crazy Egg and Chartbeat to monitor visitor interaction with the Sites:
+We may collect the following kinds of information when you use the Sites:
 
-  * [Google Analytics’ Privacy Policy](http://www.google.com/analytics/learn/privacy.html)
-  * [Crazy Egg Privacy Policy](http://www.crazyegg.com/privacy)
-  * [Chartbeat Privacy Policy](https://chartbeat.com/privacy/)
+__Information you provide directly to us__ _._ For certain activities, such as when you register, subscribe to our alerts, download our datasets, or contact us directly, we may collect some or all of the following types of information:
+
+  * Contact information, such as your full name, email address, mobile phone number, and address;
+  * Username and password; and
+  * Any other information you provide to us.
 
 
 
-Beyond the above information, Pew Research Center only collects personal information (e.g., name, email, mailing address and phone number) that you voluntarily submit to us. This information is used by Pew Research Center or its contracted service providers solely to provide you with the information and materials you have requested, such as datasets, email updates and other materials regarding Pew Research Center and its programs. If you choose to email us and provide personally identifiable information, we will not use the information for any purpose other than to respond to your inquiry.
+We may combine such information with information we may already have about you.
 
-_Registration for Pew Research Center Websites:_
+__Information we collect automatically__ _._ We may collect certain information automatically when you use our Sites, such as your Internet protocol (IP) address, device and advertising identifiers, browser type, operating system, Internet service provider, pages that you visit before and after using the Sites, the date and time of your visit, information about the links you click, the pages you view, the general manner in which you navigate the Sites, and other standard server log information.  We may also collect certain location information when you use our Sites, such as your computer’s IP address, your mobile device’s GPS signal, or information about nearby WiFi access points and cell towers.
 
-Registration is not required for the Sites. However, all researchers wishing to access Pew Research datasets will be required to provide personal contact information and to read and accept our dataset agreement. We collect this information solely for the purpose of contacting scholars who have accessed a particular data set, in the event that errors are discovered in the data.
+We and third parties that provide content or functionality on our Sites, may use cookies, pixel tags, Local Shared Objects, and similar technologies to automatically collect this information.  Cookies are small bits of information that are stored by your computer’s web browser.  Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  By using the Sites, you consent to our use of cookies and similar technologies.
 
-### 2) Use of Personal Data Collected
+We may also collect technical data to address and fix technical problems and improve our Sites, including the memory state of your device when a system or app crash occurs while using our Sites.  Your device or browser settings may permit you to control the collection of this technical data.  This data may include parts of a document you were using when a problem occurred, or the contents of your communications.  By using the Sites, you are consenting to the collection of this technical data.
 
-Pew Research Center will not sell, share, rent or disclose to third parties any individually identifying information, such as names, postal and email addresses, telephone numbers, and other personal information which you voluntarily provide to us, except (a) to provide the services you have requested; (b) to the extent necessary to comply with applicable laws or valid legal processes; or (c) to protect Pew Research Center’s intellectual property and other legal rights. Information submitted to us is only available to employees managing this information for the purposes of contacting you or sending you permission-based emails following your request for information, and to contracted service providers for the purposes of providing services relating to our communications with you.
+We may also receive information about you from other sources, including through third-party services and organizations.  For example, if you access third-party services, such as Facebook, Google, or Twitter, through the Sites to login to the Sites or to share information about your experience on the Sites with others, we may collect information from these third-party services.
 
-Pew Research Center works with third-party vendors Constant Contact and MailChimp to provide users with its email update and newsletter services. While these vendors have access to your personally identifiable information in order to provide email services, they are required to maintain the privacy of all information in their control and can only use the information on our behalf for the stated purpose and are not authorized to use your information for any other purpose. You may opt out of any Pew Research newsletter by clicking “unsubscribe” at the bottom of each newsletter and following the subsequent instructions.
+**II.** **USE OF INFORMATION**
 
-### 3) User’s Rights
+We generally use the information we collect online to:
 
-You may obtain a summary of your personally identifiable information retained by us, or modify, correct, change or update such information by contacting Pew Research Center via the postal address, email address, or telephone number listed in Section 6 (Right to Contact) below.
+  * Provide and improve the Sites;
+  * Contact you, including for fundraising purposes;
+  * Fulfill your requests for products, services, and information;
+  * Send you promotional materials from us or on behalf of our affiliates and trusted third-party partners;
+  * Analyze the use of the Sites and user data to understand and improve the Sites;
+  * Customize the content you see when you use the Sites;
+  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms and Conditions](http://www.pewresearch.org/about/use-policy/terms-and-conditions/); and
+  * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-You may also request that Pew Research Center remove from its database any personally identifiable information you have previously provided by contacting Pew Research Center via the postal address, email address, or telephone number listed in Section 6 (Right to Contact) below. Complete removal may not be immediate, and in some instances, all archival copies may be impossible to delete. Also, if you would like to opt out of receiving any communications, please contact Pew Research Center at [info@pewresearch.org](mailto:info@pewresearch.org).
 
-### 4) Links
 
-The Sites may contain links to other Internet web sites. However, Pew Research Center does not endorse, and is not responsible for, the privacy practices or the content of these web sites. You should review these policies in connection with your use of such third-party sites.
+**III.** **SHARING OF INFORMATION**
 
-### 5) Security Measures
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-Pew Research Center has established reasonable precautions to protect collected personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction, which includes contractual, administrative, physical, and technical steps. Technical measures include the use of firewall protection. Although Pew Research Center takes reasonable precautions to assess the reliability of such technology, it relies on the statements of the vendors of those products and services as part of its security evaluation. Please note that while Pew Research Center has endeavored to create secure and reliable Sites for its users, the confidentiality of any communication or material transmitted to/from Pew Research Center via the Sites or email cannot be guaranteed.
+  * __Authorized third-party vendors and service providers__ _._ We may share your information with third-party vendors and service-providers that help us with specialized services, including billing, payment processing, customer service, email deployment, business analytics, marketing, advertising, performance monitoring, hosting, and data processing.
+  * __Corporate affiliates__. We may share your information with our corporate affiliates that are subject to this policy.
+  * __Business transfers__ _._ We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+  * __Legal purposes__ _._ We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, health, safety, and security of Pew Research Center, our affiliates, users, or the public.
+  * __With your consent or at your direction__. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent or direction.
 
-Pew Research Center urges you to take reasonable precautions to protect your personal data when you are on the Internet.
 
-### 6) Right to Contact
 
-Pew Research Center reserves the right to contact users of the Sites regarding changes to this Policy, the terms of use of the Sites, or any other policies, agreements or transactions relevant to Site users.
+If you access third-party services, such as Facebook, Google, or Twitter, through the Sites to login to the Sites or to share information about your experience on the Sites with others, these third-party services may be able to collect information about you, including information about your activity on the Sites, and they may notify your connections on the third-party services about your use of the Sites, in accordance with their own privacy policies.
 
-Questions or concerns regarding Pew Research Center’s data protections practices should be addressed to:
+If you choose to engage in public activities on the Sites, you should be aware that any information you share there can be read, collected, or used by other users of these areas.  You should use caution in disclosing personal information while participating in these areas. We are not responsible for the information you choose to submit in these public areas.
+
+**IV.** **SECURITY**
+
+We use reasonable measures to help protect information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.  You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure.  Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.
+
+**V.** **YOUR CHOICES**
+
+You may opt out of our email newsletters by clicking the “unsubscribe” at the bottom of each newsletter and following the subsequent instructions.  You may also opt out of all communications from Pew Research Center by contacting us using the contact information below.
+
+You may be able to refuse or disable cookies by adjusting your web browser settings.  Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section).  Please note that you may need to take additional steps to refuse or disable Local Shared Objects and similar technologies.  For example, Local Shared Objects can be controlled through the instructions on Adobe’s [Setting Manager page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).  If you choose to refuse, disable, or delete these technologies, some of the functionality of the Sites may no longer be available to you.
+
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes.
+
+**VI.** **THIRD-PARTY ADVERTISING, LINKS, AND CONTENT**
+
+Some of the Sites may contain links to content maintained by third parties that we do not control.  We allow third parties, including business partners, advertising networks, and other advertising service providers, to collect information about your online activities through cookies, pixels, local storage, and other technologies. These third parties may use this information to display advertisements on our Sites and elsewhere online tailored to your interests, preferences, and characteristics.  We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.
+
+Some third parties collect information about users of our Sites to provide interest-based advertising on our Sites and elsewhere, including across browsers and devices.  These third parties may use the information they collect on our Sites to make predictions about your interests in order to provide you ads (from us and other companies) across the internet.  Some of these third parties may participate in an industry organization that gives users the opportunity to opt out of receiving ads that are tailored based on your online activities.  Due to differences between using apps and websites on mobile devices, you may need to take additional steps to disable targeted ad technologies in mobile apps.  Many mobile devices allow you to opt out of targeted advertising for mobile apps using the settings within the mobile app or your mobile device.  For more information, please check your mobile settings.  You also may uninstall our apps using the standard uninstall process available on your mobile device or app marketplace.
+
+To opt out of interest-based advertising across browsers and devices from companies that participate in the [Digital Advertising Alliance](http://www.aboutads.info/) or [Network Advertising Initiative](http://www.networkadvertising.org/) opt-out programs, please visit their respective websites.  You may also be able to opt out of interest-based advertising through the settings within the mobile app or your mobile device, but your opt-out choice may apply only to the browser or device you are using when you opt out, so you should opt out on each of your browsers and devices if you want to disable all cross-device linking for interest-based advertising.  If you opt out, you will still receive ads but they may not be as relevant to you and your interests, and your experience on our Sites may be degraded.
+
+__Do-Not-Track Signals and Similar Mechanisms__. Some web browsers transmit “do-not-track” signals to websites. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
+
+**VII.** **INTERNATIONAL USERS**
+
+We maintain information in the United States of America and in accordance with the laws of the United States, which may not provide the same level of protection as the laws in your jurisdiction.  By using the Sites and providing us with information, you understand and agree that your information may be transferred to and stored on servers located outside your resident jurisdiction and, to the extent you are a resident of a country other than the United States, that you consent to the transfer of such data to the United States for processing by us in accordance with this Privacy Policy.
+
+**VIII.** **CHILDREN**
+
+We do not knowingly collect any personal information from children under the age of 13 without parental consent, unless permitted by law.  If we learn that a child under the age of 13 has provided us with personal information, we will delete it in accordance with applicable law.
+
+**IX.** **CHANGES TO THE PRIVACY POLICY**
+
+We may update this Policy from time to time. When we update the Policy, we will revise the “Effective Date” date above and post the new Privacy Policy.  We recommend that you review the Privacy Policy each time you visit the Sites to stay informed of our privacy practices.
+
+**X.** **CONTACT INFORMATION**
+
+If you have any questions about this Policy or our practices, please contact us at:
 
 Pew Research Center  
-1615 L Street, NW  
-Suite 700  
-Washington, DC 20036  
-Telephone: 202.419.4300  
+1615 L St. NW  
+Suite 800  
+Washington, D.C. 20036
+
+Telephone: (+1) 202-419-4300  
 Email: [info@pewresearch.org](mailto:info@pewresearch.org)
