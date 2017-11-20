@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poundwishes.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209091551id_/https%3A//poundwishes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poundwishes.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120024751id_/https%3A//poundwishes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# poundWISHES privacy-policy
 
 Your privacy is important to PoundWishes.com.  This privacy statement provides information about the personal information that PoundWishes.com collects, and the ways in which PoundWishes.com uses that personal information. 
 
@@ -10,41 +10,41 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 PoundWishes.com may collect and use the following kinds of personal information: 
 
-• information about your use of this website;
+? information about your use of this website;
 
-• email address
+? email address
 
-• information that you provide using for the purpose of registering with the website;
+? information that you provide using for the purpose of registering with the website;
 
-• information about transactions carried out over this website;
+? information about transactions carried out over this website;
 
-• information that you provide for the purpose of subscribing to the website services;
+? information that you provide for the purpose of subscribing to the website services;
 
-• any other information that you send to PoundWishes.com. 
+? any other information that you send to PoundWishes.com. 
 
 ## Using personal information 
 
 PoundWishes.com may use your personal information to: 
 
-•  administer this website;
+?  administer this website;
 
-• send you weekly email correspondence;
+? send you weekly email correspondence;
 
-•  personalize the website for you;
+?  personalize the website for you;
 
-•  enable your access to and use of the website services;
+?  enable your access to and use of the website services;
 
-•  publish information about you on the website;
+?  publish information about you on the website;
 
-•  send to you products that you purchase;
+?  send to you products that you purchase;
 
-•  supply to you services that you purchase;
+?  supply to you services that you purchase;
 
-•  send to you statements and invoices;
+?  send to you statements and invoices;
 
-•  collect payments from you; and
+?  collect payments from you; and
 
-•  send you marketing communications. 
+?  send you marketing communications. 
 
 Where PoundWishes.com discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. 
 
@@ -84,7 +84,7 @@ PoundWishes.com is not responsible for the privacy policies or practices of any 
 
 If you have any questions about this privacy policy's treatment of your personal information, please write: 
 
-•  by email to info@poundwishes.com 
+?  by email to info@poundwishes.com 
 
 Shelters and Resuce
 
@@ -92,4 +92,4 @@ By using our tools and features you agree that you have the expressed consent to
 
 ## Credit 
 
-This document was created using a Contractology template available at [http://www.freenetlaw.com](http://www.freenetlaw.com/).
+This document was created using a Contractology template available at [http://www.freenetlaw.com](http://www.contractology.com/free-legal-templates.html).
