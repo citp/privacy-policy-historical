@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterellen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001805id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwww.afterellen.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterellen.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120065505id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwww.afterellen.com) for the most accurate reproduction.*
 
 # TotallyHer Media | Privacy - ?site=www.afterellen.com
 
