@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the juliensauctions.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606034455id_/http%3A//www.juliensauctions.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juliensauctions.com privacy policy that was archived on 2017-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120083232id_/http%3A//www.juliensauctions.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- InstanceBegin template="/Templates/juliensauctions-r.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -57,7 +57,7 @@ src="https://www.facebook.com/tr?id=1814558835438171&ev=PageView&noscript=1"
 <div id="thepage">
 
 <div id="headerwrap">
-<div id="thelogo"><a href="index.html"><img src="images/l4/juliens-auctions-logo4.png" alt="Julien's Auctions Home"></a></div>
+<div id="thelogo"><a href="index.html"><img src="images/l4/juliens-auctions-logo5-transparent.png" alt="Julien's Auctions Home"></a></div>
 <!-- InstanceBeginEditable name="hdrbanner" --><div></div>
 <!-- InstanceEndEditable -->
 <div id="hdrrt">
@@ -170,7 +170,6 @@ Policy; in that event, we will post them to this page of our website with the co
 <ul>
 <li class="bnavtitle"><a href="about-juliens.html"><b>About Julien's</b></a></li>
 <li><a href="meet-juliens-auctions.html">Meet Julien's Auctions</a></li>
-<li><a href="celebrity-home-raiders/index.html">Celebrity Home Raiders</a></li>
 <li><a href="preferred-member-program.html">Preferred Member Program</a></li>
 <li><a href="charity-auction-services.html">Charity Auctioneer Services</a></li>
 <li><a href="appraisals/index.html">Appraisals</a></li>
@@ -217,7 +216,7 @@ Policy; in that event, we will post them to this page of our website with the co
 <td><a href="http://www.linkedin.com/company/2879820?goback=.npv_160994859_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1&amp;trk=NUS_CMPE-comp_nm" target="_blank"><img src="images/l4/socnet/linkedin.gif" alt="LinkedIn"></a></td>
 <td><a href="http://weibo.com/juliensauctions/" target="_blank"><img src="images/l4/socnet/weibo.gif" alt="Weibo"></a></td>
 <td><a href="http://www.pinterest.com/juliensauctions/" target="_blank"><img src="images/l4/socnet/pinterest.gif" alt="Pinterest"></a></td></tr>
-<tr><td colspan="7" id="fblike"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FJuliensAuctions%3Ffref%3Dts&amp;width=80px&amp;height=28&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;send=false" style="overflow:hidden"></iframe></td>
+<tr><td colspan="7" id="fblike"><iframe src="//www.facebook.com/plugins/like.php?href=//%3A%2F%2Fwww.facebook.com%2FJuliensAuctions%3Ffref%3Dts&amp;width=80px&amp;height=28&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;send=false" style="overflow:hidden"></iframe></td>
 </tr>
 </tbody></table>
 
@@ -233,7 +232,7 @@ function googleTranslateElementInit() {
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <!-- SiteSearch Google -->
-<form id="bnavsearchbox" method="get" action="http://www.juliensauctions.com/search.html" target="_top">
+<form id="bnavsearchbox" method="get" action="//www.juliensauctions.com/misc/search.html" target="_top">
 <img src="images/l4/google-Logo_25wht.gif" alt="Google" style="border:0; vertical-align:middle"><br>
 <input type="hidden" name="domains" value="juliensauctions.com">
 <label for="sbi" style="display: none">Enter your search terms</label>
@@ -254,7 +253,8 @@ function googleTranslateElementInit() {
 </div><!--close btmnavwrap-->
 
 <div id="thefooter">
-<div id="addy">Julien's Auctions | 3327&nbsp;La&nbsp;Cienega&nbsp;Place, Los&nbsp;Angeles, California 90016 | Phone:&nbsp;310-836-1818 | Fax:&nbsp;310-742-0155</div>
+<div id="addy">Mail and Pickup Only<br>
+Julien's Auctions | 8630 Hayden Place, Culver City, California 90232 | Phone:&nbsp;310-836-1818 | Fax:&nbsp;310-742-0155</div>
 <div id="c">© 2003-<script type="text/javascript">var d=new Date();yr=d.getFullYear();if (yr!=1989)document.write(yr);</script>2020 Julien's Auctions. All Rights Reserved. <a href="http://dianev.com" target="_blank">DianeV Web Design Studio</a></div>
 </div><!--close footer-->
 
@@ -264,6 +264,30 @@ function googleTranslateElementInit() {
 
 <script src="misc/hnavburger/js/jquery.js"></script>
 <script src="misc/hnavburger/js/index.js"></script>
+
+<!--Nima code-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+
+if(document.referrer != '')
+{
+
+var querystring = 'http_referer=' + encodeURI(document.referrer);
+
+$('a').each(function() {
+    var href = $(this).attr('href');
+
+    if (href) {
+		if (href.includes('julienslive.com')){
+        	href += (href.match(/\?/) ? '&' : '?') + querystring;
+        	$(this).attr('href', href);
+		}
+    }
+});
+
+}
+</script>
+<!--end Nima footer code-->
 
 
 <!-- InstanceEnd -->
