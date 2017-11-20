@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612155623id_/http%3A//www.nvidia.in/object/privacy_policy_in.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120044619id_/http%3A//www.nvidia.in/object/privacy_policy_in.html) for the most accurate reproduction.*
 
-# NVIDIA Privacy Policy | NVIDIA
+# NVIDIA Privacy Policy|NVIDIA
 
 **This policy was last updated on June 15, 2016.**
 
