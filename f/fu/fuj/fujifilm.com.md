@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujifilm.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610072530id_/http%3A//fujifilm.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilm.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120135557id_/http%3A//www.fujifilm.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fujifilm Global
 
