@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytrip.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070904id_/http%3A//www.mytrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytrip.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120170438id_/http%3A//www.mytrip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - www.mytrip.com
 
@@ -38,4 +38,4 @@ Mytrip.com may contain links to other Websites. We are not responsible for the p
 
 ### Contact us
 
-If you have any questions about this Privacy Policy, please feel free to contact our Customer Support service at +44 8447747881. 
+If you have any questions about this Privacy Policy, please feel free to contact our Customer Support service at +1 (917) 2849583. 
