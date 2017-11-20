@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizentv.co.ke privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629081754id_/https%3A//citizentv.co.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizentv.co.ke privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120113934id_/https%3A//citizentv.co.ke/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Citizentv.co.ke
 
