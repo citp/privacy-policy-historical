@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knightstemplarinternational.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421234206id_/https%3A//knightstemplarinternational.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knightstemplarinternational.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120024317id_/https%3A//knightstemplarinternational.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Knights Templar International
+# Privacy Policy - Knights Templar International
 
 ## What is this Privacy Policy for?
 
