@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rumble.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129042122id_/https%3A//rumble.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumble.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120054651id_/https%3A//rumble.com/s/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Rumble
+# Privacy Policy
 
   * [Terms & Conditions](https://web.archive.org/s/terms.html)
   * [Privacy Policy](https://web.archive.org/s/privacy.html)
