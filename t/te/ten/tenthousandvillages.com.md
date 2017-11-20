@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenthousandvillages.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207104757id_/http%3A//www.tenthousandvillages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenthousandvillages.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120182114id_/http%3A//www.tenthousandvillages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
