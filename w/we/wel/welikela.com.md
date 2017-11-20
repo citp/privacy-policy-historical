@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welikela.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622003358id_/http%3A//www.welikela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welikela.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120170439id_/http%3A//www.welikela.com/privacy-policy) for the most accurate reproduction.*
 
 # We Like L.A. Privacy Policy and Legal Terms of Service -
 
@@ -6,7 +6,7 @@ The privacy of all We Like L.A. readers is extremely important to us and we hav
 
 This policy is effective: 2/10/2015.
 
-To contact us regarding this policy, or make inquiries regarding any of the below points, please email at: contact@welikela.com
+To contact us regarding this policy, or make inquiries regarding any of the below points, please email at: [[email protected]](http://www.welikela.com/cdn-cgi/l/email-protection)
 
 ### 1\. Collection of Personal Data
 
@@ -88,4 +88,4 @@ More details concerning the collection or processing of Personal Data may be req
 
 We Like L.A. reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller removes the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
 
-For further inquires or questions, please write via email to: contact@welikela.com
+For further inquires or questions, please write via email to: [[email protected]](http://www.welikela.com/cdn-cgi/l/email-protection)
