@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flypeach.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619161641id_/http%3A//www.flypeach.com/pc/en/fm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flypeach.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120135823id_/http%3A//www.flypeach.com/pc/en/fm/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peach Aviation
 
@@ -13,11 +13,11 @@ All or part of the Personal Information and Retained Personal Data may be used w
 
 [1] Reservations, ticket sales, check-in, airport service handling, and in-flight services with regard to air transport services  
 [2] Reservations, ticket sales, and airport handling for interline transportations, joint operations, code share, intermodal transportations and contract operations  
-[3] Guidance, provision, and management with regard to other services or products offered by Peach Aviation (referred to below as “Services, etc.”), various events, competitions, and campaigns (referred to below as “Events, etc.”)  
-[4] All operations incidental or related to the above [1]-[3]  
-[5] Provision of information and implementation of questionnaires concerning Services, etc.  
-[6] Sales analyses, other surveys and research, and development of new services and products  
-[7] Contact and notifications required for implementation of Events, etc.  
+[3] Peach Express membership enrollment and customer data handling related to facilitating day-to-day management of said program.   
+[4] COMOMO enrollment and customer data handling related to facilitating day-to-day management of said program  
+[5] Information, information provision and management concerning the above articles [1] - [4] and other services or products offered by Peach Aviation (hereinafter collectively referred to as "services, etc.") various events, prizes, competitions, and campaigns (hereinafter referred to as "events etc.")   
+[6] All operations incidental or related to articles [1] - [5] above.   
+[7] Creating statistical data processed into a format that shall not identify individuals in relation to the services, events, etc.   
 [8] Management and notification of services, products, events and campaigns of Peach Aviation Group companies and partner companies.  
 [9] Responses to inquiries and requests  
 [10] Sales of property insurance, small-amount short-term insurance and their associated services for which Peach Aviation is contracted by ACE Insurance, Sompo Japan Nipponkoa Insurance Inc., and Ticket Guard Small Amount & Short Term Insurance Co., Ltd.
@@ -67,19 +67,6 @@ When the need arises, Peach Aviation entrusts work to trustees, and in such case
 Peach Aviation may share Personal Information with joint users of this information as follows.
 
 [1]  
--Scope of data sharing  
-Creative Resource Institute Co.Ltd  
--Items to be shared  
-Customer name, address, telephone and fax numbers, e-mail address, age, the date of birth  
--Purpose of use  
-1) To carry out market research and data analysis for the purpose of researching and developing new products and services related to e-commerce operated by the third party under the Peach Aviation brand (referred to below as “e-commerce.”)  
-2) For notification of new products and services related to e-commerce, by direct mail, etc., and related services  
-3) In the event of an inquiry, application for use or other request from a customer regarding products and services provided by the third party as a part of its e-commerce operations  
-Party responsible for management of Personal Information  
-Peach Aviation Method of obtaining Personal Information  
-Website, telephone and fax, mail, in person at airport counter etc.
-
-[2]  
 -Scope of data sharing  
 My Theater, Inc.  
 -Items to be shared  
@@ -171,7 +158,7 @@ January 26, 2016
 
 ## How we deal with Personal Information on our website
 
-The following describes how we treat personal information gathered via the Peach Aviation Limited (referred to below as “Peach Aviation”) website (the “Peach Aviation website”). If you wish to know more about our general policy on privacy protection, please refer to the separate document entitled “Privacy Policy.” 
+The following describes how we treat personal information gathered via the Peach Aviation Limited (referred to below as “Peach Aviation”) website and app(the “Peach Aviation website”). If you wish to know more about our general policy on privacy protection, please refer to the separate document entitled “Privacy Policy.” 
 
   
 
