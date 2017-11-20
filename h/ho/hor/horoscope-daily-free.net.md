@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horoscope-daily-free.net privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521112532id_/http%3A//horoscope-daily-free.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscope-daily-free.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120043806id_/http%3A//horoscope-daily-free.net/policy.html) for the most accurate reproduction.*
 
 # 
 
