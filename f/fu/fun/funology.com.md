@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521123400id_/http%3A//www.funology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120171818id_/http%3A//www.funology.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Funology
 
@@ -9,11 +9,9 @@ We want you to have a good time at Funology.com, learn things, and be safe. We r
   * Our Web server automatically collects your domain name and keeps track of the pages that you access or visit. But this information is never connected with your name.
   * If you submit ideas or content to us, you admit that you are the owner of that content and are granting us permission to reproduce it on our website.
   * We may conduct surveys from time to time. We will share the information with our partners and sponsors, but only in aggregate form (for example, the number of boys or girls of a certain age who visit the site) and we will not identify anyone by their full name.
-  * Funology is COPPA compliant.
+  * We do not request any credit card or other financial information. While we screen our partners carefully, we are not responsible for the content or safety and privacy practices at any sites linked from our pages.
 
 
-
-We do not request any credit card or other financial information. While we screen our partners carefully, we are not responsible for the content or safety and privacy practices at any sites linked from our pages.
 
 ## Third Party Advertising
 
