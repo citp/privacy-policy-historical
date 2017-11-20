@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordedfuture.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130000610id_/https%3A//www.recordedfuture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordedfuture.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120093233id_/https%3A//www.recordedfuture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Recorded Future
 
