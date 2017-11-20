@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630234318id_/https%3A//www.noozhawk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120060831id_/https%3A//www.noozhawk.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Noozhawk.com
 
