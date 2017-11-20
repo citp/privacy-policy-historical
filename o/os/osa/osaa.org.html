@@ -1,102 +1,86 @@
-<!--The following is the downloaded HTML source of the osaa.org privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606201954id_/http%3A//www.osaa.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the osaa.org privacy policy that was archived on 2017-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120180636id_/http%3A//www.osaa.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- HTML Head --><head>
-
-
-
+        
         <!-- Page Title -->
-
         <title>
-
                 OSAA - Privacy Policy
-
         </title>
 
-        
-
         <!-- Meta Tage -->          
-
-        
-            <meta charset="utf-8">
-
+                    <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
             <meta name="description" content="Oregon School Activities Association">
-
             <meta name="viewport" content="width=device-width">
-
         
-
-
         <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.3/themes/redmond/jquery-ui.css">        
 
-
-
         <!-- Stylesheets -->
-
         <link rel="stylesheet" type="text/css" href="http://www.osaa.org/css/default.css">
-
         <link rel="stylesheet" type="text/css" href="http://www.osaa.org/css/fix_nav.css">
 
-
-
         <!-- JQuery -->
-
         <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>       
-
-        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>        
-
-
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
 
         <!-- JavaScripts -->
-
-            
-            <script src="http://www.osaa.org/scripts/twitter.js" type="text/javascript"></script>
-
-            <script src="http://www.osaa.org/scripts/scroller.js" type="text/javascript"></script>                        
-
+                        <script src="http://www.osaa.org/scripts/twitter.js" type="text/javascript"></script>
+            <script src="http://www.osaa.org/scripts/scroller.js" type="text/javascript"></script>
         
-
-
 
 
 
         <!-- JQuery Page Initialization -->
-
-        <script type="text/javascript">         
+        <script type="text/javascript">        
 
             $(document).ready(function()
-
             {
-
                 
         
 
 
-
                 $('.auto_submit_onchange').change(function(){
-
                     var form = $(this).parents('form:first');
-
                     form.submit();
-
-                });                          
-
-                
+                });
 
                 
+                // Search OSAA website with Google
+                $('input[data-action="search"]').on('keypress', function(event)
+                {
+                    var keycode = (event.keyCode ? event.keyCode : event.which);
+                    if (keycode == '13')
+                    {
+                        searchSite();
+                    }
+                });
+                $('img[data-action="search"]').on('click', function(event)
+                {
+                    searchSite();
+                });
+                function searchSite()
+                {                    
+                    var term = $('input[data-action="search"]').val();
+                    if (term == "")
+                    {
+                        return false;
+                    }
 
-            });
+                    var root = "https://www.google.com/search";
+                    var query = "?q=site:www.osaa.org ";                    
 
-                
+                    var url = root + query + term;
+                    
+                    console.log(url);
 
-                
+                    window.open(url);
+                }                
+
+            });                
 
         </script>   
-
 
 
         
@@ -256,7 +240,9 @@
                                 <li><a href="http://www.osaa.org/health-safety/concussion">Concussion</a></li>
                                 <li><a href="http://www.osaa.org/health-safety/steroid">Steroids</a></li>
                                 <li><a href="http://www.osaa.org/health-safety/heat">Heat &amp; Hydration</a></li>
-                                <li><a href="http://www.osaa.org/health-safety/infection">Infection Control</a></li>                                
+                                <li><a href="http://www.osaa.org/health-safety/infection">Infection Control</a></li>
+                                <li><a href="http://www.osaa.org/health-safety/wellness">Student Wellness</a></li>
+                                <li><a href="http://www.osaa.org/health-safety/resources">Resources</a></li>
                             </ul>
                         </li>
                         <li><a href="http://www.osaa.org/calendar">Calendar</a></li>
@@ -323,7 +309,7 @@
         
         <!-- Half Banner Ad (234x60) -->
         <div id="half_banner_ad" class="ad">
-	<!-- AD ID = 29 --><a href="http://www.wilson.com/en-us/" target="_blank"><img src="http://www.osaa.org/images/ads/placements/Wilson_1_234x60.jpg" width="234" height="60" alt="" title="" data-specific="NO : 29"></a></div>
+	<!-- AD ID = 103 --><a href="http://www.osaastore.com" target="_blank"><img src="http://www.osaa.org/images/ads/placements/OSAAStore234.jpg" width="234" height="60" alt="" title="" data-specific="NO : 103"></a></div>
     </div>
     
 </div>                    
@@ -344,16 +330,18 @@
                 <!-- Large Leaderboard Ad (970x90) -->                
 
                 <div id="leaderboard_ad" class="ad">
-        <!-- AD ID = 53 --><a href="http://www.myscorecardaccount.com/crmcdn/getoffer.aspx?offer_entity_code=O24175LQ&amp;token=fAJUnjvhdRjSPHd4vpmbtm0kGI1v7VWl6lcmb6eCoYiBsBqzyvD5hJO6kNUQ3V8uEYldw2-JAYKILkzC75g2" target="_blank"><img src="http://www.osaa.org/images/ads/placements/DicksSportingGoods_1_728x90.jpg" width="728" height="90" alt="" title="" data-specific="NO : 53"></a>    </div>                  
+        <!-- AD ID = 50 --><a href="http://highschoolsports.oregonlive.com/" target="_blank"><img src="http://www.osaa.org/images/ads/placements/Oregonian_1_970x90.jpg" width="728" height="90" alt="" title="" data-specific="NO : 50"></a>    </div>                  
 
     <div id="next_to_leaderboard">
 
         
-        
-        <a href="http://www.osaa.org/officials" target="_blank">
-            <img src="http://www.osaa.org/images/become_an_official_215x90px.jpg" alt="" title="" width="215" height="90" style="width: 215px; height: 90px;">
+        <a href="http://www.osaa.org/tickets">
+            <img src="http://www.osaa.org/images/logos/BuyTickets_2.jpg" alt="" title="" style="width: 215px; height: 90px; margin-left: 2px;">
         </a>
 
+
+       
+        
        
                
 
@@ -371,7 +359,10 @@
 	
 	
 	
-		
+	<a href="http://www.osaa.org/programs">
+		<img src="http://www.osaa.org/images/logos/digital_programs.jpg" alt="" title="" style="width: 215px; height: 90px; margin-left: 2px;">
+	</a>
+	
 	
 		
 	
@@ -381,11 +372,8 @@
 	     
     
     
-   	
-    <a href="http://www.osaa.org/heat-index">
-		<img src="http://www.osaa.org/images/heat_index_2_220x90px.png" alt="" title="">
-	</a>
-	
+	   	
+    	
 	
 	
 	
@@ -399,7 +387,7 @@
                 <div id="wide_scraper_ad" class="ad">	
 
     
-        <!-- AD ID = 11 --><a href="http://www.nationalguard.com/or?cid=2016smspormediabuythree_bn-osaa14cbng32" target="_blank"><img src="http://www.osaa.org/images/ads/placements/OANG_1_160x600.jpg" width="160" height="600" alt="" title="" data-specific="NO : 11"></a>
+        <!-- AD ID = 61 --><a href="http://4nsp.com/PhotosAction.aspx" target="_blank"><img src="http://www.osaa.org/images/ads/placements/NSP_1_160x600.gif" width="160" height="600" alt="" title="" data-specific="NO : 61"></a>
     
 </div>                                                            
 
@@ -530,25 +518,30 @@
             <div class="group">
                 <a href="http://www.osaa.org/about">About the OSAA</a><br>
                 <a href="http://www.osaa.org/contact">Contact Information</a><br>
-                <a href="http://www.osaa.org/privacy">Privacy Policy</a>                    
+                <a href="http://www.osaa.org/privacy">Privacy Policy</a><br>
+                <a href="http://www.osaa.org/links">Links &amp; Media</a>
             </div>
             
             <div class="group">
                 <a href="http://www.osaa.org/weekly ">OSAA Weekly</a><br>                       
                 <a href="http://www.osaa.org/classifieds">Classifieds</a><br>
+                <a href="http://www.osaa.org/programs">Digital Programs</a><br>
                 <a href="http://www.osaa.org/archives">Records/Archives</a>
             </div>                  
                                 
             <div class="group">                
                 <a href="http://www.osaafoundation.org" target="_blank">OSAA Foundation</a><br>
-                <a href="http://www.osaa.org/sponsors">Sponsors</a><br>                
                 <a href="http://www.osaa.org/mobile">OSAA Mobile</a><br>
+                <a href="http://www.osaa.org/radio-network">OSAA Radio Network</a><br>
+                <a href="http://www.osaa.org/sponsors">Sponsors</a><br>                
             </div>                
 
-            <div class="group">
-                <a href="http://www.osaa.org/radio-network">OSAA Radio Network</a><br>
-                <a href="http://www.osaa.org/programs">Championship Programs</a><br>
-                <a href="http://www.osaa.org/links">Links &amp; Media</a>                
+            <div class="group search">
+
+                Search the OSAA Website:<br>                    
+                <input type="text" name="query" data-action="search">
+                <img src="http://www.osaa.org/images/icons/magnifier_16px.png" alt="" title="" data-action="search">
+                
             </div> 
         </div>                
         
@@ -561,12 +554,12 @@
         
         <!-- Brief Contact Information -->
         <div class="contact">
-            <a href="mailto:inf%6f@%6f%73aa.org" rel="nofollow">info@osaa.org</a><br>
+            <a href="mailto:%69n%66o@osa%61.or%67" rel="nofollow">info@osaa.org</a><br>
             (503) 682-6722<br>                    
 
             <!-- Year Select -->
             <form method="GET" action="http://www.osaa.org/privacy" accept-charset="UTF-8" id="year_select">                
-                <select class="auto_submit_onchange" name="year"><option value="2013">13-14</option><option value="2014">14-15</option><option value="2015">15-16</option><option value="2016" selected="selected">16-17</option><option value="2017">17-18</option></select>                
+                <select class="auto_submit_onchange" name="year"><option value="2013">13-14</option><option value="2014">14-15</option><option value="2015">15-16</option><option value="2016">16-17</option><option value="2017" selected="selected">17-18</option></select>                
             </form>            Year
         </div>                              
         
@@ -585,8 +578,9 @@
 
             <a href="http://www.odscompanies.com/" target="_blank"><div style="width:111px; height:50px; margin:5px 5px 5px 5px; float:left; background-image:url('http://www.osaa.org/images/ads/sponsors/ODS_111x50px.png'); background-repeat:no-repeat;"></div></a>
 
-            <a href="http://www.nationalguard.com/" target="_blank"><div style="width:111px; height:50px; margin:5px 5px 5px 5px; float:left; background-image:url('http://www.osaa.org/images/ads/sponsors/NG_111x50px.png'); background-repeat:no-repeat;"></div></a>
+            <a href="https://www.toyota.com/dealers/Oregon" target="_blank"><div style="width:111px; height:50px; margin:5px 5px 5px 5px; float:left; background-image:url('http://www.osaa.org/images/ads/sponsors/Toyota_111x50px.png'); background-repeat:no-repeat;"></div></a>
 
+            
             
             <a href="http://www.carlsjr.com/" target="_blank"><div style="width:111px; height:50px; margin:5px 5px 5px 5px; float:left; background-image:url('http://www.osaa.org/images/ads/sponsors/CarlsJr_111x50px.png'); background-repeat:no-repeat;"></div></a>
 
