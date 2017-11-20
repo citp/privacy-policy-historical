@@ -1,35 +1,45 @@
-> *The following text is extracted and transformed from the jvitals.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108134648id_/http%3A//jvitals.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D45%26Itemid%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvitals.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120030108id_/http%3A//www.jvitals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Jvitals.com
 
-Thank you for visiting jVitals. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
+## **Privacy Policy:**
 
-Note, the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
+ **jvitals.com (" **jvitals.com** ") operates jvitals.com and may operate other websites. It is jvitals.com policy to respect your privacy regarding any information we may collect while operating our websites.**
 
-### Collection of Information
+ **
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request and add you to our mailing lists as specified herein, unless you give us permission to use it in another manner  
-.  
-The use of your information will only be used within the branches of jVitals. 
+### Website Visitors
 
-### Cookie/Tracking Technology
+Like most website operators, jvitals.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. jvitals.com purpose in collecting non-personally identifying information is to better understand how jvitals.com visitors use its website. From time to time, jvitals.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+jvitals.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on jvitals.com blogs/sites. jvitals.com only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-### Distribution of Information
+### Gathering of Personally-Identifying Information
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
+Certain visitors to jvitals.com websites choose to interact with jvitals.com in ways that require jvitals.com to gather personally-identifying information. The amount and type of information that jvitals.com gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [jvitals.com](http://jvitals.com/) to provide a username and email address. Those who engage in transactions with jvitals.com are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, jvitals.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with jvitals.com. jvitals.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-### Commitment to Data Security
+### Aggregated Statistics
 
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+jvitals.com may collect statistics about the behavior of visitors to its websites. jvitals.com may display this information publicly or provide it to others. However, jvitals.com does not disclose personally-identifying information other than as described below.
 
-### Privacy Contact information
+### Protection of Certain Personally-Identifying Information
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+jvitals.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on jvitals.com behalf or to provide services available at jvitals.com websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using jvitals.com websites, you consent to the transfer of such information to them. jvitals.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, jvitals.com discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when jvitals.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of jvitals.com, third parties or the public at large. If you are a registered user of an jvitals.com website and have supplied your email address, jvitals.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with jvitals.com and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. jvitals.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-  * By E-Mail: [admin@jVitals.com](mailto:admin@jVitals.com)
-  * By Phone: 712-255-5243
+### Cookies
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted.  
-We reserve the right to refuse service/sales of products and/or discounts to anyone with no further explanation required. 
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. jvitals.com uses cookies to help jvitals.com identify and track visitors, their usage of jvitals.com website, and their website access preferences. jvitals.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using jvitals.com websites, with the drawback that certain features of jvitals.com websites may not function properly without the aid of cookies.
+
+### Business Transfers
+
+If jvitals.com, or substantially all of its assets, were acquired, or in the unlikely event that jvitals.com goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of jvitals.com may continue to use your personal information as set forth in this policy.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by jvitals.com and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, jvitals.com may change its Privacy Policy from time to time, and in jvitals.com sole discretion. jvitals.com encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a jvitals.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+**
