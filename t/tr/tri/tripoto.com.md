@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripoto.com privacy policy that was archived on 2017-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170112085059id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripoto.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120045128id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tripoto
 
@@ -25,6 +25,10 @@ We may collect and process the following data about you:
   * **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will inform you when we collect that data and that it may be shared internally and combined with data collected on this Website. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from such sources. We collect non-personally identifiable information from the Website visitors to track the total of number of visitors to the Website in aggregate form and identify the type of Internet web browser (e.g., Internet Explorer®) and operating system (e.g., Windows®) used by the visitor. This information allows us continuously to improve our Website.
 
   * **Metadata.** Metadata is usually technical data associated with Content you submit, post or share on the Website. Users can add or may have metadata added to their Content including geolocation, date, attribution, or other data.
+
+  * **Via mobile app.** In older phones using any Android version lower than Lollipop, if you are using our mobile app we may collect and process your location ( _using Exif information, GPS, and cell towers_ ) whenever you capture an image in order to create automatic trips* for you. The trip created will not be shared or uploaded without your explicit permission.
+
+*Any blog, itinerary, photo, video, you share on Tripoto is referred to as a “trip."
 
 
 
