@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverrobot.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610083431id_/http%3A//www.driverrobot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverrobot.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120101358id_/http%3A//www.driverrobot.com/privacy) for the most accurate reproduction.*
 
 # Driver Robot Privacy Policy
 
