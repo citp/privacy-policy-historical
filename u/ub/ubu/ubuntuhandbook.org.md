@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubuntuhandbook.org privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608231129id_/http%3A//ubuntuhandbook.org/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuntuhandbook.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120054515id_/http%3A//ubuntuhandbook.org/index.php/privacy-policy) for the most accurate reproduction.*
 
 # UbuntuHandbook | Privacy Policy
 
