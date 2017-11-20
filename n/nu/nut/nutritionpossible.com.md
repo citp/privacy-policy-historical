@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionpossible.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609071929id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionpossible.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120182443id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Pfizer: One of the world's premier biopharmaceutical companies
 
