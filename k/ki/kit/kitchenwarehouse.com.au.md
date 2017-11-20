@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchenwarehouse.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041807id_/http%3A//www.kitchenwarehouse.com.au/Security-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenwarehouse.com.au privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120175458id_/http%3A//www.kitchenwarehouse.com.au/Security-Privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Kitchen Warehouse
 
