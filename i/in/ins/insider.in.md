@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insider.in privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621235609id_/https%3A//insider.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insider.in privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120111016id_/https%3A//insider.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Insider
 
@@ -99,7 +99,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 * In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
 Mr Shreyas Srinivasan  
-OML Entertainment Pvt Ltd  
+Wasteland Entertainment Pvt Ltd  
 242B, The New Mahalaxmi Silk Mills,  
 Mathuradas Mills Compound, N.M. Joshi Marg,  
 Lower Parel, Mumbai 400013
