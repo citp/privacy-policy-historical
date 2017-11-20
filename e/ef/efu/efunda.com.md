@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the efunda.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113757id_/http%3A//www.efunda.com/members/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efunda.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120135320id_/http%3A//www.efunda.com/members/privacy.cfm) for the most accurate reproduction.*
 
 # eFunda Privacy Notice
 
-| • [Materials](https://web.archive.org/web/20170606113757id_/http%3A//www.efunda.com/materials/materials_home/materials.cfm)  
+| • [Materials](https://web.archive.org/web/20171120135320id_/http%3A//www.efunda.com/materials/materials_home/materials.cfm)  
 ---  
-• [Design Center](https://web.archive.org/web/20170606113757id_/http%3A//www.efunda.com/designstandards/design_home.cfm)  
-• [Processes](https://web.archive.org/web/20170606113757id_/http%3A//www.efunda.com/processes/processes_home/process.cfm)  
-• [Units & Constants](https://web.archive.org/web/20170606113757id_/http%3A//www.efunda.com/units/index.cfm)  
-• [Formulas](https://web.archive.org/web/20170606113757id_/http%3A//www.efunda.com/formulae/formula_index.cfm)  
-• [Mathematics](https://web.archive.org/web/20170606113757id_/http%3A//www.efunda.com/math/math_home/math.cfm)  
+• [Design Center](https://web.archive.org/web/20171120135320id_/http%3A//www.efunda.com/designstandards/design_home.cfm)  
+• [Processes](https://web.archive.org/web/20171120135320id_/http%3A//www.efunda.com/processes/processes_home/process.cfm)  
+• [Units & Constants](https://web.archive.org/web/20171120135320id_/http%3A//www.efunda.com/units/index.cfm)  
+• [Formulas](https://web.archive.org/web/20171120135320id_/http%3A//www.efunda.com/formulae/formula_index.cfm)  
+• [Mathematics](https://web.archive.org/web/20171120135320id_/http%3A//www.efunda.com/math/math_home/math.cfm)  
   
 ---  
 | [**Login**](http://www.efunda.com/members/login/login.cfm?direct=y)  
