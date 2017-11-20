@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanowerk.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603101810id_/http%3A//www.nanowerk.com/n_privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanowerk.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120102614id_/https%3A//www.nanowerk.com/n_privacy_statement.php) for the most accurate reproduction.*
 
 # Nanowerk Emerging Technologies Portal - Privacy Statement
 
