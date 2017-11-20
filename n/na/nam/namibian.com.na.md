@@ -1,104 +1,104 @@
-> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630203809id_/http%3A//www.namibian.com.na/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120081339id_/https%3A//www.namibian.com.na/Privacy-Policy) for the most accurate reproduction.*
 
 # The Namibian
 
 ##  Sport 
 
-[view all](http://www.namibian.com.na/The-Namibian/Sport)
+[view all](https://www.namibian.com.na/The-Namibian/Sport)
 
 * * *
 
-2017-06-30
+2017-11-20
 
-## [Zimbabwe cruise into quarterfinals](http://www.namibian.com.na/56262/read/Zimbabwe-cruise-into-quarterfinals "Click to read full article")
+## [Uruguay overpower Namibia](https://www.namibian.com.na/61721/read/Uruguay-overpower-Namibia "Click to read full article")
 
-CAPTAIN Ovidy Karuru scored a hat-trick as Zimbabwe cruised into the quarter-finals of the Cosafa Castle Cup with a commanding 6-0 victory over Seychelles in their Group B clash at the Royal Bafokeng Sports Palace on Friday.
-
-* * *
-
-2017-06-30
-
-## ['Money' on his mind as Pacquiao faces former teacher](http://www.namibian.com.na/56261/read/Money-on-his-mind-as-Pacquiao-faces-former-teacher "Click to read full article")
-
-BRISBANE - Filipino legend Manny Pacquiao faces unheralded Australian challenger Jeff Horn in Sunday's world welterweight title fight in Brisbane in pursuit of a dream rematch with Floyd Mayweather.
+LED by their powerful pack, Uruguay ground out a 52-36 win against Namibia on Saturday to take a 1-0 lead in their two-match Test series.
 
 * * *
 
-2017-06-30
+2017-11-20
 
-## [Absent stars toast Germany's Confed Cup success](http://www.namibian.com.na/56260/read/Absent-stars-toast-Germanys-Confed-Cup-success "Click to read full article")
+## [Dippenaar wins Tara Rally](https://www.namibian.com.na/61711/read/Dippenaar-wins-Tara-Rally "Click to read full article")
 
-SOCHI - Absent World Cup-winning stars have toasted Germany's Confederations Cup success in Russia with a 4-1 semi-final win over Mexico sealing Sunday's final against Chile.
+WINDHOEK – Wilro Dippenaar and his co-driver Riaan van der Westhuizen won an exciting 2017 Tara Rally held in Windhoek on Sunday.
+
+* * *
+
+2017-11-20
+
+## [Citizens' revival continues](https://www.namibian.com.na/61710/read/Citizens-revival-continues "Click to read full article")
+
+AS AFRICAN Stars' MTC Premiership juggernaut hogs the limelight, less-heralded Citizens are quietly going from early season relegation candidates to a formidable unit.
 
 * * *
 
 ##  Entertainment 
 
-[view all](http://www.namibian.com.na/The-Namibian/Entertainment)
+[view all](https://www.namibian.com.na/The-Namibian/Entertainment)
 
 * * *
 
-2017-06-29
+2017-11-17
 
-## [From The Twittersphere](http://www.namibian.com.na/56196/read/From-The-Twittersphere "Click to read full article")
+## [Frontlining on Twitter](https://www.namibian.com.na/61620/read/Frontlining-on-Twitter "Click to read full article")
 
-THERE are questions and then there are kweshens.
-
-* * *
-
-2017-06-29
-
-## [See Ghetto Ballerina live at Goethe-Institut](http://www.namibian.com.na/56198/read/See-Ghetto-Ballerina-live-at-Goethe-Institut "Click to read full article")
-
-CONSCIOUS and enlightening music makes its way to the Goethe-Institut Namibia on Friday, 7 July, at Night Under the Stars which features young female rapper Ghetto Ballerina live on stage.
+IT'S all eyes on Zimbabwe, and more than a few on Namibia as that country's saga continues to unfold...
 
 * * *
 
-2017-06-29
+2017-11-16
 
-## [Gina Jeanz first Namibian on Rocking The Daisies line-up](http://www.namibian.com.na/56197/read/Gina-Jeanz-first-Namibian-on-Rocking-The-Daisies-line-up "Click to read full article")
+## [Jomolizo comes back strong with 'Epata Lange'](https://www.namibian.com.na/61608/read/Jomolizo-comes-back-strong-with-Epata-Lange "Click to read full article")
 
-FASHION model, producer, graphic designer and all-round creative genius Gina Jeanz is excited for her upcoming gig at South Africa's Rocking The Daisies music and lifestyle festival.
+FOLLOWING the success of his previous album 'Kaandjetu', Jomolizo has once again released a good body of work in the form of his latest musical project, 'Epata Lange'.
+
+* * *
+
+2017-11-16
+
+## [Kaptein Tswazis delivers a swift 'Checkmate'](https://www.namibian.com.na/61609/read/Kaptein-Tswazis-delivers-a-swift-Checkmate "Click to read full article")
+
+ALTHOUGH we're quite sad that Kaptein Tswazi, real name Milton Mootseng, had to leave the energetic Tswazis, we're even more elated that he's found his sound, and the new album 'Checkmate' is a testimony to that.
 
 * * *
 
 ##  Business 
 
-[view all](http://www.namibian.com.na/The-Namibian/Business)
+[view all](https://www.namibian.com.na/The-Namibian/Business)
 
 * * *
 
-2017-06-30
+2017-11-20
 
-## [Medical aids not challenging Namfisa's directive](http://www.namibian.com.na/56241/read/Medical-aids-not-challenging-Namfisas-directive "Click to read full article")
+## [Schlettwein discusses mid-term budget at coast](https://www.namibian.com.na/61727/read/Schlettwein-discusses-mid-term-budget-at-coast "Click to read full article")
 
-THE Namibian Association of Medical Aid Funds' CEO, Stephen Tjiuoro, said the association will not challenge the Namibia Financial Institutions Supervisory Authority's directive to medical aid funds to phase out covering members' lifestyle benefits such as gym fees and wellness programmes by 31 December 2018.
-
-* * *
-
-2017-06-29
-
-## [Namibia can't copy and paste SA rules – economist](http://www.namibian.com.na/56205/read/Namibia-cant-copy-and-paste-SA-rules-%E2%80%93-economist "Click to read full article")
-
-NAMIBIA cannot just copy and paste all policies and rules which our biggest trading partner, South Africa, implements.
+THE total debt stock by the end of the current year is estimated at N$74,23 billion, or some 42% of GDP, which is high.
 
 * * *
 
-2017-06-30
+2017-11-20
 
-## [Lack of funds cripples young man's SME dream](http://www.namibian.com.na/56242/read/Lack-of-funds-cripples-young-mans-SME-dream "Click to read full article")
+## [Oil set for fall due to oversupply worries](https://www.namibian.com.na/61728/read/Oil-set-for-fall-due-to-oversupply-worries "Click to read full article")
 
-WHEN 22-year-old Benjamin Katjiuano started selling small food items two years ago, he had very big dreams about his business venture.
+SINGAPORE – Oil prices steadied on Friday after recent declines, but were on track for their first weekly fall in six weeks as concerns about surging United States supplies put a dent in the market's recent rally.
+
+* * *
+
+2017-11-20
+
+## [Nedbank to focus on second-hand vehicle financing](https://www.namibian.com.na/61729/read/Nedbank-to-focus-on-second-hand-vehicle-financing "Click to read full article")
+
+NAMIBIA'S economy is still in recovery, with consumers finding it difficult to move forward to meet their obligations.
 
 * * *
 
 ## Poll
 
-[View older polls](http://www.namibian.com.na/The-Namibian/Voting-Polls/0)
+[View older polls](https://www.namibian.com.na/The-Namibian/Voting-Polls/0)
 
 * * *
 
-What should be done to decrease the number of car accidents in Namibia?
+Do you think Namibian MPs deserve better perks?
 
 ##  Your Privacy 
 
