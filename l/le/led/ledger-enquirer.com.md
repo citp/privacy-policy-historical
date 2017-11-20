@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledger-enquirer.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120012156id_/http%3A//www.ledger-enquirer.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledger-enquirer.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120043832id_/http%3A//www.ledger-enquirer.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | Ledger-Enquirer.com Columbus Ledger-Enquirer
 
