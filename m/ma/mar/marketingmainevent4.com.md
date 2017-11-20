@@ -1,17 +1,114 @@
-> *The following text is extracted and transformed from the marketingmainevent4.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmainevent4.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120045232id_/https%3A//promotelabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal
+# Legal – Privacy Policy – PromoteLabs
 
-* * *
+Last updated: December 03, 2015
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+Promote Labs Inc. (“us”, “we”, or “our”) operates the https://promotelabs.com website (the “Service”).
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+
+We will not use or share your information with anyone except as described in this Privacy Policy.
+
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://promotelabs.com
+
+**Information Collection And Use**
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information (“Personal Information”).
+
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+
+**Log Data**
+
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
+
+**Cookies**
+
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+
+**DoubleClick Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
+
+**Behavioral Remarketing**
+
+Promote Labs Inc. uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Google** Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads "Google Ads Settings") page. 
+
+Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on") for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the [Google Privacy & Terms](http://www.google.com/intl/en/policies/privacy/ "Google Privacy & Terms") web page.
 
 
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+
+**Do Not Track Disclosure**
+
+We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+**Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+
+**Communications**
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+**Compliance With Laws**
+
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
+**Business Transaction**
+
+If Promote Labs Inc. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
+
+**Security**
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+**International Transfer**
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+**Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children’s Privacy**
+
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+**Changes To This Privacy Policy**
+
+This Privacy Policy is effective as of December 03, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us.
