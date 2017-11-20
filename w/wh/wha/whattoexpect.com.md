@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607065537id_/http%3A//www.whattoexpect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120075402id_/https%3A//www.whattoexpect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | What to Expect
 
@@ -139,7 +139,7 @@ Everyday Health may share some or all of your Personal Information with What to 
 
  **F. Sponsors, Advertisers, Merchants and other ways that you approve at the time of collection.**
 
-When you register for the Site and Services, we may share the Personal Information you provide with certain advertisers and sponsors. A list of current advertisers who receive registration information is available by clicking [**here**](http://www.whattoexpect.com/select-partners). If you do not wish to provide your Personal Information to these advertisers, do not register for the Site or Services.
+When you register for the Site and Services, we may share the Personal Information you provide with certain advertisers and sponsors. A list of current advertisers who receive registration information is available by clicking [**here**](https://www.whattoexpect.com/select-partners). If you do not wish to provide your Personal Information to these advertisers, do not register for the Site or Services.
 
 We may also collect Personal Information about you on other areas of the Site and Services and share it with other third parties to the extent that you give us permission at the time of collection. For example, if you purchase a product or service on the Site, we will provide your information to the applicable merchant or vendor. We also sometimes gather Personal Information on behalf of a sponsor in association with a promotion. In such a case, we will provide you notice at the time of collection that the information is being collected on the sponsor's behalf. The privacy practices of third party advertisers, sponsors and merchants may differ from this Policy. We do not control and are not responsible for how these third parties use your information.
 
