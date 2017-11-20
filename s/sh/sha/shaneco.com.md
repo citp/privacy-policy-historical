@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021438id_/http%3A//www.shaneco.com/About/PrivacyPolicy/%3Fnid%3DGN_Footer_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120183036id_/http%3A//www.shaneco.com/About/PrivacyPolicy/%3Fnid%3DGN_Footer_PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Shane Co.
 
@@ -115,7 +115,7 @@ You have certain choices about sharing and marketing practices.
   * Selecting the "Unsubscribe" link in any promotional email 
   * Logging into your ShaneCo.com account and changing your email preference - [https://www.shaneco.com/MyAccount/Login.aspx](https://web.archive.org/MyAccount/Login.aspx)
   * Visiting our opt-out page - <http://www.shaneco.com/myaccount/shanecomywayoptout.htmx>
-  * Emailing us at Support@ShaneCo.com   
+  * Emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)   
 Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions. If you receive promotional emails from a third party, you will need to separately opt-out with them. If you participate in Shane Co. MyWay, you may need to separately opt out of notices and other email content. 
 
 
@@ -126,11 +126,11 @@ If you block cookies on your browser, certain features on our sites may not work
 
 Your California privacy rights. 
 
-If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us at CustomerServiceRep@shaneco.com or write to us at the address listed below. Indicate in your email or letter that you are a California resident making a "Shine the Light" inquiry. 
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write to us at the address listed below. Indicate in your email or letter that you are a California resident making a "Shine the Light" inquiry. 
 
 Our Sites and children. 
 
-Our sites are meant for people at least 18 years old. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at CustomerServiceRep@shaneco.com. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, you can learn more about how to protect children's privacy on-line [here](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy). 
+Our sites are meant for people at least 18 years old. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, you can learn more about how to protect children's privacy on-line [here](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy). 
 
 We store information in the United States. 
 
@@ -162,7 +162,7 @@ If you have any questions or concerns about this Privacy Policy, you may contact
 
  **Englewood, CO 80155-9922**
 
- **Email:[CustomerServiceRep@shaneco.com](mailto:CustomerServiceRep@shaneco.com)**
+ **Email:[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d093a5a3a4bfbdb5a283b5a2a6b9b3b582b5a090a3b8b1beb5b3bffeb3bfbd)**
 
 Terms of Use, Notices, Revisions, Limitation on Liability, Arbitration 
 
