@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 2degreesmobile.co.nz privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013233027id_/https%3A//www.2degreesmobile.co.nz/termsofuse/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2degreesmobile.co.nz privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120100257id_/https%3A//www.2degreesmobile.co.nz/termsofuse/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 2degrees Mobile
 
-Last updated: 05 October 2016 [](https://www.2degreesmobile.co.nz/termsofuse/privacy-policy/#print)
+Last updated: 17 July 2017 [](https://www.2degreesmobile.co.nz/termsofuse/privacy-policy/#print)
 
 ### Who’s who
 
@@ -40,10 +40,12 @@ We hold and use the information we collect for a number of purposes, including:
   * Providing and assisting you with product(s) or service(s) you request;
   * Monitoring compliance with the terms and conditions of 2degrees service(s) and product(s) you purchase and use, including our [Fair Use Policy](http://www.2degreesmobile.co.nz/fairusepolicy);
   * Offering you rewards, special offers, competitions and other promotions; 
-  * Providing you with information on new 2degrees product(s) and service(s) and/or products and services of carefully selected third parties we think you might like;
+  * Providing you with information on new 2degrees product(s) and service(s) and/or products and services of carefully selected third parties we think you might like. When we get in touch via email or SMS, you agree that these marketing messages from us and our third party friends don't need to include an option to unsubscribe in the message;
   * Responding and following up on any queries, complaints or requests you might have made, and other customer care issues;
   * Complying with legal, governmental or regulatory agencies’ requests in connection with the regulation of telecommunications services, and in connection with any legal proceedings, crime or fraud prevention or detection, or prosecution;
   * Training our staff, monitoring our network(s) and service(s), and maintaining our system(s).
+  * [Providing handset location information](https://www.2degreesmobile.co.nz/termsofuse/mobile-caller-emergency-location-service/) to emergency services including Fire, Police and Ambulance when you dial 111”
+
 
 
 
