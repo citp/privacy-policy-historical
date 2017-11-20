@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winnersandwhiners.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004721id_/http%3A//winnersandwhiners.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnersandwhiners.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173650id_/https%3A//winnersandwhiners.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Winners And Whiners
 
