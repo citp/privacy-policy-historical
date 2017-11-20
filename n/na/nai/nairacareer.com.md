@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nairacareer.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523003557id_/http%3A//www.nairacareer.com/2012/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairacareer.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180608id_/http%3A//www.nairacareer.com/2012/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NairaCareer
 
