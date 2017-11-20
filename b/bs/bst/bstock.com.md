@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bstock.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074123id_/http%3A//bstock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bstock.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120022546id_/http%3A//bstock.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | B-Stock Solutions
 
@@ -83,4 +83,4 @@ From time to time, we may update this Privacy Policy. If we make revisions that 
 
 **HOW TO CONTACT US**
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at support@bstocksolutions.com or by postal mail at PO Box 561, San Carlos, CA 94070.
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at cs@bstocksolutions.com or by postal mail at 805 Veterans Blvd, #103, Redwood City, CA 94063.
