@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupgal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125355id_/http%3A//www.dressupgal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupgal.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173733id_/http%3A//www.dressupgal.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dress Up Gal
 
