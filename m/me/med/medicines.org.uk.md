@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicines.org.uk privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602014105id_/http%3A//www.medicines.org.uk/emc/privacy-policy-and-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicines.org.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120165959id_/http%3A//www.medicines.org.uk/emc/privacy-policy-and-legal) for the most accurate reproduction.*
 
 # Privacy Policy and Legal - electronic Medicines Compendium (eMC)
 
@@ -18,10 +18,10 @@ Datapharm does not accept responsibility for any loss, damage or injury that ari
 
 We make every effort to ensure that this website is available at all times. To achieve this we do the following:
 
-    * host the site within a fully managed solution monitored 24 hours a day, 365 days a year;
-    * use industry standard software for the servers and the website;
-    * have well developed security arrangements; and
-    * have well developed monitoring, maintenance and repair procedures.
+  * host the site within a fully managed solution monitored 24 hours a day, 365 days a year;
+  * use industry standard software for the servers and the website;
+  * have well developed security arrangements; and
+  * have well developed monitoring, maintenance and repair procedures.
 
 
 
@@ -155,4 +155,4 @@ We do request that those linking to our website respect the following conditions
 
 _Datapharm Communications Limited is a company limited by guarantee, registered in England and Wales._  
  _Registered number: 1317421_  
- _Registered office address: Stocks House, 9 North Street, Leatherhead, Surrey, KT22 7AX_
+ _Registered office address:  Pascal Place, Randalls Way, Leatherhead, Surrey, KT22 7TW_
