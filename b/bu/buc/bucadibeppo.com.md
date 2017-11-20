@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611125503id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120175220id_/https%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
 
 # Buca di Beppo's Privacy Policy
 
@@ -18,7 +18,7 @@ Buca may collect personal information (which may include first and last name, ge
 
 #### Text Messaging
 
-If you've signed up for mobile text messaging from Buca di Beppo, you consent to receiving recurring text message alerts regarding exclusive offers and promotions. You understand that you do not have to sign up for this program in order to make any purchase, and your consent is not a condition of any purchase. Standard message and data rates may apply. You can opt out of receiving text messages from Buca di Beppo at any time.  To stop receiving our text messages, text STOP to 23776, or follow the opt out instructions included in the text messages you receive. You can also opt out by emailing [privacy@bucainc.com](mailto:privacy@bucainc.com). Include STOP in the subject line and your cell phone number in the body of your email. Text HELP to 23776 for more info, or contact us at [support@bucainc.com](mailto:support@bucainc.com).
+If you've signed up for mobile text messaging from Buca di Beppo, you consent to receiving recurring text message alerts regarding exclusive offers and promotions. You understand that you do not have to sign up for this program in order to make any purchase, and your consent is not a condition of any purchase. Standard message and data rates may apply. You can opt out of receiving text messages from Buca di Beppo at any time.  To stop receiving our text messages, text STOP to 23776, or follow the opt out instructions included in the text messages you receive. You can also opt out by emailing [privacy@bucainc.com](mailto:privacy@bucainc.com). Include STOP in the subject line and your cell phone number in the body of your email. Text HELP to 23776 for more info, or contact us at [famiglia@bucainc.com](mailto:famiglia@bucainc.com).
 
 #### Use of Personal Information
 
@@ -34,7 +34,7 @@ Buca's Website is not intended for use by children under 13 years of age.  Acco
 
 #### Personal Information
 
-Buca strives to maintain precautions, internal controls and procedures to ensure that the personal information you share with Buca is handled in a safe, secure and responsible manner.  Buca employs security measures and safeguards to help protect the confidentiality and integrity of personal information and to reduce the risk of loss, unauthorized access, misuse, disclosure or alteration of the personal information in Buca's control.  Remember that any information or data transmitted electronically using the internet may not be absolutely secure.Buca assumes no liability for the loss of any information that you transmit to us using the internet.
+Buca strives to maintain precautions, internal controls and procedures to ensure that the personal information you share with Buca is handled in a safe, secure and responsible manner.  Buca employs security measures and safeguards to help protect the confidentiality and integrity of personal information and to reduce the risk of loss, unauthorized access, misuse, disclosure or alteration of the personal information in Buca's control.  Remember that any information or data transmitted electronically using the internet may not be absolutely secure. Buca assumes no liability for the loss of any information that you transmit to us using the internet.
 
 #### Credit Card
 
