@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the soulspottv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203142id_/http%3A//soulspottv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulspottv.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174013id_/http%3A//soulspottv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SOULSpot
+
+[et_pb_section fullwidth=”on”][et_pb_fullwidth_slider admin_label=”Fullwidth Slider” show_arrows=”off” show_pagination=”off” auto=”off” parallax=”on”][et_pb_slide heading=”Your Privacy Matters” button_text=”Read on” button_link=”#” background_color=”#ffffff” alignment=”center” background_layout=”dark” video_bg_width=”1920″ video_bg_height=”638″ background_image=”http://elegantthemesimages.com/images/premade/d2-placeholder-1920.jpg”]
+
+Scroll down to read more about how SOULSpot respects your privacy
+
+[/et_pb_slide][/et_pb_fullwidth_slider][/et_pb_section][et_pb_section fullwidth=”off”][et_pb_row][et_pb_column type=”4_4″][et_pb_text admin_label=”Text” background_layout=”light” text_orientation=”center”]
 
 Privacy Policy for http://soulspottv.com
 
@@ -86,3 +92,7 @@ Information we collect may be stored or processed on computers located in any co
 
  **You can review more privacy-related information.  
 ** This privacy policy was last updated on [August 2014]. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.
+
+[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fullwidth=”off” background_color=”#27c9b8″ inner_shadow=”off” parallax=”off”][et_pb_row][et_pb_column type=”4_4″][et_pb_cta admin_label=”Call To Action” button_url=”www.soulspottv.com” button_text=”Back to the website” background_color=”#7ebec5″ use_background_color=”off” background_layout=”dark” text_orientation=”center”]
+
+[/et_pb_cta][/et_pb_column][/et_pb_row][/et_pb_section]
