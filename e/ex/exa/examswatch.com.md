@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examswatch.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615141200id_/http%3A//examswatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examswatch.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174405id_/http%3A//examswatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ExamsWatch
 
@@ -28,7 +28,7 @@ We also honour “do not track” signals and do not track, plant cookies, or us
 
 In accordance with _Fair Information Practices_ , we will notify our subscribers, users within 2 business days via email.
 
-In accordance with _CAN SPAM act_ , we agree to promptly remove subscribers from all correspondence upon user’s request for unsubscribing from receiving any future emails. You can mail us at **[admin _@examswatch.com_](mailto:admin@examswatch.com)** to request to unsubscribe.
+In accordance with _CAN SPAM act_ , we agree to promptly remove subscribers from all correspondence upon user’s request for unsubscribing from receiving any future emails. You can mail us at _**examaswatch@gmail.com**_ to request to unsubscribe.
 
 **Use of Collected Information**
 
@@ -64,11 +64,11 @@ By using www.examswatch.com, you indicate your acceptance for this policy. If yo
 
 If there any question regarding the privacy policy of out site, you may contact using the information below.
 
-ExamsWatch Media  
-A-79, 2nd Floor,  
-Sector-3, Noida,  
+ExamsWatch.com by Via3 Ventures Technologies Private Limited,  
+G-43, Lower Ground Floor,  
+Sector-03, Noida,  
 Uttar Pradesh, 201301,  
-Email: [editor _@examswatch.com_](mailto:editor@examswatch.com)  
-Phone no.: 09760199730, 09650146683, 0120-4573626.
+Email: **examswatch@gmail.com**  
+Phone no.: 09650146683.
 
-Privacy Policy last update on August 6, 2016.
+Privacy Policy last update on July 19, 2017.
