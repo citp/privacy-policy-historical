@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cua.edu privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607133021id_/http%3A//www.cua.edu/resources/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cua.edu privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120065445id_/https%3A//www.catholic.edu/resources/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy | Washington, D.C. | The Catholic University of America
+# Privacy | Washington, D.C. | The Catholic University of America | CUA
 
 The Catholic University of America will not share, sell, rent, trade, or authorize any third party to use your email for the purpose of commercial gain without your permission.
 
