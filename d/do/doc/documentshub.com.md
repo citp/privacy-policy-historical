@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the documentshub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053158id_/http%3A//documentshub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentshub.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120134846id_/http%3A//documentshub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DocumentsHub.Com | DocumentsHub.Com
+# Privacy Policy - DocumentsHub.Com
 
 ## Your Privacy is Our Responsibility:
 
@@ -21,3 +21,5 @@ When visiting www.documentshub.com address used to access the site will be logge
 ## Changes to this Privacy Statement:
 
 The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding our privacy policy then you may contact us at saimajillani04@gmail.com.
+
+## Documents Hub Consultants
