@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fbr.gov.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125657id_/http%3A//www.fbr.gov.pk/ShowArticle.aspx%3Fview%3DArticle%26ActionID%3D543) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbr.gov.pk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120175739id_/http%3A//www.fbr.gov.pk/ShowArticle.aspx%3Fview%3DArticle%26ActionID%3D543) for the most accurate reproduction.*
 
-# Federal Board of Revenue (FBR), Government of Pakistan
+# FBR's Website Privacy Policy
 
 **Privacy Policy**  
 www.fbr.gov.pk is committed to protecting your privacy and to making your online experience secure, comfortable, valuable and pleasant.   
