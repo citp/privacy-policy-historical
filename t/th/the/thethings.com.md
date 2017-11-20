@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thethings.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614233511id_/http%3A//www.thethings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethings.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120022543id_/http%3A//www.thethings.com/privacy-policy) for the most accurate reproduction.*
 
 # TheThings Search Results
 
@@ -32,4 +32,4 @@ Whenever we change our privacy policy, we will post those changes to this Privac
 
 ## **Contact Information**
 
-If users have any questions or suggestions regarding our privacy policy, please contact us. 
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact/). 
