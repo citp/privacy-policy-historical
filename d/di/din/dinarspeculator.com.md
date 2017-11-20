@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinarspeculator.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519142844id_/http%3A//www.dinarspeculator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinarspeculator.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120143713id_/http%3A//www.dinarspeculator.com/privacy.html) for the most accurate reproduction.*
 
 # DinarSpeculator.com - Privacy Policy
 
@@ -10,4 +10,4 @@ We do not disclose any information that you give us, or that we collect automati
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information ( **not** including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-Back to [the forum](https://web.archive.org/web/20170519142844id_/http%3A//www.dinarspeculator.com/index.php)
+Back to [the forum](https://web.archive.org/web/20171120143713id_/http%3A//www.dinarspeculator.com/index.php)
