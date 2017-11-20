@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the colt.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025155id_/http%3A//www.colt.net/data-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colt.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120024731id_/http%3A//www.colt.net/data-privacy-statement) for the most accurate reproduction.*
 
 # Data Privacy Statement - Colt
-
-## Data Privacy
-
-We review this Privacy Statement regularly. Occasionally we may need to make changes or additions to this Statement that may affect how we handle your data.   We will indicate on this page when the Privacy Statement has changed so please refer to this link for the latest version.
-
-This Privacy Statement was last reviewed and updated in April 2011.
 
 **1\. What information will Colt collect?**
 
@@ -71,7 +65,7 @@ United Kingdom
 
 **Introduction**
 
-Cookies are usually a small piece of data sent from a website and stored on a user’s computer while the user is browsing the website. Although cookies cannot carry any virus, they help us understand which sections of our websites are the most popular as they help show which pages are being visited and for how long.  This helps us adapt our websites to provide more relevant and accessible information. For example, cookies allow us to ensure that the information displayed on your next visit to our websites will match up with your user preferences. You may configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Please note, however, that disabling cookies might affect your online experience and/or prevent you from taking full advantage of our site and some of its functionality. If you choose to restrict cookies you will have to provide certain information each time you visit our website and reset your preferences.
+Cookies are usually a small piece of data sent from a website and stored on a user's computer while the user is browsing the website. Although cookies cannot carry any virus, they help us understand which sections of our websites are the most popular as they help show which pages are being visited and for how long.  This helps us adapt our websites to provide more relevant and accessible information. For example, cookies allow us to ensure that the information displayed on your next visit to our websites will match up with your user preferences. You may configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Please note, however, that disabling cookies might affect your online experience and/or prevent you from taking full advantage of our site and some of its functionality. If you choose to restrict cookies you will have to provide certain information each time you visit our website and reset your preferences.
 
 **Advantages of cookies are**
 
@@ -111,7 +105,7 @@ HumanClickCHATKEY
 HumanClickACTIVE  
 LivePersonID  
 HumanClickSiteContainerID_89672997  
-uid | Colt includes social sharing and bookmarking buttons on its websites – this service is provided by AddThis and allows visitors to easily share content from our sites with popular social networks such as Facebook, Twitter. The cookies collect information which allows us to see what information on our sites is being shared and with which social network and bookmarking sites.  
+uid | Colt includes social sharing and bookmarking buttons on its websites - this service is provided by AddThis and allows visitors to easily share content from our sites with popular social networks such as Facebook, Twitter. The cookies collect information which allows us to see what information on our sites is being shared and with which social network and bookmarking sites.  
   
 **Blocking/Restricting Cookies**
 
@@ -119,8 +113,8 @@ You may restrict cookies by changing the browser setting (guidance provided belo
 
 **For Internet Explorer:**
 
-  * Click on ‘Tools’ at the top of your browser window and select ‘Internet Options’
-  * In the options window navigate to the ‘Privacy’ tab
+  * Click on 'Tools' at the top of your browser window and select 'Internet Options'
+  * In the options window navigate to the 'Privacy' tab
   * To enable cookies: Set the slider to ‘Medium’ or below
   * To disable cookies: Move the slider to the top to block all cookies
 
@@ -128,7 +122,7 @@ You may restrict cookies by changing the browser setting (guidance provided belo
 
 **For Firefox:**
 
-  * Click on ‘Tools’ at the browser menu and select ‘Options’
+  * Click on 'Tools' at the browser menu and select ‘Options’
   * Select the Privacy panel
   * To enable cookies: Check ‘Accept cookies for sites’
   * To disable cookies: Uncheck ‘Accept cookies for sites’
