@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goallineblitz.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523052517id_/http%3A//glb.warriorgeneral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goallineblitz.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120135720id_/http%3A//glb.warriorgeneral.com/privacy.html) for the most accurate reproduction.*
 
 # Goal Line Blitz
 
