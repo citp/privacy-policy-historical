@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the startupgrind.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320132156id_/https%3A//www.startupgrind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupgrind.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120032946id_/https%3A//www.startupgrind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Startup Grind
+
+**What information do we collect?**
 
 We collect information from you when you register on our site.
 
@@ -19,12 +21,12 @@ To improve our website
 
 To administer a contest, promotion, survey or other site feature
 
-To send periodic emails  
-
+To send periodic emails
 
 > The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
- **How do we protect your information?**
+  
+**How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
@@ -76,5 +78,5 @@ This policy was last modified on 03/01/2014
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-customerservice at startupgrind.com  
+ford at startupgrind.com  
 1491 Edgewood Dr, Palo Alto, CA 94301
