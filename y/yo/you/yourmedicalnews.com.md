@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourmedicalnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143310id_/http%3A//video.yourmedicalnews.com/privacyYMN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourmedicalnews.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120184145id_/http%3A//video.yourmedicalnews.com/privacyYMN.html) for the most accurate reproduction.*
 
 # Privacy | Your Medical News
 
