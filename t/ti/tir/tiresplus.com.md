@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053401id_/http%3A//www.tiresplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120044611id_/http%3A//www.tiresplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Tires Plus Privacy Policy | Tires Plus
 
@@ -27,7 +27,19 @@ Tires Plus may collect information from you at several different points and in d
 
 **(a) Registration.** To use this Site, or certain portions or features of the Site, you may be required to first complete an online registration form. During registration you will be prompted to provide to Tires Plus certain personal information, including but not limited to your name, address, phone number and email address.
 
-**(b) Cookies.** "Cookies" are small pieces of information that are stored by a user’s Internet browser on a user’s hard drive. The Site may store some information on your computer in the form of a cookie or similar file; however, this Site does not use permanent cookies that contain any personally identifying information, such as your name or address. The cookies allow us to recognize you when you return to our site and to provide you with a customized experience that we feel will be of value to you. Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. If you do elect to disable the Site’s cookies, please note that you may not be able to take full advantage of the Site.
+**(b) Cookies.** "Cookies" are small pieces of information that are stored by a user’s Internet browser on a user’s hard drive. The Site may store some information on your computer in the form of a cookie or similar file, however This Site does not use permanent cookies that contain any personally identifying information, such as your name or address. The cookies allow us to recognize you when you return to our site and may also be matched and combined with personally identifiable information collected from other sources to provide you with a customized experience that we feel will be of value to you. Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. If you do elect to disable the Site’s cookies, please note that you may not be able to take full advantage of the Site.  
+
+
+In addition, this site uses the following Google Analytics Advertising Features:
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * Google Analytics Demographics and Interest Reporting
+  * Integrated services that require Google Analytics to collect data for advertising purposes, including the collection of data via advertising cookies and identifiers
+
+
+
+We share the data collected using Google Analytics with a trusted set of third-party vendors and use it to help us analyze how users use our Site. Google Analytics plants a cookie on your web browser to identify you as a unique user the next time you visit this Site. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this Site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser, or following the [Google opt-out process](https://tools.google.com/dlpage/gaoptout/).
 
 **(c) Log Files.** This Site automatically collects information pertaining to Your access. Such information may include Your Internet Protocol ("IP") address, as well as other connection and usage information for system administration and troubleshooting purposes. (An IP address indicates the location of Your computer on the Internet.) Tires Plus does not link an IP address to any personally identifiable information.
 
@@ -60,3 +72,36 @@ If Tires Plus decides to change or update this Privacy Policy, Tires Plus will p
 * References to Tires Plus in this privacy policy includes Firestone Complete Auto Care, Hibdon Tires Plus, Wheel Works and other trade names under which Bridgestone Retail Operations operates.
 
 **©2017 Tires Plus. All rights reserved.**
+
+In addition, this site uses the following Google Analytics Advertising Features:
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * Google Analytics Demographics and Interest Reporting
+  * Integrated services that require Google Analytics to collect data for advertising purposes, including the collection of data via advertising cookies and identifiers
+
+
+
+We share the data collected using Google Analytics with a trusted set of third-party vendors and use it to help us analyze how users use our Site. Google Analytics plants a cookie on your web browser to identify you as a unique user the next time you visit this Site. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this Site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser, or following the [Google opt-out process](https://tools.google.com/dlpage/gaoptout/).
+
+In addition, this site uses the following Google Analytics Advertising Features:
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * Google Analytics Demographics and Interest Reporting
+  * Integrated services that require Google Analytics to collect data for advertising purposes, including the collection of data via advertising cookies and identifiers
+
+
+
+We share the data collected using Google Analytics with a trusted set of third-party vendors and use it to help us analyze how users use our Site. Google Analytics plants a cookie on your web browser to identify you as a unique user the next time you visit this Site. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this Site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser, or following the [Google opt-out process](https://tools.google.com/dlpage/gaoptout/).
+
+In addition, this site uses the following Google Analytics Advertising Features:
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * Google Analytics Demographics and Interest Reporting
+  * Integrated services that require Google Analytics to collect data for advertising purposes, including the collection of data via advertising cookies and identifiers
+
+
+
+We share the data collected using Google Analytics with a trusted set of third-party vendors and use it to help us analyze how users use our Site. Google Analytics plants a cookie on your web browser to identify you as a unique user the next time you visit this Site. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this Site by disabling cookies on your browser, or following the Google opt-out process.
