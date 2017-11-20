@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075704id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/CSCategoryDisplay%3FstoreId%3D10001%26langId%3D-1%26catalogId%3D21202%26categoryId%3D292512%26topCategoryId%3D292503%23tab_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180046id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/CSCategoryDisplay%3FstoreId%3D10001%26langId%3D-1%26catalogId%3D21202%26categoryId%3D292512%26topCategoryId%3D292503%23tab_privacypolicy) for the most accurate reproduction.*
 
 # Help & Advice | Customer Services | Policies & Regulations
 
-  * Terms and Conditions
+  * App Terms and Conditions
+  * Website Terms and Conditions
   * Terms of Use
   * Privacy Policy
   * Cookie Policy
@@ -11,7 +12,23 @@
 
 
 
-## Terms and Conditions
+## App Terms and Conditions
+
+### App Terms and Conditions
+
+By downloading or using the Halfords App (the "App") you agree to these terms and conditions. You should read them carefully before using the App. You're not allowed to copy or modify the App, any part of the app, or our trademarks in any way. You're not allowed to attempt to extract the source code of the App, and you also shouldn't try to translate the app into other languages, or make derivative versions. The App itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, belong to Halfords. 
+
+At the top of this page you'll be able to find links to our Privacy Policy and Terms of Use of both the website and the App. The App stores and processes personal data that you've provided us with, and this may be shared with third parties so that the App can operate as you need it to. Full details are set out in our Privacy Policy. It's your responsibility to keep your device and access to the App secure. 
+
+We reserve the right to make changes to the App or to charge for its services, at any time and for any reason. 
+
+We cannot take responsibility for the App not working at full functionality or for any way in which you use the App including for any charges you incur by using the App (for example, from your mobile provider). In using the App, you're accepting responsibility for any such charges. If you're not the bill payer for the device on which you're using the App, by using the App you agree that you've received permission from the bill payer for using the App. 
+
+Occasionally we'll need to update the App. You'll need to download the updates if you want to keep using the App. We do not promise that it will always update the App so that it's relevant to you and/or works with your device. We may terminate use of the App at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the App, and (if needed) delete it from your device.
+
+Back to top
+
+## Website Terms and Conditions
 
 These are the Terms and Conditions of Sale for Halfords.com to which all online purchases are subject.
 
@@ -19,25 +36,25 @@ These are the Terms and Conditions of Sale for Halfords.com to which all online 
 
 1.1. In these Conditions, the following definitions shall apply: 
 
-**Approved Partner:** a third party seller who sells Goods to Customers using the Marketplace.  
-**Business Days:** a day (other than a Saturday, Sunday or public holiday) when banks in London are open for business.  
-**Conditions:** the terms and conditions set out in this document as amended from time to time in accordance with clause 14.  
-**Contract:** the contract between us and the Customer for the sale and purchase of the Goods in accordance with these Conditions.  
-**Customer, you, your:** the person who purchases the Goods from us.  
-**Event Outside Our Control:** has the meaning given in clause 13.  
-**Goods:** the goods (or any part of them) set out in the Order.  
-**Halfords:** Halfords Limited (registered in England and Wales with company number 00103161 with registered office address at Icknield Street Drive, Washford West, Redditch, Worcestershire B98 0DE.  
-**Halfords Goods:** Goods purchased on the Website from Halfords and not an Approved Partner.  
-**Marketplace:** the marketplace accessed via the Website through which Halfords facilitates transactions between Approved Partners and Customers.  
+**Approved Partner:** a third party seller who sells Goods to Customers using the Marketplace.   
+**Business Days:** a day (other than a Saturday, Sunday or public holiday) when banks in London are open for business.   
+**Conditions:** the terms and conditions set out in this document as amended from time to time in accordance with clause 14.   
+**Contract:** the contract between us and the Customer for the sale and purchase of the Goods in accordance with these Conditions.   
+**Customer, you, your:** the person who purchases the Goods from us.   
+**Event Outside Our Control:** has the meaning given in clause 13.   
+**Goods:** the goods (or any part of them) set out in the Order.   
+**Halfords:** Halfords Limited (registered in England and Wales with company number 00103161 with registered office address at Icknield Street Drive, Washford West, Redditch, Worcestershire B98 0DE.   
+**Halfords Goods:** Goods purchased on the Website from Halfords and not an Approved Partner.   
+**Marketplace:** the marketplace accessed via the Website through which Halfords facilitates transactions between Approved Partners and Customers.   
 **Order:** the Customer's order for the Goods submitted by the Customer online via the Website.  
-**Website:** means the website accessible at Halfords.com including the Marketplace.  
+**Website:** means the website accessible at Halfords.com including the Marketplace.   
 **We, us, our:** Halfords or the Approved Partner as applicable to the Order.
 
 1.2. In these Conditions, the following rules apply:
 
-1.2.1. A person includes a natural person, corporate or unincorporated body (whether or not having separate legal personality).  
-1.2.2. A reference to a party includes its personal representatives, successors or permitted assigns.  
-1.2.3. Any phrase introduced by the terms including, include, in particular or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.  
+1.2.1. A person includes a natural person, corporate or unincorporated body (whether or not having separate legal personality).   
+1.2.2. A reference to a party includes its personal representatives, successors or permitted assigns.   
+1.2.3. Any phrase introduced by the terms including, include, in particular or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.   
 1.2.4. A reference to writing or written includes e-mails.
 
 ### 2\. The Contract
@@ -52,17 +69,17 @@ These are the Terms and Conditions of Sale for Halfords.com to which all online 
 
 2.5. The only language in which the Contract can be concluded is English. 
 
-2.6. We will retain details of your Order in our database and these details can be made available to you on request. Please contact our [Customer Service team](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292515&topCategoryId=292503).
+2.6. We will retain details of your Order in our database and these details can be made available to you on request. Please contact our [_Customer Service team_](https://web.archive.org/advice/customer-services/want-to-get-in-touch).
 
 2.7. Where the Customer has been directed to the Website as a result of a third party site, these sites are independent from us and we are not responsible or liable for such sites. Customers should consult the terms and conditions of the site in question for more information.
 
-2.8. For information on how to shop at Halfords.com, visit [our step-by-step guide](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292514&topCategoryId=292503#tab_howtoshop).
+2.8. For information on how to shop at Halfords.com, visit [_our step-by-step guide_](https://web.archive.org/advice/customer-services/shopping-at-halfords).
 
-2.9. Where you place an Order from an Approved Partner via the Marketplace:  
-2.9.1 the Contract is made between you and the Approved Partner and these Conditions apply to such Contracts.  
-2.9.2 Halfords act as the Approved Partner's agent for payment and you authorise Halfords to process payment on their behalf.  
-2.9.3 Other than as set out in clause 2.9.2 above, Halfords has no responsibility to you in respect of Contracts made with Approved Partners and all references in these Conditions to 'we' 'us' or 'our' shall be deemed to refer to the Approved Partner in that context.  
-2.9.4 In the first instance the Customer must attempt to resolve any dispute directly with the Approved Partner.  
+2.9. Where you place an Order from an Approved Partner via the Marketplace:   
+2.9.1 the Contract is made between you and the Approved Partner and these Conditions apply to such Contracts.   
+2.9.2 Halfords act as the Approved Partner's agent for payment and you authorise Halfords to process payment on their behalf.   
+2.9.3 Other than as set out in clause 2.9.2 above, Halfords has no responsibility to you in respect of Contracts made with Approved Partners and all references in these Conditions to 'we' 'us' or 'our' shall be deemed to refer to the Approved Partner in that context.   
+2.9.4 In the first instance the Customer must attempt to resolve any dispute directly with the Approved Partner.   
 2.9.5 Approved Partners shall not invoice Customers directly, and Customers must not accept or pay Approved Partners invoices.
 
 ### 3\. Product Information
@@ -97,7 +114,7 @@ These are the Terms and Conditions of Sale for Halfords.com to which all online 
 
 ### 5\. Payment Information
 
-5.1. Halfords.com accepts payment by most major credit or debit cards registered at UK addresses, or by Paypal registered to UK addresses. We regret that we are unable to accept payment online by cheque, cash, Halfords Gift Vouchers, Halfords Gift Cards, High Street Vouchers, Purchase Orders or any other form of payment. For more information about payment methods, please [click here](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292511&topCategoryId=292503#tab_paymentmethods).
+5.1. Halfords.com accepts payment by most major credit or debit cards registered at UK addresses, or by Paypal registered to UK addresses. We regret that we are unable to accept payment online by cheque, cash, Halfords Gift Vouchers, Halfords Gift Cards, High Street Vouchers, Purchase Orders or any other form of payment. For more information about payment methods, please [_click here_](https://web.archive.org/advice/customer-services/payments).
 
 5.2. Please ensure that the expiry date of your credit or debit card is after the anticipated despatch date of your Order. Payment will be debited from your account just before the despatch of your Goods, and if your payment card has expired, we will be unable to take payment and fulfil your Order.
 
@@ -111,18 +128,19 @@ These are the Terms and Conditions of Sale for Halfords.com to which all online 
 
 ### 6\. Delivery of Goods
 
-6.1. We can only deliver to addresses within the United Kingdom. Unfortunately, we are unable to deliver to non-UK destinations, including the Republic of Ireland, the Channel Islands and BFPO addresses at this time. Please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292515&topCategoryId=292503#tab_contactus) if you require further details.
+6.1. We can only deliver to addresses within the United Kingdom. Unfortunately, we are unable to deliver to non-UK destinations, including the Republic of Ireland, the Channel Islands and BFPO addresses at this time. Please [_contact us_](https://web.archive.org/advice/customer-services/want-to-get-in-touch) if you require further details.
 
 6.2. For deliveries to non-mainland UK addresses and certain remote locations e.g. Scottish Isles, Isle of Man, Isle of Wight, Northern Ireland and the Scottish Highlands, there may be an additional surcharge imposed by our couriers and a slightly longer delivery lead-time.
 
-6.3. The delivery charge for each item is listed on the product detail page. When you add products to your shopping basket and have chosen the delivery option the appropriate charge will be added automatically. All delivery charges will be shown clearly throughout the checkout process. For more information about delivery charges and lead times, [click here](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292509&topCategoryId=292503#tab_deliveryinformation).
+6.3. The delivery charge for each item is listed on the product detail page. When you add products to your shopping basket and have chosen the delivery option the appropriate charge will be added automatically. All delivery charges will be shown clearly throughout the checkout process. For more information about delivery charges and lead times, [_click here_](https://web.archive.org/advice/customer-services/delivery-returns).
 
 6.4. We may deliver the Goods by instalments, which shall be invoiced and paid for separately. Each instalment shall constitute a separate Contract. Any delay in delivery or defect in an instalment shall not entitle the Customer to cancel any other instalment.
 
-6.5 Any dates quoted for delivery are approximate only and we cannot be held liable for any costs incurred if delivery is delayed.  
-6.5.1. However, in the event that delivery is delayed for next day/named day deliveries, our liability will be limited to a refund of the additional delivery surcharge paid.  
-6.5.2. Please be aware that Royal Mail First Class postal service can take up to 7 days. This is under the terms of Royal Mail and is out of our control.  
-6.5.3. 3rd Party couriers can deliver direct delivery orders between the hours of 7am and 9pm.
+6.5 Any dates quoted for delivery are approximate only and we cannot be held liable for any costs incurred if delivery is delayed.
+
+  
+6.5.1. Please be aware that Royal Mail First Class postal service can take up to 7 days. This is under the terms of Royal Mail and is out of our control.   
+6.5.2. 3rd Party couriers can deliver direct delivery orders between the hours of 7am and 9pm. 
 
 6.6. Delivery of an Order shall be completed when we deliver the Goods to the delivery address given in the Order.
 
@@ -132,9 +150,9 @@ These are the Terms and Conditions of Sale for Halfords.com to which all online 
 
 6.9. We shall have no liability for any delay in delivery of the Goods, or failure to deliver the Goods, where the delay or failure is caused either by an Event Outside Our Control or the Customer's failure to provide us with adequate delivery instructions or any other instructions that are relevant to the supply of the Goods.
 
-6.10 If we miss our estimated delivery deadline for the Goods or, in the absence of any estimate being given the date 30 days after the Dispatch Confirmation, you may cancel your Order straight away if any of the following apply:  
-(a) we have refused to deliver the Goods;  
-(b) delivery within the delivery deadline was essential (taking into account all the relevant circumstances); or  
+6.10 If we miss our estimated delivery deadline for the Goods or, in the absence of any estimate being given the date 30 days after the Dispatch Confirmation, you may cancel your Order straight away if any of the following apply:   
+(a) we have refused to deliver the Goods;   
+(b) delivery within the delivery deadline was essential (taking into account all the relevant circumstances); or   
 (c) you told us before we accepted your Order that delivery within the delivery deadline was essential.
 
 6.11 If you do not wish to cancel your Order straight away, or do not have the right to do so under clause 6.10 you can give us a new deadline for delivery which must be reasonable, and you can cancel your Order if we do not meet the new deadline. 
@@ -148,8 +166,8 @@ These are the Terms and Conditions of Sale for Halfords.com to which all online 
 7.2 If you are a consumer, you have a legal right to cancel a Contract under the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 within 14 days of receipt of Goods however for Halfords Goods, Halfords have extended that right to 28 days from receipt of the Goods (please see clause 7.4 below for an explanation of the period during which you can cancel a Contract). This means that during the relevant period if you change your mind or decide for any other reason that you do not want to receive or keep the Goods, you can notify us of your decision to cancel the Contract and receive a refund. Alternatively, you are entitled to request an exchange within the same period of time and the provisions below also apply to exchanges.
 
 7.3 However, this cancellation right does not apply in the case of the following which may only be returned if they are faulty:  
-(a) personalised and made-to-order products;  
-(b) sealed satellite navigation equipment, sealed memory cards, sealed audio or sealed video recordings or sealed computer software which have been unsealed after you receive them.  
+(a) personalised and made-to-order products;   
+(b) sealed satellite navigation equipment, sealed memory cards, sealed audio or sealed video recordings or sealed computer software which have been unsealed after you receive them.   
 (c) any Goods which become mixed inseparably with other items after their delivery.
 
 7.4 Your legal right to cancel a Contract starts from the date of the Dispatch Confirmation (the date on which we e-mail you to confirm our acceptance of your order), which is when the Contract between us is formed. Your deadline for cancelling the Contract then depends on what you have ordered and how it is delivered, as set out in the table below:
@@ -165,21 +183,21 @@ Example: if we provide you with a Dispatch Confirmation on 1 January in respect 
 7.5 To cancel a Contract with Halfords, you need to let us know that you have decided to cancel. If you wish to exercise this right, please contact the Halfords Customer Services Team, by phone, email or letter sent by post or using the online form on our Website. If you use the online form we will e-mail you to confirm we have received your cancellation. If you are e-mailing us or writing to us please include details of your Order to help us to identify it. If you send us your cancellation notice by e-mail or by post, then your cancellation is effective from the date you send us the e-mail or post the letter to us. For example, you will have given us notice in time as long as you get your letter into the last post on the last day of the cancellation period or e-mail us before midnight on that day.
 
 7.6 If you cancel your Contract with Halfords, Halfords will:  
-(a) refund you the price you paid for the Goods. However, please note we are permitted by law to reduce your refund to reflect any reduction in the value of the goods, if this has been caused by your handling them in a way which would not be permitted in a shop. If we refund you the price paid before we are able to inspect the goods and later discover you have handled them in an unacceptable way, you must pay us an appropriate amount.  
-(b) refund any delivery costs you have paid, although, as permitted by law, the maximum refund will be the costs of delivery by our basic delivery charge.  
+(a) refund you the price you paid for the Goods. However, please note we are permitted by law to reduce your refund to reflect any reduction in the value of the goods, if this has been caused by your handling them in a way which would not be permitted in a shop. If we refund you the price paid before we are able to inspect the goods and later discover you have handled them in an unacceptable way, you must pay us an appropriate amount.   
+(b) refund any delivery costs you have paid.   
 (c) make any refunds due to you as soon as possible and in any event within the deadlines indicated below:  
-(i) if you have received the Goods and we have not offered to collect it from you: 14 days after the day on which we receive the Goods back from you or, if earlier, the day on which you provide us with evidence that you have sent the Goods back to us. For information about how to return Goods to us, see clause 9.8.  
+(i) if you have received the Goods and we have not offered to collect it from you: 14 days after the day on which we receive the Goods back from you or, if earlier, the day on which you provide us with evidence that you have sent the Goods back to us. For information about how to return Goods to us, see clause 9.8.   
 (ii) if you have not received the Goods or you have received it and we have offered to collect it from you: 14 days after you inform us of your decision to cancel the Contract. 
 
 7.7 If you have returned the Goods to us under this clause 7 because they are faulty or mis-described, we will refund the price of the Goods in full, together with any applicable delivery charges. 
 
 7.8 We will refund you on the credit card or debit card used by you to pay. If you used vouchers to pay for the Goods we may refund you in vouchers.
 
-7.9 If Goods have been delivered to you before you decide to cancel your Contract:  
-(a) then you must return it to us without undue delay and in any event not later than 14 days after the day on which you let us know that you wish to cancel the Contract. You can either send it back (and we recommend using a trackable service and obtaining proof of postage), return it to us in-store or hand it to our authorised carrier. For information on how to return an item please click here. You must take reasonable care to ensure that the Goods are not damaged in transit; this includes ensuring that they are securely packaged. Halfords cannot be responsible for lost or damaged returns.  
+7.9 If Goods have been delivered to you before you decide to cancel your Contract:   
+(a) then you must return it to us without undue delay and in any event not later than 14 days after the day on which you let us know that you wish to cancel the Contract. You can either send it back (and we recommend using a trackable service and obtaining proof of postage), return it to us in-store or hand it to our authorised carrier. For information on how to return an item please click here. You must take reasonable care to ensure that the Goods are not damaged in transit; this includes ensuring that they are securely packaged. Halfords cannot be responsible for lost or damaged returns.   
 (b) unless the Goods are faulty or not as described (in this case, see clause 7.7, you will be responsible for the cost of returning the Goods to us. If the Goods cannot be returned by post, we may offer to collect the Goods from you in which case we will charge you the direct cost to us of collection which will be £7.
 
-7.10 Because you are a consumer, we are under a legal duty to supply Goods that are in conformity with this Contract. As a consumer, you have legal rights in relation to Goods that are faulty or not as described. These legal rights are not affected by your right of return and refund in this clause 7 or anything else in these Conditions. Advice about your legal rights is available from your local Citizens' Advice Bureau or Trading Standards office. For our returns policy, please [click here](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292509&topCategoryId=292503).
+7.10 Because you are a consumer, we are under a legal duty to supply Goods that are in conformity with this Contract. As a consumer, you have legal rights in relation to Goods that are faulty or not as described. These legal rights are not affected by your right of return and refund in this clause 7 or anything else in these Conditions. Advice about your legal rights is available from your local Citizens' Advice Bureau or Trading Standards office. For our returns policy, please [_click here_](https://web.archive.org/advice/customer-services/delivery-returns).
 
 7.11. Due to the speed of our ordering process, Halfords may not be able to cancel your order before despatch. If you exercise your right to cancel prior to you receiving the Goods, Halfords will attempt to stop the goods in transit, however if this is not possible and the Goods are delivered, you will be able to return your Goods in line with your rights outlined above.
 
@@ -191,15 +209,15 @@ Example: if we provide you with a Dispatch Confirmation on 1 January in respect 
 
 8.3. We are under a legal duty to supply goods that are in conformity with the contract.
 
-8.4. If you have any further queries relating to Halfords Goods once you have spoken to your local store, please don't hesitate to [contact us](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292515&topCategoryId=292503#tab_contactus).
+8.4. If you have any further queries relating to Halfords Goods once you have spoken to your local store, please don't hesitate to [_contact us_](https://web.archive.org/advice/customer-services/delivery-returns).
 
-8.5.For further information on guarantees, please [click here](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292513&topCategoryId=292503#tab_halfordsguarantees).
+8.5.For further information on guarantees, please [_click here_](https://web.archive.org/advice/customer-services/product-information).
 
 ### 9\. Complaints and Queries
 
-9.1.If you are not happy with any aspect of our online service, discover a fault with our Website, or if you have any queries or comments relating to an order placed online, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292515&topCategoryId=292503#tab_contactus) and we will do everything we can to help you.
+9.1.If you are not happy with any aspect of our online service, discover a fault with our Website, or if you have any queries or comments relating to an order placed online, please [_contact us_](https://web.archive.org/advice/customer-services/want-to-get-in-touch) and we will do everything we can to help you.
 
-9.2. If we have exhausted our internal complaints handling procedure and we inform you in writing that we cannot settle your complaint, you have the option of referring your complaint to an Alternative Dispute Resolution ("ADR") provider to deal with the same. We are not obliged to use a specific ADR provider or procedure, however, a list of certified providers can be found at [www.tradingstandards.uk/advice/ADRApprovedBodies.cfm](https://web.archive.org/web/20170607121542id_/http://www.halfords.com/advice/customer-services/www.tradingstandards.uk/advice/ADRApprovedBodies.cfm). Alternatively, you can refer the complaint to the EU Commission's Online Dispute Resolution (ODR) Platform at wwww.odreurope.com. Please note that we are not obliged to participate in ADR.
+9.2. If we have exhausted our internal complaints handling procedure and we inform you in writing that we cannot settle your complaint, you have the option of referring your complaint to an Alternative Dispute Resolution ("ADR") provider to deal with the same. We are not obliged to use a specific ADR provider or procedure, however, a list of certified providers can be found at [_www.tradingstandards.uk/advice/ADRApprovedBodies.cfm_](http://www.tradingstandards.uk/advice/ADRApprovedBodies.cfm). Alternatively, you can refer the complaint to the EU Commission's Online Dispute Resolution (ODR) Platform at wwww.odreurope.com. Please note that we are not obliged to participate in ADR.
 
 9.3. Your access to Halfords.com may occasionally be restricted to allow for the introduction of new products or features, site development, maintenance or repairs. We will attempt to restore the service as soon as we reasonably can.
 
@@ -207,18 +225,18 @@ Example: if we provide you with a Dispatch Confirmation on 1 January in respect 
 
 10.1. We have used every effort to ensure that shopping on the internet with Halfords is as safe as purchasing by card in a regular Halfords store. Our secure server software encrypts all of your personal information sent over the Internet. In processing your Order, your information may have to be sent over the internet more than once. At no point is your Order information sent in this way without encryption.
 
-10.2. Although Halfords endeavour to take all reasonable steps to protect your personal information, we cannot guarantee the complete security of any data you disclose online. You accept the inherent security risks of providing personal information and dealing online over the Internet and Halfords cannot be held responsible for any breach of security unless it is due to our negligence. Please read our [Privacy Policy](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292512&topCategoryId=292503#tab_privacypolicy) for more details.
+10.2. Although Halfords endeavour to take all reasonable steps to protect your personal information, we cannot guarantee the complete security of any data you disclose online. You accept the inherent security risks of providing personal information and dealing online over the Internet and Halfords cannot be held responsible for any breach of security unless it is due to our negligence. Please read our [_Privacy Policy_](https://web.archive.org/advice/customer-services/policies-regulations) for more details.
 
 ### 11\. Comodo Authentic Site
 
 This Website has been issued with a Secure Server Digital Certificate by the online Certificate Authority Comodo and has been authorised to display the Comodo Authentic Site seal. The Comodo Digital ID is an electronic licence credential for online business. It confirms that the Website is a legitimate website and establishes an encrypted communication channel protecting all sensitive and personal information you send over the Internet while you are using this website.
 
-The Halfords Website is operated by:  
-Halfords Limited  
-Icknield Street Drive  
-Washford West  
-Redditch  
-Worcestershire  
+The Halfords Website is operated by:   
+Halfords Limited   
+Icknield Street Drive   
+Washford West   
+Redditch   
+Worcestershire   
 B98 0DE
 
 Registered in England and Wales. Company Number 103161.
@@ -229,11 +247,11 @@ Registered in England and Wales. Company Number 103161.
 
 12.2 We only supply the Goods for domestic and private use. You agree not to use the Goods for any commercial, business or resale purposes, and we have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
 
-12.3 We do not in any way exclude or limit our liability for:  
-(a) death or personal injury caused by our negligence;  
-(b) fraud or fraudulent misrepresentation;  
-(c) any breach of the terms implied by section 12 of the Sale of Goods Act 1979 (title and quiet possession);  
-(d) any breach of the terms implied by section 13 to 15 of the Sale of Goods Act 1979 (description, satisfactory quality, fitness for purpose and samples); and  
+12.3 We do not in any way exclude or limit our liability for:   
+(a) death or personal injury caused by our negligence;   
+(b) fraud or fraudulent misrepresentation;   
+(c) any breach of the terms implied by section 12 of the Sale of Goods Act 1979 (title and quiet possession);   
+(d) any breach of the terms implied by section 13 to 15 of the Sale of Goods Act 1979 (description, satisfactory quality, fitness for purpose and samples); and   
 (e) defective products under the Consumer Protection Act 1987.
 
 ### 13\. Events Outside Our Control
@@ -266,47 +284,47 @@ Halfords amends these Conditions from time to time. Each time you order Goods fr
 
 16.6 These Terms are governed by English law. This means a Contract for the purchase of Goods through our Website and any dispute or claim arising out of or in connection with it will be governed by English law. You and we both agree to that the courts of England and Wales will have non-exclusive jurisdiction. However, if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are a resident of Scotland, you may also bring proceedings in Scotland.
 
-Last Updated: 25 June 2015
+Last Updated: 7 September 2017
 
 Back to top
 
 ## Terms of Use
 
-These terms set out how you may use our websites. Please read these terms of use carefully, together with our Privacy Policy before you start to use any of our sites. By using any of our sites you confirm that you accept these terms and that you agree to comply with them. If you do not agree to these terms of use, you must not use any of our sites.
+These terms set out how you may use our websites and our App. Please read these terms of use carefully, together with our Privacy Policy before you start to use any of our sites or our App. By using any of our sites or App you confirm that you accept these terms and that you agree to comply with them. If you do not agree to these terms of use, you must not use any of our sites.
 
 ### Access
 
-We do not guarantee that any of our sites, or any content on them, will always be available or be uninterrupted. We may suspend, withdraw, discontinue or change all or any part of our sites without notice. We will not be liable to you if for any reason one of our sites is unavailable at any time or for any period. We may limit the availability of our sites or any service or product described on any one of our sites to any person or geographic area at any time.
+We do not guarantee that any of our sites or our App, or any content on them, will always be available or be uninterrupted. We may suspend, withdraw, discontinue or change all or any part of our sites without notice. We will not be liable to you if for any reason one of our sites is unavailable at any time or for any period. We may limit the availability of our sites or any service or product described on any one of our sites to any person or geographic area at any time.
 
 ### No Reliance on Information
 
-We have taken every care in the preparation of the content of our sites. To the extent permitted by applicable law, we disclaim all warranties, express or implied, as to the accuracy of the information contained in any of the materials on any of our sites. Due to the changing nature of the information contained on our sites we shall have no liability whatsoever for any damages or losses arising directly or indirectly as a result of any of the information accessible via the sites not being accurate, complete or up to date.
+We have taken every care in the preparation of the content of our sites and our App. To the extent permitted by applicable law, we disclaim all warranties, express or implied, as to the accuracy of the information contained in any of the materials on any of our sites and our App. Due to the changing nature of the information contained on our sites and our App we shall have no liability whatsoever for any damages or losses arising directly or indirectly as a result of any of the information accessible via the sites and the App not being accurate, complete or up to date.
 
 ### Viruses
 
-We do not guarantee that our sites will be secure or free from bugs or viruses. Due to the nature and inherent risks of communications and the transfer of data over the internet, we shall have no liability whatsoever for any damages or losses resulting from viruses, worms, Trojan horses or other malicious code or the corruption or loss of data or any damage to software or hardware. You should use your own virus protection software.
+We do not guarantee that our sites or our App will be secure or free from bugs or viruses. Due to the nature and inherent risks of communications and the transfer of data over the internet, we shall have no liability whatsoever for any damages or losses resulting from viruses, worms, Trojan horses or other malicious code or the corruption or loss of data or any damage to software or hardware. You should use your own virus protection software.
 
-You must not misuse any of our sites by knowingly introducing viruses, Trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our sites, the server on which our sites are stored or any server, computer or database connected to our sites. You must not attack our sites via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990 and we reserve the right to report any such breach to the relevant authorities.
+You must not misuse any of our sites or our App by knowingly introducing viruses, Trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our sites our App, the server on which our sites or our App are stored or any server, computer or database connected to our sites or our App. You must not attack our sites or our App via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990 and we reserve the right to report any such breach to the relevant authorities.
 
 ### Registration
 
-You warrant that the personal information which you are required to provide when you register as a user of one of our sites is true, accurate, current and complete in all respects. You agree not to impersonate any other person or entity or to use a false name or a name that you are not authorised to use. You will notify us immediately of any changes to the personal information you have provided us with.
+You warrant that the personal information which you are required to provide when you register as a user of one of our sites or our App is true, accurate, current and complete in all respects. You agree not to impersonate any other person or entity or to use a false name or a name that you are not authorised to use. You will notify us immediately of any changes to the personal information you have provided us with.
 
 ### Intellectual Property Rights
 
-All copyright, trademarks and all other intellectual property rights in all material or content supplied as part of our sites shall remain at all times vested in us or our licensors. You are permitted to use this material only as expressly authorised by us or our licensors.
+All copyright, trademarks and all other intellectual property rights in all material or content supplied as part of our sites or our App shall remain at all times vested in us or our licensors. You are permitted to use this material only as expressly authorised by us or our licensors.
 
-You may download extracts of any page(s) from our sites for your personal use or in accordance with any contractual relationship we have with you. However, you must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text identifying the authors of content on our sites.
+You may download extracts of any page(s) from our sites or our App for your personal use or in accordance with any contractual relationship we have with you. However, you must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text identifying the authors of content on our sites or our App.
 
 ### Social Media
 
 These terms also govern any submissions you make on any third party website related to us or page such as any of our Facebook pages, Twitter, Pinterest, YouTube or social networking sites. All comments, images, videos and any other type of material posted on any third party social networking site do not necessarily reflect our opinions or ideas nor those of our employees and we are not responsible for any such content. In any event, all material posted on any third party social networking site must comply with these terms and the third party social networking sites' terms of use, as applicable.
 
-Whenever you make use of a feature that allows you to upload content to our sites, or to make contact with other users of our sites, you must comply with the acceptable standards set out in these terms.
+Whenever you make use of a feature that allows you to upload content to our sites or our App, or to make contact with other users of our sites, you must comply with the acceptable standards set out in these terms.
 
 ### Acceptable Standards
 
-Any and all material which you contribute to any of our sites (" **contributions** "), and to any interactive services associated with them must comply with the following standards. Contributions must not:
+Any and all material which you contribute to any of our sites or our App (" **contributions** "), and to any interactive services associated with them must comply with the following standards. Contributions must not:
 
   * Contain any material which is defamatory of any person or be threatening, abuse or invade another's privacy; or be likely to harass, upset, embarrass, alarm or annoy any other person.
   * Contain any material which is obscene, offensive, hateful or inflammatory including any sexually explicit material or promoting violence. 
@@ -317,7 +335,7 @@ Any and all material which you contribute to any of our sites (" **contributions
 
 
 
-You agree that you will only use our sites for lawful purposes and will not:
+You agree that you will only use our sites or our App for lawful purposes and will not:
 
   * Use them in any way that breaches any applicable local, national or international law or regulation.
   * Use them in any way that is unlawful or fraudulent, or has any unlawful or fraudulent purpose or effect.
@@ -327,15 +345,15 @@ You agree that you will only use our sites for lawful purposes and will not:
 
 
 
-We will determine, in our discretion, whether there has been a breach of the above acceptable use requirements through your use of any of our sites. When a breach of our requirements has occurred, we may take such action as we deem appropriate including immediate, temporary or permanent withdrawal of your right to use our site and/or legal action.
+We will determine, in our discretion, whether there has been a breach of the above acceptable use requirements through your use of any of our sites or our App. When a breach of our requirements has occurred, we may take such action as we deem appropriate including immediate, temporary or permanent withdrawal of your right to use our site or our App and/or legal action.
 
 ### Interactive Services
 
-We will do our best to assess any possible risks for users from third parties when they use any interactive service provided on our sites, and we will decide in each case whether it is appropriate to use moderation of the relevant service (including what kind of moderation to use) in the light of those risks. However, we are under no obligation to oversee, monitor or moderate any interactive service we provide on our sites, and we expressly exclude our liability for any loss or damage arising from the use of any interactive service by a user in contravention of the above requirements, whether the service is moderated or not.
+We will do our best to assess any possible risks for users from third parties when they use any interactive service provided on our sites or our App, and we will decide in each case whether it is appropriate to use moderation of the relevant service (including what kind of moderation to use) in the light of those risks. However, we are under no obligation to oversee, monitor or moderate any interactive service we provide on our sites or our App, and we expressly exclude our liability for any loss or damage arising from the use of any interactive service by a user in contravention of the above requirements, whether the service is moderated or not.
 
 ### Third Party Links
 
-Certain links on our sites will lead to websites which are not under our control. When you activate any of these you will leave our site and we will have no control over and will accept no responsibility or liability for the material on any website which is not under our control. We assume no responsibility for the content of websites linked on our site. Such links should not be interpreted as endorsement by us of those linked websites. We will not be liable for any loss or damage that may arise from your use of them.
+Certain links on our sites and our App will lead to websites which are not under our control. When you activate any of these you will leave our site/App and we will have no control over and will accept no responsibility or liability for the material on any website which is not under our control. We assume no responsibility for the content of websites linked on our site and our App. Such links should not be interpreted as endorsement by us of those linked websites. We will not be liable for any loss or damage that may arise from your use of them.
 
 ### Applicable Law
 
@@ -347,12 +365,12 @@ Back to top
 
 ## Privacy Policy
 
-Halfords Group PLC (" **Halfords** ") is committed to protecting and respecting your privacy. This policy together with our terms of use of any websites which you may visit sets out the basis on which any personal information we (including any member of our group) collect from you, or that you provide to us, will be processed. By visiting any of our websites, you are accepting and consenting to the practices described in this policy. 
+Halfords Group PLC (" **Halfords** ") is committed to protecting and respecting your privacy. This policy together with our terms of use of any websites/App which you may visit sets out the basis on which any personal information we (including any member of our group) collect from you, or that you provide to us, will be processed. By visiting any of our websites or our App, you are accepting and consenting to the practices described in this policy. 
 
 ### A) What Information Will We Hold?
 
-  * **Information you give us.** When filling in forms on our websites or in store, corresponding with us by phone, e-mail or letter, participating in discussion boards or other social media functions on our website or entering a competition, promotion or survey, you may give us information such as your name, address, e-mail address and phone number, financial and credit card information, personal description and/or photographs.
-  * **Information we collect about you.** Each time you visit one of our websites (even if you do not register with us), we may automatically collect technical information about you such as the Internet Protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, the country and telephone code where your computer is located and information about your visit, including products you viewed or searched for, page response times, download errors and length of visits to certain pages.
+  * **Information you give us.** When filling in forms on our websites/our App or in store, corresponding with us by phone, e-mail or letter, participating in discussion boards or other social media functions on our website or entering a competition, promotion or survey, you may give us information such as your name, address, e-mail address and phone number, financial and credit card information, personal description and/or photographs.
+  * **Information we collect about you.** Each time you visit one of our websites (even if you do not register with us) or our App, we may automatically collect technical information about you such as the Internet Protocol (IP) address used to connect your computer or mobile device to the internet, your login information, browser type and version, the country and telephone code where your computer is located and information about your visit, including products you viewed or searched for, page response times, download errors and length of visits to certain pages.
   * **Information we receive from other sources.** We may also receive information about you from third parties who work closely with us including, for example, business partners, payment and delivery services, advertising networks, search information providers and credit reference agencies.
 
 
@@ -362,9 +380,9 @@ Halfords Group PLC (" **Halfords** ") is committed to protecting and respecting 
 Any personal information which we hold is held in accordance with the registration we have with the Information Commissioner's Office. We only use your information for the following purposes:
 
   * To assist in the processing of your order / to carry out our obligations arising from any contracts entered into between you and us (e.g. packing and delivering of orders, forwarding of orders, order fulfilment, processing credit/debit card transactions, fraud prevention, registering warranties). It may be necessary to provide your information to external companies to allow them to assist us in processing your order e.g. by providing these services for us. The companies concerned are not permitted to use the information supplied by us for any other purpose.
-  * To enable us to provide you with marketing and customer services. Where you have agreed to be contacted for marketing purposes, we can tell you about new products or services that we think will be of interest to you, or sort out any queries that you may have about using our products, services or websites. We may provide your information to external companies to allow them to assist us in our providing such marketing and customer services to you.
-  * To provide an improved service and ensure that content from our websites is presented in the most effective manner for you and for your computer. This information allows us to update and improve the contents of our websites and to administer our site for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes and as part of our efforts to keep our websites safe and secure. 
-  * By tracking customers' movements around our websites, the results of customers' preferences and their use of the sites are analysed en masse. Where they have agreed to be contacted for marketing purposes, certain groups of people may be sent further information about products and services based on that analysis. You have a right not to receive this information and can opt out as set out below. In addition, this information helps us to understand more about the kinds of people who benefit most from using our websites. We think it's important to understand our customers well enough to keep improving our service for them.
+  * To enable us to provide you with marketing and customer services. Where you have agreed to be contacted for marketing purposes, we can tell you about new products or services that we think will be of interest to you, or sort out any queries that you may have about using our products, services or websites/App. We may provide your information to external companies to allow them to assist us in our providing such marketing and customer services to you.
+  * To provide an improved service and ensure that content from our websites/App is presented in the most effective manner for you and for your computer/mobile device. This information allows us to update and improve the contents of our websites/App and to administer our site for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes and as part of our efforts to keep our websites safe and secure. 
+  * By tracking customers' movements around our websites/App, the results of customers' preferences and their use of the sites are analysed en masse. Where they have agreed to be contacted for marketing purposes, certain groups of people may be sent further information about products and services based on that analysis. You have a right not to receive this information and can opt out as set out below. In addition, this information helps us to understand more about the kinds of people who benefit most from using our websites. We think it's important to understand our customers well enough to keep improving our service for them.
 
 
 
@@ -372,11 +390,11 @@ We may share your personal information with any member of our group. However, we
 
 ### C) Where Do We Store This Information?
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers in order to fulfil your order, process your payment or provide other support services. By providing us with your information, you agree to this transfer, storing and/or processing. Whilst we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy, unfortunately, the transmission of information via the internet is not completely secure and we cannot guarantee the security of any information transmitted to our site. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers in order to fulfil your order, process your payment or provide other support services. By providing us with your information, you agree to this transfer, storing and/or processing. Whilst we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy, unfortunately, the transmission of information via the internet is not completely secure and we cannot guarantee the security of any information transmitted to our site/App. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 ### D) What Are My Rights?
 
-When you register on our website or through a competition or other option you will be asked to confirm whether or not you wish to receive information about our promotions and special offers. Additionally, you may be asked if you are happy to be contacted by us for research purposes and / or if you are happy to be contacted by other reputable companies with related offers. We will never disclose your information to anyone outside of the Halfords group unless you give us permission to do so. If at any time you no longer wish to receive information from us, please email us at customer.services@halfords.co.uk.
+When you register on our website/App or through a competition or other option you will be asked to confirm whether or not you wish to receive information about our promotions and special offers. Additionally, you may be asked if you are happy to be contacted by us for research purposes and / or if you are happy to be contacted by other reputable companies with related offers. We will never disclose your information to anyone outside of the Halfords group unless you give us permission to do so. If at any time you no longer wish to receive information from us, please email us at customer.services@halfords.co.uk.
 
 Under the Data Protection Act 1998 (the " **Act** ") you are entitled to a copy of the information we hold about you. If you would like a copy of your information please write to the Legal and Governance Team, Halfords Group PLC, Icknield Street, Washford West, Redditch, Worcestershire B98 0DE. Please note that there may be a charge of £10 for this service, as permitted under the Act. 
 
