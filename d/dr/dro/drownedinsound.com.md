@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drownedinsound.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630022630id_/http%3A//drownedinsound.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drownedinsound.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121210909id_/http%3A//drownedinsound.com/privacy) for the most accurate reproduction.*
 
 # // Drowned In Sound
 
