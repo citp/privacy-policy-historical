@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgshareware.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622194429id_/http%3A//mgshareware.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgshareware.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121153159id_/http%3A//www.mgshareware.com/privacy.php) for the most accurate reproduction.*
 
 # .: MGShareware :.
 
