@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mncourts.gov privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531170730id_/http%3A//mncourts.gov/SpecialPages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mncourts.gov privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121202030id_/http%3A//www.mncourts.gov/SpecialPages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Minnesota Judicial Branch - Privacy Policy
 
