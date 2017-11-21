@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthierwayoflife.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082838id_/http%3A//healthierwayoflife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthierwayoflife.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121124123id_/http%3A//healthierwayoflife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthier Way Of Life
 
