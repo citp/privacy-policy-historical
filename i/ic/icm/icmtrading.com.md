@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icmtrading.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514013115id_/http%3A//icmtrading.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icmtrading.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121034757id_/http%3A//www.icmtrading.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Forex | Indices | Commodities | Futures | CFDs | Automated Trading | ICM
 
