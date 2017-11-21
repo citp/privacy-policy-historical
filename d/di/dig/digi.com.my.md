@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digi.com.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043251id_/http%3A//new.digi.com.my/cs/Satellite/Page/tnc/default/tnc_privacy_statement_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digi.com.my privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121192135id_/http%3A//new.digi.com.my/cs/Satellite/Page/tnc/default/tnc_privacy_statement_en) for the most accurate reproduction.*
 
 # Privacy Notice (EN) | Digi - Let's Inspire
 
@@ -25,7 +25,7 @@
 ---|---  
 2. |  We are committed to using your personal information to provide you with better and more relevant services.  
 3. |  We always take steps to ensure that we keep your personal information safe and secure.  
-2.2 |  Digi (and the Telenor Group, which we are a part of) believes that all our customers should enjoy the same standards of privacy protection. When we use the word “customer”, it includes not only our current customers, but also our past, future and subscribers to other networks that roam with us. Digi will process the personal information collected from you in accordance with the following key principles:  | 1. |  We will process your personal information in accordance with this privacy notice the Personal Data Protection Act 2010, and all relevant regulations, standards, and guidelines as may be prescribed from time to time (referred to as "applicable law").  
+2.2 |  Digi (and the Telenor Group, which we are a part of) believes that all our customers should enjoy the same standards of privacy protection. When we use the word “customer”, it includes not only our current customers, but also our past, future and subscribers to other networks that roam with us. Digi will process the personal information collected from you in accordance with the following key principles:  |  1. |  We will process your personal information in accordance with this privacy notice the Personal Data Protection Act 2010, and all relevant regulations, standards, and guidelines as may be prescribed from time to time (referred to as "applicable law").  
 ---|---  
 2. |  We will tell you what personal information we collect about you, as well as why and how we collect and process it.  
 3. |  We will only process your personal information for legitimate purposes and only for as long as it is necessary to achieve those purposes, unless we are otherwise required by any applicable law to retain it or have grounds for doing so.  
@@ -54,14 +54,14 @@
 ####  **How we collect personal information about you**
 
   
-|  4.1 |  We collect personal information about you in three ways:  | a. |  information that you provide to us, for instance when you subscribe for our services;  
+|  4.1 |  We collect personal information about you in three ways:  |  a. |  information that you provide to us, for instance when you subscribe for our services;  
 ---|---  
 b. |  information that we collect automatically when you use any of our services; and/or  
 c. |  information that we may obtain about you from third parties.  
 4.2 |  We explain below what personal information we typically collect about you in these three ways.  
 4.3 |  For some of our services, for example financial, music or video conferencing services, it may be necessary to collect additional personal information about you, collect personal information in other ways, and/or collect personal information for purposes that are specific to that service. In such cases, our relevant Terms of Service explain the service-specific personal information processing activities.  
 **Information that you give us**  
-4.4 |  When you sign up for one of our services or when you receive one of our services, you may provide us with certain personal information. The types of such information may include:  | a. |  Your name, phone number, email address, postal address, date of birth, gender and other information you give us when registering to receive one of our services in a store, online or by phone.  
+4.4 |  When you sign up for one of our services or when you receive one of our services, you may provide us with certain personal information. The types of such information may include:  |  a. |  Your name, phone number, email address, postal address, date of birth, gender and other information you give us when registering to receive one of our services in a store, online or by phone.  
 ---|---  
 b. |  Credit or debit card information, bank account number and Swift code or other banking or payment information, as well as amounts, dates and times of any payments that you make to us.  
 c. |  Your preferences regarding the services that we provide. This will usually be collected through your service settings when setting up the service.  
@@ -75,7 +75,7 @@ i. |  Some of the services provided on our websites, require you to have an onli
 4.5 |  When you use any of our services, we will automatically collect certain information about you and your device. The information that we collect automatically will vary depending on the service that we provide to you and the type of device that you are using to access and/or benefit from our service.  
 4.6 |  We will collect information about the type of device and software that you use to access our services, for instance whether you are using an iPhone or Samsung phone, and what operating system is running on your device.  
 4.7 |  When you use our telecommunication services, we automatically collect information about your communications, including:  
-| a. |  the phone numbers that you call/text or that call/text you;  
+|  a. |  the phone numbers that you call/text or that call/text you;  
 ---|---  
 b. |  the date and time of the calls and texts you send or receive;  
 c. |  the duration of calls received and made through our network;  
@@ -83,13 +83,13 @@ d. |  your approximate location at the time these communications take place, as 
 e. |  your browsing information, as further explained in the section on _cookies_ below; and  
 f. |  the level of service you receive from us.  
 4.8 |  When you visit one of our websites and/or use one of our online services, we collect information concerning your terminal equipment or device and your use of our online services. Such information usually includes:  
-| a. |  the IP address of your terminal equipment or device, such as your PC, laptop or smartphone;  
+|  a. |  the IP address of your terminal equipment or device, such as your PC, laptop or smartphone;  
 ---|---  
 b. |  information about your terminal equipment or device model and settings;  
 c. |  network information; and  
 d. |  details of when, where and how you used the service.  
 4.9 |  When you visit one of our websites and/or use one of our online services we may also collect the following information:  
-| a. |  log-in information;  
+|  a. |  log-in information;  
 ---|---  
 b. |  browser type and version;  
 c. |  browser plug-in types and versions;  
@@ -100,7 +100,7 @@ g. |  download errors; and
 h. |  length of visits to certain pages and how you interact with those pages.  
 4.10 |  The information that we collect automatically when you use our websites and/or services is collected through _cookies_ and other similar technologies. Click here to find out more about these technologies and why and how we use them.  
 4.11 |  We collect information when we link our digital services with the services of third parties, for instance when you have requested that we integrate our services with the services of third party service providers such as with social networks such as Facebook, Instagram or Twitter or VoIP services such as Skype and Viber. Such information usually includes:  
-| a. |  certain general information such as the information described above (including, for instance, information that you provide to us when you register for a service, information that we collect automatically when you use our services (including, for instance, IP address and information about your device), location information that we collect when you use location-based services, and other information that you provide to us or which we collect on the basis of your consent or as permitted by applicable law); and  
+|  a. |  certain general information such as the information described above (including, for instance, information that you provide to us when you register for a service, information that we collect automatically when you use our services (including, for instance, IP address and information about your device), location information that we collect when you use location-based services, and other information that you provide to us or which we collect on the basis of your consent or as permitted by applicable law); and  
 ---|---  
 b. |  certain service-specific information, such as information that is necessary to enable us to link your Digi or Telenor log-in credentials to the third party service log-in credentials in a non-personally identifiable manner, to enable us to integrate our digital services with the services of those third parties.  
 **Information that we collect from other sources**  
@@ -131,7 +131,7 @@ b. |  certain service-specific information, such as information that is necessar
 ---|---  
 6.2 |  We may also process your personal information to contact you from time to time with news and offers that may be of interest to you, as further explained in the section on How we use your personal information for marketing purposes below.  
 6.3 |  We also use your personal information to:  
-| a. |  Manage your customer relationships with us, manage and fulfil your orders, send you bill statements, tax invoices and such other payment documents related to your transactions with or through us, and collect payment for our services.  
+|  a. |  Manage your customer relationships with us, manage and fulfil your orders, send you bill statements, tax invoices and such other payment documents related to your transactions with or through us, and collect payment for our services.  
 ---|---  
 b. |  Communicate with you about the services that we provide to you, send you notices about purchases and about errors in the service, and to respond to your queries and feedback.  
 c. |  Adjust the service according to your age, including to implement parental controls.  
@@ -163,7 +163,7 @@ s. |  Fulfil any other related or incidental purpose in order to operate, mainta
 |  7.1 |  We may share your personal information with the Telenor Group for them to process it for the purposes listed in the section on How we use your personal information above. In processing this personal information on our behalf, they will always process it in accordance with this privacy notice and applicable law.  
 ---|---  
 7.2 |  We use partners and service providers for a variety of business purposes such as to help us offer, provide, bill, repair, and improve our services and/or such other third party services that you use. In such cases it may be necessary to disclose your personal information to third parties for these purposes. We will typically share your personal information with third parties when:  
-| a. |  It is necessary to involve a third party partner, agent or other service provider (including other telecommunications service providers, for example when you choose to roam on local or foreign networks) to facilitate or extend our services so that we can provide a better service to you.  
+|  a. |  It is necessary to involve a third party partner, agent or other service provider (including other telecommunications service providers, for example when you choose to roam on local or foreign networks) to facilitate or extend our services so that we can provide a better service to you.  
 ---|---  
 b. |  We engage service providers or other data processors that process your personal information on our behalf and on our instructions. In such cases, we will take steps to ensure that your personal information remains protected and that the third parties with which we share it will process it in accordance with our instructions and will not use it for their own purposes.  
 c. |  We share information with third parties that provide services (such as social networks or VoIP services) that you have chosen to link with our services, to the extent that such sharing is necessary to enable you to use these services.  
@@ -197,13 +197,13 @@ g. |  If we decide to sell, buy, merge or otherwise re-organise our business, we
 ---|---  
   |  _Cookies_  
 9.2 |  A _cookie_ is a text file containing small amounts of information that a website can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you.  
-9.3 | Our websites use _cookies_ to improve your user experience when you visit our websites and to  collect information about your user patterns and interests so that we can display to you online ads that are relevant to your interests when you return to the website. You can set your browser to notify you before you receive a _cookie_ , giving you the chance to decide whether to accept it. You can also set your browser to turn off _cookies_ ; however, if you do this, some of our websites may not work properly. We also use _cookies_ and similar technologies for analytics and advertising purposes.  
+9.3 |  Our websites use _cookies_ to improve your user experience when you visit our websites and to  collect information about your user patterns and interests so that we can display to you online ads that are relevant to your interests when you return to the website. You can set your browser to notify you before you receive a _cookie_ , giving you the chance to decide whether to accept it. You can also set your browser to turn off _cookies_ ; however, if you do this, some of our websites may not work properly. We also use _cookies_ and similar technologies for analytics and advertising purposes.  
 9.4 |  For most types of _cookies_ , including those we use for advertising purposes, you have the right to tell us that you do not want us to use them when you visit our websites. If you opt out of _cookies_ that we use for advertising purposes, we will stop using _cookies_ , but please note that this does not mean that you will not see ads when you visit our websites, it only means that the ads that you will see will not be tailored to your interests.  
 9.5 |  For more information about our use of _cookies_ and how you can opt out, please read our _Cookies_ Notice. If you want to know more about _cookies_ , check out [www.aboutcookies.org](http://www.aboutcookies.org/).  
-  | _Pixel tags_  
+  |  _Pixel tags_  
 9.6 |  A pixel tag, also known as a clear gif or web beacon, is an invisible tag which we may place on certain pages of our website. When you access these pages, pixel tags generate a generic notice of that visit. Usually, they work in conjunction with _cookies_ and record when a computer visits a page. If you turn off _cookies_ the pixel tag will simply detect an anonymous website visit.  
 9.7 |  A 'smart pixel' is a tiny graphics file containing a unique identifier that is embedded within an e-mail. We may use smart pixels in our email campaigns or newsletters. They allow us to track whether the e-mail was opened successfully and to record certain information about the activities of the recipient(s). Users who have set their e-mail client software to refuse automatic downloads of images within the e-mails they receive will not be served our smart pixel unless they actively choose to download the images within the e-mail (and many e-mail clients are set by default to refuse automatic image downloads).  
-  | _Digital Analytics Network Tools_  
+  |  _Digital Analytics Network Tools_  
 9.8 |  We may use digital analytics network tools to process and analyse common attributes associated with your use of our websites, products and/or services. We may generate or maintain our own customer profiles using internal data sources including personal information which you provide to us, or personal information obtained from third parties associated with or in collaboration with us. We may use this information for various reasons, including to provide you with better network support services, customer support services, and also to present targeted or tailored marketing campaigns or content to you.  
   
 ####  **10.**
@@ -227,7 +227,7 @@ g. |  If we decide to sell, buy, merge or otherwise re-organise our business, we
 ---|---  
 11.2 |  We have put in place appropriate technical and organisational security measures to protect your personal information from unauthorised access, collection, use, disclosure, copying, modification or disposal. Our specialist security teams review these security measures regularly, to ensure that we are in compliance with the applicable laws (including any security standards or guidelines as may be issued by the Personal Data Protection Commissioner from time to time).  
 11.3 |  When we use service providers or other data processors to process personal information on our behalf, we require them to follow our instructions and apply appropriate technical and organisational security measures to protect the personal information they process on our behalf, which may include the following:  
-| a. |  Obtaining the data processor's undertaking that neither itself nor its employees shall disclose personal information to any third party without our authorisation.  
+|  a. |  Obtaining the data processor's undertaking that neither itself nor its employees shall disclose personal information to any third party without our authorisation.  
 ---|---  
 b. |  Obtaining the data processor's undertaking to deploy technical and organisational security measures, as agreed by us, as well as the obligation to inform us should any of the measures be breached.  
 c. |  Obtaining the data processor's undertaking to otherwise conduct itself in such a manner so as to not cause any breach of the applicable laws.  
@@ -256,7 +256,7 @@ e. |  Conducting an audit of the technical and organisational measures employed 
   
 |  13.1 |  You have certain rights in relation to the personal information that we hold about you. We have in place measures and processes to enable you to exercise your rights and ensure that we can fulfil your requests concerning the personal information that we hold about you.
 
-We will enable you to access the personal information that we hold about you as required by the applicable laws. If you wish to access the personal information that we hold about you by obtaining a copy, please contact our Call Center at 016-221 1800 or write in to Privacy at Customer Service, Digi Telecommunications Sdn Bhd, Lot 10, Jalan Delima 1/1,Subang Hi-Tech Industrial Park,40000 Subang Jaya, Selangor.  
+We will enable you to access the personal information that we hold about you as required by the applicable laws. If you wish to access the personal information that we hold about you by obtaining a copy, please contact our Call Center at 016-221 1800 or write in to Customer Service, Digi Telecommunications Sdn Bhd, Lot 10, Jalan Delima 1/1, Subang Hi-Tech Industrial Park, 40000 Subang Jaya, Selangor.  
   
 ---|---  
 13.2 |  Before we are able to respond to your request, we may ask you to prove your identity and to provide further details about your request. We will respond to your request within an appropriate timeframe and, in any event, within any timescales and subject to payment of any fees prescribed by applicable law.  
@@ -292,7 +292,7 @@ We will enable you to access the personal information that we hold about you as 
 ####  **Changes to this privacy notice**
 
   
-|  16.1 |  This privacy notice was last updated on 8 August 2016. We may update this privacy notice from time to time, in which case we will post a prominent announcement on our website home page for 30 days. By continuing to use our services after that period you confirm your continuing acceptance of this privacy notice.  
+|  16.1 |  This privacy notice was last updated on 23 August 2017. We may update this privacy notice from time to time, in which case we will post a prominent announcement on our website home page for 30 days. By continuing to use our services after that period you confirm your continuing acceptance of this privacy notice.  
 ---|---  
 16.2 |  Where we think it is appropriate, and in any event where we make material changes to our privacy notice, we will also email you or text you to inform you that our privacy notice has been updated.  
 16.3 |  If we make material changes to the privacy notice and you do not wish to accept them, you will have 30 days in which you may terminate the service subject always that all outstanding payment due and payable shall be settled in accordance with the Subscribers [Terms and Conditions](https://web.archive.org/cs/Satellite/Page/tnc/default/tnc_general_all) and/or such other terms and conditions that may be imposed by Digi on you from time to time for the provision of service. If you do not terminate the service within 30 days from the date of such material change as mentioned in Clause 16.1 above, by continuing to use our services you confirm your continuing acceptance of this privacy notice.  
@@ -301,7 +301,16 @@ We will enable you to access the personal information that we hold about you as 
 
 | 
 
-#### **Questions about this privacy notice**
+####  **Questions about this privacy notice**
 
-|  17.1 |  If you have a question, concern or complaint about this privacy notice or our handling of your information, you can contact the Call Center at 016-221 1800 or write in to Privacy at Customer Service, Digi Telecommunications Sdn Bhd, Lot 10, Jalan Delima 1/1,Subang Hi-Tech Industrial Park, 40000 Subang Jaya, Selangor.  
----|---
+If you have a question, concern or complaint about this privacy notice or our handling of your information, you can contact:
+
+|  Designation |  Privacy Officer  
+---|---  
+|  016-221 1800  
+|  [help@digi.com.my](mailto:help@digi.com.my)  
+|  Digi Telecommunications Sdn Bhd  
+Lot 10, Jalan Delima 1/1  
+Subang Hi-Tech Industrial Park  
+40000 Subang Jaya  
+Selangor Darul Ehsan
