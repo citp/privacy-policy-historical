@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stilltasty.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621034155id_/http%3A//stilltasty.com/staticpages/view/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stilltasty.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121222944id_/http%3A//www.stilltasty.com/Staticpages/view/Privacy%2520Policy) for the most accurate reproduction.*
 
 # StillTasty.com | Privacy Policy
 
