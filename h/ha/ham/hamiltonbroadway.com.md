@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hamiltonbroadway.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092512id_/http%3A//www.hamiltonbroadway.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamiltonbroadway.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121195841id_/http%3A//www.hamiltonbroadway.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/web/20170606092512id_/http%3A//www.hamiltonbroadway.com/)
+[](https://web.archive.org/web/20171121195841id_/http%3A//www.hamiltonbroadway.com/)
 
 ## What information do we collect?
 
@@ -64,6 +64,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us at this email address: [info@hamiltonbroadway.com](mailto:info@hamiltonbroadway.com)
+If there are any questions regarding this privacy policy you may contact us at this email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5930373f361931383430352d36373b2b36383d2e3820773a3634)
 
 * * *
