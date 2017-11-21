@@ -1,35 +1,53 @@
-> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225113318id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121115244id_/http%3A//www.oc.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Website Privacy Policy | Oklahoma Christian University
 
-**Information you provide to us:**
+PRIVACY POLICY – Oklahoma Christian University
 
-How Oklahoma Christian University will use the information you provide on this web site:
+7/20/2017
 
-  1. We will not sell or rent your information to any third-party for any purpose not enumerated in this list.
+This website, www.oc.edu is operated by Oklahoma Christian University. This Privacy Policy applies only to the website www.oc.edu and the pages contained on it and the personal information collected from this website. It does not apply to personal information that Oklahoma Christian University may collect offline.  
+This website may contain links to other websites that are not maintained or related to Oklahoma Christian University entity. These links are provided as a service to users; they are not sponsored by or affiliated with this website or any Oklahoma Christian University entity. Oklahoma Christian University has not reviewed any or all of the sites hyperlinked to or from this website and is not responsible for the content or privacy practices of other websites. These links are accessed at the user’s own risk, and Oklahoma Christian University makes no representations or warranties about the content, completeness, or accuracy of these hyperlinked sites. Websites that are accessible by hyperlinks from this website may use cookies. Before providing personal information to them, we encourage you to read the respective website’s privacy statements. www.oc.edu does not implicitly endorse third-party sites hyperlinked to this website.
 
-  2. We may provide your information to a third-party for limited, specific OC-related solicitations for the direct benefit of the university. (For example, to compile a directory) 
-  3. We may provide your information to a third-party for the purpose of sending you OC-related materials. For example, we may have a mailing house assemble a large mailing and we would provide a mailing list for that purpose.
+Consent
 
-  4. We will comply with court orders and local, state, and federal laws. 
+By submitting your personal information on this website (for example, by completing an online form requesting a brochure), you agree that we may collect, use, store and disclose your personal information in the manner described in this Privacy Policy set forth below and elsewhere on the website.  
+Oklahoma Christian University is committed to both protecting the privacy of users of this website and to providing those users with various opportunities and services. This Privacy Policy covers how we treat personally identifiable and non-personally identifiable information collected when you visit and use this website and its features. Except as otherwise required by law, this policy does not apply to the practices of companies that Oklahoma Christian University does not own or control or to people that Oklahoma Christian University does not employ or manage.  
+Types of personal and non-personal information collected  
+You have the option of submitting personal information while visiting www.oc.edu. If you choose to provide it, Oklahoma Christian University collects this personal information. Personal information identifies or can be used to identify an individual. For example, it can include a name, home address, telephone number, and/or email address.  
+If you request information about Oklahoma Christian University products or services through the online form or via an email sent to Oklahoma Christian University we will collect your name, contact information, and any other information you provided. You can choose whether you want to receive company-related updates and offers.  
+Like most websites, the www.oc.edu website gathers traffic patterns, site-usage, and other aggregated data. This data is used to evaluate visitor preferences and website effectiveness. This aggregate data does NOT individually identify you.  
+This website is directed to adults at least 18 years old. When a user discloses personal information on this website, the user is representing that he or she is an adult.  
+How is the personal information that is collected used or shared?  
+We may use your personal information for various purposes. We may use your personal information to analyze the effectiveness of our online and offline marketing efforts and to develop products, services, and marketing programs.  
+Unless you have informed us you do not wish to receive updates related to Oklahoma Christian University, we may also use your personal information to email or hard-copy mail such information. At any time, you can decide to decline further updates from us by sending an e-mail to webservices@oc.edu with “UNSUBSCRIBE” in the subject line or by clicking unsubscribe on the email directly.  
+We do not sell or rent any of the personal information that you disclose to us to third parties. However, in certain instances, we may share your personal information with our affiliates, franchisees, agents, and lenders. You can opt-out at any time of direct marketing by emailing webservices@oc.edu.  
+We do not share or authorize third parties who are not affiliated with www.oc.edu to make independent use of your information for their own purposes, such as for direct marketing.  
+We may disclose information to law enforcement agencies or others if we are legally required to do so. In addition, certain statutory authorizations may allow us to disclose personal information in emergency situations. In conjunction with due diligence for or completion of a merger, reorganization, or sale to a third party of our company or a major portion of its assets, we may disclose, transfer, or sell the personal information collected through our website. Although we do not currently anticipate such an event, changes to our privacy practices may result.  
+Accessing your personal information  
+At your request, we will provide you with an opportunity to access and if necessary, correct the personal information that you submitted via the online form and that is stored in our database. To make a request, please e-mail us at webservices@oc.edu. We reserve the right to confirm the identity of the requester and limit the frequency of an individual’s requests.  
+Use of Cookies  
+Use of cookies is an industry standard and you will find them at most major websites. Cookies are data that a website transfers to an individual’s hard drive for record-keeping purposes. Cookies make surfing the internet easier by saving your passwords, purchases, and preferences while you are at a website. The www.oc.edu website uses cookies. By showing how and when visitors use the website, cookies help us see which pages and sections are popular and which are not. Improvements and updates to the website may be based on data such as total number of cookies to retrieve information from your computer that was not originally sent in a cookie. Except as described below, we do not use information transferred through cookies for any promotional or marketing purposes. We do not share this information with third parties, except with contracted technology vendors or if needed for a legal proceeding. Although highly unlikely, you may occasionally get cookies from our advertisers and/or partners. We do not control these cookies, and a different cookie policy may apply to them. The use of advertising cookies sent by third-party servers is standard in the Internet industry. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. (However, if you do so, it is possible that some pages / sections of a website will not function properly.)  
+Google Analytics  
+www.oc.edu website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site.   
+Oklahoma Christian University uses Google Analytics features including  
+•Remarketing with Google Analytics  
+•Google Display Network Impression Reporting  
+•DoubleClick Platform integrations  
+•Google Analytics Demographics and Interest Reporting  
+Oklahoma Christian University uses all features of Google Analytics for Display Advertisers. That includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit this website. Google Analytics does not store any visitor specific data and we will not use visitor specific data in any way related to Google Analytics, Google AdWords, and Remarketing.
 
+Oklahoma Christian University and other third-party vendors, including Google, use first-party cookies such as the Google Analytics cookie and third-party cookies such as the DoubleClick cookie together to inform, optimize, and serve ads based on visitor’s past visits to our website.
 
+Oklahoma Christian University uses remarketing with Google AdWords (see below) and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented.
 
+The information generated by the cookie about your use of the website including your IP address will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however if you do this you may not be able to use the full functionality of this website. By using this website, you agree to the processing of data about you by Google in the manner and for the purposes explained in this paragraph.  
+This website uses Google AdWords
 
-**Information your computer sends to us:**
+We use Google AdWords remarketing services to advertise on third party websites (including Google) to previous visitors to our website. Remarketing allows us to tailor our outreach to better suit your needs and only displays ads that are relevant to you. AdWords remarketing may appear in the form of an advertisement on the Google search results page, or a site in the Google Display Network, or display relevant ads tailored to your interests based on what parts of the Oklahoma Christian University website you have viewed or by placing a cookie on your machine. THIS COOKIE DOES NOT IN ANYWAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER. Any data collected will be used in accordance with our privacy policy.
 
-**IP Address:** When you browse this web site or any web site, you leave a unique signature called an IP address. That address can be traced back to your computer. We only track IP addresses when a user attempts to compromise our network security. We may assemble information about usage patterns from the IP address your computer sends to us, but we will not identify you personally.
-
-**Cookies** : We may place a file on your computer called a "cookie" which allows us to customize the information we send to you. Our website can later read this cookie. These cookies will identify your computer, but we do not track them, nor will we use them to identify you. 
-
-We may place a cookie on your computer that will allow us to greet you by name when you customize the alumni or admissions web sites. We could theoretically use these cookies to track when you visited, what pages you visited, and how often you visit our web sites. We do not use cookies in this way. 
-
-**Age of respondents:**
-
-[Federal law prohibits us](http://www.ftc.gov/ogc/coppa1.htm) from accepting identifying information from any person under thirteen years of age. If you are **under** thirteen years of age, you **may not provide us** any identifying information.
-
-The latest copy of this privacy policy is always available at: <http://www.oc.edu/privacy.aspx>.
-
-Professor of English, Gail Nash, says "I work at OC because I believe in OC's mission, and I believe in the ministry potential of the TEFL major." Nash is involved in the Oklahoma City Literacy Coalition, a community ESL project administered through the OC Writing Center. Additionally, as Writing Center Director, she takes her staff and volunteers on-site to a local high school where they offer writing center services to a high school English class during the classes' research essay assignments. 
-
-[Read More](http://blogs.oc.edu/ocpeople/individual/gail_nash/)
+How to Opt Out of Remarketing and Advertising: If you do not wish to participate in our Google AdWords Remarketing, you can opt out by visiting Google's Ads Preferences Manager.  
+Security of personal information  
+We take our users’ privacy very seriously. We feel that certain personal information should always be kept private. We have technology measures to protect any personal information you submit from misuse and loss, such as firewalls and password-protected areas using established industry standards. These measures are also designed to protect personal information from unauthorized access, modification, and disclosure. However, no data protection measures are entirely foolproof when data is transmitted and stored over the Internet.  
+This Privacy Policy may change  
+We reserve the right to update this Privacy Policy as needed. Each time it is updated, a new date will appear at the top. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it, and under what circumstances, if any, we will share it with other parties.
