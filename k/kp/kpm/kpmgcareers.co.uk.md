@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpmgcareers.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629085816id_/http%3A//www.kpmg.com/Global/en/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpmgcareers.co.uk privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121051224id_/http%3A//www.kpmg.com/Global/en/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | KPMG | GLOBAL
 
