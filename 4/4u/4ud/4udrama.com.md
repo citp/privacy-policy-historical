@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 4udrama.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064912id_/http%3A//4udrama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4udrama.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121193210id_/http%3A//4udrama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 #### Privacy policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at 4udramadotcom@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At 4udrama.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by 4udrama.com and how it is used.
 
