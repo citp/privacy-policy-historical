@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top10for.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064412id_/http%3A//top10for.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10for.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121155044id_/http%3A//top10for.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Top10For
+# Privacy Policy -
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://top10for.com/contact-us/) here.
 
@@ -44,7 +44,10 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 All your personal information that you provided or contacted to us are never leaked or sold to the third parties and they are well protected by us.
 
-If you have any concern about your privacy, please [contact us](http://top10for.com/contact-us/ "Click here to contact us!") now.
+## DMCA
 
-   
+All pictures copyright to their respective owner(s). Top10for does not claim ownership of any of the pictures displayed on this site unless stated otherwise. Top10for does not knowingly intend or attempt to offend or violate any copyright or intellectual property rights of any entity. Some images used on Top10for are taken from the web and believed to be in the public domain. In addition, to the best of Top10for’s knowledge, all content, images, photos, etc., if any, are being used in compliance with the Fair Use Doctrine (Copyright Act of 1976, 17 U.S.C. § 107.) The pictures are provided for comment/criticism/news reporting/educational purposes only.
+
+If you have any concern about your privacy or you don’t want us to use your photo on our site, please [contact us](http://top10for.com/contact-us/ "Click here to contact us!") now.
+
 Best Regards,
