@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwr.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051210id_/http%3A//www.dwr.com/privacy-and-security.html%3Flang%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwr.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121191247id_/http%3A//www.dwr.com/privacy-and-security.html%3Flang%3Den_US) for the most accurate reproduction.*
 
 # Privacy & Security
 
