@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035743id_/http%3A//experts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121134918id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
-[](https://web.archive.org/Resources/Detail?ID=250)
+[](https://web.archive.org/Resources/Detail?ID=736)
 
-[](https://web.archive.org/Resources/Detail?ID=770)
+[](https://web.archive.org/Resources/Detail?ID=9)
 
-Shawn Coyle
+Virginia A. Lathan
 
-[](https://web.archive.org/Resources/Detail?ID=34)
+[](https://web.archive.org/Resources/Detail?ID=775)
 
-Allen K. Hess (Editor), Irving B. Weiner (Editor)
+Bankole A. Johnson, MD
 
 ### Our Commitment To Privacy
 
