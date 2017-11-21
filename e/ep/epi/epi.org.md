@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624114221id_/http%3A//www.epi.org/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121211038id_/http%3A//www.epi.org/help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Economic Policy Institute
 
