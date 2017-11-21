@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042606id_/http%3A//www.unb.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121151948id_/http%3A//www.unb.ca/privacy) for the most accurate reproduction.*
 
 # Web Privacy Statement | UNB
 
@@ -18,7 +18,7 @@ In some cases, the Internet Protocol (IP) address of visitors could allow for in
 
 ## myUNB
 
-Our [myUNB](https://my.unb.ca/ "My.UNB") section uses cookies, small pieces of information sent from our site to your web browser. Cookies enable our website to remember personal page view settings. This information is used solely to provide an improved experience for our users. Each browser allows you to set your preferences for accepting or rejecting cookies, as well as for deleting cookies. UNB's Information Technology Services [Help Desk](http://www.unb.ca/its/ "Help Desk") can help you find these settings in your browser.
+Our [myUNB](https://my.unb.ca/ "My.UNB") section uses cookies, small pieces of information sent from our site to your web browser. Cookies enable our website to remember personal page view settings. This information is used solely to provide an improved experience for our users. Each browser allows you to set your preferences for accepting or rejecting cookies, as well as for deleting cookies. The [IT Service Desk](http://www.unb.ca/its/ "Help Desk") can help you find these settings in your browser.
 
 ## Want to know more?
 
