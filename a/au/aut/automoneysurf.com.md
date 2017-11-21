@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automoneysurf.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065446id_/http%3A//www.automoneysurf.com/%3Fsignup%26show%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automoneysurf.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121063021id_/http%3A//www.automoneysurf.com/%3Fsignup%26show%3Dprivacy) for the most accurate reproduction.*
 
 # AutoMoneySurf - free 3$ daily, make money just surf, work at home, earn money online with autosurf, payeer, bitcoin, wiredpay, paypal, okpay, payza, skrill.
 
