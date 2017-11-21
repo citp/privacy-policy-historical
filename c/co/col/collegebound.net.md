@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the collegebound.net privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515074234id_/http%3A//www.collegebound.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegebound.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121055458id_/http%3A//www.collegebound.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## The CollegeBound Network Privacy Policy
 
-Last Updated: 3/23/2017
+Last Updated: 10/17/2017
 
-This Privacy Policy describes the types of information we collect from and about you when you visit our website or any other website or online service owned or operated by CareerCo LLC that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how CareerCo LLC may use and disclose such information, as well as your ability to control certain uses of it. It also describes your choices regarding use, access and correction of your personal information.
+This Privacy Policy describes the types of information we collect from and about you when you visit our website collegebound.net or any other website or online service owned or operated by collegebound.net that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how collegebound.net may use and disclose such information, as well as your ability to control certain uses of it. It also describes your choices regarding use, access and correction of your personal information.
 
-If you have questions or complaints regarding our Privacy Policy or practices, please first contact CareerCo LLC, Compliance Department, 1200 South Ave., Staten Island, NY 10314, (718) 761-4800, [privacy@careerco.com](mailto:privacy@careerco.com).
+If you have questions or complaints regarding our Privacy Policy or practices, please first contact collegebound.net, Compliance Department, 2 Teleport Dr., Suite 201, Staten Island, NY 10314, (718) 761-4800, [privacy@keys2winning.com](mailto:privacy@keys2winning.com).
 
 ### INFORMATION COLLECTION
 
 **Personal Information**  
-The CollegeBound Network, or a third party service provider acting on our behalf ("Service Provider"), collects personal information from you when you choose to share it with us to use our matching services, create an online account with us, order products or services from us, request information from us, sign up for newsletters or our email list, participate in a survey, or otherwise contact us. The personal information we collect may include your name, address, telephone number, email address, education level and year of graduation, information you include on your resume, and, credit card information such as credit card number and security number if you are a CareerCo LLC customer. We may combine your personal information with additional personal information and non-personal information we collect or receive about you from other online and offline sources.
+The CollegeBound Network, or a third party service provider acting on our behalf ("Service Provider"), collects personal information from you when you choose to share it with us to use our matching services, create an online account with us, order products or services from us, request information from us, sign up for newsletters or our email list, participate in a survey, or otherwise contact us. The personal information we collect may include your name, address, telephone number, email address, education level and year of graduation, information you include on your resume, and, credit card information such as credit card number and security number if you are a collegebound.net customer. We may combine your personal information with additional personal information and non-personal information we collect or receive about you from other online and offline sources.
 
 **Information Automatically Collected**  
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
@@ -49,7 +49,7 @@ These companies are authorized to use your personal information only as necessar
 
 We may contact you via email, telephone, text message, postal mail, or any other means of communication that you provide to us as a means of contacting you.
 
-By creating an Account via membership to CareerCo, you agree that CareerCo may send you informational/marketing text (SMS) messages via an automatic telephone dialing system as part of the normal business operation of your use of the Services. You may opt-out of receiving text (SMS) messages From CareerCo at any time by texting the word STOP to XXXX from the mobile device receiving the messages. You acknowledge that opting out of text (SMS) messages may impact your use of the Services. Please text the word HELP to XXXX, call (888)660.9060, or email privacy to receive more information. Members can expect an average of 6-8 text (SMS) message per month; standard Message & Data rate may apply. Consenting to the above terms is not an indication of purchase on the part of the user. 
+By creating an Account via membership to collegebound.net, you agree that collegebound.net may send you informational/marketing text (SMS) messages via an automatic telephone dialing system as part of the normal business operation of your use of the Services. You may opt-out of receiving text (SMS) messages From collegebound.net at any time by texting the word STOP to XXXX from the mobile device receiving the messages. You acknowledge that opting out of text (SMS) messages may impact your use of the Services. Please text the word HELP to XXXX, call (888)660.9060, or email privacy to receive more information. Members can expect an average of 6-8 text (SMS) message per month; standard Message & Data rate may apply. Consenting to the above terms is not an indication of purchase on the part of the user. 
 
 Our supporting carries include U.S. Cellular, T-Mobile, C Spire, Cincinnati Bell, Cricket, Carrie, AT&T, Carolina West, Cellcom, Boost, Virgin Mobile, Nextel, Sprint, and nTelos. Verizon, T-Mobile or Wireless carriers are not liable for delayed or undelivered messages.
 
@@ -57,7 +57,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 ### INFORMATION DISCLOSURE
 
-The CollegeBound Network may disclose the information we collect from and about you as only in the ways that are described in this privacy policy: (1) to the employment or educational organizations from whom you have requested information or the employment or educational organization we have matched based on your interests; (2) to our email, data hosting, and Short Message Service (SMS)/text messaging service providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the The CollegeBound Network Site Terms of Use or of our rights or the rights of any third party; (4) in certain situations, CareerCo may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements (5) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (6) to our selected partners and affiliates that we believe may have offers of interest to you; (7) as described to you at the point of collection and (8) to any other Third party with your prior consent to do so. 
+The CollegeBound Network may disclose the information we collect from and about you as only in the ways that are described in this privacy policy: (1) to the employment or educational organizations from whom you have requested information or the employment or educational organization we have matched based on your interests; (2) to our email, data hosting, and Short Message Service (SMS)/text messaging service providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the The CollegeBound Network Site Terms of Use or of our rights or the rights of any third party; (4) in certain situations, collegebound.net may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements (5) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (6) to our selected partners and affiliates that we believe may have offers of interest to you; (7) as described to you at the point of collection and (8) to any other Third party with your prior consent to do so. 
 
 We do not sell your personal information to third parties. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.
 
@@ -67,15 +67,15 @@ Also, The CollegeBound Network may sell or purchase assets during the normal cou
 
 ### YOUR CALIFORNIA PRIVACY RIGHTS: MARKETING AND "DO NOT TRACK"
 
-If you are a California resident, you may opt-out of our disclosure of personal information to third parties for their direct marketing purposes. To opt out, please contact us at [CAprivacy@careerco.com](mailto:CAprivacy@careerco.com).
+If you are a California resident, you may opt-out of our disclosure of personal information to third parties for their direct marketing purposes. To opt out, please contact us at [CAprivacy@keys2winning.com](mailto:CAprivacy@keys2winning.com).
 
-California residents may choose to opt-out of the sharing of their personal information with third parties for direct marketing purposes at any time by submitting a request in writing to CareerCo LLC, Compliance Department, 1200 South Ave., Staten Island, NY 10314 or by e-mailing us the request at: [CAprivacy@careerco.com](mailto:CAprivacy@careerco.com). We honor all such opt-out requests and it is our policy not to share personal information with third parties for direct marketing purposes where you have submitted such a request. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
+California residents may choose to opt-out of the sharing of their personal information with third parties for direct marketing purposes at any time by submitting a request in writing to collegebound.net, Compliance Department, 1200 South Ave., Staten Island, NY 10314 or by e-mailing us the request at: [CAprivacy@keys2winning.com](mailto:CAprivacy@keys2winning.com). We honor all such opt-out requests and it is our policy not to share personal information with third parties for direct marketing purposes where you have submitted such a request. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
 
 California law requires that we disclose how our site responds to "Do Not Track" (DNT) signals from browsers and other mechanism that express the user's preference not to be tracked. Currently, there is not an industry-wide accepted definition of what is a DNT signal. For this reason, we currently do not respond to such signals.
 
 ### COOKIES AND DATA COLLECTION TECHNOLOGIES
 
-Technologies such as: cookies or similar technologies are used by CareerCo LLC and our affiliate partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies or similar technologies are used by collegebound.net and our affiliate partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies to remember users' search criteria (e.g. zip code). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
@@ -85,7 +85,7 @@ We partner with a third party to either display advertising on our Web site or t
 
 ### PUBLIC FORUMS
 
-Any information you may disclose in our blogs, on message boards, in chat rooms when providing testimonials or product reviews, or on other public areas of the Site, becomes public information. Please exercise caution when disclosing personal information in these public areas. To request removal of your personal information from our public areas of our Site, contact us at [blogcomments@careerco.com](mailto:blogcomments@careerco.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
+Any information you may disclose in our blogs, on message boards, in chat rooms when providing testimonials or product reviews, or on other public areas of the Site, becomes public information. Please exercise caution when disclosing personal information in these public areas. To request removal of your personal information from our public areas of our Site, contact us at [blogcomments@keys2winning.com](mailto:blogcomments@keys2winning.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
 
 ### Social Media (Features) and Widgets:
 
@@ -97,7 +97,7 @@ The Site may have links to third-party websites, which may have privacy policies
 
 ### TESTIMONIALS
 
-We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@careerco.com](mailto:privacy@careerco.com)
+We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@keys2winning.com](mailto:privacy@keys2winning.com)
 
 ### OUR COMMITMENT TO CHILDREN'S PRIVACY
 
@@ -105,20 +105,20 @@ Protecting children's privacy is important to us. We do not direct the Site to, 
 
 ### OUR COMMITMENT TO DATA SECURITY
 
-We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Site visitors. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@careerco.com](mailto:privacy@careerco.com)
+We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Site visitors. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@keys2winning.com](mailto:privacy@keys2winning.com)
 
 When you enter sensitive information our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 ### ACCESS TO YOUR PERSONAL INFORMATION
 
-Upon request CareerCo LLC will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information, please resubmit your new contact information along with your interests in certain employment or educational opportunities. If the Site uses an online account, you may sign in to your account and update your personal information. If you prefer that we no longer use your information to provide you with services, please visit our [opt-out](http://www.careerco.com/opt-out/) page. We will respond to your request within a reasonable timeframe. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Upon request collegebound.net will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information, please resubmit your new contact information along with your interests in certain employment or educational opportunities. If the Site uses an online account, you may sign in to your account and update your personal information. If you prefer that we no longer use your information to provide you with services, please visit our [opt-out](http://www.careerco.com/opt-out/) page. We will respond to your request within a reasonable timeframe. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### IF YOU HAVE QUESTIONS
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [privacy@careerco.com](mailto:privacy@careerco.com).
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [privacy@keys2winning.com](mailto:privacy@keys2winning.com).
 
-CareerCo LLC   
-1200 South Avenue, Suite 202   
+collegebound.net   
+2 Teleport Drive, Suite 201   
 Staten Island, NY 10314  
 718-761-4800
 
