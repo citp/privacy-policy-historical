@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the otterbox.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630224257id_/http%3A//www.otterbox.com/en-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otterbox.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122002548id_/http%3A//www.otterbox.com/en-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | OtterBox
 
-This privacy policy (this “Policy”) applies to otterproducts.com, operated by Otter Products, LLC (“Otter”). This Policy describes how Otter collects, uses and shares the personal information you provide on otterproducts.com. It also describes the choices available to you regarding our use of your personal information, and how you can access and update this information.
+This privacy policy (this “Policy”) applies to otterbox.com, operated by Otter Products, LLC (“Otter”). This Policy describes how Otter collects, uses and shares the personal information you provide on otterproducts.com. It also describes the choices available to you regarding our use of your personal information, and how you can access and update this information.
 
 We value your privacy, and we make this policy easily accessible throughout this site to assist you in understanding how we handle your personal information. We want to make your online experience enjoyable and safe. Because we gather certain types of information about our users, we want you to fully understand our policies surrounding the attainment and use of that information.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-## INFORMATION we COLLECT
+## Information We Collect
 
 You are not required to provide personal information that we request. If you choose not to provide the information we have requested, we may not be able to provide you with our products or services.
 
-When you make a purchase from this site, request to receive our electronic newsletters, participate in our message boards or forums, write a review, submit a warranty claim, and/or participate in polls, surveys, or contests, we may collect information from you, including your name, email address, phone number, mailing address, payment information, age, and social media handles. If you purchase a product or service from this site for another party, we may collect information from you about the other party, including the other party’s name and mailing address. We will only use this information for the specific purpose for which it is provided. If you believe that a third party has provided us with your personal information and you no longer wish us to possess your information, you may request deletion of your information by emailing us at privacy@otterproducts.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+When you make a purchase from this site, request to receive our electronic newsletters, participate in our message boards or forums, write a review, submit a warranty claim, and/or participate in polls, surveys, or contests, we may collect information from you, including your name, email address, phone number, mailing address, payment information, and social media handles. If you purchase a product or service from this site for another party, we may collect information from you about the other party, including the other party’s name and mailing address. We will only use this information for the specific purpose for which it is provided. If you believe that a third party has provided us with your personal information and you no longer wish us to possess your information, you may request deletion of your information by emailing us at [privacy@otterbox.com](mailto:privacy@otterbox.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Please be aware that this site includes links to other sites whose privacy practices may differ from those of Otter. If you submit personal information to any of those sites, your information is governed by their respective privacy policies. We encourage you to carefully read the privacy policy of any site you visit. Similarly, some of our pages utilize framing techniques to serve content to from third parties, while preserving the look and feel of this site. Please be aware that you are providing your personal information to these third parties and not to Otter.
 
@@ -24,7 +24,7 @@ The personal information we collect allows us to fulfill your order or warranty 
 
 If you fill out a survey or form, participate in a contest or submit a testimonial on this site, and in the process, provide us with personal information, we use this information to notify contest winners and award prizes, to monitor site traffic or personalize this site, and to send participants an email newsletter. We also display on this site personal testimonials of satisfied customers and other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using our contact information below.
 
-We provide site users the opportunity to receive communications from us, including a periodical newsletter, product promotions, polls, surveys, and any other information that we feel may be pertinent to the user. You may opt out of receiving any, non-service related communications by emailing us at [privacy@otterproducts.com](mailto:privacy@otterproducts.com), by clicking on the 'unsubscribe' link in any email we send to you, or by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
+We provide site users the opportunity to receive communications from us, including a periodical newsletter, product promotions, polls, surveys, and any other information that we feel may be pertinent to the user. You may opt out of receiving any, non-service related communications by emailing us at [privacy@otterbox.com](mailto:privacy@otterbox.com), by clicking on the 'unsubscribe' link in any email we send to you, or by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
 
 This site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at the contact information below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
@@ -38,7 +38,7 @@ We reserve the right to disclose your personal information as required to by law
 
 ## Log Files, Cookies, and Other Tracking Technologies
 
-This site utilizes industry standard analytics packages that automatically gathers limited information on site users, and stores this anonymous information in server log files. This information may include IP addresses, browser type, referring pages, operating system used, and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of site usage and trends.
+This site utilizes industry standard analytics packages that automatically gathers limited information on site users, and stores this information in server log files. This information may include IP addresses, browser type, referring pages, operating system used, and date/time stamps. This information is used only for site administration, as well as for analysis of site usage and trends.
 
 Otter collects user traffic usage characteristics throughout its site. However, we do not correlate this data with individual user information. Otter may analyze usage statistics according to a user's domain name, browser type, and MIME type by reading this information from data contained in the user's browser.
 
@@ -54,9 +54,9 @@ We use “local storage”, such as HTML5, to store content information and pref
 
 ## Access to Personal Information
 
-If you would like to know whether we hold, or process on behalf of a third party, any of your personal information, you may request this information by emailing us at [privacy@otterproducts.com](mailto:privacy@otterproducts.com).
+If you would like to know whether we hold, or process on behalf of a third party, any of your personal information, you may request this information by emailing us at[privacy@otterbox.com](mailto:privacy@otterbox.com).
 
-If your personally identifiable information changes, you may update it by logging into your online account or by emailing us at [privacy@otterproducts.com](mailto:privacy@otterproducts.com). If you no longer wish us to possess your information, you may request deletion of your information by emailing us at [privacy@otterproducts.com](mailto:privacy@otterproducts.com). You also may make your request by telephone or by postal mail at the address/phone number indicated in the contact information below. We will respond to your request within thirty (30) days. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If your personally identifiable information changes, you may update it by logging into your online account or by emailing us at [privacy@otterbox.com](mailto:privacy@otterbox.com). If you no longer wish us to possess your information, you may request deletion of your information by emailing us at [privacy@otterbox.com](mailto:privacy@otterbox.com). You also may make your request by telephone or by postal mail at the address/phone number indicated in the contact information below. We will respond to your request within thirty (30) days. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Protection of Personal Information
 
@@ -70,13 +70,13 @@ Otter is a United States-based company. All the information you provide will be 
 
 ## EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
-Otter participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Otter is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
+Otter participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Otter is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
 
 Otter is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Otter complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Otter is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Otter may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ## Changes to This Policy
 
@@ -91,7 +91,7 @@ ATTN: Privacy
 209 S Meldrum Street  
 Fort Collins, CO 80521  
 Phone: 1-855-688-7269  
-Email: [privacy@otterproducts.com](mailto:privacy@otterproducts.com)  
+Email: [privacy@otterbox.com](mailto:privacy@otterbox.com)  
 
 
-This privacy policy was last updated on June 5, 2017.
+This privacy policy was last updated on October 10, 2017.
