@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexaware.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627162413id_/http%3A//hexaware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexaware.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121220356id_/http%3A//hexaware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Hexaware does not share your information with third parties for marketing purpos
 
 Hexaware may collect certain information through cookies when a user visits our website. Cookies are small piece of data that a website can send to your browser, which may then be stored on your system. We may use the collected data to analyse trends and statistics and to help us provide you with a better service. To know more about cookies you may browse the internet and get the details.
 
-This site contains links to other sites. Hexaware is not responsible for the privacy practices or the content of such Web sites. If you have any questions about this privacy policy or the content of this site you can contact [corporatemarketing@hexaware.com](mailto:corporatemarketing@hexaware.com).
+This site contains links to other sites. Hexaware is not responsible for the privacy practices or the content of such Web sites. If you have any questions about this privacy policy or the content of this site you can contact[ corporatemarketing@hexaware.com.](mailto:corporatemarketing@hexaware.com)
 
 ADHERENCE TO EU-US PRIVACY SHIELD PRINCIPLES
 
@@ -20,11 +20,12 @@ Hexaware Technologies, Inc. (the “Company”) is a leading provider of IT, BPO
 
 If there is any conflict between this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. This privacy policy outlines our general policy and practices for implementing the EU-U.S. Privacy Shield principles, including the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information. This privacy policy applies to all personal information received by the Company whether in electronic, paper or verbal format.
 
-Hexaware Technologies, Inc. being subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) / the Department of Transportation.
+Hexaware Technologies, Inc. being subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
 Definitions
 
-“Personal Information” or “Information” means information that (1) is transferred from the EU or Swiss to the United States; (2) is recorded in any form; (3) is about, or pertains to a specific individual; and (4) can be linked to that individual.  
+“Personal Information” or “Information” means information that (1) is transferred from the EU or Swiss to the United States; (2) is recorded in any form; (3) is about, or pertains to a specific individual; and (4) can be linked to that individual.
+
 “Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
 
 Notice
@@ -53,7 +54,8 @@ Company shall allow an individual access to their Personal Information and allow
 
 Enforcement
 
-Company uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles.  
+Company uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles.
+
 If a complaint or dispute cannot be resolved through our internal process, we agree to cooperate and comply with the EU-U.S. Privacy Shield, EU Data Protection Authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) to investigate all unresolved complaints.
 
 Amendments
@@ -66,7 +68,7 @@ The Company is committed to following the Principles for all Personal Informatio
 
 BINDING ARBITRATION
 
-You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances, provided you have taken the following steps: (1) raised your complaint directly with Hexaware Technologies Inc. and provided us the opportunity to resolve the issue; (2) made use of the independent dispute resolution mechanism identified above; and (3) raised the issue through the relevant data protection authority and allowed the US Department of Commerce an opportunity to resolve the complaint at no cost to you. For more information on binding arbitration, see US Department of Commerce’s Privacy Shield Framework: Annex I (Binding Arbitration). 
+You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances, provided you have taken the following steps: (1) raised your complaint directly with Hexaware Technologies Inc. and provided us the opportunity to resolve the issue; (2) made use of the independent dispute resolution mechanism identified above; and (3) raised the issue through the relevant data protection authority and allowed the US Department of Commerce an opportunity to resolve the complaint at no cost to you. For more information on binding arbitration, see US Department of Commerce’s Privacy Shield Framework: Annex I (Binding Arbitration).
 
 Contact Information
 
