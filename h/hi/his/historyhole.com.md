@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historyhole.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527002213id_/http%3A//historyhole.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyhole.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121103646id_/http%3A//historyhole.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - History Hole
 
@@ -37,7 +37,7 @@ Many websites use Google technologies to improve their content and keep it free.
 **California Residents**
 
 In California, you are entitled to ask us for a notice identifying the categories of personal information we share with any third parties for marketing purposes, as provided for in California Civil Code sections 1798.83 and 1798.84.  
-If you are a California resident and would like a copy of this information, please submit a written request to the following: support@frontstreetdigital.com.
+If you are a California resident and would like a copy of this information, please submit a written request to the following: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **User Comments**
 
@@ -45,4 +45,4 @@ History Hole permits you to provide your own content to the Site, including writ
 
 Effective Date: 04-02-2014
 
-If you have questions about this Privacy Policy or want to contact us, please send an email to support@frontstreetdigital.com
+If you have questions about this Privacy Policy or want to contact us, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
