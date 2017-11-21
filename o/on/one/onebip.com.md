@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518173859id_/http%3A//corporate.onebip.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121174451id_/http%3A//corporate.onebip.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Onebip
 
@@ -52,7 +52,7 @@ You can find here more information:
 
 **Firefox:**  [http://support.mozilla.org/en-US/kb/ Enabling%20and%20disabling%20cookies](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
 
-**Android:**  [http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
+**Android:**  [https://support.google.com/chrome/answer/95647?hl=en-GB&co=GENIE.Platform%3DAndroid&oco=1](https://support.google.com/chrome/answer/95647?hl=en-GB&co=GENIE.Platform%3DAndroid&oco=1)
 
 **Opera:**  <http://www.opera.com/browser/tutorials/security/privacy/>
 
@@ -83,7 +83,8 @@ Please find below the links providing specific data for each third-party:
   * Twitter’s privacy policy <https://twitter.com/privacy>
   * Tweet quote <http://www.unboxinteractive.com/privacy/>
   * YouTube video player cookie policy <http://www.google.com/intl/en/policies/privacy/faq/#toc-cookies>
-  * Jetpack <http://www.jetpack.com/privacy>
+  * Jetpack <https://automattic.com/privacy/>
+  * Audiens [http://www.audiens.com/privacy](http://spam.dimoco.at:32224/?dmVyPTEuMDAxJiZlZmYxMWIyZWZiNWM4YmM1Yz01OUJCREYyOF85OTYyXzExNDE3XzEmJjJlNzBkYTQ5NzlmNDhmZj0xMjIzJiZ1cmw9aHR0cCUzQSUyRiUyRnd3dyUyRWF1ZGllbnMlMkVjb20lMkZwcml2YWN5)
 
 
 
