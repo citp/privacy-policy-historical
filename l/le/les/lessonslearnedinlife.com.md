@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lessonslearnedinlife.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130931id_/http%3A//lessonslearnedinlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonslearnedinlife.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121212307id_/http%3A//lessonslearnedinlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Lessons Learned in Life | Privacy Policy
+# Lessons Learned in LifePrivacy Policy - Lessons Learned in Life
 
 #### Lessons Learned In Life® Privacy Policy
 
