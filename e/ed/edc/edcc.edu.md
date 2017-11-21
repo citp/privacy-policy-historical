@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edcc.edu privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616164918id_/http%3A//www.edcc.edu/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edcc.edu privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121211111id_/http%3A//www.edcc.edu/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Edmonds Community College: About Our College - Privacy Policy
 
@@ -17,7 +17,7 @@ Lynnwood, Washington U.S.A. 98036-5999
 
 To offer comments about the Edmonds Community College's website, or about the information presented in this Privacy Notice:
 
- **Webmaster**  
+**Webmaster**  
 Edmonds Community College  
 20000 68th Ave. W  
 Lynnwood, Washington U.S.A. 98036-5999  
