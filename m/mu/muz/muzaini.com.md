@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muzaini.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523061648id_/http%3A//www.muzaini.com/OtherPages.aspx%3FMid%3D2%26Piid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzaini.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121061153id_/http%3A//www.muzaini.com/OtherPages.aspx%3FMid%3D2%26Piid%3D2) for the most accurate reproduction.*
 
 # Al Muzaini :: Always near you
 
