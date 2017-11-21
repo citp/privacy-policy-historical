@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the warez-serbia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030957id_/http%3A//www.warez-serbia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warez-serbia.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121134100id_/http%3A//www.warez-serbia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » WarezSerbia - Download For All
 
-** Privacy Information  **
+**Privacy Information**
 
 By using our web site, you consent to the collection and use of this information by Warez-Serbia.com. If we decide to change our Privacy Information, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Warez-Serbia.com may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
