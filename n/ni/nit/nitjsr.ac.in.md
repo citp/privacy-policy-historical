@@ -1,18 +1,19 @@
-> *The following text is extracted and transformed from the nitjsr.ac.in privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309191159id_/http%3A//www.nitjsr.ac.in/other/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitjsr.ac.in privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121060924id_/http%3A//nitjsr.ac.in/terms%26conditions/privacy_policy.php) for the most accurate reproduction.*
 
-# :: Welcome to NIT Jamshedpur ::
+# Privacy Policy | Nitjsr
 
-Thank you for visiting the NIT Jamshedpur web site. NIT Jamshedpur respects your right to privacy and shall protect and respect privacy of its faculty, staff, students, alumni, guest lecturers, participants in inter-college activities and all other visitors who provide personal information by filling out forms and submitting it through this web site. 
+#### **Privacy Policy**
 
-Our policy is to collect no personally identifiable information about you when you visit our web site unless you affirmatively choose to make such information available to us. However, our web servers do automatically recognize some non-personal information such as volume and timing of access as well as the Internet domain and IP address from which you accessed our site.
+As a general rule, this website does not collect Personal Information (any information from which your identity is apparent or can be reasonably ascertained) about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information. 
 
-Certain personal information that you may voluntarily share with us are your e-mail address, your messages when you communicate electronically with us, information that you provide voluntarily on surveys & other forms or when registering for personalized services. Your information is kept confidential, unaltered, and used only by National Institute of Technology Jamshedpur to administer your request.
+#### **Cookies**
 
-Information about your visit is gathered in an aggregate manner for quality control, security and improvement of our site.
+A cookie is a piece of software code that an internet web site sends to your browser when you access information at that site. This site does not use cookies. 
 
-NIT Jamshedpur does not disclose or sell any personally identifiable information collected at this site to other companies or organizations. Selected information pertaining to students, faculty members and other visitors, where authorized by you, may be provided to institutions or companies for certain purposes like training programmes, summer projects, research projects, student placement, etc.
+#### **Email**
 
-Under exceptional circumstances, where the law requires us to do so, we may disclose such information to the Police and Government/Legal authorities.
+Your email address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your email address will not be used for any other purpose, and will not be disclosed, without your consent. 
 
-Should you feel that this Privacy Policy has been violated please write to us.  
+#### **Collection of Personal Information**
 
+If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the website administrator through the contact us page. 
