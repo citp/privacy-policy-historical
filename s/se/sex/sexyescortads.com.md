@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexyescortads.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523120550id_/http%3A//www.sexyescortads.com/static_pages/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexyescortads.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121132108id_/http%3A//www.sexyescortads.com/static_pages/show/privacy) for the most accurate reproduction.*
 
 # Sexy Escorts :: privacy
 
