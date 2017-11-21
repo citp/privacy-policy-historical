@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalserviceindia.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521172123id_/http%3A//legalserviceindia.com/objective.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalserviceindia.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121122358id_/http%3A//www.legalserviceindia.com/objective.htm) for the most accurate reproduction.*
 
 # Objective of legal service India
 
@@ -17,18 +17,20 @@ Our Web site does track certain information about the visits to our Web site. Fo
 In a few areas on our Web site, we may ask you to provide information that will enable us to verify whether you are entitled to access and use certain information, materials and services available from our Web site, or to enable us to enhance your site visit, to assist you with customer service or technical support issues, or to follow up with you after your visit, or to otherwise support your customer relationship with Legal Service India.com. It is completely optional for you to participate. However, failure to participate may mean that you cannot access and use certain information, materials and services.
 
 For example, we may request information from you when you:  
-(a) Log-on to certain areas of our Web site, where you may be prompted to provide us with your user name and password as a condition to gaining access to certain information, materials or services   
-(b) Register or sign-up to subscribe to a service Subscribe to a newsletter or desire to be added to our mailing lists for other products or services   
-(c) Place an order   
-(d) Participate in a sweepstakes or other promotional offer   
+(a) Log-on to certain areas of our Web site, where you may be prompted to provide us with your user name and password as a condition to gaining access to certain information, materials or services  
+(b) Register or sign-up to subscribe to a service Subscribe to a newsletter or desire to be added to our mailing lists for other products or services  
+(c) Place an order  
+(d) Participate in a sweepstakes or other promotional offer  
 (e) Provide feedback in an online survey.
 
-In each of the instances above, we typically ask for your name, e-mail address, phone number, address, the type of business you are in, product preference information, any applicable identification number or password that we may require, as well as other similar personal information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain information, materials and services. In the case of mailed materials, you will be able to "unsubscribe" to these mailings at any time. **How We Use Information**  
+In each of the instances above, we typically ask for your name, e-mail address, phone number, address, the type of business you are in, product preference information, any applicable identification number or password that we may require, as well as other similar personal information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain information, materials and services. In the case of mailed materials, you will be able to "unsubscribe" to these mailings at any time.
+
+**How We Use Information**  
 Legal Service India.com only uses your personal information for specific purposes
 
-The personal information you provide to us when using our Web site -- such as your name, postal or e-mail address or telephone number -- will be kept confidential and used to support your customer relationship with Legal Service India.com. It also may be used to notify you of special offers, updated information and new products and services from Legal Service India.com, or offers from third parties that we think may be of interest to you. Agents or contractors of Legal Service India.com who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Legal Service India.com. 
+The personal information you provide to us when using our Web site -- such as your name, postal or e-mail address or telephone number -- will be kept confidential and used to support your customer relationship with Legal Service India.com. It also may be used to notify you of special offers, updated information and new products and services from Legal Service India.com, or offers from third parties that we think may be of interest to you. Agents or contractors of Legal Service India.com who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Legal Service India.com.
 
-Legal Service India.com may enhance or merge your information collected at its site with data from third parties for purposes of marketing products or services to you. 
+Legal Service India.com may enhance or merge your information collected at its site with data from third parties for purposes of marketing products or services to you.
 
 The ads appearing on this Web site are delivered to you by _leadhound, commission junction, linkshare_ and _reporting.net_ our Web advertising partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you on this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
@@ -45,12 +47,4 @@ You can request a copy of the personally-identifiable information that Legal Ser
 
 **How To Contact Us**  
 If you would like to contact us for any reason regarding our privacy practices, kindly e-mail us at the following addresses:  
-**E-Mailing address** : 
-
-[admin@legalserviceindia.com](mailto:admin@legalserviceindia.com)
-
-  
-[Home](http://www.legalserviceindia.com/) | [About Us](http://legalserviceindia.com/about_us.htm) | [Privacy](http://www.legalserviceindia.com/objective.htm) | [Terms of use](http://www.legalserviceindia.com/Disclaimerlsi.htm) | [ F A Q](http://legalservices.co.in/m/faq/home/) | [ Divorce by mutual consent](http://www.legalserviceindia.com/helpline/mutual_consent_divorce.htm) | [Lawyers](http://www.legalserviceindia.com/lawyers/lawyers_home.htm) | [Submit article](http://www.legalserviceindia.com/articles/articles.html) | [ Sitemap](http://www.legalserviceindia.com/sitemap.htm) | [ Contact Us](http://www.legalserviceindia.com/contact%20us.htm)  
-  
-legal Service India.com is Copyrighted under the Registrar of Copyright Act ( Govt of India) © 2000-2013  
-ISBN No: 978-93-82417-01-9
+**E-Mailing address** : [admin@legalserviceindia.com](mailto:admin@legalserviceindia.com)
