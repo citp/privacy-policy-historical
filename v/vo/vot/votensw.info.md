@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the votensw.info privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011030838id_/http%3A//www.votensw.info/work_at_these_elections/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votensw.info privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121155054id_/http%3A//www.votensw.info/work_at_these_elections/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - NSW Local Council Elections 2016
+# Privacy Statement - NSW Local Council Elections 2017
 
 The information collected on the NSWEC Expression of Interest website will only be used to assess your suitability for employment as an Election Official with the NSWEC and ongoing management of your employment if your application is successful.
 
