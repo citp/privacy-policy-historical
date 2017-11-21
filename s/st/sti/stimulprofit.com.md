@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stimulprofit.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626214726id_/http%3A//stimulprofit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stimulprofit.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121114651id_/http%3A//stimulprofit.com/privacy-policy) for the most accurate reproduction.*
 
-# AdSense Privacy Policy - The Letter Sample
+# AdSense Privacy Policy | The Letter Sample
 
 **The Letter Sample** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
