@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regent.edu privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523054238id_/http%3A//www.regent.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regent.edu privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121152603id_/http%3A//www.regent.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Data Handling Practices - Regent University
+# Privacy Policy | Data Handling Practices | Regent University
 
 Regent University understands that our users are concerned about submitting personal information either through our website or other means. Our users’ individual privacy rights are important to us. For this reason, we provide this explanation of our data handling practices.
 
