@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614004517id_/https%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122005511id_/https%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
 
 # PodOmatic | Best Free Podcasts
 
@@ -10,7 +10,7 @@ PodOmatic, Inc. complies with the EU-US Privacy Shield Framework as set forth by
 
 The Federal Trade Commission (FTC) has jurisdiction over PodOmatic's compliance with the Privacy Shield. 
 
-In compliance with the EU-US Privacy Shield Principles, PodOmatic, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact PodOmatic, Inc. at: [legal@PodOmatic.com](mailto:legal@PodOmatic.com) or PodOmatic, Inc. Att: Legal Department, 10 Cleveland Street, San Francisco, CA 94103 USA. 
+In compliance with the EU-US Privacy Shield Principles, PodOmatic, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact PodOmatic, Inc. at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#94f8f1f3f5f8d4c4fbf0dbf9f5e0fdf7baf7fbf9) or PodOmatic, Inc. Att: Legal Department, 10 Cleveland Street, San Francisco, CA 94103 USA. 
 
 PodOmatic, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint 
 
@@ -152,11 +152,11 @@ You should be aware that the United States and other countries have not harmoniz
 
 * Bulletin Boards / Chat Rooms / Member Websites / Testimonials
 
-If you use a bulletin board or chat room on the Website, or on any PodOmatic member website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. To request removal of your personal information from Our blog or community forum, contact Us at [legal@PodOmatic.com](mailto:legal@PodOmatic.com). In some cases, We may not be able to remove your personal information, in which case We will let you know if We are unable to do so and why. 
+If you use a bulletin board or chat room on the Website, or on any PodOmatic member website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. To request removal of your personal information from Our blog or community forum, contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cca0a9abada08c9ca3a883a1adb8a5afe2afa3a1). In some cases, We may not be able to remove your personal information, in which case We will let you know if We are unable to do so and why. 
 
 Certain information, such as your name and IP address, is logged by Our system when posting messages, and is made available to the owner of the website you are posting on. These items may be displayed to readers of the site you are posting on, depending on the settings of that particular site. If you would not like to have these details disclosed, refrain from posting messages to any PodOmatic bulletin board or chat room. 
 
-We display personal testimonials of satisfied customers on Our site in addition to other endorsements. With your consent We may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact Us at [legal@PodOmatic.com](mailto:legal@PodOmatic.com). 
+We display personal testimonials of satisfied customers on Our site in addition to other endorsements. With your consent We may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c2aea7a5a3ae8292ada68dafa3b6aba1eca1adaf). 
 
 * Links to Other Sites
 
