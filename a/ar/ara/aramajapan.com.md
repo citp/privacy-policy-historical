@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aramajapan.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521121250id_/http%3A//aramajapan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramajapan.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121140716id_/http%3A//aramajapan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ARAMA! JAPAN
 
