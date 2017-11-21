@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techbeamers.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614052012id_/http%3A//www.techbeamers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbeamers.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121194147id_/http%3A//www.techbeamers.com/privacy-policy) for the most accurate reproduction.*
 
 # TechBeamers - Privacy Policy for Users and Readers
 
@@ -22,15 +22,15 @@ We collect information from you when you subscribe to a newsletter, fill out a f
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**1.  **To personalize user’s experience and to allow us to deliver the type of content and product offerings that you may like.
+ **1.  **To personalize user’s experience and to allow us to deliver the type of content and product offerings that you may like.
 
-**2.  **To improve our website in order to better serve you.
+ **2.  **To improve our website in order to better serve you.
 
-**3.  **To allow us in delivering better services. For example, responding to customer service requests.
+ **3.  **To allow us in delivering better services. For example, responding to customer service requests.
 
-**4.  **To administer a contest, promotion, survey or other site feature.
+ **4.  **To administer a contest, promotion, survey or other site feature.
 
-**5.  **To send periodic emails regarding your order or other products and services.
+ **5.  **To send periodic emails regarding your order or other products and services.
 
 ### How do we protect visitor information?
 
@@ -40,9 +40,9 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We use cookies to:
 
-**1.  **Understand and save user’s preferences for future visits.
+ **1.  **Understand and save user’s preferences for future visits.
 
-**2.  **Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future.
+ **2.  **Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future.
 
 We may also use trusted third-party services that track this information on our behalf. You can choose to have your computer warn for cookies, or you can choose to turn off all cookies. You can configure this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way for modifying the cookies.
 
@@ -74,5 +74,5 @@ Document updated on 23rd Oct’ 2016.
 
 If there are any questions regarding this privacy policy, then you may contact us using the information below.
 
-**http://www.techbeamers.com**  
+ **http://www.techbeamers.com**  
 **admin@techbeamers.com**
