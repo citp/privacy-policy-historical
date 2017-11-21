@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finalmediaplayer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094636id_/http%3A//www.bitberry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalmediaplayer.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121110939id_/http%3A//www.bitberry.com/privacy.html) for the most accurate reproduction.*
 
 # Bitberry Software Privacy Policy
 
@@ -52,4 +52,4 @@ Our Sites are general audience sites and do not knowingly collect any personal i
 
 ### Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact us using this form](https://web.archive.org/web/20170606094636id_/http%3A//www.bitberry.com/index.html#contact) or by postal mail at Bitberry Software, Blomsterhaven 42, DK-4300 Holbaek, Denmark.
+If you have questions regarding this statement, you should [contact us using this form](https://web.archive.org/web/20171121110939id_/http%3A//www.bitberry.com/index.html#contact) or by postal mail at Bitberry Software, Blomsterhaven 42, DK-4300 Holbaek, Denmark.
