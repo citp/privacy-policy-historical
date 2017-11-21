@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zurmo.org privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523125314id_/http%3A//zurmo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zurmo.org privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121151529id_/http%3A//zurmo.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Zurmo
 
