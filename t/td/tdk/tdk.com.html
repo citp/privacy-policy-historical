@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tdk.com privacy policy that was archived on 2015-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150430214310id_/http%3A//www.tdk.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tdk.com privacy policy that was archived on 2017-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171121053508id_/http%3A//tdk.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>TDK - Website: Privacy Statement</title>
@@ -56,7 +56,6 @@ a:hover .horSecure {
         <img alt="TDK Corporation of America" src="images/tca_name.gif" width="230" height="16" border="0" class="hdrname"></td>
         <td height="60"> <!--align="right" -->
         <a href="http://www.global.tdk.com/worldwide/" class="hdrwwrollover" title="TDK global" target="_blank" onclick="_gaq.push(['_trackPageview', 'external/www.global.tdk.com/worldwide/']);"></a> 
-        
         <!-- <a href="https://plus.google.com/101485154750455290245" rel="publisher" class="googlerollover" title="Follow TDK on Google Plus" target="_blank"></a>	-->
         <a href="http://twitter.com/tdkamerica" class="twitrollover" title="Follow TDK on Twitter" target="_blank"></a>	
 		<a href="http://www.facebook.com/tdk.america" class="facerollover" title="Follow TDK on Facebook" target="_blank"></a>	
@@ -86,14 +85,17 @@ a:hover .horSecure {
 		 <div class="horNavSrchWprLbdr">
             <div class="horNavSrchWrp">
             <!-- START: QUICK SEARCH (GCSE, PARTS & INV) -->
-            <form method="get" action="q_search.php" id="q-search-box">
-            <input type="text" class="horNavSrcbox" name="q" value="">
-            <button class="horNavSrc_Submit" title="Submit Search" name="submit" value="submit" type="submit">Search</button>
+            <form name="SS_searchForm" id="SS_searchForm" action="https://product.tdk.com/en/products/search/syncsearch.php" method="get" enctype="application/x-www-form-urlencoded" class="visible">
+            <input type="text" class="horNavSrcbox serch" name="query" id="SS_searchQuery" onfocus="cText(this)" onblur="sText(this)" value="">
+            <input type="hidden" name="site" value="FBNXDO0R">
+            <input type="hidden" name="charset" value="UTF-8">
+            <input type="hidden" name="group" id="SS_group" value="10">
+            <input type="hidden" name="design" value="20">
+            <button class="horNavSrc_Submit" title="Submit Search" name="submit" value="submit" type="submit" id="srch_btn" onclick="SS_searchFormCheck(); return false;">Search</button>
             </form>
             <!-- END: QUICK SEARCH (GCSE, PARTS & INV) -->
             </div>           
          </div>
-        
         </li>
     </ul>
 </td>
@@ -108,6 +110,19 @@ a:hover .horSecure {
 
 </tbody></table>
 <!-- END: MAIN HEADER TABLE  -->
+<!-- SEARCH JS FILE -->
+<script type="text/javascript">
+if (location .protocol == "https:") {
+	document.write(unescape('%3Cscript src="https://ssl.syncsearch.jp/common/js/sync_suggest.js" type="text/javascript"%3E%3C/script%3E'));
+} else {
+	document.write(unescape('%3Cscript src="http://pro.syncsearch.jp/common/js/sync_suggest.js" type="text/javascript"%3E%3C/script%3E'));
+}
+</script><script src="https://ssl.syncsearch.jp/common/js/sync_suggest.js" type="text/javascript"></script>
+<script type="text/javascript">
+SYNCSEARCH_SITE="FBNXDO0R";
+SYNCSEARCH_GROUP=9;
+</script>
+<!-- SEARCH JS FILE -->
 <!-- GOOGLE ANALYTICS JS FILE -->
 <!-- New Analytics js script: Added on August 06th 2012 -->
 <script type="text/javascript">
@@ -179,11 +194,11 @@ a:hover .horSecure {
 				</tr>
                 <tr align="right"><td colspan="2"><img src="images/lnvln002.gif" alt="" border="0" width="147" height="1"></td></tr>
                 
-                <tr align="left" valign="middle">
+                <!--<tr align="left" valign="middle">
 					<td width="10"><img src="images/blue_sq.gif" alt="" border="0" vspace="10" width="2" height="2" hspace="3"></td>
 					<td class="lnvtxt002" width="137"><a href="tdk_corporate_video.php">Corporate Profile (Video)</a></td>
 				</tr>
-                <tr align="right"><td colspan="2"><img src="images/lnvln002.gif" alt="" border="0" width="147" height="1"></td></tr>
+                <tr align="right"><td colspan="2"><img src="images/lnvln002.gif" alt="" border="0" width="147" height="1"></td></tr>-->
                 
                 
                 <tr align="left" valign="middle">
@@ -386,7 +401,7 @@ a:hover .horSecure {
 <tbody><tr><td bgcolor="#FFFFFF" class="horNavbtmbdr" colspan="2"><img alt="" src="images/spacer.gif" width="1" height="1"></td></tr>
 <!--<tr><td height="1" bgcolor="#CCCCCC" colspan="2"><img src="images/spacer.gif" alt="" width="1" height="1"></td></tr>-->
 <tr>
-<td width="800" height="29" align="center" class="wncontentFtrgry"> © TDK U.S.A. Corporation 2015. » <a href="privacy.php"> Privacy Statement</a> » <a href="terms_of_use.php">Terms of Use</a> » <a href="careers.php">Careers</a> » <a href="#" onclick="javascript:sitemapPop();"> Site Map</a>
+<td width="800" height="29" align="center" class="wncontentFtrgry"> © TDK U.S.A. Corporation 2017. » <a href="privacy.php"> Privacy Statement</a> » <a href="terms_of_use.php">Terms of Use</a> » <a href="careers.php">Careers</a> » <a href="#" onclick="javascript:sitemapPop();"> Site Map</a>
 <br> <span class="copyright">TDK Logo is a trademark or registered trademark of TDK Corporation.</span>
 </td>
 </tr>
