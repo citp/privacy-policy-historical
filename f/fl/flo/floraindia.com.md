@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floraindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101737id_/http%3A//floraindia.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraindia.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121192515id_/http%3A//www.floraindia.com/privacy.cfm) for the most accurate reproduction.*
 
 # User Dashboard | Flora India
 
@@ -63,7 +63,7 @@ Portions of the Web Site (such as our Member registration and Address Book) may 
 
 **Corrections**
 
-If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to serve@floraindia.com.
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Members can modify and update their membership information (including name, mailing address, telephone number and email address) by accessing the password-protected "Edit Personal Info" page.
 
@@ -71,8 +71,8 @@ Members can modify and update their membership information (including name, mail
 
 Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified.
 
-In addition, if you would like notice of changes to the Privacy Policy or Terms of Use prior to their taking effect (or upon taking effect, if effective immediately), email us at serve@floraindia.com from the email address to which you would like notice sent. By using FloraIndia.com, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and Terms of Use, of which this policy is a part.
+In addition, if you would like notice of changes to the Privacy Policy or Terms of Use prior to their taking effect (or upon taking effect, if effective immediately), email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) from the email address to which you would like notice sent. By using FloraIndia.com, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and Terms of Use, of which this policy is a part.
 
 **Your Comments**
 
-FloraIndia.com welcomes feedback concerning this Privacy Policy. Please send your comments and questions to serve@floraindia.com.
+FloraIndia.com welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
