@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013956id_/http%3A//myactv.net/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121074818id_/http%3A//myactv.net/legal/privacy-policy.php) for the most accurate reproduction.*
 
-# myACTV.net - High Speed Cable Internet ISP - Hagerstown / Washington County, MD
+# AntietamBroadband.net - High Speed Cable Internet ISP - Hagerstown / Washington County, MD
 
-We take your privacy seriously. Please read the following to learn more about our privacy policy. Antietam Cable Television, Inc.'s ("ACT") is the owner of Myactv.net and retains all ownership rights to the information collected at this site. However, in the event that we are involved in a sale of a substantial portion of our business assets, customer information may be among the transferred assets.
+We take your privacy seriously. Please read the following to learn more about our privacy policy. Antietam Broadband ("AB") is the owner of AntietamBroadband.net and retains all ownership rights to the information collected at this site. However, in the event that we are involved in a sale of a substantial portion of our business assets, customer information may be among the transferred assets.
 
 ##### What this Privacy Policy Covers
 
-The purpose of Myactv.net Privacy Policy is to inform you of ACT's practices with respect to the collection, use and disclosure of personally identifiable information, and aggregate information that is anonymous (such as your IP address). Personally identifiable information is information that allows us to contact you (name, home address, home and work telephone numbers, e-mail address, interests, age, gender and income). This policy supplements our Acceptable Use Policy ("AUP"), which we also urge you to read. By using our website and the Service, you agree to be bound by the terms of this Privacy Policy and by our AUP. 
+The purpose of AntietamBroadband.net's Privacy Policy is to inform you of AB's practices with respect to the collection, use and disclosure of personally identifiable information, and aggregate information that is anonymous (such as your IP address). Personally identifiable information is information that allows us to contact you (name, home address, home and work telephone numbers, e-mail address, interests, age, gender and income). This policy supplements our Acceptable Use Policy ("AUP"), which we also urge you to read. By using our website and the Service, you agree to be bound by the terms of this Privacy Policy and by our AUP. 
 
-This policy does not apply to practices of companies that ACT does not own or control or to people that ACT does not employ or manage. 
+This policy does not apply to practices of companies that AB does not own or control or to people that AB does not employ or manage. 
 
 ##### The Cable Privacy Act
 
-In addition, as an ACT cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20170606013956id_/http%3A//myactv.net/legal/privacy-policy-annex-a.php).
+In addition, as an AB cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20171121074818id_/http%3A//myactv.net/legal/privacy-policy-annex-a.php).
 
 ##### Information Collection and Use
 
@@ -28,11 +28,11 @@ We use information for the following general purposes: to customize advertising 
 
 We will not sell or rent your personally identifiable information to anyone. 
 
-From time to time we may share your personally identifiable information with other businesses, including our marketing partners and advertisers or companies who work on behalf of ACT to provide the product or service that you requested. If you object to such use of information you have submitted, you will have the opportunity to indicate your objection when entering such information or you may contact: webmaster@myactv.net.
+From time to time we may share your personally identifiable information with other businesses, including our marketing partners and advertisers or companies who work on behalf of AB to provide the product or service that you requested. If you object to such use of information you have submitted, you will have the opportunity to indicate your objection when entering such information or you may contact: webmaster@myactv.net.
 
-We will provide your personally identifiable information (i) to comply with the Electronic Communications Privacy Act, the Digital Millennium Copyright Act or any other law; (ii) to enforce our AUP; (iii) to protect the integrity of ACT's operations; (iv) to protect our customers; or (v) to prevent a crime. You expressly grant ACT permission to disclose personal information to respond to subpoenas, court orders, civil investigative demands or other legal process.
+We will provide your personally identifiable information (i) to comply with the Electronic Communications Privacy Act, the Digital Millennium Copyright Act or any other law; (ii) to enforce our AUP; (iii) to protect the integrity of AB's operations; (iv) to protect our customers; or (v) to prevent a crime. You expressly grant AB permission to disclose personal information to respond to subpoenas, court orders, civil investigative demands or other legal process.
 
-##### IP addresses and Log Files 
+##### IP addresses and Log Files
 
 We may use your IP address to help diagnose problems with our server, administer our website, analyze trends, track users' webpage movements on our servers, and to gather broad demographic information for aggregate use. We may also log SMTP and POP information.
 
@@ -60,11 +60,11 @@ Occasionally we may enter into relationships with other companies to provide add
 
 ##### Children's Privacy Policy
 
-You must be 18 or older to sign up for an account with ACT. We do not knowingly collect information about children. For parents who are subscribers to the Service, we recommend that you participate in your child's experience on the Internet.
+You must be 18 or older to sign up for an account with AB. We do not knowingly collect information about children. For parents who are subscribers to the Service, we recommend that you participate in your child's experience on the Internet.
 
 ##### Changes to this Privacy Policy
 
-ACT reserves the right to revise this policy, or any part thereof, or impose new conditions, without advance notice. We will post revision to this policy on this site. Use of the Service following such revisions or additions constitutes your acceptance of the revised policy. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the site immediately.
+AB reserves the right to revise this policy, or any part thereof, or impose new conditions, without advance notice. We will post revision to this policy on this site. Use of the Service following such revisions or additions constitutes your acceptance of the revised policy. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the site immediately.
 
 ##### Miscellaneous
 
@@ -72,4 +72,4 @@ Questions regarding the above policy should be directed to [webmaster@myactv.net
 
 Last updated: April 11, 2002
 
-All contents of MyACTV.net are: copyright 2002 Antietam Cable Television, Inc., 1000 Willow Circle, Hagerstown, Maryland 21740 U.S.A. All rights reserved.
+All contents of AntietamBroadband.net are: copyright 2017 Antietam Broadband, Inc., 1000 Willow Circle, Hagerstown, Maryland 21740 U.S.A. All rights reserved.
