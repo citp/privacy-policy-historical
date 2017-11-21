@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forummikrotik.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521112432id_/http%3A//www.forummikrotik.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forummikrotik.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121124436id_/http%3A//www.forummikrotik.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
