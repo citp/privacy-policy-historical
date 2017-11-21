@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendrivers.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523021323id_/http%3A//www.opendrivers.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendrivers.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121050234id_/http%3A//www.opendrivers.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Opendrivers Privacy Policy
 
