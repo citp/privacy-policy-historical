@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vinsolutions.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235547id_/http%3A//vinsolutions.com/privacy-terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinsolutions.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121134659id_/http%3A//vinsolutions.com/privacy-terms/privacy) for the most accurate reproduction.*
 
-# VinSolutions - Auto Dealership Management and Sales Software
+# VinSolutions - Privacy Terms - Auto Dealer Management & Sales Software
 
  
 
