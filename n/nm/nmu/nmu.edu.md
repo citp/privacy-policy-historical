@@ -1,34 +1,55 @@
-> *The following text is extracted and transformed from the nmu.edu privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314224627id_/http%3A//www.nmu.edu/communicationsandmarketing/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmu.edu privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121205837id_/http%3A//www.nmu.edu/mc/PrivacyStatement) for the most accurate reproduction.*
 
 # Web Site Privacy Statement | University Marketing and Communications at NMU
 
-Thank you for visiting the Northern Michigan University Web site. Your privacy is very important to us. Our privacy policy is clear: We collect no personal identifying information about you when you visit our Web site unless you explicitly choose to make such information available.
+Thank you for visiting the Northern Michigan University (NMU) web site. Your privacy is very important to us and this privacy statement explains our information gathering and dissemination practices. Our statement outlines the information we may collect, how we protect it, how we use it, and how you can elect to change your privacy settings. By using this website, you agree to the terms of this privacy statement.
 
-                    If you do nothing during your visit but browse through our Web site, we will automatically gather and store certain information about your visit. This information does not identify you personally. We automatically collect and store only the following information about your visit:
+This privacy statement applies to the primary NMU website located at [www.nmu.edu](http://www.nmu.edu/).  Other NMU websites may establish different privacy statements as their needs require.
 
-  1. The Internet domain from which you are accessing the Web (for example, "xcompany.com" if you use a private Internet access account or "yourschool.edu" if you connect from a university's domain).
-  2. The IP address assigned to your computer. An IP address is a number that is automatically assigned to your computer whenever you access a network or the Internet.
-  3. The type of browser and operating system used to access our site.
-  4. The date and time you access our site.
-  5. The pages you access during your visit.
-  6. The address of the Web site from which you linked to ours, if that is how you accessed the NMU Web site.
+Use of the NMU website is subject to all applicable state and federal laws, as well as university policies. More information on university policies can be found in the [NMU Policy Database](http://www.nmu.edu/policies).
 
+### Information gathered automatically
 
+If you do nothing during your visit but browse through our web site, information about your visit will be gathered through the use of cookies, third-party tracking technologies and server logs. This information does not identify you personally but is aggregated into reports that help us make our site more usable, inform us about what areas of our site are most popular, and teach us about the technology being used by our site’s visitors. This information may be shared with other organizations that have a business relationship with Northern Michigan University.
 
-We aggregate this information into reports that help us make our site more usable, inform us about what areas of our site are most popular, and teach us about the technology being used by our site’s visitors. This information is not shared with other organizations.
+#### Cookies
 
-We make use of "cookies," which are small data files stored on your computer in connection with your use of our Web site.  We use cookies to store temporary individual-user information concerning your use of this site.  We may also use information gathered by cookies to measure traffic patterns on our Web site or for similar purposes.  A user does not need to have the cookie function of their browser enabled in order to use the NMU Web site.  If you use a link from our site to another, or if you arrived at our site through a link from another site, it is possible that these other sites may place a cookie or other identifier on your computer.  We do not control and are not responsible for the use of cookies or other identifiers by any of these third parties.
+We make use of "cookies," which are small data files stored on your computer in connection with your use of our Web site. We use cookies to store temporary individual-user information concerning your use of this site. We may also use information gathered by cookies to measure traffic patterns on our web site or for similar purposes.  A user does not need to have the cookie function of their browser enabled in order to use the NMU web site, but some applications requiring a login will not function properly if it is disabled. 
 
-If you choose to share personal identifying information with us—by sending us a message or filling out an electronic form with personal information—we will use the information only for the purposes you authorized. Some of the information may be saved for a designated period of time to comply with Michigan’s archiving policies, but we will not disclose the information to third parties or government agencies, unless required to do so by state or federal law or other legal process.
+#### Third Party Tracking Technology
 
-If you want to see the personal identifying information we have collected about you from this site or if you believe any information we have is incorrect and you wish to correct it, please contact us at the e-mail address or phone number provided below.  If we change or delete information in response to your request, we will cease to use it; however, some residual information may remain in backup records or records of deletions.
+Some sections of the Northern Michigan University website use Google Analytics. This program uses cookies to help us analyze how users engage with our site. The information generated from the cookie includes your IP address. This information will be transmitted to and stored by Google on its servers. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity, and providing other services relating to Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-Any communication or material other than your personal identifying information submitted to this Web site, such as questions, comment, suggestions and ideas, become the exclusive property of Northern Michigan University and may be used for any purpose whatsoever without restriction or compensation.
+We also use Google AdWords Remarketing to advertise the university and our programs across the Internet. AdWords remarketing will display relevant ads tailored to you based on what parts of our website you viewed by placing a cookie on your machine. This cookie does not in anyway identify you or provide unauthorized access to your computer.
 
-Northern Michigan University collects data about your activities that does not personally or directly identify you when you visit our website through the Google AdWords remarketing service. This information may include the content you view, the date and time that you view this content, the amount of time you spend interacting with this content, your location information associated with your IP address, or your demographic information. We use the information we collect to serve you relevant advertisements throughout the Google display network and collect data about where you saw the ads and what ads you clicked on. NMU will not sell or distribute personal data collected from site visitors with any third-party vendors. Users may opt out of Google’s use of cookies by visiting the [Google Advertising opt-out page](http://www.google.com/settings/ads). 
+Northern Michigan University also uses Google Custom Search for the keyword search functionality found on our pages. Search terms entered into the keyword search box will be shared with Google in order to display your requested search results. No personal identifying information, beyond that which is entered into the search box, will be shared with Google Custom Search.
 
-Children under the age of 13 should not send any information about themselves to us, including information like your name, address or e-mail address.  This Web site does not knowingly collect personally identifying information from children under the age of 13.  In the event that we learn that we have collected such information from a child under 13 without parental consent, the information will be deleted from our database as soon as reasonably possible.
+#### Opting Out
 
-As our university grows and changes, and as technology and Internet use and practices change, Northern Michigan University may, from time to time, determine that changes in its policies, potentially including this privacy statement, are prudent.  If any such changes are made, they will be posted on this Web site.  Therefore you should review this Web site’s privacy statement and other policies posted on this site for potential changes when you return to the site for future visits.
+Users may opt out of Google’s use of cookies by visiting the Google Advertising opt-out page (<https://support.google.com/ads/answer/2662922?hl=en>) or by installing the Google Analytics opt-out browser add-on (<https://tools.google.com/dlpage/gaoptout/>).
 
-If you have other questions or comments about our privacy policies, please feel free contact us at [edesign@nmu.edu](mailto:edesign@nmu.edu) or 906-227-2720.  Changes to NMU’s Web Privacy Policy will be noted on this page along with the date of implementation, so concerned site users should check this page periodically.  Northern Michigan University intends to take reasonable and appropriate steps to protect the information you share with us from unauthorized access or disclosure.
+### Information you provide to us
+
+Northern Michigan University will not sell or distribute personal information collected from site visitors to any third-party vendors.
+
+If you choose to share personal identifying information with us by completing electronic forms, sending messages, or other voluntary means of submitting information, that information will only be used for the purposes you authorized. Some of the information may be saved for a designated period of time to comply with Michigan’s archiving policies, but we will not disclose the information to third parties or government agencies, unless required to do so by state or federal law or other legal process.
+
+If you want to see the personal identifying information we have collected about you from this site or if you believe any information we have is incorrect and you wish to correct it, please contact us at [the e-mail address or phone number provided below](https://www.nmu.edu/mc/PrivacyStatement#contact). If we change or delete information in response to your request, we will cease to use it; however, some residual information may remain in backup records or records of deletions.
+
+Any communication or material other than your personal identifying information submitted to this web site, such as questions, comments, suggestions and ideas, become the exclusive property of Northern Michigan University and may be used for any purpose whatsoever without restriction or compensation.
+
+Northern Michigan University takes all reasonable and appropriate steps to protect the information you share with us from unauthorized access or disclosure. Any unauthorized access or disclosure of our data will be handled in a manner consistent with state and federal laws.
+
+### Minors using our web site
+
+Children under the age of 13 should not send any information about themselves to us, including information like your name, address or e-mail address. This web site does not knowingly collect personally identifying information from children under the age of 13. In the event that we learn that we have collected such information from a child under 13 without parental consent, the information will be deleted from our database as soon as reasonably possible.
+
+### Changes to our statement
+
+As our university grows and changes, and as technology and Internet use and practices change, Northern Michigan University may, from time to time, determine that changes in its policies, potentially including this privacy statement, are prudent. If any such changes are made, they will be posted on this web site. Therefore you should review this web site’s privacy statement and other policies posted on this site for potential changes when you return to the site for future visits.
+
+**This privacy statement was last updated on June 22, 2017.**
+
+### Contact
+
+If you have other questions or comments about our privacy policies, please feel free contact us at [edesign@nmu.edu](mailto:edesign@nmu.edu) or 906-227-2720. 
