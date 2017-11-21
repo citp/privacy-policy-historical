@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the anewmode.com privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628175355id_/https%3A//www.anewmode.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anewmode.com privacy policy that was archived on 2017-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171121210831id_/https%3A//www.anewmode.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><head>
 <meta charset="UTF-8">
 <link href="http://fonts.googleapis.com/css?family=Merriweather|Cantata+One" rel="stylesheet" type="text/css">
 <title>Privacy Policy</title>
-<script async="" type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="pubexchange-jssdk" async="" src="http://cdn.pubexchange.com/modules/partner/a_new_mode"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" type="text/javascript" src="/prebid.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="pubexchange-jssdk" async="" src="http://cdn.pubexchange.com/modules/partner/a_new_mode"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" type="text/javascript" src="/prebid.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -18,6 +18,117 @@
 <script type="text/javascript">
 window.sayhello = window.sayhello || { };
 window.sayhello.domain = 's.anewmode.com';
+window.sayhello.pageid = parseInt('9149',10);
+window.sayhello.ready = false;
+</script>
+<script type="text/javascript">
+(function( win, undefined ) {
+"use strict";
+win.cdough = win.cdough || { };
+
+var vi = win.cdough;
+
+vi.getc=function(name,limit){
+if (typeof limit === 'undefined') limit = 20;
+return vi.retrieve(name).substring(0,limit).replace(/[\s]/gi, '');
+}
+
+vi.retrieve=function(name){ 
+if (!name) return '';
+var re=new RegExp(name+"=[^;]+", "i"); 
+if (document.cookie.match(re)) return document.cookie.match(re)[0].split("=")[1];
+return ''; 
+}
+
+vi.setwithexp=function(name,value,expDays,domain){
+if (!name||expDays<1) return ''; // wpclosetag_fix>
+if (expDays==='delete') expDays = -1;
+var dateobj = new Date();
+var expstring = dateobj.setDate(dateobj.getDate()+parseInt(expDays));
+var domainstring = (typeof domain === 'undefined' || !domain) ? '' : "; domain="+domain;
+document.cookie = name+"="+value+"; expires="+dateobj.toGMTString()+"; path=/"+domainstring;
+}
+
+vi.del=function(name){
+vi.setwithexp(name,'','delete');
+}
+
+vi.set=function(name,value,domain){
+vi.setwithexp(name,value,14,domain);
+}
+
+})( window );
+window.sayhello_deferral = setInterval( function(){ if( typeof window.jQuery != 'undefined' ) { sayhello_pop(); clearInterval(sayhello_deferral); } } , 1000 );
+function sayhello_pop() {
+(function( $, win, undefined ) {
+"use strict";
+win.sayhello = win.sayhello || { };
+
+var me = win.sayhello,
+callback = $.Callbacks("memory"),
+
+geniframe=function() {
+var l=win.location,
+	ins = document.createElement('iframe');
+ins.style.display = 'none';
+ins.setAttribute('src','//'+me.domain+'/v/?i='+me.pageid+'&o='+l.hostname+l.pathname);
+document.getElementsByTagName('body')[0].appendChild(ins);
+},
+
+init=function() {
+if (typeof me.domain === 'undefined') return;
+if (typeof me.pageid === 'undefined') me.pageid = 0;
+if (!Number.isInteger(me.pageid) || me.pageid > 9999999 || me.pageid < 0 ) me.pageid = 0;
+me.registerOriginEvent(geniframe);
+me.ready = true;
+if (!win.cdough.getc('visitorigin1')) callback.fire();
+},
+
+pvarend;
+
+me.registerOriginEvent = function(f) {
+    callback.add(f);
+};
+
+
+$(init);
+})( jQuery, window );
+};
+</script>
+<!-- Facebook Pixel Code, mod data-lazy-src to prevent lazyload -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '1930706663842307'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" style="display:none" data-lazy-src 
+src="https://www.facebook.com/tr?id=1930706663842307&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code --> 
+<script>
+window.fborigin_deferral = setInterval( function(){ if( typeof window.jQuery != 'undefined' && window.sayhello.ready) { fborigin_pop(); clearInterval(fborigin_deferral); } } , 1000 );
+function fborigin_pop() {
+(function( $, win, undefined ) {
+"use strict";
+win.fborigin = win.fborigin || { };
+var me = win.fborigin;
+me.fborigin_event = function() {
+fbq('track', 'ViewContent', {
+content_type: 'landing',
+content_ids: [ sayhello.pageid.toString() ],
+value: 0.00,
+currency: 'USD'
+});
+}
+sayhello.registerOriginEvent( me.fborigin_event );
+})( jQuery, window );
+}
 </script>
 <meta name="description" content="Read very carefully: A New Mode, Inc. only contacts individuals who specifically request that we do so or in the event that they have signed up to receive">
 <meta name="robots" content="noodp, noydir">
@@ -48,7 +159,7 @@ function detectWidth(){
     return clientWidth;
 }
 
-var EXCHANGE_RATE = 3.5;
+var EXCHANGE_RATE = 1;
 var PREBID_TIMEOUT = 1000;
 
 if(detectWidth() <= 768) PREBID_TIMEOUT = 1500;
@@ -65,6 +176,26 @@ setTimeout(initAdserver, PREBID_TIMEOUT);
 var pbjs = pbjs || {};
 pbjs.que = pbjs.que || [];
 loadScript('/prebid.js');
+
+
+
+            var refreshVariable = 0;
+            function refreshSlot(slot) {
+                var codes = [];
+                for (var i = 0; i<slot.length; i++)
+                    codes.push(slot[i].getSlotElementId());
+                pbjs.que.push(function() {
+                    pbjs.requestBids({
+                        timeout: PREBID_TIMEOUT,
+                        adUnitCodes: codes,
+                        bidsBackHandler: function() {
+                            refreshVariable++;
+                            googletag.pubads().clearTargeting();
+                            pbjs.setTargetingForGPTAsync(codes);
+                            googletag.pubads().setTargeting("ImpressionNumber",refreshVariable.toString());
+                            googletag.pubads().refresh(slot);
+                        }});});}
+
 
 function loadScript(scriptSrc) {
   var script = document.createElement('script');
@@ -181,7 +312,7 @@ pbjs.bidderSettings = {
         key: "hb_pb",
         val: function(bidResponse) {
         if(bidResponse.cpm >= 80) return '80.00';
-        return zddd(Math.floor(bidResponse.cpm * 20) / 20).toFixed(2);
+        return (Math.floor(bidResponse.cpm * 20) / 20).toFixed(2);
       }
       }]
     },
@@ -236,21 +367,18 @@ pbjs.que.push(function() {
     });
 });
 </script>
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-<script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-</script>
 
 <script>
+  dfpSlots = [];
+
   googletag.cmd.push(function() {
 
-    googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Top', [300, 250], 'div-gpt-ad-1486643357362-6').addService(googletag.pubads());
-    googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_1', [300, 250], 'div-gpt-ad-1486643357362-1').addService(googletag.pubads());
-    googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_2', [300, 250], 'div-gpt-ad-1486643357362-2').addService(googletag.pubads());
-    googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_3', [300, 250], 'div-gpt-ad-1486643357362-3').addService(googletag.pubads());
-    googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_4', [300, 250], 'div-gpt-ad-1486643357362-4').addService(googletag.pubads());
-    googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Bottom', [300, 250], 'div-gpt-ad-1486643357362-0').addService(googletag.pubads());
+    dfpSlots[0] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Top', [300, 250], 'div-gpt-ad-1486643357362-6').addService(googletag.pubads());
+    dfpSlots[1] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_1', [300, 250], 'div-gpt-ad-1486643357362-1').addService(googletag.pubads());
+    dfpSlots[2] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_2', [300, 250], 'div-gpt-ad-1486643357362-2').addService(googletag.pubads());
+    dfpSlots[3] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_3', [300, 250], 'div-gpt-ad-1486643357362-3').addService(googletag.pubads());
+    dfpSlots[4] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_4', [300, 250], 'div-gpt-ad-1486643357362-4').addService(googletag.pubads());
+    dfpSlots[5] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Bottom', [300, 250], 'div-gpt-ad-1486643357362-0').addService(googletag.pubads());
 
     googletag.defineSlot('/63826873/ANM_Interstitial', [1, 1], 'div-gpt-ad-1486643357362-7').addService(googletag.pubads());
     googletag.defineSlot('/63826873/In_Image', [1, 1], 'div-gpt-ad-1486643357362-8').addService(googletag.pubads());
@@ -261,8 +389,12 @@ pbjs.que.push(function() {
     pbjs.que.push(function() {
      pbjs.setTargetingForGPTAsync();
     });
-
+  
+    googletag.pubads().setTargeting("ImpressionNumber", refreshVariable.toString());
     googletag.enableServices();
+
+    setInterval(function(){refreshSlot(dfpSlots);}, 60000);
+
   });
 </script>
 <link rel="alternate" type="application/rss+xml" title="a new mode feed" href="http://www.anewmode.com/feed/">
@@ -316,7 +448,7 @@ window.slideDeck2Distribution = "pro";
 			<div class="columns">
 				<div class="column-content">
 					<div class="container-loop">
-						<div id="post-9149" class="post_box postbox t lens-devleg top" itemscope="" itemtype="http://schema.org/Article">
+<div class="ig_inline_container ig_loop_start ig_before"></div>						<div id="post-9149" class="post_box postbox t lens-devleg top" itemscope="" itemtype="http://schema.org/Article">
 							<meta itemscope="" itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="http://www.anewmode.com/privacy-policy/">
 							<div class="container-article-header">
 								<div class="container-headline">
@@ -330,7 +462,7 @@ window.slideDeck2Distribution = "pro";
 							</div>
 							<div class="container-articlebody">
 								<div class="post_content container-articlecontent" itemprop="articleBody">
-<h2>Privacy Policy</h2>
+<div class="ig_inline_container ig_the_content ig_before"></div><h2>Privacy Policy</h2>
 <p>Read very carefully:</p>
 <h2>Who do we contact?</h2>
 <p>A New Mode, Inc. only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products.</p>
@@ -369,10 +501,10 @@ window.slideDeck2Distribution = "pro";
 <p>A New Mode, Inc.<br>
 1562 First Ave #205-1861<br>
 New York, NY 10028-4004</p>
-								</div>
+<div class="ig_inline_container ig_the_content ig_after"></div>								</div>
 							</div>
 						</div>
-					</div>
+<div class="ig_inline_container ig_loop_end ig_after"></div>					</div>
 				</div>
 				<div class="column-sidebar">
 					<div class="container-tbreflow-outer container-wg-ssfb">
@@ -415,7 +547,29 @@ New York, NY 10028-4004</p>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/period-hormones-and-relationships/">period, hormones and relationships</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/new-guy-was-spying-on-me/">New guy was spying on me …</a>
+
+					
+					
+						<div>1 minute ago</div>
+
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/just-friends-12/">Just friends?</a>
+
+					
+					
+						<div>14 minutes ago</div>
+
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/my-boyfriends-mother-2/">My boyfriend's mother</a>
 
 					
 					
@@ -426,88 +580,66 @@ New York, NY 10028-4004</p>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/advice-on-how-to-move-forward/">Advice on how to move forward</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/is-he-just-being-nice-or-are-we-taking-steps-forward/">Is he just being nice or are we taking steps forward?</a>
 
 					
 					
-						<div>26 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/anm-email-the-inner-world-of-men-part-2/">ANM Email, The Inner World of Men Part 2</a>
-
-					
-					
-						<div>28 minutes ago</div>
+						<div>16 minutes ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/bfs-ex-asking-him-to-watch-games-together/">BF's EX Asking Him to Watch Games Together</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/using-social-media-while-on-the-phone-again/">Using social media while on the phone again</a>
 
 					
 					
-						<div>35 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/lost-cause/">Lost Cause??</a>
-
-					
-					
-						<div>37 minutes ago</div>
+						<div>19 minutes ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/i-am-in-a-ldr-but-it-seems-like-its-better-off-alone/">I am in a ldr but it seems like it's better off alone</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/time-to-give-up-2/">Time to give up?</a>
 
 					
 					
-						<div>56 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/too-much-too-soon-shy-guy-fell-off-the-radar/">Too much too soon? Shy guy fell off the radar</a>
-
-					
-					
-						<div>1 hour, 9 minutes ago</div>
+						<div>48 minutes ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/playing-games-3/">Playing games</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/we-connected-at-work-then-it-was-weird/">We connected at work then it was weird</a>
 
 					
 					
-						<div>1 hour, 10 minutes ago</div>
+						<div>1 hour, 6 minutes ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/classic-mistakes-how-do-i-recover/">Classic mistakes… how do I recover?!</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/how-do-i-get-him-to-kiss-me/">How do I get him to kiss me?</a>
 
 					
 					
-						<div>1 hour, 50 minutes ago</div>
+						<div>2 hours, 30 minutes ago</div>
+
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/how-to-be-cool-when-asking-about-intentions/">How to be cool when asking about intentions</a>
+
+					
+					
+						<div>2 hours, 52 minutes ago</div>
 
 					
 				</li>
@@ -604,70 +736,18 @@ New York, NY 10028-4004</p>
 nopinset=function(){jQuery('.nopin img').attr('nopin','nopin');}
 window.setTimeout(nopinset,6000);
 </script>
-		<script type="text/javascript">
-(function( win, undefined ) {
-win.cdough = win.cdough || { };
-
-var vi = win.cdough;
-
-vi.getc=function(name,limit){
-if (typeof limit === 'undefined') limit = 20;
-return vi.retrieve(name).substring(0,limit).replace(/[s]/gi, '');
-}
-
-vi.retrieve=function(name){ 
-if (!name) return '';
-var re=new RegExp(name+"=[^;]+", "i"); 
-if (document.cookie.match(re)) return document.cookie.match(re)[0].split("=")[1];
-return ''; 
-}
-
-vi.setwithexp=function(name,value,expDays,domain){
-if (!name||expDays<1) return ''; // wpclosetag_fix>
-if (expDays==='delete') expDays = -1;
-var dateobj = new Date();
-var expstring = dateobj.setDate(dateobj.getDate()+parseInt(expDays));
-var domainstring = (typeof domain === 'undefined' || !domain) ? '' : "; domain="+domain;
-document.cookie = name+"="+value+"; expires="+dateobj.toGMTString()+"; path=/"+domainstring;
-}
-
-vi.del=function(name){
-vi.setwithexp(name,'','delete');
-}
-
-vi.set=function(name,value,domain){
-vi.setwithexp(name,value,14,domain);
-}
-
-})( window );
-(function( $, win, undefined ) {
-win.sayhello = win.sayhello || { };
-
-var me = win.sayhello,
-pageid = parseInt('9149',10),
-
-
-geniframe=function() {
-var l=win.location,
-	ins = document.createElement('iframe');
-	if (typeof pageid === 'undefined') pageid = 0;
-	if (!Number.isInteger(pageid) || pageid > 9999999 || pageid < 0 ) pageid = 0;
-ins.style.display = 'none';
-ins.setAttribute('src','//'+me.domain+'/v/?i='+pageid+'&o='+l.hostname+l.pathname);
-document.getElementsByTagName('body')[0].appendChild(ins);
-},
-
-init=function() {
-if (typeof me.domain === 'undefined') return;
-if (!win.cdough.getc('visitorigin1')) geniframe();
-};
-
-$(init);
-})( jQuery, window );
-</script>
+		<!-- -->
 	</div>
 </div>
 <script type="text/javascript">
+    			if (typeof jQuery  !== 'undefined'){
+	    			jQuery(function() {
+	    				jQuery( window ).on( 'init.icegram', function( e, ig ) {
+					        jQuery('.ig_inline_container:empty').remove();
+					    });
+	    			});
+    			}
+    		 </script><script type="text/javascript">
 /* <![CDATA[ */
 var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.anewmode.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
 /* ]]> */
@@ -676,6 +756,12 @@ var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","c
 <script type="text/javascript" src="http://c8809abd1fa8b5c9a2a3-30e858ac79224cd1c7bb62654f7aaad0.r84.cf2.rackcdn.com/wp-content/uploads/assets/common-js/sonar/jquery.sonar.min.js"></script>
 <script type="text/javascript" src="http://www.anewmode.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.6"></script>
 <script type="text/javascript" src="http://c8809abd1fa8b5c9a2a3-30e858ac79224cd1c7bb62654f7aaad0.r84.cf2.rackcdn.com/wp-content/plugins/slidedeck3-personal/js/jail.js?ver=3.4.9"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var icegram_pre_data = {"ajax_url":"http:\/\/www.anewmode.com\/wp-admin\/admin-ajax.php","post_obj":{"is_home":false,"page_id":9149,"action":"display_messages","shortcodes":[],"cache_compatibility":"yes","device":"laptop"},"script_url":"http:\/\/www.anewmode.com\/wp-content\/plugins\/icegram\/assets\/js\/main.min.js"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://c8809abd1fa8b5c9a2a3-30e858ac79224cd1c7bb62654f7aaad0.r84.cf2.rackcdn.com/wp-content/uploads/assets/icegram-custom/icegram-load.js?ver=1.10.10"></script>
 <script type="text/javascript">
 var slideDeck2URLPath = "http://www.anewmode.com/wp-content/plugins/slidedeck3-personal";
 var slideDeck2iframeByDefault = false;
@@ -703,7 +789,7 @@ _atrk_opts = { atrk_acct:"A04Ij1aotV00UW", domain:"anewmode.com",dynamic: true};
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 958/1033 objects using memcached
+Object Caching 1032/1115 objects using memcached
 Content Delivery Network via Rackspace Cloud Files: c8809abd1fa8b5c9a2a3-30e858ac79224cd1c7bb62654f7aaad0.r84.cf2.rackcdn.com
 
- Served from: www.anewmode.com @ 2017-06-28 13:53:55 by W3 Total Cache --></body></html>
+ Served from: www.anewmode.com @ 2017-11-21 15:51:51 by W3 Total Cache --></body></html>
