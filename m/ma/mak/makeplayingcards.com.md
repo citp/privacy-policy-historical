@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153223id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121121634id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # MakePlayingCards.com Privacy Policy
 
@@ -23,9 +23,11 @@ When you submit questions, e-mails, survey, comments, suggestions, reviews or ot
 
 If you have any questions about this privacy policy please contact us here: [enquiry@makeplayingcards.com](mailto:enquiry@makeplayingcards.com)
 
-### See what's the fuss
+### Did you miss out?
 
-The Gold and Silver Ed. decks by MPC. Support us on Kickstarter.
+The Gold, Silver & Bronze Metallic decks by MPC. Contact us if you missed it on Kickstarter.
+
+[](http://www.makeplayingcards.com/impressions-foil-playing-cards-gold-and-silver.aspx)
 
 See our [other projects](http://www.makeplayingcards.com/kickstarter-projects.aspx).
 
