@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exceluser.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210729id_/http%3A//www.exceluser.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceluser.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121190026id_/http%3A//www.exceluser.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@
   
 
 
-**by[Charley Kyd](https://web.archive.org/web/20170606210729id_/http%3A//www.exceluser.com/about/about-charley-kyd.htm), MBA  
+**by[Charley Kyd](https://web.archive.org/web/20171121190026id_/http%3A//www.exceluser.com/about/about-charley-kyd.htm), MBA  
 Microsoft Excel MVP, 2005-2014  
 The Father of Spreadsheet Dashboard Reports**
 
@@ -102,8 +102,6 @@ Services and Web sites we sponsor have security measures in place to protect the
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. Revisions to This Policy Our _Company_ reserves the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
 
-|  |  [ ](https://web.archive.org/web/20170606210729id_/http%3A//www.exceluser.com/downloads/examples/minidash/index.html)
+|  |  [ ](https://web.archive.org/web/20171121190026id_/http%3A//www.exceluser.com/downloads/examples/minidash/index.html)
 
-[ ](https://web.archive.org/web/20170606210729id_/http%3A//www.exceluser.com/training/charts/charleyfiles.htm)
-
- 
+[ ](https://web.archive.org/web/20171121190026id_/http%3A//www.exceluser.com/training/charts/charleyfiles.htm)
