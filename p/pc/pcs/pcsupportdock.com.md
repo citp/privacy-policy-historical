@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcsupportdock.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512191603id_/http%3A//www.systweak.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsupportdock.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121111212id_/http%3A//www.systweak.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Systweak Software – Privacy Policy
 
@@ -6,11 +6,11 @@ You can visit our website, read products description and other materials, and ch
 
 We collect personally identifiable information; such as name, mailing address and e-mail address when you register to one of our products or place an order (see the section below for more information on placing order). Website visitors may register to receive our newsletter by submitting their name and e-mail address.
 
-#### Placing Orders
+####  Placing Orders
 
 If you wish to place an order for our products, you can generally enter the requisite details. In addition to the customary information that may be required to fill your order (full name, address, phone number, ship-to name and address etc.), collection of additional information such as your credit card number and credit card expiration date, is dependent on option of payment as we offer online and offline subscribers additional options such as check, money order and credit card order by fax or phone.
 
-#### Use of Programs
+####  Use of Programs
 
 In connection with the installation and use of Systweak Software applications we may collect certain information concerning the use of application or the services, including certain personal data and information about your PC. This may include, information about your installed software and hardware, your IP address, your operating system, about your version of installed Systweak Software's application including its product key, and about the use of individual functions of that Systweak Software's application including the relevant times. Some applications are dependant on use of WebServices for their functioning and they do send such relevant data with each use.
 
