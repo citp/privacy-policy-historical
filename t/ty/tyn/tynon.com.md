@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tynon.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520111909id_/http%3A//www.tynon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tynon.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121024657id_/http%3A//www.tynon.com/privacy) for the most accurate reproduction.*
 
 # Tynon
 
