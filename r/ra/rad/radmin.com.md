@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radmin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001700id_/http%3A//www.radmin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radmin.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121061219id_/http%3A//www.radmin.com/privacy) for the most accurate reproduction.*
 
 # Radmin: Reliable Remote Support Software for IT Pros
 
