@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the domain.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630083117id_/http%3A//www.domain.com/legal/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domain.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121192738id_/http%3A//www.domain.com/legal/legal_privacy) for the most accurate reproduction.*
 
 # Domain.com's Privacy Policy
-
-On June 29, 2017, we updated these terms and policies. You may review the archived [version](http://www.domain.com/legal/legal_privacy_archive_24052017.bml). 
 
 We respect your privacy and want to make your experience visiting our website located at [www.domain.com](http://www.domain.com/) and using our services as enjoyable and rewarding as possible. This Privacy Policy describes what personal information of our subscribers ("Subscribers") and visitors ("Visitors") (collectively, "Users") is collected and how and when it might be used or shared by Domain.com, LLC ("Domain.com, LLC") with its parent company, The Endurance International Group, Inc. ("Endurance," and collectively with Domain.com, LLC, the "Company") or trusted partners to deliver or enhance our services. 
 
@@ -47,6 +45,6 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on June 29, 2017.**
+**This file was last modified on August 24, 2017.**
 
  ****
