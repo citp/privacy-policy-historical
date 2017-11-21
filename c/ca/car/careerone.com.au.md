@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628075239id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121191310id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
 
 # CareerOne Privacy Center | CareerOne.com.au
 
@@ -24,9 +24,7 @@ We share your information with third parties, including Monster, Inc. and third 
 
 Unless you tell us otherwise, we may use your information to contact you about other products or services available from our affiliates.
 
-Unless you tell us otherwise, we may also share your information with third parties who may contact you about their products or services. If you have opted-in to be contacted by CareerOne Education then we will share your information with Careers Australia Group to enable them to market their education and training courses to you. Careers Australia Group's privacy policy is available at <http://www.careersaustralia.edu.au/privacy-policy>.
-
-**If any phone number you have provided to us is registered on the Do Not Call register you consent to CareerOne and Careers Australia Group calling that number or those numbers. We (and Careers Australia Group) may continue to contact you for an indefinite period unless and until you advise us otherwise.**
+Unless you tell us otherwise, we may also share your information with third parties who may contact you about their products or services. 
 
 ## Your Choices About Your Information
 
@@ -34,7 +32,7 @@ You may review, correct, or delete the personal information you submit to us at 
 
 Monster has no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their web sites and review and read the privacy policies and opt-out practices that govern their usage.
 
-If you change your mind about receiving communications from CareerOne or other parties (excluding CareerOne Education or Acquire Learning), you may change your preferences by logging into your account. Details of how to opt out of being contacted by Acquire Learning or CareerOne Education specifically are set out below.
+If you change your mind about receiving communications from CareerOne or other parties, you may change your preferences by logging into your account.  
 
 You may also [turn off cookies](http://inside.careerone.com.au/fullpolicy/inside2.aspx#turnoff "turn off cookies") in your browser. This may affect your use of the site.
 
@@ -47,18 +45,6 @@ Our Sites are not intended for children under 18 years of age.
 We participate in the U.S. Department of Commerce’s [Safe Harbor Framework](http://inside.careerone.com.au/fullpolicy/inside2.aspx#safeharbour "Safe Harbor Framework") and Monster is a member of [TRUSTe](http://inside.careerone.com.au/fullpolicy/inside2.aspx#truste "TRUSTe").
 
 For more information on how to protect yourself online, click [here](http://inside.careerone.com.au/security-center/home.aspx "security center").
-
-## Careers Australia Group
-
-If you have consented for us to do so (either by applying for a job through the CareerOne job board or registering with CareerOne), we may also share your information with third parties who may contact you about their products or services. This includes sharing your information with Careers Australia Group for the purposes of marketing education and training courses to you (including by telephone and email).  
-Careers Australia Group's privacy policy is available at: <http://www.careersaustralia.edu.au/privacy-policy>.
-
-If you do not wish to be contacted by Careers Australia Group about education or training services, you may opt out at any time by requesting to be removed from the database via:
-
-**_Careers Australia Group_**  
-Email: [optout@careersaustralia.edu.au](mailto:optout@careersaustralia.edu.au);  
-Mail: Level 8, 151-171 Roma Street, Brisbane QLD 4000  
-In person: by at, 100 Brookes Street, Fortitude Valley QLD 4006
 
 ## How to Contact Us
 
