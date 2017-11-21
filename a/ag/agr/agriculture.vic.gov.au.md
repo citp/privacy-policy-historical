@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agriculture.vic.gov.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090525id_/http%3A//agriculture.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.vic.gov.au privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121133346id_/http%3A//agriculture.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Agriculture Victoria
 
-Topics on this page include:
+## Contents
 
   * Application of this Privacy Statement
   * Personal information
@@ -85,7 +85,7 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-For further information, please visit the [Google Privacy Center](http://www.google.com/privacy.html "External link \(will open in new window\)")
+For further information, please visit the [Google Privacy Center](http://www.google.com/privacy.html "External link \(will open in new window\)").
 
 ## Email addresses
 
