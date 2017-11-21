@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gotsoccer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024003id_/http%3A//home.gotsoccer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsoccer.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121212304id_/http%3A//home.gotsoccer.com/privacy.aspx) for the most accurate reproduction.*
 
 # GotSoccer.com
 
-#### Last Updated: February 20, 2017
+#### Last Updated: November 21, 2017
 
 Your privacy is important to us. This Privacy Policy explains what personal data (“Personal Data”) about you we collect from you and others, and how we use it. As you use our services, we want you to be clear how we are using information and the ways in which you can protect your personal data. Our Privacy Policy explains: 
 
@@ -50,11 +50,11 @@ We use information collected from cookies and other technologies, like pixel tag
 
 We may share aggregated, non-personally identifiable information publicly and with our clients - like U.S. Youth Soccer, state organizations, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
 
-In compliance with US-EU Privacy Shield Principles, GotSoccer may be liable for appropriate onward transfer of EU individual’s Personal Data to third parties. 
+In compliance with EU-U.S. Privacy Shield Principles, GotSoccer may be liable for appropriate onward transfer of EU individual’s Personal Data to third parties. 
 
 #### How to Access and Control Your Personal Data: 
 
-In accordance with US-EU Privacy Shield principles, EU individuals have the right to access their Personal Data.. 
+In accordance with EU-U.S. Privacy Shield principles, EU individuals have the right to access their Personal Data.. 
 
 You can view or edit your Personal Data and control certain types of data in your GotSoccer Account. If you wish to access or edit the profile information in your GotSoccer Account, you can do so at any time by logging into your account. Certain information may not be directly changed by you, such as gender, name, and birth date after certain verification processes (examples include player pass and official roster information). You can view and edit certain preferences, such as which colleges might interest you, using the college recruiting area of your GotSoccer Account. You can also control who you share Personal Data with from your GotSoccer account. In the event you wish to opt-out of any use of Personal Data collected by GotSoccer, you can notify us using the following link (<https://home.gotsoccer.com/support.aspx?content=contact>) that permission for any use of your Personal Data is withdrawn. If you opt-out of the use of your Personal Data, you will not be able to use our services. 
 
@@ -74,14 +74,14 @@ You may also set your browser to block all cookies, including cookies associated
 
 
 
-#### U.S. - EU Privacy Shield Framework Compliance:
+#### EU-U.S. Privacy Shield Framework Compliance:
 
-GotSoccer complies with the U.S.-EU Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. GotSoccer has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, GotSoccer is potentially liable. 
+GotSoccer complies with the EU-U.S. Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. GotSoccer has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-U.S. Privacy Shield, GotSoccer is potentially liable. 
 
 To learn more about the Privacy Shield Program, and to view GotSoccer's certification (appearing as GotSoccer, LLC), please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). 
 
 #### Privacy Inquiries and Dispute Resolution:
 
-GotSoccer is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). In compliance with the US-EU Privacy Shield Principles, GotSoccer commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact GotSoccer using our online contact form: <https://home.gotsoccer.com/support.aspx?content=contact>
+GotSoccer is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). In compliance with the EU-U.S. Privacy Shield Principles, GotSoccer commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact GotSoccer using our online contact form: <https://home.gotsoccer.com/support.aspx?content=contact>
 
-GotSoccer has further committed to refer unresolved privacy complaints under the U.S. - EU Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
+GotSoccer has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
