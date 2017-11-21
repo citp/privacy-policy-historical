@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the androidapksfree.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614124204id_/http%3A//www.androidapksfree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidapksfree.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121102346id_/http%3A//www.androidapksfree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AndroidAPKsFree
 
-Last Updated: June 30, 2016
+Last Updated: November 7, 2017
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact [at] androidapksfree.com
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact [at] androidapks.com
 
-At www.androidapksfree.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.androidapksfree.com and how it is used.
+At www.androidapksfree.com (“our website”), the privacy of our users is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.androidapksfree.com and how it is used.
 
 **Log Files**
 
@@ -25,11 +25,9 @@ Google’s use of advertising cookies enables it and its partners to serve ads t
 
 You may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can opt out of a third-party vendor’s use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).)
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google AdSense.
+Some of our advertising partners may use cookies and web beacons on our site. These third-party ad servers or ad networks use technology to the advertisements and links that appear on our website send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.androidapksfree.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-www.androidapksfree.com and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
+www.androidapksfree.com and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website.
 
 www.androidapksfree.com has no access to or control over these cookies that are used by third-party advertisers.
 
