@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jvnotifypro.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521135639id_/http%3A//offers.jvnotifypro.com/orders/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvnotifypro.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121155119id_/http%3A//offers.jvnotifypro.com/orders/privacy) for the most accurate reproduction.*
 
 # JVNotifyPro.com - Privacy Policy
 
