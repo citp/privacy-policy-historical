@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonomus.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102659id_/http%3A//www.jonomus.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonomus.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121120121id_/http%3A//www.jonomus.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,16 +28,18 @@ Amazon
 Flipkart  
 Snapdeal
 
-> ### **How we protect your information**
+> ###  **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure of your personal information, stored on our Site.
 
-> ### **Children’s privacy**
+> ###  **Children’s privacy**
 
 Jonomus.net requires that the visitor must be at least 15 years old to use our site. If you are below 15 years of age, you are strictly prohibited from registering on our Website.
 
-> ### **Changes to this privacy policy**
+> ###  **Changes to this privacy policy**
 
 Jonomus.net has the discretion to update this privacy policy at any time. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [admin@jonomus.net](mailto:admin@jonomus.net)
+
+(Visited 253 times, 1 visits today)
