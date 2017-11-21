@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oversixty.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023006id_/http%3A//www.oversixty.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oversixty.com.au privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121143608id_/http%3A//www.oversixty.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | OverSixty
 
@@ -6,7 +6,7 @@ Summary
 
 1.   This Privacy Policy is published by The Seniors Ad Network Pty Ltd t/as OverSixty (ABN 12 167 436 188) which includes our related companies (“ **we/us/our** ”). Our contact details are:
 
-contact@oversixty.com.au
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 2.   Our Privacy Policy explains how we handle your personal information.  Your privacy is very important to us.  Our Privacy Policy describes our practices in relation to information collected through all of our OverSixty services including advertising services, competitions and surveys, content sharing, websites, mobile sites, and applications (“ **Services** ”).
 
@@ -134,13 +134,13 @@ We do not collect any passwords except in relation to our own Services. When you
 
 43.  If you need to update your OverSixty member details (e.g. name, address, etc.), you can access your account details via our website.
 
-44.  If we no longer need your personal information to finalise any outstanding matters, you can notify us via email at contact@oversixty.com.au and we will, subject to our legal and contractual obligations, take reasonable steps to destroy or de-identify your personal information.
+44.  If we no longer need your personal information to finalise any outstanding matters, you can notify us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will, subject to our legal and contractual obligations, take reasonable steps to destroy or de-identify your personal information.
 
 45.  However, even if you no longer use any of our Services, some of your personal information may still be seen by others, for example where you have shared information via social media.
 
 **How do we handle a complaint as it relates to the Australian Privacy Principles?**
 
-46.  If you require further information or you have a complaint about our Privacy Policy or the manner in which we collect, handle, use or disclose your personal information, please contact us at contact@oversixty.com.au or via our phone support listed on our website.
+46.  If you require further information or you have a complaint about our Privacy Policy or the manner in which we collect, handle, use or disclose your personal information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or via our phone support listed on our website.
 
 47.  Our complaints process is:
 
