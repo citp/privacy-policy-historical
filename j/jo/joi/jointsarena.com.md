@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointsarena.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519114813id_/http%3A//www.jointsarena.com/p/privacy-policy-for-www.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointsarena.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121162828id_/http%3A//www.jointsarena.com/p/privacy-policy-for-www.html) for the most accurate reproduction.*
 
 # Privacy Policy - Joint Arena
 
