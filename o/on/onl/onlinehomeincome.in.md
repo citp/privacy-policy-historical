@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinehomeincome.in privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607124601id_/http%3A//www.onlinehomeincome.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinehomeincome.in privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121063212id_/http%3A//www.onlinehomeincome.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - online home income
 
@@ -10,7 +10,7 @@ We use Email Subscription form to collect only Email Address for our sponsors to
 
 Once you leave from onlinehomeincome.in, WE does not provide any assurity for your personal information safety. Please visit this page often so that you may get updates about our privacy policy revision periodically.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at admin@onlinehomeincome.in.
+If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 All the contents that are listed in www.onlinehomeincome.in are provided "As-Is" and "As-When". We, assumes no responsibility for any misleads under any circumstances. You agree that you will not reproduce, duplicate, copy, sell, trade, resell or exploit any part of our website or service for any commercial purposes. www.onlinehomeincome.in reserves right to modify or alter any content, may be discontinue temporarily or permanently with or without prior notice.
 
@@ -20,7 +20,7 @@ Disclaimer: www.onlinehomeincome.in is not associated with any of the websites l
 
 Many factors are important in determining your actual results and no guarantees will be made that you will achieve results as like others using our website. You can make money more or less depending on your involvement and dedication in your work by using our listed opportunities in our website. And it also depends on variety of factors.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [privacypolicy](mailto:admin@onlinehomeincome.in).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [privacypolicy](https://web.archive.org/cdn-cgi/l/email-protection#91f0f5fcf8ffd1fefffdf8fff4f9fefcf4f8fff2fefcf4bff8ff).
 
 At www.onlinehomeincome.in we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.onlinehomeincome.in and how we use it. 
 
@@ -70,22 +70,6 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 Update
 
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
-
-  
-
-
-[Click here for Live Support](javascript:newPopup\('http://www.onlinehomeincome.in/chat.php'\);)
-
-  
-
-
-Join now, because I will train you personally to make you earn Rs. 25000 every month.
-
-  
-  
-
-
-* * *
 
   
 
