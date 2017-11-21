@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the creativeuncut.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193101id_/http%3A//www.creativeuncut.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeuncut.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121192346id_/http%3A//www.creativeuncut.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Creative Uncut
 
 This notice is provided to help you understand how your privacy is handled when visiting the CreativeUncut.com domain and all of its subdomains. It details the ways in which information may be collected and used, and explains what options you have to control those practices. This statement may be updated from time to time, and you are encouraged to regularly review it for any changes.
+
+**Amazon Associate Disclosure**
+
+Creative Uncut is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
 **Information About Ad-Serving**
 
@@ -21,10 +25,6 @@ Google, as a third party vendor, uses cookies to serve ads on this website. Goog
 [_Google ad and content network privacy policy_](http://www.google.com/privacy_ads.html)
 
 .
-
-We have contracted with ValueClick to monitor certain pages of this website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at: 
-
-[_http://www.valueclickmedia.com/member_privacy.shtml_](http://www.valueclickmedia.com/member_privacy.shtml)
 
 **Message Boards**
 
@@ -46,6 +46,6 @@ At times, there may be changes made to this privacy policy to accommodate change
 
 If you have any questions or concerns regarding this privacy policy or the practices of this website, please feel free to contact us via the 
 
-[_info page_](https://web.archive.org/web/20170606193101id_/http%3A//www.creativeuncut.com/info.html)
+[_info page_](https://web.archive.org/web/20171121192346id_/http%3A//www.creativeuncut.com/info.html)
 
 . 
