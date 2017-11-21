@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105192914id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121124005id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy : Customer Service
+# Privacy Policy – Customer Service
 
 **Privacy Policy**
 
@@ -48,11 +48,9 @@ All information disclosed on the Q&A/Homework Help by the user is public informa
 
 **Advertising**
 
- We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by these company, please visit the Consumer Choice page. (link to <http://www.aboutads.info/consumers/>)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by these company, please visit the Consumer Choice page. (link to http://www.aboutads.info/consumers/)
 
- BookRags has partnered with Glam Media Inc. for display advertising. You may contact Glam at their website (link to <http://www.glammedia.com/contact_us/index.php>) Glam, as a third party vendor, uses cookies to serve behaviorally targeted advertisements based on your Internet usage. To learn more about Glam's commitment to consumer choice and privacy please visit their [Privacy and Security Policy](http://www.glammedia.com/about_glam/legal/privacy.php). (link to <http://www.glammedia.com/about_glam/legal/privacy.php>)
-
- Google, as a third party vendor, uses cookies to serve ads on BookRags.com. Google's use of the DART cookie enables it to serve ads based on your visit to BookRags and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy/ads/).
+Google, as a third party vendor, uses cookies to serve ads on BookRags.com. Google's use of the DART cookie enables it to serve ads based on your visit to BookRags and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy/ads/).
 
 **Privacy Policy Changes**
 
@@ -62,6 +60,8 @@ If you have any additional questions, please [contact us](http://bookrags.zendes
 
 BookRags, Inc.
 
-2025 1st Ave, Suite 270
+999 3rd Ave.
 
-Seattle, WA 98121
+Suite 700
+
+Seattle, WA 98104
