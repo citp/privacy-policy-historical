@@ -1,125 +1,172 @@
-> *The following text is extracted and transformed from the kasamba.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616045401id_/http%3A//www.kasamba.com/lp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kasamba.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121201226id_/http%3A//www.kasamba.com/lp/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-Welcome to Kasamba's Advisor Privacy Policy. This Privacy Policy applies to you if you are a Member, Advisor or other visitor to Kasamba's advisor services platform (" **Kasamba's Advisor Services Platform** ") made available at [www.kasamba.com](http://www.kasamba.com/) (" **Kasamba's Advisor Services Site** ") and at other third party websites. Members, Advisors and all other visitors to Kasamba's Advisor Services Site and/or Kasamba's Expert Advisors Platform are referred to in this policy as " **you** " or an " **Advisor Services Visitor** ". This Privacy Policy applies regardless of whether you are using a computer, a mobile device or other device to visit Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform. 
+Effective Date:  July 9, 2017
 
-You are considered to be a " **Member** " if you register to be a member on Kasamba's Advisor Services Platform and your member application is accepted. You are considered to be an " **Advisor** " if you complete the advisor application on Kasamba's Advisor Services Platform and your profile has been activated by Kasamba. Please note that this Privacy Policy applies to all Advisor Services Visitors regardless of whether or not such visitor is a Member or an Advisor.
+Kasamba values your privacy.  This privacy policy explains what personal data we collect from you and how we use it.  This privacy policy applies if you visit or use Kasamba’s websites or mobile applications (collectively, the “Advisor Platform”).  This privacy policy also applies if you visit Kasamba’s social media or other web pages located on third-party websites.
 
-This Privacy Policy does not apply to visitors to LivePerson's corporate website at [www.liveperson.com](http://www.liveperson.com/). For privacy terms applicable to those visitors, please click [here](http://www.liveperson.com/policies/privacy). This Privacy Policy also does not apply to visitors to the websites of LivePerson's business customers. For privacy terms applicable to those visitors, please click [here](http://www.liveperson.com/policies/technology-privacy-policy).
+What does Kasamba do?
 
-This Privacy Policy explains how Kasamba and certain third parties may collect, use, and disclose "Personal Information" and other information we obtain via Kasamba's Advisor Services Site and via Kasamba's Advisor Services Platform (together, “Data”). 
+What information do we collect from you?
 
-Personal Information Defined. Kasamba considers "Personal Information" to include information that alone or when in combination with other information may be used to readily identify or contact you, such as: name, address, email address, or phone number. Kasamba does not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
+How does Kasamba collect information from you?
 
-Use and Acceptance. By using Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform, you agree to this Privacy Policy. If you do not accept this Privacy Policy, you must not use Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform.
+How does Kasamba use the information it collects about me?
 
-New Uses of Personal Information and Other Information. From time to time, Kasamba may use Data for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change regarding information previously collected, Kasamba will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law. 
+Does Kasamba use cookies?
 
-### What information is collected from Advisor Services Visitors and how is it collected?
+Reasons we share personal data
 
-  * Communications with Advisors and Members. If you engage in a communication with an Advisor or a Member using Kasamba's chat, email, voice or other communication products or services made available to you by Kasamba via Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform, you may voluntarily provide, or otherwise be asked to provide, Personal Information such as your name, contact information and other information to facilitate service. By providing Personal Information and other information via Kasamba's communication products or services, you consent to Kasamba collecting and processing such information for the purposes outlined in this Privacy Policy.
+Access and changes to personal data
 
-Kasamba maintains transcripts (" **Transcripts** ") of chats, emails and other written communications conducted between you and any Advisor or Member using Kasamba's products and services. Kasamba may, in accordance with applicable law (including laws related to notice and/or consent), record and maintain recordings of voice communications (" **Recordings** ") between you and any Advisor or Member. 
+Third-party integrations
 
-  * Communications with Kasamba. If you engage in a communication with Kasamba related to Kasamba's Advisor Services Platform or Kasamba's Advisor Services Site using Kasamba's chat, email, voice or other communication products or services made available to you by Kasamba, or if you engage in a pre- or post-interaction survey (" **Survey** ") related to any such communication, you may voluntarily provide, or otherwise be asked to provide, Personal Information such as your name, contact information and other information to facilitate service. By providing Personal Information and other information via Kasamba's communication products or services, you consent to Kasamba collecting and processing such information for the purposes outlined in this Privacy Policy. 
+How can I access or update my information with Kasamba?
 
-Kasamba maintains Transcripts of communications that are conducted between you and Kasamba. Kasamba also maintains copies of Surveys and Kasamba may, in accordance with applicable law (including laws related to notice and/or consent), record and maintain Recordings of voice communications between you and Kasamba.
+How does Kasamba keep my information secure?
 
-  * Browser Information and Usage Information. We log web browser information (e.g., Internet Protocol addresses and browser types) and other usage information from Kasamba's Advisor Services Site and Kasamba's Advisor Services Platform such as page view tallies, time spent on each page, geographic location information, page browsing information, subject matter browsing information and operating system information. If the Advisor Services Visitor is using a mobile or other portable device to visit or access Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform, we may collect hardware information related to the device used by the Advisor Services Visitor. Your browser may be set to limit or prevent any of the browser information described above from being transmitted. If so, Kasamba's Advisor Services Site, Kasamba's Advisor Services Platform or certain communication tools, or other features or functions offered as part of Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform, may not be available to you. 
+Additional mobile considerations
 
-  * Member Account. In order for a visitor to use many of the features or offerings on Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform, the visitor may be required to open a member account and provide Personal Information. Many services require payment of a fee. Before using pay services, the Member would be required to provide payment information via the members account. Kasamba uses a third party credit card processor to process and store credit card information submitted via the Member’s account.
+Kasamba message boards 
 
-Kasamba may allow Advisor Services Visitors to sign in to Kasamba's Advisor Services Platform and/or enroll as a Member by using the sign-in credentials used by such visitor on a third party social media website (e.g., Facebook). By signing in or enrolling using the third party website’s credentials, the Advisor Services Visitor consents to Kasamba collecting and maintaining the information provided via such third party website. Kasamba is not responsible for the privacy practices of any third party website.
+International data transfers
 
-  * Requests for Information, News and other Content. When you sign up to become a Member or an Advisor, you may sign up to receive information, news and other content related to new and existing products and services related to Kasamba's Advisor Services Site, Kasamba's Advisor Services Platform and events and other information related to Kasamba that may be of interest to you. You may also sign up to receive information, news and other content from third parties whose services and/or products we believe may be of interest to you. You will be asked to provide Personal Information, such as contact details and other information, relevant to delivering such news and information. We maintain all such information.
+Miscellaneous
 
-  * Technical Support Requests. If you need technical support related to Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform, you will need to complete a form for the purposes of defining and clarifying your technical support request. When submitting a technical support request, you will be asked to provide Personal Information, including an email address and a description of the issue. We maintain copies of all technical support requests and other information submitted with or related to such requests.
+### What does Kasamba do?
 
-  * Promotions. From time to time, we may offer promotions on Kasamba's Advisor Services Site or via Kasamba's Advisor Services Platform. If we do, and if you wish to participate, you may be required to provide Personal Information, such as contact information and other information. We maintain such information.
+Kasamba provides an advisor platform that allows members to locate an advisor to ask questions or request advice and/or services directly from such advisor (the “Advisor Platform”).  Kasamba, via the Advisor Platform, enables a member to communicate directly with the advisor and pay for the services purchased by the member from such advisor.
 
-  * Advisor Services Applicants. If a visitor wishes to apply to be an Advisor on Kasamba's Advisor Services Platform, the visitor will be required to submit Personal Information as requested. Any information supplied by or on behalf of a visitor for purposes of becoming an Advisor may be maintained by Kasamba as well as third party affiliates and other third parties. Please note that Kasamba may have additional privacy terms that apply to Advisor applicants. Such terms will be made available when an applicant applies to be an Advisor or when an applicant otherwise accesses his or her account.
+### What information do we collect from you?
 
-  * Cookies. Kasamba's services use cookies and other similar technologies such as pixel tags to collect and store information that is generated automatically as you use the services, including your preferences and anonymous usage statistics.
+By visiting and/or communicating on the Advisor Platform, we may collect certain information from you, including but not limited to:
 
-Similar cookies and other technologies are used by our partners, which may also include Flash cookies. Flash cookies are set through a mechanism in Adobe Flash Player. With Flash cookies your data is stored in multiple places and it may be restored once you delete it. To control flash cookies, modify the settings on the Macromedia website [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). HTML5 has a local storage feature that, when used, allows for quicker access to a website upon a return visit. HTML5 is currently supported by some mobile devices and desktop browsers. HTML5 data is not stored in a browser's "cookies" file. Most browsers also give you the ability to control cookies, usually through the settings menu - your browser's help feature will explain how. Additionally, certain of our partners allow you to opt-out of their use of cookies by clicking [here](http://www.networkadvertising.org/choices/). The choices you make on these sites are browser-specific. So, if you use a different browser, you will need to opt out again. If a browser is set to refuse cookies, it is possible that some of the functionality offered by Kasamba will not be available or will not work as effectively for you.
+  * Information you provide to us, such as: 
+    * Personal information, such as your name and contact information.
+    * Surveys, transcripts and recordings of your communications with advisors, members, and us.
+    * Information you provide on Kasamba message boards.
+    * Your payment information, including credit card number(s) and related billing information.
+    * Any personal information you choose to share through your use of the Advisor Platform, such as your medical (physical and/or mental health) information, sexual orientation, etc.  Please note that if you do not wish to disclose this information, you should not do so.
+    * For Advisors, applicable tax forms.
+  * Automatic information, such as: 
+    * Web browser and usage information, including IP address, browser types, page view tallies, time spent on each page, page browsing information, operating system and type of device used.
 
 
 
+### How does Kasamba collect information from you?
 
-### How does Kasamba use and disclose information it collects from Kasamba Users?
+We collect information when you sign up to use the Advisor Platform and also when you communicate with other members of the Advisor Platform, including through:
 
-  * Transcripts, Surveys and Recordings. Kasamba may access and use Transcripts, Surveys and Recordings for purposes of performing or delivering a service to an Advisor Services Visitor, providing maintenance or support services for an Advisor Services Visitor, for training and quality assurance purposes, for purposes of investigating any claim made by or related to an Advisor Services Visitor, for purposes of improving our services and/or for other lawful purposes. Third-party service providers retained by Kasamba to perform services on behalf of Kasamba may also have access to Transcripts, Surveys and Recordings for purposes of performing or delivering a service to Kasamba, providing maintenance or support services, for training and quality assurance purposes, for purposes of investigating any claim made by an Advisor Services Visitor or related to an Advisor Services Visitor’s use of the services, for purposes of improving our services and/or for other lawful purposes. 
+  * Kasamba’s registration process
+  * Chats
+  * Phone calls
+  * Messages
+  * Message boards
+  * If you register for the Advisor Platform via a third-party social media platform, we may receive information from that third-party platform about you.
+  * If you are referred to the Advisor Platform through an affiliate or referral partner, we may receive information from such partners about you.
+  * If you sign up as an Advisor, although Kasamba is not responsible for vetting Advisors, we may use a third party to confirm your credentials, including relevant licenses and certifications.
 
-Advisors with whom a Member or other Advisors Services Visitor communicates have access to the Transcripts and Recordings between them. Kasamba has no control over the privacy practices of such Advisors. You are encouraged to verify the privacy practices of Advisors before you communicate with them. 
 
-  * Browser Information and Cookies. We use browser information, cookies and pixel tags to determine whether a communication service or marketing material should be deployed on your browser when you are visiting Kasamba's Advisor Services Site or using Kasamba's Advisor Services Platform. We may also use browser information, cookies and pixel tags: to determine how you arrived at Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform, to determine whether you are a return visitor, to help us improve our product and service offerings, for quality assurance and training purposes, to help diagnose problems with our servers, to gather broad demographic information, to administer and optimize our services, to deliver marketing or other materials to you on behalf of third parties and for other lawful purposes. Information collected by third party operators themselves is governed by their own privacy policies.
 
-  * Aggregate Information. We may aggregate information so that it is not Personal Information, and we may use and share such aggregated information for training and quality assurance purposes, for purposes of delivering our services, for purposes of expanding and improving our services and for other lawful purposes.
+Please note that if we receive your information from third parties as mentioned above, the data you provide to such third parties is also subject to the third party’s privacy policy.
 
-  * Third Parties. Kasamba does not sell, trade or rent Personal Information provided by you in any Transcript, Survey or Recording for direct marketing or any other purpose, except as provided in this Privacy Policy or with your permission. Except as described in this Privacy Policy, Kasamba does not divulge the content of Transcripts, Surveys or Recordings to third parties or vendors performing services on behalf of Kasamba.
+In addition, we may collect information through the following methods if you use the Advisor Platform or visit Ksaamba’s social media pages or other pages located on third-party websites:
 
-If you accessed Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform via a third party website, you may be subject to terms and conditions that apply to that third party website. As mentioned below, Kasamba is not responsible for the privacy practices of any third party. Kasamba may share your Personal Information, including your email address, with the third-party website from which you accessed Kasamba's services for its business purposes, including to optimize your experience and to improve its services. 
+  * Your communications with Kasamba,
+  * Your requests for information, news and other content,
+  * A technical support request you submit, or
+  * Your participation in a Kasamba promotion.
 
-Kasamba uses third party data facilities and other third party service providers to perform services that are routinely handled by such providers. Such providers may store and, if applicable, process Personal Information and non-Personal Information in keeping with the service that they provide. We may also share weblog data and other similar non-Personal Information Data with third parties. For example, we may share traffic data for the Site with a third party that analyzes and publishes Website traffic surveys.
 
-  
 
-  * Legal Reason to Disclose. Kasamba may disclose your information including Personal Information if: (i) Kasamba reasonably believes that disclosure is necessary in order to comply with a legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirement of any governmental authority, (ii) disclosure would potentially mitigate our liability in an actual or potential lawsuit, (iii) reasonably necessary to enforce this Privacy Policy, our Terms of Use or our agreement with an Advisor Services Visitor, (iv) disclosure is intended to help investigate or prevent unauthorized transactions or other illegal activities (including any claim that a Member did not authorize charges incurred via Kasamba's Advisor Services Platform or via Kasamba's Advisor Services Site), or (v) necessary or appropriate to protect our rights or property, or the rights or property of any person or entity.
+We may also collect information from our direct interactions with you, publicly available data or data provided by third-party sources, such as marketing opt-in lists.
 
+### How does Kasamba use the information it collects about me?
 
+We use the information we collect to provide and improve our services, to deliver information requested by you (for example in response to technical support requests), to deliver marketing or other materials to you, or for promotions you may enter into.
 
+### Does Kasamba use cookies?
 
-### Special Notice to Kasamba Users located in countries other than the United States
+We may use cookies and other identification technologies for record keeping purposes and to enhance your experience on the Advisor Platform. 
 
-If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, including those whose privacy laws may be more restrictive than U.S. law, please note that you are transferring your personal data to the United States to Kasamba. By providing your personal data you consent to that transfer. 
+ **Cookies:**
 
-### Message Boards, Communities, Blogs
+Cookies are small text files stored on a visitor’s web browser and applications. Cookies are often used to make web-browsing easier by performing functions such as saving passwords and maintaining lists of personal preferences regarding the use of the website.
 
-If you use any message board, community (including any Advisor Services community or forum) or blog made available on Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform you should be aware that any information you submit via those services may be read, collected, copied and used by other users, and could be used to send you unsolicited messages. Kasamba may access and use any such information for purposes of performing or delivering a service to an Advisor Services Visitor, for purposes of providing maintenance or support services, for training and quality assurance purposes, for purposes of investigating any claim, for purposes of improving our services and/or for other lawful purposes. For the avoidance of doubt, Kasamba is not responsible for the information that you choose to submit or post via any of those services and Kasamba is not responsible for how any such information may be used by others or responded to by others. Kasamba's privacy obligations set forth in this Privacy Policy are not applicable to your use of any message board, community or blog on Kasamba's Advisor Services Site, on Kasamba's Advisor Services Platform or on any third party website. Additional terms made available via any such message board, community and/or blog may apply to your use of any of the foregoing.
+The Advisor Platform may use the following types of cookies:
 
-### How does Kasamba protect your information? 
+  * Strictly Necessary Cookies – these cookies are essential to enable you to browse the Advisor Platform and use the available features.
+  * Performance Cookies – these cookies collect information about how you use the Advisor Platform. For instance, these cookies track which pages you visit most. This data may be used to help optimize the Advisor Platform and make it easier for you to navigate within them. These cookies do not collect information that identifies you; all information is aggregated and anonymous.
+  * Functionality Cookies – these cookies allow the Advisor Platform to remember choices you make while browsing, such as geographic location and preferences such as text size and fonts. The information collected by these cookies will not personally identify you.
 
-  * Security. Data transmissions over the Internet cannot be guaranteed to be fully and absolutely secure. Our website and our services have security measures in place designed to protect against the loss, misuse and alteration of the information under our control. Our security measures include the measures described below. 
 
-  * Encryption and Firewalls. Chat transcripts are encrypted during transmission. We use standard Secure Socket Layer (SSL) encryption that encodes information for such transmissions. All Transcripts are maintained and archived on secure servers. Access to stored data is protected by multi-layered security controls including firewalls, role-based access controls and passwords. Advisers and Members may review their chat history and see Transcripts of chats that they have engaged in. Advisoers and Members are only granted access to the chats that they engaged in under their Advisor profile or Member profile. Data is backed up regularly and archives are stored off-site in a secure location.
 
+ **Other identification technologies that may be used by the Advisor Platform:**
 
+  * Pixel tags (also called beacons or pixels) – these are small blocks of code installed on (or called by) a webpage or application, which can retrieve certain information about your device and browser, including device type, operating system, browser type and version, website visited, time of visit, referring website, IP address and other similar information.
+  * Software Development Kits (also called SDKs) - function like pixels and cookies, but operate in the mobile application context where pixels and cookies cannot always function. The application developer can install pieces of code (the SDK) into the application to collect certain information about user interaction with the application and information about the user device and network information.
 
 
-### Additional terms that may apply to your information
 
-  * Safe Harbor. Kasamba complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor).
+ **Third-party technologies:**
 
-  * Kasamba's Advisor Services Platform made available on Third Party Websites. Kasamba's Advisor Services Platform may be made available on third party websites. In addition, links to Kasamba's Advisor Services Site and Kasamba's Advisor Services Platform may be made available on third party websites. Kasamba is not responsible for and does not control the privacy practices of any third party. Accordingly, we encourage you to review the privacy practices of each website that you use or visit.
+Kasamba may use third-party service providers or work with affiliate or referral partners who are authorized to place cookies, pixel tags or similar technologies on the Advisor Platform with our permission.  These technologies help us compile metrics and analytics (without collecting personally identifiable information) to help improve the Advisor Platform.  Third-party cookies and technologies are covered by the third party’s privacy policy. 
 
-  * Business Transfers. In the event that all or substantially all of Kasamba's assets have been acquired, or in the event of any merger, bankruptcy or reorganization involving Kasamba, all Transcripts, Recordings and Surveys, as well as all other information about you and your use of our services will likely be included in the acquired or merged assets. 
+ **Your choice:**
 
-  * Choice Regarding Personal Information. If you elect to engage in any communication using our services, it is up to you to decide what, if any, information to provide during such session. Depending on your request or the means of communication it may not be possible to communicate with you or address all of your questions without providing some information. Nevertheless, if you do not wish to furnish certain information, then you should not do so.
+Web browsers are usually set to accept cookies. However, if you prefer not to receive cookies, you typically have the option of setting your browser to refuse cookies. If your browser is set to refuse cookies, it is likely that some of the functionality offered by Kasamba will not be available or will not work as effectively for you. 
 
-  * Your California Privacy Rights. Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address referenced below.
+For further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
-  * Children's Privacy. Kasamba does not encourage participation or visitation by children. Visitors who are known to be under the age of 18 are prohibited from becoming Members or Advisors. Kasamba does not knowingly collect personally identifiable information from children under the age of 18.
+ **Do Not Track**
 
+Various browsers, including Internet Explorer, Firefox and Safari, currently offer a “do not track” or “DNT” option that relies on a technology that sends a signal to websites a user visits about that user’s browser DNT preferences. While Kasamba attempts to honor the DNT instructions received from a user’s browser, Kasamba cannot guarantee that it will always respond to such signals because a common industry standard for DNT has not been adopted. Kasamba will continue to monitor developments around DNT browser technology.
 
+### Reasons we share personal data
 
+We may share your information if we reasonably believe that it:  (i) is necessary to comply with a legal process (such as a court order, subpoena, or search warrant) or other legal requirement of any governmental authority; (ii) would potentially mitigate our liability in an actual or potential lawsuit; (iii) is necessary to enforce this privacy policy or our Terms of Use at [www.liveperson.com/policies/terms-of-use](http://www.liveperson.com/policies/terms-of-use) or any other agreement in place between you and Kasamba; (iv) is necessary to investigate and prevent unauthorized transactions or other illegal activities; and/or (v) is otherwise necessary or appropriate to protect our rights or property or the rights or property of any person or entity.
 
-### Contacting Kasamba
+We may aggregate information so that it is not personally identifiable and use and share such aggregated information for training and quality assurance purposes and to deliver and improve the Advisor Platform.
 
-Kasamba welcomes your feedback on our Privacy Policy. Please send your comments to [ privacy@liveperson.com](mailto:privacy@liveperson.com) or to: LivePerson, Inc., Attn: Legal Department – Privacy, 475 10th Avenue, 5th Floor, New York, NY 10018.
+Kasamba does not sell, trade or rent personal information provided by you in any transcript, survey or recording for direct marketing or any other purpose, except as provided in this privacy policy or with your permission.  Kasamba does not disclose the contents of transcripts, surveys or recordings other than to service providers performing services on behalf of Kasamba, other than as provided in this privacy policy or with your permission. 
 
-### Changes to this Privacy Policy
+We may share your information when reasonably necessary with third-party service providers used to deliver and make the Advisor Platform and certain features and functionality available, including but not limited to payment processors, customer contact centers, and a third party to review Advisor profiles.   If you accessed the Advisor Platform an affiliate or referral partner, we may share your information with such partner to optimize your experience and improve our services.
 
-We recommend that you review this policy periodically, as we may update it from time to time. Your use of any Kasamba service offered on Kasamba's Advisor Services Site or via Kasamba's Advisor Services Platform following a change to this Privacy Policy represents your consent to the new Privacy Policy to the fullest extent permitted by law.
+### Third-party integrations
 
-### Definitions
+From time to time, we may partner with other companies to allow Kasamba and its customers to offer integrations with the Advisor Platform.  If you use one of these integrations, Kasamba may share your data with the third-party partner, receive data about you from the third-party partner, and/or combine third-party partner data about you with information about you that we collect.  We do not control how a third-party partner may use your data.   Use of your information by the third-party partner there is governed by its privacy policies.  If you do not wish for your information to be shared in this way, you may opt not to use such integrations.
 
-Cookies are pieces of information that some websites transfer to a visitor’s web browser accessing the website and are used for record-keeping purposes at many websites. Use of cookies makes web-surfing easier by performing certain functions such as saving passwords, lists of potential purchases and personal preferences regarding the use of the particular website, and ensuring that the user does not see the same ad repeatedly.
+### How can I access or update my information with Kasamba?
 
-Encryption is the process of transforming information into unreadable text so that it is only legible to those possessing an encryption key. The process of making encrypted information readable again is referred to as decryption.
+If you elect to engage in any communication session on the Advisor Platform, it is up to you to decide what, if any, information to provide during such session.  Depending on your request, it may not be possible for us or Advisors to fully provide all requested services to you.  Nevertheless, if you do not wish to provide certain information, then you should not do so. 
 
-Pixel tags are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied.
+If you have signed up to receive Kasamba’s marketing or advertising communications, you may, at any time, opt out of receiving further communications by clicking on the opt-out link at the bottom of a marketing or advertising email you receive.  You may also contact us at [privacy@liveperson.com](mailto:privacy@liveperson.com) to opt out or to request changes to your personal information.
 
-Web browser is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.
+You may view your communication history on the Advisor Platform by logging in and accessing your account page.
 
-Last updated: May 4, 2016. 
+### How does Kasamba keep my information secure?
+
+We use security measures designed to protect against the loss, misuse and alteration of the information under our control, although data transmissions over the internet cannot be guaranteed to be absolutely secure.  Your personally identifiable information is encrypted during transmission.  In addition, transcripts that we store are maintained and archived on secure, hardened servers that are hosted on highly secure data centers.  Access to this data is protected by multiple layers of controls, including firewalls, role-based access controls, authentication mechanisms and monitoring.  Data is backed up, and archives are stored off-site in a secure location. You may review your chat history and see transcripts of chats you have engaged in.  You are only granted access to the chats you engaged in under your profile. 
+
+### Additional mobile considerations
+
+In addition to the other terms in this policy, if you use our mobile applications or access our mobile-optimized websites, we may receive information about your mobile device, including a unique identifier for your device. 
+
+If you receive SMS messages from Kasamba, you may opt out by following the opt-out instructions that we provide or by contacting us at [privacy@liveperson.com](mailto:privacy@liveperson.com). 
+
+### Kasamba message boards
+
+Information that you share on Kasamba’s message boards become publicly available and therefore may be read, collected, copied and used by other users for any purposes at their discretion.  Because this information is publicly available, Kasamba’s privacy obligations outlined in this privacy policy do not apply to your use of any such message boards.
+
+### International data transfers
+
+If you are located outside of the United States, please note that we may transfer your personal data outside your country of origin.  By providing or making available your personal data, you consent to that transfer.
+
+### Miscellaneous
+
+We recommend that you review this privacy policy periodically, as we may update it from time to time.  Your use of the Advisor Platform, as applicable, constitutes your consent to the new privacy policy to the fullest extent permitted by law. 
+
+We are not responsible for and do not control the privacy practices of any of our customers or any other third party.  We encourage you to review the privacy practices of each third party. 
+
+We welcome your feedback on our privacy policy.  Please send any comments or questions to [privacy@liveperson.com](mailto:privacy@liveperson.com) or to Kasamba, Inc., Attn: Legal Department – Privacy, 475 Tenth Ave., 5th Floor, New York, NY 10018. 
