@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citywire.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110958id_/http%3A//citywire.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citywire.co.uk privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121190918id_/http%3A//citywire.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Citywire
 
