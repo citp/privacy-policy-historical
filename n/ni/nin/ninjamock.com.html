@@ -1,9 +1,13 @@
-<!--The following is the downloaded HTML source of the ninjamock.com privacy policy that was archived on 2017-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170521144820id_/https%3A//ninjamock.com/shared/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ninjamock.com privacy policy that was archived on 2017-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171121115219id_/https%3A//ninjamock.com/shared/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    
+
+
     
     
     <meta name="google-site-verification" content="o-FIvojVB6AHxe7k01F7DG86E8o6JNh39S3HJvJmYjk">
@@ -138,7 +142,7 @@
                                 <a href="http://ninjamock.com/account/pricing">Prices</a>
                             </li>
                             <li>
-                                <a href="http://blog.ninjamock.com/">Blog</a>
+                                <a href="https://blog.ninjamock.com/">Blog</a>
                             </li>
                         </ul>
                     </div>
@@ -147,7 +151,7 @@
                 <div class="hero-content" style="height: 0px;overflow: hidden;-moz-transition: none;  -o-transition: none;  -webkit-transition: none;  transition: none;">
 
                 </div>
-                
+               
             </div>
         </div>
         <div class="alt-header" data-bind="cssOnScroll: { classes: 'visible', test: function(x, y){ return y > 450; } }">
@@ -169,7 +173,7 @@
                                <a href="http://ninjamock.com/account/pricing">Prices</a>
                             </li>
                             <li>
-                                <a href="http://blog.ninjamock.com/">Blog</a>
+                                <a href="https://blog.ninjamock.com/">Blog</a>
                             </li>
                         </ul>
                         <div class="pull-right account-area">
@@ -197,7 +201,7 @@
             </div>
         </div>
     </header>
-    
+
             <div id="applicationHost" style="visibility:hidden;display: none; "></div>
             <div id="applicationMainBodyContainer" style="visibility:visible;display: block; ">
                             <div class="error-container container"></div>
@@ -430,82 +434,13 @@ UserVoice.push(['autoprompt', {}]);
             </div>
         </div>
     </footer>
+
     
-    <!-- interakt -->
-    <script>
-
-        function deleteOldInteract(){
-            //remove script element
-            var interaktScriptElement = document.getElementById("interakt")
-            if(!!interaktScriptElement){
-                interaktScriptElement.parentNode.removeChild(interaktScriptElement);
-            }
-
-            //remove chat
-            var interaktChatElement = document.getElementById("interakt_chat");
-            if(!!interaktChatElement){
-                if(Array.isArray(interaktChatElement)){
-                    for(var i=0; i<interaktChatElement.length; i++) {
-                        interaktChatElement[i].parentNode.removeChild(interaktChatElement[i]);
-                    }
-                }
-                else{
-                    interaktChatElement.parentNode.removeChild(interaktChatElement);
-                }
-            }
-        }
-
-        function alreadyLoggedUser(data){
-            if(window.mySettings != undefined && window.mySettings.email != undefined){
-                if(window.mySettings.email == data.email){
-                    return true;
-                }
-                else{
-                    return false;
-                }
-            }
-            return false;
-        }
-
-
-        window.interaktSS = function(data){
-
-
-            if(data.loggedIn){
-                //deleteOldInteract();
-                //if(!alreadyLoggedUser(data)){
-                    window.mySettings = {
-                        // TODO: The current logged in user's email address.
-                        email: data.email,
-                        // TODO: The current logged in user's sign-up date in Unix epoch time.
-                        created_at: 1356978600,
-                        app_id: '30777ace81bf3be0c1758363f8c7d8b2',
-                    };
-                //}
-                if(!!document.getElementById("interakt")){
-                    return;
-                }
-            }
-            else{
-                return;
-            }
-
-            (function() {
-                var interakt = document.createElement('script');
-                interakt.type = 'text/javascript'; interakt.async = true;
-                interakt.src = "//cdn.interakt.co/interakt/30777ace81bf3be0c1758363f8c7d8b2.js";
-                interakt.id = 'interakt';
-                var scrpt = document.getElementsByTagName('script')[0];
-                scrpt.parentNode.insertBefore(interakt, scrpt);
-            })()
-        }
-    </script>
-    <!--end of interakt -->
 
     <script type="text/javascript">
-        var params = {};        
-        params.exportServiceUrl = "//services.ninjamock.com/";        
-        params.appBuild = "1.53.23898.3";        
+        var params = {};
+       params.exportServiceUrl = "//services.ninjamock.com/";
+        params.appBuild = "1.53.23898.3";
 
         var config = {
             datePattern: 'MMMM dd, yyyy',
