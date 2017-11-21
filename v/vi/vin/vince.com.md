@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vince.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611130957id_/http%3A//www.vince.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vince.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121134131id_/http%3A//www.vince.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Vince
 
@@ -14,7 +14,7 @@ Vince, LLC ("Vince," "we," "us" and "our") values your trust and respects your p
 
 
 
-If you have questions or concerns regarding this notice, please contact us at 800.960.2231 or at [customerservice@vince.com](mailto:%20customerservice@vince.com).
+If you have questions or concerns regarding this notice, please contact us at 800.960.2231 or at [clientservices@vince.com](mailto:%20customerservice@vince.com).
 
 ## Scope of This Policy
 
@@ -24,19 +24,43 @@ This policy applies to the treatment of personally identifiable information that
 
 From time to time, Vince collects personally identifiable information, which may include, but is not limited to, your name, email address, zip code and personal information concerning your interests, occupation, gender and other demographic information.
 
-Vince does not seek to collect such information from persons under the age of 18. If you are under the age of 18, please do not submit any such information to us. If you are the parent or guardian of a person under the age of 18 who has provided such information to us, please contact us at 800.960.2231 or at [customerservice@vince.com](mailto:%20customerservice@vince.com) and we will remove such information from our database as described further below. 
+Vince does not seek to collect such information from persons under the age of 18. If you are under the age of 18, please do not submit any such information to us. If you are the parent or guardian of a person under the age of 18 who has provided such information to us, please contact us at 800.960.2231 or at [clientservices@vince.com](mailto:%20customerservice@vince.com) and we will remove such information from our database as described further below.
 
-In addition, no person (of any age) is required to provide us with the personally identifiable information we request. If you do not wish to provide such information, you are free not to do so, although that may prevent you from using certain features or taking full advantage of all of our offerings on our website. Your provision of requested information to us through vince.com or other means is presumed by us to be voluntary and with your consent to the uses described herein. If, after submitting personally identifiable information to us, you wish to "opt-out," please contact us at 800.960.2231 or at [customerservice@vince.com](mailto:%20customerservice@vince.com), and we will disable the account that contains your information in our database as set forth below in the section titled "Managing Your Information." Please know that such a decision will not stop advertising or content that is generated prior to the time when we can accomplish the removal of your information. 
+In addition, no person (of any age) is required to provide us with the personally identifiable information we request. If you do not wish to provide such information, you are free not to do so, although that may prevent you from using certain features or taking full advantage of all of our offerings on our website. Your provision of requested information to us through vince.com or other means is presumed by us to be voluntary and with your consent to the uses described herein. If, after submitting personally identifiable information to us, you wish to "opt-out," please contact us at 800.960.2231 or at [clientservices@vince.com](mailto:%20customerservice@vince.com), and we will disable the account that contains your information in our database as set forth below in the section titled "Managing Your Information." Please know that such a decision will not stop advertising or content that is generated prior to the time when we can accomplish the removal of your information.
 
-Vince also receives and records information from server logs from your browser, including cookie information relating to pages requested. We treat this information as non-personal, unless required to do otherwise by applicable laws. Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time, we do not modify your experience based on any such signal or broadcast. 
+Vince also receives and records information from server logs from your browser, including cookie information relating to pages requested. We treat this information as non-personal, unless required to do otherwise by applicable laws. Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time, we do not modify your experience based on any such signal or broadcast.
 
 Vince uses the information you provide to us to customize advertising and content that we present to you, to contact you concerning specials, abandoned shopping carts and new products, and to enhance our product offerings. Vince will not sell or rent your personally identifiable information to any third party except when:
 
   * you have been given an opportunity to "opt-out" of sharing the information and have declined to exercise that right within the time period provided;
   * Vince must share the information in order to provide a product or service that you have requested, in which case, we will demand that any third party we use to fulfill your order agree that it does not have the right to use the personally identifiable information other than to fulfill your request; or
   * Vince is required to respond to subpoena, court orders or other legal processes requiring such disclosure.
+  * We may share your personal information with third parties for their direct marketing purposes, as further described in our Information Disclosure and Your Choices/Your Privacy Rights sections below. If you wish to opt out of such sharing, please contact us at 800.960.2231 or at _[clientservices@vince.com](mailto:clientservices@vince.com)_ and include your name, email address and postal address in your request.
 
 
+
+## Information Disclosure
+
+We may disclose information we collect (including Site usage information and personal information) in the following ways, to the extent permitted by law:
+
+  * to our service providers and suppliers, who collect or use such information for us or on our behalf (such as website or database hosting companies, address list hosting companies, email service providers, analytics companies, distribution companies, fulfillment companies, and other similar entities that help us to operate the Sites and/or provide functionality, content and services);
+  * as necessary, if we believe that there has been a violation of the Site Terms and Conditions or any other Site policy, or if we have reason to believe that our rights or property, or the rights or property of any third party, may be or have been harmed;
+  * to respond to subpoenas or other judicial processes, or to provide information as requested by law enforcement agencies, other government authorities, or otherwise as required by law;
+  * in the event that Vince or substantially all of its assets are acquired by one or more third parties as a result of an acquisition, merger, sale, consolidation, bankruptcy, liquidation or other similar corporate reorganization, where your information may be one of the transferred assets;
+  * to third-party marketers, as permitted by law, unless you direct us not to (please see the Your Choices/Your Privacy Rights section below);
+  * when you contribute to a social, community or other publicly available area or feature of the Site (e.g., if you submit a product rating or review), the information and content that you post may be made available to the general public, depending on your settings (which is why we recommend that you do not submit or post any sensitive personal information, such as your full name, home address, phone number or other information that would enable others to contact or locate you);
+  * otherwise, with your permission; and
+  * as otherwise, with your permission or as permitted by law.
+
+
+
+Content and information that you submit on or through Facebook, Twitter, Instagram, Tumblr and other third-party platforms may appear on the Sites through feeds from and other interfaces with those platforms. We are not responsible for the information, content and/or privacy practices of any such third-party platforms.
+
+## Your Choices/Your Privacy Rights
+
+If you would like to opt out of receiving direct mail from us, please contact us at 800.960.2231 or [clientservices@vince.com](mailto:clientservices@vince.com). Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your account, relationship, activities, transactions and communications with us.
+
+If you would prefer that we not share your personal information with third-party marketers, please contact us at 800.960.2231 or at [clientservices@vince.com](mailto:clientservices@vince.com). Please include your name and your email and postal addresses. (Note that we never share your payment information with other marketers.) Please understand that if you do request that we stop sharing your personal information with third parties for their direct marketing purposes, such request will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from third parties that received your personal information prior to that request. In these cases, please opt out from or contact that third party directly.
 
 ## Use of Cookies
 
@@ -46,7 +70,7 @@ You may at any time "opt out" of Vince's use of cookies, web beacons or other tr
 
 ## Managing Your Information
 
-You are entitled to request access to and correction of all your personal data collected by us through vince.com, as well as to require us to disable the account that contains your data if you no longer want us to process it. You can make such a request or a related inquiry at 800.960.2231, or at [customerservice@vince.com](mailto:%20customerservice@vince.com). We will keep your data as long as it is reasonably necessary for the purposes described in this Privacy Policy. You may choose not to receive unsolicited marketing material from Vince, and you have the right to request your Vince account information be disabled, subject to our need to keep appropriate archives of our business operations.
+You are entitled to request access to and correction of all your personal data collected by us through vince.com, as well as to require us to disable the account that contains your data if you no longer want us to process it. You can make such a request or a related inquiry at 800.960.2231, or at [clientservices@vince.com](mailto:%20customerservice@vince.com). We will keep your data as long as it is reasonably necessary for the purposes described in this Privacy Policy. You may choose not to receive unsolicited marketing material from Vince, and you have the right to request your Vince account information be disabled, subject to our need to keep appropriate archives of our business operations.
 
 ## Security
 
