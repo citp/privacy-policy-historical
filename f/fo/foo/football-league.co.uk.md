@@ -1,269 +1,225 @@
-> *The following text is extracted and transformed from the football-league.co.uk privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325072914id_/http%3A//www.football-league.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-league.co.uk privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121060503id_/https%3A//www.efl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# EFL Official Website - Privacy Policy
 
-**COOKIES & PRIVACY POLICY**
+## Introduction
 
-Please take a moment to read this Website's Privacy Policy set out below. References to "we", "us" and "our" in this policy are references to FL Interactive Limited (Company Number: 04112553) c/o The Football League Limited Unit 5B Edward VII Quay, Navigation Way, Preston, Lancashire, PR2 2YF. We may however appoint third parties to store and process your information on our behalf.
+This privacy policy (“ **Policy** ”) describes the types of personal data you provide and/or EFL Digital Limited or the EFL collects via your use of the official EFL website, together with services accessed through them (“ **Site** ”), what we may do with that personal data and your rights.
 
-Protecting your privacy is very important to us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to how we process your information please contact us using the details below.
+When registering for certain services through the Site you may have been asked to confirm which of the EFL football clubs you are a fan of and whether you wish to be contacted by that club. To the extent you chose a club, that club shall be referred to in this policy as the "Club".
 
-We reserve the right to change the terms of this policy from time to time and your continued use of the Website will be deemed to be acceptance of amendments we make. This Privacy Policy was last updated on 4 Feb 2016.
+EFL Digital is the Data Controller of personal data collected by, or which you provide through, the Site, for the purpose of the Data Protection Act 1998 (“ **Data Protection Law** ”). [Find out company information about the EFL and EFL Digital.](https://web.archive.org/company-details/)
 
- **1\. What information do we collect about you?**
+To the extent you selected the Club and agreed to your personal data being shared with it, the Club will also be a Data Controller in relation to your personal data, for the purpose of Data Protection Law. The Club will only use your personal data for the purposes set out in this Policy, unless it otherwise obtains your consent or has other legal grounds to use it for other purposes. Links to all EFL member clubs official websites can be found here ([Championship](https://web.archive.org/clubs-and-competitions/sky-bet-championship/clubs/), [League One](https://web.archive.org/clubs-and-competitions/sky-bet-league-one/clubs/), and [League Two](https://web.archive.org/clubs-and-competitions/sky-bet-league-two/clubs/)), and you can find out further information about the Club by clicking the relevant link.
 
-At various times during a visit to this Website you may be asked to provide us with personal information (for example your name and contact details). This may be in connection with activities such as registration for newsletters, operation of our subscription services, social sharing, competitions and activity for our partners.
+References to “ **we** ”, “ **us** ” and “ **our”** in this policy are all references to EFL Digital.
 
-In common with many other online services we may also use "cookies" to collect information about how you use the Website. This information is used to produce statistical reports on website activity and allows us to tailor the Website to suit your interests. Examples include:
+‘Personal data’ is defined in the Data Protection Law and is essentially information from which an individual person can be identified. By submitting information and/or continuing to use the Site, you signify your consent to us using your personal data in accordance with the below.
 
-  * enabling a service to recognise your device so you don't have to give the same information several times during one task
-  * recognising that you may already have given a username and password so you don't need to do it for every web page requested
-  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are delivered quickly to your web browser
+We may need to change the terms of this Policy from time to time and changes will be posted on this page (and/or where appropriate, otherwise notified to you). Your continued use of the Site will be deemed to be acceptance of amendments we make. This Policy was last updated on 18 July 2017.
+
+## How we use your personal data
+
+Use of services accessed through the Site may require you to provide specific types of information. 
+
+We request that the information you provide is as accurate as possible as this allows us to secure your privacy in relation to registered services by differentiating you from others, and creating a “profile” for you so that we can provide a personalised service when you visit the relevant parts of the Site and/or we send you emails. Periodically we may send you an email asking you to “Update your Details”.
+
+We use information about you for five primary purposes:
+
+        I.            To perform the services you have requested, such as sending you our newsletters and other information about us, the EFL and its competitions. The type of information we may require and use might include, for example, your name, address, email address, gender, date of birth, telephone number and card or other payment details in relation to goods, services or content access you purchase from us through the Site or otherwise. We will NEVER share your financial information with other third parties for any reason other than processing transactions, fraud and credit risk protection, unless we have your consent.
+
+      II.            To enable you to participate in chat rooms, forums, message boards, and/or news groups (if any, as we may make available for that purpose from time to time) on the Site on which you can post information and, where we deem necessary, to respond to any such posts you make. Information you post in these areas may become public information and must always comply with our [Terms of Use](https://web.archive.org/terms-of-use/).
+
+    III.            To alert you to other information, including offers and promotions, relating to us, the Club, EFL and/or commercial partners (where you have agreed to this). See below heading ‘ _Marketing Information_ ’ for more information about this. For example, such information may include newsletters, offers, promotions, occasional surveys and other communications of potential interest from us, or EFL official partners, the EFL and/or The Football League Trust (company number 06466997) (“ **EFL** **Trust** ”) being a charity registered at the same address as the EFL and EFL Digital.
+
+    IV.            To carry out market research so that we can improve the products and services we offer. Your feedback is valued and helps to shape the products, services and content access we offer or make available. You will have the right to opt-out of receiving or participating in our surveys at any time.
+
+      V.            To manage and improve the Site and allow you to use the features offered by the Site. Information we use for this purpose may include (for example) that about your computer and, where available, your IP address, operating system and browser type.
+
+We may also supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other organisations such as our commercial partners, and group companies (including EFL and the EFL Trust) and EFL football clubs (including the Club, and the Club may do vice versa)..
+
+In addition, we reserve the right to perform statistical analysis of user behaviour and characteristics to measure interest in and use of the various areas of the Site and to ascertain the number of users that have visited particular web pages. We also keep track of what you do with our newsletters when you receive them for trends and statistics and to evaluate the efficiency of our newsletter and information service. For example, whether you open, delete, or access links contained in the newsletter. We may provide aggregated and anonymised data (not identifying any individual) only from these analyses to third parties.
+
+### Marketing Information
+
+We do not sell, rent, or otherwise provide personally identifiable information to third-parties without your consent, except only as set out in the ‘ _Disclosing (Sharing) Your Information_ ’ section below.
+
+From time to time we, the EFL and its other group companies, the Club (where chosen) and/or commercial partners (if you have agreed to receive their information when you provided your personal information) would like to contact you to tell you more about the offers, services, products and other initiatives available to you.
+
+We, the EFL and other group companies, the Club and/or our commercial partners will only contact you if you have consented to this. However, if you are an existing customer (and have opted to receive communications) we may contact you about services, products and initiatives similar to those you have previously received or enquired about (unless you have chosen not to receive such communications).
+
+If, at any time after registering, you would like to change your preference and opt-in or opt-out from receiving communications from us or third-parties you can do this at any time by changing your preferences on your personal profile page, which is accessible from all of our emails.
+
+### Cookies
+
+The Site uses cookies. A cookie is a small file containing an identity code. With your consent, your computer accepts the cookie and stores it. When you next visit the relevant Site, the code is retrieved, allowing an individual visitor or computer to be recognised. Full information on which cookies we deploy is available in our Cookies Policy.
+
+### Links to third party websites & services
+
+We are not responsible or liable for the content, privacy policies or services offered by websites or apps other than the Site, including those which link from any of the Site (save for certain, but not all, club websites we control). We encourage you to read and familiarise yourself with the privacy policies, terms and conditions and/or other notices on other websites you visit. 
+
+## Children and Young People
+
+We realise and understand that children and young people, including those under 18 years of age (“ **minors** ”) may visit the Site, or otherwise interact with us and our commercial partners.
+
+It is our policy:
+
+        I.            to encourage all minors to consult with their parents or legal guardian before submitting or requesting any content or information to/from us, our commercial partners or other third parties. Users of the Site, or certain services on them, who indicate they are a minor may be asked to provide a valid email address for their parent or guardian so that we may (providing they have their parent or guardian’s permission) verify parental consent, where required;
+
+      II.            not to make a minor's participation in our activity contingent on the child disclosing any more personal information than is reasonably necessary in order to do so. Anyone known to be a minor may be allowed to participate in certain competitions and promotions, but notification of a win or prize may be sent directly to the parent or legal guardian identified in the initial registration process. Publication of a winning minor’s personal details will require parental or legal guardian consent;
+
+    III.            not to actively market to minors; and
+
+    IV.            not use (or pass to any third party) personal information on persons known to be minors for any commercial purposes.
+
+Some of the facilities or functions accessible through the Site (including betting facilities advertised or accessed through it) are not intended to be accessible by, nor are they actively advertised to, minors.
+
+Parents or legal guardians should supervise minors when online and we recommend parental control tools be put in place. Any minor using the Site and services offered is confirming that they have received the consent of their parent or a guardian to do so.
+
+## Storing and retaining your personal data
+
+We are committed to protecting the security of your personal data, which is held in secure data centres in the European Union in accordance with current legislative requirements, industry standards and technology. We will keep the personal data you have provided for as long as we have a relationship with you. Once that relationship has ended we will retain it in accordance with this Policy only for as long as we reasonably require and it will then be deleted and destroyed.
+
+Some of the organisations to which we may disclose your personal information (including, but not limited to, our technical partners used in delivery of the Site) may be situated outside of the European Economic Area, in countries which may not have laws that protect privacy rights in the same manner as in the United Kingdom. We will however take reasonable steps to ensure that your information is still properly protected.
+
+### Security
+
+Once it is received we store your personal data as set out in this Policy. Financial information you provide (if any) through our online services is also encrypted for additional security.
+
+We cannot guarantee the complete security of our databases, nor that information you supply may not be intercepted while being transmitted to us over the internet.
+
+If we have given you a password to access certain parts of the Site, you are solely responsible for keeping the password safe and make sure you use a secure browser.
+
+## Disclosure (sharing) of your information
+
+We have already described above (including in the ‘ _Marketing Information_ ’ section of this Policy) under what circumstances your personal information may be shared with the Club and our commercial and official partners, if you have agreed.
+
+In addition, there are some other reasons why we may disclose your personal information to third parties and these are as follows:
+
+  * to other companies within our corporate group including EFL and/or the EFL Trust;
+
+
+  * to appoint other organisations to carry out some data processing activities on our behalf. For example, mailing services, payment processing, hosting service providers, other relevant partners used to help us deliver the Site to you and to check your details against the Telephone Preference Service;
+
+
+  * If we or substantially all of our assets are acquired by a third party, in which case personal data held by us about customers will be one of the transferred assets;
+
+
+  * If we are under a duty to disclose or share your personal data to comply with any legal obligation, or to enforce or apply any of our other applicable terms and conditions for products, services, content or access provided by us (for example our ground regulations) and other agreements; and/or
+
+
+  * to protect the rights, property, or safety of us, the Club (and/or other clubs), our commercial partners, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
-A cookie is a small amount of data sent from the server and stored on your computer's hard drive. Most web browsers are automatically set up to accept cookies, but you can set your browser to refuse cookies or ask your browser to show you where a cookie has been set up.
+Where we share your personal information with third parties we will take reasonable steps to ensure that it is properly protected and processed in accordance with this Policy.
 
-Please note that certain features of this Website are only activated by the presence of a cookie and if you choose to refuse cookies these features may not be available to you.
+## Your rights to:
 
-All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
+All requests set out in this section or other queries relating to this Policy should be addressed to Data Protection Compliance Officer at EFL Digital Limited, EFL House, 10-12 West Cliff, Preston, Lancashire PR1 8HU or [privacy@efl.com](mailto:privacy@efl.com). Please include your name, address, and/or email address when you contact us.
 
-[Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)  
-[Cookie settings in Firefox](http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)  
-[Cookie settings in Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
-[Cookie settings in Safari](http://support.apple.com/kb/PH5042)
+### Access Your Personal Information:
 
-We do not recommend turning cookies off when visiting your club website, as this will prevent you from using many of the services on the site.
+You have the right to see a copy of the information that we hold about you. We may charge a small fee towards the cost of administering any request you make which is manifestly unfounded, excessive or repetitive. The current fee is £10.00.
 
-For further information about cookies and how to control their use, please visit the following third party educational resources: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+### Update and Amend Your Personal Information:
 
- **In the context of the website, the following cookies are deployed:**
+You have the right to ask that the information we hold about you is corrected by updating/changing your profile preferences or by contacting us as above. We encourage you to update your personal information promptly if it changes.
 
- **Cookie**|  **Name**|  **Description**  
----|---|---  
-ASP.NET Session Cookie| ASP.NET_SessionId| This is an essential cookie created when request is made for any web page. This is a session ID used to identify a session state of a user.  
-Site acceptance cookie| 
+### Opt-out of Being Contacted:
 
-AC_SplashCookie
+You have the right to ask that we, the EFL group companies and/or commercial partners stop contacting you by clicking the relevant boxes on the screen upon which you provide information or by contacting us.
 
-IN_SplashCookie
+### Close Your Account/Delete Your Personal Information:
 
-ED_SplashCookie
+You (and any parent/guardian of a minor) have the right to request that we close your account and/or delete your personal information from our database. We will make all reasonable efforts to comply with this request. However, it may not be possible to delete an entry without some delay and without retaining some residual personal information necessary for our legitimate interests, such as backups and records of deletions (including to ensure we no-longer communicate with you) or because we are required or permitted to retain personal information for other lawful requirements.
 
-| This cookie is used to record if a user has accepted the use of cookies  
-Google Analytics| _utma   
-_utmb   
-_utmc   
-_utmz| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
-Advertising| wousq   
-AFFICHE_W   
-wbo_temps_reel   
-uuid   
-mt_mop   
-ts   
-wousq   
-AFFICE_W   
-wbo_temps_reel   
-CxtId   
-12bet   
-188bet   
-Admiral   
-Coral   
-id   
-_drt_   
-_wrvur   
-_wrvusr   
-id   
-mdata   
-OAX   
-_pooling| Advertising cookies created by "Ionos" and "High Media" to get user preferences.Advertising networks use cookies to keep track of ads they have already shown to a user.  
-Twitter| pid| Created when user lands the home page  
-Twitter| k   
-guest_id   
-original_referer   
-_twitter_sess   
-_utma   
-_utmb   
-_utmc   
-_utmz   
-_utmv| Twitter cookies created when twitter "Follow Button" is clicked.  
-Facebook| datr   
-lsd   
-reg_fb_gate   
-reg_fb_ref   
-wd   
-act   
-_e_117p_0| Facebook cookies created when Facebook share or like links clicked.  
-  
- **In the context of the Club Player service, the following cookies are deployed:**
+If you are dissatisfied with our response to any of your data privacy concerns you have the right to raise this with the Office of the Information Commissioner at Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF ([https://ico.org.uk](https://ico.org.uk/)).
 
-MatchListViewType| list   
-| Type of the list view used on the Latest News, Last Match etc.   
-| session cookie - expires when window closed   
-  
+## Cookies Policy
+
+This Cookies Policy applies to the official EFL website (“ **Site** ”) and should be read alongside our Privacy Policy which explains who we are, the type of information we may hold about you and how we use it.
+
+The Site use cookies. A cookie is a small file containing an identity code. With your consent, your device accepts the cookie and stores it. When you next visit the Site, the code is retrieved, allowing an individual visitor or device to be recognised. 
+
+Cookies are used for a variety of purposes, including providing personalised web pages and recognising your choice of language. Cookies do not cause harm to your device, but, if you wish to stop your computer accepting cookies, go to the help section of your internet browser (for example, Internet Explorer or Firefox) where you will find information on how to do this. 
+
+### Site Cookies
+
+In the context of the Site, the following cookies are deployed:
+
+Cookie | Name | Description | Duration  
 ---|---|---|---  
-setDefaultVolume   
-| 4   
-| Holds the information about the default player volume   
-| 2 years   
+ASP.NET_SessionId | ASP.NET_SessionId | Session cookie sent to the web browser. Used when you open the browser and then go to a website that implements ASP.NET session state. This cookie is deleted when you close your browser. | Session  
+Session ID | JSESSIONID | Cookie used by web server to maintain HTTP session state. | Session  
+EPiServerLogin | EPiServerLogin | This cookie is associated with the EpiServer content management system. It is set when a visitor logs in to a protected area of a site. | Session  
+ARRAffinity | ARRAffinity | This cookie is set by websites run on the Windows Azure cloud platform. It is used for load balancing to make sure the visitor page requests are routed to the same server in any browsing session. | Session  
+__RequestVerificationToken | __RequestVerificationToken | This is an anti-forgery cookie set by web applications built using ASP.NET MVC technologies. It is designed to stop unauthorised posting of content to a website, known as Cross-Site Request Forgery. It holds no information about the user and is destroyed on closing the browser. | Session  
+__atuvc | __atuvc | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. | 2 years  
+__atuvs | __atuvs | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. | 1 month  
+__epiXSRF | __epiXSRF | Protects against Cross-site Request Forgery (XSRF) | Session  
+OPTAW_gaCookie | OPTAW_gaCookie | This cookie is associated with the Opta performance widgets. It is used by Opta to determine which webpages the widgets are being loaded from. | 2 years  
+UserID | UserID | Randomly generated user id cookie for ADITION Ad Serving | 180 Days  
+Username | UserName | When user checks “Keep Me Signed In”, this cookie stores the username value. If user is signed out, we use this cookie to prepopulate the username field for subsequent authentication | 90 days  
+Iv_CampaignID | Iv_ | Campaign ID of the served ad for postracking campaigns for ADITION Ad Serving | 180 Days  
+fc | fc | Contains information for frequency capping contains for ADITION Ad Serving | 180 Days  
+__cfduid | __cfduid | Cloudflare CDN security cookie | 1 year  
+videoaccesslevel | videoaccesslevel | Used to track video access level for front-end display purposes only | Session  
+videologgedin | videologgedin | Used to track if user is logged in for front-end display purposes only | Session  
+videosession | videosession | A unique ID for video analytics to identify the user | Session  
+videotoken | videotoken | a cookie to store the user’s OAUTH video access token before being put in local storage ( | Briefly after log in  
+videorefreshtoken | videorefreshtoken | a cookie to store the user’s OAUTH refresh access token before being put in local storage | Briefly after log in  
+_ga | _ga | This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports. | 2 years  
+cookieconsent_status |   | Created by the Cookie Consent widget and enables you to accept our cookie statement once every year. | 1 year  
+Link Token | nllinktoken | When user checks “Keep Me Signed In”, this cookie stores the user authentication token used for automatic sign in across browser sessions. | 90 Days  
+Referral | refer | Used for referral tracking and conversion. Inbound referral URL clickthroughs will result in this cookie being generate. Any conversions will be attributed to the referrer of the referral URL | 2 Days  
+_gat | _gat | Used by Google Analytics to throttle request rate. | 10 minutes  
+_dc_gtm | _dc_gtm | Used by Google Tag Manager to distinguish users and events on the website and analyse how users interact with the website. | End of session  
+OPTAW_gaCookie | OPTAW_gaCookie | This cookie is associated with the Opta performance widgets. It is used by Opta to determine which webpages the widgets are being loaded from. | 2 years  
+OPTAW_gaCookie_gid | OPTAW_gaCookie_gid | This cookie is used by Opta to distinguish visitors viewing webpages the widgets are being loaded from. | 24 hours  
+_gid | _gid | Used by Google Analytics to distinguish site users. | 24 hours  
+_gat  
+_gat_UA-nnnnnnn-nn | _gat  
+_gat_UA-nnnnnnn-nn | Used by Google Analytics to monitor request rates toward their servers. | 10 mins  
+SnapABugRef | SnapABugRef | Used by SnapEngage Chat for tracking of origin and site entry. | 2 hours  
+SnapABugChatSession | SnapABugChatSession | Used by Snap Engage Chat for tracking of chat in progress. |    
+SnapABugNoProactiveChat | SnapABugNoProactiveChat | Used by Snap Engage Chat - flag to avoid proactively prompting visitors again. | 30 mins  
+SnapABugChatPoll | SnapABugChatPoll | Used by Snap Engage Chat for tracking of the chat in progress transcript position. | 16 mins  
+SnapABugChatMessage | SnapABugChatMessage | Used by Snap Engage Chat for message type by visitor persistence across pages. | 16 mins  
+SnapABugChatView | SnapABugChatView | Used by Snap Engage Chat for checking logic handling. | 16 mins  
+SnapABugHistory | SnapABugHistory | Used by Snap Engage Chat to keep track of the visitor visits and last chats to present history to agent. | 1 year  
+SnapABugVisit | SnapABugVisit | Used by Snap Engage Chat for chat detection. | Session only  
+SnapABugUserEmail | SnapABugUserEmail | Used by Snap Engage Chat for visitor email address used to prepopulate the pre-chat window. | 1 year  
+SnapABugBanned | SnapABugBanned | Used by Snap Engage Chat for tracking of visitor banned for chatting (banned by agent ban command). | 30 days  
+videocheckloggedin | videocheckloggedin | A cookie to help with login after package purchase | Session or shorter  
+videocheckingloggedin | videocheckingloggedin | A cookie to help with login after package purchase | 1 minute  
   
-cookietest   
-| ok   
-| used for testing if the cookies are enabled   
-| session cookie - expires when window closed   
-  
-giftCardExpirationCloseButtonHit   
-| FALSE   
-| Records if the gift card expiration pop-up was closed   
-| session cookie - expires when window closed   
-  
-giftCardExpirationInvalidity   
-| 1,44958E+12   
-| Contains information about gift card expiration   
-| session cookie - expires when window closed   
-  
-giftCardExpiration14daysReminder   
-|   
-| Contains information about gift card expiration in 14 days   
-| session cookie - expires when window closed   
-  
-giftCardExpiration7daysReminder   
-|   
-| Contains information about gift card expiration in 7 days   
-| session cookie - expires when window closed   
-  
-giftCardExpiration1dayReminder   
-|   
-| Contains information about gift card expiration in 1 day   
-| session cookie - expires when window closed   
-  
-ptvuid   
-| 340140   
-| User identification cookies   
-| 2 years   
-  
-ptvzon   
-| fname   
-| User identification cookies   
-| 2 years  
-ptvliet   
-|   
-| User identification cookies   
-| 2 years   
-  
-ptvliv   
-|   
-| User identification cookies| 2 years  
-s_cc   
-| TRUE   
-| Omniture - website analytics   
-| session cookie - expires when window closed   
-  
-s_sq   
-| [[B]]   
-| Omniture - website analytics   
-| session cookie - expires when window closed   
-  
-tabPreferences34002   
-| 0   
-| Determines the selected tab (e.g. used for navigation)   
-| 1 hour   
-  
-tabPreferences37220   
-| 2   
-| Determines the selected tab (e.g. used for navigation)   
-| 1 hour   
-  
-tabPreferences401   
-| 0   
-| Determines the selected tab (e.g. used for navigation)   
-| 1 hour  
-takeover   
-| Y   
-| sets itself if already doesn't exist, nothing more   
-| session cookie - expires when window closed   
-  
-timeDifference   
-| 3601000   
-| Used for event countdown   
-| 24h   
-  
-accessibleCSSDisplay|   
-| Accessible version on/off   
-| 4 years   
-  
-ccExpirationInvalidity   
-|   
-| Used for credit card expiration notification   
-| session cookie - expires when window closed   
-  
-ccExpirationCCInvalidity|   
-| Used for credit card expiration notification   
-| session cookie - expires when window closed   
-  
-ccExpiration14DaysReminder   
-|   
-| Used for credit card expiration notification 14 d before card expiration   
-| session cookie - expires when window closed   
-  
-ccExpirationCloseButtonHit   
-| FALSE   
-| Records if the Credit card expiration pop-up was closed   
-| session cookie - expires when window closed   
-  
-  
-**2\. Google Analytics**  
+### Google Analytics
 
+Google Analytics uses traffic log cookies to gain information about the use that is made of pages on the applicable Site. We use the information from these cookies to generate reports on the usage of the applicable Site which are used for evaluation and analysis. The purpose is to improve the Site by tailoring them to the needs of users.
 
-Google Analytics use traffic log cookies to gain information about the use that is made of pages on our website. We use the information from cookies to generate reports on the usage of our website which are used for evaluation and analysis. The purpose is to improve our website by tailoring it to the needs of users.
+In such cases, no data which is itself specific to any identifiable user is retained.
 
-In addition to standard analytics parameters, we receive data via below Google Analytics Advertising Features:   
+In addition to standard analytics parameters, we receive data via Google Analytics Advertising Features including information about 'Demographics and Interest Reporting' which gives us greater insight into the  _types_  of visitors we receive.
 
+As a user you can opt out of this process of collecting traffic log data. To do so please visit the  following site which provides a browser add-on that enables a user to opt out -
 
-  * 'Demographics and Interest Reporting' gives us greater insight into the  _types_  of visitors we receive.
+[**http://tools.google.com/dlpage/gaoptout**](http://tools.google.com/dlpage/gaoptout)
 
+### Miscellaneous
 
+All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. To understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
 
-In all cases, no data specific to any identifiable user is retained.
+[Cookie settings in Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
 
-As a user you can opt out of this process of collecting traffic log data. To do so please visit the following site which provides a browser add-on that enables a user to opt out -
+[Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
 
-[ **http://tools.google.com/dlpage/gaoptout**](http://tools.google.com/dlpage/gaoptout "Link: Google Analytics Opt-out Browser Add-on")
+[Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
 
- **3\. How will we use your personal information?**
+[Cookie settings in Safari](https://support.apple.com/kb/ph21411?locale=en_US)
 
-Primarily we will use the personal information we collect about you to send you information you have requested, create a membership profile for you (allowing us to provide a personalised service when you visit the Website), assist in the provision of products and services to you and to enable us to review and improve the products or services offered to you.
+[Cookie settings in Edge](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
 
-From time to time we would also like to contact you to let you know about products and services offered by us, our clubs, their official partners and other carefully selected third parties that may be of interest to you. We may also provide your details to carefully selected third parties in order for them to contact you directly about their products and services. By ticking the applicable boxes in the Privacy Notice you are deemed to agree to the use of your information for these purposes.
+We do not recommend turning cookies off when using the Site, as this will prevent you from using many of the services on the relevant Site to which the cookies apply.
 
- **4\. What are my choices?**
-
-You have a right to stop us from contacting you for marketing purposes or giving your information to third parties. If you no longer wish to be contacted for marketing purposes please click on the "unsubscribe" URL link that is on the bottom of any email you receive from us.
-
-Customers who have opted out of receiving marketing communications will still receive payment and account related emails.
-
-You are also entitled to request a copy of the information that we hold about you. If you would like to do this please contact us using the details below. You may be required to pay a small fee for this service.
-
-We want to make sure that the personal information we hold about you is accurate and up to date. You can update your contact preferences by clicking on the preference centre link at the bottom of any email you receive from us. You may ask us to correct or remove information you think is inaccurate.
-
- **5\. When does this Privacy Policy not apply?**
-
-This Privacy Policy only applies to the collection of personal information by us and those whom we authorise. It does not cover third party sites to which we provide links, nor does it cover advertisers and content partners within our service who may also collect your personal information. If you link to third party websites from this Website you should read their privacy policies and terms of use carefully.
-
-If you place personal details on any publicly accessible page (for example on a message board) then this data will not be covered by our Privacy Policy.
-
- **6\. How do we protect your information?**
-
-We are firmly committed to data security. The personal information you provide to us is encrypted before it is sent to us and once it is received we store it on secure servers. We take steps to guard against unauthorised access to your personal information and to ensure it is treated in accordance with our Privacy Policy. Unfortunately, although we make every effort to create a secure environment for your personal information we cannot guarantee the safety of any personal information which you transmit to us online.
-
-The personal information we collect may be transferred to and/or stored or processed at a location outside the European Economic Area. By providing your personal information you consent to this transfer, storage and/or processing. We will take steps to ensure that your personal information is kept securely and in accordance with the Privacy Policy.
-
- **7\. Contacting us**
-
-Please contact us using the details below if you have any questions about our Privacy Policy or the information we hold about you:
-
-Email: [privacy@football-league.co.uk](mailto:privacy@football-league.co.uk)
-
-Address: Data Protection Compliance Officer, FL Interactive, Unit 5B Edward VII Quay, Navigation Way, Preston, Lancashire, PR2 2YF
-
-Read more at <http://www.football-league.co.uk/global/privacy-policy.aspx#dp54wTvZWjYodBqD.99>
+For further information about cookies and how to control their use, please visit the following third party educational resources: [www.allaboutcookies.org](http://www.allaboutcookies.org/)  and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
