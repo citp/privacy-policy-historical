@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucyzara.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521095838id_/http%3A//lucyzara.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucyzara.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121143101id_/http%3A//www.lucyzara.com/privacy.php) for the most accurate reproduction.*
 
 # LucyZara - UK Playboy&Penthouse Model
 
@@ -35,4 +35,4 @@
 > 
 > **If you feel that we are not abiding by this privacy policy, you should contact us immediately via[email](mailto:admin@bluepixelsprofits.com).**
 > 
-> [Continue](https://web.archive.org/web/20170521095838id_/http%3A//lucyzara.com/index.php)
+> [Continue](https://web.archive.org/web/20171121143101id_/http%3A//www.lucyzara.com/index.php)
