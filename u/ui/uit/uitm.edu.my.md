@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uitm.edu.my privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630161429id_/http%3A//www.uitm.edu.my/index.php/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uitm.edu.my privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121174913id_/http%3A//www.uitm.edu.my/index.php/en/privacy-statement) for the most accurate reproduction.*
 
 # Universiti Teknologi MARA - Privacy Statement
 
@@ -52,30 +52,3 @@ Our website may contain links to other websites of interest. However, once you h
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 Last Updated: Thursday, 26 January 2017 12:01 
-
-**16 Mar 2017 to 15 Apr 2017**  
-Visitor: 228,079  
-Pageviews: 1,701,855  
-Sessions: 1,237,162  
-Returning Visitor (Sessions): 1,076,529  
-New Visitor (Sessions): 160,633
-
- **16 Feb  2017 to 15 Mar 2017**  
-Visitors: 168,279  
-Pageviews: 1,136,506  
-Sessions: 739,167  
-Returning Visitors (Sessions): 625,172  
-New Visitors (Sessions): 113,995
-
-* _Data source: Google Analytics_
-
-__Universiti Teknologi MARA (UiTM)  
-40450 Shah Alam, Selangor Darul Ehsan  
-Malaysia
-
- __ **Chief Information Officer (CIO)** : cspi[at]salam[dot]uitm[dot]edu[dot]my
-
-__**Technical (Webmaster)** : webmedia[at]salam[dot]uitm[dot]edu[dot]my
-
-__+603-5544 2000  
- __  +603-5544 3999
