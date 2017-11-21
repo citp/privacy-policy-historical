@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the honeyflow.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201051847id_/https%3A//www.honeyflow.com/extras/privacy-policy/p/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyflow.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121180136id_/https%3A//www.honeyflow.com/extras/privacy-policy/p/8) for the most accurate reproduction.*
 
-# BeeInventive's Privacy Policy - Flow™ Hive
+# BeeInventive's Privacy Policy - Flow Hive - Flow
 
-April 2016
+_Last updated: February 10th 2017_
 
-BeeInventive Pty Ltd  ACN: 161 952 941 (operator and licensee of the FlowTM brand, subsequently referred to as “we”) is subject to current Australian privacy legislation. We fully respect the confidentiality of your information and take your privacy very seriously. In line with applicable legislation we explain in this privacy policy
+BeeInventive Pty Ltd  ACN: 161 952 941 (operator and licensee of the Flow brand, subsequently referred to as “we”) is subject to current Australian privacy legislation. We believe that the compliance with the Australian privacy legislation makes us also compliant with the EU and the US data and privacy protection rules. 
+
+We fully respect the confidentiality of your information and take your privacy very seriously. In line with applicable legislation we explain in this privacy policy
 
   * why we need your personal information and what types of information we collect from you;
-  * how we make sure your personal information remains safe and secure; 
+  * how we make sure your personal information remains safe and secure;
   * how you can contact us to find out more about your personal information.
 
 
 
 ## Why we need your personal information?
 
-In this Privacy Policy, personal information is any information that could identify or be used to establish your identity. We collect your personal information so that we may fulfil your orders, advise you of the latest developments in our business and create a vibrant bee keeping community. 
+In this Privacy Policy, personal information is any information that could identify or be used to establish your identity. We collect your personal information so that we may fulfil your orders, advise you of the latest developments in our business and create a vibrant bee keeping community.
 
-We engage in design, development, manufacturing, distribution and marketing of FlowTM Hives and other bee keeping equipment. We mainly collect, hold, use and disclose your personal information so that we can design, manufacture and deliver our products to you.
+We engage in design, development, manufacturing, distribution and marketing of Flow Hives and other bee keeping equipment. We mainly collect, hold, use and disclose your personal information so that we can design, manufacture and deliver our products to you.
 
 We may use your personal information to keep you informed about the latest offers related to our products, bee keeping related activities and bee keeping educational resources. You can opt out of receiving direct marketing information from us at any time.
 
@@ -90,7 +92,7 @@ Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
 
 ## Privacy and the Internet
 
-This section outlines some privacy issues specific to honeyflow.com.au and honeyflow.com websites.
+This section outlines some privacy issues specific to honeyflow.com.au, honeyflow.com and eu.honeyflow.com websites.
 
 Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the web site, when you return to the web site, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on our websites.
 
@@ -98,7 +100,7 @@ We use cookies to give you access to certain pages of the websites without havin
 
 Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of honeyflow.com.au or honeyflow.com if you choose to disable the cookie acceptance in your browser, particularly the shopping cart and the secure parts of the websites such as My account area. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
 
-Website analytics measurement software is used to assist in tracking traffic patterns to and from our websites, surveying users of the sites. The system is used to collect such information as the number of unique visitors, how long these visitors spend on the website when they do visit, and common entry and exit points into and from the websites. This information is collected and aggregated by third party software and provided to us to assist in our analysis of the websites. 
+Website analytics measurement software is used to assist in tracking traffic patterns to and from our websites, surveying users of the sites. The system is used to collect such information as the number of unique visitors, how long these visitors spend on the website when they do visit, and common entry and exit points into and from the websites. This information is collected and aggregated by third party software and provided to us to assist in our analysis of the websites.
 
 ## About this Policy
 
