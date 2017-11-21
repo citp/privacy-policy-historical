@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymixtapez.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917003521id_/http%3A//mymixtapez.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymixtapez.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121041506id_/http%3A//www.mymixtapez.com/privacy-policy.html) for the most accurate reproduction.*
 
 # My Mixtapez - Privacy Policy
 
@@ -39,6 +39,8 @@ From time to time, My Mixtapez may offer you the opportunity to participate in s
 ## 3\. How we use the information we collect
 
 My Mixtapez may use the information we collect, including, but not limited to, your personal information, to: (1) provide, personalize, and improve your experience with the My Mixtapez Service and products and/or services made available through the Service; (2) ensure proper technical functioning of the My Mixtapez Service and products and/or services made available through the Service; (3) develop new products and/or services and analyze your use of the My Mixtapez Service, including, but not limited to, your interaction with applications, advertising, products and services that are made available, linked to, or offered by the Service; (4) communicate with you for Service-related purposes, including, but not limited to, promotional emails or messages; (5) enable and promote the Service, including features, content, products and/or services made available by or through the Service, such as sharing, user interactions, notifications and suggestions, and integration with third party services (i.e., Other Integrated Services); (6) enforce this Privacy Policy and the Terms and Conditions of Use incorporated herein, including, but not limited to, the protection of the rights, property or safety of My Mixtapez, you, or any other person or entity and the copyright-protected content found on or through the My Mixtapez Service; and (7) as otherwise needed, pursuant to the terms stated in this Privacy Policy. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org.
 
 ## 4\. How we share the information we collect
 
