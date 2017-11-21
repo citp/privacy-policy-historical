@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencegeek.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181747id_/http%3A//www.sciencegeek.net/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencegeek.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121191240id_/http%3A//www.sciencegeek.net/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,4 +13,4 @@
   
     Because I am not involved in the maintenance and configuration of the PowerSchool portal, I cannot provide User ID's and passwords for gaining access to the grades for my students. For information about grade access, please contact your child's Learning Director. 
 
-If your question still has not been answered, please email me:[andy.allan59@gmail.com](mailto:andy.allan59@gmail.com)
+If your question still has not been answered, please email me:[[email protected]](mailto:andy.allan59@gmail.com)
