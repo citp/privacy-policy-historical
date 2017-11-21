@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talizma.net privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611072748id_/http%3A//talizma.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talizma.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121131052id_/http%3A//talizma.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | talizma
 
