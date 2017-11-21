@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendnet.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209092659id_/http%3A//www.trendnet.com/company/%3Fcompany%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendnet.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121152046id_/http%3A//www.trendnet.com/company/%3Fcompany%3Dprivacy_policy) for the most accurate reproduction.*
 
 # TRENDnet | Company | Privacy Policy
 
@@ -34,6 +34,8 @@ TRENDnet will not disclose your personal information to any outside organization
 
 **Third Party Websites**  
 Agents or contractors of TRENDnet who have access to personal information are required to keep the information confidential and use it only to carry out TRENDnet business. Please be aware that other Websites that may be accessed through our site may collect personally identifiable information about you. The information practices of those third-party web sites linked to trendnet.com are not covered by this privacy statement. 
+
+TRENDnet is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 **California Privacy Rights**   
 In accordance to California Civil Code Section 1798.83, residents from the State of California who have provided personal information to TRENDnet are entitled to request information about whether their personal details have been disclosed to any third parties for the third parties’ direct marketing purposes. Upon receipt of a request by a California customer, TRENDnet will provide any such disclosure details from the preceding year. If you would like to make such a request, please send an email to [webmaster@trendnet.com](mailto:webmaster@trendnet.com).
