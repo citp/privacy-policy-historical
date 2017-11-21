@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowhow-now.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521192331id_/http%3A//knowhow-now.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowhow-now.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121134813id_/http%3A//knowhow-now.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 If this website is sold as a going concern then the user data collected will be treated as a business asset and will be transferred at the point of sale with the same conditions imposed upon any new owner(s) of the website. This means that your accounts will be safe in the event of a business sale.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please send an email to manager@knowhow-now.com.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please send an email to [[email protected]](http://knowhow-now.com/cdn-cgi/l/email-protection)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -76,7 +76,7 @@ QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
 
 You may direct questions, comments or reports to: 
 
-manager@knowhow-now.com
+[[email protected]](http://knowhow-now.com/cdn-cgi/l/email-protection)
 
 REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
 
