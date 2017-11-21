@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automart.co.za privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616103552id_/http%3A//www.automart.co.za/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automart.co.za privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121062348id_/http%3A//www.automart.co.za/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,6 +23,10 @@ The Company encourages you to review the privacy statements of websites you choo
 The Company collects and uses your personal information to operate the Company website and deliver the services you have requested. The Company also uses your personally identifiable information to inform you of other products or services available from the Company and its affiliates. The Company may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
 The Company does not sell, rent or lease its customer lists to third parties. The Company may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, The Company may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to the Company, and they are required to maintain the confidentiality of your information.
+
+The Company may, from time to time, use any information you have submitted on any of the company sites, including but not limited to Junk Mail, Job Mail, Auto Mart, Truck & Trailer, and AgriMag, to send you marketing material that might be relevant to you.
+
+The Company can, from time to time, also collect and use your information, collected while you browse the website, for current and future marketing purposes.
 
 The Company does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
