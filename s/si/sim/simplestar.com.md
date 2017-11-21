@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607091247id_/http%3A//simplestar.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121194044id_/http%3A//www.simplestar.com/company/privacy) for the most accurate reproduction.*
 
 # SimpleStar | Cleaning your PC has never been so simple!
 
