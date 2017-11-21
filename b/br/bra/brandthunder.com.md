@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandthunder.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094757id_/http%3A//brandthunder.com/brandthunder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandthunder.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121103027id_/http%3A//brandthunder.com/brandthunder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Brand Thunder
 
@@ -18,9 +18,11 @@ You are not required to register with us to download a Extension, and may do so 
 
 **No Spyware, No Adware**
 
-TheExtension does not collect any personal information about you (such as your name, email address, etc.). Further, it does not collect or report back to us (or anyone else) any data regarding your computer keystrokes or other data unrelated to the services the Extension provides.
+The Extension does not collect any personal information about you (such as your name, email address, etc.). Further, it does not collect or report back to us (or anyone else) any data regarding your computer keystrokes or other data unrelated to the services the Extension provides.
 
 Anonymous Extension Usage Statistics.   In order to continue to provide the high-quality Extensions to you and to other Users, we do need certain statistics about how ourExtensions are used.   To facilitate this, theExtension includes one or more unique application numbers that are not associated with you or your Brand Thunder account (if you have chosen to register with us). These numbers are sent to us when you install or uninstall theExtension and when theExtension periodically contacts our servers, for example, to request automatic updates or to provide us with usage statistics about that Extension, such as whether it is active, default settings and total usage of other features of the Extension, including links to third-party applications or sites (“Usage Statistics”).  All Usage Statistics are recorded on a non-personally identifiable basis and is kept strictly anonymous.
+
+Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy>, and the search provider’s privacy policy, as applicable
 
 Children.  We do not use the Service to knowingly solicit data from or market to children under the age of 13.   If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at info@brandthunder.com. We will delete such information from our files.
 
@@ -34,4 +36,4 @@ How to Contact Us.  If you have any questions or concerns about this Privacy Po
 
 **Email: info@brandthunder.com**
 
-**Last Updated:  April 2016**
+**Last Updated:  OCTOBER  2017**
