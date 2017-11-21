@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ambersprings.ie privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530174851id_/http%3A//www.ambersprings.ie%3Fpage_id%3D521) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambersprings.ie privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121183010id_/http%3A//www.ambersprings.ie%3Fpage_id%3D521) for the most accurate reproduction.*
 
-# Privacy Policy
+# Amber Springs Hotel Gorey - Privacy Policy
 
 **Introduction**
 
