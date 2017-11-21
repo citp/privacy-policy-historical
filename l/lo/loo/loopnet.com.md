@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145135id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D31860) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121225230id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D31860) for the most accurate reproduction.*
 
 # LoopNet - Privacy Statement
 
 Last Updated: October 15, 2015
 
-**LoopNet's Privacy Statement**
+**LoopNet's Privacy Statement:**
 
 LoopNet Inc., a wholly owned subsidiary of CoStar Group (collectively “LoopNet’, “we”, “us” or “our) provide this Privacy Statement that covers the website [http://www.loopnet.com](http://www.loopnet.com/). By accessing, using or registering with LoopNet's web site, you accept and agree to LoopNet's Privacy Statement. LoopNet provides a variety of online services for commercial real estate professionals. LoopNet values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at LoopNet to provide the best quality service possible. The following privacy statement summarizes LoopNet's protection and use of any personal information provided by visitors to the LoopNet site.
 
@@ -108,7 +108,7 @@ Users who do not wish to receive marketing emails including LoopNews, LoopNet Pr
 
 If your personal information changes, or if you no longer desire our service, you may correct, delete or update your personal information by making the change on your member profile page or by emailing our Customer Support at [info@loopnet.com](mailto:info@loopnet.com).
 
-Subscriptions will automatically renew using the Customer's current credit card account number unless Customer cancels their subscription on the LoopNet Web site at [http://www.LoopNet.com/ProductCancellations](https://web.archive.org/ProductCancellations?intcpt=false) three (3) days prior to the renewal date to cancel such subscription. All cancellation requests will be processed within five (5) business days. Once the cancellation is processed, a confirmation email will be sent via the customer's email account on record with LoopNet. If Customer has a question about a cancellation, Customer should contact LoopNet Client Services at [Help@LoopNet.com](mailto:Help@LoopNet.com) or at 888-567-7442. The Company reserves the right to change its fees or billing methods at any time. The Company will provide timely notice to the affected Customers of any such changes.
+Subscriptions will automatically renew using the Customer's current credit card account number unless Customer cancels their subscription on the LoopNet Web site at [http://www.loopnet.com/MyAccount/](https://web.archive.org/MyAccount/) three (3) days prior to the renewal date to cancel such subscription. All cancellation requests will be processed within five (5) business days. Once the cancellation is processed, a confirmation email will be sent via the customer's email account on record with LoopNet. If Customer has a question about a cancellation, Customer should contact LoopNet Client Services at [Help@LoopNet.com](mailto:Help@LoopNet.com) or at 888-567-7442. The Company reserves the right to change its fees or billing methods at any time. The Company will provide timely notice to the affected Customers of any such changes.
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@loopnet.com](mailto:info@loopnet.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
