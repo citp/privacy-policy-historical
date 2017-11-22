@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schlockmercenary.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044425id_/http%3A//www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schlockmercenary.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164418id_/http%3A//www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Schlock Mercenary - Privacy Policy and Terms of Use
 
