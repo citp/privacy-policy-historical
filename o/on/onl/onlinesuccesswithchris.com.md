@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesuccesswithchris.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095657id_/http%3A//onlinesuccesswithchris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesuccesswithchris.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122130132id_/http%3A//onlinesuccesswithchris.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Success With Chris
 
@@ -22,8 +22,7 @@ We may collect information about your computer and your visits to this website s
 
 We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We may send a cookie which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes. We may also use that information to recognize your computer when you visit our website, and to personalize our website for you. [Our advertisers, if any, may also send you cookies.]  
-
+We may send a cookie which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes. We may also use that information to recognize your computer when you visit our website, and to personalize our website for you. [Our advertisers, if any, may also send you cookies.]
 
 Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
 
