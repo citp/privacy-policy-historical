@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618153510id_/http%3A//www.oceanspray.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122133848id_/http%3A//www.oceanspray.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Tastes Good, Good For You® Cranberry Juices & Snacks | Ocean Spray
 
@@ -101,18 +101,17 @@ Generally, Ocean Spray and the [www.oceanspray.com](http://www.oceanspray.com/) 
 
 If you are under the age of 13, we request that you do not provide any personally identifiable information to us. If Ocean Spray becomes aware that it has received unsolicited personal information from children under 13, we will promptly terminate any accounts associated with such information and delete any and all such personal information. If you are a parent and believe your child has provided us with information, please contact Ocean Spray at:
 
-**E-mail Us**  
-[consumer@oceanspray.com](mailto:consumer@oceanspray.com)
+[**Click here**](https://ask.oceanspray.com/contact-us/) to use our email form.
 
 **Call Us**  
 Toll-Free at 1-800-662-3263  
-Weekdays, 9:00 a.m. – 4:00 p.m. Eastern Standard Time
+Weekdays, 9:00 a.m. – 6:00 p.m. Eastern Standard Time
 
 **Write Us**  
-Ocean Spray Consumer Affairs Department  
-Ocean Spray Cranberries, Inc.  
-One Ocean Spray Drive  
-Lakeville-Middleboro, MA 02349
+Ocean Spray Cranberries  
+Consumer Affairs  
+Post Office Box 2253  
+Kings Mountain, NC 28086
 
 _Children’s Privacy Policy for Promotions, Sweepstakes, and Competitions_
 
