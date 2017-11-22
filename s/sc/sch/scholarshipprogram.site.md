@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipprogram.site privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101181122id_/http%3A//www.scholarshipprogram.site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipprogram.site privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122113208id_/http%3A//www.scholarshipprogram.site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ScholarshipProgram.Site
 
