@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneylandparis.co.uk privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523125835id_/http%3A//holidays.disneylandparis.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneylandparis.co.uk privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164035id_/http%3A//holidays.disneylandparis.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Disneyland Paris | Disneyland Paris
 
@@ -39,6 +39,7 @@ We will only collect personally identifiable information during the following:
   4. When you order a brochure
   5. When you register for news and offers
   6. When you answer to surveys
+  7. When you use our online assistance tools
 
 
 
@@ -47,8 +48,6 @@ This information is then used (i) to inform winners of a competition what prizes
 This personal information is ONLY used by Euro Disney and carefully selected third party service providers and is NEVER shared with other third parties, unless otherwise clearly stated at the time of collection or registration. Even then, it would only be shared when we have your permission to do so.When we post information about you on our sites, (for example, if you are a competition winner), we will never disclose personally identifiable information that could let other people know where you live or exactly who you are.
 
 Please note that, your Personal Information will not be transferred outside the European Union unless you are informed otherwise at the time you provide your Personal Information. In any event, Personal Information will be transferred subject to the entity receiving such Personal Information provides appropriate warranties in full compliance with European regulations on data privacy.
-
-In the context of our online assistance tool, personal information you provide us with are processed by Euro Disney Associés SCA for the purposes of managing your request. Such information is transferred to the USA to the Touch Commerce Company that hosts the tool. Such a transfer is subject to the Standard Clauses set by the European Commission (Decision 2010/87/EU).
 
 
 
