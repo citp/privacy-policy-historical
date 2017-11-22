@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mature.nl privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010632id_/http%3A//www.mature.nl/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mature.nl privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122082134id_/http%3A//www.mature.nl/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Problem Master BV
 
-Problem Master BV  
-Kerkenbos 1097H, 6546 BB Nijmegen, The Netherlands  
-Our opening times; Mo - Fri 09.30 - 17.30 CET  
-Tel +31 (0)24 - 3733055
+Fast Online Marketing LLC  
+1 Progress Plz, Suite 18  
+St. Petersburg FL 33701  
+USA
 
-This privacy policy discloses the privacy practices for mature.nl. This privacy policy applies solely to information collected by this web site. This privacy policy was last updated on September 14th 2016.
+This privacy policy discloses the privacy practices for mature.nl. This privacy policy applies solely to information collected by this web site. This page was last updated on July 7th 2016.
 
 ### Information Collection, Use, and Sharing
 
