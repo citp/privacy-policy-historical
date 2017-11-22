@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citymax.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520024823id_/http%3A//www.citymax.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citymax.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122150923id_/http%3A//www.citymax.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # CityMax.com Privacy Policy
 
