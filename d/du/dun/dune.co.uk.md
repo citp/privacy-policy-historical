@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dune.co.uk privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508153058id_/https%3A//www.dunelondon.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dune.co.uk privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122153015id_/https%3A//www.dunelondon.com/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dune Shoes Online
 
