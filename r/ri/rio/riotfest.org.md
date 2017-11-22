@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riotfest.org privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617021004id_/http%3A//riotfest.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riotfest.org privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122133804id_/http%3A//riotfest.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Riot Fest
 
