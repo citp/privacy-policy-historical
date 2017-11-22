@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myafricanow.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425160929id_/http%3A//www.myafricanow.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myafricanow.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122062805id_/http%3A//www.myafricanow.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - My Africa Now
 
