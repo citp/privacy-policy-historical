@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyguru.com.sg privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043616id_/http%3A//www.propertyguru.com.sg/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyguru.com.sg privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122220757id_/http%3A//www.propertyguru.com.sg/customer-service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PropertyGuru Singapore
 
@@ -6,9 +6,9 @@ PropertyGuru Pte Ltd (" **we** " or " **us** " or “ **our** ”) is the operat
 
 This Privacy Policy (together with our Terms of Service <http://www.propertyguru.com.sg/customer-service/terms-of-service> and any other documents referred to in it) sets out how personal data that we collect from you, or that you provide to us, will be used, processed or disclosed by us, including how certain information would be used to personalise advertising directed at you. This Privacy Policy also sets out the types of personal data we collect, how we keep it secure, as well as how you can access or alter your personal data stored by us. This Privacy Policy covers use of the Website, as well as the Apps, and any other way you may connect to or interact with us through the use of our products and services. 
 
-Please read the following carefully to understand our policy and practices regarding your personal data and how we will treat it. 
+Please read the following carefully to understand our policy and practices regarding your personal data and how we will treat it.
 
-Unless restricted by applicable law, you agree that any and all personal data relating to you collected by us or provided by you from time to time may be used, processed, and disclosed for such purposes and to such persons as set out in this Privacy Policy. 
+Unless restricted by applicable law, you agree that any and all personal data relating to you collected by us or provided by you from time to time may be used, processed, and disclosed for such purposes and to such persons as set out in this Privacy Policy.
 
 We may amend this Privacy Policy at any time by posting a revised version on the Website. However, an individual notice will not be sent to you. You will be deemed to have acknowledged and agreed to the amended Privacy Policy if you continue to use the Website, the Apps or our products and services after the changes have taken effect. You are reminded to check this Website from time to time for updates to this Privacy Policy.
 
@@ -44,7 +44,7 @@ We may amend this Privacy Policy at any time by posting a revised version on the
 
   • responding to and taking follow-up action on complaints regarding the use of the Website, the Apps or any product or service provided by us;
 
-  • sending you general (non-marketing) commercial communications; 
+  • sending you general (non-marketing) commercial communications;
 
   • performing office and operational administrative matters; and
 
@@ -107,8 +107,10 @@ We may amend this Privacy Policy at any time by posting a revised version on the
 9.2 All requests for information or requests for the amendment of personal data held by us shall be made by completing our standard Request for Information/Amendment of Information form (PDF available here <http://www.propertyguru.com.sg/customer-service/privacy/request-form>), and sending a copy of the duly completed form to us via post or fax at:
 
 **PropertyGuru Pte Ltd  
-** 51 Goldhill Plaza #11-03/05  
-Singapore 308900
+** 111 Somerset Road  
+TripleOne Somerset  
+#08-20/28  
+Singapore 238164
 
 Attention: Privacy Officer  
 Fax Number: (+65) 6534 9544
