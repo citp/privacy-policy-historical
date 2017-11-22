@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindjet.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630181914id_/https%3A//www.mindjet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindjet.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122221158id_/https%3A//www.mindjet.com/privacy) for the most accurate reproduction.*
 
 # Mindjet Privacy Policy
 
