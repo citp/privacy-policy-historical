@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utar.edu.my privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121113906id_/https%3A//www.utar.edu.my/PrivacyNotice_English.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utar.edu.my privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122072537id_/https%3A//www.utar.edu.my/PrivacyNotice_English.jsp) for the most accurate reproduction.*
 
 # PRIVACY NOTICE
 
@@ -95,7 +95,7 @@ Any personal information shall be retained by UTAR in order to serve the above p
   
 
   7. **_Access to your personal data_**  
-You may access and update your personal data by writing to us at [rgo@utar.edu.my](mailto:rgo@utar.edu.my) (Attention: Dr Tan Kee Kong). We may require further details or confirmations if necessary. 
+You may access and update your personal data by writing to us at [rgo@utar.edu.my](mailto:rgo@utar.edu.my) (Attention: Ms Yim Lin Heng). We may require further details or confirmations if necessary.
   
 
   8. **_Consent is fundamental_**  
