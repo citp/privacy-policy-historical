@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herdict.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620173529id_/http%3A//herdict.org/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herdict.org privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122071128id_/http%3A//www.herdict.org/privacy/en) for the most accurate reproduction.*
 
 # Herdict : About
 
