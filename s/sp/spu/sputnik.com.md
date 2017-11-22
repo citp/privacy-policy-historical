@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sputnik.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135927id_/http%3A//www.sputnik.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sputnik.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122142627id_/http%3A//sputnik.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -58,4 +58,4 @@ To perform the Sputnik services, Sputnik must, of course, pass information about
 
 Sputnik reserves the right to update this Privacy Policy from time to time. Any changes to this policy will be posted on this site. Please review this Privacy Policy regularly for updates and changes.
 
-If you have questions about this Privacy Policy, please email Sputnik’s webmaster at [webmaster@sputnik.com](mailto:webmaster@sputnik.com?subject=).
+If you have questions about this Privacy Policy, please email Sputnik’s webmaster at [support@lokket.com](mailto:support@lokket.com?subject=).
