@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reneweconomy.com.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607140854id_/http%3A//reneweconomy.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneweconomy.com.au privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164429id_/http%3A//reneweconomy.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : RenewEconomy
 
@@ -6,7 +6,7 @@ This privacy policy applies to all personal information collected by us through 
 
 ## How to contact us about privacy
 
-Your privacy is very important to us. For that reason, please read the following details carefully and get in contact with us if you have any questions. You can contact us at PO Box 881, Neutral Bay, NSW 2089 or at [info@reneweconomy.com.au](mailto:info@reneweconomy.com.au "Email")
+Your privacy is very important to us. For that reason, please read the following details carefully and get in contact with us if you have any questions. You can contact us at PO Box 881, Neutral Bay, NSW 2089 or at [info@reneweconomy.com.au](https://web.archive.org/cdn-cgi/l/email-protection#2a43444c450c091c1e110c091b1b1e114f0c091b1b1a110c091b1a1b115d4f0c091313110c091b1b1b110c091b1b1a110c091b1b1b1147530449450c091b1a13110c091e1c114b0c091b1b1d11 "Email")
 
 ## Collection and Purpose
 
