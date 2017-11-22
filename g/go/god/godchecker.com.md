@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the godchecker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130342id_/http%3A//www.godchecker.com/oracle/index.php%3Fprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godchecker.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122165249id_/http%3A//www.godchecker.com/oracle/index.php%3Fprivacy-policy) for the most accurate reproduction.*
 
 # Godchecker privacy policy
+
+[](https://unbound.com/books/tales-of-britain)
 
 We aim to be a responsible website and have concocted the following privacy statement which we hope will bring you enlightenment. 
 
