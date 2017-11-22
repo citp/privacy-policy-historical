@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamersdecide.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629144006id_/http%3A//www.gamersdecide.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersdecide.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122132221id_/http%3A//www.gamersdecide.com/privacy-policy-cookies) for the most accurate reproduction.*
 
-# Privacy policy & cookies | GamersDecide.com
+# Privacy policy & cookies | GAMERS DECIDE
 
 Please note, this privacy policy applies to this website or our mobile applications (for example our iPhone, android and iPad apps) (a “Site”). If you do not accept this privacy policy and cookies notice, do not use this Site.
 
@@ -173,6 +173,6 @@ You can reset your Device Identifier at any time through the Advertising settin
 
 **Contacting us and accessing your personal information**
 
-Any queries or comments about this privacy notice or if you wish to review or receive copies of the personal information we hold about you should be sent [raymond@gamersdecide.com](mailto:raymond@gamersdecide.com)
+Any queries or comments about this privacy notice or if you wish to review or receive copies of the personal information we hold about you should be sent [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0a786b736765646e4a6d6b676f78796e6f69636e6f24696567)
 
 We may charge a small administration fee in relation to fulfilling a request for access to personal information.
