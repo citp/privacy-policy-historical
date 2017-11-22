@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etaxindia.org privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614053405id_/http%3A//www.cutmytax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etaxindia.org privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122110728id_/http%3A//www.cutmytax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
