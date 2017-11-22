@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralparknyc.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065614id_/http%3A//www.centralparknyc.org/about/about-cpc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralparknyc.org privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122025005id_/http%3A//www.centralparknyc.org/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Official Website of Central Park NYC
 
@@ -49,7 +49,7 @@ CPC’S website automatically collects some anonymous "non-personally identifiab
 CPC may engage third-party vendors in order to help us better service our visitors and customers. CPC requires its vendors by contract to maintain the confidentiality and security of CPC information to which they are provided access and restricts the vendors from using the information in any way not expressly authorized by CPC. In cases when users leave CPC’s website to visit one of its vendors websites, users are encouraged to become familiar with the privacy statement of each website they visit. 
 
 **Sharing CPC's List of Supporters**   
-CPC may, on occasion, share the name and the address of online and offline inactive members and supporters with other like-minded organizations. Exchanging our list with other reputable charitable organizations is the most cost effective way to find new supporters. As part of CPC's exchange policy, other organizations will have access to a shared list for a limited time and will not have continued access to CPC's list unless an individual voluntarily chooses to respond to their initial mailing. If you prefer not to have your name and address shared in this way, you may request to have your information removed from a shared list at any time by contacting [website@centralparknyc.org](mailto:website@centralparknyc.org), or calling 212-310-6672. You will also have regular opportunities to opt-out by checking the appropriate box or following the instructions located on solicitation materials. CPC will not intentionally disclose any personal information about you (such as your name, street address, telephone number, credit card number, or e-mail address) to any third party if you elect to opt out. 
+CPC may, on occasion, share the name and the address of online and offline members and supporters with other like-minded organizations. Exchanging our list with other reputable charitable organizations is the most cost effective way to find new supporters. As part of CPC's exchange policy, other organizations will have access to a shared list for a limited time and will not have continued access to CPC's list unless an individual voluntarily chooses to respond to their initial mailing. If you prefer not to have your name and address shared in this way, you may request to have your information removed from a shared list at any time by contacting [membership@centralparknyc.org](mailto:membership@centralparknyc.org), or calling 212-310-6672. CPC will not intentionally disclose any personal information about you (such as your name, street address, telephone number, credit card number, or e-mail address) to any third party if you elect to opt out. 
 
 Please note: CPC does not rent or sell donor lists. CPC never shares the information we receive from customers making online purchases from the Central Park Store. 
 
@@ -65,7 +65,7 @@ We recognize that you may wish to limit the ways in which we contact you and use
 If you are a registered user, you may review, correct, update, or change your profile including personally identifiable information at any time by clicking on the 'login' button located at the top of CPC's website and following the guided instructions. In addition, you may opt-out by e-mailing [website@centralparknyc.org](mailto:website@centralparknyc.org), calling 212-310-6600 or following the unsubscribe instructions included in the e-mail message. 
 
 **Opt out of receiving telephone calls or postal mailings from CPC**   
-You may contact us at anytime by e-mailing [website@centralparknyc.org](mailto:website@centralparknyc.org), or calling 212-310-6600 and letting us know that you would not like to be contacted by telephone or mail. 
+You may contact us at anytime by e-mailing [membership@centralparknyc.org](mailto:membership@centralparknyc.org), or calling 212-310-6600 and letting us know that you would not like to be contacted by telephone or mail. 
 
 **Opt out of having your name and postal address shared with other organizations**   
 You may request to have your information removed from a shared list at any time by contacting [membership@centralparknyc.org](mailto:membership@centralparknyc.org) , or calling 212-310-6672. You will also have regular opportunities to opt-out by checking the appropriate box or following the instructions listed on CPC's solicitation materials. 
@@ -87,7 +87,7 @@ CPC reserves the right to modify our policy as needed. A revised policy will app
 
 **California Privacy Rights**
 
-Under California Civil Code Section 1798.83, if you are a California resident and your relationship with CPC is primarily for personal, family, or household purposes, you may request certain data regarding CPC’s disclosure, if any, of your personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please send an e-mail message to [website@centralparknyc.org](mailto:website@centralparknyc.org) with "Request for California Privacy Information" in the subject line. 
+Under California Civil Code Section 1798.83, if you are a California resident and your relationship with CPC is primarily for personal, family, or household purposes, you may request certain data regarding CPC’s disclosure, if any, of your personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please send an e-mail message to [membership@centralparknyc.org](mailto:membership@centralparknyc.org) with "Request for California Privacy Information" in the subject line. 
 
 **Contact Information**
 
