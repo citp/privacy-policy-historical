@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the westrac.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205355id_/http%3A//www.westrac.com.au/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westrac.com.au privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122173732id_/http%3A//www.westrac.com.au/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-1\. Your rights in relation to privacy
+Your rights in relation to privacy
     
 
 WesTrac Pty Ltd (WesTrac) recognizes and respects the importance of protecting the privacy of an individual’s personal information. This statement sets out how WesTrac aims to protect the privacy of your personal information, your rights in relation to your personal information managed by WesTrac and the way WesTrac collects, holds, uses and discloses your personal information.
 
 In handling your personal information, WesTrac will comply with the Privacy Act 1988 (Cth) (Privacy Act), the 13 Australian Privacy Principles in the Privacy Act and where relevant, the Credit Reporting Code. This policy statement may be updated from time to time.
 
-2\. What kinds of personal information does WesTrac collect?
+What kinds of personal information does WesTrac collect?
     
 
 Personal information is information or an opinion about an identified, or reasonably identifiable, individual. During the provision of WesTrac’s products and services, WesTrac may collect your personal information.
@@ -36,7 +36,7 @@ In connection with your personal information, WesTrac may also collect informati
 
 In some circumstances WesTrac may also hold other personal information provided by you.
 
-3\. How does WesTrac collect personal information?
+How does WesTrac collect personal information?
     
 
 Generally, WesTrac collects your personal information directly from you, through:
@@ -47,14 +47,14 @@ Generally, WesTrac collects your personal information directly from you, through
     * credit and insurance application forms with WesTrac and Caterpillar;
     * job application forms;
     * a ‘Request a Quote’ form, quotes, invoices; and
-    * any forms for creating a PartStore account; or 
+    * any forms for creating a [Parts.Cat.Com](https://parts.cat.com/en/westrac "Parts.Cat.Com") account; or 
   * other exchanges with WesTrac, including any of WesTrac’s Caterpillar dealerships, through face-to-face meetings or via email, telephone or facsimile.
 
 
 
 There may be occasions when WesTrac collects your personal information from other sources such as from an information services provider, credit reporting agency or a publicly maintained record. Generally, WesTrac will only collect your personal information from sources other than you if it is unreasonable or impracticable to collect your personal information from you.
 
-4\. Why does WesTrac need your personal information?
+Why does WesTrac need your personal information?
     
 
 WesTrac collects, holds, uses and discloses your personal information where it is reasonably necessary for the purposes of:
@@ -72,7 +72,7 @@ WesTrac collects, holds, uses and discloses your personal information where it i
 
 Where personal information is used or disclosed, WesTrac takes steps reasonable in the circumstances to ensure it is relevant to the purpose for which it is to be used or disclosed. You are under no obligation to provide your personal information to WesTrac. However, without certain information from you, WesTrac may not be able to provide its products and/or services to you.
 
-5\. To whom does WesTrac disclose your personal information?
+To whom does WesTrac disclose your personal information?
     
 
 WesTrac discloses your personal information for the purpose for which WesTrac collects it. That is, generally, WesTrac will only disclose your personal information for a purpose set out at paragraph 4. This may include disclosing your personal information to Caterpillar Inc. and its subsidiaries, affiliates and related parties, WesTrac’s subcontractors and third parties engaged to perform administrative or other services for the purposes of:
@@ -89,19 +89,19 @@ WesTrac discloses your personal information for the purpose for which WesTrac co
 
 This disclosure is always on a confidential basis. WesTrac may also disclose your personal information with your consent or if disclosure is required or authorised by law.
 
-6\. Overseas disclosures
+Overseas disclosures
     
 
 WesTrac may disclose personal information to overseas recipients in order to provide its services and products and for administrative or other business management purposes. Recipients of such disclosures are located in the United States of America and may also be located in China, Singapore, Germany and Japan.
 
 Before disclosing any personal information to an overseas recipient, WesTrac takes steps reasonable in the circumstances to ensure the overseas recipient complies with the Australian Privacy Principles, or the overseas recipient is bound by a substantially similar privacy scheme and there are mechanisms that you can access to take action to enforce that scheme, unless you consent to the overseas disclosure or it is otherwise required or permitted by law.
 
-7\. Direct marketing
+Direct marketing
     
 
 WesTrac may use and disclose your personal information in order to inform you of products and services of WesTrac that may be of interest to you. In the event you do not wish to receive such communications, you can opt-out by contacting WesTrac via the contact details set out in paragraph 12 or through any opt-out mechanism contained in a marketing communication to you.
 
-8\. Security of your personal information
+Security of your personal information
     
 
 WesTrac takes steps reasonable in the circumstances to ensure that the personal information it holds is protected from misuse, interference and loss and from unauthorised access, modification or disclosure. WesTrac holds personal information in both hard copy and electronic forms in secure databases on secure premises, accessible only by authorised staff.
@@ -110,7 +110,7 @@ WesTrac uses Secure Sockets Layer (SSL) encryption, when collecting or transferr
 
 WesTrac will destroy or de-identify personal information in circumstances where it is no longer required, unless WesTrac is otherwise required or authorised by law to retain the information.
 
-9\. Can you access and correct the personal information that WesTrac holds about you?
+Can you access and correct the personal information that WesTrac holds about you?
     
 
 WesTrac takes steps reasonable in the circumstances to ensure personal information it holds is accurate, up-to-date, complete, relevant and not misleading. Under the Privacy Act, you have a right to access and seek correction of your personal information that is collected and held by WesTrac. If at any time you would like to access or correct the personal information that WesTrac holds about you, or you would like more information on WesTrac's approach to privacy, please contact WesTrac via the contact details set out in paragraph 12 below. WesTrac will grant access to the extent required or authorised by the Privacy Act or other law and take steps reasonable in the circumstances to correct personal information where necessary and appropriate.
@@ -127,7 +127,7 @@ If WesTrac refuses your request to access or correct your personal information, 
 
 WesTrac will endeavour to respond to your request to access or correct your personal information within 30 days from your request.
 
-10\. Online information - what kinds of non-personal information does WesTrac collect and why?
+Online information - what kinds of non-personal information does WesTrac collect and why?
     
 
 How does WesTrac collect information?
@@ -147,14 +147,14 @@ WesTrac uses this information to monitor the usage of its website. All of the in
 
 When you click on a link or banners on WesTrac’s website that takes you to a third-party website (i.e a website which is not controlled by WesTrac), you will be subject to the third party’s privacy policy. While WesTrac supports the protection of privacy on the Internet, WesTrac cannot be responsible for the actions of a third-party website. WesTrac encourages you to read the posted privacy statement on any and every website you visit, whether you are linking from WesTrac’s website or browsing on your own.
 
-11\. Does WesTrac use electronic mechanisms such as “cookies”?
+Does WesTrac use electronic mechanisms such as “cookies”?
     
 
 WesTrac uses data collection devices such as “cookies” to deliver customized visitor experiences and to analyse website user metrics. “Cookies” are small files placed on your hard drive that assist WesTrac in providing its services. While you may configure your browser to reject cookies, due to the technology WesTrac uses, cookies are required to register with and purchase products and services online from WesTrac’s website. Most cookies are “session cookies”, which means they are automatically deleted from your hard drive once you close your browser. You may encounter cookies or other data collection devices that are placed by third parties. WesTrac does not control the use of cookies by third parties.
 
 WesTrac also capture metrics on the number of visitors to its sites for use in server capacity needs.
 
-12\. How to contact WesTrac
+How to contact WesTrac
     
 
 For further information or enquiries regarding your personal information, or if you would like to opt-out of receiving any promotional communications, please contact WesTrac's Privacy Compliance Officer at:
@@ -173,7 +173,7 @@ t: (08) 9377 9444
 
 e: [privacy@westrac.com.au](mailto:privacy@westrac.com.au)
 
-13\. Privacy complaints
+Privacy complaints
     
 
 Please direct all privacy complaints to WesTrac’s Privacy Compliance Officer. At all times, privacy complaints:
