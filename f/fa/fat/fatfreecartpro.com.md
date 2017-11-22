@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatfreecartpro.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610054031id_/http%3A//www.e-junkie.com/ej/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatfreecartpro.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122224421id_/https%3A//www.e-junkie.com/wiki/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | E-junkie
 
