@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dprinting.org privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018035020id_/http%3A//3dprinting.org/layer/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dprinting.org privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122224940id_/http%3A//3dprinting.org/layer/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 3DPrinting.org
 
