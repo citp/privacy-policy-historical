@@ -1,49 +1,52 @@
-> *The following text is extracted and transformed from the acneuro.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618074214id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/policy_EN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acneuro.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164147id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/policy_EN.html) for the most accurate reproduction.*
 
 # ACN Europe Privacy Policy
 
-ACN takes the privacy of our Independent Business Owners and customers seriously. We are committed to safeguarding your privacy while providing You with high-quality services and products.
+ACN takes the privacy of our Independent Business Owners ( **“IBOs”** ) and customers seriously. We are committed to safeguarding your privacy while providing You with high-quality services and products.
 
 **Objective and Scope of This Privacy Policy**
 
-This ACN Europe Privacy Policy (“Privacy Policy”) is issued by ACN Europe B.V. for itself and its European affiliates (collectively “ACN”, “We”, or “Us”) to explain the data processing practices of ACN. ACN processes personal data in accordance with the requirements of the European Union’s Data Protection Directive and the data protection laws and other applicable laws and regulations of the countries in which We provide products and services. This Privacy Policy applies to personal data as defined by the Data Protection Directive and national data protection laws (“Personal Data”) and to other information that You provide to ACN. If You are a business, information about your business is not Personal Data. This Privacy Policy describes how We collect and process information provided by You, your right to limit our processing of your information, and your right to access, correct, and delete your information that We hold. Additional details about our use of your information with respect to specific ACN services and products is found in the relevant terms and conditions, which should be read together with this Privacy Policy. 
+This ACN Europe Privacy Policy ( **“Privacy Policy”** ) is issued by ACN Europe B.V., a company located in the Netherlands, for itself and its European affiliates (collectively **“ACN”** , **“ACN Group”**. **“We”** , or **“Us”** ) to explain the data processing practices of ACN. ACN processes personal data in accordance with the requirements of the European Union’s Data Protection Directive and the data protection laws and other applicable laws and regulations of the countries in which We provide products and services. This Privacy Policy applies to personal data as defined by the Data Protection Directive and national data protection laws and to other personally identifiable information that You provide to ACN ( **“Personal Data”** ). If You are a business, information about your business is not Personal Data. This Privacy Policy describes how We collect and process information provided by You, your right to determine how We collect and process your Personal Data, and your right to access, correct, and delete your Personal Data. Additional details about our use of your information with respect to specific ACN services and products is found in the relevant terms and conditions, which should be read together with this Privacy Policy. 
 
-**Your Consent to Use Personal Data**
+**Your Consent to Collect and Use Personal Data**
 
-We use your Personal Data only with your consent. You may withhold or withdraw your consent for ACN to process your Personal Data. Certain Personal Data is required for Us to provide services or products to You or to meet our legal obligations, and your withholding or withdrawal of consent to use this Personal Data may prevent ACN from providing the services and products that You have ordered. Other Personal Data is not required for Us to provide services or products to You but is used by Us to provide You with better service or for marketing, communications, and other purposes. You are not required to consent to this use of your Personal Data. We will advise You which Personal Data You must provide and which is optional. By using ACN’s websites, you consent to the collection of certain information. See How Do We Collect Information? below.
+We collect and use your Personal Data only with your consent. You may withhold or withdraw your consent for ACN to process your Personal Data. Certain Personal Data is required for Us to provide services or products to You or to meet our legal obligations,  
+and your withholding or withdrawal of consent to use that Personal Data may prevent ACN from providing the services and products that You have requested. Other Personal Data is not required for Us to provide services or products to You but is used by Us to provide You with better service or for marketing, communications, and other purposes. You are not required to consent to this use of your Personal Data. 
 
 **What Information Do We Collect?**
 
-The Personal Data and other information that we process varies depending on your relationship with ACN. Among the Personal Data and other information that We may collect is the following:
+The Personal Data and other information that we collect varies depending on your relationship with ACN. Among the Personal Data and other information that We may collect is the following:
 
-• Name  
-• Company details  
-• Residential and business address   
-• Date of birth  
-• National identification number  
-• Telephone number  
-• IP and MAC addresses and browser information  
-• Email address  
-• Banking details, credit or debit card information, or other information needed to process payments to or from You  
-• Demographic information such as your profession, hobbies, education, gender, ethnicity, and income. This type of information is never mandatory.  
-• Other identifying information
-
-**Use of Cookies**
-
-Cookies are small text files that are sent to your computer so that our websites can remember the settings and information that you submit, so that You don’t have to re-enter them when You re-visit a page or visit a new page on the same website. We also use cookies to measure how You use our websites so that We can make sure that they meet your needs. You can control whether or not your computer accepts cookies, however, refusing to accept cookies may affect your experience using our websites. For more information about cookies, please go to the website [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+• Name;  
+• Company details;  
+• Residential and business address;  
+• Date of birth;  
+• National identification number;  
+• Telephone number;  
+• IP and MAC addresses and browser information;  
+• Email address;  
+• Banking details, credit or debit card information, or other information needed to process payments to or from You;  
+• Demographic information such as your profession, hobbies, education, gender, ethnicity, and income;  
+• Location information; and  
+• Other identifying information.
 
 **How Do We Collect Information?**
 
 We collect Personal Data and other information from You in a variety of ways, including:
 
-• the submission of Personal Data by You to ACN through our websites ;  
-• the use of cookies;  
+• the submission of Personal Data by You to ACN through our websites;  
 • the submission of a paper or online order for ACN services or products;  
-• the submission of an Independent Business Owner Agreement;  
-• when We and You communicate by email, telephone, fax, chat line, or otherwise; and   
-• provision of your Personal Data to ACN by ACN’s business partners.
+• the submission of an Independent Business Owner Application and Agreement;  
+• through the use of our IBO or customer websites, services and products;  
+• when We and You communicate by email, telephone, fax, chat line, or otherwise;  
+• provision of your Personal Data to ACN by ACN’s business partners; and  
+• the use of cookies.
 
 ACN will not contact You by telephone or email to request information such as credit card numbers, account numbers, passwords and pin codes. We recommend that you do not open or respond to e-mails requesting this type of information and that you contact ACN if You receive such a request.
+
+**Use of Cookies**
+
+Cookies are small text files that are sent to your computer so that our websites can remember the settings and information that you submit, so that You don’t have to re-enter them when You visit the website again or visit a new page on the same website. We also use cookies to measure how You use our websites so that We can make sure that they meet your needs. The first time You visit one of our websites, You will receive notice about our use of cookies. You can control whether or not your computer accepts cookies, by adjusting your browser’s settings (for example, under the We “Internet Options”, “Settings“ or “Preferences“ feature of your browser). Please, note, however, that refusing to accept cookies may affect your experience using our websites. For more information about how to manage or delete cookies, please go to the website www.allaboutcookies.org.
 
 **How Do We Use Your Personal Data?**
 
