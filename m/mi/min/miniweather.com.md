@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniweather.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622173220id_/http%3A//www.miniweather.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniweather.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123005854id_/http%3A//www.miniweather.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - MiniWeather.com
 
