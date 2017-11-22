@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the incpak.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151314id_/http%3A//www.incpak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incpak.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122172815id_/http%3A//www.incpak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - INCPak
 
 INCPak.com is Independent News Coverage Pakistan – INCPak Group website. Please know that while using this website and/or submitting information at this website you are volunteering the same; you are informed of the way such information may be used and you agree to such use.
 
- **Information you submit**
+**Information you submit**
 
 To avail certain services and offerings, to participate in certain activities and to make contributions at this web-site you may be asked to submit personally identifiable information such as your name, address, e-mail address, telephone number, fax number, credit card information, your opinion on issues and items and information about your interests in and use of various products, programs, and services.
 
@@ -14,7 +14,7 @@ At certain parts of this website, only persons who provide us with the requested
 
 You may also be submitting certain non-personally identifiable information such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.
 
- **How We Use the Information**
+**How We Use the Information**
 
 The information you submit will be used by us for communication and contact, to fulfill your requests, to respond to inquiries and to offer other products, programs or services that we believe may be of interest to you or to the person whose information you submit to us.
 
@@ -26,7 +26,7 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 We may disclose personally identifiable information to companies whose practices are not covered by this privacy policy (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
 
- **Cookies & Web Beacons**
+**Cookies & Web Beacons**
 
 To enhance your experience with our website, our web pages may use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. We use cookies to understand website usage and to improve the content and offerings on our website. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us.
 
@@ -34,7 +34,7 @@ To enhance your experience with our website, our web pages may use “cookies.�
 
 Cookies and web beacons shall be deemed to be information submitted by you to us.
 
- **Collection of Information by Third-Parties**
+**Collection of Information by Third-Parties**
 
 Our website may contain links to other websites whose information practices or policies may be different than ours. You should consult the other sites’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
@@ -42,23 +42,23 @@ This website may offer content (e.g., contests or promotions) that is sponsored 
 
 This website may use a third party to present or serve the advertisements that you may see on a web page. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to facilitate such advertisements and their effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies.
 
- **Our Commitment to Security**
+**Our Commitment to Security**
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
- **Access to Information**
+**Access to Information**
 
 Access to personally identifiable information that is submitted to our website may be accessible for a limited period of time from the point of submission.
 
- **For users under 18**
+**For users under 18**
 
 If you are aged 18 or under, please get your parent/guardian’s permission before using this website and before submitting any information.
 
- **How to Contact Us**
+**How to Contact Us**
 
 If you have any questions or concerns about this privacy policy you may [Contact Us](http://www.incpak.com/contact/ "INCPak Contact Us") or Email us [incpak@gmail.com](mailto:incpak@gmail.com)
 
- **Updates & Effective Date**
+**Updates & Effective Date**
 
 We may update or amend this privacy policy from time to time. You are advised to review this policy each time you use this website.
 
