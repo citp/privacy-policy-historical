@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafeqld.edu.au privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622033809id_/http%3A//tafeqld.edu.au/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafeqld.edu.au privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122165250id_/http%3A//tafeqld.edu.au/about-us/privacy.html) for the most accurate reproduction.*
 
 # Tafe Queensland Privacy Policy - TAFE Queensland
 
