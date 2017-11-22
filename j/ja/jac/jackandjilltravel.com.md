@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackandjilltravel.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521003617id_/http%3A//jackandjilltravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackandjilltravel.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122212318id_/http%3A//jackandjilltravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
