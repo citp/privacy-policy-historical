@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the dbrs.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617022901id_/http%3A//www.dbrs.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbrs.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122142851id_/http%3A//dbrs.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # DBRS.com: Privacy Policy
 
 ## I. Purpose and Scope
 
-DBRS Limited, DBRS, Inc., and DBRS Ratings Limited ("DBRS1") is committed to protecting the privacy of those with whom it interacts and it recognizes the need to respect and protect personal and non-personal information (herein referred to as "information") that is collected or disclosed to us. This DBRS Privacy Policy ("Policy") explains: what information DBRS collects, how DBRS collects that information, how DBRS uses the information, and who DBRS may share the information with.
+DBRS Limited, DBRS, Inc., and DBRS Ratings Limited ("DBRS")1 is committed to protecting the privacy of those with whom it interacts and it recognizes the need to respect and protect personal and non-personal information (herein referred to as "information") that is collected or disclosed to us. This DBRS Privacy Policy ("Policy") explains: what information DBRS collects, how DBRS collects that information, how DBRS uses the information, and who DBRS may share the information with.
 
 DBRS collects certain information so that it may meet the needs of its customers. The information enables DBRS to monitor and improve the services which it offers to current and potential clients.
 
-DBRS only uses your information in accordance with the Policy and applicable data protection laws. By accessing the DBRS websites and other services, you agree to DBRS collecting, maintaining, using and disclosing personal information about you and provided by you or another person as set out below.
+DBRS uses your information in accordance with the Policy and applicable data protection laws. By accessing the DBRS websites and other services, you agree to DBRS collecting, maintaining, using and disclosing personal information about you and provided by you or another person as set out below.
 
 ## II. What information do we collect
 
-Personal information is information that may include any factual or subjective information about an identifiable individual. Non-personal information is information that alone cannot be used to identify individuals. Such information includes, but is not limited to: domain names, type of device and browser used to access DBRS Products, demographic information, geographic information, and network providers.
+Personal information is information that may include any factual or subjective information about an identifiable individual. Non-personal information is information that alone cannot be used to identify individuals. Such information includes, but is not limited to: domain names, type of device and browser used to access DBRS Products (Section III.), demographic information, geographic information, and network providers.
 
 DBRS may collect internet protocol (IP) addresses which are a string of numbers assigned to a computer by an internet service provider.
 
@@ -28,7 +28,7 @@ DBRS and its third-party service providers may collect information provided by a
 
   * Registration for DBRS products, services, and events
   * Setting-up portfolios, preferences, and notifications/alerts connected to DBRS Products
-  * Logging into DBRS Products and Services through social media platforms
+  * Logging into DBRS Products and services through social media platforms
   * Contacts with DBRS customer support by email, phone, or other means
   * Participation in surveys or questionnaires
   * Online order forms
@@ -37,9 +37,15 @@ DBRS and its third-party service providers may collect information provided by a
 
 
 
-DBRS uses cookies, which are small files that are assigned to and stored in a user's internet browser on a temporary (lasts for the duration of the online session) or persistent basis (cookie stays on the computer after the internet browser or device has been closed). Cookies collect and store information about a user's preferences, product usage, content viewed, and registration information which allows for DBRS to provide users an enhanced and customized experience when engaging with our Products.
+DBRS uses cookies, which are small files that are assigned to and stored in a user's internet browser on a temporary (for the duration of the online session) or persistent basis (cookie stays on the computer after the internet browser or device has been closed). Cookies collect and store information about a user's preferences, product usage, content viewed, and registration information which allows for DBRS to provide users an enhanced and customized experience when engaging with our Products.
 
 DBRS may also use tracking and analytics tools, such as pixel tags, action tags, web beacons, and JavaScript amongst others to collect and analyze information on behaviour/engagement with our Products.
+
+## III. How do we collect the information
+
+DBRS uses Google Analytics Solutions and other tracking and analytics tools from third-party service providers. 
+
+When used in combination with other collected data, IP addresses and behaviour/engagement data may constitute personal information that can identify you. 
 
 ## IV. How do we use the information
 
@@ -48,15 +54,15 @@ Collected information, as well as cookies, tracking, and analytical tools are us
   * Deliver Products, as well as, administer systems and accounts
   * Provide customer support, product training, and education to users
   * Send notifications and alerts in accordance with the user's preferences and settings
-  * Customize content and layout of Product and Services
-  * Improve Products and the user experience
+  * Customize content and layout of Product and services
+  * Enhance Products and the user experience
   * Develop new products
   * Keep users informed of research materials, events, promotions, surveys, and other content that may be of interest
   * Create sales, marketing, and promotional plans and programs
 
 
 
-The information collected by DBRS is used solely for internal purposes, some of which are mentioned above, and DBRS does not sell any data collected; however, it may be shared in accordance with this Policy where required by law as detailed below.
+The information collected by DBRS is used solely for internal purposes, some of which are mentioned above, and DBRS does not sell any data collected; however, it may be shared in accordance with this Policy where required by law or as otherwise detailed below.
 
 ## V. Who we may share the information with
 
@@ -69,7 +75,7 @@ DBRS may also share the information with the following:
 
 
 
-You agree to DBRS using the information for the above-stated purposes. Where applicable, you also agree DBRS transferring your personal information outside the European Economic Area. Please note that DBRS within the UK only transfers personal information to organisations outside the EEA if DBRS has assessed the organization as having appropriate controls and safeguards in place to protect your personal information.
+You agree to DBRS using the information for the above-stated purposes. Where applicable, you also agree to DBRS transferring your personal information outside the European Economic Area. Please note that DBRS within the UK only transfers personal information to organisations outside the EEA if DBRS has assessed the organization as having appropriate controls and safeguards in place to protect your personal information.
 
 ## VI. Additional information
 
@@ -81,13 +87,15 @@ Cookies can be disabled and cleared by adjusting internet browser preferences (r
 
 Please direct any questions or concerns regarding DBRS's Privacy Policy or practices to [privacy@dbrs.com](mailto:privacy@dbrs.com).
 
-Under the UK data protection legislation, you have (subject to certain exceptions) the right to obtain copies of any personal information which DBRS holds about you and to inform DBRS of any inaccuracy. Should you have any questions or concerns about settings and preferences on DBRS Products, please contact [info@dbrs.com](mailto:info@dbrs.com). We may charge a nominal fee to cover the cost of verifying the application and locating, retrieving, reviewing and copying any material requested.
+Under the UK data protection legislation, you have (subject to certain exceptions) the right to obtain copies of personal information which DBRS holds about you and to inform DBRS of any inaccuracy. We may charge a nominal fee to cover the cost of verifying the application and locating, retrieving, reviewing and copying any material requested. Should you have any questions or concerns about settings and preferences on DBRS Products, please contact [info@dbrs.com](mailto:info@dbrs.com).
 
 ### Changes
 
 DBRS may change this Policy from time to time and any changes to this Policy will become effective when we post the revised Policy on this page. If you use this website or other service we provide to you after any revised versions take effect, your continued use of the DBRS website and Products shall constitute your agreement to the current Policy in effect.
 
-[1] The DBRS Ratings México, Institución Calificadora de Valores S.A. de C.V. Privacy Policy is accessible on the dbrs.mx website. 
+* * *
 
-Effective Date: March 20, 2017  
-Document Control Number: 20170310-029
+1 Please note that the DBRS Ratings México, Institución Calificadora de Valores S.A. de C.V. Privacy Policy is accessible on the dbrs.mx website. 
+
+Effective Date: October 25, 2017  
+Document Control Number: 20171020-106
