@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groundspeak.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624183451id_/https%3A//www.geocaching.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundspeak.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122114145id_/https%3A//www.geocaching.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -173,11 +173,11 @@ Additionally, you may use the tools in your browser to decline, disable, or dele
 
   7. **HOW CAN YOU CHANGE OR DELETE THE INFORMATION WE HAVE?**
 
-Access "Account Settings" to change or delete information yourself. If you need help or have questions about changing or deleting the information we have collected, please [ _email us_](http://support.groundspeak.com/index.php?pg=request) or write to us at Groundspeak, Inc., Attn: Corporate Counsel, 837 N. 34th Street, Suite 300, Seattle WA 98103. For specific requests to remove or change your profile information on Shop Geocaching ([ _shop.geocaching.com_](http://shop.geocaching.com/)), please [ _email Shop Geocaching_](mailto:shop@geocaching.com) directly.
+Access "Account Settings" to change or delete information yourself. If you need help or have questions about changing or deleting the information we have collected, please [ _email us_](https://www.geocaching.com/contact) or write to us at Groundspeak, Inc., Attn: Corporate Counsel, 837 N. 34th Street, Suite 300, Seattle WA 98103. For specific requests to remove or change your profile information on Shop Geocaching ([ _shop.geocaching.com_](http://shop.geocaching.com/)), please [ _email Shop Geocaching_](mailto:shop@geocaching.com) directly.
 
   8. **WHAT CAN I DO IF MY CHILD HAS PROVIDED PERSONAL INFORMATION?**
 
-Our services are not intended for use by children, and we do not knowingly collect personal information from children under 13. If we learn that personal information of someone less than 13-years-of-age has been collected through our services, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your minor child has obtained an account without your consent, then you may alert us [ _via email_](mailto:contact@geocaching.com) and request that we delete that child's personal information.
+Our services are not intended for use by children, and we do not knowingly collect personal information from children under 13. If we learn that personal information of someone less than 13-years-of-age has been collected through our services, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your minor child has obtained an account without your consent, then you may alert us [ _via email_](https://www.geocaching.com/contact) and request that we delete that child's personal information.
 
   9. **WHAT IF I DO NOT LIVE IN THE U.S.?**
 
@@ -185,7 +185,7 @@ If you use our services outside of the United States, you understand and consent
 
   10. **CALIFORNIA RESIDENTS**
 
-California law permits users who are California residents to request certain information regarding disclosure of their personal information to third parties for direct marketing purposes. To make such a request, please send us an [_email_](http://support.groundspeak.com/index.php?pg=request) specifying that you seek your “California Customer Choice Notice.”  Please allow thirty days for a response.
+California law permits users who are California residents to request certain information regarding disclosure of their personal information to third parties for direct marketing purposes. To make such a request, please send us an [_email_](https://www.geocaching.com/contact) specifying that you seek your “California Customer Choice Notice.”  Please allow thirty days for a response.
 
   11. **ENFORCEMENT**
 
