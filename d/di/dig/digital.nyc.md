@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digital.nyc privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125848id_/http%3A//www.digital.nyc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital.nyc privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122114520id_/http%3A//www.digital.nyc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital.NYC
 
@@ -196,7 +196,7 @@ If arbitration is necessary, it will be conducted by telephone and email, and if
 
 ## Contacting Digital.NYC
 
-Digital.NYC is operated by Gust. Our mailing address is 158 West 29th Street, New York, NY 10001-5300, USA.
+Digital.NYC is operated by Gust. Our mailing address is 44 West 28th Street, 7th Floor, New York, NY 10001-5300, USA.
 
 If you have any questions about this Privacy Policy, or believe that its terms have not been complied with, please email us at: [support@digital.nyc](mailto:support@digital.nyc)
 
