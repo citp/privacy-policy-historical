@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyes4tech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133516id_/http%3A//www.eyes4tech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyes4tech.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122212129id_/http%3A//www.eyes4tech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Eyes4Tech
 
