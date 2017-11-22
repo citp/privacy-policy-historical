@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocwen.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630003036id_/http%3A//www.ocwen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocwen.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122124943id_/http%3A//www.ocwen.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
