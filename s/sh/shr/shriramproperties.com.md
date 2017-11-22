@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shriramproperties.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622195352id_/http%3A//www.shriramproperties.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shriramproperties.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164959id_/http%3A//www.shriramproperties.com/privacy-policy) for the most accurate reproduction.*
 
 # Shriram Properties Real Estate Builder | Privacy Policy
 
