@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacticalgear.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033927id_/http%3A//tacticalgear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacticalgear.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123004031id_/http%3A//tacticalgear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ TacticalGear.com
 
