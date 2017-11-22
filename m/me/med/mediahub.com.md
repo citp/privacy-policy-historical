@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediahub.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610233711id_/http%3A//www.mediahub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediahub.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122101102id_/http%3A//www.mediahub.com/privacy-policy) for the most accurate reproduction.*
 
 # MediaHub
 
