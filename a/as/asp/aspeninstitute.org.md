@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspeninstitute.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607224547id_/https%3A//www.aspeninstitute.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspeninstitute.org privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122211831id_/https%3A//www.aspeninstitute.org/privacy) for the most accurate reproduction.*
 
 # Privacy - The Aspen Institute
 
