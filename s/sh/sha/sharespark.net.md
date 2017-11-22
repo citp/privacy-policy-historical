@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharespark.net privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523112922id_/http%3A//sharespark.net/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharespark.net privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122183045id_/http%3A//sharespark.net/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
   
 Contacting us 
 
-If you have any questions about this Policy, please contact us at support@ShareSpark.net.  
+If you have any questions about this Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
   
 Document last updated 
 
