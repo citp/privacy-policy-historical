@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incredigames.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425134305id_/http%3A//incredigames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredigames.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123003530id_/http%3A//www.incredigames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Incredigames.com – free bitcoin games, bitcoins mining faucet
+# Privacy Policy | IncrediGames.com
 
 **Privacy Policy of Incredigames.com**
 
