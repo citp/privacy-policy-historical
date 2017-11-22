@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nusphere.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628142924id_/http%3A//nusphere.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nusphere.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122091552id_/http%3A//www.nusphere.com/privacy.htm) for the most accurate reproduction.*
 
 # Your Privacy: NuSphere Corporation
 
