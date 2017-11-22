@@ -1,17 +1,35 @@
-> *The following text is extracted and transformed from the flyheight.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618184034id_/http%3A//flyheight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyheight.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122063725id_/http%3A//www.flyheight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FlyHeight
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
+**Privacy policy**
 
-**What information do we collect?**
+ **Analyze Data**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your Name, Email address or other details to help you with your experience. 
+For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are not logged 
 
-**When do we collect information?**
+ **Collecting e-mail Addresses**
 
-We collect information from you when you register on our site, subscribe to a newsletter or enter information on our site. 
+We collect the e-mail addresses of Flyheight Delivery recipients and senders for the purpose of logging and measuring usage. Flyheight does not rent, sell, or share personal information about you with nonaffiliated companies. 
 
-**How do we use your information?**
+ **Certain Exceptional Disclosures**
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
+We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process. 
+
+ **Use of Cookies**
+
+Flyheight uses cookies to store the preferences of users. 
+
+ **File Transfer Security  **
+
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Files stored for delivery are only accessible by Flyheight and through the clickable link generated for your recipient. All files stored for delivery are deleted when they expire. 
+
+ **Third Party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+
+ **Third Party Cookies**
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+
+ **Effective Date: December 1, 2015  **
