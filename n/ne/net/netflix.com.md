@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607211013id_/https%3A//help.netflix.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122034343id_/https%3A//help.netflix.com/legal/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -8,11 +8,9 @@ This Privacy Statement explains our practices, including your choices, regarding
 
 ### Contacting Us
 
-If you have general questions about your account or how to contact Customer Service for assistance, please visit our online help center at [https://help.netflix.com](https://help.netflix.com/). For questions specifically about this Privacy Statement, or our use of your personal information, cookies or similar technologies, please contact us by email at [privacy@netflix.com](mailto:privacy@netflix.com).
+If you have general questions about your account or how to contact Customer Service for assistance, please visit our online help center at [https://help.netflix.com](https://help.netflix.com/). Your Netflix service provider and data controller depends on your country of membership, and will be listed in your membership or payment confirmation email. For questions specifically about this Privacy Statement, or our use of your personal information, cookies or similar technologies, please contact us by email at [privacy@netflix.com](mailto:privacy@netflix.com).
 
-You can also write to us at the following address: Netflix, Inc., 100 Winchester Circle, Los Gatos, CA 95032, U.S.A. Attention: Privacy.
-
-Please note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request.
+The data controller of your personal information is Netflix, Inc., which also provides the service to you. Please note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request.
 
 ### Collection of Information
 
