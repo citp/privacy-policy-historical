@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashioncentral.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022525id_/http%3A//www.fashioncentral.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashioncentral.pk privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122172119id_/http%3A//www.fashioncentral.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Fashion Central
 
