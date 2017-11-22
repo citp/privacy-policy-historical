@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slimmingworld.co.uk privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626133748id_/https%3A//www.slimmingworld.co.uk/information/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimmingworld.co.uk privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122200020id_/https%3A//www.slimmingworld.co.uk/information/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Slimming World
 
@@ -73,19 +73,7 @@ DE55 4SW
 
 8.2 Please also help us to help you by keeping us informed about any changes in address, telephone number or email address.
 
-### 9 Cookies
-
-9.1 For members who use our Online Services you need to be aware that we use “Cookies”. A Cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the Cookie helps analyse web traffic and lets us know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
-
-9.2 Overall, Cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A Cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
-
-9.3 You can choose to accept or decline Cookies. Most web browsers automatically accept Cookies, but you can usually modify your browser setting to decline Cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-9.4 You have an absolute right to refuse to accept Cookies and for us to use them we do require your specific consent. This will be obtained from you when you access our site. If however you wish to contact us on this issue indicating that you do not wish us to use Cookies then please do so as at section 1.2.
-
-9.5 For statistical purposes we have implemented Google Analytics Demographics and Interest Reporting feature. This information is retained without specific reference to you and is therefore anonymous. 
-
-### 10 Other Information:
+### 9 Other Information:
 
 Slimming World is the trading name of Miles Bramwell Executive Services Limited, Company number 01242071, Registered office: Clover Nook Road, Somercotes, Alfreton, Derbyshire DE55 4SW. There are also a number of other companies involved in running Slimming World but this company is the main company who you should contact in the event that you have any queries. It is this company which is primarily responsible for ensuring that your personal information is kept appropriately, safely and secure.
 
