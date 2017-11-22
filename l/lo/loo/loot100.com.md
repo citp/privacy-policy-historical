@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the loot100.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130157id_/http%3A//www.loot100.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot100.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122173511id_/http%3A//www.loot100.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Loot100.com:Privacy Policy
 
 _The ‘Privacy Policy’ of Loot100.com clearly describes our privacy practices related with collection, protection and usage of your personally identifiable information. By registering with Loot100.com, you become a member of the website and thus, agree to accept these privacy practices stated here._
 
-_Loot100.com and its company SWAAS ENTERTAINMENT LLP firmly follow ethical and good code of conduct and business practices and assure you to maintain and preserve the 'privacy' of registered members of Loot100.com.
+_Loot100.com and its owner firmly follow ethical and good code of conduct and business practices and assure you to maintain and preserve the 'privacy' of registered members of Loot100.com.
 
-   We do our best and do whatever we can technically and reasonably do to protect your 'right to privacy' within the limit of our website Loot100.com and its company SWAAS ENTERTAINMENT LLP. Proper state of the art data security features have been used to secure your information provided to us. We reassure you that your personal identity information will strictly remain confidential with our website and will not be used anywhere without your appropriate permission.
+   We do our best and do whatever we can technically and reasonably do to protect your 'right to privacy' within the limit of our website Loot100.com and its owner. Proper state of the art data security features have been used to secure your information provided to us. We reassure you that your personal identity information will strictly remain confidential with our website and will not be used anywhere without your appropriate permission.
 
 _
 
-_However, we are not liable for the unlawful or unauthorized disclosures of your confidential and personal information by the third parties, out of our company’s control._
+_However, we are not liable for the unlawful or unauthorized disclosures of your confidential and personal information by the third parties, out of our owner’s control._
 
 _Information Collection and its Usage_  
 _We assemble the following types of information from and about the members registered with Loot100.com:_
@@ -54,7 +54,7 @@ _
 **__Information security__**  
 _We make all the possible efforts to take appropriate security measures to avoid any possible unauthorized data disclosure and to protect our database against unauthorized access. These actions include time to time reviews of our security measures and storage practices of data, including appropriate encryption and security measures to guard against unauthorized access to our systems and servers where our data is stored.
 
-Further, we provide very restricted access to personal and other critical company information as on our behalf. However, our associates and employees may need  a right to use such information to process it or arrange it in order. These individuals are often bound by 'confidentiality' obligations and 'non-disclosure' agreements.
+Further, we provide very restricted access to personal and other critical owner information as on our behalf. However, our associates and employees may need  a right to use such information to process it or arrange it in order. These individuals are often bound by 'confidentiality' obligations and 'non-disclosure' agreements.
 
 _
 
