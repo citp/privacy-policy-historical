@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the exodus.co.uk privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129124908id_/http%3A//www.exodustravels.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exodus.co.uk privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122034224id_/https%3A//www.exodus.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy & statement on cookies | Exodus
 
-DON'T PANIC! Exodus uses cookies to help us recognise and remember you... from auto-loading the booking form to providing a page cache that is relevant to you. Please read our Statement on Cookies
+Exodus uses cookies to help us recognise and remember you... from auto-loading the booking form to providing a page cache that is relevant to you. Please read our Statement on Cookies
 
 Exodus Travels Ltd's Privacy Policy sets out what information we collect, how we collect it, and what we do with it. Our Privacy Policy applies to you and is available on our website and through other channels. In all your dealings with us you must ensure that others you represent are aware of the content of our Privacy Policy and consent to your acting on their behalf.
 
 ### INFORMATION ABOUT YOU
 
-**Your Information**
+**  
+Your Information**
 
 This refers to a combination of information such as your name, contact details, travel preferences and special needs/disabilities/dietary requirements that you supply us or is supplied to us, including your social preferences, interests and activities and any information about other persons you represent (such as those on your booking). Your information is collected when you request information from us, contact us (and vice versa),  make a booking, use our website(s)/apps, link to or from our website(s)/apps, connect with us via social media and any other engagement we or our business partners have with you.
 
 We will update your information whenever we can to keep it current, accurate and complete.
 
-**Our use of your Information**
+**  
+Our use of your Information**
 
   1. For the purpose of providing you with our services, including your flight, holiday, security, incident/accident management or insurance, etc., we may disclose and process your information outside the UK/EEA. In order for you to travel abroad, it may be **mandatory** (as required by government authorities at the point(s) of departure and/or destination) to disclose and process your information for immigration, border control, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Some countries will only permit travel if you provide your advance passenger data (for example Caricom API and US secure flight data). These requirements may differ depending on your destination and you are advised to check. Even if not mandatory, we may exercise our discretion to assist where appropriate.
 
@@ -30,17 +32,18 @@ _**If you do not agree to Our use of Your information above, we cannot engage/do
 
 **Marketing material**
 
-  1. Using your information, we may from time to time contact you with or make available to you (directly or indirectly) information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our group companies. We will tailor the information you receive or see; this will enable us to make available to you more personalised and relevant communications.  We may use innovative technologies and work with business partners to achieve this.
-  2. We will assume you agree to email when you make an e-booking or provide us with your email in other situations such as in-store, competitions, promotions, prize draws and social media.
+  1. Provided that you have given us your consent to do so, using your information, we may from time to time contact you with or make available to you (directly or  indirectly) information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions. In our marketing material we may occasionally also include information about selected business partners that provide outdoor clothing products, equipment and related travel services. We will tailor the information you receive or see; this will enable us to make available to you more personalised and relevant communications. We may use innovative technologies and work with business partners to achieve this.
+  2. We will assume you agree to email when you make an e-booking or provide us with your email in other situations such as competitions, promotions, prize draws and social media. However, we will always give you the opportunity to opt out when you provide your details and you can always subsequently unsubscribe from our emails (see 'Your Rights' below).
   3. If you do not wish to receive such information or would like to change your preference, please refer to point (2) of “Your Rights” below.
 
 
 
-****Your rights****
+****  
+Your rights****
 
-  1. On completing our Data Subject Access Request form, you are entitled to a copy of the information we hold about you (for a £10 fee) and to correct any inaccuracies.
-  2. You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference on our website(s), use our “unsubscribe email”, opt-out of personalised emails or refer to our literature containing instructions. Once properly notified by you, we will take steps to stop using your information in this way.
-  3. For a list of relevant brands, please send us your request. Please write to Exodus Travels Limited, Legal Department, TUI Travel House House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex RH10 9QL.
+    1. On completing our Data Subject Access Request form, you are entitled to a copy of the information we hold about you (for a £10 fee) and to correct any inaccuracies.
+    2. You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference on our website(s), use our “unsubscribe email”, opt-out of personalised emails or refer to our literature containing instructions. Once properly notified by you, we will take steps to stop using your information in this way.
+    3. For a list of relevant brands, please send us your request. Please write to Exodus Travels Limited, Legal Department, Travelopia, Origin One, 108 High Street, Crawley, West Sussex, RH10 1BD.
 
 
 
@@ -71,7 +74,7 @@ Any changes to this Policy will be either posted on our website, brochure and/or
 
 ### STATEMENT ON COOKIES
 
-By using our website, you agree to our [Website Terms & Conditions](https://www.exodustravels.com/usa/copyright). Take a look at our Privacy Policy to find our more on how we collect and use personal data. When you visit our websites we use cookies. Cookies allow us to identify the computer or device you’re using to access our websites – but we can’t identify you personally. You can set up your web browser to refuse cookies, but this means you won’t be able to book on our website or use all of its features.
+By using our website, you agree to our [Website Terms & Conditions](https://web.archive.org/copyright). Take a look at our Privacy Policy to find our more on how we collect and use personal data. When you visit our websites we use cookies. Cookies allow us to identify the computer or device you’re using to access our websites – but we can’t identify you personally. You can set up your web browser to refuse cookies, but this means you won’t be able to book on our website or use all of its features.
 
 What we use cookies for
 
@@ -308,7 +311,7 @@ Google](http://www.google.com/policies/privacy/)
 [Yahoo](http://info.yahoo.com/privacy/us/yahoo/details.html)  
 [MSN](http://privacy.microsoft.com/en-us/fullnotice.mspx)  
 [Facebook](https://www.facebook.com/about/privacy/)  
-[Affiliate Window](http://www.exodus.co.uk/uk.affiliatewindow.com/homepage/about-us/)
+[Affiliate Window](https://web.archive.org/uk.affiliatewindow.com/homepage/about-us/)
 
 Exodus Travels Ltd  
 Grange Mills  
@@ -317,6 +320,6 @@ London
 SW12 0NE  
 0208 772 3742
 
-Or visit the [Contact us](https://www.exodustravels.com/usa/contact-us) page for more contact information.
+Or visit the [Contact us](https://web.archive.org/contact-us) page for more contact information.
 
 Back to top
