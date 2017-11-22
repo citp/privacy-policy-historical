@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beshine.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628063621id_/http%3A//beshine.com/tour/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beshine.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122165117id_/http%3A//www.beshine.com/tour/privacy) for the most accurate reproduction.*
 
 # Beshine - Privacy Policy
 
