@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dissolve.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082022id_/http%3A//dissolve.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dissolve.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122073245id_/https%3A//dissolve.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stock Footage, Stock Photos - Dissolve
 
@@ -76,14 +76,4 @@ This policy was last modified on June 14, 2013.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-Dissolve Corp.
-
-300 S Fourth St, Ste 1400
-
-Las Vegas, Nevada 89101
-
-United States
-
-[help@dissolve.com](mailto:help@dissolve.com)
-
-+1 800-518-6748
+Dissolve
