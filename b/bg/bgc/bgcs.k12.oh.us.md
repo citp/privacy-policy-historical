@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bgcs.k12.oh.us privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607075527id_/http%3A//www.bgcs.k12.oh.us/district/board/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgcs.k12.oh.us privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122035705id_/http%3A//www.bgcs.k12.oh.us/Content/12) for the most accurate reproduction.*
 
-# Bowling Green City Schools :: Privacy Policies
+# Bowling Green City Schools
 
 ### **BGCS Notice of Privacy Practices**
 
@@ -14,27 +14,27 @@ If you have any questions about this notice, please contact Rhonda L. Melchi, Tr
 
 **Privacy of Health Information**. We understand that medical information about you and your health is personal. This notice tells you about the ways in which we may use and disclose medical information about you. We also describe your rights and certain obligations that we have, regarding the use and disclosure of medical information. We are required by law to:
 
-1\. assure the medical information that identifies you is kept private.   
-2\. give you this notice of our legal duties and privacy practices with respect to medical information about you and   
+1\. assure the medical information that identifies you is kept private.   
+2\. give you this notice of our legal duties and privacy practices with respect to medical information about you and   
 3\. follow the terms of the notice that is currently in effect.
 
-**Use and Disclosure of Medical Information.** The following describes the different ways that we may use and disclose medical information. Generally, private health information may be released without your authorization for the purposes of treatment, payment or other healthcare operations of the District. Medical information may also be released for the following purposes:
+**Use and Disclosure of Medical Information.**  The following describes the different ways that we may use and disclose medical information. Generally, private health information may be released without your authorization for the purposes of treatment, payment or other healthcare operations of the District. Medical information may also be released for the following purposes:
 
 1\. as required by law;  
-2\. for public health services;   
-3\. in connection with the investigation of abuse, neglect or domestic violence;   
-4\. to health oversight agencies in connection with health oversight activities;   
-5\. for judicial and administrative proceedings;   
-6\. for law enforcement purposes;   
-7\. to coroners, medical examiners and funeral directors;   
-8\. for research if a waiver of authorization has been obtained;   
-9\. to prevent serious and imminent harm to the health or safety of a person or the public;   
-10\. for specialized governmental functions;   
-11\. for military and veterans activities;   
-12\. for national security and intelligence;   
-13\. for protective services for the President and others;   
-14\. to the Department of the State to make medical suitability determinations;   
-15\. to correctional institutions and law enforcement officials regarding an inmate or   
+2\. for public health services;   
+3\. in connection with the investigation of abuse, neglect or domestic violence;   
+4\. to health oversight agencies in connection with health oversight activities;   
+5\. for judicial and administrative proceedings;   
+6\. for law enforcement purposes;   
+7\. to coroners, medical examiners and funeral directors;   
+8\. for research if a waiver of authorization has been obtained;   
+9\. to prevent serious and imminent harm to the health or safety of a person or the public;   
+10\. for specialized governmental functions;   
+11\. for military and veterans activities;   
+12\. for national security and intelligence;   
+13\. for protective services for the President and others;   
+14\. to the Department of the State to make medical suitability determinations;   
+15\. to correctional institutions and law enforcement officials regarding an inmate or   
 16\. for workers’ compensation if necessary to comply with the laws relating to workers’ compensation and other similar programs.
 
 **Rights Regarding Medical Information**. You have rights regarding medical information that we maintain about you:
@@ -113,4 +113,4 @@ If you have any questions or complaints, please contact: Rhonda L. Melchi, Treas
 
 **Complaints**
 
-If you are concerned that we have violated your privacy rights, or you disagree with a decision we made about access to your records, you may contact the person listed above. You also may send a written complaint to the U.S. Department of Health and Human Services — Office of Civil Rights.  The person listed above can provide you with the appropriate address upon request or you may visit [www.hhs.gov/ocr](http://www.hhs.gov/ocr) for further information. You will not be penalized or retaliated against for filing a complaint with the Office of Civil Rights or with us.
+If you are concerned that we have violated your privacy rights, or you disagree with a decision we made about access to your records, you may contact the person listed above. You also may send a written complaint to the U.S. Department of Health and Human Services — Office of Civil Rights.  The person listed above can provide you with the appropriate address upon request or you may visit [www.hhs.gov/ocr](http://www.hhs.gov/ocr) for further information. You will not be penalized or retaliated against for filing a complaint with the Office of Civil Rights or with us.
