@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infochoice.com.au privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323031258id_/http%3A//www.infochoice.com.au/infochoice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infochoice.com.au privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122181702id_/http%3A//www.infochoice.com.au/infochoice/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | InfoChoice
 
@@ -135,15 +135,15 @@ If you want to know how we obtained your personal information, please contact ou
 
 **How can you opt out of receiving direct marketing?**
 
-You can contact us at any time to let us know if you do not want the personal information we hold about you to be used or disclosed for direct marketing purposes, or you do not wish to be contacted in any of the above ways. In some circumstances we may need to contact you to obtain additional information, such as to verify your identity or to clarify your request.
-
-If you wish to unsubscribe from future marketing or promotional material, please email “Unsubscribe” to [marketing@iselect.com.au](mailto:marketing@iselect.com.au).
+If you wish to unsubscribe from future marketing or promotional material, please click the “Unsubscribe” link at the bottom of the marketing email you will have received. On completing the unsubscribe process an onscreen confirmation message will appear.
 
 ### Does InfoChoice disclose your personal information to overseas recipients?
 
 Some of our service providers are located overseas. As a result, InfoChoice may disclose your personal information to overseas recipients, including recipients located in the United States, Singapore, Hong Kong and Fiji. For example, sometimes we use third party platforms to deliver or store information. These are sites hosted and managed by organisations other than ourselves, and some of these sites are located overseas. 
 
-The email platform used by InfoChoice is maintained overseas by Exact Target Inc. which has its principal place of business in the United States of America. Exact Target’s privacy policy is available at [www.exacttarget.com](http://www.exacttarget.com/). Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on InfoChoice’s behalf). 
+The email platform used by InfoChoice is maintained overseas by Oracle, which has its principal place of business in the United States of America. Oracle’s privacy policy is available at [www.oracle.com/legal/privacy.](https://www.oracle.com/legal/privacy)
+
+Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us or by third parties on InfoChoice’s behalf). 
 
 ### Use of Government Identifiers
 
