@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobtestprep.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602030608id_/https%3A//www.jobtestprep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobtestprep.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122191413id_/https%3A//www.jobtestprep.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Information - JobTestPrep
 
