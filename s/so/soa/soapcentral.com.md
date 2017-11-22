@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soapcentral.com privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320211500id_/http%3A//soapcentral.com/soapcentral/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapcentral.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164647id_/http%3A//soapcentral.com/soapcentral/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement | soapcentral.com @ soapcentral.com
+# Privacy Statement | soapcentral.com
 
 Thank you for visiting the **soap** central **.com** site. Your privacy is important to us. In an effort to better protect your privacy, we provide this notice explaining our online information practices of collecting and disseminating information. 
 
