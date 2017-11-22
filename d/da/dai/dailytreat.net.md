@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytreat.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181510id_/http%3A//dailytreat.net/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytreat.net privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122093303id_/http%3A//www.dailytreat.net/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # Daily Treat
 
