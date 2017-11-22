@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the synacor.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512090830id_/https%3A//www.synacor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synacor.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123003342id_/https%3A//www.synacor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Synacor Inc.
 
-This privacy policy applies to www.synacor.com, www.synacor.net and www.zimbra.com, owned and operated by Synacor, Inc. (“Synacor”), and Synacor’s privacy practices in connection with: the Client Websites (defined below), third party sites on which Synacor provides advertising services, and mobile applications owned and/or operated by Synacor or its clients. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Synacor.
+This privacy policy applies to [www.synacor.com](http://www.synacor.com/), www.synacor.net and www.zimbra.com, owned and operated by Synacor, Inc. (“Synacor”), and Synacor’s privacy practices in connection with: the Client Websites (defined below), third party sites on which Synacor provides advertising services, and mobile applications owned and/or operated by Synacor or its clients. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Synacor.
 
 Synacor works to ensure that the personal information of its end users, including its clients’ end users, will be kept safe and confidential. The following is **Synacor’s Privacy Policy:**
 
@@ -12,21 +12,23 @@ Synacor works to ensure that the personal information of its end users, includin
 
 Synacor is a global technology company providing Internet solutions to enable its clients, media companies and advertisers to build close relationships with consumers on the Internet. We provide and manage web portals, email and other services (“Services”) to and for our clients (which include ISPs, computer electronics manufacturers, charities, and other companies) on their websites and mobile applications (“Client Websites”). Synacor also provides advertising on its Client Websites, its Mobile App (defined below), and to third parties for their websites.
 
-Synacor considers the privacy and security of the information of its users and its client’s end users to be very important. The following privacy policy explains how Synacor collects and uses information obtained (a) in connection with its Client Websites, (b) when you visit the [www.synacor.com](https://www.synacor.com/),  www.synacor.net and [www.zimbra.com](http://www.zimbra.com/) websites (“Synacor Websites” and, together with the Client Websites, the “Websites”), (c) when Synacor provides advertising on third party web sites, and (d) on a mobile application owned and/or operated by Synacor or its clients (“Mobile App”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+Synacor considers the privacy and security of the information of its users and its client’s end users to be very important. The following privacy policy explains how Synacor collects and uses information obtained (a) in connection with its Client Websites, (b) when you visit the [www.synacor.com](http://www.synacor.com/), www.synacor.net  and [www.zimbra.com](http://www.zimbra.com/) websites (“Synacor Websites” and, together with the Client Websites, the “Websites”), (c) when Synacor provides advertising on third party web sites, and (d) on a mobile application owned and/or operated by Synacor or its clients (“Mobile App”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Synacor complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Synacor  has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Synacor’s  certification, please visit  <https://safeharbor.export.gov/swisslist.aspx>.
+Synacor (and its subsidiary companies, NTV Internet Holdings, LLC; Zimbra Technology India Private Limited; Synacor Europe Limited; Zimbra Software, LLC; Synacor China, Ltd.; Synacor Canada, Inc.; and Sync Holdings, LLC; Zimbra Japan G.K. and Zimbra Singapore Pte Ltd.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Synacor is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-Synacor (and its subsidiary companies, NTV Internet Holdings, LLC; Zimbra Technology India Private Limited; Synacor Europe Limited; Zimbra Software, LLC; Synacor China, Ltd.; Synacor Canada, Inc.; and Sync Holdings, LLC; Zimbra Japan G.K. and Zimbra Singapore Pte Ltd.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Synacor is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
-
-Synacor is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Synacor complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Synacor is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Synacor complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Synacor is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Synacor may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, Synacor, Inc. commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Synacor, Inc. at [privacypolicy@synacor.com](mailto:privacypolicy@synacor.com).
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-## Information Collection and Use on the Client Websites
+Synacor, Inc. has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+
+## Information Collection and Use on the Client Websites
 
 ### Information Collected and How We Use It
 
@@ -42,11 +44,11 @@ Synacor uses the information provided to us in order to improve the quality of t
 
 Synacor may also use e-mail addresses and other information to respond to users who communicate with us for support purposes or otherwise. If you choose to correspond with Synacor through e-mail, Synacor may retain the content of the correspondences, the e-mail addresses and its responses. You may sign-up to receive marketing emails or other communications from us.  If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you.
 
-### Non-Personally Identifiable Information Collected Automatically
+### Information Collected Automatically
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, domain type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-We may combine this automatically collected log information with other non-personally identifiable information we collect about you. We do this to improve services we offer you, and to enhance our marketing, analytics, and site functionality. IP addresses also are used to provide us an audit trail in the case of any attempted illegal or unauthorized use of the Websites or Mobile App.
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, and to enhance our marketing, analytics, and site functionality. IP addresses also are used to provide us an audit trail in the case of any attempted illegal or unauthorized use of the Websites or Mobile App.
 
 We use mobile analytics software to allow us to better understand the functionality of our Mobile App on your device. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the Mobile App.
 
@@ -60,7 +62,7 @@ To manage Flash LSOs please click here:
 
 <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-## Advertising
+### Advertising
 
 We partner with third parties to display and manage advertising on the Websites and Mobile App and to display and manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on those properties in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [http://www.networkadvertising.org](http://www.networkadvertising.org/) or [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/) [or if located in the European Union click [here](http://www.youronlinechoices.eu/)]. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
@@ -76,7 +78,7 @@ Business Transfers: Synacor may transfer any information in our possession to an
 
 Aggregation: Synacor may share aggregated usage and demographic information collected via the Client Websites, third party web sites, the Mobile App, and Services. However, no PII will be included in these aggregations.
 
-Affiliated Business We Do Not Control: We are affiliated with a variety of businesses that jointly provide products or services with Synacor. When an affiliated business is associated with your transaction, we may share information that is related to such transactions with that affiliated business that is necessary to provide products and services to us. We do not permit the use of any PII by these affiliated businesses solely as necessary for such businesses to provide the requested products and services to us and for no other reason.
+Affiliated Business We Do Not Control: We are affiliated with a variety of businesses that jointly provide products or services with Synacor. When an affiliated business is associated with your transaction, we may share information that is related to such transactions with that affiliated business that is necessary to provide products and services to us. We only permit the use of any PII by these affiliated businesses solely as necessary for such businesses to provide the requested products and services to us and for no other reason.
 
 ### Sharing Your Own Information with Others.
 
@@ -88,7 +90,8 @@ If a password is used to help protect your accounts and information, it is your 
 
 Neither the Websites, the Mobile App, nor the Services are designed for those 13 years of age and younger. Synacor does not knowingly collect PII from anyone under the age of 13. If the company is made aware that it has received PII from someone under 13, it will use reasonable efforts to remove that information from its records. Children under the age of 13 should not post in any of the blogs, forums, or other editorial sections of Websites or the Mobile App.
 
-### Updating/Accessing/Amending/Correcting Personally Identifiable Information
+### Updating/Accessing/Amending/Correcting Personally Identifiable  
+Information
 
 Synacor acknowledges that you have the right to access your personal information.  If you are a user of the Client Websites or the Mobile App, the information provided through those properties is owned and controlled by Synacor’s clients. Please check the privacy policy on the Client Website or Mobile App for instructions on how to modify your personal information with the owner of that information. If requested to remove data we will respond within a reasonable timeframe.
 
@@ -96,19 +99,19 @@ If you are a user of Synacor’s Website and would like us to update, correct, d
 
 Synacor collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
-### Data Retention
+## Data Retention
 
 We will retain your information and the personal information we process on behalf of our Clients for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacypolicy@synacor.com](mailto:privacypolicy@synacor.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Social Media (Features) and Widgets
+## Social Media (Features) and Widgets
 
 The Websites and Mobile App may include Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on the Websites and Mobile App. These features may collect your IP address, which page you are visiting on the sites, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on the Websites or the Mobile App. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-### Security Procedures
+## Security Procedures
 
 Synacor has implemented a variety of security measures to protect PII received by Synacor, including containing all PII behind its secured server network and limiting its accessibility to a limited number of authorized persons who have special access rights to such systems. We follow generally accepted industry standards to protect the PII submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your PII, we cannot guarantee its absolute security.
 
-### Additional Information
+## Additional Information
 
 The Websites and the Mobile App may contain links to other sites. Synacor is not responsible for the privacy practices, the content or the products and services offered by such websites. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your PII by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Synacor. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to the Websites or the Mobile App you should read that site’s privacy statement before providing any PII.
 
@@ -116,7 +119,7 @@ The Websites and the Mobile App may contain links to other sites. Synacor is not
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you by means of a notice on this website prior to the change becoming effective.
 
-This Privacy Policy was last updated on **September 27, 2016**
+This Privacy Policy was last updated on May 3, 2017.
 
 Questions about this privacy statement, the practices or dealing with the Websites or Mobile App should be directed to:
 
@@ -126,14 +129,16 @@ Privacy Policy Administrator
 Buffalo, NY 14202  
 [privacypolicy@synacor.com](mailto:privacypolicy@synacor.com)
 
-In addition to the policies above, the following items refer specifically to [www.synacor.com](https://www.synacor.com/).
+In addition to the policies above, the following items refer specifically to [www.synacor.com](http://www.synacor.com/).
 
-We do not collect any PII on www.synacor.com unless you apply for a job. If you apply for a job, we will collect through our job application service provider, information including your name, email, address, phone number and resume. We use a third party service provider to manage our job postings and resume submission. This third party is prohibited from using your PII for promotional purposes.
+We collect PII on www.synacor.com when you apply for a job. If you apply for a job, we will collect through our job application service provider, information including your name, email, address, phone number and resume. We use a third party service provider to manage our job postings and resume submission. This third party is prohibited from using your PII for promotional purposes.
 
 We utilize framing techniques on some pages of our website to make it appear that the user is still on the website when the user is actually on a third party website. Please be aware that you are providing your personal information to these third parties and not to the Websites.
-
-If you choose to use our referral service to tell a friend about a job on the website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. We do not store this information.
 
 We post customer testimonials/comments/reviews on our website which may contain PII. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial, comments or reviews removed please contact us at [privacypolicy@synacor.com](mailto:privacypolicy@synacor.com).
 
 You will not receive any communications from the Synacor.com website unless you contact us for a specific request or submit a job application. See above how to modify your PII submitted.
+
+In addition to the policies above, the following items refer specifically to [www.zimbra.com](http://www.zimbra.com/)
+
+We may share your information with third parties who provide services on our behalf to help with our business activities such as processing payments. These companies are authorized to use your personal information only as necessary to provide these services to us.
