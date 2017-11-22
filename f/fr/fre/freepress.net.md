@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529163701id_/http%3A//www.freepress.net/privacy_copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122220136id_/https%3A//www.freepress.net/privacy_copyright) for the most accurate reproduction.*
 
 # Privacy and Copyright Policies | Free Press
 
@@ -9,7 +9,7 @@ In general, Free Press and our software partners treat your contact information 
 
 We will notify users of updates to this policy by noting the date of new changes directly below this statement.
 
-This policy was last amended on June 5, 2014. 
+This policy was last amended on July 11, 2017. 
 
 Policy effective May 1, 2003. 
 
@@ -19,7 +19,7 @@ Free Press and third-party vendor servers may record the IP address of your comp
 
 We use this information to measure the number of visitors to different sections of the site, to diagnose and correct system errors and to improve the site. We do not connect this information to your name or identity, and we do not retain this information permanently. 
 
-Information that is not provided with the express intent of subscription, ordering, membership or donation will not be captured for use in other communications unless otherwise noted. We (and our vendors) restrict the use of “cookies” on this site primarily to convenience features such as auto login, surveys and polls. We typically delete these cookies as soon as is reasonably possible. We’re committed to respecting your desire to opt out of online-tracking schemes, and therefore **we include no third-party tracking buttons or beacons on our sites.**
+Information that is not provided with the express intent of subscription, ordering, membership or donation will not be captured for use in other communications unless otherwise noted. We (and our vendors) restrict the use of “cookies” on this site primarily to convenience features such as auto login, surveys and polls. We typically delete these cookies as soon as is reasonably possible. 
 
 **External Links**
 
@@ -27,7 +27,9 @@ Free Press has not reviewed all of the sites linked to this site and is not resp
 
 **Electronic Mailing List Policies**
 
-Free Press offers several electronic mailing lists. If you choose to subscribe to any of these lists, we may ask for personal information such as your name, ZIP code and email address. We use this information solely to manage our lists (for example, we may use your ZIP code for a targeted mailing on an issue affecting your area). **We do not sell, rent or share any information from our electronic mailing lists.**
+Free Press offers several electronic mailing lists. If you choose to subscribe to any of these lists, we may ask for personal information such as your name, ZIP code and email address. We use this information solely to manage our lists (for example, we may use your ZIP code for a targeted mailing on an issue affecting your area). **We do not sell or rent our electronic mailing lists.**
+
+If you sign up to volunteer — for example, by submitting your phone number in a volunteer sign-up field on a website form — we may share your contact information with partner organizations, third-party services or other volunteers for the purposes of volunteer coordination.
 
 There are a number of ways to subscribe to Free Press’ electronic mailing lists, including submitting a form on our website, opting in when you engage in online or offline activism, or mailing or completing a sign-up form from a paper petition, brochure or flier. When you subscribe, you will typically receive a confirmation message welcoming you. 
 
