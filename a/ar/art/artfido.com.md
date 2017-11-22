@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfido.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082614id_/http%3A//www.artfido.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfido.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122130705id_/http%3A//www.artfido.com/privacy-policy) for the most accurate reproduction.*
 
 # artFido | Buy Art Online | Privacy Policy
 
@@ -67,7 +67,7 @@ B |
     * the National Privacy Principles.
   * However, given artFido's size and business, the National Privacy Principles didn't cover us.
   * But that wasn't good enough for Us. To show how committed We are to protecting Your privacy rights, We successfully applied to 'opt-in' to the National Privacy Principles scheme. We didn't have to, but We wanted to, because Your privacy is just as important to Us as it is to You. 
-    * You can access the Assistant Privacy Commissioner's acceptance letter addressed to artFido [here](https://web.archive.org/web/20170606082614id_/http%3A//www.artfido.com/privacy%20letter.jpg).
+    * You can access the Assistant Privacy Commissioner's acceptance letter addressed to artFido [here](https://web.archive.org/web/20171122130705id_/http%3A//www.artfido.com/privacy%20letter.jpg).
   * The 'opt-in' register includes a list of all the businesses like Us who have willingly chosen to be covered by the National Privacy Principles. 
     * You can access the register here [www.oaic.gov.au/privacy-portal/resources_privacy/optin-register.html#a](http://www.oaic.gov.au/privacy-portal/resources_privacy/optin-register.html#a).
 
@@ -106,7 +106,7 @@ C |
   
 9 | If You use the artFido Website, You confirm to Us that You have read and understood this artFido Privacy Policy. 
 
-  * If You find anything contained in this artFido Privacy Policy unclear, You should contact Us by sending an email to [contactus@artfido.com](mailto:contactus@artfido.com). 
+  * If You find anything contained in this artFido Privacy Policy unclear, You should contact Us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8cbc7c6dcc9cbdcdddbe8c9dadccec1ccc786cbc7c5). 
     * If You are still unclear on something after contacting Us, You might consider getting some legal advice.
 
   
@@ -133,7 +133,7 @@ D |
 14 | We won't collect Your Personal Information unless it's necessary for one or more of Our functions or activities.  
 15 | In each case, We are the organisation collecting Your Personal Information. 
 
-  * You can contact Us by sending an email to [contactus@artfido.com](mailto:contactus@artfido.com). For further information regarding contacting Us, see Section M.
+  * You can contact Us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7714181903161403020437160503111e13185914181a). For further information regarding contacting Us, see Section M.
   * You can get access to Your Personal Information at any time. For further information on accessing Your information, see Section L.
 
   
@@ -487,7 +487,7 @@ L |
       * credit card details.
     * We will store previous email addresses against Your Membership Profile to make sure that each Member keeps only one account with Us, as clause 13 of the artFido Terms requires.
   * You may want to know the details of some Personal Information about You which We collect and hold that isn't contained in Your Membership Profile. 
-    * If so, please contact Us by sending an email to [contactus@artfido.com](mailto:contactus@artfido.com).
+    * If so, please contact Us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f99a96978d989a8d8c8ab9988b8d9f909d96d79a9694).
   * Subject to clause 45(d), if We hold Personal Information about You, We will provide You with access to that information if You ask for it. 
     * Before We let You access Your Personal Information, We may ask You to verify Your identity.
     * We might give You access by: 
@@ -540,7 +540,7 @@ L |
     * provide You with Our reasons for not changing the information; and
     * if You ask Us to, take all reasonable steps to attach to the information a statement that You claim the information is Incorrect.
   * You may want to discuss with Us any issue about correcting Your Personal Information. 
-    * If so, please contact Us by sending an email to [contactus@artfido.com](mailto:contactus@artfido.com).
+    * If so, please contact Us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef8c80819b8e8c9b9a9caf8e9d9b89868b80c18c8082).
 
   
 48 | Subject to clause 48(a), We won't charge You for Our giving You access to Your Personal Information, or for Our correcting it. 
@@ -563,7 +563,7 @@ M |
   
 50 | If You have any questions about this artFido Privacy Policy, please contact Us by: 
 
-  * sending an email to [contactus@artfido.com](mailto:contactus@artfido.com); or
+  * sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98fbf7f6ecf9fbecedebd8f9eaecfef1fcf7b6fbf7f5); or
   * posting a letter to artFido, PO Box 361, Carlton North, Victoria, Australia 3054.
 
 
