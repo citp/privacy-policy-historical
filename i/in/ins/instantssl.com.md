@@ -1,70 +1,69 @@
-> *The following text is extracted and transformed from the instantssl.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126110706id_/https%3A//www.instantssl.com/ssl-certificate-legal/ssl-certificate-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantssl.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122223520id_/https%3A//www.instantssl.com/ssl-certificate-legal/ssl-certificate-privacy.html) for the most accurate reproduction.*
 
 # SSL Certificate Privacy Statement from Instant SSL
 
-As part of the Comodo pledge to our customers, we recognize and respect your right to privacy. This privacy policy statement informs our customers of the privacy practices employed in the provision of Comodo's products, services and website.
+This privacy policy describes the policies and practices of Comodo CA Limited and its subsidiaries (collectively, "Comodo") in collecting, using, and safeguarding the private information that may be obtained through use of Comodo's products, services, and websites. Questions about this privacy policy may be submitted by email to [privacy@comodoca.com](mailto:privacy@comodoca.com). This privacy policy applies to Comodo, but not to Comodo's partners or affiliates, which may have separate privacy policies.
 
-Questions relating to this policy statement should be directed towards the Comodo support team at info@comodogroup.com.
+**Information Collection**  
+Information is collected from customers only after obtaining consent, which is obtained when customers are prompted for information when subscribing to Comodo's services, using a Comodo website, downloading a Comodo product, or requesting further information from Comodo. Comodo may contact customers about offers and opportunities from Comodo or its business partners, to conduct surveys, and gather feedback. This privacy policy does not extend to any information that is beyond the control of Comodo.
 
-**CPS and Associated Agreements**  
-This Privacy Policy statement supplements the practices and policies stated within the Subscriber [Agreement](http://www.comodo.com/about/comodo-agreements.php) (and associated product Schedules), Relying Party Agreement and Comodo Certification Practice Statement (CPS). Please refer to these documents for the practices employed by Comodo for the issuing, management and revocation of certificate based products.
+If you are located in California, IP addresses are considered personally identifiable information.
 
-**Anti-Spam Policy**  
-Comodo does not employ the use of spam for propagating its product awareness or special offers.
+In the event that third party features and functionalities are incorporated in or made available in or through Comodo products, then the policies of those third parties apply. Please visit each third party's license agreement and privacy policy to better understand their terms of use and privacy practices.
 
-**Informational Collection and Use**  
-Comodo do not collect any information on customers without consent. As part of the service offerings, customers will be prompted for information when enrolling for a certificate, downloading a product or requesting further information. No information is collected about a customer if just browsing the website.
+**Children's Online Privacy Protection Act Statement**  
+Comodo sites, products and services are not directed to children under the age of 13 and Comodo does not knowingly collect personally identifiable information from children under the age of 13. If Comodo becomes aware that a child under the age of 13 has provided personally identifying information, Comodo will take steps to delete such information from Comodo's files as soon as possible.
 
-**Certificate enrolment**  
-When enrolling for a certificate, customers will be required to provide certain information as per the requirements for the certificate product type. The exact informational requirements are set out in the relevant Subscriber Agreement and associated schedules and listed in the Comodo CPS. Some of the submitted details will be displayed within the certificate and as a result will be publicly available. Details that will become public are clearly stated as 'public' in the enrolment process, Subscriber Agreement and associated schedules.
+**Services**  
+Enrolling in Comodo's subscription service may require a customer to provide certain personal information and enter into a subscriber agreement. Nothing herein is intended to modify the terms in the subscriber agreement.
+
+**Certificate Enrolment**  
+When enrolling for a certificate, customers will be required to provide certain information as per the requirements for the certificate product type. The exact informational requirements are set out in the relevant subscriber agreement and associated schedules, and listed in the Comodo CPS. Some of the submitted details will be displayed within the certificate and, as a result, will be publicly available. Details that will become public are clearly stated as 'public' in the enrolment process, subscriber agreement and associated schedules.
 
 **Product Download**  
-When downloading a Comodo product, such as the TrustToolbar Plug-in, you will be required to submit personal information as specified on the download page. This information will be used by Comodo to contact the customer about the services on our site for which they have expressed interest, including product updates and associated promotional material. It also aids Comodo in providing improved global services by collating general demographic information. Please refer to the opt-out policy described later in this policy statement.
-
-**Information Request**  
-Comodo provide the ability to request further information or ask questions to the support team by displaying email links throughout the website. If a customer elects to use such links they may be requested to provide additional information depending on the nature of the contact. Typically, such additional information may include further contact details, and in the case of technical support, additional information about the customer's PC configuration may be required to aid a prompt a accurate response to the query.
+Downloading a product will often require the input of personal information. This information will be used by Comodo or its affiliates to contact the customer about Comodo's products and services, including product updates and associated promotional material. This information may also be used as collated general demographic information to improve Comodo's products and services.
 
 **Cookies**  
-A cookie is a piece of data stored on a computer's hard disk containing information about the owner. Comodo employ the use of cookies to gauge success of internal marketing campaigns and within the use of the Referrer programs. Such cookies contain no personally identifiable information. Our partners may also use cookies. Comodo do not exercise any access or control of such cookies.
+A cookie is a piece of data stored on a computer's hard disk containing information about the owner. Comodo may employ the use of cookies for measuring the success of advertising and affiliate network membership. Comodo's partners may also use cookies. Comodo does not exercise any access or control of such cookies.
+
+Comodo's websites use Google Analytics, a web analytics service provided by Google, Inc. ("Google"), to evaluate the use of the Comodo site. Google Analytics places a third party cookie on your computer that is then used to compile reports of visitor traffic and internet usage. Google analytics does not have a database of individual profiles for each visitor and only collects aggregate data.
+
+**Re-Targeting**  
+Comodo permits the operation of a retargeting consumer marketing program, including, but not limited to, the provision of anonymous consumer information to a third-party provider of such a program. A link to the Network Advertising Initiative's consumer opt-out page is located at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and allows the consumer to opt-out of such retargeting programs.
 
 **Log Files**  
-Comodo use log files comprising of IP addresses to analyze trends, administer the site, track movements throughout the site, calculate the number of document and file downloads, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+Comodo uses log files comprising of non-personally identifiable information to analyze trends, administer the site, track movements throughout the site, calculate the number of document and file downloads, and gather broad demographic information for aggregate use.
 
 **Sharing**  
-Comodo will share aggregated demographic information with our partners. This is not linked to any personal information that can identify any individual person.
+Comodo will share aggregated demographic and other information with Comodo's partners and affiliates. Information provided to Comodo will be protected by Comodo and not sold or rented to any unrelated third parties without the express consent of the information provider, except that Comodo may disclose data to its affiliates and business partners who have established similar privacy standards, when legally obligated to do so, or if disclosure is required to protect the rights of Comodo, Comodo's customers, or the users of Comodo's services. Comodo may also share aggregate demographic data that does not contain any personally identifiable information. Validation is an essential step in receiving a Certificate from Comodo. This validation may require verifying your information with a third party as described in the Comodo CPS. Comodo may disclose the information provided to the extent necessary to verify the certificate application.
+
+**Supplementation of Information (Validation of Submitted Details)**  
+In order for Comodo to properly fulfil its obligation to its customers, it is necessary for Comodo to supplement information Comodo receives with information from 3rd party sources.
+
+For example, prior to the issuance of some certificate types, Comodo may use the WHOIS database, Government sourced companies house database or Dun & Bradstreet company lookup information to validate the accuracy of supplied information. This is an integral aspect of the services provided by Comodo.
 
 **External Links**  
-The Comodo website contains links to external websites. Comodo is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this website. Comodo have no control over the accuracy of information displayed by such websites.
+Comodo's websites contains links to external websites, which are outside the scope of this privacy policy. Comodo is not responsible for the privacy practices of such other websites and does not control the accuracy of information displayed by such websites.
+
+**Forums, Bulletin Boards, Testimonials, Chat Rooms, and Surveys**  
+Personal information submitted through a forum, bulletin board, testimonial, or chat room operated by Comodo may be collected, used, and read by third parties, including other users. Comodo is not responsible for any information submitted through these services. Occasionally, Comodo will request information from customers via surveys. Participation in these customer surveys is voluntary. Survey information is used to improve this web site and Comodo's services and products.
 
 **Security**  
-This website takes every precaution to protect our customer's information. When customers submit sensitive information via the website, such information is protected both online and off-line.
-
-During certificate enrolment, where sensitive information is required, the transmission of information is encrypted and protected using Secure Sockets Layer (SSL). This includes the submission of any payment information such as credit card details.
-
-Comodo use SSL encryption to protect sensitive information online and do everything in our power to protect user-information off-line. All of our customer's information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example billing administration or the development team) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to customer information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. The servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. The cryptographic keys used to issue certificates are maintained in the secure environment of FIPS-140 level 4 accredited IBM 4758 crypto devices.
-
-**Supplementation of Information (validation of submitted details)**  
-In order for Comodo to properly fulfil its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources.
-
-For example, prior to the issuance of some certificate types Comodo may use the WHOIS database, Government sourced companies house database or Dun & Bradstreet company lookup information to validate the accuracy of supplied data. This is an integral aspect of the service provided by Comodo.
-
-**Service Updates**  
-Established customers will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our customers we present the option not to receive these types of communications. We also send the user service announcement updates. Customers are not able to unsubscribe from service announcements, which may contain important security information about the service.
+Comodo protects information both online and off-line. The transmission of information, including any payment information, is encrypted and protected using Secure Sockets Layer (SSL). Stored customer information is kept in a secure environment where access is restricted to employees who need the information to perform a specific job (for example billing administration or the development team). Employees are required to use password-protected screen-savers and keep their computers up-to-date.
 
 **Updating Customer Information**  
-If a customer's personally identifiable information or certificate specific information changes they may update the original information provided. Changes can be made by logging into the Members area and using the services provided in the Manage Account section.
-
-**Choice / Opt out**  
-Customers are given the opportunity to 'opt-out' of having information used for purposes not directly related to the Comodo service offering at the point where the information is requested. For example, all certificate enrolment and product downloads has an 'opt-out' mechanism so customers who buy a product from us, but would prefer not to receive any marketing material, can request to have their email address kept off of our lists.
-
-If customers no longer wish to receive our newsletter or promotional materials from our partners, they may opt-out of receiving these communications by emailing Comodo at webmaster@comodogroup.com.
-
-Customers of our site are always notified when their information is being collected by any outside parties. We do this so our customers can make an informed choice as to whether they should proceed with services that require an outside party, or not.
+If a customer's personally identifiable information or certificate specific information changes, they may update the original information provided. Changes can be made by logging into the Members area and using the services provided in the Manage Account section.
 
 **Certificate Revocation & Expiry**  
-Access to all issued certificates is provided through the Comodo public repository. Because of the nature of the service provided, there may be circumstances under which a certificate is revoked (cancelled). Furthermore, as the lifetime of all certificates is finite (lasting usually 1 year), certificates will expire.
+Access to all issued certificates is provided through Comodo's public repository. Because of the nature of the services provided, there may be circumstances under which a certificate is revoked (cancelled). Furthermore, as the lifetime of all certificates is finite, certificates will expire.
 
 Comodo still provides public access to both revoked and expired certificates to ensure a party relying on the certificate may still be able to retrieve the certificate and verify a signature made with the certificate. Such certificates are flagged as revoked or expired within the repository.
 
+**Choice / Opt out**  
+Customers may occasionally receive information on products, services, and special deals from Comodo or may receive informational newsletters. Customers are given the opportunity to 'opt-out' of having information used for purposes not directly related to the Comodo service at the point where the information is requested. Customers may also elect not to receive additional promotional communications using the opt-out link provided in each promotional email or by emailing [optout@comodoca.com](mailto:optout@comodoca.com). Customers may not opt-out of receiving service announcement updates as they contain important security information about the services.
+
+**Amendments to this Privacy Policy**  
+Comodo reserves the right to amend this privacy policy at any time. Any amendment will be made by posting the changes to the website. Customers must check the website periodically to be aware of any changes to the privacy statement. 
+
 **Customer consent**  
-By using our Web site, customers consent to the collection and use of this information by Comodo Limited. If any subsequent changes are made to our privacy policy, we will post those changes on the policy update page so that customers are always aware of what information is collected, how it is used and under what circumstances it may be disclosed.
+By using a Comodo product, service, or website, you consent to Comodo's collection and use of the information described in this privacy policy and, if you are a Comodo customer, the related subscriber agreement entered into between you and Comodo. 
