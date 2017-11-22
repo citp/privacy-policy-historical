@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshwallpapers.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084044id_/http%3A//www.freshwallpapers.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshwallpapers.in privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122122012id_/http%3A//www.freshwallpapers.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,7 +95,7 @@ If you turn cookies off, you won't have access to many features that make your v
 
 We do not knowingly collect personal information from children under the age of 18.This Website is not intended to solicit information of any kind from children under the age of 18 and we have made commercially reasonable efforts to design this Websiteto prevent our knowing acceptance of any such information.
 
-It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18.If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers.If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do contact us or freshwallpaper.net@gmail.com 
+It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18.If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers.If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do contact us or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
   
 
@@ -149,7 +149,7 @@ Freshwallpapers.in has a Terms and Conditions of Use Agreement that sets forth t
 
 We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices.Please send us feedback pertaining to these matters or any other issue you may have with Freshwallpapers.in or this Website.
 
-You may contact us at freshwallpaper.net@gmail.com 
+You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
   
 
