@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artvan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101130id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1_N%3FICID%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artvan.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164413id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1_N%3FICID%3Dfooter) for the most accurate reproduction.*
 
-# Art Van Furniture | Affordable home furniture stores and mattress stores
+# Art Van Furniture | Affordable Home Furniture Stores & Mattress Stores
 
 ## Privacy Policy & Terms of Use  
   
