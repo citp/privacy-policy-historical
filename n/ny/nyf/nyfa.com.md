@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyfa.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623083231id_/https%3A//www.nyfa.edu/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfa.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122173847id_/https%3A//www.nyfa.edu/about/policy.php) for the most accurate reproduction.*
 
 # New York Film Academy - Privacy Policy
 
