@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamgaroo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132027id_/http%3A//www.streamgaroo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamgaroo.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123025705id_/http%3A//www.streamgaroo.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -143,4 +143,4 @@ and we will promptly remove you from ALL correspondence.
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-contact@streamgaroo.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
