@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614085647id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123021516id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
