@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ad.net privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524193728id_/http%3A//ad.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad.net privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123213611id_/http%3A//www.ad.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Ad.net
 
 As the owners (“Company” or “we”) of Ad.net (the “Web Site”), we have created this Privacy Policy in order to demonstrate our commitment to the privacy of our customers and users. This Privacy Policy is only applicable to the Web Site, and not any other websites that are accessible from the Web Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such web sites.
 
@@ -19,15 +19,15 @@ We provide our customers with unique usernames and passwords for use with our se
 **Security Measures**  
 We have reasonable security measures in place and technologies to protect the loss, misuse and alteration of your information under our control but we cannot assure that your personally identifiable information or non-personally identifiable information will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-To Change and/or Modify Information We allow our customers to change and modify personal information previously provided by either using their account manager or by e-mailing us at [Contact Us](http://www.ad.net/contact-us).
+To Change and/or Modify Information We allow our customers to change and modify personal information previously provided by either using their account manager or by e-mailing us at [Contact Us](http://localhost/ad-net/contact-us).
 
 **Cookies**  
 To enhance the performance of certain services within our Web Site we use cookies. Cookies, by themselves, do not tell us your personally identifiable information. However, once you choose to furnish the Web Site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the offerings on our Web Site. Cookies placed on your computer by third parties by or through the Web Site, if any, are not the responsibility of the Company and are not subject to this Privacy Policy. Please contact the third party placing these cookies to find out what information is collected and how it is used. You can usually edit your browser not to accept cookies, but the features of our Web Site may not function properly if you do accept cookies.
 
-Ad.Net utilizes AppNexus as an ad server. To opt out of the Platform selecting ads for your browser based on your online web browsing behavior and cookies, please follow this link and follow the instructions: [ http://www.appnexus.com/platform-policy#choices](http://www.appnexus.com/platform-policy#choices)
+Ad.Net utilizes AppNexus as an ad server. To opt out of the Platform selecting ads for your browser based on your online web browsing behavior and cookies, please follow this link and follow the instructions:<http://www.appnexus.com/platform-policy#choices>
 
 **Contact**  
-If you have any questions about this Privacy Policy, the practices of the Web Site or your dealings with the Web Site, you can contact us by e-mail at: [Contact Us](http://www.ad.net/contact-us).
+If you have any questions about this Privacy Policy, the practices of the Web Site or your dealings with the Web Site, you can contact us by e-mail at: [Contact Us](http://localhost/ad-net/contact-us).
 
 The Company may update this Privacy Policy from time to time. We may notify you about significant changes in the way we treat your information by sending a notice to you, although we are not required to do so, or we may simply place a notice on the Web Site. Not withstanding the foregoing, we reserve the right to change this Privacy Policy without any notice whatsoever to you and for whatever reason we deem appropriate under the circumstances. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
