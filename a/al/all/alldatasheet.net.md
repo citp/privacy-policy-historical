@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldatasheet.net privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523135343id_/http%3A//www.alldatasheet.net/bottom_bar/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldatasheet.net privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123235506id_/http%3A//www.alldatasheet.net/bottom_bar/privacy.html) for the most accurate reproduction.*
 
 # ALLDATASHEET.NET - Datasheet search site for Electronic Components and Semiconductors, integrated circuits, diodes, triacs, and other semiconductors.
 
@@ -25,6 +25,9 @@ Users may opt out of the use of the DART cookie by visiting the [ Google ad and 
 
 **Questions/Concerns**  
 If, after reading our Privacy Policy, you have questions or concerns about any of the statements herein, we welcome your feedback. 
+
+**INTELLECTUAL PROPERY**  
+To protect the intellectual properties, you may not reproduce or redistribute any information on our website without our prior written permission. 
 
 **Contact Us**  
 If you have any questions , please send E-mail to 
