@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 409shop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035811id_/http%3A//www.409shop.com/shop_displaynews.php%3Fid%3D565%26locate%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 409shop.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123044119id_/http%3A//www.409shop.com/shop_displaynews.php%3Fid%3D565%26locate%3D1) for the most accurate reproduction.*
 
-# 409shop walkie talkie Radio
+# walkie talkies 409shop Radio
 
 [](http://www.409shop.com/409shop_shopcat.php?usercat=1426)[](http://www.409shop.com/409shop_shopcat.php?usercat=1705)[](http://www.409shop.com/409shop_shopcat.php?usercat=1693)[](http://www.409shop.com/409shop_shopcat.php?usercat=4934)
 
