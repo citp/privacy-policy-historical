@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpseotricks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152732id_/http%3A//www.wpseotricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpseotricks.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123094425id_/http%3A//www.wpseotricks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress SEO Tricks
 
@@ -40,4 +40,4 @@ Cookies are a technology which can be used to provide you with tailored informat
 
 Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from WPSeoTricks. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an **“Unsubscribe** ” link.
 
-_If you require any more information or have any questions about our privacy policy please feel free to contact us by email at **admin@wpseotricks.com**_
+_If you require any more information or have any questions about our privacy policy please feel free to contact us by email at **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) **_
