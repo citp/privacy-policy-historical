@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthdevelopers.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525164959id_/http%3A//youthdevelopers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthdevelopers.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123010503id_/http%3A//youthdevelopers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Youth Developers
 
@@ -28,4 +28,4 @@ By using our website, you consent to our privacy policy.
 
 **Contacting us**
 
-If anyone has any question or doubt regarding this privacy policy, then he or she feel free to **[Contact](http://youthdevelopers.com/contact-us/)** with us. You can mail us your query or doubt or question to our mail id contactyouthdevelopers@gmail.com
+If anyone has any question or doubt regarding this privacy policy, then he or she feel free to **[Contact](http://youthdevelopers.com/contact-us/)** with us. You can mail us your query or doubt or question to our mail id biopicmedley@gmail.com
