@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeandmyfinances.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609104846id_/http%3A//lifeandmyfinances.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeandmyfinances.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123184240id_/http%3A//lifeandmyfinances.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Life And My Finances
 
@@ -21,3 +21,6 @@ We also use third party advertisements on LifeAndMyFinances.com to support our s
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/).
+
+  
+
