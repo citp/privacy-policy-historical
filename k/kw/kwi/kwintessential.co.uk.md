@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kwintessential.co.uk privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626005309id_/http%3A//www.kwintessential.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwintessential.co.uk privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123184204id_/http%3A//www.kwintessential.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Cookies and Personal Information - Kwintessential UK
+# Privacy Policy | Cookies & Information | Kwintessential
 
 ## Use of Personal Information
 
@@ -43,7 +43,6 @@ We use traffic log cookies to identify which pages are being used. This helps us
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-   
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 ### Links to other Websites
@@ -75,7 +74,6 @@ As outlined above, we do use cookies to store information, such as your personal
 
 We also use third party advertisements on Kwintessential.co.uk to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program, as well as the Kontera Advertising network) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.
 
-   
 This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 ### Kontera and DoubleClick DART cookies
@@ -94,7 +92,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 
 
-   
 **Contact us**
 
 For more information or to clarify any points with regards to our privacy policy, please call 01460 279 900.
