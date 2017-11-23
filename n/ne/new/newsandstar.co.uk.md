@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the newsandstar.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217101739id_/http%3A//www.newsandstar.co.uk/1.930532) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsandstar.co.uk privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123190840id_/http%3A//www.newsandstar.co.uk/privacy) for the most accurate reproduction.*
 
-# News & Star | Privacy Policy
-
-Last updated at 16:28, Tuesday, 20 October 2015  
-
+# privacy | News & Star
 
 We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via this website Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
 
@@ -13,24 +10,12 @@ If you have any queries or comments about the policy or our use of your personal
 
 In general, we use the information we collect about you to:
 
-  * help our members provide more personalised services to you.
-  * provide information services to relevant third parties.
-  * improve the features and services we offer.
-  * support our own marketing and promotion efforts.
-  * Personal information collected
-
-
-
-When you visit, register or use the services on this Site, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about your use of this Site as well as information about you from the emails or letters sent to you.
-
-**Credit cards**
+help our members provide more personalised services to you. provide information services to relevant third parties. improve the features and services we offer. support our own marketing and promotion efforts. Personal information collected When you visit, register or use the services on this Site, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about your use of this Site as well as information about you from the emails or letters sent to you.
 
 We do not store credit card details nor do we share customer details with any 3rd parties.
 
-**Refund policy**  
+  
 You have the right to cancel this contract within 14 days without giving any reason. The cancellation period will expire after 14 days from the date of conclusion of this contract. To exercise the right to cancel, you must inform us: Cumbrian Newspapers Ltd, Newspaper House, Dalston Road, Carlisle, CA2 5UA. Tel: 0808 144 8 144. e-mail: cnsubs@cnmedia.co.uk of your decision to cancel this contract by a clear statement (e.g. a letter sent by post, or email). If you cancel this contract, we will reimburse you all payments received from you, if you requested us to begin the performance of services during the cancellation period, you shall pay us an amount which is in proportion to what has been performed until you have communicated us your cancellation from this contract and returned the goods to us, in comparison with the full coverage of the contract. We will make the reimbursement without undue delay and not later than 14 days after the day on which we are informed about your decision to cancel this contract. We will make the reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event you will not incur any fees as a result of the reimbursement.
-
-**Information collection and use**
 
 Your information will enable us to provide you with access to all parts of this Site and to supply the services and features that you have requested. We may aggregate the information to identify patterns which we can use in our marketing and to help us develop, administer, support and improve our services and features.
 
@@ -38,40 +23,22 @@ In particular, we may use your information to contact you for your views on our 
 
 The following features, by their nature, require and make use of personally identifiable information.
 
-  * Sending emails.
-  * Registering with us.
-  * Who has access to the information you provide or we collect.
-  * We retain access to all personal information that we have collected from you.
-
-
-
-When our service is available via the websites of our partners, those partners may have access to your information. Their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information.
+Sending emails. Registering with us. Who has access to the information you provide or we collect. We retain access to all personal information that we have collected from you. When our service is available via the websites of our partners, those partners may have access to your information. Their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information.
 
 If our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
 
 We will not otherwise disclose, sell or distribute your information to any third party without your permission unless we are required to do so by law. Non-registered and registered users of this Site can request we provide them with a copy of the personally identifiable information we hold via webmaster@cngroup.co.uk. You may ask us to make any necessary changes to ensure that such information is accurate and kept up-to-date. We may charge a small administration fee to cover the data search, preparation and delivery.
 
-**Cookies and tracking**
-
 Like many websites, we use “cookies” to enable us to personalise your visits to this website, simplify the signing-in procedure, keep track of your preferences and to track the usage of this website. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser’s help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites. Like all websites, our servers automatically record ‘log files’ containing information about the volume and characteristics of our website traffic e.g. IP address, numbers of pages viewed, length of time spent on site. We use log files to build pictures of how our site is used that help us to monitor and improve the service. We cannot identify you from your log files.
-
-**Security, storage and transfer of information**
 
 We follow strict security procedures to ensure that your personal information is not damaged, destroyed, or disclosed to a third party without your permission and to prevent unauthorised access to it. The computers that store the information are kept in a secure facility with restricted physical access and we use secure firewalls and other measures to restrict electronic access.
 
 All of the information we collect or record is restricted to our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We will explicitly ask you when we need information to identify you. We may require you to co-operate with our security checks before we disclose information to you. You can update the personal information that you give us at any time by viewing ‘your details’ page. Your information will not be transferred outside of the European Economic Area. We will retain your information for a reasonable period or for as long as is required by law.
 
-**Changes to the policy**
-
 We may change this policy from time to time as we add new services or features or in response to changes in the law or our commercial arrangements. Any changes to this policy will be posted on this Site.
-
-**Registered address**
 
 Cumbrian Newspapers Limited  
 Newspaper House,   
 Dalston Road,   
 Carlisle,   
 CA2 5UA
-
-First published at 10:57, Friday, 02 March 2012  
-Published by [http://www.newsandstar.co.uk](http://www.newsandstar.co.uk/)
