@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnof.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316152529id_/http%3A//www.learnof.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnof.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123172918id_/http%3A//learnof.freshersworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
