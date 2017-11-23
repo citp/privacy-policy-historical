@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the spotrac.com privacy policy that was archived on 2017-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170619172858id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spotrac.com privacy policy that was archived on 2017-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171123192949id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
 <!-- start:global -->
-<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta charset="utf-8">
 <!-- end:global -->
 
 <!-- start:page title -->
@@ -53,6 +53,11 @@
 	<!-- start:page inner wrap -->
 	<div id="page-inner-wrap">
 	<meta name="twitter:widgets:csp" content="on">
+
+
+
+
+
 <!--MOBILE MENU-->
 			<header id="page-header-mobile" class="visible-xs">
 				<div class="row">
@@ -80,22 +85,25 @@
 							<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
 							<a href="http://www.spotrac.com/nfl/">NFL</a>
 							<ul class="subnav-menu">
-								<li><a href="http://www.spotrac.com/nfl/cap/">Team Payrolls</a></li>
-								<li><a href="http://www.spotrac.com/nfl/positional/">Positional Payrolls</a></li>
+								<li><a href="http://www.spotrac.com/nfl/cap/">Team Caps</a></li>
+								<li><a href="http://www.spotrac.com/nfl/positional/">Positional Spending</a></li>
 								<li><a href="http://www.spotrac.com/nfl/contracts/">Contracts</a></li>
 								<li><a href="http://www.spotrac.com/nfl/rankings/">Salary Rankings</a></li>
+                                <li><a href="http://www.spotrac.com/nfl/free-agents/">Free Agents</a></li>
 								<li>
 									<a class="moremore" href="#"><i class="fa fa-angle-down"></i></a>
 									<a href="#">Trackers &amp; Tools</a>
-									<ul class="subsubnav">
-										<li><a href="http://www.spotrac.com/nfl/cap/">» Team Caps</a></li>
-										<li><a href="http://www.spotrac.com/nfl/free-agents/">» Free Agents</a></li>
-										<li><a href="http://www.spotrac.com/nfl/depth-charts/">» Depth Charts Tracker</a></li>
+									<ul class="subsubnav">										
+										<li><a href="http://www.spotrac.com/nfl/market-value/">» Market Values</a></li>
+                                        <li><a href="http://www.spotrac.com/nfl/fines-suspensions/">» Fines/Suspensions</a></li>
+                                        <li><a href="http://www.spotrac.com/nfl/injured-reserve/">» IR Tracker</a></li>
+                                        <li><a href="http://www.spotrac.com/nfl/depth-charts/">» Depth Charts Tracker</a></li>
+                                        <li><a href="http://www.spotrac.com/nfl/draft/">» Draft Tracker</a></li>
 										<li><a href="http://www.spotrac.com/nfl/option/">» Options</a></li>
-										<li><a href="http://www.spotrac.com/nfl/fines-suspensions/">» Fines/Suspensions</a></li>
-										<li><a href="http://www.spotrac.com/nfl/draft/">» Draft Tracker</a></li>
-																			</ul>
+										<li><a href="http://www.spotrac.com/nfl/college/">» College Tracker</a></li>
+									</ul>
 								</li>
+                                <li><a href="http://www.spotrac.com/nfl/valuation/">Best Values</a></li>
 								<li><a href="http://www.spotrac.com/nfl/transactions/">Transactions</a></li>
 							</ul>
 						</li>
@@ -103,26 +111,26 @@
 							<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
 							<a href="http://www.spotrac.com/nba/">NBA</a>
 							 <ul class="subnav-menu">
-								<li><a href="http://www.spotrac.com/nba/">Team Payrolls</a></li>
+								<li><a href="http://www.spotrac.com/nba/cap/">Team Cap Tracker</a></li>
+                                
 								<li><a href="http://www.spotrac.com/nba/positional/">Positional Payrolls</a></li>
 								<li><a href="http://www.spotrac.com/nba/contracts/">Contracts</a></li>
 								<li><a href="http://www.spotrac.com/nba/rankings/">Salary Rankings</a></li>
-								<li>
+    						<li><a href="http://www.spotrac.com/nba/free-agents/">Free Agents</a></li>
+                                <li>
 									<a class="moremore" href="#"><i class="fa fa-angle-down"></i></a>
 									<a href="http://www.spotrac.com/nba/free-agents/">Trackers &amp; Tools</a>
 									<ul class="subsubnav">
-										<li><a href="http://www.spotrac.com/nba/cap/">» Team Caps</a></li>
-										<li><a href="http://www.spotrac.com/nba/free-agents/">» Free Agents</a></li>
 										<li><a href="http://www.spotrac.com/nba/depth-charts/">» Depth Charts</a></li>
 										<li><a href="http://www.spotrac.com/nba/option/">» Options</a></li>
 										<li><a href="http://www.spotrac.com/nba/fines-suspensions/">» Fines/Suspensions</a></li>
 										<li><a href="http://www.spotrac.com/nba/draft/">» Draft Tracker</a></li>
 										<li><a href="http://www.spotrac.com/nba/college/">» College Tracker</a></li>
 										<li><a href="http://www.spotrac.com/nba/transactions/trade/">» Trade Tracker</a></li>
-										<li><a href="http://www.spotrac.com/nba/college/">» College Tracker</a></li>
 										<li><a href="http://www.spotrac.com/nba/country/">» Country Tracker</a></li>
 									</ul>
 								</li>
+                                <li><a href="http://www.spotrac.com/nba/valuation/">Best Values</a></li>
 								<li><a href="http://www.spotrac.com/nba/transactions/">Transactions</a></li>
 							</ul>     
 						</li>
@@ -130,7 +138,7 @@
 							<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
 							<a href="http://www.spotrac.com/mlb/">MLB</a>
 							 <ul class="subnav-menu">
-								<li><a href="http://www.spotrac.com/mlb/">Team Payrolls</a></li>
+								<li><a href="http://www.spotrac.com/mlb/payroll/">Team Payrolls</a></li>
 								<li><a href="http://www.spotrac.com/mlb/positional/">Positional Payrolls</a></li>
 								<li><a href="http://www.spotrac.com/mlb/contracts/">Contracts</a></li>
 								<li><a href="http://www.spotrac.com/mlb/rankings/">Salary Rankings</a></li>
@@ -154,24 +162,47 @@
 							<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
 							<a href="http://www.spotrac.com/nhl/">NHL</a>
 							 <ul class="subnav-menu">
-								<li><a href="http://www.spotrac.com/nhl/">Team Payrolls</a></li>
+								<li><a href="http://www.spotrac.com/nhl/cap/">Team Salary Caps</a></li>
 								<li><a href="http://www.spotrac.com/nhl/positional/">Positional Payrolls</a></li>
 								<li><a href="http://www.spotrac.com/nhl/contracts/">Contracts</a></li>
 								<li><a href="http://www.spotrac.com/nhl/rankings/">Salary Rankings</a></li>
+                                <li><a href="http://www.spotrac.com/nhl/free-agents/">Free Agents</a></li>
+										
 								<li>
 									<a class="moremore" href="#"><i class="fa fa-angle-down"></i></a>
 									<a href="http://www.spotrac.com/nhl/free-agents/">Trackers &amp; Tools</a>
 									<ul class="subsubnav">
-										<li><a href="http://www.spotrac.com/nhl/cap/">» Team Caps</a></li>
-										<li><a href="http://www.spotrac.com/nhl/free-agents/">» Free Agents</a></li>
-										<li><a href="http://www.spotrac.com/nhl/option/">» Options</a></li>
+										<li><a href="http://www.spotrac.com/nhl/injured-reserve/">» IR Tracker</a></li>
+                                        <li><a href="http://www.spotrac.com/nhl/option/">» Options</a></li>
 										<li><a href="http://www.spotrac.com/nhl/fines-suspensions/">» Fines/Suspensions</a></li>
 										<li><a href="http://www.spotrac.com/nhl/transactions/trade/">» Trade Tracker</a></li>
 										<li><a href="http://www.spotrac.com/nhl/college/">» College/Junior Team Tracker</a></li>
 										<li><a href="http://www.spotrac.com/nhl/country/">» Country Tracker</a></li>
 									</ul>
 								</li>
+                                 <li><a href="http://www.spotrac.com/nhl/valuation/">Best Values</a></li>
 								<li><a href="http://www.spotrac.com/nhl/transactions/">Transactions</a></li>
+							</ul>     
+						</li>
+						<li class="cat-epl">
+							<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
+							<a href="http://www.spotrac.com/epl/">EPL</a>
+							 <ul class="subnav-menu">
+								<li><a href="http://www.spotrac.com/epl/">Team Payrolls</a></li>
+								<li><a href="http://www.spotrac.com/epl/positional/">Positional Payrolls</a></li>								
+								<li>
+									<a class="moremore" href="#"><i class="fa fa-angle-down"></i></a>
+									<a href="#">Salary Rankings</a>
+									<ul class="subsubnav">
+										<li><a href="http://www.spotrac.com/epl/rankings/">» Average Salary</a></li>
+										<li><a href="http://www.spotrac.com/epl/rankings/weekly/">» Weekly Wage</a></li>
+										<li><a href="http://www.spotrac.com/epl/rankings/contract-value/">» Contract Value</a></li>
+										<li><a href="http://www.spotrac.com/epl/rankings/transfer-feee/">» Transfer Feer</a></li>
+									</ul>
+								</li>
+								<li><a href="http://www.spotrac.com/epl/transfers/">Transfers</a></li>
+								<li><a href="http://www.spotrac.com/epl/free-agents/">Free Agents</a></li>								
+								<li><a href="http://www.spotrac.com/epl/transactions/">Transactions</a></li>
 							</ul>     
 						</li>
 						<li class="cat-mls">
@@ -195,7 +226,13 @@
 							</ul>     
 						</li>
 												<li class="cat-news">
-							<a href="http://www.spotrac.com/research/"><i class="fa fa-file-o"></i> Research &amp; News</a>
+							<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
+							<a href="#">More</a>
+							<ul class="subnav-menu">
+								<li><a href="http://www.spotrac.com/radio/">Radio Podcast</a></li>
+                                <li><a href="http://www.spotrac.com/fantasy/">Fantasy Contests</a></li>
+								<li><a href="http://www.spotrac.com/research/">Research &amp; News</a></li>
+							</ul>
 						</li>
 						<li class="cat-news">
 							<a href="http://www.spotrac.com/contact/"><i class="fa fa-envelope-o"></i> Contact Us</a>
@@ -208,7 +245,7 @@
 							<a href="https://www.facebook.com/spotrac"><i class="fa fa-facebook"></i> Facebook</a>
 						</li>
 																		<li class="options">		
-							<a href="http://www.spotrac.com/signin/"><i class="fa fa-sign-in"></i>Premium Sign in</a>
+							<a href="http://www.spotrac.com/signin/?redirect=privacy"><i class="fa fa-sign-in"></i>Premium Sign in</a>
 						</li>
 						<li class="options">
 							<a href="http://www.spotrac.com/register/"><i class="fa fa-pencil-square-o"></i> Register</a>
@@ -248,6 +285,7 @@
 							<div class=" social col-sm-3 col-lg-2 text-center">
 								<div class="weather">
 									<h4 style="display:block;">Follow Spotrac</h4>
+									<a href="http://www.spotrac.com/radio/"><i class="fa fa-podcast fa-lg"></i></a>
 									<a href="https://www.twitter.com/spotrac" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
 									<a href="https://www.facebook.com/spotrac" target="_blank"><i class="fa fa-facebook-square fa-lg"></i></a>
 								</div>
@@ -488,8 +526,7 @@
 										</ul>
 									</div>
 									<!-- end:submenu-NFL -->
-								</li>
-                                
+								</li>                                
 <!---NBA--->							
 								<li class="cat-nba ">
 									<a href="#" class="clickable">NBA <i class="fa fa-caret-down"></i></a>
@@ -606,7 +643,6 @@
 														<li><a href="http://www.spotrac.com/nba/free-agents/">Free Agent Tracker</a></li>
 														<li><a href="http://www.spotrac.com/nba/fines-suspensions/">Fines &amp; Suspensions</a></li>
 														<li><a href="http://www.spotrac.com/nba/depth-charts/">Team Depth Charts</a></li>
-														<li><a href="http://www.spotrac.com/nba/injured-reserve/">Injured Reserve</a></li>
 														<li><a href="http://www.spotrac.com/nba/transactions/trade/">Trade Tracker</a></li>														
 													</ul>
 													<ul class="menu-list">
@@ -665,7 +701,7 @@
 									<!-- end:submenu-lifestyle -->
 								</li>
 <!---MLB--->							
-								 <li class="cat-mlb  ">
+								<li class="cat-mlb  ">
 									<a href="#" class="clickable">MLB <i class="fa fa-caret-down"></i></a>
 									<!-- start:submenu-sports -->
 									<div class="subnav-container" style="display:none">
@@ -762,7 +798,7 @@
 												<div class="subnav-posts">
 													<!-- start:NFL Rankings -->
 													<ul class="menu-list">
-														<li><a href="http://www.spotrac.com/mlb/rankings/">Top Cap Hits</a></li>
+														<li><a href="http://www.spotrac.com/mlb/rankings/">Top Payroll Salaries</a></li>
 														<li><a href="http://www.spotrac.com/mlb/rankings/base/">Top Base Salaries</a></li>
 														<li><a href="http://www.spotrac.com/mlb/rankings/average/">Average Salaries</a></li>
 														<li><a href="http://www.spotrac.com/mlb/rankings/cash/">Annual Cash Earnings</a></li>
@@ -792,6 +828,7 @@
 														<li><a href="http://www.spotrac.com/mlb/schedule/">Schedule Tracker</a></li>
 													</ul>
 													<ul class="menu-list" style="width:50%;">
+													    <li><a href="http://www.spotrac.com/mlb/international/">International Signings</a></li>
 													    <li><a href="http://www.spotrac.com/mlb/tools/roster/">Team Roster/Payroll Manager</a></li>
 														<li><a href="http://www.spotrac.com/mlb/tools/offseason/">Offseason Spending</a></li>
 														<li><a href="http://www.spotrac.com/mlb/college/">College Tracker</a></li>
@@ -1025,7 +1062,78 @@
 									</div>
 									<!-- end:submenu-tech -->
 								</li>
-<!--- MLS--->
+<!--- EPL--->
+								<li class="cat-epl ">
+									<a href="#" class="clickable">EPL <i class="fa fa-caret-down"></i></a>
+									<!-- start:submenu-tech -->
+									<div class="subnav-container" style="display:none">
+										<ul class="subnav-menu">
+											<li class="current">
+												<a href="http://www.spotrac.com/epl/">Team Payrolls</a>
+												<div class="subnav-posts">
+													<!-- start:article -->
+													<ul class="menu-list">
+																										<li style="width:325px"><a href="http://www.spotrac.com/epl/afc-bournemouth/">AFC Bournemouth</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/arsenal-f.c/">Arsenal F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/brighton-hove-albion/">Brighton &amp; Hove Albion</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/burnley-f.c/">Burnley F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/chelsea-f.c/">Chelsea F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/crystal-palace/">Crystal Palace</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/everton-f.c/">Everton F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/huddersfield-town/">Huddersfield Town</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/leicester-city/">Leicester City</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/liverpool-f.c/">Liverpool F.C.</a></li>
+																										</ul>
+													<ul class="menu-list">
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/manchester-city-f.c/">Manchester City F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/manchester-united-f.c/">Manchester United F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/newcastle-united-f.c/">Newcastle United F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/southampton-f.c/">Southampton F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/stoke-city-f.c/">Stoke City F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/swansea-city-a.f.c/">Swansea City A.F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/tottenham-hotspur-f.c/">Tottenham Hotspur F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/watford/">Watford</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/west-bromwich-albion-f.c/">West Bromwich Albion F.C.</a></li>
+																																							<li style="width:325px"><a href="http://www.spotrac.com/epl/west-ham-united-f.c/">West Ham United F.C.</a></li>
+																										</ul>
+													<ul class="menu-list">
+																																							</ul>
+												</div>
+											</li>
+											<li><a href="http://www.spotrac.com/epl/contracts/">Contracts</a></li>
+											<li>
+												<a href="http://www.spotrac.com/epl/positional/">Positional Payrolls</a> 
+												<div class="subnav-posts">
+												<!-- start:article -->
+													<ul class="menu-list">
+																										<li><a href="http://www.spotrac.com/epl/positional/forward/">Forward</a></li>
+																																							<li><a href="http://www.spotrac.com/epl/positional/midfielder/">Midfielder</a></li>
+																																							<li><a href="http://www.spotrac.com/epl/positional/defender/">Defender</a></li>
+																																							<li><a href="http://www.spotrac.com/epl/positional/goalkeeper/">Goalkeeper</a></li>
+																																							</ul>
+												<!-- end:article -->
+												</div>
+											</li>
+											<li>
+												<a href="http://www.spotrac.com/epl/rankings/">Salary Rankings</a>
+												<div class="subnav-posts">
+												<ul class="menu-list">
+													<li><a href="http://www.spotrac.com/epl/rankings/">Average Salary</a></li>
+													<li><a href="http://www.spotrac.com/epl/rankings/contract-value/">Contract Value</a></li>
+													<li><a href="http://www.spotrac.com/epl/rankings/weekly/">Weekly Wage</a></li>
+													<li><a href="http://www.spotrac.com/epl/rankings/transfer-fee/">Transfer Fee</a></li>
+												</ul>
+												</div>
+											</li>
+											
+											<li><a href="http://www.spotrac.com/epl/free-agents/">Free Agents</a></li>
+											<li><a href="http://www.spotrac.com/epl/transfer/">Transfers</a></li>
+											<li><a href="http://www.spotrac.com/epl/transactions/">Transactions</a></li>
+										</ul>
+									</div>
+									<!-- end:submenu-tech -->
+								</li>
+<!--- MLS--->								
 								<li class="cat-mls ">
 									<a href="#" class="clickable">MLS <i class="fa fa-caret-down"></i></a>
 									<!-- start:submenu-tech -->
@@ -1109,15 +1217,22 @@
 									<!-- end:submenu-tech -->
 								</li>
 																																								<li class="cat-extra">
-									<a href="http://www.spotrac.com/research/">Research</a>
+									<a href="#">More <i class="fa fa-caret-down"></i></a>
+									<div class="dropnav-container" style="top:100%;">
+										<ul class="dropnav-menu">
+											<li><a href="http://www.spotrac.com/radio/">Spotrac Radio Podcast</a></li>
+											<li><a href="http://www.spotrac.com/fantasy/">Fantasy Contests</a></li>
+											<li><a href="http://www.spotrac.com/research/">Research &amp; News</a></li>
+										</ul>
+									</div>
 								</li>
 								
 							</ul>
 							<ul class="options col-md-5">
 								<li class="options col-xs-12 col-sm-12 ">
 																		
-																		<a href="http://www.spotrac.com/signin/">Sign in</a> | <a href="http://www.spotrac.com/register/"> Register</a> |&nbsp;&nbsp;&nbsp;
-																		<a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="spotrac"> Tweet</a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+																		<a href="http://www.spotrac.com/signin/?redirect=privacy">Sign in</a> | <a href="http://www.spotrac.com/register/"> Register</a> |&nbsp;&nbsp;&nbsp;
+																		<a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="spotrac"> Tweet</a><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
 																		<iframe style="height:24px !important;" id="facebook-share" src="https://www.facebook.com/plugins/like.php?app_id=152185691527861&amp;href=http://www.spotrac.com/privacy/&amp;send=false&amp;layout=button_count&amp;width=75&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=24"></iframe>
 									
 								</li>
@@ -1206,30 +1321,30 @@
 							
 							<!-- start:singles-container -->
 							<ul class="singles-container">
-																	<li class="odd" onclick="window.location.href='http://www.spotrac.com/nfl/rankings/average/running-back/'">
-										<a href="http://www.spotrac.com/nfl/rankings/average/running-back/" class="view">view</a>
+																	<li class="odd" onclick="window.location.href='http://www.spotrac.com/nfl/free-agents/'">
+										<a href="http://www.spotrac.com/nfl/free-agents/" class="view">view</a>
 										<span class="rank">1</span>
-										<a href="http://www.spotrac.com/nfl/rankings/average/running-back/">2017 NFL Average Rankings - Running Back</a>
+										<a href="http://www.spotrac.com/nfl/free-agents/">2018 NFL Free Agents</a>
 									</li>
-																<li onclick="window.location.href='http://www.spotrac.com/nba/free-agents/'">
-										<a href="http://www.spotrac.com/nba/free-agents/" class="view">view</a>
+																<li onclick="window.location.href='http://www.spotrac.com/nfl/'">
+										<a href="http://www.spotrac.com/nfl/" class="view">view</a>
 										<span class="rank">2</span>
-										<a href="http://www.spotrac.com/nba/free-agents/">2017 NBA Free Agents</a>
+										<a href="http://www.spotrac.com/nfl/">NFL Homepage</a>
 									</li>
-																<li class="odd" onclick="window.location.href='http://www.spotrac.com/nba/free-agents/2018/'">
-										<a href="http://www.spotrac.com/nba/free-agents/2018/" class="view">view</a>
+																<li class="odd" onclick="window.location.href='http://www.spotrac.com/nfl/minnesota-vikings/'">
+										<a href="http://www.spotrac.com/nfl/minnesota-vikings/" class="view">view</a>
 										<span class="rank">3</span>
-										<a href="http://www.spotrac.com/nba/free-agents/2018/">2018 NBA Free Agents</a>
+										<a href="http://www.spotrac.com/nfl/minnesota-vikings/">Minnesota Vikings </a>
 									</li>
-																<li onclick="window.location.href='http://www.spotrac.com/nba/cap/'">
-										<a href="http://www.spotrac.com/nba/cap/" class="view">view</a>
+																<li onclick="window.location.href='http://www.spotrac.com/nfl/injured-reserve/'">
+										<a href="http://www.spotrac.com/nfl/injured-reserve/" class="view">view</a>
 										<span class="rank">4</span>
-										<a href="http://www.spotrac.com/nba/cap/">NBA Cap Tracker</a>
+										<a href="http://www.spotrac.com/nfl/injured-reserve/">2017 NFL Injured Reserve</a>
 									</li>
-																<li class="odd" onclick="window.location.href='http://www.spotrac.com/nhl/free-agents/'">
-										<a href="http://www.spotrac.com/nhl/free-agents/" class="view">view</a>
+																<li class="odd" onclick="window.location.href='http://www.spotrac.com/nfl/minnesota-vikings/cap/'">
+										<a href="http://www.spotrac.com/nfl/minnesota-vikings/cap/" class="view">view</a>
 										<span class="rank">5</span>
-										<a href="http://www.spotrac.com/nhl/free-agents/">2017 NHL Free Agents</a>
+										<a href="http://www.spotrac.com/nfl/minnesota-vikings/cap/">Minnesota Vikings Cap Table</a>
 									</li>
 															</ul>
 							
@@ -1278,6 +1393,7 @@
 				<li class="cat-mlb"><a href="http://www.spotrac.com/mlb/">MLB</a></li>
 				<li class="cat-nhl"><a href="http://www.spotrac.com/nhl/">NHL</a></li>
 				<li class="cat-mls"><a href="http://www.spotrac.com/mls/">MLS</a></li>
+				<li class="cat-epl"><a href="http://www.spotrac.com/epl/">EPL</a></li>
 				<li class="cat-extra"><a href="http://www.spotrac.com/research/">Research</a></li>
 				<li class="cat-extra"><a href="http://www.spotrac.com/blog/" target="_blank">Blog</a></li>
 				<li class="options"><a href="#" class="scrollToTop">Back to top <span class="glyphicon glyphicon-chevron-up"></span></a></li>
@@ -1293,7 +1409,7 @@
 			<!-- start:col -->
 			<div class="col-sm-6 col-md-5">
 				<h4>About Spotrac</h4>
-				<p>Browse our online application for MLB, NBA, NFL, NHL,  or MLS player contracts, salaries, transactions, and more.</p>
+				<p>Browse our online application for MLB, NBA, NFL, NHL, EPL, or MLS player contracts, salaries, transactions, and more.</p>
 				<a href="https://www.twitter.com/spotrac" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
 				<a href="https://www.facebook.com/spotrac" target="_blank"><i class="fa fa-facebook-square fa-lg"></i></a>
 			</div>
@@ -1344,7 +1460,6 @@
   
 </script>
 
-
 	</div>
 	<!-- end:page inner wrap -->
 </div>
@@ -1359,5 +1474,5 @@
 
 <!-- end:scripts -->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"09d649b92d","applicationID":"10301174","transactionName":"NVcHNxADWEIAB0ZRWAwdJAAWC1lfTjRAUUEDURxMCwxSVBk=","queueTime":0,"applicationTime":63,"atts":"GRAEQVgZS0w=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </body></html>
