@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exituselite.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112745id_/http%3A//www.exituselite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exituselite.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123040755id_/http%3A//www.exituselite.com/privacy) for the most accurate reproduction.*
 
 # Exitus Elite
 
