@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525140409id_/http%3A//www.vitaminworld.com/privacy-policy.html%3Ficid%3Dros-_-footer-_-privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123193235id_/http%3A//www.vitaminworld.com/privacy-policy.html%3Ficid%3Dros-_-footer-_-privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Vitamin World
 
-Last Updated: March 2017
-
-Your Privacy Rights
-
 This Privacy Policy describes how Vitamin World collects and uses the personal information you provide on our website and through partner services that link to this Privacy Policy (“the Services”). It also describes the options available to you regarding our use of your personal information and how you can access and update this personal information. Please take a moment to review the terms of our Privacy Policy. Unless we indicate otherwise, this Privacy Policy applies only to information that we collect through the Services. By visiting our website or using the Services, you accept the terms of this Privacy Policy. 
-
-**_Personal Information We Collect From You Directly_**
 
 We may collect personal information about you in several ways, including when you provide it to us voluntarily. For example, we may collect personal information when you create an account or purchase online, contact us with questions, provide feedback regarding our products, or answer questions about your product interests. You do not have to provide your personal information to us, but if you decide not to do so, you may limit the features that you are able to access through the Services. 
 
