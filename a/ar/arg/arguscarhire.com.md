@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arguscarhire.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231142552id_/http%3A//www.arguscarhire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arguscarhire.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124005553id_/https%3A//www.arguscarhire.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Argus Car Hire compares the prices of 1200 car hire agents at 30,000 locations worldwide to find you the cheapest deal!
+# 
 
 This legal notice is issued by Argus Car Hire, the full owner of this website (“we”, “us” or “ours). We are committed to protecting and respecting your privacy and appreciate the importance of responsible use of personal data collected on this website. We take great care with personal information, taking steps to keep it secure and ensure it is used only for our legitimate business purposes in accordance with applicable law. 
 
