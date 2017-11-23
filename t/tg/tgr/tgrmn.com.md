@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tgrmn.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620162512id_/http%3A//www.tgrmn.com/web/popup/definitions.htm%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgrmn.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123010051id_/http%3A//www.tgrmn.com/web/popup/definitions.htm%23privacypolicy) for the most accurate reproduction.*
 
 # TGRMN Software
 
-### [](http://www.tgrmn.com/)
+### [](https://www.tgrmn.com/)
 
   Privacy Policy
 
 Effective Date: January 1, 2015
 
-[TGRMN Software](http://www.tgrmn.com/) is committed to protecting your privacy. Customer information is considered confidential and will not be shared or distributed to any third party. TGRMN Software will not use your email address for bulk mailings. TGRMN Software will not pass, disclose, sell or rent your email address to third parties, except to SWREG, our payment processor. SWREG will use your E-Mail address to send you product registration information. TGRMN Software will use your e-mail address to send you product registration information and provide technical and sales support.
+[TGRMN Software](https://www.tgrmn.com/) is committed to protecting your privacy. Customer information is considered confidential and will not be shared or distributed to any third party. TGRMN Software will not use your email address for bulk mailings. TGRMN Software will not pass, disclose, sell or rent your email address to third parties, except to SWREG, our payment processor. SWREG will use your E-Mail address to send you product registration information. TGRMN Software will use your e-mail address to send you product registration information and provide technical and sales support.
 
 To be able to use certain areas and features of our website, specifically requested by you, we may require you to provide us with information that identifies you personally. This information may include your name, company name, e-mail address, address, credit card, account number, telephone number. We will not sell or share your personal information to any persons or organizations except when required by law for the investigation of illegal or criminal actives, the exercise of legal rights or in defense against any legal claims, or otherwise. 
 
@@ -40,7 +40,12 @@ No need to worry about credit card safety. All of your personal information incl
 _We will respond to your e-mail within a few hours of receipt during business days. Do not hesitate to contact us with any queries._
 
 **User Forum:**  
-<http://www.tgrmn.com/web/forum/>
+[www.tgrmn.com/web/forum/](https://www.tgrmn.com/web/forum/)
 
 **FAQ and KB:**  
-<http://www.tgrmn.com/web/kb/>
+[www.tgrmn.com/web/kb/](https://www.tgrmn.com/web/kb/)
+
+**Our address:**  
+TGRMN Software   
+PO BOX 568, Fullarton SA 5063   
+Australia
