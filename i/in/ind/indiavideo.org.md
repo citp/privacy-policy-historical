@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiavideo.org privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525135742id_/http%3A//www.indiavideo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiavideo.org privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123192137id_/http%3A//www.indiavideo.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
