@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontariocolleges.ca privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611214338id_/http%3A//www.ontariocolleges.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontariocolleges.ca privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123213546id_/http%3A//www.ontariocolleges.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | ontariocolleges.ca
 
@@ -12,7 +12,9 @@ OCAS must disclose your Personal Information in order to process your applicatio
 
 OCAS may also make your Personal Information available, as minimally required, to third parties who provide services, such as international accreditation or integrity audits to protect our systems and your Personal Information. In addition, OCAS will disclose the minimally required Personal Information to facilitate specialized third-party services such as live chat or credit card processing.
 
-You therefore consent to and authorize OCAS to disclose your Personal Information to individuals, organizations and institutions that require such information for program monitoring, research, funding purposes, accreditation, or are involved with the processing of your application, acceptance or registration. These entities include, but are not limited to the Colleges, associated universities (e.g. for those applying to collaborative or joint programs), Ontario high school counselors and / or other support staff (for those currently enrolled in high school), third party service providers, and relevant provincial and federal ministries or agencies.
+Your Personal Information may be collected, used and / or disclosed in jurisdictions outside of Ontario.
+
+You therefore consent to and authorize OCAS to disclose your Personal Information to individuals, organizations and institutions that require such information for program monitoring, research, funding purposes, accreditation, student financial aid applications, or are involved with the processing of your application, acceptance or registration. These entities include, but are not limited to the Colleges, associated universities (e.g. for those applying to collaborative or joint programs), Ontario high school counselors and / or other support staff (for those currently enrolled in high school), third party service providers, and relevant provincial and federal ministries or agencies.
 
 It is your responsibility to make sure that the information is truthful, complete and correct, failing which your application may be delayed or invalidated. You must also take appropriate measures to safeguard login information and any printed copies of the completed application.
 
