@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangagamer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015338id_/http%3A//www.mangagamer.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangagamer.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123081916id_/http%3A//www.mangagamer.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MangaGamer.com - Privacy policy
 
