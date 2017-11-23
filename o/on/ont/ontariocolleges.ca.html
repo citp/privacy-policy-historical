@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ontariocolleges.ca privacy policy that was archived on 2017-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611214338id_/http%3A//www.ontariocolleges.ca/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ontariocolleges.ca privacy policy that was archived on 2017-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171123213546id_/http%3A//www.ontariocolleges.ca/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html SYSTEM "about:legacy-compat"><html dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Droid+Sans:400,700" rel="stylesheet" type="text/css"><base href="http://www.ontariocolleges.ca/"><title>Privacy Statement | ontariocolleges.ca</title><base href="http://www.ontariocolleges.ca/"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -21,7 +21,7 @@
 <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-180x180.png">
 <link rel="shortcut icon" href="favicon.ico?v=2" type="image/x-icon">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NJWB33"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=003484136641376877258:hjbnyuy19ey"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NJWB33"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="prebuilt/custom/js/jquery.smartbanner.min.js"></script>
 <script type="text/javascript">
 				  (function ($) {
@@ -42,31 +42,7 @@
 <script src="prebuilt/frameworks/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="prebuilt/scripts/jquery.cookie.js"></script>
 <link href="prebuilt/frameworks/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"><!--[if lt IE 9]><script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script><![endif]--><link href="prebuilt/custom/css/ontariocolleges.min.css?v=1" rel="stylesheet" type="text/css"><!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="prebuilt/custom/css/ie8.css"/><![endif]--><script>
-			var Callback = function () {
-				(function ($) {
-					$("#en").find(".gsc-input").attr("placeholder", "Search");
-					$("#fr").find(".gsc-input").attr("placeholder", "Recherche");
-				})(jQuery);
-			};
-		
-			// Setup call back with Google Site Search Script
-			window.__gcse = {
-				callback: Callback
-			};
-			(function () {
-				
-						var cx = '003484136641376877258:hjbnyuy19ey';
-					
-			var gcse = document.createElement('script');
-				gcse.type = 'text/javascript';
-				gcse.async = true;
-				gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-					'//www.google.com/cse/cse.js?cx=' + cx;
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(gcse, s);
-			})();
-        </script><!-- GWT verification -->
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script><![endif]--><link href="prebuilt/custom/css/ontariocolleges.min.css?v=5302017" rel="stylesheet" type="text/css"><!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="prebuilt/custom/css/ie8.css"/><![endif]--><!-- GWT verification -->
 <meta name="google-site-verification" content="AEF15V1ZrqnT56CCmMQyGpxk8MJAFeuqJddey4Dq2Us">
 <script src="prebuilt/scripts/flipclock/flipclock.js" type="text/javascript"></script>
 <link rel="stylesheet" href="prebuilt/scripts/flipclock/flipclock.css">
@@ -74,6 +50,10 @@
 <script src="https://webgateway-api.ocas.ca/api/signalr/hubs"></script>
 <script src="https://webgateway-api.ocas.ca/Content/scripts/client/webgateway.clientLib.js"></script></head>
 <body id="en" class="oc-wallpaper-content">
+<input id="algolia-appId" type="hidden" value="6C7TQDV5UT">
+<input id="algolia-apiKey" type="hidden" value="100061233bd021c01dd3a146225e2155">
+<input id="algolia-siteSearchIndex" type="hidden" value="prod_sitesearch_en">
+<input id="algolia-autocompleteIndex" type="hidden" value="prod_sitesearchkeywords_en">
 <script>
 					 dataLayer = [];
 				</script>
@@ -129,11 +109,12 @@
 <li><a class="ui-link" href="/faq"><div class="oc-nav oc-topnav">FAQ</div></a></li>
 <li>
 <div class="dropdown"><button class="search-btn" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span class="sr-only">Search</span></button><div class="dropdown-menu search-dropdown" aria-labelledby="dropdownMenu3">
-<div class="google-search"><gcse:searchbox-only resultsurl="/search"></gcse:searchbox-only></div>
+<form id="autocomplete-search" action="/search" method="get" target="_self" class="form autocomplete-search">
+<div class="search-box has-clear"><input id="autocomplete-search-input" class="form-control autocomplete-search-input" name="q" type="text" placeholder="Search"><button type="button" class="form-control-clear glyphicon glyphicon-remove form-control-feedback hidden"><span class="sr-only">Clear field</span></button></div><button class="search-submit-btn btn-primary" value="Search" aria-label="Search" type="submit"><span class="glyphicon glyphicon-search"></span></button></form>
 </div>
 </div>
 </li>
-<li><a class="oc-btn-sm log-in" href="https://publicesmapplicant.ontariocolleges.ca/en/Account/Register">Apply</a></li>
+<li><a class="oc-btn-sm log-in" href="https://applicantlogin.ontariocolleges.ca/en/Account/Register?clientId=a2c.applicantportal">Apply</a></li>
 <li class="oc-log-in"><a class="oc-btn-sm log-in" href="/access">Log In</a></li>
 <li><a href="http://www.collegesdelontario.ca/renseignements-personnels" lang="fr-ca" rel="nofollow" class="lang-change">Français</a></li>
 </ul>
@@ -143,7 +124,7 @@
 <div class="row">
 <div class="col-xs-9 col-sm-5"><a class="brand" href="/"><img class="logo" src="images/ontariocolleges-logo-en.png" alt="ontariocolleges-logo-en.png"></a></div>
 <ul class="col-xs-3 col-sm-6 pull-right tablet-nav">
-<li class="hidden-xs visible-sm"><a class="oc-btn-sm log-in" href="https://publicesmapplicant.ontariocolleges.ca/en/Account/Register">Apply</a></li>
+<li class="hidden-xs visible-sm"><a class="oc-btn-sm log-in" href="https://applicantlogin.ontariocolleges.ca/en/Account/Register?clientId=a2c.applicantportal">Apply</a></li>
 <li class="oc-log-in hidden-xs visible-sm"><a class="oc-btn-sm log-in" href="/access">Log In</a></li>
 <li class="hidden-xs visible-sm"><a href="http://www.collegesdelontario.ca/renseignements-personnels" lang="fr-ca" rel="nofollow" class="lang-change">Français</a></li>
 <li class="pull-right"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-mobile"><span class="sr-only" role="navigation">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></li>
@@ -154,13 +135,14 @@
 <ul class="nav navbar-nav">
 <li class="clearfix">
 <ul>
-<li class="visible-xs hidden-sm apply-nav col-xs-6"><a class="oc-btn-sm log-in" href="https://publicesmapplicant.ontariocolleges.ca/en/Account/Register">Apply</a></li>
+<li class="visible-xs hidden-sm apply-nav col-xs-6"><a class="oc-btn-sm log-in" href="https://applicantlogin.ontariocolleges.ca/en/Account/Register?clientId=a2c.applicantportal">Apply</a></li>
 <li class="visible-xs hidden-sm oc-log-in apply-nav col-xs-6"><a class="oc-btn-sm log-in" href="/access">Log In</a></li>
 </ul>
 </li>
 <li class="doublenav">
-<div class="align-center">
-<div id="mobile-sm-search" class="col-sm-12 pull-right"><gcse:searchbox-only resultsurl="/search"></gcse:searchbox-only></div>
+<div id="mobile-sm-search" class="col-sm-12">
+<form id="autocomplete-search-mobile" action="/search" method="get" target="_self" class="form autocomplete-search">
+<div class="search-box has-clear"><input id="autocomplete-search-input" class="form-control autocomplete-search-input" name="q" type="text" placeholder="Search"><button type="button" class="form-control-clear glyphicon glyphicon-remove form-control-feedback hidden"><span class="sr-only">Clear field</span></button></div><button class="search-submit-btn btn-primary" value="Search" aria-label="Search" type="submit"><span class="glyphicon glyphicon-search"></span></button></form>
 </div>
 <div class="clear"></div>
 </li>
@@ -226,7 +208,8 @@
 <p>In order to facilitate the application process and improve data accuracy, you consent to and authorize OCAS to collect use, and disclose your Personal Information, whether obtained directly from you or other relevant sources, including but not limited to previous institutions which you have attended, the Ontario Universities Application Centre ("OUAC") and any relevant government ministries. Authorized use may also include OCAS updating third party databases, such as those maintained by relevant government ministries and other institutions, to ensure information accuracy and consistency.</p>
 <p>OCAS must disclose your Personal Information in order to process your application or other services, acceptance or registration. Personal Information may also be used by OCAS and/or disclosed to the Colleges, the Ministry of Advanced Education and Skills Development, and entities with which they do business, as well as the Ministry of Education, the Ministry of Agriculture, Food and Rural Affairs and the Ministry of Health, as well as other educational research agencies approved by OCAS, for statistical, marketing and research purposes. Consistent with these purposes, your Personal Information may also be linked with student information databases maintained by the college which you eventually choose to attend in order to develop and maintain appropriate policies, programs and funding mechanisms.</p>
 <p>OCAS may also make your Personal Information available, as minimally required, to third parties who provide services, such as international accreditation or integrity audits to protect our systems and your Personal Information. In addition, OCAS will disclose the minimally required Personal Information to facilitate specialized third-party services such as live chat or credit card processing.</p>
-<p>You therefore consent to and authorize OCAS to disclose your Personal Information to individuals, organizations and institutions that require such information for program monitoring, research, funding purposes, accreditation, or are involved with the processing of your application, acceptance or registration. These entities include, but are not limited to the Colleges, associated universities (e.g. for those applying to collaborative or joint programs), Ontario high school counselors and / or other support staff (for those currently enrolled in high school), third party service providers, and relevant provincial and federal ministries or agencies.</p>
+<p>Your Personal Information may be collected, used and / or disclosed in jurisdictions outside of Ontario.</p>
+<p>You therefore consent to and authorize OCAS to disclose your Personal Information to individuals, organizations and institutions that require such information for program monitoring, research, funding purposes, accreditation, student financial aid applications, or are involved with the processing of your application, acceptance or registration. These entities include, but are not limited to the Colleges, associated universities (e.g. for those applying to collaborative or joint programs), Ontario high school counselors and / or other support staff (for those currently enrolled in high school), third party service providers, and relevant provincial and federal ministries or agencies.</p>
 <p>It is your responsibility to make sure that the information is truthful, complete and correct, failing which your application may be delayed or invalidated. You must also take appropriate measures to safeguard login information and any printed copies of the completed application.</p>
 <p>Your Personal Information will be retained at OCAS offices and/or secure offsite facilities.</p>
 <p>You should note that copies of your Personal Information may be retained by those entities to which OCAS provides disclosure to facilitate your application and / or services. Any concerns you may have with respect to access, retention and/or protection of your Personal Information held by elsewhere should be directed to the applicable entity, e.g. the Colleges who are subject to the <em>Freedom of Information and Protection of Privacy Act</em>.</p>
@@ -250,7 +233,7 @@
 <li><a href="apply/skilled-trades">Find out more about skilled trades?</a></li>
 </ul>
 </div>
-<div class="col-xs-12 col-md-8 news-events-home"><h3><a href="/news" style="font-weight: normal;">News &amp; Events</a></h3><p><a href="../../news/cip">College Information Program (CIP)</a>. Every fall, representatives from Ontario's public colleges tour the province to meet and talk with prospective students. If you are considering college, this is your chance to gather information about the colleges and programs you are interested in, all in one place. <a href="../../news/cip" style="font-weight: normal; text-decoration: underline;">Find out when CIP is coming to your area.</a></p><p><a href="../../apply/mobile.html">Apply to College From Your Phone</a>. Apply to public colleges in Ontario, anytime and from anywhere. Browse thousands of programs across the province, and find the one that’s right for you. View and accept offers of admission the moment they are posted to your account. <a href="../../apply/mobile.html" style="font-weight: normal; text-decoration: underline;">Learn more about the ontariocolleges.ca app.</a></p></div>
+<div class="col-xs-12 col-md-8 news-events-home"><h3><a href="/news" style="font-weight: normal;">News &amp; Events</a></h3><p><a href="../../news/labour-negotiations"><strong>Ontario College Faculty Labour Disruption</strong></a>. On Monday, October 16, faculty at Ontario’s 24 public colleges entered a legal strike . If you're wondering how the labour disruption could affect you, visit our <a href="../../news/labour-negotiations">Labour Disruption page</a> for more information.</p><p><a href="../../news/cip">College Information Program (CIP)</a>. Every fall, representatives from Ontario's public colleges tour the province to meet and talk with prospective students. If you are considering college, this is your chance to gather information about the colleges and programs you are interested in, all in one place. <a href="../../news/cip" style="font-weight: normal; text-decoration: underline;">Find out when CIP is coming to your area.</a></p><p><a href="../../apply/mobile.html">Apply to College From Your Phone</a>. Apply to public colleges in Ontario, anytime and from anywhere. Browse thousands of programs across the province, and find the one that’s right for you. View and accept offers of admission the moment they are posted to your account. <a href="../../apply/mobile.html" style="font-weight: normal; text-decoration: underline;">Learn more about the ontariocolleges.ca app.</a></p></div>
 </div>
 </div>
 </div>
@@ -315,8 +298,8 @@ client.getStatus()
 <h4>Next Important Dates</h4>
 <div class="col-xs-12 col-md-4 text-center" style="padding:0;"><img src="/images/important_dates.png" alt="" class="footer-img"></div>
 <div class="col-xs-12 col-md-8" style="padding:0;">
-<div class="footer-text-b oc-marginL10 oc-marginB20"><p><strong>May 1, 2017</strong> – Deadline to confirm offers of admission</p>
-<p><strong>Mid-June 2017</strong> – Tuition deposit due at the colleges</p></div>
+<div class="footer-text-b oc-marginL10 oc-marginB20"><p><strong>Early October 2017</strong> – Online application opens</p>
+<p><strong>October 15, 2017</strong> – Colleges begin receiving applications</p></div>
 </div><a href="/apply/important-dates" class="text-center" style="display:block;">See all important dates</a></div>
 <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-lg-offset-1 foot-section">
 <h4>Here to Help</h4>
@@ -353,8 +336,12 @@ client.getStatus()
             </script>
 
 <script type="text/javascript" src="prebuilt/scripts/masonry.pkgd.min.js"></script>
-<script type="text/javascript" src="prebuilt/custom/js/ocas.js"></script>
 <script type="text/javascript" src="prebuilt/custom/js/jquery.placeholder.min.js"></script>
 <script type="text/javascript">(function($){$('input, textarea').placeholder();}(jQuery));</script>
+<script type="text/javascript" src="prebuilt/custom/js/site-search/vendor/algoliasearch.min.js"></script>
+<script type="text/javascript" src="prebuilt/custom/js/site-search/vendor/autocomplete.jquery.min.js"></script>
+<script type="text/javascript" src="prebuilt/custom/js/site-search/vendor/handlebars.min.js"></script>
+<script type="text/javascript" src="prebuilt/custom/js/site-search/quick-search.min.js"></script>
+<script type="text/javascript" src="prebuilt/custom/js/ocas.js"></script>
 
 </body></html>
