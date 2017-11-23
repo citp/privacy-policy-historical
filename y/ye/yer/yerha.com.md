@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yerha.com privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109183033id_/http%3A//www.yerha.com/content/9-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yerha.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123070320id_/http%3A//www.yerha.com/content/9-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yerha.com
 
