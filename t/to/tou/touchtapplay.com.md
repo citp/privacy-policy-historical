@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the touchtapplay.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429034146id_/https%3A//www.touchtapplay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchtapplay.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123135909id_/https%3A//www.touchtapplay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Affiliate Disclosure | Touch, Tap, Play
+# Privacy Policy & Affiliate Disclosure | Touch Tap Play
 
 Touch, Tap, Play is committed to protecting you and your family’s personal information and privacy when using Touch, Tap, Play’s (the Website) services. This Privacy Policy relates to our use of any personal information you provide through the Touch, Tap, Play website.
 
