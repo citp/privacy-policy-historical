@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleleadcapture.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121160620id_/http%3A//simpleleadcapture.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleleadcapture.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123081646id_/http%3A//simpleleadcapture.com/privacy.html) for the most accurate reproduction.*
 
 # Simple Lead Capture - Privacy Policy
 
