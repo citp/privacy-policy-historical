@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myeexcel.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019093341id_/http%3A//eexcel.myvoffice.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeexcel.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123192403id_/http%3A//myeexcel.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.*
 
 # E. EXCEL Evo
 
@@ -8,7 +8,7 @@
   
 
 
-Privacy Policy   
+Privacy Policy  
   
 ---  
   
@@ -16,15 +16,15 @@ Privacy Policy
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site uses cookies to keep track of your login status and personal preferences. This site contains links to other sites. **E. EXCEL** is not responsible for the privacy practices or the content of such Web sites.
 
-Our site uses a registration form for customers to request information, products, and services. We collect visitors' contact information (such as their email address). Contact information from the registration form is used to track and bill for service usage. 
+Our site uses a registration form for customers to request information, products, and services. We collect visitors' contact information (such as their email address). Contact information from the registration form is used to track and bill for service usage.
 
 #### Public Forums
 
-This site makes various public forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site makes various public forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 #### Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
 #### Correct/Update
 
@@ -37,7 +37,7 @@ This site gives users the option of changing and modifying information previousl
 
 #### Questions Regarding the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.  
   
   
 
