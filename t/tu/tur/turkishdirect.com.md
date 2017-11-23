@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turkishdirect.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501055256id_/http%3A//www.turkishdirect.com/page/general/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turkishdirect.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123181256id_/http%3A//www.turkishdirect.com/page/general/Privacy) for the most accurate reproduction.*
 
 # {news_title} | Turkish Direct
 
