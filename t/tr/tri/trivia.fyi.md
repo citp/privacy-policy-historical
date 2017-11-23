@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trivia.fyi privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525201802id_/http%3A//trivia.fyi/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trivia.fyi privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123213710id_/http%3A//trivia.fyi/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trivia Questions & Answers
 
