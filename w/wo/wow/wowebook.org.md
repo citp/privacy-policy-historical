@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowebook.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123538id_/http%3A//www.wowebook.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowebook.org privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123101610id_/http%3A//www.wowebook.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • WOW! eBook
 
@@ -42,4 +42,4 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us via  **[info@wowebook.org](mailto:info@wowebook.org)**
+If you have any questions about this Privacy Policy, please contact us via  **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#7910171f16390e160e1c1b16161257160b1e)**
