@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aurabuy.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518193530id_/http%3A//www.aurabuy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurabuy.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123135105id_/http%3A//www.aurabuy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
