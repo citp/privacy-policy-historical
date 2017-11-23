@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the felluciablow.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628020618id_/http%3A//www.pornnerdnetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the felluciablow.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123192233id_/http%3A//www.pornnerdnetwork.com/privacy.html) for the most accurate reproduction.*
 
 # Porn Nerd Network - Privacy Policy
 
@@ -55,6 +55,6 @@ Yes. You may correct or update your personal information by writing to our Priva
 
 last updated: May 01, 2014
 
-**Got a question?  [Contact us](https://web.archive.org/web/20170628020618id_/http%3A//www.pornnerdnetwork.com/contact.html)**
+**Got a question?  [Contact us](https://web.archive.org/web/20171123192233id_/http%3A//www.pornnerdnetwork.com/contact.html)**
 
-[](https://web.archive.org/web/20170628020618id_/http%3A//www.pornnerdnetwork.com/join.html)
+[](https://web.archive.org/web/20171123192233id_/http%3A//www.pornnerdnetwork.com/join.html)
