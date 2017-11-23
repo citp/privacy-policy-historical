@@ -1,18 +1,27 @@
-<!--The following is the downloaded HTML source of the super-resume.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606062932id_/http%3A//www.super-resume.com/PrivacyPolicy.jtp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the super-resume.com privacy policy that was archived on 2017-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171123071236id_/http%3A//www.super-resume.com/PrivacyPolicy.jtp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="shortcut icon" href="/assets/img/favicon30.png?d20" type="image/x-icon">
-		
+		<link rel="shortcut icon" href="/assets/img/favicon30.png" type="image/x-icon">
+
 		<title>Super-Resume: Privacy Policy</title>
-		
-		<link rel="stylesheet" href="/assets/bootstrap3/css/bootstrap.min.css?d20">
-		<link rel="stylesheet" href="/assets/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="/assets/Css.jtp?d20">
-		
+
+		<style>
+			@import "/assets/bootstrap3/css/bootstrap.css";
+			@import "/assets/font-awesome/css/font-awesome.min.css";
+			@import "/sr.css";
+		</style>
         <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://trk.blasma.com/trk5.js"></script>
-		<script src="/assets/Javascript.jtp?d20"></script>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create','UA-45520108-1','auto');
+		</script>
+
+		<script src="/sr.js"></script>
 		
 <style>
 	div.text{font-size:120%}
@@ -22,27 +31,22 @@
 	div.text ul, div.textli{margin:.5em 0}
 </style>
 
-		
-<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	ga('create','UA-45520108-1','auto');
-	ga('send','pageview');
-</script>
+		<script>
+			ga('send','pageview');
+		</script>
 
 	</head>
 	<body>
 		<div id="notice" class="notice"></div>
-		
 
-<div class="masthead2">
-	<div header="" class="container">
-		<a class="brand pull-left" href="/" title="Free Resume Builder">SUPER RESUME</a>
-		<div id="top-header" class="top-header pull-right"></div>
-	</div>
-</div>
+
+		<div masthead2="">
+			<div container="">
+				<a brand="" href="/" title="Free Resume Builder">SUPER RESUME</a>
+				<div top-header=""></div>
+			</div>
+			<div clear=""></div>
+		</div>
 
 <div class="container text">
 	<div class="header">
@@ -156,77 +160,37 @@
 
 </div>
 
-<div class="footer">
-	<div class="container">
-		<a href="/">Resume Builder</a>
-		| <a href="/resume-templates">Resume Templates</a>
-		| <a href="/resume-examples">Resume Examples</a>
-		| <a href="/About.jtp">About Us</a>
-		| <a href="/PrivacyPolicy.jtp">Privacy Policy</a>
-		| <a href="/TermsOfUse.jtp">Terms of Use</a>
-		| <a href="/help/">Help Articles</a>
-		| <a href="/Contact.jtp">Contact Us</a>
-		<div copy="">Super-Resume.com © 2013-2017</div>
-	</div>
-</div>
+		<div footer="">
+			<div container="">
+				<a href="/">Resume Builder</a>
+				| <a href="/resume-templates">Resume Templates</a>
+				| <a href="/resume-examples">Resume Examples</a>
+				| <a href="/about">About Us</a>
+				| <a href="/PrivacyPolicy.jtp">Privacy Policy</a>
+				| <a href="/TermsOfUse.jtp">Terms of Use</a>
+				| <a href="/help/">Help Articles</a>
+				| <a href="/Contact.jtp">Contact Us</a>
+				<div copy="">Super-Resume.com © 2013-2017</div>
+			</div>
+		</div>
 
-		<script src="/assets/jquery/jquery-1.10.2.min.js?d20"></script>
-		<script src="/assets/bootstrap3/js/bootstrap.min.js?d20"></script>
-		
-<script>
-	Product.loginHeader = function(extra, domain) {
-		$(document).ready(function(){
-			var s = '<ul class="nav">';
-			if (extra) {
-				s += '<li>'+extra+'</li>';
-			} else {
-				s += '<li><a href="/Contact.jtp">Contact Us</a></li>';
-			}
-			domain = domain? 'http://'+domain : '';
-			if (!Product.isLoggedIn()) {
-				var n = window.location.pathname;
-				n = n.search(/(Resumes|Account).jtp/)>=0? "?nextUrl="+encodeURIComponent(n):'';
-				s += '<li><a href="'+domain+'/user/Login.jtp'+n+'">Log In</a></li>';
-				s += '<li><a href="'+domain+'/user/Register.jtp'+n+'">Sign Up</a></li>';
-			}
-			s += '<li><a href="'+domain+'/Account.jtp">Your Account</a></li>';
-			if (Product.isLoggedIn())
-				s += '<li><a href="'+domain+'/user/Logout.jtp">Log Out</a></li>';
-			s += '</ul>';
-			$('#top-header').html(s);
+		<script src="/assets/jquery/jquery-1.10.2.min.js"></script>
+		<script src="/assets/bootstrap3/js/bootstrap.min.js"></script>
 
-			window.onerror = function(msg, url, line, col, obj) {
-				if (!url || navigator.userAgent.indexOf('MSIE 7') >= 0)
-					return;
-				var err = msg;
-				err += ' | url=' + url;
-				if (url != window.location)
-					err += ' | page=' + window.location;
-				err += ' | user=' + Product.userId;
-				err += ' | user-agent=' + navigator.userAgent;
-				err += ' | line='+line;
-				if (col)
-					err += ' | column='+col;
-				if (obj && obj.stack)
-					err += ' | stack=' + obj.stack;
-				$.get('/ErrorLog.jtp?err='+encodeURIComponent(err));
-			}
-		});
-	};
+		<script>
+			Product.notice = function(s, wait, fade) {
+				var $n = $('#notice');
+				$n.html(s);
+				var hw = $n.width()/2;
+				$n.css('margin-left', -hw + 'px');
+				$n.show();
+				if (wait && fade)
+					setTimeout(function() {
+						$n.fadeOut(fade);
+					}, wait);
+			};
+		</script>
 
-	Product.notice = function(s, wait, fade) {
-		var $n = $('#notice');
-		$n.html(s);
-		var hw = $n.width()/2;
-		$n.css('margin-left', -hw + 'px');
-		$n.show();
-		if (wait && fade)
-			setTimeout(function() {
-				$n.fadeOut(fade);
-			}, wait);
-	};
-</script>
-
-		<script>Product.loginHeader();</script>
 	
+
 </body></html>
