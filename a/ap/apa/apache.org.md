@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the apache.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124022418id_/http%3A//apache.org/foundation/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apache.org privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123173123id_/http%3A//www.apache.org/foundation/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ](http://apache.org/foundation/contributing.html "Support Apache")
 
 The Apache Software Foundation (ASF) is an open source project organized under the auspices of a public benefit corporation. Our challenges and goals are large. For that reason, we have a very permissive (non) privacy policy that mirrors our public mission.
 
