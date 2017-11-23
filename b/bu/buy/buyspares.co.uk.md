@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133119id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123131945id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -100,13 +100,13 @@ When this page is displayed, you will either be prompted to enrol in the card's 
 
 MasterCard®SecureCode™ is a simple and secure method of payment at online stores, for which you will have a private code known only to you and to your bank. Your SecureCode™ enhances your existing MasterCard® account by safeguarding against unauthorised use of your card when shopping at participating online retailers. Every time you make a payment with these retailers, you will be automatically prompted to enter your own private SecureCode™ - just like entering a PIN at a cash machine. In seconds, you gain added protection while shopping online.
 
-[learn more](http://www.mastercard.com/us/business/en/corporate/securecode/sc_popup.html)
+[learn more](https://www.mastercard.com/us/business/en/corporate/securecode/sc_popup.html)
 
 ##### Verified by Visa Explained
 
 Verified by Visa is a simple password-protected identity-checking service that takes the risk out of online shopping for both retailers and customers. Retailers are protected against fraudulent transactions and the costs associated with it, while customers can spend with confidence knowing that their payment details are safe.
 
-[learn more](http://www.visaeurope.com/en/cardholders/verified_by_visa.aspx)
+[learn more](https://www.visaeurope.com/en/cardholders/verified_by_visa.aspx)
 
   * View Payment Methods
 
@@ -167,7 +167,7 @@ These cookies allow us to identify and count the number of visitors to our sites
 
 Our site uses a range of cookies for marketing purposes. Marketing cookies record your visits to our sites, the pages you have visited and the links you have followed. We use this information to make our site and the advertising displayed on them more relevant to your interests. Sometimes we share anonymous information about your browsing activity recorded using cookies with our advertising partners. They may use this information to advertise products that may interest you on other sites. Please note we don’t share any of your personal or sensitive information.
 
-The use of cookies will not result in you receiving unsolicited emails. We understand that not everyone wants to receive marketing information. In order to receive marketing communications from us, you have to opt-in. This can be done during the checkout process or you can [sign up here](http://www.buyspares.co.uk/newsletter-signup.pl). You also have the option to unsubscribe from our email mailing list at anytime.
+The use of cookies will not result in you receiving unsolicited emails. We understand that not everyone wants to receive marketing information. In order to receive marketing communications from us, you have to opt-in. This can be done during the checkout process or you can [sign up here](https://www.buyspares.co.uk/newsletter-signup.pl). You also have the option to unsubscribe from our email mailing list at anytime.
 
 **Use of cookies & consent**
 
@@ -212,11 +212,11 @@ Please check the help settings within your browser or use a search engine to fin
 
 You can visit the following website for an in-depth guide to cookies and how to control, delete and understand them. They even have a great recipe on there for cookies of the edible variety – yum!
 
-<http://www.aboutcookies.org/>
+[www.aboutcookies.org/](https://www.aboutcookies.org/ "About Cookies")
 
 **Data Protection**
 
-We take your privacy seriously and safeguard your data and personal information in compliance with the Data Protection act. For more information on how we use your data please read our [privacy policy](http://www.buyspares.co.uk/payment-security/help.pl).
+We take your privacy seriously and safeguard your data and personal information in compliance with the Data Protection act. For more information on how we use your data please read our [privacy policy](https://www.buyspares.co.uk/payment-security/help.pl).
 
 
 
