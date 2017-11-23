@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenshealthmag.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628215359id_/http%3A//www.hearst.co.uk/magazines/Data-protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealthmag.co.uk privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123054352id_/http%3A//www.hearst.co.uk/magazines/Data-protection.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hearst UKHearst UK
 
