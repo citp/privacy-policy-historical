@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the autocj.co.jp privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065824id_/http%3A//autocj.co.jp/autocom_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocj.co.jp privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123175641id_/http%3A//autocj.co.jp/autocom_privacy) for the most accurate reproduction.*
 
 # Japanese Used Car Exporter - Autocom Japan
 
-[](https://web.archive.org/web/20170606065824id_/http%3A//autocj.co.jp/)
+[](https://web.archive.org/web/20171123175641id_/http%3A//autocj.co.jp/)
 
 At Autocom Japan, we respect and understand the importance of your privacy and would never disclose it to any uninvolved third party without your consent. The only information we receive from you are voluntary, through our contact and registration forms. All information will be stored on our secure server for the sole purpose of knowing how to contact you and deliver your orders.
 
