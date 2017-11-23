@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneshotnews.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618012431id_/http%3A//oneshotnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneshotnews.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123172613id_/http%3A//oneshotnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OneShotNews
 
