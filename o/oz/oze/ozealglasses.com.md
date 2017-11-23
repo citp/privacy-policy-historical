@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508085500id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123163935id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Shopping Security, T and C | Ozeal Glasses
 
@@ -29,7 +29,7 @@ You should contact us if the goods are not shipped safely within a reasonable nu
 
 ### Site Contents
 
-Unless otherwise noted, the Sites, and all materials on the Sites, including text, images, illustrations, designs, icons, photographs, video clips and other materials, and the copyrights, trademarks, trade dress and/or other intellectual property in such materials (collectively, the "Contents"), are owned, controlled or licensed by Ozeal Technology Ltd which is located in Kemp House, 152 -160 City Road, London, England. EC1V 2NX.
+Unless otherwise noted, the Sites, and all materials on the Sites, including text, images, illustrations, designs, icons, photographs, video clips and other materials, and the copyrights, trademarks, trade dress and/or other intellectual property in such materials (collectively, the "Contents"), are owned, controlled or licensed by APACPAY PTE. LTD. which is located in 3 INTERNATIONAL BUSINESS PARK, #04-01A, NORDIC EUROPEAN CENTRE, SINGAPORE (609927)
 
 ### Return and Refund
 
@@ -91,13 +91,9 @@ Please note that this policy constitutes an integral part of the website terms a
 
 ### Company Address
 
-Ozeal Technology Ltd.
+APACPAY PTE. LTD.
 
-Kemp House  
-152 -160 City Road  
-London  
-England  
-EC1V 2NX  
+3 INTERNATIONAL BUSINESS PARK, #04-01A, NORDIC EUROPEAN CENTRE, SINGAPORE (609927)  
 
 
 ### Protection
