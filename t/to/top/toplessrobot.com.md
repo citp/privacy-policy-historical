@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toplessrobot.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613204335id_/http%3A//www.therobotsvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toplessrobot.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123061824id_/http%3A//therobotsvoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Robot's Voice
 
@@ -90,4 +90,4 @@ If your personally identifiable information changes, you may correct and/or upda
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd8d8f948b9c9e849c99909493948e898f9c89928fbd8b92949e98909899949c9a8f92888dd39e9290), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
