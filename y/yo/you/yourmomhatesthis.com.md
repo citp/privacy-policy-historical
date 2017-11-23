@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourmomhatesthis.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614220326id_/http%3A//www.yourmomhatesthis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourmomhatesthis.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123024343id_/http%3A//www.yourmomhatesthis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YourMomHatesThis
 
