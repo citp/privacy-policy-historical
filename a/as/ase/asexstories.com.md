@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asexstories.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622065137id_/http%3A//asexstories.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asexstories.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123034119id_/http%3A//www.asexstories.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - A Sex Stories
 
@@ -20,12 +20,14 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
 
-[](http://www.supersexstars.com/?t=118446,21,37,0)
+[](http://www.animefresh.com/?t=118446,21,60,0)
 
-Random Springtime Incest with my sexy Uncle 
+Random The Article Part 1 
 
-I could feel his breath on my body as he licked and sucked my throbbing tits and I could not believe that anybody could make me feel as good as my uncle was making me feel as his lips tugged on my nipples while his hand stroked my wet pussy...
+A news paper article makes some different ways. Classic from Incester...
 
-[Read...](http://www.asexstories.com/Springtime-Incest-with-my-sexy-Uncle/)
+[Read...](http://www.asexstories.com/The-Article-Part-1/)
 
-[](http://join.katiethomas.com/track/cht122:pps30:katiethomas/)
+[](http://www.analarmy.com/?t=118446,21,168,0)
+
+[](http://www.kaydenbunny.com/?t=118446,21,132,0)
