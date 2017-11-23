@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlenewz.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613195756id_/http%3A//www.wrestlenewz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlenewz.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123111315id_/http%3A//www.wrestlenewz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wrestle Newz
 
