@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpso.on.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131508id_/http%3A//www.cpso.on.ca/Footer-Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpso.on.ca privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123033855id_/http%3A//www.cpso.on.ca/Footer-Pages/Privacy-Policy) for the most accurate reproduction.*
 
 # | Privacy Policy | Footer Pages | College of Physicians and Surgeons of Ontario
 
