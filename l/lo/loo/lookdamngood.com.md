@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookdamngood.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629054639id_/http%3A//lookdamngood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookdamngood.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123200023id_/http%3A//lookdamngood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -102,6 +102,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 LookDamnGood.com  
-contact@LookDamnGood.com
+[[email protected]](http://lookdamngood.com/cdn-cgi/l/email-protection)
 
 Last Edited on 2014-12-02
