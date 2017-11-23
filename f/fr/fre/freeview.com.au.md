@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060807id_/http%3A//www.freeview.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123045228id_/http%3A//www.freeview.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Freeview Australia Limited (ABN: 72 130 448 510) and its related companies (together we, us, our and other similar expressions) are committed to protecting your personal privacy. This Privacy Policy tells you how we collect, store, use and disclose your personal information. We encourage you to read this policy carefully so that you understand our information handling practices
+Freeview Australia Limited (ABN: 72 130 448 510) and its related companies (together we, us, our and other similar expressions) are committed to protecting your personal privacy. This Privacy Policy tells you how we collect, store, use and disclose your personal information. We encourage you to read this policy carefully so that you understand our information handling practices.
 
 **Information we collect**
 
