@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pattaya-addicts.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629125448id_/http%3A//pattaya-addicts.com/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pattaya-addicts.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123141538id_/http%3A//www.pattaya-addicts.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Pattaya Forum | Pattaya Nightlife
 
@@ -8,7 +8,7 @@ Pattaya Addicts created this application to make it simple for users to share in
 
 This Privacy Policy is designed to help you understand what information you may provide, how we use and share the information and how we will not use or share information, and your choices when using the Causes application, located at [www.pattaya-addicts.com](http://www.pattaya-addicts.com/) and apps.facebook.com/pattayaaddicts, (the "Application"). We will not use or share your information with anyone, except as described in this Privacy Policy.
 
-If you have questions about the Privacy Policy or would like to suggest improvements, please contact us at [bryan@pattaya-addicts.com](mailto:bryan@pattaya-addicts.com)
+If you have questions about the Privacy Policy or would like to suggest improvements, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e1839398808fa191809595809880cc80858588829592cf828e8c)
 
 We operate under the principle that you should have control over your information including how it is shared with others. To learn more about our privacy practices, read on!
 
@@ -34,7 +34,7 @@ Causes may use anonymous information collected to improve the quality of the App
 
 **Spreading the Word**
 
-In order to spread the word and promote causes you care about you may elect to opt-in and take advantage of one of our optional promotion services. If you choose to opt-in, we will use the email addresses in your address book to send a one-time email to those email addresses with information about the Application. If you prefer, you may opt to provide a friend's email address, and we will send that friend a one-time email inviting the friend to visit the Application. We may use the email information to track the success of these email services. Anyone we send an email to through one of these features may contact us at [bryan@pattaya-addicts.com](mailto:bryan@pattaya-addicts.com) to request that we remove their information from our database.
+In order to spread the word and promote causes you care about you may elect to opt-in and take advantage of one of our optional promotion services. If you choose to opt-in, we will use the email addresses in your address book to send a one-time email to those email addresses with information about the Application. If you prefer, you may opt to provide a friend's email address, and we will send that friend a one-time email inviting the friend to visit the Application. We may use the email information to track the success of these email services. Anyone we send an email to through one of these features may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4624343f27280636273232273f276b2722222f2532356825292b) to request that we remove their information from our database.
 
 **Sharing of Information**
 
@@ -66,4 +66,4 @@ If you choose to use the Application, your use is subject to the current Terms o
 
 **Security**
 
-Pattaya Addicts takes reasonable precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. Although we allow you to set privacy setting that limit access to your information, please be aware that no security measures are perfect or 100% effective. We cannot control the actions of other users with whom you may choose to share your pages and information. Even after removal, copies of Materials may remain viewable in cached and archived pages or if other users have copied or stored your Materials. If you have any questions about the security of Pattaya Addicts Application, please contact us at [privacy@causes.com](mailto:privacy@causes.com).
+Pattaya Addicts takes reasonable precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. Although we allow you to set privacy setting that limit access to your information, please be aware that no security measures are perfect or 100% effective. We cannot control the actions of other users with whom you may choose to share your pages and information. Even after removal, copies of Materials may remain viewable in cached and archived pages or if other users have copied or stored your Materials. If you have any questions about the security of Pattaya Addicts Application, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0777756e7166647e476466727462742964686a).
