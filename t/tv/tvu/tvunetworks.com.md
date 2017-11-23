@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvunetworks.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608214547id_/http%3A//www.tvunetworks.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvunetworks.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123085137id_/http%3A//www.tvunetworks.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TVU Networks
 
