@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funorb.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135536id_/http%3A//www.funorb.com/privacy/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funorb.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123050530id_/http%3A//www.funorb.com/privacy/privacy.ws) for the most accurate reproduction.*
 
 # FunOrb - Free Online Games by Jagex Games Studio
 
