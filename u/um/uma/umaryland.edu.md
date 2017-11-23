@@ -1,6 +1,26 @@
-> *The following text is extracted and transformed from the umaryland.edu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629215516id_/http%3A//www.umaryland.edu/umbcomputingpolicies/it-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umaryland.edu privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123195111id_/http%3A//www.umaryland.edu/policies-and-procedures/library/information-technology/policies/x-9915a.php) for the most accurate reproduction.*
 
-# IT Privacy Policy - University of Maryland, Baltimore
+# UMB IT Privacy Policy - University of Maryland, Baltimore
+
+### X-99.15(A)
+
+###  UMB IT Privacy Policy 
+
+[Information Technology](https://web.archive.org/policies-and-procedures/library/information-technology/policies/)
+
+* * *
+
+### Responsible VP/AVP
+
+[Peter J. Murray, PhD](https://web.archive.org/about-umb/university-leadership/peter-j-murray-phd/)
+
+* * *
+
+Applies to **Faculty, Staff, Students**
+
+* * *
+
+#### Policy Statement
 
 To establish a framework for the privacy of sensitive information which is accessible through the use of UMB information technology resources.
 
@@ -21,6 +41,8 @@ To establish a framework for the privacy of sensitive information which is acces
 **Sensitive information:** Personal, medical, confidential and otherwise legally protected information which is maintained in, or available through use of, UMB IT Resources. 
 
 **UMB:** University of Maryland Baltimore.
+
+* * *
 
 #### General Policy
 
