@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071542id_/http%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123221741id_/http%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy | HealthPost NZ
 
-**Date Last Updated:** 11th April 2017
+**Date Last Updated:** 9th August 2017
 
-|  [](http://www.healthpost.co.nz/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll")  
+| [](http://www.healthpost.co.nz/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll")  
 ---|---  
   
 ## The Short Version
@@ -67,7 +67,9 @@ Our website uses "cookies," which are small data files that are stored on your c
 
 #### **Third-Party Remarketing**
 
-When you visit our website with cookies enabled, we place a third party cookie supplied by Google or Criteo onto your browser. While this cookie is completely anonymous in that it doesn't provide us or any third party with any personally identifiable information about you (e.g. your name or address), it does track certain things like how long you spent on our site, and which pages you did or didn't visit. This allows us to use Remarketing functionality to then deliver targeted advertising to you based on your behaviour whilst you were on our site. For example, if you visited a particular product, we might use this information to display advertising to you promoting a special offer specific to this product. This advertising may be displayed to you as you browse other sites across the internet. This is possible because many websites participate in third-party's advertising programme, allowing them to use parts of their sites to display promotional messages from participating advertisers. You may also see our advertisements on sites directly owned or controlled by Google, such as youtube.com. You may opt out of Google's use of cookies for advertising at the following link: <http://www.google.com/settings/ads>. You may opt out of Criteo's use of cookies for advertising at the following link: <http://www.criteo.com/privacy/>.
+When you visit our website with cookies enabled, we place a third party cookie supplied by Google, Facebook or Criteo onto your browser. While this cookie is completely anonymous in that it doesn't provide us or any third party with any personally identifiable information about you (e.g. your name or address), it does track certain things like how long you spent on our site, and which pages you did or didn't visit. This allows us to use Remarketing functionality to then deliver targeted advertising to you based on your behaviour whilst you were on our site. For example, if you visited a particular product, we might use this information to display advertising to you promoting a special offer specific to this product. This advertising may be displayed to you as you browse other sites across the internet. This is possible because many websites participate in third-party's advertising programme, allowing them to use parts of their sites to display promotional messages from participating advertisers. You may also see our advertisements on sites directly owned or controlled by Google, such as Youtube or on Facebook.
+
+You may opt out of Google's use of cookies for advertising at the following link: [www.google.com/settings/ads](http://www.google.com/settings/ads "Google Ads Settings"). You may opt out of Criteo's use of cookies for advertising at the following link: [www.criteo.com/privacy](http://www.criteo.com/privacy/ "Criteo Settings"). To manage your Facebook preferences go to: [www.facebook.com/ads/preferences](https://www.facebook.com/ads/preferences/). 
 
 #### **How we use Your Information**
 
