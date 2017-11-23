@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zenhub.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515034854id_/https%3A//www.zenhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenhub.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123171425id_/https%3A//www.zenhub.com/privacy-policy) for the most accurate reproduction.*
 
-# ZenHub - Privacy Policy - Your GitHub Issue Tracker
+# ZenHub Privacy Policy
 
 Launch Labs, Inc. DBA Axiom Zen. (“we”/“us”) is committed to protecting your privacy. We make the website, https://zenhub.com (the “Website”) available together with our services as further described in our Terms of Service, https://zenhub.com/terms (the “Services”). This Privacy Policy describes how we collect, store, use and distribute information about our users through the Website and Services.
 
