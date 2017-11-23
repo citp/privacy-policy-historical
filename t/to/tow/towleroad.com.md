@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towleroad.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114154id_/http%3A//www.towleroad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towleroad.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123171804id_/http%3A//www.towleroad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Towleroad
 
