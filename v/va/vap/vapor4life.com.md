@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vapor4life.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113232id_/http%3A//www.vapor4life.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapor4life.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123185846id_/https%3A//www.vapor4life.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Your consent**
 
-By using our website, you consent to our privacy policy and our [terms and conditions](http://www.vapor4life.com/terms-and-conditions/), as explained below. This policy was last modified on June 6, 2012 and governs the use of our website and information associated with the purchase of products through our website. We encourage you to refer to this policy periodically so that you understand our current privacy policies.
+By using our website, you consent to our privacy policy and our [terms and conditions](https://www.vapor4life.com/terms-and-conditions/), as explained below. This policy was last modified on June 6, 2012 and governs the use of our website and information associated with the purchase of products through our website. We encourage you to refer to this policy periodically so that you understand our current privacy policies.
 
 **What information do we collect?**
 
@@ -75,4 +75,4 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please visit our [Terms and Conditions](http://www.vapor4life.com/terms-and-conditions/) section, which establishes use, disclaimers, and limitations of liability governing the use of our website.
+Please visit our [Terms and Conditions](https://www.vapor4life.com/terms-and-conditions/) section, which establishes use, disclaimers, and limitations of liability governing the use of our website.
