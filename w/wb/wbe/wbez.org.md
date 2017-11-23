@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbez.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623150503id_/https%3A//www.chicagopublicmedia.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbez.org privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123161038id_/https%3A//www.chicagopublicmedia.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chicago Public Media
 
@@ -26,7 +26,7 @@ We do not collect personally-identifying information from the Sites unless you c
 
 We may ask you to provide certain personal information when you: (a) register for a contest; (b) sign up for an email list; (c) request information; (d) purchase products or services; (e) submit Content that may be used on the Sites; (f) participate in a forum, bulletin board or chat; (g) become a member; (e) make a financial contribution; (f) register for an account; or (g) fill out a survey. Required personal information will be identified as such at the time the personal information is requested.
 
-This information may be used to: (a) verify your identity; (b) manage a contest; (c) gather your editorial comments and feedback; (d) contact you for additional information; (e) send you an email newsletter; (f) ensure our sites are working at maximum performance and (g) fulfill your order or request. We may also use this information for marketing and promotional purposes. By providing this information, you may receive an occasional email or letter from us. You will be given the option to opt-out of any such listing or have your information removed from a list as set forth in this Privacy Policy. We do not share, trade, rent or sell your physical or email addresses with third-parties.
+This information may be used to: (a) verify your identity; (b) manage a contest; (c) gather your editorial comments and feedback; (d) contact you for additional information; (e) send you an email newsletter; (f) ensure our sites are working at maximum performance and (g) fulfill your order or request. We may also use this information for marketing and promotional purposes. By providing this information, you may receive an occasional email or letter from us. You will be given the option to opt-out of any such listing or have your information removed from a list as set forth in this Privacy Policy. We do not share, trade or sell a donor's personally identifiable information with anyone except third parties who are performing work on our behalf pursuant to a contract.  We do not send donor mailings on behalf of other organizations.
 
  **SMS TEXT MESSAGING PROMOTIONS**
 
