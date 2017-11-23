@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flysfo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095525id_/https%3A//www.flysfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flysfo.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123055319id_/http%3A//www.flysfo.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY Policy | http://www.flysfo.com/
+# PRIVACY Policy | San Francisco International Airport
 
 This Privacy Policy outlines the types of information we gather when you visit flysfo.com, the official website of the City and County of San Francisco Airport Commission, as well as some of the steps we take to safeguard it.
 
