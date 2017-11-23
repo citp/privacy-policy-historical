@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsornewton.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609144720id_/http%3A//www.winsornewton.com/na/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsornewton.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123022430id_/http%3A//www.winsornewton.com/na/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
