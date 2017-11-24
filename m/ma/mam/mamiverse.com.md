@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamiverse.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620104745id_/http%3A//mamiverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamiverse.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124191804id_/http%3A//mamiverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mamiverse
 
@@ -27,7 +27,7 @@ We will not share your personal information with others except as indicated belo
 
 **E-mail Announcements and Newsletters.**
 
-We may use e-mail to send announcements regarding new products, services, and/or promotions, and informational newsletters.  Announcements via email are on an opt-in basis only. By creating a “Member” account with us you are opting in to receiving these e-mail announcements. You can choose to unsubscribe from receiving our e-mails at any time by sending an email to [info@mamiverse.com](mailto:info@mamiverse.com).
+We may use e-mail to send announcements regarding new products, services, and/or promotions, and informational newsletters.  Announcements via email are on an opt-in basis only. By creating a “Member” account with us you are opting in to receiving these e-mail announcements. You can choose to unsubscribe from receiving our e-mails at any time by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e38a8d858ca38e828e8a9586919086cd808c8e).
 
 **Security.   **
 
@@ -47,7 +47,7 @@ The Website is a general audience site and does not offer services directed to c
 
 **Disputes.   **
 
-Disputes regarding our Privacy Policy are handled by our customer service team with the highest concern for your privacy.  Should you have any dispute regarding your privacy under our Privacy Policy please contact our customer service team at [info@mamiverse.com](mailto:info@mamiverse.com).
+Disputes regarding our Privacy Policy are handled by our customer service team with the highest concern for your privacy.  Should you have any dispute regarding your privacy under our Privacy Policy please contact our customer service team at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd94939b92bd909c90948b988f8e98d39e9290).
 
 **Third Party Links.   **
 
@@ -59,4 +59,4 @@ The Website is owned by Mamiverse Media LLC.  For more information about us or 
 
 **California Residents.   **
 
-Pursuant to California Civil Code Section 1798.83, California residents have a right to request certain information from each business they patronize regarding that business’ disclosure of personal information to third parties for direct marketing purposes. Generally, if a business has disclosed personal information regarding its California customers to third parties for direct marketing purposes in the preceding calendar year, the business is required to provide, upon request and free of charge, a list of the names and addresses of all such third parties, together with a list of the categories of personal information that was disclosed.  Should you require such information from us, please direct all such requests by email to our customer service at info@mamiverse.com.  If you do not want your name and contact information to be shared with any company or organization, you may notify us at the above email address.
+Pursuant to California Civil Code Section 1798.83, California residents have a right to request certain information from each business they patronize regarding that business’ disclosure of personal information to third parties for direct marketing purposes. Generally, if a business has disclosed personal information regarding its California customers to third parties for direct marketing purposes in the preceding calendar year, the business is required to provide, upon request and free of charge, a list of the names and addresses of all such third parties, together with a list of the categories of personal information that was disclosed.  Should you require such information from us, please direct all such requests by email to our customer service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  If you do not want your name and contact information to be shared with any company or organization, you may notify us at the above email address.
