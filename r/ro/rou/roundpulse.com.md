@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundpulse.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518080914id_/http%3A//www.roundpulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundpulse.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124032447id_/http%3A//www.roundpulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | Round Pulse
 
@@ -7,8 +7,6 @@ At Round Pulse, we appreciate your privacy and make sure that your personal info
 ## Do We Collect Your Personal Information?
 
 As per our privacy policy, we don’t collect any kind of personal information of our readers without their intention. The only way will collect and store your personal information is through contact form or the subscription option at our website, other than that, there is no way through which we ever collect your personal information.
-
-advertisement
 
 ## How Do We Use Your Personal Information?
 
@@ -25,9 +23,6 @@ Our posts, images, videos and any other information published on our website is 
 
 Lastly, we hope that all our readers, user and fans will keep the above provided information in their mind while using our website. We are dedicated to provide you with latest information that can prove to be helpful for your daily life.
 
-**[Google](http://www.roundpulse.com/category/google-2) Adsense**
+**Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the [Internet](http://www.roundpulse.com/tag/internet). DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content [network](http://www.roundpulse.com/tag/network) privacy policy at [http://www.google.com/privacyads.html](http://www.google.com/privacy_ads.html)
-
-advertisement  
-
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacyads.html](http://www.google.com/privacy_ads.html)
