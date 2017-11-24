@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlsbooks.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613181408id_/http%3A//www.tlsbooks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlsbooks.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124092358id_/http%3A//www.tlsbooks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for visitors to tlsbooks.com
 
