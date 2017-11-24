@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aptoide.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609090130id_/https%3A//www.aptoide.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aptoide.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124035538id_/https%3A//www.aptoide.com/page/privacy) for the most accurate reproduction.*
 
 # Aptoide - Privacy Policy
 
