@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkservers.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130023id_/http%3A//arkservers.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkservers.net privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124202118id_/http%3A//arkservers.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ARK: Survival Evolved Servers
 
