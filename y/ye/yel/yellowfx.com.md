@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowfx.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526164413id_/http%3A//www.yellowfx.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowfx.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124220103id_/http%3A//www.yellowfx.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy - Yellow FX
 
