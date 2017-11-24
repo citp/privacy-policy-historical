@@ -1,42 +1,68 @@
-<!--The following is the downloaded HTML source of the zenphoto.org privacy policy that was archived on 2016-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125180242id_/http%3A//www.zenphoto.org/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zenphoto.org privacy policy that was archived on 2017-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171124103239id_/http%3A//www.zenphoto.org/pages/data-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/zp-core/js/jquery.js"></script>
+			<script type="text/javascript" defer="" async="" src="//stats.zenphoto.org/piwik.js"></script><script type="text/javascript" src="/zp-core/js/jquery.js"></script>
 	<script type="text/javascript" src="/zp-core/js/zenphoto.js"></script>
 			<link rel="stylesheet" href="/zp-core/zp-extensions/colorbox_js/themes/example1/colorbox.css" type="text/css">
 		<script type="text/javascript" src="http://www.zenphoto.org/zp-core/zp-extensions/colorbox_js/jquery.colorbox-min.js"></script>
 		<script>
-			/* Colorbox resize function */
+			/* Colorbox resize function for images*/
 			var resizeTimer;
-			function resizeColorBox()
-			{
+
+			function resizeColorBoxImage() {
 				if (resizeTimer)
 					clearTimeout(resizeTimer);
-				resizeTimer = setTimeout(function() {
+					resizeTimer = setTimeout(function() {
 					if (jQuery('#cboxOverlay').is(':visible')) {
-						jQuery.colorbox.resize({width: '90%', maxHeight: '90%'});
+						jQuery.colorbox.resize({width: '90%'});
 						jQuery('#cboxLoadedContent img').css('max-width', '100%').css('height', 'auto');
 					}
 				}, 300)
 			}
-
-			// Resize Colorbox when resizing window or changing mobile device orientation
-			jQuery(window).resize(resizeColorBox);
-			window.addEventListener("orientationchange", resizeColorBox, false);
-
+			/* Colorbox resize function for Google Maps*/
+			function resizeColorBoxMap() {
+				if (resizeTimer)
+					clearTimeout(resizeTimer);
+					resizeTimer = setTimeout(function() {
+					var mapw = $(window).width() * 0.8;
+        			var maph = $(window).height() * 0.7;
+						if (jQuery('#cboxOverlay').is(':visible')) {
+							$.colorbox.resize({innerWidth: mapw, innerHeight: maph});
+							$('#cboxLoadedContent iframe').contents().find('#map_canvas').css('width', '100%').css('height', maph-20);
+						}
+					}, 500)
+			}
+			// Resize Colorbox when changing mobile device orientation
+			window.addEventListener("orientationchange", function(){resizeColorBoxImage();parent.resizeColorBoxMap()}, false);
 		</script>
-			<script type="text/javascript" src="/zp-core/js/encoder.js"></script>
+
+			<script type="text/javascript">
+   	$(document).ready(function(){
+				$('a.platinum-ad, a.palladium-ad, a.gold-ad,a.silver-ad,a.bronze-ad').click(function() {
+  				var adlink = $(this).attr('href');
+  				var adcat = $(this).attr('class'); // we have sometimes an extra class and need only the first
+  				$.ajax({
+  					data: { 
+  						link: adlink, 
+  						cat: adcat 
+  					}
+					})
+  			});
+  		});
+  	</script>
+  		<script type="text/javascript" src="/zp-core/js/encoder.js"></script>
 	<script type="text/javascript" src="/zp-core/js/tag.js"></script>
 		<link type="text/css" rel="stylesheet" href="/zp-core/zp-extensions/tag_suggest/tag.css">
 		<script type="text/javascript">
 		// <!-- <![CDATA[
-		var _tagList = ["\"rewrite rules\"","\"social media\"","\"social network\"","\"social networks\"","\"social sharing\"","1and1","accents","accordion","acrylian","address fields","addthis","admin","admin-approval","administration","Adobe Illustrator","Adsense","Advertising","AI","ajax","akismet","album","album thumb","albums","albumzip","amazonpayments","analytics","anonymous","apache","App","apple","archive","articles","atom","audio","authentification","author_abotana","author_acrylian","author_adamus04","author_aitf311","author_akerbos","author_aladio","author_alenonimo","author_altert","author_amalani","author_amereservant","author_amichel","author_andrea-garelli","author_andrey","author_anudu","author_arnaud","author_artz","author_atrioom","author_babar","author_ballenato","author_bart-braem","author_ben-spicer","author_ben-wilson","author_benjamin-swatek","author_bertsimons","author_bharat","author_bic","author_blue-dragonfly","author_Bob03","author_brecht","author_bthj","author_c32","author_carl-chan","author_cary-de-guzman","author_cbraymen","author_chillifrei64","author_chris-s","author_christue","author_ciaran-gultnieks","author_citron","author_coach777","author_cyril42e","author_d4gurasu","author_dani","author_daniel-toffee","author_darrelld","author_david-wehrs","author_davosmith","author_dbogen","author_dean-moses","author_desgphoto","author_divan","author_djdevine","author_djmonta","author_dmwarren","author_doctor-kru","author_dpeterson","author_draekko","author_echza","author_einar-egilsson","author_epsilon","author_falstaff84","author_fanda","author_fat","author_fatman","author_fetard","author_fmontes","author_fogoh","author_fooforge","author_frankm","author_fretzl","author_gdodinet","author_gjr","author_gregb34","author_haroon310","author_hgtrung","author_hinrik","author_hucste","author_hyp3rlinx","author_iacchi","author_iliyangochev","author_invarbrass","author_itaymesh","author_j916","author_jake-olefsky","author_jakob-friis","author_janez-sinkovec","author_jason-hsu","author_jerome-blion","author_jesdnissen","author_jimbrown","author_jjl","author_joshduck","author_jovant","author_jpcert","author_jphilbert","author_jsumners","author_julienvdg","author_jvanderb","author_kagutsuchi","author_kevin-deldycke","author_kevinsk","author_kieran","author_kilroy","author_krainbolt","author_la0c00n","author_laurent","author_le-kevin","author_lee","author_levi-buzolic","author_libelle","author_lilpeck","author_lokkju","author_luckyspin","author_ludgerh","author_mammlouk","author_mannkind","author_manuel-garcia-cardenas","author_marcel-spijker","author_markrh","author_martin-svendsen","author_martinkroul","author_max-plante","author_maxslug","author_mem0-com","author_michal-rusina","author_micheall","author_michel-gagnon","author_mightyhitter","author_mikeque","author_milligan","author_mironb","author_misterbrandt","author_mlodszy","author_momo-i","author_mr-sheep","author_mrskhris","author_myspew","author_n00bism","author_navaid-zafar-ansari","author_nic-walsh","author_nicx","author_nikolay-tonev","author_nils-k-windisch","author_nimbuz","author_noscope","author_offrench","author_oliver-dietz","author_omatzyo","author_onetoomany","author_ozh","author_papyrus","author_paulbuhtab","author_petersendidit","author_phase2","author_pheno7","author_photogabble","author_pim-rijpsma","author_pischla","author_raging-goblin","author_rakaz","author_ralf-kerkhoff","author_RB26","author_reine-k","author_richard-castellanos","author_richard-laskey","author_rlerdorf","author_rui-cruz","author_sagasw","author_sbillard","author_seroxatmad","author_simbul","author_simounet","author_soumenb","author_spelth","author_sphoto","author_stephane-angoulvant","author_subjunk","author_tangorn","author_tenzer","author_the-whole-life-to-learn","author_thinkdreams","author_tim-coen","author_timo","author_titou","author_trisweb","author_tunafish","author_ulfben","author_unrealdtc","author_vikaskbh","author_vincent","author_vincent3569","author_vpas","author_wildstray","author_willhamilton","author_winfredwan","author_wongm","author_wurzel555","author_yaourt","auto_backup","autor_fretzl","autor_martin-svendsen","backend","backup","bandcamp","bbcode","Bit.ly","blocking","blog","bootstrap","bower","branding","browser","Buffer","bulkedit","button","buttons","bxslider","cache","caching","calendar","captcha","chmod","class-anyfile","class-webdocs","classes","cleanup","client","clone","cms","code","code-highlighting","codeblocks","coding","codrops","colorbox","colors","combinews","comment","comments","comments-form","compass","configuration","constants","contact-form","content","content macro","content macros","contributor","cookbook","cookies","coppermine","copying","cropping","css","css3","custom maps","custom size images","custom-menu","customisation","cycle2","dailymotion","database","date","debug","default images","Delicious","Deprecated","deprecated-functions","description","develop","development","Digg","disqus","documentation","dokuwiki","domain","download","download manager","downloadlist","dreamhost","dropdown-menu","dynamic-album","e-commerce","e-mail","e107-autogallery","eaccelerator","editor","elfinder","email-newuser","embed","EPS","error","errors","EU cookie law","Evernote","exif","export","extension","extension-abandoned","external","face-tags","facebook","facebook-activity","facebook-recommendations","favorites","featured image","features","federated_logon","feed","file browser","file download","file system","filename","files","filter","fla","flash","flickr","flowplayer-3","flowplayer-5","fluid-layout","flv","folder","folders","form","forum","front end edit","ftp","full image","functions","galleria","galleriffic","gallery","gallery2","gallery3","GDlibary","geocode","geshi","gestures","gettext","ghostscript","git","GitHub","global variable","globals","glossary","google","google fonts","google-analytic","google-maps","GoogleAdsense","googlecheckout","GoogleMaps","googleplus","GPS","gravator","grunt","guide","HiDPI","histogram","hitcounter","honey-pot","host","hosted_extension","hotlinking","htaccess","html","html_cache","html5","http_auth","image","image processor","image-browsing","image-rotation","image-size","imagemagick","images","imagick","import","infinite scroll","infinite-scroll","install","install helpers","installation","installing","integration","internationalization","iOS","IP","IP address","iPad","iphone","iptc","javascript","jpegtran","jplayer","jquery","jquery ui","jquery-masonry","jquerymobile","jshint","json","keyboard","keyboard-navigation","l18n","language","languages","latest-albums","latest-images","LDAP","lightroom","lighttpd","limits","Linkedin","Linux","Livejournal","locale","localization","login","logo","m4a","m4v","macro","macros","magic_quotes","mail","mailing-list","mailman","maintainance","maps","Markdown","markup","masonry","massedit","media","mediaelement.js","mediawiki","memory","menu","meta","metadata","Microsoft Active Directory","migration","minify","mobile","mod_rewrite","modrewrite","movie","movies","Moving","mp3","mp4","multilingual","multimedia","mysql","navigation","news","nginx","NoCaptcha","Norwegian","object","object model","object-orientation","objects","ogg","ogv","open graph","OpenLDAP","OpenStreetMap","optimization","ordering","pages","pagination","password","path","paypal","pdf","perl","permissions","phone","photos","php","php-cache-libary","php5","phpbb","phpinfo","picturefill","Pinterest","piwigo","player","playlist","plugin","plugins","pluginsupport_archive_calendar","pluginsupport_colorbox","pluginsupport_comment_form","pluginsupport_contact_form","pluginsupport_dynamic-locale","pluginsupport_favoriteshandler","pluginsupport_featured_image","pluginsupport_flag_language_selector","pluginsupport_flag_thumbnail","pluginsupport_GoogleMap","pluginsupport_gslideshow","pluginsupport_hitcounter","pluginsupport_image_album_statistics","pluginsupport_jcarousel_thumb_nav","pluginsupport_menu_manager","pluginsupport_multiple_layouts","pluginsupport_paged_thumbs_nav","pluginsupport_print_album_menu","pluginsupport_printusersizeimage","pluginsupport_rating","pluginsupport_register_user","pluginsupport_related_items","pluginsupport_rss","pluginsupport_shutterfly","pluginsupport_slideshow","pluginsupport_user_login-out","pluginsupport_viewer_size_image","pluginsupport_zenpage-a-cms-plugin-for-zenphoto","pluginsupport_zpdisqus","Pocket","poedit","Polish","posts","precache","preload","preloading","privacy","proof","proofsheet","protection","publishing","python","quota","rating","reCaptcha","recommendations","register","related-items","release","renaming","repository","requirements","resizing","resp","responsive","responsive-layout","restore","retina","retina-images","reverse-geocode","rewrite","rewrite rules","rewrite-rules","rights","rotating","rss","rss cache","safe mode","search","security","security-logger","seo","server","server crash","server move","setup","sharing","shop","shopping-cart","shortcodes","shorttags","show_not_logged-in","showcase","showcase_partly-zenphoto","showcase_zenphoto-only","showcase_zenphoto-with-zenpage-cms-plugin","simplescripts","site","sitemap","sitemap cache","skeleton","skin","slider","slideshare","slideshow","social","social media","social network","social networks","social sharing","social-networks","socialmedia","sorting","soundcloud","spam","spam-filter","statistics","subpages","swipe gestures","symlinks","sync","synchronize","syncing","syntax","syntax-highlighting","tables","tablet","tag-suggest","tags","testing","text","texteditor","textobject","theme","theme_officially-supported","theme_unsupported-3rd-party-external","theme_unsupported-3rd-party-hosted","theme_unsupported-hosted","theme_unsupported-unavailable","theme-compatible","theme-not-compatible","theme-partly-compatible","themes","themeswitcher","theming","thickbox","third party","thumb","thumbnail","thumbnails","thumbs","tiff","tiny_mce","tiny_zenpage","tinymce","tinyzenpage","tips","titlelink","toolbox","top-voted-albums","top-voted-images","touch gestures","translation","tumblr","tutorial","tweet","tweet_news","twitter","twitter-feed","Unix","unpublish","update","upgrade","upgrading","upload","uploader","url","url shortener","user","user_login-out","user-expiry","user-groups","usermanagement","users","variable","variables","verify","video","video thumbs","videos","vimeo","visibility","voting","vserver","watermarks","whatsapp","windows","wordpress","Xing","xml","xmp","yanzen","youtube","zenpage","zenpage-news","zenpage-pages","Zenphoto sites","zenphoto-layouts","zenphoto-org","zip","zoom","zp_assistant-developer","zp_chief-developer","zp_chief-tester","zp_chinese-translator","zp_contributor","zp_czech-translator","zp_danish-translator","zp_developer","zp_dutch-translator","zp_facebook","zp_forum-moderator","zp_founder","zp_french-translator","zp_galician-translator","zp_german-translator","zp_google+","zp_hebrew-translator","zp_italian-translator","zp_japanese-translator","zp_norwegian-translator","zp_polish-translator","zp_project-leader","zp_russian-translator","zp_serbian-translator","zp_server-admin","zp_slovenian-translator","zp_slowak-translator","zp_spanish-translator","zp_swedish-translator","zp_team_member-former","zp_team-member","zp_team-member-former","zp_twitter","zpbase"];
+		var _tagList = ["\"rewrite rules\"","\"social media\"","\"social network\"","\"social networks\"","\"social sharing\"","1and1","404","accents","accordion","acrylian","address fields","addthis","admin","admin-approval","administration","Adobe Illustrator","Adsense","Advertising","AI","ajax","akismet","album","album thumb","albums","albumzip","amazonpayments","analytics","anonymous","apache","api","App","apple","archive","articles","atom","audio","authentification","author_abotana","author_acca","author_acrylian","author_adamus04","author_aitf311","author_akerbos","author_aladio","author_alenonimo","author_altert","author_amalani","author_amereservant","author_amichel","author_andrea-garelli","author_andrey","author_anudu","author_arnaud","author_artz","author_atrioom","author_babar","author_ballenato","author_bart-braem","author_ben-spicer","author_ben-wilson","author_benjamin-swatek","author_bertsimons","author_bharat","author_bic","author_blue-dragonfly","author_Bob03","author_brecht","author_bthj","author_c32","author_carl-chan","author_cary-de-guzman","author_cbraymen","author_chillifrei64","author_chris-s","author_christue","author_ciaran-gultnieks","author_citron","author_coach777","author_cyril42e","author_d4gurasu","author_dani","author_daniel-toffee","author_darrelld","author_david-wehrs","author_davosmith","author_dbogen","author_dean-moses","author_desgphoto","author_divan","author_djdevine","author_djmonta","author_dmwarren","author_doctor-kru","author_dpeterson","author_draekko","author_echza","author_einar-egilsson","author_emieza","author_epsilon","author_falstaff84","author_fanda","author_fat","author_fatman","author_fetard","author_fmontes","author_fogoh","author_fooforge","author_frankm","author_fretzl","author_gdodinet","author_gjr","author_gregb34","author_haroon310","author_hgtrung","author_hinrik","author_hucste","author_hyp3rlinx","author_iacchi","author_iliyangochev","author_invarbrass","author_itaymesh","author_j916","author_jake-olefsky","author_jakob-friis","author_jammon","author_janez-sinkovec","author_jason-hsu","author_jerome-blion","author_jesdnissen","author_jimbrown","author_jjl","author_joshduck","author_jovant","author_jpcert","author_jphilbert","author_jsumners","author_julienvdg","author_jvanderb","author_kagutsuchi","author_kevin-deldycke","author_kevinsk","author_kieran","author_kilroy","author_krainbolt","author_la0c00n","author_laurent","author_le-kevin","author_lee","author_levi-buzolic","author_libelle","author_lilpeck","author_lokkju","author_luckyspin","author_ludgerh","author_mammlouk","author_mannkind","author_manuel-garcia-cardenas","author_marcel-spijker","author_markrh","author_martin-svendsen","author_martinkroul","author_max-plante","author_maxslug","author_mem0-com","author_michal-rusina","author_micheall","author_michel-gagnon","author_mightyhitter","author_mikeque","author_milligan","author_mironb","author_misterbrandt","author_mlodszy","author_momo-i","author_mr-sheep","author_mrskhris","author_myspew","author_n00bism","author_navaid-zafar-ansari","author_nheiniger","author_nic-walsh","author_nicx","author_nikolay-tonev","author_nils-k-windisch","author_nimbuz","author_noscope","author_offrench","author_oliver-dietz","author_omatzyo","author_onetoomany","author_ozh","author_papyrus","author_paulbuhtab","author_petersendidit","author_phase2","author_pheno7","author_photogabble","author_pim-rijpsma","author_pischla","author_raging-goblin","author_rakaz","author_ralf-kerkhoff","author_RB26","author_reine-k","author_richard-castellanos","author_richard-laskey","author_rlerdorf","author_rui-cruz","author_sagasw","author_sbillard","author_seroxatmad","author_simbul","author_simounet","author_soumenb","author_spelth","author_sphoto","author_stephane-angoulvant","author_subjunk","author_tangorn","author_tenzer","author_thany","author_the-whole-life-to-learn","author_thinkdreams","author_tim-coen","author_timo","author_titou","author_trisweb","author_tunafish","author_ulfben","author_unrealdtc","author_vikaskbh","author_vincent","author_vincent3569","author_vpas","author_wildstray","author_willhamilton","author_winfredwan","author_wongm","author_wurzel555","author_yaourt","auto_backup","autor_fretzl","autor_martin-svendsen","backend","backup","bandcamp","bbcode","Bit.ly","blocking","blog","bootstrap","bower","branding","browser","Buffer","bulkedit","button","buttons","bxslider","cache","caching","calendar","captcha","chmod","class-anyfile","class-webdocs","classes","cleanup","client","clone","cms","code","code-highlighting","codeblocks","coding","codrops","colorbox","colors","combinews","comment","comments","comments-form","compass","configuration","constants","contact-form","content","content macro","content macros","contributor","cookbook","cookies","coppermine","copying","cropping","css","css3","custom maps","custom size images","custom-menu","customisation","cycle2","daily summary","dailymotion","database","date","day archive","debug","default images","Delicious","Deprecated","deprecated-functions","description","develop","development","Digg","digitalocean","disqus","docker","documentation","dokuwiki","domain","download","download manager","downloadlist","dreamhost","dropdown-menu","dynamic-album","e-commerce","e-mail","e107-autogallery","eaccelerator","editor","elfinder","email-newuser","embed","EPS","error","errors","EU cookie law","Evernote","exif","export","extension","extension-abandoned","external","face-tags","facebook","facebook-activity","facebook-recommendations","favorites","featured image","features","federated_logon","feed","file browser","file download","file system","filename","files","filter","fla","flash","flickr","flowplayer-3","flowplayer-5","fluid-layout","flv","folder","folders","form","forum","front end edit","ftp","full image","functions","galleria","galleriffic","gallery","gallery2","gallery3","GDlibary","geocode","geotagging","geshi","gestures","gettext","ghostscript","git","GitHub","global variable","globals","glossary","google","google fonts","google-analytic","google-maps","GoogleAdsense","googlecheckout","GoogleMaps","googleplus","GPS","gravator","grunt","guide","HiDPI","histogram","hitcounter","honey-pot","host","hosted_extension","hotlinking","htaccess","html","html_cache","html5","http_auth","image","image processor","image-browsing","image-rotation","image-size","imagemagick","images","imagick","import","infinite scroll","infinite-scroll","install","install helpers","installation","installing","integration","internationalization","iOS","IP","IP address","iPad","iphone","iptc","javascript","jpegtran","jplayer","jquery","jquery ui","jquery-masonry","jquerymobile","jshint","json","keyboard","keyboard-navigation","l18n","language","languages","latest-albums","latest-images","LDAP","lightroom","lighttpd","limits","Linkedin","Linux","Livejournal","locale","localization","login","logo","m4a","m4v","macro","macros","magic_quotes","mail","mailing-list","mailman","maintainance","maps","Markdown","markup","masonry","massedit","media","mediaelement.js","mediawiki","memory","menu","meta","metadata","Microsoft Active Directory","migration","minify","mobile","mod_rewrite","modrewrite","movie","movies","Moving","mp3","mp4","multilingual","multimedia","mysql","navigation","news","nginx","NoCaptcha","Norwegian","object","object model","object-orientation","objects","ogg","ogv","open graph","OpenLDAP","OpenStreetMap","optimization","ordering","pages","pagination","password","path","paypal","pdf","perl","permissions","phone","photos","php","php-cache-libary","php5","phpbb","phpinfo","picturefill","Pinterest","piwigo","player","playlist","plugin","plugins","pluginsupport_archive_calendar","pluginsupport_colorbox","pluginsupport_comment_form","pluginsupport_contact_form","pluginsupport_dynamic-locale","pluginsupport_favoriteshandler","pluginsupport_featured_image","pluginsupport_flag_language_selector","pluginsupport_flag_thumbnail","pluginsupport_GoogleMap","pluginsupport_gslideshow","pluginsupport_hitcounter","pluginsupport_image_album_statistics","pluginsupport_jcarousel_thumb_nav","pluginsupport_menu_manager","pluginsupport_multiple_layouts","pluginsupport_paged_thumbs_nav","pluginsupport_print_album_menu","pluginsupport_printusersizeimage","pluginsupport_rating","pluginsupport_register_user","pluginsupport_related_items","pluginsupport_rss","pluginsupport_shutterfly","pluginsupport_slideshow","pluginsupport_user_login-out","pluginsupport_viewer_size_image","pluginsupport_zenpage-a-cms-plugin-for-zenphoto","pluginsupport_zpdisqus","Pocket","poedit","Polish","posts","precache","preload","preloading","privacy","proof","proofsheet","protection","publishing","python","quota","rating","reCaptcha","recommendations","redirect","register","related-items","release","renaming","repository","requirements","resizing","resp","responsive","responsive-layout","rest-api","restore","retina","retina-images","reverse-geocode","rewrite","rewrite rules","rewrite-rules","rights","rotating","rss","rss cache","safe mode","search","security","security-logger","seo","server","server crash","server move","setup","sharing","shop","shopping-cart","shortcodes","shorttags","show_not_logged-in","showcase","showcase_partly-zenphoto","showcase_zenphoto-only","showcase_zenphoto-with-zenpage-cms-plugin","simplescripts","site","sitemap","sitemap cache","skeleton","skin","slider","slideshare","slideshow","social","social media","social network","social networks","social sharing","social-networks","socialmedia","sorting","soundcloud","spam","spam-filter","statistics","subpages","swipe gestures","symlinks","sync","synchronize","syncing","syntax","syntax-highlighting","tables","tablet","tag-suggest","tags","testing","text","texteditor","textobject","theme","theme_officially-supported","theme_unsupported-3rd-party-external","theme_unsupported-3rd-party-hosted","theme_unsupported-hosted","theme_unsupported-unavailable","theme-compatible","theme-not-compatible","theme-partly-compatible","themes","themeswitcher","theming","thickbox","third party","thumb","thumbnail","thumbnails","thumbs","tiff","tiny_mce","tiny_zenpage","tinymce","tinyzenpage","tips","titlelink","toolbox","top-voted-albums","top-voted-images","touch gestures","translation","tumblr","tutorial","tweet","tweet_news","twitter","twitter-feed","Unix","unpublish","update","upgrade","upgrading","upload","uploader","uploads","url","url shortener","user","user_login-out","user-expiry","user-groups","usermanagement","users","vagrant","variable","variables","verify","video","video thumbs","videos","vimeo","virtual machine","VirtualBox","visibility","voting","vserver","watermarks","whatsapp","windows","wordpress","Xing","xml","xmp","yanzen","youtube","zenpage","zenpage-news","zenpage-pages","Zenphoto sites","zenphoto-layouts","zenphoto-org","zip","zoom","zp_assistant-developer","zp_chief-developer","zp_chief-tester","zp_chinese-translator","zp_contributor","zp_czech-translator","zp_danish-translator","zp_developer","zp_dutch-translator","zp_facebook","zp_forum-moderator","zp_founder","zp_french-translator","zp_galician-translator","zp_german-translator","zp_google+","zp_hebrew-translator","zp_italian-translator","zp_japanese-translator","zp_norwegian-translator","zp_polish-translator","zp_project-leader","zp_russian-translator","zp_serbian-translator","zp_server-admin","zp_slovenian-translator","zp_slowak-translator","zp_spanish-translator","zp_swedish-translator","zp_team_member-former","zp_team-member","zp_team-member-former","zp_twitter","zpbase"];
 		$(function() {
 			$('#search_input, #edit-editable_4, .tagsuggest').tagSuggest({separator: ',', tags: _tagList})
 		});
 		// ]]> -->
 	</script>
+		<link rel="stylesheet" href="http://www.zenphoto.org/plugins/scriptless-socialsharing/style.min.css" type="text/css">
 			<link href="/zp-core/zp-extensions/jplayer/skin/blue.monday/jplayer.blue.monday.css" rel="stylesheet" type="text/css">
 		<script type="text/javascript" src="/zp-core/zp-extensions/jplayer/js/jquery.jplayer.min.js"></script>
 				<script type="text/javascript" src="/zp-core/zp-extensions/rating/jquery.MetaData.js"></script>
@@ -49,25 +75,22 @@
 		</script>
 		<meta http-equiv="Cache-control" content="no-cache">
 <meta http-equiv="pragma" content="cache">
-<meta name="description" content="Website Visitors
-Like most website operators, Zenphoto.org collects non-personally-identifying information of the sort that web browsers and servers typically">
-<meta name="generator" content="Zenphoto 1.4.13">
-<meta name="expires" content="Sat, 26 Nov 2016 01:02:42 GMT">
-<meta property="og:title" content="Privacy - Zenphoto - The simpler media website CMS">
+<meta name="description" content="Our website may be used without entering personal information. Different rules may apply to certain services on our site, however, and are explained separately">
+<meta name="generator" content="Zenphoto 1.4.14">
+<meta name="expires" content="Fri, 24 Nov 2017 18:09:39 +0100 GMT">
+<meta property="og:title" content="Data Privacy Policy - Zenphoto - The simpler media website CMS">
 <meta property="og:image" content="http://www.zenphoto.org/themes/zenphoto-theme/images/logo-button-light-hires.png">
-<meta property="og:description" content="Website Visitors
-Like most website operators, Zenphoto.org collects non-personally-identifying information of the sort that web browsers and servers typically">
-<meta property="og:url" content="http://www.zenphoto.org/pages/privacy/">
+<meta property="og:description" content="Our website may be used without entering personal information. Different rules may apply to certain services on our site, however, and are explained separately">
+<meta property="og:url" content="http://www.zenphoto.org/pages/data-privacy-policy/">
 <meta property="og:type" content="article">
 <meta name="twitter:creator" content="zenphotocms">
 <meta name="twitter:site" content="zenphotocms">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Privacy - Zenphoto - The simpler media website CMS">
-<meta name="twitter:description" content="Website Visitors
-Like most website operators, Zenphoto.org collects non-personally-identifying information of the sort that web browsers and servers typically">
+<meta name="twitter:title" content="Data Privacy Policy - Zenphoto - The simpler media website CMS">
+<meta name="twitter:description" content="Our website may be used without entering personal information. Different rules may apply to certain services on our site, however, and are explained separately">
 <meta name="twitter:image" content="http://www.zenphoto.org/themes/zenphoto-theme/images/logo-button-light-hires.png">
-<link rel="canonical" href="http://www.zenphoto.org/pages/privacy/">
-		<title>Privacy | Legal stuff | Zenphoto - The simpler media website CMS</title>
+<link rel="canonical" href="http://www.zenphoto.org/pages/data-privacy-policy/">
+		<title>Data Privacy Policy | Zenphoto - The simpler media website CMS</title>
 		<meta charset="UTF-8">
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta name="author" content="The Zenphoto team and contributors">
@@ -112,20 +135,6 @@ Like most website operators, Zenphoto.org collects non-personally-identifying in
 					$(this).val('');
 				});
 			});
-
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-191896-2']);
-			_gaq.push(['_trackPageview']);
-
-			(function() {
-				var ga = document.createElement('script');
-				ga.type = 'text/javascript';
-				ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(ga, s);
-			})();
-			
 		</script>
 	</head>
 	<body id="top">
@@ -136,7 +145,7 @@ Like most website operators, Zenphoto.org collects non-personally-identifying in
 					<li><a href="/pages/get-involved/" title="Get involved">Get involved</a></li>
 					<li><a href="#stay-tuned" title="Get involved!">Stay tuned!</a></li>
 					<li><a href="/pages/paid-support/" title="Paid support">Paid support</a></li>
-					<li><a class="sponsors" href="/hosting" title="Hosting">Hosting</a></li>
+					<li><a class="sponsors" href="/sponsors/" title="Sponsors">Sponsors</a></li>
 				</ul>
 				<div id="header_logo">
 					<h1 id="logo"><a href="/"><img src="/themes/zenphoto-theme/images/logo-new.png" alt="Zenphoto"><span>Zenphoto</span></a></h1>
@@ -148,10 +157,10 @@ Like most website operators, Zenphoto.org collects non-personally-identifying in
 					<li><a href="/">Download</a></li>
 					<li>
 						<a href="/news">News</a></li>
-					<li><a href="/demo">Demo</a></li>
+					<li><a href="http://demo.zenphoto.org" target="_blank">Demo</a></li>
 					<li><a href="/screenshots/">Screenshots</a></li>
 					<li><a href="/news/category/user-guide">User Guide</a></li>
-					<li><a href="/support" title="Zenphoto forum">Forum</a></li>
+					<li><a href="http://forum.zenphoto.org" title="Zenphoto forum">Forum</a></li>
 					<li><a href="/theme/">Themes</a></li>
 					<li><a href="/news/category/extensions">Extensions</a></li>
 					<li><a href="/showcase/">Showcase</a></li>
@@ -215,11 +224,15 @@ Like most website operators, Zenphoto.org collects non-personally-identifying in
 								</div>
 		</form>
 	</div><!-- end of search form -->
-					<!-- <hr /> -->
-											<hr>
+				<hr>
 								<p class="ad-headline">Advertisements</p>
-															<a target="_top" href="http://www.zenphoto.org/pages/advertise" title="Advertise"><img class="sponsor-platinum sponsor-platinum-first" src="/albums/storage/sponsor-placeholders/sponsorpalladium-placeholder-ad.gif" alt="Advertise" width="275" height="130"></a>
-												<a target="_top" href="http://www.zenphoto.org/pages/advertise" title="Advertise"><img class="sponsor-platinum" src="/albums/storage/sponsor-placeholders/sponsorpalladium-placeholder-ad.gif" alt="Advertise" width="275" height="130"></a>
+											<div class="sponsor-palladium sponsor-palladium-first"><span style="display:block;width:275px;height:183px;" class="textobject"><div style="display: block; position: relative; text-align: center !important ;width: 275px; height: 130px; line-height: 11px; font-size: 11px;">
+	<a href="https://www.hostpapa.ca/zenphoto-hosting.html?utm_source=zenphoto.org&amp;utm_medium=referral&amp;utm_campaign=canada-seo&amp;utm_term=zenphoto-web-hosting&amp;utm_term=homepage">
+		<img src="http://www.zenphoto.org/albums/sponsors/palladium/hp-zenphoto-275x115.jpg" alt="Zenphoto hosting from HostPapa">
+	</a>
+	<p><a href="https://www.hostpapa.ca/zenphoto-hosting.html?utm_source=zenphoto.org&amp;utm_medium=referral&amp;utm_campaign=canada-seo&amp;utm_term=zenphoto-web-hosting&amp;utm_term=homepage">Zenphoto hosting</a> from HostPapa</p>
+</div></span></div>
+																		<a target="_top" href="/pages/advertise/" title="Advertise"><img class="sponsor-platinum sponsor-platinum-first" src="/albums/storage/sponsor-placeholders/sponsorpalladium-placeholder-ad.gif" alt="Advertise" width="275" height="130"></a>
 						<hr>			<div class="infobox paidsupport">
 				<img src="/themes/zenphoto-theme/images/icon-forum.png" alt="">
 				<h3>Need project help?</h3>
@@ -230,146 +243,282 @@ Like most website operators, Zenphoto.org collects non-personally-identifying in
 			<div class="infobox">
 				<h3>Like using Zenphoto? Donate!</h3>
 				<p>Your support helps pay for this server, and helps development of zenphoto. Thank you!</p>
-				<p>Visit the <a href="http://www.zenphoto.org/pages/donations">donations page</a></p>
+				<p>Visit the <a href="/pages//" title="donations page">donations page</a></p>
 			</div>
 							<div class="infobox">
 					<h3>Share!</h3>
 						<ul class="scriptless_socialsharing">
-			</ul>
+					<li>
+				<a class="sharingicon-facebook-f" href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.zenphoto.org%2Fpages%2Fdata-privacy-policy%2F" title="facebook" target="_blank">
+					facebook				</a>
+			</li>
+								<li>
+				<a class="sharingicon-twitter" href="https://twitter.com/intent/tweet?text=Data+Privacy+Policy&amp;via=zenphotocms&amp;url=http%3A%2F%2Fwww.zenphoto.org%2Fpages%2Fdata-privacy-policy%2F" title="Twitter" target="_blank">
+					Twitter				</a>
+			</li>
+								<li>
+				<a class="sharingicon-google-plus" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.zenphoto.org%2Fpages%2Fdata-privacy-policy%2F" title="Google+" target="_blank">
+					Google+				</a>
+			</li>
+						</ul>
 					</div>
 				
 </div>
 <div id="content">
-			    		<h2><a href="/pages/legal-stuff/">Legal stuff</a></h2> 
-    		<h3 class="entrytitle">Privacy</h3>
+			    		<h2 class="entrytitle">Data Privacy Policy</h2>
     	    	<!-- <ol id="toc" class="table_of_content_list"></ol> -->
   		<div class="entrybody">
   			<span id="entrybody">
-  		 	<h4>Website Visitors</h4>
-<p>Like most website operators, Zenphoto.org collects
-non-personally-identifying information of the sort that web
-browsers and servers typically make available, such as the browser
-type, language preference, referring site, and the date and time of
-each visitor request. Zenphoto.org's purpose in collecting
-non-personally identifying information is to better understand how
-Zenphoto.org's visitors use its website. From time to time,
-zenphoto.org may release non-personally-identifying information in
-the aggregate, e.g., by publishing a report on trends in the usage
-of its website.<br>
-Zenphoto.org also collects potentially personally-identifying
-information like Internet Protocol (IP) addresses. Zenphoto.org
-does not use such information to identify its visitors, however,
-and does not disclose such information, other than under the same
-circumstances that it uses and discloses personally-identifying
-information, as described below.</p>
-<h4>Gathering of Personally-Identifying Information</h4>
-<p>Certain visitors to Zenphoto.org's websites choose to interact
-with Zenphoto.org in ways that require Zenphoto.org to gather
-personally-identifying information. The amount and type of
-information that Zenphoto.org gathers depends on the nature of the
-interaction. For example, we ask visitors who use our forums or
-Trac ticket system to provide a username and email address. In each
-case, Zenphoto.org collects such information only insofar as is
-necessary or appropriate to fulfill the purpose of the visitor's
-interaction with Zenphoto.org. Zenphoto.org does not disclose
-personally-identifying information other than as described below.
-And visitors can always refuse to supply personally-identifying
-information, with the caveat that it may prevent them from engaging
-in certain website-related activities.</p>
-<h4>Aggregated Statistics</h4>
-<p>Zenphoto.org may collect statistics about the behavior of
-visitors to its websites. For instance, Zenphoto.org may reveal how
-many downloads a particular version go. However, Zenphoto.org does
-not disclose personally-identifying information other than as
-described below.</p>
-<h4>Protection of Certain Personally-Identifying Information</h4>
-<p>Zenphoto.org discloses potentially personally-identifying and
-personally-identifying information only to those of its employees,
-contractors, and affiliated organizations that (i) need to know
-that information in order to process it on Zenphoto.org's behalf or
-to provide services available at Zenphoto.org's websites, and (ii)
-that have agreed not to disclose it to others. Some of those
-employees, contractors and affiliated organizations may be located
-outside of your home country; by using Zenphoto.org's websites, you
-consent to the transfer of such information to them. Zenphoto.org
-will not rent or sell potentially personally-identifying and
-personally-identifying information to anyone. Other than to its
-employees, contractors, and affiliated organizations, as described
-above, Zenphoto.org discloses potentially personally-identifying
-and personally-identifying information only when required to do so
-by law, or when Zenphoto.org believes in good faith that disclosure
-is reasonably necessary to protect the property or rights of
-Zenphoto.org, third parties, or the public at large. If you are a
-registered user of a Zenphoto.org website and have supplied your
-email address, Zenphoto.org may occasionally send you an email to
-tell you about new features, solicit your feedback, or just keep
-you up to date with what's going on with Zenphoto.org and our
-products. We primarily use our blog to communicate this type of
-information, so we expect to keep this type of email to a minimum.
-If you send us a request (for example via a support email or via
-one of our feedback mechanisms), we reserve the right to publish it
-in order to help us clarify or respond to your request or to help
-us support other users. Zenphoto.org takes all measures reasonably
-necessary to protect against the unauthorized access, use,
-alteration, or destruction of potentially personally-identifying
-and personally-identifying information.</p>
+  		 	<p>Our website may be used without entering personal information.
+Different rules may apply to certain services on our site, however,
+and are explained separately below. We collect personal information
+from you (e.g. name, address, email address, telephone number,
+etc.) in accordance with the provisions of German data protection
+statutes. Information is considered personal if it can be
+associated exclusively to a specific natural person. The legal
+framework for data protection may be found in the German Federal
+Data Protection Act (BDSG) and the Telemedia Act (TMG). The
+provisions below serve to provide information as to the manner,
+extent and purpose for collecting, using and processing personal
+information by the provider.</p>
+<p><strong>Malte Müller</strong>
+<strong>malte@zenphoto.org</strong></p>
+<p>Please be aware that data transfer via the internet is subject
+to security risks and, therefore, complete protection against
+third-party access to transferred data cannot be ensured.</p>
 <h4>Cookies</h4>
-<p>A cookie is a string of information that a website stores on a
-visitor's computer, and that the visitor's browser provides to the
-website each time the visitor returns. Zenphoto.org uses cookies to
-help Zenphoto.org identify and track visitors, their usage of
-Zenphoto.org website, and their website access preferences.
-Zenphoto.org visitors who do not wish to have cookies placed on
-their computers should set their browsers to refuse cookies before
-using Zenphoto.org's websites, with the drawback that certain
-features of Zenphoto.org's websites may not function properly
-without the aid of cookies.</p>
-<h4>Privacy Policy Changes</h4>
-<p>Although most changes are likely to be minor, Zenphoto.org may
-change its Privacy Policy from time to time, and in Zenphoto.org's
-sole discretion. Zenphoto.org encourages visitors to frequently
-check this page for any changes to its Privacy Policy. Your
-continued use of this site after any change in this Privacy Policy
-will constitute your acceptance of such change.<br>
-<em>This disclaimer is partly based on Wordpress' disclaimer found
-on <a href="http://wordpress.org/about/privacy/">wordpress.org/about/privacy/</a>
-and is licensed under Creative Commons BY-SA <a href="http://creativecommons.org/licenses/by-sa/2.5/">http://creativecommons.org/licenses/by-sa/2.5/</a></em></p>
-<h4>Addition: Google Analytics / Adsense</h4>
-<p>This website uses Google Analytics, a web analytics service
-provided by Google, Inc. (“Google”).&nbsp; Google Analytics uses
-“cookies”, which are text files placed on your computer, to help
-the website analyze how users use the site. The information
-generated by the cookie about your use of the website (including
-your IP address) will be transmitted to and stored by Google on
-servers in the United States . Google will use this information for
-the purpose of evaluating your use of the website, compiling
-reports on website activity for website operators and providing
-other services relating to website activity and internet
-usage.&nbsp; Google may also transfer this information to third
-parties where required to do so by law, or where such third parties
-process the information on Google's behalf. Google will not
-associate your IP address with any other data held by Google.&nbsp;
-You may refuse the use of cookies by selecting the appropriate
-settings on your browser, however please note that if you do this
-you may not be able to use the full functionality of this
-website.&nbsp; By using this website, you consent to the processing
-of data about you by Google in the manner and for the purposes set
-out above.<br>
-<em>(Source: <a href="http://www.google.com/intl/en_uk/analytics/tos.html">http://www.google.com/intl/en_uk/analytics/tos.html</a>)</em><br>
-Also, Zenphoto.org uses Google Adsense service that places and
-reads cookies from vistors' browsers, or using web beacons to
-collect information in the course of ads being serverd to
-Zenphoto.org.<br>
-<em>(Source: <a href="https://www.google.com/adsense/localized-terms">https://www.google.com/adsense/localized-terms</a>)</em></p>
-<h4>Addition II: Hosting/Sponsor ads</h4>
-<p>We don't allow any other user tracking advertisements on our
-site besides Google Analytics. All the ads you see on our hosting
-page, front page or other page's sidebar are pure images or html
-text linked to the advertiser's pages. All we do is count the
-clicks on these ads via JavaScript but that does not transfer any
-information from you besides the click. You can read about the
-conditions to advertise here:<br>
-<a href="http://www.zenphoto.org/pages/advertise">http://www.zenphoto.org/pages/advertise</a></p>
+<p>Our website makes use of so-called cookies in order to recognize
+repeat use of our website by the same user/internet connection
+subscriber. Cookies are small text files that your internet browser
+downloads and stores on your computer. They are used to improve our
+website and services. In most cases these are so-called "session
+cookies" that are deleted once you leave our website.</p>
+<p>To an extent, however, these cookies also pass along information
+used to automatically recognize you. Recognition occurs through an
+IP address saved to the cookies. The information thereby obtained
+is used to improve our services and to expedite your access to the
+website.</p>
+<p>You can prevent cookies from being installed by adjusting the
+settings on your browser software accordingly. You should be aware,
+however, that by doing so you may not be able to make full use of
+all the functions of our website.</p>
+<h4>Server Data</h4>
+<p>For technical reasons, data such as the following, which your
+internet browser transmits to us or to our web space provider (so
+called server log files), is collected: - type and version of the
+browser you use - operating system - websites that linked you to
+our site (referrer URL) - websites that you visit - date and time
+of your visit - your Internet Protocol (IP) address. This anonymous
+data is stored separately from any personal information you may
+have provided, thereby making it impossible to connect it to any
+particular person. The data is used for statistical purposes in
+order to improve our website and services.</p>
+<h4>Purpose of Registering</h4>
+<p>We offer you the opportunity to sign up for our website. The
+information entered when signing up, as shown in the registration
+form</p>
+<p><strong>User name and email address</strong></p>
+<p>is collected and stored solely for use by our website. When
+signing up for our website, we also store your IP address and the
+date and time you registered. This serves to protect us in the
+event a third party improperly and without your knowledge makes use
+of your data to sign up for our site.&nbsp;None of this information
+is transferred to third parties. Nor is any of this information
+matched to any information that may be collected by other
+components of our website.</p>
+<h4>Contacting Us</h4>
+<p>On our website we offer you the opportunity to contact us,
+either by email and/or by using a contact form. In such event,
+information provided by the user is stored for the purpose of
+facilitating communications with the user. No data is transferred
+to third parties. Nor is any of this information matched to any
+information that may be collected by other components of our
+website.</p>
+<h4>Posting Comments</h4>
+<p>On our website we offer you the opportunity to post comments
+about individual articles. For this purpose, the IP address of the
+user/internet connection subscriber is stored. This information is
+stored for our security in the event the author through his/her
+comments infringes against third party rights and/or unlawful
+content is entered. Consequently, we have a direct interest in the
+author’s stored data, particularly since we may be potentially
+liable for such violations. No data is transferred to third
+parties. Nor is any of this information matched to any information
+that may be collected by other components of our website.</p>
+<h4>Use of reCAPTCHA</h4>
+<p>In order to protect input forms on our site, we use the
+“reCAPTCHA” service of Google Inc., 1600 Amphitheatre Parkway,
+Mountain View, CA 94043 USA, hereinafter "Google." By means of this
+service it can be distinguished whether the corresponding input is
+of human origin or is created improperly by automated machine
+processing.</p>
+<p>To our knowledge, the referrer URL, the IP address, the
+behaviour of the website visitors, information about the operating
+system, browser and length of stay, cookies, display instructions
+and scripts, user input behaviour and mouse movements in the
+“reCAPTCHA” checkbox are conveyed to “Google.”</p>
+<p>Google uses the information obtained, among other things, to
+digitize books and other printed matter as well as to optimize
+services such as Google Street View and Google Maps (e.g. house
+number and street name recognition).</p>
+<p>The IP address provided as part of “reCAPTCHA” is not merged
+with other data from Google unless you are logged into your Google
+Account at the time the "reCAPTCHA" plug-in is used. If you want to
+prevent this transmission and storage of data by “Google” about you
+and your behaviour on our website, you must log out of “Google”
+before you visit our site or before using the reCAPTCHA
+plug-in.</p>
+<p>The use of the “reCAPTCHA” service is according to the Google
+Terms of Use:&nbsp;</p>
+<p><a href="https://www.google.com/intl/de/policies/privacy/" target="_blank" rel="nofollow noopener noreferrer">https://www.google.com/intl/de/policies/privacy/</a>.</p>
+<h4>Use of the web analysis service PIWIK</h4>
+<p>Our website uses the web analysis service PIWIK. To carry out
+this analysis, PIWIK uses cookies. Cookies are small text files
+that are stored to your computer and provide analysis of your use
+of the site. The information generated by these cookies, such as
+time, place and frequency of your visits to our site, including
+your IP address, are transmitted to our PIWIK server and stored
+there. As part of this process, you IP address is immediately
+anonymized so that you as user remain anonymous to us. The
+information generated by the cookie about your use of this site is
+not transferred to third parties. You can prevent cookies from
+being installed by adjusting the settings on your browser software
+accordingly. You should be aware, however, that by doing so you may
+not be able to make full use of all the functions of our
+website.</p>
+<p>Should you be unwilling to have this data about your use of the
+site stored and analyzed, you may at any time subsequently withdraw
+your consent to it being stored and used with a click of the mouse.
+A so-called opt-out cookie is then placed on your browser, and as a
+result Piwik will no longer collect any data on your
+visits.&nbsp;Please be aware that, should you delete cookies from
+your browser settings, the opt-out cookie from PIWIK may also be
+deleted and will need to be reactivated.</p>
+<p><iframe style="border: 0; height: 200px; width: 100%;" src="http://stats.zenphoto.org/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=en">
+</iframe></p>
+<h4>Use of YouTube components with enhanced data protection
+mode</h4>
+<p>On our website we use components (videos) of YouTube, LLC 901
+Cherry Ave., 94066 San Bruno, CA, USA, a company belonging to
+Google Inc., Amphitheatre Parkway, Mountain View, CA 94043,
+USA.</p>
+<p>To this end, we use the “ - enhanced data protection mode - ”
+option provided by YouTube.</p>
+<p>When you display a page that has an embedded video, a connection
+will be made to the YouTube server and the content will appear on
+the website via a communication to your browser.</p>
+<p>According to the information provided by YouTube, in “ -
+enhanced data protection mode -”, data is only transferred to the
+YouTube server, in particular which of our websites you have
+visited, if you watch the video. If you are logged onto YouTube at
+the same time, this information will be matched to your YouTube
+member account. You can prevent this from happening by logging out
+of your member account before visiting our website.</p>
+<p>Further information about data protection by YouTube is provided
+by Google under the following link:</p>
+<p><a href="https://www.google.de/intl/de/policies/privacy/" target="_blank" rel="nofollow noopener noreferrer">https://www.google.de/intl/de/policies/privacy/</a></p>
+<h4>Use of Vimeo components</h4>
+<p>We use Vimeo components on our site.&nbsp; Vimeo is a service of
+Vimeo LCC, 555 West 18th Street, New York, New York 10011, USA.
+Whenever you visit our website, which is equipped with such a
+component, this component causes the browser you are using to
+download a corresponding display of the Vimeo component. When you
+visit our site and are at the same time logged into Vimeo, Vimeo
+recognizes by means of the information collected by the component,
+which specific page you are visiting and assigns this information
+to your personal account at Vimeo. If, for example, you click on
+the “Play” button or make comments, this information will be
+conveyed to your personal user account at Vimeo and stored there.
+In addition, the information that you have visited our site will be
+passed on to Vimeo. This is done regardless of whether you click on
+the component/comment or not.</p>
+<p>If you want to prevent this transmission and storage of data by
+Vimeo about you and your behaviour on our website, you must log out
+of Vimeo before you visit our site. Vimeo’s Privacy Policy provides
+more detailed information concerning this, in particular regarding
+the collection and use of data by Vimeo: <a href="https://vimeo.com/privacy">https://vimeo.com/privacy</a></p>
+<h4>Use of affilinet tracking cookies</h4>
+<p>Our website employs affilinet tracking cookies in order to
+correctly record sales and/or leads. Cookies are small text files
+that are saved to your computer when you visit a website. These
+affilinet tracking cookies do not store personal data of any kind.
+Instead, it only collects the identification number of the
+intermediary partner as well as the reference number of the
+advertising material that was clicked on by the visitor to the
+website. This information is required in order to process the
+payment transaction between the website operator and the
+advertiser. The partner identification number serves to designate
+the intermediary partner to which a commission is to be paid once a
+transaction has been concluded. You can prevent cookies from being
+installed by adjusting the settings on your browser software
+accordingly. You should be aware, however, that by doing so you may
+not be able to make full use of all the functions of our
+website.&nbsp;</p>
+<h3>Information/Cancellation/Deletion</h3>
+<p>On the basis of the Federal Data Protection Act, you may contact
+us at no cost if you have questions relating to the collection,
+processing or use of your personal information, if you wish to
+request the correction, blocking or deletion of the same, or if you
+wish to cancel explicitly granted consent. Please note that you
+have the right to have incorrect data corrected or to have personal
+data deleted, where such claim is not barred by any legal
+obligation to retain this data.</p>
+<p><a href="https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html" target="_blank" rel="noopener noreferrer">Sample Data Privacy
+Policy Statement</a> provided by the <a href="https://www.ratgeberrecht.eu/" target="_blank" rel="noopener noreferrer">Law Offices of Weiß &amp; Partner</a></p>
+<h4>Appendix: Contributor pages</h4>
+<p>We always create such a page for you if an extension or theme is
+listed on our site or if you contribtuted any significant fix/patch
+to a release. We differ three main categories that are listed on
+our <a href="/pages/about-us">"About us" section</a>:</p>
+<ul>
+<li><a href="/pages/zenphoto-team"><strong>Official and active team
+members</strong></a> (this traditionally includes our regular
+translators)</li>
+<li><a href="/pages/former-team-members"><strong>Former team
+members</strong></a></li>
+<li><a href="/pages/contributors"><strong>Contributors</strong></a></li>
+</ul>
+<p>Of course we don’t expose any data or info you haven’t published
+yourself in public already via your contributions like on GitHub,
+our forum or your third party theme or plugin itself. Needless to
+say, you can request changes or even have your page removed at any
+time. We don’t and won’t use your data for anything else.</p>
+<p>This is what we list:</p>
+<ul>
+<li><strong>Screen name:</strong>&nbsp;The alias or screen name you
+appeared to us via e.g. the forum, GitHub or&nbsp;our&nbsp;your
+third party theme or plugin itself.</li>
+<li><strong>Real name:</strong>&nbsp;If we know that via your
+contributions or website.</li>
+<li><strong>Website:&nbsp;</strong>If we know it. Can be a GitHub
+page or social media profile as well.</li>
+<li><strong>Short description:</strong>&nbsp;Only used for active
+or former team members who provided it themselves.</li>
+</ul>
+<p>Additionally we automatically list all&nbsp;<strong>plugins,
+themes or releases</strong>&nbsp;you ever contributed to and that
+have entries on our site. We can do that because all your entries
+are assigned by a special tag <em>author_&lt;screen name&gt;</em>.
+You can see that tag below each extension entry (on themes we don't
+list tags specifcally).</p>
+<p>We have done that for quite some time already to show the "More
+by author" below each theme or extension entry.&nbsp;<em>&lt;screen
+name&gt;</em>&nbsp;is also the name of your page in the url
+(titlelink).&nbsp;Also, every theme or extension entry now has a
+box that lists its authors and links to each profile page.</p>
+<p>Again, the Zenphoto team will not use the information you enter
+for anything else than what you see:</p>
+<ol>
+<li>Showcase and credit your contributions.</li>
+<li>Gather general statistics of contributions&nbsp;to satisfy our
+and your curiosity.</li>
+<li>Easier maintenance of author credits as we don’t have to change
+multiple entries if a user name or website link changes.</li>
+<li>You will never get advertisement mass mails or anything
+else.</li>
+<li>We will never give your data to third parties or use it for
+commercial purposes.</li>
+</ol>
 <p>&nbsp;</p>  		 	  		 	</span>
   		</div>
 
@@ -392,9 +541,10 @@ conditions to advertise here:<br>
 			<li><a href="/index.php?rss=gallery&amp;folder=screenshots">Screenshots	and screencasts</a></li>
 			<li><a href="/index.php?rss=gallery&amp;folder=theme&amp;albumsmode&amp;sortorder=latest">Themes</a></li>
 			<li><a href="/index.php?rss=gallery&amp;albumname=showcase">Showcase</a></li>
-			<li><a href="/support/rss.php">Forum</a></li>
+			<li><a href="http://forum.zenphoto.org/discussions/feed.rss">Forum</a></li>
 		</ul>
-		<br>		<h3>Social networks</h3>
+		<br>
+		<h3>Social networks</h3>
 		<ul class="sociallinks">
 		 	<li class="link_twitter"><a href="http://twitter.com/zenphotocms" title="Zenphoto on Twitter">Twitter</a></li>
 			<li class="link_googleplus"><a href="https://plus.google.com/103649195484756812404" rel="publisher">Google+</a></li>
@@ -423,7 +573,7 @@ conditions to advertise here:<br>
 			</ul>
 				<p>
 		Website powered by Zenphoto<br>
-		Forum powered by <a href="http://bbpress.org">bbpress</a>
+		Forum powered by <a href="https://open.vanillaforums.com">Vanilla</a>
 		</p>
 		</div>
 
@@ -443,22 +593,40 @@ conditions to advertise here:<br>
 	 	<br>
 	 	<h3>Legal stuff</h3>
 		<ul class="downloadlinks">
-			<li><a href="/pages/licenses/" title="Licenses">Licenses</a></li>
-			<li><a href="/support/?terms-of-service=display">Forum rules &amp; Terms of service</a></li>
-			<li><a href="/pages/privacy/" title="Privacy">Privacy</a></li>
-			<li><a href="/pages/contributor-profile-page-information/" title="Contributor profile pages info">Contributor profile pages info</a></li>
+			<li><a href="/pages/legal/" title="Legal">Legal</a></li>
+			<li><a href="/pages/forum-terms-of-service/" title="Forum Terms Of Service ">Forum Terms Of Service </a></li>
+			<li><a href="/pages/data-privacy-policy/" title="Data Privacy Policy">Data Privacy Policy</a></li>
 		</ul>
 	 </div>
 </div>
 <br style="clear:both">
 </div>
-		<script>
+			<!-- Piwik -->
+			<script type="text/javascript">
+				var _paq = _paq || [];
+							_paq.push(['trackPageView']);
+				_paq.push(['enableLinkTracking']);
+				(function () {
+					var u = "//stats.zenphoto.org/";
+					_paq.push(['setTrackerUrl', u + 'piwik.php']);
+					_paq.push(['setSiteId', 1]);
+					var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+					g.type = 'text/javascript';
+					g.defer = true;
+					g.async = true;
+					g.src = u + 'piwik.js';
+					s.parentNode.insertBefore(g, s);
+				})();
+			</script>
+			<noscript><p><img src="http://stats.zenphoto.org/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></p></noscript>
+			<!-- End Piwik Tag -->
+					<script>
     window.cookieconsent_options = {
 				message: 'This website uses cookies. By continuing to browse the site, you agree to our use of cookies.',
 				dismiss: 'Agree',
-        learnMore: 'More info',
+        learnMore: 'Privacy Policy',
 				theme: 'http://www.zenphoto.org/plugins/zp_cookieconsent/styles/light-bottom.css',
-        link: '',
+        link: 'http://www.zenphoto.org/pages/data-privacy-policy/',
 				domain: '',
 				expiryDays: 365    };
 		</script>
@@ -466,6 +634,7 @@ conditions to advertise here:<br>
 		
 
 
-<!-- zenphoto version 1.4.13 [5e8b3d9eb0fa57e294b2d88ee24f06889d18b134] THEME: zenphoto-theme (pages.php) GRAPHICS LIB: PHP GD library 2.0 { memory: 384M } PLUGINS: auto_backup cacheManager class-textobject class-video colorbox_js contact_form downloadList exampleMacros flag_thumbnail hitcounter html_meta_tags image_album_statistics jcarousel_thumb_nav jplayer mergedRSS multiple_layouts rating related_items releaseList rss scriptless-socialsharing security-logger site_upgrade sitemap-extended slideshow tag_extras_custom_zporg tag_suggest tinyURL trivialSpam tweet_news userAddressFields zenpage zenphoto_sendmail zpCaptcha zp_cookieconsent  -->
-<!-- Zenphoto script processing end:0.6740 seconds -->
+<!-- zenphoto version 1.4.14 -->
+<!-- Zenphoto script processing end:0.0986 seconds -->
+<!-- Cached content of Fri, 24 Nov 2017 06:09:39 served by static_html_cache in 0.0001 seconds plus 0.0857 seconds unavoidable Zenphoto overhead. -->
 </div></body></html>
