@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluemediafiles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162420id_/http%3A//bluemediafiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemediafiles.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124015146id_/http%3A//bluemediafiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blue Media Files
+# Privacy Policy - Blue Media Files Blue Media Files
 
 When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date.
 
