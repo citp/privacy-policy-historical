@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the versace.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630202828id_/http%3A//www.versace.com/us/en-us/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versace.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124105627id_/http%3A//www.versace.com/us/en-us/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Versace US
 
@@ -12,6 +12,7 @@ This notice is given pursuant to Article 13 of Italian Legislative Decree no. 19
 
 www.versace.com  
 www.versace.cn   
+www.versace.ru   
 www.versacehome.it  
 www.versacehome.com  
 careers.versace.com 
