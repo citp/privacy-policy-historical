@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the accruent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121927id_/http%3A//www.accruent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accruent.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124021702id_/http%3A//www.accruent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=2bad846c-20e2-4674-8f6b-04d76e698093)
 
-_Effective Date: September 21, 2016_
+_Effective Date: October 20, 2017_
 
-This privacy policy describes how Accruent, LLC (“Accruent”) collects and uses the personal information you provide on our Web site: www.accruent.com and through our services: 360Facility and Siterra by Accruent, LLC ("Accruent"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Accruent. We will share your personal information with third parties only in the ways that are described in this Privacy Policy.
+This privacy policy describes how Accruent, LLC (“Accruent”) collects, uses, shares and secures the personal information you provide on our Web site: [www.accruent.com](http://www.accruent.com/), www.bigcenter.com and through our services: 360Facility and Siterra by Accruent, LLC ("Accruent"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Accruent. We will share your personal information with third parties only in the ways that are described in this Privacy Policy.
 
-**EU-U.S. Privacy Shield**
+**EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
 
-Accruent participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Accruent is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
+Accruent participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Accruent is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
 
-Accruent is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Acrruent complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Accruent is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Acrruent complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Accruent is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Accruent may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Accruent is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Accruent may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+We commit to cooperate with the panel established by the EU Data Protection Authorities (DPAs) and/or the Swiss Federal Data Protection and Information Commissioner and comply with the advice given by the panel and/or Commissioner with regard to human resources data transferred from the EU and/or Switzerland in the context of the employment relationship.
 
-Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
-**U.S. - Swiss Safe Harbor Framework**
-
-Accruent complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Accruent has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Accruent’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 **Personal Information We Collect and How We Use It**
 
@@ -48,7 +46,7 @@ We use this information to
 
 
 
-**Service Provider Collection and Use**
+**Accruent as Service Provider: Collection and Use**
 
 Accruent collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes.
 
@@ -58,29 +56,33 @@ If you wish to subscribe to our newsletter(s) or additional marketing communicat
 
 **Service Providers**
 
-We use other third parties such as an email service provider to send out emails on our behalf and an employment management provider and a credit card processing provider to process payments for certain transactions. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service.
+We may share your information with third parties who provide services on our behalf to help with our business activities. We use other third parties such as an email service provider to send out emails on our behalf and an employment management provider and a credit card processing provider to process payments for certain transactions. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 **Legal Disclosure**
 
-As required by law, such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, to any other third party with your prior consent to do so if Accruent is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.  In certain situations, Accruent may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request and to any other third party with your prior consent to do so.
+
+If Accruent is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 **Access to Personal Information**
 
 Upon request, Accruent will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  To request this information please contact your account manager or support representative. 
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by emailing our Customer Support at vang@accruent.com or by contacting us via the postal mail at the contact information listed below.  We will respond to your request for access within 30 days.
+If your personal information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by emailing our Customer Support at support@accruent.com or by contacting us via the postal mail at the contact information listed below.  We will respond to your request for access within 30 days.
+
+**Data Retention**
 
 Accruent will retain personal data we process on behalf of our client for as long as needed provide services to our client. Accruent will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Choice**
 
-We collect information for our Clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.  If you are a Client and would like to update your account please contact us at vang@accruent.com. We will respond to your request within 30 business days.
+We collect information for our Clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.  If you are a Client and would like to update your account please contact us at support@accruent.com. We will respond to your request within 30 business days.
 
 We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
 **Access to Data Controlled by our Clients**
 
-Accruent has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Accruent’s Client (the data controller). If the Client requests Accruent to remove the data, we will respond to their request within 30 business days.
+Accruent acknowledges that you have the right to access your personal information. Accruent has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Accruent’s Client (the data controller). If the Client requests Accruent to remove the data, we will respond to their request within 30 business days.
 
 **Log Files**
 
@@ -88,9 +90,9 @@ As is true of most websites, we gather certain information automatically. This i
 
 **Tracking Technologies**
 
-Accruent and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+Accruent and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other site in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other site in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here ](http://preferences-mgr.truste.com/)(or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 **Google Analytics**
 
@@ -114,17 +116,17 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 **Testimonials**
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at vang@accruent.com.
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at support@accruent.com.
 
 **Public Forums**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at vang@accruent.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@accruent.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Security**
 
 The security of your personal information is important to us. When you enter sensitive information (such as login credentials) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at vang@accruent.com.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@accruent.com.
 
 **Changes to This Privacy Policy**
 
@@ -132,4 +134,4 @@ We may update this privacy policy to reflect changes to our information practice
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at vang@accruent.com or via postal mail at 10801-2 N. Mo-Pac Expressway Suite 400, Austin, TX 78759.
+If you have any questions or suggestions regarding our privacy policy, please contact us at support@accruent.com or via postal mail at 11500 Alterra Parkway, Suite 110, Austin, TX 78758.
