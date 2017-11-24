@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbcoverlover.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034809id_/http%3A//fbcoverlover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbcoverlover.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124093706id_/http%3A//fbcoverlover.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | fbCoverLover
 
