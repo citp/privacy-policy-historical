@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandsforless.ae privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618114021id_/http%3A//www.brandsforless.ae/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsforless.ae privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124015950id_/http%3A//www.brandsforless.ae/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -159,5 +159,5 @@ P.O Box No: 80794, Dubai
 Brands For Less Customer Service   
 Tel: +971 4 8806768  
 Fax: +971 4 8809433   
-E-mail: [customercare@bflgroup.ae](mailto:customercare@bflgroup.ae)  
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#50332523243f3d3522333122351032363c37223f25207e3135)  
 Time: 7:00 am to 5:00pm (Saturday-Thursday) 
