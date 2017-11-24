@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsurf4u.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524182316id_/http%3A//www.socialsurf4u.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsurf4u.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125003508id_/http%3A//www.socialsurf4u.com/privacy-policy.php) for the most accurate reproduction.*
 
 # SocialSurf4U.com | Privacy Policy
 
@@ -16,7 +16,7 @@ SocialSurf4U.com may change this policy from time to time by updating this page.
 In order to use this service a person must register using his or her contact information such as your name, email address and IP address. This information is used to login to use our service and to contact the member regarding our service and or products. Upon registration and each login your IP address is recorded. We use this information to provide our services and features to you, to improve those services, and to provide you with customer support.
 
 **Facebook Account**  
-Should a person login using their Facebook account their email, first name, last name and facebook id is collected to identify their account and to contact them with information regarding our service and or other prducts. A person may choose to opt-out of emails at any time. To permanently remove this information from our site a person can simply delete there account. 
+Should a person login using their Facebook account their email, first name, last name and facebook id is collected to identify their account and to contact them with information regarding our service and or other products. A person may choose to opt-out of emails at any time. To permanently remove this information from our site a person can simply delete there account. 
 
 **Security**  
 We take every precaution to protect our members information. Only the administrator of this website has access to members email address and other information. We do NOT sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
