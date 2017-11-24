@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldtvpc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204345id_/http%3A//www.worldtvpc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtvpc.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124090455id_/https%3A//www.worldtvpc.com/privacy.php) for the most accurate reproduction.*
 
 # Free tv, Internet TV Online, watch World TV on your PC, totally free satellite worldwide internet pc tv portal movies scifi cartoons adult news HDTV PCTV and many more channels
 
-By using this website, you agree to the Privacy Policy of worldtvpc.com. If you do not agree to the Policy, please do not use this site. We review our privacy policy periodically and reserves the right, at our discretion, to modify or remove portions of this policy. Please view this page periodically so that you are updated on any changes made. If you want to contact us regarding our policy, contact us at [sales@worldtvpc.com](mailto:sales@worldtvpc.com)[](mailto:sales@sksservices.co.uk)
+By using this website, you agree to the Privacy Policy of worldtvpc.com. If you do not agree to the Policy, please do not use this site. We review our privacy policy periodically and reserves the right, at our discretion, to modify or remove portions of this policy. Please view this page periodically so that you are updated on any changes made. If you want to contact us regarding our policy, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#186b79747d6b586f776a747c6c6e687b367b7775)[](https://web.archive.org/cdn-cgi/l/email-protection#fa899b969f89ba899189899f888c93999f89d49995d48f91)
 
 worldtvpc.com is an independent guide to streaming media available on the web. We do not provide streaming content ourselves. This site is designed to enable users of personal computers and other consumer electronic devices to easily find and access media content over the Internet.   
 If you make use of this site you agree to respect the rights of the content owners. If not you should leave this site. All links to external sites are opened in a new window.   
@@ -14,7 +14,7 @@ We make every effort to preserve user privacy, however we may need to disclose p
 
 ### Information Collection and Use
 
-worldtvpc.com is operated from the UK. We can be reached by e-mail at [sales@worldtvpc.com](mailto:sales@worldtvpc.com)[](mailto:sales@sksservices.co.uk)
+worldtvpc.com is operated from the UK. We can be reached by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f0c1e131a0c3f08100d131b0b090f1c511c1012)[](https://web.archive.org/cdn-cgi/l/email-protection#295a48454c5a695a425a5a4c5b5f404a4c5a074a46075c42)
 
 We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. InformIT.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
 
@@ -88,17 +88,17 @@ From time-to-time our site requests information from users via surveys or contes
 
 ### E-mail A Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. InformIT.com will automatically send the friend a one-time e-mail inviting them to visit the site. InformIT.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact worldtvpc.com at **[sales@worldtvpc.com](mailto:sales@worldtvpc.com)[](mailto:sales@sksservices.co.uk)** to request the removal of this information from their database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. InformIT.com will automatically send the friend a one-time e-mail inviting them to visit the site. InformIT.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact worldtvpc.com at **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#b2c1d3ded7c1f2c5ddc0ded6c6c4c2d19cd1dddf)[](https://web.archive.org/cdn-cgi/l/email-protection#b1c2d0ddd4c2f1c2dac2c2d4c3c7d8d2d4c29fd2de9fc4da)** to request the removal of this information from their database.
 
 ### Security
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about the security at our web site, you can send an e-mail to [sales@worldtvpc.com](mailto:sales@worldtvpc.com)
+If you have any questions about the security at our web site, you can send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0d7e6c61687e4d7a627f6169797b7d6e236e6260)
 
 ### Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as your e-mail address), or if a user no longer desires our service, we provide a way to correct, update or remove that user's personal data provided to us. This can be done by e-mailing our Customer Support at **[sales@worldtvpc.com](mailto:sales@worldtvpc.com)[](mailto:comments@informit.com)**.
+If a user's personally identifiable information changes (such as your e-mail address), or if a user no longer desires our service, we provide a way to correct, update or remove that user's personal data provided to us. This can be done by e-mailing our Customer Support at **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#25564449405665524a574941515355460b464a48)[](https://web.archive.org/cdn-cgi/l/email-protection#e0838f8d8d858e9493a0898e868f928d8994ce838f8d)**.
 
 ### Choice/Opt-out
 
