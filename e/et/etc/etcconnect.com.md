@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etcconnect.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617121320id_/https%3A//www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etcconnect.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124202651id_/http%3A//www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | ETC
 
