@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregonpatchworks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/OPW/PRIVY.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonpatchworks.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/OPW/PRIVY.php) for the most accurate reproduction.*
 
 # OregonPatchWorks.com Premium Emroidery Mall
 
@@ -19,7 +19,7 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 **_Your Access to and Control Over Information_**
 
-**You may opt out of any future contacts from us or express any concern you have about our use of your data at any time by contacting us via the email address or phone number given on our website [HERE](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/OPW/CONTACT.shtml)**
+**You may opt out of any future contacts from us or express any concern you have about our use of your data at any time by contacting us via the email address or phone number given on our website [HERE](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/OPW/CONTACT.shtml)**
 
 **_Security Procedures_**
 
@@ -33,12 +33,12 @@ While we use encryption to protect sensitive information transmitted online, we 
 ---|---|---|---  
 _ _  
   
-|  [ ](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/STGN/INDEX.shtml) | [ ](http://www.premiumembroiderydesigns.com/)  
+|  [ ](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/STGN/INDEX.shtml) | [ ](http://www.premiumembroiderydesigns.com/)  
 ---|---  
   
 **THE DESIGNS ON THIS SITE ARE COPYRIGHT PROTECTED**. 
 
-**[ CLICK ](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/OPW/copyright.php) [ HERE](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/OPW/copyright.php)[ TO READ THE COPYRIGHT STATEMENT](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/OPW/copyright.php)**.
+**[ CLICK ](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/OPW/copyright.php) [ HERE](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/OPW/copyright.php)[ TO READ THE COPYRIGHT STATEMENT](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/OPW/copyright.php)**.
 
 ** BE FAIR - PLEASE DON'T ILLEGALLY "SHARE" OUR MACHINE EMBROIDERY DESIGNS.**
 
@@ -100,5 +100,5 @@ _ _
   
 |  The clipart embellishment on the webpages is by CuteColors used with permission.  
 ---  
-[ Free Designs](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/OPW/MOCLOGIN.php) |  [ Site Map](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/site-map.php) |  [ STGN Designs Club](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/STGN/INDEX.shtml) |  [ What's New? ](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/ListNew.php) |  [ Our Polices](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/OPW/POLICIES.php) |  [ Order 1-888-Lov2Sew](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/OPW/CONTACT.php) |  [ Contact Us](https://web.archive.org/web/20170606144836id_/http%3A//www.oregonpatchworks.com/OPW/CONTACT.php)  
+[ Free Designs](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/OPW/MOCLOGIN.php) |  [ Site Map](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/site-map.php) |  [ STGN Designs Club](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/STGN/INDEX.shtml) |  [ What's New? ](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/ListNew.php) |  [ Our Polices](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/OPW/POLICIES.php) |  [ Order 1-888-Lov2Sew](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/OPW/CONTACT.php) |  [ Contact Us](https://web.archive.org/web/20171124234006id_/https%3A//www.oregonpatchworks.com/OPW/CONTACT.php)  
 **Copyright Permissions And All Rights Reserved By OregonPatchWorks, Inc. © 2000-2017**
