@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621121212id_/https%3A//www.verint.com/about/legal/privacy-policy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124085614id_/https%3A//www.verint.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Verint Privacy Policy | Verint Systems
 
@@ -6,7 +6,7 @@
 
  **Verint ® Systems Inc. and its subsidiaries** (“Verint”) are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the “ **Site** ”), as well as certain information we collect from offline sources, as explained in more detail below. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-If you apply for a job through the Site, our use of the Personal Information you provide through our Career Center is governed by a separate privacy policy, not this Privacy Policy. Please click [http://www.verint.com/about/careers/](https://web.archive.org/about/careers/index.html "Careers") to review our privacy policy for job seekers who apply for jobs through the Site.
+If you apply for a job through the Site, our use of the Personal Information you provide through our Career Center is governed by a separate privacy policy, not this Privacy Policy. Please click [http://www.verint.com/about/careers/](https://web.archive.org/about/careers/ "Careers") to review our privacy policy for job seekers who apply for jobs through the Site.
 
 ### Personal Information
 
@@ -78,7 +78,7 @@ Your Personal Information may be disclosed:
 We and our third party service providers may collect Other Information in a variety of ways, including:
 
 >   *  **Through your browser** : Certain information is collected by most browsers, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system version and Internet browser type and version. We use this information to help ensure that our Site functions properly.
->   *  **Using cookies and web beacons** : Please see our [Cookie Policy](https://web.archive.org/about/legal/find-out-more-cookies-overview/index "Find Out More - Cookies Overview"), which explains how we use cookies.
+>   *  **Using cookies and web beacons** : Please see our [Cookie Policy](https://web.archive.org/about/legal/find-out-more-cookies-overview/ "Find Out More - Cookies Overview"), which explains how we use cookies.
 >   *  **Usage data** : We may use statistical data, analytics, trends and usage information derived from your use of services (“usage data”) through pixel tags and other similar technologies. Usage data includes, for example, aggregated quantitative information about active users, activity, topics, and groups. Some ways we use the usage data include operating, improving and personalizing the services and our offerings, as well as other Verint products and services.
 >   *  **IP Address** : Your “ **IP Address** ” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many websites. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site.
 >   *  **From you** : Information such as your location, as well as other information, such as your preferred means of communication or areas of interest, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Site.
@@ -96,7 +96,7 @@ In some instances, we may combine Other Information with Personal Information (s
 
 Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across Verint’s websites.
 
-For example, if you often visit content on the Verint network about Workforce Optimization (WFO), we or our service providers may use “web beacons” to infer your possible interest in WFO and may deliver an ad to you related to that interest when you are on the Site or on a third-party site. It's important to understand that these technologies use anonymous identifiers within the “cookies” stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our [AdChoices](https://web.archive.org/about/legal/ad-choices/index "Ad Choices") page.
+For example, if you often visit content on the Verint network about Workforce Optimization (WFO), we or our service providers may use “web beacons” to infer your possible interest in WFO and may deliver an ad to you related to that interest when you are on the Site or on a third-party site. It's important to understand that these technologies use anonymous identifiers within the “cookies” stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our [AdChoices](https://web.archive.org/about/legal/ad-choices/ "Ad Choices") page.
 
  **Verint’s Adherence to Self-Regulatory Principles for Online Behavioral Advertising**. Verint adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance. To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit [aboutads.info](http://www.aboutads.info/).
 
