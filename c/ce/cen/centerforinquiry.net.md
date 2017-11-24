@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerforinquiry.net privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607211013id_/http%3A//www.centerforinquiry.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerforinquiry.net privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124233656id_/https%3A//www.centerforinquiry.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Center for Inquiry
 
@@ -23,7 +23,7 @@ CFI stores all personal data voluntarily provided by Web site visitors. CFI does
 Credit card payments are processed through GetActive and PayPal. Credit card information provided during the ordering process can’t be accessed by CFI once the transaction has been processed.  
 Cookies 
 
-We may provide a small data file called a "cookie" which is stored on your computer. This is intended to enhance the browsing experience of Web site visitors. A cookie can't read data off your hard disk or read cookie files created by other sites. Certain areas of the CFI Web site utilize cookies to automatically store login information for subsequent visits.  If you are using a public computer or prefer not to receive cookies, you can alter the configuration of your browser to reject cookies. 
+We may provide a small data file called a “cookie” which is stored on your computer. This is intended to enhance the browsing experience of Web site visitors. A cookie can’t read data off your hard disk or read cookie files created by other sites. Certain areas of the CFI Web site utilize cookies to automatically store login information for subsequent visits.  If you are using a public computer or prefer not to receive cookies, you can alter the configuration of your browser to reject cookies. 
 
 ### Questions
 
