@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luminate.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628225020id_/https%3A//www.aabacosmallbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luminate.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124051235id_/https%3A//smallbusiness.yahoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Aabaco Small Business, LLC is now part of Oath, a digital and mobile media compa
 
 [< Terms of Service Center](https://web.archive.org/tos-center)
 
-The services and products (the "Services") are provided by Aabaco Small Business, LLC and its subsidiaries (the "Company") primarily to help fuel the growth and success of businesses on the Internet. The Company is a wholly-owned subsidiary of Yahoo Holdings, Inc. ("Yahoo").
+The Yahoo Small Business services and products (the "Services") are provided by Aabaco Small Business, LLC and its subsidiaries (the "Company") primarily to help fuel the growth and success of businesses on the Internet. The Company is a wholly-owned subsidiary of Yahoo Holdings, Inc. ("Yahoo").
 
 ## **COVERED IN THIS PRIVACY POLICY**
 
