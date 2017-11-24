@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildcatforums.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092308id_/http%3A//www.wildcatforums.net/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildcatforums.net privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124174310id_/http%3A//www.wildcatforums.net/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # Arctic Cat Wildcat SXS Forum Privacy Policy
 
