@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the johnpye.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015243id_/http%3A//www.johnpye.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnpye.co.uk privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124211931id_/http%3A//www.johnpye.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - John Pye Auctions
 
 **Introduction**
 
-This policy (together with the Terms of Website Use [www.johnpye.co.uk/website-conditions/](http://www.johnpye.co.uk/website-conditions/) and any other documents referred to on it) sets out the basis on which any data John Pye & Sons Ltd (“we” or “us”) collect from you, or that you provide to us, will be processed by us, referred to in this policy as your “Data”. We are committed to safeguarding the privacy of our users and the following policy shows the practices in place regarding your Data and how we treat it. Please read the following carefully. By visiting our website [www.johnpye.co.uk](http://www.johnpye.co.uk/) (“the Site”) you are accepting and consenting to the practices described in this policy.
+This policy (together with the Terms of Website Use [www.johnpye.co.uk/terms-website-use/](http://www.johnpye.co.uk/terms-website-use/) and any other documents referred to on it) sets out the basis on which any data John Pye & Sons Ltd (“we” or “us”) collect from you, or that you provide to us, will be processed by us, referred to in this policy as your “Data”. We are committed to safeguarding the privacy of our users and the following policy shows the practices in place regarding your Data and how we treat it. Please read the following carefully. By visiting our website [www.johnpye.co.uk](http://www.johnpye.co.uk/) (“the Site”) you are accepting and consenting to the practices described in this policy.
 
 **Information We may collect from you**
 
