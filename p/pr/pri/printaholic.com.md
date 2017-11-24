@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printaholic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052006id_/http%3A//www.printaholic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printaholic.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124104447id_/http%3A//www.printaholic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Printaholic.com | Printaholic.com
 
