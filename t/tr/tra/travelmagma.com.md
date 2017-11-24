@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelmagma.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525015547id_/http%3A//www.travelmagma.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmagma.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124052010id_/http%3A//www.travelmagma.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy blog shown in 6141892 blogs
+# Privacy Policy blog shown in 5054301 blogs
 
 PRIVACY POLICY
 
@@ -50,7 +50,7 @@ We can be reached by contacting:
 
 TravelMagma.com
 
-Email: privacy@TravelMagma.com
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Changes to this Policy
 
