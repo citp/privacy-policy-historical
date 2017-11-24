@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uum.edu.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081436id_/http%3A//www.uum.edu.my/index.php/psp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uum.edu.my privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124133250id_/http%3A//uum.edu.my/index.php/psp) for the most accurate reproduction.*
 
-# Privacy & Security Policy
+# UUM | Universiti Utara Malaysia - The Official Portal - Privacy & Security Policy
 
-[](http://www.uum.edu.my/)
+[](http://uum.edu.my/)
 
 At UUM we believe strongly in protecting our users' privacy. We will not wilfully disclose information about our users to any third party without first receiving our users’ consent.  
 This Privacy Policy sets out the privacy practices for the services offered on any UUM owned and/or operated websites ("the Website").  
