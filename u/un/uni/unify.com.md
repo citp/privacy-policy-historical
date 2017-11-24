@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unify.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622124737id_/http%3A//www.unify.com/us/Home/Internet/web/Container%2520Site/Misc/Footer-content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unify.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124100647id_/http%3A//www.unify.com/us/Home/Internet/web/Container%2520Site/Misc/Footer-content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Unify
 
@@ -12,7 +12,7 @@ Protecting the security and privacy of your personal data is important to Unify;
 
 ### Purpose of Use
 
-When you do provide us with personal data, we usually use it to respond to your inquiry, process your order or provide you access to specific information or offers. Also, to support our customer relationship with you: 
+When you do provide us with personal data, we usually use it to respond to your inquiry, process your order or provide you access to specific information or offers. In order to best respond to your request, we may pass your information to a certified [Unify partner](https://web.archive.org/us/partners/find-partner.aspx). Also, to support our customer relationship with you: 
 
   * we may store and process personal data and share it with our worldwide affiliates to better understand your business needs and how we can improve our products and services; or 
   * we (or a third party on our behalf) may use personal data to contact you about a Unify offer in support of your business needs or to conduct online surveys to understand better our customers' needs.
