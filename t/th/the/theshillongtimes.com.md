@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshillongtimes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055714id_/http%3A//www.theshillongtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshillongtimes.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124103357id_/http%3A//www.theshillongtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Shillong Times
 
@@ -76,6 +76,6 @@ Meghalaya, India
 
 ##### 91(0364) 2223488, 2227488 (Shillong). 91(03651) 222526, 222825 (Tura).
 
-letters@theshillongtimes.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on June 09, 2013
