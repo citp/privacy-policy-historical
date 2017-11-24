@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the business-opportunities.biz privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603063922id_/http%3A//www.business-opportunities.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-opportunities.biz privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124101458id_/http%3A//www.business-opportunities.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy describes how Business-Opportunities.biz owned and operated by Dig Deep Investments, LLC collects and uses the personal information you provide on our Web site: Business-Opportunities.biz. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 Business-Opportunities.biz has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through these websites Business-Opportunities.biz. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@ Business-Opportunities.biz.
+
+* * *
+
+NOTE: Business-Opportunities.biz is a partner of Google and Google Adsense and therefore data is collected on the pages of this website. For more information on [how Google uses data click here. ](https://www.google.com/policies/privacy/partners/)
+
+* * *
 
 ### Collection and Use of Personal Information
 
