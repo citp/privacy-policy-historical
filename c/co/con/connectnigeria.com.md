@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connectnigeria.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607194929id_/http%3A//www.connectnigeria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectnigeria.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124100706id_/http%3A//www.connectnigeria.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ConnectNigeria.com
+# Privacy Policy - Connect Nigeria
 
 **What information do we collect at Connect Nigeria?**
 
