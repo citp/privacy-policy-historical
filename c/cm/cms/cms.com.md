@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161919id_/http%3A//www.cms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cms.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124015957id_/http%3A//www.cms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CMS Infosystems
 
@@ -41,10 +41,10 @@ We shall take reasonable steps to ensure that the personal information including
 • CMS has comprehensive documented information security policy and procedures to ensure that the information provided by you is reasonably secure. 
 
 In case of any privacy related concerns, feedback or grievance, you can contact:  
-Alex Augustine (Grievance Officer).  
-Phone _91 22 6755 3100 – 106  
-Email contact@cms.com  
-Postal address: – Silver Metropolies, 11th Floor, Main western express highway, Goregaon East, Mumbai 400063 
+Praveen Soni (Compliance Officer).  
+Phone _91 22 6755 3100  
+Email legal@cms.com  
+Postal address: – Silver Metropolis, 11th Floor, off western express highway, Goregaon East, Mumbai 400063 
 
 **5\. Review and updation of personal information including sensitive personal data or information**
 
