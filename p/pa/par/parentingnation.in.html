@@ -1,72 +1,257 @@
-<!--The following is the downloaded HTML source of the parentingnation.in privacy policy that was archived on 2016-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124024949id_/http%3A//www.parentingnation.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parentingnation.in privacy policy that was archived on 2017-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171124093610id_/http%3A//www.parentingnation.in/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
-	
-        Privacy Policies of Parenting Portal Parenting Nation India - Parenting Nation India
-</title><meta name="keywords" content="Privacy Policies of Baby Care and Parenting Website Called Parenting Nation India"><meta name="description" content=""><meta property="og:type" content="article"><meta property="og:title" content="Privacy Policies of Parenting Portal Parenting Nation India - Parenting Nation India"><meta property="og:description" content=""><meta property="og:site_name" content="Parenting Nation"><meta property="og:url" content="http://www.parentingnation.in/privacy-policy">
-    <base href="http://www.parentingnation.in/">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="reply-to" content="contact@parentingnation.in"><meta name="revisit-after" content="1 day"><meta name="googlebot" content="index, follow"><meta name="msnbot" content="index, follow"><meta name="slurp" content="index, follow"><meta name="robots" content="all"><meta name="rating" content="general"><meta name="distribution" content="global"><meta name="copyright" content="Parenting Nation India.,  http://www.parentingnation.in/"><link type="text/css" rel="Stylesheet" href="css/main.css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="js/jquery.min.js"></script>
-    <script src="js/subscribe.js" type="text/javascript"></script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="google" value="notranslate"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet"><title>
+	Privacy Policies of Parenting Portal Parenting Nation India - Parenting Nation India
+</title><meta name="keywords" content="Privacy Policies of Baby Care and Parenting Website Called Parenting Nation India"><meta name="description" content=""><meta property="og:type" content="article"><meta property="og:title" content="Privacy Policies of Parenting Portal Parenting Nation India - Parenting Nation India"><meta property="og:description" content=""><meta property="og:site_name" content="Parenting Nation"><meta property="og:url" content="http://www.parentingnation.in/privacy-policy"><link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"><link rel="stylesheet" href="css/fonts.css" type="text/css" media="screen"><link rel="stylesheet" href="css/main.css?v=465" type="text/css" media="screen"><link href="css/ddsmoothmenu.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="css/responsive.css?v=1231121" media="screen"><link rel="stylesheet" type="text/css" href="css/animate.css" media="screen"><link rel="stylesheet" type="text/css" href="css/chosen.css">
+    <!--[if lte IE 8]> <html class="ie8"> <![endif]-->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=139680412807746"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K8SZFLG"></script><script language="javascript" type="text/javascript" src="http://www.parentingnation.in/js/subscribe.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen">
+    <script type="text/javascript" src="http://www.parentingnation.in/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="http://www.parentingnation.in/js/jquery.fancybox.js?v=132456"></script>
+    
+    <script type="text/javascript">
+        //  jQuery(document).ready(function () {
+        //  jQuery(".fancybox").fancybox();
+        // });
+        function ImageClick() {
+            var urlmain = window.location.origin + "/";
+            var txtemail = document.getElementById("ctl00_txtsubemail").value;
+           // document.getElementById("#spnldrmail").innerHTML = "";
+
+            var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+
+            if (txtemail.length <= 0) {
+                document.getElementById("ctl00_txtsubemail").focus();
+                //alert("Please enter email address");
+                document.getElementById("spnldrmail").style.display = 'block';
+                document.getElementById("spnldrmail").innerHTML = "Please enter email address";
+                return false;
+            }
+
+            if (reg.test(txtemail) == false) {
+                document.getElementById("ctl00_txtsubemail").focus();
+                //alert("The email address you have entered appears to be incorrect.(Example : yourname@example.com)");
+                document.getElementById("spnldrmail").style.display = 'block';
+                document.getElementById("spnldrmail").innerHTML = "The email address you have entered appears to be incorrect.(Example : yourname@example.com)";
+                return false;
+            }
+            
+            document.getElementById("spnldrmail").style.display = '';
+            $j.ajax({
+                type: "POST",
+                url: urlmain+"HandleWebRequests.aspx?page=subscribe&email=" + txtemail + "",
+                data: "{email:'" + txtemail + "'}",
+                success: function (response) {
+                   
+                    document.getElementById("spnldrmail").innerHTML = response.toString();
+                    document.getElementById(ctl00_txtsubemail) = "";
+                },
+                error: function (response) {
+                    document.getElementById("spnldrmail").innerHTML = "You are already subscribed to the AnyTime Banners newsletter.";
+                  
+                }
+            });
+            return false;
+        }
+        function fnCheckValue() {
+            var myVal = $("#txtsubemail").val();
+            if (myVal == "") {
+                alert("Blank message");
+                return false;
+            }
+            else {
+                return true;
+            }
+        }
+        function EnterEvent(e) {
+
+            if (e.keyCode == 13) {
+
+                if (fnCheckValue()) {
+                    $("#ctl00_imgsubscribe").trigger("click");
+                } else {
+                    return false;
+                }
+            }
+        }
+    </script>
+    <script type="text/javascript" src="http://www.parentingnation.in/js/jquery.js"></script>
+    <script type="text/javascript" src="http://www.parentingnation.in/js/jquery.bxslider.js"></script>
+    <script type="text/javascript" src="http://www.parentingnation.in/js/at-jquery.js"></script>
+    
+    <script type="text/javascript" src="http://www.parentingnation.in/js/jssor.slider-21.1.5.mini.js"></script>
+    <script type="text/javascript" src="http://www.parentingnation.in/js/viewportchecker.js"></script>
+    <script type="text/javascript" src="http://www.parentingnation.in/js/jquery.form.js"> </script>
+  
+    <script type="text/javascript" src="http://www.parentingnation.in/js/Genfunc.js?v=123"></script>
+
+
+    
+
+    <!--[if lte IE 8]> <html class="ie8"> <![endif]-->
+    <script type="text/javascript">
+        function Insertclicks() {
+            var url = window.parent.location;
+            var urlmain = window.location.origin + "/";
+            $.ajax({
+                type: 'POST',
+                contentType: "application/json; charset=utf-8",
+                url: urlmain+'Default.aspx/InsertMethod?url=' + url,
+                data: "{url:'" + url + "'}",
+                async: false,
+                success: function (response) {
+                    //alert("Record Has been Saved in Database");
+                },
+                error: function () {
+                    // alert("Error");
+                    // console.log('there is some error');
+                }
+            });
+        }
+    </script>
+    
+    <script type="text/javascript" src="js/home-jquery.js"></script>  
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-K8SZFLG');</script>
+	<!-- End Google Tag Manager -->
 </head>
 <body>
-    <form name="form1" method="post" action="privacy_policy.aspx?404%3bhttp%3a%2f%2fwww.parentingnation.in%3a80%2fprivacy-policy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MDMxMzQ4NzYPZBYCAgMPZBYEAgMPZBYEZg8PZBYCHgpvbmtleXByZXNzBTRqYXZhc2NyaXB0OnJldHVybiBjaGVja0tleSgnbWVudTFfYnRuc2VhcmNoJyxldmVudCk7ZAICDxYCHgRUZXh0BaUJPGxpPjxhIHRpdGxlPSdQcmVnbmFuY3knIGhyZWY9JyMnPlByZWduYW5jeTwvYT48dWw+PGxpPjxhIHRpdGxlPSdQcmUgUHJlZ25hbmN5JyBocmVmPSdQcmUtUHJlZ25hbmN5Jz5QcmUgUHJlZ25hbmN5PC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdQcmVnbmFuY3knIGhyZWY9J1ByZWduYW5jeSc+UHJlZ25hbmN5PC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdQb3N0IFByZWduYW5jeScgaHJlZj0nUG9zdC1QcmVnbmFuY3knPlBvc3QgUHJlZ25hbmN5PC9hPjwvbGk+PC91bD48L2xpPjxsaT48YSB0aXRsZT0nTmV3IEJvcm4nIGhyZWY9J05ldy1Cb3JuJz5OZXcgQm9ybjwvYT48L2xpPjxsaT48YSB0aXRsZT0nS2lkcycgaHJlZj0nIyc+S2lkczwvYT48dWw+PGxpPjxhIHRpdGxlPSdLaWRzICgxIC0gMyBZcnMpJyBocmVmPSdLaWRzLSgxLS0tMy1ZcnMpJz5LaWRzICgxIC0gMyBZcnMpPC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdLaWRzICgzIC0gNSBZcnMpJyBocmVmPSdLaWRzLSgzLS0tNS1ZcnMpJz5LaWRzICgzIC0gNSBZcnMpPC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdLaWRzICg1IC0gMTIgWXJzKScgaHJlZj0nS2lkcy0oNS0tLTEyLVlycyknPktpZHMgKDUgLSAxMiBZcnMpPC9hPjwvbGk+PC91bD48L2xpPjxsaT48YSB0aXRsZT0nVGVlbnMnIGhyZWY9J1RlZW5zJz5UZWVuczwvYT48L2xpPjxsaT48YSB0aXRsZT0nR2VuZXJhbCcgaHJlZj0nR2VuZXJhbCc+R2VuZXJhbDwvYT48L2xpPjxsaT48YSB0aXRsZT0nTGlmZXN0eWxlJyBocmVmPSdMaWZlc3R5bGUnPkxpZmVzdHlsZTwvYT48L2xpPjxsaT48YSB0aXRsZT0nS2lkcyBBY3Rpdml0aWVzJyBocmVmPScjJz5LaWRzIEFjdGl2aXRpZXM8L2E+PHVsPjxsaT48YSB0aXRsZT0nS2lkcyBWaWRlbycgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vVmlkZW9zJz5LaWRzIFZpZGVvPC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdOdXJzZXJ5IFJoeW1lcycgaHJlZj0nTnVyc2VyeS1SaHltZXMnPk51cnNlcnkgUmh5bWVzPC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdJbmRpYW4gQ3VsdHVyZScgaHJlZj0nSW5kaWFuLUN1bHR1cmUnPkluZGlhbiBDdWx0dXJlPC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdGYW5jeSBEcmVzcyBTcGVlY2hlcycgaHJlZj0nRmFuY3ktRHJlc3MtU3BlZWNoZXMnPkZhbmN5IERyZXNzIFNwZWVjaGVzPC9hPjwvbGk+PC91bD48L2xpPmQCBw9kFgRmDxYCHwEFJlByaXZhY3kgUG9saWN5IC0gVGVybXMgJmFtcDsgQ29uZGl0aW9uZAIBDxYCHwEFvzE8cD4NCgk8c3Ryb25nPkludHJvZHVjdGlvbjo8L3N0cm9uZz48YnIgLz4NCgk8YnIgLz4NCglIZWxsbyBhbmQgd2VsY29tZSB0byBQYXJlbnRpbmcgTmF0aW9uLiBXZSBkZXNpZ25lZCB0aGlzIHByaXZhY3kgcG9saWN5IHRvIHNoYXJlIHdpdGggeW91IG91ciBtZXRob2Qgb2YgY29sbGVjdGluZyBhbmQgdXNpbmcgYW55IGluZm9ybWF0aW9uIG9yIGRhdGEgcHJvdmlkZWQgYnkgdXNlcnMgdGhyb3VnaCBvdXIgc2l0ZS4gd2UgcmVxdWVzdCB5b3UgdG8gbWFrZSBzdXJlIGNvbXBsZXRlIHJlYWRpbmcgYW5kIHVuZGVyc3RhbmRpbmcgb2Ygb3VyIHByaXZhY3kgcG9saWN5IGJlZm9yZSB1dGlsaXppbmcgYW5kIHNlbmRpbmcgYW55IGluZm9ybWF0aW9uIHRvIG91ciBzaXRlLjxiciAvPg0KCTxiciAvPg0KCTxzdHJvbmc+VXNlciBBcHByb3ZhbDo8L3N0cm9uZz48YnIgLz4NCgk8YnIgLz4NCglPbmNlIHVzZXJzIHV0aWxpemUgdGhpcyBzaXRlLCB1c2VyIGFjY2VwdCBhbGwgdGVybXMgb2Ygb3VyIHByaXZhY3kgcG9saWN5LiBUaGUgaW5mb3JtYXRpb24gdXNlcnMgcHJvdmlkZSB0byBvdXIgc2l0ZSwgYWdyZWUgdG8gY29sbGVjdCwgdXNlIGFuZCBkaXNjbG9zZSB0aGF0IGluZm9ybWF0aW9uIG9yIGRhdGEgYXMgcGVyIHRoaXMgcHJpdmFjeSBwb2xpY3kuPGJyIC8+DQoJPGJyIC8+DQoJPHN0cm9uZz5Gb3IgUGFyZW50czo8L3N0cm9uZz48YnIgLz4NCgk8YnIgLz4NCglPdXIgc2l0ZSBpcyBkZXZlbG9wZWQgYW5kIGlzIGludGVuZGVkIHRvIGNyZWF0ZSBiYWJ5IHBob3RvIGNvbnRlc3QganVzdCBmb3IgZnVuLiBBbnkgcGVyc29uYWwgaW5mb3JtYXRpb24gcHJvdmlkZWQgYnkgYWdlIGdyb3VwIHVuZGVyIDEzIGNhbiBiZSB1c2VkIHVua25vd2luZ2x5LiB3ZSB3YW50IG91ciBtZW1iZXJzLCB1c2VycyBhbmQgdmlzaXRvcnMgdG8gcHJvdmlkZSBhbnkgaW5mb3JtYXRpb24gb3IgZGF0YSByZWdhcmRpbmcga2lkcyBvciBjaGlsZHJlbiBhZnRlciB0aGUgY29uc2VudCBvZiB0aGVpciBwYXJlbnRzLiBXZSBhc2sgcGFyZW50cyB0byB0YWxrIHRvIHRoZWlyIGtpZHMgYWJvdXQgdGhlIHVzZSBvZiBhbnkgcGVyc29uYWwgaW5mb3JtYXRpb24gb24gaW50ZXJuZXQuPGJyIC8+DQoJPGJyIC8+DQoJPHN0cm9uZz5Zb3VyIENvbnRlbnQgaW4gb3VyIFNlcnZpY2VzJm5ic3A7PC9zdHJvbmc+PC9wPg0KPHA+DQoJJm5ic3A7PC9wPg0KPHA+DQoJRm9yIGNvbnRlbnQgdGhhdCBpcyBjb3ZlcmVkIGJ5IGludGVsbGVjdHVhbCBwcm9wZXJ0eSByaWdodHMsIGxpa2UgcGhvdG9zIGFuZCB2aWRlb3MgKElQIGNvbnRlbnQpLCB5b3Ugc3BlY2lmaWNhbGx5IGdpdmUgdXMgdGhlIGZvbGxvd2luZyBwZXJtaXNzaW9uLCBzdWJqZWN0IHRvIHlvdXIgcHJpdmFjeSBhbmQgYXBwbGljYXRpb24gc2V0dGluZ3M6IHlvdSBncmFudCB1cyBhIG5vbi1leGNsdXNpdmUsIHRyYW5zZmVyYWJsZSwgc3ViLWxpY2Vuc2FibGUsIHJveWFsdHktZnJlZSwgd29ybGR3aWRlIGxpY2Vuc2UgdG8gdXNlIGFueSBJUCBjb250ZW50IHRoYXQgeW91IHBvc3Qgb24gb3IgaW4gY29ubmVjdGlvbiB3aXRoIG91ciBwcm9kdWN0cyAoSVAgTGljZW5zZSkuIFRoaXMgSVAgTGljZW5zZSBlbmRzIHdoZW4geW91IGRlbGV0ZSB5b3VyIElQIGNvbnRlbnQgb3IgeW91ciBhY2NvdW50IHVubGVzcyB5b3VyIGNvbnRlbnQgaGFzIGJlZW4gc2hhcmVkIHdpdGggb3RoZXJzLCBhbmQgdGhleSBoYXZlIG5vdCBkZWxldGVkIGl0LjwvcD4NCjxwPg0KCSZuYnNwOzwvcD4NCjxwPg0KCVdoZW4geW91IGRlbGV0ZSBJUCBjb250ZW50LCBpdCBpcyBkZWxldGVkIGluIGEgbWFubmVyIHNpbWlsYXIgdG8gZW1wdHlpbmcgdGhlIHJlY3ljbGUgYmluIG9uIGEgY29tcHV0ZXIuIEhvd2V2ZXIsIHlvdSB1bmRlcnN0YW5kIHRoYXQgcmVtb3ZlZCBjb250ZW50IG1heSBwZXJzaXN0IGluIGJhY2t1cCBjb3BpZXMgZm9yIGEgcmVhc29uYWJsZSBwZXJpb2Qgb2YgdGltZSAoYnV0IHdpbGwgbm90IGJlIGF2YWlsYWJsZSB0byBvdGhlcnMpLiZuYnNwOzwvcD4NCjxwPg0KCSZuYnNwOzwvcD4NCjxwPg0KCVdoZW4geW91IHVzZSBhbiBhcHBsaWNhdGlvbiwgeW91ciBjb250ZW50IGFuZCBpbmZvcm1hdGlvbiBpcyBzaGFyZWQgd2l0aCB0aGUgYXBwbGljYXRpb24uIFdlIHJlcXVpcmUgYXBwbGljYXRpb25zIHRvIHJlc3BlY3QgeW91ciBwcml2YWN5LCBhbmQgeW91ciBhZ3JlZW1lbnQgd2l0aCB0aGF0IGFwcGxpY2F0aW9uIHdpbGwgY29udHJvbCBob3cgdGhlIGFwcGxpY2F0aW9uIGNhbiB1c2UsIHN0b3JlLCBhbmQgdHJhbnNmZXIgdGhhdCBjb250ZW50IGFuZCBpbmZvcm1hdGlvbi48L3A+DQo8cD4NCglXaGVuIHlvdSBwdWJsaXNoIGNvbnRlbnQgb3IgaW5mb3JtYXRpb24gdXNpbmcgdGhlIFB1YmxpYyBzZXR0aW5nLCBpdCBtZWFucyB0aGF0IHlvdSBhcmUgYWxsb3dpbmcgZXZlcnlvbmUsIGluY2x1ZGluZyBwZW9wbGUgb3V0c2lkZSBvZiBvdXIgc2VydmljZXMsIHRvIGFjY2VzcyBhbmQgdXNlIHRoYXQgaW5mb3JtYXRpb24sIGFuZCB0byBhc3NvY2lhdGUgaXQgd2l0aCB5b3UgKGkuZS4geW91ciBuYW1lIGFuZCBwcm9maWxlIHBpY3R1cmUpLjwvcD4NCjxwPg0KCSZuYnNwOzwvcD4NCjxwPg0KCVdlIGFsd2F5cyBhcHByZWNpYXRlIHlvdXIgZmVlZGJhY2sgb3Igb3RoZXIgc3VnZ2VzdGlvbnMgYWJvdXQgb3VyIFNlcnZpY2VzLCBidXQgeW91IHVuZGVyc3RhbmQgdGhhdCB3ZSBtYXkgdXNlIHRoZW0gd2l0aG91dCBhbnkgb2JsaWdhdGlvbiB0byBjb21wZW5zYXRlIHlvdSBmb3IgdGhlbSAoanVzdCBhcyB5b3UgaGF2ZSBubyBvYmxpZ2F0aW9uIHRvIG9mZmVyIHRoZW0pLjwvcD4NCjxwPg0KCSZuYnNwOzwvcD4NCjxwPg0KCVdlIGFyZSBub3QgbGlhYmxlIGZvciBsb3NzIG9mIGFueSBkYXRhIGNhdXNlZCBieSB1bmZvcmVzZWVuIGNpcmN1bXN0YW5jZXMuPC9wPg0KPHA+DQoJJm5ic3A7PC9wPg0KPHA+DQoJU2hvdWxkIHlvdSB3aXNoIHRvIG1vdmUgeW91ciBkYXRhIGZyb20gb3VyIHNpdGUsIHdlIGFyZSBub3QgbGlhYmxlIHRvIHByb3ZpZGUgdGhpcyBkYXRhIHRvIHlvdSBpbiBhbnkgZm9ybWF0LjwvcD4NCjxwPg0KCSZuYnNwOzwvcD4NCjxwPg0KCTxzdHJvbmc+VGhpcyBzaXRlIGlzIGZvciBJbmRpYSBzbyBnaWZ0IGNhbiBiZSBzZW50IHRvIGFkZHJlc3NlcyBvZiBJbmRpYSBvbmx5Ljwvc3Ryb25nPjwvcD4NCjxwPg0KCSZuYnNwOzwvcD4NCjxkaXY+DQoJPHN0cm9uZz5Vc2Ugb2YgUGFyZW50aW5hdGlvbiBBcnRpY2xlcyAmYW1wOyBJbmZvcm1hdGlvbiZuYnNwOzwvc3Ryb25nPjwvZGl2Pg0KPHA+DQoJRGlmZmVyZW50IGtpbmQgb2YgQ29udGVudCwgQWR2aWNlcywgQXJ0aWNsZXMsIENvbW1lbnRzLCB0ZXh0LCBQb3N0LCBQaG90b2dyYXBocyBhbmQgb3RoZXIgZGF0YSBpcyBhdmFpbGFibGUgb24gdGhlIFBhcmVudGluZyBuYXRpb24uIFRoaXMgYWxsIGNvbnRlbnQgaXMgcHJvdmlkZWQgYnkgV3JpdGVycyBoaXJlZCBieSBwYXJlbnRpbmF0aW9uIGFuZCBwZW9wbGUgd2hvIGlzIHZpc2l0aW5nIG91ciBzaXRlLiBQYXJlbnRpbmcgbmF0aW9uIGlzIG5vdCByZXNwb25zaWJsZSBmb3IgYW55IGluYWNjdXJhdGUgb3IgdW5hdXRoZW50aWNhdGVkIGNvbnRlbnQuIEFueSBhZHZpY2Ugb3Igb3BpbmlvbiBtYWRlIGJ5IGFueSBraW5kIG9mIHVzZXIgb24gdGhlIHdlYnNpdGUgaXMgbm90IGVuZG9yc2VkIGJ5IHBhcmVudGluZyBuYXRpb24gYW5kIHdlIGRvbiZyc3F1bzt0IHRha2UgYW55IHJlc3BvbnNpYmlsaXR5IGZvciB0aGUgc2FtZS4gVGhpcyBhbGwgQ29udGVudCBpcyBwcm92aWRlZCBpbiBjb25zaWRlcmF0aW9uIHRoYXQgbmVpdGhlciBwYXJlbnRpbmduYXRpb24gbm9yIGl0IHN1cHBsaWVycyBhcmUgcGFydCBvZiBhbnkgTWVkaWNhbCwgTGVnYWwgb3IgYW55IGtpbmQgb2YgQ291bnNlbGluZy4gQW5kIGFsbCBjb250ZW50IGlzIHRvIGJlIHVzZWQgYXMganVzdCBnZW5lcmFsIGluZm9ybWF0aXZlIGNvbnRlbnQgYW5kIG5vdCB0byBiZSB1c2VkIGZvciBhbnkgTWVkaWNhbCBvciBIZWFsdGggUmVsYXRlZCBwcm9ibGVtcy4gV2Ugd291bGQgc3VnZ2VzdCBmb3IgYW55IE1lZGljYWwgb3IgSGVhbHRoIFJlbGF0ZWQgcHJvYmxlbXMgcGxlYXNlIGNvbnN1bHQgeW91ciBwaHlzaWNpYW4gb3IgcXVhbGlmaWVkIGRvY3Rvci48YnIgLz4NCgk8YnIgLz4NCgk8c3Ryb25nPkluZm9ybWF0aW9uIG9yIERhdGEgRnJvbSBVc2VyOjwvc3Ryb25nPjxiciAvPg0KCTxiciAvPg0KCUluZm9ybWF0aW9uIGNvbGxlY3RlZCBmcm9tIHRoZSBzaXRlIGNhbiBiZSB1c2VkIGluIGZvbGxvd2luZyB3YXlzLjxiciAvPg0KCTxiciAvPg0KCVRvIG1ha2Ugb3VyIHNpdGUgYmV0dGVyIGJ5IGltcHJvdmluZyBmdW5jdGlvbnMgb24gZmVlZGJhY2sgd2UgcmVjZWl2ZS48YnIgLz4NCgk8YnIgLz4NCglZb3VyIGluZm9ybWF0aW9uLCB3aGV0aGVyIHB1YmxpYyBvciBwcml2YXRlLCB3aWxsIG5vdCBiZSBzb2xkLCBleGNoYW5nZWQsIHRyYW5zZmVycmVkLCBvciBnaXZlbiB0byBhbnkgb3RoZXIgY29tcGFueSBmb3IgYW55IHJlYXNvbiB3aGF0c29ldmVyLCB3aXRob3V0IHlvdXIgY29uc2VudCwgb3RoZXIgdGhhbiBmb3IgdGhlIGV4cHJlc3MgcHVycG9zZSBvZiBkZWxpdmVyaW5nIHRoZSBwdXJjaGFzZWQgcHJvZHVjdCBvciBzZXJ2aWNlIHJlcXVlc3RlZC48YnIgLz4NCgk8YnIgLz4NCglUbyBSdW4gYSBwaG90byBjb250ZXN0LCBUYWtlIHN1cnZleXMgYW5kIG90aGVyIHByb21vdGlvbiBhY3Rpdml0eS48YnIgLz4NCgk8YnIgLz4NCgk8c3Ryb25nPk5ld3NsZXR0ZXIgZW1haWxzIDo8L3N0cm9uZz48YnIgLz4NCgk8YnIgLz4NCglZb3UgbWF5IHJlY2VpdmUgc29tZSBuZXdzbGV0dGVycyBmcm9tIHVzIHJlZ2FyZGluZyBjb250ZXN0IGFuZCBvdGhlciBzZXJ2aWNlLCB3ZSBoYXZlIHByb3ZpZGVkIHVuc3Vic2NyaWJlIGxpbmsgc28gaWYgeW91IGRvbnQgd2FudCBhbnkgZnVydGhlciBlbWFpbHMgcGxzIHVuc3Vic2NyaWJlIGZyb20gdGhlIHNpdGUuIC48L3A+DQo8cD4NCgk8YnIgLz4NCglPdXIgc2l0ZSBnYXRoZXJzIGluZm9ybWF0aW9uIGZyb20gb3VyIG1lbWJlcnMgYnkgYXNraW5nIHF1ZXN0aW9ucyBhbmQgd2UgYWxzbyBnZXQgaW4gdG91Y2ggYnkgY29tbXVuaWNhdGluZyB0aHJvdWdoIGUtbWFpbCwgRmFjZSBib29rLCBUd2l0dGVyLCBhbmQgcGFyZW50cyBmb3J1bS4gdGhlIGNvbW11bmljYXRpb24gbWF5IGluY2x1ZGUgc29tZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBhbHNvLCBsaWtlIG5hbWUsIGUtbWFpbCBpZCwgcGhvbmUgbnVtYmVyLCBkZXRhaWwgYWRkcmVzcywgcGhvdG9zIGFuZCBtYXkgYmUgbW9yZS4gT3VyIHNpdGUgYWxzbyBkZW1hbmQgc29tZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBmcm9tIHVzZXJzIHRvIGxldCB0aGVtIGhhdmUgbWF4aW11bSBiZW5lZml0cyBvZiBvdXIgZmVhdHVyZXMgbGlrZSwgdmFjY2luYXRpb24gY2hhcnQsIHBhcmVudGluZyBpbmZvcm1hdGlvbiwgYWR2aXNlL3N1Z2dlc3Rpb25zLCBnaWZ0cyBhbmQgc28gb24uIHRoZSBpbmZvcm1hdGlvbiBkZW1hbmRlZCBjYW4gYmUgZm9yIHBhcnRpY2lwYXRpbmcgb24gc29tZSBhcmVhIG9mIG91ciBzaXRlIGxpa2UgYmFieSBwaG90byBjb250ZXN0LiBVc2VycyB3aWxsIGJlIGd1aWRlZCBhdCBldmVyeSBzdGVwIG9mIGluZm9ybWF0aW9uIGRlbWFuZGVkLjxiciAvPg0KCTxiciAvPg0KCTxzdHJvbmc+VXBsb2FkLCBDaGFuZ2UgYW5kIFJlbW92ZTo8L3N0cm9uZz48YnIgLz4NCgk8YnIgLz4NCglXaXRoIGFuIGludGVudGlvbiB0byBrZWVwIHRoZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBwcm92aWRlZCBpcyBhY2N1cmF0ZSwgdXNlcnMgbWF5IGNvbnRhY3QgdXMgYXMgYmVsb3cgYW5kIHdlIHdpbGwgbWFrZSBzdXJlIG9mIG5lY2Vzc2FyeSBzdGVwcyB0byBtYWtlIHVwbG9hZCwgY2hhbmdlIG9yIHJlbW92ZSBwZXJzb25hbGl6ZSBkYXRhIG9yIGluZm9ybWF0aW9uLCBpZiBvdXIgc2l0ZSBoYXMgbm8gZnVydGhlciB1c2Ugb2YgdGhlIGRhdGEgb3IgaW5mb3JtYXRpb24gd2UgbWF5IGRlc3Ryb3kgdGhlIGluZm9ybWF0aW9uIG9yIGRhdGEuPGJyIC8+DQoJPGJyIC8+DQoJPHN0cm9uZz5Db250YWN0IFVzOiA8L3N0cm9uZz48YnIgLz4NCgk8YnIgLz4NCglUbyB1cGxvYWQsIGNoYW5nZSBhbmQgcmVtb3ZlIHlvdXIgcGVyc29uYWwgZGV0YWlscyBvbiBvdXIgc2l0ZSBlLW1haWwgdXMgb24gPGEgaHJlZj0ibWFpbHRvOmluZm9AcGFyZW50aW5nbmF0aW9uLmluIiBzdHlsZT0iY29sb3I6IzY2Njtib3JkZXI6bm9uZTsgb3V0bGluZTpub25lOyI+aW5mb0BwYXJlbnRpbmduYXRpb24uaW48L2E+LjwvcD4NCmRkPiOLajCEeuDsutdpm5EFX7f7P5UIEUKAH18KUl7+43k=">
+    <form name="aspnetForm" method="post" action="privacy_policy.aspx?404%3bhttp%3a%2f%2fwww.parentingnation.in%3a80%2fprivacy-policy" id="aspnetForm" enctype="multipart/form-data">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc5NjI2ODgzMQ9kFgJmD2QWAgIDD2QWDmYPD2QWAh4Kb25rZXlwcmVzcwU0amF2YXNjcmlwdDpyZXR1cm4gY2hlY2tLZXkoJ2N0bDAwX2J0bnNlYXJjaCcsZXZlbnQpO2QCAw9kFgJmDxYCHgRUZXh0BeoMPGxpIGNsYXNzPSdzdWInPjxhIHRpdGxlPSdQcmVnbmFuY3knIGhyZWY9JyMnPlByZWduYW5jeTwvYT48dWwgY2xhc3M9Jyc+PGxpPjxhIHRpdGxlPSdQcmUgUHJlZ25hbmN5JyBocmVmPSdodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9QcmUtUHJlZ25hbmN5Jz5QcmUgUHJlZ25hbmN5PC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdQcmVnbmFuY3knIGhyZWY9J2h0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL1ByZWduYW5jeSc+UHJlZ25hbmN5PC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdQb3N0IFByZWduYW5jeScgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vUG9zdC1QcmVnbmFuY3knPlBvc3QgUHJlZ25hbmN5PC9hPjwvbGk+PC91bD48L2xpPjxsaT48YSB0aXRsZT0nTmV3IEJvcm4nIGhyZWY9J2h0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL05ldy1Cb3JuJz5OZXcgQm9ybjwvYT48L2xpPjxsaSBjbGFzcz0nc3ViJz48YSB0aXRsZT0nS2lkcycgaHJlZj0nIyc+S2lkczwvYT48dWwgY2xhc3M9Jyc+PGxpPjxhIHRpdGxlPSdLaWRzICgxIC0gMyBZcnMpJyBocmVmPSdodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9LaWRzLSgxLS0tMy1ZcnMpJz5LaWRzICgxIC0gMyBZcnMpPC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdLaWRzICgzIC0gNSBZcnMpJyBocmVmPSdodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9LaWRzLSgzLS0tNS1ZcnMpJz5LaWRzICgzIC0gNSBZcnMpPC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdLaWRzICg1IC0gMTIgWXJzKScgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vS2lkcy0oNS0tLTEyLVlycyknPktpZHMgKDUgLSAxMiBZcnMpPC9hPjwvbGk+PC91bD48L2xpPjxsaT48YSB0aXRsZT0nVGVlbnMnIGhyZWY9J2h0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL1RlZW5zJz5UZWVuczwvYT48L2xpPjxsaT48YSB0aXRsZT0nR2VuZXJhbCcgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vR2VuZXJhbCc+R2VuZXJhbDwvYT48L2xpPjxsaT48YSB0aXRsZT0nTGlmZXN0eWxlJyBocmVmPSdodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9MaWZlc3R5bGUnPkxpZmVzdHlsZTwvYT48L2xpPjxsaSBjbGFzcz0nc3ViJz48YSB0aXRsZT0nS2lkcyBBY3Rpdml0aWVzJyBocmVmPScjJz5LaWRzIEFjdGl2aXRpZXM8L2E+PHVsIGNsYXNzPScnPjxsaT48YSB0aXRsZT0nS2lkcyBWaWRlbycgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vVmlkZW9zJz5LaWRzIFZpZGVvPC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdOdXJzZXJ5IFJoeW1lcycgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vTnVyc2VyeS1SaHltZXMnPk51cnNlcnkgUmh5bWVzPC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdJbmRpYW4gQ3VsdHVyZScgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vSW5kaWFuLUN1bHR1cmUnPkluZGlhbiBDdWx0dXJlPC9hPjwvbGk+PGxpPjxhIHRpdGxlPSdGYW5jeSBEcmVzcyBTcGVlY2hlcycgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vRmFuY3ktRHJlc3MtU3BlZWNoZXMnPkZhbmN5IERyZXNzIFNwZWVjaGVzPC9hPjwvbGk+PC91bD48L2xpPmQCBg9kFgQCAQ8WAh8BBb8xPHA+DQoJPHN0cm9uZz5JbnRyb2R1Y3Rpb246PC9zdHJvbmc+PGJyIC8+DQoJPGJyIC8+DQoJSGVsbG8gYW5kIHdlbGNvbWUgdG8gUGFyZW50aW5nIE5hdGlvbi4gV2UgZGVzaWduZWQgdGhpcyBwcml2YWN5IHBvbGljeSB0byBzaGFyZSB3aXRoIHlvdSBvdXIgbWV0aG9kIG9mIGNvbGxlY3RpbmcgYW5kIHVzaW5nIGFueSBpbmZvcm1hdGlvbiBvciBkYXRhIHByb3ZpZGVkIGJ5IHVzZXJzIHRocm91Z2ggb3VyIHNpdGUuIHdlIHJlcXVlc3QgeW91IHRvIG1ha2Ugc3VyZSBjb21wbGV0ZSByZWFkaW5nIGFuZCB1bmRlcnN0YW5kaW5nIG9mIG91ciBwcml2YWN5IHBvbGljeSBiZWZvcmUgdXRpbGl6aW5nIGFuZCBzZW5kaW5nIGFueSBpbmZvcm1hdGlvbiB0byBvdXIgc2l0ZS48YnIgLz4NCgk8YnIgLz4NCgk8c3Ryb25nPlVzZXIgQXBwcm92YWw6PC9zdHJvbmc+PGJyIC8+DQoJPGJyIC8+DQoJT25jZSB1c2VycyB1dGlsaXplIHRoaXMgc2l0ZSwgdXNlciBhY2NlcHQgYWxsIHRlcm1zIG9mIG91ciBwcml2YWN5IHBvbGljeS4gVGhlIGluZm9ybWF0aW9uIHVzZXJzIHByb3ZpZGUgdG8gb3VyIHNpdGUsIGFncmVlIHRvIGNvbGxlY3QsIHVzZSBhbmQgZGlzY2xvc2UgdGhhdCBpbmZvcm1hdGlvbiBvciBkYXRhIGFzIHBlciB0aGlzIHByaXZhY3kgcG9saWN5LjxiciAvPg0KCTxiciAvPg0KCTxzdHJvbmc+Rm9yIFBhcmVudHM6PC9zdHJvbmc+PGJyIC8+DQoJPGJyIC8+DQoJT3VyIHNpdGUgaXMgZGV2ZWxvcGVkIGFuZCBpcyBpbnRlbmRlZCB0byBjcmVhdGUgYmFieSBwaG90byBjb250ZXN0IGp1c3QgZm9yIGZ1bi4gQW55IHBlcnNvbmFsIGluZm9ybWF0aW9uIHByb3ZpZGVkIGJ5IGFnZSBncm91cCB1bmRlciAxMyBjYW4gYmUgdXNlZCB1bmtub3dpbmdseS4gd2Ugd2FudCBvdXIgbWVtYmVycywgdXNlcnMgYW5kIHZpc2l0b3JzIHRvIHByb3ZpZGUgYW55IGluZm9ybWF0aW9uIG9yIGRhdGEgcmVnYXJkaW5nIGtpZHMgb3IgY2hpbGRyZW4gYWZ0ZXIgdGhlIGNvbnNlbnQgb2YgdGhlaXIgcGFyZW50cy4gV2UgYXNrIHBhcmVudHMgdG8gdGFsayB0byB0aGVpciBraWRzIGFib3V0IHRoZSB1c2Ugb2YgYW55IHBlcnNvbmFsIGluZm9ybWF0aW9uIG9uIGludGVybmV0LjxiciAvPg0KCTxiciAvPg0KCTxzdHJvbmc+WW91ciBDb250ZW50IGluIG91ciBTZXJ2aWNlcyZuYnNwOzwvc3Ryb25nPjwvcD4NCjxwPg0KCSZuYnNwOzwvcD4NCjxwPg0KCUZvciBjb250ZW50IHRoYXQgaXMgY292ZXJlZCBieSBpbnRlbGxlY3R1YWwgcHJvcGVydHkgcmlnaHRzLCBsaWtlIHBob3RvcyBhbmQgdmlkZW9zIChJUCBjb250ZW50KSwgeW91IHNwZWNpZmljYWxseSBnaXZlIHVzIHRoZSBmb2xsb3dpbmcgcGVybWlzc2lvbiwgc3ViamVjdCB0byB5b3VyIHByaXZhY3kgYW5kIGFwcGxpY2F0aW9uIHNldHRpbmdzOiB5b3UgZ3JhbnQgdXMgYSBub24tZXhjbHVzaXZlLCB0cmFuc2ZlcmFibGUsIHN1Yi1saWNlbnNhYmxlLCByb3lhbHR5LWZyZWUsIHdvcmxkd2lkZSBsaWNlbnNlIHRvIHVzZSBhbnkgSVAgY29udGVudCB0aGF0IHlvdSBwb3N0IG9uIG9yIGluIGNvbm5lY3Rpb24gd2l0aCBvdXIgcHJvZHVjdHMgKElQIExpY2Vuc2UpLiBUaGlzIElQIExpY2Vuc2UgZW5kcyB3aGVuIHlvdSBkZWxldGUgeW91ciBJUCBjb250ZW50IG9yIHlvdXIgYWNjb3VudCB1bmxlc3MgeW91ciBjb250ZW50IGhhcyBiZWVuIHNoYXJlZCB3aXRoIG90aGVycywgYW5kIHRoZXkgaGF2ZSBub3QgZGVsZXRlZCBpdC48L3A+DQo8cD4NCgkmbmJzcDs8L3A+DQo8cD4NCglXaGVuIHlvdSBkZWxldGUgSVAgY29udGVudCwgaXQgaXMgZGVsZXRlZCBpbiBhIG1hbm5lciBzaW1pbGFyIHRvIGVtcHR5aW5nIHRoZSByZWN5Y2xlIGJpbiBvbiBhIGNvbXB1dGVyLiBIb3dldmVyLCB5b3UgdW5kZXJzdGFuZCB0aGF0IHJlbW92ZWQgY29udGVudCBtYXkgcGVyc2lzdCBpbiBiYWNrdXAgY29waWVzIGZvciBhIHJlYXNvbmFibGUgcGVyaW9kIG9mIHRpbWUgKGJ1dCB3aWxsIG5vdCBiZSBhdmFpbGFibGUgdG8gb3RoZXJzKS4mbmJzcDs8L3A+DQo8cD4NCgkmbmJzcDs8L3A+DQo8cD4NCglXaGVuIHlvdSB1c2UgYW4gYXBwbGljYXRpb24sIHlvdXIgY29udGVudCBhbmQgaW5mb3JtYXRpb24gaXMgc2hhcmVkIHdpdGggdGhlIGFwcGxpY2F0aW9uLiBXZSByZXF1aXJlIGFwcGxpY2F0aW9ucyB0byByZXNwZWN0IHlvdXIgcHJpdmFjeSwgYW5kIHlvdXIgYWdyZWVtZW50IHdpdGggdGhhdCBhcHBsaWNhdGlvbiB3aWxsIGNvbnRyb2wgaG93IHRoZSBhcHBsaWNhdGlvbiBjYW4gdXNlLCBzdG9yZSwgYW5kIHRyYW5zZmVyIHRoYXQgY29udGVudCBhbmQgaW5mb3JtYXRpb24uPC9wPg0KPHA+DQoJV2hlbiB5b3UgcHVibGlzaCBjb250ZW50IG9yIGluZm9ybWF0aW9uIHVzaW5nIHRoZSBQdWJsaWMgc2V0dGluZywgaXQgbWVhbnMgdGhhdCB5b3UgYXJlIGFsbG93aW5nIGV2ZXJ5b25lLCBpbmNsdWRpbmcgcGVvcGxlIG91dHNpZGUgb2Ygb3VyIHNlcnZpY2VzLCB0byBhY2Nlc3MgYW5kIHVzZSB0aGF0IGluZm9ybWF0aW9uLCBhbmQgdG8gYXNzb2NpYXRlIGl0IHdpdGggeW91IChpLmUuIHlvdXIgbmFtZSBhbmQgcHJvZmlsZSBwaWN0dXJlKS48L3A+DQo8cD4NCgkmbmJzcDs8L3A+DQo8cD4NCglXZSBhbHdheXMgYXBwcmVjaWF0ZSB5b3VyIGZlZWRiYWNrIG9yIG90aGVyIHN1Z2dlc3Rpb25zIGFib3V0IG91ciBTZXJ2aWNlcywgYnV0IHlvdSB1bmRlcnN0YW5kIHRoYXQgd2UgbWF5IHVzZSB0aGVtIHdpdGhvdXQgYW55IG9ibGlnYXRpb24gdG8gY29tcGVuc2F0ZSB5b3UgZm9yIHRoZW0gKGp1c3QgYXMgeW91IGhhdmUgbm8gb2JsaWdhdGlvbiB0byBvZmZlciB0aGVtKS48L3A+DQo8cD4NCgkmbmJzcDs8L3A+DQo8cD4NCglXZSBhcmUgbm90IGxpYWJsZSBmb3IgbG9zcyBvZiBhbnkgZGF0YSBjYXVzZWQgYnkgdW5mb3Jlc2VlbiBjaXJjdW1zdGFuY2VzLjwvcD4NCjxwPg0KCSZuYnNwOzwvcD4NCjxwPg0KCVNob3VsZCB5b3Ugd2lzaCB0byBtb3ZlIHlvdXIgZGF0YSBmcm9tIG91ciBzaXRlLCB3ZSBhcmUgbm90IGxpYWJsZSB0byBwcm92aWRlIHRoaXMgZGF0YSB0byB5b3UgaW4gYW55IGZvcm1hdC48L3A+DQo8cD4NCgkmbmJzcDs8L3A+DQo8cD4NCgk8c3Ryb25nPlRoaXMgc2l0ZSBpcyBmb3IgSW5kaWEgc28gZ2lmdCBjYW4gYmUgc2VudCB0byBhZGRyZXNzZXMgb2YgSW5kaWEgb25seS48L3N0cm9uZz48L3A+DQo8cD4NCgkmbmJzcDs8L3A+DQo8ZGl2Pg0KCTxzdHJvbmc+VXNlIG9mIFBhcmVudGluYXRpb24gQXJ0aWNsZXMgJmFtcDsgSW5mb3JtYXRpb24mbmJzcDs8L3N0cm9uZz48L2Rpdj4NCjxwPg0KCURpZmZlcmVudCBraW5kIG9mIENvbnRlbnQsIEFkdmljZXMsIEFydGljbGVzLCBDb21tZW50cywgdGV4dCwgUG9zdCwgUGhvdG9ncmFwaHMgYW5kIG90aGVyIGRhdGEgaXMgYXZhaWxhYmxlIG9uIHRoZSBQYXJlbnRpbmcgbmF0aW9uLiBUaGlzIGFsbCBjb250ZW50IGlzIHByb3ZpZGVkIGJ5IFdyaXRlcnMgaGlyZWQgYnkgcGFyZW50aW5hdGlvbiBhbmQgcGVvcGxlIHdobyBpcyB2aXNpdGluZyBvdXIgc2l0ZS4gUGFyZW50aW5nIG5hdGlvbiBpcyBub3QgcmVzcG9uc2libGUgZm9yIGFueSBpbmFjY3VyYXRlIG9yIHVuYXV0aGVudGljYXRlZCBjb250ZW50LiBBbnkgYWR2aWNlIG9yIG9waW5pb24gbWFkZSBieSBhbnkga2luZCBvZiB1c2VyIG9uIHRoZSB3ZWJzaXRlIGlzIG5vdCBlbmRvcnNlZCBieSBwYXJlbnRpbmcgbmF0aW9uIGFuZCB3ZSBkb24mcnNxdW87dCB0YWtlIGFueSByZXNwb25zaWJpbGl0eSBmb3IgdGhlIHNhbWUuIFRoaXMgYWxsIENvbnRlbnQgaXMgcHJvdmlkZWQgaW4gY29uc2lkZXJhdGlvbiB0aGF0IG5laXRoZXIgcGFyZW50aW5nbmF0aW9uIG5vciBpdCBzdXBwbGllcnMgYXJlIHBhcnQgb2YgYW55IE1lZGljYWwsIExlZ2FsIG9yIGFueSBraW5kIG9mIENvdW5zZWxpbmcuIEFuZCBhbGwgY29udGVudCBpcyB0byBiZSB1c2VkIGFzIGp1c3QgZ2VuZXJhbCBpbmZvcm1hdGl2ZSBjb250ZW50IGFuZCBub3QgdG8gYmUgdXNlZCBmb3IgYW55IE1lZGljYWwgb3IgSGVhbHRoIFJlbGF0ZWQgcHJvYmxlbXMuIFdlIHdvdWxkIHN1Z2dlc3QgZm9yIGFueSBNZWRpY2FsIG9yIEhlYWx0aCBSZWxhdGVkIHByb2JsZW1zIHBsZWFzZSBjb25zdWx0IHlvdXIgcGh5c2ljaWFuIG9yIHF1YWxpZmllZCBkb2N0b3IuPGJyIC8+DQoJPGJyIC8+DQoJPHN0cm9uZz5JbmZvcm1hdGlvbiBvciBEYXRhIEZyb20gVXNlcjo8L3N0cm9uZz48YnIgLz4NCgk8YnIgLz4NCglJbmZvcm1hdGlvbiBjb2xsZWN0ZWQgZnJvbSB0aGUgc2l0ZSBjYW4gYmUgdXNlZCBpbiBmb2xsb3dpbmcgd2F5cy48YnIgLz4NCgk8YnIgLz4NCglUbyBtYWtlIG91ciBzaXRlIGJldHRlciBieSBpbXByb3ZpbmcgZnVuY3Rpb25zIG9uIGZlZWRiYWNrIHdlIHJlY2VpdmUuPGJyIC8+DQoJPGJyIC8+DQoJWW91ciBpbmZvcm1hdGlvbiwgd2hldGhlciBwdWJsaWMgb3IgcHJpdmF0ZSwgd2lsbCBub3QgYmUgc29sZCwgZXhjaGFuZ2VkLCB0cmFuc2ZlcnJlZCwgb3IgZ2l2ZW4gdG8gYW55IG90aGVyIGNvbXBhbnkgZm9yIGFueSByZWFzb24gd2hhdHNvZXZlciwgd2l0aG91dCB5b3VyIGNvbnNlbnQsIG90aGVyIHRoYW4gZm9yIHRoZSBleHByZXNzIHB1cnBvc2Ugb2YgZGVsaXZlcmluZyB0aGUgcHVyY2hhc2VkIHByb2R1Y3Qgb3Igc2VydmljZSByZXF1ZXN0ZWQuPGJyIC8+DQoJPGJyIC8+DQoJVG8gUnVuIGEgcGhvdG8gY29udGVzdCwgVGFrZSBzdXJ2ZXlzIGFuZCBvdGhlciBwcm9tb3Rpb24gYWN0aXZpdHkuPGJyIC8+DQoJPGJyIC8+DQoJPHN0cm9uZz5OZXdzbGV0dGVyIGVtYWlscyA6PC9zdHJvbmc+PGJyIC8+DQoJPGJyIC8+DQoJWW91IG1heSByZWNlaXZlIHNvbWUgbmV3c2xldHRlcnMgZnJvbSB1cyByZWdhcmRpbmcgY29udGVzdCBhbmQgb3RoZXIgc2VydmljZSwgd2UgaGF2ZSBwcm92aWRlZCB1bnN1YnNjcmliZSBsaW5rIHNvIGlmIHlvdSBkb250IHdhbnQgYW55IGZ1cnRoZXIgZW1haWxzIHBscyB1bnN1YnNjcmliZSBmcm9tIHRoZSBzaXRlLiAuPC9wPg0KPHA+DQoJPGJyIC8+DQoJT3VyIHNpdGUgZ2F0aGVycyBpbmZvcm1hdGlvbiBmcm9tIG91ciBtZW1iZXJzIGJ5IGFza2luZyBxdWVzdGlvbnMgYW5kIHdlIGFsc28gZ2V0IGluIHRvdWNoIGJ5IGNvbW11bmljYXRpbmcgdGhyb3VnaCBlLW1haWwsIEZhY2UgYm9vaywgVHdpdHRlciwgYW5kIHBhcmVudHMgZm9ydW0uIHRoZSBjb21tdW5pY2F0aW9uIG1heSBpbmNsdWRlIHNvbWUgcGVyc29uYWwgaW5mb3JtYXRpb24gYWxzbywgbGlrZSBuYW1lLCBlLW1haWwgaWQsIHBob25lIG51bWJlciwgZGV0YWlsIGFkZHJlc3MsIHBob3RvcyBhbmQgbWF5IGJlIG1vcmUuIE91ciBzaXRlIGFsc28gZGVtYW5kIHNvbWUgcGVyc29uYWwgaW5mb3JtYXRpb24gZnJvbSB1c2VycyB0byBsZXQgdGhlbSBoYXZlIG1heGltdW0gYmVuZWZpdHMgb2Ygb3VyIGZlYXR1cmVzIGxpa2UsIHZhY2NpbmF0aW9uIGNoYXJ0LCBwYXJlbnRpbmcgaW5mb3JtYXRpb24sIGFkdmlzZS9zdWdnZXN0aW9ucywgZ2lmdHMgYW5kIHNvIG9uLiB0aGUgaW5mb3JtYXRpb24gZGVtYW5kZWQgY2FuIGJlIGZvciBwYXJ0aWNpcGF0aW5nIG9uIHNvbWUgYXJlYSBvZiBvdXIgc2l0ZSBsaWtlIGJhYnkgcGhvdG8gY29udGVzdC4gVXNlcnMgd2lsbCBiZSBndWlkZWQgYXQgZXZlcnkgc3RlcCBvZiBpbmZvcm1hdGlvbiBkZW1hbmRlZC48YnIgLz4NCgk8YnIgLz4NCgk8c3Ryb25nPlVwbG9hZCwgQ2hhbmdlIGFuZCBSZW1vdmU6PC9zdHJvbmc+PGJyIC8+DQoJPGJyIC8+DQoJV2l0aCBhbiBpbnRlbnRpb24gdG8ga2VlcCB0aGUgcGVyc29uYWwgaW5mb3JtYXRpb24gcHJvdmlkZWQgaXMgYWNjdXJhdGUsIHVzZXJzIG1heSBjb250YWN0IHVzIGFzIGJlbG93IGFuZCB3ZSB3aWxsIG1ha2Ugc3VyZSBvZiBuZWNlc3Nhcnkgc3RlcHMgdG8gbWFrZSB1cGxvYWQsIGNoYW5nZSBvciByZW1vdmUgcGVyc29uYWxpemUgZGF0YSBvciBpbmZvcm1hdGlvbiwgaWYgb3VyIHNpdGUgaGFzIG5vIGZ1cnRoZXIgdXNlIG9mIHRoZSBkYXRhIG9yIGluZm9ybWF0aW9uIHdlIG1heSBkZXN0cm95IHRoZSBpbmZvcm1hdGlvbiBvciBkYXRhLjxiciAvPg0KCTxiciAvPg0KCTxzdHJvbmc+Q29udGFjdCBVczogPC9zdHJvbmc+PGJyIC8+DQoJPGJyIC8+DQoJVG8gdXBsb2FkLCBjaGFuZ2UgYW5kIHJlbW92ZSB5b3VyIHBlcnNvbmFsIGRldGFpbHMgb24gb3VyIHNpdGUgZS1tYWlsIHVzIG9uIDxhIGhyZWY9Im1haWx0bzppbmZvQHBhcmVudGluZ25hdGlvbi5pbiIgc3R5bGU9ImNvbG9yOiM2NjY7Ym9yZGVyOm5vbmU7IG91dGxpbmU6bm9uZTsiPmluZm9AcGFyZW50aW5nbmF0aW9uLmluPC9hPi48L3A+DQpkAgMPZBYIZg8WAh8BZWQCAQ8WAh8BBZUUPGxpPjxkaXYgY2xhc3M9InBvc3RfdHRsX3dycCI+PGEgY2xhc3M9InBvc3RfaW1nIiBocmVmPSIjIj48aW1nIHNyYz0iaHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vcmVzb3VyY2VzL2FydGljbGVpbWFnZXMvdGh1bWIvNjcxLmpwZyIgYWx0PSIiIHN0eWxlPSd3aWR0aDo1MHB4OyBoZWlnaHQ6NTBweDsnIC8+PC9hPjxkaXYgY2xhc3M9InBvc3RfdHRsIj48YSBocmVmPSJodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9IZWFsdGgtUHJvYmxlbXMtaW4tUHJlZ25hbmN5L2luZGlnZXN0aW9uLWR1cmluZy1wcmVnbmFuY3lfNjcxIiBjbGFzcz0idHRsIj5JbmRpZ2VzdGlvbiBEdXJpbmcgUHJlZ25hbmN5PC9hPjwvZGl2PjwvZGl2Pjx1bCBjbGFzcz0iZXh0cmFfZHRsIj48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vR2VuZXJhbC9pcnJlZ3VsYXItcGVyaW9kcywtY2F1c2VzLWFuZC10cmVhdG1lbnQteW91LW11c3Qta25vd18xNDI2Ij5JcnJlZ3VsYXIgUGVyaW9kcywgQ2F1c2VzIGFuZCBUcmVhdG1lbnQgWW91IE11c3QgS25vdzwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9LaWRzLSg1LS0tMTItWXJzKS9kZXZlbG9waW5nLXNlbGYtY29uZmlkZW5jZS1pbi15b3VyLWNoaWxkXzk1Ij5EZXZlbG9waW5nIHNlbGYgY29uZmlkZW5jZSBpbiB5b3VyIGNoaWxkPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL0tpZHMtKDMtLS01LVlycykvaG93LXRvLXN0b3AtdGh1bWItc3Vja2luZy1hbmQtcGFjaWZpZXJzLWFuZC1pdHMtZWZmZWN0LW9uLXRlZXRoXzMyMCI+SG93IHRvIHN0b3AgdGh1bWIgc3Vja2luZyBhbmQgcGFjaWZpZXJzIGFuZCBpdHMgZWZmZWN0IG9uIHRlZXRoPC9hPjwvbGk+PC91bD48L2xpPjxsaT48ZGl2IGNsYXNzPSJwb3N0X3R0bF93cnAiPjxhIGNsYXNzPSJwb3N0X2ltZyIgaHJlZj0iIyI+PGltZyBzcmM9Imh0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL3Jlc291cmNlcy9hcnRpY2xlaW1hZ2VzL3RodW1iLzk1LmpwZyIgYWx0PSIiIHN0eWxlPSd3aWR0aDo1MHB4OyBoZWlnaHQ6NTBweDsnIC8+PC9hPjxkaXYgY2xhc3M9InBvc3RfdHRsIj48YSBocmVmPSJodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9LaWRzLSg1LS0tMTItWXJzKS9kZXZlbG9waW5nLXNlbGYtY29uZmlkZW5jZS1pbi15b3VyLWNoaWxkXzk1IiBjbGFzcz0idHRsIj5EZXZlbG9waW5nIHNlbGYgY29uZmlkZW5jZSBpbiB5b3VyIGNoaWxkPC9hPjwvZGl2PjwvZGl2Pjx1bCBjbGFzcz0iZXh0cmFfZHRsIj48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vR2VuZXJhbC8xMC10aXBzLWZvci1oZWxwaW5nLXlvdXItY2hpbGQtdG8tZWF0LWhlYWx0aHktZm9vZF81NTQiPjEwIHRpcHMgZm9yIGhlbHBpbmcgeW91ciBjaGlsZCB0byBlYXQgaGVhbHRoeSBmb29kPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL1RlZW5zL3dheXMtdG8taGVscC10ZWVuYWdlcnMtcmVkdWNlLWFuZC1tYW5hZ2Utc2Nob29sLXN0cmVzc18zNDciPldheXMgdG8gaGVscCB0ZWVuYWdlcnMgcmVkdWNlIGFuZCBtYW5hZ2Ugc2Nob29sIHN0cmVzczwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9OZXctQm9ybi9tYXNzYWdlLW9pbHMtZm9yLWJhYmllc184NjEiPk1hc3NhZ2Ugb2lscyBmb3IgYmFiaWVzPC9hPjwvbGk+PC91bD48L2xpPjxsaT48ZGl2IGNsYXNzPSJwb3N0X3R0bF93cnAiPjxhIGNsYXNzPSJwb3N0X2ltZyIgaHJlZj0iIyI+PGltZyBzcmM9Imh0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL3Jlc291cmNlcy9hcnRpY2xlaW1hZ2VzL3RodW1iLzg2MS5qcGciIGFsdD0iIiBzdHlsZT0nd2lkdGg6NTBweDsgaGVpZ2h0OjUwcHg7JyAvPjwvYT48ZGl2IGNsYXNzPSJwb3N0X3R0bCI+PGEgaHJlZj0iaHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vTmV3LUJvcm4vbWFzc2FnZS1vaWxzLWZvci1iYWJpZXNfODYxIiBjbGFzcz0idHRsIj5NYXNzYWdlIG9pbHMgZm9yIGJhYmllczwvYT48L2Rpdj48L2Rpdj48dWwgY2xhc3M9ImV4dHJhX2R0bCI+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL0tpZHMtKDMtLS01LVlycykvbWFrZS15b3VyLWNoaWxkLXJlYWR5LWZvci1wcmVzY2hvb2wtb3ItbnVyc2VyeV8xNzYiPk1ha2UgeW91ciBjaGlsZCByZWFkeSBmb3IgcHJlc2Nob29sIG9yIG51cnNlcnk8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vTGlmZXN0eWxlLVRpcHMtZm9yLWEtSGVhbHRoeS1NaW5kLWFuZC1Cb2R5L3dvcmtpbmctd2hpbGUtcHJlZ25hbnRfMjY1Ij5Xb3JraW5nIHdoaWxlIFByZWduYW50PC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL0tpZHMtKDUtLS0xMi1ZcnMpL3BhcmVudGluZy1zaHktY2hpbGRyZW5fMjA4Ij5QYXJlbnRpbmcgc2h5IGNoaWxkcmVuPC9hPjwvbGk+PC91bD48L2xpPmQCAg8WAh8BBcUBPGRpdiBzdHlsZT0nZmxvYXQ6IGxlZnQ7IHdpZHRoOiAzMjJweDsnPjxhIGhyZWY9Imh0dHA6Ly9iaXQubHkvMmg2bkhvVyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9pbWFnZXMvV2UtQXJlLVByZWduYW50LXZpZGVvLW9uLVBhcmVudGluZy1OYXRpb24uZ2lmIi8+PC9hPjxicj48L2Rpdj5kAgMPZBYCAgEPFgIfAQWyGDxkaXYgY2xhc3M9InR0bF93cnAiPjxoMz48YSBocmVmPSdodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9iYWJ5LXBob3RvLWNvbnRlc3QtaW5kaWEnPkJhYnkgcGhvdG8gY29udGVzdDwvYT48L2gzPjxwPldpbm5lcnMgb2YgQ29udGVzdCBmcm9tIHdlZWsgMTMvMTEvMjAxNyBUbyAxOS8xMS8yMDE3PC9wPjwvZGl2PjxkaXYgY2xhc3M9InJvdyI+PGRpdiBjbGFzcz0idGl0bGUiPjAgVG8gMSBZZWFyIENvbnRlc3Q8L2Rpdj48dWw+PGxpPjxoNT5Nb3N0IFZvdGVkIEF3YXJkIDE8L2g1PjxkaXYgY2xhc3M9J2ltYWdlMSc+PGEgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vYmFieS1waG90by1jb250ZXN0LWluZGlhL0JhYnluYW1lX1NhcnRoYWsgU2hhcm1hXzQwMTY2NCc+PGltZyBzcmM9J2h0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL3Jlc291cmNlcy9jb250ZXN0aW1hZ2VzL3RodW1iL3NhcnRoYWstc2hhcm1hLTgxMjg0My5qcGcnIHdpZHRoPSc5OCcgaGVpZ2h0PSc1MicgYWx0PSdQYXJldG50aW5nIE5hdGlvbiBJbmRpYScgLz48L2E+PC9kaXY+PGg0PjxhIGhyZWY9J2h0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL2JhYnktcGhvdG8tY29udGVzdC1pbmRpYS9CYWJ5bmFtZV9TYXJ0aGFrIFNoYXJtYV80MDE2NjQnPlNhcnRoYWsgU2hhcm1hPC9hPjwvaDQ+PC9saT48bGk+PGg1Pk1vc3QgVm90ZWQgQXdhcmQgMjwvaDU+PGRpdiBjbGFzcz0naW1hZ2UxJz48YSBocmVmPSdodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9iYWJ5LXBob3RvLWNvbnRlc3QtaW5kaWEvQmFieW5hbWVfTmF2eWEgam9zaGlfMzk4OTk1Jz48aW1nIHNyYz0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vcmVzb3VyY2VzL2NvbnRlc3RpbWFnZXMvdGh1bWIvbmF2eWEtam9zaGktODA3ODA3LmpwZycgd2lkdGg9Jzk4JyBoZWlnaHQ9JzUyJyBhbHQ9J1BhcmV0bnRpbmcgTmF0aW9uIEluZGlhJyAvPjwvYT48L2Rpdj48aDQ+PGEgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vYmFieS1waG90by1jb250ZXN0LWluZGlhL0JhYnluYW1lX05hdnlhIGpvc2hpXzM5ODk5NSc+TmF2eWEgam9zaGk8L2E+PC9oND48L2xpPjwvdWw+PC9kaXY+PGRpdiBjbGFzcz0icm93Ij48ZGl2IGNsYXNzPSJ0aXRsZSI+MSBUbyAyIFllYXIgQ29udGVzdDwvZGl2Pjx1bD48bGk+PGg1Pk1vc3QgVm90ZWQgQXdhcmQgMTwvaDU+PGRpdiBjbGFzcz0naW1hZ2UyJz48YSBocmVmPSdodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9iYWJ5LXBob3RvLWNvbnRlc3QtaW5kaWEvQmFieW5hbWVfYW1lbGlhIG1zXzM5OTc0Mic+PGltZyBzcmM9J2h0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL3Jlc291cmNlcy9jb250ZXN0aW1hZ2VzL3RodW1iL3phbWktODE3MTY4LmpwZycgd2lkdGg9Jzk4JyBoZWlnaHQ9JzUyJyBhbHQ9J1BhcmV0bnRpbmcgTmF0aW9uIEluZGlhJyAvPjwvYT48L2Rpdj48aDQ+PGEgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vYmFieS1waG90by1jb250ZXN0LWluZGlhL0JhYnluYW1lX2FtZWxpYSBtc18zOTk3NDInPmFtZWxpYSBtczwvYT48L2g0PjwvbGk+PGxpPjxoNT5Nb3N0IFZvdGVkIEF3YXJkIDI8L2g1PjxkaXYgY2xhc3M9J2ltYWdlMic+PGEgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vYmFieS1waG90by1jb250ZXN0LWluZGlhL0JhYnluYW1lX015cmEgTXVzdGFmYV8zOTkwMDAnPjxpbWcgc3JjPSdodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9yZXNvdXJjZXMvY29udGVzdGltYWdlcy90aHVtYi9teXJhLW11c3RhZmEtODA3ODE3LmpwZycgd2lkdGg9Jzk4JyBoZWlnaHQ9JzUyJyBhbHQ9J1BhcmV0bnRpbmcgTmF0aW9uIEluZGlhJyAvPjwvYT48L2Rpdj48aDQ+PGEgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vYmFieS1waG90by1jb250ZXN0LWluZGlhL0JhYnluYW1lX015cmEgTXVzdGFmYV8zOTkwMDAnPk15cmEgTXVzdGFmYTwvYT48L2g0PjwvbGk+PC91bD48L2Rpdj48ZGl2IGNsYXNzPSJyb3ciPjxkaXYgY2xhc3M9InRpdGxlIj4yIFllYXJzIEFuZCBBYm92ZSBDb250ZXN0PC9kaXY+PHVsPjxsaT48aDU+TW9zdCBWb3RlZCBBd2FyZCAxPC9oNT48ZGl2IGNsYXNzPSdpbWFnZTMnPjxhIGhyZWY9J2h0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL2JhYnktcGhvdG8tY29udGVzdC1pbmRpYS9CYWJ5bmFtZV9SYWtzaGl0IFNoYXJtYV80MDIxNjcnPjxpbWcgc3JjPSdodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9yZXNvdXJjZXMvY29udGVzdGltYWdlcy90aHVtYi9yYWtzaGl0LXNoYXJtYS04MTM4NDMuanBnJyB3aWR0aD0nOTgnIGhlaWdodD0nNTInIGFsdD0nUGFyZXRudGluZyBOYXRpb24gSW5kaWEnIC8+PC9hPjwvZGl2PjxoND48YSBocmVmPSdodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9iYWJ5LXBob3RvLWNvbnRlc3QtaW5kaWEvQmFieW5hbWVfUmFrc2hpdCBTaGFybWFfNDAyMTY3Jz5SYWtzaGl0IFNoYXJtYTwvYT48L2g0PjwvbGk+PGxpPjxoNT5Nb3N0IFZvdGVkIEF3YXJkIDI8L2g1PjxkaXYgY2xhc3M9J2ltYWdlMyc+PGEgaHJlZj0naHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vYmFieS1waG90by1jb250ZXN0LWluZGlhL0JhYnluYW1lX015cmEgTWVzc29uXzM5OTExNyc+PGltZyBzcmM9J2h0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL3Jlc291cmNlcy9jb250ZXN0aW1hZ2VzL3RodW1iL215cmEtbWVzc29uLTgwODA3NS5qcGcnIHdpZHRoPSc5OCcgaGVpZ2h0PSc1MicgYWx0PSdQYXJldG50aW5nIE5hdGlvbiBJbmRpYScgLz48L2E+PC9kaXY+PGg0PjxhIGhyZWY9J2h0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL2JhYnktcGhvdG8tY29udGVzdC1pbmRpYS9CYWJ5bmFtZV9NeXJhIE1lc3Nvbl8zOTkxMTcnPk15cmEgTWVzc29uPC9hPjwvaDQ+PC9saT48L3VsPjwvZGl2PjxhIGNsYXNzPSdlbnJvbGxfa2lkc19idG4nIGhyZWY9J2h0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL2JhYnktcGhvdG8tY29udGVzdC1pbmRpYS1yZWdpc3RyYXRpb24uYXNweCc+Q2xpY2sgaGVyZSB0byBlbnJvbGwgeW91ciBraWQ8L2E+ZAIHDw9kFgIfAAU3amF2YXNjcmlwdDpyZXR1cm4gY2hlY2tLZXkoJ2N0bDAwX2ltZ3N1YnNjcmliZScsZXZlbnQpO2QCCQ8WAh4EaHJlZgUnaHR0cDovL3d3dy5wYXJlbnRpbmduYXRpb24uaW4vY29udGFjdHVzZAIKDxYCHwIFLWh0dHA6Ly93d3cucGFyZW50aW5nbmF0aW9uLmluL2FkdmVydGlzZXdpdGh1c2QCCw8WBB8CBSxodHRwOi8vd3d3LnBhcmVudGluZ25hdGlvbi5pbi9wcml2YWN5LXBvbGljeR4FY2xhc3MFBmFjdGl2ZWRkfntr9NW2KkvFMz+U9g6iFFNIReB8BN0NKKuNW5rU0z4=">
 
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2927320D">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAifdkAypYro795jzWmkfT5LTb2KuHBAOchRqwMwAAq0filJDy3lksA7AiKWv+xx1UefVFyO0cCPrpER53fgJQ2ehU2mlcgQcwAgc2djSePU3WdlmWJjc0PRNHeSU3MEIMHGFo59gLJpFfyO+ysM4B/YWZbSYf7tc3/33BzwGnZ0Do50MifFBE7dERH+KcMczGhySdEiGDti+5hr6mrbRC01">
+        <div>
+            <div class="header">
+                <div class="top_header">
+                    <div class="main">
+                        <div class="logo">
+                            <a class="lg_1" href="http://www.parentingnation.in/Default.aspx">
+                                <img src="http://www.parentingnation.in/images/logo.png" alt="">
+                                <h3>Parenting <span>Nation</span></h3>
+                            </a>
+							<a class="lg_2" href="https://goo.gl/jtNVkj" target="_blank"><img src="http://www.parentingnation.in/images/pregkem.png" alt=""></a>
+                        </div>
+                        <div class="other_optns">
+                            <div class="search_wrap">
+                                <ul class="search_ul">
+                                    <li class="equal search_icon">
+                                        <img src="http://www.parentingnation.in/images/search.png" alt=""></li>
 
-<script src="/ScriptResource.axd?d=1t9HzzLtpkHYA3NC2ydfKaZkrlyV4N9xh3dVaSeOMgSW5Ct8OuJKfVPlR5-1qLFYMZDaG7b9wYKLIKeALHhKMp-_e-ksqIcmkSHOt6EBPbpyR19eRRQngsIJ7vdwwp7MzD9rCmpmqCHBFEUkHkv9SrWEMXLr5YRbQPjUwNEGkYQ1&amp;t=6119e399" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAATvbtwoxPsK7NCtSHbmnY3dW27JoBHtI1hZjAuuN4aKoGY2oXC0Lry9m7r5XamNZhaAytEHMNb+9P4R2wPBsb8R+mIazWLlDmHpJtpphmIaO+WM/Q75FzyE+gRW85ELZUk=">
+                                    <li class="equal srch_box">
+                                        <div class="search_box">
+                                            <input name="ctl00$txtsearch" type="text" value="What are you looking for?" id="ctl00_txtsearch" onfocus="if (this.value == 'What are you looking for?') { this.value='';} " onblur="if (this.value == '') { this.value='What are you looking for?'; }" onclick="this.value=''" onkeypress="javascript:return checkKey('ctl00_btnsearch',event);">
+                                            
+                                            
+                                            <input type="button" name="ctl00$btnsearch" value="Search" onclick="javascript:__doPostBack('ctl00$btnsearch','')" id="ctl00_btnsearch" class="srch_btn">
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="search_wrap">
+                                <ul class="search_ul">
+                                    <li class="equal search_icon">
+                                        <img src="http://www.parentingnation.in/images/search.png" alt=""></li>
+                                    <li class="equal sel_city">
+                                        <div class="select_city">
+                                            <select id="ddlsearchitem" class="chosen-select" style="width: 170px;"></select>
+                                        </div>
+                                    </li>
+                                    <li class="equal sel_city">
+                                        <div class="select_city" style="width: 148px;">
+                                            <select id="ddlcity" class="chosen-select" style="padding-right: 0px;"></select>
+                                        </div>
+                                    </li>
+                                    <li class="equal srch_box">
+                                        <div class="search_box">
+                                            <input type="button" name="ctl00$Button1" value="Go" onclick="javascript:return searchelement();__doPostBack('ctl00$Button1','')" id="ctl00_Button1" class="srch_btn">
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- main End -->
+                <!-- Navigation Start -->
+                <div class="navigation">
+                    <div class="main">
+                        <a href="#" class="lines-button x2"><span class="lines"></span></a>
+                        <div class="main_menu">
+                             
+
     
-    <div>
-        <div id="header">
-             
-<div class="header">
-    <div class="boy" id="boy">
-        <img src="http://www.parentingnation.in/images/boy.png" width="44" height="68" alt="">
-    </div>
-    <span class="search">
-        <input name="menu1$txtsearch" type="text" value="What are you looking for?" id="menu1_txtsearch" class="input-search" onfocus="if (this.value == 'What are you looking for?') { this.value='';} " onblur="if (this.value == '') { this.value='What are you looking for?'; }" onclick="this.value=''" onkeypress="javascript:return checkKey('menu1_btnsearch',event);">
-        <input type="button" name="menu1$btnsearch" value="" onclick="javascript:__doPostBack('menu1$btnsearch','')" id="menu1_btnsearch" class="search-btn">
-    </span>
-    <div class="top-nav">
-        <ul>
-            <li><a href="http://www.parentingnation.in/" title="Home" class="no-padL"><em class="leftnav">Home</em></a></li>
-            <li><a title="Pregnancy" href="#">Pregnancy</a><ul><li><a title="Pre Pregnancy" href="Pre-Pregnancy">Pre Pregnancy</a></li><li><a title="Pregnancy" href="Pregnancy">Pregnancy</a></li><li><a title="Post Pregnancy" href="Post-Pregnancy">Post Pregnancy</a></li></ul></li><li><a title="New Born" href="New-Born">New Born</a></li><li><a title="Kids" href="#">Kids</a><ul><li><a title="Kids (1 - 3 Yrs)" href="Kids-(1---3-Yrs)">Kids (1 - 3 Yrs)</a></li><li><a title="Kids (3 - 5 Yrs)" href="Kids-(3---5-Yrs)">Kids (3 - 5 Yrs)</a></li><li><a title="Kids (5 - 12 Yrs)" href="Kids-(5---12-Yrs)">Kids (5 - 12 Yrs)</a></li></ul></li><li><a title="Teens" href="Teens">Teens</a></li><li><a title="General" href="General">General</a></li><li><a title="Lifestyle" href="Lifestyle">Lifestyle</a></li><li><a title="Kids Activities" href="#">Kids Activities</a><ul><li><a title="Kids Video" href="http://www.parentingnation.in/Videos">Kids Video</a></li><li><a title="Nursery Rhymes" href="Nursery-Rhymes">Nursery Rhymes</a></li><li><a title="Indian Culture" href="Indian-Culture">Indian Culture</a></li><li><a title="Fancy Dress Speeches" href="Fancy-Dress-Speeches">Fancy Dress Speeches</a></li></ul></li>            
+        <ul class="firstul">
+            <li class="current_page_item"><a href="http://www.parentingnation.in/Default.aspx" title="Home" class="no-padL">Home</a></li>
+            <li class="sub"><a title="Pregnancy" href="#">Pregnancy</a><ul class=""><li><a title="Pre Pregnancy" href="http://www.parentingnation.in/Pre-Pregnancy">Pre Pregnancy</a></li><li><a title="Pregnancy" href="http://www.parentingnation.in/Pregnancy">Pregnancy</a></li><li><a title="Post Pregnancy" href="http://www.parentingnation.in/Post-Pregnancy">Post Pregnancy</a></li></ul></li><li><a title="New Born" href="http://www.parentingnation.in/New-Born">New Born</a></li><li class="sub"><a title="Kids" href="#">Kids</a><ul class=""><li><a title="Kids (1 - 3 Yrs)" href="http://www.parentingnation.in/Kids-(1---3-Yrs)">Kids (1 - 3 Yrs)</a></li><li><a title="Kids (3 - 5 Yrs)" href="http://www.parentingnation.in/Kids-(3---5-Yrs)">Kids (3 - 5 Yrs)</a></li><li><a title="Kids (5 - 12 Yrs)" href="http://www.parentingnation.in/Kids-(5---12-Yrs)">Kids (5 - 12 Yrs)</a></li></ul></li><li><a title="Teens" href="http://www.parentingnation.in/Teens">Teens</a></li><li><a title="General" href="http://www.parentingnation.in/General">General</a></li><li><a title="Lifestyle" href="http://www.parentingnation.in/Lifestyle">Lifestyle</a></li><li class="sub"><a title="Kids Activities" href="#">Kids Activities</a><ul class=""><li><a title="Kids Video" href="http://www.parentingnation.in/Videos">Kids Video</a></li><li><a title="Nursery Rhymes" href="http://www.parentingnation.in/Nursery-Rhymes">Nursery Rhymes</a></li><li><a title="Indian Culture" href="http://www.parentingnation.in/Indian-Culture">Indian Culture</a></li><li><a title="Fancy Dress Speeches" href="http://www.parentingnation.in/Fancy-Dress-Speeches">Fancy Dress Speeches</a></li></ul></li>            
             <li><a class="no-padR" title="Product Review" href="http://www.parentingnation.in/product-review">
-                <em class="rightnav">Product Reviews</em></a></li>
+               Product Reviews</a></li>
         </ul>
-    </div>
-</div>
+   
 
-            <div id="mid-section">
-                <div class="mid-part">
-                     
-<div class="tab-link no-padding" style="width: 100%; margin-bottom:5px;">
-    <a href="calculator" title="Ovulation Calculator and others" class="link1"></a><a href="Indianbabynames" title="Baby Names" class="link2"></a><a href="http://www.parentingnation.in/Child-Development-Stages" title="Baby Devlopment" class="link9"></a><a href="http://www.parentingnation.in/forum" title="Parents Forum" class="link10"></a>
-    <div class="tabsrchsec">
-        <div class="inr" style="width: 510px;">
-            <span class="lblnm">Select:</span>
-            <select id="ddlsearchitem" class="selbox" style="width: 170px;">
-            </select>
-            <span class="lblnm">City:</span>
-            <select id="ddlcity" class="selbox">
-            </select>
-            <input type="submit" name="slider$btnsearch" value="" onclick="javascript:return searchelement();" id="slider_btnsearch" class="buttonsearch">
+                        </div>
+                    </div>
+                </div>
+                <!-- Navigation End -->
+
+            </div>
+            <!-- Header End -->
+
+            <div class="clear"></div>
+            <div id="ctl00_pnllogin">
+	
+            <div style="display:none;" id="afterlogin" class="brdcrums_wrp">
+                <div class="main post">
+                    
+                    <ul>
+                    <li>&nbsp;&nbsp;</li>   
+                        <li><a href="http://www.parentingnation.in/changepassword.aspx">Change Password</a></li>
+                        <li><a href="http://www.parentingnation.in/EditProfile.aspx">Edit Profile</a></li>
+                        <li><a href="http://www.parentingnation.in/profile.aspx">View Contest Detail</a></li>                        
+                        <li><a href="http://www.parentingnation.in/photocontest.aspx">Register New Baby</a></li>
+                       <a id="ctl00_lnklogout" class="lg_out" href="javascript:__doPostBack('ctl00$lnklogout','')">Logout</a>
+                    </ul>
+                </div>
+            </div>
+                
+</div>
+            <div class="ifr_wrap">
+                
+                
+            </div>
+            <div class="ifr_wrap_mob">-</div>
+            
+    <div id="beforlogin" class="brdcrums_wrp">
+        <div class="main post">
+            <ul>
+                <li><a href="Default.aspx">Home</a></li>
+                <li class="active">Privacy Policy</li>
+            </ul>
         </div>
     </div>
-</div>
 
-                    
-                    
-                    <div id="divresult" class="mdlbox" style="padding-top: 10px;width: 980px;">
-                        <div class="top-title-green_pr_policy">
-                            <span class="title">
-                                Privacy Policy - Terms &amp; Condition
-                            </span>
-                        </div>
-                        <div class="content" style="width: 958px;">
-                            <p>
+    <div class="inner_cntnt_wrap">
+        <div class="main post">
+            <div class="left_sec">
+                <div class="g_ads">
+                    <img src="images/g_ads_img1.jpg" alt="">
+                </div>
+                <div class="clear"></div>
+                <div class="zodiac_div">
+                    <div class="clear"></div>
+                    <div class="srch_zodiac">
+                        <h2>Privacy Policy</h2>
+                     <p>
+                         </p><div class="privacypolicy">
+                                                            <p>
 	<strong>Introduction:</strong><br>
 	<br>
 	Hello and welcome to Parenting Nation. We designed this privacy policy to share with you our method of collecting and using any information or data provided by users through our site. we request you to make sure complete reading and understanding of our privacy policy before utilizing and sending any information to our site.<br>
@@ -142,68 +327,206 @@
 	<br>
 	To upload, change and remove your personal details on our site e-mail us on <a href="mailto:info@parentingnation.in" style="color:#666;border:none; outline:none;">info@parentingnation.in</a>.</p>
 
-                        </div>
-                        <div class="bot-co-pr_pol">
-                            <img src="http://www.parentingnation.in/images/bot-co-l.gif" width="5" height="5" alt=""></div>
-                    </div>
-                    
-                    <div class="clear">
+                             </div>
+                                                        <p></p>
                     </div>
                 </div>
-                
-                <div class="clear">
-                </div>
-                <div class="footer-main">
-                    
-<div class="footer">
-    <a class="link" rel="nofollow" href="http://www.parentingnation.in/contactus">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link" rel="nofollow" href="http://www.parentingnation.in/advertisewithus">Advertise With Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link" rel="nofollow" href="http://www.parentingnation.in/privacy-policy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;Copyright
-    © Parentingnation.in. All rights reserved. <span class="footer-link"><a href="http://parentingnation.in/India">
-        Indian Cities</a> </span>
+            </div>
+            
+            
+
+<script type="text/javascript" src="http://www.parentingnation.in/js/home-jquery.js"></script>
+
+<div class="right_sec">
+    <!--<div class="rel_arti_wrp">    
+        <a href="http://amzn.to/2u6HGdk" target="_blank" onclick="Insertclicks();"><img src="../images/280x250.gif" alt="" /></a>
+    </div>-->
+    <div class="rel_arti_wrp">
+        <h3>Related Articles</h3>
+        <div class="container">
+            <ul class="posts_list">
+                <li><div class="post_ttl_wrp"><a class="post_img" href="#"><img src="http://www.parentingnation.in/resources/articleimages/thumb/671.jpg" alt="" style="width:50px; height:50px;"></a><div class="post_ttl"><a href="http://www.parentingnation.in/Health-Problems-in-Pregnancy/indigestion-during-pregnancy_671" class="ttl">Indigestion During Pregnancy</a></div></div><ul class="extra_dtl"><li><a href="http://www.parentingnation.in/General/irregular-periods,-causes-and-treatment-you-must-know_1426">Irregular Periods, Causes and Treatment You Must Know</a></li><li><a href="http://www.parentingnation.in/Kids-(5---12-Yrs)/developing-self-confidence-in-your-child_95">Developing self confidence in your child</a></li><li><a href="http://www.parentingnation.in/Kids-(3---5-Yrs)/how-to-stop-thumb-sucking-and-pacifiers-and-its-effect-on-teeth_320">How to stop thumb sucking and pacifiers and its effect on teeth</a></li></ul></li><li><div class="post_ttl_wrp"><a class="post_img" href="#"><img src="http://www.parentingnation.in/resources/articleimages/thumb/95.jpg" alt="" style="width:50px; height:50px;"></a><div class="post_ttl"><a href="http://www.parentingnation.in/Kids-(5---12-Yrs)/developing-self-confidence-in-your-child_95" class="ttl">Developing self confidence in your child</a></div></div><ul class="extra_dtl"><li><a href="http://www.parentingnation.in/General/10-tips-for-helping-your-child-to-eat-healthy-food_554">10 tips for helping your child to eat healthy food</a></li><li><a href="http://www.parentingnation.in/Teens/ways-to-help-teenagers-reduce-and-manage-school-stress_347">Ways to help teenagers reduce and manage school stress</a></li><li><a href="http://www.parentingnation.in/New-Born/massage-oils-for-babies_861">Massage oils for babies</a></li></ul></li><li><div class="post_ttl_wrp"><a class="post_img" href="#"><img src="http://www.parentingnation.in/resources/articleimages/thumb/861.jpg" alt="" style="width:50px; height:50px;"></a><div class="post_ttl"><a href="http://www.parentingnation.in/New-Born/massage-oils-for-babies_861" class="ttl">Massage oils for babies</a></div></div><ul class="extra_dtl"><li><a href="http://www.parentingnation.in/Kids-(3---5-Yrs)/make-your-child-ready-for-preschool-or-nursery_176">Make your child ready for preschool or nursery</a></li><li><a href="http://www.parentingnation.in/Lifestyle-Tips-for-a-Healthy-Mind-and-Body/working-while-pregnant_265">Working while Pregnant</a></li><li><a href="http://www.parentingnation.in/Kids-(5---12-Yrs)/parenting-shy-children_208">Parenting shy children</a></li></ul></li>
+
+            </ul>
+        </div>
+    </div>
+     <div class="ads_wrp">
+        <div style="float: left; width: 322px;"><a href="http://bit.ly/2h6nHoW" target="_blank"><img src="http://www.parentingnation.in/images/We-Are-Pregnant-video-on-Parenting-Nation.gif"></a><br></div>
+    </div>
+    <div id="ctl00_ContentPlaceHolder1_Rightpanel_dvWinner" class="ads_wrp">
+        <div class="bb_pht_contest newdesign">
+            <div class="newd">
+                <div class="ttl_wrp"><h3><a href="http://www.parentingnation.in/baby-photo-contest-india">Baby photo contest</a></h3><p>Winners of Contest from week 13/11/2017 To 19/11/2017</p></div><div class="row"><div class="title">0 To 1 Year Contest</div><ul><li><h5>Most Voted Award 1</h5><div class="image1"><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_Sarthak Sharma_401664"><img src="http://www.parentingnation.in/resources/contestimages/thumb/sarthak-sharma-812843.jpg" width="98" height="52" alt="Paretnting Nation India"></a></div><h4><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_Sarthak Sharma_401664">Sarthak Sharma</a></h4></li><li><h5>Most Voted Award 2</h5><div class="image1"><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_Navya joshi_398995"><img src="http://www.parentingnation.in/resources/contestimages/thumb/navya-joshi-807807.jpg" width="98" height="52" alt="Paretnting Nation India"></a></div><h4><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_Navya joshi_398995">Navya joshi</a></h4></li></ul></div><div class="row"><div class="title">1 To 2 Year Contest</div><ul><li><h5>Most Voted Award 1</h5><div class="image2"><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_amelia ms_399742"><img src="http://www.parentingnation.in/resources/contestimages/thumb/zami-817168.jpg" width="98" height="52" alt="Paretnting Nation India"></a></div><h4><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_amelia ms_399742">amelia ms</a></h4></li><li><h5>Most Voted Award 2</h5><div class="image2"><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_Myra Mustafa_399000"><img src="http://www.parentingnation.in/resources/contestimages/thumb/myra-mustafa-807817.jpg" width="98" height="52" alt="Paretnting Nation India"></a></div><h4><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_Myra Mustafa_399000">Myra Mustafa</a></h4></li></ul></div><div class="row"><div class="title">2 Years And Above Contest</div><ul><li><h5>Most Voted Award 1</h5><div class="image3"><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_Rakshit Sharma_402167"><img src="http://www.parentingnation.in/resources/contestimages/thumb/rakshit-sharma-813843.jpg" width="98" height="52" alt="Paretnting Nation India"></a></div><h4><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_Rakshit Sharma_402167">Rakshit Sharma</a></h4></li><li><h5>Most Voted Award 2</h5><div class="image3"><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_Myra Messon_399117"><img src="http://www.parentingnation.in/resources/contestimages/thumb/myra-messon-808075.jpg" width="98" height="52" alt="Paretnting Nation India"></a></div><h4><a href="http://www.parentingnation.in/baby-photo-contest-india/Babyname_Myra Messon_399117">Myra Messon</a></h4></li></ul></div><a class="enroll_kids_btn" href="http://www.parentingnation.in/baby-photo-contest-india-registration.aspx">Click here to enroll your kid</a>
+            </div>
+        </div>
+    </div>
+   
+    <div class="trnd_articles_list">
+        <ul>
+            <li class="ttl">Trending Articles</li>
+            <li><a href="#">
+                </a></li><li><a href="http://www.parentingnation.in/Healthy-Diet-Plan-For-Kids/diet-plan-for-1-year-old-baby_339" title="Diet plan for 1 year old baby">Diet plan for 1 year old baby</a></li><li><a href="http://www.parentingnation.in/Healthy-Food-tips/diet-plan-for-pregnant-women_335" title="Diet Plan for Pregnant Women">Diet Plan for Pregnant Women</a></li><li><a href="http://www.parentingnation.in/How-to-get-pregnant/important-tips-for-getting-pregnancy-for-the-first-time_245" title="Important tips for getting pregnancy for the first time">Important tips for getting pregnancy for the first time</a></li><li><a href="http://www.parentingnation.in/Health-Problems-in-Pregnancy/how-does-low-amniotic-fluid-affect-pregnancy?_228" title="How Does Low Amniotic Fluid Affect Pregnancy?">How Does Low Amniotic Fluid Affect Pregnancy?</a></li><li><a href="http://www.parentingnation.in/Infections-and-Diseases/the-uterus-tuberculosis-(tb)-during-pregnancy_213" title="The Uterus Tuberculosis (TB) During Pregnancy">The Uterus Tuberculosis (TB) During Pregnancy</a></li><li><a href="http://www.parentingnation.in/Kids-(3---5-Yrs)/fancy-dress-ideas-for-preschoolers_198" title="Fancy Dress Ideas for Preschoolers">Fancy Dress Ideas for Preschoolers</a></li><li><a href="http://www.parentingnation.in/Post-Pregnancy/exercising-towards-a-flat-stomach-after-pregnancy_190" title="Exercising towards a flat stomach after pregnancy">Exercising towards a flat stomach after pregnancy</a></li><li><a href="http://www.parentingnation.in/Lifestyle-Tips-for-a-Healthy-Mind-and-Body/indian-baby-shower-ceremony---godh-bharai-rasam_129" title="Indian Baby Shower Ceremony - Godh Bharai Rasam">Indian Baby Shower Ceremony - Godh Bharai Rasam</a></li><li><a href="http://www.parentingnation.in/New-Born/importance-of-namkaran-ceremony-in-india_118" title="Importance of namkaran ceremony in India">Importance of namkaran ceremony in India</a></li>
+        </ul>
+    </div>
+    
+    <div class="fb_posts">
+            
+<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+    <script type="text/javascript" language="javascript">
+        FB.init({
+            appId: '139680412807746',
+            status: true,
+            cookie: true,
+            xfbml: true,
+            oauth: true, // enable OAuth 2.0
+            channelUrl: 'http://www.parentingnation.com/channel.html' //custom channel
+        }); 
+    </script> 
+    <div id="fb-root"></div>
+    <script type="text/javascript">(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=139680412807746";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));</script>
+            
+        
+        <fb:like-box href="http://www.facebook.com/ParentingNations" app_id="139680412807746" width="340" show_faces="false" header="false" stream="true" show_border="true" height="375"></fb:like-box>
+    
+
+<input type="hidden" name="ctl00$ContentPlaceHolder1$Rightpanel$facebooklike$hidflag" id="ctl00_ContentPlaceHolder1_Rightpanel_facebooklike_hidflag" value="move">
+
+
+    </div>
 </div>
-<script type="text/javascript" language="javascript" src="js/genfunc.js"></script>
-<script type="text/javascript" language="javascript"> 
-    <!--
+
+        </div>
+    </div>
+
+            <div class="footer">
+                <div class="main">
+                    <div class="subscribe_wrp">
+                        <p>To receive our newsletter please enter your email address below</p>
+                        <div class="subscribe_form">
+                            <input name="ctl00$txtsubemail" type="text" id="ctl00_txtsubemail" onkeyup="return EnterEvent(event);" placeholder="Email Address" onkeypress="javascript:return checkKey('ctl00_imgsubscribe',event);">
+                            <input type="submit" name="ctl00$imgsubscribe" value="Subscribe" onclick="javascript:return ImageClick();" id="ctl00_imgsubscribe" class="subscribe_btn">                            
+                        </div><br>
+                        <span id="spnldrmail" style=" color:red;  position: inherit; display: none;">
+                                <img src="http://www.parentingnation.in/images/ajax-loader.gif">
+                            </span>
+                    </div>
+                </div>
+
+                <div class="social_wrp">
+                    <ul>
+                        <li class="fb"><a target="_blank" href="http://www.facebook.com/ParentingNations"></a></li>
+                        <li class="tw"><a target="_blank" href="http://twitter.com/#!/parentingnation"></a></li>
+                        <li class="gplus"><a target="_blank" href="https://plus.google.com/116173836777716619164"></a></li>
+                       
+                    </ul>
+                </div>
+
+                <div class="footer_nav">
+                    <ul>
+                        <li><a href="http://www.parentingnation.in/contactus" id="ctl00_ancContact">Contact Us</a></li>
+                        <li><a href="http://www.parentingnation.in/advertisewithus" id="ctl00_ancAdvertise">Advertise With Us</a></li>
+                        <li><a href="http://www.parentingnation.in/privacy-policy" id="ctl00_ancPrivacy" class="active">Privacy Policy</a></li>
+                        <li class="cp_ryt">© 2017<a href="http://www.parentingnation.in/">Parenting Nation</a>. <a class="cp_logo" href="http://www.parentingnation.in/"></a>All Rights Reserved.</li>
+                    </ul>
+                    <a href="http://www.parentingnation.in/India">Indian Cities</a>
+                </div>
+            </div>
+        </div>
+
+        
+  <script type="text/javascript" language="javascript">
+	var str = window.location.href;
+	var n = str.includes("baby-photo-contest-india-registration");
+	var strbool = false;
+	var strtmpbool = false;
+	if(str.includes("baby-photo-contest-india-registration"))
+	{ strbool = true; strtmpbool = true; }
+	else if(str.includes("vote"))
+	{ strbool = true;}
+	else if(str.includes("banner"))
+	{ strbool = true; strtmpbool = true; }
+	else if(str.includes("changepassword"))
+	{ strbool = true; strtmpbool = true; }
+	else if(str.includes("editprofile"))
+	{ strbool = true; strtmpbool = true; }
+	else if(str.includes("profile"))
+	{ strbool = true; strtmpbool = true; }
+	else if(str.includes("baby-photo-contest-india"))
+	{ strbool = true; strtmpbool = true; }
+	else if(str.includes("photocontest"))
+	{ strbool = true; strtmpbool = true; }
+	else if(str.includes("mbabydetaillike"))
+	{ strbool = true; strtmpbool = true; }
+	else if(str.includes("mbabydetail"))
+	{ strbool = true; strtmpbool = true; }
+	else
+	{ strtmpbool = true;}
+	if(strtmpbool == false)
+	{
+	}
+	else if(strbool == true)
+	{
+		<!--
 		//<![CDATA[
 		twatchData = 'page=' + encodeURIComponent(window.location);
 		if (typeof document.referrer != 'undefined' && document.referrer != '') {
 			twatchData += '&ref=' + encodeURIComponent(document.referrer);
 		}
-		
+    
+		twatchData += '&website_id=' + encodeURIComponent('photobabycontestparenting');
+		if (typeof screen.width != 'undefined') {
+			twatchData += '&resolution=' + screen.width + 'x' + screen.height;
+		}
+		document.write('<scr' + 'ipt type="text/javascript" ' +
+	  'src="http://www.websitedesigner.ws/tracewatch/remote/js_logger.php?' + twatchData + '">' +
+	  '</scr' + 'ipt>');
+		//]]>
+		//-->		
+	}
+	else
+	{
+		<!--
+		//<![CDATA[
+		twatchData = 'page=' + encodeURIComponent(window.location);
+		if (typeof document.referrer != 'undefined' && document.referrer != '') {
+			twatchData += '&ref=' + encodeURIComponent(document.referrer);
+		}
+
 		twatchData += '&website_id=' + encodeURIComponent('pnindia');
 		if (typeof screen.width != 'undefined') {
 			twatchData += '&resolution=' + screen.width + 'x' + screen.height;
 		}
 		document.write('<scr' + 'ipt type="text/javascript" ' +
-		'src="http://www.websitedesigner.ws/tracewatch/remote/js_logger.php?' + twatchData + '">' +
-		'</scr' + 'ipt>');
+			'src="http://www.websitedesigner.ws/tracewatch/remote/js_logger.php?' + twatchData + '">' +
+			'</scr' + 'ipt>');
 		//]]>
-	//-->
-</script><script type="text/javascript" src="http://www.websitedesigner.ws/tracewatch/remote/js_logger.php?page=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161124024949id_%2Fhttp%253A%2F%2Fwww.parentingnation.in%2Fprivacy-policy&amp;website_id=pnindia&amp;resolution=800x600"></script>
-<script>
+		//-->
+	}
+  </script><script type="text/javascript" src="http://www.websitedesigner.ws/tracewatch/remote/js_logger.php?page=https%3A%2F%2Fweb.archive.org%2Fweb%2F20171124093610id_%2Fhttp%253A%2F%2Fwww.parentingnation.in%2Fprivacy-policy&amp;website_id=pnindia&amp;resolution=800x600"></script>
+  <script>
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
             (i[r].q = i[r].q || []).push(arguments)
         }, i[r].l = 1 * new Date(); a = s.createElement(o),
-  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-42421222-1', 'parentingnation.in');
     ga('send', 'pageview');
 
-</script>
-
-                </div>
-            </div>
-            
-        </div>
-        
-    </div>
+	</script>
     
-    </form>
-    <script src="js/parentingnation.js" type="text/javascript"></script>
-    <script src="validationengine/js/jquery-1.6.min.js" type="text/javascript" charset="utf-8"></script>
-    <script src="validationengine/js/languages/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8"></script>
-    <script src="validationengine/js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>
+<script>beforelogin()</script></form>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K8SZFLG"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 
 
 </body></html>
