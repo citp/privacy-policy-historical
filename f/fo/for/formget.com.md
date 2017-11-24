@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formget.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520230149id_/https%3A//www.formget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formget.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124233318id_/https%3A//www.formget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FormGet
 
