@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobiro.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623154621id_/http%3A//www.cobiro.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobiro.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125001834id_/http%3A//cobiro.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Cobiro
 
