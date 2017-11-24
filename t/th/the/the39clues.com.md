@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the39clues.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614004943id_/http%3A//the39clues.scholastic.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the39clues.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124222926id_/http%3A//the39clues.scholastic.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Scholastic Inc.
 
