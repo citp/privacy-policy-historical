@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dota-utilities.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015013id_/http%3A//www.dota-utilities.com/2008/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dota-utilities.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124100414id_/http%3A//www.dota-utilities.com/2008/02/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dota-Utilities
 
