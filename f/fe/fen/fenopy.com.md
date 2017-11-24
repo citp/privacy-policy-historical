@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fenopy.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502200124id_/https%3A//sedo.com/us/about-us/policies/protecting-your-privacy/%3Flanguage%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fenopy.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124183840id_/https%3A//sedo.com/us/about-us/policies/protecting-your-privacy/%3Flanguage%3Dus) for the most accurate reproduction.*
 
 # Protecting your Privacy
 
