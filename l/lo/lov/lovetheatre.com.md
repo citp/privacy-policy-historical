@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovetheatre.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525093950id_/http%3A//www.lovetheatre.com/information/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovetheatre.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124084011id_/http%3A//www.lovetheatre.com/information/security) for the most accurate reproduction.*
 
 # Security | Information | LOVEtheatre
 
@@ -112,8 +112,11 @@ Contacting Us
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 The Ticket Machine Group Ltd  
-37 Long Acre  
-London WC2E 9JT  
+First Floor,   
+39-41 Charing Cross Road,   
+Leicester Square,   
+London,   
+WC2H 0AR,   
 United Kingdom  
 techsupport@ticketmachinegroup.com  
 +44 (0) 20 7420 9730 
