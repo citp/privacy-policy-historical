@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadow-net.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628230509id_/http%3A//www.shadow-net.org/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadow-net.org privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124173652id_/http%3A//www.sdw-net.me/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
