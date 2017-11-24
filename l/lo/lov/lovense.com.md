@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lovense.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614145132id_/http%3A//www.lovense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovense.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124093904id_/http%3A//www.lovense.com/privacy-policy) for the most accurate reproduction.*
 
 # Lovense Sex Toys for Long Distance Love
 
 #### I. _INFORMATION WE COLLECT_
 
-Our Services include: our website, Lovense wearables and Body Chat App, and Lovense browser and/or Lovense extension. We may collect different types of personal and other identifiable information based on your use of the Services. Wherever the Company collects Personal Data we make an effort to provide a link to this Privacy Policy. When you create an account, use our website, purchase our products, and otherwise use our Services, we collect the following types of information from you:
+Our Services include: our website, Lovense Remote and Body Chat App, and Lovense browser and/or Lovense extension. We may collect different types of personal and other identifiable information based on your use of the Services. Wherever the Company collects Personal Data we make an effort to provide a link to this Privacy Policy. When you create an account, use our website, purchase our products, and otherwise use our Services, we collect the following types of information from you:
 
 #### For our websites
 
@@ -27,7 +27,7 @@ Our Services include: our website, Lovense wearables and Body Chat App, and Love
 
 
 
-#### For our Lovense Wearables and Body Chat App
+#### For our Lovense Remote and Body Chat App
 
   * Information You Provide Us (this is to display information to you or your partners) 
     * User content (e.g., pictures)
