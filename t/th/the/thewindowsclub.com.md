@@ -1,54 +1,47 @@
-> *The following text is extracted and transformed from the thewindowsclub.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923132506id_/http%3A//www.thewindowsclub.com/googles-privacy-policy-to-change-wef-october-3-2010) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewindowsclub.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125003512id_/http%3A//www.thewindowsclub.com/tag/privacy) for the most accurate reproduction.*
 
-# Google's Privacy Policy to change wef October 3, 2010 | The Windows Club
+# Privacy Archives - The Windows Club
 
-Possibly as a reaction to the criticism that Google has been facing recently, Google has announced updates to its Privacy Policy, starting 3rd October 2010. The Privacy Policy applies to all of the products, services and websites offered by Google Inc. or its subsidiaries or affiliated companies except Postini.
+What if I tell you that there are big companies out there in the market whose names you are yet to hear, but they know you very well, in fact, more than what you can think of. They are termed […]
 
-[](http://www.thewindowsclub.com/googles-privacy-policy-to-change-wef-october-3-2010/9-20-2010-6-43-11-pm)
+While Cookies and other means have been used to track online users for quite a time now. A new tracking mechanism was developed recently in 2014. This mechanism uses the HTML 5 Canvas Element to track visitors, and it is […]
 
-Google has stated that it is updating the main Google Privacy Policy to make it more user-friendly.
+The digital world has enabled robust connectivity but at the same time has entered into an uncertain stage where the threat of information hijack looms large. Under such a worrying scenario, Off-the-Record Messaging app comes forth as a very useful […]
 
-_Google will also be retiring twelve policies in total: 3D Warehouse, App Engine, Calendar, Docs, Firefox Extensions, G1, Gmail, Feedback, iGoogle, Maps, Talk, Tasks._
+Not every Windows10 user may know this, but your PC is sending some data to Microsoft. Windows 10 is undoubtedly the best operating system till date, but it still has some security loops. The OS’s Privacy Settings do allow you […]
 
-Here is the preview of updated policy:
+Do you read the entire page while you were signing up for an app using your Facebook or Google account? Well, you granted some permissions and maybe you are not sure about that. As the internet grows, the inter-connectivity between […]
 
-**Information Google collects and how it will use it.**
+This post links to a few articles on this website, that will show you how to opt out of Targetted Ads and Data Tracking when surfing the Internet so that you can protect your privacy and stop your personal information […]
 
-“We may collect the following types of information:
+There are a lot of shady websites, on the Internet, that steal your data and identity and sell them off to marketers. These websites use browser extensions and login-leaks to secretly steal your information. They are mostly invisible, and it […]
 
-  * **Information you provide** – When you sign up for a Google Account, we ask you for personal information. We may combine the information you submit under your account with information from other Google services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. You can use the Google Dashboard to learn more about the information associated with your Account. If you are using Google services in conjunction with your Google Apps Account, Google provides such services in conjunction with or on behalf of your domain administrator. Your administrator will have access to your account information including your email. Consult your domain administrator’s privacy policy for more information.
-  * **Cookies** – When you visit Google, we send one or more cookies to your computer or other device. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. Google also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web and on Google services.
-  * **Log information** – When you access Google services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
-  * **User communications** – When you send email or other communications to Google, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. When you send and receive SMS messages to or from one of our services that provides SMS functionality, we may collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction. We may use your email address to communicate with you about our services.
-  * **Affiliated Google Services on other sites** – We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Google in order to deliver the service. We process such information under this Privacy Policy.
-  * **Third Party Applications** – Google may make available third party applications, such as gadgets or extensions, through its services. The information collected by Google when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by their privacy policies.
-  * **Location data** – Google offers location-enabled services, such as Google Maps and Latitude. If you use those services, Google may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID).
-  * **Unique application number** – Certain services, such as Google Toolbar, include a unique application number that is not associated with your account or you. This number and information about your installation (e.g., operating system type, version number) may be sent to Google when you install or uninstall that service, when that service periodically contacts our servers (for example, to request automatic updates to the software).
-  * **Other sites** – This Privacy Policy applies to Google services only. We do not exercise control over the sites displayed as search results, sites that include Google applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+With digital devices continuing to find more and more involvement in our daily lives, what is also increasing is the regular incidents of hacking, unauthorized access, data prying, ransomware attacks and more. While it is impossible to shorten the usage […]
 
+Windows 10 collects Telemetry that it sends back to its servers. Microsoft says that it does this to improve the user experience. Some of you may be fine with this – but some may consider this as an infringement on […]
 
+Wikileaks, an international non-profit organization that publishes secret information, fired a fresh salvo. The website that apparently got access to secret documents of U.S. Central Intelligence Agency (CIA) disclosed ingenious hacking techniques employed by the CIA for hacking everything from […]
 
-In addition to the above, we may use the information we collect to:
+The redesigned and upgraded Microsoft Trust Center website now looks like a treasure trove of security information. This time it seems Microsoft has attempted to give more importance to the cloud, which means that website would actively address the security […]
 
-  * Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and
-  * Protect the rights or property of Google or our users.
+There’s something many computer users might not have known about their precious devices. You see, the computer you’re using right now to read this article is unique in its own way. It’s like you where a fingerprint can set you […]
 
+The Internet is definitely not a secure place for exchanging information. There are many prying eyes on you trying to get a piece of your secret information. In this era of free-flowing data; most of us use the Internet connection […]
 
+Microsoft Edge may not come with loads of features but this is still fast loading, secure and a good solution for regular web browsers. Edge takes care of the users’ privacy very well. Having said that, you also need to […]
 
-If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.”
+Has the point that Windows 10 is constantly collecting user data and sending it to Microsoft ever worried you? Although it is claimed that the data is collected to further improve user experience and solve genuine problems but some Windows […]
 
-_Google processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information outside your own country_
+Of late, we have been seeing a growing nexus between the companies that offer “always-on” devices that listen for our voice commands, and advertisers or marketers that unknowingly follow us around the web to create personalized user profiles. The symbiotic […]
 
-**Choices**
+Microsoft has made some changes to how it collects personal data of users, and how users manage what the company collects. It’s a whole new web-based Privacy Dashboard that works and probably works better than what was available before. For […]
 
-You can use the Google Dashboard to review and control the information stored in your Google Account.
+Recently, Nvidia’s behavioral change in handling user’s data has caused concerns amongst Windows users. It was found that the graphics card maker’s latest driver package was installing unwanted telemetry elements. Telemetry, in layman’s terms, means monitoring data, a process of […]
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Google features and services may not function properly if your cookies are disabled.
+This post shows you how to configure Windows 10 Privacy settings & options using the built-in Windows Settings app, with a special focus on the new settings introduced under the General tab in Windows 10 Anniversary Update v1607. Windows 10 users […]
 
-Google uses the DoubleClick advertising cookie on AdSense partner sites and certain Google services to help advertisers and publishers serve and manage ads across the web. You can view and manage your ads preferences associated with this cookie by accessing the Ads Preferences Manager. In addition, you may choose to opt out of the DoubleClick cookie at any time by using DoubleClick’s opt-out cookie.
+Facebook is getting smarter in the way it interacts with people. You might have noticed the “People you may know” feature wherein Facebook suggests some random persons across the globe whom you may know directly or indirectly. You might as well wonder […]
 
-Details: [Privacy Policy 2010](http://www.google.com/intl/en/privacypolicy_2010.html) | [Privacy Policy Changes](http://www.google.com/intl/en/privacy_changes_2010.html) | [Privacy Policy FAQ](http://www.google.com/intl/en/privacy_faq_2010.html).
+### Post navigation
 
-The author, Nitin is a Microsoft MVP in Windows Desktop Experience and loves to write about technology and enjoys reviewing new Computer Hardware and Mobile Phones. He has completed his Bachelors in Computer Applications and is now pursuing Masters in the same. 
-
-NitinA@TWC 
+Page 1 of 61[2](http://www.thewindowsclub.com/tag/privacy/page/2 "Page 2")[3](http://www.thewindowsclub.com/tag/privacy/page/3 "Page 3")[4](http://www.thewindowsclub.com/tag/privacy/page/4 "Page 4")[5](http://www.thewindowsclub.com/tag/privacy/page/5 "Page 5")...[»](http://www.thewindowsclub.com/tag/privacy/page/2)[Last »](http://www.thewindowsclub.com/tag/privacy/page/6)
