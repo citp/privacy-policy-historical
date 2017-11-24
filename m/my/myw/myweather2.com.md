@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myweather2.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024119id_/http%3A//www.myweather2.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myweather2.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124224141id_/http%3A//www.myweather2.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | MyWeather2.com
 
