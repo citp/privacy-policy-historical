@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijailbreak.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104516id_/http%3A//www.ijailbreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijailbreak.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124223022id_/http%3A//www.ijailbreak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
