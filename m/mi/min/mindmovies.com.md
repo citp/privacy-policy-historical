@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125234id_/http%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124100143id_/https%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Mind Movies - Our Privacy Policy
 
@@ -36,7 +36,7 @@ We need to send the information to companies that work on behalf of MindMovies t
 
 We respond to subpoenas, court orders or legal process; or
 
-We find that your actions on our web sites violate the [MindMovies Terms of Service](http://www.mindmovies.com/footer/terms.html) or any of our usage guidelines for specific products or services.
+We find that your actions on our web sites violate the [MindMovies Terms of Service](https://www.mindmovies.com/footer/terms.html) or any of our usage guidelines for specific products or services.
 
 **Cookies**
 
@@ -50,7 +50,7 @@ MindMovies gives you the ability to edit your Mind Movies Account Information an
 
 All newsletter (bulk) emailings contain an unsubscribe link which will allow you to manage which emails you receive.
 
-If at anytime you wish to contact us to update your account or email preferences you may do so through our support email address support@mindmovies.com or with the contact details in the 'Points of Contact' section below.
+If at anytime you wish to contact us to update your account or email preferences you may do so through our support email address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or with the contact details in the 'Points of Contact' section below.
 
 **Security**
 
@@ -64,8 +64,8 @@ MindMovies may edit this policy from time to time. If we make any substantial ch
 
 **Questions or Suggestions**
 
-If you have questions or suggestions complete a [ feedback form ](http://mindmovies.com/footer/support.php).
+If you have questions or suggestions complete a [ feedback form ](https://mindmovies.com/footer/support.php).
 
 **Points of Contact**
 
-At any time you can contact us by mail at 113 West G Street #122 San Diego, CA 92101, by email at support@mindmovies.com, or by telephone at 213-674-8663.
+At any time you can contact us by mail at 113 West G Street #122 San Diego, CA 92101, by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or by telephone at 213-674-8663.
