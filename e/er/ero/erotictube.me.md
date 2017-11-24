@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erotictube.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061726id_/http%3A//www.erotictube.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erotictube.me privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124230202id_/http%3A//www.erotictube.me/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
