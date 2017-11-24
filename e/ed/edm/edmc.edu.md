@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edmc.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145148id_/http%3A//www.edmc.edu/edmc-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmc.edu privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124015956id_/http%3A//www.edmc.edu/edmc-privacy-policy.aspx) for the most accurate reproduction.*
 
 # 
 
-This policy was last updated on December 7, 2016.
+This policy was last updated on October 17, 2017.
 
 Education Management Corporation (Education Management Corporation, "we" or "our") is committed to protecting any personal information that we maintain about you. Consistent with our [ Privacy Principles](http://www.edmc.edu/edmc-privacy-principles.aspx), we want you to understand what kinds of information we may collect from you, how this information may be used, the steps we take to protect it, choices you have regarding our use and disclosure of personal information about you, and other information about our privacy practices. This Privacy Policy (this "Policy") applies to the online collection of information by our websites, webpages and mobile applications that link to or otherwise adopt this Policy.
 
