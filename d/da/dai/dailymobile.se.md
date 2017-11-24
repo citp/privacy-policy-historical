@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymobile.se privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627205239id_/http%3A//www.dailymobile.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymobile.se privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124161202id_/http%3A//www.dailymobile.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
