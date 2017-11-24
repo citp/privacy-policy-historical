@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momtastic.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531232919id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwww.momtastic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momtastic.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124230449id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwww.momtastic.com) for the most accurate reproduction.*
 
 # TotallyHer Media | Privacy - ?site=www.momtastic.com
 
