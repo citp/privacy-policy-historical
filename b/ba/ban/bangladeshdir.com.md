@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangladeshdir.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525223322id_/http%3A//www.bangladeshdir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladeshdir.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124233824id_/http%3A//www.bangladeshdir.com/privacy-policy) for the most accurate reproduction.*
 
 # Bangladesh Directory Privacy Policy - bangladeshdir.com
 
@@ -18,6 +18,4 @@ Bangladeshdir.com contains many links to other sites on the web. We cannot contr
 
 We reserve the right to change this policy policy at any time without prior notice.
 
-If you have any further questions about our privacy policies, please [contact us](http://www.bangladeshdir.com/concat-us/).
-
-BangladeshDir.com Privacy Policy Last updated: December 25, 2014
+If you have any further questions about our privacy policies, please [contact us](http://www.bangladeshdir.com/contact-us/).
