@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performance-pcs.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526174345id_/http%3A//www.performance-pcs.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performance-pcs.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124223529id_/http%3A//www.performance-pcs.com/privacy-notice) for the most accurate reproduction.*
 
 # Performance PCs PPSC Privacy Notice
 
