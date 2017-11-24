@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mountaindew.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216232908id_/http%3A//policy.mountaindew.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountaindew.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125003601id_/http%3A//policy.mountaindew.com/privacy) for the most accurate reproduction.*
 
 # PepsiCo Privacy Policy
 
-Effective 2012 (Last updated December 15, 2015)
+Effective 2012 (Last updated February 4, 2016)
 
 ## This Privacy Policy applies to our sites and apps.
 
 This Policy describes how we treat personal information on the websites where the policy is located. It also applies to our mobile and social media apps and interactive emails we may send.
 
-This policy does not apply to the websites and practices of other members of the Pepsi family like Frito-Lay, Gatorade, Quaker, or the PepsiCo Inc. corporate privacy policy. Please visit their websites and read their privacy policies for information on how they use information.
+This policy does not apply to the websites and practices of other members of the PepsiCo family like Frito-Lay, Gatorade, Quaker, or the PepsiCo Inc. corporate privacy policy. Please visit their websites and read their privacy policies for information on how they use information.
 
 [To download a full copy of this Privacy Policy, click [here](https://web.archive.org/privacy.pdf).] 
 
@@ -36,7 +36,7 @@ We combine information. For example, we may combine information that we have col
 
 ## We use information as disclosed and described here.
 
-We use information to respond to your requests or questions. For example, we might use your information to respond to your customer feedback. We may use your friend's email address if you use our send-to- a-friend feature.
+We use information to respond to your requests or questions. For example, we might use your information to respond to your user feedback. We may use your friend's email address if you use our send-to- a-friend feature.
 
 We use information to improve our products and services. We may use your information to make our website and products better. We might use your information to customize your experience with us. We use your information to track and analyze activity on our sites. This helps us improve our sites. 
 
@@ -44,7 +44,7 @@ We use information for security purposes. We may use information to protect our 
 
 We use information for marketing purposes. For example, we might send you information about new products and special offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. If you subscribe with us, we'll enroll you in our email newsletter. We may also use push notifications on our mobile apps. 
 
-We use information to customize experiences with our brands. We may analyze information you provide or that we get elsewhere to customize your experience on our platforms and with our brands. To learn more about our targeting and customizing activities, click [here](https://web.archive.org/web/20151216232908id_/http://policy.mountaindew.com/aboutads.htm).
+We use information to customize experiences with our brands. We may analyze information you provide or that we get elsewhere to customize your experience on our platforms and with our brands. To learn more about our targeting and customizing activities, click [here](https://web.archive.org/web/20171125003601id_/http://policy.mountaindew.com/aboutads.htm).
 
 We use information to communicate with you about your account or our relationship. We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms.
 
@@ -68,15 +68,13 @@ We may share information for other reasons we may describe to you.
 
 ## You have certain choices about sharing and marketing practices.
 
-You can opt of receiving our marketing emails. Visit [http://account.pepsico.com](http://account.pepsico.com/) where you can manage your preferences. You can also opt-out by following the instructions you receive in any of our marketing emails. Even if you opt out of getting marketing messages, we will still send you messages about your questions and purchases.
+You can opt out of receiving our marketing emails. Visit [http://account.pepsico.com](http://account.pepsico.com/) where you can manage your preferences. You can also opt-out by following the instructions you receive in any of our marketing emails. Even if you opt out of getting marketing messages, we will still send you messages about your questions and purchases.
 
-You can control cookies and tracking tools. To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click here.
+You can control cookies and tracking tools. To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click [here](http://policy.pepsico.com/aboutads.htm).
 
 You can control tools on your mobile devices. For example, you can turn off the GPS locator or push notifications on your phone. To modify the push notifications you get from our app, you can alter your preferences in your profile.
 
 We keep a record if you opt out. If you unsubscribe from our database, we keep a record of your information and the unsubscribe action. This is for our internal records. It is evidence of the action and our compliance with this policy.
-
-We participate in the TRUSTe Email Privacy Seal Program. Click on the TRUSTe logo available on certain websites and emails to learn more.
 
 ## We use standard security measures.
 
@@ -96,16 +94,16 @@ From time to time we may change this Privacy Policy. We will post an updated cop
 
 ## We may link to other sites or have third party services on our site we don't control.
 
-We include links to third party sites. This may include websites that use the Pepsi family of brands or logos operated by our advertisers, sponsors, and partners. We do not control those websites. For example, we do not manage the website of The Pepsi Store available at [www.pepsistore.com](http://www.pepsistore.com/). This policy does not apply to the privacy practices of those websites. Read the privacy policy of those other websites carefully. We are not responsible for these third party practices.
+We include links to third party sites. This may include websites that use the PepsiCo family of brands or logos operated by our advertisers, sponsors, and partners. We do not control those websites. For example, we do not manage the website of The Pepsi Store available at [www.pepsistore.com](http://www.pepsistore.com/). This policy does not apply to the privacy practices of those websites. Read the privacy policy of those other websites carefully. We are not responsible for these third party practices.
 
-Our site may also serve third party content that contains its own cookies or tracking technologies. To learn more, click [here](https://web.archive.org/web/20151216232908id_/http://policy.mountaindew.com/aboutads.htm). We do not control the use of those technologies.
+Our site may also serve third party content that contains its own cookies or tracking technologies. To learn more, click [here](https://web.archive.org/web/20171125003601id_/http://policy.mountaindew.com/aboutads.htm). We do not control the use of those technologies.
 
 ## We store information in the United States.
 
-If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws. U.S. laws may not afford the same level of protection as those in your country. If you are located in the European Economic Area and you contact us, information you provide is transferred to the USA.
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to United States laws. United States laws may not afford the same level of protection as those in your country. If you are located in the European Economic Area and you contact us, information you provide is transferred to the United States.
 
 ## Feel free to contact us if you have more questions.
 
 If you have any questions about this Policy, please call us at 1-800-960-3602.
 
-Our you can email us using our online form: <https://cu.pepsico.com/pepsi>
+Or you can email us using our online form: <https://cu.pepsico.com/pepsi>
