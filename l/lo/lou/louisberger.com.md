@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louisberger.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145726id_/http%3A//www.louisberger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisberger.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124102225id_/http%3A//www.louisberger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Louis Berger
 
@@ -21,7 +21,3 @@ In general, you can visit The Berger Group Holdings, Inc. website without provid
 ## Website Security
 
 For website security purposes and to ensure that this service remains available to all users, The Berger Group Holdings, Inc. utilizes a computer system that employs software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Any attempts to cause damage or unauthorized access to confidential data could be subject to legal action.
-
-## Safe Harbor Policy
-
-Click [here](https://web.archive.org/safe-harbor) to read our Safe Harbor Policy.
