@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biocompare.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525015732id_/http%3A//biocompare.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biocompare.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124093241id_/http%3A//www.biocompare.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Biocompare: The Buyer's Guide for Life Scientists
 
@@ -24,10 +24,9 @@ If you use our contact us forms we will use your name and e-mail address to resp
 
 ## Communications from the Site 
 
-  
 We will occasionally send you information on products, services, special offers or promotions. You may sign up for these e-mails on our home page. 
 
-Out of respect for your privacy, we present the option not to receive these types of communications. Please see the ÒOpt-OutÓ section below. 
+Out of respect for your privacy, we present the option not to receive these types of communications. Please see the Opt-Out section below. 
 
 ## Newsletters
 
