@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the choicestore.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173444id_/http%3A//www.choicestore.com/gb-en/privacy-policy%3F___SID%3DU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choicestore.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124020059id_/http%3A//www.choicestore.com/gb-en/privacy-policy%3F___SID%3DU) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Designer Fashion for Men & Women
 
 When you visit, register or order products or services on http://www.choicestore.com you may be asked to provide certain information about yourself including your name, email address, home or business address and other information. The Company will not collect personally identifiable information from users while they use the web site, unless they voluntarily provide it to us or authorise us to collect such information. Users may provide other information about themselves, in addition to the mandatory personal information (hereafter “Voluntary Information").
 
