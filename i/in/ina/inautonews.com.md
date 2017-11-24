@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inautonews.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525033323id_/http%3A//www.inautonews.com/singles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inautonews.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124102447id_/http%3A//www.inautonews.com/singles/privacy.html) for the most accurate reproduction.*
 
 # Inautonews - Privacy Policy
 
