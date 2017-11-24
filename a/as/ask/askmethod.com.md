@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askmethod.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622141052id_/http%3A//askmethod.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmethod.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124212007id_/http%3A//askmethod.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | ASK METHOD ® | by Ryan Levesque
 
