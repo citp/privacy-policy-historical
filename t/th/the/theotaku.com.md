@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theotaku.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090907id_/http%3A//www.theotaku.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theotaku.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124093248id_/http%3A//www.theotaku.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - theOtaku.com
 
