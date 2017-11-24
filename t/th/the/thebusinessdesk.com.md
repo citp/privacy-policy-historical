@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebusinessdesk.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615050754id_/http%3A//www.thebusinessdesk.com/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebusinessdesk.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124082837id_/http%3A//www.thebusinessdesk.com/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookies and Privacy | TheBusinessDesk.com
 
