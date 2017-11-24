@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickarticlepro.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131144804id_/http%3A//www.quickarticlepro.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickarticlepro.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124191740id_/http%3A//quickarticlepro.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Article Writing Software- Article Builder to write Informative Articles
 
