@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmingcharlie.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605030211id_/http%3A//www.charmingcharlie.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmingcharlie.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125080948id_/http%3A//www.charmingcharlie.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Charming Charlie
 
@@ -77,7 +77,7 @@ Back to Top
 
 ## Analytics Services and Targeted Ads
 
-We may use third-party analytics services, which track details about your online activities over time and across different sites. These services help us to improve our site and the products and services that we offer you. These services may also allow us and others to provide you with targeted advertisements or other content that you may be interested in based on your online activities. If you would like to learn more about targeted ads that may be based on your online activities, and the choices that you may exercise for certain sites and advertisers, you may wish to visit the [ "Network Advertising Initiative](https://web.archive.org/web/20170605030211id_/http%3A//www.charmingcharlie.com/terms/networkadvertising.org) or the [Digital Advertising Alliance](https://web.archive.org/web/20170605030211id_/http%3A//www.charmingcharlie.com/terms/aboutads.info). 
+We may use third-party analytics services, which track details about your online activities over time and across different sites. These services help us to improve our site and the products and services that we offer you. These services may also allow us and others to provide you with targeted advertisements or other content that you may be interested in based on your online activities. If you would like to learn more about targeted ads that may be based on your online activities, and the choices that you may exercise for certain sites and advertisers, you may wish to visit the [ "Network Advertising Initiative](https://web.archive.org/web/20171125080948id_/http://www.charmingcharlie.com/terms/privacy/networkadvertising.org) or the [Digital Advertising Alliance](https://web.archive.org/web/20171125080948id_/http://www.charmingcharlie.com/terms/privacy/aboutads.info). 
 
 Back to Top
 
