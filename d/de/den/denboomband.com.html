@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the denboomband.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606051856id_/http%3A//www.denboomband.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the denboomband.com privacy policy that was archived on 2017-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171125084240id_/http%3A//www.denboomband.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	    <meta charset="utf-8">
@@ -49,11 +49,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <span class="icon-bar"></span>
           </button>
           <!--<a class="navbar-brand" href="http://www.denboomband.com/"><img src="images/logo.png" width="113" height="71" alt="DenBoomband Logo"></a>-->
-	<a class="navbar-brand" href="http://www.denboomband.com/"><img src="images/logo.png" alt="DenBoomband Logo"></a>
+		 <a class="navbar-brand" href="http://www.denboomband.com/"><img src="images/logo.png" alt="DenBoomband Logo" class="img-responsive"></a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="recharge"><span><img src="images/rupees.png" width="11" height="17" alt="Recharge"></span>Recharge</a>
+          <li class="active">
+              <form id="locationForm" method="post">
+                  <div class="styled-select">
+                  <select name="selected_city" id="selected_city"><option value=" " selected="">Select City</option><option value="4">Gurgaon</option><option value="3">Jodhpur</option><option value="2">Kanpur</option><option value="1" selected="">New Delhi</option></select>
+                  </div>
+                  </form>            </li>
+            <li><a href="http://www.denboomband.com/#choose-plan"><span><img src="images/plan.png" width="17" height="17" alt="My Den Boomband"></span>Plans</a></li>
+            <li><a href="http://cwsc.denonline.in" target="_blank"><span><img src="images/key.png" width="17" height="17" alt="My Den Boomband"></span>My DEN Boomband</a></li>
+            <li><a href="recharge"><span><img src="images/rupees.png" width="11" height="17" alt="Recharge"></span>Recharge</a>
 
                 <!-- Modal -->
                 <div id="myModal" class="modal fade" role="dialog">
@@ -61,8 +69,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div class="modal-content">
                           <div class="modal-header rechargle-modal">
                             <button type="button" class="close" data-dismiss="modal">×</button>
-
-
                           </div>
                           <div class="modal-body">
                             <div class="modaltext">
@@ -85,38 +91,67 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                  </div>
 
             </li>
-            <li><a href="http://www.denboomband.com/#choose-plan"><span><img src="images/plan.png" width="17" height="17" alt="My Den Boomband"></span>Plans</a></li>
-            <li><a href="http://cwsc.denonline.in" target="_blank"><span><img src="images/key.png" width="17" height="17" alt="My Den Boomband"></span>My Den Boomband</a></li>
-            <li><a href="http://www.denboomband.com/refer-neighbour"><span><img src="images/users.png" width="19" height="19" alt="Refer A Neighbour"></span>Refer A Neighbour</a></li>
-            <li><a href="javascript:;" id="toggle1"><span><img src="images/call.png" width="19" height="19" alt="Need Help"></span>Need Help</a>
-                <div class="toggle1">
-                    <div class="recharge-slide">
-                    <div class="needhelp">
-                  <!--<h5>Den boomband</h5>-->
-                    <span></span>
-                  <div class="cross-tab">  <i class="fa fa-times" aria-hidden="true"></i></div>
-                    <ul>
-                        <li class="adress">DEN's Customer Care Helpline</li>
-                        <li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:01206175000" target="_blank">0120 - 617 - 5000 </a></li>
-                        <li class="phone"><i class="fa fa-envelope pad5"></i><a href="mailto:careboomband@denonline.in">careboomband@denonline.in</a></li>
-                    </ul>
-                    <div class="need-help-top">
-                    	 <a href="javascript:;" id="toggle2">NODAL OFFICER / GRIEVANCE OFFICERS DETAILS</a>
-                    </div>
-                   </div>
-                    </div>
-               </div>
+            
+            
+            
+<li><a href="javascript:void(0);" id="showmenu"><span><img src="images/call.png" width="19" height="19" alt="Need Help"></span>Contact Us</a>
+               
 <style>
 .cross-tab{position: absolute;right: 22px;top: 9px;font-size: 18px;color: BLACK; cursor: pointer;}
 </style>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 <script>
 $(document).ready(function(){
-    $(".cross-tab").click(function(){
-        $(".toggle1").slideUp();
+    //$(".cross-tab").click(function(){
+//        $(".toggle1").slideUp();
+//    });
+	
+	$('.navbar-inverse .navbar-nav > li > a').click(function(e) {
+        $('.navbar-collapse.collapse.in').removeClass('in');
     });
+
+	 $('#showmenu').click(function() {
+		$('.need_help').slideToggle("fast");
+		$('.toggle2').hide("fast");
+	});
+	
+	
+	$('.cross-tab').click(function() {
+		$('.need_help').slideToggle("fast");
+		$('.toggle2').hide("fast");
+	});
+	
+	
+	
 });
 </script>
-                <div class="toggle2">
+                
+
+            </li>
+            
+            
+          </ul>
+        </div><!--/.nav-collapse -->
+        <div class="need_help" style="display: none;">
+             <div class="recharge-slide">
+                 <div class="needhelp">
+                    <span></span>
+                    <div class="cross-tab">  <i class="fa fa-times" aria-hidden="true"></i></div>
+                    <ul class="contact_help">
+                        <li class="adress">Contact us</li>
+                                 <li><strong>DEN's Customer Care Helpline</strong></li>
+                                 <li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:01206175000" target="_blank">0120 - 617 - 5000 </a></li>
+                                 <li class="phone"><i class="fa fa-envelope pad5"></i><a href="mailto:careboomband@denonline.in">careboomband@denonline.in</a></li>                   
+                                    </ul>
+                    <ul class="contact_help-right">
+                                    <li><strong>For new connection queries</strong></li>
+                                    <li>Give a missed call on toll free number - 7827278080</li>
+                    </ul>
+                    
+                   </div>
+             </div>
+             
+             <div class="toggle2">
                     <div class="recharge-slide">
                     <div class="needhelp">
                   <!--<h5>Den boomband</h5>-->
@@ -139,16 +174,7 @@ $(document).ready(function(){
                    </div>
                     </div>
                </div>
-
-            </li>
-            <li>
-              <form id="locationForm" method="post">
-                  <div class="styled-select">
-                  <select name="selected_city" id="selected_city"><option value=" ">Select City</option><option value="4">Gurgaon</option><option value="3">Jodhpur</option><option value="2">Kanpur</option><option value="1" selected="">New Delhi</option></select>
-                  </div>
-                  </form>            </li>
-          </ul>
-        </div><!--/.nav-collapse -->
+        </div>
      </nav>
     <!--Munu End-->
 	<div id="wrapper">
@@ -224,16 +250,24 @@ $(document).ready(function(){
      	<div class="ftmain">
      		<div class="container">
                 <div class="row">
-                    <div class="col-sm-5">
+                    <div class="col-sm-6">
                         <div class="contactpart">
                             <h4>Contact us</h4>
                             <div class="contactpartbox">
                               <!--<h5>Den boomband</h5>-->
-                                <ul>
-                                  <li class="adress">DEN's Customer Care Helpline</li>
-                                    <li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:01206175000" target="_blank">0120 - 617 - 5000 </a></li>
+                                <div class="col-lg-6 col-md-6" style="padding:0;">
+                                <ul class="for_border">
+                                  <li class="adress"><strong>DEN's Customer Care Helpline</strong></li>
+                                   <li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:01206175000" target="_blank">0120 - 617 - 5000 </a></li>
                                     <li class="phone"><i class="fa fa-envelope pad5"></i><a href="mailto:careboomband@denonline.in">careboomband@denonline.in</a></li>
                                 </ul>
+                                </div>
+                                <div class="col-lg-6 col-md-6" style="padding:0;">
+                                 <ul class="for_padding">
+                                    <li class="adress"><strong>For new connection queries</strong></li>
+                                    <li>Give a missed call on toll free number - 7827278080</li>
+                                    </ul>
+                                 </div>
                             </div>
 
                         </div>
@@ -254,10 +288,13 @@ $(document).ready(function(){
                                         <input type="text" class="form-control" name="gnumber" id="gnumber" placeholder="Mobile No." pattern="[0-9]{10}" maxlength="10" required="">
                                       </div>
                                       <div class="form-group">
+                                        <input type="text" class="form-control" name="guserid" id="guserid" placeholder="User ID">
+                                      </div>
+                                      <div class="form-group">
                                         <select name="query_type" id="getin_query_type" class="getin-select-option">
-                                        	<option value="1">I want den</option>
-                                            <option value="2">Check Availability</option>
-                                            <option value="3">Internet not working</option>
+                                        	<option value="1">I want DEN</option>
+                                           <!-- <option value="2">Check Availability</option>-->
+                                            <option value="3">Recharge</option>
                                             <option value="4">Query</option>
                                         </select>
                                       </div>
@@ -272,16 +309,17 @@ $(document).ready(function(){
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-7">
+                    <div class="col-sm-6">
                         <div class="quicklink">
                       <h4>Quick links</h4>
                       <div class="rowbox">
                             <ul>
                                 <!--li><span></span><a href="#" style="text-decoration: none;">Explore Boomband</a></li-->
                                 <li><span></span><a href="http://www.denboomband.com/#choose-plan">Choose your plan </a></li>
-                                <li><span></span><a href="javascript:void(0);" id="checkAvailabilityFromFooter">Check Availability </a></li>
+                                <!--<li><span></span><a href="javascript:void(0);" id="checkAvailabilityFromFooter">Check Availability </a></li>-->
 								<!--li><span></span><a href="#" style="text-decoration: none;">Videos </a></li-->
 								<li><span></span><a href="http://www.denboomband.com/assets/Telecom_Consumers_Charter.pdf" target="_blank">Consumer Charter </a></li>
+                                <li><span></span><a href="http://www.denboomband.com/paytm-wallet">How to Recharge through PayTm on mobile</a></li>
                             </ul>
                         </div>
                         <div class="rowbox">
@@ -294,24 +332,19 @@ $(document).ready(function(){
                         </div>
                         <div class="rowbox">
                             <ul>
-                                <li><span></span><a href="http://www.denboomband.com/offer">Offers</a></li>
+                                <!--<li><span></span><a href="http://www.denboomband.com/offer">Offers</a></li>-->
                                 <li><span></span><a href="http://www.denboomband.com/testimonials">Testimonials</a></li>
-                                <li><span></span><a href="http://www.denboomband.com/refer-neighbour">Refer A Neighbour </a></li>
+                                <!--<li><span></span><a href="http://www.denboomband.com/refer-neighbour">Refer A Neighbour </a></li>-->
                                 <li><span></span><a href="http://www.denboomband.com/cheque-drop-box-location">Cheque Drop Box Location</a></li>
                             </ul>
                         </div>
                     </div>
                         <div>
-                            <div class="visitwebsite">
+                        <div class="visitwebsite">
                               <h4>Visit the website</h4>
-                                <a href="http://www.denboomband.com/"><img src="http://www.denboomband.com/images/ftlogo-boomband.jpg" width="148" height="98" alt="Denboomband"></a>
-                                <a href="http://dennetworks.com/" target="_blank"><img src="http://www.denboomband.com/images/logo-den-new.jpg" alt="Den- Snapdeal logo" width="148" height="98"></a>
-                                <a href="http://www.tv-shop.in/" target="_blank"><img src="http://www.denboomband.com/images/ftlogo-snapdeal.jpg" alt="Den-Snapdeal" width="148" height="98"></a>
-                                <a href="http://www.delhidynamos.com" target="_blank"><img src="http://www.denboomband.com/images/ftlogo-delhidynamos.jpg" alt="delhi dynamos logo" width="148" height="98"></a>
-                                <div class="copyright">
-                                 <p>© 2016 DEN Networks Ltd. - All Rights Reserved <a href="privacy-policy" target="_blank">Privacy Policy</a></p>
-                                 </div>
+                                <a href="http://www.dennetworks.com/" target="_blank"><img src="http://www.denboomband.com/images/DENnew-logo.png" width="300" height="68" alt="Dennetworks"></a>
                             </div>
+                            
                             <div class="social-icons-ft">
                               <!--<h4>Social media</h4>-->
                                 <a href="https://www.facebook.com/DENBoomband" target="_blank" class="facebook"><img src="http://www.denboomband.com/images/fb-social-icon.png" width="33" height="32" alt="facebook icon"></a>
@@ -321,6 +354,10 @@ $(document).ready(function(){
                             </div>
                         </div>
                     </div>
+                    <div class="clearfix"></div>
+                   <div class="copyright">
+                                 <p>© 2016 DEN Networks Ltd. - All Rights Reserved <a href="privacy-policy" target="_blank">Privacy Policy</a></p>
+                                 </div> 
                 </div>
             </div>
      	</div>
@@ -329,6 +366,65 @@ $(document).ready(function(){
     <!--footer end-->
 <!-- Sliding div starts here -->
 <div class="rightFeed">
+
+<div class="request-call-back">
+	<a href="javascript:;" id="show_need"><img src="http://www.denboomband.com/images/need-help.png" alt="call-back logo"></a>
+</div>
+
+<div class="re_need_help">
+             <div class="recharge-slide">
+                 <div class="needhelp">
+                    
+                    <div class="need_cross-tab">  <i class="fa fa-times" aria-hidden="true"></i></div>
+                    <ul>
+                        <li class="adress">DEN's Customer Care Helpline</li>
+                        <li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:01206175000" target="_blank">0120 - 617 - 5000 </a></li>
+                        <li class="phone"><i class="fa fa-envelope pad5"></i><a href="mailto:careboomband@denonline.in">careboomband@denonline.in</a></li>
+                    </ul>
+                    <div class="re_need-help-top">
+                    	 <a href="javascript:;" id="toggle2">NODAL OFFICER / GRIEVANCE OFFICERS DETAILS</a>
+                    </div>
+                   </div>
+             </div>
+             
+             <div class="toggle2">
+                    <div class="recharge-slide">
+                    <div class="needhelp">
+                  <!--<h5>Den boomband</h5>-->
+                    <span></span>
+                    <ul>
+                        <!--<li class="phone"><i class="fa fa-user pad5"></i> Sourav R Choudhury</li>
+                        <li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:0120-6175028" target="_blank">0120- 6175028 (Mon to Sat)</a></li>
+                        <li class="phone"><i class="fa fa-envelope pad5"></i><a href="mailto:nodalofficer@denonline.in">nodalofficer@denonline.in</a></li>-->
+						<hr>
+						<li class="phone"><i class="fa fa-user pad5"></i> MR. SANDEEP SHRIVASTAV </li>
+						<li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:011-40522161" target="_blank">0120-6175028  (Mon to Sat)</a></li>
+						<li class="phone"><i class="fa fa-envelope pad5"></i><a href="mailto:nodalofficer.bb@denonline.in">nodalofficer.bb@denonline.in</a></li>
+
+						<hr>
+						<li class="phone"><i class="fa fa-user pad5"></i> MR. NEERAJ KUMAR</li>
+						<li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:011-405222143" target="_blank">011-40522143  (Mon to Sat)</a></li>
+						<li class="phone"><i class="fa fa-envelope pad5"></i><a href="mailto:appellateauthority.bb@denonline.in">appellateauthority.bb@denonline.in</a></li>
+
+                    </ul>
+                   </div>
+                    </div>
+               </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div id="slider-feedback" style="right:-342px;">
         <div onclick="open_panel()" id="sidebar"><img src="http://www.denboomband.com/images/feedback.png" width="39" height="143" alt="feedback logo">
     </div>
@@ -357,18 +453,10 @@ $(document).ready(function(){
     </div>
 
 </div>
-<div class="socialMedia">
-  <a href="http://www.denboomband.com/#this-footer"><img src="http://www.denboomband.com/images/get-in-touch.jpg" alt="feedback logo"></a>
-   <!--a href="<//?php echo SITE_URL;?>offer"><img src="<//?php echo SITE_URL;?>images/offers.jpg" alt="feedback logo"></a-->
-  <!--<ul>
-    <li style="left: 0px;" id="likeCount" class="facebook"><a href="https://www.facebook.com/DENBoomband" target="_blank"><span></span><div style="padding-top: 8px; padding-left: 5px;"></div></a></li>
-    <li style="left: 0px;" id="twitterCount" class="twitter"><a href="https://twitter.com/DenBoomband" target="_blank"><span></span><div style="padding-top: 8px; padding-left: 5px;"></div></a></li>
-    <li style="left: 0px;" id="youTube" class="youTube"><a href="https://www.youtube.com/channel/UCpci4YrADQpZrUjNgACzJcg/" target="_blank"><span></span><div style="padding-top: 8px; padding-left: 5px;"></div></a></li>
-</ul> -->
-</div>
-<div class="request-call-back">
+
+<!--<div class="request-call-back">
 	<a data-toggle="modal" data-target="#callback_model" href="#"><img src="http://www.denboomband.com/images/request-call.png" alt="call-back logo"></a>
-</div>
+</div>-->
 </div>
 <!--<div class="socialMedia social-icons">
 	<ul>
@@ -381,10 +469,50 @@ $(document).ready(function(){
 
 <div class="totop" style="display:none;"><img src="http://www.denboomband.com/images/totop.png" alt="Top Icon" width="30" height="30"></div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js"></script>
+<script src="js/owl.carousel.js"></script>
 <script src="http://www.denboomband.com/js/bootstrap.min.js"></script>
 <script src="http://www.denboomband.com/js/jquery.slimscroll.js"></script>
 <script src="http://www.denboomband.com/js/html5lightbox.js"></script>
 <script src="http://www.denboomband.com/js/theme.js"></script>
+<script>
+$(document).ready(function(){
+//	 $('#show_need').click(function() {
+//		$('.re_need_help').addClass("re_need-right");
+//		$('.toggle2').hide("fast");
+//	});
+//	
+//	
+//	$('.need_cross-tab').click(function() {
+//		$('.re_need_help').slideToggle("fast");
+//		$('.toggle2').hide("fast");
+//	});
+//	
+//	
+if ($(window).width() > 767) {
+		$('#show_need').bind('click', function () {
+			$('.re_need_help').toggleClass('active');
+		});
+		$('.need_cross-tab').bind('click', function () {
+			$('.re_need_help').toggleClass('active');
+		
+		});
+
+	} else {
+		$('#show_need').bind('click', function () {
+			$('.re_need_help').toggleClass('active');
+		});
+		$('.need_cross-tab').bind('click', function () {
+			$('.re_need_help').toggleClass('active');
+		
+		});
+	}
+
+
+
+});
+</script>
+
+
 <script>
 var website_url_link = 'http://www.denboomband.com/';
 $(document).ready(function() {
@@ -412,7 +540,21 @@ $(document).ready(function() {
 
    $("#selected_city").on('change', function() {
 	 //$("#locationForm").submit();
+	 var getLocation = $("#selected_city").val();
+	 if(getLocation == 5)
+	 {
+		 //$(".slides-pagination").addClass("scsc");
+		 $(".slides-pagination a").removeClass("current");
+		 $(".sixthlide").css("display","block");
+		 $(".fiveslide").css("display","none");
+		 $(".secondslide").css("display","none");
+		 $(".thirdlide").css("display","none");
+		 $(".fourslide").css("display","none");		
+		 $(".slides-pagination a:last-child").addClass("current");
+		 
+	 }
 	 this.form.submit();
+	 //$("#selected_city").val("");
    });
      $(document).on('click', 'a[href^="#"]', function(e) {
     // target element id
@@ -495,6 +637,7 @@ $(window).scroll(function(){
 					$("#gname").val('');
 					$("#gemail").val('');
 					$("#gnumber").val('');
+					$("#guserid").val('');
 					$("#gmessage").val('');
 					$("#getintouchSubmit").text('SUBMIT');
 					$('#getintouch_msg').html(responsedata);
@@ -588,6 +731,7 @@ var google_conversion_id = 956739325;
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
+
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 <noscript>
