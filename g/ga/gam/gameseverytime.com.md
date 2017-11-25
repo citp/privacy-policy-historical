@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameseverytime.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062747id_/http%3A//www.gameseverytime.com/pages/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameseverytime.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125095746id_/http%3A//www.gameseverytime.com/pages/2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Play Free Games Everytime
 
