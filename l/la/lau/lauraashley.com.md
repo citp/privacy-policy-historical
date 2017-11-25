@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623155507id_/http%3A//www.lauraashley.com/uk/security/page/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125073627id_/http%3A//www.lauraashley.com/uk/security/page/security) for the most accurate reproduction.*
 
-# Security at Laura Ashley
+# Security | Laura Ashley
 
 The Laura Ashley website uses industry standard security methods to ensure that all the personal details you give us are not misused.
 
