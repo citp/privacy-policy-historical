@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viconsortium.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630184613id_/http%3A//viconsortium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viconsortium.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125212529id_/http%3A//viconsortium.com/privacy) for the most accurate reproduction.*
 
 # Privacy ‹
 
@@ -25,6 +25,38 @@ You are not required to provide information directly to us in order to view the 
 ### **Billing and Credit Card Information**
 
 To enable payment and donations via the VIC Services, we collect and store name, address, telephone number, email address, credit card information and other billing information. This information will only be shared with third parties who help to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments.
+
+**  Cancellation and Refunds of Digital Subscriptions**
+
+When you cancel a subscription, you cancel only future charges associated with your subscription. You may notify us of your intent to cancel at any time, but the cancellation will become effective at the end of your current billing period.
+
+Except in the case of certain promotions, you can change or cancel your digital subscription at any time. If you are in the U.S., please call Customer Care at 340-514-3268. You can also email us at ethanernice@viconsortium.com.
+
+Digital products sold as part of a promotion, subject to an annual commitment may have different cancellation or refund policies that will be made clear at the time of purchase.
+
+Cancellations are effective the following billing cycle. You will not receive a refund for the current billing cycle. You will continue to have the same access and benefits of your product for the remainder of the current billing period.
+
+We reserve the right to issue refunds or credits at our sole discretion. If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future.
+
+_Changes to Content or Access_
+
+We reserve the right to make changes to our digital products at any time. If we temporarily reduce or eliminate the charge for content or access that you are currently paying for under different terms, you will not receive a refund.
+
+_Cancellations by Us_
+
+We reserve the right to suspend or terminate your subscription or product for any reason, with or without notice and without further obligation. You will not be entitled to a refund in these circumstances. If any or all of our digital products are temporarily unavailable, you will not receive a refund. We reserve the right to issue refunds or credits at our sole discretion. If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future.
+
+**  Cancellation During Promotional Periods**
+
+Certain promotions may not permit cancellation during the promotional period. You agree to the cancellation and refund terms stated at the time of purchase.
+
+**Changing your Subscription**
+
+When you change your subscription, you will receive a pro-rated credit toward your new subscription.
+
+**Cancellation and Refunds of One-Time Purchases**
+
+One-time purchases cannot be canceled or refunded.
 
 ### Information collected automatically when you view the Virgin Islands Consortium
 
