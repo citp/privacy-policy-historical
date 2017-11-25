@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622143750id_/http%3A//www.ancestry.co.uk/cs/legal/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125014528id_/http%3A//www.ancestry.co.uk/cs/legal/privacyphilosophy) for the most accurate reproduction.*
 
 # Ancestry Privacy Centre
 
@@ -38,13 +38,13 @@ The current AncestryDNA product results are based on a test of approximately 700
 
 You own your DNA data and you can choose to delete your DNA test results as described in the AncestryDNA Privacy Statement, or have us destroy your DNA sample at any time. If you do not, we retain your DNA test results and DNA sample.
 
-We also may collect _health data_ from you, which includes information and opinions about your family health history, and health and lifestyle information about you and your family members.
+The AncestryHealth beta is currently closed to new users, but if you are a current AncestryHealth user, we also may collect _health data_ from you, which includes information and opinions about your family health history, and health and lifestyle information about you and your family members.
 
 We use genetic and health data, along with family tree data and your personal data, to perform research in genealogy, anthropology, evolution, medicine, and other health areas to improve, research, and develop new products. We will never share your genetic or health information with third-party research collaborators unless you opt in to the Ancestry Human Diversity Research Project by agreeing to the [AncestryDNA Informed Consent](https://www.ancestry.co.uk/dna/legal/informedConsent/latest) or the [AncestryHealth Informed Consent](https://health.ancestry.com/account/informedconsent), or we otherwise obtain your explicit consent. You may opt out of the Research Project at any time; however, information cannot be withdrawn from studies in progress, completed studies, or published results.
 
 For more information about AncestryDNA, please see our [FAQs](https://www.ancestry.co.uk/dna/legal/faq) and the [AncestryDNA Privacy Statement](https://www.ancestry.co.uk/dna/legal/privacyStatement). For more information about AncestryHealth, please see the [AncestryHealth Privacy Statement](https://health.ancestry.com/account/privacystatement).
 
-Please note that AncestryDNA is only available in [these countries](https://support.ancestry.co.uk/s/article/AncestryDNA-Availability). AncestryHealth is only available in the United States.
+Please note that AncestryDNA is only available in [these countries](https://support.ancestry.co.uk/s/article/AncestryDNA-Availability). The AncestryHealth beta was only available in the United States.
 
 ### Online Data
 
