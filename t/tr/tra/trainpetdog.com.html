@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trainpetdog.com privacy policy that was archived on 2017-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170525214328id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainpetdog.com privacy policy that was archived on 2017-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171125074037id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <!-- Facebook Pixel Code -->
@@ -19,8 +19,6 @@ src="https://www.facebook.com/tr?id=1806109066316905&ev=PageView&noscript=1"
 /></noscript>
 <!-- DO NOT MODIFY -->
 <!-- End Facebook Pixel Code -->
-
-
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -47,7 +45,8 @@ src="https://www.facebook.com/tr?id=459742607690811&ev=PageView&noscript=1"
 </head>
 
 <body background="http://www.trainpetdog.com/images2/bg.jpg">
-  <!-- Google Tag Manager -->
+
+    <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NXBMDN"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -62,11 +61,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <tbody>
           <tr> 
             <td> 
-              <script language="javascript" type="text/javascript" src="http://d82h0xftp1yuu.cloudfront.net/js/common.min.js"></script>
+              <script language="javascript" type="text/javascript" src="https://d82h0xftp1yuu.cloudfront.net/js/common.min.js"></script>
 <table width="100%" border="0" cellspacing="0" bordercolor="#FDF9E8" bgcolor="#FDF9E8">
   <tbody><tr>
     <td width="6%" bgcolor="#FDF9E8"> 
-      <div align="center"><img src="http://d82h0xftp1yuu.cloudfront.net/images/logo3.jpg" width="200" height="54"></div></td>
+      <div align="center"><img src="https://d82h0xftp1yuu.cloudfront.net/images/logo3.jpg" width="200" height="54"></div></td>
       <td width="94%" bgcolor="FDF9E8"> <div align="right"></div></td>
   </tr>
 </tbody></table>
@@ -84,7 +83,7 @@ trackerSetCookie("entereddomain", "HTMLPAGES", trackerMu_thispagedomain);
 trackerSetCookie("campname", "SEO", trackerMu_thispagedomain);
 }
 </script>
-<script language="JavaScript" src="http://d82h0xftp1yuu.cloudfront.net/js/cookiefile.js"></script>
+<script language="JavaScript" src="https://d82h0xftp1yuu.cloudfront.net/js/cookiefile.js"></script>
             </td>
           </tr>
           <tr> 
@@ -96,8 +95,8 @@ trackerSetCookie("campname", "SEO", trackerMu_thispagedomain);
                           <td width="28%" valign="top" bgcolor="#FDF9E8"> 
                             <script type="text/javascript" src="capitalize.js"></script> 
 <script type="text/javascript" src="http://trainpetdog.com/signDate.js"></script> 
-<script src="http://d82h0xftp1yuu.cloudfront.net/js/jquery-1.7.min.js"></script>
-<script src="http://d82h0xftp1yuu.cloudfront.net/js/common.min.js"></script>
+<script src="https://d82h0xftp1yuu.cloudfront.net/js/jquery-1.7.min.js"></script>
+<script src="https://d82h0xftp1yuu.cloudfront.net/js/common.min.js"></script>
 <script>
 var currentDate=new Date,day=currentDate.getDate(),month=currentDate.getMonth()+1,year=currentDate.getFullYear(),hour=currentDate.getHours(),min=currentDate.getMinutes(),sec=currentDate.getSeconds(),date_val=year+"/"+month+"/"+day+"  "+hour+":"+min+":"+sec;
 function pop_up_light_box()
@@ -254,8 +253,12 @@ for (i=0;i<ARRcookies.length;i++)
 <div style="vertical-align:middle;background-color:#eeeeee; background: none repeat scroll 0 0 #eeeeee;color:black;font-weight:bold;padding-top:2px;padding-bottom:5px;font-family:arial,helvetica,sans-sarif;" align="center" id="sltopic"><script>
  document.write('Select Your Dog\'s Age');
 </script>Select Your Dog's Age</div></div>
-
+<script type="text/javascript">
+ function escapeHtml(e){return e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#039;")}
+</script>
 <p style="padding:20px;background:#eeeeee;font-family:arial,helvetica,sans-sarif;" id="stepone"><span id="helpus" style="display: block;">Please select your <script>
+var newurl=window.location.search.replace("?", "").split("&")[0];
+newurl=newurl.split("=");
 var ur=document.URL;
 var urf2=ur.split("spe=");
 var urf=urf2[0].split("?");
@@ -279,7 +282,14 @@ else
 {
 var spe_new="Dog";
 }
-document.write(spe_new);
+if(newurl[1]) {
+  document.write(escapeHtml(newurl[1]));  
+}
+if(newurl[1]) {
+  document.write(escapeHtml(newurl[1]));
+} else {
+  document.write(escapeHtml(spe_new));  
+}
 </script>Dog's age:</span>
 <span id="helpus2" style="display: none;">Please select the topic that you are most interested in learning more about:</span>
 <br><br>
@@ -294,6 +304,8 @@ var num=urf2.length;
 if(num>1)
 {
 //alert(num);
+var newurl=window.location.search.replace("?", "").split("&")[0];
+newurl=newurl.split("=");
 var spen=urf[0].split("/");
 var urfl=urf2[1].split("#");
 var specie=urfl[0].split("-");
@@ -312,11 +324,11 @@ var spe_new="Dog";
 
 document.getElementById("helpus").style.display="block";
 document.getElementById("helpus2").style.display="none";
-
-var towrite='<a href="javascript:displaypuppy();" onclick="displaypuppy();biteBark();"><strong>My '+spe_new+' is a puppy (aged less than 1 year)</strong><br><br></a>';
+var dogName = newurl[1] ? escapeHtml(newurl[1]) : spe_new;
+var towrite='<a href="javascript:displaypuppy();" onclick="displaypuppy();biteBark();"><strong>My '+dogName+' is a puppy (aged less than 1 year)</strong><br><br></a>';
 document.write(towrite);
 
-var towrite='<a href="javascript:displaymature();" onclick="displaymature();biteBark();"><strong>My '+spe_new+' is a young or adult dog (aged 1 year or more)</strong><br><br></a>';
+var towrite='<a href="javascript:displaymature();" onclick="displaymature();biteBark();"><strong>My '+dogName+' is a young or adult dog (aged 1 year or more)</strong><br><br></a>';
 document.write(towrite);
 
 var urm=document.URL;
@@ -348,7 +360,7 @@ else
 {
 var spe_new="Dog";
 }
-document.write(spe_new);
+document.write(escapeHtml(spe_new));
 </script>Dog's <span id="l1"></span>ï¿½ issues?
 <br>
 <br>
@@ -383,7 +395,7 @@ else
 {
 var spe_new="Dog";
 }
-document.write(spe_new);
+document.write(escapeHtml(spe_new));
 </script>Dog puppies aged less than 1 year?
 <br>
 <br>
@@ -540,6 +552,7 @@ function yesonversion()
             {
                 var newurl=newur[1].split("#");
                 var thanks=newurn[0]+"//"+newurn[2]+"/"+newurl[0];
+                thanks = escapeHtml(thanks);
             }
             else
             {
@@ -568,7 +581,7 @@ function yesonversion()
             }
     
     var thank_url = thanks+"index1.php?page=subscriptionthankssegnewmail";
-    var species = spe_new;
+    var species = escapeHtml(spe_new);
     var cmversion=getCookie("cmversion");
     var cmphase=getCookie("cmphase");
     var jcoo;
@@ -587,7 +600,7 @@ function yesonversion()
     
 }
 </script>
-<script language="JavaScript" src="http://d82h0xftp1yuu.cloudfront.net/js/segmentn24s.min.js"></script>
+<script language="JavaScript" src="https://d82h0xftp1yuu.cloudfront.net/js/segmentn24s.min.js"></script>
 <script>
                         function getvalue()
                         {
@@ -695,9 +708,11 @@ function trackerSetCookie (cookieName1, value, domain) {
   
                       
                         </script>
-        <script language="javascript" src="http://d82h0xftp1yuu.cloudfront.net/js/emch-all.js"></script>
+        <script language="javascript" src="https://d82h0xftp1yuu.cloudfront.net/js/emch-all.js"></script>
 			 
- <script>
+ <script type="text/javascript">
+ function escapeHtml(e){return e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#039;")}
+
  var version;
  var phase;
 	     var trackerMu_thispagedomainn = trackerExtractDomainNamen(document.URL);
@@ -808,7 +823,7 @@ if(n>1)
    if(nn3==1)
  {
 
-   var finalid=cje[0];
+   var finalid=escapeHtml(cje[0]);
    var cnm1=finalid;
 var cal = 'http://www.affiliates.trainpetdog.com/affiliates/jrox.php?uid='+finalid;
 //var rep='<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">';
@@ -1135,27 +1150,27 @@ function trackerSetCookie (cookieName1, value, domain) {
       <div align="center" class="bfntbg"><font color="#FFFFFF"><strong>PRODUCTS</strong></font></div></td>
                         </tr>
                         <tr>
-                          <td width="2%"><div align="center"><img src="http://d82h0xftp1yuu.cloudfront.net/images/bullet.jpg" width="10" height="10">
+                          <td width="2%"><div align="center"><img src="https://d82h0xftp1yuu.cloudfront.net/images/bullet.jpg" width="10" height="10">
                             </div></td>
                           <td width="98%" valign="middle"> <a href="#mini" class="ss">Free Course on Dog</a> </td>
                         </tr>
                         <tr>
-                          <td><div align="center"><img src="http://d82h0xftp1yuu.cloudfront.net/images/bullet.jpg" width="10" height="10"> 
+                          <td><div align="center"><img src="https://d82h0xftp1yuu.cloudfront.net/images/bullet.jpg" width="10" height="10"> 
                             </div></td>
                     <td valign="middle"><a href="http://www.trainpetdog.com/dog-breeders-em.html?src=tpm" class="ss">Adopting</a></td>
                         </tr>
                         <tr> 
-                          <td><div align="center"><img src="http://d82h0xftp1yuu.cloudfront.net/images/bullet.jpg" width="10" height="10"> 
+                          <td><div align="center"><img src="https://d82h0xftp1yuu.cloudfront.net/images/bullet.jpg" width="10" height="10"> 
                             </div></td>
                           <td valign="middle"><a href="http://www.trainpetdog.com/Dogs/index1.php?page=housebreakingcourse&amp;src=tpm" class="ss">Potty Training</a></td>
                         </tr>
                         <tr> 
-                          <td><div align="center"><img src="http://d82h0xftp1yuu.cloudfront.net/images/bullet.jpg" width="10" height="10"> 
+                          <td><div align="center"><img src="https://d82h0xftp1yuu.cloudfront.net/images/bullet.jpg" width="10" height="10"> 
                             </div></td>
                           <td valign="middle"><a href="http://www.trainpetdog.com/Dogs/index1.php?page=members&amp;src=tpm" class="ss">Training</a></td>
                         </tr>
                         <tr> 
-                          <td><div align="center"><img src="http://d82h0xftp1yuu.cloudfront.net/images/bullet.jpg" width="10" height="10"> 
+                          <td><div align="center"><img src="https://d82h0xftp1yuu.cloudfront.net/images/bullet.jpg" width="10" height="10"> 
                             </div></td>
                           <td valign="middle"><a href="http://www.trainpetdog.com/dog_grooming_p.html?src=tpm" onclick="exit=false" class="ss">Grooming</a></td>
                         </tr>
@@ -1521,7 +1536,9 @@ font-family:Verdana, Arial, Helvetica, sans-serif};
 <table width="100%" cellpadding="5" bgcolor="#FDF9E8">
   <tbody><tr> 
     <td bgcolor="#FDF9E8"> <p align="center"><font color="#000000" size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-        <script>
+        <script type="text/javascript">
+        function escapeHtml(e){return e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#039;")}
+
 		var ur=document.URL;
  var newurx= ur.split("spe=");
 var newur=newurx[0].split("?");
@@ -1530,7 +1547,7 @@ if(num>1)
 {
  var newurl=newurx[1].split("#");
 var spe=newurl[0].split("&");
- var jj='<a href="http://www.trainpetdog.com/pet-affiliate-program.html?spe='+spe[0]+'">';
+ var jj='<a href="http://www.trainpetdog.com/pet-affiliate-program.html?spe='+escapeHtml(spe[0])+'">';
 }
 else
 {
@@ -1544,7 +1561,8 @@ else
   }
   else
   {
-  var jj='<a href="http://www.trainpetdog.com/pet-affiliate-program.html?spe='+newurn[3]+'">';
+    var speciesAff = newurn[3] ? escapeHtml(newurn[3]) : "";
+  var jj='<a href="http://www.trainpetdog.com/pet-affiliate-program.html?spe='+speciesAff+'">';
   }
  }
  else
@@ -1554,24 +1572,24 @@ else
 }
 	document.write(jj);	
 		</script><a href="http://www.trainpetdog.com/pet-affiliate-program.html?spe=web">
-        Pet Affiliate Program - Make Money from Your Website</a> | <a href="http://www.trainpetdog.com/dog-potty.html">Potty 
-        Training Your Dog</a> | <a href="http://www.trainpetdog.com/dog-grooming.html">Dog 
-        Grooming</a> | <a href="http://www.trainpetdog.com/dog-diet.html">Best 
-        Homemade Dog Recipes</a> | <a href="http://www.trainpetdog.com/dog-adopting.html">Adopt 
-        a Dog or Puppy</a> | <a href="http://www.trainpetdog.com/dog-barking.html">Stop Dog Barking</a> | <a href="http://www.trainpetdog.com/dog-biting.html">Dog Biting</a> | <a href="http://www.trainpetdog.com/store/">Dog Products</a> 
-        | <a href="http://www.trainpetdog.com/blog">Dog Blog</a> | <a href="http://www.trainpetdog.com/dog-exercising-fs.html">Dog 
-        Exercising</a> | <a href="http://www.trainpetdog.com/dog-health-fs.html">Dog 
+        Pet Affiliate Program - Make Money from Your Website</a> | <a href="/dog-potty.html">Potty 
+        Training Your Dog</a> | <a href="/dog-grooming.html">Dog 
+        Grooming</a> | <a href="/dog-diet.html">Best 
+        Homemade Dog Recipes</a> | <a href="/dog-adopting.html">Adopt 
+        a Dog or Puppy</a> | <a href="/dog-barking.html">Stop Dog Barking</a> | <a href="/dog-biting.html">Dog Biting</a> | <a href="/store/">Dog Products</a> 
+        | <!-- <a href="/blog">Dog Blog</a> |  --><a href="/dog-exercising-fs.html">Dog 
+        Exercising</a> | <a href="/dog-health-fs.html">Dog 
         Health</a><br>
-        <a href="http://www.trainpetdog.com">Dog Training - TrainPetDog.com Home Page</a> | <a href="http://www.trainpetdog.com/about-us.html">About 
-        Us</a> | <a href="http://www.trainpetdog.com/privacy.html">Privacy Policy</a> 
-        | <a href="http://www.trainpetdog.com/termsofuse.html">Terms Of Use</a> 
-		| <a href="http://www.trainpetdog.com/Refund_Policy.html">Refund Policy</a> 
-        | <a href="http://www.trainpetdog.com/sitemap.html">Sitemap</a> | <a href="http://www.trainpetdog.com/resources.html">Resources</a> 
-        | <a href="http://www.trainpetdog.com/training-small-dog-breeds.html">Training 
-        Small Dog Breeds</a> | <a href="http://www.trainpetdog.com/training-medium-dog-breeds.html">Training 
-        Medium Dog Breeds</a> | <a href="http://www.trainpetdog.com/training-large-dog-breeds.html">Training 
-        Large Dog Breeds</a> | <a href="http://www.trainpetdog.com/our-tribute.html">Our 
-        Tribute</a> | <a href="http://www.trainpetdog.com/contact-us.html">Contact Us</a></font></p></td>
+        <a href="../">Dog Training - TrainPetDog.com Home Page</a> | <a href="/about-us.html">About 
+        Us</a> | <a href="/privacy.html">Privacy Policy</a> 
+        | <a href="/termsofuse.html">Terms Of Use</a> 
+		| <a href="/Refund_Policy.html">Refund Policy</a> 
+        | <a href="/sitemap.html">Sitemap</a> | <a href="/resources.html">Resources</a> 
+        | <a href="/training-small-dog-breeds.html">Training 
+        Small Dog Breeds</a> | <a href="/training-medium-dog-breeds.html">Training 
+        Medium Dog Breeds</a> | <a href="/training-large-dog-breeds.html">Training 
+        Large Dog Breeds</a> | <a href="/our-tribute.html">Our 
+        Tribute</a> | <a href="/contact-us.html">Contact Us</a></font></p></td>
   </tr>
   <tr>
     <td bgcolor="#FDF9E8" align="center" class="footb">Copyright © 2007 - <script language="JavaScript">
@@ -1586,10 +1604,6 @@ document.write(dateVar.getFullYear());
 belong to their respective companies. The use of the trademarks, trade 
 names, service marks or logos of other companies does not necessarily mean 
 that those companies are associated with, or endorse, TrainPetDog.com
-
-<!-- Tracking LXR100 Start -->
-<img height="1" width="1" border="0" src="http://www.adelixir.com/NeROITrack/1115/?busassid=1115&amp;ne_rdt=1">
-<!-- Tracking LXR100 End -->
 
 
 </td>
