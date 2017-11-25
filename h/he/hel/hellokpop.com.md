@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellokpop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190740id_/http%3A//www.hellokpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellokpop.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125133502id_/http%3A//www.hellokpop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | hellokpop
 
@@ -40,6 +40,6 @@ This Privacy Policy applies only to hellokpop.com to the exclusion of third part
 
 For any queries, recommendations or comments to improve the quality of our Privacy Policy, please contact the [webmaster](http://www.hellokpop.com/contact-us/). We aim to constantly improve the tools available to you to manage the data that you provide to us. Please refer to this page from time to time to review any updates which concerns your personal interest.
 
-Updated as of 02 October 2012.
+**Disclaimer**
 
-Email: webmaster@hellokpop.com
+[LINK](http://www.hellokpop.com/disclaimer/)
