@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmscommander.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608071419id_/https%3A//cmscommander.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmscommander.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125221104id_/http%3A//cmscommander.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CMS Commander
 
@@ -67,4 +67,4 @@ This document was last updated on September 23, 2012
 #### Join Over 3,000 Other Commanders!
 
 Sign up now to **start managing all your blogs** immediately.  
-Always free for up to 5 blogs, includes 14 day premium trial.
+Completely **free for 14 days**. No payment details required!
