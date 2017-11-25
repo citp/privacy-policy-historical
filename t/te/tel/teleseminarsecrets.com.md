@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teleseminarsecrets.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627135515id_/http%3A//alexmandossian.com/am/%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleseminarsecrets.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125134010id_/http%3A//alexmandossian.com/am/%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # Alex Mandossian -Privacy Policy
 
