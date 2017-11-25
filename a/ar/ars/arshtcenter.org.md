@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arshtcenter.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053910id_/http%3A//www.arshtcenter.org/en/Visit/Guest-Services/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arshtcenter.org privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125094102id_/http%3A//www.arshtcenter.org/en/Visit/Guest-Services/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adrienne Arsht Center
 
@@ -67,15 +67,19 @@ We may use "cookie" technology. A cookie is a small amount of data sent by our W
 
 Our Web site may include links to other Web sites. We do not control the privacy policies of the destination sites. Once you leave our servers (you can check where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site that you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from such a site's homepage, you should contact the manager of that site for more information. the Center is not responsible for the privacy practices or the content of websites other than the Center's Web site.
 
-**5\. Security and Disclaimer**
+**6\. Comments on Social Media Platforms**
+
+We are pleased to offer our community an opportunity to share diverse opinions and varied points of view on our social media pages - in fact, we encourage it! Our goal is to build community through the arts and, as such, we do require that all comments follow a few basic standards. Comments that are threatening, libelous, defamatory, obscene, pornographic or racist will be removed. We require that all comments are free from profanity and hate speech. All comments should be relevant to the post and remain respectful of other commenters.
+
+**7\. Security and Disclaimer**
 
 Although we use security that we believe to be appropriate to protect your personal information, we do not guarantee that our security precautions will protect against, and we expressly disclaim any liability for, any loss, misuse or alteration of your personal information.
 
-**6\. Changes to this Privacy Policy**
+**8\. Changes to this Privacy Policy**
 
 the Center, from time to time, may update this policy without prior notice. Changes to this policy will be reflected on the Center's Web site.
 
-**7\. Questions and Suggestions**
+**9\. Questions and Suggestions**
 
 If you have any questions or suggestions, please complete an online feedback form or you can contact us at:
 
