@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the filefactory.com privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628081019id_/http%3A//filefactory.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filefactory.com privacy policy that was archived on 2017-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171125035948id_/https%3A//www.filefactory.com/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<title>FileFactory</title>
@@ -11,26 +11,27 @@
 
 		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" type="text/css">
 		
-		<link rel="stylesheet" href="http://www.filefactory.com/css/vendor/bootstrap.min.css?v=003920150824" type="text/css">	
-				<link rel="stylesheet" href="http://www.filefactory.com/css/vendor/bootstrap-dialog.css?v=003920150824" type="text/css">
-		<link rel="stylesheet" href="http://www.filefactory.com/css/vendor/selectBoxIt.css?v=003920150824" type="text/css">
-		<link rel="stylesheet" href="http://www.filefactory.com/css/filefactory.common.css?v=003920150824" type="text/css">
+		<link rel="stylesheet" href="http://www.filefactory.com/css/vendor/bootstrap.min.css?v=003920497953" type="text/css">	
+				<link rel="stylesheet" href="http://www.filefactory.com/css/vendor/bootstrap-dialog.css?v=003920497953" type="text/css">
+		<link rel="stylesheet" href="http://www.filefactory.com/css/vendor/selectBoxIt.css?v=003920497953" type="text/css">
+		<link rel="stylesheet" href="http://www.filefactory.com/css/filefactory.common.css?v=003920497953" type="text/css">
 
-														<link rel="stylesheet" type="text/css" href="http://www.filefactory.com/css/filefactory.legal.css?v=003920150824">
+														<link rel="stylesheet" type="text/css" href="http://www.filefactory.com/css/filefactory.legal.css?v=003920497953">
 									
-					<link rel="stylesheet" href="http://www.filefactory.com/css/translate/filefactory.en_US.css?v=003920150824" type="text/css">
+					<link rel="stylesheet" href="http://www.filefactory.com/css/translate/filefactory.en_US.css?v=003920497953" type="text/css">
 		
-		<link rel="stylesheet" href="http://www.filefactory.com/css/animate.css?v=003920150824" type="text/css">
-		<link rel="stylesheet" href="http://www.filefactory.com/css/filefactory.1608.css?v=003920150824" type="text/css">
-		<link rel="stylesheet" href="/css/icomoon.css?v=003920150824" type="text/css">
+		<link rel="stylesheet" href="http://www.filefactory.com/css/animate.css?v=003920497953" type="text/css">
+		<link rel="stylesheet" href="http://www.filefactory.com/css/filefactory.1608.css?v=003920497953" type="text/css">
+		<link rel="stylesheet" href="/css/icomoon.css?v=003920497953" type="text/css">
 
 		<!--[if lt IE 9]>
 		<script src="/js/vendor/html5shiv.js"></script>
 		<![endif]-->
 
-					<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+					<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//cdn.engine.addroplet.com/Scripts/infinity.js.aspx?guid=6362f367-f6d7-44b2-a7e6-a6d57ffc0e84" id="infinity" data-guid="6362f367-f6d7-44b2-a7e6-a6d57ffc0e84" data-version="async"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 			<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
 		
+
 		<!-- Google Analytics -->
 		<script type="text/javascript">
 		  var _gaq = _gaq || [];
@@ -45,7 +46,8 @@
 		</script>
 		<!-- End Google Analytics -->
 
-			</head>
+
+	</head>
 	<body>
 		
 		<div id="content">
@@ -221,89 +223,165 @@ $(function()
 				</footer>
 					</div>
 
-<!-- Join (Promo) Modal -->
+
 <script type="text/javascript">
-	$(function(){
-		// Init the modal
-		var joinModal = new BootstrapDialog({
-			title: 'Upgrade',
-			message: $("#joinModal").html(),
-			nl2br: false,
-			buttons: [{
-				label: "Don't show again",
-				cssClass: 'btn-link pull-left',
-				id: 'notagain',
-				action: function(dialog) {
-					$.cookie("join-modal", '1', { expires: 30, path: '/' });
+$(function()
+{
+});
 
-					dialog.close();
-				}
-			},{
-				label: 'Close',
-				cssClass: 'btn-info',
-				action: function(dialog) {
-					dialog.close();
-				}
-			}],
-			onshow: function(dialogRef) {
-				// Preset the width to match the data-width attribute
-				dialogRef.getModalDialog().css('width', $("div#joinModal").attr('data-width'));
-				// Get rid of the body padding (so the image takes up the full modal)
-				dialogRef.getModalBody().css({'padding' : 0, 'margin-top' : '-1px'});
+//alert('getJSON');
 
-				resizePromoModal();
-			},
-			onshown: function(dialogRef) {
-				var resizeTimeout;
 
-				$(window).on('resize.modal', function(){
-					resizeTimeout && clearTimeout(resizeTimeout);
-					resizeTimeout = setTimeout(function(){
-						// Fix modal width 
+	var zone_invocation_url = "http://engagesrvr.filefactory.com/?646106113&keywords=guest";
+
+//alert(zone_invocation_url);
+
+	$.getJSON(zone_invocation_url, function(data)
+	{
+		var x_cid = '';
+		var x_alt_text = '';
+		var x_campaign_weight = '';
+		var x_crid = '';
+		var x_creative_type = '';
+		var x_width = '';
+		var x_height = '';
+
+		var x_click_url = '';
+		var x_image_url = '';
+		var x_imp_url = '';
+		var x_landing_url = '';
+		var x_target_window = '';
+
+
+		if (data.response.hasOwnProperty('campaign'))
+		{
+//alert('campaign');
+			var x_cid = data.response.campaign.hasOwnProperty('cID') ? data.response.campaign.cID : '';
+			var x_alt_text = (data.response.campaign.hasOwnProperty('alt_text') && data.response.campaign.alt_text !== null) ? data.response.campaign.alt_text : 'FileFactory Promo';
+			var x_campaign_weight = data.response.campaign.hasOwnProperty('campaign_weight') ? data.response.campaign.campaign_weight : '';
+			var x_crid = data.response.campaign.hasOwnProperty('crid') ? data.response.campaign.crid : '';
+			var x_creative_type = data.response.campaign.hasOwnProperty('creative_type') ? data.response.campaign.creative_type : '';
+			var x_width = data.response.campaign.hasOwnProperty('width') ? data.response.campaign.width : '';
+			var x_height = data.response.campaign.hasOwnProperty('height') ? data.response.campaign.height : '';
+
+			if (data.response.campaign.hasOwnProperty('creative_data'))
+			{
+//alert('creative_data');
+				var x_click_url = data.response.campaign.creative_data.hasOwnProperty('click_url') ? data.response.campaign.creative_data.click_url : '';
+				var x_image_url = data.response.campaign.creative_data.hasOwnProperty('image_url') ? data.response.campaign.creative_data.image_url : '';
+				var x_imp_url = data.response.campaign.creative_data.hasOwnProperty('imp_url') ? data.response.campaign.creative_data.imp_url : '';
+				var x_landing_url = data.response.campaign.creative_data.hasOwnProperty('landing_url') ? data.response.campaign.creative_data.landing_url : '';
+				var x_target_window = data.response.campaign.creative_data.hasOwnProperty('target_window') ? data.response.campaign.creative_data.target_window : '';
+			}
+
+
+//alert(x_click_url);
+//alert(x_image_url);
+//alert(x_alt_text);
+
+			$('#ff-promo-modal-url').attr('href', x_click_url);
+			$('#ff-promo-modal-img').attr('src', x_image_url);
+			$('#ff-promo-modal-img').attr('alt', x_alt_text);
+
+
+<!-- Join (Promo) Modal -->
+
+			$(function(){
+//alert('joinModal');
+				// Init the modal
+				var joinModal = new BootstrapDialog({
+					title: 'Upgrade',
+					message: $("#joinModal").html(),
+					nl2br: false,
+					buttons: [{
+						label: "Don't show again",
+						cssClass: 'btn-link pull-left',
+						id: 'notagain',
+						action: function(dialog) {
+							$.cookie("join-modal", '1', { expires: 30, path: '/' });
+
+							dialog.close();
+						}
+					},{
+						label: 'Close',
+						cssClass: 'btn-info',
+						action: function(dialog) {
+							dialog.close();
+						}
+					}],
+					onshow: function(dialogRef) {
+						// Preset the width to match the data-width attribute
+						dialogRef.getModalDialog().css('width', $("div#joinModal").attr('data-width'));
+						// Get rid of the body padding (so the image takes up the full modal)
+						dialogRef.getModalBody().css({'padding' : 0, 'margin-top' : '-1px'});
+
 						resizePromoModal();
-					}, 10);
-				});
-			},
-			onhide: function(dialogRef) {
-				$.cookie("join-modal", '1', { expires: 1, path: '/' });
-			}
-		});
-		
-		/**
-		 * This hacky function overrides the default resize behavior of
-		 * bootstrap-modal - by default the modal will stretch if the
-		 * viewport is < 979px, this prevents that and instead ensures
-		 * that the modal remains at a fixed with and stays centered.
-		 */
-		function resizePromoModal() {
-			if ($(window).width() <= 1000) {
-				if ($(window).width() > $("div#joinModal").attr('data-width')) {
-					var cssText = "display: block; left: 50% !important; width: " + $("div#joinModal").attr('data-width') + "px !important; margin-left: -" + (parseInt( $("div#joinModal").attr('data-width'), 10) / 2) + "px !important";
-				} else {
-					var cssText = "display: block;";
-				}
+					},
+					onshown: function(dialogRef) {
+						var resizeTimeout;
 
-				// cssText is used to allow the !important overrides, because bootstrap-modal uses them by default..
-				joinModal.getModalDialog().css('cssText', cssText);
-			}
+						$(window).on('resize.modal', function(){
+							resizeTimeout && clearTimeout(resizeTimeout);
+							resizeTimeout = setTimeout(function(){
+								// Fix modal width 
+								resizePromoModal();
+							}, 10);
+						});
+					},
+					onhide: function(dialogRef) {
+						$.cookie("join-modal", '1', { expires: 1, path: '/' });
+					}
+				});
+				
+				/**
+				 * This hacky function overrides the default resize behavior of
+				 * bootstrap-modal - by default the modal will stretch if the
+				 * viewport is < 979px, this prevents that and instead ensures
+				 * that the modal remains at a fixed with and stays centered.
+				 */
+				function resizePromoModal() {
+					if ($(window).width() <= 1000) {
+						if ($(window).width() > $("div#joinModal").attr('data-width')) {
+							var cssText = "display: block; left: 50% !important; width: " + $("div#joinModal").attr('data-width') + "px !important; margin-left: -" + (parseInt( $("div#joinModal").attr('data-width'), 10) / 2) + "px !important";
+						} else {
+							var cssText = "display: block;";
+						}
+
+						// cssText is used to allow the !important overrides, because bootstrap-modal uses them by default..
+						joinModal.getModalDialog().css('cssText', cssText);
+					}
+				}
+				
+				// Show the modal after 10s
+				setTimeout(function(){ joinModal.open(); }, 10000);
+			});
+
 		}
-		
-		// Show the modal after 10s
-		setTimeout(function(){ joinModal.open(); }, 10000);
+
+
 	});
+
 </script>
 <div id="joinModal" style="display: none;" data-width="560">
 	<div>
         <!-- It's not necessary to specify image dimensions to the <a> as they're injected via JS.  Just ensure data-with is correct and the modal will resize correctly. -->
-		<a href="http://www.filefactory.com/services/premium/"><img src="http://www.filefactory.com/img/premium/promo.jpg" class="img-responsive" alt="FileFactory Promo"></a>
+		<a id="ff-promo-modal-url" href="http://www.filefactory.com/services/premium/"><img id="ff-promo-modal-img" src="http://www.filefactory.com/img/premium/promo.jpg" class="img-responsive" alt="FileFactory Promo"></a>
 	</div> 
 </div>
+
+
+
 		
 		
 				
 
+	<!-- adspplycode -->
+	<script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.addroplet.com/Scripts/infinity.js.aspx?guid=6362f367-f6d7-44b2-a7e6-a6d57ffc0e84";s.id="infinity";s.setAttribute("data-guid","6362f367-f6d7-44b2-a7e6-a6d57ffc0e84");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
 
-		<script src="http://www.filefactory.com/js/filefactory.common.js?v=003920150824"></script>
+
+
+
+		<script src="http://www.filefactory.com/js/filefactory.common.js?v=003920497953"></script>
 
 		<script>
 			$(function()
@@ -312,11 +390,17 @@ $(function()
 			});
 		</script>
 
-		<script src="http://www.filefactory.com/js/vendor/bootstrap.min.js?v=003920150824"></script>
-				<script src="http://www.filefactory.com/js/vendor/bootstrap-dialog.js?v=003920150824"></script>
-		<script src="http://www.filefactory.com/js/vendor/jquery.cookie.js?v=003920150824"></script>
-		<script src="http://www.filefactory.com/js/vendor/jquery.selectBoxIt.js?v=003920150824"></script>
+		<script src="http://www.filefactory.com/js/vendor/bootstrap.min.js?v=003920497953"></script>
+				<script src="http://www.filefactory.com/js/vendor/bootstrap-dialog.js?v=003920497953"></script>
+		<script src="http://www.filefactory.com/js/vendor/jquery.cookie.js?v=003920497953"></script>
+		<script src="http://www.filefactory.com/js/vendor/jquery.selectBoxIt.js?v=003920497953"></script>
 							
+
+
+
+
+
+
 
 
 <!-- Facebook Pixel Code -->
