@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeazztube.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104649id_/http%3A//www.theyfuckwewatch.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeazztube.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125080719id_/http%3A//www.theyfuckwewatch.com/static/privacy) for the most accurate reproduction.*
 
 # They Fuck We Watch | Free Homemade Interracial Porn & Ebony Porn Videos Sextapes
 
