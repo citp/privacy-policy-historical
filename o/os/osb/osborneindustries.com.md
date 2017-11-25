@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the osborneindustries.com privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708193011id_/http%3A//www.osborneindustries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osborneindustries.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125053022id_/http%3A//www.osborneindustries.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Osborne Industries
+# Privacy Policy | Osborne Industries
 
-Osborne Industries respects your right to privacy. 
+Osborne Industries respects your right to privacy.
 
 This privacy policy sets out how Osborne Industries uses and protects any information that you give Osborne Industries when you use this website. Osborne Industries is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Osborne Industries may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 5/11/2016.
 
