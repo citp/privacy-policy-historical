@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the completecurrencytrader.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511170216id_/http%3A//completecurrencytrader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completecurrencytrader.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125110130id_/http%3A//www.completecurrencytrader.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Complete Currency Trader
+# Currency Strength Indicator
 
 Complete Currency Trader is committed to protecting the privacy of its clients. Any information you provide to this site which could identify you personally, is only ever used in strict accordance with the privacy statement set out below. Complete Currency Trader Ltd may occasionally change or update this policy, so you should check this page from time to time to be sure you are comfortable with this policy. The current policy is effective from 20 March 2014.
 
