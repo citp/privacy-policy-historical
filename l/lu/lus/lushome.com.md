@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lushome.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115242id_/http%3A//www.lushome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushome.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125184039id_/http%3A//www.lushome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -107,9 +107,8 @@ We regularly review our compliance with the appropriate regulatory authorities, 
 
 If you have an inquiry or concern about our privacy policy, please contact:
 
-Email address : | support@lushome.com  
----|---  
-|   
+Email address : | support@lushome.com |  |   
+---|---|---|---  
   
 ### Disclaimers
 
