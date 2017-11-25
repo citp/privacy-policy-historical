@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstdata.de privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208002534id_/https%3A//www.firstdata.com/en_de/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstdata.de privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125071408id_/https%3A//www.firstdata.com/en_de/privacy.html) for the most accurate reproduction.*
 
 # First Data Privacy & Legal | First Data
 
