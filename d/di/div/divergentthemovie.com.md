@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divergentthemovie.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627002430id_/http%3A//www.lionsgate.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divergentthemovie.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125073710id_/http%3A//www.lionsgate.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
