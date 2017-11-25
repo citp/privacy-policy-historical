@@ -1,100 +1,41 @@
-> *The following text is extracted and transformed from the vidmate.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidmate.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125104302id_/http%3A//www.vidmate.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# 
 
-**Go Daddy Respects Your Privacy**
+PLEASE READ THIS STATEMENT OF PRIVACY PRACTICES CAREFULLY BEFORE USING OUR SERVICE
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Version: April 7, 2016
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Vidmate ("Our", "We" or "Us") respects your privacy and is dedicated to protecting the privacy of those persons using ("User(s)" or "You") Vidmate products, services and websites. This Privacy Policy helps You to understand what personal information/data ("Personal Information") and non-personal information We collect, and how We use it.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+1\. SCOPE OF THIS PRIVACY POLICY
 
-**Information Collection and Use**
+This Privacy Policy applies only to personal information submitted and collected through the Services. By installing, using, registering to or otherwise accessing the Services, you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not install, use, register to or otherwise access the Services. Vidmate reserves the right to modify this Privacy Policy at reasonable times, so please review it frequently. Your continued used of the Services will signify your acceptance to the changes to this Privacy Policy.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+2\. INFORMATION COLLECTED
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Personal Information The information we collect can be generally placed in two categories: 1) data on how the user uses our Services; 2) aggregate data on content the user engages with. We may use this information to personalize and improve our services, to fulfill your requests for certain products and services, and to analyze how you use the Services. We may provide this information to our partners, so that they, too, can provide you with an optimal experience, but we never disclose information to a partner in a manner that would identify you personally. Non-Personal Information For purposes of this Privacy Policy, “Non-Personal Information” means information that does not directly identify you. Vidmate may use tools or third party analytical software to automatically collect and use certain Non-Personal Information that does not directly enable Vidmate to identify you. The types of Non-Personal Information Vidmate may collect and use include, but are not limited to: (i) device properties, including, but not limited to IP address, unique device identifier or other persistent or non-persistent device identifier (“Device ID”); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) other Non-Personal Information as reasonably required by Vidmate to enhance the Services and other Vidmate products and services. Cookies Vidmate treats information collected by cookies and similar technologies as non-personal information. A “cookie” is a small bit of record-keeping information that sites often store on a user’s computer. Cookies do not include people’s names, email addresses, or other information that is personally identifiable; they are typically used to quickly identify a user’s computer and to “remember” things about the user’s visit. You can disable cookies or set your browser to alert you when cookies are being sent to your computer.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+3\. DISCLOSING AND HOSTING INFORMATION
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+In addition to the disclosures described herein, we may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. Subject to applicable law, we reserve the right voluntarily or involuntarily to make all lawful, worldwide uses of Personal Information, including without limitation, to: collect, use, access (or bar access), process, fulfill, disclose, display, share, respond to legal process or otherwise exercise our rights under applicable law, transfer, store, sell, lease, retain, commingle, investigate, verify, prove, enforce, delete, and otherwise deal with Personal Information, and information other than Personal Information.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+4\. COLLECTION AND USE OF CHILDREN’S PERSONAL INFORMATION
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+The Services comply with the Children’s Online Privacy Protection Act (“COPPA”). Vidmate does not knowingly collect personal information from children under the age of 13 through the Services. In addition, in the event that a user identifies himself or herself as a child under the age of 13 within the Services or in connection with any Content or Software, Vidmate will not collect, store or use any personal information of such user. Further, in the event that Vidmate receives personal information that Vidmate discovers was provided by a child under the age of 13, Vidmate will promptly delete such personal information in a secure manner.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+5\. SAFEGUARDS
 
-**Security**
+Vidmate maintains appropriate safeguards that ensure the security, integrity, and privacy of the personal information we collect and store about our account holders, including children under 13. Personal information collected by Vidmate is stored in secure operating environments that are not available to the public and that are only accessible by authorized employees. We also have security measures in place to protect the loss, misuse, and alteration of the information under our control (i.e., maintain data quality).
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+6\. LINKS TO THIRD PARTY SITES OR SERVICES
 
-**Updating Your Information**
+You should be aware that the Services may from time to time contain links to third-party sites, products or services. Vidmate is not responsible for the privacy practices or the content of such sites or services. If you are concerned about the privacy policy of a certain third party, we recommend that you read the privacy policy of the site or service to which you link before you submit any personal information.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+7\. CHANGES TO THE PRIVACY POLICY
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Vidmate may change this Privacy Policy from time to time, and at Vidmate‘s sole discretion. All changes hereto will be made available on this website, which is why Vidmate encourages Users to frequently check this page for any changes to this Privacy Policy. Changes hereto will not prejudice Users' rights without their consent.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+8\. QUESTIONS OR CONCERNS
 
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions or concerns regarding our privacy policies, please Email us at vidmatestudio@gmail.com
