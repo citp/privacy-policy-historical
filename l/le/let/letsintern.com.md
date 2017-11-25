@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsintern.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624023528id_/http%3A//www.letsintern.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsintern.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125050448id_/http%3A//www.letsintern.com/privacy) for the most accurate reproduction.*
 
 # Internships and Internship Jobs in India 2017 | Letsintern
 
