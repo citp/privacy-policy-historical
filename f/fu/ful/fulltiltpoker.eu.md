@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltiltpoker.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010737id_/http%3A//www.fulltilt.eu/poker/room/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.eu privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125112352id_/http%3A//www.fulltilt.eu/poker/room/privacy) for the most accurate reproduction.*
 
 # Online Software Privacy Policy - Privacy Issues
 
