@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jellyfish.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131315id_/http%3A//www.jellyfish.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellyfish.co.uk privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125234020id_/http%3A//www.jellyfish.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jellyfish UK
 
@@ -92,7 +92,7 @@ You can change your personal information by emailing us.
 
 ## Privacy Shield Compliance
 
-Jellyfish Online Marketing Ltd complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Jellyfish Online Marketing Ltd has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+Jellyfish Online Marketing Ltd and its wholly subsidiaries Jellyfish Group Ltd and [Jellyfish Dynamix](https://www.jellyfishdynamix.com/) comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Jellyfish Online Marketing Ltd has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
 In compliance with the EU-US Privacy Shield Principles, Jellyfish Online Marketing Ltd commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Jellyfish Online Marketing Ltd at: 
 
