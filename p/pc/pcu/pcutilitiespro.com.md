@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcutilitiespro.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306015559id_/http%3A//www.pcutilitiespro.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcutilitiespro.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125121702id_/http%3A//www.pcutilitiespro.com/en/privacy) for the most accurate reproduction.*
 
 # PC Utilities Pro - Privacy Policy
 
@@ -63,13 +63,13 @@ We use cookies here at the PCUtilitiesPro.com website. Cookies are pieces of par
 
 ##### Correct or Update your personal data:
 
-We here at PCUtilitiesPro.com make available a method for correcting or updating one's personal data from our data records if and when needed at any given point of time once requested by The User. A delay of a few weeks applies to corrections and updates of personal information as PCUtilitiesPro.com attempts to verify the truthful identity of a user requesting such changes to their information prior to it being executed by us. To correct or update personal information, simply [send an email](mailto:support@pcutilitiespro.com?Subject=Correct%20personal%20information) to our Customer Service Dept. and we shall be of assistance to remedy the situation as soon as possible. If you no longer wish to be on our mailing list, see our opt-out process as described above.
+We here at PCUtilitiesPro.com make available a method for correcting or updating one's personal data from our data records if and when needed at any given point of time once requested by The User. A delay of a few weeks applies to corrections and updates of personal information as PCUtilitiesPro.com attempts to verify the truthful identity of a user requesting such changes to their information prior to it being executed by us. To correct or update personal information, simply [send an email](https://web.archive.org/cdn-cgi/l/email-protection#d2a1a7a2a2bda0a692a2b1a7a6bbbebba6bbb7a1a2a0bdfcb1bdbfed81a7b0b8b7b1a6ef91bda0a0b7b1a6f2a2b7a0a1bdbcb3bef2bbbcb4bda0bfb3a6bbbdbc) to our Customer Service Dept. and we shall be of assistance to remedy the situation as soon as possible. If you no longer wish to be on our mailing list, see our opt-out process as described above.
 
 If you no longer wish to be on our mailing list, see our opt-out process as described above.
 
 ##### You should know this: 
 
-You have a right to access the personal data that is held about you. To obtain a copy of the personal information PCUtilitiesPro.com has of you, please [send an email](mailto:support@pcutilitiespro.com) to our Customer Service Dept. (in the title, copy and paste this: "Obtain a copy of my personal information").
+You have a right to access the personal data that is held about you. To obtain a copy of the personal information PCUtilitiesPro.com has of you, please [send an email](https://web.archive.org/cdn-cgi/l/email-protection#5b282e2b2b34292f1b2b382e2f3237322f323e282b293475383436) to our Customer Service Dept. (in the title, copy and paste this: "Obtain a copy of my personal information").
 
 ##### Notification of changes:
 
@@ -77,6 +77,6 @@ You as The User will always be notified should we decide to change this Policy s
 
 ## Feel Free To Contact Us!
 
-If there are any questions regarding this privacy policy or if you believe that this website is not following its stated privacy policy, please contact us through our [Contact Us](https://web.archive.org/web/20170306015559id_/http://www.pcutilitiespro.com/en/privacy/contact-us) page.
+If there are any questions regarding this privacy policy or if you believe that this website is not following its stated privacy policy, please contact us through our [Contact Us](https://web.archive.org/web/20171125121702id_/http://www.pcutilitiespro.com/en/privacy/contact-us) page.
 
 The PC Utilities Pro Software Limited Team!
