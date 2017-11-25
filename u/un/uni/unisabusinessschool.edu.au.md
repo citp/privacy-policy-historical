@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisabusinessschool.edu.au privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627183150id_/http%3A//www.unisa.edu.au/About-UniSA/Governance-and-management-structure/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisabusinessschool.edu.au privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125045938id_/http%3A//www.unisa.edu.au/About-UniSA/Governance-and-management-structure/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - About UniSA - University of South Australia
 
