@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyteam.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194149id_/https%3A//www.skyteam.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyteam.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125015128id_/https%3A//www.skyteam.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # SkyTeam - Privacy Policy
 
