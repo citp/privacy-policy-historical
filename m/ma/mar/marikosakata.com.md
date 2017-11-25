@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marikosakata.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426212238id_/http%3A//marikosakata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marikosakata.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125232227id_/http%3A//marikosakata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mariko Sakata | Raw Food and Plant-based Recipes
 
