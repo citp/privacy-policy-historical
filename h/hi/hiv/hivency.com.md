@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hivency.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045725id_/http%3A//hivency.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hivency.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125105821id_/http%3A//hivency.com/policies/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions | Hivency
 
@@ -88,13 +88,23 @@ The HIVENCY company makes every effort to ensure the protection and the security
 
 Once they are collected, data are hold on a server of the AMAZON WEB SERVICES company. The unique recipient of data is the HIVENCY company and its employees who are expressly entitled to have access to it by a secure identification method.
 
-####  Article 8. Conflict resolution 
+####  Article 8. Privacy Policy with respect to the YouTube API 
+
+Hivency uses YouTube's API services. The privacy policy for these services can be found at the following link: http://www.google.com/policies/privacy.
+
+When data will be collected by Hivency via the Youtube API, it will concern: the link of the public videos, the number of comments and views, as well as data related to the YouTube accounts: the number of videos and the number of subscribers.
+
+This data is only available to authorized members of Hivency, to users who have an authorized access and to companies with which users agreed to collaborate.
+
+In addition to the usual Hivency account removal procedure, users can visit the following link: https://security.google.com/settings/security/permissions to revoke access to their permission.
+
+####  Article 9. Conflict resolution 
 
 The HIVENCY company implemented the necessary systems to manage the written user's claims in relation with their own data.
 
 If there were a dispute relating to the collection of personal data unsolved amicably between a user and the HIVENCY company, it will cooperate with the competent authority for a satisfactory solution for the parties.
 
-####  Article 9. Contact 
+####  Article 10. Contact 
 
 For any questions or requests regarding the present Data Privacy Policy, users are able to send to the HIVENCY company :
 
