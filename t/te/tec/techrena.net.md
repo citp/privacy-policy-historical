@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techrena.net privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503093729id_/http%3A//techrena.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techrena.net privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125094403id_/http%3A//techrena.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy TECHRENA dot Net
 
