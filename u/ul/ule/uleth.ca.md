@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uleth.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084404id_/http%3A//www.uleth.ca/privacy-office/web-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uleth.ca privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125050548id_/http%3A//www.uleth.ca/privacy-office/web-privacy-statement) for the most accurate reproduction.*
 
-# U of L Web Privacy Statement | Privacy Office
+# U of L Web Privacy Statement | University of Lethbridge
 
 The University of Lethbridge is committed to respecting the privacy of all individuals, and operates in accordance with the Freedom of Information and Protection of Privacy (FOIP) Act. This document outlines the standards for electronic data collection and use to ensure all members of the University community and public understand and are comfortable with the stewardship of their privacy.
 
@@ -30,4 +30,4 @@ The University of Lethbridge maintains strict data security standards when askin
 
 ## Questions or Comments
 
-If you have any questions, comments, or concerns about your privacy, please contact our [privacy office](http://www.uleth.ca/privacy-office/content/contact).
+If you have any questions, comments, or concerns about your privacy, please contact our [privacy office](https://web.archive.org/privacy-office/content/contact).
