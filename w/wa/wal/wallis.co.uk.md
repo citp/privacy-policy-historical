@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527020358id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125081754id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy - Wallis
 
@@ -337,6 +337,12 @@ marketing channels is most effective. They also allow us to reward
 
 some external websites for directing you to us.  
   
+dtm_token
+
+| 
+
+We work with Conversant Europe Limited to help make our marketing campaigns which utilize our advertising cookie more relevant. Our first party cookie which is managed by Conversant Europe Limited is used to collect shopping behaviour on our websites and utilize it to provide relevant advertising. The data taken does not contain personal details from which your individual identity can be established. To opt out of our cookie used for this online advertising, [click here.](http://dtmc.wallis.co.uk/adinfo/choice/prod/?type=fpc&cid=61873&cname=Wallis%20UK&cmagic=385c09&clogo=61873.png&loc=us&lang=en-us)  
+  
 ### Flash cookies
 
   
@@ -430,6 +436,15 @@ Dressipi experience in conjunction with the user's
 profile. Please visit <http://dressipi.com/wallis/privacy_policy>
 
 for more information.  
+  
+Conversant Europe Limited
+
+| 
+
+Conversant collects and uses anonymous information about your visits to and interactions with our websites through the use of technologies such as cookies to personalise advertisements for goods and services. To learn more about Conversant, please visit their privacy policy at  
+http://www.conversantmedia.eu/legal/privacy-policy.  
+You can opt out of Conversant relevant advertising by visiting their website or the European Interactive Digital Advertising Alliance at  
+http://youronlinechoices.eu/  
   
 ### Social buttons
 
