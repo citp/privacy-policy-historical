@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1cookinggames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075507id_/http%3A//www.1cookinggames.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1cookinggames.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125080858id_/http%3A//www.1cookinggames.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
