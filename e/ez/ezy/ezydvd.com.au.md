@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ezydvd.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040858id_/http%3A//www.ezydvd.com.au/info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezydvd.com.au privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126164816id_/http%3A//www.ezydvd.com.au/info/PrivacyPolicy) for the most accurate reproduction.*
 
 # EzyDVD - Australia's first and largest online DVD and Blu-ray store
 
-At EzyDVD.com.au, we would like to assure you that we and our related companies take your information and privacy very seriously. EzyDVD will take all reasonable steps to protect user privacy, consistent with the Australian Privacy Principals.The EzyDVD website is operated and managed by Elan Media Partners Pty Limited (Elan) on behalf of EzyDVD. Elan will only collect and use your personal information for the purpose of managing and operating the website and as outlined below. Please click here to access Elan’s Privacy Policy. By continuing to use this website you agree that you have read and understood Elan’s Privacy Policy. Should you have any questions or queries in respect of their Privacy Policy please contact Elan directly at [info@elanmediapartners.com](mailto:info@elanmediapartners.com)
+At EzyDVD.com.au, we would like to assure you that we and our related companies take your information and privacy very seriously. EzyDVD will take all reasonable steps to protect user privacy, consistent with the Australian Privacy Principals. We will only collect and use your personal information for the purpose of managing and operating the website and as outlined below. By continuing to use this website you agree that you have read and understood our Privacy Policy. Should you have any questions or queries in respect of their Privacy Policy please contact us at [enquiriesdesk@ezydvd.com.au](mailto:enquiriesdesk@ezydvd.com.au)
 
 **Information you provide us**
 
@@ -37,9 +37,9 @@ Information that you have provided us will be used in three ways:
 ### Disclosing Your Information
 
   * **Partners**  
-Third party companies and individuals have been engaged to perform functions on behalf of Élan Media Partners. Functions such as fulfilling and delivery of purchases, credit card payment authorisation, trend analysis, marketing and promotions, but all information will only be used to perform their appropriate functions and not for other usage.
+Third party companies and individuals have been engaged to perform functions on behalf of EzyDVD Pty Ltd. Functions such as fulfilling and delivery of purchases, credit card payment authorisation, trend analysis, marketing and promotions, but all information will only be used to perform their appropriate functions and not for other usage.
   * **Authorities**  
-Élan Media Partners will pass on any information relating to suspected fraudulent activity to appropriate authorities
+EzyDVD Pty Ltd will pass on any information relating to suspected fraudulent activity to appropriate authorities
   * **Partner Stores**  
 With organizations that we operate but do not own, your information will be shared with that business. Please note, that we only go into partnerships with stores who have the same regard to Privacy as we do. We will not at any time share your financial information with the partner store. 
   * **Industry Groups**  
@@ -52,7 +52,7 @@ We do use various details to verify information given to us by our members. At t
     * we use member phone numbers and email addresses provided to us to communicate with customers about payments
     * we use member addresses to check against credit card billing addresses etc.
     * in cases where fraud or other crime is suspected, we do communicate with Police, Banks and other relevant authorities
-    * Many of these checks are done manually and communication is handled carefully by a member of Élan Media Partners' own Customer Service team.
+    * Many of these checks are done manually and communication is handled carefully by a member of our Customer Service team.
   * **Lost login and Password details**  
 Many account holders often forget details such as their passwords and so are able to request an email be sent to them notifying them of their password. 
 
@@ -96,14 +96,12 @@ If you share a computer with someone or are using a computer in a public place l
 
 
 
-If you need more assistance please contact our Customer Support fateam by email at enquiriesdesk@ezydvd.com.au. Normal business hours are from 9.00am to 5.00pm Monday to Friday (AEST).
+If you need more assistance please contact our Customer Support team by email at enquiriesdesk@ezydvd.com.au. Normal business hours are from 9.00am to 5.00pm Monday to Friday (AEST).
 
 Should you wish to complain about our use of your personal information please contact:
 
-    Privacy Officer
+    Privacy Officer  
+    EzyDVD  
+    PO Box 3137  
+    Helensvale QLD 4212  
 
-    EzyDVD
-
-    PO Box 517
-
-    Shepparton VIC 3632
