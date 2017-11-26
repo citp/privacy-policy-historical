@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burnettsboards.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025110id_/http%3A//burnettsboards.com/nitty-gritty) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnettsboards.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126165329id_/http%3A//burnettsboards.com/nitty-gritty) for the most accurate reproduction.*
 
 # FINE PRINT | Burnett's Boards - Daily Wedding Inspiration
 
