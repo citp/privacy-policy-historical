@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwf.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143823id_/http%3A//www.wwf.ca/privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwf.ca privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126100235id_/http%3A//www.wwf.ca/privacy_security) for the most accurate reproduction.*
 
 # Privacy | WWF-Canada
 
@@ -19,8 +19,7 @@ This includes:
 
 
 
-**  
-Why do we collect personal information?**
+**Why do we collect personal information?**
 
 WWF-Canada collects personal information to further its fundraising, public education and advocacy commitments, as well as to establish, maintain and manage our relationship with you. Certain information is collected to satisfy the requirements of Canada Revenue Agency (CRA).
 
@@ -30,25 +29,25 @@ We will not, without your consent, use your personal information for any purpose
 
 **Sharing of personal information**
 
-Third party service providers may be engaged by WWF-Canada to perform a variety of functions, such as to mail our brochures, to process your donation, to fulfill your order or to provide technical services for our website, etc. These third party providers have access to personal information about you, if needed, to perform the functions for which they are retained. However, we direct that those companies may only use such personal information for the purpose of performing their roles and may not use it for any other purpose. In these cases, when information is shared, WWF-Canada requires reasonable assurance that the third parties will protect your information in conformity with our privacy practices. Some of these service providers may be located outside of Canada, in which case personal information shared with them will be subject to the laws of the country to which it is transferred. 
+Third party service providers may be engaged by WWF-Canada to perform a variety of functions, such as to mail our brochures, to process your donation, to fulfill your order or to provide technical services for our website, etc. These third party providers have access to personal information about you, if needed, to perform the functions for which they are retained. However, we direct that those companies may only use such personal information for the purpose of performing their roles and may not use it for any other purpose. In these cases, when information is shared, WWF-Canada requires reasonable assurance that the third parties will protect your information in conformity with our privacy practices. Some of these service providers may be located outside of Canada, in which case personal information shared with them will be subject to the laws of the country to which it is transferred.
 
 That country may have laws that require that personal information be disclosed to government bodies or courts under different circumstances than would WWF-Canada.
 
 On occasion, WWF-Canada may exchange the names of some of our donors with other like-minded charities, unless you have asked us not to. Trading allows us to reach other Canadians who may be interested in supporting the work we do, to raise necessary funds, and to save substantially on fundraising costs. WWF-Canada trades names only after donors have had the opportunity to decline. WWF-Canada will not otherwise share or disclose your personal information except as may be permitted or required by law, or with your express consent.
 
-For more information, please contact a WWF-Canada Donor Relations team member at **1-800-26-PANDA** , or write to us at WWF-Canada, Donor Relations, 410-245 Eglinton Avenue East, Toronto, ON, M4P 3J1, or email us at [CA-Donors@wwfcanada.org](mailto:CA-Donors@wwfcanada.org).
+For more information, please contact a WWF-Canada Donor Relations team member at **1-800-26-PANDA** , or write to us at WWF-Canada, Donor Relations, 410 Adelaide St. West Toronto, ON, M5V 1S8, or email us at [CA-Donors@wwfcanada.org](mailto:CA-Donors@wwfcanada.org).
 
 **Consent**
 
-It is important to us that we only collect, use or disclose your personal information where we have your consent to do so. 
+It is important to us that we only collect, use or disclose your personal information where we have your consent to do so.
 
-Typically, we seek your consent at the time that we collect the personal information. In certain circumstances, your consent may be obtained after collection but prior to its use or disclosure. If we plan to use or disclose your personal information for a purpose not previously identified, we will make reasonable efforts to advise you of this purpose before such use or disclosure. 
+Typically, we seek your consent at the time that we collect the personal information. In certain circumstances, your consent may be obtained after collection but prior to its use or disclosure. If we plan to use or disclose your personal information for a purpose not previously identified, we will make reasonable efforts to advise you of this purpose before such use or disclosure.
 
-We may collect, use or disclose your personal information without your knowledge or consent where we are permitted or required to do so by applicable legal and regulatory requirements. 
+We may collect, use or disclose your personal information without your knowledge or consent where we are permitted or required to do so by applicable legal and regulatory requirements.
 
-Regularly, our donors are given opportunities to choose how often and in what way they wish to hear from us. At any time, our supporters are able to opt out of receiving communication material. Also, our supporters are able to opt out of having their information used or shared for purposes beyond those for which it was collected. To update your preferences, please contact a WWF-Canada Donor Relations team member at **1-800-26-PANDA** , or write to us at WWF-Canada, Donor Relations, 410-245 Eglinton Avenue East, Toronto, ON, M4P 3J1, or email us at [CA-Donors@wwfcanada.org](mailto:CA-Donors@wwfcanada.org).  
-**  
-Retention of personal information**  
+Regularly, our donors are given opportunities to choose how often and in what way they wish to hear from us. At any time, our supporters are able to opt out of receiving communication material. Also, our supporters are able to opt out of having their information used or shared for purposes beyond those for which it was collected. To update your preferences, please contact a WWF-Canada Donor Relations team member at **1-800-26-PANDA** , or write to us at WWF-Canada, Donor Relations, 410 Adelaide St. West Toronto, ON, M5V 1S8, or email us at [CA-Donors@wwfcanada.org](mailto:CA-Donors@wwfcanada.org).
+
+**Retention of personal information**  
 We retain personal information about you for as long as is necessary to fulfill the purposes for which the information was collected and to comply with legal record retention requirements.
 
 **Access to personal information**  
