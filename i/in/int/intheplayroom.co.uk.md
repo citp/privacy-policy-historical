@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the intheplayroom.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611194644id_/http%3A//intheplayroom.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheplayroom.co.uk privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126165358id_/http%3A//intheplayroom.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - In The Playroom
 
 **Privacy Policy for intheplayroom.co.uk**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at anna@marikar.net. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at anna@marikar.net.
 
 At intheplayroom.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by intheplayroom.co.uk and how it is used.
 
