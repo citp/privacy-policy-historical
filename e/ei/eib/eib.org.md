@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eib.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630101841id_/http%3A//www.eib.org/infocentre/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eib.org privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126214826id_/http%3A//www.eib.org/infocentre/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and data protection
 
@@ -55,4 +55,5 @@ Many web pages on EIB websites have a "Contact" button, which activates your e-m
 In the context of the implementation of Regulation (EC) 45/2001 concerning the protection of individuals with regard to the processing of personal data by Community institutions and bodies, the Management Committee of the European Investment Bank adopted 10 September 2009, [implementing rules concerning the Bank’s Data Protection Officer (DPO)](https://web.archive.org/infocentre/publications/all/data-protection-implementing-rules.htm). These rules clarify the tasks and responsibilities of the DPO, as well as the role of data controllers and the rights of data subjects.
 
 [Cookies on the EIB website](https://web.archive.org/infocentre/cookies-policy.htm)  
-[Terms of use of the EIB website](https://web.archive.org/infocentre/terms-of-use.htm)
+[Terms of use of the EIB website  
+Privacy statement for investigations](https://web.archive.org/about/accountability/anti-fraud/privacy-investigations.htm)
