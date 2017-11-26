@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcxstar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083130id_/http%3A//mcxstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcxstar.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126231830id_/http%3A//mcxstar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MCXStar : Online MCX Commodity Markets Live Update
 
