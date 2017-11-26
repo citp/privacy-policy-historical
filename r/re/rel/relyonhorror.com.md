@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relyonhorror.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081638id_/http%3A//www.relyonhorror.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relyonhorror.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126165708id_/http%3A//www.relyonhorror.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rely on Horror
+# Privacy Policy - Rely on Horror
 
 ### Legal Notices
 
@@ -15,7 +15,7 @@ Your use of the information is not used in ways where the name of rely on Horror
 You do not utilize this information in money-making offers, scams, unsolicited emails, and any other unlawful activity not stated in this notice.  
 You only use it for your own personal purposes. rely on Horror is not responsible for any information on this website used in an unlawfull way.  
 If any of these items are violated, rely on Horror will take legal action.   
-[Capcom](http://www.relyonhorror.com/tag/capcom/) and the Resident Evil series are registered trademarks of [Capcom](http://www.relyonhorror.com/tag/capcom/) Co. Ltd. Konami and the Silent Hill series are a registered trademark of Konami. EA Games and the [Dead Space](http://www.relyonhorror.com/tag/dead-space-news/) series are a registered trademark of Electronic Arts. PlayStation/PlayStation 2 are registered trademarks of Sony. GameCube is a registered trademark of Nintendo.  
+Capcom and the Resident Evil series are registered trademarks of Capcom Co. Ltd. Konami and the Silent Hill series are a registered trademark of Konami. EA Games and the Dead Space series are a registered trademark of Electronic Arts. PlayStation/PlayStation 2 are registered trademarks of Sony. GameCube is a registered trademark of Nintendo.  
 rely on Horror is an 100% unofficial website project and is in no way affiliated with any party. You may not use any content of this site.  
 rely on Horror is not responsible for content of webpages which have been linked via personal user blogs.  
 At rely on Horror the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by rely on Horror and how it is used.
