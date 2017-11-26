@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslbase.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626142600id_/http%3A//www.eslbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslbase.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127001148id_/http%3A//www.eslbase.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Eslbase.com
 
@@ -22,8 +22,6 @@ You can choose to disallow cookies by changing your browser settings. However, b
 
 The cookies we use are as follows:
 
-_Necessary cookies_
-
 These cookies help make our website usable by enabling basic functions like page navigation and access to pages which require visitors to create an account and login. The website cannot function properly without these cookies.
 
 Cookie Name | Set by | Expiry | Purpose  
@@ -32,16 +30,12 @@ phpsessid | eslbase.com | Session | Preserves users states across page requests.
 wordpress_test_cookie | eslbase.com | Session | Used to check if the user’s browser supports cookies.  
 wpjb_transient_id | eslbase.com | Session | Used for functionality of the [jobs board](https://web.archive.org/jobs/).  
   
-_Preference cookies_
-
 These cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
 
 Cookie Name | Set by | Expiry | Purpose  
 ---|---|---|---  
 pref | google.com | 114 days | Saves the user’s preferences when using Google services.  
   
-_Analytics cookies_
-
 We use Google Analytics to help us understand how you interact with our website by collecting and reporting information anonymously. You can find more information about [Google Analytics cookies and privacy here](https://support.google.com/analytics/answer/6004245).
 
 Cookie Name | Set by | Expiry | Purpose  
@@ -49,8 +43,6 @@ Cookie Name | Set by | Expiry | Purpose
 _ga | eslbase.com | 2 years | Registers a unique ID that is used to generate statistical data on how the visitor uses the website.  
 _gat | eslbase.com | Session | Used by Google Analytics to throttle request rate.  
   
-_Advertising, marketing, statistical and social sharing cookies_
-
 We use third party vendors, including Google, to serve ads to you based on your visits to our website and other sites. These third party vendors use cookies. Google uses the DoubleClick cookie, which enables it and its partners to serve you these ads. You can opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [this page](https://www.google.com/settings/u/0/ads/authenticated?hl=en). 
 
 We also use AddThis sharing buttons and tools so you can easily like or share our content on Facebook, Twitter and other social networks, and to recommend other parts of the site to you. Some of these social networks set their own cookies for statistical and/or marketing purposes. You can find more information about [Addthis cookies and privacy here](http://www.addthis.com/privacy/privacy-policy).
@@ -86,8 +78,6 @@ um | addthis.com | 2 years | Registers the user’s sharing of content via socia
 uvc | addthis.com | 2 years | Detects how often the social sharing service, AddThis, encounters the same user.  
 vc | addthis.com | 2 years | Unclassified  
   
-_Unclassified cookies_
-
 Other cookies sometimes used on our site.
 
 Cookie Name | Set by | Expiry | Purpose  
