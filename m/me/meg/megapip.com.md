@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the megapip.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527224203id_/http%3A//www.megapip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megapip.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126163455id_/http%3A//www.megapip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - megapip like sex
 
 Effective Date: March 4, 2014
 
-Last Modified: April 6, 2017
+Last Modified: July 31, 2017
 
 This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“megapip like sex,” “we,” “our”). By using our Services and/or registering with megapip like sex, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as megapip like sex adheres to the standards set forth more clearly below.
 
 We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the megapip like sex website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at [support@chaturbate.com](mailto:support@chaturbate.com), or by phone at 1-949-274-7960.
+If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ccbfb9bcbca3beb88cafa4adb8b9beaeadb8a9e2afa3a1), or by phone at 1-949-274-7960
 
 **Information Collected**
 
@@ -58,7 +58,7 @@ As the megapip like sex website features interactive video chat services, it is 
 
 **California Residents**
 
-If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for our direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request will not be processed if it does not include your name and email address, the URL for the website you visited, and a return address. We will not honor such requests more than once per calendar year. Please email your request to [support@chaturbate.com](mailto:%20support@chaturbate.com).
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for our direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request will not be processed if it does not include your name and email address, the URL for the website you visited, and a return address. We will not honor such requests more than once per calendar year. Please email your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93b3e0e6e3e3fce1e7d3f0fbf2e7e6e1f1f2e7f6bdf0fcfe).
 
 **Privacy Principle: Choice**
 
@@ -72,7 +72,7 @@ Use of our Service may require you to configure your browser settings to allow c
 
 megapip like sex may from time to time share personal information with individuals or other companies. In the event that we share information with companies or individuals not a part of megapip like sex, we will only do so in the following circumstances:
 
-  * If we have asked for and received your consent. You should be aware that when you register for a username, during the sign up process, you provide us with permission to share your personal information with trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to support@chaturbate.com indicating your intent to do so. 
+  * If we have asked for and received your consent. You should be aware that when you register for a username, during the sign up process, you provide us with permission to share your personal information with trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) indicating your intent to do so. 
   * For the purpose of processing personal information on our behalf, we may provide personal information to trusted persons or businesses. We will require these third-party processors to adopt appropriate confidentiality and security measures. Further, all third-party processors will be provided with a copy of this Privacy Policy and instructions that all processing of personal information must be done in accordance herewith. 
   * We have a good-faith belief that access, use, preservation, or disclosure of your personal information is reasonably necessary: (a) to satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) to enforce applicable Terms of Service, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; or (d) as required or permitted by law, to protect against harm to the rights, property or safety of megapip like sex, its users, or the public. 
 
@@ -98,7 +98,7 @@ We make good-faith efforts to provide you with access to your personal informati
 
 **Privacy Principle: Enforcement**
 
-We regularly review our compliance with this Privacy Policy. If you feel there has been a specific instance where we have failed to comply with this Privacy Policy, please bring this matter to our attention by sending a detailed description of such noncompliance to us at email [support@chaturbate.com](mailto:%20support@chaturbate.com).
+We regularly review our compliance with this Privacy Policy. If you feel there has been a specific instance where we have failed to comply with this Privacy Policy, please bring this matter to our attention by sending a detailed description of such noncompliance to us at email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a989dadcd9d9c6dbdde9cac1c8dddcdbcbc8ddcc87cac6c4).
 
 It is our policy to contact the complaining user regarding his or her concerns when we receive formal written complaints at this address. In order to resolve any complaints regarding the transfer of personal data that cannot be resolved between megapip like sex and an individual, we will cooperate with the appropriate regulatory authorities, such as local data protection authorities.
 
@@ -116,4 +116,4 @@ Click on the "Update Settings" button link near the bottom of the "MY PROFILE" p
 
 After opting out, please allow up to 10 days for your email to be fully removed from our mailing list.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site, by email at [support@chaturbate.com](mailto:%20support@chaturbate.com), or by phone at 1-949-274-7960.
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site, by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#27075452575748555367444f46535255454653420944484a), or by phone at 1-949-274-7960.
