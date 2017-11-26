@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forexgeminicode.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426155921id_/http%3A//forexgeminicode.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexgeminicode.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126222606id_/http%3A//russhorn.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Website Terms of Use
 
 **Privacy Policy**
 
@@ -24,12 +24,12 @@ Aggregated Information (information that does not personally identify you) may b
 
 We may use Personally Identifiable Information collected on the website to communicate with you about your registration; our privacy policy; services and products offered by this website and other topics we think you might find of interest.
 
-Affiliated sites, linked sites and advertisements.:
+Affiliated sites, linked sites and advertisements:
 
 This website expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you might click a link to, or view as part of a frame, page, certain content that is actually created or hosted by a third party. Also, through this website you may be introduced to, or be able to access, information, Web sites, features offered by other parties. This website is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
 Children  
-www.forexgeminicode.com and sister sites [of AT] do not knowingly collect or solicit Personally Identifiable Information from or about children under 13. 
+[www.russhorn.com](http://www.russhorn.com/) and sister sites [of AT] do not knowingly collect or solicit Personally Identifiable Information from or about children under 13. 
 
 If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that we have any information from or about anyone under 13, please contact us at the address listed below. Only persons 18 years of age and older and who qualify as Major emancipated persons in terms of the laws of their country, may participate or purchase our products or receive our services.
 
@@ -40,18 +40,15 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 You can contact us anytime by addressing your queries to:
 
-The Manager, NSOFT  
+The Manager, russhorn.com  
   
 
 
 Changes to this Policy  
-We reserve the right to change this policy at any time. Please check this page periodically for changes.  
-  
+We reserve the right to change this policy at any time. Please check this page periodically for changes.
+
 Company Details   
   
-Suite 509, Private Bag X503   
-Northway, 4065, KZN, SA 
-
 In the event off any dispute; if it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Umhlanga, under the rules of the Arbitration Foundation of South Africa and an arbitrator appointed by the Foundation.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
@@ -66,7 +63,7 @@ HYPOTHETICAL PERFORMANCE RESULTS HAVE MANY INHERENT LIMITATIONS, SOME OF WHICH A
 
 ONE OF THE LIMITATIONS OF HYPOTHETICAL PERFORMANCE RESULTS IS THAT THEY ARE GENERALLY PREPARED WITH THE BENEFIT OF HINDSIGHT. IN ADDITION, HYPOTHETICAL TRADING DOES NOT INVOLVE FINANCIAL RISK, AND NO HYPOTHETICAL TRADING RECORD CAN COMPLETELY ACCOUNT FOR THE IMPACT OF FINANCIAL RISK IN ACTUAL TRADING. FOR EXAMPLE, THE ABILITY TO WITHSTAND LOSSES OR TO ADHERE TO A PARTICULAR TRADING PROGRAM IN SPITE OF TRADING LOSSES ARE MATERIAL POINTS WHICH CAN ALSO ADVERSELY AFFECT ACTUAL TRADING RESULTS. THERE ARE NUMEROUS OTHER FACTORS RELATED TO THE MARKETS IN GENERAL OR TO THE IMPLEMENTATION OF ANY SPECIFIC TRADING PROGRAM WHICH CANNOT BE FULLY ACCOUNTED FOR IN THE PREPARATION OF HYPOTHETICAL PERFORMANCE RESULTS AND ALL OF WHICH CAN ADVERSELY AFFECT ACTUAL TRADING RESULTS. 
 
-At all times any and all information on, or product purchased from, this website, is for educational purposes only and is under no circumstance intended to provide financial advice. No guarantee is represented from any statements about profits or income, whether express or implied. As no trading system is guaranteed, your actual trading may result in losses. You will at all times accept the full responsibilities for all of your actions, including but not limited to trades, profit or loss. You agree to hold forexgeminicode.com, Vladimir Ribakov, the site legal owners, joint venture partners, AT and any authorized distributors of this information at all times harmless in any and all ways. By using our product(s) this constitutes your acceptance of our user agreement. 
+At all times any and all information on, or product purchased from, this website, is for educational purposes only and is under no circumstance intended to provide financial advice. No guarantee is represented from any statements about profits or income, whether express or implied. As no trading system is guaranteed, your actual trading may result in losses. You will at all times accept the full responsibilities for all of your actions, including but not limited to trades, profit or loss. You agree to holdrusshorn.com, Russ Horn, the site legal owners, joint venture partners, AT and any authorized distributors of this information at all times harmless in any and all ways. By using our product(s) this constitutes your acceptance of our user agreement. 
 
 You agree by using this site and related sites of ours and any of our material content you may receive either from such site or in any other form and that, accepting our terms and conditions of purchase that you agree that you, and you alone, must ensure that the use of any of the materials purchased from our site in any manner or form at all, is in compliance with your national, local, federal, state or county laws. 
 
