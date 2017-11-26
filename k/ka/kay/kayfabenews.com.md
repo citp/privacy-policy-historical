@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the kayfabenews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073246id_/http%3A//www.kayfabenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayfabenews.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126220733id_/http%3A//www.kayfabenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kayfabe News
 
-**KayfabeNews.com Privacy Policy** [Last updated May 20, 2011] 
+**KayfabeNews.com Privacy Policy** [Last updated May 20, 2011]
 
 This privacy statement (the “Privacy Policy”) applies to all personally identifiable information (collectively, “Personal Data”) and other information that is collected by KayfabeNews.com (“KayfabeNews.com”) through its website, including KayfabeNews.com, (the “Site”).
 
 Please review this Privacy Policy carefully before using the Site.
 
-**Using “Cookie” Technology**  
+ **Using “Cookie” Technology**  
 KayfabeNews.com and certain KayfabeNews.com Partners use a software technology called “cookies” to collect non-personal information about Internet visitors. Cookies are small text files that uniquely identify the browser you use to access the Internet. We use cookies to understand your use of Internet sites, remember your preferences and improve your experience when using the Services. Most browsers come pre-configured to accept cookies, but you can adjust your browser settings to refuse all cookies or to specify the conditions under which it will allow a cookie to be set. Some KayfabeNews.com features may not function correctly if cookies are disabled.  
 **Log Files**  
 We use IP addresses to analyze trends, administer the Site, and gather broad Internet usage and demographic information for aggregate use. IP addresses are not linked to Personal Data and are not themselves considered Personal Data. We may also collect other Log File information such as the type of browser software a visitor uses to access the Internet (i.e. Internet Explorer, Firefox , Netscape, etc.); type of operating system (i.e. Windows, OS X, etc.); or the domain name of the visitor’s Internet service provider and referring web site address.  
@@ -29,7 +29,7 @@ This Privacy Policy shall not apply to any unsolicited information (such as comm
 
 KayfabeNews.com reserves the right, in its sole discretion, to reject, refuse to post or remove any posting or communication (including email) by you, or to restrict, suspend, or terminate your access to all or any part of the Site at any time, for any or no reason, with or without prior notice, and without liability.
 
-**Security**  
+ **Security**  
 We take security seriously. It is our top priority to ensure that all current and future information collected from our users is secure and we use commercial best practices to protect our systems.  
 **Notification of Changes**  
 From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Site so users will always understand what information we collect, how we use it, and when we may disclose it. A User is bound by any changes to the policy when she or he uses the Site after those changes have been posted. If, however, we are going to use users’ Personal Data in a manner materially different from that stated at the time of collection we will post a notice on our Site for 30 days.
