@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the spiderkerala.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207092948id_/http%3A//www.spiderkerala.net/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiderkerala.net privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126145050id_/http%3A//www.spiderkerala.net/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SpiderKerala.net privacy policy
-
-  
-
 
 * * *
 
@@ -45,6 +42,3 @@ If you would like to contact us about any information or privacy policy you can 
 Kochi. India**
 
 We would request you please provide us as much information as possible to resolve the issue. 
-
-  
-
