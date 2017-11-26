@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the email-hog.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002846id_/http%3A//email-hog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the email-hog.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127004535id_/http%3A//email-hog.com/privacy.php) for the most accurate reproduction.*
 
 # Email-Hog - Build Your Lists & Profits!
 
@@ -38,5 +38,5 @@ CONTACT INFORMATION
 marty@website-traffic-hog.com  
 Marty Petrizza  
 doing business as Website Traffic Hog LLC  
-1012 Aquia Dr., Stafford, VA 22554, USA  
+922 SE 43rd St., Cape Coral, FL 33904, USA  
 540-602-9928
