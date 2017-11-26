@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourbabynamer.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612113713id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourbabynamer.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126163457id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,4 +16,4 @@ Changes To Our Privacy PolicyThis privacy policy will be updated as necessary. A
 
 Contact UsWe welcome your questions and comments. Please feel free to Contact Us if you have any questions or concerns about this Privacy Policy. 
 
-Ants stretch when they wake up in the morning.  [More](https://web.archive.org/baby-picks-this-week.html)
+The plastic things on the end of shoelaces are called aglets.  [More](https://web.archive.org/baby-picks-this-week.html)
