@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterschoolafrica.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614202751id_/http%3A//www.afterschoolafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterschoolafrica.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126224122id_/http%3A//www.afterschoolafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | After School Africa
 
@@ -8,7 +8,7 @@
 
 This site keeps all your personal information secret. Your personal information is not shared with anyone else.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@afterschoolafrica.com
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ##  **Long Version**
 
