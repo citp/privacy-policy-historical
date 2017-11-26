@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contactually.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225135012id_/http%3A//www.contactually.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactually.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126154044id_/http%3A//www.contactually.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Contactually Contactually
+# Privacy Policy | Contactually
 
 ## Our privacy promise:
 
@@ -19,7 +19,7 @@
 
 The information we collect through our Service helps us provide you with information specific to your needs and interests. This privacy policy (the “Privacy Policy”) covers the Contactually service (the “Service”). Please read below to review our Privacy Policy and the types of information we gather through our Service. In this Privacy Policy, “we”, “us”, “our” and other similar references mean Contactually and “you” and “your” and other similar references mean a specific user of the Service. By registering for and using the Service, you accept the practices described in this Privacy Policy.
 
-### **How Does Contactually Gather and Use Information?**
+###  **How Does Contactually Gather and Use Information?**
 
 (i) Cookies. Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Contactually attempts to install cookies as part of the Service. Cookies enable our systems to recognize you and to gather information about your navigational patterns through the site. In the course of serving advertisements or optimizing the Service to our users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through cookies will not be personally identifiable but may provide general information for the enhancement of your user experience by providing more relevant advertising. Users have the option to accept or disable cookies at any time through their browsers. Visit the “help” portion of your toolbar for more information. If you block or refuse to accept cookies, or delete cookies between uses of the Service, you may not be able to access or use certain features or functions of our Service.
 
@@ -31,11 +31,11 @@ The information we collect through our Service helps us provide you with informa
 
 (v) Information in CRMs or Other Third Party Services to Which You Give Us Access. As part of the Services, you may give us access to your CRM or another third party service. We will only use that access as part of providing the Services, and we will only provide access to that information to other users if you direct us using functionality provided as part of your account to provide those users with access.
 
-### **What Security Procedures Does Contactually Use To Protect Personal Information and Content?**
+###  **What Security Procedures Does Contactually Use To Protect Personal Information and Content?**
 
 We use physical, electronic, and administrative safeguards to assist us in preventing unauthorized access, maintaining data accuracy, and correctly using your Personal Information and any Content. We use reasonable efforts to avoid the presence of malware on our site or as part of the Service. Except to the extent due to our gross negligence or willful misconduct, we expressly disclaim, and you release us from any liability associated with any technical issues caused by the Service, including any malware communicated to your computer or mobile device through any use of the Service. Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your Personal Information and any Content to the employees, agents, and officers of Contactually who need the information for their jobs.
 
-### **Will Contactually Disclose The Information It Collects To Outside Parties?**
+###  **Will Contactually Disclose The Information It Collects To Outside Parties?**
 
 Contactually may share information with carefully selected vendors and business partners with whom we work. This includes individuals and companies that perform marketing services and other business operations for us. All individuals and companies that act on our behalf are contractually obligated to keep all information confidential and to use your Personal Information and any Content only to provide the services we ask them to perform for you and us. We may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third party vendors, but these statistics do not include Personal Information. We may disclose Personal Information and Content we collect from you if required to do so by law or in the good-faith belief that disclosure is necessary (a) to obey the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or the rights or property of other users of our Service; or (c) to act in an emergency to protect the personal safety of users of our Service or the public. As Contactually continues to develop its business, we might sell or buy lines of business or assets. If all or substantially all of Contactually’s business (or a line of Contactually’s business) or assets (or the assests of a line of Contractually’s business) are acquired by a third party, Personal Information of Service users will generally be one of the transferred business assets. We reserve the right to include your Personal Information, collected as an asset, in any such transfer to a third party.
 
@@ -55,4 +55,4 @@ California customers may request further information about our compliance with t
 
 If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to legal@contactually.com.
 
-*This application is built using Context.IO technology. By signing up or using this application, you understand and agree that DokDok, Inc., its parent company, Return Path, Inc. and their affiliates (collectively “Context.IO Providers”), who provide Context.IO, will have access to your information and will be permitted to use that information in accordance with Return Path’s [Privacy Policy](http://returnpath.com/data-privacy-policy/). If you wish to opt out of sharing your information with Context.IO Providers, you may do so at <https://optout.context.io/>.
+*This application is built using Context.IO technology. By signing up or using this application, you understand and agree that DokDok, Inc., its parent company, Return Path, Inc. and their affiliates (collectively “Context.IO Providers”), who provide Context.IO, will have access to your information and will be permitted to use that information in accordance with Return Path’s [Privacy Policy](http://returnpath.com/data-privacy-policy/). If you wish to opt out of sharing your information with Context.IO Providers, you may do so at <https://optout.context.io/>.
