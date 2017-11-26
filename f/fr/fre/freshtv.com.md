@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshtv.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527080422id_/http%3A//freshtv.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshtv.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126220759id_/http%3A//freshtv.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
