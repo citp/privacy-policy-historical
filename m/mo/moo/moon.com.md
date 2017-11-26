@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the moon.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201352id_/http%3A//www.hachettebookgroup.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moon.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126131106id_/http%3A//www.hachettebookgroup.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Hachette Book Group
 
 Privacy Policy  
 Childrens Privacy Policy  
 Copyright and Trademark Information  
-[Terms of Use](https://web.archive.org/web/20170628040230id_/terms-of-use/)  
+[Terms of Use](https://web.archive.org/web/20170726222829id_/terms-of-use/)  
 
 
 ## Hachette Book Group Privacy Policy
