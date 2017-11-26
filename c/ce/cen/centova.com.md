@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centova.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628175614id_/http%3A//www.centova.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centova.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126232323id_/http%3A//www.centova.com/en/company/privacy) for the most accurate reproduction.*
 
 # Centova Technologies Inc. - Privacy Policy
 
