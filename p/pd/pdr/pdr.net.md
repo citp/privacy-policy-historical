@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616022150id_/http%3A//www.pdr.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126135336id_/http%3A//www.pdr.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PDR.net
 
@@ -95,7 +95,7 @@ PDR supports Do Not Track with respect to its products and services. Do Not Trac
 If we make changes to our Privacy Policy, we will post the updated policy, and we will also attempt to notify you via e-mail using the most recent e-mail address we have on file for you, in order to give you an opportunity to re-visit your permissions to determine if you would like to opt-out of any of our uses of your personal information. The date this Privacy Policy became effective will always appear at the top of this web page, and we encourage you to periodically review our Privacy Policy for the latest information on our privacy practices. 
 
 **HOW TO CONTACT US WITH ANY QUESTIONS OR FEEDBACK**   
-If you have any questions about this Privacy Policy or your interactions with PDR, or if you would like to provide comments, please contact us at customerservice@pdr.net, or by phone, toll-free, at 1-800-232-7379 within the United States. 
+If you have any questions about this Privacy Policy or your interactions with PDR, or if you would like to provide comments, please contact us at [customerservice@pdr.net](mailto:customerservice@pdr.net), or by phone, toll-free, at 1-800-232-7379 within the United States. 
 
 **LEGAL DISCLAIMER; GOVERNING LAW**   
 Unfortunately, no data protection method or combination of methods can be guaranteed to be 100 percent secure. We take reasonable steps to protect your personal information as described throughout this Privacy Policy, but we cannot ensure or warrant our ability to do so. As a result, you use the PDR Websites, the PDR Applications or PDR products and services at your own risk. PDR disclaims any liability for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties. This Privacy Policy, and any transactions or disputes to which it applies, will be governed by the laws of New Jersey without regard to any conflicts of laws.
