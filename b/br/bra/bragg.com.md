@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bragg.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628235557id_/http%3A//bragg.com/general/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bragg.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126232522id_/http%3A//bragg.com/general/privacy_statement.html) for the most accurate reproduction.*
 
 # Bragg Live Foods, Bragg Apple Cider Vinegar, Bragg Liquid Aminos,Systemic Enzymes, Bragg Live Organic Food Products, Patricia Bragg, Paul Bragg, Bragg Organic Olive Oil, Bragg Salad Dressings, Bragg Seasonings, Bragg Health Products
 
