@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclayscenter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110107id_/http%3A//www.barclayscenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclayscenter.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126141127id_/http%3A//www.barclayscenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Barclays Center
 
@@ -55,11 +55,11 @@ This site is operated in the United States. If you are a resident of the Europea
 
 ### OPTING OUT OF USE OF PERSONAL INFORMATION
 
-If you have provided personal information on the Website or through use of the Services and later decide that you would rather not have the Barclays Center Family use such data for marketing purposes in accordance with Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from a Barclays Center Family member and opting out of receiving information from any Barclays Center Family member; (ii) by sending us an email at [kisada@brooklynse.com](mailto:kisada@brooklynse.com); or (iii) writing us at Brooklyn Events Center, LLC, 15 MetroTech Center, 11th Floor, Brooklyn, New York 11201.
+If you have provided personal information on the Website or through use of the Services and later decide that you would rather not have the Barclays Center Family use such data for marketing purposes in accordance with Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from a Barclays Center Family member and opting out of receiving information from any Barclays Center Family member; (ii) by sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7912100a181d18391b0b1616121500170a1c571a1614); or (iii) writing us at Brooklyn Events Center, LLC, 15 MetroTech Center, 11th Floor, Brooklyn, New York 11201.
 
 ### UPDATING YOUR INFORMATION
 
-To keep information that you provide via this website accurate, current and complete, visit your Website subscription page(s) or email [kisada@brooklynse.com](mailto:kisada@brooklynse.com) to update and/or correct any information previously provided. If a member name and password were required to access the feature, you will need to provide such information to update your registration information. If you have forgotten your password, you may obtain it by visiting the registration area and requesting that a hint be sent to you at the email address you originally provided during registration. LINKS We may include links to third party websites on the Website or the Services. We are not responsible for the privacy practices or the content of such websites. Any information you provide via those sites is subject to the Privacy Policies on those websites and is not covered by this Privacy Policy.
+To keep information that you provide via this website accurate, current and complete, visit your Website subscription page(s) or email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f2999b81939693b290809d9d999e8b9c8197dc919d9f) to update and/or correct any information previously provided. If a member name and password were required to access the feature, you will need to provide such information to update your registration information. If you have forgotten your password, you may obtain it by visiting the registration area and requesting that a hint be sent to you at the email address you originally provided during registration. LINKS We may include links to third party websites on the Website or the Services. We are not responsible for the privacy practices or the content of such websites. Any information you provide via those sites is subject to the Privacy Policies on those websites and is not covered by this Privacy Policy.
 
 ### SECURITY
 
@@ -67,7 +67,7 @@ We have implemented commercially reasonable administrative, technical, and physi
 
 ### YOUR CALIFORNIA PRIVACY RIGHTS
 
-Beginning January 1, 2005, California Law permits visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [kisada@brooklynse.com](mailto:kisada@brooklynse.com) or write to us at Brooklyn Events Center, LLC, 15 MetroTech Center, 11th Floor, Brooklyn, New York 11201.
+Beginning January 1, 2005, California Law permits visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c5aeacb6a4a1a485a7b7aaaaaea9bcabb6a0eba6aaa8) or write to us at Brooklyn Events Center, LLC, 15 MetroTech Center, 11th Floor, Brooklyn, New York 11201.
 
 ### INFORMATION FROM CHILDREN
 
@@ -75,7 +75,7 @@ Barclays Center does not seek to collect any personally identifiable information
 
 ### CONTACTING US ABOUT THIS POLICY
 
-Please do not hesitate to contact us with any questions, concerns, requests or comments by email at [kisada@brooklynse.com](mailto:kisada@brooklynse.com) or write us at: Brooklyn Events Center, LLC, 15 MetroTech Center, 11th Floor, Brooklyn, New York 11201.  
+Please do not hesitate to contact us with any questions, concerns, requests or comments by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3853514b595c59785a4a5757535441564b5d165b5755) or write us at: Brooklyn Events Center, LLC, 15 MetroTech Center, 11th Floor, Brooklyn, New York 11201.  
 Effective Date: November 6, 2012
 
 Use of this site signifies your acceptance of this Privacy Policy.
