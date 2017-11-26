@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-metrics.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628022651id_/http%3A//online-metrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-metrics.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126163744id_/http%3A//online-metrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnlineMetrics
 
@@ -29,3 +29,5 @@ By using our site, you consent to our privacy policy. If we decide to change our
 This policy was last modified on January 2, 2015.
 
 [Contact us here](http://online-metrics.com/contact-us/ "Drop us a message") if you have any questions regarding this privacy policy.
+
+(Visited 120 times, 1 visits today)
