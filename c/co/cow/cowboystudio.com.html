@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cowboystudio.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606091517id_/http%3A//www.cowboystudio.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cowboystudio.com privacy policy that was archived on 2017-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171126165940id_/http%3A//www.cowboystudio.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -36,7 +36,7 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.58.0.2387"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.77.0.3035"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -59,10 +59,26 @@
     } (jQuery));
 </script>
 <link type="text/css" rel="stylesheet" href="/a/contentbuilder/assets/default/content.css">
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.58.0.2387"></script>
+<script type="text/javascript" src="../../a/j/paypal-rest-default-buttons.js"></script>
+
+
+<script type="text/javascript" src="/a/j/soft_add.js"></script>
+<link type="text/css" rel="stylesheet" href="/a/c/soft_add.css">
+<script type="text/javascript">
+	var global_Config_EnableDisplayOptionProducts = 'True';
+	var global_Config_ForceSecureShoppingCartPage = true;
+	var global_PageText_OtherItemsAdded = '(All other items have been added to the cart)';
+	var Config_EnableSoftAddToCart = false;
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.77.0.3035"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
+</script>
+
+<script>
+    var reCaptchaPreloaded = false;
+    var reCaptchaInit;
 </script>
 
 
@@ -558,12 +574,26 @@ s.parentNode.insertBefore(n, s);
 
 
 
-<script type="text/javascript">function store_init(event){protect_images1();} AttachEvent(window, 'load', store_init);</script>
+<script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
 
-<script language="JavaScript" type="text/javascript">
-    function_protect_images2_msg = 'Sorry, our images are copyrighted.'
-    protect_images1();
-</script>
+  <script>
+     if (document.getElementsByName("MailingList")[0]) {
+        var emailSubscribeForm = document.getElementsByName("MailingList")[0];
+        disableSubscribeSubmit = function() {
+          emailSubscribeButton.removeAttribute("type");
+        }
+        forwardToMailingList = function(e) {
+            var subscribeEmail = emailSubscribeForm.querySelector("input").value;
+          sessionStorage.setItem("subEmailAddress", subscribeEmail);
+          emailSubscribeForm.submit();
+        }
+
+        if (emailSubscribeForm.querySelector("button")) {
+            var emailSubscribeButton = emailSubscribeForm.querySelector("button");
+            emailSubscribeButton.addEventListener("click", forwardToMailingList);
+        }
+    }
+  </script>
 
 
 </body></html>
