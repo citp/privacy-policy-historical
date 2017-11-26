@@ -1,14 +1,18 @@
-<!--The following is the downloaded HTML source of the ruthschris.com privacy policy that was archived on 2017-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170607083939id_/http%3A//www.ruthschris.com/your-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ruthschris.com privacy policy that was archived on 2017-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171126232051id_/https%3A//www.ruthschris.com/your-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" picture no-touchevents borderimage"><head>
+    <!--pixel for Yahoo Gemini -->
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLSMSJ"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10005388'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+    <!--End pixel for Yahoo Gemini -->
+
     <title>Privacy Policy - Ruth's Chris Steak House</title>
     <!-- Server instance: sc8CD1 -->
     <meta name="description" id="metaDescription" content="We are committed to protecting the personal privacy of everyone who visits our website and our restaurants. Learn more about our Privacy Policy.">
     <meta property="og:title" id="ogTitle" content="Privacy Policy - Ruth's Chris Steak House">
     <meta property="og:type" id="ogType" content="Website">
     <meta property="og:description" id="ogDescription" content="We are committed to protecting the personal privacy of everyone who visits our website and our restaurants. Learn more about our Privacy Policy.">
-    <meta property="og:url" id="ogUrl" content="https://www.ruthschris.com/your-privacy">
+    <meta property="og:url" id="ogUrl" content="http://www.ruthschris.com/your-privacy">
     <meta property="og:image" id="ogImage" content="">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@RuthsChris">
@@ -19,12 +23,10 @@
     <meta name="format-detection" content="telephone=no">
     <meta charset="UTF-8">
     <meta name="msapplication-config" content="none">
-<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-
-    <link rel="canonical" href="https://www.ruthschris.com/your-privacy">
+    <link rel="canonical" href="http://www.ruthschris.com/your-privacy">
     <link href="/assets/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
         <link href="/assets/css/main.min.css" rel="stylesheet" type="text/css">
-        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLSMSJ"></script><script src="/assets/js/jquery.min.js" type="text/javascript"></script>
+        <script src="/assets/js/jquery.min.js" type="text/javascript"></script>
         <script src="/assets/js/custom-dropdown.min.js"></script>
         <script src="/assets/js/datepicker.min.js"></script>
         <script src="/assets/js/datepicker.en.min.js"></script>
@@ -52,16 +54,30 @@
                 }
             });
 
-            $('#datePickerRsvComponent').datepickermy({
-                language: 'en',
-                dateFormat: 'mm/dd/yyyy',
-                autoClose: true,
-                minDate: new Date(), // Now can select only dates, which goes after today
-                onSelect: function (fd, d, picker) {
-                    //Set Time in reservation component JS
-                    reservationComponent.initDateValue(fd);
-                }
-            });
+            if (window.location.href.toLowerCase().indexOf("dining-credit") > -1) {
+                $('#datePickerRsvComponent').datepickermy({
+                    language: 'en',
+                    dateFormat: 'mm/dd/yyyy',
+                    autoClose: true,
+                    minDate: new Date(), // Now can select only dates, which goes after today
+                    maxDate: new Date("2017/09/24"),
+                    onSelect: function (fd, d, picker) {
+                        //Set Time in reservation component JS
+                        reservationComponent.initDateValue(fd);
+                    }
+                });
+            } else {
+                $('#datePickerRsvComponent').datepickermy({
+                    language: 'en',
+                    dateFormat: 'mm/dd/yyyy',
+                    autoClose: true,
+                    minDate: new Date(), // Now can select only dates, which goes after today
+                    onSelect: function (fd, d, picker) {
+                        //Set Time in reservation component JS
+                        reservationComponent.initDateValue(fd);
+                    }
+                });
+            }
             $('#datePickerOmniPreRsv').datepickermy({
                 language: 'en',
                 //dateFormat: 'mm/dd/yyyy',
@@ -93,35 +109,38 @@
         })(window, document, 'script', 'dataLayer', 'GTM-WLSMSJ');</script>
     <!-- End Google Tag Manager -->
 
+
+
+
     
 
 <header class="header">
     <div class="container">
         <a href="/" class="logo"><img src="https://cdn.ruthschris.com/~/media/images/ruths-chris/ruthschris_global_logo.png" alt="Ruth's Chris Steak House"></a>
-        <a href="/reservation/" class="reserve">Reservations<i class="icon-arrow"></i></a>
+            <a href="/reservation/" class="reserve">Reservations<i class="icon-arrow"></i></a>
         <div id="nav-toggle">
             <div class="nav-icon"></div>
         </div>
         <nav>
             <ul>
                     <li>
-                            <a href="https://www.ruthschris.com:443/menu/mobilemenunavigation" target="_top" class="mobile-link">food &amp; drink</a>
-                        <a href="https://www.ruthschris.com:443/menu/dinner/" target="_top">food &amp; drink</a>
+                            <a href="http://www.ruthschris.com/menu/mobilemenunavigation" target="_top" class="mobile-link">food &amp; drink</a>
+                        <a href="http://www.ruthschris.com/menu/dinner/" target="_top">food &amp; drink</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/restaurant-locations/" target="_top">Locations</a>
+                        <a href="http://www.ruthschris.com/restaurant-locations/" target="_top">Locations</a>
                     </li>
                     <li>
                         <a href="https://giftcards.ruthschris.com/" target="_blank">Gift Cards</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/private-events/" target="_top">Private Events</a>
+                        <a href="http://www.ruthschris.com/private-events/" target="_top">Private Events</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/promotions/" target="_top">Promotions</a>
+                        <a href="http://www.ruthschris.com/promotions/" target="_top">Promotions</a>
                     </li>
             </ul>
-            <a href="/reservation/" class="reservations button on-dark">Reservations</a>
+                <a href="/reservation/" class="reservations button on-dark">Reservations</a>
         </nav>
     </div>
 </header>
@@ -224,7 +243,7 @@
             </div>
             <div class="column-right">
                 <p>Keep up with what’s happening at Ruth’s Chris, from exclusive events to new menu items and more.</p>
-                    <a href="https://www.ruthschris.com:443/registration" class="button on-light">Sign Up for Email</a>
+                    <a href="http://www.ruthschris.com/registration" class="button on-light">Sign Up for Email</a>
             </div>
         </div>
     </div>
@@ -238,34 +257,34 @@
                         <a href="https://contact.ruthschris.com" target="">contact us</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/faq" target="_top">faq</a>
+                        <a href="http://www.ruthschris.com/faq" target="_top">faq</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/registration" target="_top">email sign up</a>
+                        <a href="http://www.ruthschris.com/registration" target="_top">email sign up</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/news/" target="_top">news</a>
+                        <a href="http://www.ruthschris.com/news/" target="_top">news</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/careers/" target="_top">careers</a>
+                        <a href="http://www.ruthschris.com/careers/" target="">careers</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/franchising" target="_top">franchising</a>
+                        <a href="http://www.ruthschris.com/franchising" target="_top">franchising</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/real-estate" target="">real estate</a>
+                        <a href="http://www.ruthschris.com/real-estate" target="">real estate</a>
                     </li>
                     <li>
                         <a href="http://www.rhgi.com" target="_blank">corporate</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/sitemap" target="_top">sitemap</a>
+                        <a href="http://www.ruthschris.com/sitemap" target="_top">sitemap</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/your-privacy" target="_top">your privacy</a>
+                        <a href="http://www.ruthschris.com/your-privacy" target="_top">your privacy</a>
                     </li>
                     <li>
-                        <a href="https://www.ruthschris.com:443/terms-conditions" target="_top">terms &amp; conditions</a>
+                        <a href="http://www.ruthschris.com/terms-conditions" target="_top">terms &amp; conditions</a>
                     </li>
             </ul>
         </nav>
@@ -355,5 +374,5 @@
         $('.tripleseat_field_section.first_last').addClass('FirstLastTriple');
         $('.tripleseat_field.ts_submit').parent().addClass('FirstLastTriple');
         $('.tripleseat_field.ts_additional_information').parent().addClass('FirstLastTriple');
-    });    
+    });
 </script></body></html>
