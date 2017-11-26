@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysearch24.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630220909id_/https%3A//mysearch24.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysearch24.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126160131id_/https%3A//mysearch24.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -56,7 +56,7 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 
 If you have any questions about this Privacy Policy or our information-handling practices, or wish to review, amend or delete any personal information we are storing, please contact us by email or postal mail as follows:  
 The MySearch24, Ltd.  
-[support@mysearch24.com](mailto:support@mysearch24.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#daa9afaaaab5a8ae9ab7a3a9bfbba8b9b2e8eef4b9b5b7)
 
 **END OF DOCUMENT.**
 
