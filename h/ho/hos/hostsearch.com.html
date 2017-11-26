@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hostsearch.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606184253id_/http%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hostsearch.com privacy policy that was archived on 2017-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171126205248id_/http%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,13 +8,13 @@
 	<meta name="Keywords" content="web hosting, web host, web space, web hosts, host directory, host search, host reviews, hosting news, host quote, host directory, free hosting, shared hosting, managed hosting, reseller, co-location, low cost hosting, Linux hosting, Windows hosting">
 	
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="/favicon.ico">
+
 
 	<link rel="stylesheet" type="text/css" href="/style2.css">
 
 <link href="/normalize2.css" rel="stylesheet" type="text/css">
-<link href="/responsive2.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="/favicon.ico">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<link href="/responsive2.css" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-364424-1']);
@@ -29,93 +29,13 @@
 </script>
 
 <script type="text/javascript" src="/html5.js"></script>
-<script>
+<script type="text/javascript">
 (function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','),i=e.length;while(i--){document.createElement(e[i])}})()
 </script>
 </head>
 
 <body>
 	
-<!--script language="JavaScript" src="jquery-1.3.2.js"></script--> 
-<!--script language="JavaScript" src="jquery-1.7.2.min.js"></script-->
-<script language="JavaScript" src="jquery-1.11.5.min.js"></script> 
-<script language="JavaScript" src="jquery-migrate-1.2.1.min.js"></script> 
-<link rel="stylesheet" href="/js/jquery-ui-1.11.4.custom/jquery-ui.min.css">
-<script type="text/javascript" src="/js/jquery-ui-1.11.4.custom/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/js/watermark/tinywatermark.js"></script>
-<script type="text/javascript" src="/js/jquery.matchHeight-min.js"></script>
-
-<script language="javascript"> 
-var onsub = false;
-var myTimer,tmp_id;
-$(function() { 
-	/*
-	$('.sub').hover(
-		function () {
-			clearTimeout(myTimer);
-			setMask(this);
-		}, 
-		function () {
-			if(!onsub)
-			{
-				myTimer = setTimeout(function(){                
-					clearMask();
-				},100);  
-			}
-		}
-	);
-
-	$('.sublists').hover(
-		function () {
-			clearTimeout(myTimer);
-			onsub = true;
-		}, 
-		function () {
-			onsub = false;
-		}
-	);
-	*/
-
-	$('.shownav').click(function () {
-		$(this).siblings('.top-nav').fadeToggle('fast','',function(){
-			if($(".top-nav").is(':visible')){
-				$("body").addClass("clear-scroll");
-			}else{
-				$("body").removeClass("clear-scroll");	
-			}
-		});
-    })
-	
-	$('.lists-groupstyle1 > .wrap-style1 > ul > li').matchHeight({byRow: true});
-});
-
-function setMask(tmp)
-{
-	if(tmp_id != tmp)
-	{
-		$('.tmp_current').removeClass("tmp_current");
-		$('.ul_current').removeClass("ul_current");
-		$('.sublists').height(0);
-		tmp_id = tmp;
-	}
-	$('.mask').stop().slideDown( "fast" );
-	tmp_ul = $(tmp).find('.sublists');
-	$(tmp_ul).stop().animate({height:100},200);
-	$(tmp_ul).prev().addClass("tmp_current");
-	$(tmp_ul).addClass("ul_current");
-}
-
-function clearMask()
-{
-	$('.tmp_current').removeClass("tmp_current");
-	$('.mask').stop().slideUp( "fast" );
-	$('.sublists').stop().animate({height:0},200, function() {
-		// Animation complete.
-	});
-	$('.ul_current').removeClass("ul_current");
-}
-</script>
-
 
 <header class="main-head">
 	<div class="fix-width">
@@ -124,90 +44,6 @@ function clearMask()
         </div></a>
 		<div class="shownav"><span></span><span></span><span></span></div>
         <div class="top-utility"><form name="frmSearch3" id="frmSearch3" action="/search_results_s.asp" method="post"> 
-			<script language="javascript">
-				$(document).ready(function() {
-					$('.watermark').each(function() {
-					  $(this).watermark('watermark', $(this).attr('title'));
-					});
-
-					$( "#company_name3" ).keypress(function(e) {
-						if(e.which == 13) {
-							$("#company_name3").val( $('input[name=company_name3]').val() );
-							$("#companies_id3").val( $('input[name=company_name3]').val() );
-							$('#FindCompanyName3').val($('input[name=company_name3]').val());
-							$('#frmSearch3').submit();
-							return false;
-						}
-					});
-			
-					$( "#company_name3" ).autocomplete({
-					source: function (request, response) {
-						$.ajax({
-							type: 'GET',
-							url: '/getcompanysearch.asp',
-							dataType: "json",
-							cache: false,
-							data: { term: request.term },
-							success: function (data) {
-								if(data!=''){
-									response($.map(data, function (item) {
-										return {
-											label: item.label,
-											val: item.value,
-											url: item.url
-										};
-									}));
-								}else{								
-									response([{ label: 'No matching results.', val: -1}]);
-									return false;
-								}
-							},
-						});
-					},
-					 
-					  minLength: 2,
-					  search: function( event, ui) {
-						document.getElementById("company_name3").style.backgroundImage = "url(http://www.hostsearch.com/images/ajax-loader-white.gif)";
-						document.getElementById("company_name3").style.backgroundPosition = "right center"
-						document.getElementById("company_name3").style.backgroundRepeat="no-repeat";
-						},
-					  focus: function( event, ui ) {
-							$( "#company_name3" ).val( ui.item.label );
-							document.getElementById("company_name3").style.background="";
-							return false;
-						},
-					  select: function( event, ui ) {
-							document.getElementById("company_name3").style.background="";
-							if (ui.item.value == 'No matching results.') {
-								return false;
-							}
-
-							//console.log(ui.item.label + " - " + ui.item.value + " - " + ui.item.val + " - " + ui.item.url + " - ");
-
-							//$("#company_name3").val( ui.item.label );
-							//$("#companies_id3").val( ui.item.value );
-							//$('#FindCompanyName3').val($('input[name=company_name3]').val());
-							//document.location='cloud-company-'+$("#companies_id3").val();
-							//$('#frmSearch3').submit();
-							location.href=ui.item.url;
-							return false;
-						},
-						close: function( event, ui ) {
-							 document.getElementById("company_name3").style.background=""; 
-						}
-					});
-					
-
-
-					/*$('#search_bt_company').click(function(){
-						$('#company_name3').autocomplete('option', 'minLength', 2);						
-						$('#company_name3').autocomplete('search', $('#company_name3').val());
-						$('#company_name3').autocomplete('close', document.getElementById("company_name3").style.background="");
-					});*/
-
-				});
-			</script>
-			 
 			<input type="text" name="company_name3" id="company_name3" class="watermark ui-autocomplete-input" title="Search for providers and reviews..." autocomplete="off">
 			<input type="hidden" id="companies_id3" name="companies_id3">
  			<input type="Hidden" name="SearchByCompanyName" value="1">
@@ -256,6 +92,182 @@ function clearMask()
 </header>
 <div class="mask"></div>
 
+<!--script language="JavaScript" src="jquery-1.3.2.js"></script--> 
+<!--script language="JavaScript" src="jquery-1.7.2.min.js"></script-->
+<script language="JavaScript" src="jquery-1.11.5.min.js"></script> 
+<script language="JavaScript" src="jquery-migrate-1.2.1.min.js"></script> 
+<link rel="stylesheet" href="/js/jquery-ui-1.11.4.custom/jquery-ui.min.css">
+<script type="text/javascript" src="/js/jquery-ui-1.11.4.custom/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/watermark/tinywatermark.js"></script>
+<script type="text/javascript" src="/js/jquery.matchHeight-min.js"></script>
+<script language="JavaScript" src="/js_checkinput_newsletter.js"></script>
+
+<script language="javascript"> 
+var onsub = false;
+var myTimer,tmp_id;
+$(function() { 
+	/*
+	$('.sub').hover(
+		function () {
+			clearTimeout(myTimer);
+			setMask(this);
+		}, 
+		function () {
+			if(!onsub)
+			{
+				myTimer = setTimeout(function(){                
+					clearMask();
+				},100);  
+			}
+		}
+	);
+
+	$('.sublists').hover(
+		function () {
+			clearTimeout(myTimer);
+			onsub = true;
+		}, 
+		function () {
+			onsub = false;
+		}
+	);
+	*/
+
+	$('.shownav').click(function () {
+		$(this).siblings('.top-nav').fadeToggle('fast','',function(){
+			if($(".top-nav").is(':visible')){
+				$("body").addClass("clear-scroll");
+			}else{
+				$("body").removeClass("clear-scroll");	
+			}
+		});
+    });
+	
+	$('.lists-groupstyle1 > .wrap-style1 > ul > li').matchHeight({byRow: true});
+	
+	setTimeout(function(){ replaceImg(); }, 5000);
+});
+
+function replaceImg()
+{
+	$('.google_img').each(function () {
+		var curSrc = $(this).attr('src');
+		$(this).attr('src', curSrc.replace("/google_img/", "/"));
+	});
+}
+
+function setMask(tmp)
+{
+	if(tmp_id != tmp)
+	{
+		$('.tmp_current').removeClass("tmp_current");
+		$('.ul_current').removeClass("ul_current");
+		$('.sublists').height(0);
+		tmp_id = tmp;
+	}
+	$('.mask').stop().slideDown( "fast" );
+	tmp_ul = $(tmp).find('.sublists');
+	$(tmp_ul).stop().animate({height:100},200);
+	$(tmp_ul).prev().addClass("tmp_current");
+	$(tmp_ul).addClass("ul_current");
+}
+
+function clearMask()
+{
+	$('.tmp_current').removeClass("tmp_current");
+	$('.mask').stop().slideUp( "fast" );
+	$('.sublists').stop().animate({height:0},200, function() {
+		// Animation complete.
+	});
+	$('.ul_current').removeClass("ul_current");
+}
+
+
+				$(document).ready(function() {
+					$('.watermark').each(function() {
+					  $(this).watermark('watermark', $(this).attr('title'));
+					});
+
+					$( "#company_name3" ).keypress(function(e) {
+						if(e.which == 13) {
+							$("#company_name3").val( $('input[name=company_name3]').val() );
+							$("#companies_id3").val( $('input[name=company_name3]').val() );
+							$('#FindCompanyName3').val($('input[name=company_name3]').val());
+							$('#frmSearch3').submit();
+							return false;
+						}
+					});
+			
+					$( "#company_name3" ).autocomplete({
+					source: function (request, response) {
+						$.ajax({
+							type: 'GET',
+							url: '/getcompanysearch.asp',
+							dataType: "json",
+							cache: false,
+							data: { term: request.term },
+							success: function (data) {
+								if(data!=''){
+									response($.map(data, function (item) {
+										return {
+											label: item.label,
+											val: item.value,
+											url: item.url
+										};
+									}));
+								}else{								
+									response([{ label: 'No matching results.', val: -1}]);
+									return false;
+								}
+							},
+						});
+					},
+					 
+					  minLength: 2,
+					  search: function( event, ui) {
+						document.getElementById("company_name3").style.backgroundImage = "url(http://www.hostsearch.com/images/ajax-loader-white.gif)";
+						document.getElementById("company_name3").style.backgroundPosition = "right center";
+						document.getElementById("company_name3").style.backgroundRepeat="no-repeat";
+						},
+					  focus: function( event, ui ) {
+							$( "#company_name3" ).val( ui.item.label );
+							document.getElementById("company_name3").style.background="";
+							return false;
+						},
+					  select: function( event, ui ) {
+							document.getElementById("company_name3").style.background="";
+							if (ui.item.value == 'No matching results.') {
+								return false;
+							}
+
+							//console.log(ui.item.label + " - " + ui.item.value + " - " + ui.item.val + " - " + ui.item.url + " - ");
+
+							//$("#company_name3").val( ui.item.label );
+							//$("#companies_id3").val( ui.item.value );
+							//$('#FindCompanyName3').val($('input[name=company_name3]').val());
+							//document.location='cloud-company-'+$("#companies_id3").val();
+							//$('#frmSearch3').submit();
+							location.href=ui.item.url;
+							return false;
+						},
+						close: function( event, ui ) {
+							 document.getElementById("company_name3").style.background=""; 
+						}
+					});
+					
+
+
+					/*$('#search_bt_company').click(function(){
+						$('#company_name3').autocomplete('option', 'minLength', 2);						
+						$('#company_name3').autocomplete('search', $('#company_name3').val());
+						$('#company_name3').autocomplete('close', document.getElementById("company_name3").style.background="");
+					});*/
+
+				});
+
+
+</script>
+
 	<!-- Popular web hosting-->
 	
 <div class="fix-width top-category">
@@ -271,8 +283,6 @@ function clearMask()
             <li><a href="/vps_web_hosting.asp" class="iconvps">VPS Hosting</a></li>
             <li><a href="/cloud_web_hosting.asp" class="iconcloud">Cloud Hosting</a></li>
             <li><a href="/asp_web_hosting.asp" class="iconasp">ASP.NET Hosting</a></li>
-            <li><a href="/linux-hosting.asp" class="iconunix">Linux Web Hosting</a></li>
-            <li><a href="/e-commerce_web_hosting.asp" class="iconecommerce">Ecommerce Hosting</a></li>
             <li><a href="/reseller_web_hosting.asp" class="iconreseller">Reseller Hosting</a></li>
 			<li><a href="/wordpress-hosting.asp" class="iconwordpress">WordPress Hosting</a></li>
         </ul>
@@ -367,11 +377,11 @@ function clearMask()
 	<h2>Top 3 Hosts From Our Search</h2>
 		<dl>
 
-	<dt><span>1</span><a href="javascript: GoToFooter('8465','134255');">3essentials Hosting</a></dt>
+	<dt><span>1</span><a href="javascript: GoToFooter('6761','145247');">Steadfast Networks</a></dt>
 
-	<dt><span>2</span><a href="javascript: GoToFooter('6761','134255');">Steadfast Networks</a></dt>
+	<dt><span>2</span><a href="javascript: GoToFooter('18533','145247');">CHEMICLOUD</a></dt>
 
-	<dt><span>3</span><a href="javascript: GoToFooter('15660','134255');">Host.AG</a></dt>
+	<dt><span>3</span><a href="javascript: GoToFooter('20848','145247');">Offshore Servers</a></dt>
 
 		</dl>
 	</div>
@@ -386,9 +396,9 @@ function clearMask()
         
         	<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-			<section class="bg-dark banner-right">
+			<div id="inc_right_ads">			<section class="bg-dark banner-right">
             	<ul>
-                	<li><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=6/6/2017&amp;File=10729&amp;timestamp=49254441&amp;LinkId="><img src="http://www.hostsearch.com/creative/blueangelhost/300x250.gif" width="300" height="250" border="0" alt=""></a></li>
+                	<li><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=11/26/2017&amp;File=10716&amp;timestamp=68030393&amp;LinkId="><img src="http://www.hostsearch.com/creative/turnkeyinternet/turnkey.gif" width="300" height="250" border="0" alt=""></a></li>
                 </ul>
             </section>
             
@@ -396,7 +406,8 @@ function clearMask()
             
             <section class="hot-deal">
             	<h2><strong>HOT</strong> DEALS</h2>
-				<article><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=6/6/2017&amp;File=10645&amp;timestamp=7544391510645&amp;LinkId="><h5>SSD VPS - 25% OFF</h5><p>Fast VPS. 20GB space, 2GB RAM, 1 Core. Code: SSDV</p></a></article><article><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=6/6/2017&amp;File=10665&amp;timestamp=2755769910665&amp;LinkId="><h5>3 Months for $1</h5><p>3 months for $1 plus free domain &amp; SSL certificate</p></a></article><article><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=6/6/2017&amp;File=10706&amp;timestamp=7192630610706&amp;LinkId="><h5>50% OFF Colocation</h5><p>Plus Dedicated starting at <strong>$39.99/month</strong></p></a></article><article><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=6/6/2017&amp;File=10727&amp;timestamp=4700052510727&amp;LinkId="><h5>25% off, use HS25p17</h5><p><strong>Get 25% discount</strong> on all shared and VPS hosting</p></a></article>
+				<article><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=11/26/2017&amp;File=10747&amp;timestamp=6970219510747&amp;LinkId="><h5>50% OFF Colocation</h5><p>Plus Dedicated starting at <strong>$39.99/month</strong></p></a></article>
+				<article><a target="_blank" href="https://www.hostcolor.com/webhosting/"><h5>High Performance Hosting</h5><p>Fast, Fault-Tolerant SSD Web Hosting - <strong>25% Off</strong></p></a></article>
             </section>
             
             <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -404,12 +415,11 @@ function clearMask()
 			
             <section class="bg-dark banner-right banner600">
 				<ul>
-					<li><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=6/6/2017&amp;File=10679&amp;timestamp=46699640&amp;LinkId="><img src="http://www.hostsearch.com/creative/interserver/3091469244883151665.gif" width="300" height="600" border="0" alt=""></a></li>
+					<li><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=11/26/2017&amp;File=10738&amp;timestamp=28917257&amp;LinkId="><img src="http://www.hostsearch.com/creative/eukhost/300x600eUK.gif" width="300" height="600" border="0" alt=""></a></li>
 				</ul>
-            </section>
-			
+            </section></div>
             
-            <section class="group-mid bg-dark lists-link2">
+            <div id="inc_right_link">            <section class="group-mid bg-dark lists-link2">
            	  <div class="wrap-style1">
                     <h5>HostSearch Shortcuts</h5>
                     <ul>
@@ -454,7 +464,7 @@ function clearMask()
             
 			<!-- Site Search -->
             <section class="group-mid bg-dark blog-search">
-            	<div class="wrap-style1">
+				<div class="wrap-style1">
                     <h5>Search HostSearch.com</h5>
 					<script language="javascript">
 					function clearText(){
@@ -494,7 +504,6 @@ function clearMask()
             
 			<!-- Newsletter -->
             <section class="group-mid bg-dark blog-newsletter">
-				<script language="JavaScript" src="/js_checkinput_newsletter.js"></script>
 				<form name="Add_user" method="POST" action="/newsletter_add.asp" onsubmit="return checkdata();">
 					<div class="wrap-style1">
 						<h5>Get Free Newsletters!</h5>
@@ -512,27 +521,26 @@ function clearMask()
 			
 			<!-- FindUKHosting -->
 				
-			<section class="group-mid permalink-style">
 				<style>
-					.permalink-style{border: 0px solid #ccc; text-align: center;}
-					.permalink-style img{max-width:100%; height: auto;}
+					.permalink-style2{border: 0px solid #ccc; text-align: center;}
+					.permalink-style2 img{max-width:100%; height: auto;}
 				</style>
-				<a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=6/6/2017&amp;File=10513&amp;timestamp=22833931&amp;LinkId="><img src="http://www.hostsearch.com/creative/findukhosting/findukhosting--advertising--300px.png" width="360" height="182" border="0" alt=""></a>
+			<section class="group-mid permalink-style permalink-style2">
+				<a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=11/26/2017&amp;File=10513&amp;timestamp=53423682&amp;LinkId="><img src="http://www.hostsearch.com/creative/findukhosting/findukhosting--advertising--300px.png" width="360" height="182" border="0" alt=""></a>
 			</section>
 				
 			<!-- FindUKHosting -->
-			
+			</div>
 			<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         </div>
 			<div class="clearfix"></div>
 		</section>
 		<div class="clearfix"></div>
 	</div>
-	<script language="JavaScript" src="/js_top3.js"></script>
-<form name="frmGoFooter" action="/redirect_url.asp" method="post">
+	<form name="frmGoFooter" action="/redirect_url.asp" method="post">
 <input type="Hidden" name="CompanyCode">
 <input type="Hidden" name="RandomValue">
-<input type="Hidden" name="ads_usecheck" value="False">
+<input type="Hidden" name="ads_usecheck" value="True">
 <input type="Hidden" name="FromPage" value="/policy.asp">
 </form>
 
@@ -544,31 +552,12 @@ function clearMask()
             <h5>Follow us</h5>
             <a href="http://www.facebook.com/hostsearch" class="facebook" target="_blank"></a>
             <a href="http://twitter.com/hostsearch" class="twitter" target="_blank"></a>
-			<span id="divLinkedIn"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://web.archive.org/web/20170606184253id_/http%3A//www.hostsearch.com/policy.asp&amp;title=Web Hosting Search &amp; Web Host Directory - HostSearch.com&amp;summary=Web hosting found easily! HostSearch.com features web host search tools, host directory, hosting promotions, web hosting reviews, hosting news, hosting guides &amp; articles, host lab test, web host companies' pictures, and much more...&amp;source=HostSearch.com" class="linkin" target="_blank"></a></span>
+			<span id="divLinkedIn"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://web.archive.org/web/20171126205248id_/http%3A//www.hostsearch.com/policy.asp&amp;title=Web Hosting Search &amp; Web Host Directory - HostSearch.com&amp;summary=Web hosting found easily! HostSearch.com features web host search tools, host directory, hosting promotions, web hosting reviews, hosting news, hosting guides &amp; articles, host lab test, web host companies' pictures, and much more...&amp;source=HostSearch.com" class="linkin" target="_blank"></a></span>
         </div>
-		<script language="javascript">
-			var strLinkedInTitle= document.getElementsByTagName('title')[0];
-			var strLinkedInURL=document.location.href;
-			var strLinkedInDesc="";
-
-			if(strLinkedInURL.toLowerCase()=="http://www.hostsearch.com/"||strLinkedInURL.toLowerCase()=="http://www.hostsearch.com") strLinkedInURL="http://www.hostsearch.com/default.asp"
-
-			var metas = document.getElementsByTagName('meta');
-			for (var x=0,y=metas.length; x<y; x++) {
-				if (metas[x].name.toLowerCase() == "description") {
-					strLinkedInDesc = metas[x];
-				}
-			}
-
-			var strLinkedIn='<a href="http://www.linkedin.com/shareArticle?mini=true&url='+strLinkedInURL+'&title='+strLinkedInTitle.innerHTML+'&summary='+strLinkedInDesc.content+'&source=HostSearch.com" class="linkin" target="_blank"></a>';
-
-			$('#divLinkedIn').html(strLinkedIn);
-		</script>
-
 		<!-- Banner 600x100 -->
         <div class="banner">
-        	<span><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=6/6/2017&amp;File=10726&amp;timestamp=40244501&amp;LinkId="><img src="http://www.hostsearch.com/creative/temok/temok300100.gif" width="300" height="100" border="0" alt=""></a></span>
-            <span><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=6/6/2017&amp;File=10655&amp;timestamp=75370962&amp;LinkId="><img src="http://www.hostsearch.com/creative/hostingsource/banner300X100-1.gif" width="300" height="100" border="0" alt=""></a></span>
+        	<span><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=11/26/2017&amp;File=10734&amp;timestamp=21405817&amp;LinkId="><img src="http://www.hostsearch.com/creative/webline/2017/300X100hs.gif" width="300" height="100" border="0" alt=""></a></span>
+            <span><a target="_blank" href="http://www.hostsearch.com/adtop/go/redirect.asp?D=11/26/2017&amp;File=10768&amp;timestamp=15013451&amp;LinkId="><img src="http://www.hostsearch.com/creative/hostingsource/banner300X100-1.gif" width="300" height="100" border="0" alt=""></a></span>
         </div>
 		<!-- Banner 600x100 -->
         <div class="clearfix"></div>
@@ -646,6 +635,31 @@ function clearMask()
     
     
 </footer>
+
+
+
+<script language="JavaScript" src="/js_top3.js"></script>
+
+<script language="javascript">
+			var strLinkedInTitle= document.getElementsByTagName('title')[0];
+			var strLinkedInURL=document.location.href;
+			var strLinkedInDesc="";
+
+			if(strLinkedInURL.toLowerCase()=="http://www.hostsearch.com/"||strLinkedInURL.toLowerCase()=="http://www.hostsearch.com") strLinkedInURL="http://www.hostsearch.com/default.asp";
+
+			var metas = document.getElementsByTagName('meta');
+			for (var x=0,y=metas.length; x<y; x++) {
+				if (metas[x].name.toLowerCase() == "description") {
+					strLinkedInDesc = metas[x];
+				}
+			}
+
+			var strLinkedIn='<a href="http://www.linkedin.com/shareArticle?mini=true&url='+strLinkedInURL+'&title='+strLinkedInTitle.innerHTML+'&summary='+strLinkedInDesc.content+'&source=HostSearch.com" class="linkin" target="_blank"></a>';
+
+			$('#divLinkedIn').html(strLinkedIn);
+</script>
+
+
 
 <!-- Google Code for Remarketing Tag -->
 <!--------------------------------------------------
