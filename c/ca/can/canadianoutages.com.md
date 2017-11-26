@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianoutages.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094344id_/http%3A//canadianoutages.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianoutages.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127000516id_/http%3A//canadianoutages.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement and policy Canadian Outages
 
@@ -18,7 +18,9 @@ Third-Party Advertising – AdChoices**
 
 We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](http://www.networkadvertising.org/choices/). 
 
-To opt out for Project Rubicon advertising, please visit [http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
+To opt out for Google Adsense peronalized advertising, please visit [www.google.nl/settings/ads](http://www.google.nl/settings/ads).   
+To opt out for Ancora Media Solutions peronalized advertising, please visit <http://adserving.ancora.iponweb.net/opt-out>  
+To opt out for Project Rubicon peronalized advertising, please visit [http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
 
 **  
 Links to Other Websites**
