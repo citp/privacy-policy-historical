@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629043401id_/http%3A//allears.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126164858id_/http%3A//allears.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,15 +34,11 @@ We reserve the right to perform statistical analysis of user behavior and charac
 
 ### COOKIES
 
-A cookie is a mechanism that allows a website to record your comings and goings, usually without your knowledge or consent. **ALL EARS® does not require cookies of its visitors.** However, our ad and banner rotation program is administered by a third party and may contain cookies. We do not have access to this cookie information and it is subject to the privacy policies of those third parties.
+A cookie is a mechanism that allows a website to record your comings and goings, usually without your knowledge or consent. **ALL EARS® does not require cookies of its visitors.** However, our banner rotation program is administered by a third party and may contain cookies. We do not have access to this cookie information. We use Google to track website usage, visitors, what pages are viewed, and obtain aggregate demographics. We can not see your personal information. 
 
-If you do not want to accept cookies from **AllEars.net** **®** or other sites, you must set your browser software to not accept cookies. Look in the Preferences (Firefox) or Internet Options (Microsoft Internet Explorer) feature to disable cookies.
+If you do not want to accept cookies from **AllEars.net** **®** or other sites, you must set your browser software to not accept cookies. Look in the Preferences (Netscape) or Internet Options (Microsoft Internet Explorer) feature to disable cookies. 
 
-If you disable cookies you may not be able to use certain features on the AllEars.net® website. Also, the disabling of cookies may prohibit your participation in contests and drawings.
-
-#### **Special Note About Google Advertising**
-
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. [Learn how to opt out of Google's cookie usage](https://tools.google.com/dlpage/gaoptout/). Any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
+If you disable cookies you may not be able to use certain features on the **AllEars.net®** websites. Also, the disabling of cookies may prohibit your participation in contests and drawings.
 
 ### REGISTRATION FORMS 
 
