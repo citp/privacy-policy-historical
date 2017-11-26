@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverfast.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142327id_/http%3A//www.silverfast.com/show/privacy/en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverfast.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127005449id_/http%3A//www.silverfast.com/show/privacy/en.html) for the most accurate reproduction.*
 
 # Privacy Policy :: LaserSoft Imaging
 
@@ -19,11 +19,11 @@ The LaserSoft Imaging AG uses cookies to follow the preferences of our visitors 
 Data Protection Commissioner  
 If you have further question regarding the security of your personal data, you can refer to our Group Data Protection Officer. 
 
-Stefan Jördens (Email: stefan.joerdens 'at' SilverFast.com)  
+Artur Möller (Email: artur.moeller 'at' SilverFast.com)  
 Luisenweg 6-8  
 24105 Kiel  
 Germany  
-Tel: + 49-431-5600941  
+Tel: + 49-431-5600940  
 Fax: + 49-431-5600999  
   
 ---|---|---  
