@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indianrecruit.in privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528032619id_/http%3A//indianrecruit.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianrecruit.in privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126170526id_/http%3A//indianrecruit.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Please read the following carefully. If you have any questions or concerns, please send us an email at [rohitshra1@gmail.com](mailto:rohitshra1@gmail.com).
+Please read the following carefully. If you have any questions or concerns, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c9bba6a1a0bdbaa1bba8f889aea4a8a0a5e7aaa6a4).
 
 ### Gathering and Use of Information
 
@@ -26,11 +26,11 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 From time to time, Indianrecruit.in may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. Your continued use of the Indianrecruit.in Web Site following the posting of any changes to these terms shall mean that you have accepted those changes.
 
-Should you have other questions or concerns about these privacy policies, please email us at [rohitshra1@gmail.com](mailto:rohitshra1@gmail.com).
+Should you have other questions or concerns about these privacy policies, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8af8e5e2e3fef9e2f8ebbbcaede7ebe3e6a4e9e5e7).
 
 ###  **Privacy Policy for www.indianrecruit.in**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [rohitshra1@gmail.com](mailto:rohitshra1@gmail.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6b190403021f1803190a5a2b0c060a020745080406).
 
 At [www.indianrecruit.in](http://www.indianrecruit.in/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.indianrecruit.in](http://www.indianrecruit.in/) and how it is used.
 
