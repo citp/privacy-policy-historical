@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmer.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628004806id_/http%3A//www.pharmer.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmer.org privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126195903id_/http%3A//pharmer.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Pharmer.org
 
