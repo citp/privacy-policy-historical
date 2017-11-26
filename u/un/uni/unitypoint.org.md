@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131046id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126031312id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # UnityPoint Health | Privacy Policy
 
-## Notice of Privacy Practices
+## Notice of Privacy Practices (HIPAA)  
+
 
 The Notice of Privacy Practices describes how medical information about you may be used and disclosed and how you can get access to this information.
 
-  * [Notice of Privacy Practices - English](https://www.unitypoint.org/filesimages/Privacy/Notice_of_Privacy_Practices_Corporate.pdf)
-  * [Notice of Privacy Practices - Spanish](https://www.unitypoint.org/filesimages/Privacy/Notice_of_Privacy_Practices_Corporate_Spanish.pdf)
+  * [Notice of Privacy Practices - English](https://web.archive.org/filesimages/Privacy/UnityPoint%20Health_Eng.pdf)
+  * [Notice of Privacy Practices - Spanish](https://web.archive.org/filesimages/Privacy/UnityPoint%20Health_Span.pdf)
 
 
 
-## Online Privacy Practice
+## Online Privacy Policy
 
 ### Collecting and Using Personal Information
 
@@ -56,9 +57,6 @@ From time to time our website may provide links to other websites, not owned or 
 ## Changes to This Statement 
 
 UnityPoint Health may change this statement from time to time without notice. We plan to post notice on our home page for no less than a week if any significant changes occur. This privacy statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
-
-  
-
 
 ## Contact Us
 
