@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesolving.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064133id_/http%3A//thesolving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesolving.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126221256id_/http%3A//thesolving.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Solving
 
@@ -34,7 +34,7 @@ For further information about our privacy policy or for support requests about y
 Nanosystems S.r.l.  
 Via del Commercio, 76/A  
 63100 Ascoli Piceno (AP) – Italy  
-Tel. +39 0736 341316
+Tel. +39 0736 618085
 
 **The use of the collected data**  
 The data are collected by Nanosystems to provide its services, for the following purposes: analytics, communications via email, comments of the content published on this website and display of content from third party platforms.
