@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedescla.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141827id_/http%3A//www.mercedescla.org/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedescla.org privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126114431id_/http%3A//www.mercedescla.org/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # Mercedes CLA Forum Privacy Policy
 
