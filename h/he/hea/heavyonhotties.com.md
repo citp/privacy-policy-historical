@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heavyonhotties.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524172244id_/http%3A//www.heavyonhotties.com/site/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyonhotties.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126234226id_/http%3A//www.heavyonhotties.com/site/privacy-policy.htm) for the most accurate reproduction.*
 
 # None
 
