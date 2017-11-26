@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcebottle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162626id_/http%3A//www.sourcebottle.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcebottle.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126142850id_/http%3A//www.sourcebottle.com/privacy.asp) for the most accurate reproduction.*
 
 # Free publicity for expert sources and PR professionals - connecting journalists, reporters, bloggers and writers with sources.
 
@@ -68,8 +68,7 @@ Your information will only be held by us until the expiry date of your Call Out 
 
 It is important that your information is accurate at all times so we ask that you notify us of any changes that arise.  You should do this by logging on to your profile or subscription and updating your information.
 
-You are entitled to request access to your information.  All queries or concerns should be put in writing to the attention of the Privacy Officer and emailed to: contact@sourcebottle.com.   
-We will endeavour to respond to your concern within 30 days.
+You are entitled to request access to your information.  All queries or concerns should be put in writing to the attention of the Privacy Officer and emailed to: contact@sourcebottle.com. We will endeavour to respond to your concern within 30 days.
 
 #### Cookies
 
