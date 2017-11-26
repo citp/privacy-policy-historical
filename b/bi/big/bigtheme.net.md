@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtheme.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154310id_/http%3A//bigtheme.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtheme.net privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126165033id_/http%3A//bigtheme.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,9 +64,6 @@ Any modification of these terms can be made at any time without prior publicatio
 ### Contact
 
 For any questions or inquiries about our privacy policy, you can contact us at bigtheme.net [at} gmail (dot) com
-
-  
-
 
 (43 votes, average 3.12 out of 5)
 
