@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendlyrentals.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628055624id_/http%3A//www.friendlyrentals.com/%23lopdModal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendlyrentals.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126172052id_/http%3A//www.friendlyrentals.com/%23lopdModal) for the most accurate reproduction.*
 
 # Friendly Rentals - Rent Apartments - Vacation Apartments For Days
 
