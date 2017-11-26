@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527213837id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126155038id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dedicated Webserver or Not
 
@@ -49,11 +49,11 @@ Shared web hosting, sometimes called a virtual host, multi-host, or self-serve w
 
 ## Updated Queries
 
-  1. [visionstop.com](http://visionstop.com.dedicatedornot.com/)
-  2. [elite-consults.com](http://elite-consults.com.dedicatedornot.com/)
-  3. [mmmc.org](http://mmmc.org.dedicatedornot.com/)
-  4. [baby-toys.co.uk](http://baby-toys.co.uk.dedicatedornot.com/)
-  5. [ygex.com](http://ygex.com.dedicatedornot.com/)
-  6. [marukan.nayutaya.jp](http://marukan.nayutaya.jp.dedicatedornot.com/)
+  1. [utilivac.com](http://utilivac.com.dedicatedornot.com/)
+  2. [btg-bawazir.com](http://btg-bawazir.com.dedicatedornot.com/)
+  3. [bbs.qinwangol.com](http://bbs.qinwangol.com.dedicatedornot.com/)
+  4. [www.extendedlifecomputers.cc](http://www.extendedlifecomputers.cc.dedicatedornot.com/)
+  5. [www.astronomy.lt](http://www.astronomy.lt.dedicatedornot.com/)
+  6. [bowiemd.com](http://bowiemd.com.dedicatedornot.com/)
 
 
