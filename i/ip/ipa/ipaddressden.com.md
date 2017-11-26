@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ipaddressden.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165134id_/http%3A//www.ipaddressden.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddressden.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126235649id_/http%3A//www.ipaddressden.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This is the web site of IPAddressDen.com.
 
-We can be reached via e-mail at [contact@ipaddressden.com](mailto:contact@ipaddressden.com "Contact email")
+We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a7c4c8c9d3c6c4d3e7ced7c6c3c3d5c2d4d4c3c2c989c4c8ca "Contact email")
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
