@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the customercareinfo.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222320id_/http%3A//www.customercareinfo.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customercareinfo.in privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126163333id_/http%3A//www.customercareinfo.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CustomerCareInfo.in | Customer Care
 
 [__  Home](http://www.customercareinfo.in/)  »  Privacy Policy – CustomerCareInfo.in
+
+Loading...
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -21,4 +23,4 @@ When visiting CustomerCareInfo.in, the IP address used to access the site will b
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
 **Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.If you have any questions regarding the privacy policy of CustomerCareInfo.in then you may contact us at customercareinfo.in@gmail.com
+The contents of this statement may be altered at any time, at our discretion.If you have any questions regarding the privacy policy of CustomerCareInfo.in then you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
