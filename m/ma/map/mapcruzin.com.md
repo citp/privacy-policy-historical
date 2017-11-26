@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618031232id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126162552id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
 
 # Cookies, Privacy, Disclaimer and fair use notice
 
 January 30, 2020 
-
-[](https://web.archive.org/zip-code-gis-shapefiles/)
 
 [](http://twitter.com/pollutionmaps) [Follow on Twitter](http://twitter.com/pollutionmaps)
 
