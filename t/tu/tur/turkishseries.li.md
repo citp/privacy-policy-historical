@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turkishseries.li privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614125323id_/http%3A//turkishseries.li/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turkishseries.li privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127002406id_/http%3A//turkishseries.li/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TurkishSeries.Li
 
