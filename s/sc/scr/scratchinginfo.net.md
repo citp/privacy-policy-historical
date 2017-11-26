@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scratchinginfo.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120051id_/http%3A//www.scratchinginfo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchinginfo.net privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126165931id_/http%3A//www.scratchinginfo.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Development Tutorials and Resources @ ScratchingInfo
+# Privacy Policy
 
 At http://www.scratchinginfo.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.scratchinginfo.net and how it is used.
 
