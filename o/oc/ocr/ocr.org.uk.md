@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocr.org.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622155312id_/http%3A//www.ocr.org.uk/about-us/our-policies/website-policies/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocr.org.uk privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126093443id_/http%3A//www.ocr.org.uk/about-us/our-policies/website-policies/privacy-policy/index.aspx) for the most accurate reproduction.*
 
 # Privacy policy - OCR
 
