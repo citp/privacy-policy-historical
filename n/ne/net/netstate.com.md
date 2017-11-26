@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the netstate.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523023249id_/http%3A//netstate.com/policy/nsprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netstate.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126145433id_/http%3A//www.netstate.com/policy/nsprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement from NETSTATE.COM
 
-This is the web site of **NETSTATE.COM**. It is written, owned and operated by **NSTATE, LLC**.
+This is the web site of **NETSTATE.COM**. It is written, owned and operated by **Statewise, LLC**.
 
 Our postal address is   
 
 
-PO Box 412,   
-88 Trotting Track Road   
-Wolfeboro, NH 03894
+PO Box 776,   
+Meredith, NH 03253
 
-We can be reached via e-mail at [information@netstate.com](mailto:information@netstate.com) or you can reach us by telephone at (603)569-5528.
+We can be reached via e-mail at [information@netstate.com](mailto:information@netstate.com)
 
 For each visitor to one of our Web pages, our Web server automatically recognizes the visitor's domain name and e-mail address (where possible).
 
@@ -29,4 +28,4 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically, we will use for these new purposes only data collected from the time of the policy change forward.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
