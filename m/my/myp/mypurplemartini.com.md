@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypurplemartini.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320180831id_/http%3A//www.mypurplemartini.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypurplemartini.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126173518id_/http%3A//www.mypurplemartini.com/privacy.php) for the most accurate reproduction.*
 
 # My purple martini
 
@@ -24,7 +24,7 @@ We collect Personal Information that you submit to us voluntarily through our Si
 
 
 
-Once you register with MyPurpleMartini.com and sign in to our Services or you are responding to an invitation to join MyPurpleMartini.com, you are not anonymous to us. If you are browsing the Sites without being invited or registering with MyPurpleMartini.com, you are anonymous to us, but we will collect the information listed below under Personal Information Collected Via Technology. If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will send your friend an email inviting him or her to visit the site. MyPurpleMartini.com stores this information to send these invitations, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at abuse@mypurplemartini.com to request that we remove this information from our database.
+Once you register with MyPurpleMartini.com and sign in to our Services or you are responding to an invitation to join MyPurpleMartini.com, you are not anonymous to us. If you are browsing the Sites without being invited or registering with MyPurpleMartini.com, you are anonymous to us, but we will collect the information listed below under Personal Information Collected Via Technology. If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will send your friend an email inviting him or her to visit the site. MyPurpleMartini.com stores this information to send these invitations, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to request that we remove this information from our database.
 
 **Use of information**
 
@@ -124,7 +124,7 @@ Purple Martini Entertainment Pvt. Ltd.
 9-D, Rajpur Road,  
 Delhi – 110054 (India)  
 F: +91-11-2396 8674  
-E: director@mypurplemartini.in 
+E: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Changes to this Privacy Policy**
 
