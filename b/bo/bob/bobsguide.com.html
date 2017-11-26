@@ -1,7 +1,19 @@
-<!--The following is the downloaded HTML source of the bobsguide.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606161655id_/http%3A//www.bobsguide.com/cgi-bin/guide/privacy.pl%3FID%3Dbg) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bobsguide.com privacy policy that was archived on 2017-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171126203047id_/http%3A//www.bobsguide.com/cgi-bin/guide/privacy.pl%3FID%3Dbg) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+	<!--
+		  ____        _                     _     _      
+		 | __ )  ___ | |__  ___  __ _ _   _(_) __| | ___ 
+		 |  _ \ / _ \| '_ \/ __|/ _` | | | | |/ _` |/ _ \
+		 | |_) | (_) | |_) \__ \ (_| | |_| | | (_| |  __/
+		 |____/ \___/|_.__/|___/\__, |\__,_|_|\__,_|\___|
+		                        |___/       
+		                        
+		Part of Contentive Group Ltd.
+		Maintained by: Edmon Bukalan
+		
+	-->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,7 +35,7 @@
 <meta name="template" content="../../data/bg/sitemainpages_template.pl">
 <meta name="skin" content="skin2016.html">
 <meta name="run-code" content="bg.sitemainpages.mainhelp">
-<meta name="run-date" content="6/6/2017 17:16:55">
+<meta name="run-date" content="26/11/2017 20:30:47">
 <meta name="page-generated-by" content="/cgi-bin/guide/privacy.pl?ID=bg">
 
 	
@@ -76,11 +88,21 @@
 
 	var bggapagetype = '';
 
-	dataLayer = [{
-		'bgMemId': clog,
-		'bgVcode': vcode,
-		'bgPageType': bggapagetype
-	}];
+	if (window.dataLayer)
+	{
+		window.dataLayer[0].bgMemId = clog;
+		window.dataLayer[0].bgVcode = vcode;
+		window.dataLayer[0].bgPageType = bggapagetype;
+	}
+	else
+	{
+		dataLayer = [{
+			'bgMemId': clog,
+			'bgVcode': vcode,
+			'bgPageType': bggapagetype
+		}];
+	}
+	
 </script>
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WX3RBN"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
