@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exametc.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629222133id_/http%3A//www3.exametc.com/ppolice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exametc.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126231903id_/http%3A//www3.exametc.com/ppolice.php) for the most accurate reproduction.*
 
 # Exametc.com - Browse all India examination results and notifications of Secondary board, Higher secondary board, university, competitive examination and entrance examination
 
@@ -22,4 +22,4 @@ You acknowledge that you are disclosing Personal Information voluntarily. Prior 
 
 If you are our corporate customer, it is possible that we have entered into a contract with you for non-disclosure of confidential information. This Policy shall not affect such a contract in any manner.
 
-If you have questions or concerns about these privacy policies; please send us an email at info@exametc.com
+If you have questions or concerns about these privacy policies; please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
