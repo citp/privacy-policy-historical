@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the todaypkmovies.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041215id_/http%3A//todaypkmovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaypkmovies.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127000219id_/https%3A//todaypkmovies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - todaypkmovies.com | Todaypk Movies
 
-This Privacy Policy governs the manner in which Online Free Movie collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://todaypkmovies.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Online Free Movie.
+This Privacy Policy governs the manner in which Online Free Movie collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://todaypkmovies.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Online Free Movie.
 
 **Personal identification information**
 
@@ -62,8 +62,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Online Free Movie](http://todaypkmovies.com/)  
-<http://todaypkmovies.com/>  
-avinash.snh@gmail.com
+[Online Free Movie](https://todaypkmovies.com/)  
+<https://todaypkmovies.com/>  
+winemovies@gmail.com
 
 This document was last updated on March 10, 2014
