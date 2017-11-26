@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipscene.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219132539id_/http%3A//www.zipscene.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipscene.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126112504id_/http%3A//www.zipscene.com/privacy) for the most accurate reproduction.*
 
 # Zipscene Privacy Policy · Zipscene
 
