@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlicious.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607171041id_/http%3A//articlicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlicious.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126202731id_/http%3A//articlicious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Articlicious
 
