@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temp-mail.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183713id_/https%3A//temp-mail.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temp-mail.org privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126213502id_/https%3A//temp-mail.org/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy & Terms of use
 
