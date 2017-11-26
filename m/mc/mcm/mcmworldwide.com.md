@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcmworldwide.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625092208id_/http%3A//us.mcmworldwide.com/en/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcmworldwide.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126143415id_/http%3A//us.mcmworldwide.com/en/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
