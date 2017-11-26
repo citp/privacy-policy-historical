@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024209id_/http%3A//www.pfaltzgraff.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126162932id_/http%3A//www.pfaltzgraff.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ Accepting cookies through your web browser is your personal choice. You can set 
 
 We use state-of-the-art technology to encrypt your financial information before it is sent. The ordering area of our site is protected this way and is referred to as "secure." Secure transmission is not necessary for our product pictures or general site information and is not used there. This keeps our site faster and your shopping experience more enjoyable. And you never have to worry about sending us your credit card information.
 
-You may have noticed the "VeriSign Secure Site" link on our Shopping Cart and Order Form pages. VeriSign is a well-known Web company that validates site security. The verification process happens in the background every time you place an order at Pfaltzgraff.com. [Click here](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.PFALTZGRAFF.COM&lang=en) to learn more about VeriSign and our status as a secure site.  
+You may have noticed the "Norton Secured" link on our Shopping Cart and Order Form pages. Norton Secured is a well-known Web company that validates site security. The verification process happens in the background every time you place an order at Pfaltzgraff.com. Click logos below to learn more about Norton Secured and our status as a secure site.  
 
 
 ## Does Pfaltzgraff.com use SSL technology?
