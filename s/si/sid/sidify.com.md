@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidify.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626082522id_/http%3A//www.sidify.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidify.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126235544id_/http%3A//sidify.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Sidify Privacy Policy
 
@@ -18,4 +18,4 @@ Avangate is the leading digital commerce solution trusted by software and online
 
 **Contact information**
 
-If you have any questions about our privacy policy or programs of Sidify, please send email to our support: [support@sidify.com](mailto:support@sidify.com)
+If you have any questions about our privacy policy or programs of Sidify, please send email to our support: **support@sidify.com**
