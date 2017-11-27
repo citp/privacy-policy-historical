@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furtadosonline.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528131407id_/http%3A//furtadosonline.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furtadosonline.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127015400id_/http%3A//furtadosonline.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # www.furtadosonline.com : Privacy Policy
 
