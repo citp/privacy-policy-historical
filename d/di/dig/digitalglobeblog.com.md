@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalglobeblog.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630024043id_/https%3A//www.digitalglobe.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalglobeblog.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128004211id_/https%3A//www.digitalglobe.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DigitalGlobe
 
