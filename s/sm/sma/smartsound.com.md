@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsound.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625060959id_/http%3A//www.smartsound.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsound.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127010447id_/http%3A//www.smartsound.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
