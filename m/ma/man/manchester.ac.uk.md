@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the manchester.ac.uk privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619103214id_/http%3A//www.manchester.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchester.ac.uk privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127015315id_/http%3A//www.manchester.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy notice | The University of Manchester
 
 The University of Manchester is committed to looking after any information that is made available to us when you visit our websites in accordance with data protection and privacy laws. This policy outlines what categories of information we retain and how we use it.
+
+To view our Division of Development and Alumni Relations’ Privacy Statement, please visit [Your Manchester Online website](https://your.manchester.ac.uk/privacy).
 
 ## Personal data
 
@@ -94,4 +96,4 @@ We utilise tools and resources to help us understand our stakeholders, staff, st
 
 ## Statement
 
-This privacy statement applies to all University websites that link to this page. Please note that some sites related to the University and which link to this policy may collect and use data differently. These sites will have a local privacy policy explaining these practices. If the user leaves a University website and visits a website operated by a third party, The University of Manchester cannot be held responsible for the protection and privacy of any information that users provide when visiting such third party websites. Accordingly, users should exercise caution and review the privacy statement applicable to the website in question.
+This privacy statement applies to all University websites that link to this page. Please note that some sites related to the University may collect and use data differently. These sites will have a local privacy policy explaining these practices. If the user leaves a University website and visits a website operated by a third party, The University of Manchester cannot be held responsible for the protection and privacy of any information that users provide when visiting such third party websites. Accordingly, users should exercise caution and review the privacy statement applicable to the website in question.
