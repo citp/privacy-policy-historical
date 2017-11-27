@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livethedreamevent.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527191217id_/http%3A//livethedreamevent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livethedreamevent.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127115303id_/http%3A//www.livethedreamevent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO
 
