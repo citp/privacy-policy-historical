@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035305id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127194952id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
 
 # SPEC Privacy Policy
 
