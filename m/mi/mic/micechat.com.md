@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micechat.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626190805id_/http%3A//micechat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micechat.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127035833id_/http%3A//micechat.com/privacy-policy) for the most accurate reproduction.*
 
 # MiceChat - Privacy Policy
 
@@ -23,16 +23,6 @@ We may be required to disclose personal information pursuant to valid legal proc
 Please keep in mind that whenever you give out personal information online (such as in discussion forums or chat), that information can be collected and used by people you do not know. While we strive to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
 
 Our privacy policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond our control.
-
-**Children’s Online Privacy Protection Act (COPPA) of 1998**
-
-Our activities on this Site are carried out in compliance with the Children’s Online Privacy Protection Act of 1998. Under that Act, we may not ask a child to provide more personal information than is reasonably necessary in order to participate in an activity on this site.
-
-We will not collect information from children under the age of 13 without first gaining consent or giving direct notification to a parent or guardian. We will not use this information to contact the child for other purposes, distribute this information to third parties, or give the child the ability to post publicly or otherwise distribute personally identifiable information without a parent’s or guardian’s consent.
-
-Although visitors under 13 years of age may be allowed to participate in some contests and promotions, if such a visitor wins, notification and prizes are sent to the parent or guardian identified in the initial registration process. Publication of names, ages, or images for contest winners under 13 require parental or guardian consent.
-
-We do not allow visitors under 13 years of age to be listed on our membership directory or to receive direct marketing communications from MiceChat or to be sent third-party offers.
 
 **Aggregate Information**
 
@@ -68,8 +58,12 @@ We have security measures in place to protect the loss, misuse and alteration of
 
 **Correcting, Updating, or Removing Personal Information**
 
-In case you wish to correct, update, or remove your personal information, we will use commercially reasonable efforts to find a way to correct, update, or remove the personal data you give us as it is used on our Web site(s) and to the extent we control the use of such data. You can do this at supplied member profile pages or by [contacting the administrator](https://web.archive.org/forums/contactus.php).
+In case you wish to correct, update, or remove your personal information, we will use commercially reasonable efforts to find a way to correct, update, or remove the personal data you give us as it is used on our Web site(s) and to the extent we control the use of such data. You can do this at supplied member profile pages or by [contacting the administrator](https://discuss.micechat.com/contact-us).
 
 **Acceptance of These Terms**
 
 By using this Site, you signify your consent to the MiceChat Privacy Policy. If you do not agree to this policy, please do not use our site(s). Your continued use of our site(s) following the posting of changes to these terms will mean you accept those changes.
+
+**Your Use of This Site Is At Our Sole Discretion**
+
+**MiceChat reserves the right to block any user from any or all services at any time and for any reason.** Users who engage in inappropriate language, bully other members, distribute SPAM or create a hostile environment are not welcome on MiceChat and may be removed. While MiceChat does its best to monitor activities on the site, it is not possible for us to review every post and communication from our users or our authors. MiceChat is a private site and by using it you agree to abide by the rules set forth by its staff and understand that you may be blocked or limited for violating the spirit and intent of those rules. Users and authors of MiceChat are solely responsible for the content they post and agree to hold MiceChat harmless against any claim which might result from their posting. MiceChat is not responsible for the content posted by its users or authors. While we will attempt to keep content posted within our guidelines, you may be exposed to content posted by other users or authors which is offensive, incorrect or in violation of our rules. Tools are available for you to block any member whom you no longer wish to see. Additionally, it is up to you to decide which articles, posts and discussions you wish to read. **USE OF MICECHAT IS AT YOUR OWN RISK AND YOU AGREE TO HOLD MICECHAT HARMLESS AGAINST ANY AND ALL CLAIMS.**
