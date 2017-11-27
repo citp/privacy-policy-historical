@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oceaneering.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181322id_/http%3A//www.oceaneering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceaneering.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127070124id_/https%3A//www.oceaneering.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Oceaneering International, Inc.
+# Privacy Policy | Oceaneering : Oceaneering
 
-**1\. Our Commitment To Privacy and Restrictions on Use of Our Site**
+##### **1\. Our Commitment To Privacy and Restrictions on Use of Our Site**
 
 Oceaneering.com (“Site”) is an Internet property of Oceaneering International, Inc., its subsidiary or affiliate (“OII,” “we,” “us”). Your privacy is important to us. In this statement we explain our online information practices and the choices you can make about the way your information is collected and used.
 
@@ -12,7 +12,7 @@ Please note that if you use the Site to request alerts, newsletters or invitatio
 
 Please note that this Privacy Policy does not apply to you if you are an employee or contractor of OII who is using this Site. Please consult the employee handbook for details on acceptable use of OII’s computer equipment, including its servers.
 
-**2\. The Information We Collect**
+##### **2\. The Information We Collect**
 
 This statement applies to all information collected or submitted on this Site. We do not accept credit card or bank account information through this Site but may use a third party provider for such services. We do collect information on the forms that you complete in connection with responses to employment solicitations or other invitations to seminars or similar activities, or if you make an inquiry about our goods or services.
 
@@ -34,7 +34,7 @@ When you access our Site via the Internet, our servers automatically record cert
 
 Our Site’s servers automatically identify your computer by its IP address, which is a unique string of numbers that is assigned to your computer by your Internet service provider. IP addresses are automatically logged by web servers, collecting information about a user’s traffic patterns. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual who is using the Internet. Your IP address can also reveal what geographic area you are connecting from, or which ISP you are using. Your IP address may be used to address problems with our server, administer our Site and/or to gather broad demographic information about users of the Site. Finally, the other websites that you visit have IP addresses, and we may collect the IP addresses of those websites and their pages, as well.
 
-**3\. Cookies**
+##### **3\. Cookies**
 
 “Cookies” are small pieces of information stored on your hard drive. Cookies do not spy on you or otherwise invade your privacy. Rather, cookies help you navigate a website and enhance the user experience.
 
@@ -42,7 +42,7 @@ Our Site may utilize cookies to collect information about how our Site is used. 
 
 If you do not wish to transmit “cookie” information, you may turn off the cookie function in your web browser. However, turning off or disabling the cookie functions on your web browser may prevent our system from properly recognizing you when you visit our Site.
 
-**4\. The Way We Use Information**
+##### **4\. The Way We Use Information**
 
 Generally, we will use information collected on this Site to contact you in response to your inquiries, to provide services requested by you, to alert you to changes in goods and services, and to provide you with requested information regarding us or our services. We may also provide newsletters or bulletins. By submitting your email address at the Site, you agree to receive emailed materials from us.
 
@@ -52,35 +52,35 @@ We also reserve the right to disclose and transfer your personal information as 
 
 We also reserve the right to transfer any personal or other information you disclose to us to any successor to our business as a whole, or to any successor to part of our business, whether by merger, corporate consolidation, sale of assets, or otherwise.
 
-**5\. Data Collection Practices by Third Parties**
+##### **5\. Data Collection Practices by Third Parties**
 
 We do not endorse, nor are we liable for the accuracy of, the privacy policies and/or terms and conditions of any third parties, including without limitation, those to which we provide links on our Site, including those of our service providers. You should read the privacy policies of such third party websites to make sure that you agree to their terms before using such websites.
 
-**6\. Group Aggregate Data**
+##### **6\. Group Aggregate Data**
 
 We reserve the right to provide aggregate or group data about our Site users for any lawful purposes. Aggregate or group data is data that describes the demographics, usage, or characteristics of our Site users as a group, without disclosing their personal information.
 
-**7\. Security**
+##### **7\. Security**
 
 We endeavor to safeguard and protect our users’ information. We have security measures in place to protect against the loss, misuse, and alteration of personal information under our control, and we follow generally accepted industry standards to protect the personal information submitted to us. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-**8\. Children’s Privacy**
+##### **8\. Children’s Privacy**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13.
 
-**9\. How You Can Access Or Correct Your Information**
+##### **9\. How You Can Access Or Correct Your Information**
 
 If you wish to access, delete or correct the information that you have provided to us through this Site, or if you do not wish to receive any emails from us, please contact us through the “Contact Us” section of our Site.
 
-**10\. Your California Privacy Rights**
+##### **10\. Your California Privacy Rights**
 
 California Civil Code Section 1798.83 permits California residents who have provided personal information to us or our third party advertisers and marketing partners, if any, to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding calendar year, if any, along with the names and addresses of these third parties, if any. This request may be made no more than once per calendar year.
 
-**11\. Policy Changes**
+##### **11\. Policy Changes**
 
 We update our policy from time to time without notice so please check back periodically. Changes to the privacy policy will be posted on this Site and the effective date of the policy will be modified to reflect the effective date of the most recent version.
 
-**12\. How To Contact Us**
+##### **12\. How To Contact Us**
 
 Should you have questions or concerns about our privacy policies, please contact us at legal@oceaneering.com or by postal mail at:
 
