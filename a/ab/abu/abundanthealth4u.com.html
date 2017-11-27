@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abundanthealth4u.com privacy policy that was archived on 2017-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170609063514id_/http%3A//www.abundanthealth4u.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abundanthealth4u.com privacy policy that was archived on 2017-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171127093610id_/http%3A//www.abundanthealth4u.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head></head><body id="body">﻿
 
@@ -47,7 +47,7 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.59.0.2416"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.77.0.3035"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -70,22 +70,28 @@ var Config_CDN_URL = '/'
     } (jQuery));
 </script>
 <link type="text/css" rel="stylesheet" href="/a/contentbuilder/assets/default/content.css">
+<script type="text/javascript" src="../../a/j/paypal-rest-default-buttons.js"></script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
 <link type="text/css" rel="stylesheet" href="/a/c/soft_add.css">
 <script type="text/javascript">
-	var global_Config_EnableDisplayOptionProducts = 'False';	
-	var global_Config_ForceSecureShoppingCartPage = false;
+	var global_Config_EnableDisplayOptionProducts = 'False';
+	var global_Config_ForceSecureShoppingCartPage = true;
 	var global_PageText_OtherItemsAdded = '(All other items have been added to the cart)';
 	var Config_EnableSoftAddToCart = true;
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.59.0.2416"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.77.0.3035"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
+</script>
+
+<script>
+    var reCaptchaPreloaded = false;
+    var reCaptchaInit;
 </script>
 
 
@@ -355,7 +361,7 @@ document.write("<br /><br />");
 showQuotation(q2);
 //document.write("<br /><br />");
 //showQuotation(q3);
-</script><br><i>This is one of the most faithful and caring sites out there for diffusers, info, containers, and brochures. They not only go out of their way to get you the lowest prices, to begin with, but then.....they go beyond to find the least expensive way to ship. This is like shopping with your best friend...and knowing that anything that you aren't happy with, they are right there for you! A+ #1!!!!</i> —Cheryl<br><br><i>Great site, easy ordering, timely delivery of products ordered, fair pricing! What else could you ask for :)  </i> —Linda V.
+</script><br><i>Everything was great. Thank you so very much. I mention your website at every class I teach, which happens to be very often.  </i> —Julie V.<br><br><i>Service was good and the products are good.  Thank you.  Overall everything is great.</i> —Marci B.
 </div>
 </div>
     </div>
@@ -453,6 +459,25 @@ Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agr
         });
     }
 </script>
+
+  <script>
+     if (document.getElementsByName("MailingList")[0]) {
+        var emailSubscribeForm = document.getElementsByName("MailingList")[0];
+        disableSubscribeSubmit = function() {
+          emailSubscribeButton.removeAttribute("type");
+        }
+        forwardToMailingList = function(e) {
+            var subscribeEmail = emailSubscribeForm.querySelector("input").value;
+          sessionStorage.setItem("subEmailAddress", subscribeEmail);
+          emailSubscribeForm.submit();
+        }
+
+        if (emailSubscribeForm.querySelector("button")) {
+            var emailSubscribeButton = emailSubscribeForm.querySelector("button");
+            emailSubscribeButton.addEventListener("click", forwardToMailingList);
+        }
+    }
+  </script>
 
 
 </body></html>
