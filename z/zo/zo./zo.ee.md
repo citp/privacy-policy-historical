@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zo.ee privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029224828id_/http%3A//www.zo.ee/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zo.ee privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127131516id_/http%3A//www.zo.ee/privacy) for the most accurate reproduction.*
 
 # Adult.xyz - Terms & Conditions
 
