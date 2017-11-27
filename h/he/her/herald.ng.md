@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the herald.ng privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628124352id_/http%3A//www.herald.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald.ng privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127173832id_/http%3A//www.herald.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Herald Nigeria
+# Privacy Policy ⋆ The Herald Nigeria Newspaper
 
 _The Herald_ may collect information from our users at several different points on the site.  The Herald is the sole owner of the information collected on _  The Herald_ng.com
 
 #### Comments and Posts
 
-_The Herald_  users can choose to write comments or posts on the site. To leave a comment, users must submit information including a valid email address.  _The Herald_  uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
+ _The Herald_  users can choose to write comments or posts on the site. To leave a comment, users must submit information including a valid email address.  _The Herald_  uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
 
 #### Newsletters
 
-_The Herald_  offers email newsletters. To sign up to receive regular emails, users must submit information including a valid email address. This information will be used in aggregate form to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails, including new articles added to the site.
+ _The Herald_  offers email newsletters. To sign up to receive regular emails, users must submit information including a valid email address. This information will be used in aggregate form to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails, including new articles added to the site.
 
 #### Log Files
 
@@ -26,7 +26,7 @@ In the event  _The Herald_  goes through a business transition, such as a merg
 
 #### Links
 
-_The Herald_  contains links to other sites. Please be aware that _  The Herald_ is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by  _The Herald_.
+ _The Herald_  contains links to other sites. Please be aware that _  The Herald_ is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by  _The Herald_.
 
 #### Third Party Advertising
 
@@ -38,4 +38,4 @@ Whenever  _The Herald_  changes its privacy policy, we will post those changes
 
 #### Contact Information
 
-If you have any questions or suggestions regarding our privacy policy, please  send an email to [info@herald.ng](mailto:info@herald.ng)
+If you have any questions or suggestions regarding our privacy policy, please  send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#325b5c545d725a5740535e561c5c55)
