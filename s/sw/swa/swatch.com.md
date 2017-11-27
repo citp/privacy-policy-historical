@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swatch.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328144959id_/https%3A//www.swatch.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swatch.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127113959id_/https%3A//www.swatch.com/en_us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Swatch® International
+# Privacy Policy - Swatch® United States
 
 ## 1\. Privacy Policy
 
