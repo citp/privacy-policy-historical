@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610202922id_/https%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127030143id_/http%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SikhNet
 
@@ -30,7 +30,7 @@ Sikhnet, as well as most sites on the Internet, uses "cookies" to enhance your e
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
 
-If you have any additional questions about Sikhnet's dedication to consumer privacy, please contact us at [support@sikhnet.com](mailto:support@sikhnet.com?subject=SikhNet%27s%20consumer%20privacy%20policy)
+If you have any additional questions about Sikhnet's dedication to consumer privacy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d4a7a1a4a4bba6a094a7bdbfbcbab1a0fab7bbb9eba7a1b6beb1b7a0e987bdbfbc9ab1a0f1e6e3a7f1e6e4b7bbbaa7a1b9b1a6f1e6e4a4a6bda2b5b7adf1e6e4a4bbb8bdb7ad)
 
 Sikhnet does not sell, share or distribute any of the information that it collects with any business or persons not affiliated with it.
 
