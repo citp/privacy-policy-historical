@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredericpatenaude.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618040939id_/http%3A//www.fredericpatenaude.com/privacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericpatenaude.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127093534id_/http%3A//www.fredericpatenaude.com/privacynotice.html) for the most accurate reproduction.*
 
 # 
 
