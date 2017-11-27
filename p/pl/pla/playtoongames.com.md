@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtoongames.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520213624id_/http%3A//www.playtoongames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtoongames.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127090207id_/http%3A//www.playtoongames.com/privacy) for the most accurate reproduction.*
 
 # Play Toon Games - Cartoon games | Ben 10 Games | Free Online Games
 
