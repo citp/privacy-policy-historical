@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the njmtv.com privacy policy that was archived on 2017-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170528212930id_/http%3A//www.njmtv.com/njmtv-privacy-policy-and-security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the njmtv.com privacy policy that was archived on 2017-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171127184212id_/http%3A//www.njmtv.com/njmtv-privacy-policy-and-security.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="stylish-select"><head>
 <title>Privacy Policy And Security</title>
@@ -985,6 +985,7 @@ $(document).ready(function(){
 <div class="outerselect">
 <select name="Catsid" id="myDropdowns">
 <option value="0" selected="">All Departments</option>
+<option value="30">Audio - Music Cards</option>
 <option value="7">Audio- Film</option>
 <option value="26">Audio-Compliation</option>
 <option value="28">Audio-Ghazals</option>
@@ -1556,6 +1557,45 @@ jQuery(document).ready(function(e) {
 <div class="simpleTabs_menu">
 		    <ul class="simpleTabsNavigation_menu level-top2">
 		                
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display30(dt)
+			{
+			//document.getElementById('cat_tab_display_id_30').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse30;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse30()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_30').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_30" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','30','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display30('30');">Audio - Music Cards</a>
+           
+           <div id="cat_tab_display_id_30"></div>
+           
+            </li>
+                        
             <script type="text/javascript">
 			 //<![CDATA[ 
 			function createObject(){
