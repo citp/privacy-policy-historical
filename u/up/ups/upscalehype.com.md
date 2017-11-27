@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the upscalehype.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042356id_/http%3A//www.upscalehype.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upscalehype.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127123153id_/http%3A//www.upscalehype.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UpscaleHype
-
-## Privacy Policy
 
 The following Privacy Policy covers all websites and any associated content including social network pages, email and RSS feeds owned, affiliated or operated by UpscaleHype, LLC. (“UpscaleHype”, “we”, “us”, “our”). We respect and understand your need for privacy. Please read the following to learn more about our privacy policy.
 
