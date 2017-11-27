@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the mdc.edu privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214132625id_/http%3A//www.mdc.edu/main/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdc.edu privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127132433id_/http%3A//www.mdc.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Privacy Policies - Miami Dade College
+# Privacy Policy | Miami Dade College
 
-Thank you for visiting Miami-Dade College's website. Your privacy is very important to us. Simply stated, our policy is not to collect personal information about you when you visit our website unless you affirmatively choose to make such information available to us.
+Thank you for visiting Miami Dade College's website. Your privacy is very important to us. This policy describes how the College collects, uses, protects or otherwise handles the Personally Identifiable Information (PII) of individuals who visit the College’s website. Personally Identifiable Information, as described in U.S. privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. 
 
-When you visit our website, our web server automatically recognizes only the Internet domain and IP address from which you accessed our website. This information does not result in the identification of your personal e-mail address or other personal information.
-
-In addition, we gather information regarding the volume and timing of access to our website by collecting information on the date, time and website pages accessed by visitors to the website. We do this so we can improve the content of our website and this information is not shared with other organizations. Again, only aggregate information is collected and individual visitors' personal information is not identified.
-
-If you choose to share personal information with us - by sending us a message, or filling out an electronic form with personal information - we will use the information only for the purposes you authorized or in support of College sponsored programs. Some of the information may be saved for a designated period of time to comply with Florida's archiving policies, but we will not disclose the information to other third parties or government agencies, unless required to do so by state or federal law or in support of university sponsored programs.
-
-If we are required to disclose information about you by law, we will make every effort to notify you of the disclosure in advance.
+[Privacy Policy »](https://web.archive.org/policy/Chapter1/01-I-72.pdf)
