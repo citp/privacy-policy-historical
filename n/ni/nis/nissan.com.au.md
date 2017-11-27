@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissan.com.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607113308id_/http%3A//www.nissan.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissan.com.au privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127175941id_/http%3A//www.nissan.com.au/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,6 +20,7 @@ Nissan and NFS may collect and hold the following information about you:
   * any additional information you provide, such as when you contact our Customer Service Centre, log in to our website, or call us for roadside assistance;
   * any information you may provide to us through customer surveys;
   * any other personal information which Nissan or NFS is required to collect for identification verification purposes;
+  * any details contained within identity documents provided to us, including but not limited to, government identifiers (for example, a passport number, driver’s licence number, Medicare card number, etc.);  
   * any additional information provided in a consumer or commercial credit application you make.
 
 
@@ -59,9 +60,10 @@ Nissan and NFS may disclose your personal information (other than your consumer 
   * any disclosure which is required or authorised by law, including to AUSTRAC in respect of any suspicious or threshold transactions or activities; and
   * if you have applied for credit from NFS:
     1. to a credit reporting agency for the purpose of obtaining a credit report about you and/or to allow the credit reporting agency to maintain a credit information file containing information about you;
-    2. to a debt collection agency;
-    3. with your consent, to other credit providers for the purpose of assessing your application for credit; or
-    4. with your consent, to guarantors if a credit arrangement is guaranteed.
+    2. to a debt collection agency; or
+    3. to identity verification vendors including credit reporting bodies who use your government identifiers (for example your driver’s licence number or passport number), to authenticate your identity for us; or
+    4. with your consent, to other credit providers for the purpose of assessing your application for credit; or
+    5. with your consent, to guarantors if a credit arrangement is guaranteed.
 
 
 
@@ -71,8 +73,6 @@ We will also take adequate measures to ensure that the personal information is h
 
 NFS will only disclose your consumer credit report information to outside persons as permitted by the Privacy Act. Your consumer credit report information will only be disclosed to our Dealers and other third parties with your prior consent. 
 
-Your credit information will not be disclosed to a credit reporting agency for the purposes of assessing an application by you for consumer credit without your prior consent.
-
 Nissan and NFS will take reasonable steps to protect and keep secure the personal information we hold.
 
 **Openness**  
@@ -81,22 +81,27 @@ You may request access to personal information (including your credit informatio
 If at any time you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request amendment of it and we will either amend the information or make a record of your comment, as we think appropriate.
 
 **Marketing and Opting Out**  
-Where we have obtained your consent to do so, or in circumstances where you would reasonably expect that your personal information would be used or disclosed for this purpose, we may contact you from time to time with marketing material about our other products or services, and those of our related entities. We may also share your personal information with our related entities and our dealer network, so that they can provide you directly with marketing material about their products and services.  At any time, you may opt out of receiving this material by contacting us at: 
+Where we have obtained your consent to do so, or in circumstances where you would reasonably expect that your personal information would be used or disclosed for this purpose, we may contact you from time to time with marketing material about our other products or services, and those of our related entities. We may also share your personal information with our related entities and our dealer network, so that they can provide you directly with marketing material about their products and services.  At any time, you may opt out of receiving this material by contacting us at:
 
 Nissan Motor Co (Australia) Pty Ltd  
 Phone: 1800 035 035  
-Email: [csc@nissan.com.au](mailto:csc@nissan.com.au)
+Email: [csc@nissan.com.au](mailto:csc@nissan.com.au)
 
 Nissan Financial Services Australia Pty Ltd  
 Phone: 1800 035 035  
-Email: [nfsa_csc@nissan.com.au](mailto:nfsa_csc@nissan.com.au)
+Email: [nfsa_csc@nissan.com.au](mailto:nfsa_csc@nissan.com.au)
 
 **Questions and Complaints    
-** If you have any questions about this Privacy Policy or believe that we have at any time failed to keep one of our commitments to you to handle your personal information in the manner required by the Privacy Act, then we ask that you contact us immediately using the following contact details:
+**If you have any questions about this Privacy Policy or believe that we have at any time failed to keep one of our commitments to you to handle your personal information in the manner required by the Privacy Act, then we ask that you contact us immediately using the following contact details:
 
 **Nissan Motor Co (Australia) Pty Ltd  
-The Privacy Officer** | **Nissan Financial Services Australia Pty Ltd  
-The Privacy Officer**  
+The Privacy Officer** ****
+
+| 
+
+**Nissan Financial Services Australia Pty Ltd  
+The Privacy Officer** ****  
+  
 ---|---  
   
 Customer Service & Warranty  
@@ -104,16 +109,17 @@ Nissan Motor Co (Australia) Pty Ltd
 Locked Bag 1450  
 DANDENONG SOUTH VIC 3164  
 Phone: 1800 035 035  
-Fax: (03) 9797 4400 
+Fax: (03) 9797 4400
 
-| Nissan Financial Services Australia Pty Ltd 
+| 
 
-Locked Bag 1450  
+Nissan Financial Services Australia Pty Ltd
 
+Locked Bag 1450
 
 DANDENONG SOUTH VIC 3164  
 Phone: 1800 035 035  
-Email: nfsa_csc@nissan.com.au   
+Email: nfsa_csc@nissan.com.au  
   
 We will respond and advise whether we agree with your complaint.  If we do not agree, we will provide reasons.  If we do agree, we will advise what (if any) action we consider appropriate to take in response.  If you are still not satisfied after having contacted us and given us a reasonable time to respond, then we suggest that you contact the Office of the Australian Information Commissioner by:
 
@@ -123,10 +129,10 @@ TIS: Translating and Interpreting Service: 131 450 (If you don’t speak English
 
 Post: GPO Box 2999 Canberra ACT 2601  
 Fax: +61 2 9284 9666  
-Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
+Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
 
 **Nissan Website**  
-In general you can visit the Nissan website without telling us who you are. The amount of information that you provide to Nissan will depend on the range and number of services that you choose to use. Particular sections of the Nissan website may require you to provide Nissan with personal information, such as your name and email address. We will only ask you to provide personal information that is necessary to provide a service to you or if it is necessary by law to collect the information.
+In general you can visit the Nissan website without telling us who you are. The amount of information that you provide to Nissan will depend on the range and number of services that you choose to use. Particular sections of the Nissan website may require you to provide Nissan with personal information, such as your name and email address. We will only ask you to provide personal information that is necessary to provide a service to you or if it is necessary by law to collect the information. 
 
 Nissan Australia uses advertising programs that place cookies on your computer to collect information about your browsing history (including on external websites). This information, which does not identify you personally, is collected in order to improve your online experience by customising the advertising you see to your interests (including the display of more relevant ads on external websites). By using the Nissan website you agree that the internet is not completely secure, and that accordingly we can only use our best endeavours to secure your personal information and cannot provide any definitive assurance regarding security of personal information. Other than liability that cannot lawfully be excluded, Nissan and NFS will not be liable in any way in relation to any breach of security or any unintended loss or disclosure of that information.
 
