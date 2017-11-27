@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the worksheetplace.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksheetplace.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127091410id_/http%3A//www.worksheetplace.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Worksheets
-
-Worksheets
-
-[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=31&link1=31)[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=4&link1=4)[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=52&link1=52)[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=41&link1=41)[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=368&link1=368)[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=43&link1=43)[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=40&link1=40)[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=506&link1=506)[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=241&link1=241)[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=313&link1=313)[](https://web.archive.org/web/20170606171358id_/http%3A//worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=154&link1=154)   
-[](http://worksheetplace.blogspot.com/)[](http://worksheetplace.blogspot.com/)  
-| 
-
-**Privacy and Legals**
 
 USE OF THIS WEBSITE CONSTITUTES ACCEPTANCE OF ITS LEGAL & PRIVACY POLICY
 
@@ -22,9 +14,9 @@ Worksheetplace.com collects and uses personal information for the following iden
 (a) to provide potential users with sample documents, or product and services, or other related information, that they have specifically requested;  
 (b) to develop and provide resources for its users;  
 (c) to communicate with customers, and to inform customers of new resources available from Worksheetplace.com;  
-(d) to identify and resolve technical problems concerning Worksheetplace.com.
+(d) to identify and resolve technical problems concerning Worksheetplace.com. 
 
-Worksheetplace.com also uses personal information in an aggregate form (i.e. not individually attributable to you) for its business analysis, operational, and worksheet development.
+Worksheetplace.com also uses personal information in an aggregate form (i.e. not individually attributable to you) for its business analysis, operational, and worksheet development. 
 
 If we hire other companies to provide some products or services on our behalf, then we will only provide those companies the personal information they need for the identified purposes.
 
@@ -33,18 +25,16 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 Worksheetplace.com warrants that we do not sell, rent, trade or share your personal information to anyone else except:  
 (a) an agent of the user;  
 (b) agents of Worksheetplace.com acting on its behalf for the identified purposes;  
-(c) a third party to which disclosure is required by any law, regulation, legal process or government request.
+(c) a third party to which disclosure is required by any law, regulation, legal process or government request. 
 
-Worksheetplace.com will keep your personal information only for those purposes which are established by law, and for archival record purposes.
+Worksheetplace.com will keep your personal information only for those purposes which are established by law, and for archival record purposes. 
 
 Worksheetplace.com use reasonable efforts to keep user personal information accurate for the identified purposes, and for minimizing the possibility of making inappropriate  decisions based on such information. 
 
-  * Google, as a third party vendor, uses cookies to serve ads on worksheetplace.com. 
+  * Google, as a third party vendor, uses cookies to serve ads on worksheetplace.com.
   * Google's use of the DART cookie enables it to serve ads to my users based on their visit to your sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
 
 Use the Contact Us link below for clarification if needed.
-
-| 
