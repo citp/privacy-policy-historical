@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curiousphotos.blogspot.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518163121id_/http%3A//curiousphotos.blogspot.com/2006/09/privacy-policy-of-curiousphotosblogspot.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curiousphotos.blogspot.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128004334id_/http%3A//curiousphotos.blogspot.com/2006/09/privacy-policy-of-curiousphotosblogspot.html) for the most accurate reproduction.*
 
 # Privacy Policy of curiousphotos.blogspot.com | Curious, Funny Photos / Pictures
 
