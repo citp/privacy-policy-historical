@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presskr.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607034136id_/http%3A//presskr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presskr.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127213432id_/http%3A//presskr.com/privacy) for the most accurate reproduction.*
 
 # Presskr Free Classified Post free Ad | Free Classifieds Ads
 
