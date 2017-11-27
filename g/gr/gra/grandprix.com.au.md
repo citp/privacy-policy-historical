@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120444id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127173844id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Formula 1 Australian Grand Prix
 
@@ -137,29 +137,29 @@ Version 16.1
 
 Reviewed 2 November 2016
 
-  * Supercars Championship to debut at the 2018 Formula 1 Australian Grand Prix 
+  * Luckless Ricciardo ends 2017 with another DNF 
 
-The Australian Grand Prix Corporation (AGPC) announced today that Supercars will now be a round of the Supercars Championship calendar at the 2018... 
+Luckless Daniel Ricciardo was on the wrong end of a double whammy when he was forced to retire from the season-ending Abu Dhabi Grand Prix on... 
 
-[Read More](https://web.archive.org/fan-zone/news/supercars-championship-debut-2018-formula-1-australian-grand-prix "Read More")
+[Read More](https://web.archive.org/fan-zone/news/luckless-ricciardo-ends-2017-another-dnf "Read More")
 
-  * Ferrari divided after triumphant day 
+  * Cool Bottas beats Hamilton in Mercedes one-two 
 
-Kimi Raikkonen’s face told its own story on Sunday when he finished second behind Sebastian Vettel in Ferrari’s one-two triumph at the 75th... 
+A cool-headed Valtteri Bottas survived intense pressure from Mercedes teammate Lewis Hamilton to claim an assured victory in Sunday’s Abu Dhabi... 
 
-[Read More](https://web.archive.org/fan-zone/news/ferrari-divided-after-triumphant-day "Read More")
+[Read More](https://web.archive.org/fan-zone/news/cool-bottas-beats-hamilton-mercedes-one-two "Read More")
 
-  * Vettel seeks to end Ferrari barren run in Monte Carlo 
+  * #AusGP goes back-to-back at RACV Victorian Tourism Awards 
 
-Championship leader Sebastian Vettel will this weekend seek to increase his advantage and inflict a demoralising blow to his rivals by securing... 
+The Australian Grand Prix Corporation is proud to announce the Formula 1® Australian Grand Prix has won the Major Festivals and Events category at... 
 
-[Read More](https://web.archive.org/fan-zone/news/vettel-seeks-end-ferrari-barren-run-monte-carlo "Read More")
+[Read More](https://web.archive.org/fan-zone/news/ausgp-goes-back-back-racv-victorian-tourism-awards "Read More")
 
-  * Breathless Hamilton beams with pleasure after tactical win 
+  * Teams push for points, positions and prize money 
 
-A beaming and breathless Lewis Hamilton paid tribute to his Mercedes team and championship leader Sebastian Vettel after reviving his title bid with... 
+Lewis Hamilton and his Mercedes team will aim to end an already-triumphant season on a high while the chasing pack scrap for points, positions and... 
 
-[Read More](https://web.archive.org/fan-zone/news/breathless-hamilton-beams-pleasure-after-tactical-win "Read More")
+[Read More](https://web.archive.org/fan-zone/news/teams-push-points-positions-and-prize-money "Read More")
 
 
 
