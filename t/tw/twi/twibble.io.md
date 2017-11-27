@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the twibble.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221748id_/https%3A//home.twibble.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twibble.io privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127195323id_/https%3A//home.twibble.io/privacy-policy) for the most accurate reproduction.*
 
-# Twibble Privacy Policy — Twibble
+# Twibble: Powerful Social Media Automation. The easiest way to post to Facebook and Twitter. — Twibble
 
-**Effective: August 31, 2016**
+## Twibble Privacy Policy
+
+ **Effective: August 24, 2014  
+Updated: October 24, 2017**
 
 This Privacy Policy describes the information about you that Twibble, Inc. (“Twibble” or “we”) collects through this website (the “Site”), as well as how that information is used, maintained, and, in some cases, shared. 
 
@@ -12,7 +15,7 @@ Please note that by using this Site, you are accepting the practices described i
 
 The following describes the types of personal and other information we may collect about you, and how we use and maintain that information:
 
- _Registration._   Before you can fully utilize our skills and opportunities matching service (the “Service”), you must register with Twibble by logging in with your Twitter credentials, and by providing us with your email address. ** ** For more information, please see below. We request all of the foregoing information for identification purposes, to communicate with you regarding your account, to collect payment for the Service, and to facilitate the Service. We may keep this information indefinitely.
+ _Registration._   Before you can fully utilize our skills and opportunities matching service (the “Service”), you must register with Twibble by logging in with your Twitter, Inc. ("Twitter") credentials, and by providing us with your email address. ** ** For more information, please see below. We request all of the foregoing information for identification purposes, to communicate with you regarding your account, to collect payment for the Service, and to facilitate the Service. We may keep this information indefinitely. You may optionally choose to grant Twibble access to post on behalf of your various Facebook Page(s) by authenticating your Facebook account with your Facebook credentials ("Facebook").
 
  _Correspondence._ ** ** If you correspond with us through the Site (or via email), we may gather the communications that you submit in a file specific to you. We may keep this information indefinitely.
 
@@ -24,7 +27,7 @@ The following describes the types of personal and other information we may colle
 
 Twibble will not share, rent, sell or otherwise disclose any of the personally identifiable information that we collect about you, except when we have your permission or in any of the following situations:
 
-  * We may disclose to other users of the Service the personally identifiable information about you that we collect and your Profile information, as needed for the proper facilitation of the Service, such as your Twitter account name(s), but _not_  your email address(
+  * We may disclose to other users of the Service the personally identifiable information about you that we collect and your Profile information, as needed for the proper facilitation of the Service, such as your Twitter account name(s) or Facebook account or Facebook Page name(s), but _not_  your email address(
 
   * We may disclose information that we collect about you to unaffiliated third-party contractors, to enable such third parties to perform functions on our behalf in making available the Site and/or the Service or to complete or confirm a transaction that you conduct with us.   
 
