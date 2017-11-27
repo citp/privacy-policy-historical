@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiphero.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180217id_/http%3A//www.shiphero.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiphero.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127020953id_/http%3A//www.shiphero.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Shiphero Ecommerce Warehouse Management System, Mobile Shipping & Inventory |
 
