@@ -1,49 +1,35 @@
-> *The following text is extracted and transformed from the hud.gov privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603191433id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hud.gov privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127113315id_/https%3A//www.hud.gov/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy and Security Statement - HUD
+# HUD.gov / U.S. Department of Housing and Urban Development (HUD)
 
-|  |     
-  
----|---  
-  
-HUD respects your right to privacy and will protect it when you visit our web site. Here are some things you should know about how we protect your privacy. 
+We at HUD.GOV are committed to protecting the privacy and security of our visitors to this website. Outlined below is our online privacy policy. If you have questions about this policy, please let us know. Contact information is contained at the link at the end of this notice.
 
-### Email
+**Collection and disclosure of information:** To ensure we are able to communicate effectively with visitors to our website, we collect some information that can be directly associated with a specific person. We call this "Personal Information," and it includes, by way of illustration, names, addresses, telephone numbers and email addresses. We collect Personal Information from eligible individuals who affirmatively request to receive email or other services from us. We collect this Personal Information in order to provide these eligible individuals with timely information via email regarding events, resources and issues. It is our general policy not to make Personal Information available to anyone other than our employees, staff, and agents.
 
-  1. When you send us email we won't keep or share your email address with anyone outside of HUD staff, its contractors, and other federal representatives necessary to respond to your question. We'll only use your email address to respond to your requests for information. 
-  2. If you sign up for one of our emailing lists, we'll only send you the kinds of information you've requested. We won't maintain your name on the list and won't share your email address with anyone outside of HUD.
-  3. If you use our feature "email a friend," we will use your email address only to let your friend know who sent the web address, so he or she can reply to you.
+**Online Comments and Personal Information:** We treat your name, city, state, and any comments you provide as public information. We may, for example, provide compilations of your comments to national leaders and other individuals participating in our efforts, without disclosing email addresses. We may also make comments along with your city and state available to the press and public online.
 
+Opting out and modifying information: Subscribers to our email list may terminate their subscriptions via a link at the bottom of each email sent from HUD.GOV.
 
+**Browser information collected on the website:** We log IP addresses, which are the locations of computers or networks on the Internet, and analyze them in order to improve the value of our site. We also collect aggregate numbers of page hits in order to track the popularity of certain pages and improve the value of our site. We do not gather, request, record, require, collect or track any Internet users' Personal Information through these processes.
 
-### Information Collection 
+**Cookies:** A cookie is a tiny piece of data stored by a user's browser that helps a website or service recognize that user's unique computer. You can remove or block cookies by changing the settings of your browser. Session specific cookies may be used on HUD.GOV to improve the user experience and for basic web metrics. These cookies expire in a very short time frame or when a browser window closes and are permitted by current federal guidelines.
 
-  1. When you browse, read pages or download information on our website, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below: This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits.    | The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;  
----|---  
-  | The type of browser (e.g., Netscape, Internet Explorer) and operating system (Windows, Unix) used to access our site;  
-  | The date and time you access our site;  
-  | The pages you visit; and  
-  | If you linked to our website from another website, the address of that website.  
-  2. Sometimes we use "cookies," which are small amounts of text stored on your computer. We only use "session cookies" in some places where people can transact business. That means we only store the cookie on your computer during that visit. So, if you are entering information for a business transaction, you won't lose the information if you go to another site and come back during the visit. After you turn off your computer or stop using the internet, the cookie is erased. If you don't want us to put a "cookie" on your computer, just follow [these instructions](https://web.archive.org/assist/cookies.cfm). You will still be able to use the entire web site. 
+Videos that are visible on HUD.GOV are hosted by third parties that may utilize "persistent cookies." Persistent cookies are used by some third party providers to help maintain the integrity of video statistics. These videos are subject to the HUD.GOV linking policy described below. If you would like to view a video without the use of persistent cookies, a link to download the video file is typically provided just below the video.
 
+**Privacy of our email lists:** As noted above, we maintain email lists to keep interested, eligible individuals informed about important topics, and individuals must affirmatively request to join them. We configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone other than those whom we authorize. However, we are not the author of this software, and are not responsible for any failures in the software to preserve subscriber anonymity.
 
+**Children's privacy:** Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulation establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13. It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers.
 
-### Site Security 
+**Security:** We maintain a variety of physical, electronic and procedural safeguards to protect your personal information. For example, we use commercially reasonable tools and techniques to protect against unauthorized access to our systems. Also, we restrict access to Personal Information to those who need such access in the course of their duties for us. Your own efforts to protect against unauthorized access play an important role in protecting the security of your personal information. You should be sure to sign off when finished using a shared computer, and always log out of any site when viewing personal information.
 
-  1. We monitor visits to the web site to identify any attempt to tamper with it. 
-  2. When you submit personal information using our web site-for example, if you sign up for a conference online-we have systems that make sure people outside of HUD cannot access your personal information.
-  3. We would only try to identify you personally when required to do so by a law enforcement investigation. Any information we collect for those investigations is destroyed according to federal guidelines. 
-  4. Tampering with HUD's web site is against the law. If anyone tries to tamper with it, they may be punished under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
+HUD systems are also protected by EINSTEIN cybersecurity capabilities, under the operational control of the U.S. Department of Homeland Security’s United States Computer Emergency Readiness Team (US-CERT). Electronic communications may be scanned to look for network traffic indicating known or suspected malicious cyber activity, including malicious content or communications. Electronic communications may be collected or retained by US-CERT only if they are associated with known or suspected cyber threats. US-CERT will use the information collected through EINSTEIN to analyze the known or suspected cyber threat and help and other agencies respond and better protect their computers and networks. For additional information about EINSTEIN capabilities, please see the EINSTEIN program-related Privacy Impact Assessments available on the DHS cybersecurity privacy website ([http://www.dhs.gov/files/publications/editorial_0514.shtm#4 ](http://www.dhs.gov/files/publications/editorial_0514.shtm#4)) along with other information about the federal government’s cybersecurity activities..
 
+**Linking:** HUD.GOV may contain links to websites created and maintained by other public and/or private organizations. HUD.GOV provides these links as a service to our users. When users link to an outside website, they are leaving the HUD.GOV site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). Be sure to review the HUD.GOV linking policy, which is the same as USA.gov [Linking Policy](http://www.usa.gov/About/Linking_Policy.shtml "USA.gov Linking Policy").
 
+**HUD and Social Media or Third Party Sites:** In addition to HUD's official website on [www.hud.gov](http://www.hud.gov/), HUD uses social media and third party sites to provide HUD content in a different format that may be useful or interesting to you. When we use these sites, the information we provide is consistent with the intended purpose of the HUD website. No personally identifiable information (PII) may be requested or collected from Social Media sites. Please be aware that the privacy protection provided on social media and third party sites that are not a part of the hud.gov domain may not be the same as the privacy protection described here.
 
-###  Links to Other Sites 
+Changes to this policy: We will revise or update this policy if our practices change, or as we develop better ways to keep you informed about them. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date at the bottom. Changes to the policy shall not apply retroactively.
 
-  1. Our website has links to many other web sites. When you go to another site, you are subject to the privacy and security policies of that site. HUD cannot attest to the accuracy of information provided there. 
-  2. Linking to a web site does not constitute an endorsement by HUD, or any of its employees, of the sponsors of the site or the products presented on the site. 
+If you have any questions or concerns, please [contact us](https://web.archive.org/contact).
 
-
-
-If you have any questions, please contact [HUD's Web Manager](https://web.archive.org/utilities/intercept.cfm?mailto:webmanager@hud.gov). 
-
-[  Return to the previous page ](http://www.hud.gov/)  
+[Latest Privacy Incident](https://web.archive.org/privacy)
