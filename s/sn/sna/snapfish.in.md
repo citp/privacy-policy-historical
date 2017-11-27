@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfish.in privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625041213id_/https%3A//www.photojaanic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.in privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128003307id_/https%3A//www.photojaanic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Photojaanic
 
@@ -6,11 +6,13 @@
   
 ---  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.   
+When you download our App we collect device related information pertaining to your mobile phone including, but not limited to, the type of mobile device you use, your mobile device's unique device ID, your mobile operating system, and irrespective of whether you register yourself on the App,   
+When you place an order using our App, you will be required to provide us the your name or recipient's name, address, city, pin code and mobile no. as information.   
   
   
 ##### What do we use your information for? 
 
-Any of the information we collect from you may be used in one of the following ways: To personalize your experience ; To improve our website; To improve customer service ; To process transactions. ; Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. To administer a contest, promotion, survey or other site feature. To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.   
+Any of the information we collect from you may be used in one of the following ways: To personalize your experience ; To improve our Website/App; To improve customer service ; To process transactions. ; Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. To administer a contest, promotion, survey or other site feature. To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.   
   
   
 ##### How do we protect your information?
@@ -27,27 +29,27 @@ We use cookies to help us remember and process the items in your shopping cart, 
   
 ##### Do we disclose any information to outside parties? 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.   
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website/app, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.   
   
   
 ##### Third party links:
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. However, we will not distribute your personal information to outside parties without your consent. All users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'My Accounts' page.   
+Occasionally, at our discretion, we may include or offer third party products or services on our website/app. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. However, we will not distribute your personal information to outside parties without your consent. All users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'My Accounts' page.   
   
   
 ##### Childrens Online Privacy Protection: 
 
-We do not collect any information from anyone under 18 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.   
+We do not collect any information from anyone under 18 years of age. Our website/app, products and services are all directed to people who are at least 18 years old or older.   
   
   
 ##### Online Privacy Policy Only:
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.   
+This online privacy policy applies only to information collected through our website/app and not to information collected offline.   
   
   
 ##### Terms and Conditions:
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [_http://www.photojaanic.com/terms-conditions_](http://www.photojaanic.com/terms-conditions)   
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website/app at [_http://www.photojaanic.com/terms-conditions_](http://www.photojaanic.com/terms-conditions)   
   
   
 ##### Your Consent:
