@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fastfurnishings.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606103805id_/http%3A//www.fastfurnishings.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fastfurnishings.com privacy policy that was archived on 2017-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171127053654id_/http%3A//www.fastfurnishings.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -34,7 +34,7 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.58.0.2387"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.77.0.3035"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -57,10 +57,26 @@
     } (jQuery));
 </script>
 <link type="text/css" rel="stylesheet" href="/a/contentbuilder/assets/default/content.css">
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.58.0.2387"></script>
+<script type="text/javascript" src="../../a/j/paypal-rest-default-buttons.js"></script>
+
+
+<script type="text/javascript" src="/a/j/soft_add.js"></script>
+<link type="text/css" rel="stylesheet" href="/a/c/soft_add.css">
+<script type="text/javascript">
+	var global_Config_EnableDisplayOptionProducts = 'True';
+	var global_Config_ForceSecureShoppingCartPage = true;
+	var global_PageText_OtherItemsAdded = '(All other items have been added to the cart)';
+	var Config_EnableSoftAddToCart = false;
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.77.0.3035"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
+</script>
+
+<script>
+    var reCaptchaPreloaded = false;
+    var reCaptchaInit;
 </script>
 
 
@@ -135,7 +151,6 @@
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/coffee-tables-sofa-end-table-s/45.htm" class="vnav__link">Coffee Tables</a>
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/Console-Sofa-Tables-s/282.htm" class="vnav__link">Console &amp; Sofa Tables</a>
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/tv-stands-s/53.htm" class="vnav__link">TV Stands and Entertainment Centers</a>
-</li><li class="vnav__item"><a href="http://www.fastfurnishings.com/futon-covers-s/57.htm" class="vnav__link">Futon Covers</a>
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/futons-sofa-bed-futon-frame-s/54.htm" class="vnav__link">Futons</a>
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/recliners-lounge-chairs-s/68.htm" class="vnav__link">Recliners and Leather Recliner</a>
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/Bean-Bag-Chairs-Foam-Lounger-s/223.htm" class="vnav__link">Bean Bag Chairs</a>
@@ -417,7 +432,6 @@
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/coffee-tables-sofa-end-table-s/45.htm" class="vnav__link">Coffee Tables</a>
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/Console-Sofa-Tables-s/282.htm" class="vnav__link">Console &amp; Sofa Tables</a>
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/tv-stands-s/53.htm" class="vnav__link">TV Stands and Entertainment Centers</a>
-</li><li class="vnav__item"><a href="http://www.fastfurnishings.com/futon-covers-s/57.htm" class="vnav__link">Futon Covers</a>
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/futons-sofa-bed-futon-frame-s/54.htm" class="vnav__link">Futons</a>
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/recliners-lounge-chairs-s/68.htm" class="vnav__link">Recliners and Leather Recliner</a>
 </li><li class="vnav__item"><a href="http://www.fastfurnishings.com/Bean-Bag-Chairs-Foam-Lounger-s/223.htm" class="vnav__link">Bean Bag Chairs</a>
@@ -768,6 +782,25 @@
 
 
 <script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
+
+  <script>
+     if (document.getElementsByName("MailingList")[0]) {
+        var emailSubscribeForm = document.getElementsByName("MailingList")[0];
+        disableSubscribeSubmit = function() {
+          emailSubscribeButton.removeAttribute("type");
+        }
+        forwardToMailingList = function(e) {
+            var subscribeEmail = emailSubscribeForm.querySelector("input").value;
+          sessionStorage.setItem("subEmailAddress", subscribeEmail);
+          emailSubscribeForm.submit();
+        }
+
+        if (emailSubscribeForm.querySelector("button")) {
+            var emailSubscribeButton = emailSubscribeForm.querySelector("button");
+            emailSubscribeButton.addEventListener("click", forwardToMailingList);
+        }
+    }
+  </script>
 
 
 </body></html>
