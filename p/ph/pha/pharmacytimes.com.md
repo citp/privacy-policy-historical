@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacytimes.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628075126id_/http%3A//www.pharmacytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacytimes.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127174903id_/http%3A//www.pharmacytimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pharmacy Times
 
