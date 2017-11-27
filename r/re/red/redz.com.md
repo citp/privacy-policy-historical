@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redz.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629220539id_/http%3A//dothopadvertise.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redz.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127114403id_/http%3A//dothopadvertise.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
