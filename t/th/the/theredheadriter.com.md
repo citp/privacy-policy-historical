@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theredheadriter.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108214158id_/http%3A//www.theredheadriter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredheadriter.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127030023id_/http%3A//www.theredheadriter.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
