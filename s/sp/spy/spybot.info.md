@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spybot.info privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129092928id_/https%3A//www.safer-networking.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spybot.info privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128111326id_/https%3A//www.safer-networking.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Spybot Anti-malware and Antivirus
 
@@ -21,3 +21,5 @@ Any information you provide will be used only to help us support you, and in cas
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Safer-Networking Ltd. uses cookies to help Safer-Networking Ltd. identify and track visitors, their usage of Safer-Networking Ltd. website, and their website access preferences. Safer-Networking Ltd. visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Safer-Networking Ltd’s websites, the drawback of doing this is that certain features of Safer-Networking Ltd’s websites may not function properly without the aid of cookies.
 
 Although any Privacy Policy Changes changes are likely to be minor, Safer-Networking Ltd. may change its Privacy Policy from time to time, and in Safer-Networking Ltd’s sole discretion. Safer-Networking Ltd. encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+(Visited 4,577 times, 3 visits today)
