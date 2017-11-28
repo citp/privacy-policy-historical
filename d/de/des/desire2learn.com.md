@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126202345id_/https%3A//www.d2l.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128140029id_/https%3A//www.d2l.com/legal/privacy) for the most accurate reproduction.*
 
 # D2L Privacy Statement | D2L
 
@@ -10,17 +10,17 @@ This Privacy Statement applies to personal information collected (1) at D2L Web 
 
 If you were given access by an Organization as an enterprise user or as a parent or guardian of an enterprise user, this Privacy Statement does not affect or control the Organization’s collection, use or disclosure of your information. You should contact your Organization to find out its practices regarding your personal information.
 
-## Consent to D2L Processing Information about You
+## Consent to D2L Processing Information about You
 
 “Personal information” is information that can be used to specifically identify you or is associated with any such information, such as your name, email address, mailing address, and so forth. This Privacy Statement does not apply to information we collect in the aggregate. Aggregated information does not identify you as an individual.
 
 By providing any Personal Information to us or sharing Personal Information with others (including sensitive information) you are expressly and voluntarily accepting the terms and conditions of this Privacy Statement and any applicable user agreement (including an end user license agreement or service agreement) that allows us to process Personal Information about you. When you provide information, that information may reside on our or our service providers’ systems. You understand and agree that Personal Information collected through Brightspace offerings and D2L Web sites may be stored and processed by us, our affiliates or our service providers in Canada, the United States, Australia or other countries, including countries other than your country of residence; the laws of the jurisdiction in which the information is stored and processed will apply to its storage and processing.
 
-## Collection of Personal Information
+## Collection of Personal Information
 
 We may collect personal information from you in the following ways:
 
-### Registration and Customer Support
+### Registration and Customer Support
 
 In order to access some Brightspace offerings, you may be asked to create an account which will require you to provide us with information that may include your name and email address and other Personal Information. Certain Brightspace offerings enable you to provide additional information voluntarily. Providing information beyond what is required at registration is up to you, but providing such information may enable you to derive more benefit from Brightspace offerings.
 
@@ -28,7 +28,7 @@ We may collect Personal Information about you if your Organization has contracte
 
 We may collect Personal Information about you if you contact us by email or for support for a Brightspace consumer offering.
 
-### Web Sites, eCommerce and Other Marketing Initiatives
+### Web Sites, eCommerce and Other Marketing Initiatives
 
 At some D2L Web sites, we ask you to provide Personal Information, such as your email address, name, employer name, home or work address, or telephone number. We may also collect demographic information, such as your postal or zip code, gender, age, preferences, interests and favorites.
 
@@ -42,11 +42,11 @@ When you post information to one of our communities, you share your profile info
 
 When you post a comment on our company blog, you share information within your comment, along with the name you provide, with the general public.
 
-### Cookies and Web Beacons
+### Cookies and Web Beacons
 
 Like most web sites, we use technologies, such as cookies and web beacons, to collect information about the pages you view, the links you click and other actions you take in using Brightspace offerings and D2L Web sites. More information regarding our use of cookies can be found here: <https://www.d2l.com/legal/cookies-policy/>.
 
-### Information Collected by Your Organization or Third Parties
+### Information Collected by Your Organization or Third Parties
 
 If you are an enterprise user, your Organization may collect information on its own through the use of Brightspace offerings. Collection and use of information in this way is governed by the privacy policies of your Organization.
 
@@ -54,9 +54,9 @@ If you are an enterprise user, your Organization may collect information on its 
 
 We use tools to help us analyze how Brightspace offerings and D2L Web sites are used, and to help us develop and optimize our Brightspace offerings and D2L Web sites. We also use Google Analytics to improve our offerings and our Web sites. See <http://www.google.com/analytics/terms/us.html> for more information about Google Analytics.
 
-## Use of Personal Information
+## Use of Personal Information
 
-### How We Use Your Information
+### How We Use Your Information
 
 We use your information to operate and improve Brightspace offerings and D2L Web sites. These uses include providing you with more effective customer service, making Brightspace offerings easier to use by eliminating the need for you to repeatedly enter the same information, performing research and analysis aimed at improving Brightspace offerings and D2L Web sites, and displaying content and advertising that are customized to your interests and preferences.
 
@@ -80,7 +80,7 @@ We may communicate with you through email or other means available through a Bri
 
 If you sign up for webinars, product trials, newsletters, our annual FUSION global conference, contests or other marketing initiatives through the D2L Web sites, employees of D2L may contact you with information about Brightspace offerings and promotions that may be of interest to you. We may offer Webinars, product trials, conferences and events, contests or other marketing initiatives with certain partners; in such cases, the information you submit upon sign-up is shared with the relevant partner(s).
 
-### Sharing Your Information with Third Parties
+### Sharing Your Information with Third Parties
 
 We may share your information with third parties who are not our partners or service providers only in the following situations:
 
@@ -91,13 +91,13 @@ We may share your information with third parties who are not our partners or ser
 
 Except as part of the sale of all or substantially all of our assets, we will not sell, trade, or rent your Personal Information to third parties who are not our partners or service providers unless we have your consent.
 
-### Information You Share With Other Users
+### Information You Share With Other Users
 
 Brightspace offerings may enable you to share information with or send communications to other users or the general public. You (or, if you are an enterprise user, your Organization) may select the other users with whom you share or to whom you send this information. Once you share information with or send information to other users, however, those other users may share your information at their discretion.
 
-## Your Options for Your Personal Information
+## Your Options for Your Personal Information
 
-### Accessing and Correcting Your Personal Information
+### Accessing and Correcting Your Personal Information
 
 We offer users the ability to access or correct information we collect during registration or which they have provided in using Brightspace offerings. Users may correct this information at any time and as often as necessary by using the features provided within the applicable Brightspace offering. To access or correct Personal Information collected by us that is not available through a Brightspace offering, please contact us at the address listed below. We will respond within a reasonable timeframe of receiving your request or as otherwise required by law.
 
@@ -105,7 +105,7 @@ We may decline to provide you with access to, or to change, your Personal Inform
 
 If you are an enterprise user, you should contact your Organization for questions about access to the Personal Information collected by your Organization.
 
-### User Opt-Out Option and Retention of Your Information
+### User Opt-Out Option and Retention of Your Information
 
 You may opt out of receiving promotional information from us by following the unsubscribe procedures indicated in promotional information you receive.
 
@@ -129,19 +129,19 @@ You are responsible for keeping any passwords secret to prevent unauthorized acc
 
 If you are an enterprise user, your Organization is responsible for ensuring that the system is configured to properly restrict access to information in accordance with its own privacy statement or policy, and that anyone with access to that information is covered by its privacy statement or policy.
 
-## Protection of Children’s Personal Information
+## Protection of Children’s Personal Information
 
 If you are an enterprise user, your Organization may collect information on its own through the use of Brightspace offerings. Collection of information in this way is at your Organization’s discretion and is governed by the privacy policies of your Organization. Brightspace offerings contain configuration options that your Organization may use to align the Brightspace offerings with Organization policies.
 
 We do not knowingly collect any Personal Information from individuals under the age of 13 through D2L consumer offerings or D2L Web sites. The D2L Web sites are general audience Web sites.
 
-## European Union Data Protection
+## European Union Data Protection
 
 To the extent that we store data in the United States, we and our service providers comply with the U.S.-EU Safe Harbor Framework principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries.
 
 If you reside in the European Union, upon registration for any applicable Brightspace offering you consent that the Personal Information you have provided may be transferred and stored in countries outside the EU.
 
-## How to Contact Us
+## How to Contact Us
 
 We commit to the resolution of questions or concerns about your privacy and our collection or use of your Personal Information.
 
