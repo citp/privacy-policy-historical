@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northseattle.edu privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627204539id_/http%3A//www.seattlecolleges.com/DISTRICT/includes/privacy/privacyCIS.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northseattle.edu privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128054242id_/http%3A//www.seattlecolleges.com/DISTRICT/includes/privacy/privacyCIS.aspx) for the most accurate reproduction.*
 
 # Seattle Colleges
 
