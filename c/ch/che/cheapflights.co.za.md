@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.co.za privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627204728id_/https%3A//www.cheapflights.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.za privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128181754id_/https%3A//www.cheapflights.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -112,7 +112,7 @@ Our site or apps may, from time to time, contain links to and from the websites 
 
 ## Access to information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. You can exercise your right by contacting us support@cheapflights.freshdesk.com Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. You can exercise your right by contacting us using our [feedback form](https://web.archive.org/contact-us/). Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ## Log Files and Tracking
 
