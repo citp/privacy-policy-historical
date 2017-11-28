@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refme.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609050354id_/http%3A//www.citethisforme.com/extras/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refme.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128054412id_/http%3A//refme.com/extras/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
