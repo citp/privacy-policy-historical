@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tbrfootball.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530140914id_/http%3A//tbrfootball.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbrfootball.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128021404id_/http%3A//tbrfootball.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | The Boot Room
+# Privacy Policy - The Boot Room
 
 *****Please read all of this Privacy Policy as well as the Terms and Conditions very carefully prior to commencing use of this web site and on each and every occasion that you use this web site in the future to check for updates.**
 
