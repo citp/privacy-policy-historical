@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivrose.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103928id_/http%3A//www.ivrose.com/fs/privacy-policy-pc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivrose.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128022310id_/http%3A//www.ivrose.com/fs/privacy-policy-pc) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,3 +75,7 @@ We will not sell your personal information to others. Only under the following s
 We reserve the right to modify this privacy statement from time to time. We will inform you beforehand and allow you to provide feedback on the revised policy.
 
 Last updated: July 27, 2016.
+
+### ADVANCER LTD
+
+Third Floor 207 Regent Street W1B 3HH UK
