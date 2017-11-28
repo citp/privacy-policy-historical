@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiongroup.co.ug privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160517id_/http%3A//visiongroup.co.ug/new/wp_testing/%3Fp%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiongroup.co.ug privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128082051id_/http%3A//visiongroup.co.ug/new/wp_testing/%3Fp%3D1) for the most accurate reproduction.*
 
 # Privacy Policy – VISION GROUP
 
