@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sherwin.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116165119id_/http%3A//privacy.sherwin-williams.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherwin.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128045515id_/http%3A//privacy.sherwin-williams.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,4 +45,4 @@ Enterprise Risk Management
 
 Cleveland, OH 44115
 
-E-mail: [Global Privacy Portal](https://sherwinwilliams.ethicspointvp.com/custom/sherwinwilliams/web/dp/form_data.asp?SourceName=http://generalpolymers.com/)
+E-mail: [Global Privacy Portal](https://sherwinwilliams.ethicspointvp.com/custom/sherwinwilliams/web/dp/form_data.asp?SourceName=test)
