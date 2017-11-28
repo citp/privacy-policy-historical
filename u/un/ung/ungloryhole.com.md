@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ungloryhole.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622153130id_/http%3A//ungloryhole.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungloryhole.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128185341id_/http%3A//ungloryhole.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
