@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fontsmarket.com privacy policy that was archived on 2017-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170530121726id_/http%3A//www.fontsmarket.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fontsmarket.com privacy policy that was archived on 2017-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171128160446id_/http%3A//www.fontsmarket.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -70,6 +70,8 @@
                         <li><a href="/contact-us" id="services">Contact Us</a></li>
                         <!--li><a href="contactus.html" id="contactus">Upload Fonts</a></li-->
                     </ul>
+
+                    
                     <form role="search" class="navbar-form navbar-left form-inline" action="/font-search" method="get">
 
 
@@ -81,6 +83,7 @@
 
 
                     </form>
+
                 </div>
             </div>
         </div>
@@ -164,14 +167,17 @@
         <div class="row">
             <div class="col-md-12 search-download">
                 <div class="form-group form-inline">
-                    <form name="keyword-form" id="keyword-form">
+
+                    <form name="keyword-form" id="keyword-form" action="/font-search">
                         <div class="row">
 
                             <div class="col-md-3"><span class=" search-download-label">Search Fonts To Download:</span></div>
-                            <div class="col-md-7"> <input id="keywords" type="text" placeholder="Enter Your Keyword" class="form-control search-download-input" name="keywords"> </div>
-                            <div class="col-md-2"><input type="submit" value="Search" class="form-control search-download-button"></div>
+                            <div class="col-md-7"> <input id="keywords" type="text" placeholder="Search FontsMarket.com" class="form-control search-download-input" name="search"> </div>
+
+                                                        <div class="col-md-2"><input type="submit" value="Search" class="form-control search-download-button"></div>
                         </div>
                     </form>
+
                 </div>
             </div>
         </div>
@@ -289,12 +295,7 @@
     $(function(){
         $(function () { $('[data-toggle="tooltip"]').tooltip()})
     });
-
-    $( "#keyword-form" ).submit(function( event ) {
-        window.location = "//font-keywords/"+$('#keywords').val();
-        event.preventDefault();
-    });
-
+    
 </script>
 
 </body></html>
