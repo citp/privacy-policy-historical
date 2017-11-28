@@ -1,63 +1,100 @@
-> *The following text is extracted and transformed from the instant-guru.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328021954id_/http%3A//instant-guru.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instant-guru.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128183748id_/http%3A//realfreedominc.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 PRIVACY POLICY
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
+**Your privacy is very important to us. We want to make your experience with our company as enjoyable and rewarding as possible, and we want you to use our vast array of information, tools, and opportunities with complete confidence.**
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
+This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-**Personal Information Our Company Collects and How It Is Used**
+“You” or “Your” means you as a participant in or as a user of a Real Freedom Inc website. “We” or “Our” or “Us” means Real Freedom Inc. “Our site” means realestatemogul.com or any of our other websites on which you found this privacy policy.
 
-Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below. 
+All information transmitted, printed or otherwise submitted to Real Freedom Inc via this website shall be deemed to be the property of Real Freedom Inc and Real Freedom Inc shall be free to use such information for any lawful purpose as detailed herein.
 
-Registration:  Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. 
+This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites. We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
 
- However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. 
+**Section 1: Collected Information**
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services. 
+We automatically collect and/or track the following:
 
-Our Company Partners and Sponsors:  Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature. 
+  * Webpage http headers (home server domain names, IP address, type of client computer, and type of Web browser);
+  * information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;
+  * information, user specific or aggregate, on what pages our visitors access; and
+  * E-mail addresses of visitors who communicate with Real Freedom Inc via e-mail.
 
-Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered. 
 
-Online Shopping:  At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. 
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. 
+**Section 2: Use of Data Collected**
 
-If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes (both via email and through using your email address for targeting on sites such as Facebook.com), and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails, display and native advertising or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
-Online Advertisements:  Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. 
+**Section 3: Disclosure of Data to Third Parties**
 
-Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
+If you choose to provide personal information, it will be used for the following purposes:
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party. 
+  * considering you for a Real Freedom Inc product;
+  * as required by law; and
+  * for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
 
-Voluntary Customer Surveys:  We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. 
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-Special Cases:  It is our company's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. 
+**Section 4: Your Opt-Out Rights**
 
-However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members. 
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATrealfreedomincDOTcom (Please replace “AT” with @ and “DOT” with .)
 
-"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. 
+**Section 5: We Do Not Intend to Collect Data from Children**
 
-If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. 
+The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside Real Freedom Inc. No part of Real Freedom Inc’s website is structured to attract anyone under the age of 18.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
+**Section 6: Our Right to Contact You**
 
-Our Company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
+We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO. 
+**Section 7: Our Right to Change**
 
-Public Forums:  Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
+We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
-Our Company's Commitment to Data Security:  Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
+**Section 8: Our Contact Information**
 
-Where to Direct Questions About Our Privacy Policy:  If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATdigitalmarketerDOTcom (Please replace “AT” with @ and “DOT” with .)
 
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
+**Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
 
-© 2012 **Real Freedom, Inc.**
+Real Freedom Inc is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from Real Freedom Inc in the following circumstances:
+
+  * Acknowledging your application has been received and requesting additional action
+  * Requests for additional information to support your current application
+  * Response to your inquiries regarding the status of your transactional requests
+  * Thanking you for your valued business
+  * Advertisements for our products, services, changes in services, new product availability
+  * Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
+
+
+
+**Section 10: Information for ISPs**
+
+Real Freedom Inc  
+2637 E Atlantic Blvd #18591  
+Pompano Beach, Florida 33062  
+United States  
+supportATrealfreedomincDOTcom  
+(Please replace “AT” with @ and “DOT” with .)
+
+Real Freedom Inc understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns you may have regarding our email policies. Real Freedom Inc and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. Real Freedom Inc email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
+
+From time to time, Real Freedom Inc will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,
+
+  * that the data was collected voluntarily from individuals on website registrations and co-registrations,
+  * that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and
+  * that Real Freedom Inc has the right to send marketing offers to the individuals.
+
+
+
+We hope this information satisfies any questions or concerns you may have regarding the email practices of Real Freedom Inc. If you have additional questions or wish to discuss this matter further, please contact us at: supportATrealfreedomincDOTcom (Please replace “AT” with @ and “DOT” with .)
+
+**Copyright and License  **
+
+This "Privacy Policy" is © 2008-2017 by Real Freedom Inc   888-886-8575, 2637 E Atlantic Blvd #18591 Pompano Beach, FL 33062 
+
+© 2017 **Real Freedom, Inc.**
