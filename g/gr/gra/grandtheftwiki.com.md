@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grandtheftwiki.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164210id_/http%3A//www.grandtheftwiki.com/Grand_Theft_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandtheftwiki.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128170852id_/http%3A//www.grandtheftwiki.com/Grand_Theft_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
-# Grand Theft Wiki:Privacy Policy - Grand Theft Wiki, the GTA wiki
+# Grand Theft Wiki:Privacy Policy - Grand Theft Wiki
 
   
 Grand Theft Wiki is a public website, meaning that most of its information can be accessed by anybody. Certain information (such as a user's personal details) is not accessible by unauthorised users. 
