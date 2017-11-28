@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topmommyblogs.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054801id_/http%3A//www.blognation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topmommyblogs.org privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128154811id_/http%3A//www.blognation.com/privacy-policy) for the most accurate reproduction.*
 
 # Blog Nation
 
@@ -7,10 +7,6 @@
 **Effective Date: 12-09-12**
 
 Blog Nation, owned by Reach Network, Inc., takes your privacy seriously. Please read the following to learn more about our Privacy Policy. If you have any questions about Blog Nation’s information collection practices, email us at [info@blognation.com], or contact us at 123 Lake Street S., Suite B-1, Kirkland, Washington.
-
-Blog Nation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), 
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally though its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regaurding our privacy policy or practices, please contact us at info@blognation.com. If you are not satistified with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 #### WHAT THIS PRIVACY POLICY COVERS
 
