@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kathyssavings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031855id_/http%3A//lifewithkathy.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kathyssavings.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128082002id_/http%3A//lifewithkathy.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
