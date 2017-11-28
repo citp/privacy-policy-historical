@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nydj.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602153001id_/http%3A//www.nydj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nydj.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128033242id_/http%3A//www.nydj.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NYDJ
 
@@ -82,4 +82,4 @@ We also offer FREE ground return shipping on returns and exchanges* and provide 
 
 *Free shipping, exchanges, and returns are offered to orders shipping within the United States.
 
-Keep an eye out for your 10% off coupon in your email!
+Keep an eye out for you $15 off coupon in your email!
