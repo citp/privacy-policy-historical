@@ -1,109 +1,62 @@
-> *The following text is extracted and transformed from the site-reference.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154733id_/http%3A//www.site-reference.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site-reference.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128203110id_/http%3A//www.site-reference.com/privacy-policy) for the most accurate reproduction.*
 
-# Site-Reference.com Privacy Policy
+# Privacy Policy
 
-Site-Reference.com Privacy Policy
+**1\. Information Collection**
 
-**Personal Information Policy**
+GMG or third parties may collect information from our users at several different points on Kinja.
 
-**Our Commitment**
+  * Mailing Lists & Service Emails – GMG may launch a mailing list in order to provide subscribers with relevant information or content – breaking news, or weekly or daily round-ups, for example. In order to sign up to receive regular emails from a site’s mailing list, users must submit information including a valid Kinja username and/or email address and may submit demographic information such as location and interests. This information may be used in aggregate form by GMG or its third party service providers in order to assess general user interest in various internal and third party products and services. Your personal and contact information may be passed to GMG’s third party service providers. GMG and its third party service providers may from time to time track how users interact with the emails we send in a continued effort to improve our services. Users who choose to sign up for a mailing list may receive regular emails from the site, consisting of content from the site in question and/or content from third party sponsors. Since editorial independence is critical to us, you can be sure that we will always mark sponsored content as such, including in emails. If you do not wish to receive emails from third party advertisers, please do not sign up for the mailing list.
+  * Comment Service and Account Information – In order to further enhance the user experience, GMG allows users to comment on some or all of Kinja sites, enabling users to discuss and contribute to topics posted to those sites. Users have the option of signing up for this service, and to do so must either submit some valid information or set up an anonymous account. GMG uses this information to screen out users who leave comments prohibited by our[ Terms of Use](https://legal.kinja.com/kinja-terms-of-use-1793094100), to make notifications to users when necessary, to pick out topics of interest to commenters, and in certain circumstances to create a Kinja “page” for each such user where such user’s contributions are collected. You may link your account to certain third party services and to do so, may be required to provide your login information for those services. If you login via a third party service, we will receive an identifying token from that service, which will allow us to access some information from your account on that service, so that we can, for example, send you a message through that service. GMG does not receive or store passwords from your third party service and will not pass information provided when you register via a third party service to any other organization except to GMG’s third party service providers or in aggregate form.
+  * Cookies – GMG or third parties may use cookies, web beacons, HTML5 local storage, JavaScript, and other similar technologies to help us understand how you use the Services and help us provide the Services and advertising to you.
+  * A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once the user closes the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following the user’s internet browser help file directions. We store a cookie on each user’s machine that contains user specific information. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Services that require you to “sign in,” and you may not be able to take full advantage of all offerings. However, not all Services require that you accept cookies. Use of the Services and emails we send may execute code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g. Outlook, Outlook Express). Please see your email client for more information.
+  * Links – Kinja contains links to other sites, including third party payment processors, like Stripe (see “Payments” section below) and affiliate marketing links encoded by third parties. Such third parties do not collect any personally identifiable information unless you visit the referenced site. Please be aware that GMG is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by GMG through Kinja.
+  * Payments –If you choose to purchase a product via our site’s green “buy (powered by Stripe)” buttons, some special terms apply. Payments are handled by a third party payment processor, Stripe (Stripe Financial Services) and Stripe’s own terms and privacy policy [<https://stripe.com/us/privacy>] will govern your transaction. We do not process, record or maintain your credit card, bank account or payment information, though Stripe and/or the merchant may provide us with some data relating to your order, such as what you purchased and how much you spent, etc. We expressly disclaim any and all liability related to your use of the Stripe system, including its privacy practices. We are not responsible for any fulfillment of product that you purchase from merchants or any issues relating to such product(s) or customer service.
+  * Embedded Content — You should also be aware that some content delivered through Kinja originates with another content provider. Such other content providers may place “cookies” on your computer, or otherwise gather information about you, including by asking you to provide information through the content player itself. Again, it is up to you to review the terms of use and privacy policy of the originators of such content.
+  * Data that we collect may be shared with our prospective and actual business partners, advertisers, and other third parties for business purposes. Other than names and email addresses provided at your discretion, we don’t generally collect any “Personally Identifying Information” about our users (such as social security number, telephone number, street address, drivers license number, etc.). However, we may offer you the opportunity to submit other information about yourself (such as gender, age, occupation, hobbies, interests, zip code, etc.), which would then also be covered by this Privacy Policy.
+  * Log Files – Like most standard website servers we use log files to log certain information about how you use Kinja. This information may be stored on third party servers, and may be used by GMG or its third party service providers in order to provide site personalization and assess general user interest in various internal and third party products and services. We do not, however, collect IP addresses or log IP address information.
+  * We do not respond to web browser “do not track” or other related mechanisms at this time.
 
-It is our commitment to maintain the principles of integrity and trust with respect to the protection of personal information. As part of our commitment, we will protect the privacy of personal information of employees, clients, customers and others individuals whose personal information we collect, use and disclose. We are committed to complying with Wyoming's _Personal Information Protection Act_ (the "Act") and all other applicable privacy laws.
 
-**Definitions**
 
-**“business contact information”** means information that enables an individual to be contacted at work, including his/her name, title, business address, business telephone number, fax number and e-mail address.
+**2\. Advertising  
+**
 
-**“employee personal information”** means personal information about an employee that is collected used or disclosed solely for the purposes reasonably required to establish, manage or terminate an employment relationship, but does not include other personal information about the employee. 
+  * Ad Serving – The ads appearing on these websites are delivered to you by a web advertising vendor and/or by GMG’s own proprietary advertising delivery software. In order to serve ads to you, we may use information collected during your searches or visits to our websites and information that we specifically acquire from third parties.
+  * Advertising and Cookies – Some of our third party advertising partners may distribute cookies to users in advertisements that are provided to us. GMG has no access to or control over these cookies once we have received the advertisements. Some of these advertisers and services we use to deliver advertising may be engaging in online behavioral advertising as defined by the Digital Advertising Alliance and FTC.
+  * Affiliate Advertising – We participate in affiliate advertising and allow affiliate links to be encoded on some of our pages. This means that we may earn a commission when you click on or make purchases via affiliate links and affiliate partners may use cookies to understand your use of the Services.
+  * GMG does not provide any Personally Identifiable Information to third-party advertising companies. Note, however, that if an advertiser asks GMG to show an advertisement to users with certain characteristics (for example, women ages 18-24) or a segment of that group (for example, women ages 18-24 who have viewed certain categories of content) and you respond to that advertisement, the third-party advertising company may conclude that you have the characteristics of the audience that they are trying to reach.
+  * Opt-out – As part of our commitment to transparency and your privacy, we provide the following links to opt-out of cookies provided by both our first party ad server and many third party advertising partners who may be engaging in online behavioral advertising:
+  * First Party Opt-out – Please visit this link to opt-out of cookies from our first party ad serving vendor, Google: <http://www.google.com/privacy/ads/>; Third Party and Online Behavioral Advertising Opt-out – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers: <http://www.aboutads.info/choices/>.
 
-**“personal information”** means any information that personally identifies an individual, but does not include business contact information or work product information.
 
-**”work product information”** means information prepared or collected by an individual or group of individuals as part of their employment or business responsibilities or activities related to their employment or business. 
 
-**Responsibility**
+**3\. Business Transitions**
 
-We are responsible for all personal information under our control, even if it is not in our possession. We have developed policies and procedures to deal with the proper collection, use and disclosure of personal information. We have appointed the following person to answer any questions or to handle requests for access to personal information or complaints: 
+In the event GMG goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
-**Site Reference  
-388 West 7th Ave  
-Eugene Or 97401  
-Email: darin@site-reference.com**
+**4\. Contests, Sweepstakes, and Promotions**
 
-**Purposes**
+From time to time you may be able to participate in contests, giveaways, sweepstakes or other similar promotions that we or third parties may sponsor. Participation may require sharing your personal information with us or third parties sponsoring the contest, giveaway, sweepstakes or promotion, and you should check the rules to determine how your information will be used and shared with others. GMG may announce specific rules in connection with any such opportunity, but regardless of whether specific rules are announced, all such opportunities will be controlled by GMG’s “Contest Guidelines” set forth at [Contest Guidelines](http://legal-supplemental.kinja.com/contest-guidelines-effective-february-3-2016-1750917548#_ga=1.226289881.290498954.1479140661). Any rules announced at the time of a contest will be in addition to the Contest Guidelines. In addition, as a condition to receiving any awards or prizes, you may be required to provide additional information, to sign a release, or to authorize the use of certain information about you in marketing materials. If a third party administers the contest, your participation may be subject to additional terms and conditions and that third party’s privacy policy. We are not responsible for such third parties. You should carefully review the Contest Guidelines and these third parties’ terms and conditions before deciding whether to participate in a contest publicized through the Service.
 
-We collect personal information for the following purposes:
+**5\. Legal Disclaimer**
 
-• to individualize your experience on our website;   
-• to communicate separately with you;   
-• to facilitate your movements throughout our website;   
-• to be able to selectively send you communications that may be of interest to you, either electronically or otherwise;  
-• other
+Though we make every effort to preserve user privacy, GMG may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on GMG or affiliates. If we’re going to turn over information related to you, we will use commercially reasonable efforts to provide you with advance notice, unless we are prohibited from doing so by law or court order.
 
-**Consent**
+**6\. Information Security**
 
-We require the consent of individuals to collect, use or disclose personal information. Unless required by law or otherwise authorized by the Act, we will not use or disclose personal information already collected for other purposes unless we obtain the consent of the individual to whom it belongs. Generally, we will seek consent to use and disclose personal information at the same time as we collect the information. We will affirmatively ask to join our mailing lists using the forms provided on this website or other means expressly sanctioned by us.Subject to contractual or legal arrangements, you may withdraw or refuse consent provided that we are given reasonable notice. We will inform you of the consequences of withdrawing your consent, if any.
+GMG has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of user information we maintain. Under our security practices and , access to personally identifiable information is authorized only for those who have a business need for such access, and sensitive records are to be retained only as long as necessary for business or legal needs and destroyed before disposal. Although we work hard to protect personal information that we collect and store, no program is one hundred percent secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information.
 
-**Unsubscribe Policy**
+ If you become aware of a security issue, please email us at legal [at] gizmodomedia [dot] com. We will work with you to address any problems.
 
-We strive to only send e-mails to those who want to receive it. If you would not like to receive future e-mails from us, please click on the link at the bottom of every email that you receive. You will be immediately unsubscribed from further mailings. If you have difficulty with this feature, simply reply to the email and add "Unsubscribe" to the subject line. We will be sure to remove your address.
+**7\. Notification of Changes**
 
-**Collection**
+Whenever GMG changes its privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. The prior version of our Privacy Policy is found [here](https://legal-supplemental.kinja.com/privacy-policy-1750920278) (the version before that is found [here](https://legal-supplemental.kinja.com/privacy-policy-90190742)) and more on why we’ve made the most recent changes [here](https://legal.kinja.com/privacy-policy-update-explainer-1793095053). You are responsible for reviewing and becoming familiar with any changes to this agreement.
 
-We will only collect personal information for the purposes we have identified above and that are reasonable in the circumstances. We will only collect personal information through methods that are lawful, will not collect information indiscriminately and will try to collect personal information directly from the individual concerned unless authorized by that individual to collect it from a third party or otherwise as permitted by the Act. Depending on how you have configured your browser, when you access our website, a small file - a “cookie” - may be created by our server and stored on your computer. The cookie contains a unique session identification number and is used to:
+**8\. Contact Information**
 
-• keep track of your online order;  
-• ensure that you see the correct products and pricing applicable to the province in which you are located;   
-• personalize your experience by alerting you to features and information that might interest you;  
-• A cookie cannot be used to access or otherwise compromise the data on your hard drive. 
+If you have any questions or suggestions regarding our privacy policy, please contact legal [at] gizmodomedia [dot] com, or by mail to Legal Department, 114 Fifth Avenue, 2nd Floor, New York, NY, 10011.
 
-If you arrive at our website with your browser configured to disable cookies, you will not be identified until you register and sign-in. Please be advised that cookies may be required to complete certain functions on this website, such as making purchases or placing orders at our online store.
+**9\. Last Update**
 
-**Aggregate Information**
-
-We collect certain aggregate information, such as tracking the Internet address of the domains from which you visit our site and analyzing this data for trends and statistics, tracking your IP address (the number that is automatically assigned to your computer when you are using the Web), and tracking your browser type. We use this aggregate information to help diagnose problems with our servers, to administer our website, and to gather broad demographic information. None of this information is connected with your personal information. We may also generate non-identifying and aggregate profiles from personal information provided during registration (such as the total number, but not the names, of clients).
-
-**Use of IP Addresses**
-
-An IP address is a number that is automatically assigned to your computer whenever you're surfing the Internet. Web servers automatically identify your computer by its IP address. We may collect IP addresses for the purposes of system administration, to report aggregated information to our advertisers, and to audit the use of our website. When clients request pages from our website, our servers log the requesting clients' IP addresses. We normally will not link IP addresses to anything personally identifiable, which means that clients' sessions will be logged, but client identity remains anonymous to us. We can and will use IP addresses to identify a client when we feel it is necessary to enforce compliance with our rules or terms of service or to protect our service, website, or any person, or where it is otherwise authorized or required by law.
-
-**Use, Disclosure and Retention**
-
-We will only use or disclose personal information for the purpose(s) for which it was collected. We may disclose the personal information to:
-
-(i) a person who in our reasonable judgment is seeking the information as an agent of the individual;  
-(ii) a company or individual engaged by us to perform functions on its behalf, such as research or data processing;  
-(iii) a credit reporting agency;  
-(iv) a public authority or agent of a public authority, if in our reasonable judgement, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information; or   
-(v) where you consent to such disclosure or it is required or authorized by law. We may use and disclose employee personal information for a variety of purposes related to commencing, managing or terminating the employment relationship. We do not sell, rent, loan, trade, or lease any personal information collected at our site, including contact forms, download requests or email lists. We will retain personal information only as long as necessary to fulfil the purposes stated above, as required for legal or business purposes or as required by law. Subsequently, we will destroy, erase, or make anonymous such information. However, we will retain for at least one year personal information that has been used to make a decision about a client, customer or employee. 
-
-**Accuracy of Personal Information**
-
-We will make reasonable efforts to ensure that personal information in our control is accurate and complete. You may request corrections to your personal information. If your request for a correction is rejected by us, we will make a notation of such request and rejection on your file or personal information.
-
-**Safeguarding Personal Information**
-
-We will protect personal information in your control against risks of loss, theft, unauthorized access, disclosure, copying, use, modification or destruction by security safeguards that are appropriate to the sensitivity and format of the information. 
-
-**Access**
-
-Upon reasonable written notice from you, we will, within 30 days or such longer period in the event we obtain an extension, provide access to all your personal information in our possession and tell your what the information is being used for and to whom it has been disclosed. We reserve the right to charge a reasonable fee for providing access to personal information. If we refuse your request for access, we will notify you in writing, documenting the reasons for refusal, the relevant provision of the Act on which we rely and resources for redress available to you, including from the British Columbia Information and Privacy Commissioner.
-
-**Complaints**
-
-If you have complaints about how your personal information is being handled by us, you may file a written complaint with our designated representative at the contact address listed above. Such complaint must clearly state the nature of the dispute and contain all necessary contact information for you. We will acknowledge receipt of a complaint, investigate such complaint and notify you of the outcome of the complaint, including any relevant steps taken. If a complaint has not been resolved to your satisfaction, you may seek redress with the British Columbia Information and Privacy Commissioner.
-
-**Links to Other Sites**
-
-We are not responsible for the content or the privacy policies of websites to which our website may link and our privacy policy does not apply to those websites. These other websites may send their own cookies to users, collect data, or solicit personal information. Please keep in mind that whenever you give out personal information online (for example, via message boards or chat lines), that information can be collected and used by people you don't know. While we strive to protect our clients’ personal information, we cannot guarantee the security of any information you disclose online, you disclose such information at your own risk. 
-
-**Our Commitment to Children's Privacy**
-
-Protecting children's privacy is especially important to us. It is our policy to comply with applicable laws. We recommend that children ask a parent for permission before sending personal information to us or to anyone else online.
-
-**Revisions to this Policy**
-
-To ensure that this Policy is up to date and complies with the Act, we reserve the right to make changes, which will become effective 30 days following our providing notice thereof.
-
-**Terms of Use**
-
-While we have made every effort to provide accurate and meaningful information on our website, we cannot guarantee its accuracy. We are not responsible for any actions that you perform based on the content of this site or damages that are a direct or indirect result of its use.
+This Privacy Policy was most recently updated on March 24, 2017, to reflect changes to our contact information, as well as the use of Stripe as a payment processor. Previously, it was edited on September 14, 2016 and September 16, 2016 to reflect changes to our ownership.
