@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121357id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128124151id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -35,8 +35,8 @@ Low End Mac is an independent publication and has not been authorized, sponsored
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [Performa 520](https://web.archive.org/1993/mac-lc-520-performa-520/), introduced 1993.06.28. The Color Classic grew up with a 15" screen and CD-ROM.
-* List of the Day: [Jaguar Group](http://lowendmac.com/lists/jaguar.html) is for anyone using Mac OS X 10.2.x.  
+* Mac of the Day: [Power Mac G4 (FireWire 800)](https://web.archive.org/2003/power-mac-g4-firewire-800/), introduced 2003.01.28. The fastest G4 Power Mac reached 1.42 GHz, adds FireWire 800, only boots Mac OS X.
+* List of the Day: [MaX](http://lowendmac.com/linux/max.shtml) is our group for Unix, Linux, BSD, AU/X, MachTen, and other *nixes on Mac hardware.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/2005/power-mac-index/)  
