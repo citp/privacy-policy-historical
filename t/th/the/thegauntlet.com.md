@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626184016id_/http%3A//www.thegauntlet.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128020741id_/http%3A//thegauntlet.com/policy.php) for the most accurate reproduction.*
 
 # The Gauntlet - heavy metal news, concert, tour date, festival and metal tickets blog
 
