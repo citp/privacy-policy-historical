@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learninggamesforkids.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620021755id_/http%3A//www.learninggamesforkids.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learninggamesforkids.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128145156id_/http%3A//www.learninggamesforkids.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Learning Games For Kids
 
@@ -34,7 +34,7 @@ Learninggamesforkids.com exists to serve educators, parents and students and str
 
 Your family’s use of this site is conditioned on and deemed to constitute your acceptance of these terms. You should return to and review this policy frequently, since it is subject to modification from time to time without notice, and your continued use of the site is conditioned upon and deemed to constitute your acceptance of any such modifications.
 
-Learninggamesforkids.com is supported in part by Time4Learning.com and Time4Writing.com. Time4Learning.com is an online learning service popular as a [homeschool curriculum](http://www.time4learning.com/homeschool-curriculum.htm), for [afterschool supplementary education](http://www.time4learning.com/learning-enrichment.shtml), and for [summer skills sharpening](http://www.time4learning.com/summer-school.shtml). Time4Writing.com provides unique online services that help [students learning to write](http://www.time4writing.com/).
+Learninggamesforkids.com is supported in part by Time4Learning.com and Time4Writing.com. Time4Learning.com is an online learning service popular as a [homeschool curriculum](https://www.time4learning.com/homeschool-curriculum.htm), for [afterschool supplementary education](https://www.time4learning.com/learning-enrichment.shtml), and for [summer skills sharpening](https://www.time4learning.com/summer-school.shtml). Time4Writing.com provides unique online services that help [students learning to write](https://www.time4writing.com/).
 
 ## Notice to California Residents: Your California Privacy Rights
 
