@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.co.uk privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609094957id_/http%3A//www.panasonic.com/uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.co.uk privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128070050id_/http%3A//www.panasonic.com/uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Panasonic
 
@@ -90,9 +90,14 @@ We ask you not to provide us with any sensitive Personal Data (e.g., Social Secu
 
 ·    Personal Data may also be disclosed by you on our message boards, chat, profile pages, blogs, and other services provided by us, to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public and may be available to visitors to the Website and to the general public. We urge you to be very careful when deciding to disclose your Personal Data, or any other information, on the Website.
 
-**8.  Country Specific rules  
-****  
-Links to Third Party Websites** This Notice does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any website to which this Website contains a link. The inclusion of a link on the Website does not imply endorsement of the linked website by us or by any of our Affiliates.
+**8.  Country Specific rules**
+
+**  
+Customer Reviews  **
+
+For customer reviews management, we work with Power Reviews (<http://www.powerreviews.com/>). Any reviews left on panasonic.co.uk, will be syndicated to retailers on the Power Reviews network after moderation and approval by Panasonic. No personal data is requested in the process of leaving the review and the only information syndicated out will be the details used to complete the review form.  
+
+**Links to Third Party Websites** This Notice does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any website to which this Website contains a link. The inclusion of a link on the Website does not imply endorsement of the linked website by us or by any of our Affiliates.
 
 **Changes to this Notice** We may change this Notice from time-to-time. We therefore advise you to regularly review this Notice for any changes. Before the Notice is materially altered we will inform you and if needed you will be asked to give your express consent to the continued processing of your personal data. The last changes to this Notice were made in September 2014.
 
