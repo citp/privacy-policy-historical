@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoox.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528135906id_/https%3A//schoox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoox.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128162100id_/https%3A//www.schoox.com/privacy.php) for the most accurate reproduction.*
 
 # schoox - Privacy Policy
 
