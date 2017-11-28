@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the feedmap.net privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630152802id_/http%3A//webhost4life.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the feedmap.net privacy policy that was archived on 2017-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171128044050id_/http%3A//webhost4life.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -14,7 +14,22 @@
 <link rel="stylesheet" type="text/css" href="/xslt/elements/generic_csscomponent.css">
 
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script>dataLayer = [{"userType":"anonymous","pageClass":"","step":"","pageType":"","flow":"","userID":""}];</script>
+
+
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PPRPX8');</script>
+
+
+
+<script>
 window.V = window.V || {};
 V.cart = V.cart || {
 	items: []
@@ -68,11 +83,12 @@ window.addEventListener('load', function() { V.chat.initialize() }, false);
 
 
       </head><body id="stylesheet1"><block>
+        <link rel="canonical" href="https://www.webhost4life.com/legal/">
         <style>
           .quicklinks {width: 200px; float: right; margin: 0 0 2em 2em;}
           .info_msg {width: 400px;}
         </style>
-      </block>
+      </block>  
 	<style>.browser-alert.hidden{display: none;}</style>
 <script type="text/javascript">
 				
@@ -95,40 +111,57 @@ window.addEventListener('load', function() { V.chat.initialize() }, false);
 
 
 
-
-<script>dataLayer = [{"userType":"anonymous","pageClass":"","step":"","pageType":"","flow":"","userID":""}];</script>
-
+  
 
 
 
-
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
-{'gtm.start': new Date().getTime(),event:'gtm.js'}
-);var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PPRPX8');</script>
-
-<div class="browser-alert hidden">
-    <div class="alert" data-alert="alert">
-        <button type="button" class="close" data-dismiss="alert" onclick="browserAlert.hideMe()">x</button>
-        <p class="ie-browserhappy">
-            The browser version you are using is <strong>no longer supported</strong>. Please <a href="http://browsehappy.com/" target="_blank">upgrade</a> for the best site experience.
-        </p>
-    </div>
+<div id="browserIE" class="browser-alert hide hidden">
+  <div class="alert" data-alert="alert">
+      <button type="button" class="close" data-dismiss="alert" onclick="browserAlert.hideMe()">x</button>
+      <p class="ie-browserhappy">
+          The browser version you are using is <strong>no longer supported</strong>. Please <a href="http://browsehappy.com/" target="_blank">upgrade</a> for the best site experience.
+      </p>
+  </div>
 </div>
 
 <script>
-  <!--
-	window.jQuery || document.write('<script src="/generalAppC/javascripts/jquery/jquery.min.js"><\/script>')
-  -->
+<!--
+window.jQuery || document.write('<script src="/generalAppC/javascripts/jquery/jquery.min.js"><\/script>')
+
+navigator.browserSpecs = (function() {
+  var ua = navigator.userAgent 
+    , tem
+    , M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || []
+    ;
+
+  if(/trident/i.test(M[1])) {
+    tem =  /\brv[ :]+(\d+)/g.exec(ua) || [];
+    return {
+      name:'IE',
+      version: (tem[1] || '')
+    };
+  }
+
+  if(M[1] === 'Chrome') {
+    tem = ua.match(/\b(OPR|Edge)\/(\d+)/);
+    if(tem !== null) return {
+      name:tem[1].replace('OPR', 'Opera'),version:tem[2]
+    };
+  }
+
+  M = M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+
+  if((tem= ua.match(/version\/(\d+)/i))!== null) M.splice(1, 1, tem[1]);
+  return {name:M[0],version:M[1]};
+
+})();
+
+var browserData = navigator.browserSpecs;  
+if(browserData.name == "MSIE" && browserData.version < 11) {
+  document.getElementById('browserIE').className = "browser-alert"
+}
+-->
 </script><script src="/generalAppC/javascripts/jquery/jquery.min.js"></script>
-<script type="text/javascript" src="/generalAppC/javascripts/js.cookie.js"></script>
-<script type="text/javascript" src="/generalAppC/javascripts/ie-browser-alert.js"></script>
-
-
-
-
 <div id="doc2" class="yui-t2">
 <div id="control-panel-nav"><div id="cp">
 <ul class="control-links">
@@ -202,10 +235,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </ul>
         </div>
  
-        <div class="info_msg">
-          <div class="close_msg"> </div>
-          On June 29, 2017, we updated these terms and policies. You may review the archived <a href="http://www.webhost4life.com/legal/legal_privacy_archive_24052017.bml">version</a>.
-        </div>
           
         <p>We respect your privacy and want to make your experience visiting our website located at <a href="http://www.webhost4life.com">www.webhost4life.com</a> and using our services as enjoyable and rewarding as possible. This Privacy Policy describes what personal information of our subscribers ("Subscribers") and visitors ("Visitors") (collectively, "Users") is collected and how and when it might be used or shared by WebHost4Life ("WebHost4Life") with its parent company, The Endurance International Group, Inc. ("Endurance," and collectively with WebHost4Life, the "Company") or trusted partners to deliver or enhance our services. </p>
         <ul id="legal">
@@ -324,7 +353,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </ul>
               </li>
            </ul>		 
-        <p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified on June 29, 2017.</strong></p><strong>
+        <p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified on August 24, 2017.</strong></p><strong>
 </strong><p></p>
       </block></div>
 </div>
@@ -356,7 +385,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3><a href="/support/">Support</a></h3>
 <ul>
 <li><a href="/support/">Need Help?</a></li>
-<li><a href="/knowledgebase/beta/">Knowledgebase</a></li>
+<li><a href="/help">Knowledge Base</a></li>
 <li><a href="/support/addResources.bml">Additional Resources</a></li>
 <li><a href="/support/user-guide/">User Guide</a></li>
 </ul>
