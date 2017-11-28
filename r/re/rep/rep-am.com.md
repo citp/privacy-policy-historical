@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rep-am.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074555id_/http%3A//www.rep-am.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rep-am.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128083206id_/http%3A//www.rep-am.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | Republican-American
 
-### **PRIVACY STATEMENT[](https://i0.wp.com/www.rep-am.com/wp-content/uploads/2015/05/RAwithTower.jpg)**
+### **PRIVACY STATEMENT[](https://i1.wp.com/www.rep-am.com/wp-content/uploads/2015/05/RAwithTower.jpg)**
 
 ##### **_Overview_**
 
