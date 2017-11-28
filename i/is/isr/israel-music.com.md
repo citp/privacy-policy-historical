@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530050846id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128023008id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
 
 # Israel Music - Privacy Policy
 
@@ -18,10 +18,10 @@ We will not sell or share your personal details with unrelated third parties, pa
 
 Only we have access to the information we collect and our visitors are allowed to access their contact information (such as email address or postal address). If you believe that our website has collected incorrect information or if you would like to dispute any information, please [contact us](https://web.archive.org/contact/) at:
 
-Play Records Ltd.  
-20 Ya'akov Freiman St.  
-Rishon LeTsiyon, 7535825  
+Tamuz Records Ltd.  
+POB 3217  
+Herzliya, 4613101  
 ISRAEL  
-+972-3-5410947
++972-54-4703744
 
-Call us Sun-Thu 8am-2pm GMT at: +972-3-5410947 
+Call us Sun-Thu 8am-2pm GMT at: +972-54-4703744 
