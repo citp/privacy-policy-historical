@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodtricks.net privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530124204id_/http%3A//goodtricks.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodtricks.net privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128165220id_/http%3A//goodtricks.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
@@ -50,4 +50,4 @@ Goodtricks.net contain links to third party websites and services. The fact that
 
 [Mozilla Firefox – Cookies](http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
 
-### [Main Magic Menu](https://web.archive.org/web/20170530124204id_/http%3A//goodtricks.net/frameset6.html)
+### [Main Magic Menu](https://web.archive.org/web/20171128165220id_/http%3A//goodtricks.net/frameset6.html)
