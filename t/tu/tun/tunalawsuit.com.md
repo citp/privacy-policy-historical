@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tunalawsuit.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607101132id_/http%3A//www.kccllc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunalawsuit.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128211622id_/http%3A//www.kccllc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Kurtzman Carson Consultants LLC ("KCC") is committed to protecting your privacy and earning your trust. This Privacy Statement describes KCC's privacy practices for the services KCC provides through websites which it creates, configures and hosts on behalf of its clients and for the websites located at http://www.kccllc.com, http://www.kccllc.net and http://classaction.kccllc.net. 
+Kurtzman Carson Consultants LLC ("KCC") is committed to protecting your privacy and earning your trust. This Privacy Statement describes KCC's privacy practices for the services KCC provides through websites which it creates, configures and hosts on behalf of its clients and for the websites located at http://www.kccllc.com, http://www.kccllc.net and http://classaction.kccllc.net.
 
 ### Information Collection & Use
 
@@ -52,7 +52,7 @@ The services provided by a KCC website do not constitute the rendering of legal 
 If you have any questions about this Privacy Statement, the practices of KCC, or about KCC's websites, please contact KCC at the following address:
 
 Webmaster   
-Kurtzman Carson Consultants LLC   
+KCC  
 2335 Alaska Avenue  
 El Segundo, California 90245  
 info@kccllc.com
