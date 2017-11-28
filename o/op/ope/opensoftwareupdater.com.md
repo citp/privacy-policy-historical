@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensoftwareupdater.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627170128id_/http%3A//opensoftwareupdater.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensoftwareupdater.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128051959id_/http%3A//opensoftwareupdater.com/privacy.html) for the most accurate reproduction.*
 
 # Open Software Updater
 
@@ -67,4 +67,4 @@ This policy was last modified on March 10, 2014
 
 **Contacting Us  
 **  
-If there are any questions regarding this privacy policy you may contact us using the information below. support@installertech.com
+If there are any questions regarding this privacy policy you may contact us using the information below. [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
