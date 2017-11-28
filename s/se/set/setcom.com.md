@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the setcom.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092044id_/http%3A//sidpayment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setcom.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128235952id_/http%3A//sidpayment.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - The New SID Instant EFT has Arrived!
-
-##  SID Instant EFT Privacy Policy
+# Privacy - SID - South Africa's Most Secure Instant EFT Solution
 
 This Policy was last modified on May 17th 2017.  
 This Privacy Policy describes how SID Instant EFT collects and uses the personal information you provide on our website: [www.sidpayment.com](http://www.sidpayment.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
