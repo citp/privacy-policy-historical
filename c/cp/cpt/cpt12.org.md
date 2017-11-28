@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpt12.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630030021id_/http%3A//www.cpt12.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpt12.org privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128230828id_/https%3A//www.cpt12.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Colorado Public Television
 
