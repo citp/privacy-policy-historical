@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626221137id_/http%3A//home.crowdtap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128053816id_/http%3A//home.crowdtap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
