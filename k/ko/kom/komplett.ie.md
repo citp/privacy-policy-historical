@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komplett.ie privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330033846id_/https%3A//www.komplett.ie/cms/service/privacy_statement/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komplett.ie privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128042924id_/https%3A//www.komplett.ie/cms/service/privacy_statement/default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Komplett.ie
 
