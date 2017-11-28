@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelspike.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509120630id_/http%3A//travelspike.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelspike.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128020821id_/http%3A//travelspike.com/privacy-policy) for the most accurate reproduction.*
 
 # Travel Spike – Privacy Policy
 
