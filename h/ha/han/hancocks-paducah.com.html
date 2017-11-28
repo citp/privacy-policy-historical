@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hancocks-paducah.com privacy policy that was archived on 2016-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127032604id_/http%3A//www.hancocks-paducah.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hancocks-paducah.com privacy policy that was archived on 2017-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171128165439id_/http%3A//www.hancocks-paducah.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
@@ -9,18 +9,18 @@
 
 
 <meta name="description" content="Free Shipping Orders Over $70 | Privacy Policy | Hancock’s of Paducah">
-<script type="text/javascript" async="" src="https://js.bronto.com/s/b.min.js"></script><script src="//t.p.mybuys.com/clients/HANCOCKSOFPADUCAH/js/mybuys_qs.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PZSVJ2"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PZSVJ2"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-2732016-1', 'auto');
-  //ga('send', 'pageview');
+  ga('send', 'pageview');
 
 </script>
 <script type="text/javascript">
- 
+ /*
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2732016-1']);
   _gaq.push(['_setDomainName', 'none']);
@@ -32,7 +32,7 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
- 
+ */
 </script>
 
 <!-- Facebook Pixel Code -->
@@ -51,24 +51,65 @@ src="https://www.facebook.com/tr?id=404404093029897&amp;ev=PageView&amp;noscript
 /></noscript>
 <!-- End Facebook Pixel Code -->
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PZSVJ2"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>
+if(location.href.indexOf('sbe-dev-vinson') == -1){
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PZSVJ2');</script>
-<!-- End Google Tag Manager --><script language="JavaScript" type="text/javascript">window.status='Loading...';</script>    <script type="text/javascript" src="/ui/jquery/jquery-1.11.3.min.js?NS_VER=2016.2.0&amp;minver=79"></script>
-    <script type="text/javascript" src="/uirefresh/script/jquery_isolation.js?NS_VER=2016.2.0&amp;minver=79"></script>
-    <script type="text/javascript" src="/javascript/NLUtil.jsp?NS_VER=2016.2.0&amp;minver=79&amp;locale=en_US"></script>
-    <script type="text/javascript" src="/javascript/NLUtil.js?NS_VER=2016.2.0&amp;minver=79"></script>
+})(window,document,'script','dataLayer','GTM-PZSVJ2');
+
+}
+</script>
+<!-- End Google Tag Manager -->
+<script>
+
+function tt_readCookie(tt_name) { //cookie reader function
+	var tt_nameEQ = tt_name + "=";
+	var tt_ca = document.cookie.split(';');
+	for(var i=0;i < tt_ca.length;i++) {
+		var tt_c = tt_ca[i];
+		while (tt_c.charAt(0)==' ') tt_c = tt_c.substring(1,tt_c.length);
+		if (tt_c.indexOf(tt_nameEQ) == 0) return tt_c.substring(tt_nameEQ.length,tt_c.length);
+	}
+	return null;
+}
+
+var jsonCart = {};
+document.addEventListener('DOMContentLoaded', function() {
+
+    jQuery.ajax({
+        url: "/Tavano-SSP/TT_miniCartAngled/SS_JSON_TO_SEND_WITH_INFO.ss",
+        async: true,
+    }).done(function (data) {
+        jsonCart = data;
+        jsonCart.emailAddress = "";
+
+        jsonCart.customerCartId = tt_readCookie("NLShopperId");
+        sessionStorage.setItem('jsonCart', JSON.stringify(jsonCart));
+
+        var _bsw = _bsw || [];
+        _bsw.push(['_bswId', '813bc0bbfc01dd537870c67944e66ee9731d2b2e8c873d8f23396a14996a24b5']);
+        (function() {
+            var bsw = document.createElement('script'); bsw.type = 'text/javascript'; bsw.async = true;
+            bsw.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.bronto.com/c/akgy1q3r4qvu6u9e58kmx0wtsf3l2bvcnel55939129trzgn6m/813bc0bbfc01dd537870c67944e66ee9731d2b2e8c873d8f23396a14996a24b5/s/b.min.js';
+            var t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(bsw, t);
+        })();
+    })
+});
+
+</script><script language="JavaScript" type="text/javascript">window.status='Loading...';</script>    <script type="text/javascript" src="/ui/jquery/jquery-1.11.3.min.js?NS_VER=2017.2.0&amp;minver=84"></script>
+    <script type="text/javascript" src="/ui/jquery/jquery_isolation.js?NS_VER=2017.2.0&amp;minver=84"></script>
+    <script type="text/javascript" src="/javascript/NLUtil.jsp?NS_VER=2017.2.0&amp;minver=84&amp;JSP_VER=1&amp;locale=en_US"></script>
+    <script type="text/javascript" src="/javascript/NLUtil.js?NS_VER=2017.2.0&amp;minver=84"></script>
 <script language="JavaScript" type="text/javascript">window.status='';</script><script type="text/javascript">ignoreResetDivSizes = true;</script>
-<!-- v=2016.2.0.79 db=12172 c=3519720 n=1 rg=1 e=0 r=17 ct=WEBSITE isstore=T https=F
+<!-- v=2017.2.0.84 db=12172 c=3519720 n=1 rg=1 e=0 r=17 ct=WEBSITE isstore=T https=F
      id=I:4 cat= sc=28 sct=PRESENTATION thm=100 bll=i:101;c:100;r:104;cr:109;
      cart=-1 price=5 cur=1 lang=en_US partner=0 leadsource=
      sco=T
      page(candbc=F fromdbc=F vol=F) -->
-<link rel="stylesheet" href="http://www.hancocks-paducah.com/core/styles/pagestyles.nl?ct=89&amp;bglt=E9F2E3&amp;bgmd=ACC49C&amp;bgdk=728367&amp;bgon=978368&amp;bgoff=CEC0A2&amp;bgbar=768784&amp;tasktitletext=FFFFFF&amp;crumbtext=FFFFFF&amp;headertext=FFFFFF&amp;ontab=FFFFFF&amp;offtab=000000&amp;text=000000&amp;link=000000&amp;bgbody=FFFFFF&amp;bghead=FFFFFF&amp;portlet=768784&amp;portletlabel=FFFFFF&amp;bgbutton=D2D2C8&amp;bgrequiredfld=FFFFE5&amp;font=Arial%2CHelvetica%2Csans-serif&amp;size_site_content=9pt&amp;size_site_title=9pt&amp;size=1.0&amp;nlinputstyles=T&amp;accessibility=F&amp;NS_VER=2016.2.0">
+<link rel="stylesheet" href="http://www.hancocks-paducah.com/core/styles/pagestyles.nl?ct=89&amp;bglt=E9F2E3&amp;bgmd=ACC49C&amp;bgdk=728367&amp;bgon=978368&amp;bgoff=CEC0A2&amp;bgbar=768784&amp;tasktitletext=FFFFFF&amp;crumbtext=FFFFFF&amp;headertext=FFFFFF&amp;ontab=FFFFFF&amp;offtab=000000&amp;text=000000&amp;link=000000&amp;bgbody=FFFFFF&amp;bghead=FFFFFF&amp;portlet=768784&amp;portletlabel=FFFFFF&amp;bgbutton=D2D2C8&amp;bgrequiredfld=FFFFE5&amp;font=Arial%2CHelvetica%2Csans-serif&amp;size_site_content=9pt&amp;size_site_title=9pt&amp;size=1.0&amp;nlinputstyles=T&amp;accessibility=F&amp;NS_VER=2017.2.0">
 
 <!--[if IE ]><html lang="en" class="ie"> <![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -433,7 +474,7 @@ $(document).ready(function(){
 	var tt_quickOrderQty = 0;
 	var tt_url_wa = "";
 	var tt_url_withAutoComplete = "";
-	var tt_url_viewCart = "/s.nl?sc=3";
+	var tt_url_viewCart = "/sbe-dev-vinson/cart.ssp?sc=3";
     var tt_isAutoCompleteClicked = false;
     var tt_QO_CustomerId = "X";
     var tt_QO_currencySymbol = "X";
@@ -496,23 +537,10 @@ function tt_EraseCookie(tt_name) { //cookie eraser function
 
 <script language="JavaScript"><!--
 {
-document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=12016705&amp;x="+escape(document.referrer)+" width=1 height=1>");
+document.write("<img src=https://tracking.searchmarketing.com/welcome.asp?SMCID=12016705&amp;x="+escape(document.referrer)+" width=1 height=1>");
 }
-//--></script></head><body bgcolor="#FFFFFF" link="#000000" vlink="#000000" alink="#000000" text="#000000" style="margin: 5px 0px 5px 0px;" onload="page_init()"><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=12016705&amp;x=" width="1" height="1">
-<script>
-	var jsonCart  = {};
-	$(document).ready(function(){ 
-		
-			$.ajax({ 
-			url: "/Tavano-SSP/TT_miniCartAngled/SS_JSON_TO_SEND_WITH_INFO.ss",
-			async:true,
-			}).done(function(data){  
-				jsonCart = data;
-				jsonCart.customerCartId = tt_readCookie("NLShopperId");
-				sessionStorage.setItem('jsonCart', JSON.stringify(jsonCart));
-			});
-	});	
-</script>
+//--></script><script id="EmbedSocialReviewsScript" src="https://embedsocial.com/embedscript/ri.js"></script></head><body bgcolor="#FFFFFF" link="#000000" vlink="#000000" alink="#000000" text="#000000" style="margin: 5px 0px 5px 0px;" onload="page_init()"><img src="https://tracking.searchmarketing.com/welcome.asp?SMCID=12016705&amp;x=" width="1" height="1">
+
 
 
 
@@ -560,9 +588,12 @@ document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=1
     </div>    
 <script>
 $(document).ready(function(){
-$('#t-left a:contains("Shop Sales")').attr('href','http://www.hancocks-paducah.com/SHOP-BY-THEME/Moda-Fabrics-Pumpkin-Pie-by-Laundry-Basket-Quilts');
-$('#t-left a:contains("shop fashion")').attr('href','http://www.hancocks-paducah.com/Holiday-Gift-Guide');
-$('#t-left a:contains("shop wide backings")').attr('href','http://www.hancocks-paducah.com/Holiday-Gift-Guide');
+$('#t-left a:contains("Home")').parent().parent().next().addClass('Home-Category1');
+$('#t-left a:contains("Home")').parent().parent().next().next().addClass('Home-Category2');
+$('#t-left a:contains("Home")').parent().parent().next().next().next().addClass('Home-Category3');
+$('#t-left tr.Home-Category1 a').attr('href','http://www.hancocks-paducah.com/SHOP-BY-THEME/Loveable-Pet-Fabrics');
+$('#t-left tr.Home-Category2 a').attr('href','http://www.hancocks-paducah.com/SHOP-BY-THEME/Moda-French-General-Atelier-de-France');
+$('#t-left tr.Home-Category3 a').attr('href','http://www.hancocks-paducah.com/SHOP-BY-THEME/Moda-French-General-Atelier-de-France');
 });
 </script>
 <!-- End Left Navigation -->
@@ -578,19 +609,10 @@ $('#t-left a:contains("shop wide backings")').attr('href','http://www.hancocks-p
 <li id="phone_number">
   <p>1.800.845.8723</p>
 </li>
-<a href="https://checkout.hancocks-paducah.com/myaccount-1-05-0/index.ssp?sc=6&amp;promocode=&amp;promocodeaction=overwrite&amp;gc=clear" onclick="_gaq.push(['_link', this.href]); return false;"><li>My Account<span></span></li></a>
+<a href="https://checkout.hancocks-paducah.com/myaccount-1-05-0/index.ssp?sc=6&amp;promocode=&amp;promocodeaction=overwrite&amp;gc=clear"><li>My Account<span></span></li></a>
 <a href="/WishList"><li>Wishlist<span></span></li></a>
-<a href="https://checkout.hancocks-paducah.com/s.nl/sc.28/.f?login=T&amp;reset=T&amp;newcust=T&amp;promocode=&amp;promocodeaction=overwrite&amp;gc=clear" onclick="_gaq.push(['_link', this.href]); return false;"><li>Register<span></span></li></a>
-<script>
-(function(d,c,x,s,e) {
-s = d.createElement(x);
-s.src = '//t.p.mybuys.com/clients/' + c + '/js/mybuys_qs.js';
-s.async = true;
-s.type = 'text/javascript';
-e = d.getElementsByTagName(x)[0];
-e.parentNode.insertBefore(s, e);
-})(document,'HANCOCKSOFPADUCAH','script');
-</script>
+<a href="https://checkout.hancocks-paducah.com/s.nl/sc.28/.f?login=T&amp;reset=T&amp;newcust=T&amp;promocode=&amp;promocodeaction=overwrite&amp;gc=clear"><li>Register<span></span></li></a>
+
 <script> if('') document.write('<a href="https://checkout.hancocks-paducah.com/s.nl/sc.4/.f?logoff=T&amp;ckabandon=&amp;promocode=&amp;promocodeaction=overwrite&amp;gc=clear"><li>Sign Out<span></span></li></a>'); else document.write('<a href="https://checkout.hancocks-paducah.com/s.nl/sc.28/.f?login=T&amp;reset=T&amp;promocode=&amp;promocodeaction=overwrite&amp;gc=clear"><li>Sign in<span></span></li></a>');</script><a href="https://checkout.hancocks-paducah.com/s.nl/sc.28/.f?login=T&amp;reset=T&amp;promocode=&amp;promocodeaction=overwrite&amp;gc=clear"><li>Sign in<span></span></li></a>
 <a href="/Contact-Us"><li id="contact_top_link">Contact Us</li></a>
 </ul>
@@ -662,22 +684,22 @@ e.parentNode.insertBefore(s, e);
 <a href="/Robert-Kaufman-Fabrics"><li><h2>Robert Kaufman Fabrics</h2></li></a>
 <a href="/Timeless-Treasures-Fabrics"><li><h2>Timeless Treasures Fabrics</h2></li></a>
 <a href="/Hoffman-Fabrics"><li><h2>Hoffman Fabrics</h2></li></a>
-<a href="/Michael-Miller-Fabrics"><li><h2>Michael Miller Fabrics</h2></li></a>
+<a href="/Wilmington-Prints"><li><h2>Wilmington Prints</h2></li></a>
 </ul>
 <ul>
 <!--<h2></h2>--> 
 <a href="/SHOP-BY-BRAND/Marcus-Fabrics"><li><h2>Marcus Fabrics</h2></li></a>
-<a href="/Rowan-Fabrics-Westminster-Fibers"><li><h2>Rowan Fabrics</h2></li></a>
-<a href="/Wilmington-Prints"><li><h2>Wilmington Prints</h2></li></a>
-<a href="/In-The-Beginning-Fabrics"><li><h2>In The Beginning Fabrics</h2></li></a>
+<a href="/SHOP-BY-BRAND/Free-Spirit-Fabrics"><li><h2>Free Spirit Fabrics</h2></li></a>
+<a href="/Michael-Miller-Fabrics"><li><h2>Michael Miller Fabrics</h2></li></a>
+<a href="/Windham-Fabrics"><li><h2>Windham Fabrics</h2></li></a>
 <a href="/SHOP-BY-BRAND/Island-Batik"><li><h2>Island Batiks</h2></li></a>          
 
 </ul>
 <ul>
 <!--<h2></h2>--> 
-<a href="/SHOP-BY-BRAND/Alexander-Henry-Fabrics"><li><h2>Alexander Henry Fabrics</h2></li></a>
+<a href="/SHOP-BY-BRAND/Clothworks-Fabrics"><li><h2>Clothworks Fabrics</h2></li></a>
 <a href="/Anna-Griffin-Fabrics"><li><h2>Anna Griffin Fabrics</h2></li></a>
-<a href="/Windham-Fabrics"><li><h2>Windham Fabrics</h2></li></a>
+<a href="/In-The-Beginning-Fabrics"><li><h2>In The Beginning Fabrics</h2></li></a>
 <a href="/Waverly-Fabrics"><li><h2>Waverly Fabrics</h2></li></a>  
 <a href="/P-Kaufmann-Fabrics"><li><h2>P Kaufmann Fabrics</h2></li></a>
 </ul>
@@ -711,6 +733,7 @@ e.parentNode.insertBefore(s, e);
 </ul>
 <ul>
 <h2>Sales</h2>
+<a href="/SHOP-BY-THEME/Daily-Treat"><li><h2>Daily Treat Sales</h2></li></a>
 <a href="/SALES/Sale-Fabrics-by-Brand"><li><h2>Sale Fabrics by Brand</h2></li></a>
 <a href="/SALES/Sale-Fabrics-by-Price"><li><h2>Sale Fabrics by Price</h2></li></a>
 <a href="/SALES/Sale-Fabrics-by-Theme"><li><h2>Sale Fabrics by Theme</h2></li></a>
@@ -718,7 +741,7 @@ e.parentNode.insertBefore(s, e);
 </ul>
 <ul>
 <h2>Other</h2>
-<a href="/SHOP-BY-THEME/Daily-Treat"><li><h2>Daily Treat</h2></li></a>
+<a href="/SHOP-BY-THEME/Fresh-Cuts"><li><h2>New Precut Items</h2></li></a>
 <a href="/PRE-CUTS/Quilt-Kits"><li><h2>Quilt Kits</h2></li></a>
 <a href="/PRE-CUTS"><li><h2>Precuts</h2></li></a>
 <a href="/NOTIONS"><li><h2>Notions</h2></li></a>
@@ -755,26 +778,18 @@ e.parentNode.insertBefore(s, e);
 <div class="center_container"><div id="banner-general-cont" style="display:none;">
 	<div class="banner-promotion-cont-main">
 		<div class="banner-promotion-content">
-
 			<!-- Banner 1 -->
 			<a href="/Holiday-Gift-Guide" class="banner-promotion-content-block">
-				<img src="/hancocks_files/img/home/banner-promotion/banner-background-5.png" alt="Holiday Gift Center">
+				<img src="/hancocks_files/img/home/banner-promotion/banner-background-5.png" alt="Shop Gift Guide">
 				<h4>Gift Guide</h4>
-				<span>Gift ideas for quilters...</span>
+				<span>Shop Fabric Lover Gift Ideas</span>
 			</a>
-
 			<!-- Banner 2 -->
-<script type="text/javascript">
-function openpopup(popurl){
-var winpops=window.open(popurl,"http://www.hancocks-paducah.com/FreeShippingPopUp.jpg","width=600, height=600,resizable")
-}
-</script>
-			<a href="javascript:openpopup('http://www.hancocks-paducah.com/FreeShippingPopUp.jpg')" class="banner-promotion-content-block">
+			<a href="/Shipping-Policies" class="banner-promotion-content-block">
 				<img src="/hancocks_files/img/home/banner-promotion/banner-background-2.png" alt="Free Shipping">
-				<h4>Free shipping</h4>
-				<span>Use Code: 70Free • Click for details.</span>
+				<h4>Free Shipping</h4>
+				<span>click for details</span>
 			</a>
-
 			<!-- Banner 3 -->
 			<a href="/SHOP-BY-THEME/Daily-Treat" class="banner-promotion-content-block">
 				<img src="/hancocks_files/img/home/banner-promotion/banner-background-3.png" alt="Daily treat">
@@ -783,10 +798,10 @@ var winpops=window.open(popurl,"http://www.hancocks-paducah.com/FreeShippingPopU
 			</a>
 
 			<!-- Banner 4 -->
-			<a href="/SHOP-BY-THEME/Fresh-Cuts" class="banner-promotion-content-block">
-				<img src="/hancocks_files/img/home/banner-promotion/banner-background-4.png" alt="Fresh cuts">
-				<h4>Fresh cuts</h4>
-				<span>New quilt kits, fat quarters &amp; more!</span>
+			<a href="/Connect" class="banner-promotion-content-block">
+				<img src="/hancocks_files/img/home/banner-promotion/banner-background-4.png" alt="Email Sign Up">
+				<h4>Email Sign Up</h4>
+				<span>All The New + Exclusive Sales</span>
 			</a>
 
 		</div>
@@ -844,9 +859,10 @@ _caq.push(["Order", {OrderId: order, Revenue: revenue, CurrencyCode: 'USD', Prod
 <div id="div__body" style="margin: 0px;  margin-top: 3px;">
 <table border="0" cellspacing="0" cellpadding="0" width="100%" id="__enclosingtable" role="presentation"><tbody><tr><!-- Left Navigation -->
 <td valign="top" id="desktop-left" class="sidebar-nav">
-<div class="left-navigation">
-<div class="left-nav">
-<table cellpadding="0" cellspacing="0" border="0" id="t-left"><tbody><tr><td valign="top" width="100%">
+   <div class="left-navigation">
+   <div class="left-nav">
+      <table cellpadding="0" cellspacing="0" border="0" id="t-left">
+         <tbody><tr><td valign="top" width="100%">
 <table class="list" border="0" cellspacing="0" cellpadding="2">
 <tbody><tr><td width="1%" class="pic"><a href="/SALES" class="textboldnolink"><img class="iBullet" src="/images/nav/ns_x.gif" width="10" height="10" border="0" alt=""></a></td>
 <td style="padding-left:1px" class="smalltext"><a class="dottedlink" href="/SALES">SALES</a></td></tr>
@@ -867,65 +883,56 @@ _caq.push(["Order", {OrderId: order, Revenue: revenue, CurrencyCode: 'USD', Prod
 
 
 
-</tr></tbody></table>
-</div>
-<div class="left-static-content">
-<a class="request_catalog" href="/Catalog-Request">
-<img src="/c.3519720/hancocks_files/img/Catalog-Request.png" alt="Catalog Request">
-</a>
-<div class="testimonial_wrapper">
-<div class="head">hancock's is listening</div>
-<div class="body">
-<div class="list_carousel_left">
-<ul id="testimonials_carousel_left">
-<li>
-<p>
-"I just wanted you to know that when the two pieces of flannel I recently ordered arrived, I was thrilled with the quality and everything else about them!"<br>
-</p><div id="date_testimonails"> Jacqueline - August 2016</div>
-<p></p>
-</li>
-<li>
-<p>
-"
-I received my order today and wanted to tell you I love this fabric!! The quality is awesome. The service I received from you was wonderful as well. What an awesome company - I will be ordering again soon!" <br>
-</p><div id="date_testimonails">Cynthia - September 2016</div>
-<p></p>
-</li>
-<li>
-<p>
-"I wanted to let you know how much I enjoyed your store.  WOW is all I can say!  Your staff was over the top helpful and friendly. I hope you all put your feet up for awhile when it was over." <br>
-</p><div id="date_testimonails">Barbara - May 2016</div>
-<p></p>
-</li>
-</ul>
-<div class="clearfix"></div>
-</div>
-</div>
-</div>
-</div>
-</div>    
 
-<script src="/c.3519720/hancocks_files/js/TT_scripts_NSleft.js"></script>
-<script type="text/javascript" id="testimonials-script" language="javascript" src="/c.3519720/hancocks_files/js/jquery.carouFredSel-6.2.1-packed.js"></script>
-<script id="testimonials-script1">
-$(document).ready(function(){
-//	Responsive layout, resizing the items
-$('#testimonials_carousel_left').carouFredSel({
-responsive: true,
-width: '100%',
-scroll: 1,
-items: {
-width: 400,
-visible: {
-min: 1,
-max: 1
-}
-}
-});
-});
+      </tr></tbody></table>
+   </div>
+   <div class="left-static-content">
+      <a class="request_catalog" href="/Connect">
+      <img src="/c.3519720/hancocks_files/img/Catalog-Request.png" alt="Email Sign Up">
+      </a>
+      <div class="testimonial_wrapper">
+         <div class="head">hancock's reviews</div>
+         <!-- Social Reviews-->
+<div class="embedsocial-reviews" data-ref="39ceec09b33f1a91fcd2f2a77a54b7c13821b36a"></div>
+
+<script type="application/ld+json"> { 
+    "@context": "http://schema.org",  
+    "@type": "LocalBusiness",  
+    "name": "Hancock's of Paducah",  
+    "aggregateRating":  
+    {  
+        "@type": "AggregateRating",  
+        "ratingValue": "5",  
+        "reviewCount": "260" 
+    } 
+} 
 </script>
-<!-- End Left Navigation -->
-</td>
+
+<script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
+      </div>
+   </div>
+   <script src="/c.3519720/hancocks_files/js/TT_scripts_NSleft.js"></script>
+   <script type="text/javascript" id="testimonials-script" language="javascript" src="/c.3519720/hancocks_files/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+   <script id="testimonials-script1">
+      $(document).ready(function(){
+      //	Responsive layout, resizing the items
+      $('#testimonials_carousel_left').carouFredSel({
+      responsive: true,
+      width: '100%',
+      scroll: 1,
+      items: {
+      width: 400,
+      visible: {
+      min: 1,
+      max: 1
+      }
+      }
+      });
+      });
+   </script>
+
+   <!-- End Left Navigation -->
+</div></td>
 
 <td width="100%" valign="top" style="padding-left: 10px;">
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
@@ -943,7 +950,7 @@ max: 1
 <input type="hidden" name="it" value="I">
 <input type="hidden" name="vid" value="">
 <input type="hidden" name="ck" value="">
-<input type="hidden" name="cktime" value="140707">
+<input type="hidden" name="cktime" value="149384">
 <input type="hidden" name="cart" value="-1">
 
 </form></td>
@@ -1096,6 +1103,8 @@ var google_remarketing_only = true;
 </td>
 </tr></tbody></table></div>
 <div id="div__footer" class="noprint" leftmargin="0" topmargin="0" marginwidth="1" marginheight="1">
+<script type="application/javascript"> var piioData = { appKey: 'tavano', encodeSrc: true, domain: 'http://www.hancocks-paducah.com' } </script>
+<script src="http://cdn.piio.co/demo/piio.min.js?v=1.0.1"></script>
 <table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
 <script>
 /*-- Mobile items Description/specs/reviews click function */
@@ -1130,28 +1139,39 @@ function myToggle(idElement){element=jQuery("#"+idElement);if ($(window).width()
     </a>
      <div id="contact_info_hours" class="hide-container">
       <ul id="contact_info_ul">
-        <span itemscope="" itemtype="http://schema.org/LocalBusiness">
           <li>
-            <h3 itemprop="name"> Hancock's of Paducah</h3>
+            <h3> Hancock's of Paducah</h3>
           </li>
-        </span>
-        <span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
           <li>
-            <h3 itemprop="streetAddress"> 3841 Hinkleville Road</h3></li>
-          <li><h3><span itemprop="addressRegion"> Paducah </span>, <span itemprop="addressRegion">KY </span><span itemprop="postalCode">42001</span></h3></li>
-          <li><h3> Phone <span itemprop="telephone">1-800-845-8723</span></h3></li>
-          <li><h3> International <span itemprop="telephone">1-270-443-4410</span></h3></li>
-          <li><h3><span id="customer_link"><a href="mailto:customerservice@hancocks-paducah.com" target="_top">customerservice@hancocks-paducah.com</a></span></h3></li></span></ul>
+            <h3> 3841 Hinkleville Road</h3></li>
+          <li><h3>Paducah, KY 42001</h3></li>
+          <li><h3> Phone 1-800-845-8723</h3></li>
+          <li><h3> International 1-270-443-4410</h3></li>
+          <li><h3><span id="customer_link"><a href="mailto:customerservice@hancocks-paducah.com" target="_top">customerservice@hancocks-paducah.com</a></span></h3></li></ul>
       <ul id="hour_operation">
         <li><h3 class="white_title"><strong>Hours of Operation:</strong></h3></li>
-          <li><h3> <time itemprop="openingHours" datetime="Mo-Fr 8:00-17:30">Monday - Friday: 8:00 am - 5:30 pm</time></h3></li>
-          <li><h3> <time itemprop="openingHours" datetime="Sa 9:00-18:00">Saturday: 9:00 am - 3:00 pm</time></h3></li>
-          <li><h3> Sunday: Closed</h3></li>
+          <li><h3>Mon - Fri: 8:00 am - 5:30 pm</h3></li>
+          <li><h3>Saturday: 9:00 am - 3:00 pm</h3></li>
+          <li><h3>Sunday: Closed</h3></li>
       </ul>
     </div>
-<div id="help"><div class="info-drops"><div class="drop-info"> <a href="javascript:myToggle('trigger1');" id="trigger1"><div class="drop-info-r"><div class="footer_more_ico"></div><h4 class="white_title" id="no-hide">Help</h4></div><div class="drop-info-l" style="display: none;"><img id="drop-info-icon" src="/c.3519720/hancocks_files/img/header/more_btn_footer.png"></div></a><ul id="help_ul" class="hide-container"><li><a href="/About-Us"><h3> About Us</h3></a></li><li><a href="/Catalog-Request"><h3> Request a Catalog</h3></a></li><li><a href="/Customer-Services"><h3> Customer Service</h3></a></li><li><a href="/Contact-Us"><h3> Contact Us</h3></a></li><li><a href="/Customer-Services"><h3> Help Center</h3></a></li><li><a href="/FAQ"><h3> FAQ</h3></a></li></ul></div></div></div><div id="information"> <a href="javascript:myToggle('trigger4');" id="trigger4"><div class="drop-info-r"><div class="footer_more_ico"></div><h4 class="white_title" id="no-hide">Information</h4></div><div class="drop-info-l" style="display: none;"><img id="drop-info-icon" src="/c.3519720/hancocks_files/img/header/more_btn_footer.png"></div></a><div id="information_ul" class="hide-container"><ul><li><a href="/Privacy-Policy"><h3>Privacy Policy</h3></a></li><li><a href="/Returns"><h3>Returns Policy</h3></a></li><li><a href="/Shipping-Policies"><h3>Shipping Options</h3></a></li><li><a href="/Terms-of-Service"><h3>Terms of Service</h3></a></li></ul></div></div><a href="https://checkout.hancocks-paducah.com/myaccount-1-05-0/index.ssp?sc=6&amp;promocode=&amp;promocodeaction=overwrite&amp;gc=clear" onclick="_gaq.push(['_link', this.href]); return false;"><div class="drop-info-r"><div class="footer_more_ico"></div><div class="no-hide-no-click"><div class="footer_more_ico"></div><h4 class="hidden_desktop">My Account</h4><script>$('.hidden_desktop:contains("My Account")').parent().parent().parent().attr('id','trigger5')</script></div></div><div class="drop-info-l" style="display: none;"><img id="drop-info-icon" src="/c.3519720/hancocks_files/img/header/more_btn_footer.png"></div></a> <a href="/s.nl/sc.3/.f" id="trigger5"><div class="drop-info-r"><div class="footer_more_ico"></div><div class="no-hide-no-click"><div class="footer_more_ico"></div><h4 class="hidden_desktop" onclick="location.href='/s.nl/sc.3/.f';">View Cart</h4></div>
+<div id="help"><div class="info-drops">
+<div class="drop-info"><a href="javascript:myToggle('trigger1');" id="trigger1">
+<div class="drop-info-r"><div class="footer_more_ico"></div>
+<h4 class="white_title" id="no-hide">Help</h4></div><div class="drop-info-l" style="display: none;"><img id="drop-info-icon" src="/c.3519720/hancocks_files/img/header/more_btn_footer.png"></div></a>
+<ul id="help_ul" class="hide-container">
+    <li><a href="/About-Us"><h3> About Us</h3></a></li>
+    <li><a href="/Customer-Services"><h3> Customer Service</h3></a></li>
+    <li><a href="/Contact-Us"><h3> Contact Us</h3></a></li>
+    <li><a href="/Customer-Services"><h3> Help Center</h3></a></li>
+    <li><a href="/FAQ"><h3> FAQ</h3></a></li>
+</ul>
+    </div>
+    </div>
+    </div><div id="information"> <a href="javascript:myToggle('trigger4');" id="trigger4">
+    <div class="drop-info-r"><div class="footer_more_ico"></div><h4 class="white_title" id="no-hide">Information</h4></div><div class="drop-info-l" style="display: none;"><img id="drop-info-icon" src="/c.3519720/hancocks_files/img/header/more_btn_footer.png"></div></a><div id="information_ul" class="hide-container"><ul><li><a href="/Privacy-Policy"><h3>Privacy Policy</h3></a></li><li><a href="/Returns"><h3>Returns Policy</h3></a></li><li><a href="/Shipping-Policies"><h3>Shipping Options</h3></a></li><li><a href="/Terms-of-Service"><h3>Terms of Service</h3></a></li></ul></div></div><a href="https://checkout.hancocks-paducah.com/myaccount-1-05-0/index.ssp?sc=6&amp;promocode=&amp;promocodeaction=overwrite&amp;gc=clear"><div class="drop-info-r"><div class="footer_more_ico"></div><div class="no-hide-no-click"><div class="footer_more_ico"></div><h4 class="hidden_desktop">My Account</h4><script>$('.hidden_desktop:contains("My Account")').parent().parent().parent().attr('id','trigger5')</script></div></div><div class="drop-info-l" style="display: none;"><img id="drop-info-icon" src="/c.3519720/hancocks_files/img/header/more_btn_footer.png"></div></a> <a href="/s.nl/sc.3/.f" id="trigger5"><div class="drop-info-r"><div class="footer_more_ico"></div><div class="no-hide-no-click"><div class="footer_more_ico"></div><h4 class="hidden_desktop" onclick="location.href='/s.nl/sc.3/.f';">View Cart</h4></div>
 </div><div class="drop-info-l" style="display: none;"><img id="drop-info-icon" src="/c.3519720/hancocks_files/img/header/more_btn_footer.png"></div></a><div id="newsletter_footer_form"><p>Newsletter</p><a href="/Connect" class="newsletter_button" title="Newsletter Sign Up">SIGN UP</a></div>
-<div class="clear"></div><div id="footer_bottom"><div id="credit_cards"><img src="/c.3519720/hancocks_files/img/footer/credit_cards.png" width="202" height="30" alt="We accept: Visa, Master Card, American Express and Discover"></div><ul id="social_media" class="social_media_mobile"><li><a href="https://www.facebook.com/HancocksPaducah" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/facebook.gif" width="38" height="34" alt="facebook"></a></li><li><a href="https://twitter.com/HancocksPaducah" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/twitter.gif" width="38" height="34" alt="twitter"></a></li><li><a href="https://instagram.com/hancockspaducah/" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/instagram.gif" width="38" height="34" alt="instagram"></a></li><li><a href="http://www.pinterest.com/hancockspaducah/" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/pinterest.gif" width="38" height="34" alt="pinteres"></a></li></ul><div id="copyright"><p> Copyright <span id="year"></span> -  Hancock's of Paducah. All Rights Reserved.</p></div><ul id="social_media"><li><a href="https://www.facebook.com/HancocksPaducah" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/facebook.gif" width="38" height="34" alt="facebook"></a></li><li><a href="https://twitter.com/HancocksPaducah" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/twitter.gif" width="38" height="34" alt="twitter"></a></li><li><a href="https://instagram.com/hancockspaducah/" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/instagram.gif" width="38" height="34" alt="instagram"></a></li><li><a href="http://www.pinterest.com/hancockspaducah/" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/pinterest.gif" width="38" height="34" alt="pinterest"></a></li></ul></div><div class="clear"></div><div id="footer_logos"><a target="_blank" title="Hancock's Of Paducah BBB Business Review" href="https://www.bbb.org/louisville/business-reviews/fabric-shops/hancock-s-of-paducah-in-paducah-ky-2006204/#bbbonlineclick" style="margin-top: 25px"><img alt="Hancock's Of Paducah BBB Business Review" style="border: 0;" src="https://seal-louisville.bbb.org/seals/black-seal-120-61-hancock-s-of-paducah-2006204.png" width="98" height="50"></a><span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=FtTu0qyYfndZGhUarJLJ6oACPHRvliaBQzpULlg5vOr1jxSjQrLrMMfMXWZL"></script></span><span><img src="/c.3519720/hancocks_files/img/footer/paypal-logo.jpg"></span></div><div class="clear"></div></div></div></td></tr></tbody></table><script>
+<div class="clear"></div><div id="footer_bottom"><div id="credit_cards"><img src="/c.3519720/hancocks_files/img/footer/credit_cards.png" width="250" height="30" alt="We accept: Visa, Master Card, American Express and Discover"></div><ul id="social_media" class="social_media_mobile"><li><a href="https://www.facebook.com/HancocksPaducah" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/facebook.gif" width="38" height="34" alt="facebook"></a></li><li><a href="https://twitter.com/HancocksPaducah" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/twitter.gif" width="38" height="34" alt="twitter"></a></li><li><a href="https://instagram.com/hancockspaducah/" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/instagram.gif" width="38" height="34" alt="instagram"></a></li><li><a href="http://www.pinterest.com/hancockspaducah/" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/pinterest.gif" width="38" height="34" alt="pinteres"></a></li></ul><div id="copyright"><p> Copyright <span id="year"></span> -  Hancock's of Paducah. All Rights Reserved.</p></div><ul id="social_media"><li><a href="https://www.facebook.com/HancocksPaducah" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/facebook.gif" width="38" height="34" alt="facebook"></a></li><li><a href="https://twitter.com/HancocksPaducah" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/twitter.gif" width="38" height="34" alt="twitter"></a></li><li><a href="https://instagram.com/hancockspaducah/" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/instagram.gif" width="38" height="34" alt="instagram"></a></li><li><a href="http://www.pinterest.com/hancockspaducah/" target="_blank"><img src="/c.3519720/hancocks_files/img/header/social_icons/pinterest.gif" width="38" height="34" alt="pinterest"></a></li></ul></div><div class="clear"></div><div id="footer_logos"><a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g39725-d5481259-Reviews-Hancock_s_of_Paducah-Paducah_Kentucky.html"><img src="/c.3519720/hancocks_files/img/footer/2017TripAdvisor.gif" width="67" height="50" alt="TripAdvisor"></a><a target="_blank" title="Hancock's Of Paducah BBB Business Review" href="https://www.bbb.org/louisville/business-reviews/fabric-shops/hancock-s-of-paducah-in-paducah-ky-2006204/#bbbonlineclick" style="margin-top: 25px"><img alt="Hancock's Of Paducah BBB Business Review" style="border: 0;" src="https://seal-louisville.bbb.org/seals/black-seal-120-61-hancock-s-of-paducah-2006204.png" width="98" height="50"></a><span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=FtTu0qyYfndZGhUarJLJ6oACPHRvliaBQzpULlg5vOr1jxSjQrLrMMfMXWZL"></script></span><span><img src="/c.3519720/hancocks_files/img/footer/paypal-logo.jpg"></span></div><div class="clear"></div></div></div></td></tr></tbody></table><script>
 try {
 	var tt_loginformdom =  document.forms["login"];
 	if((document.location.href.match("login=T") && document.location.href.match("reset=T")  || document.location.href.match("nlvisitor.nl") && tt_loginformdom) ||(($(".greytitle:contains('New Customers'):last"))&&($(".greytitle:contains('Returning Customer'):last")))){
@@ -1199,21 +1219,28 @@ $('#' +id).text('');
 }
 })
 </script>
-<script data-name="__br_tm" type="text/javascript">
-  var _bsw = _bsw || [];
-  _bsw.push(['_bswId', '813bc0bbfc01dd537870c67944e66ee9731d2b2e8c873d8f23396a14996a24b5']);
-  (function() {
-    var bsw = document.createElement('script'); bsw.type = 'text/javascript'; bsw.async = true;
-    bsw.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.bronto.com/s/b.min.js';
-    var t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(bsw, t);
-  })();
-
-  //$("#submitter").click(function(){sessionStorage.setItem('jsonCart', JSON.stringify(jsonCart))});
-</script>
+<div itemscope="" itemtype="http://schema.org/LocalBusiness" style="display:none;">
+<span itemprop="name">Hancock's of Paducah</span>
+<img id="_image2" itemprop="image" src="/c.3519720/hancocks_files/img/header/logo_hancocks.png" width="239" height="87" alt="Hancock's of Paducah">
+<span itemprop="description">Shop Hancock's of Paducah for the best premium Quilting Fabrics, Notions, Patterns, &amp; More!  Largest selection of premium Quilt Kits, Fat Quarters &amp; Precuts</span>
+<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+<span itemprop="streetAddress">3841 Hinkleville Road</span>
+<span itemprop="addressLocality">Paducah</span>,
+<span itemprop="addressRegion">KY</span>
+<span id="_addressCountry9" itemprop="addressCountry">United States</span>
+<span itemprop="postalCode">42001</span>
+</div>
+<span itemprop="telephone">1-800-845-8723</span>
+<span id="_email4" itemprop="email">customerservice@hancocks-paducah.com</span>
+<span itemprop="priceRange">$$</span>
+<time itemprop="openingHours" datetime="Mo-Fr 8:00-17:30">Monday - Friday: 8:00 am - 5:30 pm</time>
+<time itemprop="openingHours" datetime="Sa 9:00-18:00">Saturday: 9:00 am - 3:00 pm</time>
+</div>
+<script src="https://cdn.bronto.com/bba/bba.js" data-bbaid="90f4ecdd-6962-47a8-b6e0-60729d43177b" async=""></script>
 </div>
 <iframe src="/empty.html" id="server_commands" style="visibility:hidden" height="0"></iframe><script language="javascript" type="text/javascript">
 var i=new Image();
-i.src='/app/site/hit/tracker.nl?c=3519720&n=1&type=store&sc=28&category=&it=I&itemid=4&referer='+escape(document.referrer);
+i.src='/app/site/hit/tracker.nl?c=3519720&n=1&type=store&sc=28&category=&it=I&itemid=4&referer='+encodeURIComponent(document.referrer);
 i.onload=function(){nsVoid();};
 function nsVoid(){return;};
 </script>
@@ -1230,15 +1257,15 @@ window.negativesuffix ='';
 window.number_blacklist_regex = new RegExp('[^\\.\\-\\d]','g');
 window.datetime_am_string ='am';
 window.datetime_pm_string ='pm';
-window.datetime_short_months = new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec","");
+window.datetime_short_months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""];
 window.phoneformat ="123-456-7890";
 window.loadcomplete = true;}</script>
 
 
 
-<!-- 215 s: 40% #34 cache: 9% #151 -->
-<!-- #84/50 #1/21  #9-->
-<!-- [ sh.j10020.bos ] [ 2016.2.0.79 ]-->
-<!-- [ 3519720 ] [ /s.nl ] [ Sat Nov 26 19:26:04 PST 2016 ] -->
+<!-- 355 s: 28% #40 cache: 11% #140 -->
+<!-- #189/138 #1/21  #9-->
+<!-- [ sh.j10024.bos ] [ 2017.2.0.84 ]-->
+<!-- [ 3519720 ] [ /s.nl ] [ Tue Nov 28 08:54:39 PST 2017 ] -->
 <!-- Not logging slowest SQL -->
 </body></html>
