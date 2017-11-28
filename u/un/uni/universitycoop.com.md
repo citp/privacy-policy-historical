@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universitycoop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143405id_/http%3A//www.universitycoop.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universitycoop.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128034357id_/http%3A//www.universitycoop.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy- Policy | University Co-op Online
 
