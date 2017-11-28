@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thuglifevideos.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626191551id_/http%3A//thuglifevideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thuglifevideos.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128134408id_/http%3A//thuglifevideos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thug Life Videos
 
 **ThugLifeVideos.com  ** **Privacy Policy**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at general@ThugLifeVideos.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At ThugLifeVideos.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ThugLifeVideos.com and how it is used.
 
