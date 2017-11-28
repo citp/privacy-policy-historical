@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the youthcorner.in privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530091527id_/http%3A//www.youthcorner.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcorner.in privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128040953id_/http%3A//www.youthcorner.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Youth Corner
 
-**YouthCorner.in Privacy Policy**
+Privacy Policy
+
+Rate this post
+
+ **YouthCorner.in Privacy Policy**
 
 Protecting your privacy is very important to us and we have developed this privacy policy to protect your personal information and keep it confidential.
 
@@ -28,7 +32,7 @@ We also honour “do not track” signals and do not track, plant cookies, or us
 
 In accordance with _Fair Information Practices_ , we will notify our subscribers, users within 2 business days via email.
 
-In accordance with _CAN SPAM act_ , we agree to promptly remove subscribers from all correspondence upon user’s request for unsubscribing from receiving any future emails. You can mail us at _**[admin@youthcorner.in](mailto:admin@youthcorner.in)**_  to request to unsubscribe.
+In accordance with _CAN SPAM act_ , we agree to promptly remove subscribers from all correspondence upon user’s request for unsubscribing from receiving any future emails. You can mail us at _**[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#f49590999d9ab48d9b81809c979b869a9186da9d9a)**_ to request to unsubscribe.
 
  **Use of Collected Information**
 
@@ -67,6 +71,6 @@ If there any question regarding the privacy policy of out site, you may contact 
 Youth Corner Office  
 Raebareli City  
 Uttar Pradesh, 229001,  
-Email: **[admin@youthcorner.in](mailto:admin@youthcorner.in)**
+Email: **[[email  protected]orner.in](https://web.archive.org/cdn-cgi/l/email-protection#7312171e1a1d330a1c06071b101c011d16015d1a1d)**
 
 Privacy Policy last update on June 3, 2016.
