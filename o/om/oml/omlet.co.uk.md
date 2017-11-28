@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omlet.co.uk privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320110615id_/https%3A//www.omlet.co.uk/misc/site_policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omlet.co.uk privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128232139id_/https%3A//www.omlet.co.uk/misc/site_policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Omlet
 
