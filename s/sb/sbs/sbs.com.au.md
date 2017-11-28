@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630185352id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128202400id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
 
 # Corporate : View : SBS Corporate
 
@@ -135,7 +135,7 @@ Information about opt-out options for third party online behavioural advertising
 
 You can find out more about online behavioural advertising here:
 
-·         Office of the Australian Information Commissioner: [Privacy Fact Sheet 4 Online Behavioural Advertising](https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-4-online-behavioural-advertising-know-your-options)
+·         [Office of the Australian Information Commissioner: ](http://www.youronlinechoices.com.au/)[Privacy Fact Sheet 4 Online Behavioural Advertising](https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-4-online-behavioural-advertising-know-your-options)
 
 ·         [Your Online Choices: A guide to behavioural advertising](http://www.youronlinechoices.com.au/).
 
@@ -191,9 +191,7 @@ If after reading this policy you have any questions or concerns, please contact 
 
 **Email:**[ privacy@sbs.com.au](mailto:privacy@sbs.com.au)
 
-**Telephone:**
-
-+61 (0)2 9430 3878 
+**Telephone:** +61 (0)2 9430 3878 
 
 Freecall 1800 500 727
 
@@ -213,4 +211,4 @@ Crows Nest NSW 1585
 
 **Office of the Australian Information Commissioner (OAIC)**
 
-The OAIC can investigate complaints about acts or practices that may interfere with an individual’s privacy. Contact details are set out on the OAIC [website](https://www.oaic.gov.au/) (www.oaic.gov.au).
+The OAIC can investigate complaints about acts or practices that may interfere with an individual’s privacy. Contact details are set out on the OAIC [website](https://www.oaic.gov.au/) ([www.oaic.gov.au](http://www.oaic.gov.au/)).
