@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucweb.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614042306id_/http%3A//www.ucweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucweb.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128011622id_/http%3A//www.ucweb.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement of UCWeb - UC Browser
 
