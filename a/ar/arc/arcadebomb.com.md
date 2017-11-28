@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadebomb.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529045533id_/http%3A//www.arcadebomb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadebomb.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128152655id_/http%3A//www.arcadebomb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for ArcadeBomb.com
 
@@ -58,7 +58,7 @@ Our server software has disabled log files to speed up your game experience. All
 
 ## Liability & Copyright
 
-It is arcadebomb.com's policy to respond quickly (under 24 hours) to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, arcadebomb.com will immediately disable and remove games in question. Please take some time to read our copyright policy [read more](https://web.archive.org/web/20170529045533id_/http%3A//www.arcadebomb.com/copyright_policy.html)
+It is arcadebomb.com's policy to respond quickly (under 24 hours) to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, arcadebomb.com will immediately disable and remove games in question. Please take some time to read our copyright policy [read more](https://web.archive.org/web/20171128152655id_/http%3A//www.arcadebomb.com/copyright_policy.html)
 
 _this policy was published on 2010 by Explosive Games_  
 Arcadebomb.com 
