@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventuresincoupons.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625165202id_/http%3A//sixdollarfamily.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuresincoupons.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128012448id_/http%3A//sixdollarfamily.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,3 +19,5 @@ Gift Cards or codes
 Gift boxes
 
 In general, you are responsible for the information you submit when you subscribe to my blog, enter giveaways, participate in a poll or survey, or post a comment. Your comments on posts and profile information can be read by anyone and I discourage you from including your email address or other personally identifying information. I do allow you to post comments as “Anonymous” as a way to help protect your privacy.
+
+[](https://sixdollarfamily616.activehosted.com/f/19)
