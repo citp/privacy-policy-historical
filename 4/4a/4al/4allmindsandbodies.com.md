@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4allmindsandbodies.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125233625id_/http%3A//www.4allmindsandbodies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4allmindsandbodies.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128165012id_/http%3A//www.4allmindsandbodies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 4allMindsAndBodies
+# Privacy Policy – 4allMindsAndBodies
 
 This privacy policy sets out how 4AllMindsAndBodies uses and protects any information that you give us when you use this website.  
 4AllMindsAndBodies  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
