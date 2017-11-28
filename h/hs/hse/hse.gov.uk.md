@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hse.gov.uk privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521085910id_/http%3A//www.hse.gov.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hse.gov.uk privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128165706id_/http%3A//www.hse.gov.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -19,7 +19,7 @@ HSE is under a legal duty to protect any personal information we collect and we 
 
 From time to time we need to handle personal information about you so that we can provide services for you. Our Information charter shows how we look after that information
 
-  * [Information charter](https://web.archive.org/web/20170521085910id_/http%3A//www.hse.gov.uk/info-charter.htm)[3]
+  * [Information charter](https://web.archive.org/web/20171128165706id_/http%3A//www.hse.gov.uk/info-charter.htm)[3]
 
 
 
@@ -50,7 +50,7 @@ We use our website server log files to identify patterns of website use to enabl
 
 HSE uses small bits of data stored on your computer called 'cookies'. Find out what we use them for, and how you can control their use.
 
-  * [Privacy and how cookies are used by HSE](https://web.archive.org/web/20170521085910id_/http%3A//www.hse.gov.uk/privacy-cookies.htm)[4]
+  * [Privacy and how cookies are used by HSE](https://web.archive.org/web/20171128165706id_/http%3A//www.hse.gov.uk/privacy-cookies.htm)[4]
 
 
 
@@ -71,8 +71,8 @@ http://www.ico.org.uk/ESDWebPages/DoSearch?reg=242807
   2. Information Commissioner’s Office  
 http://www.ico.org.uk/
   3. Information charter  
-https://web.archive.org/web/20170521085910id_/http%3A//www.hse.gov.uk/info-charter.htm
+https://web.archive.org/web/20171128165706id_/http%3A//www.hse.gov.uk/info-charter.htm
   4. Privacy and how cookies are used by HSE  
-https://web.archive.org/web/20170521085910id_/http%3A//www.hse.gov.uk/privacy-cookies.htm
+https://web.archive.org/web/20171128165706id_/http%3A//www.hse.gov.uk/privacy-cookies.htm
 
 
