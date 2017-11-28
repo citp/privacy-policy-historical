@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpiracing.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530074149id_/http%3A//hpiracing.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpiracing.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128032954id_/http%3A//www.hpiracing.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HPI Racing
 
