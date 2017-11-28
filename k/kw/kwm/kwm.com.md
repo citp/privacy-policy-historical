@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwm.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629215006id_/http%3A//kwm.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwm.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128164947id_/http%3A//www.kwm.com/en/privacy-statement) for the most accurate reproduction.*
 
 # KWM | Privacy Statement
 
@@ -110,6 +110,6 @@ You may also submit to us (see contact details below) a written complaint about 
 
 In relation to this Privacy Statement or the use of your personal information please contact the relevant King & Wood Mallesons contact as set out where required on the location specific legal notices pages.
 
-Alternatively please contact the General Counsel, Europe and Middle East, of King & Wood Mallesons at 10 Queen Street Place, London EC4R 1BE, United Kingdom, tn +44 20 7111 2222 or email [general.counsel@eu.kwm.com](mailto:%20general.counsel@eu.kwm.com). In relation to personal information on or collected through this website KWM Service Limited has appointed King & Wood Mallesons LLP of 10 Queen Street Place, London EC4R 1BE as its representative in the United Kingdom for the purposes of the United Kingdom Data Protection Act 1998. 
+Alternatively please contact the General Counsel of King & Wood Mallesons in Australia at Level 61, Governor Phillip Tower, Farrer Place, Sydney NSW 2000, Australia, T +61 2 9296 2000 or email [general.counsel@au.kwm.com](mailto:%20general.counsel@eu.kwm.com). In relation to personal information on or collected through this website KWM Service Limited has appointed KWM Europe LLP of Octagon Point, St Martins Court, 5 Cheapside, London, EC2V 6AA, UK as its representative in the United Kingdom for the purposes of the United Kingdom Data Protection Act 1998. 
 
 KWM Service Limited can be contacted at 13/F Gloucester Tower, The Landmark, 15 Queen’s Road Central, Hong Kong.
