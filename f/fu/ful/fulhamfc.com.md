@@ -1,52 +1,107 @@
-> *The following text is extracted and transformed from the fulhamfc.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622045359id_/http%3A//www.fulhamfc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulhamfc.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128022231id_/http%3A//fulhamfc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fulham Football Club
 
-Fulham Football Club ("FFC") is committed to maintaining your privacy in accordance with the Data Protection Act 1998. Our Privacy Policy explains our commitment to data protection and the use of your information in providing you with the services and information you require.  For the avoidance of doubt, references to “Fulham Football Club” and/or “we” and/or “our” in this policy should be read so as to include the Fulham Football Club Foundation (“Foundation”), such that, if you supply personal information to the Foundation, the provisions of this policy shall apply equally to the Foundation and its handling / use of your information. 
+## FFC PRIVACY POLICY
 
-**What information do we collect? How do we use it?**
+**About us**
 
-At times we may request that you voluntarily supply us with personal information. Generally this information is requested when you register to use our website, purchase tickets and enter any promotions or competitions. We may gather and use information about you in the following ways:
+This privacy policy explains how Fulham Football Club Limited and Fulham Football Club Foundation (together "FFC") use personal data. FFC are data controllers of this information for the purposes of this policy.
 
-**More generally, we will use your personal details and information we obtain from other sources to provide you with our goods and services, for administration and customer services, for marketing, to analyse your purchasing preferences and to ensure that the content, services and advertising that we offer are tailored to your needs and interests. We may need to share your information with our service providers and agents for these purposes. We may disclose personal data in order to comply with a legal or regulatory obligation. We do not store or share financial information with third parties.**
+**When does this policy apply?**
 
-By providing us with your personal information you consent to our processing your personal data for the above purposes. You also consent to our transferring your information to countries or jurisdictions outside of the EEA which may not provide the same level of data protection as the UK, if necessary, for the above purposes.
+This policy applies to the personal data that FFC collects and holds about you when you use its official websites and/or other services. FFC’s websites and services include:
 
-**How do we use your information for marketing?  
-**We may:
+  - The Official Fulham FC Website at www.fulhamfc.com;   
+- The Fulham Football Club Official Online Store at http://www.fulhamdirect.fulhamfc.com;   
+- The Fulham Football Club Online Ticket Office at www.eticketing.co.uk/fulhamfc;  
+- The Fulham Football Club Events page at www.cravencottageevents.com;    
+- fulhamfctv at www.fulhamfc.com/fulhamfctv;  
+(together the "FFC Official Websites")  
+- The Official Fulham FC App;  
+- The Fulham Stadium Store at Stevenage Road, London SW6 6HH; and   
+- The Official Fulham FC Telephone Sales Line, on 0203 871 0810. 
 
-We, our official business partners and sponsors and selected third parties may contact you by various means, including but not limited to mail, telephone, fax, email or other electronic messaging services (including mobile phone messaging) with offers of goods, services, promotions or information that may be of interest to you. By providing us with your postal address, telephone or fax numbers or email address you consent to being contacted by these methods for these purposes. If you do not wish to receive marketing information from us or our business partners please indicate this where requested on the registration form. You can change your preferences at any time by updating your personal profile online or by contacting us at [Dataprotection@Fulhamfc.com](mailto:Dataprotection@Fulhamfc.com). 
+**What types of personal data do we hold?**
 
-**How do we protect your information?** We take appropriate measures to ensure that the information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used. 
+Information we hold about you may include any one or more of the following types of data:
 
-**Use of cookies  
-**  
-We may use information obtained about you from cookies (files which are sent by us to your computer or other access device). On this website we use Sitestat, a product of Nedstat, to measure and analyse information with respect to visits to our website. To that effect we use your IP-address to collect, among other things, internet traffic data and data regarding your browser type and computer. Cookies merely contain a unique number and therefore no personal data. The cookie cannot be used to identify you on websites of third parties, including Nedstat. We will not use the IP-addresses or cookies to identify you personally. 
+• **Account information** : When you register to use or engage with any of FFC’s goods and/or services, the minimum information we will usually ask you to provide is your name, email address, country of residence, telephone number, and year of birth.  We may also ask you for additional information depending on the service you are registering to use. 
 
-We use the services of Nedstat in order to increase the efficiency of our websites. If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer's instructions by clicking "Help" in your browser menu. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site. 
+• **Transactional information** : When you purchase tickets(including where tickets are purchased through FFC’s official third party ticketing provider from time-to-time), merchandise and other products from FFC Official Websites or any other official offline sales channels, we will keep a record of your transaction, including what you purchased and when, and any information you provide to us to fulfil the transaction.  This may include your name, billing information, telephone number, and delivery address.  We will not keep payment card information, except for the last four digits of your payment card number which we keep in case there are any payment disputes or we need to issue a refund.   
 
-**Disclaimer**
+• **Information you provide to us in response to a survey** : We may occasionally contact you to ask for your feedback on FFC products, goods and/or services so that we can make them better and more relevant.
 
-We link to a wide variety of other sites and we may display advertisements from third parties on our site. We are not responsible for the content or privacy policies of these sites and third party advertisers, nor for the way in which information about their users is treated. In particular, unless expressly stated, we are not agents for these sites or advertisers nor are we authorised to make representations on their behalf. 
+• **Information you post online** : We may hold and use information and/or user generated content which you post on FFC Official Websites and/or the Official Fulham FC App.  
 
-We encourage our users to be aware of this when they leave our site and to read the privacy statements applicable on those sites. 
+• **Information from other companies** : We may use publicly available postal address lists and the edited electoral roll to ensure that the information we hold about you is accurate or we may use this information, together with general market research information (for example, demographic information) to add to and enhance our fan database. 
 
-**Other Information**
+• **Online usage information** : If you use FFC Official Websites we may collect your browser type, the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), products you viewed or searched for, page response times, length of visits to certain pages, page interaction information, (such as scrolling, clicks and mouse-overs) and methods used to browse away from the page.  In addition, if you use the Official Fulham FC App we may collect information confirming your device type and any GPS location data.  Online usage information may be linked to a unique identifier but we do not link online usage information to named individuals. In order to collect online usage information we use cookies and other similar technologies.  
 
-You should note that if our business (or any part of it) is sold or transferred at any time, the information we hold may form part of the assets transferred although will still only be used in accordance with this policy. 
+**The purposes for which we use your information**
 
-You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee up to £10) and to have any inaccuracies in your information corrected. Any such requests must be made in writing to: 
+• **Contract performance** : FFC may use account information and transactional information data, as necessary, to carry out or perform any contract which you may have entered into with us, including contracts for the purchase of tickets, merchandise and other products, but also our contracts with you when we operate competitions, prize draws and promotions and when we administer your online accounts. We also use this information to communicate with you and handle your enquiries regarding these contracts.  If you order FFC goods, products or services for another person (for example, match tickets for family or friends) we may ask you for their personal information and we will use this to provide the services you have ordered. Please ensure that you have their permission before providing this information to FFC.     
 
-The Marketing Department, Fulham Football Club, Motspur Park Training Ground, New Malden, Surrey. KT3 6PT. 
+• **Recruitment** : If you apply for a job with FFC we may use your information for the purposes of recruitment and selection, corresponding with you and equal opportunities monitoring.
 
-For quality control and training purposes, we may monitor or record your communications with us.
+• **Legal obligations** : FFC retains records of all of its financial transactions with you in order to comply with its legal obligations to maintain adequate accounting records.  FFC may use (and disclose) the information it holds about you in order to comply with any investigative demand, court order, or a request for cooperation from a law enforcement or other government agency.
 
-**When and how to contact us**
+• **Marketing with your consent** : If you consent to it, FFC may contact you with news and offers from FFC and its official sponsors and partners (an up-to-date list of which is at www.fulhamfc.com/sponsorship/sponsors) which we think may be of interest to you.  You have the right to withdraw your consent at any time.  If you would like to unsubscribe now, please contact enquiries@fulhamfc.com  
 
-You can change your marketing preferences online at any time by updating your personal profiles or by contacting us at [Dataprotection@Fulhamfc.com ****](mailto:Dataprotection@Fulhamfc.com)
+• **Other legitimate purposes** : FFC analyses information it holds about you to identify trends and preferences and to get a more informed picture of how FFC fans are using its products and services.  FFC does this to make better strategic decisions about FFC and its products and services so that it can improve the way it markets and provides products to you as an individual and to FFC’s fan base generally, in particular by delivering content and services which are customised and relevant.  FFC may also use online usage information to administer and improve the function and content of the FFC Official Websites and the Official Fulham FC App including to ensure that content is presented in the most effective manner for you and your device and browser, to allow you to participate in interactive features when you choose to do so and [to keep our online services safe and secure.
 
-**Changes to this policy**
+**Disclosure of your information**
 
-This policy was last updated on 1st April 2009 
+• **Group companies** : Information held by FFC may be used by both Fulham Football Club Limited and Fulham Football Club Foundation for the purposes set out in this policy.
 
-We may change this Privacy Policy from time to time and you should review it regularly. Any changes will take effect once the revised policy is published on our website. We will of course notify you of any changes where we are required to do so. Please refer to this policy each time you submit your personal information.
+• **Sponsors and partners** : FFC does not share your personal data with our sponsors and partners, but we may: (i) share aggregate/anonymised information which is based on this information with existing and potential sponsors and partners; and (ii) if you have consented to the same, send you information about the products and services of our existing partners in our marketing communications. 
+
+• **FFC suppliers and sub-contractors** : FFC may share your information with suppliers and sub-contractors from time-to-time in order that they can process it on FFC’s behalf for the purposes set out in this privacy policy.  However, where we do so we will put in place suitable measures in order to protect your information.  These third parties may include: (i) call centre providers; (ii) IT service providers (such as hosting providers); (iii) mailing houses; (iv) delivery services; (v) analytics and search engine providers; (vi) credit reference agencies; and/or (vii) payment processing companies.
+
+• **Disclosures for legal reasons** : FFC may also disclose the information it holds about you to those persons that have a reasonable need to know such information, if it believes in good faith that this is necessary to: (i) establish, exercise or enforce its legal rights, including contractual rights; (ii) to defend itself against a legal claim; (iii) report a crime or prevent a crime (for example ticket touting); (iv) prevent harm to any individual or any property (including intellectual property, for example if you misuse images or videos or any other content FFC makes available to you); or (iv) to prevent fraud (for example, payment card fraud) or for credit risk reduction.
+
+• **Business transfer** : If FFC sells or buys any business or assets, your personal data may be disclosed to the prospective seller or buyer of such business or assets so that they can carry out due diligence in respect of the sale or purchase, but only if FFC has taken reasonable steps to ensure the security and confidentiality of that information.  If FFC (or substantially all of its assets) is acquired by a third party, personal data held about fans or users of its goods, products or services will be one of the transferred assets.
+
+**How long do we keep your information?**
+
+**FFC stores:  **
+
+• its financial transactions with you for six years in order to comply with its obligations to maintain adequate accounting records;  
+• its contracts with you for six years so that it has appropriate evidence in place if there is a claim for breach of contract made within the statutory limitation periods;  
+• job applications for up to six months in case other suitable opportunities arise;   
+• your account information until you close or delete your account/profile (at which point we would also delete any information from other companies or market research which we have appended to your account/profile);  
+• any market research we have undertaken (and which is not appended to your user account) for 3 years;  
+• any other information you post online for 3 years if it is on FFC Official Websites; and  
+• online usage information for 3 years.  
+If any information falls into more than one category then the longer storage period will apply. 
+
+**Your rights**
+
+You have the right under applicable data protection laws to access information held about you and you can do so by contacting us using the details provided below in this policy.  Your right of access can be exercised in accordance with applicable data protection laws.  Any access request will be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.  
+
+You have several rights under applicable data protection laws, which we’ve summarised below. These rights can be exercised by contacting FFC using the details given below in this policy. 
+
+**You have the right to:**  
+• ask us not to process your personal data for direct marketing purposes;  
+• request access to personal information held about you and a copy of it;  
+• obtain, without undue delay, the rectification of inaccurate or incomplete personal data;   
+• obtain, without undue delay, erasure of your personal data in certain circumstances, for example if FFC’s processing of your personal data is no longer necessary for the purpose for which we collected it;   
+• restrict the processing of your personal data in certain circumstances rather than having it erased;   
+• object to the processing of, personal data in certain circumstances, for example, where FFC’s processes personal data for legitimate purposes but you do not feel that your interests or fundamental rights and freedoms have been protected;   
+• receive personal data, which you have provided to FFC, in a structured, commonly-used and machine-readable format and transmit that personal data to another data controller, or have FFC do so on your behalf where technically feasible;   
+• be informed about any use of your personal data to make automated decisions about you, and to obtain meaningful information about the logic involved, as well as the significance and the envisaged consequences of this processing; and  
+• lodge a complaint about the way in which your personal data is being used to a supervisory authority.
+
+**Children**
+
+Our business and the competitions, products and services we provide from time-to-time are not specifically targeted at children, but we appreciate that many children are fans of football and/or sport generally.  We would therefore ask that parents and guardians supervise their children when they are online and that children under 18 do not submit personal information or content to FFC, make purchases of FFC goods, products or services, or take part in FFC promotions or competitions, without the consent of their parent or guardian.     
+
+**How you can contact us**
+
+If you would like to contact FFC about this policy or any of the legal rights outlined in it, you can email us at enquiries@fulhamfc.com or write to FFC at Motspur Park Training Ground, New Malden, Surrey, KT3 6PT. 
+
+**Changes to our privacy policy**
+
+Any changes we make to this privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to this privacy policy. 
+
+This privacy policy was last updated in March 2017. 
