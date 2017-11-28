@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heresthethingblog.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621011501id_/http%3A//heresthethingblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heresthethingblog.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128055556id_/http%3A//heresthethingblog.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | here's the thing
 
