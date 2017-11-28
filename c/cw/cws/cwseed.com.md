@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cwseed.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202213id_/http%3A//cwseed.com/cwseed-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwseed.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128054414id_/http%3A//cwseed.com/cwseed-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CW Seed | Home of Original Digital Series
 
-Updated May 1, 2014
+Updated November 20, 2017
 
 CW Privacy Policy
 
@@ -73,6 +73,8 @@ We may also share such information with business partners and third parties (e.g
 **Marketing communications.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, you may: (i) log into your account if you have created an account with us at one of our Sites to adjust your settings, (iii) follow the “unsubscribe” instructions provided in any marketing email you receive from us, (iii) send us an email at [privacy@wb.com](mailto:privacy@wb.com) and we will modify your preferences accordingly, or (iv) opt-out of targeted advertising as set forth in the Advertising section above. If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or app settings, depending on the type of device.
 
 **Uninstalling a mobile application.** If you no longer wish to have any information collected by a mobile application, you may uninstall the application by using the standard uninstall processes available on your mobile device or via the mobile application marketplace or network.
+
+**Nielsen.** The properties may feature Nielsen proprietary measurement software, which will allow users to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy.
 
 **CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS  **   
 If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at [privacy@wb.com](mailto:privacy@wb.com). 
