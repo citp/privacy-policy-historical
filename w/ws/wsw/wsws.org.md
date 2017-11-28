@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsws.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623102401id_/http%3A//www.wsws.org/en/special/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsws.org privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128054023id_/http%3A//www.wsws.org/en/special/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - World Socialist Web Site
 
