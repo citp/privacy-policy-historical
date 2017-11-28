@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancocks-paducah.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127032604id_/http%3A//www.hancocks-paducah.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancocks-paducah.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128165439id_/http%3A//www.hancocks-paducah.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hancock’s of Paducah
 
