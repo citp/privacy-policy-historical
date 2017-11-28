@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jjmehta.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615211041id_/http%3A//jjmehta.com/shop/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjmehta.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128183745id_/http%3A//jjmehta.com/shop/Privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -35,4 +35,4 @@ JJMEHTA.COM reserves the right to change or update this policy at any time by pl
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
-Any questions or clarifications with respect to this Policy can be sent to us at : info@jjmehta.com
+Any questions or clarifications with respect to this Policy can be sent to us at : [[email protected]](http://jjmehta.com/cdn-cgi/l/email-protection)
