@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyracing.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144523id_/https%3A//www.skyracing.com.au/index.php%3Fcomponent%3Dcontent%26Itemid%3D124%26id%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyracing.com.au privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129093809id_/http%3A//www.skyracing.com.au/index.php%3Fcomponent%3Dcontent%26Itemid%3D124%26id%3D100) for the most accurate reproduction.*
 
 # Privacy Policy
 
