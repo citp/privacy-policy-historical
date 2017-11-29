@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturesway.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613145841id_/http%3A//www.naturesway.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturesway.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129223948id_/http%3A//www.naturesway.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nature's Way®.
 
@@ -9,7 +9,7 @@ Your privacy is important to us. Schwabe North America and affiliates ("Schwabe 
 
 This Statement of Privacy describes how Schwabe North America treats information received about you when you become a Schwabe North America subscriber, when you provide information to us, and when you use the Schwabe North America web site. This statement addresses the following.
 
-Please read this Statement of Privacy carefully. Questions regarding this statement should be directed to privacy@enzy.com.
+Please read this Statement of Privacy carefully. Questions regarding this statement should be directed to privacyquestion@naturesway.com.
 
 ###  Collection and Use of Personal Information
 
@@ -35,4 +35,4 @@ Schwabe North America may make changes to this statement from time to time. We w
 
 ###  Questions, Comments, Concerns
 
-If you have any questions or comments about our use of Personal Information or about this Statement of Privacy, please contact us at privacy@enzy.com. Schwabe North America will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information and to comply fully with the legal and regulatory supervisory authorities responsible.
+If you have any questions or comments about our use of Personal Information or about this Statement of Privacy, please contact us at privacyquestion@naturesway.com. Schwabe North America will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information and to comply fully with the legal and regulatory supervisory authorities responsible.
