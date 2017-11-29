@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinkrod.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608232628id_/http%3A//www.pinkrod.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkrod.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129220645id_/http%3A//pinkrod.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Police
+# Privacy policy
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of Pinkrod.com (the “Website”), including information you provide when using it.
 
