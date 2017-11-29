@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopjimmy.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609091542id_/http%3A//www.shopjimmy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjimmy.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129025141id_/http%3A//www.shopjimmy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and TV Parts Disclaimer | ShopJimmy
 
