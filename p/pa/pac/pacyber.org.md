@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacyber.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073334id_/http%3A//www.pacyber.org/legal/%3FPrivacy-Policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacyber.org privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129041028id_/http%3A//www.pacyber.org/legal/%3FPrivacy-Policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | PA Cyber
 
