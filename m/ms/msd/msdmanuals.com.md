@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msdmanuals.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103001id_/http%3A//www.msdmanuals.com/professional/resourcespages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msdmanuals.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129025959id_/http%3A//www.msdmanuals.com/professional/resourcespages/privacy) for the most accurate reproduction.*
 
 # Privacy - MSD Manual Professional Edition
 
