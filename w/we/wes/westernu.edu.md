@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westernu.edu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628021044id_/https%3A//www.westernu.edu/westernu-resources/westernu-policy-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westernu.edu privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129030922id_/https%3A//www.westernu.edu/westernu-resources/westernu-policy-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Resources - Western University of Health Sciences
 
