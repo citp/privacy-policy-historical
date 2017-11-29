@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628082226id_/https%3A//www.military.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129225149id_/https%3A//www.military.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Military.com
 
-**We have updated our Privacy Policy as of June 10, 2011. We encourage you to read the policy below so that you know how we collect and use the information you choose to provide.**
+**We have updated our Privacy Policy as of September 15, 2017. We encourage you to read the policy below so that you know how we collect and use the information you choose to provide.**
 
 Military.com ("Military") is a property of Monster Worldwide dedicated to serving the military community. Military is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This Privacy Policy sets forth the online data collection and usage policies and practices that apply to this web site and to its network of sites, which are included in the link at the bottom of this page under Military.com Network Sites. It does not apply to information we collect in any other fashion.
 
@@ -123,34 +123,22 @@ San Francisco, CA 94105
 
 Thank you for using Military.com.
 
-Update effective 10 June 2011
+Update effective 15 September 2017
 
 ## Military.com Network of Sites
 
-**Network Blogs:**
+**Military Blogs:**
 
-op-for.com
+Defense Tech
 
-lineofdeparture.com
+DOD Buzz
 
-defensetech.org
+Spouse Buzz
 
-dodbuzz.com
+Paycheck Chronicles (finance blog)
 
-spousebuzz.com
+Kitup (equipment blog)
 
-**Military.com Blogs:**
+Under The Radar (entertainment blog)
 
-military-education.military.com (education blog)
-
-paycheck-chronicles.military.com (finance blog)
-
-transitionstories.military.com (transition blog)
-
-military-fitness.military.com (fitness blog)
-
-kitup.military.com (equipment blog)
-
-undertheradar.military.com (entertainment blog)
-
-militaryadvantage.military.com (benefits blog)
+Military Advantage (benefits blog)
