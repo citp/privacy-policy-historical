@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cu.edu privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608072120id_/http%3A//www.cu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cu.edu privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129131509id_/http%3A//www.cu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University of Colorado
 
@@ -27,4 +27,4 @@ Information other than personally identifiable information may be collected from
 
 ### Comments and Feedback
 
-Please send comments, questions, or concerns to the Office of Information Security ([security@cu.edu](mailto:security@cu.edu), 303-860-5734).  When sending comments, please include a current mailing address.  Please do not send attachments with the message.
+Please send comments, questions, or concerns to the Office of Information Security ([security@cu.edu](mailto:security@cu.edu)).  When sending comments, please include a current mailing address.  Please do not send attachments with the message.
