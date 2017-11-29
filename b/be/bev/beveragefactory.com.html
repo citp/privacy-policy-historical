@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beveragefactory.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606020806id_/http%3A//www.beveragefactory.com/privacy_statement.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beveragefactory.com privacy policy that was archived on 2017-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171129085307id_/http%3A//www.beveragefactory.com/privacy_statement.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -23,7 +23,7 @@
 	<!-- CSS Files -->
 	<link href="/fonts/fa/css/font-awesome.min.css" rel="stylesheet">
 	<link href="/fonts/fi/flaticon.css" rel="stylesheet" type="text/css"> 
-	<link href="/css/styles_v21.css" rel="stylesheet">	
+	<link href="/css/styles_v26_uncompressed.css" rel="stylesheet">	
 	<link href="/css/responsive_v2.css" rel="stylesheet">
 
 
@@ -59,7 +59,7 @@ ga('create', 'UA-89691-1', 'auto');  // Replace with your property ID.
 </script>
 <!-- End Google Analytics -->
 
-</head>
+<style type="text/css"> #banner-subnav-xs a:link, #banner-subnav-xs a:visited, #banner-subnav-xs a:hover{ color:#3FCF32;} </style></head>
 <body>
 
 
@@ -226,6 +226,15 @@ ga('create', 'UA-89691-1', 'auto');  // Replace with your property ID.
 						<li>
 							<a href="http://www.beveragefactory.com/clearanceoutlet/index.shtml">Clearance</a>
 						</li>
+						<li class="hidden-sm hidden-md hidden-lg hidden-xl">
+							<a href="http://www.beveragefactory.com/sales.shtml">Today's Deals</a>
+						</li>
+						<li class="hidden-sm hidden-md hidden-lg hidden-xl">
+							<a href="http://www.beveragefactory.com/brands.shtml">Shop by Brand</a>
+						</li>
+						<li class="hidden-sm hidden-md hidden-lg hidden-xl">
+							<a href="/knowledge-base.html">Knowledge Base</a>
+						</li>
 					</ul>
 					<ul class="hidden-sm hidden-md hidden-lg hidden-xl nav navbar-nav" style="border-top:solid 1px #fff;">
 						<li><a class="langicon" data-toggle="modal" data-target="#myModalLanguage">Select Language</a></li>
@@ -252,8 +261,8 @@ ga('create', 'UA-89691-1', 'auto');  // Replace with your property ID.
 <!-- Main Container Starts -->
 	<div id="main-container" class="container">
     			<div class="row">
-        	<div class="col-md-12 hidden-xs"><img src="http://cdn4.beveragefactory.com/banners1/slides1/20sale-top-banner-blue.gif" class="img-responsive" alt="Save Up To 20% and Get Free Shipping on Select Products Throughout the Site" border="0"></div>
-        </div>
+        	<div class="col-md-12 hidden-xs"><a href="http://www.beveragefactory.com/sales/cyber-monday.html"><img src="http://cdn4.beveragefactory.com/banners1/slides1/cyber-monday-top-e.gif" class="img-responsive" alt="Cyber Monday Sale" border="0"></a></div>
+			<div class="col-xs-12 hidden-sm hidden-md hidden-lg hidden-xl" id="banner-subnav-xs-cont"><div id="banner-subnav-xs" style="background-color:#000;"><h2 style="color:#3FCF32;"><a href="http://www.beveragefactory.com/sales/cyber-monday.html">Cyber Monday Starts Now - Up to 25% off sitewide</a></h2></div></div>        </div>
 			<!-- Breadcrumb Starts -->
 		<ol class="breadcrumb"><li><a href="http://www.beveragefactory.com/index.shtml">Home</a></li><li><a href="http://www.beveragefactory.com/contact_index.shtml">Customer Service</a></li><li class="active">Privacy Statement</li> </ol>	<!-- Breadcrumb Ends -->
 
@@ -273,11 +282,12 @@ ga('create', 'UA-89691-1', 'auto');  // Replace with your property ID.
             							<a href="http://www.beveragefactory.com/refrigerators.shtml" class="list-group-item">Appliances</a>
             							<a href="http://www.beveragefactory.com/clearanceoutlet/index.shtml" class="list-group-item">Clearance Outlet</a>
                     					<a href="http://www.beveragefactory.com/sales.shtml" class="list-group-item">Today's Deals</a>
-            		
-					<a href="http://www.beveragefactory.com/brands.shtml" class="list-group-item">Shop By Brand</a>
+            							<a href="http://www.beveragefactory.com/featured-products.shtml" class="list-group-item">Featured Products</a>
+            							<a href="http://www.beveragefactory.com/brands.shtml" class="list-group-item">Shop By Brand</a>
 					<a href="http://www.beveragefactory.com/departments.shtml" class="list-group-item">Shop By Category</a>
 					<a href="http://www.beveragefactory.com/gift_certificate.shtml" class="list-group-item">Gift Certificates</a>
-					                </div>
+											<a href="http://blog.beveragefactory.com/" class="list-group-item">Knowledge Base</a>
+            		                </div>
 			<!-- Categories Links Ends -->
             				<!-- Contact Center Starts -->
 				<h3 class="side-heading">Contact Center</h3>
@@ -533,10 +543,11 @@ var google_remarketing_only = true;
   
 <script type="text/javascript">
 $(function() {
-  $('#ChangeToggle').click(function() {
-    $('#navbar-hamburger').toggleClass('hidden');
-    $('#navbar-close').toggleClass('hidden');  
-  });
+	$('#ChangeToggle').click(function() {
+		$('#navbar-hamburger').toggleClass('hidden');
+		$('#navbar-close').toggleClass('hidden');  
+	});
+	$("<style type='text/css'> #banner-subnav-xs a:link, #banner-subnav-xs a:visited, #banner-subnav-xs a:hover{ color:#3FCF32;} </style>").appendTo("head");
 });
 
 function googleTranslateElementInit() {
