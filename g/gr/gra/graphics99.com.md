@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphics99.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042954id_/http%3A//www.graphics99.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphics99.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129172135id_/http%3A//www.graphics99.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Graphics99.com
 
