@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizpr.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150900id_/http%3A//www.bizpr.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizpr.ca privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129204651id_/http%3A//www.bizpr.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - BizPR.ca | Canadian Free Press Release and Distribution Centre
 
