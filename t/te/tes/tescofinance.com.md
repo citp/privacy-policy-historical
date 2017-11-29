@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescofinance.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618113312id_/http%3A//www.tescobank.com/help/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescofinance.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129235017id_/http%3A//www.tescobank.com/help/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Tesco Bank
 
@@ -46,7 +46,7 @@ We will only share your information:
 
 
 
-We may also share your information with Tesco in connection with the operations of your Clubcard account, for example to allocate points or discounts, or where you have agreed to receive marketing, but we don’t share more information than we need to. 
+We may also share your information with Tesco in connection with the operations of your Tesco Clubcard account, for example to allocate points or discounts, or where you have agreed to receive marketing, but we don’t share more information than we need to. 
 
 Holding your information
 
@@ -99,7 +99,7 @@ Credit scoring
 
 Credit scoring is an automated system which is used to assess your application and make decisions about your account. It calculates your likelihood of repaying the amount you intend to borrow. 
 
-We take the information you provide in your application, information from third parties such as credit reference agencies and information we already hold about you in connection with other Tesco Bank products and, in some cases, information held by the wider Tesco group, including Clubcard transactions.
+We take the information you provide in your application, information from third parties such as credit reference agencies and information we already hold about you in connection with other Tesco Bank products and, in some cases, information held by the wider Tesco group, including Tesco Clubcard transactions.
 
 Credit reference agencies
 
@@ -158,9 +158,9 @@ We and our panel insurers may research, collect and use data about you from publ
 
 Under the conditions of your policy, you must tell us about any incident, whether or not you think it is likely to give rise to a claim. When you tell us about an incident, we will pass information relating to that incident to these registers.
 
-Clubcard information
+Tesco Clubcard information
 
-### Clubcard information
+### Tesco Clubcard information
 
 Clubcard information is one of a number of factors that we take into account when assessing credit risk. For example, we will take Clubcard information linked to your household into account when considering your application for some of our banking products. We use Clubcard information to evaluate your eligibility for credit products, as part of the assessment we are required to do. 
 
@@ -200,7 +200,7 @@ You can find out more about how we use your information by simply calling us or 
 
 Write to us:
 
-The Data Protection Officer, Customer Operations, Tesco Bank, Broadway 1199, Renfield Street, Glasgow, G2 3AX
+The Data Protection Officer, Customer Operations, Tesco Bank, Broadway One, 199 Renfield Street, Glasgow, G2 3AX
 
 Requesting a copy of the information we hold
 
