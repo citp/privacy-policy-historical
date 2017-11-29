@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the bookmarkmart.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209125128id_/http%3A//gulfadvert.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkmart.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129135421id_/http%3A//bookmarkmart.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of Gulfadvert.Com
+# Privacy Policy - Bookmark Mart Bookmark Mart
 
-You Are Here: [Home](https://web.archive.org/web/20140209125128id_/http%3A//gulfadvert.com/index.php) » Privacy Policy
+  * [Home](http://bookmarkmart.com/)
+  * Privacy Policy - Bookmark Mart
 
-Gulfadvert.com is committed to safeguarding your privacy online. The following policy acts as a guide enabling you to understand how your personal information will be treated when you make use of the site. This policy may change from time to time.
 
-We values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our website or information that you may give us, such as your name, address, email address or telephone number, to any outside sources.
 
-We will not use information about you without your permission and will provide the means for you to manage and control the information that you have provided.
+**Bookmark Mart** takes your privacy seriously. Please read the following information to learn more about our privacy practices.
 
-We will enable you to communicate your privacy concerns to us and that we will respond to them appropriately.
+This policy covers what personally identifiable information Bookmark Mart collects and how it is treated. Personally, identifiable information is information that can be used to identify visitors to the http://bookmarkmart.com/ Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.
 
-We do not disclose any personal information to advertisers and for other marketing and promotional purposes that could be used to personally identify you, such as your password.
+This policy only applies to http://bookmarkmart.com/ and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.
+
+Welcome to BookmarkMart.com
+
+Bookmarkmart is a social bookmarking site where you can submit your website links and articles.
