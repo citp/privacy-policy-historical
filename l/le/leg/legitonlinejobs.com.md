@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615063853id_/https%3A//www.legitonlinejobs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129025548id_/https%3A//www.legitonlinejobs.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Legit Online Jobs Privacy Policy
 
