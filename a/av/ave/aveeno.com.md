@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045244id_/http%3A//www.aveeno.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130001532id_/http%3A//www.aveeno.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ We also use information from or about you:
 
 We also disclose information collected through the Site: 
 
-  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at [http://www.investor.jnj.com/governance/sec-filings.cfm](https://web.archive.org/web/20170606045244id_/http%3A//www.aveeno.com/category/customer%2Bservice/target=%22filings%22http://www.investor.jnj.com/governance/sec-filings.cfm%22) \- click on the link for Form 10K, Exhibit 21, under "SEC Filings". Johnson & Johnson Consumer Inc. is the party responsible for the management of the jointly-used Personal Information; 
+  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at [http://www.investor.jnj.com/governance/sec-filings.cfm](https://web.archive.org/web/20171130001532id_/http%3A//www.aveeno.com/category/customer%2Bservice/target=%22filings%22http://www.investor.jnj.com/governance/sec-filings.cfm%22) \- click on the link for Form 10K, Exhibit 21, under "SEC Filings". Johnson & Johnson Consumer Inc. is the party responsible for the management of the jointly-used Personal Information; 
   * to our third party partners with whom we offer a co-branded or co-marketed promotion; 
   * to our third party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail and direct mail delivery services, credit card processing, auditing services, and other services, in order to enable them to provide services; and 
   * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings). 
