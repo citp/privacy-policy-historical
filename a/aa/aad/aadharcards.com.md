@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadharcards.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622123026id_/http%3A//aadharcards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadharcards.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129035840id_/http%3A//aadharcards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aadhar Cards, E-aadhaar Card Download, UIDAI, aadhaar status, aadhar cards
 
@@ -57,4 +57,4 @@ info@aadharcards.com
 
 ### Use Facebook to Comment on this Post
 
-Aadhar Cards, E-aadhaar Card Download, UIDAI, aadhaar status, aadhar cards © 2016 [Frontier Theme](http://ronangelo.com/frontier/)
+Aadhar Cards, E-aadhaar Card Download, UIDAI, aadhaar status, aadhar cards © 2016 [Frontier Theme](https://ronangelo.com/frontier/)
