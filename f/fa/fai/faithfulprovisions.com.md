@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithfulprovisions.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624052219id_/http%3A//www.faithfulprovisions.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithfulprovisions.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129231052id_/http%3A//www.faithfulprovisions.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Faithful Provisions
 
