@@ -1,168 +1,91 @@
-> *The following text is extracted and transformed from the cinemanow.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505215749id_/https%3A//us.cinemanow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemanow.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129110300id_/http%3A//cinemanowfree.com/page/privacy-policy-en) for the most accurate reproduction.*
 
-# Privacy Policy | CinemaNow
+# Privacy Policy Cinemanow Free
 
-We take your privacy seriously, and we want you to know how we collect, use, share and protect your information.
+### Our privacy practices
 
-## This Privacy Policy tells you:
+FilmOn appreciates that your privacy is very important to you. We recognise that providing personal information is something which requires trust which we take very seriously. We will never sell, offer for rent or in any way disclose your personal information without your consent.
 
-  * What information we collect
-  * How we use that information
-  * How we may share that information
-  * How we protect your information
-  * Your choices regarding your personal information
+We are keen to strike a fair balance between your personal privacy and ensuring you obtain full value from the internet and other products and services we may be able to market to you.
 
+We comply with the Data Protection Act 1998. Further information on the Act is on the internet at [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/). We use the data protection padlock symbol below to show when we gather personal data from you. Look out for it on the site.
 
+Reproduced courtesy of the Information Commissioner's Office and the National Consumer Council
 
-### INFORMATION WE COLLECT
+### Registration
 
-**Information You Give Us**  
-We receive and may store any information you enter on our websites or give to us in our stores. For example, we collect information from you when you place an order, create an account, call us with a question, create a Wish List, write a review, or use any of our services.
+In some areas of our website, we ask you to provide information that will enable us to enhance your site visit or reply to you after your visit. This would include where you subscribe to our online newsletters or provide feedback to us through contact form or when you complete any online survey we may offer from time to time. When you do, so we ask you to give us your name, email address and other personal information that will be needed to supply the services to you. In relation to online newsletters you can 'unsubscribe' at any time. We may use your personal data for future email mailings, support, notification of new films or new products available on our website, general correspondence regarding the films and correspondence which may relate to you. If you would rather not receive future marketing emails from us please inform us by email at [privacy@filmon.com](mailto:privacy@filmon.com). Such use is strictly in accordance with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. Every email from us comes with an easy to use unsubscribe instruction and you can be removed from our lists at any time, although this can take up to 30 days to effect. Your details will never be sent to any third party and we will only market to you the same kind of goods and services you purchased from us or made an enquiry to us about.
 
-The information we collect from you may include things like:
+The information you provide will be kept confidential and will be used only to support your customer relationship with us. We do not disclose or sell your information outside our corporate group except if we sell the whole or part of our business. Notwithstanding the above we may disclose information you provide to Partner Companies for the purposes of providing the services as specified in our general terms and conditions.
 
-  * Your name
-  * Your mailing address
-  * Your e-mail address
-  * Your phone number
-  * Your credit card number and other payment information
-  * Your driver's license number
-  * Credit application information, such as your Social Security number
-  * Demographic and lifestyle information, such as age, personal interests and product preferences
+### Trading from our website
 
+Making sure you can buy safely online is a priority for us and we have made strenuous efforts to ensure that security is one of our highest priorities and we have devoted a great deal of effort to ensure that our online security measures help to safeguard your information. We use industry-standard Secure Sockets Layer (SSL) technology to allow for the encryption of:  
+\- otentially sensitive information such as your name and address;  
+\- critically-sensitive information like your credit card number.
 
+We hope that once you understand the measures we take to help ensure secure transactions and privacy, and the steps you can take yourself, you will be as happy about the safety of your online transaction and order information as we are. We have no desire to infringe your privacy while using our site and we will never provide your personal information to anyone else except as set out in this policy, our general terms or if we sell our business in whole or in part.
 
-It may also include information you give us about other people, such as the name and address of a gift recipient.
+### Cookies
 
-**Information from Other Sources**  
-We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers.
+We use cookies (defined below) for collecting user information from the site and we will not collect any information about you except that required for system administration of the Web server and otherwise as described in this policy.
 
-**Automated Information Collection**  
-We collect information related to your interactions with our websites and apps to create a superior, personalized shopping experience, whether you are online or in our stores. This information includes your IP address, browsing behavior while on our site, browser and device characteristics, and referring URLs. This information is collected and stored using a variety of common technologies, including various types of cookies, web beacons, and tags. Our websites and mobile applications are not designed to respond to "do not track" requests from browsers.
+A cookie is a message given to a web browser by a web server. The message is then stored by the browser in a text file called _cookie.txt_. Each time the browser requests a page from the server, this message is sent back. A cookie's main objective is to identify users and personalise their visit by customising web pages for them, for example by welcoming them by name next time they visit the same site. A site using cookies will usually invite you to provide personal information such as your name, email address and interests.
 
-To help us understand and enhance our interactions with you, we may permit web analytics and other providers to collect and process information on our websites using the technologies described above. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.
+### Your personal information is safe with us
 
-Currently, we use Google Analytics. For information on how Google collects and processes data, please visit:
+We are a data controller of your data under the Act. Our corporate details and address and other contact details are here. At FilmOn we use the information we collect to serve our customers in the following ways.
 
-http://www.google.com/policies/privacy/partners/
+We may use your contact information to let you know about enhancements to the site and your subscription entitlements. If you would rather not receive this information please inform us by email at [privacy@filmon.com](mailto:privacy@filmon.com).
 
-**Location Information**  
-Some of our websites and mobile applications may collect certain information such as the type of mobile device you're using or your specific location to help you search for one of our stores. To allow any application to identify your location, you must enable this functionality through your mobile device's settings to allow the use of technologies such as Wi-Fi, GPS signals, cell tower position, or other technologies.
+When you register and/or use this site, we will ask you to provide certain information, such as your contact details and demographic information. Where you take out a chargeable service with us, we will also retain billing data in relation to you. 
 
-**Public Forums  **  
-Our websites may offer publicly accessible forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+We will store this Data and use it to contact you, provide you with details of services and otherwise for the normal use and improvement of the site, unless you have asked us not to do so.
 
-### HOW WE USE THE INFORMATION WE COLLECT
+  1. 1\. We may also use the data you send to us by completion of surveys to prepare user profiles. We do not pass on your personal data to any third parties except: 
+    * \- to enable you to obtain access to the restricted parts of certain service providers' information;
+    * \- to enable you to receive information you have requested to be sent to you by post (we will disclose your address); or
+    * \- to enable you to receive a paid for service;
+    * \- to Partner Companies for the purposes of providing the Services as indicated in the general Terms and Conditions.
+If you can be identified from the information to be passed on, then we will not forward that information without having notified you first and obtained your consent.
+  2. 2\. So we can check and improve the Site, we may gather information about you when you use it, such as details of your operating system, browser version, domain name and internet provider's address, the details of the website from which you came.
+  3. 3\. We may use cookies only to store information such as your user identification number to allow us to identify whether you have registered to use that part of our website which you are using and, if so, to make your access to our website quicker. We will only read cookies from your cookie file placed there through your web browser's interaction with our website.
+  4. 4\. Our website provides links to other sites. We are not responsible for their data protection policies. You should check their privacy policies if you are concerned.
+  5. 5\. We do our best to protect your personal data including through the use of encryption technology, but we cannot guarantee the security of any data you disclose.
+  6. 6\. We add to the data which you give us information we obtain from third parties. You have the right to receive information about your personal data which we hold under the Data Protection Act 1998. If you believe any of your data held by us is incorrect, please contact us.
+  7. 7\. We have obligations under money laundering legislation to check the identity of users of our website and may need to make enquiries and obtain information from you for that purpose. You confirm that all information you supply will be accurate and that we may pass on such information as we consider necessary to comply with any legal/reporting requirements.
+  8. 8\. You agree that we may disclose to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you.
 
-We use the information we collect for things like:
 
-  * Fulfilling orders and requests for products, services or information
-  * Tracking and confirming online orders
-  * Marketing and advertising products and services
-  * Conducting research and analysis
-  * Establishing and managing your accounts with us
-  * Communicating things like special events, sweepstakes, promotions and surveys
-  * Identifying you on our websites and tailoring advertisements and offers to you (both on our websites and on other websites) based on your interactions with us
-  * Facilitating interactions with CinemaNow and others, such as enabling you to e-mail a link to a friend
-  * Operating, evaluating and improving our business
 
+### What are cookies?
 
+Cookies are small files that our website places on your computer or mobile device in order for us to personalise our services. 
 
-**Data Retention**  
-We will retain your information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer period is required or permitted by law.
+### What cookies are used for on FilmOn
 
-### HOW WE SHARE THE INFORMATION WE COLLECT
+We use cookies to enhance the user experience for the end-user, for example by remembering your preferences, keeping you logged in when you select "Remember me" and more.
 
-We do not sell, rent or trade your personal information to third parties.
+Cookies are also used by third-party advertisers for tracking various statistics across different websites in order to target ads on an individual basis, this is called behavioural advertising.
 
-CinemaNow is owned by Reliance Majestic Holdings, LLC, which owns other customer oriented businesses. If you provide information to any of the businesses, stores or websites owned or operated by Reliance Majestic Holdings, this information may be combined or shared among current or future Reliance Majestic Holdings, LLC entities, including affiliates and subsidiaries.
+These third-party advertisers have their own Privacy Policies. If you would prefer to Opt-Out of behavioural-based advertising then using the [ Network Advertising Initiatives Opt-Out tool ](http://www.networkadvertising.org/choices/) will automatically opt you out of all advertisers in their organisation. To Opt-Out of specific advertisers you will need to go to their individual websites and find their Opt-Out links.
 
-We may share your information with third parties to perform services on our behalf such as:
+### Further Information
 
-  * Fulfilling orders
-  * Delivering packages
-  * Scheduling and performing installations
-  * Servicing products
-  * Sending CinemaNow marketing communications
-  * Conducting research and analysis
-  * Applying for credit cards and processing credit card payments
-  * Providing customer service
-  * Providing chat functions
+There are more blanket approaches to blocking cookies involving disabling them in your web browser and installing add-ons or extensions to block them for specific websites.   
+For more information on privacy relating to online behavioural advertising click [ here](http://www.youronlinechoices.com/).
 
+### Further information on data protection and personal privacy
 
+For further information from us on data protection and privacy contact:   
+The Data Protection Manager   
+111PIX.COM Limited, 111 Wardour Street, 1st Floor, London, W1F 0UH   
+Facsimile (+44) (0) 207 734 2819   
+Email [privacy@filmon.com](mailto:privacy@filmon.com)   
+Information on the Data Protection Act 1998 is also on the Information Commissioner's website at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)   
+Use of this Site is subject to our Terms and Conditions   
+111PIX.COM Limited is a company registered in England.
 
-Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it's necessary to comply with the law. We may also share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of Reliance Majestic Holdings, our customers, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity.
+### Changes to this policy
 
-We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
-
-We may share personal information in connection with financial products or services related to our business such as private label credit cards. We may also share personal information in connection with co-branded product or service offerings.
-
-### CALIFORNIA RESIDENTS
-
-If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year.
-
-To request a notice, please submit your request to Reliance Majestic Holdings, LLC, 421 N. Rodeo Dr. Beverly Hills, CA 90210. Please allow 30 days for a response.
-
-### HOW WE PROTECT THE INFORMATION WE COLLECT
-
-Whether you are shopping online or in our stores, we use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. We cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
-
-We use a variety of information security measures to protect your online transactions with us. The CinemaNow websites use encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our websites such as ordering information, including your name, address and credit card number. Information you provide to us via our in-store kiosk does not traverse the public Internet.
-
-### YOUR CHOICES REGARDING THE INFORMATION WE COLLECT
-
-You may choose to:
-
-  * Stop receiving marketing or promotional e-mails, direct mail, phone and mobile marketing communications
-  * Update and correct your personal information
-  * Cancel your account or request that we no longer use your information to provide you services
-  * Request removal of your personal information from our blog or community forum
-
-
-
-To do any of these, let us know by one of these methods:
-
-  * Follow the directions in a marketing e-mail or direct mail or mobile communication that you receive from us
-
-
-
-### INTEREST-BASED ADVERTISING
-
-We may use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect personal and other information about your visits to this and other websites. We may also share personal information with these companies. In either case, the purpose is to provide ads about products and services that may be of interest to you.  
-
-  To learn more about interest-based advertising (also called behavioral advertising), visit [www.aboutads.info](http://www.aboutads.info/).   
-To opt-out of interest-based advertising, use Evidon's Global Opt-Out tool at [www.evidon.com/consumers-privacy/opt-out.](http://www.evidon.com/consumers-privacy/opt-out). There is also a Profile Manager tool which allows you to manage your interest-based preferences used by ad networks, data aggregators and others.
-
-### PROTECTING CHILDREN'S PRIVACY
-
-We are committed to protecting children's privacy on the Internet and we do not knowingly collect personal information from children under the age of 13.
-
-### LINKS TO OTHER WEBSITES
-
-Our websites link to other websites, many of which have their own privacy policies. Be sure to review the privacy policy on the site you're visiting.
-
-### PRIVACY POLICY UPDATES
-
-From time to time, we may need to update our Privacy Policy. If we make material changes, including any change in ownership or uses of your personal information, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective, as well as inform you of any choices you may have with respect to these changes.
-
-### SafeHarbor
-
-Reliance Majestic Holdings, LLC complies with and adheres to the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Reliance Majestic Holdings, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. 
-
-To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.
-
-Under the Safe Harbor program, unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the JAMS Safe Harbor Program operated by JAMS Arbitration, Mediation, and ADR Services. If you feel that we have not satisfactorily addressed your complaint, you can visit JAMS website at <http://www.jamsadr.com/> for more information on how to file a complaint.
-
-### HAVE QUESTIONS?
-
-If you have any questions about our Privacy Policy or practices, we'll do our best to answer them. Here's how to contact us:
-
-**E-mail:**  
-[privacy@cinemanow.com](mailto:privacy@cinemanow.com)
-
-**Address:**  
-Reliance Majestic Holdings, LLC  
-421 N. Rodeo Dr  
-Beverly Hills, CA 90210
-
-_Last Updated 4/10/2015_
+Any changes to this privacy policy will be posted here.
