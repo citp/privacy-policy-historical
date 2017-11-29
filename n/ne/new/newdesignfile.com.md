@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newdesignfile.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531215940id_/http%3A//www.newdesignfile.com/page/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdesignfile.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129080637id_/http%3A//www.newdesignfile.com/page/privacy.php) for the most accurate reproduction.*
 
 # Free New Design Graphic File, Vector, Psd, Icons, Stock Photo, and Free Font - Newdesignfile.com
 
