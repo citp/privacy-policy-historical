@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530202228id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129025522id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy and Cookies Notice - MotleyHealth®
 
