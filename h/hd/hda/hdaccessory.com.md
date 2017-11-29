@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdaccessory.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090829id_/http%3A//www.hdaccessory.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdaccessory.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129224212id_/http%3A//www.hdaccessory.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
