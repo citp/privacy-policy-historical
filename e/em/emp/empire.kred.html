@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the empire.kred privacy policy that was archived on 2017-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625041323id_/http%3A//www.empire.kred/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the empire.kred privacy policy that was archived on 2017-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171129224224id_/http%3A//www.empire.kred/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
             <title>Empire.Kred - Grow your Social Audience</title>
@@ -121,6 +121,9 @@
         addthis_config.pubid = 'ra-4e7ce4d91613133a';
     </script>
     <!-- AddThis Smart Layers BEGIN -->
+ 	<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="ZDNhNzI2ODQtZmM4Ny00ZWRkLWFiNGMtNGNkNmI5MjI5MTgyNjM2MzE3ODU4ODM3ODE3ODAx" id="snipcart"></script>
+	<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css"> 
+    <link rel="stylesheet" media="screen" href="/public/_layouts/boot3/css/snipcart_override.css">
 </head>
 <body>
 <script>
@@ -169,20 +172,20 @@ margin-right:14px;">
                                         <div class="panel-body">
                                             <form class="form-horizontal mar-top15" method="post" action="https://www.empire.kred/user/login/do?redirect=80" role="form">
                                                                                                 <div class="form-group">
-                                                    <input type="text" class="form-control input-lg" name="8f5f709195" tabindex="1" placeholder="E-mail / Username">
+                                                    <input type="text" class="form-control input-lg" name="4de6668c3e" tabindex="1" placeholder="E-mail / Username">
                                                 </div>
                                                 <div class="form-group">
-                                                    <input type="password" name="22e38b9a37" tabindex="2" class="form-control input-lg" placeholder="Password">
+                                                    <input type="password" name="07d38ffa13" tabindex="2" class="form-control input-lg" placeholder="Password">
                                                 </div>
                                                 <button type="submit" class="btn btn-info pull-right" style="margin:10px">Log In <i class="fa fa-chevron-right"></i>
                                                 </button>
                                                 <div class="form-group">
                                                     <label class="checkbox muted">
-                                                        <input type="checkbox" name="11e0c30a16" value="1" tabindex="3">Remember me
+                                                        <input type="checkbox" name="a51f67f2da" value="1" tabindex="3">Remember me
                                                     </label>
                                                 </div>
-                                                <input type="hidden" name="003be57bbb" value="f77af608464898313df3">
-                                                <input type="hidden" name="40f60982ad" value="0a411801a36f5fcffb181848">
+                                                <input type="hidden" name="182fc22bd5" value="6bb25d668c7dae1fa67">
+                                                <input type="hidden" name="2872901490" value="d8816b14381f8eeba0ff2">
                                             </form>
                                         </div>
                                     </div>
@@ -446,5 +449,18 @@ margin-right:14px;">
         z-index: 1000;
     }
 </style>
+<script>
+	$(function() {
+		//Snipcart.api.items.clear();
+		console.log('main page loaded');
+		Snipcart.subscribe('cart.ready', function() {
+			Snipcart.api.items.clear().then(function (removedItems) {
+		   		console.log(removedItems);
+			});	
+			
+			Snipcart.get('context').logout();			
+		});			
+	});
+</script> 
 
 </body></html>
