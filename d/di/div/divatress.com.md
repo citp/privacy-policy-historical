@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divatress.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083608id_/http%3A//www.divatress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divatress.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129225611id_/http%3A//www.divatress.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
   * By email to: customercare@divatress.com
-  * By phone to: 1-877-DIVATRESS
+  * By phone to: 773-940-1910
 
 
 
