@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accenturefederal.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327091817id_/https%3A//www.accenture.com/us-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accenturefederal.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129072757id_/https%3A//www.accenture.com/us-en/privacy-policy) for the most accurate reproduction.*
 
 # Accenture Privacy Statement
 
@@ -35,7 +35,7 @@ Together, these ensure that appropriate data privacy safeguards are in place acr
 
 Having BCR means that all our group entities that sign up to our BCR have to comply with the same internal rules. It also means that your rights stay the same no matter where your data are processed by Accenture (see Your Rights below).
 
-If you would like a full copy of our BCR please Contact Us.
+[Download a full copy of Accenture’s BCR](https://www.accenture.com/t20170802T012846Z__w__/us-en/_acnmedia/PDF-52/Accenture-Public-Facing-BCR-June-2017.pdf#zoom=50 "Click here to download the full article. Description of Accenture’s Binding Corporate Rules. This opens a new window.").
 
 **Accenture’s Data Privacy Policy 90**  
 The following section summaries Accenture’s Data Privacy Policy 90. If you would like a full copy of the policy please Contact Us.
@@ -85,7 +85,7 @@ We will retain your personal data only for as long as is necessary. If you have 
 **Your rights**  
 You are entitled to know whether we hold personal data about you and, if we do, to have access to that personal data and require it to be corrected if it is inaccurate. We generally do not make decisions by purely automatic means, but if we do, you have the right to object.
 
-You can Contact Us to exercise any of your rights or obtain a copy of Accenture’s BCR. 
+Contact Us to exercise any of your rights or [download a copy of Accenture's BCR](https://www.accenture.com/t20170802T012846Z__w__/us-en/_acnmedia/PDF-52/Accenture-Public-Facing-BCR-June-2017.pdf#zoom=50 "Click here to download the full article. Description of Accenture’s Binding Corporate Rules. This opens a new window.") **.**
 
 If your data was originally collected in Europe (the European Economic Area (EEA) and Switzerland) and it is transferred from an Accenture entity within Europe to an Accenture entity outside Europe you have the following additional rights under the BCR:
 
