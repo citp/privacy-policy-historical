@@ -1,150 +1,295 @@
-> *The following text is extracted and transformed from the rockstarwarehouse.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203125750id_/https%3A//www.rockstarwarehouse.com/store/defaults/en_US/DisplayDRPrivacyPolicyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstarwarehouse.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129101505id_/https%3A//www.rockstarwarehouse.com/store/defaults/en_US/DisplayDRPrivacyPolicyPage) for the most accurate reproduction.*
 
 # Digital River Online Store - Privacy Policy
 
-Digital River values its relationship with you. These Privacy Statement Highlights summarize, at a high level, our full Privacy Statement about how Digital River collects, uses and discloses information about you through the commerce solution on which this Privacy Policy appears, which may be but is not limited to a website or a software application (each, a “Property”). These Highlights are intended for your convenience. In the event of any conflict between the full Privacy Statement and these Highlights, the full Digital River Privacy Statement will govern. For more information on any of these sections, please click the “Learn more” link to review the full Privacy Statement.
+#### Key Terms
 
-Last updated: October 21, 2013
+The following key terms shall be used in this Privacy Policy:
 
-BY USING THIS WEBSITE OR SOFTWARE APPLICATION OR SUBMITTING PERSONAL INFORMATION TO DIGITAL RIVER THROUGH THIS WEBSITE OR SOFTWARE APPLICATION, YOU ARE CONSENTING TO THE COLLECTION, USE, TRANSFER, AND DISCLOSURE OF INFORMATION AS DESCRIBED IN THIS PRIVACY STATEMENT.
+  * Information that can no longer be used to identify a particular person (" **Anonymous Information** ").
+  * Independent data controller has the same meaning as "controller" under Directive 95/46/EC as of October 24, 1995 or any subsequent data protection legislation such as Regulation (EU) 2016/679 as of May 25, 2018, and is the natural person or legal entity, which alone or jointly with others, carries out processing of personal data (as defined below) as well as determines the purpose and means of the processing of personal data, composition and kinds of personal data to be processed, and determines actions (operations) with the personal data **("Data Controller" or "Controller").**
+  * Data where certain identifiers are removed to prevent a person's identity from being directly connected with the information (such as masking certain personal identifiers) **("De-identified Data")**.
+  * Processing is permitted if it is necessary for the purposes of legitimate interests pursued by the Controller (or by a third party), except where the Controllers' interests are overridden by the interests, fundamental rights or freedoms of the affected end-users which require protection (" **Legitimate Interests** ").
+  * Information that can be used to identify you, either alone or in combination with other information available to us, such as your name, shipping and billing address, e-mail address, phone number, identification number (where applicable), date of birth (where applicable), time and location data, bank account information, transaction and payment records, delivery records and other information associated with your account, which is collected by us during delivery of our commerce solution (" **Personal Data** ").
+  * Digital River may resell products through transactions via its commerce solution, and will generally be the seller and merchant of record for such transactions (" **Seller and Merchant of Record** ").
+  * Special categories of data require a heightened level of protection under data protection legislation in some jurisdictions, such as processing that reveals health, racial or ethnic origin (" **Special Categories of Data** ")i.
+  * Any applicable data protection safeguards, as may be amended or replaced, for the transfers of data to Controllers established outside of the EU/EEA that do not ensure an adequate level of protection (" **Standard Contractual Clauses** ").
+  * Supervisory Authority (or its equivalent under any data protection legislation) is the independent public authority to whom consumers may lodge a complaint (" **Supervisory Authority** ").
 
-### Scope of this Privacy Statement
 
-_In General._ This Privacy Statement applies to each commerce solution, which may be but is not limited to a website or a software application (each, a “Property”) operated by Digital River, Inc., 10380 Bren Road West, Minnetonka, Minnesota 55343, USA (“Digital River”) where this Privacy Statement can be accessed from a hyperlink on, or otherwise appears on, that Property. If you are purchasing products through a Digital River subsidiary and not Digital River, Inc., please note that this Property is hosted and/or operated by Digital River under an agreement with the subsidiary of Digital River who is listed as the seller of products in the terms of sale on this Property.
 
-Digital River respects the privacy of our customers, partners and suppliers of products or services and clients. The purpose of this Privacy Statement is to provide you with information concerning how we collect personal information when you use this Property, and how we collect other information regarding your interaction with this Property without identifying you as an individual; how we use, handle and disclose collected information; and choices you may have about the ways we collect and use that information. Our goal in handling personal information provided to us is to comply with applicable data protection and privacy laws and to offer users of our Property notice, choice and consent regarding processing for direct marketing purposes, security, data integrity, access, and enforcement with regard to personal information. "Personal information" means information that identifies you personally, either alone or in combination with other information available to us.
+#### Data Controller, How to Contact Us, and Processing of Your Data
 
-_Supplemental Privacy Notices._ This Privacy Statement may be supplemented or amended from time to time by additional “Privacy Notices” posted or appearing on this Property. Such Privacy Notice will provide supplemental information on how we collect and handle information specific to where that Privacy Notice appears, and is intended to be read together with this Privacy Statement.
+  * **Controller(s) Responsible for Your Data.** The Digital River entity that is the Data Controller will vary depending on the site you visit, your transaction with the Website and contractual language.
+  * **How to Contact Us.** If you have a question about this Privacy Policy or requests related to your Personal Data pursuant to applicable laws, no matter where you are in the world, please email us at [privacy@digitalriver.com](mailto:privacy@digitalriver.com), and we will route your question appropriately. If you prefer to contact us by regular mail, please refer to the contact information as found on the ["Contact Us"](https://www.digitalriver.com/contact-us/) section of our Website displayed by region.
+  * **Processing of Your Data.** Your commerce request, and therefore your Personal Data, will be optimally processed in or near the region from which you initiated your session. This means that the processing of your Personal Data will take place in either the United States and/or Ireland.
+  * **Appropriate Safeguards for Cross-border Transfer of Your Data.** If you are located in the EU/EEA, any transfer of your Personal Data outside of the EU/EEA is protected under Standard Contractual Clauses, or any subsequent data protection safeguards. Your Personal Data may be transferred to Digital River, Inc.'s servers in the United States and the processing of your Personal Data in the United States. Your Personal Data may also be transmitted by us to other Digital River entities for the purposes set out in this Privacy Policy, for company administration purposes, and to other third party data processors.
+  * If you are located in Japan or a country with similar data protection requirements, for details of the transmission of your Personal Data to other Digital River entities, please see the "Joint Use" Section at the end of this policy.
 
-_Third Party Privacy Policies or Statements._ If you access a Property through which we offer products or services for sale, the Property may be co-branded with the name and branding of the organization whose product you are purchasing. If the privacy policy or statement of one of our partners also appears on this Property, this Privacy Statement will apply to our use of any information collected by us, and the privacy policy or statement of our partner will apply to any such information provided to that partner as contemplated by this Privacy Statement and any supplemental Privacy Notices.
 
-### Changes to this Privacy Statement
 
-We may occasionally update this Privacy Statement. These updates may reflect, among other things, changes in applicable laws, rules or regulations, changes in our data collection practices, and/or changes to our business or services. A revised version of our Privacy Statement will become effective upon posting and such revised version will apply to personal information we collect through the Property as of the effective date of the revised version. If revisions to the Privacy Statement materially affect how we may use Personal Information collected from you prior to the date of the revised statement, then we will request that you opt-in to the revised Privacy Statement. We will post each updated version of this Privacy Statement on the Property with a revised effective date.
+##### THE AMERICAS
 
-### Collection of Information
+  * **Digital River, Inc. as the Controller.** Digital River, Inc., including our subsidiaries ("Digital River," "we," "us," and "our") owns and operates this website, which may include a software application, our products and services, and any other related commerce solution where this Privacy Policy appears ("Website"). Generally, any Personal Data collected by visiting this Website is controlled by Digital River, Inc., 10380 Bren Road West, Minnetonka, Minnesota 55343, USA ("Data Controller"). However, at times, another Digital River entity is the Data Controller as noted directly below.
 
-We collect personal information from you when you use this Property. This may include, but is not limited to, the following situations: where you are providing information when you request information about, or use, a product or service available through this Property, or information you provide when you purchase a product or service through this Property; where you are entering a contest or a promotion, ordering a newsletter or utilizing other informational tools; and where you are submitting an order or purchasing, downloading and/or registering products and/or signing up for additional services. The information we collect may include, but is not limited to, your name, e-mail address, IP address, billing and/or shipping address, phone number, payment account information, and other information about you submitted to verify who you are or to prevent fraud. If you call our customer service, we may collect personal information you knowingly and voluntarily provide through your contact with our customer service representatives.
 
-We furthermore collect information that is sent to us by your web browser, which may include without limitation information that does not identify you personally (such as the date and time of your visit, information about your web browser, etc.). The information we receive in such manner depends on the settings on your web browser. If you have created a user identity on one of your visits to this Property, we may link the information provided by your browser to information that identifies you personally and use it for the purposes described below. Please review the settings of your web browser if you want to learn what information your browser can send or how to change your browser settings. We may also collect limited personal information, such as email address, through web technologies in connection with your use of a Property, as described below.
 
-We may also receive certain personal information about you from third parties where you have agreed to share such information with us, such as through your use of a social network authentication to sign in to this Property.
+##### REST OF WORLD
 
-### Cookies and Web Beacons, JavaScript Code/Tags, and Other Web Technologies
+  * **Digital River Ireland, Ltd. as the Controller.** Where Digital River Ireland Ltd. is the seller and merchant of record, then any Personal Data provided to or collected by visiting the Website is controlled by Digital River Ireland Ltd., Unit 153, Shannon Free Zone West, Shannon, Co. Clare Ireland ("Data Controller"). 
+  * **Digital River GmbH as the Controller.** Digital River GmbH is part of the Digital River group of entities, a leader in e-commerce reselling services, and the authorized reseller of the products and services offered on the MyCommerce Share-it site. Here, any Personal Data provided to or collected by visiting the MyCommerce Share-it site is controlled by Digital River GmbH, Scheidtweilerstrasse 4 Cologne 50933 Germany ("Data Controller"). 
+  * **Other Digital River entities as the Controller.** For purposes of transactions that are made through another Digital River entity, that Digital River entity could be the Data Controller. Please refer to the section above, "Processing of Your Data", which explains where your Personal Data will be processed globally. 
 
-We collect information that is typically not personally identifiable through the use of web technologies, including without limitation “session cookies,” “persistent cookies,” “web beacons” (also referred to as “tracking pixels,” “pixel tags,” or “action tags”), JavaScript code, and “JavaScript tags.” As the Internet evolves, we may implement and use different types of technologies for this purpose. Web technologies may be placed on this site directly by us or by third party providers, and we or third party providers may place web technologies on behalf of the partner whose branding appears on this Property or its service providers and allow that partner to utilize the data collected. This information is used to enhance your use and experience with this Property, for marketing analysis, for targeted and display advertising, and for quality improvement purposes. We may collect your IP address through web technologies.
 
-_Cookies._ When you visit or use this Property, your computer may receive one or more “cookies” in order to help personalize and support your use of this Property, our services, and/or the services of our partners. A “cookie” is a small text file that is transferred to a web browser by a web server, and can be read by a web server in the same domain at a later time. Cookies allow us to customize information that is presented to you through your use of a Property we host and/or operate and/or through other websites (such as to display personalized content and targeted advertising to you), and to save time by storing information so you do not need to re-enter it during a later use of a Property. We also use cookies to collect anonymous information about the ways visitors use this Property – which pages they visit, which links they use, and how long they stay on each page. We analyze this information (known as “click-stream information”) to better understand our visitors’ interests and needs and to improve the content and functionality of this Property. We do not use cookies to collect information which identifies you personally (we may collect your IP address through cookies). We may use a combination of “session cookies” and “persistent cookies” on this Property, further described below. If you do not wish to receive cookies or wish to manage when you accept cookies in general, please see the “Your Choices” section, below. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this Property.
 
-_Session Cookies._ A “session cookie” is a temporary cookie that expires when you close your browser. A session cookie assigns a randomly-generated, unique identification number to your computer when you access this Property. Assigning your computer a number facilitates the proper functioning of the features of our Property by permitting us to maintain a persistent “state” for your session, such as maintaining the contents of your shopping cart during checkout.
+#### Lawful Basis for Processing of Data
 
-_Persistent Cookies._ Unlike a session cookie, a “persistent cookie” does not expire when you close your browser. It stays on your computer until the expiration date set in the cookie (for example, at the end of a calendar month) or until you delete it. Persistent cookies can be used to “tag” your computer so that the next time you visit (or someone using your computer visits), our server will recognize you, not by name, but by the “tag” on your computer. This will enable us to provide you with a personalized experience even if we do not know who you are. It will also allow us to collect more accurate information about the ways people use this Property, for example, how people use this Property on their first visit and how often they return.
+In certain jurisdictions, the processing of your Personal Data is lawful only if it is permitted under data protection legislation. In this case, we have a lawful basis for each of our processing activities (unless an exemption applies) as outlined below:
 
-_Web Beacons._ When you visit or use this Property, your computer may receive one or more “web beacons” in order to assist us with delivering cookies on this Property, to collect anonymous information about the use of this Property by our visitors, and to deliver customized or targeted content to you on this Property and through our partners. Web beacons (also referred to as “tracking pixels,” “1x1 gifs,” “single-pixel gifs,” “pixel tags,” or “action tags”) are graphic images, usually no larger than a 1x1 pixel, placed at various locations on this Property. They also help us identify browser types, search terms that bring visitors to our Property, and the domain names of websites that refer traffic to us. We also utilize web beacons to provide us with more information on any emails we send out. For example, a web beacon in an email communication will send us information to let us know that you have received, opened, or acted upon an e-mail you have chosen to receive from us.
+  * **Consent.** By using our Website or otherwise submitting your Personal Data to us, you consent to our collection, use and sharing of your information as described in this Privacy Policyii. If you do not consent to this Privacy Policy, please do not use this Website or submit your information through this Website.
+  * **Legitimate Interest.** We will process your data based on Legitimate Interest, and particularly where it is used for marketing purposes, such as to collect data from public sources and to contact prospects to start a conversation. We may also process your data based on Legitimate Interest in the employment contextiii.
+  * **Other Lawful Basis.** We may also process your data based on another lawful basis such as where the processing is necessary to enter into or perform a contract with you.
 
-_JavaScript Code/Tags._ This Property may include one or more JavaScript tags (JavaScript code embedded into a web page) which are used by us to collect information about the use of this Property by our visitors, to deliver customized or targeted content to you on this Property and through our partners, and to enable us and our vendors to provide services to you in connection with your use of this Property. For example, we may use JavaScript tags to anonymously track how visitors interact with our Properties, including where they came from and the manner in which they use our Properties. We also may use JavaScript code/tags to collect and provide limited personally identifiable information to our service providers who provide services to us in connection with this Property, e.g., to allow a third party vendor to send a transactional email to you on our behalf in connection with your use of this Property.
 
-### Storage, Use and Sharing of Information
 
-Your personal information provided to us will be processed on our computer servers. In some cases (where it is necessary to do so in order to fulfill our contractual obligations to you) such information may also be transmitted or made available to (i) third-parties providing services to Digital River or (ii) product manufacturers, licensors and/or or suppliers, located in the European Economic Area (“EEA”), the United States of America or another territory outside the EEA.
+#### Scope of this Privacy Policy
 
-_Our Use of Personal Information._ We may use personal information collected by us for the following purposes: 
+###### Background and Purpose
 
-  * to contact you if you have requested information or communication from us;
-  * to determine the country in which you are located for compliance purposes (including without limitation export compliance) and for security, anti-piracy, and fraud prevention purposes;
-  * to help verify that existing personal information about you in our possession is accurate and complete;
-  * to provide you with product updates and upgrades, special offers, pricing information, newsletters, and other information, either on our own behalf or in some cases on behalf of a partner or client acting as their agent, where you have consented to receive it;
-  * to undertake any other promotional activities where you have consented to such promotional activities;
-  * in connection with keys, access codes or other information as may be required to permit you to access the websites or services of our partners to receive products, updates or services;
-  * for the purposes identified in a specific Supplemental Privacy Notice posted on the page or area of this Property where you provided that information;
-  * to verify compliance with applicable laws, rules and regulations;
-  * if you visit this Property for the purposes of conducting a purchase transaction: 
-    * to take, verify, process or deliver your order, process or obtain payment, verify your tax or tax exempt status, contest chargebacks, determine your eligibility for a line of credit, or notify you of the status of your order;
-    * for fraud and piracy prevention purposes;
-    * to provide you, to the extent permitted by law, with a personalized shopping experience;
-    * to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes;
-    * to provide notice of your purchase to the provider of an online service for which you purchase a service use right from us, for example, in order for the service provider to enable your access to the service;
-    * to establish an account for future purchases by you if you have consented to the creation of an account;
-    * to facilitate the renewal of subscriptions for products or services; and
-    * to provide you with effective customer service (which may to the extent and in a manner permitted by applicable law, include contacting visitors who commence but do not complete a checkout process to follow up on the incomplete session or to see if there was a problem with their use of this Property), and/or technical support.
+This Privacy Policy applies to each Website operated by Digital River where this Privacy Policy appears. If you are purchasing products through a Digital River subsidiary, please note that this Website is hosted and/or operated by Digital River under an agreement with the subsidiary who is listed as the seller of products in the terms of sale on this Website. The purpose of this Privacy Policy is to provide you with information on how we:
 
+  * collect Personal Data and other information when you use this Website; 
+  * use, handle and disclose collected information; and 
+  * choices you have about the ways we collect and use the information. 
 
 
-We keep your personal information only as long as we need it for the purposes for which it was originally collected (or to which you have subsequently consented), for other legitimate purposes (such as regulatory compliance), and as permitted or required by applicable law. We will observe applicable law and take reasonable steps to ensure any person or entity receiving personal information for the purposes described above, are obligated to protect and keep secure the personal information on your behalf.
 
-_Our Use of Anonymous Information._ We may use anonymous information collected by us: 
+###### Changes to this Privacy Policy
 
-  * to personalize and support your use of this Property, our services, and/or the services of our partners;
-  * to improve this Property, the customer experience, our advertising systems, and our products and services;
-  * for fraud prevention purposes, such as device fingerprinting;
-  * to identify actions or transactions as originating through an affiliate marketing or referral program;
-  * to deliver targeted advertisements on this Property and other websites and/or commerce solutions;
-  * to provide reporting to our current and prospective partners and service providers; and
-  * for other historical, statistical or research and analysis purposes. 
+We may update this Privacy Policy to communicate changes in our data handling practices. When we make changes to this Privacy Policy, we will modify the Effective Date. Our changes will become effective immediately upon posting. A link to our previous policy is included at the end of this Privacy Policy.
 
+###### Supplemental Privacy Notices
 
+This Privacy Policy may be supplemented or amended by other privacy notices appearing on the Website. Such privacy notices will explain how we handle information specific to where that privacy notice appears, and should be read together with this Privacy Policy.
 
-In addition, we may “de-identify” personal information by removing any information that identifies you specifically, and use the rest for the purposes set forth above.
+###### Partner or Other Third Party Privacy Policies
 
-_Our Partners._ When we make products available for sale through a Property, we are doing so as an independent e-commerce reseller of, or service provider for, the partner whose name and/or logo appears on the particular Property. In connection with your purchase of a product or service through an online store we operate that is co-branded with our partner’s branding, we will provide certain of the personal information and/or anonymous information you provide in connection with your purchase to that partner for reporting purposes, to allow our partner or its service provider to register your purchase, to enable your access to products or services provided by our partner or its suppliers, to facilitate warranty, technical support or after-sales service, to allow our partner or its subcontractor to send communications to you if you have consented to receive them, to allow our partner or its service provider to provide services in connection with this Property such as customer support or single sign-on functionality on this Property and our partner’s website, or for similar purposes in order to fulfill obligations to you. We may also provide certain of the personal information you provide in connection with your purchase to the publisher or manufacturer of a product you purchase, or operator of a service for which you purchase a service use right from us, if different than the partner whose name and/or logo appears on this Property. The privacy policy of our partner, and of the publisher, manufacturer or operator of the product or service you purchase, will govern how that party uses and protects any of your personal information that we provide to them.
+This Privacy Policy only applies to the use of information we collect from you through this Website and any other website on which this Privacy Policy appears. Our Website may be co-branded with the information of the company whose product you are purchasing **("Partner").** However, this Privacy Policy does not apply to information collected directly by our Partners or any other third party as we do not control these other privacy policies. Please carefully review each privacy policy posted on each website you visit. 
 
-_Our Service Providers._ We utilize other companies, including but not limited to our corporate affiliates, to provide joint services or certain services to us or on our behalf and help us to operate our business. For example, to the extent permitted by applicable law we may use our corporate affiliates and/or other companies to host or maintain this Property, to process credit card payments, to provide fraud screening and/or detection services, to perform data integrity checks, to offer you a line of credit, to provide optimization services, to fulfill your order, for payment collection, to deliver advertisements on this Property and third party websites and/or commerce solutions, to send mail or e-mail, and/or to provide customer service. We may share your information with our service providers in connection with their provision of services to us. These companies are required by contract to use any information we share with them only to perform services to us or on our behalf and to protect the confidentiality of your personal information. We may also allow these companies to utilize anonymous information, and to utilize aggregated personal information on an anonymous basis (i.e., where the aggregated data cannot identify you personally), for their business purposes. We will not share your personal information with our affiliates or unrelated third parties to use for their own marketing purposes without your consent.
+###### Terms of Sale
 
-_To Comply With Legal Requirements, Cooperate With Law Enforcement, Prevent Fraud and Other Crimes, and Protect Legal Rights, Property, You and Others._ . To the extent permitted by applicable law, we may disclose the personal information we collect on this Property without notifying you when we, in good faith, believe disclosure is appropriate to comply with the law or a regulatory requirement; to comply with governmental, administrative or judicial process, requirement or order, such as a subpoena or court order; to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce a contract; to protect the legal rights, property or safety of Digital River, its corporate affiliates, and their respective employees, clients and partners and agents, other users or the public in general; or to protect your vital interests if determined necessary by us. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share our server logs – which contain visitors’ IP addresses – with the appropriate investigative authorities who may use that information to trace and identify individuals. We also reserve the right to report to appropriate law enforcement or government agencies any activities that we, in good faith, believe are or may be in violation of applicable laws, rules or regulations without providing notice to you.
+Using or submitting Personal Data through the Website, shall also be governed by our [Terms of Sale](https://store.digitalriver.com/store/defaults/en_US/DisplayDRTermsAndConditionsPage).
 
-_In Connection With Corporate Events._ If one of our corporate affiliates or a third party has acquired our business, specific assets or the business of one of our operating divisions through which you have provided information to us, for example, as the result of a sale, merger, reorganization, insolvency, dissolution or liquidation, your personal information will become owned by that company. In that event, the acquiring company’s use of your personal information will still be subject to this Privacy Statement, any applicable Supplemental Privacy Notices, and the privacy preferences you have expressed to us.
+#### How We Protect Your Information
 
-### Your Choices
+Digital River takes reasonable steps to provide a level of security appropriate to the sensitivity of the information we collect. We have implemented physical, technical and administrative security practices and safeguards reasonably designed to protect your Personal Data from unauthorized access and disclosureiv. When we collect or transmit sensitive information such as a financial account number, we use industry standard methods to protect that information as required by applicable laws. Although we use reasonable measures to protect your information, we cannot guarantee the security of information provided over the Internet or stored in our databases. You are also responsible for taking reasonable steps to protect your information against unauthorized disclosure or misuse, for example, by protecting your password and signing off when finished using a shared computer or mobile device. We leverage industry best practices to mitigate potential compromises. If the Personal Data under the custody of Digital River is (or is likely to be) divulged, damaged or lost, we will immediately take remedial measures, inform the users in a timely manner and report to the competent government agencies as required by applicable laws.
 
-Digital River respects your right to make choices about the ways we collect, use and disclose information about you. We generally ask you to indicate your choices at the time and on the page where you provide your personal information.
+#### Collection of Information, including Use of Cookies
 
-When you provide personal information, we may offer you a choice as to whether you would like to receive further communications from us and/or from our partners, such as communications related to updates, upgrades, special offers and pricing. You have the right to withdraw your consent at any time. If you decide you no longer want to receive promotional messages from us, you may let us know by e-mailing us at [remove@digitalriver.com](mailto:remove@digitalriver.com) or by following any unsubscribe link in our e-mails; please specify which consent you are revoking in your e-mail to us. Please note, however, if you give us permission to add your contact information to our Partner’s mailing list and later withdraw your permission, you will have to contact our Partner (or use the “opt-out” provided in the e-mails our Partner sends you) to have your name removed from our Partner’s mailing lists.
+###### Information You Manually Provide
 
-We and our partners use third party service providers in connection with this Property and our business, which may include, but are not limited to, (a) Google Analytics and Omniture to serve ads on our behalf across the Internet and sometimes on this Property through remarketing and other services offered by such companies, and (b) ClickTale to gather user metrics and usage data. As described above, these service providers may collect information about your visits to our Property or to a website, your interaction with our Property or that website, and the products and services offered by us, our partners and our suppliers through the use of cookies, pixel tags, JavaScript code or other web technologies. 
+We collect Personal Data from you when you use this Website such as:
 
-  * You may view a list of third party service providers who collect information, and/or opt-out of such collection of information about you, by visiting [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/).
-  * If you would like to opt-out of Google Ads categories associated with your cookies for display advertising purposes, please visit Google’s Ads Preferences Manager at [www.google.com/settings/ads/](http://www.google.com/settings/ads/).
-  * If you would like to opt-out of tracking of your information through ClickTale, please visit [www.clicktale.net/disable.html](http://www.clicktale.net/disable.html). 
+  * when you provide information during a purchase of a product or service,
+  * when you request information about or otherwise use the Website,
+  * when you enter into a contest or promotion, sign-up for a newsletter or related services,
+  * when you submit an order or purchase, download or register products, or request additional services,
+  * when you call our customer service, you may voluntarily provide information to our representatives, and
+  * when you apply for a job opening or otherwise submit employment data to us.
 
 
 
-If you accept a session or persistent cookie, you can delete it at any time through your web browser (e.g., as soon as you leave our Property). If you do not wish to receive cookies or wish to manage when you accept cookies in general, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this Property.
+###### Special Categories of Data
 
-If you opt out of having your information collected through cookies, web beacons and other web technologies, your existing display advertising cookie(s) will be deleted and new cookie will attempt to be placed that instructs service providers not to track your future activities when that cookie is detected (a “no-track” cookie). If your browsers are configured to reject cookies when you visit our opt-out page, a “no-track” cookie cannot be set on your computer. Also, if you subsequently erase “no-track” cookies, use a different computer or change web browsers, you will need to opt-out again.
+Generally, Special Categories of Data will not be collected or processedv. However, there could be a situation (such as for employment purposes) where such data may be processed. In this case, we will be sure to comply with applicable data protection legislation, including relying on the necessary legal grounds to process the data (e.g., processing health data for an insurance contract). We shall use reasonable security practices and procedures to safeguard your Special Categories of Data.
 
-### Security of Information
+###### Information from Your Browser or Device
 
-We are committed to keeping personal information secure. We have implemented physical, technical and administrative safeguards reasonably designed to protect your personal information from unauthorized access and disclosure. When we collect or transmit sensitive information such as a financial account number, we use industry standard methods to protect that information. It is important that you understand, however, that no commerce solution, website, database or system is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse, for example, by protecting your password.
+We may also receive information from your web browser. This may include information that does not identify you personally (such as the date and time of your visit). The information we receive depends on the settings on your web browser. If you created a user identity during a visit to this Website, this shall be regarded as giving your consent for processing your Personal Data, if any, and we may link the information provided by your browser to information that identifies you personally, as described below. Please review the settings on your web browser to learn how to change your browser settings. We may also collect limited Personal Data (e-mail address) through web technologies in connection with your use of a Website, as described below.
 
-Different countries have different privacy laws and requirements. Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through this Property, it will be protected by us in accordance with the terms of this Privacy Statement, any Supplemental Privacy Notices that apply to you, and applicable laws, rules and regulations.
+###### Cookies and Other Similar Technologies
 
-### Accessing and Correcting Your Personal Information
+The information we collect using cookies and similar technologies is not typically personally identifiable, but we may link it to Personal Data that you provide. We use cookies and other similar technologies to collect information and support certain features of this Website. As the Internet evolves, we may use different types of technologies for this purpose. For example, we may use these technologies to collect information about the ways visitors use this Website (such as which pages they visit, links they use). We analyze this information to better understand our visitors' interests, needs and to improve the content and functionality of the Website. We also use the information to support Website features by not asking you to re-enter information already in our database. We also use this information to personalize your experience when you use the Website and to improve our marketing efforts, including through use of targeted advertising.
 
-We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information.
+If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies, you may be unable to use all of the Website functionality if your browser rejects our cookies.
 
-If you would like to review, correct or challenge your personal information, please contact us by postal mail addressed to us, ATTN: Privacy Department, at 10380 Bren Road West, Minnetonka, Minnesota 55343, USA or by e-mail at [privacy@digitalriver.com](mailto:privacy@digitalriver.com). You may write to us in your own language.
+###### Information about Third-Party Cookies and Other Technologies
 
-If you contact us we may, for your protection, ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if the disclosure may lead to a breach of applicable law and regulation, e.g. in case of any legal obligation to retain certain data, or if you have failed to provide sufficient evidence to verify your identity.
+Web technologies may also be placed on this Website by third party providers. Also, we or third party providers may place web technologies on behalf of the Partner whose branding appears on this Website or its service providers. In this way, our Partner would be allowed to use the data collected. This information is used to enhance your experience with the Website, for marketing analysis, for targeted and display advertising, and for quality improvement. We may collect your IP address through web technologies.
 
-### Links to Third Party Websites
+We and our Partners use third party service providers in connection with this Website, which may include Alexa Metrics, SeeWhy, Google Analytics and Omniture, and ClickTale. These and other service providers may collect information about your visits to websites, your interaction with that website, and the products and services offered by us, our Partners and our suppliers. Their collection and use of information is subject to their own privacy policies. Please visit the applicable third party service provider if you would like to opt-out per below:
 
-This Privacy Statement is only applicable to the use and disclosure of information we collect from and about you through this Property and any other website or commerce solution on which this Privacy Statement appears. It does not apply to information collected directly by our partners, service providers or any other third party, even if their website links to this Property, or this Property links to their website. We do not control the privacy policies of our partners, service providers or other third parties. If you disclose information to any other party, different terms may apply to their use and disclosure of information disclosed to those third parties. Please review the privacy statement posted on each website you visit.
+  * You may view a list of third party service providers who collect information and opt-out of this collection by visiting [www.networkadvertising.org/choices ](https://www.networkadvertising.org/choices), [www.aboutads.info/choices ](https://www.aboutads.info/choices), or [www.youronlinechoices.com](https://www.youronlinechoices.com/), 
+  * If you would like to opt-out of Google Ads categories associated with your cookies for display advertising purposes, please visit [www.google.com/settings/ads ](https://www.google.com/settings/ads), and 
+  * If you would like to opt-out of Alexa Metrics, please refer to [https://support.alexa.com/hc/en-us/articles/200685410-Opting-Out-of-Alexa-Measurement-Pixel ](https://support.alexa.com/hc/en-us/articles/200685410-Opting-Out-of-Alexa-Measurement-Pixel)
+  * If you would like to opt-out of tracking of your information through ClickTale, visit [www.clicktale.net/disable.html ](https://www.clicktale.net/disable.html). 
 
-### Children’s Privacy
 
-This Property is not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this Property unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to Digital River’s Privacy Department, 10380 Bren Road West, Minnetonka, Minnesota 55343, USA or by e-mail at [privacy@digitalriver.com](mailto:privacy@digitalriver.com), and we will take reasonable steps to remove that information from our databases.
 
-### How to Contact Us
+###### Do Not Track Requests
 
-If you have any questions, comments, or concerns regarding this Privacy Statement or our privacy practices, or have privacy-related questions not answered online, you may contact us by any of the following means: 
+If you opt-out of having your information collected through cookies and other web technologies, your existing display advertising cookie(s) will be deleted and a new cookie will attempt to be placed that instructs service providers not to track your future activities when that cookie is detected (a "no-track" cookie). If your browsers are configured to reject cookies when you visit our opt-out page, a "no-track" cookie cannot be set on your computer. Also, if you subsequently erase "no-track" cookies, use a different computer or change web browsers, you will need to opt-out again. We currently do not respond to browser "no-track" signals.
 
-  * _By Mail:_ You may contact us by postal mail addressed to Digital River, Inc., ATTN: Privacy Department, 10380 Bren Road West, Minnetonka, Minnesota 55343, USA.
-  * _By Email:_ You may contact us by e-mail at [privacy@digitalriver.com](mailto:privacy@digitalriver.com). Please specify "Global Privacy Question" in the subject line to help us to expedite our review of your e-mail.
+###### Information from Third Parties
 
+We may also receive certain information about you from third parties such as through your use of a social network authentication to sign-in to this Website, or through other online data sources, according to the rules of the use and processing of such information established by the respective online data sources. If any Special Categories of Data are freely available or accessible in the public domain, we will not have any obligations to you regarding the same.
 
+###### Location Information
 
-You may write to us in your own language.
+When you use a smart phone, mobile device or computer to access our Website or use our mobile application, we may collect information about your physical location. We may combine this information with other location-based information (e.g., your IP address and billing/postal code), to provide you with other services on your mobile device. We share your location information only with third parties that help us provide you with services. You can opt-out of sharing this information by changing the permissions in your mobile device.
 
-### Country-Specific Notices
+ 
 
-Countries in the European Economic Area (“EEA”) Digital River Ireland Ltd, Unit 153, Shannon Free Zone West, Shannon, Co. Clare, Ireland is a subsidiary of Digital River, Inc., a U.S. corporation with offices at 10380 Bren Road West, Minnetonka, Minnesota 55343, USA. If you are located in the EEA, by using this Property you consent to the transfer of your personal data to Digital River, Inc.’s servers in the United States and the processing of your personal data in the United States for the purposes set forth in this Privacy Statement, and acknowledge that your personal data may be transmitted by us to other Digital River companies for the purposes set out in this Privacy Statement and for company group administration purposes. This will involve a transfer of your personal data to Digital River Inc. in the United States of America.
+#### Use and Sharing of Information
+
+Your Personal Data provided will be processed on our computer servers. In some cases (such as where it is necessary to fulfill our contractual obligations to you) the information may also be made available to third parties providing services to Digital River.
+
+###### How We Use Your Data
+
+We may use your Personal Data for the following purposes:
+
+  * to contact you if you have requested communication from us, 
+  * to determine the country where you are located such as for trade compliance, security and fraud prevention, 
+  * to otherwise verify compliance with applicable laws, 
+  * to help verify that data we have about you is accurate, 
+  * to provide you with product updates, special offers and other promotional information, either on our own behalf or on the behalf of a Partner, where you have consented to receive it and in accordance with applicable law, 
+  * in connection with keys, access codes or other information so you can access the websites or services of our Partners to receive products or services, 
+  * as identified in a supplemental privacy notice posted on the Website, and 
+  * for human resources such as to collect your email address if you are applying for a position online. 
+
+
+
+We may also use your Personal Data for the following purposes where you visit the Website to complete a transaction: 
+
+  * to process your order, process payment, verify your tax status, contest chargebacks, determine your eligibility for a line of credit, or notify you of the status of your order, 
+  * for fraud monitoring and prevention purposes, 
+  * to provide you with a personalized shopping experience, 
+  * to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes, 
+  * to provide notice of your purchase to the provider of an online service for which you purchase a service use right from us, 
+  * to establish an account for future purchases that you have consented to, 
+  * to facilitate the renewal of subscriptions for products or services, and 
+  * to provide you with an effective experience and support (which may, as allowable by law, include contacting visitors who start a checkout process to follow-up on the incomplete session or to see if there was a problem with their use of the Website). 
+
+
+
+We will take reasonable steps to ensure any person or entity receiving Personal Data for the purposes described above, are obligated to keep the Personal Data secure. If any Special Categories of Data are being collected, received or retained by an external entity, details of such entity will be shared with you if required by applicable law. Our obligations will not, apply to information shared with any Government entity mandated under law to obtain such information or by an order under law for the time being in force. 
+
+###### Automated Processing
+
+In limited situations, we may use your Personal Data to help us make automated decisions to further improve our business. For example, in the context of marketing, we could use data to segment and target users with personalized messages. For example, we may use a job title to determine the users' persona and alter the content accordingly. We may also use that users' geographic location and company data. In some circumstances, for account-based marketing, this could include "likes" that we find in the public domain. 
+
+Also, we rely on fraud monitoring to help us reduce the need to manually review orders for fraud. We could also rely on automated processing in the context of employment and to ensure our employees are adhering to our internal security policies. You have the right to avoid any decisions based on automated data processing where they can be characterized as profiling. However, in this case, we reserve the right not to complete your transaction. 
+
+###### Our Use of Anonymous Information
+
+We may use Anonymous Information collected by us. In this case, the following data elements will be anonymized such as first and last name, street address, phone number, email address and other data elements in accordance with applicable law. The Anonymous Information may be used as described here: 
+
+  * to personalize and support your use of this Website and/or the services of our Partners, 
+  * to improve this Website, the customer experience, our advertising systems, and our products and services, 
+  * for fraud prevention purposes, such as device fingerprinting, 
+  * to identify transactions as originating through an affiliate marketing or referral program, 
+  * to deliver targeted advertisements on this Website and other commerce solutions, 
+  * to provide reporting to our current and prospective Partners and service providers, and 
+  * for other historical, statistical, research and analysis purposes. 
+
+
+
+We may also use De-identified Data for the purposes mentioned above, and related purposes as allowed by applicable law. 
+
+###### Our Partners
+
+We will provide certain Personal Data, Anonymous Information or De-identified Data to our Partners to fulfill our obligations to you, and otherwise assist Digital River's use of Personal Data as described in the "How We Use Your Data" section: 
+
+  * for reporting purposes, 
+  * to allow our Partner or its service provider to register your purchase, 
+  * to enable your access to products or services provided by our Partner or its suppliers, 
+  * to facilitate warranty, technical support or after-sales service, 
+  * to allow our Partner or subcontractor to send email or direct mail communications if you have consented to receive them, 
+  * to allow our Partner or its service provider to provide services in connection with this Website (such as customer support or single sign-on functionality), or 
+  * for similar purposes in order to fulfill obligations to you. 
+
+
+
+###### Our Service Providers
+
+We utilize other companies, including our corporate affiliates, to provide certain services to us or on our behalf to help us operate our business such as: 
+
+  * to host or maintain this Website, 
+  * to process credit card payments, 
+  * to provide fraud monitoring or detection services, 
+  * to perform data integrity checks, 
+  * to offer you a line of credit, 
+  * to provide optimization services, 
+  * to fulfill your order, 
+  * for payment collection, 
+  * to deliver advertisements on this Website and third party websites, 
+  * to send mail or e-mail, 
+  * for purposes related to employment and human resources, and/or 
+  * to provide customer service. 
+
+
+
+We will not share your Personal Data with our service providers in connection with their offering of services to us, unless it is required for the purposes of our Legitimate Interests and purposes of fulfilling our obligations as to delivery of our commerce solution to you. These service providers may be contractually required to use any information we share with them only to perform services to us or on our behalf and to protect the confidentiality of your Personal Data. We may also allow these companies to use Anonymous Information for their business purposes. We will not share your Personal Data with our affiliates or unrelated third parties to use for their own marketing purposes without your consent. 
+
+###### To Comply With Legal Requirements, Prevent Fraud and Crimes
+
+As permitted by applicable law, we may disclose Personal Data or Special Categories of Data about you when we believe disclosure is appropriate to:
+
+  * to comply with the law or a regulatory requirement,
+  * to comply with governmental, administrative or judicial process, requirement or order (such as a court order),
+  * to cooperate with law enforcement or other governmental investigations or report any activities that may be in violation of legal or regulatory requirements,
+  * to prevent or investigate a possible crime (such as fraud or identity theft) or breaches (also suspected breaches) of security or of this Privacy Policy,
+  * to enforce a contract,
+  * to protect the legal rights, Website or safety of Digital River and our employees, Partners, third parties, the public in general or youvi.
+
+
+
+###### In Connection with a Sale, Merger or related Event
+
+If one of our corporate affiliates or a third party has acquired our business, specific assets or the business of one of our operating divisions (such as part of a sale, merger, reorganization, or similar event), your Personal Data will become owned by that company, unless otherwise provided for by the local legislation. In that event, the acquiring company's use of your Personal Data will be subject to the governing Privacy Policy, any applicable supplemental privacy notices, and the privacy preferences you have expressed to the governing entity.
+
+   
+
+#### Your Choices
+
+We respect your right to make choices about the ways we collect, use and share your Personal Data.
+
+###### Access to Your Information
+
+If you would like to review, correct, restrict the processing thereof, object to direct marketing, or request erasure of your Personal Data or Special Categories of Data, please send us a request using the information in the "How to Contact Us" section of this Privacy Policy. For example, if there is any error in the Personal Data that you have submitted to us, please contact us and we will take appropriate measures to correct the error.
+
+If you contact us we may ask you for additional information to verify your identity. We reserve the right to limit or deny your request if you have failed to provide sufficient information to verify your identity or to satisfy our legal and business requirements as noted in our data retention policy. When we delete your Personal Data or Special Categories of Data, it will be disposed of in a manner that prevents loss, theft, misuse, or unauthorized access in-line with our data retention policy.
+
+You have the right to report to your local Supervisory Authority where you feel as though your rights under data protection legislation have not been appropriately considered. However, before doing so, please contact us directly as we are committed to working with you to help resolve any concerns about your privacy.
+
+###### Data Retention Policy
+
+Digital River may retain your Personal Data for as long as you continue to use our Website, and thereafter as permitted or required by applicable law or to satisfy our business requirements.
+
+###### Marketing and Related-Communications
+
+When you provide Personal Data, we may offer you a choice as to whether you would like to receive further marketing and related communications from us or our Partners. These communications could be in the form of direct mail, email or telephone and will contain information to inform you of our products and services. You may opt-out of receiving these communications by e-mailing us at [remove@digitalriver.com](mailto:remove@digitalriver.com), or by following any unsubscribe instructions in e-mail communications.
+
+If you give us consent to add your contact information to our Partner's mailing list and later withdraw this permission, you must contact our Partner (or follow the unsubscribe instructions in the e-mails from our Partner) to have your name removed from our Partner's mailing lists.
+
+#### Children's Privacy
+
+This Website is not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this Website unless necessary parental consent has been obtained. If you believe that we have received information from a person protected under child protection laws where necessary parental consent was not obtained, please notify us immediately, and we will take reasonable steps to securely remove that information.
+
+#### Privacy Commitment to California Residents
+
+If you are a resident of California, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Digital River, Inc. to a third party for that party's direct marketing purposes. This right granted to California residents applies only to their activities within the State of California. To make such a request, please contact us as noted in the "How to Contact Us" section of this Privacy Policy.
+
+#### Joint Use per Data Protection Legislation
+
+In certain jurisdictions (such as under Japanese data protection legislation), the details of the transmission of your Personal Data to other Digital River entities must be included. Therefore, the following categories of Personal Data could be jointly used with certain Digital River entities, which entities are listed by region [here](https://digitalriver.com/company) ("Joint Users"):
+
+  * Consumer data (such as name, shipping and billing address, e-mail address, phone number, transaction and payment records, delivery records and other information associated with a consumer's account), which is collected by us during delivery of our commerce solution; 
+  * Human Resource data (such as employee data or prospective employee data); and 
+  * Other data which is collected by us when an individual visits our Website or otherwise utilizes our services. 
+
+
+
+The Joint Users will use the Personal Data for the purposes set forth in "How We Use Your Data" section above. Digital River, Inc. and/or Digital River Ireland Ltd. are currently responsible for management of Personal Data subject to the joint use.
+
+A link to our previous privacy policy is included [here](https://ui1.img.digitalrivercontent.net/Storefront/pdf/compliance/Digital-River-privacy-policy-prior-to-August-2017.pdf).
