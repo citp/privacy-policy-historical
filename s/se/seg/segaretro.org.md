@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segaretro.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611131447id_/http%3A//segaretro.org/Sega_Retro%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segaretro.org privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129171737id_/http%3A//segaretro.org/Sega_Retro%3APrivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Retro CDN
 
