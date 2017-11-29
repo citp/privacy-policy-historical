@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerlawofattraction.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324070713id_/http%3A//www.powerlawofattraction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerlawofattraction.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129044944id_/http%3A//www.powerlawofattraction.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Power Law of Attraction
 
