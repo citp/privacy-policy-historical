@@ -1,71 +1,39 @@
-> *The following text is extracted and transformed from the supercraycray.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421013524id_/http%3A//supercraycray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercraycray.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129081805id_/http%3A//personsearchfind.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SuperCrayCray
+# Privacy Policy | Person Search Find
 
-SuperCray Inc. knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
+**Updated:   Nov 12, 2017**
 
-This Privacy Policy covers SuperCrayCray’s treatment of personal information that SuperCrayCray gathers when you are on the SuperCrayCray website and when you use SuperCrayCray services. This policy does not apply to the practices of third parties that SuperCrayCray does not own or control, or to individuals that SuperCrayCray does not employ or manage.
+**Privacy Policy**
 
-Information Collected by SuperCrayCray
+The privacy of visitors to personsearchfind.com is important to us.
 
-We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our SuperCrayCray users:
+At PersonSearchFind (owned by AlchemyIX.com), we recognize that privacy of users’ personal information is important. Below is information on what types of personal information we receive and collect when you use/visit this site, and how we safeguard your information. We never sell your personal information to third parties.
 
-1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+**Log Files**  
+As with most other websites, we collect and use the data contained in log files. The information in the log files includes your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer, Google Chrome, Opera, Firefox etc), date/time stamp and screen resolution. This information helps us determine the best design/layout to use for maximum compatibility with our visitors.
 
-2\. Automatic Information:
+IP addresses and other such information are not linked to any information that is personally identifiable.
 
-We receive and store certain types of information whenever you interact with us. SuperCrayCray and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, SuperCrayCray cookie information, and the page you requested. SuperCrayCray uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+**Cookies and Web Beacons**  
+We use third party advertisers to help support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on PersonSearchFind.com, which will send advertisers such as Google Adsense information which includes your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites) to personalize the advertising content that you see.
 
-SuperCrayCray may collect and, on any page, display the total counts that page has been viewed.
+**DoubleClick DART cookies**  
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).
 
-Many companies offer programs that help you to visit websites anonymously. While SuperCrayCray will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about fishing, you may see fishing reel advertisements when viewing a non-related site, such as on a site about Football).
 
-E-mail Communications
+DART uses “non personally identifiable information”. It does  **NOT**  track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
 
-SuperCrayCray is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. SuperCrayCray may send out e-mails with SuperCrayCray-related news, products, offers, surveys or promotions.
+You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
 
-**Cookies & 3rd Party Advertisements**
+If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here.](http://www.networkadvertising.org/)
 
- Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+**Advertising  **  
+PersonSearchFind.com monetizes through multiple channel streams. These may include Google Adsense, Amazon Affiliate Associates, BeenVerified.com, and Media.net.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+You can disable or selectively turn off cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security or malware-alert plugins on Chrome or Firefox browsers . However, this can affect how you are able to interact with some websites. This could include the inability to login to services or programs, such as logging into forums or accounts. A good option is to scan your computer for “bad” cookies using “spybot search and destroy”.
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. SuperCrayCray cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+Turning off or disabling cookies should not affect your experience at PersonSearchFind.com
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of SuperCrayCray’s coolest features.
-
-SuperCrayCray’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
-
-Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <a href=”http://www.networkadvertising.org/managing/opt_out.asp”>[here]</a>.
-
-Sharing Your Information
-
-Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
-
-SuperCrayCray Personnel: SuperCrayCray personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of SuperCrayCray business.
-
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if SuperCrayCray, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
-
-Protection of SuperCrayCray and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of SuperCrayCray, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-
-Syndication: SuperCrayCray allows for the RSS syndication of all of its public content within the SuperCrayCray website.
-
-With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
-
-Children Under 18 Years of Age
-
-You must be 13 years and older to register to use the SuperCrayCray website. As a result, SuperCrayCray does not specifically collect information about children. If we learn that SuperCrayCray has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using SuperCrayCray or sending information about themselves or anyone else over the Internet.
-
-Changes to this Privacy Policy
-
-SuperCrayCray may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the SuperCrayCray website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
-
-Conditions of Use
-
-If you decide to visit SuperCrayCray website, your visit and any possible dispute over privacy is subject to thisPrivacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
-
-California Residents Privacy Policy
-
-California Civil Code Section 1798.83 (also known as the “Shine The Light” law) permits users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request by email to:
-
-Email: contactus@supercraycray.com
+If you have questions or concerns, please send us an email — [contact@alchemyix.com](mailto:contact@alchemyix.com)
