@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the freedownloadcenter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135048id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloadcenter.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129125117id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 | 
 
-[idoo USB Encryption ](http://www.freedownloadscenter.com/Reviews/r11053.html)
+[DTweak ](http://www.freedownloadscenter.com/Reviews/r11345.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r11053.html)
+[](http://www.freedownloadscenter.com/Reviews/r11345.html)
 
-**idoo USB Encryption** is the most reliable encryption utility with total privacy for your external hard drive or flash drive. 
+**DTweak** , the name you can trust on, for tweaking your Windows to get optimized and stable performance. 
 
-[KryptoFiler ](http://www.freedownloadscenter.com/Reviews/r11054.html)
+[Gouser Bulk Tool ](http://www.freedownloadscenter.com/Reviews/r11346.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r11054.html)
+[](http://www.freedownloadscenter.com/Reviews/r11346.html)
 
-**KryptoFiler** is a free-to-use, safe and reliable encryption and decryption tool with features and capability. 
+**Gouser Bulk Tool** is a proper administrator tool capable of Active Directory Handling.
 
 Reviews newsletter 
 
