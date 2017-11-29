@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamptons.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140719id_/http%3A//www.hamptons.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamptons.co.uk privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129173156id_/http%3A//hamptons.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Hamptons Estate Agents & Letting Agents in London & across the UK
 
