@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the ojas-gujnic.in privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601223810id_/http%3A//www.ojas-gujnic.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojas-gujnic.in privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129232747id_/http%3A//www.ojas-gujnic.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # www.ojas.guj.nic.in - Gujarat Government Jobs - Employment News: Privacy Policy
 
-[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text5&action=editWidget&sectionId=main "Edit")
-
-[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text4&action=editWidget&sectionId=main "Edit")
-
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=main "Edit")
 
-###  [ Apply for GPSC Mains Written Exam for Chief Officer (Nagarpalika), Class-2 (Advt. no. 65/2016-17) ](http://www.ojas-gujnic.in/2013/08/gpsc-recruitment-notification-august-2013.html)
+###  [ GSECL recruitment for Vidyut Sahayak (Junior Engineer) & Instrument Mechanic Posts 2017 ](http://www.ojas-gujnic.in/2017/10/gsecl-recruitment-for-vidyut-sahayak.html)
 
-GPSC published a Notification for Online Applications for Chief Officer (Nagarpalika) Mains Written Exam. Check more details in below give... 
+GSECL (Gujarat State Electricity Corporation Limited) has published an advertisement for verious Posts as mentioned below. The recruitment ... 
 
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=FeaturedPost&widgetId=FeaturedPost1&action=editWidget&sectionId=main "Edit")
 
 ##  Today's Popular Jobs 
 
-  * 
+  *   * 
 
 
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=main "Edit")
