@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624032600id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129112039id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -54,18 +54,35 @@ We may use your data to provide you, via email, post, telephone or SMS with info
 
 We may at times share your information with certain, trusted third parties. These parties currently include:
 
-a third party in association with Criteo - You may have received an email from a third party in association with Criteo, on behalf of Radley. The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [Click Here](http://privacy.criteoemail.com/gb/privacy-policy.html).
-
-Feefo – Feefo collects some consumer data in order to seek out consumer reviews of products, you can find Feefo’s privacy policy [here](http://www.feefo.com/feefo/page.jsp?page=B3);
-
-MentionMe – MentionMe obtains some consumer data in order to facilitate Radley’s customer referral programme, respond to customer service requests or investigate any misuse of terms. You can find MentionMe’s privacy policy [here](https://mention-me.com/help/tnc_f/privacy_site); and 
-
-Ve Interactive – Ve Interactive obtains some consumer data for the purposes of operating, managing, maintaining and improving its platform and the services it provides to Radley. You can find Ve International’s privacy policy [here](https://www.veinteractive.com/about-us/legal-policies/privacy-policy/).
-
-Chalk Social – Chalk Social is our Social Media Agency which obtains customer information in order to improve our social media marketing. The information obtained will be non-personally identifiable unless a customer affirmatively and deliberately chooses to release that information. The non-personally identifiable information captured by Chalk Social will be used in line with its privacy policy, which you can find [here](http://chalksocial.com/about/).
-
-Mouseflow – Mouseflow allows us to track activity on our site to improve the customer experience. Information about the browser (type, version, screen size, etc.), basic information about the user (IP address, language, time zone), and data containing mouse movements, clicks, scroll events and keystrokes are sent to Mouseflow. No personal data is ever sent or shared between websites. The script does not use third-party cookies and none of the data is shared with third parties except for highly summarized data (i.e. Usage share of browsers, average screen size, etc.) Keystrokes from password fields and fields marked as “sensitive” are never recorded or sent over the network. Users who don’t want to be recorded can opt out [here](https://mouseflow.com/opt-out/). 
-
+Untitled Document Name | Purpose  
+---|---  
+AppNexus | AppNexus is a digital advertising technology platform, a technology that provides tools for advertisers, or buyers, to purchase ad space and for website and mobile application publishers, or sellers, to sell their ad space in the most efficient way possible.  
+BidSwitch | BidSwitch has been created by IPONWEB to help transparently solve many of the underlying technical challenges and inefficiencies that hamper platform interconnectivity and trading at the infrastructure level.  
+Chalk Social | halk Social is our Social Media Agency which obtains customer information in order to improve our social media marketing. The information obtained will be non-personally identifiable unless a customer affirmatively and deliberately chooses to release that information. The non-personally identifiable information captured by Chalk Social will be used in line with its privacy policy.  
+Criteo | Helps us connect with customers to predict and recommend the products they actually want.  
+DC StormIQ | Rakuten Attribution (formerly DC Storm) delivers Measured Success™ which arms digital businesses with performance measurement tools, analysis and reporting.  
+Emarsys | Emarsys is a leading provider of B2C marketing automation software, enabling true, one-to-one interactions between marketers and consumers  
+eXelate | Developed from Nielsen’s eXelate acquisition, the Nielsen Marketing Cloud empowers brands, agencies and media companies to connect more deeply with customers by combining Nielsen’s world-class data, analytics, media planning, marketing activation and data management platform (DMP) capabilities in a single cloud platform.  
+Facebook Custom Audience | Facebook Custom Audience helps us to target advertising to customers we've acquired on Facebook, Instagram, and Audience Network.  
+Feefo | Feefo collects some consumer data in order to seek out consumer reviews of products.  
+PubMatic | PubMatic empowers publishers and media buyers with powerful solutions across channel, screen and format to meet their unique needs.  
+PulsePoint | Pulsepoint is a global programmatic advertising technology company  
+Twitter Advertising | Twitter uses cookies and other similar technologies, such as pixels or local storage, to help provide you with a better, faster, and safer experience.  
+Rubicon | Rubicon Project is a leading technology company automating the buying and selling of advertising.  
+VisualDNA | Leading provider of psychographic audience data. Their patented technology creates unique, detailed and accurate personality profiles  
+Ve Interactive | Ve Interactive help us to improve website performance with display advertising and retargeting campaigns through a conversion enhancing technology.  
+Crazy Egg | Crazy Egg's heat map and scroll map reports help us to get an understanding of how our visitors engage with our websites in order to provide the best possible user experience.  
+Google Analytics | Google Analytics lets us measure our advertising ROI as well as track our Flash, video, and social networking sites and applications.  
+MentionMe | MentionMe obtains some consumer data in order to facilitate Radley’s customer referral programme, respond to customer service requests or investigate any misuse of terms. You can find MentionMe’s privacy policy here.  
+Monetate | Monetate is personalisation software that allows us to deliver individualised experiences to customers and test our existing ecommerce platform to help us to constantly evolve our online offering.  
+Mouseflow | Mouseflow is a testing tool that allows us to see visitor behaviour and fix pain points and issues on the Radley sites.  
+Pinterest Conversion Tracker | Helps us build audiences to target based on actions they’ve taken on our site, and gather valuable conversion insights. The Pinterest tag tracks conversions, and builds and optimizes audiences to reach valuable customers on Pinterest.  
+Twitter Analytics | Allows us to measure and boost our impact on Twitter.  
+Facebook Connect | Facebook Connect is a single sign-on application which allows users to interact on other websites through their Facebook account  
+Facebook Social Plugins | Allows our customers to see what their Facebook friends liked, shared, or commented on across the Web.  
+Pinterest | Pinterest is the world's 'catalog of ideas'. This cookie let's customers add our products to their Pinterest board to share with the World  
+Twitter Button | The Tweet button is a small button displayed on our website to help viewers easily share our content on Twitter.  
+  
 ## Security
 
 We realise how important it is to securely store any information that you provide us. The Radley transactional web site currently uses high-level Secure Socket Layer (SSL) encryption technology, the most advanced security software currently available for online transactions. You can therefore rest assured that we take the security of your payment and personal details very seriously. We may vary this in the future if we feel you will benefit from greater security whilst using our Website.
