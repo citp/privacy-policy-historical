@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the errabus.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628140735id_/http%3A//errabus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the errabus.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129181750id_/http%3A//www.errabus.com/privacy-policy) for the most accurate reproduction.*
 
 # Errabus - Terms of Use
 
@@ -66,4 +66,4 @@ The legal notices and administrative pages on this website, including this one, 
 
 If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information. 
 
-[contactus@errabus.com](https://web.archive.org/web/20170628140735id_/http%3A//errabus.com/contactus@errabus.com)
+[[email protected]](https://web.archive.org/web/20171129181750id_/http%3A//www.errabus.com/contactus@errabus.com)
