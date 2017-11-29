@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the certcollection.org privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407053510id_/http%3A//certcollection.org/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certcollection.org privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129184724id_/https%3A//certcollection.org/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - IT Certification Forum
 
@@ -15,7 +15,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
   1.  
-  2. [Quick Nav](http://certcollection.org/forum/index.php?app=core&module=global&section=navigation&inapp=core "Open Quick Navigation")
-  3. [Privacy Policy](http://certcollection.org/forum/privacypolicy/)
+  2. [Quick Nav](https://certcollection.org/forum/index.php?app=core&module=global&section=navigation&inapp=core "Open Quick Navigation")
+  3. [Privacy Policy](https://certcollection.org/forum/privacypolicy/)
 
 
