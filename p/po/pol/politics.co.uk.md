@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politics.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630214716id_/http%3A//politics.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.co.uk privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129045942id_/http%3A//www.politics.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy
 
