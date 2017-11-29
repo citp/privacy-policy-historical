@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyatabletpc.net privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530042704id_/http%3A//www.buyatabletpc.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyatabletpc.net privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129213344id_/http%3A//www.buyatabletpc.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | buy a tablet pc
 
@@ -34,14 +34,8 @@ If you wish to disable cookies, you may do so through your individual browser op
 #### Related Search Tags:
 
   * [biggest coock pc](http://www.buyatabletpc.net/search/biggest-coock-pc "biggest coock pc")
-  * [bigcocktablet](http://www.buyatabletpc.net/search/bigcocktablet "bigcocktablet")
-  * [filpcurt](http://www.buyatabletpc.net/search/filpcurt "filpcurt")
-  * [big coock com](http://www.buyatabletpc.net/search/big-coock-com "big coock com")
-  * [wwwbigcockcom](http://www.buyatabletpc.net/search/wwwbigcockcom "wwwbigcockcom")
-  * [asus mysmartprise](http://www.buyatabletpc.net/search/asus-mysmartprise "asus mysmartprise")
-  * [www big coock com](http://www.buyatabletpc.net/search/www-big-coock-com "www big coock com")
-  * [www bigcock](http://www.buyatabletpc.net/search/www-bigcock "www bigcock")
-  * [www flipcard com](http://www.buyatabletpc.net/search/www-flipcard-com "www flipcard com")
-  * [www 91tablate com](http://www.buyatabletpc.net/search/www-91tablate-com "www 91tablate com")
+  * [tablet bigcock](http://www.buyatabletpc.net/search/tablet-bigcock "tablet bigcock")
+  * [www panasonictab com](http://www.buyatabletpc.net/search/www-panasonictab-com "www panasonictab com")
+  * [WWWTAB8](http://www.buyatabletpc.net/search/wwwtab8 "WWWTAB8")
 
 
