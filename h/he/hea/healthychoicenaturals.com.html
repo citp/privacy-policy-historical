@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the healthychoicenaturals.com privacy policy that was archived on 2017-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170526233907id_/http%3A//shop.healthychoicenaturals.com/Terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthychoicenaturals.com privacy policy that was archived on 2017-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171129052918id_/https%3A//shop.healthychoicenaturals.com/Terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -34,7 +34,7 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.57.1.2354"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.77.0.3035"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -57,10 +57,26 @@
     } (jQuery));
 </script>
 <link type="text/css" rel="stylesheet" href="/a/contentbuilder/assets/default/content.css">
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.57.1.2354"></script>
+<script type="text/javascript" src="../../a/j/paypal-rest-default-buttons.js"></script>
+
+
+<script type="text/javascript" src="/a/j/soft_add.js"></script>
+<link type="text/css" rel="stylesheet" href="/a/c/soft_add.css">
+<script type="text/javascript">
+	var global_Config_EnableDisplayOptionProducts = 'False';
+	var global_Config_ForceSecureShoppingCartPage = true;
+	var global_PageText_OtherItemsAdded = '(All other items have been added to the cart)';
+	var Config_EnableSoftAddToCart = false;
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.77.0.3035"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
+</script>
+
+<script>
+    var reCaptchaPreloaded = false;
+    var reCaptchaInit;
 </script>
 
 
@@ -133,13 +149,14 @@ banner
           <div class="logo"><a href="/"><img src="/v/common/images/logo.gif" alt="Healthy Choice Naturals" class="left"></a></div>
 <!-- THIS IS THE OFF-SITE BANNER, remove the comment start tag below to reinstate -->
 
-<div class="coupon"><img src="/v/vspfiles/assets/images/170525_Banner.jpg"></div>
+<div class="coupon"><a href="/All-Natural-Supplements-s/88.htm"><img src="/v/vspfiles/assets/images/171122_Banner.jpg"></a></div>
+
 
 <!--END OF OFF-SITE BANNER remove the comment end tag above to reinstate -->
 
 <!-- THIS IS THE ON-SITE BANNER, add comment start tag below to hide -->
 
-<!--<div class="coupon"><a href="/Coupons-s/86.htm"><img src=="/v/vspfiles/assets/images/170422_Banner.jpg"left" /></a></div>-->
+<!--<div class="coupon"><a href="/Coupons-s/86.htm"><img src="/v/vspfiles/assets/images/170422_Banner.jpg"left" /></a></div>-->
 
 <!-- END OF ON-SITE BANNER, add comment end tag above to hide -->
 
@@ -490,6 +507,25 @@ var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(dt, 
 
 
 <script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
+
+  <script>
+     if (document.getElementsByName("MailingList")[0]) {
+        var emailSubscribeForm = document.getElementsByName("MailingList")[0];
+        disableSubscribeSubmit = function() {
+          emailSubscribeButton.removeAttribute("type");
+        }
+        forwardToMailingList = function(e) {
+            var subscribeEmail = emailSubscribeForm.querySelector("input").value;
+          sessionStorage.setItem("subEmailAddress", subscribeEmail);
+          emailSubscribeForm.submit();
+        }
+
+        if (emailSubscribeForm.querySelector("button")) {
+            var emailSubscribeButton = emailSubscribeForm.querySelector("button");
+            emailSubscribeButton.addEventListener("click", forwardToMailingList);
+        }
+    }
+  </script>
 
 
 </body></html>
