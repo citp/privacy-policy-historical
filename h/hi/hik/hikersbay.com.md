@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615071921id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129032920id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
