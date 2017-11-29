@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iframes.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141636id_/http%3A//www.iframes.us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iframes.us privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129231612id_/http%3A//www.iframes.us/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: IFrames.us ::
 
@@ -38,4 +38,4 @@ This web site meets the guidelines of TRUSTe's Children's program, which means t
  **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact.
 
-**SAFE, RELIABLE AND FRIENDLY SUPPORT** ****If you have any questions about our service and the benefits you can expect from us, please feel free to[contact us and we will get back to you in less than 24 hours ](https://web.archive.org/web/20170606141636id_/http%3A//www.iframes.us/contactus.php).
+**SAFE, RELIABLE AND FRIENDLY SUPPORT** ****If you have any questions about our service and the benefits you can expect from us, please feel free to[contact us and we will get back to you in less than 24 hours ](https://web.archive.org/web/20171129231612id_/http%3A//www.iframes.us/contactus.php).
