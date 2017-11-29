@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mindtools.com privacy policy that was archived on 2017-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170607065730id_/https%3A//www.mindtools.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindtools.com privacy policy that was archived on 2017-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171129224112id_/https%3A//www.mindtools.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="public" ng-app="MindToolsPublicApp"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,28 +53,32 @@
 <!-- Facebook Pixel Code -->
 <!--[if (gt IE 9)|(!IE)]><!-->
 <script>
-    if(typeof fbq === 'undefined') {
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq)return;
-            n = f.fbq = function () {
-                n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            }
-            ;
-            if (!f._fbq)f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window,
-            document, 'script', '//connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '579013938918945');
-        fbq('track', "PageView");
-    }</script>
+    if (!/PhantomJS/.test(window.navigator.userAgent)) {
+        if(typeof fbq === 'undefined') {
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq)return;
+                n = f.fbq = function () {
+                    n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                }
+                ;
+                if (!f._fbq)f._fbq = n;
+                n.push = n;
+                n.loaded = !0;
+                n.version = '2.0';
+                n.queue = [];
+                t = b.createElement(e);
+                t.async = !0;
+                t.src = v;
+                s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s)
+            }(window,
+                document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '579013938918945');
+            fbq('track', "PageView");
+        }
+    }
+</script>
+
 <noscript>
     <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579013938918945&ev=PageView&noscript=1"/>
 </noscript>
@@ -83,9 +87,9 @@
 
 <script>
     setTimeout("ga('send', 'event', 'read', 'Other 15 seconds')",15000);
-    setTimeout("ga('send', 'event', 'read', 'Other 1 min')",60000);
+    /*setTimeout("ga('send', 'event', 'read', 'Other 1 min')",60000);
     setTimeout("ga('send', 'event', 'read', 'Other 4 mins')",240000);
-    setTimeout("ga('send', 'event', 'read', 'Other 8 mins')",480000);
+    setTimeout("ga('send', 'event', 'read', 'Other 8 mins')",480000);*/
     function gaClick() {
         ga('send', {
             hitType: 'event',
