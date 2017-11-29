@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigstart.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531050550id_/http%3A//gigstart.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigstart.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129224308id_/http%3A//www.gigstart.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Gigstart
 
