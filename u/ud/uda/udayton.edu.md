@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the udayton.edu privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320135237id_/https%3A//udayton.edu/policies/it/Websiteprivacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udayton.edu privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129201623id_/https%3A//udayton.edu/policies/it/Websiteprivacypolicy.php) for the most accurate reproduction.*
 
 # Web Privacy : University of Dayton, Ohio
 
 ## Web Privacy 
 
-[Download a PDF version of the Web Privacy Policy (.pdf) >> ](https://web.archive.org/web/20170320135237id_/https%3A//udayton.edu/policies/it/WebPrivacy.pdf)
+[Download a PDF version of the Web Privacy Policy (.pdf) >> ](https://web.archive.org/web/20171129201623id_/https%3A//udayton.edu/policies/it/WebPrivacy.pdf)
 
 ### Purpose
 
