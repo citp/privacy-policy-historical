@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messengerrevolution.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314103250id_/http%3A//www.messengerrevolution.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messengerrevolution.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129225437id_/http%3A//www.messengerrevolution.com/Privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
