@@ -1,47 +1,35 @@
-> *The following text is extracted and transformed from the physicianformulas.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicianformulas.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130000301id_/https%3A//physicianformulas.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy – Advance Physician Formulas
 
-|  |  |  |  |  |  |  |  |  |  |  |   
----|---|---|---|---|---|---|---|---|---|---  
-[](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/default.asp) | [](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/aboutus.asp) | [](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/shipping.asp) | [](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/default.asp) |  |  |   
-|   
-|  |  | 
+## Your Privacy and Security are a Top Priority at Physician Formulas. Since our inception we have never shared, rented, or sold any customer information to any other party -- and never will.
 
-**Total($)= **0.00****
+When you submit personal information on our website we will protect your information both online and offline.
 
-| [](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/cart.asp) |   
-|  |   
-|  |  |  |  |  |  |  |  |  |  |   
----|---|---|---|---|---|---|---|---|---|---  
-|   
-  | 
+We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure once we receive it. For example, we store your personal information on computer systems located in limited access, secured facilities. Physicianformulas.com employees are trained and kept up-to-date on our security procedures.
 
-| 
+Physician Formulas takes reasonable and appropriate steps to protect your personal information from unauthorized disclosure or access. However, no data transmitted over the internet or stored on a server can ever be 100% secured. Therefore, while we strive to protect your privacy and personal information, we cannot guarantee the security of any information transmitted or disclosed to us online. We are not responsible for the disclosure, destruction or theft of your personal information.
 
-**At Physician Formulas you are guaranteed the highest level of security and privacy.**
+If you opted to register with us, you established a password for your account, in which case your online account information will be protected by your password. We suggest that you do not share or disclose your password to anyone. You are responsible for the confidentiality of your account and password and are fully responsible for all activities that occur under your account and password. We suggest creating challenging passwords such as those with alphanumeric combinations.
 
-**Security**
+Secure Ordering
 
-When you submit personal information on our Web site, we will protect your information both online and offline. When you submit sensitive information (such as a credit card number), that information is encrypted and protected.  
-  
-Any credit card information you provide will be fully protected. At Physician Formulas we guarantee your security. We have subscribed to the internet’s most effective security technology: Secure Sockets Layer (SSL). All transactions are protected by the means of the most advanced of encryption currently available. The credit card information you provide is encrypted on your computer, sent through the internet in a jumbled code, and decoded at PhysicianFormulas.com’s secure server. The information you provide cannot be interpreted during transit. 
+When you submit personal information on our website, your information is protected both online and offline. We can only access your credit card (but not your actual credit card information) to issue credits, never for actual charges. Only you can produce a charge by placing an order in your password-protected account.
 
-**Information Collected and How it is Used**
+While on a secure page, such as our order form which is hosted in a secure data facility, the lock icon of your web browser becomes locked. This indicates that the connection between your web browser and our web server is secured. While on a secure page, the 'http' on your browser changes to 'https'.
 
-During the order process you will be asked for shipping information name, address, telephone number, email, and choice of payment method. This information is collected in order to process your purchase and shipping purposes. Upon completion of the online order a confirmation of your order will be sent via email to the email address you supplied. Please make sure your email address is correct. If you subscribe to our newsletter by email, we guarantee that the email address you provide will only be used to send you our monthly newsletter. No other company or individual will be given your email address.
+When you submit sensitive information (such as credit card number), that information is encrypted and is protected with the encryption software which meets or exceeds industry standards - (Secure Socket Layer). While on a secure page, such as our order form which is hosted in a secure data facility, the lock icon on the bottom of web browsers such as Firefox, Google Chrome and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
 
-**Disclosure to Third Parties**
+Physician Formulas & Third Parties
 
-We use third party service providers such as credit card processors and delivery companies (such as US postal service, UPS, and Fedex) to assist us in fulfilling your order. These companies use your information to authorize payment and to deliver your order to you. Otherwise, we do not sell, rent, share, or transfer your personal information to third parties. The information you give us is confidential, and will not be sold or given to any individual or company or organization.  
-  
----  
-   
-  
-  |   
-  |   |   
-  |   |   
-|   
-| [](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/default.asp) | [](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/aboutus.asp) | [](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/scripts/prodList.asp) | [](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/prodList.asp?special=Y) | [](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/contactUs.asp) | [](https://web.archive.org/web/20120630103728id_/http%3A//www.physicianformulas.com/store/Scripts/shipping.asp) |  |   
-|   
- 
+Like most retailers, as you visit our websites, we are collecting information about that visit. We collect this information to improve our delivery of information and services to you. In order to collect this information, we utilize technology from third party companies like Google. For example we utilize Google Analytics to aid in website measurement. This software is employed to evaluate – anonymously and in aggregate about how people use the Physician Formulas family of websites.
+
+This software provides information about your device (e.g. computer, tablet, smartphone), the type of browser (e.g. Chrome, Safari, Firefox) and operating system (e.g. Windows, Macintosh, Android, iOS). We gather this information to make sure the websites are optimized based on the technologies the majority of people are using to access our websites.
+
+Part of this technology utilizes internet “cookies.” Cookies are stored on your hard drive in the form of a text file. Most cookies are “session cookies” meaning that are automatically deleted when you close your browser. Other cookies are called “persistent” because they do not expire. Typically these cookies allow us to provide targeting information about products and pricing. However you can easily remove them by following the directions in your browsers help file.
+
+While this statistical data is collected, it is important to note that Physician Formulas does not sell, rent or lease any of your personal information. Nonetheless, if required by law, we will release your personal information due to a search warrant, subpoena, court order, etc.
+
+Contact Us
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with our website, you can contact us at: marita@physicianformulas.com
