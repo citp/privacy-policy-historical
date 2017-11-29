@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spreadsheet1.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531153106id_/http%3A//www.spreadsheet1.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadsheet1.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129170758id_/http%3A//www.spreadsheet1.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Spreadsheet1 | Excel in your office!
+# Privacy Policy
 
 This Privacy Policy governs the manner in which Esoteric Consulting Ltd collects, uses, maintains and discloses information collected from users (each, a "User") of the www.spreadsheet1.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Esoteric Consulting Ltd.
 
