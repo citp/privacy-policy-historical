@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seabird.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601120436id_/http%3A//www.seabird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seabird.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129235630id_/http%3A//www.seabird.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Sea-Bird Scientific
 
@@ -65,6 +65,8 @@ By using this site, you consent to the collection, storage, and processing of yo
 
 **Changes to Our Privacy Notice**  
 Check this Privacy Notice regularly, as we may change or update portions of this Privacy Policy from time to time, subject to any applicable consent requirements. Any changes will be promptly posted to this page and accompanied by a new effective date at the top of this page.
+
+## **Sea-Bird Online Privacy Policy**
 
 **Effective June 15, 2015**  
 This Online Privacy Notice (“Privacy Policy”) explains how we handle the personal information provided to us on websites, mobile sites, mobile applications, and other digital services and products controlled by Sea-Bird Scientific, 13431 NE 20th Street, Bellevue, Washington 98005  USA, that link to this Privacy Policy (collectively, “Sea-Bird Sites”).
