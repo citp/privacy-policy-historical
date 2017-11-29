@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailaddresses.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618065223id_/http%3A//www.emailaddresses.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailaddresses.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129085524id_/http%3A//www.emailaddresses.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for EmailAddresses.com
 
