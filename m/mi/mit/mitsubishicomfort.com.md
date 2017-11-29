@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitsubishicomfort.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618233301id_/http%3A//www.mitsubishicomfort.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishicomfort.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129224543id_/http%3A//www.mitsubishicomfort.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ MEUS collects visitor data to analyze and understand important trends and to gat
 
 A cookie can be described as either “session” or “tracking.” Session cookies are deleted after closing your browser.  Tracking cookies remain on your computer until you delete them or upon expiration.  MEUS does not use cookies to collect personally identifiable information and does not combine information collected through cookies with other personally identifiable information in an attempt to expose your identity, screen name, e-mail address or any other personal information.
 
-You can set your browser to send notifications before you receive a cookie, which gives you the ability to decide whether or not to accept it. You can also choose to accept or refuse cookies by changing the settings on your browser. Because browers vary, you should check your browser’s “Help” menu to learn how to change your cookie preferences.  If you do so, however, areas of some sites may not function properly.
+You can set your browser to send notifications before you receive a cookie, which gives you the ability to decide whether or not to accept it. You can also choose to accept or refuse cookies by changing the settings on your browser. Because browsers vary, you should check your browser’s “Help” menu to learn how to change your cookie preferences.  If you do so, however, areas of some sites may not function properly.
 
  **COLLECTION OF PERSONAL INFORMATION AND HOW WE USE IT**
 
