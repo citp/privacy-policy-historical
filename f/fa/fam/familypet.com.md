@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the familypet.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626203415id_/http%3A//theanimalrescuesite.greatergood.com/clickToGive/ars/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familypet.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129040502id_/http%3A//theanimalrescuesite.greatergood.com/clickToGive/ars/privacy) for the most accurate reproduction.*
 
 # Privacy @ The Animal Rescue Site
-
-[](http://privacy.truste.com/privacy-seal/Charity-USA/validation?rid=2c2bc329-95f6-481a-b820-a82baf5f32cb "TRUSTe online privacy certification")
 
 CharityUSA, owners and operators of the GreaterGood family of websites, has created this privacy policy to disclose our information gathering and dissemination practices. CharityUSA does not sell, rent, trade, or share Personal Information with third parties except as disclosed within this privacy policy.
 
@@ -41,11 +39,8 @@ This privacy policy covers the following:
 > [**Family Pet**](http://familypet.com/)   
 > [Coupaw](http://coupaw.com/)   
 > [Doggyloot](http://doggyloot.com/)   
-> [Petsitting](http://petsitting.com/)   
 > [RescueBox](http://rescuebox.com/)   
 > [**GreaterGood Wholesale**](http://greatergoodwholesale.com/)   
-> [GreaterGood Global](https://greatergood.global/)   
-> [Sasa Designs](https://shopsasadesigns.com/)   
 > [Global Girlfriend](https://www.globalgirlfriend.com/)   
 > **Great Life Publishing**   
 > [12 Tomatoes](http://12tomatoes.com/)   
@@ -125,6 +120,8 @@ When you purchase something at a GreaterGood store, we request certain personal 
 
 CharityUSA may provide your personal information to third parties that provide services to help us with our business activities such as shipping your order or a payment processor to bill you for goods and services. These third party service providers do not retain, share, store, or otherwise use your personal information for any other purpose other than to provide services to us, and are prohibited from marketing to you.
 
+In certain situations, Charity USA may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 We reserve the right to disclose your personal information as required by law, such as to comply with a subpoena or similar legal process, and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website. If CharityUSA is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our sites of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ### Gifts That Give More™
@@ -145,15 +142,11 @@ Our Web sites include social media features such as the Facebook "Like" button a
 
 As is true of most sites, we gather certain information automatically and store it in electronic log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We do not link this automatically-collected data to personal information. We use this information to understand how our websites are used to better meet the needs of our visitors and customers. We use IP addresses to identify and block malicious behavior like click fraud or denial of service attacks.
+We use this information to understand how our websites are used to better meet the needs of our visitors and customers. We use IP addresses to identify and block malicious behavior like click fraud or denial of service attacks.
 
 ### Tracking Technologies
 
-Technologies such as cookies, beacons, tags, and scripts are used by CharityUSA and our partners, affiliates, analytics and service providers. These technologies are used in analyzing trends, administering the site, tracking user movements around the site, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies for our shopping cart to save your shopping for a return visit, to save your order ID until a successful order authorization, and, in future, we may use cookies to store your click history to show you the good you've accomplished by visiting and taking action around the sites.
-
-You do not have to accept cookies in order to make your free, daily click and have your click count, or to shop with us. You can control the use of cookies from your browser. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+Charity USA and its partners use cookies or similar technologies to analyze trends, administer the website, track usersâ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
 
 ### Local Storage Objects (LSOs)
 
@@ -161,7 +154,7 @@ We use Local Storage Objects (LSOs) such as HTML5 to store content information a
 
 ### Behavioral Targeting/Retargeting
 
-CharityUSA partners with a third party ad network to both display advertising on our own Web sites and to manage our advertising on other sites. Our ad network partners use cookies and Web beacons to collect non-personal information about your activities on this and other Web sites in order to provide you targeted advertising based upon your interests, and to provide you relevant advertising through retargeting when you leave our sites. If you do not want this information used for the purpose of serving you targeted ads, you may opt-out by clicking here <http://preferences-mgr.truste.com/>, or by using the [NAI opt-out mechanism](http://www.networkadvertising.org/managing/opt_out.asp). Please note that this does not opt you out of being served advertising -- you will continue to see general ads that are not targeted to your interests.
+CharityUSA partners with a third party ad network to both display advertising on our own Web sites and to manage our advertising on other sites. Our ad network partners use cookies or similar technologies to collect non-personal information about your activities on this and other Web sites in order to provide you targeted advertising based upon your interests, and to provide you relevant advertising through retargeting when you leave our sites. If you do not want this information used for the purpose of serving you targeted ads, you may opt-out by clicking here <http://preferences-mgr.truste.com/>, or by using the [NAI opt-out mechanism](http://www.networkadvertising.org/managing/opt_out.asp). Please note that this does not opt you out of being served advertising -- you will continue to see general ads that are not targeted to your interests.
 
 Due to technological limitations at this time, CharityUSA does not respond to browser Do Not Track signals.
 
@@ -199,7 +192,7 @@ Please note: Your credit card statement will show the name of the store where yo
 > The Alzheimer's Site   
 > The Diabetes Site   
 > The Literacy Site   
-> The Eatrrh Site   
+> The Earth Site   
 > The Rainforest Site   
 > Creative Kidstuff   
 > Sensational Beginnings   
@@ -221,7 +214,7 @@ CharityUSA does not knowingly collect individually identifiable information from
 
 ### Updating/Accessing/Amending/Correcting personal information
 
-If your personal information changes, you may contact us to amend, correct, or delete it at [customerservice@greatergood.com](mailto:customerservice@greatergood.com). We will respond to your request within 1 business day.
+Upon request Charity USA will provide you with information about whether we hold any of your personal information. If your personal information changes, you may contact us to amend, correct, or delete it at [customerservice@greatergood.com](mailto:customerservice@greatergood.com). We will respond to your request within 1 business day.
 
 We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -248,4 +241,4 @@ You will be notified if your personal information is collected by any third part
 
 We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you by means of a notice on this Site or by email prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-This Privacy Policy was last updated on September 6, 2016.
+This Privacy Policy was last updated on October 19, 2017.
