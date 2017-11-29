@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandchannel.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629105207id_/http%3A//brandchannel.com/privacy-and-terms-of-service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandchannel.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129081031id_/http%3A//brandchannel.com/privacy-and-terms-of-service) for the most accurate reproduction.*
 
 # brandchannel: privacy policy and terms of service
 
