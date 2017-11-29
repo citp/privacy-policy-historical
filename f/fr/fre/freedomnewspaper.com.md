@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freedomnewspaper.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151756id_/http%3A//www.freedomnewspaper.com/freedom-np/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomnewspaper.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129074719id_/https%3A//www.freedomnewspaper.com/freedom-np/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Freedom Newspaper
+# Privacy Policy - Freedom Newspaper
 
 We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
