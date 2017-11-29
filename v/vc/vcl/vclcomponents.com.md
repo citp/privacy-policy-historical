@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vclcomponents.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628173129id_/http%3A//www.vclcomponents.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vclcomponents.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129025619id_/http%3A//www.vclcomponents.com/privacy_policy) for the most accurate reproduction.*
 
 # VCL Components - Components, Scripts, Source Code - Privacy Policy
 
