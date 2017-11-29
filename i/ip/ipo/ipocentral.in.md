@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipocentral.in privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530114652id_/http%3A//ipocentral.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipocentral.in privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129093454id_/http%3A//www.ipocentral.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IPO Central
 
