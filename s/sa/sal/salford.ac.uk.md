@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613225723id_/http%3A//www.salford.ac.uk/small-print-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129232233id_/http%3A//www.salford.ac.uk/small-print-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University of Salford, Manchester
 
@@ -8,7 +8,7 @@
 
 University of Salford is committed to respecting and protecting your privacy as a visitor to our website at <http://www.salford.ac.uk/>. We take the issue of privacy very seriously and value the trust you place in us each time you use our services and access this website. This Privacy Statement describes the practices and policies we have put into place to safeguard your personal information that may be gathered and used as you visit our website.
 
-**This notice describes how information about you may be used and disclosed, and how you can get access to this information. Please review it carefully.**
+ **This notice describes how information about you may be used and disclosed, and how you can get access to this information. Please review it carefully.**
 
 The statement may change from time to time so please check back periodically. If you have any questions about our privacy policies, we encourage you to contact us using any of the methods outlined at the end of our Privacy Statement.
 
@@ -20,9 +20,9 @@ University of Salford is collecting information on this website as outlined in t
 
 ### Automatic collection of information:
 
-If you do nothing during your visit but browse through the website or download information, our system will automatically gather and store certain information about your visit. This information does not identify you personally and is used in an aggregate way to help us improve our website and tell us the number of visitors to our site each day. 
+If you do nothing during your visit but browse through the website or download information, our system will automatically gather and store certain information about your visit. This information does not identify you personally and is used in an aggregate way to help us improve our website and tell us the number of visitors to our site each day.
 
-The University uses features of Google Analytics based on Display Advertising (e.g. Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration or Google Analytics Demographics and Interest Reporting).  Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt out of Google Analytics for Display Advertising and customise Google Display Network ads. 
+The University uses features of Google Analytics based on Display Advertising (e.g. Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration or Google Analytics Demographics and Interest Reporting).  Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt out of Google Analytics for Display Advertising and customise Google Display Network ads. 
 
 Please also refer to Google Analytics' [currently available opt outs](https://tools.google.com/dlpage/gaoptout/) for the web.
 
@@ -41,33 +41,27 @@ Our web server automatically collects and records the following information:
 
 ### Permission-based collection of information:
 
-At different places on our site depending upon the feature you use, you may be asked to volunteer personal information such as your name, email, mailing address and telephone number. 
+At different places on our site depending upon the feature you use, you may be asked to volunteer personal information such as your name, email, mailing address and telephone number.
 
-The following information is collected with your permission at this website:  
-
+The following information is collected with your permission at this website:
 
   * Anonymous user survey information
   * Survey information including personal identification information
-  * The names and e-mail addresses of those who use a feedback form  
+  * The names and e-mail addresses of those who use a feedback form
 
 
 
+### How do we use the information we collect?
 
-### How do we use the information we collect?  
+The information we gather automatically and with your permission during your visit to our website is used in the following ways:
 
-
-The information we gather automatically and with your permission during your visit to our website is used in the following ways:  
-
-
-  * To monitor, review, measure, and analyze website utilization
+  * To monitor, review, measure, and analyse website utilisation
   * To improve the content and design of our website
-  * To study general usage habits and demographic information for our own marketing research purposes  
+  * To study general usage habits and demographic information for our own marketing research purposes
 
 
 
-
-The information we obtain when you volunteer personal information is used in the following ways:  
-
+The information we obtain when you volunteer personal information is used in the following ways:
 
   * To respond to your requests
   * To monitor and improve our customer service efforts
@@ -76,7 +70,7 @@ The information we obtain when you volunteer personal information is used in the
 
 ### With whom will the information be shared?
 
-The personally identifiable information gathered during your visit to this website is not shared with any organization for any purpose. 
+The personally identifiable information gathered during your visit to this website is not shared with any organisation for any purpose.
 
 ## Access and correction of personal information
 
@@ -102,7 +96,7 @@ Consumers can access and request correction to this information by:
 
 ## Our use of cookies
 
-Many websites now use cookies to provide useful features to their visitors by providing customizable and personalized services.
+Many websites now use cookies to provide useful features to their visitors by providing customisable and personalised services.
 
 A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. For example, a website may use cookies to store and sometimes track information about you, your preferences, or the pages you last visited.
 
@@ -112,13 +106,14 @@ We use cookies on our website for the following purposes:
 
   * Store and sometimes track visitor preferences
   * Record session information, such as items that consumers add to their shopping cart
-  * Customize web page content on visitors browser type or other information that the visitor sends
+  * Customise web page content on visitors browser type or other information that the visitor sends
   * Analysis and evaluation of our advertising campaigns
+  * Remarketing activity, showing interest based advertising across the Internet
   * We will never link the cookie to your personal information
 
 
 
-For certain advertising campaigns and general web traffic analysis, we will make use of 3rd party tracking solutions. Data collected by these 3rd parties on behalf of the University will not be used, either by us or the 3rd party, for any purposes other than those stated above.
+For certain advertising campaigns and general web traffic analysis, we will make use of 3rd party (including but not limited to Amazon) tracking solutions . Data collected by these 3rd parties on behalf of the University will not be used, either by us or the 3rd party, for any purposes other than those stated above.
 
 ## Registration for access
 
@@ -132,7 +127,7 @@ Access to some of the features on this website requires registration,and the dis
 
 ## Interactive services and tools
 
-Interactive services and tools provide website users with a richer and more valuable experience. The tools can provide you with information that is customized according to your personal background and needs.
+Interactive services and tools provide website users with a richer and more valuable experience. The tools can provide you with information that is customised according to your personal background and needs.
 
 Some interactive tools may request identifying personal information in order to function. It is important for you to know how your information will be used when it is requested, for what purposes it may also be used, and if it will be shared with any other party.
 
@@ -140,12 +135,12 @@ This site does not use interactive tools that ask you for identifying personal i
 
 ## Security of communications
 
-We recognize that many people are concerned about the privacy and protection of information as it is transmitted over the Internet. You should keep in mind that the possibility exists for unauthorized individuals to intercept any email message you send over the Internet. In some cases, information can be encrypted (scrambled or encoded) to make it very difficult to read if it is intercepted during communication. Certain technology and practices allow websites to provide an increased level of security for your personal information when appropriate.
+We recognise that many people are concerned about the privacy and protection of information as it is transmitted over the Internet. You should keep in mind that the possibility exists for unauthorised individuals to intercept any email message you send over the Internet. In some cases, information can be encrypted (scrambled or encoded) to make it very difficult to read if it is intercepted during communication. Certain technology and practices allow websites to provide an increased level of security for your personal information when appropriate.
 
 We use the following practices on our website to enhance the level of security for communication and the transmission of personal information:
 
   * We have taken reasonable steps to ensure the integrity and confidentiality of personally identifiable information that you may provide
-  * We use e-mail forms to allow our customers to ask questions about our services and programs. These are not hosted on a secure server. The possibility exists that unauthorized individuals may intercept email messages
+  * We use e-mail forms to allow our customers to ask questions about our services and programs. These are not hosted on a secure server. The possibility exists that unauthorised individuals may intercept email messages
   * We are not responsible for the privacy of e-mail messages except those stored in our system
   * When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site
   * We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site
