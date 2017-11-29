@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the backwoodshome.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609003028id_/http%3A//www.backwoodshome.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backwoodshome.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129024716id_/https%3A//www.backwoodshome.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Backwoods Home Magazine
 
-###  Website Privacy Statement
+### Website Privacy Statement
 
-This document was last updated on July 16, 2013.
+This document was last updated on August 30, 2017.
 
 1\. ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS
 
@@ -20,19 +20,18 @@ Regardless of your choice, we will NEVER provide your name to any business that 
 
 If you tell us you do not want to be part of the mailing list, we will permanently flag your account so that it will not be used when compiling mailing lists. If you change your mind, you must contact us and request future inclusion on the list.
 
-If you are included on our mailing list, you may request removal at any time. All requests for inclusion, removal or other matters relating to the Special Offers list should be emailed to [customer-service@backwoodshome.com](mailto:customer-service@backwoodshome.com) .
+If you are included on our mailing list, you may request removal at any time. All requests for inclusion, removal or other matters relating to the Special Offers list should be emailed to [customer-service@backwoodshome.com](mailto:customer-service@backwoodshome.com).
 
 You may also send your request via U.S. Mail to: Customer Service, Backwoods Home Magazine, P.O. Box 712, Gold Beach, OR 97444.
 
 3\. COMMUNICATING WITH US
 
-When you communicate with us by sending comments about the magazine, web site, articles, or other issues, we may include your letter in the "Letters" section of the magazine or in the "Feedback" page on the web site, or both. If we use your letter or comment we may include your name, city or town, state or province, and country (if not USA).
+When you communicate with us by sending comments about the magazine, web site, articles, or other issues, we may include your letter in the “Letters” section of the magazine or in the “Feedback” page on the web site, or both. If we use your letter or comment we may include your name, city or town, state or province, and country (if not USA).
 
 If you do not want your letter published, or if you do not want your name, city or town, state or province, or country published, we ask that you tell us each time you write, preferably at the beginning of the communication.
 
-Editorial comments may be sent via email to [editor@backwoodshome.com](mailto:editor@backwoodshome.com) .
-
-Comments about website issues should be addressed to .
+Editorial comments may be sent via email to [editor@backwoodshome.com](mailto:editor@backwoodshome.com)  
+Comments and questions about the website may be sent via email to [webmaster@backwoodshome.com](mailto:webmaster@backwoodshome.com).
 
 4\. PARTICIPATING MERCHANT POLICIES
 
@@ -74,15 +73,9 @@ We will not disclose personally identifiable information we collect from you to 
 
 
 
-> Tell-A-Friend
-> 
-> If you use our Tell-A-Friend form to let someone else know about one of our websites, we will collect your name, the other person’s name, and both email addresses. Email addresses are not added to any mailing list. If you are selected as a winner, we will use your email address to notify you. If you respond before the date listed in the notice, we will use your name and mailing address to send you the prize you selected. Winner’s names, mailing addresses, and email addresses are added to our customer database and mailing list.
-> 
 > Forum & Chat Room
 > 
 > Our Forum has a separate User Agreement[ which may be reviewed here](http://www.backwoodshome.com/forum/vb/faq.php?faq=terms_header#faq_terms_and_conditions)
-> 
-> The service which hosts our Chat Room makes daily transcripts of all posts which transcripts are emailed to and archived by Backwoods Home Magazine, Inc. or its representative.
 
 C. Use of Cookies
 
@@ -129,9 +122,8 @@ Office Address:
 Backwoods Home Magazine  
 29545 Ellensburg Avenue  
 Gold Beach, OR 97444  
-Telephone — 1-541-247-8900  
-Fax — 1-541-247-8600
+Telephone " 1-541-247-8900
 
-Office Hours: Monday – Friday, 8 AM to 5 PM Pacific Time 
+Office Hours: Monday – Thursday, 8 AM to 4 PM Pacific Time
 
 Backwoods Home Magazine, Inc. will use commercially reasonable efforts to promptly respond and resolve any problem or question.
