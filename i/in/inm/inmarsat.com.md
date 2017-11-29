@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inmarsat.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621134005id_/http%3A//www.inmarsat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmarsat.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129064705id_/https%3A//www.inmarsat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Inmarsat
+# Privacy Policy | Inmarsat
 
 ## Information we may collect from you
 
