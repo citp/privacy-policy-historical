@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jidaw.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522010900id_/http%3A//www.jidaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jidaw.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129045412id_/http%3A//www.jidaw.com/privacy.html) for the most accurate reproduction.*
 
 # Jidaw Systems - Privacy Policy
 
 ## Privacy Policy
-
-[](http://c.jumia.io/?a=2043&c=20&p=r&E=kkYNyk2M4sk%3d&ckmrdr=https%3A%2F%2Fwww.jumia.com.ng%2Fdeals-of-the-day%2F&utm_source=cake&utm_medium=affiliation&utm_campaign=2043&utm_term=)
 
  Thank you for visiting Jidaw.com and reviewing our privacy policy. Our Policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. The information we receive depends upon what you do when visiting our site. 
 
