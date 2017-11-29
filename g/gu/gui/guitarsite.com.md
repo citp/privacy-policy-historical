@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarsite.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091748id_/http%3A//www.guitarsite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarsite.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129090028id_/http%3A//www.guitarsite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Guitarsite)
 
@@ -33,6 +33,10 @@ In the course of serving advertisements to this site, our advertisers may place 
 ## More Information About Cookies
 
 Cookies are small pieces of information that may be placed into your browser by any web server your browser connects to. Cookies can only be retrieved by a web server from the same domain name as the one that placed it there. You can change the way your browser handles cookies, or disable them completely by changing your browser's preferences. You can do this under the Tools>Internet Options menu in Microsoft Internet Explorer, see your Help menu in other browsers for information on how to do this. 
+
+## Amazon
+
+GutarSite.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com, Amazon.ca, Amazon.co.uk and other Amazon stores worldwide. Amazon may also set cookies when you click on advertising links to visit their websites.
 
 ## Contact GuitarSite.com / Hitsquad Pty Ltd
 
