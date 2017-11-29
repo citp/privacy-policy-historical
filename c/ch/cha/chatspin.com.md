@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatspin.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628172254id_/http%3A//www.chatspin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatspin.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129211544id_/http%3A//www.chatspin.com/privacy) for the most accurate reproduction.*
 
 # Chatroulette - Privacy Policy
 
@@ -10,9 +10,9 @@ INFORMATION WE COLLECT OR RECEIVE
 
 **Information we collect about you**
 
-**In General.** We may collect Personal Information, including Sensitive Data, and other information. “Personal Information” means individually identifiable information that would allow us to determine the actual identity of, and contact, a specific living person. Sensitive Data includes information, comments or content (e.g. video, profile, comments) that you optionally provide that may reveal personal details to the extent you have chosen. By providing Sensitive Data to us, you consent to the collection, use and disclosure of Sensitive Data as permitted by applicable privacy laws. We may also collect your geolocation information with your consent. We may collect this information through the mobile application, or related online services. By using the Service, you are authorizing us to gather, parse and retain data related to the provision of the Service. 
+In General. We may collect Personal Information, including Sensitive Data, and other information. “Personal Information” means individually identifiable information that would allow us to determine the actual identity of, and contact, a specific living person. Sensitive Data includes information, comments or content (e.g. video, profile, comments) that you optionally provide that may reveal personal details to the extent you have chosen. By providing Sensitive Data to us, you consent to the collection, use and disclosure of Sensitive Data as permitted by applicable privacy laws. We may also collect your geolocation information with your consent. We may collect this information through the mobile application, or related online services. By using the Service, you are authorizing us to gather, parse and retain data related to the provision of the Service. 
 
-**Information you provide.** In the course of downloading, installing and using the Services you may be required to provide certain information to enable the functionalities of ChatSpin as an example, your device type or IP address, your operating system and/or browser, cookies or other information. Users are reminded that they control the information they share and are responsible for adjusting settings in the hardware or software they use. 
+Information you provide. In the course of downloading, installing and using the Services you may be required to provide certain information to enable the functionalities of ChatSpin as an example, your device type or IP address, your operating system and/or browser, cookies or other information. Users are reminded that they control the information they share and are responsible for adjusting settings in the hardware or software they use. 
 
 You agree that prior to using our Services, you were given an opportunity to review our privacy policy and you agreed to these terms. To the extent you maintain your settings, you authorized ChatSpin to collect data and information for the purposes of providing this service.
 
@@ -22,13 +22,13 @@ You understand and agree that your use of these Service features is at your disc
 
 Through this service you may stream or otherwise deliver user-generated content, in addition features and functionalities may allow you to create a user profile or post other content. All such features allow you to disclose certain personal information of your choosing. Users agree that the ultimate responsibility for the details, information and/or content they share publicly, with other users is theirs to make. Users are strongly discouraged from sharing financial details, their home address or other sensitive information. Users agree and understand that such information they share is at their discretion, ChatSpin assumes no liability for these personal choices. ChatSpin may chose to take remedial action, at their discretion, when they feel that certain activities violate our terms and conditions, or other laws and regulations.
 
-**Information from other sources.** We, and the third-party service providers, which we may chose to employ, may use analytics services to evaluate and improve user experience through our service. Such data and information will be aggregated, and only used to provide information about your usage, to the extent necessary to provide you with the services you have indicated an interest in.
+Information from other sources. We, and the third-party service providers, which we may chose to employ, may use analytics services to evaluate and improve user experience through our service. Such data and information will be aggregated, and only used to provide information about your usage, to the extent necessary to provide you with the services you have indicated an interest in.
 
-**Opting Out of Certain Functions.** By adjusting your browser, hardware, or mobile device settings according to the requirements of the manufacturer or carrier, you can disable certain features in your privacy settings. You understand that it is your obligation to make these adjustments to make this decision. You are also advised that if you opt out of any such service, you may not be able to use the full functionality of the Service.
+Opting Out of Certain Functions. By adjusting your browser, hardware, or mobile device settings according to the requirements of the manufacturer or carrier, you can disable certain features in your privacy settings. You understand that it is your obligation to make these adjustments to make this decision. You are also advised that if you opt out of any such service, you may not be able to use the full functionality of the Service.
 
 **How we use the information we collect**
 
-**In General.** We may use information that we collect about you to:
+In General. We may use information that we collect about you to:
 
   * deliver and improve our services, and manage our business;
   * provide customer support;
@@ -43,17 +43,17 @@ Through this service you may stream or otherwise deliver user-generated content,
 
 In addition for sharing listed above to allow functionalities of the Service, you as a user of ChatSpin shall have consented to have your content to appear as viewable by other users of the Service to the degree your settings have authorized.
 
-**Personal information.** We do not share your personal information with others except as indicated in this Privacy Policy or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+Personal information. We do not share your personal information with others except as indicated in this Privacy Policy or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
-**Service providers.** From time to time, we may employ third party service providers to carry out certain features or functionalities of this service (including, but not limited to, moderation, technical support, or payment processing) these third parties will be required to handle all data and information according to these policies.
+Service providers. From time to time, we may employ third party service providers to carry out certain features or functionalities of this service (including, but not limited to, moderation, technical support, or payment processing) these third parties will be required to handle all data and information according to these policies.
 
-**Other Situations.** We may disclose your information, including personal information:
+Other Situations. We may disclose your information, including personal information:
 
 In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
 
 When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our terms and policies.
 
-**Aggregated and/or non-personal information.** We may use and share non-personal information we collect under any of the above circumstances. We may also share it with affiliates and third parties to develop and deliver targeted advertising on our Service and on websites or applications of third parties, and to analyze and report on advertising you see.
+Aggregated and/or non-personal information. We may use and share non-personal information we collect under any of the above circumstances. We may also share it with affiliates and third parties to develop and deliver targeted advertising on our Service and on websites or applications of third parties, and to analyze and report on advertising you see.
 
 **Children's privacy**
 
