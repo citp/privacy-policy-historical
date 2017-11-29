@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roaring.earth privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032316id_/http%3A//roaring.earth/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roaring.earth privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129034922id_/http%3A//roaring.earth/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Roaring Earth
+# Privacy Policy
 
 Protecting your private information is our priority. This Statement of Privacy applies to Roaring Earth’s website and governs data collection and usage. By using the Roaring Earth website, you consent to the data practices described in this statement.
 
