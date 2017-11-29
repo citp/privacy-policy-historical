@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notaryrotary.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095343id_/http%3A//www.notaryrotary.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notaryrotary.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129025616id_/http%3A//www.notaryrotary.com/privacystatement.asp) for the most accurate reproduction.*
 
 # Notary Rotary - Notary Supplies and Services for the Professional Notary Public
 
