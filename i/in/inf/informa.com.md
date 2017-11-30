@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130150319id_/http%3A//informa.com/generic-content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130194305id_/https%3A//informa.com/generic-content/privacy-policy) for the most accurate reproduction.*
 
 # Informa.com - Privacy Policy
 
