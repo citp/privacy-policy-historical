@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nutritionstudies.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630172208id_/http%3A//nutritionstudies.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionstudies.org privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130164210id_/http%3A//nutritionstudies.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Center for Nutrition Studies
-
-Read in [Español](http://nutritionstudies.org/es/politica-de-privacidad/)
 
 The T. Colin Campbell Center for Nutrition Studies (“CNS”) values the private information of visitors to our website (the “Site”) and understands the need for security surrounding such information. The following policies outline the ways in which we collect, store and use personally identifiable information in providing our services. It also explains our use of cookies and delineates our legal policy. Except for very limited exceptions we do not share any personally identifiable information with third parties. We reserve the right to modify, alter or otherwise update this Privacy Policy at any time and you are encouraged to periodically review it.
 
