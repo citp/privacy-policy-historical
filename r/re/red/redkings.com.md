@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redkings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040012id_/http%3A//poker.redkings.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redkings.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130062353id_/http%3A//poker.redkings.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Play Online Poker Games at RedKings Internet Poker Room
 
