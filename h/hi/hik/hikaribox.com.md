@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hikaribox.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630091003id_/http%3A//www.lightinthebox.com/r/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikaribox.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130155826id_/http%3A//www.lightinthebox.com/r/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - www.LightInTheBox.com
 
@@ -13,7 +13,7 @@ LightInTheBox respects your privacy and takes your online safety seriously. In o
 
 ## LightInTheBox's Privacy Policy
 
-Thank you for accessing the website ("Site") of Light In The Box Limited (all references to “us” and “our" refer to LightInTheBox.com). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
+Thank you for accessing the website ("Site") of LightInTheBox (all references to “us” and “our" refer to LightInTheBox.com). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
 
 This Privacy Policy explains:  
 How we collect, use, and (under certain conditions) disclose your personal information.  
