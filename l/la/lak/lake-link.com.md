@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201044551id_/http%3A//www.lake-link.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130122800id_/http%3A//www.lake-link.com/privacy-policy) for the most accurate reproduction.*
 
 # Lake-Link Online Privacy Policy
 
@@ -25,13 +25,13 @@ In each of these instances, we may ask for your name, e-mail address, phone numb
   1. Your Browser Information: We use the information we collect with cookies to recognize you when you return to the Site. This means that you only have to enter your password in order to log in. We also use the information to improve the design of the Site. We do not share this information with any third party.
   2. Your Personal Information: We use your personal information for internal marketing efforts - for example, to help us improve the Site design and better understand the demographic makeup of our visitors. We may occasionally seek your permission to merge the information we collect from you with information that we receive from other sources. We will not use your information in this way unless we have received your prior agreement to do so. 
 
-We may use your personal information to alert you to special offers, updated information and other new services. If you do not want to receive such mailings you can easily opt-out of receiving further marketing from us by [sending an e-mail](https://web.archive.org/contact-us/) with your request. 
+We may use your personal information to alert you to special offers, updated information and other new services. If you do not want to receive such mailings you can easily opt-out of receiving further marketing from us by [sending an e-mail](https://web.archive.org/contact-us/?CFID=138657328&CFTOKEN=ce26ddabb912583a-80FAEFCC-9510-724D-C89FAA001DA887FA) with your request. 
 
-We will not give or sell your personal information to any third party without your consent or notification on the web site (this excludes third party promotions and give-a-ways, see below). This means that you will be able to opt-in your agreement to such use when you submit your personal information. At any time, you can easily opt-out of having your personal information shared any further with third parties by [sending an e-mail](https://web.archive.org/contact-us/) with your request. 
+We will not give or sell your personal information to any third party without your consent or notification on the web site (this excludes third party promotions and give-a-ways, see below). This means that you will be able to opt-in your agreement to such use when you submit your personal information. At any time, you can easily opt-out of having your personal information shared any further with third parties by [sending an e-mail](https://web.archive.org/contact-us/?CFID=138657328&CFTOKEN=ce26ddabb912583a-80FAEFCC-9510-724D-C89FAA001DA887FA) with your request. 
 
 This privacy policy becomes null and void in the event that a court of law or a state/federal law enforcement agency submits an official request for info regarding a user for prosecution purposes due a users questionable actions or illegal activities.
 
-This privacy policy becomes null and void in the event that the user knowingly and deliberately violates the [ Terms Of Service ](https://web.archive.org/info/termsofservice.cfm)for this Site or Rules Of Conduct which the user agreed to abide by when registering for their Lake-Link account. 
+This privacy policy becomes null and void in the event that the user knowingly and deliberately violates the [ Terms Of Service ](https://web.archive.org/info/termsofservice.cfm?CFID=138657328&CFTOKEN=ce26ddabb912583a-80FAEFCC-9510-724D-C89FAA001DA887FA)for this Site or Rules Of Conduct which the user agreed to abide by when registering for their Lake-Link account. 
 
   3. Special Promotions, Drawings & Give-a-ways   
 Information that is collected for special promotions, drawings & give-a-ways that are funded by third parties may be provided to that third party in leiu of providing the product or services as prizes for the special promotions, drawings or give-a-way. 
@@ -44,7 +44,7 @@ Agents or contractors of Lake-Link, Inc. who have access to your personal inform
 
 ### Keep Your Information Accurate
 
-Please [send us an e-mail](https://web.archive.org/contact-us/) to ask us for the personal information we have collected from you during your visits to the Site. You may also use that address to correct and/or update information that we have on file. 
+Please [send us an e-mail](https://web.archive.org/contact-us/?CFID=138657328&CFTOKEN=ce26ddabb912583a-80FAEFCC-9510-724D-C89FAA001DA887FA) to ask us for the personal information we have collected from you during your visits to the Site. You may also use that address to correct and/or update information that we have on file. 
 
 ### Children
 
@@ -56,4 +56,4 @@ Please be careful and responsible whenever you're online. If you post personal i
 
 ### Contact Us
 
-If you have any questions about our Site or this Privacy Policy, please [email us](https://web.archive.org/contact-us/?subject=Privacy%20Policy). 
+If you have any questions about our Site or this Privacy Policy, please [email us](https://web.archive.org/contact-us/?subject=Privacy%20Policy&CFID=138657328&CFTOKEN=ce26ddabb912583a-80FAEFCC-9510-724D-C89FAA001DA887FA). 
