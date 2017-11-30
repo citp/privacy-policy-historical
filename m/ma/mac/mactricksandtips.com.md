@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mactricksandtips.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601041710id_/http%3A//www.mactricksandtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mactricksandtips.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130163916id_/http%3A//www.mactricksandtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mac Tricks And Tips
 
