@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloombiz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124928id_/http%3A//europe.bloombiz.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloombiz.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130180605id_/http%3A//europe.bloombiz.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
 
 # European Business Directory, European Trade Portal, Europe B2B Marketplace
 
