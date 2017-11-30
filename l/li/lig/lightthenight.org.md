@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightthenight.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155525id_/http%3A//www.lls.org/lls-us-hq/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightthenight.org privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201001007id_/http%3A//www.lls.org/lls-us-hq/article/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Leukemia and Lymphoma Society
 
@@ -110,26 +110,26 @@ From time to time, LLS may also share donor names and mailing addresses with oth
 
 We respect our donors’ choices and control over their information.  You, as a donor may, at any time, have your name excluded from any donor list exchange activity.  We also recognize that you may wish to limit the ways in which we contact you, and we offer the following options for restricting internal and external sharing of your contact information:
 
-Do not contact me by telephone.  
-Do not contact me by postal mail.  
-Do not contact me by email.  
-Do not share my contact information with other nonprofit organizations.  
-Limit your fund-raising appeals to semiannual solicitations only.  
+Do not contact me by telephone.   
+Do not contact me by postal mail.   
+Do not contact me by email.   
+Do not share my contact information with other nonprofit organizations.   
+Limit your fund-raising appeals to semiannual solicitations only.   
 Do not contact me.
 
-To request that your name be excluded from list exchange activity or to otherwise change how LLS contacts you, please email us at tlls@interactconnect.com or feel free to contact us at 1-800-462-7831.
+To request that your name be excluded from list exchange activity or to otherwise change how LLS contacts you, please email us at [rmgdonorserviceslls@merkleinc.com](mailto:rmgdonorserviceslls@merkleinc.com) or feel free to contact us at [1-800-462-7831](tel:+1-800-462-7831).
 
-If you opt back into a specific service, you will receive communication in that manner regardless of your overall opt out selections.  For example, if you request a newsletter subscription, we will provide you that subscription, even if you previously asked us not to contact you at all.  We will take all reasonable efforts to ensure that your requests are honored in a timely fashion.  Please note that if you are an active participant in one of our fundraising events, such as Team In Training® or Light The Night Walk®, you may receive communications related to that event regardless orof your overall opt out selections.  If you do not wish to receive emails about that event, please opt out using the “unsubscribe” link provided in the communication.
+If you opt back into a specific service, you will receive communication in that manner regardless of your overall opt out selections.  For example, if you request a newsletter subscription, we will provide you that subscription, even if you previously asked us not to contact you at all.  We will take all reasonable efforts to ensure that your requests are honored in a timely fashion.  Please note that if you are an active participant in one of our fundraising events, such as Team In Training® or Light The Night Walk®, you may receive communications related to that event regardless of your overall opt out selections.  If you do not wish to receive emails about that event, please opt out using the “unsubscribe” link provided in the communication.
 
-Telephone: 1-800-462-7831
+[1-800-462-7831](tel:+1-800-462-7831)
 
-Email: tlls@interactconnect.com
+Email: [rmgdonorserviceslls@merkleinc.com](mailto:rmgdonorserviceslls@merkleinc.com)
 
-Postal Mail:     The Leukemia & Lymphoma Society, Donor Services
+Postal Mail:
 
-                        PO Box 4072
-
-                        Pittsfield, MA 01202
+The Leukemia & Lymphoma Society   
+PO Box 98018   
+Washington, DC 20090-8018
 
 __**California Residents**__
 
