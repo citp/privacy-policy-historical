@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefacegamer.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529092733id_/http%3A//www.thefacegamer.com/the-facegamers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefacegamer.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130125948id_/http%3A//www.thefacegamer.com/the-facegamers-privacy-policy) for the most accurate reproduction.*
 
 # The Facegamer’s Privacy Policy – The Facegamer
 
