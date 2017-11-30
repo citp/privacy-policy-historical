@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainpromocodes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130449id_/http%3A//domainpromocodes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainpromocodes.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201004703id_/http%3A//www.domainpromocodes.com/privacy) for the most accurate reproduction.*
 
 # Domain Promo Codes - Privacy Policy
 
