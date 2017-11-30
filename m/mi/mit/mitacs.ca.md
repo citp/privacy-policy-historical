@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601050110id_/http%3A//www.mitacs.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130164112id_/http%3A//www.mitacs.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Commitment to Program Participants | Mitacs
 
