@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hi-likes.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531082102id_/http%3A//www.hi-likes.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hi-likes.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130102450id_/http%3A//www.hi-likes.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
