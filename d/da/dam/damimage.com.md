@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damimage.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627042416id_/http%3A//www.damimage.com/page-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damimage.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130190955id_/http%3A//damimage.com/page-Policy.html) for the most accurate reproduction.*
 
 # Policy - DamImage.com|Earn money sharing images
 
