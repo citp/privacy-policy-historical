@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fborfw.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609232914id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fborfw.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130100528id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.*
 
 # FBorFW.com is The Official Website of Lynn Johnston's comic strip For Better or For Worse.
 
