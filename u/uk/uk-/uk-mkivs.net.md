@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uk-mkivs.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014004id_/http%3A//uk-mkivs.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk-mkivs.net privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201004011id_/http%3A//uk-mkivs.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - uk-mkivs
 
