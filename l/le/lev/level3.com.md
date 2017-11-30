@@ -1,341 +1,142 @@
-> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612213003id_/http%3A//www.level3.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130215620id_/http%3A//www.level3.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Level 3
 
 ## PRIVACY POLICY
 
-Privacy Policy of Level 3 Communications, Inc. and its controlled subsidiary companies (referred to throughout as ‘Level 3’, ‘we’ or ‘us’). We are committed to protecting the privacy of individuals. This Privacy Policy sets out, subject to applicable laws, our practices regarding personally identifiable information we collect from you, or that you provide to us, including via our websites or our audio, conferencing and on-line services.
+Privacy Policy of Level 3 Communications, Inc. and its group companies (referred to throughout as ”Level 3”, ”we” or ”us”). 
+
+We are committed to protecting the privacy of individuals. This Privacy Policy sets out, subject to applicable laws in the countries where we operate, our practices regarding personally identifiable information (also known as personal data or PII) we collect from you, or that you provide to us via our websites. In certain jurisdictions, additional terms which modify and/or complement this Privacy Policy may be applicable. These Country Specific Provisions are included in the Appendix and are considered an integral part of this Privacy Policy. This Privacy Policy does not apply to Level 3’s provision of services. Terms related to Level 3’s collection and use of personally identifiable information as it relates to Level 3’s services are addressed in separate agreements between Level 3 and its customers. 
 
 * * *
 
-### Introduction
+### Acknowledgement and Acceptance of this Privacy Policy 
 
-This Privacy Policy explains:
-
-• 
-
-| 
-
-How we collect information about you  
-  
----|---  
-  
-• 
-
-| 
-
-What information we collect about you  
-  
-• 
-
-| 
-
-How we may use and share that information  
-  
-• 
-
-| 
-
-How you can update or access any personal information we hold about you  
-  
-If you have purchased services from us, please read this Privacy Policy in conjunction with the general terms & conditions and any other service-specific terms and conditions (however styled) applicable to the services provided to you.
-
-### What Do We Mean by the Term Personal Identifiable Information?
-
-When we refer to the term ‘personally identifiable information’, we mean information that can identify you as an individual or is capable of doing so with other information that we may hold about you now or in the future.  The term does not include any statistical, aggregated or anonymized information.
+**BY USING OUR WEBSITE AND/OR PROVIDING YOUR PII YOU CONSENT TO OUR COLLECTION, STORAGE, TRANSFER AND PROCESSING OF THAT PERSONALLY IDENTIFIABLE INFORMATION IN ACCORDANCE WITH AND FOR THE PURPOSES DESCRIBED IN THIS PRIVACY POLICY.**
 
 * * *
 
-### What Information Do We Collect About You?
+### What Do We Mean by the Term Personal Identifiable Information? 
 
-We may collect and process the following personally identifiable information about you:
-
-• 
-
-| 
-
-Information which you may submit to us including your name, address, telephone number and email address. This includes information provided at the time of registering to use our website and/or any of our services, subscribing to our services (including services not provided solely via our websites), posting material or requesting further services. Such information includes verification details that you provide to us in order to access and use specific features of our services, such as verification details provided to us in order to access our conferencing, audio or online services. This will include any verification details which you provide in order to access, download or play taped records.  
-  
----|---  
-  
-• 
-
-| 
-
-Debit/credit card information, banking details and any other relevant payment information necessary for us to process your order or to manage your service.  
-  
-• 
-
-| 
-
-Where you are an existing customer, additional information which your company has provided – such as your company's name and address, your employee ID, or your email short name/address.  
-  
-• 
-
-| 
-
-If you contact us by phone, email or otherwise, a record of that communication.  
-  
-• 
-
-| 
-
-Any surveys you complete that are used for research purposes.  
-  
-• 
-
-| 
-
-Details of transactions you carry out through the websites and the fulfillment of your orders for our services.  
-  
-• 
-
-| 
-
-Details of your visits to our websites including, but not limited to, traffic data, location data, weblogs and other communication data.  
-  
-• 
-
-| 
-
-Information about the type, quantity, configuration, destination, location and amount of use of telecommunications services you currently purchase, how you use those services, and related billing information and end user information for those services. This information is collected in the normal course of providing telecommunications services to our customers, and is commonly referred to as customer proprietary network information, or "CPNI". CPNI is discussed in detail below.  
-  
-The submission of your personally identifiable information constitutes your acknowledgment that you have read and understood this Privacy Policy and agree to its terms. You also acknowledge and consent to our collection, storage, transfer and processing of such personally identifiable information in accordance with this Privacy Policy.
+When we refer to the term “personally identifiable information” or “personal data” (PII), we mean information that can identify you or is capable of doing so with other information we may hold about you now or in the future. The term does not include any statistical, aggregated or anonymized information and its scope may vary in accordance with applicable data protection laws (e.g., in certain jurisdictions PII may include information that identifies or is capable of identifying a corporation/company). 
 
 * * *
 
-* * *
+### What Information Do We Collect About You? 
 
-### How Do We Use Your Personally Identifiable Information?
+We may collect and process the following PII about you: 
 
-We take the privacy of our customers and users seriously and respect your right to privacy. Personally identifiable information will be collected, processed, stored, and disposed of in accordance with this Privacy Policy.
+  1. Identification data and occupation, such as: 
+    * Information you may submit to us including your name, address, telephone number and email address. This includes information provided at the time of registering to use our website and posting material. Such information includes verification details you provide to us in order to access and use specific features of our website. 
+    * Additional information – such as your company's name and address, your employee ID, or your email short name/address. 
+  2. Transactions and communications data, such as: 
+    * If you contact us by phone, email or otherwise, a record of that communication
+    * Any surveys you complete that are used for research purposes
+    * Cookies and details of your visits to our websites including, but not limited to, traffic data, location data, weblogs, IP address and other communication data
 
-We process your personally identifiable information for a number of purposes in order to:
 
-• 
-
-| 
-
-provide you with access to our websites  
-  
----|---  
-  
-• 
-
-| 
-
-process your order(s)  
-  
-• 
-
-| 
-
-supply you with our products and services (including processing any payment information for such products and services)  
-  
-• 
-
-| 
-
-process such information for billing and administration purposes  
-  
-• 
-
-| 
-
-analyze how you use our websites, products and services on a personalized or aggregated basis to gather broad demographic information, interests, and behavior so that we may better understand you and can tailor our products and services in accordance with your preferences  
-  
-• 
-
-| 
-
-process your information to help diagnose problems with our servers and administer our websites  
-  
-• 
-
-| 
-
-inform you of any new promotions, products and services offered, improve the level of service and provide notifications regarding service changes or outages or in order to carry out market research  
-  
-• 
-
-| 
-
-process any competitions or surveys that you have participated in  
-  
-• 
-
-| 
-
-investigate any complaints or other enquiries you may submit for our attention  
-  
-• 
-
-| 
-
-process any  job applications you may have made via our websites  
-  
-• 
-
-| 
-
-disclose your information to selected third parties (see the section entitled ‘Who do we share your information with?’ below for further information)  
-  
-• 
-
-| 
-
-obtain references from previous employers, credit or debt agencies or for the purposes of fraud or money laundering or crime detection and prevention  
-  
-We may occasionally match or combine your personally identifiable information with personally identifiable information you have provided to other affiliate companies in other countries within our group in order to understand and improve the services we provide to you and to determine what other products, services or promotions may be of interest to you.
-
-Where we process personally identifiable information in the course of our conferencing, audio or on-line services, this is done to allow us to provide the services which your company has asked us to provide, for example, by allowing us to create an authorized user ID for you, to allow you to use our services and by allowing us to provide billing and service usage information to your company.
 
 * * *
 
-### Who Do We Share Your Information With?
+### For What Purposes Do We Use Your PII? 
 
-We do not sell or disseminate personally identifiable information to third parties without your consent.
+We take the privacy of our web visitors seriously and respect your right to privacy. PII will be collected, processed, stored, transferred, disposed of and treated in accordance with this Privacy Policy, and any applicable laws. 
 
-Unless we have your permission or are required by law, we only share your personally identifiable information with our controlled subsidiary companies and to our selected business partners who act on our behalf in order to provide the services. We make every reasonable effort to ensure that our subsidiaries and business partners, including those in the U.S. and/or any other countries in which we operate, process your personally identifiable information in accordance with the terms of this Privacy Policy.
+We process your PII for the following purposes, in order to: 
 
-We may share non-personal, non-individual information in aggregate form with our subsidiaries or to carefully selected third parties. Your personally identifiable information may also be accessible by third-party service providers to whom we subcontract, including those who assist us in the provision of our services or who host and maintain our websites or our other services, or who provide billing and other out-sourced services to us. All such service providers must commit to complying with our instructions and to keep all personally identifiable information secure. 
+  1. Provide you with access to our websites 
+  2. Market and offer services and product offerings, including: 
+    * analyzing how you use our websites on a personalized or aggregated basis to gather broad demographic information, interests, and behavior so that we may better understand you and can tailor and offer our products and services in accordance with your preferences. To that end, we may match or combine your PII with PII you have provided to other affiliate companies (including in other countries) within our group in order to understand and improve the services we provide to you and to determine what other products, services or promotions may be of interest to you
+    * processing any competitions or surveys that you have participated in
+    * informing you of any new promotions and products and services offered in compliance with any applicable laws 
+    * carrying out market research and developing statistics
+  3. Manage our websites and your account created on the website, including: 
+    * processing your information to help diagnose problems with our servers and administer our websites
+    * investigating any complaints or other questions you may submit for our 
+    * attention
+    * processing a job application you may submit
+    * managing communications with you
 
-We may disclose personally identifiable information and account information in special cases when it is necessary to identify, contact, or bring legal action against someone who may be violating any user agreement or may be causing injury to or interference with us, you, or anyone else that could be harmed by such activities, or in response to 911 requests, or in emergency situations.  We may also disclose personally identifiable information as necessary to collect for the charges related to the services we provide.  With some services, your name and number may be transmitted and displayed on a Caller ID device unless you have elected to block such information. Caller ID Blocking does not prevent the display of your number when you dial certain business numbers, 911, 900 numbers, or toll-free 800, 888, 877 or 866 numbers. In the United States, we provide name, address and telephone number to entities that publish telephone directories and provide directory assistance. 
 
-We reserve the right to disclose your personally identifiable information as explicitly set forth in this Privacy Policy or any user agreement agreed to by you, or as otherwise required by government or law enforcement officials. We can, and you hereby authorize us to, disclose any information to law enforcement or other parties that we in our sole discretion, believe is required or appropriate to comply with the law.
-
-We may disclose, assign, sell, license, or otherwise transfer to a third party, your name, address, e-mail address, member name and any other personally identifiable information in connection with an assignment, sale, joint venture, or other transfer or disposition of a portion or all of our assets or stock.
-
-* * *
-
-### How Long Do We Keep Your Information?
-
-The length of time we keep your information for can vary according to how we use that information. Unless there is a specific legal requirement to keep your information, we will not keep it for longer than we believe is reasonably necessary for the purposes for which the data was collected.
-
-* * *
-
-### Direct Marketing
-
-We would like to keep you up to date with details of our products and services using the information that you have supplied. We will do this in accordance with applicable privacy laws and in accordance with any direct marketing permissions which were given when we collected information from you. If you would like to change these preferences, please contact [privacy@level3.com ](mailto:privacy@level3.com)or speak to your Account Manager.
 
 * * *
 
-### Transfers of your Information Outside of your country (including without limitation the European Economic Area (EEA))
+### Who Do We Share Your Information With? 
 
-We are a multinational group of companies and the information that we collect from you may be shared with Level 3 subsidiaries in locations around the world. All Level 3 entities comply with this Privacy Policy when they use personally identifiable information.
+We only share your PII with our affiliated group companies and with our selected business partners and subcontractors that provide services to us in relation to the purposes for which we use your PII outlined in this Privacy Policy. All such affiliates, business partners and subcontractors must commit to process your PII in accordance with the terms of this Privacy Policy and our instructions, and to keep all PII secure. 
 
-You should note that, subject to applicable laws, we may transfer personally identifiable information to countries where we, or our subcontractors, may store and process it.  We will take all steps reasonably necessary to ensure that all personally identifiable information is treated securely and in accordance with this Privacy Policy.
+We reserve the right to disclose your PII as explicitly set forth in this Privacy Policy or as otherwise required by government or law enforcement agencies or to other parties that we in our sole discretion believe is required or necessary to comply with applicable law. 
+
+We may disclose, assign, sell, license, or otherwise transfer to a third party, your name, address, e-mail address, member name and any other PII in connection with an assignment, sale, joint venture, or other transfer or disposition of a portion or all of our assets or capital stock. 
+
+* * *
+
+### International Transfers of PII 
+
+You should note that, subject to applicable laws, we may transfer PII to, and store PII in, countries where we, our affiliates, business partners or our subcontractors are located or where they store, process or otherwise treat it. We will take all steps reasonably necessary to ensure that all PII is treated securely and in accordance with this Privacy Policy. 
+
+* * *
+
+### How Long Do We Keep Your Information? 
+
+The length of time we keep your PII for can vary according to how we use that PII. Unless there is a specific legal requirement to keep your PII, we will not keep it for longer than we determine in our discretion is necessary for the purposes for which the PII was collected. 
+
+* * *
 
 ### How to Review and Update your Information
 
-You may request a copy of the personally identifiable information we hold about you, such as contact information, banking details and marketing preferences, and you may review, correct, update, change or delete this information at any time by submitting a request to [privacy@level3.com](mailto:privacy@level3.com) or the local contact you have been provided for this purpose (for example, in the general terms & conditions of our services). Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
+You may request a copy of the PII we hold about you, and you may review, correct, update, change or delete this information by submitting a request to the contacts provided in the section “How to Contact Us?” below. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation or other applicable laws. 
 
 * * *
 
-### Children's Privacy Protection
+### Minors Privacy Protection
 
-Our websites do not target and are not intended for children under the age of 13, and we abide by the United States' Children's Online Privacy Protection Act (COPPA) and other applicable laws relating to the use of children’s data.  We do not knowingly collect or maintain personally identifiable information from children under the age of 13.
-
-* * *
-
-### Cookies
-
-A cookie, also known as a browser cookie, is a text file containing small amounts of information which a server may download to your computer, mobile or tablet when you visit a website or use an app.
-
-There are different types of cookies which are used to do different things, such as letting you navigate between different pages on a website efficiently, remembering preferences you have given and helping us to identify ways to improve your overall site experience.  Others are used to provide you with advertising which is more tailored to your interests or to measure the number of site visits and the most popular pages users visit.
-
-Due to their core role of enhancing and enabling usability or site processes, disabling certain cookies may prevent you from using certain aspects of our website.
-
-Broadly speaking, there are two different types of browser cookie:
-
-1. 
-
-| 
-
-Session cookies – these types of cookies are stored in the computer’s memory during a user’s browsing session and are automatically deleted from the user’s computer when the browser is closed or the session is deemed to have ended.  These cookies usually store a session ID that is not personally identifiable to users, allowing the user to move from page to page without having to log-in repeatedly.  They are widely used by commercial websites; for example, to keep track of items that a user has added to a shopping basket.  
-  
----|---  
-  
-2. 
-
-| 
-
-Persistent cookies – these types of cookies are stored on a user’s computer and are not deleted when the browser is closed.  Persistent cookies can be used to retain user preferences for a particular website, allowing those preferences to be used in future browsing sessions.  Persistent cookies usually assign a unique ID to the user’s browser and they are usually configured to identify a user for a prolonged period of time.  
-  
-* * *
-
-### How Does Level 3 Use Cookies?
-
-We use browser cookies only to measure non-personal information, for example to learn about the behavior of visitors to our website, to remember your preferences and to ensure we serve the correct content to you while on our website. 
-
-* * *
-
-### What Cookies Does Level 3 Use on this Website?
-
-The following classification of cookies used on our website is based on the International Chamber of Commerce guide for cookie categories:
-
-### Strictly necessary cookies
-
-'Strictly necessary' cookies let you move around the website and use essential features such as ensuring that you connect to the right service on our website when we make any change to the way our website works. These cookies don't gather any information about you that could be used for marketing or remembering where you've been on the internet. Accepting these cookies is a condition of using this website as they are required for the proper operation of the website. If you prevent them, we cannot guarantee how our website will perform during your visit. 
-
-### Performance cookies
-
-We use these cookies to collect information about how visitors use our website, which parts of the website you like and what types of content you view. By using our website, you agree that we can place these types of cookies on your device. We use the information to improve our website and enhance our user experience.  All information these cookies collect is aggregated and therefore anonymous. 
-
-### Functionality cookies
-
-These cookies remember choices you make to improve your experience. By using the website, you agree that we can place these types of cookies on your device. 
-
-These cookies allow the website to remember choices you make (such as content preferences, language or the region you are in) and provide enhanced, more personalized features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
-
-* * *
-
-### How can You Control the Use of Cookies?
-
-Your use of the Level 3 website constitutes your consent to this website setting cookies on your device.
-
-If you do not want Level 3’s website to set cookies on your device then you should not use this site and you should delete any cookies which have been placed on your device.  Alternatively, the ‘Help’ menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookies and how to disable cookies altogether.  However, because cookies allow you to take advantage of some of our website’s essential features, we recommend that you leave them turned on. 
-
-Useful information about cookies can be found at:  [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Our websites do not target and are not intended for minors, and we abide by the United States' Children's Online Privacy Protection Act (COPPA) and other applicable laws relating to the use of minors´ data. We do not knowingly collect or maintain PII from minors. 
 
 * * *
 
 ### Linked Internet Websites
 
-Our websites may provide hyper-text links to other websites over which we have no control and which may contain privacy provisions that are difference from those provided herein. We are not responsible for and expressly disclaim any and all liability for the privacy policies or practices of other websites to which you choose to link from our websites. We encourage you to review the privacy policies of those other websites so you can understand how they collect, use and share your information.
+We are not responsible for and expressly disclaim any and all liability for the privacy policies or practices of other websites to which you choose to link from our websites. We encourage you to review the privacy policies of those other websites so you can understand how they collect, use and share your PII. 
 
 * * *
 
 ### Security
 
-We have implemented reasonable physical, technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure which are in accordance with applicable laws. Our websites have security measures in place to protect against the loss, misuse and alteration of information under our control. However, the internet is an open system and we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. 
-
-* * *
-
-### Customer Proprietary Network Information (CPNI)
-
-CPNI is information that we obtain when we provide telecommunications services to you, including services provided through your local telephone company. It includes the types of telecommunications services you purchase from us, how you use them, and the related billing information for those services. CPNI does not include your telephone number, name and address. CPNI also typically includes the type of information found on your bill, such as call details and the types of local, long distance and other telecommunications services that you have purchased. We have internal policies and safeguards designed to safeguard the privacy of CPNI and protect it from unauthorized access or improper use. In the normal course of providing telecommunications services, we collect and maintain CPNI to enable us to make more meaningful suggestions to you when discussing products and services, packages and promotions that best suit your communications needs. In the US, we are obliged to protect the confidentiality of your CPNI in accordance with federal and certain state laws. We do not sell, trade or share your CPNI, including your calling records with anyone outside of our group of companies or to third parties who perform functions on our behalf (such as billing functions) except as described in this Privacy Policy,  required by law or authorized by you. We may use or disclose CPNI to offer telecommunications services of the same type that you already purchase from us. We may also use or disclose your CPNI for legal or regulatory reasons such as to comply with a court order, to investigate fraud,  to protect against the unlawful use of our telecommunications network and services, to protect other users of our services, and to collect bills.
+We have implemented reasonable physical, technical and organizational measures designed to secure your PII from accidental loss and from unauthorized access, use, alteration or disclosure. Our websites have security measures in place to protect against the loss, misuse and alteration of information under our control. However, the internet is an open system and we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your PII for improper purposes. 
 
 * * *
 
 ### Changes to this Privacy Policy
 
-As we grow and new features are added to our website or to our products and services, or legal requirements change, this Privacy Policy may be modified. Any changes to the Privacy Policy will be posted on all our applicable websites. All information submitted through our websites is subject to the terms and conditions of this Privacy Policy, as amended.
-
-* * *
-
-### Submission of Personal Details to Us
-
-Any personally identifiable information which you submit to us will be treated and processed by us in accordance with this Privacy Policy. By submitting any such information, you consent to our holding and processing the information, both electronically and manually, for the expressed purpose. You also consent to the transfer, storage and processing of such information among our offices worldwide.
+As we grow and new features are added to our website, or legal requirements change, this Privacy Policy may be modified. Any changes to this Privacy Policy will be posted on all our applicable websites. All information submitted through our websites is subject to the terms and conditions of this Privacy Policy, as amended. 
 
 * * *
 
 ### How to Contact Us
 
-If you have any questions or complaints about this Privacy Policy, the information we collect, or how we use that information please contact us at [privacy@level3.com](mailto:privacy@level3.com)or the local contact you have been provided for this purpose (for example, in the general terms & conditions of our services) __ or by writing to us at either of the following addresses:
+If you have any questions or complaints about this Privacy Policy, the PII we collect, or how we use that PII (including, where requested under applicable laws, any recipients of it or the locations where it is transferred in accordance with this Privacy Policy), or you want to update, correct or request deletion of your PII and/or exercise any other right please contact us at Privacy Officer, Legal Department, Level 3 Communications, 1025 Eldorado Blvd, Broomfield, Colorado 80021, USA or privacy@level3.com or via the local contact provided in Specific Country Provisions in the Appendix, as applicable. 
 
-For UK, Europe, Middle East and Africa please contact: Data Protection Officer, Legal Department, Level 3 Communications, 7th Floor, 10 Fleet Place, London EC4M 7RB, United Kingdom.
+Please note that in certain jurisdictions your request may need to comply with certain requirements pursuant to applicable laws. 
 
-For all other worldwide locations, please contact: Privacy Officer, Legal Department, Level 3 Communications, 1025 Eldorado Blvd, Broomfield, Colorado 80021, USA.
+* * *
 
-Policy Updated April 2016
+## APPENDIX
+
+## Special Country Provisions
+
+### Argentina
+
+We store all PII we collect in a database, which is duly registered by Level 3 Argentina S.A. with the Argentine Data Protection Agency. 
+
+Data subjects have the right to freely access their PII within intervals of no less than six months, unless a legitimate interest is proven pursuant to Section 14, clause 3, Argentine Data Protection Act No. 25.326. The Argentine National Data Protection Agency is the enforcing authority of the Data Protection Act No. 25.326, and has the power to attend to reports and claims regarding non-fulfillment of data protection provisions. 
+
+Data subjects shall be entitled to request the withdrawal or blocking of their names from the database at any time. In any communication containing advertisement via mail, telephone, e-mail, internet or other means data subjects shall be informed, in an express and highlighted way, that data subjects have the right to request the withdrawal or blocking, total or partial, of their names from the data base. At the data subject’s request, the name of the database responsible or user who provided the information shall be informed. 
+
+Data subjects may send an e-mail to misdatos@level3.com or visit our offices at Alferez Pareja 256, Costanera Sur, Ciudad Autónoma de Buenos Aires Monday to Friday from 10 a.m. to 5 p.m., or submit a written request with notarized signature (or bank certification) to the address above. 
+
+### Colombia
+
+Treatment of personal data of children and adolescents is forbidden unless the data is of a public nature (art. 7 Law 1581) and such treatment (i) is performed taking into consideration and respecting the child´s best interest, (ii) ensures their fundamental rights, and (iii) is authorized by the child´s legal representatives (Art. 12 Decree 1377). 
+
+You may exercise the right to know, update, rectify, delete your personal data and revoke the authorization by sending an email to: col-comunicaciones@level3.com. Level 3 complies with the obligations established in Law 1581 of 2012 and other applicable regulations and has the security measures for the protection of the personal data stored in its systems. 
