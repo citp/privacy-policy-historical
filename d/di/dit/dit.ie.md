@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dit.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004732id_/http%3A//www.dit.ie/tools/disclaimer/cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dit.ie privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130171854id_/http%3A//dit.ie/tools/disclaimer/cookiepolicy) for the most accurate reproduction.*
 
 # Cookie Policy - About
 
