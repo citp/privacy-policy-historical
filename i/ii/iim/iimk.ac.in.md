@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iimk.ac.in privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601085421id_/https%3A//www.iimk.ac.in/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimk.ac.in privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130173233id_/http%3A//iimk.ac.in/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,4 +40,4 @@ We do not object to you linking directly to the information that is hosted on ou
 
 **Contacting Us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact the official functionaries of the institute whose contact details are provided at: [https://iimk.ac.in/contactus.php](https://web.archive.org/web/20170601085421id_/https%3A//www.iimk.ac.in/contactus.php). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact the official functionaries of the institute whose contact details are provided at: [https://iimk.ac.in/contactus.php](https://web.archive.org/web/20171130173233id_/http%3A//iimk.ac.in/contactus.php). 
