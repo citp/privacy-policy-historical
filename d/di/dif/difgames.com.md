@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the difgames.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627093849id_/http%3A//difgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the difgames.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130235459id_/http%3A//www.difgames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
