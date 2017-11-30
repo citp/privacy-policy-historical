@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinmonster.win privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201232954id_/http%3A//bitcoinmonster.win/%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinmonster.win privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130172100id_/http%3A//bitcoinmonster.win/%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Bitcoin Monster
 
@@ -20,7 +20,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallows cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Refer your friends, enemies and everyone else to bitcoinmonster.win and receive 10% lifetime commission on all their faucet claims, earnings on Lucky Boxes game and with Loyalty Stars! All commission payments are added to your "FaucetBox.com" balance. Lets say you have 100 active referrals who earn 1,000 satoshis daily. 10% of 1,000 satoshis is 100 satoshis, that is what you'll earn from each referral. So 100*100 = 10,000 satoshis daily!
+Refer your friends, enemies and everyone else to bitcoinmonster.win and receive 10% lifetime commission on all their faucet claims, earnings on Lucky Boxes game and with Loyalty Stars! All commission payments are added to your "FaucetHub.io" balance. Lets say you have 100 active referrals who earn 1,000 satoshis daily. 10% of 1,000 satoshis is 100 satoshis, that is what you'll earn from each referral. So 100*100 = 10,000 satoshis daily!
 
 Reflink: `https://bitcoinmonster.win/?r=Your_Address`
 
