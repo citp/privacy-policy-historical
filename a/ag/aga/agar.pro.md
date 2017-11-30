@@ -1,26 +1,9 @@
-> *The following text is extracted and transformed from the agar.pro privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128110341id_/http%3A//agar.pro/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agar.pro privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130171602id_/http%3A//agar.pro/privacy.txt) for the most accurate reproduction.*
 
 # 
 
 
-    Agar.Pro used Ogar/OgarPlus/Cigar Softwares
-    
-    ===== OGAR =====
-    Detail: https://github.com/OgarProject/Ogar/blob/master/LICENSE.md
-    
-    ===== OGAR-PLUS =====
-    Detail: https://github.com/DaFudgeWizzad/Ogar-Plus/blob/master/LICENSE.md
-    
-    ===== CIGAR =====
-    Detail: https://github.com/m-byte/Cigar/blob/master/LICENSE.md
-    
-    ===== OGAR-CLIENT =====
-    Detail: https://github.com/m-byte/Ogar-client/blob/master/LICENSE.md
-    
-    
-    
-    
-    This Privacy Policy governs the manner in which Agar.Pro collects, uses, maintains and discloses information collected from users (each, a "User") of the Agar.Pro website ("Site"). This privacy policy applies to the Site and all products and services offered by Agar.Pro.
+    This Privacy Policy governs the manner in which Agar.pro collects, uses, maintains and discloses information collected from users (each, a "User") of the Agar.pro website ("Site"). This privacy policy applies to the Site and all products and services offered by Agar.pro.
     
     Personal identification information
     
@@ -56,10 +39,10 @@
     
     Changes to this privacy policy
     
-    Agar.Pro has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+    Agar.pro has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
     
     Your acceptance of these terms
     
     By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
     
-    This document was last updated on October 29, 2015
+    This document was last updated on November 1, 2016
