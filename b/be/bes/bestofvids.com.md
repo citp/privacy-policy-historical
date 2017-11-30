@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestofvids.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228014138id_/http%3A//www.bestofvids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofvids.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130092942id_/http%3A//www.bestofvids.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
