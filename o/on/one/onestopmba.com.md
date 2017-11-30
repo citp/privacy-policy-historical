@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopmba.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628042156id_/http%3A//www.onestopmba.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopmba.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130141418id_/http%3A//onestopmba.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
