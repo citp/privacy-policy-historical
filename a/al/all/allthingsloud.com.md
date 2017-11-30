@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allthingsloud.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622145150id_/http%3A//www.allthingsloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingsloud.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130013349id_/http%3A//www.allthingsloud.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – All Things Loud
+# Privacy Policy - All Things Loud
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
