@@ -1,117 +1,113 @@
-> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810165947id_/http%3A//www.henkelna.com/privacy-policy-6120.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130172925id_/http%3A//www.henkelna.com/privacy-policy-6120.htm) for the most accurate reproduction.*
 
-# Privacy Statement - Henkel North America
+# Privacy Statement
 
-Thank you for visiting our Website. This Website belongs to and is operated by Henkel Corporation or one of its subsidiary or affiliated companies ("Henkel", “Us”, “We”). Henkel is committed to protecting and safeguarding your privacy on this Website. This Privacy Statement outlines the information Henkel may be collecting from visitors to this Website and how We will use and protect that information.
+**1\. General**
 
- _Last updates:   January 2014._
+Henkel AG & Co. KGaA, hereinafter referred to as Henkel, respects the privacy of each person who visits our website. Now we would like to inform you of the type of data collected by Henkel and how they are used. You will also learn how you can check the accuracy of this information and arrange for the deletion of these data by Henkel. Data are collected, processed and used in conformity with the data protection regulations of the country in which the responsible data processing department is located. We take any action required to ensure compliance.
 
-**1.   Scope**
+This Privacy Statement does not apply to websites accessible from hyperlinks on Henkel websites.
 
-This Privacy Statement applies to our collection, use and disclosure of information about you on Henkel’s North America websites, [http://henkelna.com](http://henkelna.com/) and brand specific sites for our customers in North America, mobile applications and social media platforms (“Website” or “Websites”) and does not apply to third party websites accessible via hyperlinks from this Website or other Henkel entities located outside of North America. This Privacy Statement applies to personal information we obtain from and about individuals interacting with Henkel and our Websites (including job applicants), regarding our products, services or career opportunities. It does not apply to personal information about Henkel employees.  
+ **2\. Collection, use and processing of personal data**
 
-By using our Websites in any way, such as browsing or interacting, you signify that you agree with the terms of our current Privacy Statement as posted here. If you do not agree with this Privacy Statement, you should not use our Websites.
+We collect data relating to a specific person for processing and usage purposes only, if you voluntarily decide to enter the data or expressly give your consent thereto. By doing so, you accept the following terms of use.
 
-**2.   Revisions**
+When visiting our website, certain data are automatically stored on our servers for the purpose of system administration or for statistical or backup purposes. These data comprise the name of your Internet service provider, in some cases your IP address, the version of your browser software, the operating system of the computer used to access our website, the website you are using to visit us, the websites that you visit while you are with us and, if applicable, any search terms you have been using to find our website. Depending on the circumstances, such data may allow that conclusions be drawn about certain visitors to the website. However, no person-related data are used in this context. Such data are used solely after having been rendered anonymously. If Henkel transfers data to an external service-provider, technical and organizational measures will be taken which guarantee that their transmission occurs in conformity with the statutory data protection regulations.
 
-Henkel may update this Privacy Statement from time to time by updating the link on its home pages, with the date of last update noted. We encourage you to review this Privacy Statement frequently to stay informed as your continued use of our Websites following the posting of changes to these terms means that you consent to such changes.
+If you voluntarily supply us with personal-related data, we shall not use, process or transfer these data beyond the limits permitted by statute or defined by yourself in your declaration of consent. Furthermore, we will transfer your data only, if we are obliged to do so by official or court orders.
 
-**3\. Information Collected**
+Any changes to this Privacy Statement will be published on this page. This enables you to inform yourself at any time about which data we are storing and how we collect and use such data.
 
-You can visit our Websites without telling us who you are or revealing personal information about yourself, however, doing so may render certain areas of the Websites unavailable to you. You can, however, provide personal information (defined as any information that can be used to identify an individual, such as name, address, telephone number, or email address).
+ **3\. Security**
 
-The types of information that Henkel may collect about you include, but are not limited to:
+Henkel will store your data safely and, therefore, take all precautionary measures to protect your data against loss, abuse or changes. Contractual partners of Henkel who have access to your data in order to provide services to you on behalf of Henkel are contractually obliged to keep such information in confidence and may not use these data for any other purpose. In some cases, it will be necessary that we transfer your inquiries to affiliated companies of Henkel. Also in these cases your data will be treated confidential.
 
-  * Contact information (such as name, address, city, state, province, Postal/ZIP code, email address and telephone number)
-  * Product preferences
-  * Demographic information (such as age range, gender, date of birth, marital status, Postal/ZIP code, and household composition)
-  * Social Security Number (in limited circumstances Henkel may collect SSN, for example if you win a sweepstakes or receive compensation that must be reported for government tax purposes)
-  * Photographs and videos (that are submitted by customers via websites, mail in, contests or sweepstakes)
-  * Employment application information (such as SSN, Driver’s license, financial information, background screening, and gender or race [as permitted by law])
+ **4\. Person-related Data of Children**
 
+Henkel does not wish to collect data on children below the age of 14 years. Where necessary, Henkel will expressly draw the children's attention in an appropriate place to the fact that they shall not send any person-related information to Henkel. Should parents or other legal guardians discover that the children under their supervision have made person-related data available to Henkel, we request that they contact us at the address below ‏(see 7. below), if these data shall be deleted. We shall then arrange for the deletion of these data without delay.
 
+ **6\. Web Tracking**
 
-If you choose to participate in activities such as Website registrations, contests, sweepstakes, questionnaires, surveys, consumer service contacts, product purchases, mobile applications, social media platforms, or through our Career Center or employment inquiries, Henkel will collect the personal information that you provide. We may enhance or merge the information that you provide to Us directly with information from other sources, including third parties for the purposes described below.
+This website collects and stores data for marketing and optimization purposes by using a technology of Webtrekk GmbH. This data can be used to create pseudonymized user profiles. Cookies might be set.
 
-**4\. Information Use**
+Without an explicit agreement by our users the data collected with the Webtrekk technologies is not used to identify a visitor personally and is not aggregated with any other personal data about the holder of the pseudonym.
 
-We collect, maintain and use your personal information for the following purposes:
+You can refuse the data collection and storage by Webtrekk by clicking on the link below:
 
-  * helping to establish and verify the identity and eligibility of users;
-  * opening, maintaining, administering and servicing users profiles, accounts or memberships;
-  * processing, servicing or enforcing transactions and sending related communications;
-  * providing services and support to users;
-  * conducting sweepstakes, surveys and contests, and to provide the results thereof;
-  * improving the Website, including tailoring it to users' preferences;
-  * providing users with product or service updates;
-  * sending promotional notices, offers or other targeted marketing, and other information about Henkel;
-  * responding to your questions, inquiries, comments and instructions;
-  * maintaining the security and integrity of our systems; and
-  * understanding consumer preferences across multiple brands.
+To exclude the Webtrekk web controlling on this website an [opt-out cookie](https://web.archive.org/cookies) is set by www.henkel.com. This exclusion is valid for 5 years or until you delete the cookie. The cookie is set for the named domain, per browser and computer. Therefore, if you visit our website visit at home and work or with different browsers, you need to refuse data storage with every device or browser.
 
+Please find further information about the web tracking in the privacy policy of our provider: [Webtrekk Privacy Policy](http://www.webtrekk.com/en/index/dataprivacy.html) 
 
+ **7\. Your Wishes and Queries / Data Protection Officer**
 
-Information that you provide when applying for a job or an internship via our Careers Center is used for providing you with information about employment opportunities, administering the application process and considering you for employment if you apply for a job or an internship via our Careers Center.
+Stored data will be deleted by Henkel upon expiration of the statutory or contractual filing period or if Henkel no longer requires the same. At any time, you may, of course, ask for the deletion of your data. You are also entitled at any time to revoke your consent to the use or processing of your person-related data with future effect. In these cases, or if you have any other wishes in connection with your person-related data, please send an e-mail or a letter to our data protection officer, Mr. Frank Liebich, Henkelstrasse 67, D 40191 Düsseldorf, Germany (E-Mail: [Datenschutz@henkel.com](https://web.archive.org/contact-us)). Please also contact us this way, if you would like to know whether we have collected data about you and, if so, which data. We shall endeavor to comply with your wish immediately.
 
-**5.   Technology Logging, Cookies, and Related Techniques**
+ **8\. Public Register of Processing**
 
-When you interact with our Websites, your browser or device may communicate with the technical information that we use as part of our services. For example, as you use our Websites, your browser communicates with our technology, which in turn keeps records of your interactivity and requests for services and content to assist Us in managing and improving the utility of our Websites, and to conduct research and analysis on its use. The types of such interactive information may include your Internet Protocol (IP) address, browser type, URL, requests made, pages visited, activities conducted on the page, day and time of visit and related technical usage information.
+The Federal Data Protection Act ‏(BDSG) stipulates in § 4 g that the data protection officer shall make the following data available to anyone in a suitable manner in accordance with § 4 e:
 
-We may use cookies and other technologies to authenticate you to a Website, to analyze how a Website is used, to link information about how you use a Website with your account, and to help tailor our services. We use these technical means and so do our affiliates, subsidiaries, business partners, and service providers. To help us measure Website activity and provide a better user experience, we may allow our service providers or business partners to compile information such as that identified above from the cookies.  We may also allow our third party advertising and personalization partners to use this information to develop personalized content and appropriate advertising based on your visits over time on Henkel and non-Henkel websites. This information may also be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.
+ **‏ (1) Name of the responsible entity:**Henkel AG & Co. KGaA
 
-Most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to utilize or learn more about these functions.  Our Websites may not function properly if your browser or device is configured so it does not accept these associated cookies and other technical means. At this time, Henkel does not honor embedded Do Not Track (DNT) functionality in Internet browsers.
+ **‏ (2) Personally liable partner / Management Board:**Henkel Management AG
 
-**6\. Data Sharing and Storage**
-
-Henkel will not sell your personal information to any other third party without your consent, unless disclosed to you at the time the information is collected.
-
-Henkel may disclose your information to third parties for the following:
-
-  * We may use unaffiliated companies such as agents or contractors (“Third Parties”) to help Us maintain and operate our Websites, to provide you with services that you have requested, to conduct sweepstakes, contests and promotions, to perform outsourced recruitment functions for Us, or for other reasons related to the operation of our business. In the event We provide personal information to these Third Parties, they are restricted from using this data in any way other than to provide the required services for Henkel.
-  * We reserve the right to release your personal information if required to do so by law, search warrant, subpoena, court order or upon request of government authorities.
-  * We may provide your personal information to third parties in connection with the sale or transfer of a business to which you submitted your information.
-  * Henkel may share your personal information with its affiliated companies and subsidiaries, some of which may be located outside of the United States as well as, with business partners for Henkel marketing activities.
+  * Hans Van Bylen ‏(Chairman)
+  * Carsten Knobel
+  * Jan-Dirk Auris
+  * Pascal Houdayer
+  * Bruno Piacenza
+  * Kathrin Menges
 
 
 
-Your personal information will be stored for a reasonable amount of time in Henkel databases some of which are located outside of the United States, and will be automatically transferred to these databases for storage and maintenance.
+Corporate Senior Vice President Data Processing: Joachim Jaeckle
 
-**7.   Social Media Platforms**
+ **‏ (3) Address of the responsible entity:**40191 Düsseldorf, Germany
 
-Our Websites’ web pages may embed plugs-ins, widgets or other apps of various social media platforms, such as Facebook, Twitter, and YouTube, among the more popular. An example of such a plug-in is Facebook’s “Like” button. When you encounter those embedded objects, your Internet browser may make a direct connection to the social media platform’s service and may share with the social media platforms information such as which of our Websites you have visited.
+ **‏ (4) Intended purpose of data collection, processing or use:**
 
-You may also choose to provide us with access to certain personal information stored by such social media platforms. The personal information we may have access to would vary by social media platform and is controlled by privacy settings on that platform and your choices. By linking to our Websites while logged into a social media platform, you agree that Henkel may use your information from these platforms in accordance with this Privacy Statement.
+  * The object of the corporation is the manufacture and distribution of chemical products of all kinds, especially detergents, cleaning agents and care products, chemical raw materials, adhesives and industrial chemicals;
+  * personal care products and cosmetics, pharmaceutical products;
+  * food stuffs, packaging materials
+  * technical equipments and installations
+  * the acquisition and management of real estate including land for agriculture and forestry use.
 
-**8\. Security**
 
-Henkel will take reasonable precautions to protect your personal information from loss, misuse or alteration. Agents or contractors of Henkel who have access to your personal information in connection with providing services for Henkel are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for Henkel. Please be aware, however, that any email or other transmission you send through the Internet cannot be completely protected against unauthorized interception.
 
-**9\. Children**
+The corporation may acquire domestic and foreign companies of all kinds or participate in them and do any business and action which is conducive to the objects of the corporation.
 
-Henkel has no intention of collecting any personal information from individuals under 13 years of age, and users under age 13 should not submit any personal information to us. Where appropriate, Henkel will specifically instruct children not to submit such information on our Websites or advertisements. If we become aware that a child has provided us with personal information or a parent or guardian of a child contacts us through the contact information provided below, we will use reasonable efforts to delete the child’s information from our databases.
+ **‏ (5) Description of the groups of persons affected and the respective data or data categories**:
 
-**10\. Your Choices Regarding Your Personal Information**
+Data relating to customers, employees, pensioners, employees of affiliated companies, employees of external companies ‏(subcontractors), leasing personnel, job applicants, external inventors or heirs, respectively, suppliers and service-providers, external customers, consumers, volunteers in consumer tests, visitors to the corporations site, investors as well as financial analysts and shareholders - insofar as necessary for fulfilling the purposes specified under 8. ‏(4).
 
-You are in control of the personal information you provide to Henkel via our Websites.
+ **‏ (6) Recipients or categories of recipients to whom the data may be disclosed notified:**
 
-If you have submitted personal information through a Henkel Website and you would like to have information deleted from our databases, please send such request to Henkel Privacy Inquiries via e-mail at henkelprivacy@us.henkel.com, or send a letter to: Henkel Privacy Inquiries, Communications Department, Henkel Corporation, One Henkel Way, Rocky Hill, CT 06067. We will then use reasonable efforts to remove your personal information from our files and confirm to you that your personal information has been deleted (save for an archival copy which is not accessible by you or third parties on the Internet). The archival copy is retained only for so long as Henkel reasonably considers necessary for audit and record purposes. If you have subscribed to a particular e-mail newsletter or other communication (such as the Dial soap newsletter), you should follow the instructions in the e-mail newsletter or on a related website to unsubscribe.
+Public authorities, health insurance funds and employers' liability association in the event of the presence of the relevant legal regulations, external contractors in accordance with §11 BDSG, external service-providers, Henkel pensioners' association, affiliated companies and internal departments for fulfilling the purposes specified in 8. ‏(4).
 
-If you have created a resume using our Careers Center you may access, review, correct, update, change or delete your account profile information or resume at any time. Simply log into your account, go to your profile or resume, and make the necessary changes. You may delete your resume from our online database at any time by accessing your account.
+ **‏ (7) Regular periods for deletion of the data: **
 
-**11\. Links to Other Websites**
+The legislators have issued a wide range of storage duties and periods of storage. The data are deleted as a matter of routine after the expiration of these periods. Data not affected by such provisions are deleted if the purposes specified in 8. ‏(4) have ceased to exist.
 
-Our Websites may contain links to other websites. Henkel is not responsible for the privacy practices or the content of the other websites. Please note that the privacy policies applicable to such third party websites may differ significantly from the Henkel Privacy Statement, so we advise you to read them carefully before using those websites. Henkel cannot be held liable for any actions by or content of such third party websites.
+ **‏ (8) Planned data transfer to third countries:**
 
-**12.   Mobile Applications Privacy Statement**
+As part of a global HR information system, the personnel data are to be made available to selected management executives in third countries. Corresponding data protection agreements in accordance with EU standard will be contractually agreed upon with the respective companies.
 
-Henkel has developed certain mobile applications that you may download to your mobile device. When you download a mobile application there may be an opportunity for you to provide us with or for us to obtain information about you such as contact information, product preferences, photographs, or other information. Information obtained through a mobile application will be used in accordance with this Privacy Statement.
+ **9\. Use of Social Media Plug-ins**
 
-**13.   Queries**
+Plug-ins ‏(“plug-ins”) of the social media networks facebook.com and Twitter may be embedded in our web pages. The associated services are provided by the companies Facebook Inc. and Twitter Inc. respectively ‏(“providers”).
 
-Henkel is committed to working with consumers to obtain a fair and rapid resolution of any queries, complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices by emailing Us at henkelprivacy@us.henkel.com, or sending us a letter addressed to:
+Facebook is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). For an overview of the Facebook plug-ins and their appearance, go to: <https://developers.facebook.com/docs/plugins>
 
-Henkel Privacy Inquiries   
-Communications Department  
-Henkel Corporation  
-One Henkel Way  
-Rocky Hill, CT 06067
+Twitter is operated by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA. For an overview of the Twitter buttons and their appearance, go to: <https://twitter.com/about/resources/buttons>[ ](https://twitter.com/about/resources/buttons)
+
+To increase the protection afforded to your data when you visit our web pages, these plug-ins are implemented as “2-click buttons.” This form of integration ensures that, when accessing a page from within our website containing such plug-ins, you are not automatically connected to the providers’ servers. Only if you activate the plug-ins, thus issuing a permission for data transmission, will the browser create a direct link to the providers’ servers. The content of the various plug-ins is then transmitted by the provider concerned directly to your browser and then displayed on your screen. 
+
+  
+The plug-in tells the provider which of our website pages you have accessed. If, while viewing our website, you are logged into your Facebook or Twitter user account, the provider is able to collate your interest, i.e. the information you are accessing, with your user account. On making use of any of the plug-in functions (e.g. clicking the “Like” button, leaving a comment), this information too will be transmitted by the browser directly to the provider for retention.
+
+Further information on the collection and use of data by Facebook or Twitter and on the rights and possibilities available to you for protecting your privacy in these circumstances can be found in the providers’ data protection/privacy advisories:
+
+Data protection/privacy advisory issued by Facebook: [http://www.facebook.com/policy.php ](https://www.facebook.com/policy.php)
+
+Data protection/privacy advisory issued by Twitter: <https://twitter.com/privacy>
+
+To avoid allowing Facebook or Twitter to link your visit of our website to your user account with these providers, you will need to log-off the respective user account prior to accessing our web pages.
