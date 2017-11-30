@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilbeetgossip.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070550id_/http%3A//www.evilbeetgossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilbeetgossip.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130071114id_/http%3A//www.evilbeetgossip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Today's Evil Beet Gossip – Today's Celebrity Gossip from Evil Beet Gossip
 
