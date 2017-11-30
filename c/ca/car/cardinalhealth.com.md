@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardinalhealth.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616140443id_/http%3A//www.cardinalhealth.com/en/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardinalhealth.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130135513id_/http%3A//www.cardinalhealth.com/en/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -117,7 +117,7 @@ Cardinal Health takes appropriate steps to manage the privacy of your Personal I
 
 ## Retention Policy
 
-Cardinal Health retains your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required by law or to fulfill a legal obligation. 
+Cardinal Health retains your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required by law or to fulfill a legal obligation.
 
 ## Children Under 13
 
