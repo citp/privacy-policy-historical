@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621200930id_/https%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201002402id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - RNIB - Supporting people with sight loss
 
@@ -40,7 +40,7 @@ Unfortunately, no data transmission over the Internet is 100 per cent secure. As
 
 ### Cookies
 
-RNIB uses "cookies" to give you a better website. For more information, read about [cookies on RNIB's website](https://web.archive.org/cy/about-rnib/cookies).
+RNIB uses "cookies" to give you a better website. For more information, read about [cookies on RNIB's website](https://web.archive.org/about-rnib/cookies).
 
 ### Privacy and comments on our blogs
 
@@ -76,4 +76,4 @@ We may change our privacy policy from time to time, so please check back periodi
 
 If you want to find out more about how we use information and data, our privacy notice contains all the information you need.
 
-[How we use your information](https://web.archive.org/cy/privacy-notice)
+[How we use your information](https://web.archive.org/privacy-notice)
