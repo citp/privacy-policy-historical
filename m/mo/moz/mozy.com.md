@@ -1,110 +1,127 @@
-> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055041id_/http%3A//mozy.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130164030id_/http%3A//mozy.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Mozy
 
-This Privacy Policy explains the practices and policies of Mozy, Inc. and subsidiaries regarding the collection and protection of Personal Data supplied by users or collected by us from users of Mozy websites, including Mozy.com, MozyPro.com, MozyEnterprise.com and the MozyHome, MozyPro, and MozyEnterprise backup services (the "Service").
+Mozy, Inc. (“Mozy,” “we,” “us,” or “our”) has created this Privacy Statement because we know that you care about how information you provide to us is used and shared. Mozy is part of the Dell Technologies group of companies. This Privacy Statement applies to Personal Data collected on Mozy websites, including Mozy.com, MozyPro.com, MozyEnterprise.com (our “Websites”) and the MozyHome, MozyPro, and MozyEnterprise backup services (the "Service").
 
-Mozy defines "Personal Data" as any data from which it is practical to directly determine the identity of an individual. Any capitalized terms not defined in this Privacy Policy have the meanings given in the Service's License and Service Agreement (the "User Agreement"). This Privacy Policy may be updated by Mozy from time to time. Mozy will provide notice of materially significant changes to the Privacy Policy by posting notice on its websites.
+By registering to use the Service, you agree (1) to comply with the terms and conditions of this Privacy Policy and (2) that Mozy may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the User Agreement.
 
-By registering to use the Service, you agree (1) to comply with the terms and conditions of this Privacy Policy and (2) Mozy may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the User Agreement. Personal Data may be processed by Mozy in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.
+For purposes of this privacy statement, “Business Partners” means subcontractors, vendors or other entities with whom we have ongoing business relationships to provide products, services or information.
 
-## How Mozy Uses Information
+“Personal Information” means information that can identify you, such as your name, telephone number and email address. It does not include the files you back up using the Mozy Service or their contents. Mozy will not view the contents of your backup files.
 
-**Personal Data**
+This Privacy Statement does not apply to the websites of any of our affiliates or Business Partners; or to any other third parties, even if links to their websites are on our Website. We recommend you review the privacy statements of the other parties with whom you interact.
 
-We **will not** sell or market the email addresses or other collected personal information of registered Users to third parties.  
-We **will not** view the files that you backup using the Service.  
-We **may** view your file system information (file extensions, sizes, etc., but not your file contents) to provide technical support.
+### The Information We Collect
 
-You acknowledge and agree that Mozy may occasionally send you administrative communications regarding your account or the Service via email.
-
-**Cookies and Passive Data Collection**
-
-Mozy uses cookie, IP address, and URL information to improve and further develop the Service, and to provide enhanced or geographically differentiated features and service levels to Users, where available. Mozy uses cookies to save User screen names, session validators, and on Users' browsers and hard drives, and may use them to provide tailored products and services to those Users, as they become available.
-
-IP Addresses also help us diagnose network congestion, problems with our servers and otherwise assist in the administration and delivery of the Service to our Users.
-
-Third-party vendors, including Google, show your Mozy ads on sites on the Internet. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page at [http://www.google.com/privacy/ads. ](http://www.google.com/privacy/ads. "http://www.google.com/policies/technologies/ads/")
-
-## User Information Mozy Collects
-
-**Personal Data**
-
-Once you register with Mozy and sign in to the Service, you are not anonymous to Mozy.
-
-When registering with Mozy, you provide Personal Data, which may include company name, industry, number of employees, phone number, your title, city, state, country, zip code, a user name, confirmed email address, and a password. When backing data up with the Service, you send us that data and you also are sending file system information, including names of files and directories. Mozy may also record your IP address when you submit information.
+When registering with Mozy, you provide Personal Data, which may include company name, industry, number of employees, phone number, your title, city, state, country, zip code, a user name, confirmed email address, and a password. When using a Mozy Service, the data that you choose to back up with the Service, along with your file system information (including names of files and directories), is sent to Mozy. Mozy may also record your IP address when you submit information.
 
 Mozy also may collect, at your option, certain preference and demographic information from you.
-
-All information collected by Mozy is used for internal purposes of providing the Service, providing support to users, and to improve services. Aggregating non-identifying information supplied by users allows Mozy to understand its user base and to improve services.
 
 To protect your account information, please keep your password secure.
 
 All Users may opt to remove their Personal Data from our live database by contacting Mozy and canceling their Mozy user account. Users of the Mozy.com Services may also cancel their user account by logging into their account, selecting My Profile, and clicking on Delete Account.
 
-Mozy does not intentionally gather Personal Data about visitors who are under the age of 13.
+We may automatically collect other types of information when you visit our Website such as your network location, the IP address of your computer, and what sections of our Website you visit.
 
-**Cookies and Passive Data Collection**
+### How We Use and Share Personal Information
 
-Mozy automatically receives and records information on our server logs from your browser, including your IP address, cookie information, and the page you request.
+Mozy may use your Personal Information to:
 
-Users should be aware that other websites visited before entering the Mozy websites might place Personal Data within a User's URL during a visit to their website, and Mozy has no control over such websites. Accordingly, some of this information may be logged by Mozy.
+  * Deliver the Service and support or carry out the transactions you have requested; 
+  * Send communications to you, such as your transaction status (for example, order confirmations), information about products and services available from Mozy and its corporate affiliates, event announcements, important product notices including those announcing changes to our terms or policies, promotional offers and surveys;
+  * Advertise and market Mozy products and the products of our corporate affiliates by, for example, delivering targeted ads on this and other web sites, analyzing the effectiveness of ads, and determining whether you would be interested in receiving offers about new products or services; 
+  * Administer, customize, personalize, analyze and improve our products, services (including the content and advertisements on our Website), technologies, communications and relationship with you; 
+  * Enforce our conditions of sale, our Website terms and/or separate contracts (if applicable) with you; 
+  * Prevent fraud and other prohibited or illegal activities; 
+  * Protect the security or integrity of our Website, our business, or our products or services; or 
+  * For other purposes, as disclosed to you at the point of collection or as required or permitted by law.
 
-**Links to Third-Party Sites**
 
-Mozy websites may contain links to other sites that are not under our control. These websites have their own policies regarding privacy. You should review those policies before visiting the websites. We have no responsibility for linked websites, and we provide these links solely for the convenience and information of our visitors.
 
-## Disclosures
+Personal Information collected may be stored and processed in the United States, although personal information relating to customers outside the United States will usually be stored in Ireland. By using Mozy products and services (including our Website), you consent to any such transfer of information to the United States.
 
-**Mozy Service Providers**
+### Disclosing Personal Information
 
-Mozy does not disclose Personal Data to third parties, except to process credit card information for orders. However, at a future time, Mozy may need to provide users' Personal Data to other third parties to deliver specific services to the user (such as hosting services or support services). These third parties will be required to adhere to Safe Harbor Privacy Principles or at a minimum Mozy will require the third party to certify they follow privacy protection equal to Mozy's. Users will also be provided with a mechanism to opt-out of having their Personal Data viewed by such third parties.
+We may share Personal Information with Dell Inc. and other corporate affiliates—businesses in the Dell Technologies group of companies—to carry out transactions you request, to make our business or that of our corporate affiliates more responsive to your needs, including so that our corporate affiliates may provide you with information about those affiliates’ products and services, or for research or analysis. 
 
-**Legal Requirements**
+In addition, Mozy may share your Personal Information with participants in our sales and marketing chain, including but not limited to retailers, resellers, distributors, integrators, order fulfillers and sales agents (“Channel Partners”), for the purposes of selling, marketing or providing support for Mozy products and services.
 
-Mozy does not disclose Personal Data, including the data you back up with the Service, unless disclosure is necessary to comply with an enforceable government request such as a warrant.
+We may also disclose your Personal Information (i) in response to proper requests from law enforcement or other government bodies; (ii) as required by law or regulation; (iii) if Mozy reasonably believes it is necessary to protect the rights of Mozy, its customers, the public, or others; (iv) to combat fraud or criminal activity; or (v) with your consent.
 
-**Change of Ownership**
+We may share your Personal Information with affiliates or Business Partners to carry out transactions you request, or to make our business or that of our affiliates more responsive to your needs, which includes our affiliates and Business Partners providing you with information about Mozy products and services. We will only share Personal Information with Business Partners who share Mozy’s commitment to protecting your Personal Information.
 
-In the event of a change in ownership, or a direct merger or acquisition with another entity, we reserve the right to transfer all of Mozy User information, including Personal Data, to a separate entity. We will use commercially reasonable efforts to notify you (by posting on our website or an email to the email address you provide when you register) of any change in ownership, merger or acquisition of Mozy's assets by a third party, and you may choose to modify any of your registration information at that time.
+We may share information with a purchaser of all or part of Mozy, Dell Inc., or our corporate affiliates.
 
-## Security
+Except as described above, we will not disclose your Personal Information to third parties for their own marketing purposes without your consent.
 
-Mozy uses industry standard security measures to protect against the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by Mozy in a secure operating environment that is not available to the public, Mozy cannot guarantee complete security. Further, while we take reasonable steps to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "crackers" from obtaining this information.
+We may aggregate or de-identify information so that it does not identify you and share that and other non-personal information with third parties for any purpose.
 
-## **Updating or Removing User Information**
+### Selecting Your Communication Preferences and Accessing Your Personal Information
 
-You may, at any time, choose to correct or update the information you have submitted to Mozy by updating your account on our website.
+If you do not wish to receive future marketing communications, or wish to change, modify or delete your Personal Information, please contact us at [privacy@Mozy.com](mailto:%70%72%69%76%61%63%79%40%4d%6f%7a%79%2e%63%6f%6d "privacy@Mozy.com"). Upon receipt of your request, your information will be updated as soon as possible, but no later than ten (10) days after our receipt of your request. We will then retain your information for as long as your account is active or as needed to provide you services and as necessary to comply with our legal, regulatory or compliance obligations. Even when you opt out of receiving marketing communications, we may still communicate with you in connection with servicing your account, fulfilling your request, or administering any promotion or any program in which you have elected to participate.
 
-If you cancel your account, your Personal Data and other information may be retained in our archive or backup records.
+### Collection and Use of Children’s Personal Information
 
-## Privacy Complaints
+Mozy takes children’s privacy seriously. We do not knowingly collect Personal Information from children under the age of 13 through our Website. If you are under 18 years of age, please do not submit any Personal Information through our Website without the express consent and participation of a parent or guardian.
 
-If you have a dispute or complaint about privacy on a Mozy website, we kindly ask that you attempt first to resolve the issue directly with Mozy by emailing [privacy@mozy.com](mailto:%70%72%69%76%61%63%79%40%6d%6f%7a%79%2e%63%6f%6d "privacy@mozy.com").
+### How We Use Cookies
 
-## Adherence to European Union Safe Harbor Privacy Principles
+Our Website uses “cookies” to enable you to sign in to our services and to help personalize your online experience. A cookie is a piece of text that is placed on your computer’s hard drive. Depending on the settings you have selected, your browser adds the text to your device as a small file. You can change the browser settings as described below; many browsers are set to accept cookies by default. We use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly.
 
-Mozy complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as published by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Mozy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mozy’s certification, please visit [http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/")
+You have the ability to accept or decline cookies. Many web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our Website and services that depend on cookies.
 
-Among other requirements, adherence also involves engaging an independent third party to resolve privacy disputes. If you are a European consumer and feel your privacy dispute or complaint has not been adequately resolved, the [Council of Better Business Bureaus](http://www.bbb.org/us/european-dispute-resolution/ "http://www.bbb.org/us/european-dispute-resolution/") has been contracted by Mozy to handle complaints that allege a failure to comply with the Safe Harbor Privacy Principles.
+### Analytics / Log Files
 
-## Contacting Mozy
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We may link this automatically-collected data to Personal Information in order to personalize our communications with you.
 
-Users with questions about this Privacy Policy and any of the aforementioned statements may contact Mozy the following ways:
+### Targeted Display Advertising by Mozy and Others
 
-**E-Mail  **   
-[privacy@mozy.com](mailto:%70%72%69%76%61%63%79%40%6d%6f%7a%79%2e%63%6f%6d "privacy@mozy.com") 
+Mozy also works with third party advertising and personalization partners that use cookies to help us display personalized content and appropriate advertising during your visits to our Website and other websites. Cookies placed by our third party partners also assist us with measuring the performance of our advertising campaigns.
 
-**Postal  **   
+### How We Use Web Beacons
+
+Mozy or third parties with which we have contracted or sub-contracted may use web beacons on our website, in our email messages, in our advertisements on other websites, or in our advertisements in others’ email messages. Similarly, third parties whose content or ads appear on our Website, may also place web beacons in their ads or emails for purposes of measuring the effectiveness of the content, ads or email messages.
+
+A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email message. Web beacons help us measure the effectiveness of our Website and our advertising in various ways. For example, web beacons may count the number of individuals who visit our Website from a particular advertisement, or who make a purchase from our Website after viewing a particular advertisement, or they may tell us when a web page is viewed and provide a description of the page where the web beacon is placed. Web beacons may also measure the effectiveness of our email campaigns, by counting the number of individuals who open or act upon an email message, determining when an email message is opened and determining how many times an email message is forwarded.
+
+The information we collect through web beacons may include some limited Personal Information, and web beacons allow us to recognize users by accessing Mozy cookies. We may also combine the information that we collect through web beacons with other information we have collected from you. We use all of this information to better tailor our marketing to you and may use this information for other purposes, such as to enable a shopping cart, customize content on our Website and undertake internal research.
+
+We prohibit web beacons on our sites from being used by third parties to access Personal Information. We may allow third parties to compile individual information or aggregated statistics from the use of web beacons on our site by Mozy, its agents or others, to enable such third parties to determine the effectiveness of online marketing and to allow such third parties to develop statistics on how often clicking on an advertisement results in a purchase or other action on the advertiser’s site. Aggregate information is anonymous and may include demographic and usage information. No Personal Information about you is shared with partners for this research.
+
+You can make some web beacons unusable by rejecting cookies.
+
+### Retention of Client Data
+
+Mozy will retain Client Data for as long as needed to provide services to our client, unless otherwise directed by that client, and as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### How We Secure Personal Information
+
+Mozy is committed to protecting the security of Personal Information. We use a variety of security technologies and procedures to help protect Personal Information from unauthorized access, use and disclosure. While we strive to protect your Personal Information, Mozy cannot ensure or guarantee that the Personal Information or private communications you transmit to us will always remain confidential or secure. Therefore, when you choose to provide Personal Information or private communications to us, you do so at your own risk.
+
+### Links to External Websites
+
+Our Website may contain links to third-party sites. Mozy cannot control and is not responsible for the privacy practices of such third-party sites. Mozy encourages users to be aware when they leave our Website, and to read the privacy statements of each website they visit. This Privacy Statement applies only to Mozy.
+
+### Blog / Forum
+
+Our Website offers publicly-accessible blogs or community forums. Please be aware that any information you provide in these blogs or forums may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, contact us at [privacy@Mozy.com](mailto:%70%72%69%76%61%63%79%40%4d%6f%7a%79%2e%63%6f%6d "privacy@Mozy.com"). In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+
+### Social Media Widgets
+
+Our Website includes social media features, such as a Facebook Like button and widgets, such as the “Share this” button or interactive mini-programs that run on our Website. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it, not by this Privacy Statement.
+
+### Changes to This Privacy Statement
+
+Mozy reserves the right to change this Privacy Statement at any time. If Mozy materially changes its Privacy Statement, we will either notify users via e-mail or via a prominent notice posted on our Website prior to the change becoming effective. Changes are effective as of the date we post them on the Mozy Privacy Statement page. We encourage you to periodically review this Privacy Statement.
+
+### How to Contact Us
+
+If you have questions about this Privacy Statement, please contact Mozy via e-mail at [privacy@Mozy.com](mailto:%70%72%69%76%61%63%79%40%4d%6f%7a%79%2e%63%6f%6d "privacy@Mozy.com") or by sending postal mail to the following address:
+
 Attn: Privacy Policy  
 Mozy  
-2162 Grove Parkway, Suite 200  
-Pleasant Grove, UT 84062
+13197 S. Frontrunner Blvd.  
+Draper, UT 84020
 
-## Revisions to this Policy
-
-Mozy reserves the right in our sole discretion to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification of this policy will be posted on Mozy websites, and a User's continued use of the Service will signify agreement to such changes.
-
-## Registration or Use of the Service Signifies your Agreement to the Privacy Policy
-
-Effective Date: May 14, 2009 
+Last Updated August 25, 2017
