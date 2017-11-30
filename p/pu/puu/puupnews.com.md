@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the puupnews.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628220256id_/http%3A//www.puupnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puupnews.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201002211id_/http%3A//www.puupnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – PuupNews
+# Privacy Policy – puupnews.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:info@puupnews.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://web.archive.org/cdn-cgi/l/email-protection#630a0d050c23131616130d0614104d000c0e).
 
 At https://www.puupnews.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by https://www.puupnews.com/ and how we use it. 
 
@@ -35,14 +35,6 @@ You may consult this listing to find the privacy policy for each of the advertis
 _
 
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on https://www.puupnews.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
-
-Your ads will be inserted here by
-
- **Easy Plugin for AdSense**.
-
-Please go to the plugin admin page to  
- _Paste your ad code_ OR  
-_Suppress this ad slot_.
 
 https://www.puupnews.com/ has no access to or control over these cookies that are used by third-party advertisers. 
 
