@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamempowered.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230113545id_/http%3A//iamempowered.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamempowered.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201003037id_/http%3A//www.iamempowered.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iamempowered.com
 
