@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abc12.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130434id_/http%3A//www.abc12.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc12.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130215422id_/http%3A//www.abc12.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-Posted: Wed 9:30 AM, Jun 20, 2012  | 
+Posted: Wed 4:24 PM, Mar 04, 2015  | 
 
 Updated: Thu 4:10 PM, May 11, 2017 
 
