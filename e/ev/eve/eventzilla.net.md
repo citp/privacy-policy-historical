@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000055id_/http%3A//www.eventzilla.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130104158id_/https%3A//www.eventzilla.net/privacy) for the most accurate reproduction.*
 
 # Online Event Registration, Management and Planning Software | Eventzilla
 
 Thank you for using Eventzilla. We value your privacy and provide this Privacy Policy (the “Privacy Policy”) to describe the ways in which Eventzilla Corporation (the “Company”) collects, uses, and shares users (each, a “User”) personally identifiable information, which may include Users' names, email addresses, payment information, phone numbers, mailing addresses, and other information (“Personal Information”) when using the Eventzilla.net website, mobile application, or related services (collectively, “Service”). You agree to be bound by this Privacy Policy in full and without modification. The Company reserves the right to update, replace or change the Privacy Policy at any time and without notice. The newest version of the Privacy Policy will be posted on the Service. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Privacy Policy. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Privacy Policy at any time at: http://www.eventzilla.net/privacy. 
 
-These Terms were last modified October 31, 2016. 
+The privacy policy page was last updated on October 31, 2016. 
 
 1\. Personal Information
 
@@ -84,10 +84,19 @@ These Terms were last modified October 31, 2016.
 
 **** \- [ Email us ](http://www.eventzilla.net/contact)
 
-##  eventzilla
+## About Eventzilla
 
   * Eventzilla lets you sell tickets online and manage attendees from one integrated application. No downloads, set up fees, or monthly fees. Give Eventzilla a try today or lower your event registration costs and improve your ticket sales.
-  * **Perfect for:** Conferences, Fundraisers, Classes, Festivals, Parties, Concerts, Sports, Networking and more.
+  * Perfect for Conferences, Fundraisers, Classes, Festivals, Parties, Concerts, Sports, Networking and more.
+
+
+
+[ ](https://itunes.apple.com/us/app/eventzilla/id525214852?mt=8 "Available on the App Store") [ ](https://play.google.com/store/apps/details?id=com.gmail.EventZillaAppStore&hl=en "Android App on Google Play")
+
+## About Eventzilla
+
+  * Eventzilla lets you sell tickets online and manage attendees from one integrated application. No downloads, set up fees, or monthly fees. Give Eventzilla a try today or lower your event registration costs and improve your ticket sales.
+  * **Perfect for** Conferences, Fundraisers, Classes, Festivals, Parties, Concerts, Sports, Networking and more.
 
 
 
