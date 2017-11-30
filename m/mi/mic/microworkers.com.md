@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microworkers.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422134957id_/https%3A//www.microworkers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microworkers.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130022727id_/https%3A//microworkers.com/privacy.php) for the most accurate reproduction.*
 
 # Microworkers - work & earn or offer a micro job
 
