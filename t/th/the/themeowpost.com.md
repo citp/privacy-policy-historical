@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeowpost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121258id_/http%3A//themeowpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeowpost.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201002734id_/http%3A//themeowpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Meow Post
 
@@ -38,4 +38,4 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we **do not** have any control that other website in any way. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question that you visit when exiting our website.
 
-If you have any questions regarding our privacy policy, content removal, or advertising, please contact us at: [TheMeowPost@gmail.com](mailto:themeowpost@gmail.com)
+If you have any questions regarding our privacy policy, content removal, or advertising, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7a0e121f171f150d0a15090e3a1d171b131654191517)
