@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linqia.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616085530id_/http%3A//www.linqia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linqia.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130111342id_/http%3A//www.linqia.com/privacy-policy) for the most accurate reproduction.*
 
 # Linqia Influencer Marketing Privacy Policy |Linqia
 
