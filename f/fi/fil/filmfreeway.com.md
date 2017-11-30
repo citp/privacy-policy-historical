@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the filmfreeway.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630155734id_/https%3A//filmfreeway.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmfreeway.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130191813id_/https%3A//filmfreeway.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FilmFreeway
 
-Last updated: October 8, 2013
+Last updated: July 24, 2017
 
 **About FilmFreeway:**
 
-Welcome to FilmFreeway. FilmFreeway allows filmmakers and screenwriters to quickly and easily submit their work to film festivals and contests all over the world.  We do this through our websites and domains, the services available on or through our websites and domains or otherwise provided by us, and the software available on or through our websites and domains or otherwise provided by us (including our mobile applications) (collectively, the "Services").
+Welcome to FilmFreeway. FilmFreeway makes it easy to discover, submit, and get tickets to thousands of film festivals, screenplay contests, music contests and photography contests all over the world.  We do this through our websites and domains, the services available on or through our websites and domains or otherwise provided by us, and the software available on or through our websites and domains or otherwise provided by us (including our mobile applications) (collectively, the "Services").
 
 **Our Policy:**
 
