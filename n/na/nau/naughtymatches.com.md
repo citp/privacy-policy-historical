@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtymatches.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625113930id_/http%3A//www.naughtymatches.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtymatches.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130100604id_/http%3A//www.naughtymatches.com/site/privacy) for the most accurate reproduction.*
 
 # NaughtyMatches - Find people, socialize, hookup and chat.
 
