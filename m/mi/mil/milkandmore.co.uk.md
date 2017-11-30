@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milkandmore.co.uk privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531154049id_/http%3A//www.milkandmore.co.uk/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkandmore.co.uk privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130111835id_/http%3A//www.milkandmore.co.uk/Privacypolicy) for the most accurate reproduction.*
 
 # milk&more Privacy Policy | Milk delivery service
 
