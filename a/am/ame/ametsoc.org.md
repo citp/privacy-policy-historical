@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ametsoc.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128183159id_/https%3A//www.ametsoc.org/ams/index.cfm/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ametsoc.org privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130012431id_/https%3A//www.ametsoc.org/ams/index.cfm/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer - American Meteorological Society
 
@@ -6,8 +6,6 @@
   * [Privacy Policy and Disclaimer](https://web.archive.org/ams/index.cfm/privacy-policy-and-disclaimer/)
 
 
-
-## Privacy Policy and Disclaimer
 
 The American Meteorological Society (AMS) respects the privacy of members, users of its services, and visitors to its various websites and operates according to the following policies.
 
@@ -17,7 +15,7 @@ Some personal information including addresses, phone numbers, e-mail addresses, 
 
 The AMS online Membership Directory is a service restricted to use by members. It contains basic contact information and membership data. E-mail addresses are not released to outside organizations, except when a vendor performs a service for AMS under its supervision. Member postal mailing lists are sold on a carefully screened basis, and only when the mailed material is thought to be of significant interest or benefit.
 
-AMS members may change and update their addresses, e-mail address, suppress use of their contact information in the Membership Directory, decline to receive AMS-generated e-mail messages, or request to be excluded from externally sold mailing lists by visiting   [**"AMS Member Service Center"**](https://web.archive.org/ams/index.cfm/membership/ams-member-resources/) or by contacting the Membership Department at [**amsmem@ametsoc.org**](mailto:amsmem@ametsoc.org).  
+AMS members may change and update their addresses, e-mail address, suppress use of their contact information in the Membership Directory, decline to receive AMS-generated e-mail messages, or request to be excluded from externally sold mailing lists by visiting   [**"AMS Member Service Center"**](https://web.archive.org/ams/index.cfm/membership/ams-member-resources/) or by contacting the Membership Department at **[amsmembership@ametsoc.org](mailto:amsmembership@ametsoc.org)**.
 
 Author or referee information is never sold, and is only used for purposes related to AMS, its journals, and/or manuscripts which have been submitted to them.
 
