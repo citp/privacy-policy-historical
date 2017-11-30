@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601062435id_/https%3A//www.packagemapping.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130165836id_/https%3A//packagemapping.com/terms) for the most accurate reproduction.*
 
 # None
 
@@ -12,7 +12,7 @@ Thank you for reading this Privacy Notice. This notice applies ONLY to informati
   * Copyright
 
 
-  * [Contact Information](http://packagemapping.com/privacy_notice.htm#Contact)
+  * [Contact Information](https://web.archive.org/Contact)
 
 
 
