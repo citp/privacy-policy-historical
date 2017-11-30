@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pge.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130084656id_/https%3A//www.pge.com/en_US/about-pge/company-information/privacy-policy/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pge.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130105915id_/https%3A//pge.com/en_US/about-pge/company-information/privacy-policy/privacy.page) for the most accurate reproduction.*
 
 # Privacy Policy
 
