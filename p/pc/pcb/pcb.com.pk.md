@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcb.com.pk privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607063824id_/http%3A//www.pcb.com.pk/pcb-privacy-statment.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcb.com.pk privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130180729id_/http%3A//www.pcb.com.pk/pcb-privacy-statment.html) for the most accurate reproduction.*
 
 # PCB is committed to safeguarding your privacy online.
 
@@ -14,7 +14,7 @@ Our primary goal in collecting user information is to enhance your experience on
 
 This privacy policy covers the website and activities of _PCB.com.pk_. Please be aware that PCB.com.pk sponsors, advertisers and partners or affiliates with co-branded modules or sections on _PCB.com.pk_ may collect personally identifiable information about you while on our website. The information practices of those parties are not covered by this privacy statement. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by us.
 
-_PCB.com.pk_ users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [online@pcb.com.pk](mailto:online@pcb.com.pk) … In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+_PCB.com.pk_ users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bcd3d2d0d5d2d9fcccdfde92dfd3d192ccd7) … In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 his is the website of SportsBlog.com ("we" or "us"). We are committed to maintaining the privacy of the information that you provide to us in using this site. The following privacy policy applies to the information we collect from you and how we use and protect it. This privacy policy applies only to this site and does not apply to any third-party websites linked to this site. We are not responsible for the privacy practices or the contents of any third-party linked website.
 
@@ -32,7 +32,7 @@ The information we collect is used to communicate with users regarding their acc
 
 ### How to opt out of receiving email
 
-If you do not want to receive e-mail from us in the future, you should let us know by sending a removal request to us at online@pcb.com.pk, We honor all removal requests.
+If you do not want to receive e-mail from us in the future, you should let us know by sending a removal request to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), We honor all removal requests.
 
 ### What are cookies, and how do we use them?
 
@@ -48,7 +48,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ### How to request information maintained about you
 
-Upon request, we will provide you with access to all information (including proprietary information) that we maintain about you. You can access this information by emailing us at online@pcb.com.pk
+Upon request, we will provide you with access to all information (including proprietary information) that we maintain about you. You can access this information by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### We cannot guarantee the security of this site
 
@@ -64,7 +64,7 @@ If you have any questions or comments about our privacy policy, please contact u
 
 ### By email:
 
-online@pcb.com.pk
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### By regular mail:
 
@@ -74,4 +74,4 @@ Qaddafi Stadium. Lahore
 
 Pakistan
 
-[http://www.pcb.com.pk/](https://web.archive.org/web/20170607063824id_/http%3A/)
+[http://www.pcb.com.pk/](https://web.archive.org/web/20171130180729id_/http%3A/)
