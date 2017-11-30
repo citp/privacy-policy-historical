@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035145id_/http%3A//www.architectureanddesign.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130221614id_/http%3A//www.architectureanddesign.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Architecture And Design
 
@@ -19,11 +19,11 @@ Any questions regarding this policy or enquiries regarding privacy should be sen
 
 Australia:  
 The Operations Director, Indesign Media Asia Pacific, 1/50 Marshall Street, Surry Hills NSW 2010, Australia.  
-info@indesign.com.au
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Singapore:   
 The Managing Editor, Indesign Media Asia Pte Ltd, No.4 Leng Kee Road, SIS Building #06-08, Singapore 159088, Singapore.  
-accounts@indesign.com.sg
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **What type of information is collected by Indesign Media?**
 
@@ -46,10 +46,10 @@ From time to time, we may provide statistical information about sales, trading p
 Unless requested not to, Indesign Media may provide your personal information to third parties, which may in turn provide your information to other third parties for marketing purposes. If you would not like us to share your information in this way please notify us by submitting the email address you used to subscribe here:
 
 Australia  
-By email: info@Indesign.com.au, or call us on (61 2) 9368 0150
+By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or call us on (61 2) 9368 0150
 
 Singapore  
-By email: accounts@indesign.com.sg, or call us on (65) 6475 5228
+By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or call us on (65) 6475 5228
 
 To whom might Indesign Media disclose Personal Information?
 
