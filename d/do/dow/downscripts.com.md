@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downscripts.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531161955id_/http%3A//www.downscripts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downscripts.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130175252id_/http%3A//www.downscripts.com/privacy.html) for the most accurate reproduction.*
 
 # DownScripts Privacy Policy
 
@@ -41,7 +41,7 @@ We may share information with governmental agencies or other companies assisting
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
-By e-mail: [contact us.](mailto:contact@downscripts.com)
+By e-mail: [contact us.](https://web.archive.org/cdn-cgi/l/email-protection#066569687267657246626971687565746f7672752865696b)
 
 We reserve the right to make changes to this policy without notice. 
 
