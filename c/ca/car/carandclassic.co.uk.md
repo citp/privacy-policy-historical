@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carandclassic.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031651id_/http%3A//www.carandclassic.co.uk/doc/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carandclassic.co.uk privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130215714id_/http%3A//www.carandclassic.co.uk/doc/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY Car And Classic Web Site
 
@@ -34,4 +34,4 @@
 
 **5\. How To Contact Us**
 
-5.1 If at any time your personal information changes, or if you wish to see our records relating to your personal information, or if you  have any questions or suggestions regarding our privacy policy, please contact us at: **[info@CarAndClassic.co.uk](mailto:info@CarAndClassic.co.uk)**
+5.1 If at any time your personal information changes, or if you wish to see our records relating to your personal information, or if you  have any questions or suggestions regarding our privacy policy, please contact us at: **[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f79e999198b7b49685b69993b49b9684849e94d99498d9829c)**
