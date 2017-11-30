@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123peppy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113953id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123peppy.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130130148id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of 123peppy.com
 
