@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalife.co.in privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622184209id_/http%3A//www.herbalife.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalife.co.in privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130220754id_/http%3A//www.herbalife.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Herbalife - India - Privacy Policy
 
@@ -91,7 +91,7 @@ The Sites are headquartered in the United States. Please be aware that informati
 
 **8\. Minor’s Information.**
 
-The Sites are general audience web sites that are not directed to minor’s who are below the age of 18 years. We do not knowingly collect, use or disseminate any Personal Information from minor below the age of 18 Years.. If you believe we may have collected information from your child on the Sites, please contact us at [privacy@herbalife.com](https://web.archive.org/web/20170622184209id_/http%3A//www.herbalife.co.in/privacy@herbalife.com) and we will make reasonable efforts to delete it from our records.
+The Sites are general audience web sites that are not directed to minor’s who are below the age of 18 years. We do not knowingly collect, use or disseminate any Personal Information from minor below the age of 18 Years.. If you believe we may have collected information from your child on the Sites, please contact us at [privacy@herbalife.com](https://web.archive.org/web/20171130220754id_/http%3A//www.herbalife.co.in/privacy@herbalife.com) and we will make reasonable efforts to delete it from our records.
 
  **9\. Cookies and Tracking.**
 
@@ -113,7 +113,7 @@ We may display advertising on our website for our products and services. Cookies
 
  ** **12\. Online Forums.** **
 
-The Sites may offer publicly-accessible community forums. You should be aware that any Personal information you provide in these areas is public and may be read, collected, and used by others who access them. To request removal of your Personal Information from these forums, email us at [privacy@herbalife.com](https://web.archive.org/web/20170622184209id_/http%3A//www.herbalife.co.in/privacy@herbalife.com). In some cases, we may not be able to remove your Personal Information. 
+The Sites may offer publicly-accessible community forums. You should be aware that any Personal information you provide in these areas is public and may be read, collected, and used by others who access them. To request removal of your Personal Information from these forums, email us at [privacy@herbalife.com](https://web.archive.org/web/20171130220754id_/http%3A//www.herbalife.co.in/privacy@herbalife.com). In some cases, we may not be able to remove your Personal Information. 
 
  **13\. Third-Party Links.**
 
@@ -129,4 +129,4 @@ This Privacy Policy was last updated on the date listed at the beginning of this
 
  **16\. What if I have Questions?**
 
-Herbalife takes privacy concerns seriously. If you have questions or comments you may contact us at Information Technology Centre, #15, Commissariat Road, Bangalore 560025 (Attn: Privacy Champion, Legal). You can further Contact us at: 800 West Olympic Blvd., Suite 406, Los Angeles, CA 90015 (Attn: Privacy Dept.), [privacy@herbalife.com](https://web.archive.org/web/20170622184209id_/http%3A//www.herbalife.co.in/privacy@herbalife.com), 866-866-4744.
+Herbalife takes privacy concerns seriously. If you have questions or comments you may contact us at Information Technology Centre, #15, Commissariat Road, Bangalore 560025 (Attn: Privacy Champion, Legal). You can further Contact us at: 800 West Olympic Blvd., Suite 406, Los Angeles, CA 90015 (Attn: Privacy Dept.), [privacy@herbalife.com](https://web.archive.org/web/20171130220754id_/http%3A//www.herbalife.co.in/privacy@herbalife.com), 866-866-4744.
