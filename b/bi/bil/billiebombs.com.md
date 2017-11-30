@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billiebombs.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628084916id_/http%3A//allteenstars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billiebombs.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130170902id_/http%3A//allteenstars.com/privacy.html) for the most accurate reproduction.*
 
 # SECTION 18
 
