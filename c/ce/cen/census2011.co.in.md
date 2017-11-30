@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the census2011.co.in privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506034154id_/http%3A//www.census2011.co.in/p/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the census2011.co.in privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130163807id_/http%3A//www.census2011.co.in/p/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Census2011.co.in
 
