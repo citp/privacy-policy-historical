@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsonaplane.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531184311id_/http%3A//www.kidsonaplane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsonaplane.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130013937id_/http%3A//www.kidsonaplane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kids On A Plane - A Family Travel Blog
 
