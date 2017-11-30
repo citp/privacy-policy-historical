@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hssc.gov.in privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620211031id_/http%3A//hssc.gov.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hssc.gov.in privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130173532id_/http%3A//www.hssc.gov.in/privacy-policy.htm) for the most accurate reproduction.*
 
 # HSSC | Accessibility and Usability | Privacy Policy
 
