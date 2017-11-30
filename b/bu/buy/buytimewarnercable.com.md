@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531071620id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130183017id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Time Warner Online
+# Privacy Policy | Buy Time Warner Cable
 
 ### PRIVACY POLICY
 
