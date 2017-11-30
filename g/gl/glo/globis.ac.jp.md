@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globis.ac.jp privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032024id_/http%3A//www.globis.ac.jp/etc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globis.ac.jp privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130133756id_/http%3A//www.globis.ac.jp/etc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GLOBIS MBA - Largest Business School in Japan
 
