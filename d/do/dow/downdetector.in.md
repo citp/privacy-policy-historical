@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downdetector.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043324id_/http%3A//downdetector.in/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downdetector.in privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130160215id_/http%3A//downdetector.in/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement and policy Down Detector
 
@@ -18,7 +18,9 @@ Third-Party Advertising – AdChoices**
 
 We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](http://www.networkadvertising.org/choices/). 
 
-To opt out for Project Rubicon advertising, please visit [http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
+To opt out for Google Adsense peronalized advertising, please visit [www.google.nl/settings/ads](http://www.google.nl/settings/ads).   
+To opt out for Ancora Media Solutions peronalized advertising, please visit <http://adserving.ancora.iponweb.net/opt-out>  
+To opt out for Project Rubicon peronalized advertising, please visit [http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
 
 **  
 Links to Other Websites**
@@ -37,19 +39,19 @@ If you do register, and in the process provide us with personally identifiable i
 
 Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
 
-We currently don’t, but in the future might opt to provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at info@downdetector.com, by clicking on the “unsubscribe” link in any email we send to you or by replying to any email we send you.
+We currently don’t, but in the future might opt to provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), by clicking on the “unsubscribe” link in any email we send to you or by replying to any email we send you.
 
 Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
 
  **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at info@downdetector.com.
+If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
  **Security  
 **  
 We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
 
-You may submit any questions you may have about our security procedures by emailing us at info@downdetector.com
+You may submit any questions you may have about our security procedures by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Legal Disclaimer**
 
@@ -59,7 +61,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 If you have any questions or concerns regarding this privacy policy, or you wish to contact us by email or post, our contact information is as follows:
 
-info@downdetector.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Serinus42  
 Downdetector  
