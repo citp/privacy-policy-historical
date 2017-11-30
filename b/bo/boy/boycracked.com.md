@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boycracked.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611001852id_/https%3A//boycracked.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boycracked.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201002632id_/https%3A//boycracked.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy – BOYCRACKED
 
