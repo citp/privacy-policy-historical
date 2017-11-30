@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mio.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120235107id_/http%3A//www.mio.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mio.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130164535id_/http%3A//mio.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Mio Technology
 
