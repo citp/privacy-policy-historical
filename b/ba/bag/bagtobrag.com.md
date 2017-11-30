@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagtobrag.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172402id_/http%3A//bagtobrag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagtobrag.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130110750id_/http%3A//bagtobrag.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy of BagToBrag — Bag to brag
 
