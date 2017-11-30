@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191132id_/http%3A//www.stratospherehotel.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130103759id_/http%3A//www.stratospherehotel.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stratosphere Casino, Hotel & Tower
 
@@ -10,7 +10,7 @@ This Privacy Policy is effective as of August 1, 2016.
 
 **I.   Application of this Privacy Policy.**
 
-This Privacy Policy applies to websites owned or operated by American Casino & Entertainment Properties, LLC and its subsidiaries (collectively, “ACEP” or “we”) for the Stratosphere Casino, Hotel & Tower and accessible through the “http://StratosphereHotel.com” domain name (collectively, “Stratosphere Casino, Hotel & Tower Website”). The Stratosphere Casino, Hotel & Tower Website may be accessed through domain name in addition to the domain name listed above. This Privacy Policy does not apply to information collected by us by means other than through the Stratosphere Casino, Hotel & Tower Website.
+This Privacy Policy applies to websites owned or operated by Golden Entertainment, Inc. and its subsidiaries (collectively, “Golden” or  “we”). for the Stratosphere Casino, Hotel & Tower and accessible through the “http://StratosphereHotel.com” domain name (collectively, “Stratosphere Casino, Hotel & Tower Website”). The Stratosphere Casino, Hotel & Tower Website may be accessed through domain name in addition to the domain name listed above. This Privacy Policy does not apply to information collected by us by means other than through the Stratosphere Casino, Hotel & Tower Website.
 
 Certain transactions and services offered while visiting the Stratosphere Casino, Hotel & Tower Website may be processed or provided by us or strategic partners under contract with us, even though it appears that you may not have left the Stratosphere Casino, Hotel & Tower Website, including reservations. This Privacy Policy does not apply to information collected by strategic partners, except that we will treat information we receive about you from strategic partners under the terms of this Privacy Policy. We do not have any control over how strategic partners use information they collect about you.
 
@@ -72,6 +72,6 @@ If you have any questions regarding this Privacy Policy, please contact privacy@
 
 **We want you to have fun in our Vegas casino.**
 
-American Casino & Entertainment Properties LLC urges those who gamble to do so responsibly. Problem gambling is an illness that strikes people from all walks of life, but it can be treated. If you think you may have a gambling problem, or know of someone who does, please contact the Problem Gamblers Helpline at 800-522-4700. Counselors are available 24 hours a day, seven days a week to provide information on available treatment and support groups in your area for both the gambler and those affected by the gambler's problem. All calls are completely confidential.
+Golden Entertainment, Inc. urges those who gamble to do so responsibly. Problem gambling is an illness that strikes people from all walks of life, but it can be treated. If you think you may have a gambling problem, or know of someone who does, please contact the Problem Gamblers Helpline at 800-522-4700. Counselors are available 24 hours a day, seven days a week to provide information on available treatment and support groups in your area for both the gambler and those affected by the gambler's problem. All calls are completely confidential.
 
-Copyright © 2016 American Casino & Entertainment Properties. All rights reserved.
+Copyright © 2017 Golden Entertainment, Inc. All rights reserved.
