@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the uberdownloads.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627050846id_/http%3A//uberdownloads.com/company.php%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberdownloads.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130111355id_/http%3A//www.uberdownloads.com/company.php%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Uberdownloads - Freeware and shareware downloads
 
 ## Uberdownloads - Privacy Statement
 
 ### Overview of Our Privacy Policy
+
+www.Uberdownloads.com (“Website”) is a website owned and operated by Tightrope Interactive, Inc. (“Company”).
 
 We supply free and free-to-try software. Our Products may include Toolbars, which add search functionality to your browser. They also allow one click access to news and our offers. We refer to our software and Products throughout this agreement as our "Services". 
 
