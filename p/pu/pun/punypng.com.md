@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the punypng.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183143id_/http%3A//www.punypng.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punypng.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130171209id_/http%3A//punypng.com/about/privacy) for the most accurate reproduction.*
 
-# PunyPNG - PNG Compression and Image Optimization
+# PNG Compression and Online Image Compressor | PunyPNG
 
 We use the information which we gather from our users to provide and improve our services, and to communicate with you.
 
