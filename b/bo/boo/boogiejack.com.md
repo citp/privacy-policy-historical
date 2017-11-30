@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boogiejack.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boogiejack.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/privacy.html) for the most accurate reproduction.*
 
 # BoogieJack.com Privacy Policy
 
@@ -39,18 +39,18 @@ Or, by email: .
 
 ### Other Site Info Pages
 
-  * [FAQ Page](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/faq.html)
-  * [Press Room](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/press.html)
-  * [Advertising](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/advertise.html)
-  * [Refund Policy](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/refund.html)
-  * [Copyright Policy](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/copyright.html)
-  * [Writing Services](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/writing_services.html)
-  * [About BoogieJack.com](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/about.html)
-  * [The Story Behind BoogieJack.com](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/history.html)
+  * [FAQ Page](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/faq.html)
+  * [Press Room](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/press.html)
+  * [Advertising](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/advertise.html)
+  * [Refund Policy](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/refund.html)
+  * [Copyright Policy](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/copyright.html)
+  * [Writing Services](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/writing_services.html)
+  * [About BoogieJack.com](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/about.html)
+  * [The Story Behind BoogieJack.com](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/history.html)
 
 
 
-[ ](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/news.html)
+[ ](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/news.html)
 
 [](http://www.addthis.com/bookmark.php?v=20)
 
@@ -60,9 +60,9 @@ Changing list hosts. Will post a new subscribe form shortly.
 
 ### Did you know...
 
-The member's site has about 100 standards compliant HTML and CSS tutorials, 31 handy reference charts, reprintable content, web graphics, exclusive fonts, free software, free ebooks and more? All this for less than 9 cents a day! [ [Details](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/InnerCircle.html) ]   
-[Home](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/index.html) | [Web Design Tutorials](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/html_tutorials.html) | [Free Graphics](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/free_graphics.html) | [Newsletter](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/news.html) | [Products](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/products.html) | [Specials](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/specials.html) | [SEO](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/search_engines.html) | [Sound Effects](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/sound_effects.html) | [Press Room](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/press.html)   
-[Sitemap](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/sitemap.html) | [Member Perks](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/InnerCircle.html) | [Member Login](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/login.html) | [About BoogieJack.com](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/about.html) | [Contact](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/contact.html) | [Privacy Policy](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/privacy.html) | [Copyright Policy](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/copyright.html) | [Links](https://web.archive.org/web/20170531161126id_/http%3A//www.boogiejack.com/links.html)
+The member's site has about 100 standards compliant HTML and CSS tutorials, 31 handy reference charts, reprintable content, web graphics, exclusive fonts, free software, free ebooks and more? All this for less than 9 cents a day! [ [Details](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/InnerCircle.html) ]   
+[Home](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/index.html) | [Web Design Tutorials](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/html_tutorials.html) | [Free Graphics](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/free_graphics.html) | [Newsletter](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/news.html) | [Products](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/products.html) | [Specials](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/specials.html) | [SEO](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/search_engines.html) | [Sound Effects](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/sound_effects.html) | [Press Room](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/press.html)   
+[Sitemap](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/sitemap.html) | [Member Perks](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/InnerCircle.html) | [Member Login](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/login.html) | [About BoogieJack.com](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/about.html) | [Contact](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/contact.html) | [Privacy Policy](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/privacy.html) | [Copyright Policy](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/copyright.html) | [Links](https://web.archive.org/web/20171130113954id_/http%3A//www.boogiejack.com/links.html)
 
 Copyright BoogieJack.com 1997 - 2020
 
