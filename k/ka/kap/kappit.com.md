@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the kappit.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103215352id_/http%3A//www.kappit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kappit.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130113541id_/http%3A//www.kappit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Kappit is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.   
-Kappit may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Jan 1, 2016. 
+Kappit may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Jan 1, 2017. 
 
 What we collect   
 We may collect the following information: 
