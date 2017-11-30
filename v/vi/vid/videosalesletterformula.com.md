@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosalesletterformula.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512044434id_/http%3A//digitalmarketer.com/more-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosalesletterformula.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130212011id_/http%3A//digitalmarketer.com/more-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DigitalMarketer
 
@@ -86,4 +86,4 @@ If you would like to: access, correct, amend or delete any personal information 
 
 [Re: Privacy Compliance Officer]
 
-[4330 Gaines Ranch Loop Austin TX United States 78735]
+[4330 Gaines Ranch Loop Austin TX United States 78735] 
