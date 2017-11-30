@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aholyexperience.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617033350id_/http%3A//annvoskamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aholyexperience.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130150516id_/http%3A//annvoskamp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Ann Voskamp
 
