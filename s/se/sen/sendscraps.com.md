@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendscraps.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103201id_/http%3A//www.sendscraps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendscraps.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130163720id_/http%3A//www.sendscraps.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SendScraps.com
 
@@ -23,4 +23,4 @@ External Links
 This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 Contact  
-If users have any questions or suggestions regarding our privacy policy, please contact us: [info@sendscraps.com](mailto:info@sendscraps.com).
+If users have any questions or suggestions regarding our privacy policy, please contact us: [info@sendscraps.com](mailto:info@sendscraps.com). 
