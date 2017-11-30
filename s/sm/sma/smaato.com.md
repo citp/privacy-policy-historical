@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506100848id_/https%3A//www.smaato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130041008id_/https%3A//www.smaato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smaato
 
-Effective Date: April 20, 2017
+Effective Date: October 5, 2017
 
 Smaato, Inc. (“Smaato,” “we,” “our,” or “us”) provides this privacy policy to explain how we collect, use, and share information. This privacy policy (“Policy”) covers Smaato’s handling of two types of information: 
 
@@ -196,7 +196,7 @@ We do not currently recognize or respond to browser-initiated Do-Not-Track signa
 
 ## 11\. PRIVACY SHIELD
 
-As a business under the jurisdiction of the Federal Trade Commission, Smaato has certified with the Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union member countries and Switzerland. Smaato certifies that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Consistent with these principles, where Smaato uses service providers to process personal data of European Union or Swiss residents, Smaato shall remain liable where the agent processes such personal data of European Union or Swiss residents in a manner inconsistent with the Privacy Shield Principles, except where Smaato establishes that Smaato is not responsible for the damages caused by the agent. To learn more about the Privacy Shield Framework, and to view the list of entities who have current certifications under the Privacy Shield, please visit this [page](https://www.privacyshield.gov/list). 
+As a business under the jurisdiction of the Federal Trade Commission, Smaato has certified with the Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union member countries and Switzerland. Smaato certifies that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Consistent with these Principles, where Smaato uses service providers to process personal data of European Union or Swiss residents, Smaato shall remain liable where the agent processes such personal data of European Union or Swiss residents in a manner inconsistent with the Privacy Shield Principles, except where Smaato establishes that Smaato is not responsible for the damages caused by the agent. To learn more about the Privacy Shield framework, and to view the list of entities who have current certifications under the Privacy Shield, please visit this [page](https://www.privacyshield.gov/list). 
 
 If you have any questions or complaints about Smaato’s privacy practices, you may contact Smaato at the contact information in Section 13 below, entitled “Contacting Us,” and we will work with you to resolve your issue. If you are a resident of the European Union or Switzerland, you may also contact your appropriate European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner, respectively, with questions or complaints about our privacy practices. 
 
@@ -204,7 +204,9 @@ If you are a resident of the European Union or Switzerland and are dissatisfied 
 
 <https://www.jamsadr.com/eu-us-privacy-shield>
 
-Residents of the European Union who have unresolved complaints after: (1) contacting Smaato to resolve the issue; (2) seeking assistance from our independent recourse mechanism; and (3) contacting the U.S. Department of Commerce (either directly or through a European Data Protection Authority) and affording the Department of Commerce time to attempt to resolve the issue, may elect to invoke binding arbitration for certain claims. Claims shall be arbitrated free of charge by our arbitration provider, JAMS, though each party shall be responsible for its own attorneys’ fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles. 
+Claims shall be arbitrated free of charge by our arbitration provider, JAMS, though each party shall be responsible for its own attorneys’ fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles. 
+
+Under certain conditions, residents of the European Union and Switzerland who have unresolved complaints after: (1) contacting Smaato to resolve the issue; (2) seeking assistance from our independent recourse mechanism; and (3) contacting the U.S. Department of Commerce (either directly or through a European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner) and affording the Department of Commerce time to attempt to resolve the issue, may elect to invoke binding arbitration through the Privacy Shield arbitration process, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). 
 
 ## 12\. CHANGES TO THIS PRIVACY POLICY
 
