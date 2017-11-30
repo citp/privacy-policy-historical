@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackbaud.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222907id_/https%3A//www.blackbaud.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbaud.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130054414id_/https%3A//www.blackbaud.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Blackbaud
 
@@ -80,12 +80,12 @@ Blackbaud may update this Policy at any time and from time to time and we will p
 
 If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Blackbaud, Inc., 2000 Daniel Island Drive, Charleston, SC, 29492-7541, USA or at [webmaster@blackbaud.com](mailto:webmaster@blackbaud.com).
 
-Last updated September 28, 2016
+Last updated August 1, 2017
 
 ## Blackbaud Privacy Shield Notice
 
 ### Privacy Shield
 
-This is a United States-based website and is subject to United States law. Laws related to Personal Data vary by country. For example, Personal Data collected in the European Union is subject to laws based on the European Union Data Protection Directive. Blackbaud, its subsidiaries, and its affiliates are certified under the EU-U.S. Privacy Shield framework and the U.S.-Swiss Safe Harbor framework regarding the collection, storage, transfer, use and other processing of Personal Data transferred from the European Union and Switzerland, respectively, to the United States.
+This is a United States-based website and is subject to United States law. Laws related to Personal Data vary by country. For example, Personal Data collected in the European Union is subject to laws based on the European Union Data Protection Directive. Blackbaud, its subsidiaries, and its affiliates are certified under the EU-U.S. Privacy Shield framework and the Swiss-U.S. Privacy Shield Framework regarding the collection, storage, transfer, use and other processing of Personal Data transferred from the European Union and Switzerland, respectively, to the United States.
 
 [Click here](https://www.blackbaud.com/privacy-shield) to view our Privacy Shield Notice
