@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyedition.press privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112834id_/http%3A//dailyedition.press/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyedition.press privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130224518id_/http%3A//dailyedition.press/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DailyEditionPress
 
@@ -101,4 +101,4 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 **(12) Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by at: info@dailyedition.press
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
