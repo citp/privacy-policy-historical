@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the latamdate.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105053id_/http%3A//www.latamdate.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latamdate.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130214004id_/http%3A//www.latamdate.com/help/privacy.php) for the most accurate reproduction.*
 
-# Personal Privacy And Data Disposal Policy| LatamDate.com
+# Privacy Policy - See How to Protect Yourself When Dating on Latamdate.com.
 
 The [Qpid Network Privacy Policy](https://secure.qpidnetwork.com/help/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use LatamDate.com. The following describes our privacy practices that are specific to LatamDate.com.
 
@@ -16,7 +16,7 @@ This Privacy Policy applies to your use of LatamDate. In addition, where more de
 
   
 
-  1. **About LatamDate and Your Information We Collect**
+  1. **1\. About LatamDate and Your Information We Collect**
 
 LatamDate provides you with access to rich collection of resources, including without limitation various communication tools, products, contents, software, forums, services through its network of web sites (collectively "Services"). In order to provide a full range of services, we may ask you to create an LatamDate Account (the “Account”) to be our member. In the course of these various offerings, we often seek to collect from you various forms of personal information. We may ask you to create a Personal Profile and it generally includes three sets of information :
 
@@ -27,27 +27,27 @@ b) Additional Information
 You may elect to include your additional information, such as your height, weight, smoker or not, alcoholic or not, native / spoken language(s), education level, religion, profession, whether have children or not, current income range, your marital status, your ideal match age range. You may also include other content, such as a narrative description of yourself and photo(s). This information is stored on our systems, and may be displayed in your public profile on LatamDate, or included in any communication between Members sent via LatamDate and other Qpid Network Sites.
 
 c) Contact Information  
-It consists of your email address, your postal address such as street address, city, state/province, residence country as well as postal code. Your telephone or fax number are required when filling in the registration form. Contact information will not be shown on your profile or other public places.
+It consists of your email address, your postal address such as street address, city, state/province, residence country as well as postal code. Contact information will not be shown on your profile or other public places.
 
-  2. **How We Use Your Information**
+  2. **2\. How We Use Your Information**
 
 We may use the information you provide about yourself to fulfill your requests for our Services, to respond to your inquiries about our offerings, to offer you other products or services that we believe may be of interest to you, to enforce the legal obligations that govern your use of our Site, to identify problems, to resolve complaint, disputes and/or for the purposes for which you provided the information.
 
 You agree that we may use your information to improve our marketing and promotional efforts, to analyze the web site usage, improve our content and product offerings, and customize LatamDate's content, layout, and services. These uses can help us improve our Site and better tailor it to meet your needs.
 
-  3. **Cookies and Historical Information**
+  3. **3\. Cookies and Historical Information**
 
 Each time you access the Services, various information is gathered automatically, such as: domain, computer platform, browser type, IP address and place of origin. We gather this information in order to administer and optimize the Services for you and to diagnose problems with our Services and enhance your user experience.
 
-  4. **Your Card Details**
+  4. **4\. Your Card Details**
 
 If you pay by card online, to protect your privacy we engage highly secured industry order processing provided by third-party billing companies such as PayPal. Those companies we cooperate enjoy good reputation and reliability in the industry of its kind. With use of the third-party card processors, your card information is processed through secure server(s), and transferred internally with the protection of powerful encryption tool available. Your customer details will not be sold or made available to anyone else and your card details are only known by our order processors.
 
-  5. **Communications**
+  5. **5\. Communications**
 
 If you send us personal correspondence, such as emails or letters, or if other LatamDate members or third parties send us correspondence about your activities or postings on LatamDate, we may collect such information that is accessed only by authorized LatamDate personnel or representatives. We may also collect other members' comments about you.
 
-  6. **Our Disclosure and/or Shared Use of Your Information**
+  6. **6\. Our Disclosure and/or Shared Use of Your Information**
 
 Under no circumstance will LatamDate sell or transfer for monetary gains your information to any unrelated third party without your permission, but we may disclose your information to affiliates or unaffiliated third parties if we believe in good faith that such disclosure is necessary: (a) to comply with the law or in response to a subpoena, court order, government administrative request or other due process; (b) to protect the interests, rights, safety, or property of LatamDate or others; (c) to enforce any terms of service of LatamDate; (d) to provide you with the services or products requested by you, and to perform other activities related to such services and products, including billing and collection; (e) to provide you with information, special offers, or promotions from LatamDate to which you consented. LatamDate makes reasonable efforts to limit its designated service providers' disclosure of your information in the same manner as set forth in this paragraph.
 
@@ -55,29 +55,29 @@ Further use and/or disclosure of your information by third parties is not the re
 
 As your LatamDate Account is inter-linked with all our member sites (which means you can activate multiple memberships on those sites when you successfully obtain an Account), we may also share your information with those Sites when they are interested in serving you. You may notify us of your membership preferences any time in our member account settings area. Unless and until you choose to opt-out your membership on LatamDate, your information may be used by LatamDate for providing goods and services to you.
 
-  7. **Updating Your Information**
+  7. **7\. Updating Your Information**
 
 If you want to update or correct inaccuracies in your information, you can login to your account and modify it any time on your own initiative. In the unlikely event of certain information items you do not manage to update through our system, please contact our Customer Support Team for assistance.
 
-  8. **Deleting Your Account**
+  8. **8\. Deleting Your Account**
 
-Gentleman members can require account deletion through submitting email request to our customer service team, specifying whether account deletion of LatamDate or account deletion of the Qpid Network is needed. When LatamDate account is deleted, members will not be able to log into LatamDate and/or check usage history. When the Qpid Network account is deleted, members will not be able to log into all member sites under Qpid Network and use our Services any more.
+Members can require account deletion through submitting email request to our customer service team, specifying whether account deletion of LatamDate or account deletion of the Qpid Network is needed. When LatamDate account is deleted, members will not be able to log into LatamDate and/or check usage history. When the Qpid Network account is deleted, members will not be able to log into all member sites under Qpid Network and use our Services any more.
 
-  9. **Technical and/or Operational Security**
+  9. **9\. Technical and/or Operational Security**
 
 We respect and recognize that personal data are vulnerable to security breach which, if taken place, may cause annoyance or even damages to you (conversely, our business reputation), thus we take reasonably practical measures to protect your personal data. However, given the realistic limitations (e.g. costs / timely delivery of security measures) and rapid revolution of technology, there is always the risk of such breach in which event we cannot be held liable.
 
 LatamDate has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. We use industry standard efforts to safeguard the confidentiality of your personal identity information such as encryption tools, secure server and firewall. While "absolutely fail-safe security" does not exist, our technical experts work hard to ensure your secure use of our services.
 
-  10. **Cross-border Transfer of Personal Information**
+  10. **10\. Cross-border Transfer of Personal Information**
 
 Some of the uses and disclosures mentioned in this Policy may involve the transfer of your information to various areas around the world that may have levels of privacy protection different from that of your residence country. By submitting your information via LatamDate, you consent to such cross-border transfers notwithstanding the restrictions imposed by applicable law / rule / regulation to the contrary.
 
-  11. **Links To Third-Party Websites**
+  11. **11\. Links To Third-Party Websites**
 
 LatamDate may provide links to third-party websites. Since we do not control third-party sites and are not responsible for any information you may provide while on such sites, we encourage you to read the privacy policies on those web sites before providing any of your personal information on such sites.
 
-  12. **Your Agreement to This Policy**
+  12. **12\. Your Agreement to This Policy**
 
 By using LatamDate Services, you understand that this Policy applies solely to information collected by LatamDate, and you agree to the collection, processing, retention and disposal of your information by LatamDate as outlined herein.
 
