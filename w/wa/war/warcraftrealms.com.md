@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warcraftrealms.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615092520id_/http%3A//warcraftrealms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcraftrealms.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130171951id_/http%3A//warcraftrealms.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WarcraftRealms.com
 
