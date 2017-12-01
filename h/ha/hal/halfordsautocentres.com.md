@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfordsautocentres.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625015251id_/http%3A//www.halfordsautocentres.com/advice/terms-and-conditions/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfordsautocentres.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201154122id_/http%3A//www.halfordsautocentres.com/advice/terms-and-conditions/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy Policy | Halfords Autocentre
 
