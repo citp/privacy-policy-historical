@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piano-keyboard-guide.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044417id_/http%3A//www.piano-keyboard-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piano-keyboard-guide.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201135736id_/http%3A//www.piano-keyboard-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Piano Keyboard Guide.com Privacy Policy
 
