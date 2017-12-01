@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the facultyplus.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616101518id_/http%3A//www.facultyplus.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facultyplus.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201075809id_/http%3A//www.facultyplus.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FacultyPlus
-
-##  [Privacy Policy](http://www.facultyplus.com/p/privacy-policy.html)
-
-  
-
 
 **PRIVACY POLICY  **
 
