@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatamericandaily.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615082536id_/http%3A//greatamericandaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatamericandaily.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201021742id_/http%3A//greatamericandaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Great American Daily
 
@@ -54,6 +54,6 @@ This policy may be changed at any time at our discretion. If we should update th
 
 If you have any questions or concerns regarding our privacy policy please direct them to:
 
-[info@GreatAmericanDaily.net](mailto:info@GreatAmericanDaily.net)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#533a3d353c131421363227123e36213a30323d17323a3f2a7d3d3627)
 
 Copyright 2014 [Great American Daily](http://greatamericandaily.com/) All Rights Reserved
