@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel-online.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111557id_/http%3A//hotel-online.com/legal/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel-online.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201024204id_/http%3A//hotel-online.com/legal/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hotel Online
 
@@ -78,4 +78,4 @@ Info@hotel-online.com
 
 678-802-5308
 
-[](http://hotel-online.com/?ACT=27&ad_id=189)
+[](http://www.hotel-online.com/?ACT=27&ad_id=189)
