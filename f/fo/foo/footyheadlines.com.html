@@ -1,20 +1,36 @@
-<!--The following is the downloaded HTML source of the footyheadlines.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606160342id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footyheadlines.com privacy policy that was archived on 2017-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171201070812id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><!--6.0;http://2.bp.blogspot.com/-uS_zy1nlbKI/UidDAaTk5iI/AAAAAAAAVSM/clIIzrem-7g/s1600/current_2.jpg;http://www.peseditblog.com/2013/09/peseditcom-2013-patch-60-coming-soon.html?currentnew--><!---4.4;http://1.bp.blogspot.com/-_H-7G2mURHg/U4nr1Skm69I/AAAAAAAAXw4/CgMuta8mfCQ/s1600/current.jpg;http://www.peseditblog.com/2014/05/pesedit-com-2014-patch-4-4-released.html?SelO--><!--|86;-;First PES 2016 Trailer Released;http://www.peseditblog.com/2015/06/pes-2016-teaser-trailer-revealed.html?selo--><!--|87;-;Neymar Announced as PES 2016 Cover Star;http://www.peseditblog.com/2015/06/neymar-announced-as-pes-2016-cover-star.html?selo--><head>
-<noscript>
+<!DOCTYPE html><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><!--6.0;http://2.bp.blogspot.com/-uS_zy1nlbKI/UidDAaTk5iI/AAAAAAAAVSM/clIIzrem-7g/s1600/current_2.jpg;http://www.peseditblog.com/2013/09/peseditcom-2013-patch-60-coming-soon.html?currentnew--><!---4.4;http://1.bp.blogspot.com/-_H-7G2mURHg/U4nr1Skm69I/AAAAAAAAXw4/CgMuta8mfCQ/s1600/current.jpg;http://www.peseditblog.com/2014/05/pesedit-com-2014-patch-4-4-released.html?SelO--><!--|86;-;First PES 2016 Trailer Released;http://www.peseditblog.com/2015/06/pes-2016-teaser-trailer-revealed.html?selo--><!--|87;-;Neymar Announced as PES 2016 Cover Star;http://www.peseditblog.com/2015/06/neymar-announced-as-pes-2016-cover-star.html?selo--><head>
+<script id="facebook-jssdk" src="//connect.facebook.net/de_DE/sdk.js#xfbml=1&amp;version=v2.8"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 //<![CDATA[
 /*
 <!-- <head>
-<link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/58827200-widget_css_bundle.css' />
+<link href='https://www.blogger.com/static/v1/widgets/3332739511-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
  -->
 */
 //]]>
-</noscript>
+</script>
 
 <meta content="initial-scale = 1, user-scalable = no" name="viewport">
-<script id="facebook-jssdk" src="//connect.facebook.net/de_DE/sdk.js#xfbml=1&amp;version=v2.8"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<meta content="4eae76bab3c458991f2b98229d3a63fe77864583" name="tradetracker-site-verification">
+<script type="text/javascript">
 //<![CDATA[
+
+var nativeAds;
+
+if (typeof Array.prototype.forEach != 'function') {
+    Array.prototype.forEach = function(callback){
+      for (var i = 0; i < this.length; i++){
+        callback.apply(this, [this[i], i, this]);
+      }
+    };
+}
+
+(function () {
+    if ( typeof NodeList.prototype.forEach === "function" ) return false;
+    NodeList.prototype.forEach = Array.prototype.forEach;
+})();
 
 var windowWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
 var mobile = 0;
@@ -24,6 +40,17 @@ if (windowWidth <= 450) {
 var push_enabled = false;
 
 Array.prototype.indexOf||(Array.prototype.indexOf=function(r,t){var n;if(null==this)throw new TypeError('"this" is null or not defined');var e=Object(this),i=e.length>>>0;if(0===i)return-1;var a=+t||0;if(Math.abs(a)===1/0&&(a=0),a>=i)return-1;for(n=Math.max(a>=0?a:i-Math.abs(a),0);i>n;){if(n in e&&e[n]===r)return n;n++}return-1});
+
+Array.prototype.move = function (old_index, new_index) {
+    if (new_index >= this.length) {
+        var k = new_index - this.length;
+        while ((k--) + 1) {
+            this.push(undefined);
+        }
+    }
+    this.splice(new_index, 0, this.splice(old_index, 1)[0]);
+    return this; // for testing purposes
+};
 
 function adjustImage(image, slide) {
     var width = 738;
@@ -153,9 +180,11 @@ function removeHtmlTag(strx,chop) {
 	return strx+'...'; 
 }
 
-function createSummary(pID){
+function createSummary(pID, summ){
+
+summ = summ || 280;
+
 var div = document.getElementById(pID);
-var summ = 280;
 	
 var summary = removeHtmlTag(div.innerHTML,summ);
 div.innerHTML = summary;  
@@ -169,7 +198,17 @@ if (windowWidth <= 450) {
 	str = "/w400-h205-c/";
 }
 
-el.src = postThumb.replace('/s72-c/',str); 
+//el.src = postThumb.replace('/s72-c/',str); 
+el.dataset.src = postThumb.replace('/s72-c/',str); 
+}
+
+function createThumbWithSize(pid, postThumb, size, sizeSmall) {
+	var el = document.getElementById(pid);
+	if (windowWidth <= 450) {
+		size = sizeSmall;
+	}
+	//el.src = postThumb.replace('/s72-c/', '/' + size + '/'); 
+	el.dataset.src = postThumb.replace('/s72-c/', '/' + size + '/'); 
 }
 
 function trimBr(string) {
@@ -206,6 +245,10 @@ function insertAfter(newNode, referenceNode) {
     referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
 }
 
+	function resizeIframe(obj) {
+	obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+	}
+
 function PostAds() {
 	var noAds = false;
     var div0 = document.getElementById("summary_0");
@@ -219,31 +262,36 @@ function PostAds() {
         var strx1 = "",
             strx2 = "",
             strx3 = "",
-			strx4 = "";
+			strx4 = "",
+			strx0bu = strx0;
         var firstAd = 0;
 
         var s = strx0.split("<br>");
         strx0 = "";
-		
-		//console.log(s);
 
         var temp = 0;
         var firstMobileAd = 1;
 
         for (var i = 0; i < s.length; i++) {
 
-            if (i == 1 && windowWidth < 850 & firstMobileAd == 1) {
-                if (s[i + 1].indexOf("img") < 0 && s[i + 1].indexOf("gettyimages.com") < 0 && s[i + 1].indexOf("video-container")) {
-                    firstAd++;
-                } else
-                    firstMobileAd = 3;
-            }
+			//first ad
+			if (firstAd == 0) {
+				//put first ad below first paragraph (mobile), unless image block is following immediately afterwards
+				if (windowWidth < 850 && i == firstMobileAd) {
+					if (s[i + 1].indexOf("img") < 0 && s[i + 1].indexOf("gettyimages.com") < 0 && s[i + 1].indexOf("video-container") < 0 && (s[i+1].indexOf("twitter") < 0 | s[i+1].indexOf("/blockquote") < 0)) {
+						firstAd++;
+						console.log("-1");
+					} else {
+						firstMobileAd = i + 2;
+						console.log("-2");
+					}
+				}
 
-            if (i == 0 && windowWidth > 850) {
-                firstAd++;
-            } else if (i == 3 & firstMobileAd == 3) {
-                firstAd++;
-            }
+				//put first ad before first paragraph (desktop)
+				if (windowWidth > 850 && i == 0) {
+					firstAd++;
+				}
+				}
 
             if (firstAd == 0)
                 strx0 += s[i] + "<br>";
@@ -256,11 +304,15 @@ function PostAds() {
 			else
 				strx4 += s[i] + "<br>";
 
-            if (s[i].indexOf("img") > 0 || s[i].indexOf("table") > 0 || s[i].indexOf("gettyimages.com") > 0 || s[i].indexOf("video-container") > 0) {
-                if (s[i].indexOf("<h2>") > 0 | s[i].indexOf("<h3>") > 0 | (i > 1 && (s[i - 1].indexOf("<h2>") > 0) | s[i-1].indexOf("<h3>") > 0) | (i > 2 && (s[i - 2].indexOf("<h2>") > 0 | s[i-2].indexOf("<h3>")))) {
-                    if (windowWidth <= 850 | firstAd < 3) {
-                        firstAd++;
-                    }
+            if (s[i].indexOf("img") > -1 || s[i].indexOf("table") > -1 || s[i].indexOf("gettyimages.com") > -1 || s[i].indexOf("video-container") > -1 || (s[i].indexOf("twitter") > -1 & s[i].indexOf("/blockquote") > -1)) {
+				//console.log("0");
+                if ((strx0bu.indexOf("<h2>") < 0 & strx0bu.indexOf("<h3>") < 0) | s[i].indexOf("<h2>") > -1 | s[i].indexOf("<h3>") > -1 | (i >= 1 && (s[i-1].indexOf("<h2>") > -1 | s[i-1].indexOf("<h3>") > -1)) | (i >= 2 && (s[i-2].indexOf("<h2>") > -1 | s[i-2].indexOf("<h3>") > -1)) | (i >= 3 && (s[i-3].indexOf("<h2>") > -1 | s[i-3].indexOf("<h3>") > -1)) | (i >= 4 && (s[i-4].indexOf("<h2>") > -1 | s[i-4].indexOf("<h3>") > -1))) {
+					if (s[i].indexOf("hiddenImg") < 0) {
+						if (windowWidth <= 850 | firstAd < 3) {
+							//console.log(s[i]);
+							firstAd++;
+						}
+					}
                 }
             }
         }
@@ -320,7 +372,7 @@ function PostAds() {
             var tempstrx = strx2;
             strx2 = "";
 
-            if (tempstrx.indexOf("img") < 0 && tempstrx.indexOf("gettyimages.com") < 0 && tempstrx.indexOf("table") < 0 && tempstrx.indexOf("video-container") < 0) {
+            if (tempstrx.indexOf("img") < 0 && tempstrx.indexOf("gettyimages.com") < 0 && tempstrx.indexOf("table") < 0 && tempstrx.indexOf("video-container") < 0 && (tempstrx.indexOf("twitter") < 0 | tempstrx.indexOf("/blockquote") < 0)) {
                 for (var i = 0; i < s.length; i++) {
                     if (i < (s.length / 3)) {
                         strx2 += s[i] + "<br>";
@@ -691,7 +743,7 @@ display: none;
 }
 .post.video .video-icon {
 display: block;
-background-image: url(http://i.imgur.com/mCXMyjd.png);
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAQAAADbJyoPAAAF30lEQVR4XrXa62+W5R3A8c9998ih9ETtEEWgXaEUVAoyZuq2mGXAYCwODVMWFvTNBKbOGOKcsINoQhZjxIHb4oIMGYfJIkuGsC0moq5RwFVOlnJotyFyKFSoFFra3luy9EUT+vTpc/jc/8A31329un6/QAKiQKkbFStWJFuOXIFOV7U573+fU84GkbhEABhgTDREpbFGGyy2y5ocVx+0pSUmClSYolwofl2O+tDRIEphTJThNjWKJKbZez4KuvuPCfUrqrDE3N4pLbZbbp5qoxXJkKnIGNXmWeHPPtPLcN+2JCrXr0BMUYGZxgNAg9fsUKdL3zJUm2WhMr0ctiu4mPBviiabKQegwya/UStegTv9wHxZALT7S7A/gZgo0xy3A3T6nZVOGrhbLLdICMCHdgSdA4qJhnjASIBai9VJ3FRr3QHAv20O2uK+wFGBh4wE2ixVk1QKe033qKsAozwYDYvzAkcFFskHjpjnkNS41TblABe8Glzq92SiIRbKB/7uSylLYb9p3gYosiDKBX3HRFnuVwRsMdtFqdTiG7YDlJofZcSMMcNNwFYLdEi1Dvd5A2CMb8a4M9FE9wJvmaVDemR7090A2xy47slEhb4FNPhO2lLocK8TALMNu26MOXKgzT0uSqcW87QDuWZcJyaaoAxY5rB0q/MkQJWy3jGi0NeBWmulH6vVAswS9ooxURF0WSzSt4cMlRrdFusChpsEhBAF7gJeUSeWFZo8JU8q1NkIUCOAEFQogQ4r9afYs5o8bZjkPacbKDEWQnA7sNlJ8SjyjCYr5EvOEdvQU0BINMgXgZfEr9DPNfmZQslYAzBeDiEmyIQD9hqYAj/V6BeKJGq3JiBLJSHGAVskIt9yjVYqlojIRoAywih0C/CmRA3zE42eM9zA7QAYTegLcuCCOsnI82ONVikxMHu0AnlKQiOAt3VL1lDLNPqlG8TvmncBRoZKgX1SY4gnNHpeqXjtB7ghVAgcljqDPa7RC0aIRz1AUagAOCG1BnnMcS8aqT8NAPmhwcAFqTfII455yU1iOQswJJQLXJIeuZY6Zo2b9aUVIDuUAbRKnxyLHfOy0tgxWaFI+uGE3c6JqTvUDuRJnyO+p8om3a4nD6C9J0a+9GiwUJWNuiF2TEdPjEKpd8z3VdmgSyylAO2hi0CZ1DphkUq/16k/FQAXM7UAlVKnybPWuyY+4wAuZDoDTJUa//KcV3WI320AZ0KfAl+VIVn/8bAKvx1QSpYagE9Cp7VDocmScdIS5X6tw8BMMxRo1RwG3ZqAmRL1iR8qt1aHgZsN0EiIBmC+RJzyqHK/0i4RoQUAxwlxWCdMdIeBOe0x5Va7KlFfMQq4pp6Q4IoGYKn4nfG4sV50RTKWAnysnRDUAd81SjzOesJYLyQZQqV7AD6CEBx1FrI9rT/NnjTW89ok7ykhcM4JCCGIvAM8qFoszxhjlctSodoDAO+IIAQc0gwZXhbq2ys+lxoZ1ug5FweBEAi67QKmWSL9+JHpADt094ohOOpjYJVJ0q3aswAHNNI7Bna6CoP8Sb50KrFNNnDFX/t6lK5yX/ofpXO85U6A1x3sY3YQHLIHuNsfZEiHbK/3pLAnOEgfMdjlJDDPH2VLtVzbzAFotJMYMUGnTc4D99ilUCoN9zdzAE7bEnTFjCG4bL3PgK/5wK1SZbp9agDO2xBcJXYMgkvWaQbKve8RoWRlWma3UQCnrQsuxz3Xjga7380Aez1sr8RNt9ZkABptDtrjn/gL2qz3AcBU71unQiIqbfCeyQCRWq8F7QlM/KMqc+UAdNtqtVrxCtVYap4QgKveCOoTXsyI8s0wAQDqbbXdP0UxM6aYa6FRejloV9BKwjEQlZulWC/N/uGQI+qd8rkWgQJ5bjTeOJN8WZHenLUzOJGalZXQBHcplZhPvetwEKV2mafcFF+UIX5dGuxzPIjSs+Y02DhlRhsqtlZNjjsSXAHSEgNEgRIjDFeswCA5stChwxUt/18AC84BDCTmv54Nvx3HlS1/AAAAAElFTkSuQmCC);
 width: 70px;
 height: 70px;
 position: absolute;
@@ -718,7 +770,12 @@ margin-bottom: 0;
 .ad {
 margin: 20px 0;
 }
-.post-body a[href], .g-profile {
+/* 404 error page */
+.error-message {
+background: white;
+padding: 40px;
+}
+.post-body a[href], .g-profile, .error-message a {
 border-bottom: 1px solid #999;
 z-index: 1;
 position: relative;
@@ -727,12 +784,12 @@ ulul.league-table a[href], .worldcup-table a[href] {
 border: none;
 text-decoration: underline;
 }
-.post-body a[href*="bp.blogspot.com"] {
+.post-body a[href*="bp.blogspot.com"], .post-body a.image-link, .post-body a[href$=".png"], .post-body a[href$=".jpg"] {
 border: none;
 z-index: 0;
 font-size: 0;
 }
-.post-body a:hover, .g-profile:hover {
+.post-body a:hover, .g-profile:hover, .error-message a:hover {
 border-color: #252525;
 }
 /* ads */
@@ -1744,6 +1801,7 @@ transition: all 100ms ease-out;
 -moz-transition: all 100ms ease-out;
 -o-transition: all 100ms ease-out;
 box-sizing: content-box;
+font-size: 0;
 }
 .headerbar-2-container.closed, .tabs-hidden .headerbar-2-container {
 max-height: 0;
@@ -1774,6 +1832,7 @@ overflow: hidden;
 float: left;
 list-style: none;
 position: relative;
+font-size: 16px;
 }
 .headerbar-2 li:before, .headerbar-2 li:last-child:after {
 content: "";
@@ -2075,6 +2134,14 @@ border: none;
 .post.index img {
 margin: 0;
 padding: 0;
+}
+.post-img {
+width: 780px;
+height: 400px;
+}
+.smaller .post-img, .mszobr .post-img {
+width: 200px;
+height: 200px;
 }
 #blog-pager-newer-link {
 float: left;
@@ -2503,8 +2570,24 @@ border: none !important;
 .buy-now-button:hover {
 background-color: #ff9d47;
 }
-.buy-now-icon {
-background: url("http://www.footballbootsdb.com/shopping-cart.png");
+.link-highlighted {
+padding: 8px;
+border-radius: 5px;
+background: #ff881f;
+line-height: 1;
+color: #fff;
+text-decoration: none;
+display: inline-block;
+font-weight: bold;
+transition: all 100ms ease-out;
+-webkit-transition: all 100ms ease-out;
+-moz-transition: all 100ms ease-out;
+-o-transition: all 100ms ease-out;
+border: none !important;
+}
+.buy-now-button:before {
+content: "";
+background: url("https://3.bp.blogspot.com/-XwwxrGkfWg8/WhVXzvk9iEI/AAAAAAABXcM/KBFRpdOi0Rki49myzHgKT6DeDj8pwgZIQCLcBGAs/s1600/shopping-cart.png");
 background-size: contain;
 width: 16px;
 height: 16px;
@@ -2516,6 +2599,9 @@ color: #fff;
 }
 /*responsive 1024px*/
 @media (max-width:1180px){
+.post-img {
+height: auto;
+}
 #homeButtonNF img{
 width: 62px;
 }
@@ -2653,21 +2739,24 @@ padding-left: 18px;
 .post-meta-el-container:hover .post-shares, .post-meta-el-container:hover .post-comments, .post-meta-el-container:hover .post-time {
 color: #252525;
 }
-.mszobr .post-img-container {
+.mszobr .post-img-container, .post.smaller .post-img-container {
 width: 200px;
 float: left;
 margin-right: 20px;
 }
-.mszobr .post-info {
-margin: 0;
+.mszobr .post-info, .post.smaller .post-info {
+margin: 10px;
 }
-.mszobr .post-title.entry-title {
+.mszobr .post-title.entry-title, .post.smaller .post-title.entry-title {
+font-size: 20px;
 margin-top: 0;
 }
+/*
 .post.index.mszobr {
 padding: 10px;
 border-radius: 5px;
 }
+*/
 .icon-shares, .icon-comments, .icon-time, .icon-time-item {
 height: 14px;
 display: block;
@@ -2948,6 +3037,7 @@ background-size: 512px;
 display: block;
 float: left;
 width: 33.3333333%;
+width: calc(100% / 3);
 padding: 10px 0;
 margin: 0;
 }
@@ -3510,7 +3600,6 @@ width: auto;
 }
 .headerbar-2 li {
 margin: 0;
-margin-right: -4px;
 padding: 0;
 float: none;
 display: inline-block;
@@ -3904,7 +3993,7 @@ padding: 0 0 10px 0;
 background: #FFFFFF;
 }
 */
-.post-info {
+.post-info, .mszobr .post-info, .post.smaller .post-info {
 margin: 10px;
 }
 .post-img-container {
@@ -3912,10 +4001,31 @@ max-height: 210px;
 overflow: hidden;
 margin: 0;
 }
+.mszobr .post-info {
+margin: 10px;
+}
+.post.smaller .post-img-container {
+width: 144px;
+margin-right: 10px;
+}
+.post.smaller .post-img {
+width: 144px;
+height: 144px;
+}
+.post.smaller .post-title.entry-title {
+font-size: 15px;
+}
+.post.smaller .post-shares, .post.smaller .post-comments, .post.smaller .post-time {
+font-size: 14px;
+}
 .mszobr .post-img-container {
 width: auto;
 float: none;
 margin-right: 0;
+}
+.mszobr .post-img {
+width: 100%;
+height: auto;
 }
 .mszobr .post-title.entry-title {
 margin-top: 12px;
@@ -4126,17 +4236,17 @@ border-right: none;
 }
 
 --></style>
-</head>
-<body class="loading" tabindex="0"><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#null" data-cc-event="click:dismiss" class="cc_btn cc_btn_accept_all">Got it!</a><p class="cc_message">This website uses cookies to ensure you get the best experience. <a data-cc-if="options.link" class="cc_more_info" href="http://www.footyheadlines.com/p/privace-policy.html">More info</a></p></div></div><noscript>
+<script>
 //<![CDATA[
 /*
-<!-- <link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7535398437004525886&amp;zx=d296bbd8-7474-4e62-bc7f-704fab6ed32d' rel='stylesheet'/>
+<!-- <link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7535398437004525886&amp;zx=6d982c30-002b-4bfd-b700-02eeeb8c3342' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7535398437004525886&amp;zx=6d982c30-002b-4bfd-b700-02eeeb8c3342' rel='stylesheet'/></noscript>
 </head> -->
 */
 //]]>
-</noscript>
+</script>
+</head>
 
-
+<body class="loading" tabindex="0"><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#null" data-cc-event="click:dismiss" class="cc_btn cc_btn_accept_all">Got it!</a><p class="cc_message">This website uses cookies to ensure you get the best experience. <a data-cc-if="options.link" class="cc_more_info" href="http://www.footyheadlines.com/p/privace-policy.html">More info</a></p></div></div>
 <div id="outer-wrapper">
 <div id="main-wrapper">
 <div class="header section" id="header"><div class="widget Header" data-version="1" id="Header1">
@@ -4148,58 +4258,59 @@ border-right: none;
 <li class="mobile-yes mobile-language-select">
 <a>Select language</a>
 <ul>
-<li><a alt="Footy Headlines" href="http://www.footyheadlines.com/">English</a></li>
-<li><a alt="Footy Headlines ES" href="http://es.footyheadlines.com/">Español</a></li>
-<li><a alt="Footy Headlines FR" href="http://fr.footyheadlines.com/">Français</a></li>
-<li><a alt="Nur Fussball" href="http://www.nurfussball.com/">Deutsch</a></li>
+<li><a href="http://www.footyheadlines.com/">English</a></li>
+<li><a href="http://es.footyheadlines.com/">Español</a></li>
+<li><a href="http://fr.footyheadlines.com/">Français</a></li>
+<li><a href="http://www.nurfussball.com/">Deutsch</a></li>
 </ul>
 </li>
-<li><a href="/search/label/Balls?max-results=8">Balls</a></li>
-<li><a href="/search/label/Boots?max-results=8">Boots</a>
+<li><a href="/search/label/Balls?max-results=20">Balls</a></li>
+<li><a href="/search/label/Boots?max-results=20">Boots</a>
 <div class="nav2-outer">
 <div class="nav2-container">
 <ul class="nav2">
-<li><a href="/search/label/adidas+Boots?max-results=8">Adidas</a>
+<li><a href="/search/label/adidas+Boots?max-results=20">Adidas</a>
 <ul class="nav3">
-<li><a href="/search/label/Adidas Ace?max-results=8">Ace</a></li>
-<li><a href="/search/label/Adidas X?max-results=8">X</a></li>
-<li><a href="/search/label/Copa+Boots?max-results=8">Copa</a></li>
-<li><a href="/search/label/Messi+Boots?max-results=8">Messi</a></li>
-<li><a href="/search/label/Glitch?max-results=8">Glitch</a></li>
-<li><a href="/search/label/Gloro?max-results=8">Gloro</a></li>
+<li><a href="/search/label/Predator?max-results=20">Predator</a></li>
+<li><a href="/search/label/Adidas Ace?max-results=20">Ace</a></li>
+<li><a href="/search/label/Adidas X?max-results=20">X</a></li>
+<li><a href="/search/label/Adidas Nemeziz?max-results=20">Nemeziz</a></li>
+<li><a href="/search/label/Copa+Boots?max-results=20">Copa</a></li>
+<li><a href="/search/label/Glitch?max-results=20">Glitch</a></li>
 </ul>
 </li>
-<li><a href="/search/label/Nike+Boots?max-results=8">Nike</a>
+<li><a href="/search/label/Nike+Boots?max-results=20">Nike</a>
 <ul class="nav3">
-<li><a href="/search/label/Hypervenom?max-results=8">Hypervenom</a></li>
-<li><a href="/search/label/Magista?max-results=8">Magista</a></li>
-<li><a href="/search/label/Mercurial?max-results=8">Mercurial</a></li>
-<li><a href="/search/label/Tiempo?max-results=8">Tiempo</a></li>
-<li><a href="/search/label/NikeFootballX?max-results=8">FootballX</a></li>
+<li><a href="/search/label/Hypervenom?max-results=20">Hypervenom</a></li>
+<li><a href="/search/label/Magista?max-results=20">Magista</a></li>
+<li><a href="/search/label/Mercurial?max-results=20">Mercurial</a></li>
+<li><a href="/search/label/Tiempo?max-results=20">Tiempo</a></li>
+<li><a href="/search/label/Nike%20Flyknit%20Ultra?max-results=20">Flyknit Ultra</a></li>
+<li><a href="/search/label/FootballX?max-results=20">FootballX</a></li>
 </ul>
 </li>
-<li><a href="/search/label/Puma+Boots?max-results=8">Puma</a>
+<li><a href="/search/label/Puma+Boots?max-results=20">Puma</a>
 <ul class="nav3">
-<li><a href="/search/label/evoSPEED?max-results=8">evoSPEED</a></li>
-<li><a href="/search/label/evoTOUCH?max-results=8">evoTOUCH</a></li>
-<li><a href="/search/label/evoPOWER?max-results=8">evoPOWER</a></li>
-<li><a href="/search/label/King?max-results=8">King</a></li>
+<li><a href="/search/label/Puma%20ONE?max-results=20">ONE</a></li>
+<li><a href="/search/label/Future?max-results=20">Future</a></li>
+<li><a href="/search/label/evoPOWER?max-results=20">evoPOWER</a></li>
+<li><a href="/search/label/King?max-results=20">King</a></li>
 </ul>
 </li>
 <li class="mobile-no"><span>Others</span>
 <ul class="nav3">
-<li><a href="/search/label/Mizuno+Boots?max-results=8">Mizuno</a></li>
-<li><a href="/search/label/Umbro+Boots?max-results=8">Umbro</a></li>
-<li><a href="/search/label/New Balance+Boots?max-results=8">New Balance</a></li>
-<li><a href="/search/label/Under Armour+Boots?max-results=8">Under Armour</a></li>
-<li><a href="/search/label/Boot Watch?max-results=8">Boot Watch</a></li>
-<li><a href="/search/label/Lifestyle?max-results=8">Lifestyle</a></li>
+<li><a href="/search/label/Mizuno+Boots?max-results=20">Mizuno</a></li>
+<li><a href="/search/label/Umbro+Boots?max-results=20">Umbro</a></li>
+<li><a href="/search/label/New Balance+Boots?max-results=20">New Balance</a></li>
+<li><a href="/search/label/Under Armour+Boots?max-results=20">Under Armour</a></li>
+<li><a href="/search/label/Boot Watch?max-results=20">Boot Watch</a></li>
+<li><a href="/search/label/Lifestyle?max-results=20">Lifestyle</a></li>
 </ul>
 </li>
-<li class="nav-more"><a href="/search/label/Boots?max-results=8">All football boots</a></li>
+<li class="nav-more"><a href="/search/label/Boots?max-results=20">All football boots</a></li>
 </ul>
 <a href="/2013/01/2013-boot-calender-updated-11-january.html"><div class="nav-teaser">
-<div><img src="https://4.bp.blogspot.com/-ev-vdk2NIOg/WIHuFBNeg5I/AAAAAAABG2g/4o4B7MCOFrghbUhtD5h_-4DpGV0yE9eSwCLcB/s1600/2016-2017-football-boots.jpg"></div>
+<div><img class="lazyload" data-src="https://4.bp.blogspot.com/-J2_HCQDyeCY/Wg3lZHiM9jI/AAAAAAABXQI/ENcZSTuQsJAJBUaBdZAfHw0-W141K4HwQCLcBGAs/s1600/boot-calendar.jpg"></div>
 <strong>Football Boots Calendar</strong>
 <span>All future boot releases</span>
 </div>
@@ -4208,64 +4319,66 @@ border-right: none;
 </div>
 </li>
 <li class="mobile-no"><a href="/2013/01/2013-boot-calender-updated-11-january.html">Boot Calendar</a></li>
-<li><a href="/search/label/Kits?max-results=8">Kits</a>
+<li><a href="/search/label/Kits?max-results=20">Kits</a>
 <div class="nav2-outer">
 <div class="nav2-container">
 <ul class="nav2">
-<li><a href="/search/label/La Liga+Kits?max-results=8">La Liga</a>
+<li><a href="/search/label/La Liga+Kits?max-results=20">La Liga</a>
 <ul class="nav3">
-<li><a href="/search/label/Atletico+Kits?max-results=8">Atlético</a></li>
-<li><a href="/search/label/FC Barcelona+Kits?max-results=8">FC Barcelona</a></li>
-<li><a href="/search/label/Real Madrid+Kits?max-results=8">Real Madrid</a></li>
-<li><a href="/search/label/Valencia+Kits?max-results=8">Valencia</a></li>
+<li><a href="/search/label/Atletico+Kits?max-results=20">Atlético</a></li>
+<li><a href="/search/label/FC Barcelona+Kits?max-results=20">FC Barcelona</a></li>
+<li><a href="/search/label/Real Madrid+Kits?max-results=20">Real Madrid</a></li>
+<li><a href="/search/label/Valencia+Kits?max-results=20">Valencia</a></li>
 </ul>
 </li>
-<li><a href="/search/label/Premier League+Kits?max-results=8">Premier League</a>
+<li><a href="/search/label/Premier League+Kits?max-results=20">Premier League</a>
 <ul class="nav3">
-<li><a href="/search/label/Arsenal+Kits?max-results=8">Arsenal FC</a></li>
-<li><a href="/search/label/Chelsea+Kits?max-results=8">Chelsea FC</a></li>
-<li><a href="/search/label/Liverpool+Kits?max-results=8">Liverpool FC</a></li>
-<li><a href="/search/label/Manchester City+Kits?max-results=8">Manchester City</a></li>
-<li><a href="/search/label/Manchester United+Kits?max-results=8">Manchester United</a></li>
+<li><a href="/search/label/Arsenal+Kits?max-results=20">Arsenal FC</a></li>
+<li><a href="/search/label/Chelsea+Kits?max-results=20">Chelsea FC</a></li>
+<li><a href="/search/label/Liverpool+Kits?max-results=20">Liverpool FC</a></li>
+<li><a href="/search/label/Manchester City+Kits?max-results=20">Manchester City</a></li>
+<li><a href="/search/label/Manchester United+Kits?max-results=20">Manchester United</a></li>
 </ul>
 </li>
-<li><a href="/search/label/Serie A+Kits?max-results=8">Serie A</a>
+<li><a href="/search/label/Serie A+Kits?max-results=20">Serie A</a>
 <ul class="nav3">
-<li><a href="/search/label/Inter+Kits?max-results=8">Inter</a></li>
-<li><a href="/search/label/Juventus+Kits?max-results=8">Juventus</a></li>
-<li><a href="/search/label/Milan+Kits?max-results=8">AC Milan</a></li>
-<li><a href="/search/label/AS Roma+Kits?max-results=8">AS Roma</a></li>
+<li><a href="/search/label/Inter+Kits?max-results=20">Inter</a></li>
+<li><a href="/search/label/Juventus+Kits?max-results=20">Juventus</a></li>
+<li><a href="/search/label/Milan+Kits?max-results=20">AC Milan</a></li>
+<li><a href="/search/label/AS Roma+Kits?max-results=20">AS Roma</a></li>
 </ul>
 </li>
-<li><a href="/search/label/Bundesliga+Kits?max-results=8">Bundesliga</a>
+<li><a href="/search/label/Bundesliga+Kits?max-results=20">Bundesliga</a>
 <ul class="nav3">
-<li><a href="/search/label/Bayern Munich+Kits?max-results=8">Bayern München</a></li>
-<li><a href="/search/label/Dortmund+Kits?max-results=8">Dortmund</a></li>
-<li><a href="/search/label/Schalke+Kits?max-results=8">Schalke 04</a></li>
+<li><a href="/search/label/Bayern Munich+Kits?max-results=20">Bayern München</a></li>
+<li><a href="/search/label/Dortmund+Kits?max-results=20">Dortmund</a></li>
+<li><a href="/search/label/Schalke+Kits?max-results=20">Schalke 04</a></li>
 </ul>
 </li>
 <li class="mobile-no"><span>Others</span>
 <ul class="nav3">
-<li><a href="/search/label/Ligue 1+Kits?max-results=8">Ligue 1</a></li>
-<li><a href="/search/label/MLS+Kits?max-results=8">MLS</a></li>
-<li><a href="/search/label/Brasileirão+Kits?max-results=8">Brasileirao</a></li>
-<li><a href="/search/label/Championship+Kits?max-results=8">Championship</a></li>
-<li><a href="/search/label/International+Kits?max-results=8"><b>National Teams</b></a></li>
-<li><a href="/search/label/Sponsorship?max-results=8">Sponsorship</a></li>
+<li><a href="/search/label/Ligue 1+Kits?max-results=20">Ligue 1</a></li>
+<li><a href="/search/label/MLS+Kits?max-results=20">MLS</a></li>
+<li><a href="/search/label/Brasileirão+Kits?max-results=20">Brasileirao</a></li>
+<li><a href="/search/label/Championship+Kits?max-results=20">Championship</a></li>
+<li><a href="/search/label/International+Kits?max-results=20"><b>National Teams</b></a></li>
+<li><a href="/search/label/Sponsorship?max-results=20">Sponsorship</a></li>
+<li><a href="/search/label/Teamwear?max-results=20">Teamwear</a></li>
 </ul>
 </li>
-<li class="nav-more"><a href="/search/label/Kits?max-results=8">All kits</a></li>
+<li class="nav-more"><a href="/search/label/Kits?max-results=20">All kits</a></li>
 </ul>
-<a href="/2017/01/2017-18-kit-overview-all-leaked-17-18-shirts.html"><div class="nav-teaser">
-<div><img src="https://3.bp.blogspot.com/-Sl5PvXJwA_A/WHBbXpuL_CI/AAAAAAABGCw/7LVM7u19NLsptnALHNxEQJgoEoLGKA4KQCLcB/s1600/17-18-kits.jpg"></div>
-<strong>17-18 Kit Overview</strong>
-<span>All 2017-18 Club Kits</span>
+<a href="http://www.footyheadlines.com/2017/07/2018-world-cup-kit-overview.html"><div class="nav-teaser">
+<div><img class="lazyload" data-src="https://3.bp.blogspot.com/-x4AIQHnCL9M/WfZjU1_hplI/AAAAAAABWV8/tRfvmnsR6rgIC2N1AEDyCZZcp7rVBEoDQCLcBGAs/s1600/2018-world-cup-kit-overview-2.jpg"></div>
+<strong>World Cup Kit Overview</strong>
+<span>All 2018 World Cup Kits</span>
 </div>
 </a>
 </div>
 </div>
 </li>
-<li class="mobile-no"><a href="/2017/01/2017-18-kit-overview-all-leaked-17-18-shirts.html">17-18 Kits Overview</a></li>
+<li class="mobile-no"><a href="http://www.footyheadlines.com/2017/11/2018-19-kit-overview-all-leaked-18-19.html">Kit Overview</a></li>
+<li><a href="http://www.footyheadlines.com/2017/07/2018-world-cup-kit-overview.html">World Cup Kit Overview</a></li>
 <li class="mobile-yes"><a href="https://www.facebook.com/FootyHeadlines">Facebook</a></li>
 <li class="mobile-yes"><a href="https://twitter.com/Footy_Headlines">Twitter</a></li>
 <li class="mobile-yes"><a href="https://instagram.com/footyheadlines">Instagram</a></li>
@@ -4286,17 +4399,35 @@ border-right: none;
 </span>
 <span class="caret-inner"></span>
 </div>
-<li><a alt="Footy Headlines" href="http://www.footyheadlines.com/">English</a></li>
-<li><a alt="Footy Headlines ES" href="http://es.footyheadlines.com/">Español</a></li>
-<li><a alt="Footy Headlines FR" href="http://fr.footyheadlines.com/">Français</a></li>
-<li><a alt="Nur Fussball" href="http://www.nurfussball.com/">Deutsch</a></li>
+<li><a href="http://www.footyheadlines.com/">English</a></li>
+<li><a href="http://es.footyheadlines.com/">Español</a></li>
+<li><a href="http://fr.footyheadlines.com/">Français</a></li>
+<li><a href="http://www.nurfussball.com/">Deutsch</a></li>
 </ul>
 </div>
 </div>
 </div>
-<div class="nav-message-container">
+<div class="nav-message-container" id="nav-message-container">
 </div>
 </div></div>
+<!-- Hide header in "app view" -->
+<script type="text/javascript">
+		// if URL includes "app=1"
+		if (document.URL.indexOf("app=1") > -1) {
+			document.getElementById("headerbar").style.display = "none";
+			// if is Kit Overview
+			if (document.getElementById("headerbar-2")) {
+				document.getElementById("headerbar-2").style.top = "0px";
+				document.getElementById("nav-message-container-2").style.marginTop = "35px";
+			} else { // if isn't Kit Overview
+				document.getElementById("tabs").style.display = "none";
+				document.getElementById("nav-message-container").style.display = "none";
+				if (document.getElementById("nav-message-container-3")) {
+					document.getElementById("nav-message-container-3").style.display = "none";
+				}
+			}
+		}
+	</script>
 <div id="main-page">
 <div id="main-wrap1">
 <div class="main section" id="main"><div class="widget Blog" data-version="1" id="Blog1">
@@ -4305,6 +4436,11 @@ border-right: none;
 <div class="post hentry" id="item-post" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
 <a name="4687348093633890882"></a>
 <h1 class="post-title entry-title item" itemprop="name"><a href="http://www.footyheadlines.com/p/privace-policy.html">Privacy Policy</a></h1>
+<span class="item-control blog-admin pid-1375727871">
+<a href="https://www.blogger.com/page-edit.g?blogID=7535398437004525886&amp;pageID=4687348093633890882&amp;from=pencil" title="Edit Page">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18">
+</a>
+</span>
 <div class="post-body entry-content">
 <div class="post-body-inner">
 This Privacy Policy explain how we collect, use, and share information we obtain through your use of Footy Headlines. By using the Services, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy. If you have any further questions regarding the Privace Policy you can <a href="http://www.footyheadlines.com/p/footy-headlines-contact-form.html">contact us</a>.<br>
@@ -4345,8 +4481,7 @@ If you have any questions about this Privacy Policy, please feel free to contact
 </div>
 <script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
 </div>
-<div class="widget PopularPosts" data-version="1" id="PopularPosts3">
-</div></div>
+</div>
 </div>
 
 <div class="static_page isNotHome" id="sidebar-wrap">
@@ -4356,7 +4491,8 @@ If you have any questions about this Privacy Policy, please feel free to contact
 </div>
 
 <div id="main-wrap2">
-</div>
+<div class="widget PopularPosts" data-version="1" id="PopularPosts3">
+</div></div>
 <div id="main-wrap3"></div>
 </div>
 <!--main-page-->
@@ -4377,6 +4513,11 @@ If you have any questions about this Privacy Policy, please feel free to contact
                 </style>
 <script type="text/javascript">
 //<![CDATA[
+
+var noads = false;
+if (document.getElementById("blog-posts").innerHTML.length < 10 || document.URL.indexOf("/p/") > -1) {
+	noads = true;
+}
 
 function hasClass(ele,cls) {
   return !!ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
@@ -4402,21 +4543,23 @@ if (windowWidth >= 1101) {
 		version = 1;
 	}
 	var el = document.getElementById("ad-3");
-	var fromTop = el.getBoundingClientRect().top -  distance;
-	var doc = document.documentElement;
-	var scrollFromTop = 0;
-	window.onscroll = function() {
-		scrollFromTop = (window.pageYOffset || doc.scrollTop)  - (doc.clientTop || 0);
-		if (scrollFromTop >fromTop) {
-			if (version == 0)
-				addClass(el, "fixed");
-			else
-				addClass(el, "fixed2");
-		} else  {
-			if (version == 0)
-				removeClass(el, "fixed");
-			else
-				removeClass(el, "fixed2");
+	if (el != null) {
+		var fromTop = el.getBoundingClientRect().top -  distance;
+		var doc = document.documentElement;
+		var scrollFromTop = 0;
+		window.onscroll = function() {
+			scrollFromTop = (window.pageYOffset || doc.scrollTop)  - (doc.clientTop || 0);
+			if (scrollFromTop >fromTop) {
+				if (version == 0)
+					addClass(el, "fixed");
+				else
+					addClass(el, "fixed2");
+			} else  {
+				if (version == 0)
+					removeClass(el, "fixed");
+				else
+					removeClass(el, "fixed2");
+			}
 		}
 	}
 }
@@ -4441,9 +4584,10 @@ LoadNurFussball();
 var mainwrap2 = document.getElementById("main-wrap2");
 var mainwrap3 = document.getElementById("main-wrap3");
 
-//main page
-if (document.URL.indexOf("html") < 0) {
+//main page / feed - NOT SEARCH
+if (document.URL.indexOf("html") < 0 & document.URL.indexOf("post-preview") < 0) {
 	if (document.URL.indexOf("search") < 0 | document.URL.indexOf("label") > 0) {
+	console.log("Sorting...");
     var posts = document.getElementById("blog-posts");
     var topPosts = posts.querySelectorAll(".top");
 	var topPosts2 = posts.querySelectorAll(".top2");
@@ -4468,48 +4612,63 @@ if (document.URL.indexOf("html") < 0) {
 	var i3 = 0;
 	*/
 	
+	// increase time change when a lot of smaller posts
 	var i2 = normalPosts.length - topPosts.length - topPosts2.length;
 	var i3 = topPosts2.length;
+	var modifierUnimportant = 4;
+	var modifierNormal = 0;
 	
+	if (i2 / normalPosts.length > .3) {
+		modifierNormal = 3;
+		modifierUnimportant = 6;
+	}
+	
+	/*  go through posts and assign 'sortKey' */	
 	for (var i = 0; i < normalPosts.length; i++) {
 		if (normalPosts[i].className.indexOf("mszobr") < 0) {
-		var title = normalPosts[i].querySelector(".post-title.entry-title > a").text;
-		var sortKey = 0;
-		var diff = 4;
-		if (normalPosts[i].querySelector(".post-time")) {
-		var timeString = normalPosts[i].querySelector(".post-time").title;
-		var date = new Date(timeString);
-		var time = parseFloat(date.getTime() / 1000 / 60 / 60); //hours
-		var now = parseFloat(new Date().getTime() / 1000 / 60 / 60); //current time hours
-		var diff = parseFloat(now - time);
+			var title = normalPosts[i].querySelector(".post-title.entry-title > a").text;
+			var sortKey = 0;
+			var diff = 4;
+			if (normalPosts[i].querySelector(".post-time")) {
+				var timeString = normalPosts[i].querySelector(".post-time").title;
+				var date = new Date(timeString);
+				var time = parseFloat(date.getTime() / 1000 / 60 / 60); //hours
+				var now = parseFloat(new Date().getTime() / 1000 / 60 / 60); //current time hours
+				var diff = parseFloat(now - time);
+			}
+			
+			var isTop = 0;
+			var isTop2 = 0;
+			var isNew = 0;
+			var isUnimportant = 0;
+			var isNormal = 0;
+			
+			if (normalPosts[i].className.indexOf("top2") > 0) {
+				isTop2 = 1;
+				//i3++;
+			} else if (normalPosts[i].className.indexOf("top") > 0) {
+				isTop = 1;
+			} else if (normalPosts[i].className.indexOf("unimportant") > 0) {
+				isUnimportant = 1;
+				//i2++;
+			} else if (normalPosts[i].className.indexOf("normal") > 0) {
+				isNormal = 1;
+			}
+			
+			if (isTop != 0 && isTop2 != 0) {
+				if (diff < 0.5 && isUnimportant == 0) {
+					isNew = 1;
+				}
+			}
+			sortKey = parseFloat(diff - isTop * 9 - isTop2 * 2.5 - isNew * 1.5 + isUnimportant * modifierUnimportant + isNormal * modifierNormal);
+			
+			normalPosts[i].dataset.sortkey = sortKey;
+			
+			normalPostsArr.push(normalPosts[i]);
 		}
-		
-		var isTop = 0;
-		var isTop2 = 0;
-		var isNew = 0;
-		
-		if (normalPosts[i].className.indexOf("top2") > 0) {
-			isTop2 = 1;
-			//i3++;
-		} else if (normalPosts[i].className.indexOf("top") > 0) {
-			isTop = 1;
-		} else {
-			//i2++;
-		}
-		
-		if (diff < 0.5) {
-			isNew = 1;
-		}
-		sortKey = parseFloat(diff - isTop * (6 + i2) - isTop2 * (2.5 + i2 * 0.4) - isNew * (2.5 + i2* 0.5));
-		
-		normalPosts[i].dataset.sortkey = sortKey;
-		
-		normalPostsArr.push(normalPosts[i]);
-		
-		//console.log(title + " : " + sortKey);
-	}
 	}
 	
+	/* sort by sortKey */
 	function sortPosts(a, b) {
 		var h1 = a.dataset.sortkey,
 			h2 = b.dataset.sortkey;
@@ -4518,42 +4677,41 @@ if (document.URL.indexOf("html") < 0) {
 	
 	normalPostsArr.sort(sortPosts);
 	
+	/* ... and insert into page */
 	for (var i = 0; i < normalPostsArr.length; i++) {
 		posts.appendChild(normalPostsArr[i]);
 	}
 	
-	//fixed posts
+	/* insert fixed posts at respective position */
     var fixedPosts = posts.getElementsByClassName("fixed");
     var blogPosts = posts.getElementsByClassName("normal");
-    var blogPostsArr = [];
+    var fixedPostsArr = [];
 
     for (var i = 0; i < fixedPosts.length; i++) {
         if (fixedPosts[i].nodeType == 1) {
-            blogPostsArr.push(fixedPosts[i]);
+            fixedPostsArr.push(fixedPosts[i]);
         }
     }
 
-    for (var i = 0; i < blogPostsArr.length; i++) {
+    for (var i = 0; i < fixedPostsArr.length; i++) {
         for (var i2 = 0; i2 <= 10; i2++) {
             var index = "fixed-" + i2;
-            if (blogPostsArr[i].className.indexOf(index) > 0) {
-                posts.insertBefore(blogPostsArr[i], blogPosts[blogPosts.length]);
+            if (fixedPostsArr[i].className.indexOf(index) > 0) {
+                posts.insertBefore(fixedPostsArr[i], blogPosts[blogPosts.length]);
                 if (blogPosts.length > (i2))
-                    posts.insertBefore(blogPostsArr[i], blogPosts[i2]);
+                    posts.insertBefore(fixedPostsArr[i], blogPosts[i2]);
                 else
-                    posts.insertBefore(blogPostsArr[i], blogPosts[blogPosts.length]);
+                    posts.insertBefore(fixedPostsArr[i], blogPosts[blogPosts.length]);
             }
         }
     }
 	
 	var blogPosts = document.getElementById("blog-posts");
-	var firstPost = blogPosts.getElementsByClassName("post");
-	var ads = blogPosts.getElementsByTagName("ad");
 	var posts = document.querySelectorAll(".blog-posts > .post:not(.mszobr)");
 	var mszobr = document.getElementById("mszobr");
-	var start = 2;
+	var start = 3;
 	if (windowWidth <= 450) {
-		start = 3;
+		start = 4;
 	}
 	blogPostsArr = [];
 	
@@ -4562,6 +4720,18 @@ if (document.URL.indexOf("html") < 0) {
 		//console.log(posts[i]);
 	}
 	
+	
+	// make sure that "big" post is at top
+	if (blogPostsArr[0].className.indexOf("smaller") > -1) {
+		for (var i = 1; i < blogPostsArr.length; i++) {
+			if (blogPostsArr[i].className.indexOf("top") > -1) {
+				blogPostsArr.move(i, 0);
+				break;
+			}
+		}
+	}
+	
+	// mobile
 	if (windowWidth <= 450) {
 		//blogPosts.insertBefore(blogPostsArr[2], document.getElementById("ad-3"));
 		blogPosts.appendChild(blogPostsArr[2]);
@@ -4569,24 +4739,28 @@ if (document.URL.indexOf("html") < 0) {
 		if (mszobr != null) {
 			blogPosts.insertBefore(mszobr, document.getElementById("ad-2"));
 		}
-		blogPosts.insertBefore(document.getElementById("ad-1"), blogPostsArr[0]);
+		blogPosts.insertBefore(document.getElementById("ad-1"), blogPostsArr[1]);
 		blogPosts.insertBefore(blogPostsArr[0], document.getElementById("ad-1"));
+		/*
 		if (document.getElementById("PopularPosts3") != null) {
 			blogPosts.insertBefore(document.getElementById("PopularPosts3"), document.getElementById("ad-1"));
 		}
+		*/
 		//blogPosts.insertBefore(document.getElementById("cfs-ad-1"), document.getElementById("ad-1"));
-	} else {
+	}
+	// desktop
+	else {
 		blogPosts.insertBefore(blogPostsArr[0], document.getElementById("ad-2"));
+		if (blogPostsArr[1] != null) {
+			blogPosts.appendChild(blogPostsArr[1]);
+		}
 		if (mszobr != null) {
 			blogPosts.insertBefore(mszobr, document.getElementById("ad-2"));
 		}
-		if (blogPostsArr[1] != null) {
-			blogPosts.appendChild(blogPostsArr[1]);
-			}
 	}
 	
 	var adsCount = 0;
-	for (var  i = start; i < blogPostsArr.length; i++) {
+	for (var  i = (start - 1); i < blogPostsArr.length; i++) {
 		/*
 		if (i == 0 && windowWidth <= 450) {
 			if (document.getElementById("PopularPosts3") != null) {
@@ -4598,6 +4772,8 @@ if (document.URL.indexOf("html") < 0) {
 			if (windowWidth >= 1100) {
 				if (document.getElementById("cfs-ad-1") != null)
 					mainwrap2.appendChild(document.getElementById("cfs-ad-1"));
+				if (document.getElementById("fbdb-embed") != null)
+					mainwrap2.appendChild(document.getElementById("fbdb-embed"));
 			}
 			if (document.getElementById("nf-text")) {
 				mainwrap2.appendChild(document.getElementById("nf-text"));
@@ -4613,6 +4789,8 @@ if (document.URL.indexOf("html") < 0) {
 			if (windowWidth < 1100) {
 				if (document.getElementById("cfs-ad-1") != null)
 					mainwrap2.appendChild(document.getElementById("cfs-ad-1"));
+				if (document.getElementById("fbdb-embed") != null)
+					mainwrap2.appendChild(document.getElementById("fbdb-embed"));
 			}
 			if (document.getElementById("unimportant-posts-1") != null) {
 				mainwrap2.appendChild(document.getElementById("unimportant-posts-1"));
@@ -4665,263 +4843,19 @@ if (document.URL.indexOf("html") < 0) {
 	}
 }
 
-//ad / post positions NOT USED
+        var script=document.createElement('script');
+		script.src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+        document.body.appendChild(script);
 
-if (0==1) {
+//]]>
+</script><script src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script type="text/javascript">
+//<![CDATA[
 
-//not mobile
-if(windowWidth > 450){
-if (document.URL.indexOf("html") < 0) {
-var posts = document.querySelectorAll(".blog-posts > .post");
-blogPostsArr = [];
+!function(t,e){"object"==typeof exports?module.exports=e(t):"function"==typeof define&&define.amd?define([],e(t)):t.LazyLoad=e(t)}("undefined"!=typeof global?global:this.window||this.global,function(t){"use strict";function e(t,e){this.settings=r(s,e||{}),this.images=t||document.querySelectorAll(this.settings.selector),this.observer=null,this.init()}const s={src:"data-src",srcset:"data-srcset",selector:".lazyload"},r=function(){let t={},e=!1,s=0,o=arguments.length;"[object Boolean]"===Object.prototype.toString.call(arguments[0])&&(e=arguments[0],s++);for(;s<o;s++)!function(s){for(let o in s)Object.prototype.hasOwnProperty.call(s,o)&&(e&&"[object Object]"===Object.prototype.toString.call(s[o])?t[o]=r(!0,t[o],s[o]):t[o]=s[o])}(arguments[s]);return t};if(e.prototype={init:function(){if(!t.IntersectionObserver)return void this.loadImages();let e=this,s={root:null,rootMargin:"0px",threshold:[0]};this.observer=new IntersectionObserver(function(t){t.forEach(function(t){if(t.intersectionRatio>0){e.observer.unobserve(t.target);let s=t.target.getAttribute(e.settings.src),r=t.target.getAttribute(e.settings.srcset);"img"===t.target.tagName.toLowerCase()?(s&&(t.target.src=s),r&&(t.target.srcset=r)):t.target.style.backgroundImage="url("+s+")"}})},s),this.images.forEach(function(t){e.observer.observe(t)})},loadAndDestroy:function(){this.settings&&(this.loadImages(),this.destroy())},loadImages:function(){if(!this.settings)return;let t=this;this.images.forEach(function(e){let s=e.getAttribute(t.settings.src),r=e.getAttribute(t.settings.srcset);"img"===e.tagName.toLowerCase()?(s&&(e.src=s),r&&(e.srcset=r)):e.style.backgroundImage="url("+s+")"})},destroy:function(){this.settings&&(this.observer.disconnect(),this.settings=null)}},t.lazyload=function(t,s){return new e(t,s)},t.jQuery){const s=t.jQuery;s.fn.lazyload=function(t){return t=t||{},t.attribute=t.attribute||"data-src",new e(s.makeArray(this),t),this}}return e});
 
-for (var i = 0; i < posts.length; i++) {
-	blogPostsArr.push(posts[i]);
-}
+lazyload();
 
-for (var i = 2; i < blogPostsArr.length; i++) {
-if (i == 2) {
-if (document.getElementById("unimportant-posts-1") != null) {
-mainwrap.appendChild(document.getElementById("unimportant-posts-1"));
-}
-}
-if (i == 3) {
-if (document.getElementById("PopularPosts3") != null) {
-mainwrap.appendChild(document.getElementById("PopularPosts3"));
-}
-}
-if (i == 4) {
-if (document.getElementById("unimportant-posts-2") != null) {
-mainwrap.appendChild(document.getElementById("unimportant-posts-2"));
-}
-}
-mainwrap.appendChild(blogPostsArr[i]);
-}
-
-if (blogPostsArr.length < 5) {
-if (document.getElementById("unimportant-posts-2") != null) {
-mainwrap.appendChild(document.getElementById("unimportant-posts-2"));
-}
-}
-
-//moving a post up if first post is "hidden"
-var blogPosts = document.getElementById("blog-posts");
-var firstPost = blogPosts.getElementsByClassName("post");
-var ads = blogPosts.getElementsByTagName("ad");
-var mszobr = document.getElementById("mszobr");
-
-blogPosts.insertBefore(firstPost[0], ads[1]);
-if (mszobr != null) {
-	blogPosts.insertBefore(mszobr, ads[1]);
-}
-blogPosts.insertBefore(firstPost[1], firstPost[2]);
-}
-else {
-disqusContainer = document.getElementById("disqus-container");
-if (disqusContainer != null) {
-	mainwrap.appendChild(disqusContainer);
-	}
-mainwrap.appendChild(document.getElementById("PopularPosts3"));
-}
-mainwrap.appendChild(document.getElementById("blog-pager"));
-}
-// mobile post
-else if (document.URL.indexOf("html") > 0) {
-/*
-var mainwrap = document.getElementById("main-wrap2");
-mainwrap.appendChild(document.getElementById("disqus-container"));
-mainwrap.appendChild(document.getElementById("PopularPosts2"));
-mainwrap.appendChild(document.getElementById("social-buttons"));
-mainwrap.appendChild(document.getElementById("blog-pager"));
-*/
-}
-// mobile start
-else {
-//moving a post up if first post is "hidden"
-var blogPosts = document.getElementById("blog-posts");
-var firstPost = blogPosts.getElementsByClassName("post");
-var ads = blogPosts.getElementsByTagName("ad");
-var blogPostsArr = [];
-
-for (var i = 0; i < firstPost.length; i++) {
-	if (firstPost[i].nodeType == 1) {
-		blogPostsArr.push(firstPost[i]);
-	}
-}
-
-if (blogPostsArr.length > 4)
-	blogPosts.insertBefore(blogPostsArr[4], ads[2].nextElementSibling);
-if (blogPostsArr.length > 3)
-	blogPosts.insertBefore(blogPostsArr[3], ads[2].nextElementSibling);
-blogPosts.insertBefore(blogPostsArr[2], ads[2]);
-blogPosts.insertBefore(blogPostsArr[1], ads[1]);
-blogPosts.insertBefore(blogPostsArr[0], ads[0]);
-
-if (document.getElementById("unimportant-posts-1") != null)
-blogPosts.insertBefore(document.getElementById("unimportant-posts-1"), blogPostsArr[2]); 
-if (document.getElementById("PopularPosts2") != null)
-blogPosts.insertBefore(document.getElementById("PopularPosts2"), blogPostsArr[3]);
-if (document.getElementById("unimportant-posts-2") != null)
-blogPosts.insertBefore(document.getElementById("unimportant-posts-2"), blogPostsArr[4]);
-}
-
-}
-
-//recent posts widget
-function showrecentposts(json) {
-var text = "<ul>";
-  for (var i = 0; i < 5; i++) {
-	//console.log(json);
-    var entry = json.feed.entry[i];
-    var posttitle = entry.title.$t;
-				var posturl = "";
-				for (var i1 = 0; i1 < entry.link.length; i1++) {
-					if (entry.link[i1].rel == "alternate") {
-						posturl = entry.link[i1].href;
-					}
-				}
-    posttitle = posttitle.link(posturl);
-	text += "<li>" + posttitle + "</li>";
-}
-
-var el = document.getElementById("Feed2-inner");
-if (el != null)
-	el.innerHTML = text + "</ul>";
-}
-
-function BootWatchSidebar(json) {
-    var text = "";
-    var el = document.getElementById("sidebar_posts");
-	if (el != null)
-		el.innerHTML = "";
-
-    if (json.feed.entry != null) {
-		//console.log(json.feed.entry);
-        for (var i = 0; i <= 12; i++) {
-            if (json.feed.entry[i] != null) {
-                var entry = json.feed.entry[i];
-                var posttitle = entry.title.$t;
-				var posturl = "";
-				for (var i1 = 0; i1 < entry.link.length; i1++) {
-					if (entry.link[i1].rel == "alternate") {
-						posturl = entry.link[i1].href;
-					}
-				}
-				if (entry.media$thumbnail != null)
-					var image = entry.media$thumbnail.url.replace("s72-c", "s200-c");
-				else
-					var image = "";
-				var tempText = "<div class=\"sidebar-post\"><a href=\"" + posturl + "\">";
-                tempText += "<div class=\"image-container\"><img class=\"imageClass\" src=\"" + image + "\"></img></div>";
-                tempText += "<div class=\"textContainer\"><h1 class=\"textClass\">" + posttitle + "</h1></div>";
-                tempText += "<div class=\"post-overlay\"></div>";
-                tempText += "</a></div>";
-				if (i < 6) {
-				text += tempText;
-				}
-				else {
-				text2 += tempText;
-				}
-                unimportantPostsCount++;
-            }
-        }
-        if (el != null)
-            el.innerHTML = text;
-    }
-}
-
-function UnimportantPosts(json) {
-    var text = "";
-	var text2 = "";
-    var el = document.getElementById("unimportant-posts-1");
-	var el2 = document.getElementById("unimportant-posts-2");
-	if (el != null)
-		el.innerHTML = "";
-	if (el2 != null)
-		el2.innerHTML = "";
-		
-	var replace = "w200-h70-c";
-	
-	if (windowWidth <= 450) {
-		replace = "s72-c";
-	}
-
-    if (json.feed.entry != null) {
-		//console.log(json.feed.entry);
-        for (var i = 0; i <= 12; i++) {
-            if (json.feed.entry[i] != null) {
-                var entry = json.feed.entry[i];
-                var posttitle = entry.title.$t;
-				var posturl = "";
-				for (var i1 = 0; i1 < entry.link.length; i1++) {
-					if (entry.link[i1].rel == "alternate") {
-						posturl = entry.link[i1].href;
-					}
-				}
-				if (entry.media$thumbnail != null)
-					var image = entry.media$thumbnail.url;
-				else
-					var image = "";
-				var tempText = "<div class=\"unimportant-post\"><a href=\"" + posturl + "\">";
-                tempText += "<div class=\"image-container\"><img class=\"imageClass\" src=\"" + image.replace("s72-c", replace) + "\"></img></div>";
-                tempText += "<div class=\"textContainer\"><h1 class=\"textClass\">" + posttitle + "</h1></div>";
-                tempText += "<div class=\"post-overlay\"></div>";
-                tempText += "</a></div>";
-				if (i < 6) {
-				text += tempText;
-				}
-				else {
-				text2 += tempText;
-				}
-                unimportantPostsCount++;
-            }
-        }
-        if (el != null)
-            el.innerHTML = text;
-		if (el2 != null)
-			el2.innerHTML = text2;
-    }
-}
-
-var unimportantPostsCount = 0;
-var unimportantPostsBlockCount = 3;
-
-function UnimportantPosts2(json) {
-    var text = "";
-    var el = document.getElementById("unimportant-posts-" + unimportantPostsBlockCount);
-	var replace = "w200-h70-c";
-	
-	if (windowWidth <= 450) {
-		replace = "s72-c";
-		console.log("small window");
-	}
-
-    if (json.feed.entry != null) {
-            for (var i = 0; i <= 12; i++) {
-                if (json.feed.entry[i] != null) {
-                    var entry = json.feed.entry[i];
-                    var posttitle = entry.title.$t;
-					var posturl = "";
-					for (var i1 = 0; i1 < entry.link.length; i1++) {
-						if (entry.link[i1].rel == "alternate") {
-							posturl = entry.link[i1].href;
-						}
-					}
-                    var image = entry.media$thumbnail.url;
-                    var tempText = "<div class=\"unimportant-post\"><a href=\"" + posturl + "\">";
-                    tempText += "<div class=\"image-container\"><img class=\"imageClass\" src=\"" + image.replace("s72-c", replace) + "\"></img></div>";
-                    tempText += "<div class=\"textContainer\"><h1 class=\"textClass\">" + posttitle + "</h1></div>";
-                    tempText += "<div class=\"post-overlay\"></div>";
-                    tempText += "</a></div>";
-                    text += tempText;
-                    unimportantPostsCount++;
-                }
-            }
-		if (el != null)
-			el.innerHTML = text;
-        unimportantPostsBlockCount++;
-    }
-}
 //]]>
 </script>
 <script type="text/javascript">
@@ -4934,13 +4868,38 @@ function getScript() {
                 if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
                     done = true;
 
-//script
+//automatic header bar
+if(document.URL.indexOf(".html") > -1 | document.URL.indexOf("post-preview") > -1) {
+	var tabs = $(".link-anchor-2");
+	
+	//header bar currently not present
+	if ($(".headerbar-2-container").not("#tabs").length == 0 && tabs.length > 0) {
+		$(".headerbar-2-container").remove();
+		$(".nav-message-container").remove();
+		
+		var headerbar_html = '<div class="headerbar-2-container" id="headerbar-2"><ul class="headerbar-2">';
+		
+		for (var i = 0; i < tabs.length; i++) {
+			if (tabs[i].parentElement.className.indexOf("fakeh2") < 0) {
+				headerbar_html += '<li><a href="#' + tabs[i].name + '">' + tabs[i].name + '</a></li>';
+			}
+		}
+		
+		headerbar_html += '</ul></div>';
+		
+		$("#headerbar").after(headerbar_html + '<div class="nav-message-container-2" id="nav-message-container-2"></div>');
+	}
+}
 
 //toggle class headerbar-2
-$(".headerbar-2 > li > a").click(function () {
-$(".headerbar-2 > li > a").removeClass("highlight");
-$(this).addClass("highlight");
+$("#Header1").on("click", ".headerbar-2 > li > a", function () {
+	$(".headerbar-2 > li > a").removeClass("highlight");
+	$(this).addClass("highlight");
 });
+
+if (document.getElementById("blog-pager") != null && $("#blog-pager").html().length < 10) {
+	$("#blog-pager").remove();
+}
 
 //load normal site if device isn't mobile
 //is mobile?
@@ -4956,90 +4915,312 @@ window.location.replace(url);
 }
 }
 
-// native ads
-// initialize ads
-var nativeAds = [
-	{
-		title: "New Nike PSG, Inter, Roma 17-18 Kits - Now Available",
-		weight: 3,
-		link: "http://tidd.ly/58c678",
-		content: "Be the first to own the brand-new Nike 2017-18 Home shirts.",
-		image: "https://4.bp.blogspot.com/-Ph7PKCsNz6Q/WSdOD62EcCI/AAAAAAABN7Q/3vawaf8-cRI33s0QGbN9ikpTfqYhrsnyQCLcB/s1600/shirts.gif"
-	},
-	{
-		title: "Buy Now: Adidas Nemeziz 17",
-		link: "http://tidd.ly/7e7eec7d",
-		content: "Get 10% off the all-new Adidas Nemeziz 17 using code <b>FOOTBALLBOOTSDB</b>.",
-		image: "https://4.bp.blogspot.com/-TCaK-y4Xi6A/WSgoZX5OwyI/AAAAAAABN7w/cLlR23I9hkwlSMt8ymmz3umXiJj-pYFEgCLcB/s1600/buy-nemeziz.jpg"
-	},
-	{
-		title: "Beta: Footy Headlines App",
-		type: "android",
-		origin: "Footy Headlines",
-		link: "https://play.google.com/store/apps/details?id=com.footyheadlines.footyheadlines",
-		content: "",
-		image: "https://1.bp.blogspot.com/-ff_9gaHuqzQ/WSlyoN7fNxI/AAAAAAABOBc/uxVHGk9AzxkuVrhNns-w8crcgLdSAMhdQCLcB/s1600/app-ad.jpg"
-	}
-];
+// fix paddings in KIt Overview
+if (document.URL.indexOf("kit-overview") > -1 && document.URL.indexOf("app=1") > -1) {
+	$(".link-anchor-2").css("padding-top", "40px");
+}
 
 function isAndroid () {
 	return (navigator.userAgent.toLowerCase().indexOf("android") > -1);
 }
 
-if (!isAndroid()) {
-	var nativeAds = $.grep(nativeAds, function(e){ 
-		 return e.type != "android"; 
+
+	nativeAds = [
+		{
+			title: "Adidas Cyber Monday - 30% OFF",
+			content: "Use code 'CYBER30' / 'CYBER2017' for an extra 30% off most Adidas stock, including the new World Cup jerseys!",
+			end_time: "2017-11-28T23:59:59-06:00",
+			weight: 20,
+			alwaysBig: true,
+			image: [
+				"https://4.bp.blogspot.com/-q7VEU1OzODg/WhwapGhO7dI/AAAAAAABXng/Ca-yyLbGbAYVzpAv-4qo_C_HmxW7nyI-wCLcBGAs/s1600/adidas-shirts-2.jpg",
+				"https://4.bp.blogspot.com/-ELlTaderJTQ/WhwapDV4KsI/AAAAAAABXnc/0fTeH6Jv1CcbgbanqA6rWr33Wgcq1aR8gCLcBGAs/s1600/adidas-shitrs-1.jpg"
+			],
+			link: "https://adidas.7eer.net/c/1129298/280609/4270?u=http%3A%2F%2Fadidas.com%2Fus%2Fmen-soccer-jerseys-apparel",
+			origin: "Adidas.com",
+			country: "US"
+		},
+		{
+			title: "Adidas Cyber Monday - 30% OFF",
+			content: "Use code 'CYBER30' / 'CYBER2017' for an extra 30% off Adidas boots, kits and more!",
+			end_time: "2017-11-28T23:59:59+01:00",
+			weight: 10,
+			alwaysBig: true,
+			image: "https://3.bp.blogspot.com/-9ZD8mMndtLQ/Wh2Dwo2UdFI/AAAAAAABXqg/lU01sby7nb4nHn4AFQPb1NlA7D8SoPxcQCLcBGAs/s1600/adidas-cyber-monday.jpg",
+			link: "https://adidas.7eer.net/c/1129298/280609/4270?u=http%3A%2F%2Fadidas.com%2Fus%2Fmen-soccer",
+			origin: "Adidas.com",
+		},
+		{
+			title: "Cyber Monday - 25% OFF",
+			origin: "Unisportstore.com",
+			image: "https://3.bp.blogspot.com/-KDXhFqWudqg/WhwapMIcHoI/AAAAAAABXnk/s9w2mNbQVfwy8nyvInn6xXR9sqX8-KjRACLcBGAs/s1600/unisport.jpg",
+			link: "http://tc.tradetracker.net/?c=20821&m=12&a=293795&r=cybermonday&u=https%3A%2F%2Fwww.unisportstore.com%2F",
+			end_time: "2017-11-27T23:59:59+02:00",
+			content: "Get the brand-new Predator 18 at 25% Off and many more crazy deals - ONLY TODAY",
+			weight: 15,
+			alwaysBig: true
+		},
+		{
+			title: "Christmas at Unisport",
+			end_time: "2017-12-23",
+			origin: "Unisportstore.com",
+			image: "https://3.bp.blogspot.com/-9zQTXKU6W5E/Wh71C-4e9KI/AAAAAAABXwc/mEjOp81s0eAx8cztqjkoDqXaChmakFkwgCLcBGAs/s1600/christmas.jpg",
+			link: "http://tc.tradetracker.net/?c=20821&m=12&a=293795&r=christmas&u=https%3A%2F%2Fwww.unisportstore.com%2Fv%2Fchristmas-gifts%2F",
+			content: "Get the perfect gift for Christmas.",
+			weight: 10
+		},
+		{
+			title: "Now Available: Puma Future 18 Netfit",
+			end_time: "2017-12-15",
+			origin: "Unisportstore.com",
+			image: "https://4.bp.blogspot.com/-uaMJHDJEhhg/WiAHScM4vAI/AAAAAAABXxo/TXaEVYU5ulwrw6_PYSTUtBpUawiL1u2GwCLcBGAs/s1600/future.jpg",
+			link: "http://tc.tradetracker.net/?c=20821&m=12&a=293795&r=future&u=https%3A%2F%2Fwww.unisportstore.com%2Fv%2Fpuma-future-invent-play-limited-edition%2F",
+			content: "The latest innovation from PUMA.",
+			weight: 2
+		},
+		{
+			title: "Now Available - Adidas Skystalker",
+			end_time: "2017-12-31",
+			origin: "Unisportstore.com",
+			image: "https://2.bp.blogspot.com/-Ax2N1MkqrV8/Wh71Cw4tVNI/AAAAAAABXwY/KUw_-lp-QYkeUQmvwfneSq5Y0yXaBV4OwCLcBGAs/s1600/skystalker.jpg",
+			link: "http://tc.tradetracker.net/?c=20821&m=12&a=293795&r=skystalker&u=https%3A%2F%2Fwww.unisportstore.com%2Fv%2Fadidas-skystalker%2F",
+			content: "Get the latest boots from Adidas at the most competitive prices.",
+			weight: 4
+		},
+		{
+			title: "Now Available - Adidas Skystalker",
+			end_time: "2017-12-31",
+			origin: "Soccer.com",
+			image: "https://1.bp.blogspot.com/-APQVcSjKgCg/Wh72YrEu6SI/AAAAAAABXwo/VO1lcBQI7nY6bYwbID5VCI85FSNP0Gv8gCLcBGAs/s1600/adidas-skystalker-soccer.jpg",
+			link: "http://www.pntra.com/t/TUJGRU5MR0JGS0lKSElCRklGRUpJ?sid=skystalker&url=https%3A%2F%2Fwww.soccer.com%2Fsearch%3Fquery%3Dadidas%2520Skystalker%26orderBy%3D4",
+			content: "Get the latest boots from Adidas at the most competitive prices.",
+			weight: 4,
+			country: "US"
+		},
+		{
+			title: "Holiday Gift Guide",
+			end_time: "2017-12-23",
+			origin: "Soccer.com",
+			image: "https://1.bp.blogspot.com/-a6Xh_s5yet4/Wh72-Jx0rTI/AAAAAAABXww/lw9QWaW40_4eMv3ztBiJ01NqPPCXog9agCLcBGAs/s1600/gift-guide.jpg",
+			link: "http://www.pntrs.com/t/TUJGRU5MR0JGS0lKSElCRklGRUpJ?sid=holidays&url=https%3A%2F%2Fwww.soccer.com%2Fblackfriday",
+			content: "The best deals for the Holiday Season.",
+			weight: 8,
+			country: "US"
+		},
+		{
+			title: "Nike Black Friday Sale - Extra 30% Off",
+			content: "Use code 'BF30' for an extra 30% off Nike sale products until November 24.",
+			start_time: "2017-10-20T18:00:00+01:00",
+			end_time: "2017-11-24T23:59:59+02:00",
+			weight: 3,
+			alwaysBig: true,
+			image: "https://4.bp.blogspot.com/-yjvmjhdb8is/WhXMGYXH-XI/AAAAAAABXfY/Dv--ocxGTjUhy9EJ1cMKD1vYW8k9N16LgCLcBGAs/s1600/nike-sale-black-friday-2017.jpg",
+			link: "https://redirect.viglink.com/?key=038abcf27f3cdca239ba4d5c9dc1e816&u=https%3A%2F%2Fstore.nike.com%2Fgb%2Fen_gb%2Fpw%2Fmens-sale-football%2F47Z7puZ896",
+			origin: "Nike.com"
+		},			
+		{
+			title: "Limited Offer: Get a Free World Cup Ball When Buying Boots from the Skystalker Pack",
+			content: "",
+			end_time: "2017-12-01T10:00:00+01:00",
+			weight: 3,
+			link: "https://www.awin1.com/cread.php?awinmid=2518&awinaffid=313937&clickref=skystalker-free-gift-native&p=https%3A%2F%2Fwww.lovellsoccer.co.uk%2FShop%2FCollection%2Fadidas-Skystalker",
+			image: "https://1.bp.blogspot.com/-GwcixkF4T5E/Wh_8abhi50I/AAAAAAABXxY/qjdGKmArNAQMTBOE1QddXquDoql-153gQCLcBGAs/s1600/limited-offer-get-free-world-cup-2.jpg"
+		},
+		{
+			title: "Footy Headlines App",
+			type: "android",
+			origin: "Footy Headlines",
+			link: "https://play.google.com/store/apps/details?id=com.footyheadlines.footyheadlines",
+			content: "",
+			image: "https://1.bp.blogspot.com/-ff_9gaHuqzQ/WSlyoN7fNxI/AAAAAAABOBc/uxVHGk9AzxkuVrhNns-w8crcgLdSAMhdQCLcB/s1600/app-ad.jpg"
+		},
+		{
+			title: "Classic Football Shirts - 10% OFF with Code 'FH10'",
+			start_time: "2017-11-25T12:00:00+01:00",
+			end_time: "2017-12-15T23:59:59+01:00",
+			weight: 15,
+			link: "http://www.gopjn.com/t/TUJGRkxHTEJGS0lKSElCRktHTEVL?sid=FH10code&website=267598&url=https%3A%2F%2Fwww.classicfootballshirts.co.uk%2Fnew-products1.html%3Fdir%3Ddesc%26order%3Dentity_id",
+			content: "Get 10% OFF EVERYTHING including clearance items using our new code 'FH10'.",
+			image: "https://1.bp.blogspot.com/-oUnZI6LUHc4/WgXCtX2VaqI/AAAAAAABW50/V2VQTI-cwbsq7yXMBUFfmOclDJQpE8yIACLcBGAs/s1600/classic-football-shirts.jpg",
+			origin: "Classic Football Shirts"
+		},
+		{
+			title: "Now Available: Adidas Predator 18",
+			end_time: "2017-12-30",
+			content: "Be the first to get your hands on the brand-new Adidas Predator 18 football boots",
+			origin: "adidas.com",
+			link: "https://adidas.7eer.net/c/1129298/280609/4270?u=https%3A%2F%2Fwww.adidas.com%2Fus%2Fpredator",
+			image: "https://1.bp.blogspot.com/-81IeWHCWEOk/WhVfKCY1yPI/AAAAAAABXcw/btgwC3hLNn4CkofUfMk8Ne882i5WA0oCwCLcBGAs/s1600/buy-now-adidas-predator-18.jpg",
+			imageSquare: "https://1.bp.blogspot.com/-2wtpq5w50Xw/WhVfIpzu3EI/AAAAAAABXcs/eFiUD6zBKRMMTAOP3FAgbW0pqaILTWoNgCLcBGAs/s1600/buy-now-adidas-predator-18-square.jpg",
+			weight: 2
+		}
+	];
+	
+	function getGeodata(){
+        var script=document.createElement('script');
+		script.src="http://www.geoplugin.net/javascript.gp";
+        var done=false;
+        script.onload=script.onreadystatechange = function(){
+          if ( !done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete') ) {
+            done=true;
+			
+			//script
+			
+			// filter ads by location
+			nativeAds = $.grep(nativeAds, function(e){
+				if (e.country) {
+					return e.country == geoplugin_countryCode();
+				} else {
+					return true;
+				}
+			});
+			
+			//load ads
+			AddMoreAds();
+			
+            script.onload = script.onreadystatechange = null;
+          }
+        };
+		script.onerror = function() {
+			AddMoreAds();
+		}
+        document.body.appendChild(script);
+      }
+	  getGeodata();
+	
+	// filter ads
+	if (!isAndroid()) {
+		nativeAds = $.grep(nativeAds, function(e){ 
+			 return e.type != "android"; 
+		});
+	}
+	
+	// remove based on time
+	var now_time = new Date().getTime();
+	nativeAds = $.grep(nativeAds, function(e) {
+		if (e.start_time) {
+			var start_time = Date.parse(e.start_time);
+			if (start_time > now_time) {
+				console.log("Disabled based on start time - " + e.title);
+				return false;
+			}
+		}
+		if (e.end_time) {
+			var end_time = Date.parse(e.end_time);
+			if (end_time < now_time) {
+				console.log("Disabled based on end time - " + e.title);
+				return false;
+			}
+		}
+		return true;
 	});
+	
+	$.each(nativeAds, function(index, value) {
+		// duplicate by weight
+		if (value.weight != null) {
+			if (value.weight > 0) {
+				for (var i = 0; i < value.weight; i++) {
+					nativeAds.push(nativeAds[index]);
+				}
+			}
+		}
+	});
+
+function NativeAd() {
+
+	//random create ad
+	// random number between 0 and 20
+	var nativeAdIndex = Math.floor(Math.random() * nativeAds.length);
+
+	if (nativeAds[nativeAdIndex] != null) {
+		$nativeAd = $("<div class='post index hentry normal mszobr' id='mszobr'><div class='post-img-container'><a class='post-link' href='' rel='nofollow'><img class='post-img lazyload' src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9JREFUeNpiuHnzJkCAAQAFGgKMiEa9CgAAAABJRU5ErkJggg=='/></a></div><div class='post-info'><h1 class='post-title entry-title'><a href='' rel='nofollow'></a></h1><a class='post-link' href='' rel='nofollow'><p class='post-snippet entry-content'></p></a><div class='post-meta'><div class='post-meta-el-container'></div><div class='post-meta-el-container'><b>Ad</b> <span id='mszobr-origin'>Lovell Soccer</span></div></div></div><a class='fauxlink mobile-yes' href='' rel='nofollow'/></div>");
+		var image_link = "";
+		
+		if (nativeAds[nativeAdIndex].image.constructor === Array) {
+			image_link = nativeAds[nativeAdIndex].image[Math.floor(Math.random() * nativeAds[nativeAdIndex].image.length)];
+		} else {
+			image_link = nativeAds[nativeAdIndex].image;
+		};
+		//sometimes bigger (1/3 of cases - only desktop)
+		if (mobile == 0) {
+			//every fourth ad is big
+			if (Math.floor(Math.random() * 4) == 0 || nativeAds[nativeAdIndex].alwaysBig) {
+				$nativeAd.removeClass("mszobr");
+				image_link = image_link.replace(/\/s[0-9]+\//, '/w780-h400-c/');
+			} else {
+				image_link = nativeAds[nativeAdIndex].imageSquare || image_link;
+				image_link = image_link.replace(/\/s[0-9]+\//, '/s200-c/');
+			}
+		} else {
+			image_link = image_link.replace(/\/s[0-9]+\//, '/w400-h205-c/');
+		}
+		if ($nativeAd != null) {
+			$nativeAd.find("a").attr("href", nativeAds[nativeAdIndex].link);
+			$nativeAd.find(".post-img").attr("data-src", image_link);
+			$nativeAd.find(".post-title > a").text(nativeAds[nativeAdIndex].title);
+			$nativeAd.find(".post-snippet").html(nativeAds[nativeAdIndex].content);
+			if (nativeAds[nativeAdIndex].origin != null) {
+				$nativeAd.find("#mszobr-origin").text(nativeAds[nativeAdIndex].origin);
+			}
+		}
+		return $nativeAd[0];
+	} else {
+		return null;
+	}
 }
 
-var randomTotal = nativeAds.length;
+//add native ad at "position 2" (only if page has posts)
+if (!noads) {
+	//$("#main-wrap2").prepend(NativeAd());
+} else {
+	$("#ad-3").css("display", "none");
+	$("#ad-1").css("display", "none");
+}
 
-$.each(nativeAds, function(index, value) {
-	if (value.weight != null) {
-		randomTotal += (value.weight - 1);
+//display "no posts found"
+if (document.URL.indexOf("/search") > -1) {
+	if (document.getElementById("blog-posts").innerHTML.length < 10) {
+		$("#main-page").append($("<div class='error-message'>Your search yielded no results.<br/><br/><a href='/'>Return to home page</a></div>"));
 	}
-});
+}
 
-//random create ad
-// random number between 0 and 20
-var randomNumber = Math.floor(Math.random() * randomTotal);
+//add more native ads
+function AddMoreAds() {
+	var posts = $("#main-wrap2 > .post");
 
-nativeAdIndex = randomNumber
+	var temp_index = 2;
+	while (temp_index < posts.length) {
+		$(posts[temp_index]).after(NativeAd());
+		temp_index += 5;
+	}
 
+	var ad_temp_index = 0;
+	while (ad_temp_index < posts.length) {
+		//$(posts[ad_temp_index]).after("<div align='center' class='main-element'><ins class='adsbygoogle' data-ad-client='ca-pub-5722789279541063' data-ad-format='fluid' data-ad-layout='image-top' data-ad-slot='3347528632' style='display:block'/></div>");
+		$(posts[ad_temp_index]).after("<div align='center' class='ad-index ad-2' id='ad-2'><ins class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-5722789279541063\" data-ad-slot=\"7657779856\" data-ad-format=\"auto\"></ins></div>");
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		ad_temp_index += 6;
+	}
+
+	//lazy load images
+	lazyload();
+}
+
+// load blogger basic css
 /*
-if (randomNumber < 4) {
-	nativeAdIndex = 1;
+var cssId = 'myCss';  // you could encode the css path itself to generate id..
+if (!document.getElementById(cssId))
+{
+    var head  = document.getElementsByTagName('head')[0];
+    var link  = document.createElement('link');
+    link.id   = cssId;
+    link.rel  = 'stylesheet';
+    link.type = 'text/css';
+    link.href = 'https://www.blogger.com/static/v1/widgets/3332739511-widget_css_bundle.css';
+    link.media = 'all';
+    head.appendChild(link);
 }
 */
-
-if (nativeAds[nativeAdIndex] != null) {
-	$ad = $("#mszobr");
-	$ad.find("a").attr("href", nativeAds[nativeAdIndex].link);
-	$ad.find(".post-img").attr("src", nativeAds[nativeAdIndex].image);
-	$ad.find(".post-title > a").text(nativeAds[nativeAdIndex].title);
-	$ad.find(".post-snippet").html(nativeAds[nativeAdIndex].content);
-	if (nativeAds[nativeAdIndex].origin != null) {
-		$ad.find("#mszobr-origin").text(nativeAds[nativeAdIndex].origin);
-	}
-}
-	
-//unimportant-posts
-function UnimportantPostsFetcher()
-{
-var d = new Date();
-d.setDate(d.getDate() - 5);
-
-function pad(num, size) {
-    var s = "000000000" + num;
-    return s.substr(s.length-size);
-}
-
-var mindate = d.getFullYear() + "-" + pad(d.getMonth() + 1, 2) + "-" + pad(d.getDate(), 2) + "T00:00:00Z";
-
-var script4 = document.createElement('script');
-script4.src = "http://www.footyheadlines.com/feeds/posts/summary/-/ZZZ?published&alt=json&max-results=12&published-min=" + mindate + "&callback=UnimportantPosts";
-document.body.appendChild(script4);
-}
 
 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
 var disqus_shortname = 'footyheadlines'; // required: replace example with your forum shortname
@@ -5047,17 +5228,18 @@ var disqus_shortname = 'footyheadlines'; // required: replace example with your 
 //loading more posts at bottom
 (function(a) {
     function h() {
+		load = false;
         g || (g = !0, d ? (b.find("a").hide(), b.find("img").show(), a.ajax(d, {
             dataType: "html"
         }).done(function(c) {
             var c = a("<div></div>").append(c.replace(j, "")),
                 e = c.find("a.blog-pager-older-link");
             e ? d = e.attr("href") : (d = "", b.hide());
-            var topPosts = c.find(i).children(".post.top");
-            var normalPosts = c.find(i).children(".post").not(".top");
 			var c_temp = c.find(i);
             c = c.find(i).children(".post");
+			//console.log(c);
 
+			//remove pager on first scroll
             if (count == 0) {
                 /*$("#PopularPosts2").appendTo(a(main));
                 $("#PopularPosts3").appendTo(a(main));
@@ -5076,13 +5258,38 @@ var disqus_shortname = 'footyheadlines'; // required: replace example with your 
 			
 			/* facebook like box */
 			if (count > 1 | document.URL.indexOf("html") < 0) {
-			if (Math.floor(Math.random() * 100) < 80) {
+			if (Math.floor(Math.random() * 100) < 50) {
 				$("#main-wrap2").append($('<div class="main-element main-element-image"><div class="fb-page" data-href="https://www.facebook.com/FootyHeadlines" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/FootyHeadlines" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/FootyHeadlines">Footy Headlines</a></blockquote></div></div>'));
 			}
+			}
+			
+			/* ads */
+			var index_ad = 1;
+			var ad_count = 0;
+			while (index_ad < c.length) {
+				c.splice(index_ad, 0, $("<div align='center' class='ad-index' id='ad-2'><ins class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-5722789279541063\" data-ad-slot=\"7657779856\" data-ad-format=\"auto\"></ins></div>")[0]);
+				ad_count++;
+                //a(main).append($("<div class=\"ad\">TEST</div>"));
+				index_ad += 6;
+			}
+			console.log(ad_count);
+			
+			/* native ad */
+			var index = 3;
+			while (index < c.length) {
+				$nativeAd = NativeAd();
+				//console.log($nativeAd);
+				if ($nativeAd != null) {
+					c.splice(index, 0, $nativeAd);
+					//console.log(c);
+				}
+				index+= 6;
 			}
 
             /* realigning posts */
             if (count == 1 & document.URL.indexOf("html") > 0) {
+				var topPosts = c.filter(".top");
+				var normalPosts = c.not(".top");
                 a(main).append(topPosts);
                 a(main).append(normalPosts);
                 //console.log(topPosts);
@@ -5090,21 +5297,43 @@ var disqus_shortname = 'footyheadlines'; // required: replace example with your 
             } else {
                 a(main).append(c);
             }
+			
+			//load ads into containers
+			for (var counter = 0; counter < ad_count; counter++) {
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			}
+			
+			// lazy load images
+			lazyload();
 
             /* end realigning posts */
             //c.insert(1,div);
+			
+			// remove small post if same as opened post
+            $(".post.index").each(function(index) {
+                if (!$(this).hasClass("checked")) {
+                    $(this).addClass("checked");
+                    if (current.indexOf($(this).children(".post-link").attr("href")) > -1 | current.indexOf($(this).children(".post-info").children(".post-link").attr("href")) > -1) {
+                        $(this).remove();
+                    }
+                }
+            });
 			
 			if (document.URL.indexOf("html") > 0 && count == 1) {
 				var social_buttons = c_temp.children("#social-buttons");
 				var story_text = c_temp.children("#story-text");
 				var nf_button = c_temp.children("#nf-text");
 				var fhes_button = c_temp.children("#fhes-text");
+				var fbdb_embed = c_temp.children("#fbdb-embed");
 				
-				a(main).find(".post.index").eq(0).after($('<div class="main-element main-element-image"><div class="fb-page" data-href="https://www.facebook.com/FootyHeadlines" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/FootyHeadlines" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/FootyHeadlines">Footy Headlines</a></blockquote></div></div>'));
-				a(main).find(".post.index").eq(1).after(social_buttons);
-				a(main).find(".post.index").eq(1).after(nf_button);
-				a(main).find(".post.index").eq(2).after(story_text);
+				$("#main-wrap2").find(".post.index").eq(1).after($('<div class="main-element main-element-image"><div class="fb-page" data-href="https://www.facebook.com/FootyHeadlines" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/FootyHeadlines" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/FootyHeadlines">Footy Headlines</a></blockquote></div></div>'));
+				$("#main-wrap2").find(".post.index").eq(1).after(fbdb_embed);
+				iFrameResize({}, '#fbdb-iframe');
+				$("#main-wrap2").find(".post.index").eq(2).after(social_buttons);
+				$("#main-wrap2").find(".post.index").eq(2).after(nf_button);
+				$("#main-wrap2").find(".post.index").eq(3).after(story_text);
 				
+				/*
 			    var div = $("<div class=\"unimportant-posts\" id=\"unimportant-posts-1\"></div>");
 			    var div2 = $("<div class=\"unimportant-posts\" id=\"unimportant-posts-2\"></div>");
 			    a(main).find(".post.index").eq(2).after(div);
@@ -5114,95 +5343,16 @@ var disqus_shortname = 'footyheadlines'; // required: replace example with your 
 			        a(main).append(div2);
 			    }
 			    UnimportantPostsFetcher();
+				*/
 			}
+			/*
 			if ((count > 1 | document.URL.indexOf("html") < 0) & (document.URL.indexOf("search") < 0)) {
 			    a(main).append($("<div class=\"unimportant-posts\" id=\"unimportant-posts-" + unimportantPostsBlockCount + "\"><div class='unimportant-post placeholder'><img src='https://lh3.googleusercontent.com/-FiCzyOK4Mew/T4aAj2uVJKI/AAAAAAAAPaY/x23tjGIH7ls/s32/ajax-loader.gif'/></div></div>"));
 			    var script = document.createElement('script');
 			    script.src = "http://www.footyheadlines.com/feeds/posts/summary/-/ZZZ?published&alt=json&max-results=6&start-index=" + (unimportantPostsCount + 1) + "&callback=UnimportantPosts2";
 			    document.body.appendChild(script);
 			}
-
-            $(".post.index").each(function(index) {
-                if (!$(this).hasClass("checked")) {
-                    $(this).addClass("checked");
-                    if (current.indexOf($(this).children(".post-link").attr("href")) > -1 | current.indexOf($(this).children(".post-info").children(".post-link").attr("href")) > -1) {
-                        $(this).remove();
-                    }
-                }
-            });
-
-			/*
-            $(".facebook-like").each(function(index) {
-                if (!$(this).text().trim().length) {
-                    var obj = $(this);
-                    var url = $(this).attr('data-href');
-                    $.getJSON("https://api.facebook.com/method/fql.query?query=select%20total_count%20from%20link_stat%20where%20url=%27" + url + "%27&format=json", function(json, $obj) {
-                        var count = json[0].total_count;
-                        if (count > 1000) {
-                            count = (Math.floor(count / 100) / 10).toFixed(1) + 'k';
-                        }
-                        obj.text(count);
-                    });
-                }
-            });
-            $(".twitter-share").each(function(index) {
-                if (!$(this).text().trim().length) {
-                    var obj = $(this);
-                    var url = $(this).attr('data-url');
-                    $.getJSON("http://urls.api.twitter.com/1/urls/count.json?callback=?&url=" + url, function(json, $obj) {
-                        var count = json.count;
-                        if (count > 1000) {
-                            count = (Math.floor(count / 100) / 10).toFixed(1) + 'k';
-                            count = count.replace('.0', '');
-                        }
-                        obj.text(count);
-                    });
-                }
-            });
 			*/
-            $(".post-shares").each(function(index) {
-                var obj_shares = $(this);
-
-                if (obj_shares.text() == "Shares") {
-                    var url = obj_shares.attr("data-href");
-                    var count = 0;
-                    var count_comm = 0;
-                    var count_site = "";
-
-                    $.getJSON("https://api.facebook.com/method/fql.query?query=select%20total_count%20from%20link_stat%20where%20url=%27" + url + "%27&format=json", function(json, $obj) {
-                        var count_fb = json[0].total_count;
-                        count = count + count_fb;
-                        count_site = count;
-                        if (count > 1000) {
-                            count_site = (Math.floor(count / 100) / 10).toFixed(1) + 'k';
-                            count_site = count_site.replace('.0', '');
-                        }
-                        if (count == 1) {
-                            obj_shares.text(count_site + " Share");
-                        } else {
-                            obj_shares.text(count_site + " Shares");
-                        }
-                    });
-					
-					/*
-                    $.getJSON("http://urls.api.twitter.com/1/urls/count.json?callback=?&url=" + url, function(json, $obj) {
-                        var count_tw = json.count;
-                        count = count + count_tw;
-                        count_site = count;
-                        if (count > 1000) {
-                            count_site = (Math.floor(count / 100) / 10).toFixed(1) + 'k';
-                            count_site = count_site.replace('.0', '');
-                        }
-                        if (count == 1) {
-                            obj_shares.text(count_site + " Share");
-                        } else {
-                            obj_shares.text(count_site + " Shares");
-                        }
-                    });
-					*/
-                }
-
-            });
 
             //window._gaq && window._gaq.push(["_trackPageview", d]);
             window.gapi && window.gapi.plusone && window.gapi.plusone.go && window.gapi.plusone.go();
@@ -5213,6 +5363,8 @@ var disqus_shortname = 'footyheadlines'; // required: replace example with your 
             b.find("a").show();
             g = !1
         })) : b.hide())
+		
+		load = true;
     }
 
     function k() {
@@ -5223,6 +5375,7 @@ var disqus_shortname = 'footyheadlines'; // required: replace example with your 
         }
     }
     var d = "",
+		load = true,
         b = null,
         i = "div.blog-posts",
         main = "div#main-wrap2",
@@ -5237,7 +5390,7 @@ var disqus_shortname = 'footyheadlines'; // required: replace example with your 
         threshold = 700;
     }
     /*a(document).ready(function () {*/
-    if ((d = a("a.blog-pager-older-link").attr("href")) && !menu_open) {
+    if ((d = a("a.blog-pager-older-link").attr("href")) && !menu_open && load) {
         var c = a('<a href="javascript:;">Load more posts</a>');
         c.click(h);
         //var e = a('<img src="https://lh3.googleusercontent.com/-FiCzyOK4Mew/T4aAj2uVJKI/AAAAAAAAPaY/x23tjGIH7ls/s32/ajax-loader.gif" style="display: none;">');
@@ -5368,9 +5521,9 @@ else {obj_shares.text(count_site + " Shares"); }
 */
 });
 
-$(".show-more").click(function(){
-	$(".hidden").toggle();
-	$(".show-more").toggle();
+$("#show-more").click(function(){
+	$("#hidden-boot-calendar").toggle();
+	$("#show-more").toggle();
 });
 
 //function tablet
@@ -5398,6 +5551,7 @@ $('.load-delay').each(function () {
   $(this).attr('src', $(this).attr('delayedsrc'));
 });
 	
+	/*
 //load feed
 var script2 = document.createElement('script');
 //script2.src = "http://ajax.googleapis.com/ajax/services/feed/load?q=http%3A%2F%2Fwww.footyheadlines.com%2Ffeeds%2Fposts%2Fdefault&num=5&output=json&v=1.0&callback=showrecentposts";
@@ -5408,9 +5562,10 @@ document.body.appendChild(script2);
 var script6 = document.createElement('script');
 script6.src = "http://www.footyheadlines.com/feeds/posts/default/-/Boot%20Watch?alt=json&max-results=3&callback=BootWatchSidebar";
 document.body.appendChild(script6);
+*/
 
 if(document.URL.indexOf("html") < 0){
-UnimportantPostsFetcher();
+//UnimportantPostsFetcher();
 }
 
 function inView(elem)
@@ -5623,7 +5778,9 @@ else window.onload = getScript;
 */
 //]]>
 </script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script async="async" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.2/lazyload.js"></script>-->
+<!--<script async='async' src='http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'/>-->
+<!-- <script> //<![CDATA[ var script=document.createElement('script'); script.src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"; document.body.appendChild(script); //]]> </script> -->
 <script type="text/javascript">
 //<![CDATA[
 //google analytics
@@ -5742,6 +5899,20 @@ document.body.className = document.body.className + " opera-mini";
 <!-- End Cookie Consent plugin -->
 <script type="text/javascript">
 //<![CDATA[
+
+/* iframe resize */
+/*! iFrame Resizer (iframeSizer.min.js ) - v3.5.15 - 2017-10-15
+ *  Desc: Force cross domain iframes to size to content.
+ *  Requires: iframeResizer.contentWindow.min.js to be loaded into the target frame.
+ *  Copyright: (c) 2017 David J. Bradshaw - dave@bradshaw.net
+ *  License: MIT
+ */
+
+!function(a){"use strict";function b(a,b,c){"addEventListener"in window?a.addEventListener(b,c,!1):"attachEvent"in window&&a.attachEvent("on"+b,c)}function c(a,b,c){"removeEventListener"in window?a.removeEventListener(b,c,!1):"detachEvent"in window&&a.detachEvent("on"+b,c)}function d(){var a,b=["moz","webkit","o","ms"];for(a=0;a<b.length&&!N;a+=1)N=window[b[a]+"RequestAnimationFrame"];N||h("setup","RequestAnimationFrame not supported")}function e(a){var b="Host page: "+a;return window.top!==window.self&&(b=window.parentIFrame&&window.parentIFrame.getId?window.parentIFrame.getId()+": "+a:"Nested host page: "+a),b}function f(a){return K+"["+e(a)+"]"}function g(a){return P[a]?P[a].log:G}function h(a,b){k("log",a,b,g(a))}function i(a,b){k("info",a,b,g(a))}function j(a,b){k("warn",a,b,!0)}function k(a,b,c,d){!0===d&&"object"==typeof window.console&&console[a](f(b),c)}function l(a){function d(){function a(){s(U),p(V),I("resizedCallback",U)}f("Height"),f("Width"),t(a,U,"init")}function e(){var a=T.substr(L).split(":");return{iframe:P[a[0]]&&P[a[0]].iframe,id:a[0],height:a[1],width:a[2],type:a[3]}}function f(a){var b=Number(P[V]["max"+a]),c=Number(P[V]["min"+a]),d=a.toLowerCase(),e=Number(U[d]);h(V,"Checking "+d+" is in range "+c+"-"+b),c>e&&(e=c,h(V,"Set "+d+" to min value")),e>b&&(e=b,h(V,"Set "+d+" to max value")),U[d]=""+e}function g(){function b(){function a(){var a=0,b=!1;for(h(V,"Checking connection is from allowed list of origins: "+d);a<d.length;a++)if(d[a]===c){b=!0;break}return b}function b(){var a=P[V]&&P[V].remoteHost;return h(V,"Checking connection is from: "+a),c===a}return d.constructor===Array?a():b()}var c=a.origin,d=P[V]&&P[V].checkOrigin;if(d&&""+c!="null"&&!b())throw new Error("Unexpected message received from: "+c+" for "+U.iframe.id+". Message was: "+a.data+". This error can be disabled by setting the checkOrigin: false option or by providing of array of trusted domains.");return!0}function k(){return K===(""+T).substr(0,L)&&T.substr(L).split(":")[0]in P}function l(){var a=U.type in{"true":1,"false":1,undefined:1};return a&&h(V,"Ignoring init message from meta parent page"),a}function w(a){return T.substr(T.indexOf(":")+J+a)}function y(a){h(V,"MessageCallback passed: {iframe: "+U.iframe.id+", message: "+a+"}"),I("messageCallback",{iframe:U.iframe,message:JSON.parse(a)}),h(V,"--")}function z(){var a=document.body.getBoundingClientRect(),b=U.iframe.getBoundingClientRect();return JSON.stringify({iframeHeight:b.height,iframeWidth:b.width,clientHeight:Math.max(document.documentElement.clientHeight,window.innerHeight||0),clientWidth:Math.max(document.documentElement.clientWidth,window.innerWidth||0),offsetTop:parseInt(b.top-a.top,10),offsetLeft:parseInt(b.left-a.left,10),scrollTop:window.pageYOffset,scrollLeft:window.pageXOffset})}function A(a,b){function c(){u("Send Page Info","pageInfo:"+z(),a,b)}x(c,32)}function B(){function a(a,b){function c(){P[f]?A(P[f].iframe,f):d()}["scroll","resize"].forEach(function(d){h(f,a+d+" listener for sendPageInfo"),b(window,d,c)})}function d(){a("Remove ",c)}function e(){a("Add ",b)}var f=V;e(),P[f]&&(P[f].stopPageInfo=d)}function C(){P[V]&&P[V].stopPageInfo&&(P[V].stopPageInfo(),delete P[V].stopPageInfo)}function D(){var a=!0;return null===U.iframe&&(j(V,"IFrame ("+U.id+") not found"),a=!1),a}function E(a){var b=a.getBoundingClientRect();return o(V),{x:Math.floor(Number(b.left)+Number(M.x)),y:Math.floor(Number(b.top)+Number(M.y))}}function F(a){function b(){M=f,G(),h(V,"--")}function c(){return{x:Number(U.width)+e.x,y:Number(U.height)+e.y}}function d(){window.parentIFrame?window.parentIFrame["scrollTo"+(a?"Offset":"")](f.x,f.y):j(V,"Unable to scroll to requested position, window.parentIFrame not found")}var e=a?E(U.iframe):{x:0,y:0},f=c();h(V,"Reposition requested from iFrame (offset x:"+e.x+" y:"+e.y+")"),window.top!==window.self?d():b()}function G(){!1!==I("scrollCallback",M)?p(V):q()}function H(a){function b(){var a=E(f);h(V,"Moving to in page link (#"+d+") at x: "+a.x+" y: "+a.y),M={x:a.x,y:a.y},G(),h(V,"--")}function c(){window.parentIFrame?window.parentIFrame.moveToAnchor(d):h(V,"In page link #"+d+" not found and window.parentIFrame not found")}var d=a.split("#")[1]||"",e=decodeURIComponent(d),f=document.getElementById(e)||document.getElementsByName(e)[0];f?b():window.top!==window.self?c():h(V,"In page link #"+d+" not found")}function I(a,b){return m(V,a,b)}function N(){switch(P[V]&&P[V].firstRun&&S(),U.type){case"close":P[V].closeRequestCallback?m(V,"closeRequestCallback",P[V].iframe):n(U.iframe);break;case"message":y(w(6));break;case"scrollTo":F(!1);break;case"scrollToOffset":F(!0);break;case"pageInfo":A(P[V]&&P[V].iframe,V),B();break;case"pageInfoStop":C();break;case"inPageLink":H(w(9));break;case"reset":r(U);break;case"init":d(),I("initCallback",U.iframe);break;default:d()}}function O(a){var b=!0;return P[a]||(b=!1,j(U.type+" No settings for "+a+". Message was: "+T)),b}function Q(){for(var a in P)u("iFrame requested init",v(a),document.getElementById(a),a)}function S(){P[V]&&(P[V].firstRun=!1)}var T=a.data,U={},V=null;"[iFrameResizerChild]Ready"===T?Q():k()?(U=e(),V=R=U.id,P[V]&&(P[V].loaded=!0),!l()&&O(V)&&(h(V,"Received: "+T),D()&&g()&&N())):i(V,"Ignored: "+T)}function m(a,b,c){var d=null,e=null;if(P[a]){if(d=P[a][b],"function"!=typeof d)throw new TypeError(b+" on iFrame["+a+"] is not a function");e=d(c)}return e}function n(a){var b=a.id;h(b,"Removing iFrame: "+b),a.parentNode&&a.parentNode.removeChild(a),m(b,"closedCallback",b),h(b,"--"),delete P[b]}function o(b){null===M&&(M={x:window.pageXOffset!==a?window.pageXOffset:document.documentElement.scrollLeft,y:window.pageYOffset!==a?window.pageYOffset:document.documentElement.scrollTop},h(b,"Get page position: "+M.x+","+M.y))}function p(a){null!==M&&(window.scrollTo(M.x,M.y),h(a,"Set page position: "+M.x+","+M.y),q())}function q(){M=null}function r(a){function b(){s(a),u("reset","reset",a.iframe,a.id)}h(a.id,"Size reset requested by "+("init"===a.type?"host page":"iFrame")),o(a.id),t(b,a,"reset")}function s(a){function b(b){a.iframe.style[b]=a[b]+"px",h(a.id,"IFrame ("+e+") "+b+" set to "+a[b]+"px")}function c(b){H||"0"!==a[b]||(H=!0,h(e,"Hidden iFrame detected, creating visibility listener"),y())}function d(a){b(a),c(a)}var e=a.iframe.id;P[e]&&(P[e].sizeHeight&&d("height"),P[e].sizeWidth&&d("width"))}function t(a,b,c){c!==b.type&&N?(h(b.id,"Requesting animation frame"),N(a)):a()}function u(a,b,c,d,e){function f(){var e=P[d]&&P[d].targetOrigin;h(d,"["+a+"] Sending msg to iframe["+d+"] ("+b+") targetOrigin: "+e),c.contentWindow.postMessage(K+b,e)}function g(){j(d,"["+a+"] IFrame("+d+") not found")}function i(){c&&"contentWindow"in c&&null!==c.contentWindow?f():g()}function k(){function a(){!P[d]||P[d].loaded||l||(l=!0,j(d,"IFrame has not responded within "+P[d].warningTimeout/1e3+" seconds. Check iFrameResizer.contentWindow.js has been loaded in iFrame. This message can be ingored if everything is working, or you can set the warningTimeout option to a higher value or zero to suppress this warning."))}e&&P[d]&&P[d].warningTimeout&&(P[d].msgTimeout=setTimeout(a,P[d].warningTimeout))}var l=!1;d=d||c.id,P[d]&&(i(),k())}function v(a){return a+":"+P[a].bodyMarginV1+":"+P[a].sizeWidth+":"+P[a].log+":"+P[a].interval+":"+P[a].enablePublicMethods+":"+P[a].autoResize+":"+P[a].bodyMargin+":"+P[a].heightCalculationMethod+":"+P[a].bodyBackground+":"+P[a].bodyPadding+":"+P[a].tolerance+":"+P[a].inPageLinks+":"+P[a].resizeFrom+":"+P[a].widthCalculationMethod}function w(c,d){function e(){function a(a){1/0!==P[x][a]&&0!==P[x][a]&&(c.style[a]=P[x][a]+"px",h(x,"Set "+a+" = "+P[x][a]+"px"))}function b(a){if(P[x]["min"+a]>P[x]["max"+a])throw new Error("Value for min"+a+" can not be greater than max"+a)}b("Height"),b("Width"),a("maxHeight"),a("minHeight"),a("maxWidth"),a("minWidth")}function f(){var a=d&&d.id||S.id+F++;return null!==document.getElementById(a)&&(a+=F++),a}function g(a){return R=a,""===a&&(c.id=a=f(),G=(d||{}).log,R=a,h(a,"Added missing iframe ID: "+a+" ("+c.src+")")),a}function i(){switch(h(x,"IFrame scrolling "+(P[x]&&P[x].scrolling?"enabled":"disabled")+" for "+x),c.style.overflow=!1===(P[x]&&P[x].scrolling)?"hidden":"auto",P[x]&&P[x].scrolling){case!0:c.scrolling="yes";break;case!1:c.scrolling="no";break;default:c.scrolling=P[x]?P[x].scrolling:"no"}}function k(){("number"==typeof(P[x]&&P[x].bodyMargin)||"0"===(P[x]&&P[x].bodyMargin))&&(P[x].bodyMarginV1=P[x].bodyMargin,P[x].bodyMargin=""+P[x].bodyMargin+"px")}function l(){var a=P[x]&&P[x].firstRun,b=P[x]&&P[x].heightCalculationMethod in O;!a&&b&&r({iframe:c,height:0,width:0,type:"init"})}function m(){Function.prototype.bind&&P[x]&&(P[x].iframe.iFrameResizer={close:n.bind(null,P[x].iframe),resize:u.bind(null,"Window resize","resize",P[x].iframe),moveToAnchor:function(a){u("Move to anchor","moveToAnchor:"+a,P[x].iframe,x)},sendMessage:function(a){a=JSON.stringify(a),u("Send Message","message:"+a,P[x].iframe,x)}})}function o(d){function e(){u("iFrame.onload",d,c,a,!0),l()}b(c,"load",e),u("init",d,c,a,!0)}function p(a){if("object"!=typeof a)throw new TypeError("Options is not an object")}function q(a){for(var b in S)S.hasOwnProperty(b)&&(P[x][b]=a.hasOwnProperty(b)?a[b]:S[b])}function s(a){return""===a||"file://"===a?"*":a}function t(a){a=a||{},P[x]={firstRun:!0,iframe:c,remoteHost:c.src.split("/").slice(0,3).join("/")},p(a),q(a),P[x]&&(P[x].targetOrigin=!0===P[x].checkOrigin?s(P[x].remoteHost):"*")}function w(){return x in P&&"iFrameResizer"in c}var x=g(c.id);w()?j(x,"Ignored iFrame, already setup."):(t(d),i(),e(),k(),o(v(x)),m())}function x(a,b){null===Q&&(Q=setTimeout(function(){Q=null,a()},b))}function y(){function a(){function a(a){function b(b){return"0px"===(P[a]&&P[a].iframe.style[b])}function c(a){return null!==a.offsetParent}P[a]&&c(P[a].iframe)&&(b("height")||b("width"))&&u("Visibility change","resize",P[a].iframe,a)}for(var b in P)a(b)}function b(b){h("window","Mutation observed: "+b[0].target+" "+b[0].type),x(a,16)}function c(){var a=document.querySelector("body"),c={attributes:!0,attributeOldValue:!1,characterData:!0,characterDataOldValue:!1,childList:!0,subtree:!0},e=new d(b);e.observe(a,c)}var d=window.MutationObserver||window.WebKitMutationObserver;d&&c()}function z(a){function b(){B("Window "+a,"resize")}h("window","Trigger event: "+a),x(b,16)}function A(){function a(){B("Tab Visable","resize")}"hidden"!==document.visibilityState&&(h("document","Trigger event: Visiblity change"),x(a,16))}function B(a,b){function c(a){return P[a]&&"parent"===P[a].resizeFrom&&P[a].autoResize&&!P[a].firstRun}for(var d in P)c(d)&&u(a,b,document.getElementById(d),d)}function C(){b(window,"message",l),b(window,"resize",function(){z("resize")}),b(document,"visibilitychange",A),b(document,"-webkit-visibilitychange",A),b(window,"focusin",function(){z("focus")}),b(window,"focus",function(){z("focus")})}function D(){function b(a,b){function c(){if(!b.tagName)throw new TypeError("Object is not a valid DOM element");if("IFRAME"!==b.tagName.toUpperCase())throw new TypeError("Expected <IFRAME> tag, found <"+b.tagName+">")}b&&(c(),w(b,a),e.push(b))}function c(a){a&&a.enablePublicMethods&&j("enablePublicMethods option has been removed, public methods are now always available in the iFrame")}var e;return d(),C(),function(d,f){switch(e=[],c(d),typeof f){case"undefined":case"string":Array.prototype.forEach.call(document.querySelectorAll(f||"iframe"),b.bind(a,d));break;case"object":b(d,f);break;default:throw new TypeError("Unexpected data type ("+typeof f+")")}return e}}function E(a){a.fn?a.fn.iFrameResize||(a.fn.iFrameResize=function(a){function b(b,c){w(c,a)}return this.filter("iframe").each(b).end()}):i("","Unable to bind to jQuery, it is not fully loaded.")}if("undefined"!=typeof window){var F=0,G=!1,H=!1,I="message",J=I.length,K="[iFrameSizer]",L=K.length,M=null,N=window.requestAnimationFrame,O={max:1,scroll:1,bodyScroll:1,documentElementScroll:1},P={},Q=null,R="Host Page",S={autoResize:!0,bodyBackground:null,bodyMargin:null,bodyMarginV1:8,bodyPadding:null,checkOrigin:!0,inPageLinks:!1,enablePublicMethods:!0,heightCalculationMethod:"bodyOffset",id:"iFrameResizer",interval:32,log:!1,maxHeight:1/0,maxWidth:1/0,minHeight:0,minWidth:0,resizeFrom:"parent",scrolling:!1,sizeHeight:!0,sizeWidth:!1,warningTimeout:5e3,tolerance:0,widthCalculationMethod:"scroll",closedCallback:function(){},initCallback:function(){},messageCallback:function(){j("MessageCallback function not defined")},resizedCallback:function(){},scrollCallback:function(){return!0}};window.jQuery&&E(window.jQuery),"function"==typeof define&&define.amd?define([],D):"object"==typeof module&&"object"==typeof module.exports?module.exports=D():window.iFrameResize=window.iFrameResize||D()}}();
+//# sourceMappingURL=iframeResizer.map
+
+iFrameResize({}, '#fbdb-iframe');
+
 /*
   var vglnk = { key: '038abcf27f3cdca239ba4d5c9dc1e816' };
 
@@ -5753,6 +5924,7 @@ document.body.className = document.body.className + " opera-mini";
 */
   //]]>
 </script>
+<!-- facebook plugins -->
 <div id="fb-root"></div>
 <script>
 //<![CDATA[
@@ -5841,18 +6013,17 @@ document.getElementById("language-select-icon").onclick = OpenLanguageMenu;
 //]]>
 </script>
 
-
 <noscript>
 //<![CDATA[
 /*
 <!-- <script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
 
-<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3641759723-widgets.js"></script>
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3577707566-widgets.js"></script>
 <script type='text/javascript'>
-window['__wavt'] = 'AOuZoY5q8rG6-nBLgnGrHMVEKvxi9CZ9Dg:1496764274170';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7535398437004525886','//www.footyheadlines.com/p/privace-policy.html','7535398437004525886');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7535398437004525886', 'title': 'Footy Headlines', 'url': 'http://www.footyheadlines.com/p/privace-policy.html', 'canonicalUrl': 'http://www.footyheadlines.com/p/privace-policy.html', 'homepageUrl': 'http://www.footyheadlines.com/', 'searchUrl': 'http://www.footyheadlines.com/search', 'canonicalHomepageUrl': 'http://www.footyheadlines.com/', 'blogspotFaviconUrl': 'http://www.footyheadlines.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': false, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Footy Headlines - Atom\x22 href\x3d\x22http://www.footyheadlines.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Footy Headlines - RSS\x22 href\x3d\x22http://www.footyheadlines.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Footy Headlines - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7535398437004525886/posts/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '', 'mobileHeadScript': '', 'adsenseClientId': 'ca-pub-8308719196410101', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/de69988a463c1469', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Share to Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'jumpLinkMessage': 'Read more &#187;', 'pageType': 'static_page', 'pageId': '4687348093633890882', 'pageName': 'Privacy Policy', 'pageTitle': 'Footy Headlines: Privacy Policy', 'metaDescription': ''}}, {'name': 'features', 'data': {'ga_social_hooks': 'false', 'unsupported_browser_message': 'false', 'lightbox_img_parsing': 'false', 'sharing_get_link_dialog': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Privacy Policy', 'description': 'All new Football Kits and Boots. Exclusive Leaks, all 2017-2018 Football Kit releases and leaks - ahead of the game.', 'url': 'http://www.footyheadlines.com/p/privace-policy.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': true, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'pageId': 4687348093633890882}}]);
+window['__wavt'] = 'AOuZoY4wu5fwkamb7PK8O5C0d3FTUnkP8g:1512112092281';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7535398437004525886','//www.footyheadlines.com/p/privace-policy.html','7535398437004525886');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7535398437004525886', 'title': 'Footy Headlines', 'url': 'http://www.footyheadlines.com/p/privace-policy.html', 'canonicalUrl': 'http://www.footyheadlines.com/p/privace-policy.html', 'homepageUrl': 'http://www.footyheadlines.com/', 'searchUrl': 'http://www.footyheadlines.com/search', 'canonicalHomepageUrl': 'http://www.footyheadlines.com/', 'blogspotFaviconUrl': 'http://www.footyheadlines.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': false, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Footy Headlines - Atom\x22 href\x3d\x22http://www.footyheadlines.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Footy Headlines - RSS\x22 href\x3d\x22http://www.footyheadlines.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Footy Headlines - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7535398437004525886/posts/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '', 'adsenseClientId': 'ca-pub-8308719196410101', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/dc7cd1fed39c27e0', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Share to Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'static_page', 'pageId': '4687348093633890882', 'pageName': 'Privacy Policy', 'pageTitle': 'Footy Headlines: Privacy Policy', 'metaDescription': ''}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'lightbox_img_parsing': 'true', 'video_theatre_support': 'true', 'sharing_get_link_dialog': 'false', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Privacy Policy', 'description': 'All new Football Kits and Boots. Exclusive Leaks, all 2017-2018 Football Kit releases and leaks - ahead of the game.', 'url': 'http://www.footyheadlines.com/p/privace-policy.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': true, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'pageId': 4687348093633890882}}]);
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/4073657148-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3053021603-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'main', null, document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts3', 'main', null, document.getElementById('PopularPosts3'), {}, 'displayModeFull'));
 </script>
@@ -5860,4 +6031,5 @@ _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPost
 */
 //]]>
 </noscript>
+
 </body></html>
