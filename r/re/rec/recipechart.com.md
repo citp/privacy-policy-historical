@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the recipechart.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516131547id_/http%3A//www.recipechart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipechart.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201231812id_/http%3A//recipechart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Food Recipes, Dinner Ideas, Healthy Recipe Tips
 
-This Privacy Policy covers the use of RecipeChart.com. RecipeChart.com and any and all of the entities that control, own, or are affiliated with RecipeCharts.com are referred to herein as “RecipeChart.com” “We”, “Us” or “Our”. RecipeChart.com will maintain your data in connection with the use of RecipeChart.com as described in this Privacy Policy.
+This Privacy Policy covers the use of this website, RecipeChart.com. RecipeChart.com and any and all of the entities that control, own, or are affiliated with RecipeCharts.com are referred to herein as “RecipeChart.com” “We”, “Us” or “Our”. RecipeChart.com will maintain your data in connection with the use of RecipeChart.com as described in this Privacy Policy.
 
 Your privacy is important to Us. To demonstrate Our commitment to Our users’ privacy, We provide the following Privacy Policy to inform you of Our policies regarding the collection, use and disclosure of personally-identifiable information collected from you during your use of the Sites.
 
