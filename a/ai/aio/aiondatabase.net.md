@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aiondatabase.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205013id_/http%3A//aiondatabase.net/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiondatabase.net privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201134641id_/http%3A//aiondatabase.net/us/privacy) for the most accurate reproduction.*
 
-# Item - Aion Database 1.0
+# Item - Aion Database
 
 **WHAT THIS PRIVACY POLICY COVERS**
 
