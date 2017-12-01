@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the always-review.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035630id_/http%3A//always-review.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the always-review.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201141020id_/http%3A//always-review.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,4 +81,4 @@ Frederiksberg, Copenhagen 2000
 
 Denmark
 
-Info@alwaysreview.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
