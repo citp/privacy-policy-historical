@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epf-india.co.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055858id_/http%3A//epf-india.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epf-india.co.in privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201044616id_/http%3A//epf-india.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EPF India, EPF, EPF Fund, EPF Status, EPF Balance, EPF Claim
 
