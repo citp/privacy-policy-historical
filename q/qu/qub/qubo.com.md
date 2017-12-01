@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qubo.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629183224id_/http%3A//qubo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qubo.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201021431id_/https%3A//qubo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Qubo - Qubo is the nation’s only 24/7 over-the-air network for children.
+# Privacy Policy
 
 This Privacy Policy applies to our online practices only, except the Opt-Out procedure below also applies to our offline collection of personal information.
 
