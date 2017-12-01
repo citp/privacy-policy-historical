@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-e-tailer.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614201529id_/http%3A//the-e-tailer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-e-tailer.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201163716id_/http%3A//the-e-tailer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The-E-Tailer
 
@@ -55,7 +55,7 @@ The Company takes reasonable steps to protect the Personal Data provided via the
 
 **Other Terms and Conditions:**
 
-Your access to and use of the Site is subject to the Terms of Use, located at http://cartageous.com/terms-of-use.
+Your access to and use of the Site is subject to the Terms of Use, located at [http://the-e-tailer.com/terms-of-use.](http://the-e-tailer.com/terms-of-use/)
 
 **Changes to the Company’s Privacy Policy:**
 
