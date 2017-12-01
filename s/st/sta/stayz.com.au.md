@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stayz.com.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607123610id_/http%3A//travel.stayz.com.au/info/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stayz.com.au privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201192033id_/http%3A//travel.stayz.com.au/info/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stayz
 
