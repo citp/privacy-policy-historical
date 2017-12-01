@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymagnum.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617000322id_/http%3A//www.unileverprivacypolicy.com/en_gb/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymagnum.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201014909id_/http%3A//www.unileverprivacypolicy.com/en_gb/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,11 +21,11 @@ This Privacy Notice explains the types of personal information we collect and ho
 
 ## What does this Privacy Notice apply to?
 
-This Privacy Notice applies to personal information collected by the Unilever Group of companies in connection with the services they offer. Find out more about the Unilever Group at <http://unilever.com/aboutus/>. This includes information collected offline through our Consumer Engagement Centres, direct marketing campaigns, sweepstakes and competitions, and online through our websites, applications and branded pages on third party platforms and applications accessed or used through such websites or third party platforms (“ **Unilever Sites** ”). 
+This Privacy Notice applies to personal information collected by the Unilever Group of companies in connection with the services they offer. Find out more about the Unilever Group at <https://www.unilever.com/about/>. This includes information collected offline through our Consumer Engagement Centres, direct marketing campaigns, sweepstakes and competitions, and online through our websites, applications and branded pages on third party platforms and applications accessed or used through such websites or third party platforms (“ **Unilever Sites** ”).
 
 This Privacy Notice also applies to targeted Unilever content, including offers and advertisements for Unilever products and services, which we (or a service provider acting on our behalf) may send to you on third party websites, platforms and applications (“ **Third Party Sites** ”) based on your Site Usage Information (as defined below). These Third Party Sites may have their own privacy policies and terms and conditions. We encourage you to read them before using those Third Party Sites.
 
-This Privacy Notice is hereby incorporated into and forms part of the terms and conditions of use of the applicable Unilever Site. For information about the Unilever Group company responsible for protecting your personal information, see  **Your privacy rights and who to contact** below.
+This Privacy Notice is hereby incorporated into and forms part of the terms and conditions of use of the applicable Unilever Site. For information about the Unilever Group company responsible for protecting your personal information, see **Your privacy rights and who to contact** below.
 
 ## Your consent
 
