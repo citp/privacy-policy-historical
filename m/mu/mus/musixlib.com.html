@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2017-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623170325id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2017-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171201145607id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Article"><head>
+<!DOCTYPE html><html itemscope="" itemtype="http&quot;://schema.org/Article&quot;"><head>
 		<title>MusixLib -  Albums And More</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		 <meta name="description" content="Play albums from your favorites artists and improve YouTube music experience
@@ -61,15 +61,16 @@ MusixLib give you better YouTube music experience.
 		<meta name="twitter:image" content="http://www.musixlib.com/images/logo_fb_share.jpg">
 		<meta name="twitter:url" content="http://www.musixlib.com/privacy.php?lnk=share">
 		<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/ifhnjalcekbmmeknpgnkpghldbbhanen">
+            <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gmoebkoglliamijedpdfchnpaeaapifb" ;="">
+
 
 
 	
 
 <link href="css/style.css?2" rel="stylesheet" type="text/css" media="all">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
 <script src="js/jquery.cookie.js"></script>
-<script src="js/offers.js"></script>
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
 
 <link rel="stylesheet" type="text/css" href="slick/slick.css">
@@ -79,13 +80,13 @@ MusixLib give you better YouTube music experience.
 <script src="js/sweet-alert.min.js"></script>
 <link rel="stylesheet" type="text/css" href="css/sweet-alert.css">
 <script src="js/lyrics.js"></script>
-<script type="text/javascript">
- 
-</script>
+<script src="js/ext.js"></script>
+
+
  
  <script>
 
-var baseDataUrl = "http://data.musixlib.com/data.php";
+var baseDataUrl = "/data.php";
 var apiKey ="2f9054ca214be48156d3e58faeb73d29";
 var ytKey ="AIzaSyAnaTM19weW-KnMnTO2yoDwlcbE82iqLuA";
 var _plObj = null;
@@ -284,9 +285,9 @@ function openStore()
 {
 	window.open("https://chrome.google.com/webstore/detail/ifhnjalcekbmmeknpgnkpghldbbhanen");
 }
-function saveAlbum(id,name,image,releaseDate,artist,trackCount)
+function saveAlbum(id,name,image,releaseDate,artist,trackCount,artist_avatar)
 {
-	var u = baseDataUrl+"?uid="+getUsetId()+"&t=alu&id="+id+"&name="+encodeURIComponent(name)+"&image="+encodeURIComponent(image)+"&releaseDate="+releaseDate+"&artist="+encodeURIComponent(artist)+"&trackCount="+trackCount;
+	var u = baseDataUrl+"?uid="+getUsetId()+"&t=alu&id="+id+"&name="+encodeURIComponent(name)+"&image="+encodeURIComponent(image)+"&releaseDate="+releaseDate+"&artist="+encodeURIComponent(artist)+"&trackCount="+trackCount+ "&artist_avatar=" + artist_avatar;
 	console.log(u);
 
 
@@ -377,19 +378,21 @@ function playAlbum(index)
     } else {
 	    var query = "it=" + album.id;
     }
-    var counter = 9;
+    var counter = 6;
     var show_each = 9;
-    if ( counter > show_each ) {
+   /* if ( counter > show_each ) {
         $.ajax("/update_counter.php", {
             data: { count:0 }
         });
-        window.location.href="http://www.tinyfier.com/musixlib?i=" + album.id + "&q=" + encodeURI(query);
+        window.location.href = location.protocol + "//www.tinyfier.com/musixlib?i=" + album.id + "&q=" + encodeURI(query);
     } else {
         $.ajax("/update_counter.php", {
             data: { count:counter+1 }
         });
-        window.location.href="http://www.musixlib.com/details.php?t=a&" + query;
-    }
+        window.location.href = location.protocol + "//www.musixlib.com/details.php?t=a&" + query;
+    }*/
+    window.location.href = location.protocol + "//www.musixlib.com/details.php?t=a&" + query;
+
 }
 function removeAlbum(albumId,divClassId)
 {
@@ -756,8 +759,76 @@ function canShareMsg()
 		return false;
 	}
 }
+
+function addExt(callback)
+{
+    $( "body" ).append('<div id="extadd"><div id="clickad" style="width: 379px; height: 76px; position: fixed; left: 50%; top: 330px; z-index: 999999;">   <img src="../images/pop_gif4_c.gif" style="margin-top: -100px;margin-left: -210px;max-width: none"> </div>  <div id="undeContinue" style="height: 100%; opacity: 0.7; position: fixed; width: 100%; z-index: 99; top: 0px; left: 0px; background: rgb(0, 0, 0);"></div></div>');
+
+     clickInstall(callback);
+}
+function cancelExt(callback)
+{
+    $( "#extadd" ).remove();
+
+    swal({   title: "The installation was interrupted",   text: "It's free and takes less than 10 seconds to enable the best\r\nmusic experience on Chrome",   type: "error",   showCancelButton: true,   confirmButtonColor: "#3b5998",   confirmButtonText: "Yes, Add To Chrome",   cancelButtonText: "No, not now",   closeOnConfirm: true ,customClass:'16px',   closeOnCancel: true ,allowOutsideClick:true}, function(isConfirm){
+        if (isConfirm) {
+            addExt();
+        }else {
+            if(callback){
+                callback();
+            }
+
+        }
+    });
+}
+function offerExtToUser(callback,title)
+{
+    showExtPageView();
+         swal({   title: "Play "+title,   text: "Add Music Streaming to Chrome and enjoy the largest database for\r\nmusic albums, songs and videos, all in one click." ,   type: "success",   showCancelButton: true,   confirmButtonColor: "#3b5998",   confirmButtonText: "Yes, Add And Play",   cancelButtonText: "No, Remind me later",   closeOnConfirm: true ,customClass:'16px',   closeOnCancel:   callback == null?true:false ,allowOutsideClick:false}, function(isConfirm){
+            if (isConfirm) {
+                addExt(callback);
+            } else {
+                if(callback)
+                    cancelExt(callback) } });
+}
+function isNeedExt(type) {
+    var extadd = $.cookie('extadd');
+
+    if(extadd   != undefined){
+        if(type == "page" && extadd == "1")//no player page
+        {
+            return true;
+        }else if(type == "player")//player page
+        {
+            return true;
+
+        }else if(type == "artist" && extadd == "4")//artist page
+        {
+            return true;
+
+        }else if(type == "home" && extadd == "3")//home page
+        {
+            return true;
+
+        }else if(type == null )//player page
+        {
+            return true;
+
+        }else
+        {
+            return false;
+
+        }
+    }else{
+        return false;
+    }
+
+}
 function showMsgUser()
 {
+    if(isNeedExt()){
+        return
+    }
 	//ext_fs = extension fource share
 	if((getURLParameter( "ext_fs" )   != null && $.cookie('ext_fs')   == undefined) || $.cookie('n_ext_fs')   != undefined)
 	{
@@ -770,9 +841,9 @@ function showMsgUser()
 			$.cookie('ext_fs', timestamp+"", { expires: 1 , path: '/' });
 		
 		$.removeCookie('n_ext_fs', { path: '/' });
-		swal({   title: "Share with friens?",   text: "Share MusixLib with friends and let them enjoy from playing albums they like!",   type: "success",   showCancelButton: true,   confirmButtonColor: "#3b5998",   confirmButtonText: "Yes, share the joy!",   cancelButtonText: "No, share later",   closeOnConfirm: true ,customClass:'16px',   closeOnCancel: false ,allowOutsideClick:true}, function(isConfirm){
+		swal({   title: "Share with friends?",   text: "Share MusixLib with friends and let them enjoy from playing albums they like!",   type: "success",   showCancelButton: true,   confirmButtonColor: "#3b5998",   confirmButtonText: "Yes, share the joy!",   cancelButtonText: "No, share later",   closeOnConfirm: true ,customClass:'16px',   closeOnCancel: false ,allowOutsideClick:true}, function(isConfirm){
 	   if (isConfirm) {
-	   		_mz_ShareAlbum("http://www.musixlib.com");
+	   		_mz_ShareAlbum(location.protocol + "//www.musixlib.com");
 	   } else {
 
 		swal("Cancelled", "Maybe next time... enjoy :)", "error");   } }); 
@@ -805,7 +876,7 @@ function showMsgUser()
 		updateCanShareMsg();
 			swal({   title: "Share with friens?",   text: "Share MusixLib with friends and let them enjoy from playing albums they like!",   type: "success",   showCancelButton: true,   confirmButtonColor: "#3b5998",   confirmButtonText: "Yes, share the joy!",   cancelButtonText: "No, share later",   closeOnConfirm: true,   closeOnCancel: false ,allowOutsideClick:true}, function(isConfirm){
 	   if (isConfirm) {
-	   		_mz_ShareAlbum("http://www.musixlib.com");
+	   		_mz_ShareAlbum(location.protocol + "//www.musixlib.com");
 	   			$.cookie('swf_msg', timestamp+"", { expires: 365 , path: '/' });
 
 	   } else {
@@ -815,6 +886,11 @@ function showMsgUser()
 
 	}
 
+}
+function firePixelTest(action) {
+    if (fireTestPixel && typeof fireTestPixel === 'function') {
+        try {fireTestPixel(action);}catch (e){}
+    }
 }
 
 function _mz_ShareAlbum(url){
@@ -842,6 +918,17 @@ function fInstall()
 }
 //ready start
  $(function() {
+     if(isNeedExt()){
+         $("<style>")
+             .prop("type", "text/css")
+             .html("\
+    .ads-wrapper {\
+         display: none;\
+    }")
+             .appendTo("head");
+     }
+
+
   	 showMsgUser();
  	 updateLoginView();
 
@@ -891,7 +978,7 @@ function fInstall()
 		{
 			return;
 		}
-		var u = "http://itunes.apple.com/search?term=" + request.term + "&media=music&entity=musicArtist&limit=5&attribute=artistTerm";
+		var u = location.protocol + "//itunes.apple.com/search?term=" + request.term + "&media=music&entity=musicArtist&limit=5&attribute=artistTerm";
 			$.ajax({
 				url: u,
 				dataType: "jsonp",
@@ -1124,11 +1211,12 @@ function fInstall()
             if (response && response.status === 'connected') {
 
                 FB.logout(function(response) {
-                    $.removeCookie("fblo_"+"1583817998516079",{  path: '/',domain: 'musixhub.com' });
-                    $.removeCookie("userId",{  path: '/',domain: 'musixhub.com' });
+                    $.removeCookie("fblo_"+"1583817998516079",{  path: '/',domain: 'musixlib.com' });
+                    $.removeCookie("userId",{  path: '/',domain: 'musixlib.com' });
                     $.removeCookie("userId");
                     $.cookie("msg", "LogOut successfully");
-                    location.reload();
+                    document.location.href = '/';
+                    //location.reload();
                 });
             }
         });
@@ -1209,7 +1297,9 @@ function fInstall()
 		</div>
 	</div>
 </div>
-	
+<!--<script type='text/javascript' src='//p175257.clksite.com/adServe/banners?tid=MUSIC_LIB_FLOATING&type=floating_banner&size=130x130&side=right&position=center'></script>-->
+
+    
  <div class="content-bg">
 <div class="wrap">
 <div class="main">
@@ -1286,8 +1376,6 @@ You are entitled to access and correct your data by requesting to do so via the 
                     <h3>Recent Posts</h3>
                     <ul class="f-nav">
                         <li><a target="_blank" href="https://www.facebook.com/musixlib"><img src="images/facebook.png" alt="">Facebook</a></li>
-                        <li><a href=""><img src="images/twitter.png" alt="">Twitter</a></li>
-                        <li><a href=""><img src="images/gplus.png" alt="">Google+</a></li>
                     </ul>
                 </div>
                 <div class="grid_1_of_4 images_1_of_4">
@@ -1329,8 +1417,9 @@ You are entitled to access and correct your data by requesting to do so via the 
         a.src = g;
         m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
     ga('create', 'UA-58597288-1', 'auto');
+
+    
     ga('send', 'pageview');
 
 </script>
