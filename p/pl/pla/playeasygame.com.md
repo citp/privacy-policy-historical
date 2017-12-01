@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playeasygame.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531172805id_/http%3A//www.playeasygame.com/index.php/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playeasygame.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201155952id_/http%3A//www.playeasygame.com/index.php/info/privacypolicy) for the most accurate reproduction.*
 
 # Playeasygame
 
