@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rgu.ac.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630145209id_/http%3A//www.rgu.ac.uk/footer/privacy-and-cookie-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgu.ac.uk privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201111941id_/http%3A//www.rgu.ac.uk/footer/privacy-and-cookie-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Robert Gordon University (RGU) Aberdeen Scotland
 
 ## Privacy Policy
 
-Robert Gordon University is committed to protecting your privacy and have adopted the privacy policy to let you know how your personal information is processed and used. 
+Robert Gordon University is committed to protecting your privacy and have adopted the privacy policy to let you know how your personal information and cookies are processed and used. 
 
 #### Find out more about Cookies
 
@@ -17,11 +17,12 @@ We will treat all information given by you in confidence and as required by the 
 
 The information you have given will be stored on our computer systems and used in the following ways: 
 
-  1. Marketing: In order that we may keep you informed by post, email, telephone or other electronic means of the news, events or services that may be of interest.  We also have a contract with a third party, Hobsons Plc (Hobsons) to manage our Contact Us system. Cookies are used to manage this process. Find out more about the Cookies they use  .
-  2. Web statistics: To improve the service to our clients and to analyse our website's use without identifying you as an individual. Find out more about Cookies. 
-  3. Market Research: From time to time we may ask you to take part in research surveys to assist us with improving our service to existing and potential students.
-  4. Other Web forms: You may be asked to provide personal information to gain access to other specific services. By supplying such information you consent to the University storing the information for the stated purpose. 
-  5. Applying for courses online: We have a contract with a third party Hobsons Plc (Hobsons) to manage our Apply Online system. Cookies are used to manage this process. Find out more about the [Cookies they use](https://web.archive.org/link/hobsons-privacy-policy "Hobsons Privacy Policy \(opens new window\)").
+  1. Contact Information: We have a contract with a third party, Hobsons Plc (Hobsons) to manage our Contact Us system. Cookies are used to manage this process. [Find out more about the Cookies they use.](https://web.archive.org/link/marketing-cookies "Find out more about the Cookies they use.")
+  2. Web statistics: To improve the service to our clients and to analyse our website's use without identifying you as an individual. Find out more about Cookies. 
+  3. Advertising: we sometimes use cookies for advertising or remarketing purposes. These cookies will remember your most recent searches and interactions on our website, helping us serve customised advertising as well as helping to improve your website browsing experience.
+  4. Market Research: From time to time we may ask you to take part in research surveys to assist us with improving our service to existing and potential students.
+  5. Other Web forms: You may be asked to provide personal information to gain access to other specific services. By supplying such information you consent to the University storing the information for the stated purpose. 
+  6. Applying for courses online: We have a contract with a third party Hobsons Plc (Hobsons) to manage our Apply Online system. Cookies are used to manage this process. Find out more about the [Cookies they use](https://web.archive.org/link/hobsons-privacy-policy "Hobsons Privacy Policy \(opens new window\)").   
 
 
 
@@ -43,16 +44,15 @@ As a user of the Robert Gordon University website you consent to the collection 
 
 **How to contact us**
 
-By writing to:
+By writing to the Robert Gordon University Data Protection Officer:
 
-Ian Croft   
-Policy Officer   
+Data Protection Officer  
 Robert Gordon University   
 Garthdee Annexe   
 Garthdee Road   
 AB10 7QB
 
-Email: [i.f.croft@rgu.ac.uk](mailto:i.f.croft@rgu.ac.uk "i.f.croft@rgu.ac.uk")
+Email: [dp@rgu.ac.uk](mailto:dp@rgu.ac.uk)
 
 **Security**
 
@@ -62,7 +62,13 @@ Robert Gordon University is concerned about the security of your personal inform
 
 **Your control over your personal information**
 
-Opt-out / Changing your status: At any time you can withdraw permission for the use of your personal information. This can be done by contacting our data protection officer by sending a blank email to [k.fraser@rgu.ac.uk](mailto:k.fraser@rgu.ac.uk) and type "remove", in the subject field.
+Opt-out / Changing your status: At any time you can withdraw permission for the use of your personal information. This can be done by contacting our data protection officer by sending an email to [dp@rgu.ac.uk](mailto:dp@rgu.ac.uk "Data Protection at RGU")
+
+## GDPR General Data Protection Regulation (GDPR)
+
+Please be aware that from May 2018 the Data Protection Act will be replaced by General Data Protection Regulation (GDPR) which is a is a legal framework that sets guidelines for the collection and processing of personal information of individuals within the European Union. 
+
+[More information](https://web.archive.org/link/more-information-on-general-data-protection-regulation "General Data Protection Regulation \(GDPR\)")
 
 ## Cookies
 
@@ -75,6 +81,8 @@ Cookies are text files containing small amounts of information which are downloa
 [www.allaboutcookies.org](https://web.archive.org/link/all-about-cookies "All about cookies \(opens in new window\)")
 
 [www.youronlinechoices.eu](https://web.archive.org/D8CC9230-A677-11E1-AB44000D609CAA9F "Your online choices \(opens in new window\)")
+
+[www.ico.org.uk](https://web.archive.org/link/cookies-information-commissioner-s-office "Information Commissioner's Office")
 
 For a video about cookies visit:
 
@@ -90,7 +98,8 @@ These cookies are essential in order to enable you to move around the website an
 
 These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works. 
 
-**Robert Gordon University uses Google Analytics. Find out more about[Google Analytics in Google's Privacy policy ](https://web.archive.org/link/google-privacy-policy "Google Privacy Policy \(opens in new window\)")and download the [opt out widget.](https://web.archive.org/link/google-analytics-opt-out-add-in "Google Analytics opt out \(opens in new window\)") **
+**Robert Gordon University uses Google Analytics.  
+Find out more about [Google Analytics in Google's Privacy policy ](https://web.archive.org/link/google-privacy-policy "Google Privacy Policy \(opens in new window\)")and download the [opt out widget.](https://web.archive.org/link/google-analytics-opt-out-add-in "Google Analytics opt out \(opens in new window\)") **
 
 **By using our website you agree that we can place these types of cookies on your device.**
 
@@ -104,35 +113,10 @@ These cookies allow the website to remember choices you make (such as your user 
 
 These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. 
 
-**Robert Gordon University does not contain any advertisements on this website.** However **the University uses the AddThis button to enable content sharing**  As a consumer, you may have used these sharing tools, or installed an [AddThis browser extension](https://web.archive.org/link/addthis-browser-extension "Add This browser extension \(opens in new window\)"). You  should read the AddThis full [Privacy Policy](https://web.archive.org/link/addthis-privacy-policy "AddThis Privacy Policy \(opens in new window\)") and [Terms of Service](https://web.archive.org/link/addthis-terms-of-service "AddThis terms of service \(opens in new window\)"). 
+We sometimes use tracking pixels on our website that assist with advertising and remarketing purposes as well as acting to improve the user experience on our website. 
 
-We audit our site for the presence of cookies. 
+#### Category 5: Third party cookies 
 
-A report on our cookie audit is available from [webproject@rgu.ac.uk](mailto:webproject@rgu.ac.uk "Email web project")
+Third party services used on the Robert Gordon University website such as videos, maps and social media may use cookies. You can remove these cookies by altering the settings on your browser which is unlikely to change your experience on our website. 
 
 ## Opting out of cookies
-
-**More information is available from**[www.allaboutcookies.org](https://web.archive.org/link/all-about-cookies "All about cookies \(opens in new window\)")
-
-You may opt out of cookies by going to your browser settings.
-
-If you are using  **Internet Explorer (IE) 8.0+:**
-
-  * Go to 'Tools' in the menu bar which should drop down then click on 'Internet Options'
-  * Click on 'Privacy' Tab on top
-  * Click on 'Sites' a new window should open called 'Per Site Privacy Actions'
-  * Type in the URL of the site you wish to allow or block cookie in th 'Address of website' box
-
-
-
-**To delete existing cookies:**
-
-  * Go to 'Tools' in the menu bar which should drop down then click on 'Internet Options'
-  * Click on 'Privacy' Tab on top
-  * Click on 'Sites' a new window should open called 'Per Site Privacy Actions'
-  * Under the "Managed websites' box should be a list of all the websites you have visited.
-  * To remove all cookies simply click on the "Remove all" button.
-
-
-
-For details on how to do this for other browsers visit  [http://www.allaboutcookies.org/manage-cookies/](https://web.archive.org/link/all-about-cookies-managing-cookies-info "All about cookies - Managing cookies \(opens in new window\)")
