@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002846id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202003633id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Property Guide | Global Property Guide
 
@@ -8,7 +8,7 @@ This privacy policy states what we will do with your personal data once you have
 
 When you sign up for our newsletter, any communications you receive will be from The Global Property Guide and you can at any time decide to stop receiving them by clicking the unsubscribe link. You will not be contacted by sales people.
 
-An unsubscribe link is at the base of all emails. There is also a My Profile link at the top right of all Global Property Guide pages where your newsletter/advertising preferences can be altered by entering the email address at which you are receiving these emails. If you have problems doing this you can contact us on 44 (0) 117 376 3832 or email us on help@globalpropertyguide.com.
+An unsubscribe link is at the base of all emails. There is also a My Profile link at the top right of all Global Property Guide pages where your newsletter/advertising preferences can be altered by entering the email address at which you are receiving these emails. If you have problems doing this you can contact us on 44 (0) 117 376 3832 or email us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 The same applies when you provide information to post articles on The Global Property Guide, or when you provide information to continue using the site after reaching the limit of "free-to-use without signing up". The registration process is primarily used by us as a second opportunity to offer you our newsletter, and to offer you advertising emails (primarily property listings/offers). Both the newsletter and the advertising emails are entirely optional, and if you do not accept to receive these, the details you have submitted will not be used except for internal data analysis purposes, and for granting you full access to the site. 
 
