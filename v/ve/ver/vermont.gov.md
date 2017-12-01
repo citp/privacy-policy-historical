@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vermont.gov privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629101705id_/http%3A//www.vermont.gov/portal/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermont.gov privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201070333id_/http%3A//www.vermont.gov/portal/policies/privacy.php) for the most accurate reproduction.*
 
 # Vermont.gov - Policies - Privacy Policy
 
@@ -146,6 +146,6 @@ Back to top
 Floor 3, Suite 2  
 Montpelier, VT 05602  
 (802) 229-4171 x224  
-email: [portal-feedback@vermont.nicusa.com](mailto:portal-feedback@vermont.nicusa.com) eMail
+email: [vt-portal-support@egov.com](mailto:vt-portal-support@egov.com) eMail
 
 Back to top
