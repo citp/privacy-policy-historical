@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grandviewresearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041959id_/http%3A//www.grandviewresearch.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandviewresearch.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201132205id_/http%3A//www.grandviewresearch.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, ensuring complete security and confidentiality for Grand View Research customer
 
-**WEBSITE PRIVACY POLICY EFFECTIVE DATE:** November 26, 2013
+**WEBSITE PRIVACY POLICY EFFECTIVE DATE:** January 19, 2017
 
 ### 1\. INTRODUCTION
 
@@ -66,8 +66,12 @@ The Site may contain links to other websites. If you choose to visit other websi
 
 #### 6.1. CONTACTING US
 
-If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please contact us at the following legal@Grandviewresearch.com.
+If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please contact us at the following:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 #### 6.2. UPDATES AND CHANGES
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+#### 6.3. UNSUBSCRIBE POLICY
+
+You can unsubscribe your name from our email/telephone and marketing lists by writing to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
