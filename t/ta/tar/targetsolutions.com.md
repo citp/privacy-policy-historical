@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the targetsolutions.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031837id_/http%3A//www.targetsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetsolutions.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201235847id_/http%3A//www.targetsolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TargetSolutions
+# TargetSolutions' Privacy Policy | Our Commitment to Your Privacy
 
 ## TargetSolutions Privacy Policy
 
@@ -32,7 +32,7 @@ We may also receive information about you from other sources and add it to the i
 
 _Cookies and Other Tracking Technologies_
 
-Cookies are small pieces of information stored on your computer’s hard drive when you visit our Sites. They don’t tell us who you are unless you’ve specifically given us personally identifiable information. Cookies stored on your hard drive by  our Sites are not accessible to other sites. Like many other web sites, our Site use cookies to improve your experience with our online content. For example, we may use a cookie to identify members so they don’t have to re-enter a customer ID when they wish to login to our services. Cookies also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our Sites for these purposes, or by third-party companies operating on our behalf. However, our cookies do not contain any information that is, in itself, personally identifying. Cookies may be required in order for you to participate in certain areas. If you choose to use TargetSolutions services, you must have cookies enabled to access any of the member-only related pages. Most web browsers automatically accept cookies, but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.
+Cookies are small pieces of information stored on your computer’s hard drive when you visit our Sites. They don’t tell us who you are unless you’ve specifically given us personally identifiable information. Cookies stored on your hard drive by our Sites are not accessible to other sites. Like many other web sites, our Site use cookies to improve your experience with our online content. For example, we may use a cookie to identify members so they don’t have to re-enter a customer ID when they wish to login to our services. Cookies also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our Sites for these purposes, or by third-party companies operating on our behalf. However, our cookies do not contain any information that is, in itself, personally identifying. Cookies may be required in order for you to participate in certain areas. If you choose to use TargetSolutions services, you must have cookies enabled to access any of the member-only related pages. Most web browsers automatically accept cookies, but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.
 
 _Web Site Traffic Information_
 
@@ -52,10 +52,13 @@ In order to provide solutions to customers, we will often request identifying in
 
 **Section 4. Information Use and Disclosure**
 
+_Location of Personal Information Storage_
+
+The personal information that TargetSolutions collects and receives will be stored in the United States and/or Canada and is subject to disclosure laws of the United States and/or Canada, without notice to you.
+
 _De-identification and Aggregation of Your Personal Information_
 
-Target Solutions uses your Personal Information within internally to process any selections that you may make using www.targetsolutions.com and to create, develop, operate, deliver and improve our products and services. Target Solutions may de-identify and aggregate your Personal Information and license, sell or otherwise disclose the aggregated information to third parties.
-
+TargetSolutions uses your Personal Information within internally to process any selections that you may make using www.targetsolutions.com and to create, develop, operate, deliver and improve our products and services. TargetSolutions may de-identify and aggregate your Personal Information and license, sell or otherwise disclose the aggregated information to third parties.  
 _Aggregate Statistics_
 
 The aggregate statistics that describe our online audience, which is often based on the information you provide when you subscribe, register, or browse our sites, helps us sell our product and publicize TargetSolutions and its brands. The information we share under these circumstances does not contain behavioral or identifying information about any individual reader or user, unless the individual has given us permission to share that information.
@@ -79,6 +82,8 @@ TargetSolutions does not rent, sell, or share personal information about you wit
 We provide the information to your employer at their request unless the information is marked as an anonymous submission. Your employer is considered as a trusted recipient of personal information. TargetSolutions cannot guarantee the security of your personal information once it is delivered to your employer as it is the responsibility of your employer to maintain this security. Please contact your employer for more details on how they use your personal information.
 
 We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+
+Your personal information may be accessed in the United States and may be accessible to the United States government, courts or law enforcement or regulatory agencies through the laws of the United States.
 
 We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of TargetSolutions’ terms of use, or as otherwise required by law;
 
