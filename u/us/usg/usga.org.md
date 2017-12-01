@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usga.org privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626162036id_/http%3A//www.usga.org/content/usga/home-page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usga.org privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201145102id_/http%3A//www.usga.org/content/usga/home-page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
