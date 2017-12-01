@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricshopping.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531021931id_/http%3A//www.electricshopping.com/cookies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricshopping.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201225344id_/http%3A//www.electricshopping.com/cookies-privacy) for the most accurate reproduction.*
 
 # Cookies & Your Privacy
 
