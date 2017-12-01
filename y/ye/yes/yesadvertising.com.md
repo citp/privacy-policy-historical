@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626011641id_/http%3A//www.yesadvertising.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201165909id_/http%3A//www.yesadvertising.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Mobile and Online Advertising Technology C
 
@@ -48,4 +48,4 @@ Please note that we send all new members a verification email to verify password
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [privacy@yesadvertising.com](mailto:privacy@yesadvertising.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c8b8baa1bea9abb188b1adbba9acbeadbabca1bba1a6afe6aba7a5)
