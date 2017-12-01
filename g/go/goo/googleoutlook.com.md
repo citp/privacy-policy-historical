@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googleoutlook.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081840id_/http%3A//www.googleoutlook.com/page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googleoutlook.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201163921id_/http%3A//googleoutlook.com/page) for the most accurate reproduction.*
 
 # Privacy Policy | Google Outlook | SEO Tools and Buy Sell Market Place
 
