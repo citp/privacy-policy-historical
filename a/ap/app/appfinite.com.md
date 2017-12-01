@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appfinite.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607190152id_/http%3A//appfinite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appfinite.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201153001id_/http%3A//appfinite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Appfinite
 
