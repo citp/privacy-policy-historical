@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uaex.edu privacy policy that was archived on 2017-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170601150234id_/https%3A//www.uaex.edu/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uaex.edu privacy policy that was archived on 2017-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171201150024id_/https%3A//www.uaex.edu/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -25,7 +25,7 @@ Licensed under Unlicense, http://unlicense.org/
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,800italic,400,800,700,600" rel="stylesheet" type="text/css">
 <!-- Minimized jQuery from Google CDN -->
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//us1.siteimprove.com/js/siteanalyze_24250.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script type="text/javascript">window.jQuery || document.write("&lt;script src='https://www.uaex.edu/_resources/js/jquery-1.8.3.min.js?v=3'>&lt;/script>")</script><style type="text/css" media="print">body:after{content:url(https://ssl.google-analytics.com/collect?v=1&t=event&ec=print&tid=UA-39815896-1&cid=d224191f-aa05-4017-9577-6c687ccfa676&z=1580431212&ea=Privacy&el=%2Fweb%2F20170601150234id_%2Fhttps%253A%2F%2Fwww.uaex.edu%2Fprivacy.aspx)}</style></head><body>&lt;script src='https://www.uaex.edu/_resources/js/jquery-1.8.3.min.js?v=3'&gt;&lt;/script&gt;
+<script type="text/javascript">window.jQuery || document.write("&lt;script src='https://www.uaex.edu/_resources/js/jquery-1.8.3.min.js?v=3'>&lt;/script>")</script><style type="text/css" media="print">body:after{content:url(https://ssl.google-analytics.com/collect?v=1&t=event&ec=print&tid=UA-39815896-1&cid=924a9364-affb-a4ad-ea26-9835ccbd94d0&z=1580431214&ea=Privacy&el=%2Fweb%2F20171201150024id_%2Fhttps%253A%2F%2Fwww.uaex.edu%2Fprivacy.aspx)}</style></head><body>&lt;script src='https://www.uaex.edu/_resources/js/jquery-1.8.3.min.js?v=3'&gt;&lt;/script&gt;
 <!-- Added v= to jquery.js to force browsers to update cache when CSS has been updated -->
 <!-- HTML5 IE Enabling Script -->
 <!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -139,7 +139,73 @@ var startBomgarChat = function ()
 	BG.start(BG.START_TYPE.FULL, { sessionKey: 'keygen();' });
 }
 </script>
-
+<script>
+/*<![CDATA[*/
+	$(function() 
+    {
+		if ($(window).width() < 413)
+		{
+			$('ul.side-nav').each(function() 
+			{
+				var wrap = $(document.createElement('nav')).insertBefore($(this).hide());
+				$('section').attr('style', 'padding-top: 30px;');
+				var select = $(document.createElement('select'));
+				var a1 = $(document.createElement('a'));
+				var span1 = $(document.createElement('span'));
+				var span2 = $(document.createElement('span'));
+				var span3 = $(document.createElement('span'));
+				$(wrap).append($(span3));
+			
+				$(span3).append($(span1));
+				$(span3).append($(span2));
+				$(span3).append($(a1));
+				$(span3).append($(select));
+				
+				$(wrap).addClass('add-nav');
+				$(span3).addClass('select-nav-select');
+				$(span3).addClass('select-area');
+				$(span3).attr('style', 'background: #fff;width: 233px; padding-bottom: 10px;');
+				$(span1).addClass('left');
+				$(span2).addClass('center');
+				$(a1).addClass('select-opener');
+				$(select).attr('id', 'nav-select');
+				var doption = $(document.createElement('option'));
+				$(doption).addClass('opt-default');
+				$(doption).append('Section Navigation');
+				$(select).prepend($(doption));
+				$(wrap).attr('style', 'margin: 5px 0 5px; width:233px;');
+				$(wrap).append('<br/>');
+				$(select).attr('style', 'top: 2px; left: 2px; margin: 0px auto; padding: 0px; border: medium none; position: absolute; width: 229px; height: 18px; font-weight: 600; color:#ba0d2e;');
+				$('>li a', this).each(function() 
+				{
+					option = $(document.createElement('option')).appendTo(select).val(this.href).html($(this).html());/*.change(function() 
+					{
+						var link = option.val();
+						window.location = link;
+					});*/
+					option.addClass('opt-level-1');	
+				});
+				
+					var a = $(select).on('change', function() 
+					{
+					
+					if ($(this).attr('target')==='_blank') 
+					{
+						window.open(this.value);
+					}
+					else 
+					{
+						window.location.href = this.value;
+					}
+					});
+					
+					
+				
+			});
+		}
+	});
+/*]]>*/
+</script>
 <script type="text/javascript" src="/_resources/js/directedit.js"></script><script type="text/javascript">
       <!--
 				window.onload = function(){ directedit(); }
@@ -287,7 +353,7 @@ ga('send', 'pageview');
                         <ul>
                            <li><strong class="title"><a title="Fruits &amp; Nuts" href="https://www.uaex.edu/yard-garden/fruits-nuts/">Small Fruits &amp; Nuts</a></strong><p>Enjoying the sweet fruits of your labor.</p>
                            </li>
-                           <li><strong class="title"><a title="In The Garden" href="https://www.uaex.edu/yard-garden/in-the-garden/">In the Garden Blog</a></strong><p>Gardening wisdom by Janet Carson.</p>
+                           <li><strong class="title"><a title="In The Garden" href="https://www.uaex.edu/yard-garden/in-the-garden/">In the Garden&nbsp;</a></strong><p>Gardening wisdom by Janet Carson.</p>
                            </li>
                            <li><strong class="title"><a title="Youth &amp; Gardening" href="https://www.uaex.edu/yard-garden/youth-gardening/">Youth and Gardening</a></strong><p>Growing together from youth to maturity.</p>
                            </li>
@@ -305,9 +371,9 @@ ga('send', 'pageview');
                   <div class="drop-holder">
                      <div class="col">
                         <ul>
-                           <li><strong class="title"><a title="Leadership" href="https://www.uaex.edu/business-communities/leadership/">Leadership</a></strong><p>Shaping the people who can move ideas into reality.</p>
+                           <li><strong class="title"><a title="Leadership" href="https://www.uaex.edu/business-communities/leadership/">Leadership</a></strong><p>Equipping individuals to lead organizations, communities, and regions.</p>
                            </li>
-                           <li><strong class="title"><a title="Strategic Planning" href="https://www.uaex.edu/business-communities/strategic-planning/">Strategic Planning</a></strong><p>Steering projects from Point A to Point B along the most trouble-free route.</p>
+                           <li><strong class="title"><a title="Strategic Planning" href="https://www.uaex.edu/business-communities/strategic-planning/">Strategic Planning</a></strong><p>Guiding communities and regions toward vibrant and sustainable futures.</p>
                            </li>
                            <li><strong class="title"><a title="Business &amp; Entrepreneurship" href="https://www.uaex.edu/business-communities/business-entrepreneurship/">Business &amp; Entrepreneurship</a></strong><p>Guiding entrepreneurs from concept to profit.</p>
                            </li>
@@ -321,13 +387,13 @@ ga('send', 'pageview');
                         <ul>
                            <li><strong class="title"><a title="Voter Education" href="https://www.uaex.edu/business-communities/voter-education/">Voter Education</a></strong><p>Providing unbiased information to enable educated votes on critical issues.</p>
                            </li>
-                           <li><strong class="title"><a title="Government &amp; Policy" href="https://www.uaex.edu/business-communities/government-policy/">Government &amp; Policy</a></strong><p>Understanding that knowledge is power.</p>
+                           <li><strong class="title"><a title="Public Policy Center" href="https://www.uaex.edu/business-communities/public-policy-center/">Public Policy Center</a></strong><p>Understanding that knowledge is power.</p>
                            </li>
-                           <li><strong class="title"><a href="https://www.uaex.edu/business-communities/nonprofit/">Nonprofit</a></strong><p>Best practices for starting and running a nonprofit</p>
-                           </li>
-                           <li><strong class="title"><a title="Food Industry" href="https://www.uaex.edu/business-communities/food-industry/">Food Industry</a></strong><p>The science and business of food</p>
+                           <li><strong class="title"><a title="Local Government" href="https://www.uaex.edu/business-communities/local-government/default.aspx">Local Government</a></strong><p>R<span>esearch-based connection to government and policy issues.&nbsp;</span></p>
                            </li>
                            <li><strong class="title"><a title="Arkansas Local Foods" href="https://www.uaex.edu/business-communities/local-foods/">Local Foods</a></strong><p>Support Arkansas local food initiatives</p>
+                           </li>
+                           <li><strong class="title"><a title="Food Industry" href="https://www.uaex.edu/business-communities/food-industry/">Food Industry</a></strong><p>The science and business of food</p>
                            </li>
                         </ul>
                      </div>
@@ -582,14 +648,14 @@ ga('send', 'pageview');
                <nav class="g1 col-last">
                   <ul>
 <li><a title="County Offices" href="https://www.uaex.edu/counties/default.aspx">Local County Offices</a></li>
-<li><a title="Academic Departments" href="https://bumperscollege.uark.edu/departments/" target="_blank">Academic Departments</a></li>
+<!--<li><a title="Academic Departments" href="https://bumperscollege.uark.edu/departments/" target="_blank">Academic Departments</a></li>-->
+<li><a title="Academic Departments" href="https://bumperscollege.uark.edu/academics/departments.php" target="_blank">Academic Departments</a></li>
 <li><a title="Research and Extension Centers" href="https://aaes.uark.edu/research-locations/default.aspx" target="_blank">Research &amp; Extension Centers</a></li>
 <li><a title="Support Services" href="https://www.uaex.edu/support-units/default.aspx">Support Services</a></li>
 <!--<li><a title="Personnel Directory" href="https://personnel-directory.uaex.edu/">Personnel Directory</a></li>-->
 <li><a href="https://www.uaex.edu/social-media/default.aspx">Social Media</a></li>
 <li><a title="E-Newsletter Sign up" href="https://www.uaex.edu/register.aspx"><span>E-Newsletter Sign up</span></a></li>
 </ul>
-
                </nav>
             </div>
             <nav class="footer-nav g3">
