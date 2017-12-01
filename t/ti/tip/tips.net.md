@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tips.net privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120104304id_/https%3A//www.tips.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tips.net privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201172606id_/https%3A//www.tips.net/privacy.html) for the most accurate reproduction.*
 
-# Tips.Net: Privacy Policy
+# Tips.Net: Privacy Policy (Tips.Net)
 
 It is the strict policy of Tips.Net and Sharon Parq Associates, Inc., that personal information, such as your name, postal and e-mail address or telephone number, is private and confidential.
 
