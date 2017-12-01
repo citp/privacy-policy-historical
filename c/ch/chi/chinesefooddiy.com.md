@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinesefooddiy.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520155747id_/http%3A//www.chinesefooddiy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesefooddiy.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201205237id_/http%3A//chinesefooddiy.com/privacy.htm) for the most accurate reproduction.*
 
 # ChineseFoodDIY.com Online Privacy Policy
 
