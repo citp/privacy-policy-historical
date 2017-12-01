@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the footyheadlines.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160342id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footyheadlines.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201070812id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.*
 
 # Footy Headlines: Privacy Policy
+
+[ ](https://www.blogger.com/page-edit.g?blogID=7535398437004525886&pageID=4687348093633890882&from=pencil "Edit Page")
 
 This Privacy Policy explain how we collect, use, and share information we obtain through your use of Footy Headlines. By using the Services, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy. If you have any further questions regarding the Privace Policy you can [contact us](http://www.footyheadlines.com/p/footy-headlines-contact-form.html).
 
