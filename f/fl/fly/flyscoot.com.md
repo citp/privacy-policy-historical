@@ -1,85 +1,116 @@
-> *The following text is extracted and transformed from the flyscoot.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630084033id_/http%3A//www.flyscoot.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyscoot.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201192710id_/http%3A//www.flyscoot.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy applies to the Scoot™ website, [www.flyscoot.com](http://www.flyscoot.com/en/). This section explains how Scoot™ protects the privacy of any personal information you provide to us during the course of your online experience.
+Scoot ('Scoot', 'We', 'Us', 'Our') collects Personal Data about You when a booking is made with Us (whether by You on or Your behalf), when You visit Our website [www.flyscoot.com](http://www.flyscoot.com/en/), when You call Us, or when You deal with Us directly, for example at airport counters. We may also collect PD from job applicants. 
 
-Your privacy is very important to Scoot™. Therefore, we have developed a Privacy Policy that covers how we handle the information you may provide us with when you visit our website.
+#### Personal Data (PD)
 
-This Privacy Policy is divided into two parts:
+PD is any data whether true or not, about an individual who can be identified —
 
-  * Part A: General customer data privacy policy statement
-  * Part B: Privacy policy statement for customer data collected through Scoot™’s websites, social media assets and Scoot™’s mobile services facility
-
-
-
-### Part A: General Customer Data Privacy Policy Statement
-
-##### 1\. Types of Customer Data
-
-We will collect 2 broad categories of customer data, depending on the nature and circumstances of the service requested or transaction undertaken:
-
-  * Personal Data, which includes but is not limited to:
-
-
-  1. Personal information that links back to an individual e.g., name, gender, date of birth, passport or other personal identification numbers;
-  2. Contact information e.g., address, phone number, email address;
-  3. Payment information e.g., credit or debit card information, including the name of cardholder, card number, billing address and expiry date;
-  4. Travel information e.g., flight information, dietary and seating or other service preferences;
-  5. Health information e.g., medical records or requests;
-  6. Technical information e.g., IP address; and
-
-
-  * Statistical Data, which is information on the behaviour of visitors to our website (see Section 2 of Part B).
+  * from that data; or
+  * from that data and other information to which the organisation has or is likely to have access
 
 
 
-This is collected for analytical purposes, to better understand the profile of our customers. This information will not be stored on your customer record, and is entirely anonymous, necessary to enforce legal regulations, or necessary to investigate suspected unlawful activity.
+### Collection and Use
 
-For purposes of this policy statement, the phrase Customer Data includes Personal Data and Statistical Data.
+Scoot collects PD about You in order better to provide You with personal services such as air travel and associated products such as travel insurance and accommodation, as well as to market Our products and services. Scoot must also collect PD and other information about You to comply with laws relating to air travel, immigration, customs and security.
 
-The provision of Customer Data (save for where the request for data is marked “optional” in the forms used to collect personal data) is obligatory in order for Scoot™ to carry out its services to you
+The types of PD that Scoot collects about You includes: 
 
-The failure to supply such Customer Data may result in
-
-  1. Scoot™ being unable to provide you with the services and/or products requested;
-  2. Scoot™ being unable to update you on our latest products and/or launches; and/or
-  3. your inability to enter or participate in contests, promotions or redemption activities organised by Scoot™’s websites, social media assets and mobile services facility.
-
-
-
-##### 2\. Purposes for Collection, Use and Disclosure
-
-Generally, Scoot™ collects Customer Data, either directly from you or from your authorised representatives (i.e. persons whom you have authorised, persons who have been validly identified as being you or your authorised representative pursuant to our then-current security procedures), from third parties (e.g., your travel agent or our service provider), or from publicly available sources, through our website, social media assets, mobile services, and other channels including our ticketing counters and airport operations, in order to fulfil the following purposes, which include but are not limited to:
-
-  * Providing services to you such as processing a transaction (e.g., making a booking), providing technical assistance, assisting you in the transaction, providing flight alert messages through Scoot™’s mobile services facility and facilitating internet check-in;
-  * Marketing and communicating with you in relation to products and services offered by Scoot™ and its airline and service partners;
-  * Contacting you for product or customer satisfaction surveys and market research; and
-  * Compliance with standard safety, security and legal requirements.
+  * Personal information that links back to the individual including name, date of birth, address, phone number, email address, passport details and nationality; 
+  * Contact information e.g., address, phone number, email address; 
+  * Payment information e.g., credit card or debit card information, including the name of the cardholder, card number, billing address and expiry date;
+  * Travel information e.g., flight information, dietary and seating or other service preferences; 
+  * Health information e.g., medical records or requests; 
+  * Technical information e.g., IP address; 
 
 
 
-In connection with the above, we may disclose, transfer and jointly use your Customer Data to and with our parent and affiliated airlines. In addition, we may disclose your Customer Data to third parties, such as our travel and freight service providers or travel-related businesses, partner airlines, airport management, security personnel and other carriers , but only to the extent that it is directly related to the primary purpose of its collection.
+Scoot will only collect PD that We reasonably require in the course of providing You with services or that We are required or permitted by law to collect. We will only collect by lawful and fair means in accordance with this Privacy Statement and relevant legislation.
 
-##### 3\. Processing and Disclosure of Customer Data
+We will assume, unless You tell Us otherwise, that You have consented to the collection of information about You for use in accordance with this Privacy Statement, which may vary from time to time. You may withdraw consent at any time; however, We will no longer be able to provide You with air travel or other services.
 
-We may process and disclose your personal information with third parties, such as our travel and freight service providers, or travel-related businesses, partner airlines, airport management, security personnel and other carriers for the purpose of processing your travel arrangements. Please rest assured that in all such instances, we will ensure that they adhere to the terms of this Privacy Policy, and will prohibit them from using your personal information in any way other than the specific purpose for which we supply it. We may also disclose your personal information to law enforcement agencies and governments for security, customs and immigration purposes. Please note that the initial recipients of such information may share booking data with other government agencies or enforcement authorities.
+You may interact with Us anonymously or using a pseudonym only for very limited purposes, such as calling Our call centre to make an inquiry or contacting Our Data Protection Officer. We will not be able to provide You any travel services or related purchases if You choose to remain anonymous or use a pseudonym because We are required by law to provide Your details to Customs, Immigration and security officials at the time of travel.
 
-Other than the above, we will not disclose your personal information without your consent unless it is either authorised or required by law, necessary to prevent a threat to life or health, reasonably necessary to enforce legal regulations, or necessary to investigate suspected unlawful activity.
+We will use Your PD for the following purposes, amongst others:
 
-##### 4\. Transfer of Information Overseas
+  * Processing, and collecting payment for the flight booking for You and any companions;
+  * Being aware of any special travel requirements (health or otherwise) You or Your travelling companion may have;
+  * Providing You with confirmation of Your flight booking and advising You of any changes to Your itinerary;
+  * Improving the flight booking process, including collecting preferences indicated by You when signing up for Our Scoot Account Subscriptions;
+  * Confirming Your identity when You check in;
+  * Processing and provision of Your purchase of in-flight services such as video, entertainment, food and beverages, and any other services which best meet Your preferences and needs (which We may collect during Our interactions with You);
+  * Addressing any feedback or complaints You may have;
+  * Assisting Customs and Immigration officials;
+  * Answering any queries You may have, providing technical assistance, assisting in and administering the flight booking transaction, providing flight alert messages through Our mobile services facility, facilitating internet check-in;
+  * Contacting You for product or customer satisfaction surveys;
+  * Research and analytics purposes, including market research;
+  * Marketing and communicating with You in relation to Our, and Our airline and service partners’, as well as Our appointed agents’, products and services. This includes collecting data relating to Your use of Our website to offer You personalized electronic content and electronic marketing material pertaining to Our, and Our airline and service partners’, as well as Our appointed agents’, products and services; and
+  * Safety, security and legal compliance.
 
-Our head office is based in Singapore. We may thus transfer your personal information to overseas data storage facilities where we keep our central records, our offices or appointed agents. Such transfers are necessary for us to fulfil our contract with you, as well as with relevant third parties, where applicable.
 
-##### 5\. Consent to Provide Information
 
-Whenever there is a need for us to perform a service for you that requires your personal information, your consent in providing such data will be implied from your request of the service or transaction to be completed. However, where required by law, Scoot™ will adopt an ‘opt-in' policy for obtaining customer consent, in which event, express written consent will be sought from you when collecting your Customer Data e.g., signing a form or checking a box. However, if you elect not to provide such consent, we may not be able to provide the service you have requested in which case we will advise you immediately so you can make an informed decision. Where you make reservations on behalf of another person, you undertake and will ensure that the individual whose Customer Data is supplied to Scoot™ has authorized the disclosure, is informed of and consents to the terms and conditions of this Privacy Policy. You may submit a request to withdraw your consent at any time by contacting Scoot™ (see Section 10).
+In connection with the above, We may, from time to time, collect, disclose, transfer and jointly use Your PD to and with Our parent company, subsidiaries and affiliated airlines. In addition, We may disclose Your PD to third parties, such as Our travel and freight service providers or travel-related businesses and service providers, partner airlines, airport management, security personnel and other carriers.
 
-Statistical Data is not linked to a customer record and Scoot™ does not need to seek consent for the collection, use or disclosure of Statistical Data. For more information on the collection and usage of Customer Data obtained from Scoot™’s websites, social media assets and through Scoot™’s services facility, please refer to Part B.
+If You also subscribe to Our mailing list, We may email to You updates about Our products and services.
 
-##### 6\. Access to your Information
+If We use or disclose Your personal information for a purpose (the 'secondary purpose') other the main reason for which it was originally collected (the 'primary purpose'), to the extent required by law We will ensure that: 
 
-We will, on request, allow you to access your personal information stored with us. However, we may charge an administrative fee to help us recover the costs incurred to supply such information to you. In exceptional circumstances, we may not be able to comply with your request, but will provide you with the explanation for refusal, where applicable. Exceptional circumstances include where:
+  * The secondary purpose is related to the primary purpose of collection and You would reasonably expect that We would use or disclose Your information in that way; or
+  * You have consented to the use or disclosure of Your personal information for the secondary purpose; or
+  * The use or disclosure is required or authorised by or under law; or
+  * The use or disclosure is otherwise permitted by law (for example, as a necessary part of an investigation of suspected unlawful activity).
+
+If We receive unsolicited PD that We could not have collected in accordance with this Privacy Statement and all applicable legislation, then that PD will be destroyed or de-identified as soon as practicable. 
+
+### Employment Applications
+
+If You make an employment application to Us, whether solicited or not, We will collect PD about You. The type of PD We collect is the information included in Your application: name, date of birth, address, phone number, email address, career history, education details or other information relating to Your career.  
+In considering Your application, We may also obtain personal information about You from third parties, for example, from Your previous employers or nominated referees. We may also collect sensitive information about You such as information about Your health (including any disability) or any criminal record that You may have. 
+
+We collect personal information for any one or more of the following purposes: 
+
+  * Assess You for a position or positions with Us or Our related entities;
+  * Assess whether You are suitable to progress to each stage of the recruitment process; or
+  * Store Your information for future job opportunities.
+
+If You do not provide Us with the information We seek, We will be unable to do one or more of the above.  
+We may disclose Your personal information to: 
+
+  * Organisations that conduct competency or psychometric tests;
+  * Referees or previous employers;
+  * Recruitment agencies or related entities acting on Our behalf;
+  * Our related entities;
+  * Law enforcement agencies to verify whether You have a criminal record; or
+  * Educational or vocational organisations to the extent necessary to verify Your qualifications.
+
+If We engage third-party contractors to perform services for Us which involves handling personal information We will take reasonable steps to prohibit the contractor from using personal information except for the purposes for which it was supplied. 
+
+#### Where and how stored
+
+Your PD is stored depending on the type of products or services You have requested from Us. For air travel and related services, Your PD may be stored in Our booking system, Our departure control systems, Our Customer Relations Management System and in Our email database.  
+PD collected by Scoot or on Our behalf is held securely in systems in Singapore, Australia, the Philippines and Ireland. We regularly review developments in security and encryption technologies. We will only hold Your PD for as long as required for the purposes for which it was collected or as otherwise required or permitted by law. 
+
+#### Where and how transmitted and to whom disclosed
+
+Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although We strive to protect such information, We cannot ensure or warrant the security of any information You transmit to Us or from Our online products or services and You do so at Your own risk.  
+For travel-related purposes, We may transfer Your PD to any of Our flight destinations or the flight destinations of Our airline partners, including points in: Singapore, Malaysia, Indonesia, Cambodia, Viet Nam, the Philippines, Australia, Thailand, India, Bangladesh, the Maldives, Myanmar, China, Hong Kong SAR, Macau SAR, Taiwan, Japan and Korea. We may also transfer PD held by Us or on Our behalf between Singapore, Australia, the Philippines and Ireland, where Our data storage or third-party processing facilities are located. PD collected on Our behalf by Our third-party call-centre contractors is shared only with Us.  
+You understand and consent to such transfers as being necessary for Us to fulfil Your flight and other arrangements.  
+If You are included in a booking with Us for travel with other persons, You agree that We may share some of Your PD with the other people in Your booking. 
+
+#### Booking of ancillary services
+
+When You make a booking for a related travel product, such as a hotel or a rental car, via the Scoot website, We act only as a data intermediary for the organisation that is selling You the product. As a data intermediary, We may collect PD from You for the booking. This PD will be securely held in the same manner as if We were collecting it from You for Our purposes. When You click through to the Website of the organisation selling You the product, You may see that organisation's data protection policy and Scoot has no control over such policies.
+
+#### Access, correction, withdrawal of consent
+
+If You do not wish to remain a subscriber to Our mailing list or otherwise receive updates on Our products and services, You are able to unsubscribe from Our mailing list via Our website, by clicking on the ‘Unsubscribe’ link on an email from Us or by contacting the Data Protection Officer.   
+We may contact You in order to ensure that the PD that We hold about You is correct and up-to-date.   
+Subject to any applicable laws or regulations, You may request access to Your PD held by Us You may also ask Us to detail how Your PD has been used in the past twelve months, and You may also require Us to correct or delete Your PD, including Your email address, that We hold. We will respond promptly to all such requests, which should be made to the Data Protection Officer. However, We may charge an administrative fee to help Us recover the costs incurred to supply such information to You. 
+
+In exceptional circumstances, We may not be able to comply with Your request, but will provide you with the explanation for refusal, where applicable. Exceptional circumstances include where: 
 
   * An investigating authority or government institution objects to Scoot™ complying with a customer’s request,
   * The information may, in the exercise of Scoot™’s reasonable discretion and/or assessment, affect the life or security of an individual, and
@@ -87,82 +118,54 @@ We will, on request, allow you to access your personal information stored with u
 
 
 
-##### 7\. Retention
+#### Scoot Data Protection Officer
 
-We will retain your personal information for as long as necessary to fulfil the purpose for which it was collected, or as required by applicable law. If your personal information is no longer required, we will take reasonable steps to ensure any information that we hold will be destroyed or de-identified where required by applicable law.
+Scoot has appointed a Data Protection Officer, who will respond to any requests or concerns from You regarding this Privacy Statement, what PD is held by Us and how it has been used.
 
-We hold your personal information in hard copy and electronic files. We may also use third party information system providers to store or have access to your personal information.
+#### Contact details: Data Protection Officer [privacy@flyscoot.com](mailto:privacy@flyscoot.com)
 
-##### 8\. Accuracy
+#### Information that is not Personal Data
 
-We will need your assistance to ensure that the personal information you provide to us is current, complete and accurate. If there are errors or changes to be made, please contact us and we will work towards either correcting it or discuss alternative actions with you.
+In addition, Scoot also collects behavioural data that is not Personal Data from Our customers when You visit the website. Behavioural data is stored for analytical purposes and is entirely anonymous.
 
-Scoot™ may also request Personal Data updates from you from time to time. As detailed in Section 2 above under the “Purposes for Collection, Use and Disclosure” sub-section, your booking information or flight itinerary may be disclosed to the appropriate customs and immigration authorities as required by law. As such, it is important to ensure that the Personal Data contained in your booking information or flight itinerary is current, complete and accurate.
+If You visit Our website, some of the information We and Our contractors collect about Your visit to Our website is not personal information because it does not reveal Your identity. Information of this nature can include:
 
-##### 9\. Updates to the Privacy Policy
+##### _Site Visit Information_
 
-We may amend this Privacy Policy if and when the business or legal requirements change. The updated versions will always be posted on our website with a date stamp, so that you are aware of when the last update was made. Subject to applicable laws, the prevailing language of the Privacy Policy will be English. In the event of any inconsistency in understanding between the English version and any translated version, the English version will prevail.
+When You visit Our website, information about Your visit may include Your server address, the date and time of Your visit, the pages You accessed, the information You downloaded and the type of Internet browser You used.  
+We or Our contractors may use this information in anonymous, aggregated form, for statistical purposes only, to assist Us in improving the quality and usability of Our website.
 
-##### 10\. Contact Us
+##### _Cookies_
 
-Scoot™ has appointed a Data Protection Officer, who will respond to any requests or concerns from you regarding this Privacy Statement, what personal data is held by us and how it has been used.
+A cookie is a small string of information that a website transfers to Your browser for identification purposes. The cookies We or Our contractors use may identify individual users.
 
-**Data Protection Officer**  
-[privacy@scoot-tigerair.com](mailto:privacy@scoot-tigerair.com)
+Cookies can either be "persistent" or "session" based. Persistent cookies are stored on Your computer, contain an expiration date and are mainly for the user's convenience. Session cookies are short-lived and are held on Your browser's memory only for the duration of Your session, they are used only during a browsing session and expire when You quit Your browser.We or Our contractors may use both session and persistent cookies. This information may be used to personalise Your current visit to Our and Our contractors' websites. Upon closing Your browser, the session cookie is destroyed.
 
-We will respond to you within a reasonable time and no later than one month from the date of receipt of your correspondence.
+Most Internet browsers can be set to accept or reject cookies. If You do not want to accept cookies, You can adjust Your Internet browser to reject cookies or to notify You when they are being used. Rejecting cookies may limit the functionality of Our website.
 
-### Part B: Privacy policy statement for customer data collected through our websites, social media assets and our services facility
+#### Partnership with Adara and Sojern
 
-##### 1\. Cookies
+Scoot partners advertising networks, Adara (Adara.com) and Sojern (Sojern.com), to capture non-personally identifiable data from You through third-party cookies. This enables Adara and Sojern to display targeted and relevant messages from selected third-party websites, based on Your viewing behaviour on the Scoot websites and other selected websites. Your non-personally identifiable data is shared by Scoot with Adara and Sojern in the strictest confidence, for the unique purpose of serving more relevant advertising. Standards have been defined to ensure appropriate advertising is served, and all served advertisements offer the possibility for You to opt out of such selective advertising by Adara and Sojern. However, We have no control over the use of cookies by Adara and Sojern. There are two ways for You to opt-out of cookie use:
 
-Most websites like ours use cookies to enhance your online experience. Cookies are small pieces of data that are transferred to your computer's hard drive from your web browser to recognise your preferences and to tailor content for you on subsequent visits to this website. The cookies do not contain your personal information (unless you specifically chose our "Remember Me" feature) but only statistical data, which is entirely anonymous. You can refer to your browser settings to see if cookies have been enabled, or to simply remove any that you do not want. Please note that if you disable the use of cookies on your browser or remove specific cookies from this website or linked sites, then you may not be able to enjoy the full-functionality of these sites.
+##### _For Adara_
 
-Cookies may be used for marketing purposes to enable Scoot to present appropriate messages to you, including but not limited to:
-
-  1. allowing our websites to serve up different versions of a page for marketing purposes;
-  2. allowing third parties to display appropriate advertising and to track its effectiveness; and
-  3. displaying of relevant messages, which offer a selection of products based on your viewing behaviour on our websites and other selected websites.
+  * By visiting <http://adara.com/privacy-promise/opt-out> and clicking ‘Submit’; or
+  * Through the Network Advertising Initiative (NAI) or the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioural Advertising, of which Adara is member. Each of these programmes provides an opt-out page where You can exercise control over members/’participants’ cookies from a central location.
 
 
 
-##### 2\. Google Analytics
-
-In order to improve your online experience in future, we may track the online behaviour of our visitors to further optimize our website and/ or our presence on referral websites. This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses the cookies stored on your computer to help analyse your use of the website. This information will then be transmitted to a Google server in the USA and stored there. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activities for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required by law or for processing this data on behalf of Google. Google will never associate your IP address with any other data held by Google. Please note that such data will not be tagged your customer record and is completely anonymous, and will only be aggregated for statistical analysis. For more details, please refer to Google’s Privacy Policy.
-
-##### 3\. Partnership with Adara and Sojern
-
-Scoot partners advertising network Adam (Adara,com) and Sojern (Sojern.com) to capture non-personally identifiable data from you through third-party cookies. This enables Adara and Sojern to display targeted and relevant messages from selected third-party websites, based on your viewing behaviour on the Singapore Airlines websites and other selected websites.
-
-Your non-personally identifiable data is shared by Scoot with Adara and Sojern in the strictest confidence, for the unique purpose of serving more relevant advertising. Standards have been defined to ensure appropriate advertising is served, and all served advertisements offer the possibility for you to opt out of such selective advertising by Adara. However, we have no control over the use of cookies by Adara and Sojern.
-
-**For Adara**
-
-  * By visiting [http://adara.com/privacy-promise/opt-out](http://adara.com/privacy-promise/opt-out%20and%20clicking%20'Submit') and clicking 'Submit'; or
-  * Through the Network Advertising Initiative (NAI) or the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioural Advertising, of which Adara is member. Each of these programmes provides an opt-out page where you can exercise control over members'/participants' cookies from a central location.
-
-
-
-**For Sojern**
+##### _For Sojern_
 
   * By visiting <http://preferences-mgr.truste.com/?affiliateId=111>, checking the opt-out box and clicking ‘Submit Opt-outs’; or
-  * Through the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising, of which Sojern is a member. This programme provides an opt-out page where you can exercise control over members/’participants’ cookies from a central location.
+  * Through the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioural Advertising, of which Sojern is a member. This programme provides an opt-out page where You can exercise control over members/’participants’ cookies from a central location.
+  * To opt-out of NAI members’ or DAA participants’ cookies, visit:
+    * NAI: <http://www.networkadvertising.org/managing/opt_out.asp>
+    * DAA: <http://www.aboutads.info/choices/>
 
 
 
-To opt-out of NAI members’ or DAA participants’ cookies, visit:
+### Updates to Scoot’s Privacy Statement
 
-  * NAI: <http://www.networkadvertising.org/managing/opt_out.asp>
-  * DAA: <http://www.aboutads.info/choices/>
+Scoot will amend this Privacy Statement from time to time without notice, and the updated versions will be posted on Scoot’s website and date stamped so that you are aware of when the Privacy Statement was last updated. Subject to applicable laws, the English version of this Privacy Statement will prevail over any version of this Privacy Statement in another language. In the event of any inconsistency in interpretation between the English version and any translation of the Privacy Statement, this Privacy Statement in English will prevail. 
 
-
-
-##### 4\. Links to Other Websites
-
-Our website may provide you with links to other websites for your convenience and information. Whilst this Privacy Policy will protect your personal information on our website, we cannot control the policies of other sites we may link to, or the use of any personal information you may share with them. Please note that the Scoot™’s Privacy Policy does not cover these other websites, and Scoot™ would recommend that you are apprised of their specific policies.
-
-##### 5\. Minors
-
-We cannot distinguish the age of visitors to our website. If a minor (according to applicable laws) has provided us with personal information without parental or guardian consent, the parent or guardian can contact us (see Section 10 of Part A) to remove the relevant information.
-
-Last reviewed: 14 January 2016
+_Last updated: 3 November 2017_
