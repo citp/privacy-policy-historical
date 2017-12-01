@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227172459id_/http%3A//www.religionnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201171547id_/http%3A//www.religionnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Religion News Service
 
@@ -60,7 +60,7 @@ If you have any concerns or questions about any aspect of this policy, please fe
 
 Yonat Shimron **  
 Religion News Service**  
-National Press Club Building  
-529 14th Street N.W.  
-Washington, DC  200045  
+Missouri school of Journalism  
+30 Neff Hall  
+Columbia, Mo. 65211.  
 [ Yonat.Shimron@ReligionNews.com](mailto:yonat.shimron@religionnews.com)
