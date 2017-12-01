@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpdhl.jobs privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613165705id_/http%3A//dpdhl.com/en/data_protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpdhl.jobs privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201212357id_/http%3A//dpdhl.com/en/data_protection.html) for the most accurate reproduction.*
 
 # Deutsche Post DHL Group | Data protection
 
