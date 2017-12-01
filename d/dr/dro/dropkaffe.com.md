@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dropkaffe.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906042344id_/http%3A//drinkgoodness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropkaffe.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201064917id_/http%3A//drinkgoodness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Oh My Goodness!
+# Privacy Policy - Goodness! Beverages
 
 #### Privacy Policy:
 
