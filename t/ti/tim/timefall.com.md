@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timefall.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603074750id_/http%3A//www.timefall.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timefall.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201233508id_/http%3A//www.timefall.com/site/privacy-policy) for the most accurate reproduction.*
 
 # TimeFall.com - you deserve a break!
 
