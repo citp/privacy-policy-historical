@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leeschools.net privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615013432id_/http%3A//www.leeschools.net/privacy-policy-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeschools.net privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201025004id_/http%3A//www.leeschools.net/privacy-policy-footer) for the most accurate reproduction.*
 
 # Privacy Policy - Lee County School District
 
