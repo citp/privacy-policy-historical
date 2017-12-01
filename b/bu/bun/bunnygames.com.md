@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunnygames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145457id_/http%3A//www.pomu.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnygames.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201013554id_/http%3A//www.pomu.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy
 
