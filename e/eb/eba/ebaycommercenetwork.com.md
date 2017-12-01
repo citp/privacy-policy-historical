@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebaycommercenetwork.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504110108id_/http%3A//ebaycommercenetwork.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaycommercenetwork.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201200014id_/http%3A//www.ebaycommercenetwork.com/pp.html) for the most accurate reproduction.*
 
-# eBay Product Ads – Advertise your products to eBay shoppers - Privacy Policy
+# eBay Product Ads – Advertise your products to eBay shoppers - Home
 
 ### Your Privacy Rights
 
@@ -18,7 +18,7 @@ Scope and Consent
 
 | 
 
-By using the eBay Commerce Network, and its related sites, applications, services and tools, and/or registering for an account, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in our [User Agreement](https://web.archive.org/web/20170504110108id_/http%3A//ebaycommercenetwork.com/user-agreement.html "User Agreement").   
+By using the eBay Commerce Network, and its related sites, applications, services and tools, and/or registering for an account, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in our [User Agreement](https://web.archive.org/web/20171201200014id_/http%3A//www.ebaycommercenetwork.com/user-agreement.html "User Agreement").   
   
 ---|---  
   
@@ -104,7 +104,7 @@ You may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 H
 
 When you use any of the eBay Commerce Network websites listed above, you are contracting with eBay Inc., with offices located at 2145 Hamilton Avenue, San Jose, CA 95125. If you reside outside of the United States, eBay Inc. is your data controller.
 
-By using the ECN websites or their related applications, services, and tools, or by registering for an account with any of our websites, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in the eBay Commerce Network [User Agreement](https://web.archive.org/web/20170504110108id_/http%3A//ebaycommercenetwork.com/user-agreement.html "User Agreement"), as well as to the transfer and storage of your personal information to our servers in the United States and elsewhere in the world where we have facilities.
+By using the ECN websites or their related applications, services, and tools, or by registering for an account with any of our websites, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in the eBay Commerce Network [User Agreement](https://web.archive.org/web/20171201200014id_/http%3A//www.ebaycommercenetwork.com/user-agreement.html "User Agreement"), as well as to the transfer and storage of your personal information to our servers in the United States and elsewhere in the world where we have facilities.
 
 ### Global Privacy Standards
 
@@ -243,4 +243,4 @@ You may also interact with our product review services on websites operated by o
 
 ### Contact Us
 
-If your questions are not answered online, you may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or using the [Contact Us](https://web.archive.org/web/20170504110108id_/http%3A//ebaycommercenetwork.com/contact-us.html "Contact Us") form. More information about the Global Privacy Office or how to contact us is available at our [eBay Privacy Center.](http://www.ebayprivacycenter.com/about-us "eBay Privacy Center")
+If your questions are not answered online, you may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or using the [Contact Us](https://web.archive.org/web/20171201200014id_/http%3A//www.ebaycommercenetwork.com/contact-us.html "Contact Us") form. More information about the Global Privacy Office or how to contact us is available at our [eBay Privacy Center.](http://www.ebayprivacycenter.com/about-us "eBay Privacy Center")
