@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmymobile.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610021039id_/http%3A//www.sellmymobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmymobile.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201140235id_/http%3A//www.sellmymobile.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,6 +72,10 @@ We would like to keep you updated, by email or text, of other products and servi
 We engage a third party email technology partner to help us coordinate and manage our email newsletters. They may process and store your personal information on our behalf in their systems subject to strict compliance with the Data Protection Act 1998. They will not contact you directly or share your personal information with any third parties.
 
 We may obtain additional personal information from third parties to enable us to improve the relevance of our communications to you.
+
+SMM is part of the [Decision Tech](http://decision.tech/who-we-are/) group (our "group") which also includes the brands [comparemymobile.com](http://www.comparemymobile.com/) and [broadbandchoices.co.uk](https://www.broadbandchoices.co.uk/)
+
+In our email newsletters and marketing communications we may send you offers and information about similar products from other companies in our group. For example, if you have recycled your mobile phone then we may send you information on mobile contracts, new handset deals or how to save money by buying a refurbished handset.
 
 You can easily unsubscribe from our emails at any time, either by clicking the "unsubscribe" link at the bottom of any electronic correspondence (may take up to 7 days to take effect); or by emailing us at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk).
 
