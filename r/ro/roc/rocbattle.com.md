@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rocbattle.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529055251id_/http%3A//rocbattle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocbattle.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201102125id_/http%3A//www.rocbattle.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statment
 
-**Today's Special!!!! All beats $7.99 - Add Beats to Your Cart And** \- [Check Out Here!!!](http://rocbattle.com/add_to_cart.php)
+**Today's Special!!!! All beats $9.99 - Add Beats to Your Cart And** \- [Check Out Here!!!](http://rocbattle.com/add_to_cart.php)
 
 Privacy Statement
 
