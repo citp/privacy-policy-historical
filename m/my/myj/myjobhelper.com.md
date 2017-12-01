@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the myjobhelper.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115549id_/http%3A//myjobhelper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobhelper.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201161805id_/http%3A//myjobhelper.com/privacy) for the most accurate reproduction.*
 
 # MyJobHelper.com: Privacy Policy
 
-* Thank you for visiting MyJobHelper.com (the "Site," "MyJobHelper.com), owned and operated by MyJobHelper.com. The Site is an Internet property of Surfin Mouse LLC. d/b/a MyJobHelper.com and its affiliated companies ("MyJobHelper.com ," "we" or "us"). This privacy policy ("Privacy Policy") outlines the privacy practices associated with the Site. You agree to this Privacy Policy, in its entirety, when you: (a) access or use the Site; (b) agree to receive e-mail from us via the Site, or any other means; and/or (c) register on the Site to receive information from third party service providers.
+* Thank you for visiting MyJobHelper.com (the "Site," "MyJobHelper.com), owned and operated by Surfin Mouse, LLC. The Site is an Internet property of Surfin Mouse LLC. and its affiliated companies ("MyJobHelper.com ," "we" or "us").  This privacy policy ("Privacy Policy") outlines the privacy practices associated with the Site. You agree to this Privacy Policy, in its entirety, when you: (a) access or use the Site; (b) agree to receive e-mail from us via the Site, or any other means; and/or (c) register on the Site to receive information from third party service providers.
 
-**If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at privacy@MyJobHelper.com. Please be advised that where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law.  
+**If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at privacy@myjobhelper.com. Please be advised that where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law.  
 **  
-**EU and Swiss Safe Harbor**
+**EU Privacy Shield**
 
-MyJobHelper.com participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. MyJobHelper.com is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
-
-MyJobHelper.com is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. MyJobHelper.com complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+MyJobHelper.com is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. MyJobHelper.com complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
 
 With respect to personal data received **** or **** transferred pursuant to the Privacy Shield Framework, MyJobHelper.com is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.   In certain situations, MyJobHelper.com may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -24,7 +22,7 @@ We collect your personally identifiable information when you sign up to receive 
 
 **Use of Personally Identifiable Information**
 
-By submitting your personal information on the Site, you agree that we may send a newsletter to you describing what types of job opportunities in your area. If you wish to opt out of the newsletter, please follow the unsubscribe directions in the email or you can contact us at privacy@MyJobHelper.com.
+By submitting your personal information on the Site, you agree that we may send a newsletter to you describing what types of job opportunities in your area. If you wish to opt out of the newsletter, please follow the unsubscribe directions in the email or you can contact us at privacy@myjobhelper.com.
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement. We may also employ other companies and individuals to perform certain functions on our behalf. Examples include sending direct and electronic mail, removing duplicate information from user lists, analyzing data and providing marketing analysis. The agents performing these limited functions on our behalf shall have access to our users' personal information as needed to perform their functions for us but we do not permit them to use your personal information for other purposes.
 
@@ -34,7 +32,7 @@ _We partner with third parties that collect information across various channels,
 
 In certain situations, MyJobHelper.com may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We also reserve the right to release current or past user information in the event that we believe that the user is (i) in violation of the Site's Terms and Conditions, this Privacy Policy or any other of our operating rules, policies, price schedules and other supplemental terms and conditions or documents that may be published by us from time to time; (ii) to commit unlawful acts; (iii) if such information is subpoenaed or requested pursuant to a judicial or regulatory proceeding or inquiry; (iv) when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others (v) if we are sold or acquired; and/or (vi) when we deem it necessary or appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission implementing regulations.
 
-If MyJobHelper.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If you do not want us to share your personal information with these companies, contact us at privacy@MyJobHelper.com. 
+If MyJobHelper.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If you do not want us to share your personal information with these companies, contact us at privacy@myjobhelper.com. 
 
 **Cookies and Tracking Technologies**
 
@@ -48,7 +46,7 @@ As is true of most web sites, we gather certain information automatically and st
 
 **Behavioral Targeting**
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by[clicking here](http://preferences-mgr.truste.com/)(or if located in the European Union[click here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.   
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/)(or if located in the European Union [click here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.   
 **Local Storage Object**
 
 Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
@@ -87,10 +85,10 @@ We reserve the right, in our sole discretion, to change, modify, add and/or remo
 
 **Contact Us**
 
-If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us at privacy@MyJobHelper.com.
+If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us at privacy@myjobhelper.com.
 
 Surfin Mouse LLC. d/b/a MyJobHelper.com  
 33 Irving Place FL3  
 New York NY 10003
 
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable customized ads or content. The cookies may reflect de-identified demographic or other data linked to data you have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to<http://www.aboutads.info/choices>. 
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable customized ads or content. The cookies may reflect de-identified demographic or other data linked to data you have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>. 
