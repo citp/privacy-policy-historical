@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesupergames.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223221207id_/http%3A//www.phatcatmedia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesupergames.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201140240id_/http%3A//www.smbgames.be/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
