@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the getmagicnow.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316074201id_/https%3A//getmagicnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmagicnow.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201184649id_/https%3A//getmagic.com/privacy) for the most accurate reproduction.*
 
-# Magic
+# Magic - Privacy Policy
 
-Magic
-
-Magic, Inc. ("Magic," "we," "our," or "us") is committed to respecting and protecting your privacy. This Privacy Policy applies to the Magic website, http://getmagicnow.com/ and our mobile service (collectively, our "Service"), and describes how we collect, protect, use and share information gathered about you on our websites. By using our Service, you agree to the terms of this Privacy Policy and our [Terms of Use.](https://web.archive.org/terms)
+Magic, Inc. ("Magic," "we," "our," or "us") is committed to respecting and protecting your privacy. This Privacy Policy applies to the Magic website, getmagic.com and getmagicnow.com, and our mobile service (collectively, our "Service"), and describes how we collect, protect, use and share information gathered about you on our websites. By using our Service, you agree to the terms of this Privacy Policy, our [Terms of Use](https://web.archive.org/terms), and our [Acceptable Use Policy](https://web.archive.org/aup).
 
 Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms).
 
@@ -31,7 +29,7 @@ We may use the data collected through cookies, log file, device identifiers, loc
 
 ### Third Party Tracking and Online Advertising
 
-We permit third party online advertising networks to collect information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our website as well as on other websites or services. Typically, the information is collected through cookies or similar tracking technologies. You may "opt out" of the collection of any information through cookies or other tracking technology by managing the preferences or settings on your browser or mobile device. However, if you decide not to accept our cookies, your ability to use some features on our site may be impaired. Please refer to your browser's or mobile device's technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit http://www.allaboutcookies.org and/or the Network Advertising Initiative's online resources, at http://www.networkadvertising.org). We are not able to respond to Do Not Track signals sent by your browser at this time. Depending on your mobile device, you may not be able to control tracking technologies through settings. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [contact@getmagicnow.com](mailto:contact@getmagicnow.com).
+We permit third party online advertising networks to collect information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our website as well as on other websites or services. Typically, the information is collected through cookies or similar tracking technologies. You may "opt out" of the collection of any information through cookies or other tracking technology by managing the preferences or settings on your browser or mobile device. However, if you decide not to accept our cookies, your ability to use some features on our site may be impaired. Please refer to your browser's or mobile device's technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative's online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). We are not able to respond to Do Not Track signals sent by your browser at this time. Depending on your mobile device, you may not be able to control tracking technologies through settings. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [contact@getmagic.com](mailto:contact@getmagic.com).
 
 ### 3\. SHARING OF YOUR INFORMATION
 
@@ -44,7 +42,7 @@ We may share your personal information with:
   * Third-party vendors and other service providers that perform services on our behalf, as needed to carry out their work for us, which may include identifying and serving targeted advertisements, billing, payment processing, hosting, and record-keeping services. Magic uses Stripe to process payments and does not store your payment information or process payments. However, your information, including payment information, may be stored by third parties that transmit or process this data on our behalf, including Stripe and Twilio, which transmits text messages on our behalf. This Privacy Policy does not govern the data practices of our third party service providers.
   * Other companies whose products or services may be of interest to you;
   * Other parties in connection with any company transaction, such as a merger, sale of all or a portion of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings; and
-  * Third parties as required by law or subpoena or, if we reasonably believe that such action is necessary, to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Use [link] or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Magic, our Users, or others.
+  * Third parties as required by law or subpoena or, if we reasonably believe that such action is necessary, to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://web.archive.org/terms) or to protect the security, integrity, or reputation of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Magic, our Users, or others.
 
 
 
@@ -54,13 +52,13 @@ We may also aggregate or otherwise strip data of all personally identifying char
 
 How to Control Your Communication Preferences
 
-You can stop receiving promotional email communications from us by clicking on the "unsubscribe link" provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of Service-related communications (e.g., information about your orders, changes/updates to our products or features of the Service, technical and security notices). If you want to opt-out of having your information shared with third parties for marketing purposes, you may contact us directly at [contact@getmagicnow.com](mailto:contact@getmagicnow.com).
+You can stop receiving promotional email communications from us by clicking on the "unsubscribe link" provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of Service-related communications (e.g., information about your orders, changes/updates to our products or features of the Service, technical and security notices). If you want to opt-out of having your information shared with third parties for marketing purposes, you may contact us directly at [contact@getmagic.com](mailto:contact@getmagic.com).
 
 By providing your mobile phone number to request our Service, you consent to receive SMS messages from Magic and you are responsible for all messaging and data charges that may apply. You can opt-out of receiving SMS messages by texting "STOP" at any time in response to a SMS communication. For assistance, text "HELP" at any time.
 
 Modifying or Deleting Your Information
 
-If you have any questions about reviewing, modifying or deleting your information, you can contact us directly at [contact@getmagicnow.com](mailto:contact@getmagicnow.com). Magic may retain your information for a commercially reasonable time for backup, archival, or audit purposes.
+If you have any questions about reviewing, modifying or deleting your information, you can contact us directly at [contact@getmagic.com](mailto:contact@getmagic.com). Magic may retain your information for a commercially reasonable time for backup, archival, or audit purposes.
 
 ### 5\. HOW WE STORE AND PROTECT YOUR INFORMATION
 
@@ -74,7 +72,7 @@ Magic cares about the security of your information, and uses commercially reason
 
 ### 6\. CHILDREN'S PRIVACY
 
-Magic does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [contact@getmagicnow.com](mailto:contact@getmagicnow.com).
+Magic does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [contact@getmagic.com](mailto:contact@getmagic.com).
 
 ### 7\. THIRD PARTY WEB SITES AND SERVICES
 
@@ -92,6 +90,6 @@ By using our Service, you consent to the collection, use and storage of your inf
 
 Your Comments Are Appreciated
 
-If you have any questions or comments regarding our privacy policy or our website, you can send us an email at [contact@getmagicnow.com](mailto:contact@getmagicnow.com).
+If you have any questions or comments regarding our privacy policy or our website, you can send us an email at [contact@getmagic.com](mailto:contact@getmagic.com).
 
-This Privacy Policy was last updated on June 17, 2015.
+This Privacy Policy was last updated on October 7, 2016.
