@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transparency.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630062047id_/http%3A//www.transparency.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparency.org privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201183642id_/https%3A//www.transparency.org/privacy) for the most accurate reproduction.*
 
 # Transparency International - The Global Anti-Corruption Coalition
 
