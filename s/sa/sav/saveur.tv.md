@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the saveur.tv privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619160917id_/http%3A//www.saveur.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveur.tv privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202003916id_/http%3A//www.saveur.tv/privacy.html) for the most accurate reproduction.*
 
-# Recipes, How to Cook, Drink Recipes, Food Travel | SAVEUR
+# Privacy Policy | SAVEUR
 
-**Bonnier Corporation Privacy Policy**
+Bonnier Corporation Privacy Policy
 
 _This policy was last updated on April 13, 2015._
 
