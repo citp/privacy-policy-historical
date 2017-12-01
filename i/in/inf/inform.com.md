@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the inform.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601224321id_/http%3A//inform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inform.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201204847id_/http%3A//inform.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inform Your World
 
-Last modified: March 19th, 2017
-
-This Privacy Policy explains the data collection and use practices of Inform, Inc. and its affiliates (“INFORM”) on the INFORM player (the “INFORM Player”) and on INFORM’s websites: [www.inform.com](https://web.archive.org/web/20170601224321id_/http://inform.com/privacy-policy/www.inform.com), [www.newsinc.com](https://web.archive.org/web/20170601224321id_/http://inform.com/privacy-policy/www.newsinc.com) and [www.politicaliq.com](https://web.archive.org/web/20170601224321id_/http://inform.com/privacy-policy/www.politicaliq.com) (together with the INFORM Player, the “Websites”). By using the Websites, you signify your assent to our Privacy Policy.
+This Privacy Policy explains the data collection and use practices of Inform, Inc. and its affiliates (“INFORM”) on the INFORM player (the “INFORM Player”) and on INFORM’s websites: [www.inform.com](https://web.archive.org/web/20171201204847id_/http://inform.com/privacy-policy/www.inform.com), [www.newsinc.com](https://web.archive.org/web/20171201204847id_/http://inform.com/privacy-policy/www.newsinc.com) and [www.politicaliq.com](https://web.archive.org/web/20171201204847id_/http://inform.com/privacy-policy/www.politicaliq.com) (together with the INFORM Player, the “Websites”). By using the Websites, you signify your assent to our Privacy Policy.
 
 We are committed to protecting your privacy and honoring the integrity of your personal information. We do not sell any information collected through this site to others except as disclosed in this Privacy Policy. If you have any requests concerning your personal information or any queries with regard to these practices please contact our support team by email at privacy@inform.com or via mail to Inform, Inc., Attn: General Counsel, 3445 Peachtree Rd. NE, Suite 1000, Atlanta, GA 30326.
 
