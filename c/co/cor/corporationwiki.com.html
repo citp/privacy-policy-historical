@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the corporationwiki.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630231803id_/https%3A//www.corporationwiki.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the corporationwiki.com privacy policy that was archived on 2017-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171201234335id_/https%3A//www.corporationwiki.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
+    <meta property="env" content="web6">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 
-    <meta property="env" content="WEB-02">
     <link rel="canonical" href="https://www.corporationwiki.com/privacy-policy">
 
         <title>Privacy Policy</title>
@@ -67,6 +67,29 @@
     var pbjs = pbjs || {};
     pbjs.que = pbjs.que || [];
 
+    function adjustBidCpm(bidCpm) {
+        //return adjBidCpm;
+    }
+
+    pbjs.bidderSettings = {
+        //aol: {
+        //    bidCpmAdjustment : adjustBidCpm
+        //},
+        //sovrn: {
+        //    bidCpmAdjustment : adjustBidCpm
+        //},
+        //criteo: {
+        //    bidCpmAdjustment : adjustBidCpm
+        //},
+        brealtime: {
+            bidCpmAdjustment : function(bidCpm){
+                var adjBidCpm = bidCpm * 0.8;
+                console.log('adjusting brealtime cpm from ' + bidCpm + " to " + adjBidCpm)
+                return adjBidCpm;
+            }
+        }
+    };
+
     pbjs.que.push(function() {
         var vpWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
 
@@ -83,6 +106,9 @@
                 adUnit.bids = (responsiveBids);
             }
         });
+
+        pbjs.aliasBidder("appnexus","brealtime")
+
     });
 
 
@@ -184,7 +210,7 @@
 
 
 
-    <link href="https://cdn.corporationwiki.com/public/css/bundle.css?v=FF957E287BAD842125E5D572C9EDAC" rel="stylesheet">
+    <link href="https://cdn.corporationwiki.com/public/css/bundle.css?v=11A48DF878912C54B61BD62D9A5CF7C" rel="stylesheet">
 
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.css" rel="stylesheet">
     
@@ -441,7 +467,7 @@
     
 
 
-    <script src="https://cdn.corporationwiki.com/public/scripts/bundle.js?v=FF957E287BAD842125E5D572C9EDAC"></script>
+    <script src="https://cdn.corporationwiki.com/public/scripts/bundle.js?v=11A48DF878912C54B61BD62D9A5CF7C"></script>
 
 
 
