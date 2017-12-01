@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dewalist.com.au privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601202133id_/http%3A//www.dewalist.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewalist.com.au privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201164638id_/http%3A//www.dewalist.com.au/privacy.php) for the most accurate reproduction.*
 
-# Australia Free Classified Ads Online | Community Classifieds | DewaList
+# Australia Free Classified Ads Online | Community Classifieds | Dewalist
 
 **Privacy Policy**
 
