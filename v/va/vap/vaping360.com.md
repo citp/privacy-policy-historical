@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaping360.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625124944id_/http%3A//vaping360.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaping360.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201093610id_/http%3A//vaping360.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vaping360
 
