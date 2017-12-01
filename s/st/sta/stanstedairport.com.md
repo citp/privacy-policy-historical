@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626071302id_/http%3A//www.stanstedairport.com/help-and-advice/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201054033id_/http%3A//www.stanstedairport.com/help-and-advice/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Stansted Airport
 
@@ -43,11 +43,11 @@ We may disclose your personal data to any member of our group, which means our s
 
 We will always make it clear if your personal data is going to be shared with a third party for marketing, and ask you to consent to our sharing of your personal data for this purpose.
 
-We may share your personal data if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, court or police request, or in order to enforce or apply our terms of use [insert link to website Terms of Use] or terms and conditions of sale [insert link to terms and conditions of sale] and other agreements; or to protect the rights, property, or safety of Manchester Airport and the Manchester Airport Group, our customers, or others. 
+We may share your personal data if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, court or police request, or in order to enforce or apply our [terms of use](http://www.stanstedairport.com/terms-and-conditions/) or [terms and conditions of sale](http://www.stanstedairport.com/terms-and-conditions/) and other agreements; or to protect the rights, property, or safety of Manchester Airport and the Manchester Airport Group, our customers, or others. 
 
 ### Cookies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy][insert as link to cookies policy].
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](http://www.stanstedairport.com/help-and-advice/policies/cookie-policy/).
 
 ### Security
 
@@ -59,7 +59,7 @@ In order to provide you with the products and services and our website, we may n
 
 You have the right to ask us not to use your personal data for marketing purposes. We will usually inform you (before collecting your personal data) if we intend to use your personal data for marketing or if we intend to disclose your information to any third party for marketing. You can exercise your right to prevent such marketing by checking certain boxes on the forms we use to collect your personal data. You can also exercise the right at any time by contacting us as set out below or by clicking ‘unsubscribe’ in any marketing email.
 
-You have the right to receive a copy of the personal data that we hold about you.  If you would like to make such a request please contact us at the details below or complete the Subject Access Request Form by clicking [here](http://mag-umbraco-media-live.s3.amazonaws.com/1010/subject-access-request-form.pdf).
+You have the right to receive a copy of the personal data that we hold about you.  If you would like to make such a request please contact us at the details below or complete the Subject Access Request Form by clicking [here](http://mag-umbraco-media-live.s3.amazonaws.com/1001/subject-access-request.docx).
 
 If you have any questions about this privacy statement, the practices of this web site or your dealings with this web site, please use the following contact point:
 
@@ -75,4 +75,4 @@ Or alternatively you can get in touch with us via the feedback area in our websi
 
 ### Changes to this Privacy Policy
 
-We may change our security and privacy policies at any time and without notice, so we recommend that you visit this page occasionally to check what has changed. This policy was last updated in August 2016 and will be reviewed again in April 2017.
+We may change our security and privacy policies at any time and without notice, so we recommend that you visit this page occasionally to check what has changed. This policy was last updated in August 2017.
