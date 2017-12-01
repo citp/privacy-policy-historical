@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roughstock.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620073213id_/http%3A//roughstock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughstock.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201013142id_/http%3A//www.roughstock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RoughStock
 
@@ -14,7 +14,7 @@ Residents of the State of California, under a provision of the California Civil 
 
 Roughstock.com qualifies for the alternative option by allowing you to opt-out or opt in to the use of your personal information by third parties for direct marketing purposes as described below. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information for marketing purposes during the preceding year.
 
-If you are a California resident and request information about how to exercise your third party disclosure choices you must send an email request to Cheri Media Group (Click Here) [LINK TO ADMIN@CHERIMEDIAGROUP.COM] with the phrase "Your California Privacy Rights" in the subject line. The response will be sent to the email address from which the request was received. We will not accept requests via postal mail, the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+If you are a California resident and request information about how to exercise your third party disclosure choices you must send an email request to Cheri Media Group (Click Here) [LINK TO [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)] with the phrase "Your California Privacy Rights" in the subject line. The response will be sent to the email address from which the request was received. We will not accept requests via postal mail, the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
 ## How Does Cheri Media Group Collect and Use Information About You?
 
