@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetop.tv privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616080324id_/http%3A//thetop.tv/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetop.tv privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201045957id_/http%3A//thetop.tv/info/privacy) for the most accurate reproduction.*
 
 # TheTopTV
 
@@ -134,7 +134,7 @@ If you have questions concerning our information practices with respect to child
 
 ## How to Contact Us
 
-If you have questions or concerns about this Privacy Policy or about TheTopTV's privacy practices in general, please send us an email to [info@thetop.tv](mailto:info@thetop.tv)
+If you have questions or concerns about this Privacy Policy or about TheTopTV's privacy practices in general, please send us an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f363139301f2b373a2b302f712b29)
 
 ## Changes to This Privacy Policy and Additional Information
 
