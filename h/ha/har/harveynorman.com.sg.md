@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynorman.com.sg privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143449id_/http%3A//www.harveynorman.com.sg/corporate-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.com.sg privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201211729id_/http%3A//www.harveynorman.com.sg/corporate-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Harvey Norman Singapore
 
@@ -9,13 +9,7 @@ This is the _PERTAMA MERCHANDISING PTE LTD_ Personal Data Protection Policy (“
 
 
 
-
-
-
 **1\. Types of Customer Data**
-
-
-
 
 The types of Customer Data that PERTAMA MERCHANDISING PTE LTD collects depend on the circumstances of collection and on the nature of the service requested or transaction undertaken. There are two broad categories of Customer Data that PERTAMA MERCHANDISING PTE LTD collects: 
 
@@ -93,7 +87,7 @@ Poon Chun Onn / Tang Shir Li
 **** 
 
 
-PERTAMA MERCHANDISING PTE LTD takes the protection of your Customer Data collected on PERTAMA MERCHANDISING PTE LTD’s websites very seriously. All Customer Data collected through PERTAMA MERCHANDISING PTE LTD’s websites, e.g., [ http://www.harveynorman.com.sg ](http://www.harveynorman.com.sg/) are protected by a secure server. In addition, SSL (Secure Socket Layer) protects the transmission of data from the internet to our systems. To further strengthen the integrity of your internet transactions on our websites, PERTAMA MERCHANDISING PTE LTD also employs relevant software programs to monitor network traffic with a view to identifying unauthorised attempts to upload or change Customer Data, perpetuate fraudulent or illegal activities or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activities, such evidence may be provided to appropriate law enforcement authorities or agencies without notice to you. To give you secure access to our online services, arising from your utilisation of PERTAMA MERCHANDISING PTE LTD’s website, you can register with us. You should not share your User ID or Password and should always ‘log off' once you have finished your session on the websites as well as take the recommended precautions that ensure the safe and secure provision of PERTAMA MERCHANDISING PTE LTD’s website.
+PERTAMA MERCHANDISING PTE LTD takes the protection of your Customer Data collected on PERTAMA MERCHANDISING PTE LTD’s websites very seriously. All Customer Data collected through PERTAMA MERCHANDISING PTE LTD’s websites, e.g., [www.harveynorman.com.sg ](http://www.harveynorman.com.sg/) are protected by a secure server. In addition, SSL (Secure Socket Layer) protects the transmission of data from the internet to our systems. To further strengthen the integrity of your internet transactions on our websites, PERTAMA MERCHANDISING PTE LTD also employs relevant software programs to monitor network traffic with a view to identifying unauthorised attempts to upload or change Customer Data, perpetuate fraudulent or illegal activities or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activities, such evidence may be provided to appropriate law enforcement authorities or agencies without notice to you. To give you secure access to our online services, arising from your utilisation of PERTAMA MERCHANDISING PTE LTD’s website, you can register with us. You should not share your User ID or Password and should always ‘log off' once you have finished your session on the websites as well as take the recommended precautions that ensure the safe and secure provision of PERTAMA MERCHANDISING PTE LTD’s website.
 
 Most websites like ours use cookies to enhance your online experience. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive from your web browser to recognise your preferences and to tailor content to you. The cookies do not contain your Customer Data but only Statistical Data which is entirely anonymous. Please refer to your browsers documentation to check if cookies have been enabled on your computer or to request not to receive cookies. Information and procedures regarding cookie handling are provided by the respective browsers documentation within the browser itself by clicking on ‘help' and performing a search on ‘cookies'.
 
@@ -103,4 +97,4 @@ PERTAMA MERCHANDISING PTE LTD provides you with links to other websites for your
 
 PERTAMA MERCHANDISING PTE LTD cannot distinguish the age of persons who access and use its websites. If a minor (according to applicable laws) has provided PERTAMA MERCHANDISING PTE LTD with Customer Data without parental or guardian consent, the parent or guardian should contact PERTAMA MERCHANDISING PTE LTD (see Section 10 of Part A) to remove the relevant Customer Data and unsubscribe the minor.
 
-Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [ www.harveynorman.com.sg, ](http://www.harveynorman.com.sg%2C/) to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. For more details, please refer to [Google’s Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [ www.harveynorman.com.sg, ](http://www.harveynorman.com.sg/) to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. For more details, please refer to [Google’s Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
