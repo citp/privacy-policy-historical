@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the casting360.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123048id_/http%3A//casting360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casting360.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201120024id_/http%3A//casting360.com/privacy-policy) for the most accurate reproduction.*
 
 # Open casting calls, modeling, singing, acting, dancing auditions on Casting360
 
-Last Updated: August 24, 2015
+Last updated July 1st, 2017
 
 Casting360.com respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
