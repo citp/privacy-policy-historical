@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sitelutions.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601214044id_/https%3A//www.sitelutions.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitelutions.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201233710id_/https%3A//sitelutions.com/info/privacy) for the most accurate reproduction.*
 
 # Sitelutions - Solutions for your site. All in one place.
 
-Sitelutions (with primary web address of [www.sitelutions.com](http://www.sitelutions.com/)) is wholly owned and operated by InfoRelay Online Systems, Inc., with an address of 4 Bridge Plaza Drive, Englishtown, NJ 07726. All references to "Sitelutions" are actually references to InfoRelay Online Systems, Inc.. All references to "Sitelutions staff" are actually references to employees (part-time, full-time, or subcontractors/1099) of InfoRelay Online Systems, Inc..
+Sitelutions (with primary web address of [www.sitelutions.com](http://www.sitelutions.com/)) is wholly owned and operated by Sitelutions, LLC. with an address of 5645 Coral Ridge Drive, Suite 224, Coral Springs, FL 33076. All references to "Sitelutions" are actually references to Sitelutions, LLC. All references to "Sitelutions staff" are actually references to employees (part-time, full-time, or subcontractors/1099) of Sitelutions, LLC.
 
 This privacy statement covers the site [ www.sitelutions.com](http://www.sitelutions.com/). Because Sitelutions wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices in order to assure our users that their information **will be kept private and secure.** This privacy statement will address the following items:
 
@@ -17,9 +17,9 @@ This privacy statement covers the site [ www.sitelutions.com](http://www.sitelut
 
 
 
-If users have questions or concerns regarding this statement, they should contact Sitleutions Privacy Department by e-mail [privacy@sitelutions.com](mailto:privacy@sitelutions.com) at (703) 485-4600, or by postal mail at: Sitelutions c/o InfoRelay Online Systems, Inc., 4 Bridge Plaza Drive, Englishtown, NJ 07726.
+If users have questions or concerns regarding this statement, they should contact Sitleutions Privacy Department by e-mail [privacy@sitelutions.com](mailto:privacy@sitelutions.com) at (703) 485-4600, or by postal mail at: Sitelutions, LLC. 5645 Coral Ridge Drive Suite 224, Coral Springs, FL 33076
 
-InfoRelay Online Systems, Inc. is the sole owner of the information collected by Sitelutions. Sitelutions collects information from our users at several different points on our Web site.
+Sitelutions, LLC. is the sole owner of the information collected by Sitelutions. Sitelutions collects information from our users at several different points on our Web site.
 
 ## Registration
 
@@ -89,7 +89,7 @@ We partner with other third parties, such as DotRegistrar.com, to provide top-le
 
 ## Business Transitions
 
-In the event that Sitelutions or InfoRelay Online Systems, Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. 
+In the event that Sitelutions goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. 
 
 ## Choice/Opt-out
 
@@ -151,5 +151,5 @@ If users have any questions or suggestions regarding our privacy policy, please 
 Phone: (703) 485-4600   
 Fax: (703) 485-4600   
 Email: [privacy@sitelutions.com](mailto:privacy@sitelutions.com)  
-Postal Address: 22900 Shaw Rd. Suite 112-5, Sterling, VA 20166, USA   
+Postal Address: 5645 Coral Ridge Dr. Suite 224, Coral Springs, FL 33076   
 Web site URL: http://www.sitelutions.com/ 
