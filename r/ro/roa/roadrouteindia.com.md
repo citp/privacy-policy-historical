@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the roadrouteindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022124id_/http%3A//www.roadrouteindia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrouteindia.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201225950id_/http%3A//www.roadrouteindia.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Road Route Map| Route Map India| Driving Directions| Shortest Route| Driving Distance| Route Planner| Distance Between
-
-## Privacy Policy
+# 
 
 Weat roadrouteindia.com are committed to protect personal information/data of our customers to maintain the privacy of their personal information, which may collect and provide our approach towards handling or dealing with the same. Its Privacy Policy describes the personal information, is designed and developed to address the privacy and security of your personal information provided to us. 
 
