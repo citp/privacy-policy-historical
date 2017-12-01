@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytebx.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628105502id_/http%3A//bytebx.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytebx.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201162015id_/http%3A//bytebx.com/page-privacy) for the most accurate reproduction.*
 
 # ByteBX - Online storage
 
