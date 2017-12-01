@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthformula.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620062651id_/http%3A//www.healthformula.com/cs/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthformula.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201110342id_/http%3A//www.healthformula.com/cs/privacy_policy.html) for the most accurate reproduction.*
 
 # Health Formula
 
@@ -45,4 +45,4 @@ Array
 398 E. Dania Beach Blvd #400   
 Dania Beach, FL 33004
 
-Call us at 1-800-414-8009 or send us an [email](https://web.archive.org/web/20170620062651id_/http%3A//www.healthformula.com/contact.html).
+Call us at 1-800-414-8009 or send us an [email](https://web.archive.org/web/20171201110342id_/http%3A//www.healthformula.com/contact.html).
