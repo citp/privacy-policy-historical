@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikofx.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121181434id_/http%3A//www.ikofx.com/en/index.php/en/trader-area/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikofx.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201172110id_/http%3A//www.ikofx.com/en/index.php/en/trader-area/privacy-policy) for the most accurate reproduction.*
 
 # Online Forex Broker | Best Forex Broker | IKOFX
 
