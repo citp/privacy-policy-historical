@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herozerogame.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621101345id_/http%3A//us3.herozerogame.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herozerogame.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201065421id_/http%3A//us3.herozerogame.com/policy) for the most accurate reproduction.*
 
 # Hero Zero - Privacy Policy
 
