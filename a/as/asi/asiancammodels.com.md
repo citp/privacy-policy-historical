@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiancammodels.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626135534id_/http%3A//www.asiancammodels.com/exec/privacy-policy.jsp%3Fnats%3DMC4wLjQ0LjQ2LjAuMC4wLjAuMA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancammodels.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201124725id_/http%3A//www.asiancammodels.com/exec/privacy-policy.jsp%3Fnats%3DMC4wLjQ0LjQ2LjAuMC4wLjAuMA) for the most accurate reproduction.*
 
 # Asian Cam Models - Live sex chat, live asian webcams, free sex online and adult cams
 
