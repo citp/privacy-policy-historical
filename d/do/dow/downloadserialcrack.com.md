@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadserialcrack.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608190849id_/http%3A//downloadserialcrack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadserialcrack.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201160914id_/http%3A//www.downloadserialcrack.com/privacy.html) for the most accurate reproduction.*
 
 # Download Serial Crack - Privacy Policy
 
