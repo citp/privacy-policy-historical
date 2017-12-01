@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the playneverwinter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175820id_/http%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playneverwinter.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201165708id_/https%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Arc Games
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=0cf009c3-1b3f-4032-8f7e-723783d146ab "TRUSTe Privacy Certification")
 
-Date of Last Revision: September 22, 2016
+Date of Last Revision: June 1, 2017
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY. IT DESCRIBES DETAILS ABOUT HOW WE COLLECT, USE AND DISCLOSE PERSONAL INFORMATION. IF YOU ARE UNDER 18, DO NOT PROVIDE ANY INFORMATION UNLESS YOU HAVE FIRST OBTAINED YOUR PARENT’S OR GUARDIAN’S PERMISSION.**
 
 Thank you for reading our Privacy Policy and visiting our website [www.arcgames.com](https://web.archive.org/en/games/) and [www.perfectworld.com](http://www.perfectworld.com/). Perfect World Entertainment Inc. (“Perfect World,” “we,” “us”) uses and maintains this Privacy Policy (“Policy”) that summarizes when and how your personal information is collected, used, safeguarded and disclosed in connection with your use of the [www.arcgames.com](https://web.archive.org/en/games/) and [www.perfectworld.com](http://www.perfectworld.com/), any other website operated by Perfect World, and any micro-site, mobile site or subdomains of such sites (collectively, the “Website”), any games, mobile games and game platforms, clients or servers operated by Perfect World through the Website (the “Games”), and all features, functions, software and services offered through the Website. The Website, the Games and the features, functions, software and services offered through the Website collectively constitute the “Service.” It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. We reserve the right to change the provisions of this Policy at any time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Perfect World (and its partner studios, Cryptic Studios, Inc. and Motiga, Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Perfect World is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
+Perfect World (and its partner studios, Cryptic Studios, Inc. and Motiga, Inc.) participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework. Perfect World is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
 
-Perfect World is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Perfect World complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Perfect World is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Perfect World complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Perfect World is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Perfect World may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -20,13 +20,11 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-Perfect World complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Perfect World has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Perfect World’s certification, please visit [ https://safeharbor.export.gov/swisslist.aspx](https://safeharbor.export.gov/swisslist.aspx).
-
-In compliance with the U.S.-Swiss Safe Harbor Principles, Perfect World commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Perfect World at:
+In compliance with the EU–U.S. and Swiss–U.S. Privacy Shield Principles, Perfect World commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Perfect World at:
 
 Perfect World Entertainment Inc.   
-Attn: Legal Department PWE Safe Harbor   
-101 Redwood Shores Parkway, Suite 400   
+Attn: Legal Department PWE Privacy Shield   
+100 Redwood Shores Parkway, 4th Floor   
 Redwood City, CA 94065 
 
 ## What is personal information?
@@ -94,6 +92,8 @@ In general, we use personal information we collect to process your requests or t
 
 
 In order to offer you more consistent and personalized experience in your interactions with us, information collected through one offering or portion of the Service may be combined with information obtained through other offerings or portions of the Service. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on IP address in order to customize certain services to your geographic area.
+
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
 ## Do we share personal information?
 
@@ -166,7 +166,7 @@ Upon request Perfect World will provide you with information about whether we ho
 You may review, update, correct or delete your personal information collected through the Service by emailing us at [privacy@perfectworld.com ](mailto:privacy@perfectworld.com) or by contacting us at:
 
 Perfect World Entertainment Inc.  
-101 Redwood Shores Parkway, Suite 400  
+100 Redwood Shores Parkway, 4th Floor  
 Redwood City, CA 94065  
 Attn: Privacy Policy Request 
 
@@ -184,7 +184,7 @@ We follow generally accepted standards to protect the personal information submi
 
 ## International Users
 
-Perfect World is a United States based company and our servers and business operations are located primarily is the State of California. By using our Service and providing us with information, you are consenting to the transferring, storing and processing of your information on computers located in the United States of America in the manner described in this Policy, except in the case of data transfers from the European Economic Area, which are covered under the EU-US Privacy Shield Framework, and except in the case of data transfer from Switzerland, which are covered under the Swiss Safe Harbor Framework. You acknowledge and understand that the laws regarding personal information in the United States may be less stringent than the laws of your country and may not offer the same protections or rights as those laws. If you object to your personal information being transferred or used as described in this Policy, please do not use this Service.
+Perfect World is a United States based company and our servers and business operations are located primarily is the State of California. By using our Service and providing us with information, you are consenting to the transferring, storing and processing of your information on computers located in the United States of America in the manner described in this Policy, except in the case of data transfers from the European Economic Area, which are covered under the EU-U.S. Privacy Shield Framework, and except in the case of data transfer from Switzerland, which are covered under the Swiss-U.S. Privacy Shield Framework. You acknowledge and understand that the laws regarding personal information in the United States may be less stringent than the laws of your country and may not offer the same protections or rights as those laws. If you object to your personal information being transferred or used as described in this Policy, please do not use this Service.
 
 ## Contact Us
 
