@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094041id_/http%3A//www.bollywood.com/bollywoodcom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201160635id_/http%3A//www.bollywood.com/bollywoodcom-privacy-policy) for the most accurate reproduction.*
 
 # Bollywood.com Privacy Policy | Bollywood.com
 
@@ -20,21 +20,14 @@ We also use third party advertisements on Bollywood.com to support our site.  S
 
 Google's DoubleClick DART cookies
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).  The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting the DART Ad-Serving and Search Cookie Opt-Out site.
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).  The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting the DART Ad-Serving and Search Cookie Opt-Out site as follows:
+
+Click here: <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx">DART Ad-Serving and Search Cookie Opt-Out site</a>
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
+  
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-Valueclick Advertising
-
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
-
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/ "www.networkadvertising.org") .
-
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://www.valueclickmedia.com/member_privacy.shtml>  
-
-Privacy Policy Provided by Bollywood.com
 
 Digital Millennium Copyright Act
 
@@ -58,12 +51,4 @@ Bollywood.com respects the right of all copyright holders and in this regard, Bo
 
 For copyright inquiries under the Digital Millennium Copyright Act, please contact:
 
-Copyright Agent
-
-Kelly W. Cunningham, Esq.  
-Cislo & Thomas LLP  
-1333 2nd Street, Suite 500  
-Santa Monica, California 90401  
-Phone: (310) 451-0647  
-Fax: (310) 394-4477  
-Email: [kcunningham@cislo.com](mailto:kcunningham@cislo.com)
+contactATbollywood.com
