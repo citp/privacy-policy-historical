@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findarticles.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527002431id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy%3Ftemplate%3Dtemplate_mobilePrivacy%26referer%3Dmobileprivacy.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findarticles.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201172541id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy%3Ftemplate%3Dtemplate_mobilePrivacy%26referer%3Dmobileprivacy.com) for the most accurate reproduction.*
 
 # CBSi Privacy Policy
 
