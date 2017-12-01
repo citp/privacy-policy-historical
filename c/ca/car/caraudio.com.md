@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caraudio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151951id_/http%3A//www.caraudio.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caraudio.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201160547id_/http%3A//www.caraudio.com/pp.html) for the most accurate reproduction.*
 
 # CarAudio.com Privacy Policy
 
@@ -34,7 +34,7 @@ VII. CORRECT; UPDATE
 
 CarAudio.com allows its users the option to change or modify information previously provided. This may be done through the following methods:
 
-(1) e-mail the information to webmaster@newhorizonholdings.com  
+(1) e-mail the information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 (2) visit the Customer Service section of the site and follow the appropriate instructions.
 
 Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.
@@ -43,11 +43,11 @@ VIII. CHOICE; OPT OUT
 
 You may opt-out of receiving communications from our partners, and from us, by the following means:
 
-(1) send an e-mail to webmaster@newhorizonholdings.com
+(1) send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 IX. PUBLIC FORUMS
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 Contacting us:  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at webmaster@newhorizonholdings.com.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
