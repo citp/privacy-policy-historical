@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendsupdates.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629012011id_/http%3A//trendsupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendsupdates.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201133733id_/http%3A//trendsupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Trends Updates
 
@@ -48,12 +48,12 @@ We use industry standard security measures to protect your information so that i
 
 Contacting Us
 
-You can always contact us at any time at TrendsUpdates.com@gmail.com.
+You can always contact us at any time at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Unsubscribing
 
-You can unsubscribe at any time. If you are a member, please write a mail to unsubscribe at TrendsUpdates.com@gmail.com. If you are not a member, but are subscribed to one of our emails, go to http://feedburner.google.com/fb/a/mailverify?uri=TrendsUpdates to unsubscribe.
+You can unsubscribe at any time. If you are a member, please write a mail to unsubscribe at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you are not a member, but are subscribed to one of our emails, go to http://feedburner.google.com/fb/a/mailverify?uri=TrendsUpdates to unsubscribe.
 
 Have other questions?
 
-Again, feel free to contact us any time, and if you have further questions about TrendsUpdates.com@gmail.com.
+Again, feel free to contact us any time, and if you have further questions about [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
