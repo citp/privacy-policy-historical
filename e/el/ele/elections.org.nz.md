@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elections.org.nz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150641id_/http%3A//www.elections.org.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elections.org.nz privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201133310id_/http%3A//www.elections.org.nz/privacy) for the most accurate reproduction.*
 
 # Privacy | Electoral Commission
 
@@ -44,7 +44,7 @@ When you enrol, we will publish your name, the address where you reside, and you
 ###    
 Is there any way to stop the information being published?
 
-Yes. If you think you, or your family's personal safety could be at risk because information about you is published in the roll, you can ask to have details put on the unpublished roll. This cannot be looked at by members of the public. However, before we put your details in an unpublished roll, you will need to show us that you or your family's safety could be put at risk. [Find out more about the unpublished roll](https://www.elections.org.nz/voters/get-ready-enrol-and-vote/unpublished-roll).
+Yes. If you think you, or your family's personal safety could be at risk because information about you is published in the roll, you can ask to have details put on the unpublished roll. This cannot be looked at by members of the public. However, before we put your details in an unpublished roll, you will need to show us that you or your family's safety could be put at risk. [Find out more about the unpublished roll](https://www.elections.org.nz/voters/get-ready-enrol-and-vote/concerned-about-your-personal-safety).
 
 ###    
 Access to information
