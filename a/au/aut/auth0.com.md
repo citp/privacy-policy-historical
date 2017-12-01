@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the auth0.com privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109234219id_/https%3A//auth0.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auth0.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201192347id_/https%3A//auth0.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Auth0
 
-### Last update: September 14, 2016
+  * Platform
+  * Solutions
+  * Why Auth0
+  * Developers
+  * [Pricing](https://auth0.com/pricing)
+  * 
+
+
+### Last update: September 11, 2017
 
 We at Auth0®, Inc. ("Auth0®," "we," "us," or "our") created this Privacy Policy ("Privacy Policy") because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Auth0® in connection with our online services ("Services"), which are made available to you through our website located at auth0.com (the "Site").
 
@@ -49,7 +57,7 @@ We also use certain cookies which are strictly necessary for the provision of th
 
  **Information Collected through the Site That IS NOT Covered by this Privacy Policy.**
 
-Registered Users may voluntarily post information using blogs and other similar features available through the Site. NONE of the information you provide using these features is protected by this Privacy Policy. THIS PRIVACY POLICY DOES NOT APPLY TO ANY INFORMATION (INCLUDING PERSONAL INFORMATION) THAT YOU PROVIDE USING BLOGS, OR OTHER SIMILAR FEATURES AVAILABLE THROUGH THE SITE. ALL SUCH INFORMATION IS PUBLIC INFORMATION AND MAY BE SEEN, COLLECTED OR USED BY ANY USER OF THE SITE. By posting such information, you consent to the transfer of such information (including any personal information) from your country of origin to the US, and you acknowledge that the EU-US Privacy Shield Framework does not apply to such information (including any personal information).
+Registered Users may voluntarily post information using blogs, community forums and other similar features available through the Site. NONE of the information you provide using these features is protected by this Privacy Policy. THIS PRIVACY POLICY DOES NOT APPLY TO ANY INFORMATION (INCLUDING PERSONAL INFORMATION) THAT YOU PROVIDE USING BLOGS, OR OTHER SIMILAR FEATURES AVAILABLE THROUGH THE SITE. ALL SUCH INFORMATION IS PUBLIC INFORMATION AND MAY BE SEEN, COLLECTED OR USED BY ANY USER OF THE SITE. By posting such information, you consent to the transfer of such information (including any personal information) from your country of origin to the US, and you acknowledge that the Privacy Shield Framework do not apply to such information (including any personal information).
 
  **Information Collected and Stored on Behalf of Our Customers Using the Services.**
 
@@ -123,25 +131,19 @@ Under California Civil Code Section 1798.83, California residents who have an es
 
 In addition, Auth0® does not monitor, recognize, or honor any opt-out or do not track mechanisms, including general web browser “Do Not Track” settings and/or signals.
 
-**Important Notice to All Non-US Residents**
+### Important Notice to All Non-US Residents
 
-Our servers are located in the US. If you are located outside of the US, please be aware that any information provided to us, including personal information, will be transferred from your country of origin to the US. Except in the case of data transfers under the EU-US Privacy Shield and the U.S.-Swiss Safe Harbor Framework, your decision to provide such data to us, or allow us to collect such data it through our Website or the Services, constitutes your consent to this data transfer. 
+Our servers are located in the US. If you are located outside of the US, please be aware that any information provided to us, including personal information, will be transferred from your country of origin to the US. Except in the case of data transfers under the EU-US Privacy Shield and the Swiss-US Privacy Shield, your decision to provide such data to us, or allow us to collect such data it through our Website or the Services, constitutes your consent to this data transfer. 
 
 ### Important Notice for Residents of the European Economic Area
 
-Auth0® complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the EU. Auth0® has certified that it adheres to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability, and the Supplemental Principles (the “Privacy Shield Principles”). If there is a conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. We are committed to applying the Privacy Shield Principles to all personal information received from the EU, Iceland, Liechtenstein and Norway (referred to herein as the “EU”) in reliance upon the Privacy Shield. With regard to the Principle of Accountability for Onward Transfer, for example, we remain liable if our agent processes such personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. To learn more about the Privacy Shield program, and to view our certification page, please visit: <https://www.privacyshield.gov/>
+Auth0® complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the EU and Switzerland. Auth0® has certified that it adheres to the Privacy Shield Principles. If there is a conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. We are committed to applying the Privacy Shield Principles to all personal information received from the EU, Iceland, Liechtenstein, Norway (collectively referred to herein as the “EU”) and Switzerland in reliance upon the Privacy Shield. With regard to the Principle of Accountability for Onward Transfer, for example, we remain liable if our agent processes such personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. To learn more about the Privacy Shield program, and to view our certification page, please visit: <https://www.privacyshield.gov/>
 
-Auth0® is subject to the investigatory and enforcement powers of the Federal Trade Commission. We are committed to resolving complaints from EU data subjects pursuant to the Recourse, Enforcement and Liability Principle. 
+Auth0® is subject to the investigatory and enforcement powers of the Federal Trade Commission. We are committed to resolving complaints from EU or Swiss data subjects pursuant to the Recourse, Enforcement and Liability Principle. 
 
-In compliance with the EU-US Privacy Shield Principles, Auth0® commits to resolve complaints about your privacy and our collection or use of your personal information.  EU individuals with inquiries or complaints regarding this Privacy Policy should first contact Auth0® at [privacy@auth0.com](mailto:privacy@auth0.com).
+In compliance with the Privacy Shield Principles, Auth0® commits to resolve complaints about your privacy and our collection or use of your personal information.  EU or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact Auth0® at [privacy@auth0.com](mailto:privacy@auth0.com).
 
-Auth0® has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Auth0®, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the US Department of Commerce, and/or the Federal Trade Commission for assistance. If your complaint still remains unresolved, then you have the right to invoke binding arbitration by the Privacy Shield Panel upon written notice to Auth0® at [privacy@auth0.com](mailto:privacy@auth0.com).
-
-### US-Swiss Safe Harbor Framework
-
-Auth0® complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Auth0® has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. If there is any conflict between the policies in this Privacy Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit: <http://www.export.gov/safeharbor>
-
-Auth0® has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+Auth0® has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to BBB PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Auth0®, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the US Department of Commerce, and/or the Federal Trade Commission for assistance. If your complaint still remains unresolved, then you have the right to invoke binding arbitration by the Privacy Shield Panel upon written notice to Auth0® at [privacy@auth0.com](mailto:privacy@auth0.com).
 
 ### Questions
 
