@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612164811id_/http%3A//www.wmal.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201232642id_/http%3A//www.wmal.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 105.9 FM and AM 630—Where Washington Comes To Talk | WMAL-AF
 
