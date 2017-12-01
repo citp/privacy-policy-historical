@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neogaf.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620081109id_/http%3A//www.neogaf.com/forum/showthread.php%3Ft%3D390709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neogaf.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201104933id_/http%3A//www.neogaf.com/forum/showthread.php%3Ft%3D390709) for the most accurate reproduction.*
 
 # Privacy Policy - NeoGAF
 
@@ -19,5 +19,3 @@ NeoGAF may automatically convert outbound hyperlink clicks to function as part o
 For more information on privacy concerns, please [email us.](mailto:support@neogaf.com)
 
 _Updated February 15th, 2013_
-
- _Last edited by EviLore; 02-16-2013 at 03:28 PM. _
