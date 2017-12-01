@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417070027id_/https%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201143925id_/https%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 DMC Digital Ltd is a UK registered company that wholly owns and operates the website dealchecker.co.uk. DMC Digital Ltd is part of the Easyvoyage Group. This privacy policy refers to your use of the dealchecker website and the information that we may collect from you as you do so.
 
-Privacy policy updated: 22nd September 2016
+Privacy policy updated: 3rd October 2017
 
   
 
@@ -82,9 +82,9 @@ Some cookies are permanently stored by your browser, whilst others are deleted a
 
 Our third parties use cookies to serve up adverts that are most relevant to you, but only store anonymised data in the cookies they use.
 
-If you’d like to learn more [click here to see our Cookie Policy](https://web.archive.org/web/20170417070027id_/https%3A//www.dealchecker.co.uk/site/cookies.html) which includes a complete list of all the cookies dealchecker uses. 
+If you’d like to learn more [click here to see our Cookie Policy](https://web.archive.org/web/20171201143925id_/https%3A//www.dealchecker.co.uk/site/cookies.html) which includes a complete list of all the cookies dealchecker uses. 
 
-If you’re worried about cookies you can choose to clear your browser’s cookies history or even to disable cookies entirely - [click here](https://web.archive.org/web/20170417070027id_/https%3A//www.dealchecker.co.uk/site/cookies.html#clearing) to learn how.
+If you’re worried about cookies you can choose to clear your browser’s cookies history or even to disable cookies entirely - [click here](https://web.archive.org/web/20171201143925id_/https%3A//www.dealchecker.co.uk/site/cookies.html#clearing) to learn how.
 
   
 
@@ -102,7 +102,7 @@ DMC Digital Ltd has the right to alter this privacy policy for any reason withou
 
 Any updates to our privacy policy will be displayed on this page 
 
-If you have any questions about this privacy policy please write to us at: DMC Digital Limited, Laser House, 132-140 Goswell Road, London, EC1V 7DY 
+If you have any questions about this privacy policy please write to us at: DMC Digital Limited, 1st Floor, 2-4 Rufus Street, London. N1 6PE 
 
 Or email us at [enquiries@dealchecker.co.uk](mailto:enquiries@dealchecker.co.uk)
 
