@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobungo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160109id_/http%3A//jobungo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobungo.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202083551id_/http%3A//www.jobungo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Jobungo.com
 
@@ -25,6 +25,8 @@ To the extent you upload a resume, Jobungo may make the resume and other persona
 We may use other companies as necessary to perform services necessary to our operations. In the course of providing these services, those companies may have access to your personal information in accordance with this Privacy Policy. Every effort will be made to safeguard your privacy when it may be accessed by other companies, including but not limited to technology providers; however, Jobungo will not be liable for any damages that may result from the misuse of your personal information by these companies.
 
 Jobungo may use your IP address to administer our site. Your IP address may also be used to help identify you, your location, and to gather broad demographic information. Nothing shall restrict Jobungo from maintaining your data following your termination of your use of Jobungo’s site. Jobungo may delete your user data at Jobungo’s sole discretion.
+
+For the purpose of identifying users and delivering relevant content and advertisements, our partner LiveRamp may place or recognize a unique cookie on your browser or a unique ID for your mobile device. To opt-out of LiveRamp cookies, please go [here](http://liveramp.com/opt_out/).
 
 ### Facebook Information Collection and Use
 
