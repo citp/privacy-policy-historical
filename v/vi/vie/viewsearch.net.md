@@ -1,55 +1,59 @@
-> *The following text is extracted and transformed from the viewsearch.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030158id_/http%3A//www.viewsearch.net/clkn/http/www.viewsearch.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewsearch.net privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202203148id_/http%3A//www.viewsearch.net/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-**Privacy Policy**
+**Last Updated August 1st, 2016**
 
-**       I.            About This Privacy Policy and The Software**
+www.viewsearch.net (“Website”) is a website owned and operated by Tightrope interactive (“Company”). 
 
-This Privacy Policy is part of the Power X Interactive Ltd (the “Company,” “we,” or “us”) End User License Agreement available at http://www.viewsearch.net/eula/, and applies to all users of the View Search browser software (the “Software”). It describes how the Company collects and uses Software users’ personal information ( _e.g._ , information that identifies a specific person, such as full name and address), and non-personally identifiable information ( _e.g._ , interests, demographics, websites visited, and Software usage) to the extent such information is associated with a particular user.  If you do not agree to all terms in this Privacy Policy, do not install or use the Software.  You may uninstall the Software at any time by following the instructions provided in the End User License Agreement.
+The Company takes privacy matters very seriously. This document explains what type of data we are collecting and how we are using this data. This document pertains to the usage of our website.
 
-The Software is exclusively directed for use by adults, and the Company does not knowingly collect personal information from children under 13. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us immediately at the email address in the last paragraph below.
+### What personal identifiable information does the Company store?
 
-The Software may integrate third party content (“Third Party Content”) in order to display news feed content and search results to you. Such Third Party Content may include feeds, search results, APIs, links, information, websites, web pages, services, claims, promotions, offers, statements, data files, images, graphics, software, videos, music, photographs, sounds, or other content displayed, promoted, or otherwise made available through third parties. Such Third Party Content also may include advertising, or advertising-supported search results, which will be displayed to you if you use the search box or click on the news feed content. 
+Personally Identifiable Information is data that identifies you personally; such as your address, name, email address, telephone number, or birth date. The Company does not collect or store any Personally Identifiable Information from this website.
 
-**     II.            COLLECTION OF INFORMATION FROM SOFTWARE USERS**
+### What non-personally identifiable information does the Company store?
 
-**User-Submitted Information.  **If you contact us, you may submit personal information to enable us to effectively respond to your inquiry, such as your full name and other identifying information. Your submission of any such information is voluntary and you may choose not to disclose any of this information when contacting us. Your user-submitted information may also include user names associated with third-party services, information or content you have permitted other parties to share with us, and any information you have made publicly available through social media or other means. We may supplement any user-submitted information with other information collected by us or obtained from other parties for marketing, advertising, and analytics purposes.
+Non Personally Identifiable Information is data that cannot be used to identify a specific person. Examples of NPII can include items such as IP Address, the type of Web Browser you are using, the version of the web browser, the Operating System you are using and other websites you may have visited.
 
-**When Accessing or Using the Software.**  When you use the Software, several types of individual user information will be collected, stored, used, supplemented, shared with other parties, and sold for commercial and marketing purposes. These purposes include, but are not limited to, improving or maintaining the Software; displaying relevant advertisements and content to Software users; providing the Software features; providing analytics services; and other purposes as described in this policy. The user information we collect includes information about your computer and your computing environment, such as your IP address, unique identifier number, hardware, software, configuration, operating system information, browsers, other connected devices, applications, usage patterns, capability, and performance.  It also includes information about your internet use and browsing activity, interests, location, and demographics, such as websites visited, queries entered into search engines, pages viewed, and specific content that has been displayed to you or accessed by you, such as advertisements, items in your online shopping carts, and other products or services of interest to you. This collected data may also be supplemented with information obtained from other parties, or information submitted by users, for marketing, advertising, and analytics purposes.  
+The Company retains some non-personally identifiable information to improve our website and for statistical purposes.
 
-**Third Party Tracking and Data Collection** _._   Third parties support the Software by serving advertisements or content; tracking website or Software usage; providing Software users with the ability to comment on or share content; or providing other services. These third parties may also use cookies, pixels and the other tracking and data collection technologies described above to collect user information.
+### Do you use cookies?
 
-**Do Not Track Settings.**   In order to refine the ads or content provided to you through the Software, the Software does not accommodate or respond to unique browser or privacy settings, such as “Do Not Track.”
+A cookie is a small text file sent to your browser. Cookies are stored on your computer’s hard drive for record keeping purposes.
 
-**Types of Data Tracking and Collection Technologies** _._  We may use browser cookies, Adobe Flash cookies, pixels, beacons, JavaScript, web and DOM storage data, and other tracking and data collection technologies, including an anonymous unique identifier assigned to you. These technologies may be used to collect and store information about your use of the Software while browsing websites, such as web pages viewed, features and content you have accessed, advertisements you have seen, search queries you have run, referral URL information, links you have clicked on, and specific products, services or content you have purchased, used or viewed. This data is used, supplemented, sold, and shared with other parties for business purposes. These purposes include, but are not limited to, providing the Software features; displaying more relevant ads and content; conducting market research; and providing and selling analytics services and data to third parties. We may also use these technologies (and similar tools) to correlate your Software use, and any information collected through the Software, to other personal information that we obtain from you or other parties. For example data about your click stream, cookies, or other activities using the Software may allow us to refine the ads, offers and content provided to you through the Software to items we think you will find interesting and relevant, based on your previous online activities and preferences.
+When you visit our website, the Company may store a cookie on your computer to identify you; such cookie identifies that you previously visited this website, and allows us to analyze our web traffic to improve our services and better serve our visitors.
 
-**  III.            Use and Disclosure of Collected Information**
+### Web beacons or Pixels
 
-We only disclose or share your non-public personal information with third parties when we believe doing so is permitted by you and/or authorized by this Privacy Policy. In addition, the Company may share your personal information with our parent, subsidiary or affiliate companies without restriction. Any information that we collect or receive about you may be used, shared, or sold for the following purposes:
+Web beacons or Pixels are tiny graphics with a unique identifier, similar in function to cookies. They track your online Web movement. We embed Pixels invisibly on Web pages. They are about the size of the period at the end of this sentence. We do not tie the information gathered by Pixels to our customers’ Personally Identifiable Information.
 
-·          **To allow third party service providers to assist us.**  We may share the information we collect from and receive about users with certain third party service providers, such as vendors, contractors, agents or sponsors, who help us manage the Software or provide Software content, advertisements and other services. These services may include advertising and marketing; developing or supporting products and features; processing payments; processing data or statistics; and supplementing or organizing information or data. These outside service providers are required to protect non-public personal information and not use or disclose it for unauthorized purposes.
+We may use web beacons on our site to help track consumers that have visited our website in order to help improve our site.
 
-·          **To protect our rights and the rights of our users.**  We may disclose any user information in order to: (i) protect or defend the legal rights or property of the Company or any of its vendors, partners or affiliates, or any of their employees, agents and contractors (including enforcement of agreements); (ii) protect the safety and security of individuals; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law, subpoena or other legal process or requirement.
+### How is the information processed?
 
-·         **To provide and monetize the Software.** In order to provide and monetize the Software, we may use and share with third parties the information we collect from and receive about users in order to provide you with customer support and respond to inquiries; to deliver content or advertising; to perform market research or measure Software usage; and to analyze traffic counts, user interests and Software performance. We may also use and share aggregated, anonymous data about the use of the Software and related activity, and such data is not subject to this Privacy Policy.
+The Company collects and processes non-personal information in order to allow better service and monitor use of our site. This information is collected by our web server logs and web beacons.
 
-·         **To provide relevant content and advertising.** We may use and share the information you provide to us, and information we collect about your use of the Software through tracking and other technologies, to deliver relevant advertisements, offers and content when using the Software. We may work with third party advertising networks and advertisers who help deliver these ads to you. As noted above, these third party advertising networks and advertisers may also use cookies and other technologies to collect and track user data such as demographic information, location, interests, affiliations, website usage, e-commerce, and other online activity to assist them in delivering advertising and content that is more relevant to your interests. They may also supplement data from other sources to help deliver more relevant ads.
+### How We Use Your Information
 
-**  IV.            Disclaimers**
+We use NPII to help us understand who is visiting our website and what they do on our website. This data is then used to help us improve our site, it’s content and performance.
 
-**Third Party Advertisements and Links.**  We are not affiliated with or responsible for the privacy practices of any third parties who advertise or link to any websites, products, services or offers through the Software, including but not limited to any reward programs, contests, sweepstakes, surveys, questionnaires, memberships, subscriptions, or trial offers. Once you click on an advertisement or link, you should carefully review the applicable privacy policy of such third party service or site.
+### How We Share Your Information
 
-**Security.**  Unfortunately, no transmission of data over the Internet can ever be guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. We cannot ensure or warrant the security of any personal information transmitted to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem and uninstall the Software immediately.
+We may share NPII data with third parties for the purpose of analyzing the data and help[ing us improve our website. An example of this is our usage of Google Analytics to aggregate NPII data and proivide insights on what consumers are doing on our web site.
 
-**      V.            Uninstalling The Software**
+### Children’s Online Privacy
 
-You may uninstall the Software at any time by following the instructions provided in the End User License Agreement. After you uninstall the Software, certain related files may remain on your computer. These remnant files are a record of your previous download and are not executable programs. These files help to better service you if you choose to download the Software again, and to prevent fraud.
+We do not knowingly collect information about children under the age of 13. We encourage parents and guardians to be familiar with the web sites that their children visit the Federal Trade Commission (“FTC”) regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children’s Online Privacy Protection Act of 1998 (the “Act”). For more information about the Act and children’s on-line privacy in general, visit the FTC’s web site at www.ftc.gov/privacy. For safety tips on privacy visit www.OnGuardOnline.gov.
 
-**  VI.            Modifications to This Privacy Policy**
+### Policy Updates
 
-We may modify the terms of this Privacy Policy at any time by providing notice to you and obtaining your consent to such modification. If you do not agree to any modification, you must uninstall the Software.
+We may change this privacy policy. If we change this policy we will post the changes to this privacy statement, our websites’ homepages, and other places we deem appropriate. We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**VII.             How to Contact the Company**
+**Enforcement / Redress**
 
-If you have any questions or wish to contact us about this Privacy Policy, please email support@viewsearch.net.  This Privacy Policy was last updated May 1st, 2016.
+If you feel that we have not followed our Privacy Policy, please let us know. Also, if you have any questions or concerns about our Privacy Policy, its implementation, or would like a written copy, please feel free to contact us at:
+
+Tightrope Interactive 588 Sutter St #551, San Francisco, CA 94102
+
+Alternatively, if you would like, contact us via e-mail at webmaster@searchtabnew.com 
