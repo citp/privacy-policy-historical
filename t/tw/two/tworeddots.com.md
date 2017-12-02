@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tworeddots.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172419id_/http%3A//tworeddots.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tworeddots.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202095749id_/http%3A//tworeddots.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # TwoRedDots - Homepage
 
@@ -59,7 +59,7 @@ We collect certain information pertaining to a user, which may be made available
 
 ##### What is a "cookie"?
 
-When you use our Service we may assign your device with a log file or a cookie (session or persistent). A "cookie" is a small piece of information that a website assign to your computer’s hard drive while you are viewing a web site. Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and the Service quicker and easier. Cookies are also used to help ensure that the advertisements you see are relevant to you and your interests. You can find more information about cookies at www.allaboutcookies.org. You may remove our cookies by following the instructions of your browser preferences; however, if you choose to disable cookies, some features of our Service may not operate properly and your online experience may be limited.
+When you use our Service we may assign your device with a log file or a cookie (session or persistent). A "cookie" is a small piece of information that a website assign to your computerâ€™s hard drive while you are viewing a web site. Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and the Service quicker and easier. Cookies are also used to help ensure that the advertisements you see are relevant to you and your interests. You can find more information about cookies at www.allaboutcookies.org. You may remove our cookies by following the instructions of your browser preferences; however, if you choose to disable cookies, some features of our Service may not operate properly and your online experience may be limited.
 
 ##### What are we using it for?
 
@@ -121,7 +121,7 @@ Please note that unless you instruct us otherwise we retain the information we c
 
 #### Direct Marketing
 
-If you provided us with your email address, we may use it from time to time in connection with promotional activities or bonus programs, and share it with our marketing partners or use it ourselves for the purpose of providing you recent news, interesting updates and marketing offers or promotions. As we are committed to your right to privacy, we provide you with simple tools to decline receiving email offers from us or from our affiliates and partners – you may, at any time, choose to no longer receive commercial or promotional emails from us by clicking on the "unsubscribe" link at the bottom of each email communication that we will send you.
+If you provided us with your email address, we may use it from time to time in connection with promotional activities or bonus programs, and share it with our marketing partners or use it ourselves for the purpose of providing you recent news, interesting updates and marketing offers or promotions. As we are committed to your right to privacy, we provide you with simple tools to decline receiving email offers from us or from our affiliates and partners â€“ you may, at any time, choose to no longer receive commercial or promotional emails from us by clicking on the "unsubscribe" link at the bottom of each email communication that we will send you.
 
 Please note that even if you have unsubscribed from receiving promotional emails from us, we may send you other types of important e-mail communications without offering you the opportunity to opt out of receiving them. These may include customer service announcements, administrative notices and surveys.
 
