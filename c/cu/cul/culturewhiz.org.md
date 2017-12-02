@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturewhiz.org privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605231412id_/http%3A//www.culturewhiz.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturewhiz.org privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202203524id_/http%3A//culturewhiz.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Culture Whiz
 
