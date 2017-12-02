@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the eutimes.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630030314id_/http%3A//www.eutimes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eutimes.net privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202012737id_/http%3A//www.eutimes.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EUTimes.net
 
 **Privacy Policy**  
 EU Times, like most websites stores harmless cookies in your browser to remember actions such as when you vote in a poll, rate a story or a comment so that you can’t vote more than one time. Voting more than once would diminish the exactness of the poll which is intended to reflect views of all people. You are free to delete any cookies placed by EU Times in your browser. All user data stored on this website becomes private and it will not be passed to any third party companies.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 We may also use Google’s DoubleClick DART cookies to store ads on our website:  
 http://www.doubleclick.com/privacy/faq.aspx  
