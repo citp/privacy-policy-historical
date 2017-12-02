@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the something2offer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001853id_/http%3A//something2offer.com/about/blog-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the something2offer.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202215718id_/http%3A//something2offer.com/about/blog-privacy-policy) for the most accurate reproduction.*
 
 # Blog Privacy Policy - Something 2 Offer
 
-_This site uses affiliate links within posts, sidebar ads, and in post ads. All proceeds go to support our family._[ ](http://www.tkqlhce.com/click-8228306-12331622)
+_This site uses affiliate links within posts, sidebar ads, and in post ads. All proceeds go to support our family._[ ](http://www.tkqlhce.com/click-8228306-12277007)
 
 Everyone wants to know how safe their information is and what do you do with my name and email if I enter your giveaway, right? First off I am selfish and will not share your name or email with anyone besides the company that is offering the giveaway IF I have disclosed this before the sign-up. Otherwise it is safe to know that I will be in control of your emails and guard them from third-party advertisers.
 
@@ -11,7 +11,5 @@ If I find a really good freebie, sale, or time sensitive deal then I may email y
 I do use Google Analytics and Jetpack Plugin in order to provide statistics which in turn allows me to generate money on this blog. The information collected usually include place of origin/country, time spent on site, and time visit began. All of this data are useful in my planning social media shares and post publishing times. Individual information is not collected or shared like name, address, IP, etc. Your gender, age, education and income range may be included in this data which is reported as a collective group.
 
 When you click on links that take you away from Something 2 Offer that new site may collect your data or store your data as a cookie. You will need to read their disclosure and privacy statements to see how your information is used by each individual company or website.
-
-[](https://www.greathomeschoolconventions.com/?ap_id=Some2Offer)
 
 Blog comments just like tweets and Facebook posts are PUBLIC. If you do not want others to see this information publicly then do not leave a comment. If you need to contact me privately then by all means please do so.
