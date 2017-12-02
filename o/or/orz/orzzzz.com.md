@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orzzzz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025806id_/http%3A//orzzzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orzzzz.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202201033id_/http%3A//orzzzz.com/privacy) for the most accurate reproduction.*
 
 # Orzzzz - Trending news and hot topics of now.
 
