@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekstoy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102808id_/http%3A//www.geekstoy.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekstoy.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202082604id_/http%3A//www.geekstoy.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geeks Toy
 
