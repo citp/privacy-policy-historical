@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazada.sg privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628104718id_/http%3A//www.lazada.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazada.sg privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202191035id_/https%3A//www.lazada.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lazada Singapore
 
@@ -6,11 +6,11 @@ Data protection is a matter of trust and your privacy is important to us. We sha
 
 We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.
 
-You can visit the Platform (as defined in the Terms of Use) and browse without having to provide personal details. During your visit to the Platform you remain anonymous and at no time can we identify you unless you have an account on the Platform and log on with your user name and password.
+You can visit the Platform (as defined in the Terms of Use) and browse without having to provide personal details. During your visit to the Platform you remain anonymous and at no time can we identify you unless you have an account on the Platform and log on with your username and password.
 
 Lazada is committed to complying with the Personal Data Protection Act 2012.
 
-If you have any comments, suggestions or complaints, you may contact us (and our Data Protection Officer) by e-mail at **customer@lazada.sg .**
+If you have any comments, suggestions or complaints, please contact us (and our Data Protection Officer) through our [Contact Us](https://www.lazada.sg/contact/) page.
 
 ### Collection of Personal Information
 
@@ -32,7 +32,7 @@ We will only be able to collect your personal information if you voluntarily sub
 
 If you provide personal information of any third party to us, we assume that you have obtained the required consent from the relevant third party to share and transfer his/her personal information to us.
 
-If you sign up for Lazada using your social media account or link your Lazada account to your social media account or use certain other Lazada social media features, we may access information about you which you have voluntarily provided under your social media provider in accordance with the provider's policies and we will manage your personal data which we have collected in accordance with Lazada’s privacy policy.  
+If you sign up for Lazada using your social media account or link your Lazada account to your social media account or use certain other Lazada social media features, we may access information about you which you have voluntarily provided under your social media provider in accordance with the provider's policies and we will manage your personal data which we have collected in accordance with Lazada’s privacy policy.   
 
 
 ### Use and Disclosure of Personal Information
@@ -112,6 +112,8 @@ This information is collected for analysis and evaluation in order to help us im
 
 Cookies are small text files (typically made up of letters and numbers) placed in the memory of your browser or device when you visit a website or view a message. They allow us to recognize a particular device or browser and help us to personalize the content to match your preferred interests more quickly, and to make our Services and Platform more convenient and useful to you. 
 
+You may be able to manage and delete cookies through your browser or device settings. For more information on how to do so, visit the help material of your browser or device. 
+
 Web beacons are small graphic images that may be included on our Service and the Platform. They allow us to count users who have viewed these pages so that we can better understand your preference and interests. 
 
 ### No Spam, Spyware, or Virus
@@ -128,4 +130,4 @@ YOU ACKNOWLEDGE AND AGREE THAT LAZADA HAS THE RIGHT TO DISCLOSE YOUR PERSONAL IN
 
 ### Contacting Lazada
 
-If you wish to withdraw your consent to our use of your personal information, request access and/or correction of your personal information, have any queries, comments or concerns, or require any help on technical or cookie-related matters, please feel free to contact us (and our Data Protection Officer) at [customer@lazada.sg].
+If you wish to withdraw your consent to our use of your personal information, request access and/or correction of your personal information, have any queries, comments or concerns, or require any help on technical or cookie-related matters, please feel free to contact us (and our Data Protection Officer) through our [Contact Us](https://www.lazada.sg/contact/) page.
