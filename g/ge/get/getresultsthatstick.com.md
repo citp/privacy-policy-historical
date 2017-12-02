@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getresultsthatstick.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023545id_/http%3A//proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresultsthatstick.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202195056id_/http%3A//proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Proctor Gallagher Institute
 
@@ -48,4 +48,4 @@ The Company may occasionally modify this privacy policy statement. When this is 
 
 **CONTACT INFORMATION**
 
-We welcome your comments regarding this privacy policy statement.  You may contact us via e-mail at [customerservice@proctorgallagher.com](mailto:customerservice@proctorgallagher.com) or by U.S. Mail at Proctor Gallagher Institute – Privacy Policy Comments, 8776 E Shea Blvd, Suite 106-621, Scottsdale, AZ 85260.
+We welcome your comments regarding this privacy policy statement.  You may contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5b6a0a6a1bab8b0a7a6b0a7a3bcb6b095a5a7bab6a1baa7b2b4b9b9b4b2bdb0a7fbb6bab8) or by U.S. Mail at Proctor Gallagher Institute – Privacy Policy Comments, 5010 E Shea Blvd, Suite 255, Scottsdale, AZ 85254.
