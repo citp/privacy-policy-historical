@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbontesla.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608065729id_/http%3A//www.carbontesla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbontesla.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203002644id_/http%3A//www.carbontesla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carbon Tesla
 
