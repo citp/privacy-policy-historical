@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psiphon3.net privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518152210id_/http%3A//www.psiphon3.net/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psiphon3.net privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202103116id_/http%3A//www.psiphon3.net/en/privacy.html) for the most accurate reproduction.*
 
 # Psiphon | Privacy Policy
 
@@ -15,7 +15,7 @@ Psiphon is designed to provide you with open access to online content. Psiphon d
 
 ## What user information does Psiphon collect?
 
-From time to time Psiphon may have to record additional information in order to resolve a problem with our service. When this occurs, we will add an entry to the [Privacy Bulletin](https://web.archive.org/web/20170518152210id_/http%3A//www.psiphon3.net/en/privacy-bulletin.html) describing what was recorded, how long it was kept, and why. 
+From time to time Psiphon may have to record additional information in order to resolve a problem with our service. When this occurs, we will add an entry to the [Privacy Bulletin](https://web.archive.org/web/20171202103116id_/http%3A//www.psiphon3.net/en/privacy-bulletin.html) describing what was recorded, how long it was kept, and why. 
 
 ### Psiphon Client Software
 
@@ -62,9 +62,7 @@ We collect the following data to find out how well Psiphon is working, what site
   * How often each protocol is used, and error codes after failure
   * How often new servers are discovered
   * Session count and session duration
-  * Page views (full page URLs for sponsor web sites)
-  * Bytes transferred
-  * Number of HTTPS requests
+  * Total bytes transferred and bytes transferred for some specific domains
   * Client platform (simplified operating system list; e.g, not a detailed browser user agent)
 
 
