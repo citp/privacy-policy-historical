@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the themoviepool.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142444id_/http%3A//www.cinelinx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoviepool.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202215325id_/http%3A//www.cinelinx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy
+
+* * *
+
+Hey Cinelinx readers! We'll get straight to the point, we're running a Kickstarter campaign to release new expansions for our Cinelinx card game and could really use your help. A pledge, post, Tweet, share, etc. would go a long way to keep our site running smoothly! **[_Visit the campaign page to  Learn More.
+
+* * *
+
+_](https://www.kickstarter.com/projects/cinelinxmedia/new-cinelinx-decks-the-best-movie-trivia-game-gets?ref=discovery)[  
+](https://www.kickstarter.com/projects/cinelinxmedia/new-cinelinx-decks-the-best-movie-trivia-game-gets?ref=discovery)**
 
 **Cinelinx.com Privacy Policy**
 
