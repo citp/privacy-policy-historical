@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limaohio.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628023320id_/http%3A//civitasmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limaohio.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202061121id_/http%3A//civitasmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Civitas Media - civitasmedia.com
 
@@ -10,7 +10,7 @@
 
 _**Privacy Policy Overview**_
 
-Civitas Media, LLC (“Civitas,” “us,” or “we”) knows that you care how information about you is used and shared and respects the privacy of the visitors to the [www.civitasmedia.com](http://www.civitasmedia.com/) website (this “Site”). We have created this Privacy Policy (“Privacy Policy”) to demonstrate our commitment to privacy and security and supplement our [Terms of Service](http://www.civitasmedia.com/terms) (“Terms of Service”) for the Site. This Privacy Policy is an agreement between Civitas and you, as the user of this Site (“you”). It explains what information of yours will be collected by us when you use this Site, how the information will be used, how you can control the collection, how we may change this Privacy Policy, and the steps we take to ensure that your personal information is protected. We request that you read this Privacy Policy carefully.
+Civitas Media, LLC (“Civitas,” “us,” or “we”) knows that you care how information about you is used and shared and respects the privacy of the visitors to the [www.www.civitasmedia.com](http://www.www.civitasmedia.com/) website (this “Site”). We have created this Privacy Policy (“Privacy Policy”) to demonstrate our commitment to privacy and security and supplement our [Terms of Service](http://www.www.civitasmedia.com/terms) (“Terms of Service”) for the Site. This Privacy Policy is an agreement between Civitas and you, as the user of this Site (“you”). It explains what information of yours will be collected by us when you use this Site, how the information will be used, how you can control the collection, how we may change this Privacy Policy, and the steps we take to ensure that your personal information is protected. We request that you read this Privacy Policy carefully.
 
 In this Privacy Policy, “personal information” means any information by which you can be identified or contacted, including but not limited to, your name (first and last), mailing address, email address, telephone number, billing information, etc.
 
@@ -18,7 +18,7 @@ All activities which you engage in on this Site are voluntary. You are not requi
 
 _**Information We Collect**_
 
-**User-Provided Information** **:** In order to access certain interactive features of our website we may collect personal information, such as your name, email address, street address, age and gender identification or photographs, when, for example, you register for or subscribe to certain forums, products or services or [contact customer service](mailto:CIVHR@www.civitasmedia.com).
+**User-Provided Information** **:** In order to access certain interactive features of our website we may collect personal information, such as your name, email address, street address, age and gender identification or photographs, when, for example, you register for or subscribe to certain forums, products or services or [contact customer service](mailto:CIVHR@www.www.civitasmedia.com).
 
 **Cookies Information:** When you visit the Site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the Site. A cookie does not collect personal information about you. We use both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Site or services may not function properly if the ability to accept cookies is disabled.
 
@@ -64,7 +64,7 @@ When using our Site you have the choice to update certain aspects of your person
 
 _**Children’s Privacy (COPPA)**_
 
-Civitas does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 should provide any personal information to or on this Site. In the event we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information promptly. If you believe that we might have any information from or about a child under 13, please [contact us](http://www.civitasmedia.com/contact). We encourage parents and guardians of children under 18 to regularly check and monitor their children’s use of email and other activities online.
+Civitas does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 should provide any personal information to or on this Site. In the event we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information promptly. If you believe that we might have any information from or about a child under 13, please [contact us](http://www.www.civitasmedia.com/contact). We encourage parents and guardians of children under 18 to regularly check and monitor their children’s use of email and other activities online.
 
 _**Links to Other Websites**_
 
@@ -86,7 +86,7 @@ We reserve the right to change this Privacy Policy at any time. If we change our
 
 _**Contact Us**_
 
-If you have any questions about this Privacy Policy, the practices of this Site, your dealings with this Site, or wish to update us with your preferences, you may contact us via the [Contacting Us link](http://www.civitasmedia.com/contact) or by phone by calling (704) 897-6020.  You may also write to us at:
+If you have any questions about this Privacy Policy, the practices of this Site, your dealings with this Site, or wish to update us with your preferences, you may contact us via the [Contacting Us link](http://www.www.civitasmedia.com/contact) or by phone by calling (704) 897-6020.  You may also write to us at:
 
 Civitas Media, LLC
 
