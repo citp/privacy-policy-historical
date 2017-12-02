@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchwrestling24.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032639id_/http%3A//watchwrestling24.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchwrestling24.net privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202194411id_/http%3A//watchwrestling24.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WatchWrestling24
 
@@ -69,4 +69,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [WatchWrestling24.net](http://watchwrestling24.net/ "Contact US NOW!")  
-contact@WatchWrestling24.net
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
