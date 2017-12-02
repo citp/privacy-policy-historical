@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytemplatestorage.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629203815id_/http%3A//www.mytemplatestorage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytemplatestorage.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202122615id_/http%3A//www.mytemplatestorage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - MyTemplateStorage
 
@@ -30,7 +30,7 @@ We find that your actions on our websites violate our Terms of Use document or a
 
 ## Consent
 
-If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to us. If you have provided personal information to us and cease to consent to its use or disclosure as outlined herein, please notify us at support@mytemplatestorage.com.
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to us. If you have provided personal information to us and cease to consent to its use or disclosure as outlined herein, please notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Security
 
@@ -42,4 +42,4 @@ We may at any time, without notice to you and in its sole discretion, amend this
 
 ## Questions and Suggestions
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at support@mytemplatestorage.com. 
+If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
