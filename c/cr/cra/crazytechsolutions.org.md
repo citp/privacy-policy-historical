@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazytechsolutions.org privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621031046id_/http%3A//crazytechsolutions.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazytechsolutions.org privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202175913id_/http%3A//www.crazytechsolutions.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Crazy Tech Solutions
 
