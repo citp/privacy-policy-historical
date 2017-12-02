@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcovers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142734id_/http%3A//www.firstcovers.com/index.php%3Fsite%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcovers.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202100702id_/http%3A//www.firstcovers.com/index.php%3Fsite%3Dprivacy) for the most accurate reproduction.*
 
 # Facebook Covers-Profile Photos for Timelines FirstCovers.com
 
@@ -24,5 +24,5 @@ We partner with ValueClick to serve ads and/or collect certain information when 
 
 ## Menu
 
-FirstCovers.com © 2015 - FirstCovers.com is not affiliated with facebook. - firstcovers11@gmail.com  
+FirstCovers.com © 2015 - FirstCovers.com is not affiliated with facebook. - [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 Disclaimer: This site is 100% user uploaded. Have a complaint? Please use our [DMCA](https://web.archive.org/dmca.html)
