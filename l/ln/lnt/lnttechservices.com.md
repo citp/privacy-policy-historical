@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the lnttechservices.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042102id_/http%3A//www.lnttechservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnttechservices.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202230958id_/http%3A//www.lnttechservices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | L&T Technology Services | L&T India
 
-**Introduction**
+Skip to main content 
 
-  * We Larsen & Toubro Limited are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information.
+### Introduction
+
+  * We Larsen & Toubro Limited are committed to safeguarding the privacy of our website visitors; in this policy, we explain how we will treat your personal information.
 
   * By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
 
 
 
-**Collecting Personal Information**
+### Collecting Personal Information
 
   * We may collect, store and use the following kinds of personal information: 
     * Information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths);
 
     * Information that you provide to us when registering with our website including your email address;
 
-    * Information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including [your name and email address);
+    * Information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including [your name] and [email address]);
 
     * Information that you provide to us when using the services on our website, or that is generated in the course of the use of those services (including the timing, frequency and pattern of service use);
 
@@ -30,7 +32,7 @@
 
 
 
-**Using Your Personal Information**
+### Using Your Personal Information
 
   * Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website.
   * We may use your personal information to: 
@@ -48,11 +50,11 @@
 
     * Keep our website secure and prevent fraud.
 
-  * If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
+  * If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
 
 
-**Disclosing Personal Information**
+### Disclosing Personal Information
 
   * We may disclose your personal information to any of our employees, officers, advisers, agents, insofar as reasonably necessary for the purposes set out in this policy.
 
@@ -72,7 +74,7 @@
 
 
 
-**International Data Transfers**
+### International Data Transfers
 
   * Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
 
@@ -83,7 +85,7 @@
 
 
 
-**Retaining Personal Information**
+### Retaining Personal Information
 
   * This Section sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal information.
 
@@ -100,7 +102,7 @@
 
 
 
-**Security of your Personal Information**
+### Security of your Personal Information
 
   * We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -111,16 +113,16 @@
 
 
 
-**Third Party Websites**
+### Third Party Websites
 
   * Our website includes hyperlinks to, and details of, third party websites.
 
-  * We have no control over, and are not responsible for, the privacy policies and practices of third parties.
+  * We have no control over and are not responsible for, the privacy policies and practices of third parties.
 
 
 
 
-**Cookies**
+### Cookies
 
   * Our website uses cookies.
 
