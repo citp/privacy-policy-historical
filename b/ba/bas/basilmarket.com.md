@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the basilmarket.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614060404id_/http%3A//www.basilmarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basilmarket.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202121609id_/http%3A//www.basilmarket.com/privacy) for the most accurate reproduction.*
 
 # BasilMarket Screens, Videos, Gameplay, Talk, Forum, Classes
+
+**Sad Mask**
+
+Would you be so kind as to disable your ad-blocker on BasilMarket please? Your support is greatly appreciated.
 
 ## Your privacy is important to us. The following policy outlines what data we collect and how we use it.
 
