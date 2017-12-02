@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the potpiegirl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114400id_/http%3A//www.potpiegirl.com/privacy-policy-termsofuse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potpiegirl.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202213049id_/http%3A//www.potpiegirl.com/privacy-policy-termsofuse) for the most accurate reproduction.*
 
 # Privacy Policy/ TermsOfUse - PotPieGirl.com
+
+* * *
+
+Hi! I’m Jennifer – known as ‘PotPieGirl’ online. Welcome to my blog! I just want to let you know that the posts here on PotPieGirl.com may contain affiliate links which means, at 
+
+_no_
+
+cost to YOU, that I might receive compensation if you purchase something through a link on my site. 
+
+In the blogging world that’s called “affiliate marketing”, and it’s a very common way bloggers make money by sharing products they love (like I do). 
+
+Yes, that’s how many blogs make money. 
+
+For example, [_This blogger makes $50,000+ a MONTH with her blog_](http://www.potpiegirl.com/msoam) – blogging is a solid home-business idea for just about everyone.
+
+Ok, on to the privacy policy, terms of use, and all that other fun stuff!
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
