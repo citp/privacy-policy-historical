@@ -1,18 +1,21 @@
-<!--The following is the downloaded HTML source of the pga.com privacy policy that was archived on 2016-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121124208id_/http%3A//www.pga.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pga.com privacy policy that was archived on 2017-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171202121253id_/http%3A//www.pga.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Privacy Policy | PGA.com</title>
-  
+  <!-- WOMPMOBILE SITE TAG - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG - For more information see WompMobile.com -->
+    <script>(function(f,a,b,c,g){if(/nomobile/i.test(a.cookie)&&!/showmobile/i.test(b.hash)||/frommobile/i.test(b.hash))/frommobile/i.test(b.hash)&&(a.cookie="NoMobile=True; expires="+d.toUTCString()+";");else if(/ipod|phone|mobile|mini|silk/i.test(c)&&!/ipad|tablet/i.test(c)||/yesmobile/i.test(a.cookie)||/showmobile/i.test(b.hash))a.write('<plaintext style="display:none;">'),a.addEventListener("DOMContentLoaded",function(){f.stop&&f.stop();var c=a.getElementsByTagName("script")[0],e=a.createElement("script");
+      e.src="//az690879.vo.msecnd.net/7460/MobileScript.js";e.id="wompScript";e.onerror=function(){a.cookie="NoMobile=True; expires="+g+";";f.location=b.href};c.parentNode.insertBefore(e,c)})})(window,document,window.location,navigator.userAgent,(new Date(Date.now()+6E5)).toUTCString());</script>
+    <!--END WOMPMOBILE TAG-->
 
 <link type="text/css" rel="stylesheet" media="all" href="http://z.cdn.turner.com/dr/pga/sites/default/files/supert/quicktabs.css">
-<script type="text/javascript" src="http://cdn.optimizely.com/js/1953090062.js"></script>
+<script type="text/javascript" src="https://cdn.optimizely.com/js/1953090062.js"></script>
 
       <link rel="canonical" href="http://www.pga.com/other/privacy-policy">
           
 <script language="javascript" type="text/javascript" src="http://i.cdn.turner.com/ads/adfuel/ais/pga-ais.js"></script>
-<script src="http://cdn.gigya.com/JS/socialize.js?apikey=3_Yb8jl_1jHGdSFXyfWlmiCr-Hn5_ajVPiiWzgMLaC_TIe6gYrw84VEBJJ6REMZWOb" type="text/javascript"></script>
+<script src="https://cdns.gigya.com/JS/socialize.js?apikey=3_Yb8jl_1jHGdSFXyfWlmiCr-Hn5_ajVPiiWzgMLaC_TIe6gYrw84VEBJJ6REMZWOb" type="text/javascript"></script>
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//i2.cdn.turner.com">
 
@@ -37,35 +40,37 @@ body div#page-wrapper-inner-inner {
 
                  <meta name="keywords" content="Other">
 
-  <link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/files/advagg_css/css_902fbae48869beaee25772daf1f723ce_23.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/files/advagg_css/css_0ba9dea06a2c42bf2f51c9bf9560ac5e_23.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/files/advagg_css/css_6d2689b8b2b626aaf37f6e9af2811142_806.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/files/advagg_css/css_9453d3600cf74c8b4d2ca780a7975418_2.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://i2.cdn.turner.com/dr/pga/sites/default/files/advagg_css/css_277ae6a692a780762840ceb9a8b359df_15.css">
+  <link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/files/css/css_50596d5823b8aec00a3bf12764ddf942.css">
+<link type="text/css" rel="stylesheet" media="print" href="http://i2.cdn.turner.com/dr/pga/sites/default/files/css/css_1662c7c09a77d3697964ff3ab09419a7.css">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/css/ie.css?Y" />
+<link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/css/ie.css?C" />
 <![endif]-->
 <!--[if IE 7]>
-<link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/css/ie7.css?Y" />
+<link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/css/ie7.css?C" />
 <![endif]-->
 <!--[if IE 8]>
-<link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/css/ie8.css?Y" />
+<link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/css/ie8.css?C" />
 <![endif]-->
-  <script type="text/javascript" src="http://www.pga.com/sites/default/files/advagg_js/js_6682548ca9c06a52bd2eaebf1ca25f14_23.js"></script>
-<script type="text/javascript" src="http://www.pga.com/sites/default/files/advagg_js/js_f88cc1a4488a1855ebe11c5945484bf8_15.js"></script>
-<script type="text/javascript" src="http://www.pga.com/sites/default/files/advagg_js/js_a676a6c7099a77317d244b9420a74015_23.js"></script>
-<script type="text/javascript" src="http://www.pga.com/sites/default/files/advagg_js/js_dc7e661663646307cbd177ba6e756759_192.js"></script>
+  <script type="text/javascript" src="/sites/default/files/js/js_b0b6f5b115b587bfc7b8657fd2bdedf9.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"golf_subqueue_custom_ui":{"user_role":"","base_path":"\/"},"photo_gallery_ad_clicks":"5","photo_gallery_slider_speed":"4000","jsmd_rsid_type":"prod","gigya":{"conf":{"APIKey":"3_Yb8jl_1jHGdSFXyfWlmiCr-Hn5_ajVPiiWzgMLaC_TIe6gYrw84VEBJJ6REMZWOb","enabledProviders":"facebook"},"loginDestination":"http:\/\/www.pga.com\/socialize-login?destination="},"clock_omega":{"url":""},"byline_and_author":{"byline":"","author":"chris.pellani"},"user_info":[],"pganm":"pga non microsite","node_info":{"title":"Privacy Policy","nid":"31665"},"page_section":"other","page_regular_section":"Other","page_subsection":"","page_franchise":"","page_regular_franchise":null,"template_type":"other:html","yahoo_page":0,"equipment":null});
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "golf_subqueue_custom_ui": { "user_role": "", "base_path": "/" }, "mssLegalBanner": { "autoInit": true, "copyHTML": "By using this site, you agree to PGA.com\'s \x3ca href=\"/about/terms\"\x3eterms of use\x3c/a\x3e and \x3ca href=\"/about/privacy\"\x3eprivacy policy\x3c/a\x3e", "cookieKey": "pgaLegalNoticeDismissed" }, "photo_gallery_ad_clicks": "5", "photo_gallery_slider_speed": "4000", "jsmd_rsid_type": "prod", "gigya": { "conf": { "APIKey": "3_Yb8jl_1jHGdSFXyfWlmiCr-Hn5_ajVPiiWzgMLaC_TIe6gYrw84VEBJJ6REMZWOb", "enabledProviders": "facebook" }, "loginDestination": "http://www.pga.com/socialize-login?destination=" }, "clock_omega": { "url": "" }, "byline_and_author": { "byline": "", "author": "chris.pellani" }, "user_info": [  ], "pganm": "pga non microsite", "node_info": { "title": "Privacy Policy", "nid": "31665" }, "page_section": "other", "page_regular_section": "Other", "page_subsection": "", "page_franchise": "", "page_regular_franchise": null, "template_type": "other:html", "yahoo_page": 0, "equipment": null });
 //--><!]]>
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-$(document).ready(function(){$('ul#superfish-1').superfish({delay:0,speed:'fast',autoArrows:true,dropShadows:true})})
+$(document).ready(function(){
+ $('ul#superfish-1').superfish({
+ delay: 0,
+
+ speed: 'fast',
+ autoArrows: true,
+ dropShadows: true
+})
+});
 //--><!]]>
 </script>
-  <script type="text/javascript" src="//nexus.ensighten.com/turner/pga-prod/Bootstrap.js"></script>  
+  <script type="text/javascript" src="//nexus.ensighten.com/turner/pga-prod/Bootstrap.js"></script>
 </head>
 <body class="not-front not-logged-in node-type-html page-other-privacy-policy section-other one-sidebar sidebar-first">
 
@@ -121,7 +126,7 @@ $(document).ready(function(){$('ul#superfish-1').superfish({delay:0,speed:'fast'
  <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
 </div>
 <span class="submit-button-wrapper"><input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"></span>
-<input type="hidden" name="form_build_id" id="form-IiWM_2M0-39vkVbyL8oGFATe5hNCLY4GsrZ6-8Z65oM" value="form-IiWM_2M0-39vkVbyL8oGFATe5hNCLY4GsrZ6-8Z65oM">
+<input type="hidden" name="form_build_id" id="form-6fwazQ7f2P6rS9NSdQMlRqbJZg05wZGXCidWRKAKo4Q" value="form-6fwazQ7f2P6rS9NSdQMlRqbJZg05wZGXCidWRKAKo4Q">
 <input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
 <input type="hidden" name="search_context" id="search_context" value="html">
 </div>
@@ -142,19 +147,18 @@ $(document).ready(function(){$('ul#superfish-1').superfish({delay:0,speed:'fast'
     <ul class="sf-menu sf-horizontal sf-style-white" id="superfish-1">
 <li id="menu-3276-1" class="first sf-item-1 menuparent menu-news-events"><a href="/news" title="Golf News &amp; Championship Coverage">News &amp; Events</a><ul><li id="right-col" class="nav-child"><div id="right-contents"></div></li><li id="left-col" class="nav-child"><div id="left-contents"></div></li><li id="menu-3285-1" class="first sf-item-1"><a href="/news" title="Latest Golf News">Latest News</a></li>
 <li id="menu-95755-1" class="sf-item-2"><a href="http://www.pga.com/news/golf-leaderboard" title="Leaderboards from professional golf tours">Golf Leaderboards</a></li>
-<li id="menu-3280-1" class="sf-item-3"><a href="http://www.pga.com/pgachampionship/" title="The PGA Championship">PGA Championship</a></li>
-<li id="menu-3283-1" class="sf-item-4"><a href="http://www.rydercup.com" title="The Ryder Cup">Ryder Cup</a></li>
-<li id="menu-3282-1" class="sf-item-5"><a href="http://www.pga.com/seniorpga" title="The Senior PGA Championship">Senior PGA</a></li>
-<li id="menu-3281-1" class="sf-item-6"><a href="http://www.pga.com/grandslam/2012/index.cfm" title="The PGA Grand Slam of Golf">PGA Grand Slam</a></li>
-<li id="menu-58145-1" class="sf-item-7"><a href="/topic/news/quick-nine" title="Quick Nine: News &amp; Events">Quick Nine: News &amp; Events</a></li>
-<li id="menu-58075-1" class="sf-item-8"><a href="/topic/news/local-knowledge" title="Local Knowledge">Local Knowledge</a></li>
-<li id="menu-3894-1" class="last sf-item-9"><a href="http://www.pga.com/nationalcargolf" title="National Car Rental PGA Pro-Am Series">National Car Rental PGA Pro-Am Series</a></li>
+<li id="menu-3282-1" class="sf-item-3"><a href="http://www.pga.com/seniorpga" title="The Senior PGA Championship">Senior PGA</a></li>
+<li id="menu-408361-1" class="sf-item-4"><a href="http://www.kpmgwomenspgachampionship.com/" title="KPMG Women's PGA Championship">KPMG Women's PGA Championship</a></li>
+<li id="menu-3280-1" class="sf-item-5"><a href="http://www.pga.com/pgachampionship/" title="The PGA Championship">PGA Championship</a></li>
+<li id="menu-3283-1" class="sf-item-6"><a href="http://www.rydercup.com" title="The Ryder Cup">Ryder Cup</a></li>
+<li id="menu-3894-1" class="last sf-item-7"><a href="http://www.pga.com/nationalcargolf" title="National Car Rental PGA Pro-Am Series">National Car Rental PGA Pro-Am Series</a></li>
 </ul></li>
 <li id="menu-929-1" class="sf-item-2 menuparent menu-courses-travel"><a href="/golf-courses" title="Golf Courses">Courses &amp; Travel</a><ul><li id="right-col" class="nav-child"><div id="right-contents"></div></li><li id="left-col" class="nav-child"><div id="left-contents"></div></li><li id="menu-930-1" class="first sf-item-1"><a href="/golf-courses" title="Find a Golf Course">Courses Home</a></li>
 <li id="menu-3228-1" class="sf-item-2"><a href="/golf-travel" title="Golf Travel">Travel Home</a></li>
 <li id="menu-58151-1" class="sf-item-3"><a href="/pga-america/hole-one" title="Share your Hole in One">Share your Hole in One</a></li>
 <li id="menu-59627-1" class="sf-item-4"><a href="http://www.pga.com/topic/golf-courses/quick-nine" title="Quick Nine">Quick Nine: Courses</a></li>
-<li id="menu-3230-1" class="last sf-item-5"><a href="/golf-courses/courses-feature/worlds-most-beautiful-courses" title="World's Most Beautiful Courses">Most Beautiful Courses</a></li>
+<li id="menu-3230-1" class="sf-item-5"><a href="/golf-courses/courses-feature/worlds-most-beautiful-courses" title="World's Most Beautiful Courses">Most Beautiful Courses</a></li>
+<li id="menu-411659-1" class="last sf-item-6"><a href="http://bit.ly/2qvjUW0">PGA Championship Travel Packages</a></li>
 <div id="middle-col" class="nav-df"><div id="nav-df-presented">Presented by</div><div id="ad_mod_16d5b2545"></div></div></ul></li>
 <li id="menu-934-1" class="sf-item-3 menuparent menu-instruction"><a href="/golf-instruction" title="Golf Instruction">Instruction</a><ul><li id="right-col" class="nav-child"><div id="right-contents"></div></li><li id="left-col" class="nav-child"><div id="left-contents"></div></li><li id="menu-58157-1" class="first sf-item-1"><a href="/topic/golf-instruction/golf-tip-day" title="Golf Tip of the Day">Tip of the Day</a></li>
 <li id="menu-58155-1" class="sf-item-2"><a href="/topic/golf-instruction/ask-experts" title="Ask the Experts">Ask the Experts</a></li>
@@ -165,14 +169,14 @@ $(document).ready(function(){$('ul#superfish-1').superfish({delay:0,speed:'fast'
 <li id="menu-9587-1" class="sf-item-7"><a href="http://golfacademy.pga.com/?type=pga_video&amp;sort_by=changed&amp;sort_order=desc " title="PGA Digital Golf Academy">PGA Digital Golf Academy</a></li>
 <li id="menu-3237-1" class="last sf-item-8"><a href="/solr-search/result?text=&amp;offset=0&amp;limit=10&amp;sort=score-desc&amp;context=instructors&amp;spotlight=true&amp;searchbox=&amp;searchbox_zip=" title="Find a PGA Instructor">Find an Instructor</a></li>
 </ul></li>
-<li id="menu-3231-1" class="sf-item-4 menuparent menu-equipment"><a href="/golf-equipment" title="Golf Equipment">Equipment</a><ul><li id="right-col" class="nav-child"><div id="right-contents"></div></li><li id="left-col" class="nav-child"><div id="left-contents"></div></li><li id="menu-104513-1" class="first sf-item-1"><a href="http://www.pga.com/video/golf-equipment/what%27s-new?type=pga_video&amp;sort_by=changed&amp;sort_order=desc">Best Equipment of 2016</a></li>
+<li id="menu-3231-1" class="sf-item-4 menuparent menu-equipment"><a href="/golf-equipment" title="Golf Equipment">Equipment</a><ul><li id="right-col" class="nav-child"><div id="right-contents"></div></li><li id="left-col" class="nav-child"><div id="left-contents"></div></li><li id="menu-104513-1" class="first sf-item-1"><a href="http://www.pga.com/video/golf-equipment/what%27s-new?type=pga_video&amp;sort_by=changed&amp;sort_order=desc">Best Equipment of 2017</a></li>
 <li id="menu-58169-1" class="sf-item-2"><a href="/topic/golf-equipment/winners-bag">Winner's Bag</a></li>
 <li id="menu-58235-1" class="sf-item-3"><a href="/news/news-feature/2012-pgacom-photo-gallery-archive">Best Golf Equipment Photos</a></li>
 <li id="menu-8767-1" class="sf-item-4"><a href="/topic/golf-equipment/buying-guides" title="Buying Guides">Buying Guides</a></li>
 <li id="menu-58167-1" class="sf-item-5"><a href="/golf-equipment/golf-buzz" title="The Golf Buzz: Equipment">The Golf Buzz: Equipment</a></li>
 <li id="menu-58233-1" class="last sf-item-6"><a href="/topic/golf-equipment/quick-nine">Quick Nine: Equipment</a></li>
 </ul></li>
-<li id="menu-19354-1" class="sf-item-5 menuparent menu-video"><a href="http://www.pga.com/video?type=pga_video&amp;sort_by=changed&amp;sort_order=desc" title="Golf Video">Video</a><ul><li id="left-col" class="nav-child"><div id="left-contents"></div></li><li id="menu-104515-1" class="first sf-item-1"><a href="http://www.pga.com/video/golf-equipment/what%27s-new?type=pga_video&amp;sort_by=changed&amp;sort_order=desc">Best Equipment of 2016</a></li>
+<li id="menu-19354-1" class="sf-item-5 menuparent menu-video"><a href="http://www.pga.com/video?type=pga_video&amp;sort_by=changed&amp;sort_order=desc" title="Golf Video">Video</a><ul><li id="left-col" class="nav-child"><div id="left-contents"></div></li><li id="menu-104515-1" class="first sf-item-1"><a href="http://www.pga.com/video/golf-equipment/what%27s-new?type=pga_video&amp;sort_by=changed&amp;sort_order=desc">Best Equipment of 2017</a></li>
 <li id="menu-58251-1" class="sf-item-2"><a href="http://www.pga.com/video/golf-instruction?type=pga_video&amp;sort_by=changed&amp;sort_order=desc" title="Golf Instruction Videos">Golf Instruction Videos</a></li>
 <li id="menu-31948-1" class="sf-item-3"><a href="http://golfacademy.pga.com/?type=pga_video&amp;sort_by=changed&amp;sort_order=desc &amp;type=pga_video&amp;sort_by=changed&amp;sort_order=desc " title="PGA Digital Golf Academy">PGA Digital Golf Academy</a></li>
 <li id="menu-262881-1" class="sf-item-4"><a href="http://www.pga.com/video/news/celebrity-golf-spotlight" title="Celebrity Golf Spotlight">Celebrity Golf Spotlight</a></li>
@@ -190,9 +194,9 @@ $(document).ready(function(){$('ul#superfish-1').superfish({delay:0,speed:'fast'
 <div class="menu-programs-extra">
 <h3>Are you a PGA Pro?</h3><p>Visit PGA Pro Services for more information about the PGA of America.</p><span class="pro-services-button"><a href="/pro-services">Visit PGA Pro Services</a></span></div>
 </ul></li>
-<li id="menu-174765-1" class="sf-item-7 menuparent menu-leaderboard"><a href="http://www.pga.com/news/golf-leaderboard" title="Leaderboard">Leaderboard</a><ul><li id="left-col" class="nav-child"><div id="left-contents"></div></li><li id="menu-174767-1" class="first last sf-item-1"><a href="http://http://www.pga.com/news/golf-leaderboard">CURRENT LEADERBOARDS</a></li>
+<li id="menu-174765-1" class="sf-item-7 menuparent menu-leaderboard"><a href="http://www.pga.com/news/golf-leaderboard" title="Leaderboard">Leaderboard</a><ul><li id="left-col" class="nav-child"><div id="left-contents"></div></li><li id="menu-174767-1" class="first last sf-item-1"><a href="http://www.pga.com/news/golf-leaderboard">CURRENT LEADERBOARDS</a></li>
 </ul></li>
-<li id="menu-281019-1" class="last sf-item-8"><a href="http://shop.pga.com/?utm_source=PGAcom&amp;utm_medium=Nav&amp;utm_campaign=SHOP" target="_blank">Shop</a></li>
+<li id="menu-281019-1" class="last sf-item-8"><a href="http://shop.pga.com/source/BM-PGA-PGAcom-Shop-Topnav-8.21.17" target="_blank">Shop</a></li>
 </ul>
   </div>
 
@@ -213,7 +217,7 @@ $(document).ready(function(){$('ul#superfish-1').superfish({delay:0,speed:'fast'
         
         
                         
-          
+        
         <div id="content-area">
           <div id="node-31665" class="node node-type-html clearfix">
   
@@ -482,7 +486,8 @@ The Privacy Policy posted on this Service was updated on Monday, July 20, 2015.
 <div id="block-block-47" class="block block-block region-even even region-count-2 count-6">
   
   <div class="content">
-    <span id="pga300x250" class="_fwph">
+    
+<span id="pga300x250" class="_fwph">
 	<form id="_fw_form_pga300x250" style="display:none">
 		<input type="hidden" name="_fw_input_pga300x250" id="_fw_input_pga300x250" value="w=300&amp;h=250&amp;envp=g_js&amp;sflg=-nrpl&amp;slau=300x250_sync">
 	</form>
@@ -496,7 +501,7 @@ The Privacy Policy posted on this Service was updated on Monday, July 20, 2015.
   
   <div class="content">
     <!-- dfp ad: 300x100 -->
-<div class="dfp" id="ad_ns_atf_01"></div>  </div>
+<div class="dfp" id="ad_ns_atf_01"></div><style> .view-nodequeue-pga-america-events-hp .views-field-field-teaser-t2-image-fid { width: 120px;} </style>  </div>
 
   </div> <!-- /.block -->
 <div id="block-block-323" class="block block-block region-even even region-count-4 count-8">
@@ -520,15 +525,7 @@ The Privacy Policy posted on this Service was updated on Monday, July 20, 2015.
 <div class="dfp" id="ad_nfs_atf_03"></div>  </div>
 
   </div> <!-- /.block -->
-<div id="block-block-42" class="block block-block region-odd odd region-count-7 count-11">
-  
-  <div class="content">
-    <div style="margin-bottom: 40px;width: 300px;">
-<!-- dfp ad: 290x73_nfs0 -->
-<div class="dfp" id="ad_nfs_atf_01"></div></div>  </div>
-
-  </div> <!-- /.block -->
-<div id="block-views-14b481404146aa38dc7a7ae1c9acc461" class="block block-views region-even even region-count-8 count-12">
+<div id="block-views-14b481404146aa38dc7a7ae1c9acc461" class="block block-views region-odd odd region-count-7 count-11">
       <h2 class="title">PGA of America Championships</h2>
   
   <div class="content">
@@ -540,73 +537,91 @@ The Privacy Policy posted on this Service was updated on Monday, July 20, 2015.
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="http://www.rydercup.com/">2016 Ryder Cup</a></span>
+                <span class="field-content"><a href="http://www.pga.com/pgachampionship/2018/">2018 PGA Championship</a></span>
   </div>
   
   <div class="views-field-nothing">
                 <span class="field-content"><div class="pga-events-right">
-<div class="views-field-field-lede-t2-value"><p>Hazeltine National Golf Club<br>
-Chaska, Minn.</p></div>
-<div class="views-field-field-teaser-links-url"><div class="field-item field-item-0"><a href="http://shop.pga.com/Ryder_Cup" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Shop gear</a></div><div class="field-item field-item-1"><a href="http://www.rydercup.com" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Full coverage</a></div></div>
+<div class="views-field-field-lede-t2-value"><p>Bellerive Country Club<br>
+St. Louis, Missouri</p></div>
+<div class="views-field-field-teaser-links-url"><div class="field-item field-item-0"><a href="https://ems.pgalinks.com/2018PGAChampReg.cfm?utm_source=Microsite&amp;utm_medium=Microsite&amp;utm_campaign=Microsite" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Tickets </a></div><div class="field-item field-item-1"><a href="http://www.pga.com/pgachampionship/2018/" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Full Coverage</a></div></div>
 </div></span>
   </div>
   
   <div class="views-field-field-teaser-t2-image-fid">
-                <span class="field-content">    <a href="http://www.rydercup.com/"><img src="http://i2.cdn.turner.com/dr/pga/sites/default/files/teasers/t2/2016_RC.png" alt="" title="" width="85" height="85"></a></span>
+                <span class="field-content">    <a href="http://www.pga.com/pgachampionship/2018/"><img src="http://i2.cdn.turner.com/dr/pga/sites/default/files/teasers/t2/2018-PGA-Championship-Bellerive.png" alt="" title="" width="78" height="89"></a></span>
   </div>
   </div>
   <div class="views-row views-row-2 views-row-even">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="http://www.pga.com/seniorpga/2017">2017 KitchenAid Senior PGA Championship</a></span>
+                <span class="field-content"><a href="http://www.rydercup.com/">2018 Ryder Cup</a></span>
   </div>
   
   <div class="views-field-nothing">
                 <span class="field-content"><div class="pga-events-right">
-<div class="views-field-field-lede-t2-value"><p>Trump National Golf Club<br>
-Washington, D.C.</p></div>
-<div class="views-field-field-teaser-links-url"><div class="field-item field-item-0"><a href="https://ems.pgalinks.com/2017SrPGAChampInterest.cfm" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Ticket information</a></div><div class="field-item field-item-1"><a href="http://www.pga.com/seniorpga/2017" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Full coverage</a></div></div>
+<div class="views-field-field-lede-t2-value"><p>Le Golf National<br>
+Guyancourt, France</p></div>
+<div class="views-field-field-teaser-links-url"><div class="field-item field-item-0"><a href="http://shop.pga.com/Ryder_Cup" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Shop gear</a></div><div class="field-item field-item-1"><a href="http://www.rydercup.com" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Full coverage</a></div></div>
 </div></span>
   </div>
   
   <div class="views-field-field-teaser-t2-image-fid">
-                <span class="field-content">    <a href="http://www.pga.com/seniorpga/2017"><img src="http://i2.cdn.turner.com/dr/pga/sites/default/files/teasers/t2/PGALogo85.gif" alt="" title="" width="85" height="85"></a></span>
+                <span class="field-content">    <a href="http://www.rydercup.com/"><img src="http://i2.cdn.turner.com/dr/pga/sites/default/files/teasers/t2/2018-Ryder-Cup-Logo_0.png" alt="" title="" width="89" height="89"></a></span>
   </div>
   </div>
   <div class="views-row views-row-3 views-row-odd">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="http://www.kpmgwomenspgachampionship.com/">2017 KPMG Women's PGA Championship</a></span>
+                <span class="field-content"><a href="http://www.pga.com/seniorpga/2018">2018 KitchenAid Senior PGA Championship</a></span>
   </div>
   
   <div class="views-field-nothing">
                 <span class="field-content"><div class="pga-events-right">
-<div class="views-field-field-lede-t2-value"><p>Olympia Fields Country Club<br>
-Olympia Fields, Illinois</p></div>
-<div class="views-field-field-teaser-links-url"><div class="field-item field-item-0"><a href="https://ems.pgalinks.com/2017WomensPGAChamp.cfm" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Ticket information</a></div><div class="field-item field-item-1"><a href="http://www.kpmgwomenspgachampionship.com/" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Full coverage</a></div></div>
+<div class="views-field-field-lede-t2-value"><p>Harbor Shores Golf Club<br>
+Benton Harbor, Michigan</p></div>
+<div class="views-field-field-teaser-links-url"><a href="http://www.pga.com/seniorpga/2017" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Full coverage</a></div>
 </div></span>
   </div>
   
   <div class="views-field-field-teaser-t2-image-fid">
-                <span class="field-content">    <a href="http://www.kpmgwomenspgachampionship.com/"><img src="http://i2.cdn.turner.com/dr/pga/sites/default/files/teasers/t2/kpmg_site.png" alt="" title="" width="75" height="87"></a></span>
+                <span class="field-content">    <a href="http://www.pga.com/seniorpga/2018"><img src="http://i2.cdn.turner.com/dr/pga/sites/default/files/teasers/t2/18_KA_SrChamp_P.png" alt="" title="" width="91" height="91"></a></span>
   </div>
   </div>
-  <div class="views-row views-row-4 views-row-even views-row-last">
+  <div class="views-row views-row-4 views-row-even">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="http://www.pga.com/pgachampionship/2017">2017 PGA Championship</a></span>
+                <span class="field-content"><a href="http://www.kpmgwomenspgachampionship.com/">2018 KPMG Women's PGA Championship</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><div class="pga-events-right">
+<div class="views-field-field-lede-t2-value"><p>Kemper Lakes Golf Club<br>
+Kildeer, Illionis</p></div>
+<div class="views-field-field-teaser-links-url"><a href="http://www.kpmgwomenspgachampionship.com/" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Full coverage</a></div>
+</div></span>
+  </div>
+  
+  <div class="views-field-field-teaser-t2-image-fid">
+                <span class="field-content">    <a href="http://www.kpmgwomenspgachampionship.com/"><img src="http://i2.cdn.turner.com/dr/pga/sites/default/files/teasers/t2/18KPMG_WomensPGA_P.png" alt="" title="" width="79" height="91"></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="https://www.pga.com/events/pgachampionship">2017 PGA Championship</a></span>
   </div>
   
   <div class="views-field-nothing">
                 <span class="field-content"><div class="pga-events-right">
 <div class="views-field-field-lede-t2-value"><p>Quail Hollow Club<br>
 Charlotte, North Carolina</p></div>
-<div class="views-field-field-teaser-links-url"><div class="field-item field-item-0"><a href="https://ems.pgalinks.com/2017PGAChampReg.cfm" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Ticket information</a></div><div class="field-item field-item-1"><a href="http://www.pga.com/pgachampionship/2017" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Full coverage</a></div></div>
+<div class="views-field-field-teaser-links-url"><a href="https://www.pga.com/events/pgachampionship" 0="a:1:{s:6:&quot;target&quot;;s:6:&quot;_blank&quot;;}">Full coverage</a></div>
 </div></span>
   </div>
   
   <div class="views-field-field-teaser-t2-image-fid">
-                <span class="field-content">    <a href="http://www.pga.com/pgachampionship/2017"><img src="http://i2.cdn.turner.com/dr/pga/sites/default/files/teasers/t2/quailhollow.png" alt="" title="" width="75" height="87"></a></span>
+                <span class="field-content">    <a href="https://www.pga.com/events/pgachampionship"><img src="http://i2.cdn.turner.com/dr/pga/sites/default/files/teasers/t2/quailhollow.png" alt="" title="" width="75" height="87"></a></span>
   </div>
   </div>
     </div>
@@ -617,6 +632,14 @@ Charlotte, North Carolina</p></div>
   
   
 </div>   </div>
+
+  </div> <!-- /.block -->
+<div id="block-block-42" class="block block-block region-even even region-count-8 count-12">
+  
+  <div class="content">
+    <div style="margin-bottom: 40px;width: 300px;">
+<!-- dfp ad: 290x73_nfs0 -->
+<div class="dfp" id="ad_nfs_atf_01"></div></div>  </div>
 
   </div> <!-- /.block -->
 </div></div> <!-- /.section, /.region -->
@@ -741,7 +764,7 @@ Charlotte, North Carolina</p></div>
   </div> <!-- /.block -->
 </div> <!-- /.region -->
 
-                  <div id="footer-message">©2003-2016 PGA/Turner Sports Interactive. All rights reserved.<br>
+                  <div id="footer-message">©2003-2017 PGA/Turner Sports Interactive. All rights reserved.<br>
 PGA.COM is part of Bleacher Report - Turner Sports Network, part of the Turner Sports and Entertainment Network. </div>
         
       </div></div> <!-- /.section, /#footer -->
@@ -809,36 +832,23 @@ $("div#pga_scoring div.scoring_chicklets_wrapper").css({"border":"none"});
     _sf_async_config.authors = 'byline_and_author' in Drupal.settings ? Drupal.settings.byline_and_author.byline : '';
 
     /** CONFIGURATION END **/
-    (function(){
-      function loadChartbeat() {
-        window._sf_endpt=(new Date()).getTime();
-        var e = document.createElement('script');
-        e.setAttribute('language', 'javascript');
-        e.setAttribute('type', 'text/javascript');
-        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
-        document.body.appendChild(e);
 
-      }
-      var oldonload = window.onload;
-      window.onload = (typeof window.onload != 'function') ?
-         loadChartbeat : function() { oldonload(); loadChartbeat(); };
-    })();
 </script>  </div>
 
   </div> <!-- /.block -->
 </div> <!-- /.region -->
 
-  <script type="text/javascript" src="http://i.cdn.turner.com/ads/adfuel/adfuel-1.2.2.js"></script><script type="text/javascript" src="http://i.cdn.turner.com/ads/pga/pga_homepage.js"></script>
+  <script type="text/javascript" src="http://i.cdn.turner.com/ads/adfuel/adfuel-1.2.4.js"></script><script type="text/javascript" src="http://i.cdn.turner.com/ads/pga/pga_homepage.js"></script>
 <!-- START Parse.ly Include: Standard -->
 		<div id="parsely-root" style="display: none">
 		<span id="parsely-cfg" data-parsely-site="pga.com"></span>
 		<script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
 		<script type="application/ld+json">
 			{
-				"@context": "http://schema.org",
+				"@context": "https://schema.org",
 				"@type": "NewsArticle",
 				"headline": "Privacy Policy",
-				"url": "http://www.pga.com/other/privacy-policy",
+				"url": "https://www.pga.com/other/privacy-policy",
 				"thumbnailUrl": "",
 				"dateCreated": "2010-06-06T16:26:05Z",
 				"articleSection": "",
@@ -860,7 +870,7 @@ $("div#pga_scoring div.scoring_chicklets_wrapper").css({"border":"none"});
 		<!-- END Parse.ly Include: Standard -->
 
 
-<script type="text/javascript" src="http://i.cdn.turner.com/analytics/pga/jsmd-prod.js"></script>
+<script type="text/javascript" src="https://i.cdn.turner.com/analytics/pga/jsmd-prod.js"></script>
 <script type="text/javascript">
 var lh = window.location.hash;if (!lh) {var jsmd=_jsmd.init();jsmd.send();}
 </script><script type="text/javascript">
@@ -870,6 +880,6 @@ function find_hidden(){$('.infinite-find').unbind('click').bind('click', functio
 </script>
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"acb50eae93","applicationID":"2511842","transactionName":"ZlxbY0MCXkZRBRYMCV8WeFRFCl9bHwgNAQNuSVhQVDxGXFUR","queueTime":0,"applicationTime":477,"atts":"ShtYFQsYTUg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 
 </body></html>
