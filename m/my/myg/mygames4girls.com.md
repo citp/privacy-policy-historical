@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygames4girls.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064647id_/http%3A//www.mygames4girls.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygames4girls.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202143333id_/http%3A//www.mygames4girls.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Games 4 Girls
 
