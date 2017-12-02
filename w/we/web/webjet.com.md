@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webjet.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609170234id_/https%3A//www.webjet.com/webjet/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202133500id_/https%3A//www.webjet.com/webjet/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Webjet.com - Cheap Flight Deals and Discount Airline Tickets. Search Flights and Book Airfare at Webjet
 
