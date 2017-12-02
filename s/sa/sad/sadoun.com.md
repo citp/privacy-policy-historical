@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531152340id_/http%3A//www.sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202205518id_/http%3A//www.sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # 
 
