@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the salemnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061119id_/http%3A//www.salemnews.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemnews.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202232340id_/http%3A//www.salemnews.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | salemnews.com
 
 **Effective**
 
-This Policy was last modified on February 10, 2012.
+This Policy was last modified on October 17, 2017.
 
  **Information Practices**
 
-Community Newspaper Holdings, Inc. and its affiliates and subsidiaries (collectively "CNHI") understand that security and privacy are important issues for visitors to our web site, http://www.salemnews.com (the "Site") and recognize our obligations to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent for additional disclosure, or are legally required to disclose, as noted below. Please note that the Policy applies only to information collected by us through the Site, as specified below, and unless expressly stated otherwise, does not govern or apply to any information collected or used by CNHI including, but not limited to, http://www.salemnews.com through other means.
+CNHI LLC and its affiliates and subsidiaries (collectively "CNHI") understand that security and privacy are important issues for visitors to our web site, http://www.salemnews.com (the "Site") and recognize our obligations to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent for additional disclosure, or are legally required to disclose, as noted below. Please note that the Policy applies only to information collected by us through the Site, as specified below, and unless expressly stated otherwise, does not govern or apply to any information collected or used by CNHI including, but not limited to, http://www.salemnews.com through other means.
 
  **Collection of Information**
 
@@ -56,7 +56,7 @@ We have policies and procedures in place to protect the privacy and confidential
 
  **Your California Privacy Rights**
 
-Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: Community Newspaper Holdings, Inc., Attn: Matthew I. Ipsan, 445 Dexter Avenue; Montgomery, AL 36104.
+Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104.
 
  **Access and Corrections**
 
@@ -64,13 +64,17 @@ We strive to keep your Personal Information accurate. You can access and update 
 
  **AP News Registry**
 
-This Site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://ap.org/company/privacy for further information.
+This Site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://ap.org/company/privacy for further information.
 
  **Contacting Us**
 
-If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: Community Newspaper Holdings, Inc., Attn: Matthew I. Ipsan, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
+If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-[](http://click.oo155.com/ViewLandingPage.aspx?pubids=2885|-6|5|69&digest=RzFLQ4slbPRIYbrzkREzHA&sysid=1&mobile=0)
+[](https://visitor.r20.constantcontact.com/d.jsp?llr=l8oml49ab&p=oi&m=1128481045355&sit=jekwgcwlb&f=68b5b141-2adb-467d-9acd-cd5c8e5c1745)
+
+[](http://bestof.cnhionline.com/index_write_in.php?siteid=peabody&test_site_brian=1&cont_id=91)
+
+Where are the best places to shop? Who gives the best haircut? Who cooks the best burger? Vote today for "Best of Peabody" 
 
 [](http://www.salemnews.com/magazines)
 
