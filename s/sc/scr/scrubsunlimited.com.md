@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubsunlimited.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604002124id_/http%3A//www.scrubsunlimited.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsunlimited.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202233349id_/http%3A//www.scrubsunlimited.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Medline, Fashion Seal, Angelica, Urbane Essentials, Dickies by Scrubs Unlimited - Privacy Policy
 
