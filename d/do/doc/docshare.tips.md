@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docshare.tips privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060700id_/http%3A//docshare.tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docshare.tips privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202101259id_/http%3A//docshare.tips/privacy) for the most accurate reproduction.*
 
 # Privacy Policies - DocShare.tips
 
@@ -142,13 +142,13 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 #### To be in accordance with CANSPAM we agree to the following:
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at [contact@docshare.tips](mailto:contact@docshare.tips) and we will promptly remove you from **ALL** correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6a0905041e0b091e2a0e050919020b180f441e031a19) and we will promptly remove you from **ALL** correspondence.
 
 #### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 <http://docshare.tips/>  
-[contact@docshare.tips](mailto:contact@docshare.tips)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90f3fffee4f1f3e4d0f4fff3e3f8f1e2f5bee4f9e0e3)
 
 Last Edited on 2016-03-02
