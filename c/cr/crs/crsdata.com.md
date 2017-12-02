@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crsdata.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608181126id_/http%3A//crsdata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crsdata.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202041538id_/http%3A//crsdata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CRS Data
 
@@ -64,6 +64,6 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800.374.7488 or** **via email at getinfo@crsdata.com** **.**
 
-"Totally amazing. I just can’t believe all of the features. Truly a time saving tool." 
+“I say this…and I can’t say it enough-you have a great product, but you’ve got even greater people. And you are extremely responsive. You have a team that can service all 230 banks in my state.”
 
-**KIM MOYER** \- Keller Williams Realty 
+**COLIN BARRETT** \- Tennessee Bankers Association 
