@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennis-warehouse.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607123019id_/http%3A//www.tennis-warehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis-warehouse.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202111127id_/http%3A//www.tennis-warehouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -137,7 +137,7 @@ If you are a California resident and would like a copy of this notice, please su
 
 ### California Do Not Track Disclosures
 
-California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how a website operator responds to "Do Not Track" (DNT) browser settings. DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies. We do not currently take actions to respond to DNT signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a DNT standard once one is created. For information about DNT, please visit: [www.allaboutdnt.org](http://www.allaoubtdnt.org/).
+California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how a website operator responds to "Do Not Track" (DNT) browser settings. DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies. We do not currently take actions to respond to DNT signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a DNT standard once one is created. For information about DNT, please visit: [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
 ### Contact Us
 
