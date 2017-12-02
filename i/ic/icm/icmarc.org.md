@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icmarc.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110623id_/http%3A//www.icmarc.org/about-us/policies-and-disclosures/icma-rc-policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icmarc.org privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202144434id_/http%3A//www.icmarc.org/about-us/policies-and-disclosures/icma-rc-policies/privacy-policy.html) for the most accurate reproduction.*
 
 # ICMA-RC Privacy Policy | ICMA-RC
 
@@ -8,7 +8,7 @@ Protecting your privacy is important to us. In providing financial services and 
 
 ## Information We Collect.
 
-The nonpublic personal information we have about you includes information you give us when you open an account, invest in The Vantagepoint Funds, VantageTrust Funds, or VantageTrust II Funds, or write or call us, such as your name, address, social security number, employment, investment objectives and experience, financial circumstances, and investment transactions and holdings.
+The nonpublic personal information we have about you includes information you give us when you open an account, invest in VantageTrust Funds, or VantageTrust II Funds, or write or call us, such as your name, address, social security number, employment, investment objectives and experience, financial circumstances, and investment transactions and holdings.
 
 ## Information We Disclose.
 
