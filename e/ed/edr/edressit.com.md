@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edressit.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628145937id_/http%3A//www.edressit.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edressit.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202070359id_/http%3A//www.edressit.com/Privacy.html) for the most accurate reproduction.*
 
-# Terms of Use - eDressit.com
+# Terms of Use - edressit.com
 
 eDressit respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
@@ -24,10 +24,7 @@ Are children allowed to use eDressit.com?
 How does eDressit.com use and disclose information collected from me offline?  
 Where can I find updates to this policy?
 
-  
-
-
-**How does eDressit.com collect information about me?**
+ **How does eDressit.com collect information about me?**
 
 We collect information from Site users in several different ways, with the goal of providing an efficient, meaningful, and customized shopping experience. For example, we can use your personal information to:  
 Record and quickly bring up information you've given previously  
@@ -43,10 +40,7 @@ Alert you of our new information, products, and services
 
 **Product Reviews:** We ask for an email address and location along with the submission of all product reviews. Your email address will be kept private, but your location will be visible to other users. All other personal information that you choose to submit as part of the review will be available to other visitors to the Site.
 
-  
-
-
-**How does eDressit.com use cookies and other technology to collect information?**
+ **How does eDressit.com use cookies and other technology to collect information?**
 
 Cookies are small pieces of information that your Internet browser stores as text files on your computer's hard drive. Most browsers accept cookies by default, but setting your browser to refuse cookies or remove them from your hard drive will prevent you from using parts of this Site. eDressit.com uses cookies to  
 speed up navigation  
@@ -63,19 +57,13 @@ Any electronic image on the Site, such as an ad banner, can function as a web be
 
 **Any information these third parties collect via cookies and web beacons is not linked to any personal information we collect.**
 
-  
-
-
-**How does eDressit.com use my personal information?**
+ **How does eDressit.com use my personal information?**
 
 **Internal Use:** We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
 
 **Communication with You:** We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with eDressit.com regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
 
-  
-
-
-**Does eDressit.com ever give out my personal information?**
+ **Does eDressit.com ever give out my personal information?**
 
 We sell merchandise, not information — **We do not sell, rent, trade, license, or otherwise disclose your personal or financial information to anyone, except in the following specific situations:**
 
@@ -88,10 +76,7 @@ Similarly, we must provide your credit card number to financial services organiz
 
 **Non-personally identifiable information:** We may share information that does not identify you or any user, such as the number of daily visitors to a particular page, or the size of an order placed on a certain date, with third parties such as advertising partners.
 
-  
-
-
-**How does eDressit.com secure information collected about me?**
+ **How does eDressit.com secure information collected about me?**
 
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, such as:   
 Safeguarding all financial transactions done through this Site with Secure Sockets Layer ("SSL") encryption  
@@ -100,10 +85,7 @@ Working only with third-party service providers who we believe adequately secure
 
 **While our business is designed with safeguarding your personal information in mind, please remember that 100% security does not presently exist anywhere, online or offline.**
 
-  
-
-
-**What choices do I have regarding eDressit.com's collection of my information?**
+ **What choices do I have regarding eDressit.com's collection of my information?**
 
 You can choose to:   
 Correct or update your personal information  
@@ -114,19 +96,13 @@ Disable your account to prevent any future purchases through that account
 
 **To unsubscribe from emails** you receive from eDressit.com, follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
 
-  
-
-
-**Are children allowed to use eDressit.com?**
+ **Are children allowed to use eDressit.com?**
 
 We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or are using the Site with the supervision of a parent or guardian.
 
 If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you when using the Site.
 
-  
-
-
-**How does eDressit.com use and disclose information collected from me offline?**
+ **How does eDressit.com use and disclose information collected from me offline?**
 
 As eDressit.com collects most information through our Site, this Privacy Policy applies only to online collection of personal information.
 
@@ -134,10 +110,7 @@ We also protect all personal information that is collected from you offline, suc
 
 This Policy does not attempt to cover all possible offline methods of collecting or using personal information, however, we will treat any offline collection, use, or disclosure of personal information in a manner consistent with our online practices.
 
-  
-
-
-**Where can I find updates to this policy?**
+ **Where can I find updates to this policy?**
 
 To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please contact us with any questions about the Privacy Notice.
 
