@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaonlineclassifieds.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115743id_/http%3A//www.usaonlineclassifieds.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaonlineclassifieds.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203004231id_/http%3A//www.usaonlineclassifieds.com/info/privacy.php) for the most accurate reproduction.*
 
 # USAOnlineClassifieds.com - Privacy Policy
 
