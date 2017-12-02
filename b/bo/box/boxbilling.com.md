@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxbilling.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607201300id_/http%3A//www.boxbilling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxbilling.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202200909id_/http%3A//www.boxbilling.com/privacy-policy) for the most accurate reproduction.*
 
 # Billing and client management software
 
@@ -20,11 +20,11 @@ We use your Personal Information for the following purposes: for use in connecti
 
 ### Retention and Modification of Information
 
-Collected Personal Information is stored for 6 months from the moment last service is provided, unless until this moment you request that we remove the data by contacting us at info@boxbilling.com. If you wish to update or to correct your Personal Information provided to us, please contact us via info@boxbilling.com or enter your members area to update or to correct your Personal Information.
+Collected Personal Information is stored for 6 months from the moment last service is provided, unless until this moment you request that we remove the data by contacting us at [[email protected]](http://www.boxbilling.com/cdn-cgi/l/email-protection) If you wish to update or to correct your Personal Information provided to us, please contact us via [[email protected]](http://www.boxbilling.com/cdn-cgi/l/email-protection) or enter your members area to update or to correct your Personal Information.
 
 ### Invitations By Registered Users
 
-You can invite friends to become registered users by sending an invitation email via our automated invitation system. We store the email addresses that you provide so that we may keep track of how many people are being invited. We do not sell these email addresses or use them to send any other communication. Recipients of invitations may contact us at info@boxbilling.com to request the removal of their information from our database.
+You can invite friends to become registered users by sending an invitation email via our automated invitation system. We store the email addresses that you provide so that we may keep track of how many people are being invited. We do not sell these email addresses or use them to send any other communication. Recipients of invitations may contact us at [[email protected]](http://www.boxbilling.com/cdn-cgi/l/email-protection) to request the removal of their information from our database.
 
 ### E-mail Communications
 
@@ -50,16 +50,16 @@ We have policies and procedures in place to protect the privacy and confidential
 
 ### Privacy Rights
 
-Personal Information can be seen, updated and corrected in members area. If you want to receive a disclosure of Personal Information and get more details about Personal Information handling make a request by email at: info@boxbilling.com. This can be done once a year for free.
+Personal Information can be seen, updated and corrected in members area. If you want to receive a disclosure of Personal Information and get more details about Personal Information handling make a request by email at: [[email protected]](http://www.boxbilling.com/cdn-cgi/l/email-protection) This can be done once a year for free.
 
 ### Contacting the Company
 
-If you have any questions or comments about this Policy, please contact us by email at info@boxbilling.com. Please provide a concise communication with complete information, including your contact information.
+If you have any questions or comments about this Policy, please contact us by email at [[email protected]](http://www.boxbilling.com/cdn-cgi/l/email-protection) Please provide a concise communication with complete information, including your contact information.
 
 BOXBILLING, LLC  
 Address: Vijokliu g. 23, LT-50143, Kaunas, Lithuania  
 Company Code: 302788919  
-Email: info@boxbilling.com
+Email: [[email protected]](http://www.boxbilling.com/cdn-cgi/l/email-protection)
 
 * * *
 
