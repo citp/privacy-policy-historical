@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the rickwarren.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064913id_/http%3A//www.pastorrick.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickwarren.org privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202191214id_/http%3A//pastorrick.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy / Refund Policy
 
-  
+### DONATION REFUND POLICY
 
+All donations are gifts made voluntarily to Daily Hope, a 501(c)(3) charity, with no conditions. Donors receive a tax receipt from Daily Hope at the time of the donation. Refunds for donations are generally not allowed since Donors have received a tax deduction, but are handled on a case by case basis if submitted within 30 days of the gift. Email (DailyHope@pastorrick.com) or call 1-800-600-5004   
+​
 
 ### THE INFORMATION WE COLLECT
 
