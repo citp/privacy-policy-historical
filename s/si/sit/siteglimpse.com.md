@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteglimpse.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604082343id_/http%3A//www.siteglimpse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteglimpse.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202190300id_/http%3A//www.siteglimpse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
