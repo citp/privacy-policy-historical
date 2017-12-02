@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch-tvseries.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062524id_/http%3A//www.watch-tvseries.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-tvseries.me privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202073240id_/http%3A//www.watch-tvseries.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,6 +59,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Watch-TVSeries](http://watch-tvseries.me/)  
 [http://Watch-TVSeries.ME](http://watch-tvseries.me/)  
-admin@Watch-TVSeries.ME
+admin@watch-tvseries.me
 
 This document was last updated on February 20, 2012
