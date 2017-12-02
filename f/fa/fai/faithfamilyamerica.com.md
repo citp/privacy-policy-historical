@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the faithfamilyamerica.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608091326id_/http%3A//www.faithfamilyamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithfamilyamerica.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202170830id_/http%3A//www.faithfamilyamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Faith Family America
 
-_Protecting your private information is our priority._ This Statement of Privacy applies to FaithFamilyAmerica.com and the sponsoring organization Strategic Media 21 and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Faith Family America include FaithFamilyAmerica.com and Strategic Media 21, Inc. By using the FaithFamilyAmerica.com website, you consent to the data practices described in this statement.
+This Statement of Privacy applies to FaithFamilyAmerica.com and the sponsoring organization Strategic Media 21 and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Faith Family America include FaithFamilyAmerica.com and Strategic Media 21, Inc. By using the FaithFamilyAmerica.com website, you consent to the data practices described in this statement.
 
 ## Collection of your Personal Information
 
@@ -46,7 +46,7 @@ Faith Family America does not knowingly collect personally identifiable informat
 
 ## Opt-Out & Unsubscribe
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Faith Family America by contacting us here: \- Email: [info@faithfamilyamerica.com](mailto:info@faithfamilyamerica.com)
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Faith Family America by contacting us here: - Email: [info@faithfamilyamerica.com](mailto:info@faithfamilyamerica.com)
 
 ## Changes to this Statement
 
