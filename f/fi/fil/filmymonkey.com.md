@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmymonkey.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623192525id_/http%3A//www.filmymonkey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmymonkey.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202180500id_/http%3A//www.filmymonkey.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Filmymonkey
+# Filmymonkey: Bollywood News,bollywood Movie reviews,celebrity News,TV Gossip,Videos & photos
 
 **ABP News Network Private Limited**  
 **General**
