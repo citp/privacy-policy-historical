@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northlight-images.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102804id_/http%3A//www.northlight-images.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northlight-images.co.uk privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202195524id_/http%3A//www.northlight-images.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Northlight Images cookies and Privacy Policy
 
