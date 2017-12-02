@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitmotion-tab.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629071205id_/https%3A//bitmotion-tab.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitmotion-tab.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202154814id_/http%3A//bitmotion-tab.com/privacy.html) for the most accurate reproduction.*
 
 # Bitmotion
 
