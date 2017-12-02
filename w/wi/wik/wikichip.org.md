@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikichip.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222509id_/https%3A//en.wikichip.org/wiki/WikiChip%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikichip.org privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202100145id_/https%3A//en.wikichip.org/wiki/WikiChip%3APrivacy_policy) for the most accurate reproduction.*
 
 # WikiChip:Privacy policy - WikiChip
 
@@ -50,7 +50,7 @@ When you visit WikiChip, we automatically receive the IP address of the device (
 
 We may aggregate the server logs in order to generate some statistics about the usage of the website. Those stats come directly from the server logs (see _Information We Collect_ ) and do not consist of anything more. 
 
-We may publish those statistics on our WikiChip. When that happens, they do not contain any identifiable information and consist entirely of aggregated information (e.g. how many [Windows](https://web.archive.org/w/index.php?title=Windows&action=edit&redlink=1 "Windows \(page does not exist\)") or [Linux](https://web.archive.org/w/index.php?title=Linux&action=edit&redlink=1 "Linux \(page does not exist\)") users visited our website, which countries they come from, or what were the most popular pages and how many people visited them.)   
+We may publish those statistics on WikiChip. When that happens, they do not contain any identifiable information and consist entirely of aggregated information (e.g. how many [Windows](https://web.archive.org/w/index.php?title=Windows&action=edit&redlink=1 "Windows \(page does not exist\)") or [Linux](https://web.archive.org/w/index.php?title=Linux&action=edit&redlink=1 "Linux \(page does not exist\)") users visited our website, which countries they come from, or what were the most popular pages and how many people visited them.)   
   
  |    
 **Advertisement** | 
