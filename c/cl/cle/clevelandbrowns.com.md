@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevelandbrowns.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151313id_/http%3A//www.clevelandbrowns.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandbrowns.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202074047id_/http%3A//www.clevelandbrowns.com/news/article-5/Privacy-and-Terms-of-Use/1e452725-4c81-4da9-b2d5-f5d7ac872da8) for the most accurate reproduction.*
 
 # Privacy and Terms of Use
 
@@ -7,11 +7,7 @@
 
 The Cleveland Browns organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our websites and any other online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
 
-The Cleveland Browns have received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.  
-
-The TRUSTe program covers only information that is collected through the Web sites <http://www.clevelandbrowns.com/>, [fans.clevelandbrowns.com](http://fans.clevelandbrowns.com/), and through our mobile applications
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
  **Information Collection**  
  **Use of Information**  
@@ -147,3 +143,5 @@ Fan Squad
 76 Lou Groza Blvd  
 Berea, Ohio 44017  
 Attn: Privacy Policy
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=1a54140b-26de-4e45-86c5-989bcba15796)
