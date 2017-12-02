@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalfm.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607210743id_/http%3A//www.capitalfm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalfm.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202203513id_/http%3A//www.capitalfm.com/privacy-policy) for the most accurate reproduction.*
 
 # Global Privacy Policy - Capital
 
@@ -6,11 +6,11 @@ We are Global!
 
 **About This Policy**
 
-We are part of “Global Limited” and we are obsessive about respecting the privacy of our listeners and customers.
+We are part of "Global Media & Entertainment Ltd" and we are obsessive about respecting the privacy of our listeners and customers.
 
 This policy explains how we will collect information about you through interaction with us over the radio, on the TV, our charity activities or through any sales channel and what we will use it for.
 
-Any personal information you provide about yourself to us, may be shared across our “Global” Group but will only be used in accordance with this Privacy Policy.
+Any personal information you provide about yourself to us, may be shared across our "Global Media & Entertainment Ltd" Group but will only be used in accordance with this Privacy Policy.
 
 Firstly, please be aware that we do not aim to collect any personal information from individuals under the age of 13.
 
