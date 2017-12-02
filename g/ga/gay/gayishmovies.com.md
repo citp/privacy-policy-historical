@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gayishmovies.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120180850id_/http%3A//www.gay.sex.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayishmovies.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202012200id_/http%3A//www.gay.sex.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Gay.Sex.com
 
 Effective February 2012
 
-We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.gay.sex.com. This Privacy Policy applies only to information that you provide to us through the site. This Privacy Policy may be updated on occasion. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes.
+We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of Gay.Sex.com. This Privacy Policy applies only to information that you provide to us through the site. This Privacy Policy may be updated on occasion. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes.
 
 This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over, or having attained the age of majority in their country. All persons who do not meet this criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
