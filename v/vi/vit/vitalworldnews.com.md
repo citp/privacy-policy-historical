@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the vitalworldnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082234id_/http%3A//video.vitalworldnews.com/privacyVWN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalworldnews.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202011413id_/http%3A//video.vitalworldnews.com/privacyVWN.html) for the most accurate reproduction.*
 
-# Privacy | Vital World News
+# PRIVACY POLICY | Vital World News
 
-**VITAL WORLD NEWS**
+[](https://web.archive.org/index.html)
 
-**PRIVACY POLICY**
+## VITAL WORLD NEWS
+
+### PRIVACY POLICY
 
 _Last Modified: January 25, 2017_
 
