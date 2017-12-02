@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608201900id_/https%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202223416id_/https%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | NSF - National Science Foundation
 
@@ -22,7 +22,7 @@ If you are visiting the NSF website to browse through our site, read pages, or d
 
 Anonymous demographic information is gathered using Google Demographic and Interests reports. When you visit a website that has partnered with the Google Display Network, Google stores a number in your browser using a persistent cookie to remember your visits. This number uniquely identifies a web browser, not a specific person. Browsers may be associated with a demographic category, such as gender or age range, based on the sites that were visited.
 
-Collected information is used by our web content managers and developers to help us make our site more useful to visitors – to learn about the number of visitors to our site and the types of technology our visitors use. We do **not** track or record personal information about individuals and their visits. The information we collect is deleted after three years.
+Collected information is used by our web content managers and developers to help us make our site more useful to visitors – to learn about the number of visitors to our site and the types of technology our visitors use. We do **not** track or record personal information about individuals and their visits. The information we collect is deleted after four years.
 
 You can opt-out of the persistent cookies on our site by disabling cookies in your web browser. Instructions for [disabling cookies in popular desktop browsers](https://www.usa.gov/optout-instructions/) are provided on USA.gov. Opting-out of the persistent cookies on our site will not prevent you from accessing any of the information or services on our site.
 
@@ -42,7 +42,7 @@ We collect no information about you or your child, other than that detailed abov
 
 There are several exceptions that permit collection of a child's email address without receiving parental consent in advance: 
 
-  * To provide the parents with notice and to seek consent for communications with the child. Note: this may require collection of the parent's email addressas well.
+  * To provide the parents with notice and to seek consent for communications with the child. Note: this may require collection of the parent's email address as well.
   * To respond to a one time request from a child.
   * To respond more than once to a child's request; i.e., subscription to a newsletter. However, parental consent is required prior to the second communication.
   * To protect the safety of a child who is participating on the site; i.e., in a chat room.
@@ -61,3 +61,5 @@ NSF uses third-party social websites to disseminate mission-related information 
 ## CONTACT
 
 If you have questions or concerns about NSF's privacy policy, please contact Sandra Evans, Office of the General Counsel, phone: 703-292-5065, email: [sevans@nsf.gov](mailto:sevans@nsf.gov).
+
+Last Updated: May 21, 2017
