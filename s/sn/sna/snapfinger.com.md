@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the snapfinger.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001221id_/http%3A//www.snapfinger.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfinger.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202073857id_/http%3A//www.snapfinger.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Snapfinger Privacy Policy
 
-Effective Date March 2011 (last updated February 3, 2016)
+Effective Date November 7, 2016)
 
 #### This Privacy Policy applies to the sites and app where it appears.
 
@@ -14,7 +14,9 @@ This privacy policy applies to how Snapfinger uses your information. Snapfinger 
 
 **We may collect contact information and personal information on the Platforms.** For example, we may collect your address when you use the Platforms. We also collect your name, phone number and email address if you register with us.
 
-**We may collect information about your device and Internet usage.** If you use the Platforms, we might collect information from your phone. We may also collect information about the parts of our Platforms you use or third party apps or websites you visit when you leave our Platforms. We may work with third parties who collect information about you when you use our app. We collect payment information. For example, we collect your credit card number if you make a purchase.
+**We may collect information about your device and Internet usage.**. If you use the Platforms, we might collect information from your phone. We may also collect information about the parts of our Platforms you use or third party apps or websites you visit when you leave our Platforms. We may work with third parties who collect information about you when you use our app.
+
+**We collect payment information.** For example, we collect your credit card number if you make a purchase.
 
 **We may collect other information.** For example, we may collect your location using GPS, a cellular network location, Wi-Fi networks, browser services, or information you provide. We might look at how often you use the Platforms.
 
@@ -62,7 +64,7 @@ This privacy policy applies to how Snapfinger uses your information. Snapfinger 
 
 **You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
 
-**You can control cookies and tracking tools.** Your browser may give you the ability to control cookies or other tracking tools. How you do so depends on the type of tool. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.aboutads.info/choices/). Why? Because flash cookies cannot be controlled through your browser settings.
+**You can control cookies and tracking tools.** Your browser may give you the ability to control cookies or other tracking tools. How you do so depends on the type of tool. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go here. Why? Because flash cookies cannot be controlled through your browser settings.
 
 **Our Do Not Track Policy: Some browsers have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals.** If you block cookies, certain features on our sites may not work. If you block or reject cookies, not all of the tracking described here will stop.
 
@@ -70,11 +72,11 @@ This privacy policy applies to how Snapfinger uses your information. Snapfinger 
 
 #### Your California privacy rights.
 
-If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email at [privacy@snapfinger.com](mailto:privacy@snapfinger.com), or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an [email](mailto:privacy@snapfinger.com) at privacy@snapfinger.com, or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
 
 #### These sites and apps are not intended for children.
 
-Our Platforms are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [privacy@snapfinger.com](mailto:privacy@snapfinger.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children's privacy on-line [here](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html).
+Our Platforms are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email us](mailto:privacy@snapfinger.com) privacy@snapfinger.com. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children"s privacy on-line here.
 
 #### We store information in the United States.
 
@@ -82,7 +84,9 @@ Information we maintain may be stored both within and outside of the United Stat
 
 #### We use standard security measures.
 
-The Internet and mobile apps are not 100% secure. We cannot promise that your use of our Platforms will be completely safe. We encourage you to use caution when using apps and the Internet. This includes not sharing your passwords. To learn more about how to protect yourself online, visit www.ftc.gov. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+The Internet and mobile apps are not 100% secure. We cannot promise that your use of our Platforms will be completely safe. We encourage you to use caution when using apps and the Internet. This includes not sharing your passwords. To learn more about how to protect yourself online, visit www.ftc.gov.
+
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
 
 #### We may link to other sites or have third party services on our Platforms we don’t control.
 
@@ -90,17 +94,9 @@ Our Platforms may have links to websites we do not control. Our Platforms may al
 
 #### Feel free to contact us if you have more questions.
 
-If you have any questions about this Policy, please email us at [privacy@snapfinger.com](mailto:privacy@snapfinger.com). 
+If you have any questions about this Policy, please email us at privacy@snapfinger.com.
 
-You can also write to us or call at:
-
-Snapfinger, Inc.
-
-3025 Windward Plaza, Suite 320
-
-Alpharetta, GA 30005
-
-678-739-4650 
+You can also write to us or call at: Snapfinger, Inc., 3025 Windward Plaza, Suite 320 Alpharetta, GA 30005, 678-739-4650.
 
 If you have any questions about this Policy or want to correct or update your information, please email us at [privacy@snapfinger.com](mailto:privacy@snapfinger.com).
 
