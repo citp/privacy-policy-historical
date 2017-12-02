@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maplewood.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622133135id_/http%3A//www.maplewood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplewood.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202090006id_/http%3A//maplewood.com/privacy.html) for the most accurate reproduction.*
 
 # Maplewood Computing Privacy Statement
 
@@ -61,7 +61,7 @@ Clients using Maplewood’s data hosting service (cloud hosting) should note tha
 
 
 
-Maplewood reserves the right to block access to and from inappropriate internet domains, email addresses or websites 
+Maplewood reserves the right to block access to and from inappropriate internet domains, email addresses or websites.
 
 This information is used to help improve our hosting service. Please note that we are able to link this information with the identity of individuals using this service. 
 
