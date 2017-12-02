@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtechtoday.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320111257id_/http%3A//www.worldtechtoday.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtechtoday.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202112447id_/http%3A//www.worldtechtoday.com/policies) for the most accurate reproduction.*
 
 # Privacy Policy | World Tech Today
 
