@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bargello.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085329id_/http%3A//www.bargello.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargello.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202050935id_/http%3A//bargello.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Bargello Online Shopping Pakistan, Desi Online Shop in UK
+# Bargello.com Privacy Policy, Cookies, Information
 
 **Bargello.com Privacy Policy**
 
@@ -10,11 +10,11 @@ The following discloses our Privacy Policy.
 
 **What information are you collecting and how are you collecting it?**
 
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer’s "Internet Protocol" IP address. When a visitor requests a page from any Web site within the web sites owned and/or managed by Bargello.com, our Web servers automatically recognize that visitor’s domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors. 
+Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computerâ€™s "Internet Protocol" IP address. When a visitor requests a page from any Web site within the web sites owned and/or managed by Bargello.com, our Web servers automatically recognize that visitorâ€™s domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors. 
 
 **What are cookies?**
 
-A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer’s hard drive. Cookies do not damage your system. We use cookies to identify which areas of our web sites you have visited or customized, so the next time you visit, those pages may be readily accessible. We may also use cookies to ascertain how many times you’ve seen an advertisement. Our advertisers/clients and/or we may use this information to better personalize the content, banners, and promotions that you see on our Site/s. 
+A cookie is a small piece of data that is sent to your browser from a web server and stored on your computerâ€™s hard drive. Cookies do not damage your system. We use cookies to identify which areas of our web sites you have visited or customized, so the next time you visit, those pages may be readily accessible. We may also use cookies to ascertain how many times youâ€™ve seen an advertisement. Our advertisers/clients and/or we may use this information to better personalize the content, banners, and promotions that you see on our Site/s. 
 
 You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended. 
 
@@ -41,13 +41,13 @@ We will disclose personal information when required by law or in the good-faith 
 
 
 
-Bargello.com uses reasonable precautions to keep the information disclosed to us secure. Bargello.com reserves the right to transfer information in connection with the sale of all or part of web sites managed and/or owned by Bargello.com’s capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. Web sites managed and/or owned by Bargello.com also link to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users. Please check with those sites to determine their privacy policy.
+Bargello.com uses reasonable precautions to keep the information disclosed to us secure. Bargello.com reserves the right to transfer information in connection with the sale of all or part of web sites managed and/or owned by Bargello.comâ€™s capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. Web sites managed and/or owned by Bargello.com also link to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users. Please check with those sites to determine their privacy policy.
 
 **What else should I know about my privacy when online?**
 
 Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you’re online. 
+Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever youâ€™re online. 
 
 **Your Consent To This Agreement**
 
