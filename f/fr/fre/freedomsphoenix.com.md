@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomsphoenix.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616211038id_/http%3A//www.freedomsphoenix.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomsphoenix.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202190441id_/http%3A//www.freedomsphoenix.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # 
 
