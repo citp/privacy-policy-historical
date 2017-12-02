@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the egrmagazine.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602094036id_/http%3A//egr.global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egrmagazine.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202082205id_/http%3A//egr.global/privacy) for the most accurate reproduction.*
 
 # Privacy | EGR | The online gaming industry’s leading information and networking group
 
+[](http://egr.global/)
+
 **Information collection and use**  
-We collect information from our users at several different points on the website – this is for subscriptions, customer service and billing purposes, we also collect data from our users so that we can customise the site according to individual selections. [Pageant Gaming Media Limited](http://www.pageantgamingmedia.com/) is the sole owner of the personal information collected from this site.
+We collect information from our users at several different points on the website – this is for subscriptions, customer service and billing purposes, we also collect data from our users so that we can customise the site according to individual selections. [Pageant Gaming Media Limited](http://www.pageantmedia.com/) is the sole owner of the personal information collected from this site.
 
 **Registration**  
 In order to receive our daily snapshot e-newsletters, users have to complete a registration form. During registration a user is required to give contact information (such as name and e-mail address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as business sector), and unique identifiers, but encouraged so we can provide a more personalised experience.
