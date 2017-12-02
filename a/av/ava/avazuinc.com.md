@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avazuinc.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629160440id_/http%3A//avazuinc.com/opt-out) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avazuinc.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202144441id_/http%3A//avazuinc.com/opt-out) for the most accurate reproduction.*
 
 # Opt Out
 
