@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061718id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202073159id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # EliteMate.com's Privacy Policy, Online Dating, Picture Personals, Hottest Singles, Local Dating, Find Love, Friends, Pens Pals, Romance, Free Membership,
 
@@ -41,13 +41,17 @@ By registering at EliteMate.com, you agree that this act constitutes an inquiry 
 
 SPECIAL OFFER SERVICE SUBSCRIPTION & EXPRESS CONSENT TO RECEIVE MESSAGES.
 
-By accepting of the terms and conditions of this website (and any associated offers, contests, giveaways or other programs), and providing your telephone number, you are subscribing to EliteMate.com, EliteCashWire.com, & MindBody-Soul.com offers. EliteMate.com, EliteCashWire.com, & MindBody-Soul.com subscribers receive pre-recorded telephone messages regarding various special product offers and purchase incentives, and are also automatically entered into various contests and sweepstakes whenever they receive such calls. The service is free of charge. For more information regarding EliteMate.com, EliteCashWire.com, & MindBody-Soul.com and its associated sweepstakes and contests, including applicable rules, please visit 
+By accepting of the terms and conditions of this website (and any associated offers, contests, giveaways or other programs), and providing your telephone number, you are subscribing to EliteMate.com, EliteCashWire.com, & MindBody-Soul.com offers
 
-[ http://www.elitemate.com/htm/help.htm](http://www.elitemate.com/htm/help.htm).
+as well as those of referenced 3rd party advertisers.. EliteMate.com, EliteCashWire.com, & MindBody-Soul.com subscribers receive pre-recorded telephone messages regarding various special product offers and purchase incentives, and are also automatically entered into various contests and sweepstakes whenever they receive such calls. The service is free of charge. For more information regarding EliteMate.com, EliteCashWire.com, & MindBody-Soul.com and its associated sweepstakes and contests, including applicable rules, please visit [ http://www.elitemate.com/htm/help.htm](http://www.elitemate.com/htm/help.htm).
 
-By subscribing, such act constitutes your express written consent to be contacted by EliteMate.com, EliteCashWire.com, & MindBody-Soul.com via prerecorded telephone message for purposes of the Amended Telemarketing Sales Rule (16 CFR 310 et seq.), and the Electronic Signatures in Global and National Commerce Act (15 USC 96), as amended from time to time. The calls you are agreeing to receive describe goods and services offered by third parties through the SOS, and any goods or services described in the call are not sold by or through EliteMate.com, EliteCashWire.com, & MindBody-Soul.com. 
+By subscribing, such act constitutes your express written consent to be contacted by EliteMate.com, EliteCashWire.com, & MindBody-Soul.com 
 
-You are subscribing to receive calls from EliteMate.com, EliteCashWire.com, & MindBody-Soul.com, and only at the specific number(s) you have provided to us. Your consent will be effective if the number you have provided is a home, business, or cell phone line, or if the number is registered on any state or federal Do-Not-Call (DNC) list as of the date of this consent. EliteMate.com, EliteCashWire.com, & MindBody-Soul.com reserves the right to refrain from calling any number registered on a DNC list in connection with any promotions. This consent shall remain in effect until you revoke your consent and cancel your subscription. 
+and certain 3rd party advertisers referenced at the time of express opt in via prerecorded telephone message for purposes of the Amended Telemarketing Sales Rule (16 CFR 310 et seq.), and the Electronic Signatures in Global and National Commerce Act (15 USC 96), as amended from time to time. The calls you are agreeing to receive describe goods and services offered by third parties through the SOS, and any goods or services described in the call are not sold by or through EliteMate.com, EliteCashWire.com, & MindBody-Soul.com. 
+
+You are subscribing to receive calls from EliteMate.com, EliteCashWire.com, & MindBody-Soul.com, 
+
+and specifically referenced 3rd party advertisers and only at the specific number(s) you have provided to us. Your consent will be effective if the number you have provided is a home, business, or cell phone line, or if the number is registered on any state or federal Do-Not-Call (DNC) list as of the date of this consent. EliteMate.com, EliteCashWire.com, & MindBody-Soul.com reserves the right to refrain from calling any number registered on a DNC list in connection with any promotions. This consent shall remain in effect until you revoke your consent and cancel your subscription. 
 
 We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out http://www.networkadvertising.org/managing/opt_out.asp 
 
@@ -71,7 +75,7 @@ EliteMate.com does not honor Do Not Track requests by its visitors or members on
 Opt Out Here  [ http://www.elitemate.com/myJsp/optout.jsp](http://www.elitemate.com/myJsp/optout.jsp "http://www.elitemate.com/myJsp/optout.jsp").  Please note that unsubscribing from this email list does not automatically unsubscribe you from any other email list on which you may be.  Please read the email carefully to find out which list from which you are unsubscribing.View EliteMate.com's  [ Terms And Conditions](http://www.elitemate.com/htm/terms.htm)   
 We reserve the right to modify this Privacy Policy at any time. Please visit this page regularly because after we update our privacy policy its posted to our website as notification a change was made.
 
-This privacy policy version was last updated May 12, 2016.  
-This privacy policy effective date is August 7, 2000.
+This privacy policy version was last updated June 30, 2017.  
+This privacy policy effective date is June 30 2017.
 
 |  
