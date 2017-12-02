@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyprus-mail.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630152403id_/http%3A//cyprus-mail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyprus-mail.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202185806id_/http%3A//cyprus-mail.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Cyprus Mail
 
