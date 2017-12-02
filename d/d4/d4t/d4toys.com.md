@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the d4toys.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615222148id_/http%3A//www.d4toys.com/index.php%3Froute%3Dcommon/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d4toys.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202144347id_/http%3A//www.d4toys.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
-# D4toys.com
+# 
 
 ### _Privacy Notice_
 
@@ -34,11 +34,11 @@ We may from time to time organize or host contests and promotions and in doing s
 
 ### Newsletters and Email Promotions
 
-We use email to communicate news and special promotions to our D4 members. If you would rather not receive these messages, you can choose to do cancellation for subscription via _My Account_.
+We use email to communicate news and special promotions to our D4 members. If you would rather not receive these messages, you can choose to do cancellation for subscription via [_My Account_](http://www.d4toys.com/index.php?route=account/login).
 
 ### How can I change, delete, or update my information?
 
-Most of your account information can be changed in the _My Account_ section of the D4 website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at _[_info@d4toys.com_](mailto:info@d4toys.com)_ . After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
+Most of your account information can be changed in the [_My Account_](http://www.d4toys.com/index.php?route=account/login) section of the D4 website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at _[_info@d4toys.com_](mailto:info@d4toys.com)_ . After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
 
 ### Your consent
 
