@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdde.info privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623102741id_/http%3A//www.delawarepublic.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdde.info privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202102306id_/http%3A//www.delawarepublic.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Delaware First Media
 
