@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612003424id_/http%3A//preferences.vitessemedia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202213025id_/http%3A//preferences.vitessemedia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vitesse Media preference centre
 
