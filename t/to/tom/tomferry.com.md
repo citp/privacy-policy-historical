@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomferry.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604062851id_/http%3A//tomferry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomferry.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202204015id_/http%3A//www.tomferry.com/privacy) for the most accurate reproduction.*
 
 # Website and App Privacy Policy
 
