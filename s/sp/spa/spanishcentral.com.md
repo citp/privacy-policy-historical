@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanishcentral.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623133344id_/http%3A//www.spanishcentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishcentral.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202075332id_/http%3A//www.spanishcentral.com/privacy-policy) for the most accurate reproduction.*
 
 # English to Spanish Translation | Merriam-Webster's Spanish-English Dictionary - Spanish Central
 
