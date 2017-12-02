@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motu.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603055556id_/http%3A//motu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motu.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202103302id_/http%3A//motu.com/privacy.html) for the most accurate reproduction.*
 
 # MOTU.com - MOTU Privacy Policies and Terms of Use
 
