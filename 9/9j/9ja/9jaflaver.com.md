@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the 9jaflaver.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143121id_/http%3A//9jaflaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9jaflaver.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202185932id_/http%3A//9jaflaver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 9jaflaver
-
-Contact Us:-  
-
-
- **Whatsapp:-** **+2348114624972**    **Call:-** **+2349076241148**
 
 This Privacy Policy governs the manner in which 9jaflaver collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://9jaflaver.com website (“Site”).
 
