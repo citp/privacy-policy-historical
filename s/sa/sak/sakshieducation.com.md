@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sakshieducation.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234447id_/http%3A//sakshieducation.com/Disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sakshieducation.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202102345id_/http%3A//sakshieducation.com/Disclaimer.aspx) for the most accurate reproduction.*
 
 # Sakshieducation: Disclaimer
 
