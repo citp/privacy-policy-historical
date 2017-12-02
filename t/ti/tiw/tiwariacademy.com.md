@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiwariacademy.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530233339id_/http%3A//www.tiwariacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiwariacademy.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202123049id_/http%3A//www.tiwariacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -156,7 +156,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **  
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-rakesh@tiwariacademy.com and we will promptly remove you from **ALL** correspondence.
+[[email protected]](http://www.tiwariacademy.com/cdn-cgi/l/email-protection) and we will promptly remove you from **ALL** correspondence.
 
 **Contacting Us**
 
@@ -169,7 +169,5 @@ Uttam Nagar
 Delhi, Delhi 110059
 
 India
-
-rakesh@tiwariacademy.com
 
 Last Edited on 2016-04-28
