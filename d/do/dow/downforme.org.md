@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downforme.org privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602045809id_/http%3A//downforme.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downforme.org privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202103455id_/http%3A//downforme.org/privacy-policy) for the most accurate reproduction.*
 
 # Learn More About How We Value Your Online Privacy On Our Website
 
