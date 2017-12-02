@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the personalbrandingblog.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603102114id_/http%3A//www.personalbrandingblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalbrandingblog.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202194439id_/http%3A//www.personalbrandingblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Personal Branding Blog - Stand Out In Your Career
+# Privacy Policy - Personal Branding Blog - Stand Out In Your Career
 
 ### 
 
