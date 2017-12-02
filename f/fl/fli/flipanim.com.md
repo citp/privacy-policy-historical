@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipanim.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012712id_/http%3A//flipanim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipanim.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202201847id_/http%3A//flipanim.com/privacy) for the most accurate reproduction.*
 
 # FlipAnim - create flipbook animations online!
 
@@ -16,4 +16,4 @@ Your privacy is very important to us. Accordingly, we have developed this policy
 
 
 
-We are committed to conducting our site in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Please [contact us](https://web.archive.org/web/20170606012712id_/http%3A//flipanim.com/contact) if you detect any unauthorized access to your or others account or data on FlipAnim website. 
+We are committed to conducting our site in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Please [contact us](https://web.archive.org/web/20171202201847id_/http%3A//flipanim.com/contact) if you detect any unauthorized access to your or others account or data on FlipAnim website. 
