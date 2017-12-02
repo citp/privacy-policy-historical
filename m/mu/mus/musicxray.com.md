@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicxray.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612192400id_/https%3A//www.musicxray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicxray.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202125910id_/https%3A//www.musicxray.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
