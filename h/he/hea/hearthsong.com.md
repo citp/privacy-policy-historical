@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearthsong.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630220135id_/https%3A//www.hearthsong.com/security/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearthsong.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202215009id_/https%3A//www.hearthsong.com/security/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Security Information| Hearth Song
 
