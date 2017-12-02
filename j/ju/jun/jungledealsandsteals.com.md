@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jungledealsandsteals.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602094810id_/http%3A//jungledealsandsteals.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungledealsandsteals.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202233718id_/http%3A//jungledealsandsteals.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-[ ](https://www.linksalpha.com/social/mobile)
+# Privacy Policy - Jungle Deals & Steals
 
 The privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
