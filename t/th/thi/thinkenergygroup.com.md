@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkenergygroup.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603234917id_/http%3A//www.thinkenergygroup.com/think.nsf/privacy%3Fopenform) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkenergygroup.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202220713id_/http%3A//www.thinkenergygroup.com/think.nsf/privacy%3Fopenform) for the most accurate reproduction.*
 
 # Engineering Jobs
 
