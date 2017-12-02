@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unitedcountry.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627180403id_/http%3A//www.unitedcountry.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedcountry.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202192031id_/http%3A//www.unitedcountry.com/privacy.htm) for the most accurate reproduction.*
 
 # United Country Real Estate - Privacy Statement
 
-  |  [ ](https://web.archive.org/web/20170627180403id_/http%3A//www.unitedcountry.com/index.html)  
+  |  [ ](https://web.archive.org/web/20171202192031id_/http%3A//www.unitedcountry.com/index.html)  
 ---|---  
   
 At United Country Real Estate (“United Country”) we are fully committed to the protection and security of the information provided to us by you, our clients, and others who use our Web site. We want you to be comfortable and confident about your privacy, so you can enjoy participating in our online offerings and so that we can  
