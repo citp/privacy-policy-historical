@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fox23.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050023id_/http%3A//www.fox23.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox23.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202102048id_/http%3A//www.fox23.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FOX23
-
-Updated: Jan 11, 2016 - 3:02 PM
 
 **Privacy Policy**  
 Last Updated: _August 4, 2014_
