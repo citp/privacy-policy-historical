@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teefury.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225021339id_/http%3A//www.teefury.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teefury.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202143439id_/http%3A//www.teefury.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TeeFury
 
@@ -156,8 +156,8 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 Tee Fury LLC   
 Attn. Legal – CA Privacy   
-9930 Irvine Center Dr  
-Irvine, California 92618
+21098 Bake Parkway, Unit 100  
+Lake Forest, CA, United States, 92630
 
 
 
