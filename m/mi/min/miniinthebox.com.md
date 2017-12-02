@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniinthebox.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628180730id_/http%3A//www.miniinthebox.com/r/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniinthebox.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202130803id_/https%3A//www.miniinthebox.com/r/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - www.Miniinthebox.com
 
@@ -6,18 +6,18 @@
 
 
   
-MinInTheBox.com respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.   
+MiniInTheBox.com respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.   
 
   
 
 
-## MinInTheBox.com's Privacy Policy
+## MiniInTheBox.com's Privacy Policy
 
-Thank you for accessing the website ("Site") of MinInTheBox.com, Limited. ("MinInTheBox.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
+Thank you for accessing the website ("Site") of MiniInTheBox. ("MiniInTheBox.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
 
 This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
 
-This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-MinInTheBox.com website to which this Site links or that links to this Site.
+This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-MiniInTheBox.com website to which this Site links or that links to this Site.
 
 INFORMATION COLLECTION AND USE
 
@@ -57,12 +57,12 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 OPT OUT/CORRECTIONS
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; (c) stop sending SMS messages to your phones; and/or (d) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to MinInTheBox.com’s Customer Support department at cs@lightinthebox.com. Please do not email your credit card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; (c) stop sending SMS messages to your phones; and/or (d) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to MiniInTheBox.com’s Customer Support department at cs@lightinthebox.com. Please do not email your credit card number or other sensitive information.
 
 OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
 
-As you might expect from MinInTheBox.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
+As you might expect from MiniInTheBox.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
 UPDATES TO THIS POLICY
 
-If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please [contact us](http://www.lightinthebox.com/r/contact-us.html).
+If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please [contact us](https://www.lightinthebox.com/r/contact-us.html).
