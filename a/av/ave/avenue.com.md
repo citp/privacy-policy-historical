@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the avenue.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203061634id_/http%3A//www.avenue.com/en_US/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avenue.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202165903id_/http%3A//www.avenue.com/en_US/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Avenue.com
+# Privacy Policy
 
-Updated: 16 November 2016
+Updated: 01 March 2017
 
 ### Introduction
 
-Please read this Privacy Policy to understand how we protect your privacy when interacting with Avenue Stores, LLC (collectively, “Avenue,” “we,” or “us”) through our retail stores, by telephone, through www.avenue.com (our “Website”) and through Social Media platforms we use to interact with you.  
+Please read this Privacy Policy to understand how we protect your privacy when interacting with Avenue Stores, LLC (collectively, “Avenue,” “we,” or “us”) through our retail stores, by telephone, through www.avenue.com or www.loralette.com (collectively, our “Website”) and through Social Media platforms we use to interact with you.  
 The purpose of this Privacy Policy is to assist you in understanding the type of personal information we may collect from you, how such information may be used, and the choices that are available to you concerning the use of your information.  
 BY INTERACTING WITH US THROUGH OUR STORES, TELEPHONE, WEBSITE AND SOCIAL MEDIA PLATFORMS, YOU CONSENT TO THE USE OF INFORMATION THAT IS COLLECTED OR SUBMITTED AS DESCRIBED IN THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS OF OUR PRIVACY POLICY, DO NOT PROVIDE PERSONAL INFORMATION TO US OR USE OUR WEBSITE OR COMMUNICATE WITH US ON SOCIAL MEDIA PLATFORMS.  
 WE MAY MAKE CHANGES FROM TIME TO TIME OR ADD TO THIS PRIVACY POLICY, SO WE ASK YOU TO REVIEW THIS PRIVACY POLICY FROM TIME TO TIME SO THAT YOU ARE FAMILIAR WITH OUR CURRENT PRIVACY PRACTICES.  
@@ -58,7 +58,7 @@ In order to maintain the accuracy of your registration information, including re
   * **Video Recording in Stores**. We may conduct video surveillance at our stores for security, fraud and loss prevention and incident reporting purposes. We use the images and information from such videos only as required for such purposes and for certain operational purposes, such as to measure traffic patterns in our stores.
   * **Data Aggregation**. Avenue also collects information about how users navigate through our Website or Social Media platforms. This statistical information is gathered in order to improve the Website and our product offerings. This aggregated information may be shared with Avenue vendors or other Avenue partners. This aggregated statistical and navigational information does not include individual names or personal information.
   * **Avenue-Branded Credit Cards**. Avenue-branded credit card accounts are issued and managed by a third party, [Comenity Bank](https://d.comenity.net/avenue/pub/Home.xhtml). When you apply for a credit card through the Website or at a store, you provide your financial and personal information needed for Comenity Bank to process your application. Avenue is independent of Comenity Bank. To obtain a financial Privacy Policy for the Avenue credit card, please [click here](https://d.comenity.net/avenue/common/privacy/FinancialPrivacy.xhtml).
-  * **"Tell a Friend" and Referral Programs.** If you elect to use our referral service to inform a friend about our products or services, we will ask you for the friend's contact information. We will then contact your friend related to your referral request. We use the personal information you provide for your friend in this situation to send information that you have indicated your friend should see and to track the success of our referral program.
+  * **"Tell a Friend" and "Referral Programs".** If you elect to use our referral service to inform a friend about our products or services, we will ask you for the friend's contact information. We will then contact your friend, as you have directed, related to your referral request. We use the personal information you provide for your friend in this situation to send information that you have indicated your friend should see and to track the success of our referral program.
 
 
 
@@ -95,13 +95,13 @@ To be removed from a direct mailing list or an email or Social Media marketing l
 
 
 
-We distribute text messages to devices of those who have requested such information via an opt-in request. To opt out of Avenue mobile messaging, reply “STOP” to text messages sent from Text Short Code 44088 or follow any unsubscribe instructions in the applicable text message.  
+We distribute text messages to devices of those who have requested such information via an opt-in request. To opt out of Avenue mobile messaging, reply “STOP” to text messages sent from us or follow any unsubscribe instructions in the applicable text message.  
 If you choose to be removed from our marketing lists, we will still contact you in connection with transactions you initiate with Avenue, for example, we will still send you order and confirmation emails and ship packages to you as requested.  
 Your choice to opt in or opt out of promotional communications will not affect any orders you place with Avenue or any account registration you have with us.
 
 ### Unsolicited Promotional Communication
 
-Avenue does not send unsolicited promotional communications such as emails and text messages. Avenue only sends marketing communications to customers who agree to receive them except when they have been referred by another user. (See “"Tell a Friend" and Referral Programs” under the Other Important Information Relating to Privacy section of this Privacy Policy, above.)  
+Avenue does not send unsolicited promotional communications such as emails and text messages. Avenue only sends marketing communications to customers who agree to receive them except when they have been referred by another user. (See "Tell a Friend" and "Referral Programs" under the Other Important Information Relating to Privacy section of this Privacy Policy, above.)  
 Our online order form contains a pre-checked box signifying your consent to receive promotional emails. If you do not wish to receive such emails, please un-check the box. See the Opt-Out Choices for Communications from Avenue section of this Privacy Policy, above, for more information.
 
 ### California Privacy Rights
@@ -121,7 +121,7 @@ Our Website and Social Media are not directed, targeted or intended to be used b
 ### Security of Personal Information
 
 Avenue is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide on computer systems that have limited access and are in controlled facilities. When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption.  
-We want your online shopping experience to be safe and secure. We encrypt your personal information, including your name, address, and credit card number when transmitting over the Internet using Secure Socket Layer (SSL) security software. We employ a qualified security assessor to audit our procedures and also retain third party security providers to monitor and validate to ensure our compliance with these standards. All of your information is encrypted before, during and after your order is placed on our site). Depending on the browser you are using you may notice an unbroken key or a closed lock at the bottom of the page when you enter our "check-out" page. This means that your browser has made a secure connection with our site. You can also check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https."  
+We want your online shopping experience to be safe and secure. We encrypt your personal information, including your name, address, and credit card number when transmitting over the Internet using Secure Socket Layer (SSL) security software. We employ a qualified security assessor to audit our procedures and we also retain third-party security providers to monitor and validate to ensure our compliance with these standards. All of your information is encrypted before, during and after your order is placed on our site. Depending on the browser you are using you may notice an unbroken key or a closed lock at the bottom of the page when you enter our "check-out" page. This means that your browser has made a secure connection with our site. You can also check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https."  
 PLEASE NOTE THAT NORMAL EMAIL (SUCH AS USING CONTACT US OR YOUR HOME EMAIL) IS NOT ENCRYPTED AND THUS IS NOT A SECURE MEANS FOR TRANSMITTING CREDIT CARD INFORMATION OR ANY PERSONAL INFORMATION OR INFORMATION YOU WISH TO KEEP PRIVATE AND SECURE.
 
 ### Users Outside the United States
