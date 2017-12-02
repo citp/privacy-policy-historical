@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cliksoft.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120084908id_/http%3A//www.cliksoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliksoft.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202095853id_/http%3A//www.cliksoft.com/privacy) for the most accurate reproduction.*
 
 # Cliksoft - Privacy
 
