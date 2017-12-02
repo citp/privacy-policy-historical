@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the nextdoor.com privacy policy that was archived on 2016-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160201004827id_/https%3A//nextdoor.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextdoor.com privacy policy that was archived on 2017-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171202010318id_/https%3A//nextdoor.com/privacy_policy) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-852.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAIGVldbGwEBUlJUBgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"b55be5e15c","agent":"","transactionName":"bgZbbENYWRFXAUBYW1dMf01fWkMLWQwbX1FBF11XXksZFVMAGkddXBRKFkZcVT1AC1FGRwMHUEpUWkM9Qg1rW11XCVhnRVxaEloDQFRrVwxVV1ZQWQ==","applicationID":"2163618","errorBeacon":"bam.nr-data.net","applicationTime":31}</script>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
 
 
 
@@ -57,12 +59,6 @@
 
 
 
-  
-
-
-
-
-
 
 
   
@@ -77,21 +73,22 @@
       <meta property="og:site_name" content="Nextdoor">
       <meta property="fb:app_id" content="114611681929998">
       <meta property="og:type" content="website">
-      <meta property="og:ttl" content="86400">
+      <meta property="og:ttl" content="345600">
       
   <meta property="og:url" content="https://nextdoor.com/privacy_policy/">
 
 
       
-        <meta property="og:image" content="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/images/fb_share_logo1.jpg">
+        <meta property="og:image" content="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/images/fb_share_logo1.jpg">
       
 
       
 
+      <meta name="apple-itunes-app" content="app-id=640360962">
+      <meta property="og:title" content="Nextdoor is the free private social network for your neighborhood community.">
+      <meta property="og:description" content="Over 160,000 communities across the U.S. are using Nextdoor to strengthen their neighborhoods.">
     
-    <meta property="og:title" content="Nextdoor is the free private social network for your neighborhood community.">
-    <meta property="og:description" content="Over 90,000 communities across the U.S. are usingNextdoor to strengthen their neighborhoods.">
-    
+
     <meta name="description" content="Nextdoor is the free private social network for your neighborhood community.">
     <meta name="keywords" content="Nextdoor">
     <meta name="author" content="Nextdoor">
@@ -108,20 +105,17 @@
 
   
     
+    <link rel="icon" type="image/png" href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/images/favicons/favicon-v2.ico">
     
-    <link rel="icon" type="image/png" href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/images/favicons/favicon-v2.ico">
-    
-      
-      <link href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/css-compiled/bootstrap.css" type="text/css" rel="stylesheet" media="screen, print">
-      <link href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/css-compiled/responsive.css" type="text/css" rel="stylesheet" media="screen">
-      <link href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/css-compiled/main.css" type="text/css" rel="stylesheet" media="screen, print">
+      <link href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/css-compiled/bootstrap.css" type="text/css" rel="stylesheet" media="screen, print" property="stylesheet">
+      <link href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/css-compiled/responsive.css" type="text/css" rel="stylesheet" media="screen" property="stylesheet">
+      <link href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/css-compiled/main.css" type="text/css" rel="stylesheet" media="screen, print" property="stylesheet">
 
-      <link href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/css/third_party/fancybox/jquery.fancybox-1.3.4.css" type="text/css" rel="stylesheet" media="screen, print">
-      <link href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/css/select2/select2.css" type="text/css" rel="stylesheet" media="screen, print">
-      <link href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/css-compiled/compose.css" type="text/css" rel="stylesheet" media="screen, print">
+      <link href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/css/third_party/fancybox/jquery.fancybox-1.3.4.css" type="text/css" rel="stylesheet" media="screen, print" property="stylesheet">
+      <link href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/css/select2/select2.css" type="text/css" rel="stylesheet" media="screen, print" property="stylesheet">
 
       
-  <link href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/css-compiled/fonts.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/css-compiled/fonts.css" type="text/css" rel="stylesheet" media="screen" property="stylesheet">
 
       
   
@@ -133,37 +127,51 @@
   
 
       <!--[if lt IE 10]>
-        <link href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/css-compiled/ie.css" type="text/css" rel="stylesheet" media="screen"/>
+        <link href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/css-compiled/ie.css" type="text/css" rel="stylesheet" media="screen" property="stylesheet"/>
       <![endif]-->
     
     
-      <link href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/css-compiled/mobile.css" type="text/css" rel="stylesheet" media="screen">
+      <link href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/css-compiled/mobile.css" type="text/css" rel="stylesheet" media="screen" property="stylesheet">
     
 
-    <link rel="apple-touch-icon" href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/images/favicons/apple-touch-icon.png">
-      <link rel="apple-touch-icon" href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/images/favicons/apple-touch-icon-57-57.png" sizes="57x57">
-      <link rel="apple-touch-icon" href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/images/favicons/apple-touch-icon-72-72.png" sizes="72x72">
-      <link rel="apple-touch-icon" href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/images/favicons/apple-touch-icon-114-114.png" sizes="114x114">
-      <link rel="apple-touch-icon" href="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/images/favicons/apple-touch-icon-144-144.png" sizes="144x144">
-    
-
-    
-    <script>
-      var STATIC_CONTENT_HOST = 'https://d19rpgkrjeba2z.cloudfront.net';
-      var STATIC_URL_PREFIX = 'https://d19rpgkrjeba2z.cloudfront.net/605d966';
-      var WEBPACK_URL_PREFIX = 'https://d19rpgkrjeba2z.cloudfront.net/605d966/static/gen/';
-      var SOCKET_URL_HOST = 'https://sockets.nextdoor.com';
-    </script>
-
-    
-    <script src="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/gen/vendor.js" type="text/javascript"></script>
-
-    
-      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-      <script>window.jQuery || document.write('<script src="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/js/libs/jquery/jquery-1.8.2.min.js"><\/script>')</script><script src="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/js/libs/jquery/jquery-1.8.2.min.js"></script>
+    <link rel="apple-touch-icon" href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/images/favicons/apple-touch-icon.png">
+      <link rel="apple-touch-icon" href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/images/favicons/apple-touch-icon-57-57.png" sizes="57x57">
+      <link rel="apple-touch-icon" href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/images/favicons/apple-touch-icon-72-72.png" sizes="72x72">
+      <link rel="apple-touch-icon" href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/images/favicons/apple-touch-icon-114-114.png" sizes="114x114">
+      <link rel="apple-touch-icon" href="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/images/favicons/apple-touch-icon-144-144.png" sizes="144x144">
     
 
     
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/jsi18n/?language=en"></script>
+    <script type="text/javascript">use_js_translation=true;</script>
+
+    
+
+<script>
+  var STATIC_CONTENT_HOST = 'https://d19rpgkrjeba2z.cloudfront.net';
+  var STATIC_URL_PREFIX = 'https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec';
+  var WEBPACK_URL_PREFIX = 'https://d19rpgkrjeba2z.cloudfront.net/static/gen/';
+  var SOCKET_URL_HOST = 'https://sockets.nextdoor.com';
+  var GOOGLE_MAPS_URL = '//maps.googleapis.com/maps/api/js?v=3&amp;language=en_US&amp;key=AIzaSyALeGozOuPpzK7gLiu3_8O4hc9PCKhQYNs&amp;libraries=drawing,geometry,places,visualization';
+  var CURRENT_COUNTRY = 'US';
+  var CURRENT_LOCALE = 'en_US';
+  var ENVIRONMENT = 'prod';
+  var BRANCH_KEY = 'key_live_club3XDUGY8auziJWkvcWkmgwAeD662U';
+  var RECAPTCHA_SITE_KEY = '6Le0CwQTAAAAALyJ7P66MxwicbE1DjcCz_HfNE-b';
+  
+    
+    var CSRFTOKEN = 'LsytGdnWXoWqgVlV9zHzou5lzbuCBgZc4slObaY88OpZ8ShkFc8BNEbIi6n2X5WW';
+  
+</script>
+
+<script src="https://d19rpgkrjeba2z.cloudfront.net/static/gen/runtime_f7ad75bab252c0f75fe4.js" type="text/javascript"></script>
+<script src="https://d19rpgkrjeba2z.cloudfront.net/static/gen/vendor_5687f18694908af974df.js" type="text/javascript"></script>
+
+    
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/js/libs/jquery/jquery-1.8.2.min.js"><\/script>')</script><script src="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/js/libs/jquery/jquery-1.8.2.min.js"></script>
+    
+
     
       
 <script>
@@ -174,14 +182,15 @@
 
   ga('create', 'UA-18585915-1', 'auto');
   ga('require', 'displayfeatures');
-  ga('send', 'pageview');
+    ga('send', 'pageview');
 </script>
+
+    
 
     
   
 
   
-
     
     
 
@@ -223,6 +232,11 @@
     <span class="search-typeahead-row search-typeahead-allresults">All results for &quot;<strong><%- label %></strong>&quot;</span>
   </div>
 </script>
+<script id="typeahead-topten-title-template" type="text/template">
+  <div class="search-typeahead-title">
+    <span class="search-typeahead-title-row"><strong>TOP SEARCHES IN <%- neighborhood %></strong></span>
+  </div>
+</script>
   
 
 <script type="text/template" id="alert-tmpl">
@@ -230,6 +244,36 @@
     <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
     <%= msg %>
   </div>
+</script>
+  
+<script type="text/template" id="flag_modal_placeholder_inappropriate_tmpl">
+  Please provide detail on why this post is inappropriate, and share feedback on how your neighbor could edit it to make it more constructive.
+</script>
+
+<script type="text/template" id="flag_modal_placeholder_racial_profiling_tmpl">
+  Please provide detail on why this post is racial profiling, and share feedback on how your neighbor could edit it to make it more constructive.
+</script>
+
+<script type="text/template" id="flag_modal_placeholder_commercial_tmpl">
+  Please provide detail on why this post is commercial.
+</script>
+
+<script type="text/template" id="flag_modal_placeholder_error_tmpl">
+  Please indicate why you think this was posted in error. Thanks for keeping your Nextdoor site tidy.
+</script>
+
+<script type="text/template" id="flag_modal_placeholder_general_tmpl">
+  Please provide detail if necessary.
+</script>
+
+<script type="text/template" id="flag_modal_note_commercial_tmpl">
+  Use this flag for: Posts or replies that violate our <a href="https://help.nextdoor.com/customer/en/portal/articles/1428058-nextdoor-guidelines-faq#8" target="_blank">Guidelines about commercial posting</a>.
+</script>
+
+<script type="text/template" id="flag_modal_note_racial_profiling_tmpl">
+  <b>There are two ways that content can violate our racial profiling Guideline:</b><br>
+  &bull; By reporting activity that is not potentially criminal (<a href="https://help.nextdoor.com/customer/en/portal/articles/1959173-reporting-suspicious-behavior-to-your-neighbors#e" target="_blank">see examples</a>).<br>
+  &bull; By failing to use distinctive characteristics or describe the person involved, and thereby casting suspicion on an entire race or ethnicity.
 </script>
 
 
@@ -255,121 +299,238 @@
 
   
 
-  
-
-  
-
   <div class="container">
     <div class="row">
       
 <div class="no-responsive-full-width">
-    <h3 class="profile_title">Nextdoor Privacy Policy</h3>
-    Welcome to Nextdoor! We invite you to read this privacy policy, which describes our privacy and security practices. We want you to understand how and when we handle the personal information collected and generated through your use of the Nextdoor.com website and our iOS and Android apps (“<b>Nextdoor</b>” or our “<b>Services</b>”; we also use “<b>Nextdoor</b>” to refer to the companies operating our Services, which are Nextdoor.com, Inc. in the United States and Nextdoor EMEA Limited in other countries).<br><br>
-   This policy is a part of the Nextdoor <a href="/member_agreement/">member agreement</a>, and it controls over any conflicts with that agreement.<br><br>
-
-   Please make sure that you read this policy carefully. By visiting our website, using any of our Services, or otherwise indicating your assent, you consent to us using your personal information in the ways described below and in the links provided in this policy. If you don’t consent to us using your information in these ways, please stop using Nextdoor. Please <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us</a> if you have any questions or concerns.<br><br>
-
-   <i>Non-U.S. Residents</i>: Please note that your use of Nextdoor means that your information may be used in the United States and the other countries from which we support our non-U.S. operations; privacy protections and rules in these countries may not be the same as in your home country. By continuing to use Nextdoor, you consent to this use. See “Export of Data” below for details. (If you are a U.S. resident, this paragraph doesn’t apply to you.)<br><br>
-
-  <b>COLLECTING AND USING INFORMATION</b><br><br>
-
-  <b>General Practices</b><br>
-  <i>Server Logs.</i> We automatically collect information created by your visits to our website and use of our apps, your use of Nextdoor, and your interaction with the messages we send. This information may include the browser you are using, the URLs you came from and go to, the model of your computer or mobile device, the operating system version, IP address and protocol used by your computer or mobile device, your mobile device or app identifier, and usage and browsing habits. We use this information to provide and improve our Services, to diagnose and resolve problems, to analyze trends, to help target offers and other ads (if and where applicable), to monitor aggregate usage, and to gather broad (aggregate) demographic information.<br><br>
-
-  <i>Cookies, Web Beacons and Similar Technologies.</i> Like most online service providers, we use “cookies” – small data files with unique identifiers that are stored on your computer or mobile device — as well as web beacons and similar technologies. Some come from us, some come from our service providers, and some are placed by third parties. We use these technologies to enable features,  recognize you, understand how you interact with Nextdoor, improve Nextdoor, and to protect you, other users and Nextdoor. Most web browsers automatically accept cookies. You can configure your browser to reject cookies, but doing so will prevent you from logging into our website. Our systems are not configured to accept browsers’ Do Not Track signals. To learn more about our use of cookies, web beacons, and similar technologies, click <a href="https://nextdoor.com/cookie_policy">here. </a><br><br>
-
-  <i>Receiving Invitations.</i> Existing Nextdoor members may invite you to join the service via postal mail, email, SMS/text message or other ways. Nextdoor may help members extend these invitations (which may include reminders) by requesting access to the member’s email or other contacts or asking the inviting member to provide the invited person’s email or postal street address. If you aren’t a member, you can opt-out of future email invitations or reminders or ask us to amend or delete any personal information about you, by contacting us. Please note that Nextdoor may also extend invitations itself by direct-mailing postcards to potential new members; to help extend those invitations, we gather information from third-party sources, such as general census data or postal address change information, to identify residential addresses not already associated with members of a neighborhood.<br><br>
-
-  If we haven't built your neighborhood service yet, you can ask us to notify you when we create a neighborhood where you live. We retain your request information until your neighborhood is established and then use it to provide the requested notification and assist with your verification. If you change your mind about wanting to be notified, <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us.</a><br><br>
-  <b>Sign-Up and Verification</b><br>
-  <i>Creating a Neighborhood.</i> To create a neighborhood, we obtain public information about residences in the neighborhood, such as street addresses and property lot maps. Your neighbors may provide us with your contact information. If you aren't a member but would like us to delete personal information about you, <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us.</a><br><br>
-
-  <i>Verification as a Resident Of Your Neighborhood.</i> Nextdoor requires members to verify their status as real-world residential neighbors. As an initial matter, you must confirm your email address. If you fail to confirm your email address or verify your residential status as requested by us, we may choose to restrict or terminate your account.<br><br>
-
-  You can verify your neighbor status by:<br>
-  (1) having a neighbor who already has a verified account in the neighborhood invite you to the neighborhood and confirm your address, or <br>
-  (2) submitting your name and street address (and email address, if we don't already have it) and then providing us (or a third-party service provider directly) with additional authenticating information that we request, such as a unique code we mail to your home address, or a unique code we provide by calling your home or mobile phone number. Alternatively, we might send this code by SMS to your mobile device. If you live in the United States (or elsewhere where permitted by law), we may allow you to use a credit card number or the last four digits of your social security number as authenticating information.<br><br>
-
-  In addition, neighborhood Leads, who help manage neighborhoods on Nextdoor, can see unverified neighbors and their addresses and manually verify them. To further help with neighbor verification, Leads also may be able to see all neighbors’ addresses, regardless of their display settings. We may notify Leads of new members as they join the neighborhood members. To learn more about Leads, click <a href="https://help.nextdoor.com/customer/en/portal/topics/326511-nextdoor-leads/articles">here.</a><br><br>
-
-  We may offer other verification methods as well.<br><br>
-
-  To help with verification, we may share or confirm your verification information with our service providers. (For example, where permitted by law, we may ask a service provider to confirm that the billing address for the mobile telephone number provided by you matches your residential address.) We may retain your verification-related information for a reasonable period of time, even if you do not complete all verification steps, to assist with future verifications and to prevent abuse of our verification processes. If you decide not to verify the account and would like us to delete the verification information you provided, <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us.</a><br><br>
-
-  <i>Facebook Connect.</i> If you register for Nextdoor using your Facebook account, we automatically request your email address and publicly available information, including your account ID, name and gender as well as public information about your Facebook friends. We use the information to automatically create your Nextdoor account and profile (and ask you for a password) so you can log into Nextdoor in the future without connecting through Facebook. If you revisit Nextdoor while logged into Facebook, we’ll automatically log you into your Nextdoor account. If you don’t register for Nextdoor using Facebook but later attempt to log into Nextdoor using your Facebook credentials, we’ll connect your Facebook and Nextdoor accounts and request the information from Facebook as if you were newly registering. Information gathered by Facebook in connection with your use of Facebook products, features, and services is governed by Facebook’s data policy.<br><br>
-
-  If you register or log in via Facebook, we may give you the option to invite your Facebook friends to Nextdoor. Those friends will see some information about you along with your invitation.<br><br>
-
-  <b>Using Nextdoor</b><br>
-  <i>Personal Profile Information.</i> We allow members to create a personal profile and submit information such as your phone number, photo, occupation, family members, biography and personal interests. If you provide family members’ personal information, such as photos, please ensure they are comfortable with you sharing it. You can choose to hide certain profile information, but your name, photo (if any) and the name of your street will be visible to neighbors in your neighborhood. Only your name, photo, and neighborhood name will be visible to your nearby neighbors; you can choose to share more profile information with nearby neighbors by configuring your <a href="https://nextdoor.com/email_prefs/?panel=p">profile settings.</a> Irrespective of your subscriptions to nearby neighborhoods, you can control whether neighbors outside your neighborhood can see your full personal profile by configuring your settings. If you post a message to nearby neighborhoods, your name, photo and the name of your neighborhood will be visible. If you are the subject of an unauthorized account or profile, please <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us.</a> Events or other Content listings posted at a “public” level will display only the name of your neighborhood, not your full name, photo, or partial profile.<br><br>
 
 
-  <i>Nextdoor Now Provider Profile Information.</i> If you sign up to provide services, like tutoring or babysitting, to other Nextdoor members through Nextdoor Now, you will create a Nextdoor Now profile as part of signing up. Your Nextdoor Now provider profile includes your name, your photo, and the “about me” description you created during signup for Nextdoor Now, as well as any recommendations you receive from other members. Your Nextdoor Now provider profile, including your name and photo, are visible to members of nearby neighborhoods even if you have set your personal profile as visible only to your neighborhood. You can opt out of sharing your Nextdoor Now provider profile by ceasing to offer services and de-selecting the services you used to offer. We may offer you the option to make your Nextdoor Now provider profile publicly visible, meaning that your Nextdoor Now provider profile would be visible outside Nextdoor to non-members and could be indexed by search engines to help potential customers find you. If we offer public profile visibility, it will be optional; you will always have the ability not to have your Nextdoor Now provider profile publicly visible.<br><br>
+<h3 class="profile_title">Nextdoor Privacy Policy</h3>
+
+Welcome to Nextdoor! We invite you to read this privacy policy, which describes our privacy practices, including how and when we handle the member and visitor information collected and created through your use of Nextdoor.<br><br>
+
+<h4>What is this document?</h4>
+
+This policy is a part of the Nextdoor <a href="/member_agreement/">member agreement</a>, and it controls over any conflicts with that agreement. Please read this policy carefully. By visiting, joining, or using Nextdoor, or otherwise indicating that you agree to this policy, you consent to and authorize our using your personal information as described in this policy. If you don’t consent to us using your information as described, please stop using Nextdoor and, if you are a member, delete your account. Please <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us</a> if you have any questions or concerns.<br><br>
+
+<h4>Who or what is Nextdoor?</h4>
+
+Nextdoor is the private social network for neighborhoods; we hope that neighbors everywhere will use the Nextdoor platform to build stronger and safer neighborhoods around the world. We use “Nextdoor” here to refer to the Nextdoor.com website and our iOS and Android apps (also referred to as our “Services”) that provide you with access to that platform. We also use “Nextdoor” to refer to the companies operating our Services.<br><br>
+
+If you live in the United States, the Services are operated and provided to you by Nextdoor.com, Inc., 875 Stevenson Street, Suite 700, San Francisco, CA 94103. If you live in the EU or elsewhere outside the United States, Nextdoor is operated and provided to you by Nextdoor EMEA Limited, an Irish registered company, 6th Floor, South Bank House, Barrow Street, Dublin 4, Ireland. Non-US visitors and members, please refer to “Export of Data”, below, to see how Nextdoor protects data originating outside the United States. Not all Nextdoor account types and features are available in all locations; <a href="/available_features/">click here</a> for more information about what is available where you live.<br><br>
+
+<h4>What are Nextdoor’s rules and expectations about member privacy and information?</h4>
+
+Nextdoor can be a great way for members to come together and build community. To make it work, we have some clear ground rules and expectations about member information and privacy:
+<ul>
+    <li>
+        Don’t share your neighbors’ information or non-public Content without their permission.
+        <ul>
+            <li>
+                It’s important to Nextdoor that neighbors should be able to communicate privately amongst themselves; that’s why we restrict who can access your neighborhood.
+            </li>
+            <li>
+                If you take information or Content shared by one member to another member and share it outside the neighborhood(s) without their permission, you are violating your neighbors' expectations; that behavior is a serious breach of trust.
+            </li>
+        </ul>
+    </li>
+    <li>
+        Don’t share your personal account with someone else.
+        <ul>
+            <li>
+                It’s important to Nextdoor that members be who they say they are. If you share your account, it’s not clear who is behind your name. (We make an exception for Local Pages and similar specialized accounts, since a business or news organization may need to authorize more than one person to manage its account.)
+            </li>
+        </ul>
+    </li>
+    <li>
+        Don’t gather information from Nextdoor, either manually or using automation (such as through scripts, robots, crawlers or spiders).
+    </li>
+    <li>
+        We know that you do not want spam or marketing phone calls from third parties, so we will never sell or rent your personal information to third parties, and we won’t share it with a third party unless we have your authorization. Similarly, it is never OK for you to give, sell, rent, or otherwise share your neighbors' information from Nextdoor to third parties.
+    </li>
+</ul>
+
+Violating any of the above or other aspects of the Nextdoor Member Agreement may lead to a loss of account privileges, potentially including a permanent ban from Nextdoor.<br><br>
 
 
-  <i>Communications with Other Members.</i> We give you a variety of ways to communicate with your neighbors and share Content (as defined in the member agreement). Some communications, such as private messages, are visible only to the sender and recipient. Most communications are visible to the entire neighborhood and (if you choose) nearby neighborhoods. You can set Content visibility at the time you create it, with some exceptions. Replies and “thanks” in a conversation have the same visibility as the original post that started the conversational thread.<br><br>
+<h3>What information does Nextdoor collect, and how?</h3>
 
-  Posts by Nextdoor accounts operated by governmental agencies, such as police or fire departments, are broadcasts, meaning that they are visible across the agency’s service area, potentially covering multiple neighborhoods or an entire city. You can opt out of receiving agency broadcast posts. Posts by Nextdoor accounts operated by other organizations, such as businesses or non-profits, will be visible to any members who are subscribers to that organization’s posts. Replies to broadcast posts have the same visibility as the original post, even to members who are not nearby neighbors; those distant members can reply to or “thank” other members on the thread, and can see their first name, last initial, photo, and neighborhood name, but not their full profile. We offer agency and organizations the option of sharing their broadcast feeds publicly, which means they can be indexed by search engines or otherwise publicly visible outside Nextdoor. As part of this option, we provide only the number of replies and “thanks”; in the future, we may include the replies, anonymized to show only the member’s neighborhood name, without any identifying information.<br><br>
+Nextdoor collects information a few different ways:<br><br>
 
-  Some types of Content, such as Event listings, may be shared by the posting member publicly and as a result may be indexed by search engines or otherwise publicly visible (i.e., visible to non-members) outside Nextdoor. Recommendations may also be shared with the Nextdoor Now provider, business, or organization being recommended. We may also use snippets of recommendations or other aggregate or anonymized Content, not associated with individual members, to highlight popular neighborhood topics or resources on public pages, such as the neighborhood’s public home page or an organization’s public page. If you believe that a snippet of anonymized or aggregate public Content is yours and do not wish it to be publicly visible, <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us.</a><br><br>
+<b>We collect information from you, when you give it to us directly or give us the OK to get it from another source.</b><br>
+For example, when you register for Nextdoor, you voluntarily provide your name, profile photo, email address, and similar information. Here are some other ways that you might provide us with information:If you decide to invite new members to join Nextdoor, you might share their residential or email address with us, or share your contacts with us, so we can send an invitation and follow-up reminders on your behalf.
+<ul>
+    <li>If you want to join Nextdoor but we don’t yet have service for your neighborhood, you might give us your contact information and ask us to notify you when we do.
+    </li><li>If you use Facebook to register for or log in to Nextdoor (or later connect your accounts), you authorize Facebook to share your personal information with us, including your email address and publicly available information about you and your Facebook friends.
+    </li><li>If you want to support a local business, you might share information about it, in the form of a Recommendation or by creating a Local Page, where available. (Not all Nextdoor features or account types are available in all locations.)
+    </li><li>If you want to help your neighbors and Nextdoor get to know you better, you may share information about yourself in your profile — your interests, skills, or even what you love about your neighborhood.
+    </li><li>If you want to communicate with your neighbors and share Content (as defined in our member agreement), you might post something on Nextdoor.
+    </li><li>If you want to allow us to show you where you are on your neighborhood map, to tag your posts, photos and events by location, to verify your address (where available), or to display activities and Content that may be relevant to your current location, we may ask your permission to access geolocation information from your mobile device.
+    </li><li>If you contact us with a support request or comments, you may provide us with your contact information and a description of the issue so we can respond.
+    </li>
+</ul>
+<b>We collect information from your browser, computer, or mobile device, which provide us with technical information when you use Nextdoor as a visitor or member.</b>
+Like nearly every other online service, we automatically collect technical information created when you visit or use Nextdoor or read a message from us, including:
+<ul><li>Device data, which tells us about the device you’re using: what type and model it is, its operating system and version, its unique identifier, crash data (if applicable), and what settings you’ve enabled. Your device and software settings affect what information your device makes available to us.
+</li><li>Log data, which is automatically recorded by our servers based on data sent by your app or browser. This typically includes the date and time you visited, the browser or app version you used (and its settings), the URLs you came from and go to, your IP address and protocol, and how you used Nextdoor (for example, which links you clicked on).
+</li><li>Cookie data, which comes from “cookies” (small data files stored on your computer or mobile device) and similar technologies. Cookie data helps us recognize you, remember your preferences, and learn more about you; some, but not all, cookie data is associated with your Nextdoor account. You can configure your browser to reject cookies, but doing so will prevent you from logging into our website. To learn more about our use of cookies, web beacons, and similar technologies, click here to read our <a href="/cookie_policy/">Cookie Policy.</a>
+</li></ul>
 
-  If you do not wish to see communications from a member, you can choose to block, or “mute”, that member’s communications, with limited exceptions. To learn more about communications and visibility, visit <a href="https://help.nextdoor.com">Nextdoor Help.</a> You can edit or delete your Content once posted, with limited exceptions; please note that deleting a post will result in removal of all replies to that post too.<br><br>
+<b>We collect information from our vendors and, in the US, from advertisers.</b> For example, we obtain map information from mapping companies, and an advertiser may provide us with information about whether a sponsored post on Nextdoor led to purchases.<br><br>
 
-  <i>Email Preferences.</i> You can manage your email preferences on your <a href="https://nextdoor.com/email_prefs/">settings page.</a> Certain member-related administrative emails cannot be turned off; the only way to end those is to delete or deactivate your account.<br><br>
+<b>We collect information from from public sources, such as census data, street addresses, property lot maps, and postal address change information.</b> This helps us understand our members and potential areas for expansion.<br><br>
 
-  <i>Respecting Your Neighbors' Privacy.</i> One of Nextdoor’s central tenets is that neighbors should be able to communicate privately amongst themselves. For this reason, we restrict who can access your neighborhood and take efforts to exclude non-neighbors from the conversation. For example, we don't let public web search engines (such as Google) index member-submitted Content, except as described in this Privacy Policy. (For example, we allow web search engines to index public posts by local agency partners, snippets of aggregated or anonymized Content, and items such as Event listings that were marked “public” by the members who posted them)<br><br>
 
-  Given this norm, taking information or Content shared by one neighbor member to another and sharing it outside the neighborhood(s) without authorization violates your neighbors' expectations and is a serious breach of trust. Therefore, you may not share your account with someone else, nor should you share your neighbors' information or any non-public Content sent through Nextdoor with anyone outside the neighborhood(s) to which the post was distributed without the author's permission. Also, you may not gather information from Nextdoor, either manually or on an automated basis (such as through scripts, robots, crawlers or spiders). Without limiting the foregoing, it is never OK to provide your neighbors' information from Nextdoor to third-party marketers.<br><br>
+<h3>How do we use the information we collect?</h3>
 
-  Violating this provision or other aspects of the Nextdoor Member Agreement may lead to a loss of account privileges, potentially including a permanent ban from Nextdoor.<br><br>
+We use information to identify and invite potential new members, and to set up new Nextdoor neighborhoods.
+<ul><li>If you decide to invite new members to join Nextdoor, you might share their residential or email address with us, or share your contacts (or social-media friends list) with us, so we can send an invitation and reminders on your behalf.
+</li><li>We use public sources to help identify potential new members (well, technically, addresses not already associated with a Nextdoor membership); and, on rare occasions, use that information to send direct-mail invitations.
+</li><li>If you register or log in via Facebook, we may give you the option to invite your Facebook friends to Nextdoor. Those friends will see some information about you along with your invitation.
+</li><li>If you ask us to notify you when we start offering service to your neighborhood, we keep your request until your neighborhood is established, and then use it to notify you as requested and to help verify you as a resident.
+</li></ul><br>
 
-  <i>Apps.</i> Our mobile apps have the ability, with your consent, to obtain and use your geolocation information. Depending on your device type and its operating system, you will be prompted to approve Nextdoor’s access to location services either before installing our app, or when you first use an app feature that requires your location. With your permission, we may use your location information to display your location to you on your neighborhood map; to tag your posts, photos and events; to verify your address; and to display activities and Content that may be relevant to your current location.<br><br>
+We use information to get you started on Nextdoor:
+<ul><li>For residential members, we verify that you live at the address you gave us through a combination of your address and a second factor, such as a code we provide you, digits from your credit card or social security number (where permitted by law), or manual verification by the member who invited you or by a Lead. We also use public registries to block addresses of registered sex offenders in the United States (and other countries where permitted by law).
+</li><li>We may notify Leads of new members as they join the neighborhood, and Leads may be able to see all neighbors’ addresses, regardless of their display settings. To learn more about Leads, <a href="https://help.nextdoor.com/customer/en/portal/topics/326511-nextdoor-leads/articles">click here</a>.
+</li><li>If you sign up via Facebook or connect your accounts, we use your Facebook information to automatically create your Nextdoor account, populate your profile, and request a password, so you can log into Nextdoor in the future without connecting through Facebook.
+</li><li>Once you register, your personal information is used to populate your profile.
+</li><li>We use business information to create Local Pages, which help members learn about the businesses in their communities. To claim your Local Page, <a href="/create-business/">click here</a>.
+</li><li>For business or other special accounts, we may verify your address using third-party or publicly available sources, such as business listings or your website.
+</li></ul><br>
 
-  <i>Inviting Others to Join Nextdoor.</i> As a Nextdoor member, you may also choose to invite others to join Nextdoor. You may invite others by typing in their email or postal address, or by sharing access to your email contacts and selecting friends or neighbors to invite by email. If an invitation is pending, the recipients may receive, on your behalf, a limited number of follow-ups reminding them of the pending invitation to join Nextdoor.<br><br>
+We use information to operate Nextdoor and to improve our products and features:
+<ul><li>To help you publish Content and view and respond to Content from other members, based on your settings and posting selections.
+</li><li>To highlight popular neighborhood topics or resources on a neighborhood’s public home page or an organization’s public page.
+</li><li>To help support businesses recommended by Nextdoor members.
+</li><li>To understand the aggregate demographics of the members and neighborhoods we serve.
+</li><li>To respond to your support requests and comments.
+</li><li>To test and evaluate potential new products and features on Nextdoor.
+</li><li>To diagnose and resolve problems, analyze trends, and monitor aggregate usage and resource needs.
+</li></ul><br>
 
-  <i>Third-Party Offers.</i> We know that you do not want marketing from third parties just because you join a neighborhood website, so we do not share your personal information with third-party marketers without your express consent.<br><br>
-  In the future, we may create a feature that presents offers for goods and services we think you'd like. If you decide to engage with an offer, you may be presented with an opportunity to share information with the merchant. If you accept the offer, you are providing your consent for us to share information with the merchant; otherwise, we won't transmit that information to the merchant. Information shared this way with  the merchant will be governed by the merchant’s privacy policy, not ours.<br><br>
+Where available (currently, only in the US), we use information to provide and improve sponsored posts and other commercial offerings. Privacy is an important tenet on Nextdoor, so we do not give your personal information to advertisers without your authorization. Rather, we use information:
+<ul><li>To measure whether a sponsored post was interesting to members.
+</li><li>To measure whether a sponsored post was effective for the advertiser.
+</li><li>To help target offers and other ads, based on what we think will be interesting to you.
+</li></ul><br>
 
-  <i>Moving Neighborhoods.</i> If you move from one neighborhood to another, you need to move your account with you, so you will need to verify your address in the new neighborhood. Some of your personal profile (such as name, photo, interests, responses to your invitations, phone and email contact) will migrate to the new neighborhood. Once your new address is verified, you will no longer be a member of the old neighborhood. You won’t appear on that neighborhood’s directory or map, receive notifications from the old neighborhood, or be able to access the Content in the old neighborhood (although, if you move to a nearby neighborhood, you may be able to access posts from the old neighborhood accessible to nearby neighbors). Your previously posted Content will remain in the old neighborhood, attributed to you, unless you delete individual Content items before moving or you delete your account. Remaining Content items will link to a limited user profile that includes your name and photo. We may notify the neighborhood Leads of your move and give you an opportunity to inform them of the change.<br><br>
 
-  <b>Deactivation, Reactivation and Deletion</b><br>
-  While your account is active, you can delete individual Content items at any time, except for private messages sent by you, which cannot be deleted. You can deactivate through your account settings with immediate effect; to request reactivation, you simply log back in to Nextdoor and indicate that you wish to reactivate. To delete your account, please contact us at deletion@nextdoor.com; account deletion may take up to forty (40) days.<br><br>
+<h3>What choices do you have?</h3>
 
-  <i>Account deactivation</i> will end all email notifications, and you will no longer appear in your neighborhood directory or map. Upon deactivation, your previously posted Content will remain in your neighborhood, attributed to you, except for any individual Content items you deleted before you deactivated your account. Remaining Content items will link to a limited user profile that includes your name and photo. We may notify the neighborhood Leads of your departure from the neighborhood and give you an opportunity to inform them.<br><br>
+We work to give you control over what and how you choose to share on Nextdoor.<br><br>
 
-  <i>Account deletion</i> also ends all email notifications; you will no longer appear in your neighborhood directory or map. (Note: Because deletion removes your account information from our systems, you may in the future receive new invitations to join Nextdoor.) Account deletion will result in the deletion of all of your previously posted Content and all data relevant to you except that: (a) private messages may remain visible to the recipient but attributed anonymously (e.g., “A Member”); (b) we may retain minimal account records to the extent necessary for legal, safety, or other legitimate reasons. We may notify the neighborhood Leads of your departure from the neighborhood. Account deletion cannot be undone.<br><br>
+You have choices about sharing your profile information:
+<ul><li>You decide how much personal information, such as the street number of your home address, to share in your personal profile, and how much of your profile to share with different audiences (such as members in your neighborhood, or members of nearby neighborhoods), by using your <a href="/email_prefs/?panel=p">profile settings</a>.
+</li><li>If you want to share information about your family in your profile, such as photos, please ensure you have their permission.
+</li></ul>
 
-  <b>SHARING AND DISCLOSING INFORMATION</b><br>
-  <i>Contractors/Service Providers.</i> Third-party contractors and service providers may have limited access to your personal information in the course of providing services for Nextdoor. For example, where permitted by law, we may use a third-party service provider to help verify your address by confirming a match between your address and the billing address for your telephone. Some of Nextdoor’s functionality is operated by third-party service providers (such as mapping features provided by Google, Inc.), so we may share your information with them to enable them to provide this functionality.<br><br>
+You have choices about invitations and reminders:
+<ul><li>If you aren’t a member and don’t want to receive invitations or reminders, please <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us</a> to opt-out of future email invitations or reminders or to ask us to amend or delete any personal information about you.
+</li><li>If you ask us to notify you when we start offering service to your neighborhood, we keep your request until your neighborhood is established, and then use it to notify you as requested and to help verify you as a resident. If you change your mind about wanting to be notified, <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us</a>.
+</li></ul>
 
-  <i>Our “Corporate Family.”</i>  Nextdoor.com, Inc. is the company that provides Nextdoor in the United States, and its subsidiary Nextdoor EMEA Limited, an Irish registered company, provides Nextdoor in other countries. As we grow and Nextdoor becomes available in more countries, we may expand our corporate family by establishing local subsidiaries or other affiliates in these countries as needed to help us provide Nextdoor there. If you have questions about the Nextdoor family of companies, <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us</a>. To help provide, maintain, and improve Nextdoor, we may share your personal information among our corporate family. Upon or in anticipation of the acquisition of our company and/or all or part of its assets, your personal information may be transferred. <br><br>
+You have choices about whether, how, and with whom you share Content:
+<ul><li>You can share Content with other Nextdoor members, in the form of a private message from you to another member, or a post shared with your neighborhood, or nearby neighborhoods, or with a Group. Some types of Content, such as Events, Classifieds, and Recommendations, may be shared more widely across Nextdoor or as “public,” meaning accessible to search engines and non-members. Use your settings and the selections available when you post Content to control visibility.
+</li><li>Comments tagged to a business, including positive comments which may also be marked as Recommendations, are viewable on the business’s Local Page and will be automatically shared with the business, unless you opt out of sharing. If a Lead or our system tags a comment incorrectly, you can correct it; check your settings for other choices about visibility.
+</li><li>If a business you recommend advertises on Nextdoor, your Recommendation may appear in, near, or adjacent to sponsored posts or other advertisements from the recommended business. If you do not want it used this way, you can opt out by removing (“un-recommending”) it.
+</li><li>Replies (other than Recommendations) and “thanks” in a conversation are visible to the same Nextdoor neighborhoods as the original post that started the conversational thread.
+    <ul><li>This means that a reply to a broadcast post from a news organization or a governmental agency, such as a police or fire department, will be visible across its service area, potentially covering multiple neighborhoods or an entire city. If the agency or news organization accounts makes their broadcast feeds available to non-members, your reply may be accessible to non-members as well, attributed to “A member from …”   (the name of your neighborhood) without other identifying information. If you do not want your reply to be accessible to non-members, you can delete it.
+    </li><li>If a reply is tagged to a Local Page as a Recommendation, visibility is based on your Recommendations privacy settings.
+    </li></ul>
+</li><li>You can edit your posted Content or delete it from Nextdoor as long as your account is active, with the limited exceptions noted below.
+    <ul><li>Private messages from you to a specific member or members cannot be individually deleted, whether from your side or from the inbox of the recipient(s). (If you delete your account, private messages are deleted, along with all of your other posted Content.)
+    </li><li>If you’ve shared Content with a group, you cannot remove it from the group recipients.
+    </li><li>If you’ve moved neighborhoods, you cannot delete any Content you shared in your old neighborhood, but we can delete it for you; <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us</a> for assistance.
+    </li><li>Please note that deleting a post will result in removal of all replies to that post too.
+    </li></ul>
+</li><li>If you believe that an item of de-identified or aggregated public Content visible to non-members (for example, a snippet on your neighborhood’s home page) is yours and do not wish it to be publicly visible, contact us.
+</li><li>To learn more about communications and visibility, visit <a href="https://help.nextdoor.com/customer/en/portal/articles">Nextdoor Help</a>.
+</li></ul>
 
-  <i>Legal and Safety Reasons.</i> We may retain, preserve, or share your personal information if we have a good-faith belief that (a) we are legally required to do so in response to a legal request (e.g., a subpoena, search warrant, or court order) or (b) that it is necessary or appropriate to do so to defend or enforce our rights, to enforce our Member Agreement or any other agreements we have with you, or to prevent physical injury or other harm to any person or entity, including yourself and members of the general public.<br><br>
+You have choices about the emails and notifications we send you:
+<ul><li>You can manage your email preferences on your <a href="/email_prefs/">settings page</a>. By default, you are signed up for agency broadcast emails applicable to your area; you can change this in your settings. Certain member-related administrative emails cannot be turned off; the only way to end those is to delete or deactivate your Nextdoor account.
+</li></ul><br>
+If you granted Nextdoor access to geolocation information from your mobile device, you can revoke that grant at any time by changing the settings on your mobile device.<br><br>
 
-  Posts by agency (government entity) accounts and your replies to those posts may be subject to laws mandating public access to government records (such as the Freedom of Information Act/FOIA or state "sunshine" laws).<br><br>
+You may choose to move your account to a new neighborhood, or to deactivate or delete your account:
+<ul><li>If you move from one neighborhood to another, and indicate through your account settings that you have moved, some of your personal profile (such as name, photo, interests, responses to your invitations, phone and email contact) will migrate to the new neighborhood. Once you’ve verified your new address, you will no longer be a member of your old neighborhood and cannot edit or delete Content you posted there. Content items in the old neighborhood will link to a limited user profile that includes your name and photo. We may notify the neighborhood Leads of your move and let you do so as well.
+</li><li>You can deactivate your account through your account settings, with immediate effect; to request reactivation, you simply log back in to Nextdoor and indicate that you wish to reactivate.
+    <ul><li>Account deactivation ends all email notifications; you will no longer appear in your neighborhood directory or map. We may notify the neighborhood Leads that you’ve left the neighborhood, and/or give you an opportunity to do so.
+    </li><li>Content you shared before deactivating will remain in your neighborhood, attributed to a limited member profile with your name and photo, except for any individual Content items you deleted before you deactivated your account.
+    </li></ul>
+</li><li>To request deletion of your account, please contact us at deletion@nextdoor.com; account deletion may take up to forty (40) days. Account deletion cannot be undone.
+    <ul><li>Account deletion ends all email notifications; you will no longer appear in your neighborhood directory or map. We may notify the neighborhood Leads that you’ve left the neighborhood, and/or give you an opportunity to do so.
+    </li><li>Account deletion deletes all of your previously posted Content and all data relevant to you except that: (a) private messages may remain visible to the recipient(s) but attributed without your identity (e.g., “A Member”); and (b) we may retain account records to the extent we believe necessary for legal, safety, or other legitimate reasons.
+    </li><li>Because deletion removes your account information from our systems, you may in the future receive new invitations to join Nextdoor.
+    </li></ul>
+</li></ul><br>
 
-  <b>OTHER THINGS FOR YOU TO UNDERSTAND</b><br>
-  <i>Data Retention.</i> We may retain personal information in our server logs, our databases and our records for as long as necessary in light of the purposes set out in this privacy policy, subject to any legal obligations to further retain such information.<br><br>
+<h3>How does Nextdoor share information about me with third parties?</h3>
 
-  <i>Access:</i> You can access much of your Nextdoor personal information by logging into your Nextdoor account. If you require additional access or if you are not currently a Nextdoor member, email us at personal-info@nextdoor.com  to request a copy of your Nextdoor personal information.<br><br>
+Nextdoor is a platform for neighbors to share helpful information with each other. To that end, we make the Content you post on Nextdoor, such as posts, replies, messages, and profile information, available to other Nextdoor members based on the preferences in your settings, the preferences on the Content you provide, and as described in this policy.<br><br>
 
-  <i>Security.</i> Nextdoor uses appropriate technical and organizational measures intended to keep your data secure, including using https on our web pages to reduce the risk of unauthorized interception of your communications during your visits to the website. However, the internet is not a fully secure environment and we cannot guarantee that your personal information won’t be intercepted or improperly accessed. Please ensure that you keep your password safe and do not share it with anyone. <br><br>
+As we’ve said above, we know that you do not want spam or marketing calls from third parties, so we will never sell or rent your personal information to third parties, and we won’t share it with a third party unless we have your authorization.<br><br>
 
-  <i>Export of Data (Non-U.S. Residents).</i> By using the Services, you authorize Nextdoor to use your information in the United States and other countries where Nextdoor operates. Please be aware that the privacy protections and the rights of authorities to access your personal information in some of these countries may not be equivalent to those in your country. We will only transfer personal data to these countries where permitted to do so by law and we will take steps intended to ensure that your personal information continues to enjoy appropriate protections. (If you are a U.S. resident, this paragraph does not apply to you.)<br><br>
+<i>A few words about advertising:</i>
 
-  <i>Other Services and Websites.</i> Our Services may contain links to and from websites and services operated by third parties. Please note that these third parties have their own privacy policies and we do not accept any responsibility or liability for their privacy and security practices.<br><br>
+With respect to advertisers on Nextdoor in the US (and elsewhere when available), you always have a choice as to whether or how you interact with a sponsored post or other advertisement (for example, by replying or “thanking” them for the post or by clicking to learn more about an offer). If you reply to a sponsored post or other offer, we send your reply to the advertiser, and we may log your interaction as part of tracking the overall effectiveness of the ad.<br><br>
 
-  <i>Amendment.</i> From time to time we may make changes to this privacy policy. If we materially change our privacy policy, we will take steps to notify you in advance of the change, for example by emailing you or posting a notice in your neighborhood feed. The most up-to-date version of the privacy policy is available  <a href="https://nextdoor.com/privacy_policy">here.</a> If you continue to access or use our Services after the date any revised privacy policy comes into force, you will be deemed to have consented to the revised privacy policy.<br><br>
+We may customize the sponsored posts or other ad offerings you see on Nextdoor based on information from our advertisers, on the demographics of your neighborhood, or on your actions on Nextdoor. (For example, a home services company might prepare a de-identified scramble, or hash, of customer addresses, to allow us to match that with a similarly de-identified scramble (hash) of addresses of members on Nextdoor, and use that to offer a special deal to those customers who are Nextdoor members. Or, if you search on Nextdoor for a particular product, we might show you ads for providers of that product or related products.) In the future, we may also offer ads that are personalized based on your actions off Nextdoor; if we do this, we will provide you with notice and choices about it.<br><br>
 
-  If you live in the United States, the Services are operated and provided to you by Nextdoor.com, Inc., 760 Market Street, Suite 300, San Francisco, CA 94102.<br><br>
+Our systems are not currently configured to accept browsers’ “Do Not Track” signals, as no industry-wide standard for handling them has been adopted.<br><br>
 
-  If you live outside the United States, the Services are operated and provided to you by Nextdoor EMEA Limited, an Irish registered company. For the purposes of the EU Data Protection Directive (95/46/EC), Nextdoor EMEA Limited is the controller of the personal data of non-US members and visitors collected, used and shared through the Services.<br><br>
+In the future, we may offer you a feature that allows you to use your Nextdoor account credentials to log in to someone else’s services, apps, or websites. If you opt in to use this feature (for example, to sign a local petition), then with your permission, Nextdoor will provide the other service with your personal information, such as your name, address, and neighborhood. Their use of this information, and other data about your use of their service, will be governed by their privacy policy.<br><br>
 
-  <b>Contact Us</b><br>
-  Nextdoor.com, Inc., 760 Market Street, Suite 300, San Francisco, CA 94102. Phone: 415-236-0000. Fax: 415-344-0303. Email: privacy@nextdoor.com
-  Nextdoor EMEA Limited, 6th Floor, South Bank House, Barrow Street, Dublin 4.<br><br>
+In the future, we may present you the option to purchase goods or services through a third-party payment processor. If you choose to make a such a purchase, we may share your information with the payment processor as necessary to conclude the transaction, as well as with the company or person you’re buying from. Any information that you provide for sharing for this purpose will be subject to their privacy policy.<br><br>
 
-  <i>Last updated: December 29, 2015.</i>
+We share some aggregated information about our neighborhoods with government agency members and other organizational members, such as statistics about neighborhood activity and size. Because of the special role played by government agency accounts, we may provide agency accounts with limited identifying personal information (first name and last initial) for neighborhood Leads, so that the agency can communicate directly with them.<br><br>
+
+We may also share aggregated or de-identified information with companies we do business with, including our advertisers (in the US or where available) as well as government agency members or other organizational members.<br><br>
+
+In limited circumstances (for example to highlight popular neighborhood resources or topics on the neighborhood’s home page), we may make snippets of Content available, without your name or other identifying information, to the public (meaning non-members and search engines).<br><br>
+
+We may share your personal information with third-party service providers doing work for us. These third parties are contractually required to use it only to provide their service to us, and contractually barred from using it for their own purposes. (For example, we use a company to help test and analyze the performance of our website and mobile applications.)<br><br>
+
+We may share your information within our “corporate family”, meaning Nextdoor.com, Inc., the company that provides Nextdoor in the United States, and its subsidiary Nextdoor EMEA Limited, an Irish registered company, which provides Nextdoor in other countries, to help provide, maintain, and improve Nextdoor. As we grow and Nextdoor becomes available in more countries, we may expand our corporate family by establishing local subsidiaries or other affiliates in these countries as needed to help us provide Nextdoor there. Upon or in anticipation of the merger or acquisition of our company and/or all or part of its assets, your personal information may be transferred. If you have questions about the Nextdoor family of companies, <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us</a>.<br><br>
+
+<i>FOIA/Sunshine Laws.</i> Posts by government agency accounts, and your replies to those posts, may be subject to laws mandating public access to government records (such as the Freedom of Information Act/FOIA or state "sunshine" laws).<br><br>
+
+<i>Legal and Safety Reasons.</i> We may retain, preserve, or share your personal information if we have a good-faith belief that (a) we are legally required to do so in response to a legal request (e.g., a subpoena, search warrant, court order, or other request from law enforcement) or (b) that it is necessary or appropriate to do so to protect our rights, property, or safety; to enforce our Member Agreement or any other agreements we have with you; or to prevent physical injury or other harm to any person or entity, including yourself and members of the general public. Our legal team reviews every request received from law enforcement, and we frequently seek modifications of requests that we believe are procedurally flawed or too broad.<br><br>
+
+
+<h3>What else should you understand about your information and Nextdoor?</h3>
+
+<i>Data Retention.</i> We may retain your information in our server logs, our databases and our records for as long as necessary in light of the purposes set out in this privacy policy, subject to any legal obligations to further retain such information. We may retain your verification-related information for a reasonable period of time, even if you do not complete all verification steps, to assist with future verifications and to prevent abuse of our verification processes. If you decide not to verify the account and would like us to delete the verification information you provided, <a href="https://help.nextdoor.com/customer/en/portal/emails/new?">contact us</a>.<br><br>
+
+<i>Account Security.</i> Nextdoor uses technical and organizational measures intended to keep your data secure, including using https on our web pages to reduce the risk of unauthorized interception of your communications during your visits to the website. However, the internet is not a fully secure environment and we cannot guarantee that your personal information won’t be intercepted or improperly accessed. Please ensure that you keep your password safe and do not share it with anyone.<br><br>
+
+<i>Accessing Your Information.</i> You can access much of your Nextdoor information by logging into your Nextdoor account. For EU members: If you require additional access or if you are not currently a Nextdoor member, email us at personal-info@nextdoor.com to request a copy of your Nextdoor information.<br><br>
+
+If you live in the United States, the Services are operated and provided to you by Nextdoor.com, Inc., 875 Stevenson Street, Suite 700, San Francisco, CA 94103.<br><br>
+
+If you live outside the United States, the Services are operated and provided to you by Nextdoor EMEA Limited, an Irish registered company, 6th Floor, South Bank House, Barrow Street, Dublin 4, Ireland.<br><br>
+
+<i>Export of Data (Non-US Residents).</i> For the purposes of the EU Data Protection Directive (95/46/EC), Nextdoor EMEA Limited is the controller of the personal data of non-US members and visitors collected, used and shared through the Services. Nextdoor transfers personal data outside the EU in accordance with the Directive. For example, Nextdoor may use a legal mechanism known as “standard contractual clauses” to protect EU personal information transferred outside the EU. Standard contractual clauses refer to contracts between companies transferring personal information (for example, from Nextdoor EMEA Limited to Nextdoor.com, Inc.) that contain standard commitments approved by the EU Commission protecting the privacy and security of the information transferred. If you are a non-US member or visitor, then by continuing to use Nextdoor, you authorize us to transfer and store your data outside your home country, including to and in the US, as described in this policy. The privacy protections and the rights of authorities to access your personal information in some of these countries may not be the same as in your home country; Nextdoor will only transfer personal data as permitted by law, and will take steps intended to ensure appropriate protection of your personal information. If you have questions, please contact us.<br><br>
+
+<i>Other Services and Websites.</i> In using Nextdoor, you may come across links to websites and services operated by third parties (for example, if a member shares a link to a video on YouTube). These third parties have their own privacy policies, which will apply to your activity if you click on the link and access their website or service. We do not accept any responsibility or liability for such external sites’ privacy and security practices.<br><br>
+
+<i>Amendment.</i> From time to time we may make changes to this privacy policy. If we materially change our privacy policy, we will take steps to notify you in advance of the change, for example by emailing you or by posting a notice in your neighborhood feed. The most up-to-date version of the privacy policy is available <a href="/privacy_policy/">here</a>. If you continue to access or use Nextdoor after the date any revised privacy policy comes into force, you will be deemed to have consented to the revised privacy policy.<br><br>
+
+<b>Contact Us</b><br>
+Email: <a href="mailto:privacy@nextdoor.com">privacy@nextdoor.com</a><br>
+
+Nextdoor.com, Inc., 875 Stevenson Street, Suite 700, San Francisco, CA 94103. Phone: +1 415-569-7971. Fax: +1 415-488-5949. Email: privacy@nextdoor.com.<br>
+Nextdoor EMEA Limited, 6th Floor, South Bank House, Barrow Street, Dublin 4, Ireland.<br><br>
+
+
+   <i>Last updated: Feburary 3, 2017. Effective date of update: </i>
+   <ul>
+       <li><i> February 3, 2017 for all new members signing up on or after that date </i>
+       </li><li><i> March 3, 2017 for pre-existing members </i>
+   </li></ul>
+   <i>For previous version (available until March 3, 2017), <a href="/privacy_policy_2016/">click here</a>.</i>
+
  </div>
  
     </div>
@@ -381,25 +542,27 @@
         
   
   
-<div class="modal hide " id="flag_content_modal">
-  
-  <div data-class="modal-header" class="modal-header ">
-    <div class="header-mask"></div>
-    <a class="close" data-dismiss="modal">×</a> 
-    <h3 class="modal-header-title">
-  
-  <span class="notranslate" id="flag-modal-title">&nbsp;</span>
-</h3>
-  </div>
-  
-  
-    <div data-class="modal-body" class="overthrow modal-body">
+<div class="modal cee-modal hide " id="flag_content_modal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
       
+        <div data-class="modal-header" class="modal-header ">
+          <div class="header-mask"></div>
+          <a class="close" data-dismiss="modal">×</a> 
+          <h3 class="modal-header-title cee-modal-header-title">
+  
+  <span id="flag-modal-title">&nbsp;</span>
+</h3>
+        </div>
+      
+      
+        <div data-class="modal-body cee-modal-body" class="overthrow modal-body">
+          
   <form class="form-horizontal" onsubmit="return false;">
 
     <div class="show-city">
       Flagging this content will notify
-      <span class="author notranslate"></span>
+      <span class="author"></span>
       that it violates the
       <a href="https://nextdoor.com/neighborhood_guidelines/#guidelines" target="_blank">Nextdoor Guidelines</a>.
       <br><br>
@@ -427,151 +590,123 @@
     </div>
     <label class="radio">
                 <input type="radio" name="flag_reason" value="3">
-                <span class="notranslate">Commercial</span>
+                Commercial
             </label><label class="radio">
                 <input type="radio" name="flag_reason" value="1">
-                <span class="notranslate">Inappropriate</span>
+                Inappropriate
             </label><label class="radio">
-                <input type="radio" name="flag_reason" value="2">
-                <span class="notranslate">Abusive</span>
+                <input type="radio" name="flag_reason" value="5">
+                Racial profiling
             </label><label class="radio">
                 <input type="radio" name="flag_reason" value="4">
-                <span class="notranslate">Posted in error</span>
+                Posted in error
             </label>
-    <br>
-    <div id="error_detail">
-        <div id="inappropriate_detail" class="hidden detail">
-          Please provide detail on why this post is inappropriate, and share feedback on how your neighbor could edit it to make it more constructive.
-        </div>
-        <div id="abusive_detail" class="hidden detail">
-          Please provide detail on why this post is abusive, and share feedback on how your neighbor could edit it to make it more constructive.
-        </div>
-        
-        <div id="commercial_detail" class="hidden detail">
-          Please provide detail on why this post violates our <a href="https://help.nextdoor.com/customer/en/portal/articles/1428058-nextdoor-guidelines-faq#8" target="_blank">guidelines about commercial posting</a>.
-        </div>
-        <div id="posted_error_detail" class="hidden detail">
-          Please indicate why you think this was posted in error. Thanks for keeping your Nextdoor site tidy.
-        </div>
-        <div id="general_detail" class="hidden detail">
-          Please provide detail if necessary.
-        </div>
-    </div>
+    <div id="error_detail"></div>
     <textarea id="flag_detail" class="hidden form-control input-block-level" rows="3" maxlength="300"></textarea>
   </form>
 
-    </div>
-  
-  <div class="modal-footer ">
-    
+        </div>
+      
+      <div class="modal-footer cee-modal-footer ">
+        
   <a href="javascript:void(0)" id="cancel_flag_content" class="btn" data-dismiss="modal">Cancel</a>
   <a href="javascript:void(0)" id="confirm_flag_content" class="btn btn-primary">Flag</a>
 
+      </div>
+    </div>
   </div>
 </div>
   
-<div class="modal hide " id="error_modal">
-  
-  <div data-class="modal-header" class="modal-header ">
-    <div class="header-mask"></div>
-    <a class="close" data-dismiss="modal">×</a> 
-    <h3 class="modal-header-title">Error</h3>
-  </div>
-  
-  
-    <div data-class="modal-body" class="overthrow modal-body">
+<div class="modal cee-modal hide " id="error_modal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
       
+        <div data-class="modal-header" class="modal-header ">
+          <div class="header-mask"></div>
+          <a class="close" data-dismiss="modal">×</a> 
+          <h3 class="modal-header-title cee-modal-header-title">Error</h3>
+        </div>
+      
+      
+        <div data-class="modal-body cee-modal-body" class="overthrow modal-body">
+          
   <div id="modal_error_message" class="alert alert-error">
   </div>
 
+        </div>
+      
+      <div class="modal-footer cee-modal-footer ">
+        
+          <small data-class="modal-footer" class="pull-left"></small>
+          <a href="javascript:void(0)" class="btn" data-dismiss="modal">Close</a>
+        
+      </div>
     </div>
-  
-  <div class="modal-footer ">
-    
-      <small data-class="modal-footer" class="pull-left"></small>
-      <a href="javascript:void(0)" class="btn" data-dismiss="modal">Close</a>
-    
   </div>
 </div>
   
 
-<script type="text/template" id="compose-modal-content-tmpl">
-  <form name="compose-form" id="msgForm">
-    <div class="control-group">
-      <div class="controls">
-        <input class="nb-dropdown" name="recipient" id="recipient" placeholder="Select recipient"/>
-      </div>
-    </div>
-    <div class="control-group">
-      <div class="controls">
-        <input type="text" id="subject" name="subject" class="input-block-level" placeholder="Enter a subject">
-      </div>
-    </div>
-    <div class="control-group">
-      <div class="controls">
-        <textarea name="body" id="body" rows="8" class="input-block-level" placeholder="Enter a message"></textarea>
-      </div>
-    </div>
-    <input type="hidden" name="post_id" id="post-id"/>
-    <div class="control-group">
-      <div class="controls">
-        <label class="checkbox" for="cc_self">
-          <input type="checkbox" id="cc_self" name="cc_self" />
-          Email me a copy of this message</label>
-      </div>
-    </div>
-  </form>
-</script><div class="modal hide " id="compose-message-modal">
-  
-  <div data-class="modal-header" class="modal-header ">
-    <div class="header-mask"></div>
-    <a class="close" data-dismiss="modal">×</a> 
-    <h3 class="modal-header-title">
+<div class="modal cee-modal hide " id="compose-message-modal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      
+        <div data-class="modal-header" class="modal-header ">
+          <div class="header-mask"></div>
+          <a class="close" data-dismiss="modal">×</a> 
+          <h3 class="modal-header-title cee-modal-header-title">
   <span id="compose-title">
     &nbsp;
-    
   </span>
 </h3>
-  </div>
-  
-  
-    <div data-class="modal-body" class="overthrow modal-body">
+        </div>
       
-  <div id="compose-success" class="compose-success hide">
-      <div><img src="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/images/icons/icon-check-ok@2x.png" width="48" height="48" alt="Successfully sent message."></div>
-      <p>Your message has been sent!</p>
-  </div>
-  <div id="compose-error"></div>
-  <div id="compose-modal-content">
-  
+      
+        <div data-class="modal-body cee-modal-body" class="overthrow modal-body">
+          
+  <div class="js-alert-container"></div>
+  <div id="js-compose-modal-content"></div>
+  <div id="js-compose-success" class="text-center hide">
+    <p><img src="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/images/icons/icon-check-ok@2x.png" width="48" height="48" alt="Successfully sent message."></p>
+    <p>Your message has been sent!</p>
   </div>
 
+        </div>
+      
+      <div class="modal-footer cee-modal-footer ">
+        
+  <button type="button" class="js-btn-compose-cancel btn btn-hollow limited-access-aware" data-dismiss="modal">Cancel</button>
+  <button type="submit" data-loading="Sending" class="js-btn-compose-send btn btn-primary limited-access-aware">Send</button>
+
+      </div>
     </div>
-  
-  <div class="modal-footer ">
-    
-  <button type="button" class="btn btn-hollow limited-access-aware" data-dismiss="modal" id="pm-cancel">Cancel</button>
-  <button type="submit" class="btn btn-primary limited-access-aware" id="pm-send-button">Send</button>
-
   </div>
 </div>
-
       </div>
     
     
       
-      <script src="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/js/libs/bootstrap/bootstrap.min.js" type="text/javascript"></script>
-      <script src="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/js-compiled/base.js" type="text/javascript"></script>
+      
+        <script src="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/js/libs/bootstrap/bootstrap.min.js" type="text/javascript"></script>
+      
+      
+      
+  
+
+  
+  
+
+
+      <script src="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/js-compiled/base.js" type="text/javascript"></script>
 
       
       
       <script type="text/javascript">
-        $(function() {
           
-            nd.flaskTrack.initialize('tracking.nextdoor.com', '2', '605d966', '', 'US');
-            
+              $(function() {
+                  nd.flaskTrack.initialize('tracking.nextdoor.com', '2', '1681-4685782a0ef1d1ec', '', 'US');
+                  
+              })
           
-        });
       </script>
 
       
@@ -579,7 +714,7 @@
     
   
   
-  <script src="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/js-compiled/baseLoggedIn.js" type="text/javascript"></script>
+  <script src="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/js-compiled/baseLoggedIn.js" type="text/javascript"></script>
   
   
 
@@ -587,30 +722,43 @@
   
 
 
-  
-  
 
-  <script src="https://d19rpgkrjeba2z.cloudfront.net/605d966/static/nextdoorv2/js-compiled/baseHeader.js" type="text/javascript"></script>
+  <script src="https://d19rpgkrjeba2z.cloudfront.net/4685782a0ef1d1ec/static/nextdoorv2/js-compiled/baseHeader.js" type="text/javascript"></script>
+  
+  <script>
+    $('#nav_invite_toggle').on('click', function() {
+      nd.flaskTrack.click(nd.flaskTrack.idManifest.INVITE_CLICK);
+    });
+    $('#nav_notification_center_toggle').on('click', function() {
+      nd.flaskTrack.click(nd.flaskTrack.idManifest.NOTIFICATION_CENTER_NAV);
+    });
+    $('#hamburger').on('click', function() {
+      nd.flaskTrack.click(nd.flaskTrack.idManifest.MORE_NAVIGATION);
+    });
+    $('#nav_user_dropdown').on('click', function() {
+      nd.flaskTrack.click(nd.flaskTrack.idManifest.PROFILE_MENU_CLICK);
+    });
+    $('#ac-search').on('click', function() {
+      nd.flaskTrack.click(nd.flaskTrack.idManifest.SEARCH_CLICK);
+    });
+  </script>
 
     
       <script type="text/javascript">
-        
-
         $(function() {
           
         });
 
         
-        var _kiq = _kiq || [];
-        (function(){
-          setTimeout(function(){
-            var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
-            s.async = true; s.src = '//s3.amazonaws.com/ki.js/57036/cEy.js'; f.parentNode.insertBefore(s, f);
-          }, 1);
-        })();
-
-        // save the WE cookie and the user ID if available
-        _kiq.push(['set', { we_cookie: $.cookie('WE') }]);
+          
+          var _kiq = _kiq || [];
+          _kiq.push(['disableAuto']);
+          (function(){
+            setTimeout(function(){
+              var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+              s.async = true; s.src = '//s3.amazonaws.com/ki.js/49472/ae_.js'; f.parentNode.insertBefore(s, f);
+            }, 1);
+          })();
         
       </script>
     
