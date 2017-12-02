@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabmore.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183303id_/http%3A//www.grabmore.in/pages/Privacy%2520Notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabmore.in privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202152035id_/http%3A//www.grabmore.in/pages/Privacy%2520Notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -39,7 +39,7 @@ The contact details of the Grievance Officer are given below in accordance with 
 Company Name: Grabmore Internet Pvt. Ltd.,  
 Address:Old No 45, New No 61,Secretariat Colony, 2nd Street,Kellys,Chennai - 600010,Tamilnadu,India.  
 Phone:+91.72999 22929 / 91.98840 12829  
-Email: [grievance.officer@grabmore.in](mailto:grievance.officer@grabmore.in)  
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8cfdac1cddec9c6cbcd86c7cecec1cbcddae8cfdac9cac5c7dacd86c1c6)  
 Time: Monday through Saturday (9:30AM – 6:30PM)
 
  **Note:** Grabmore.in reserves the right to change its privacy at any time without notice. It is advised to review this policy periodically to be aware of any changes.
