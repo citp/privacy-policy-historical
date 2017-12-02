@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girl-directory.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410083908id_/http%3A//www.girl-directory.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girl-directory.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202030001id_/http%3A//www.girl-directory.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -126,7 +126,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 (11) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, [please write to us by email](https://web.archive.org/web/20160410083908id_/http%3A//www.girl-directory.com/contact.php)
+If you have any questions about this privacy policy or our treatment of your personal data, [please write to us by email](https://web.archive.org/web/20171202030001id_/http%3A//www.girl-directory.com/contact.php)
 
 (12) Data controller
 
