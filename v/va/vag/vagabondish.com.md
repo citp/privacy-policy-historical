@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vagabondish.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010657id_/http%3A//www.vagabondish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagabondish.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202191640id_/http%3A//www.vagabondish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vagabondish
 
@@ -20,13 +20,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Vagabondish.com collects and uses Users personal information for the following purposes:
 
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To administer a content, promotion, survey or other Site feature  
+– To administer a content, promotion, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 #### How we protect your information
