@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the click2sell.eu privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613213920id_/http%3A//www.click2sell.eu/en/terms-of-use/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2sell.eu privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203192224id_/http%3A//www.click2sell.eu/en/terms-of-use/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### PRIVACY POLICY
 
 Last updated: 2012-09-01  
-[Download PDF version here](http://www.click2sell.eu/en/files/privacy_policy.pdf)
+[Download PDF version here](https://www.click2sell.eu/en/files/privacy_policy.pdf)
 
 #### GENERAL PROVISIONS
 
