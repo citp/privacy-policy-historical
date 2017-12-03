@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvd-ppt-slideshow.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523143043id_/http%3A//www.dvd-ppt-slideshow.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvd-ppt-slideshow.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203230957id_/http%3A//www.dvd-ppt-slideshow.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Moyea Software
 
