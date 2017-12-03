@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nri.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611023752id_/https%3A//www.nri.com/global/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nri.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203172613id_/http%3A//www.nri.com/global/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Nomura Research Institute (NRI)
 
