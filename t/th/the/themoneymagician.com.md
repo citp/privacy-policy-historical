@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoneymagician.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206224507id_/http%3A//nukedebt.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoneymagician.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203012734id_/http%3A//nukedebt.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Debt Articles - NukeDebt.com
 
