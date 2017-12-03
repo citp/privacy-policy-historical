@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infousa.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116201654id_/https%3A//www.infousa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infousa.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203025502id_/https%3A//www.infousa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Security | Consumer Center | Resources | InfoUSA
 
