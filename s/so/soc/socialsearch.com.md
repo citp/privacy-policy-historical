@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsearch.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127122157id_/http%3A//socialsearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsearch.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203052940id_/http%3A//socialsearch.com/privacy) for the most accurate reproduction.*
 
 # SocialSearch | Search Your Favorite Social Media & More!
 
