@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mspoweruser.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622224024id_/http%3A//mspoweruser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspoweruser.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203235438id_/http%3A//mspoweruser.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MSPoweruser
 
@@ -87,13 +87,13 @@ Access to the personal data we may hold about you
 
 You can ask us, by:
 
-  * [sending an email](mailto:editor@mspoweruser.com)
+  * [sending an email](https://web.archive.org/cdn-cgi/l/email-protection#93f6f7fae7fce1d3fee0e3fce4f6e1e6e0f6e1bdf0fcfe)
 
 
 
 whether we are keeping personal data about you.Upon request, which you can indicate by:
 
-  * [sending an email](mailto:editor@mspoweruser.com)
+  * [sending an email](https://web.archive.org/cdn-cgi/l/email-protection#f590919c819a87b59886859a82908780869087db969a98)
 
 
 
