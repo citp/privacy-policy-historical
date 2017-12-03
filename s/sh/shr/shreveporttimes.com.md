@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shreveporttimes.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624100927id_/http%3A//static.shreveporttimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shreveporttimes.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203150950id_/http%3A//static.shreveporttimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shreveport Times
 
