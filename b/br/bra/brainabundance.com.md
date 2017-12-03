@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainabundance.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193626id_/http%3A//www.mydailychoice.com/corp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainabundance.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203074027id_/http%3A//www.mydailychoice.com/corp/privacyPolicy) for the most accurate reproduction.*
 
 # MyDailyChoice :: Privacy Policy
 
