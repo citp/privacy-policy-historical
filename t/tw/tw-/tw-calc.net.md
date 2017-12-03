@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tw-calc.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629030951id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tw-calc.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203123535id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
 
-# Free Generic Privacy Policy | PrivacyPolicies.com
+# Generic Privacy Policy - 100% Free at PrivacyPolicies.com
 
 Last updated: November 2014
 
