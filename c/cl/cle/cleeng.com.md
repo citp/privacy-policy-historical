@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cleeng.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041714id_/https%3A//cleeng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleeng.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203190814id_/https%3A//cleeng.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**IMPORTANT – PLEASE READ CAREFULY**
+**IMPORTANT – PLEASE READ CAREFULLY**
 
 Cleeng believes that your privacy is very important. Cleeng respects the privacy of all the Users and Publishers of the Cleeng Service and all data and personal information provided by a User or Publisher will be treated as confidential. WE WILL NEVER SELL YOUR DATA TO THIRD PARTIES and our business model is not direct marketing. The information we collect is solely used for operating and improving our process and the Cleeng services.
 
