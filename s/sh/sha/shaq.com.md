@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaq.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312202905id_/http%3A//shaq.com/new-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaq.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203232214id_/http%3A//www.shaq.com/new-page) for the most accurate reproduction.*
 
 # PRIVACY POLICY — Shaquille O'Neal
 
