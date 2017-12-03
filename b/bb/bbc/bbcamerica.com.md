@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcamerica.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630130431id_/http%3A//www.bbcamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcamerica.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203012258id_/http%3A//www.bbcamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BBC America
 
@@ -108,6 +108,6 @@ The information we collect from you through your use of the Services is stored a
 
 ## **15.** **HOW CAN I CONTACT YOU?**
 
-If you have questions or concerns about our Policy, please contact us at: [bbcaprivacy@bbcamerica.com](https://web.archive.org/web/20170630130431id_/http%3A//www.bbcamerica.com/bbcaprivacy@bbcamerica.com).
+If you have questions or concerns about our Policy, please contact us at: [bbcaprivacy@bbcamerica.com](https://web.archive.org/web/20171203012258id_/http%3A//www.bbcamerica.com/bbcaprivacy@bbcamerica.com).
 
 © 2017 AMC Networks Inc. All rights reserved.
