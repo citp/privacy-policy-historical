@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biology-online.org privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129160108id_/http%3A//www.biology-online.org/siteinfo/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biology-online.org privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203121011id_/http%3A//www.biology-online.org/siteinfo/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy / What information do we collect? / DoubleClick DART Cookie / What do we use your information for? / - Biology Online
 
@@ -72,4 +72,4 @@ By using our site, you consent to our web site privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page. 
 
 If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:   
-Email: [amir@bwb.marketing](mailto:amir@bwb.marketing)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8dece0e4ffcdeffaefa3e0ecffe6e8f9e4e3ea)
