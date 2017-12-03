@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linxup.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122133135id_/http%3A//www.linxup.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linxup.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203170015id_/http%3A//www.linxup.com/about/privacy.html) for the most accurate reproduction.*
 
 # GPS Privacy Policy - Linxup GPS Tracker
 
