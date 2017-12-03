@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craigclassifiedads.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065930id_/http%3A//classifieds.craigclassifiedads.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craigclassifiedads.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203094703id_/http%3A//classifieds.craigclassifiedads.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | deal Classified Ads
 
@@ -14,9 +14,8 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
   * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
   * This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to this website. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads). 
+  * We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-Sponsored Links
