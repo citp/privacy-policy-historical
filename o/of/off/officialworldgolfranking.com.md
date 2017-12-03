@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the officialworldgolfranking.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628013021id_/http%3A//www.owgr.com/global/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialworldgolfranking.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203153520id_/http%3A//www.owgr.com/global/footer/privacy) for the most accurate reproduction.*
 
 # OWGR - Privacy Policy
+
+
+
 
 **Website Privacy Policy**
 
@@ -55,8 +58,6 @@ If you believe the information we are holding on you is incorrect or you require
 **How to contact us**
 
 Please contact us if you have any questions about our Privacy Policy or the information we hold about you.
-
-Email us: **worldranking@owgr.com**
 
 Write to us:
 
