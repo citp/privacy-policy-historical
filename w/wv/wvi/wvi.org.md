@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvi.org privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604105517id_/http%3A//www.wvi.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvi.org privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203232801id_/http%3A//wvi.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | World Vision International
 
