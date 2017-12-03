@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ket.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611193523id_/http%3A//www.ket.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ket.org privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203071142id_/http%3A//www.ket.org/privacy-policy) for the most accurate reproduction.*
 
 # KET Online Privacy Policy < KET
 
@@ -20,7 +20,7 @@ Please note that the Site may contain links to sponsor organizations and affilia
 > 1\. We do not collect any personally identifiable information from you other than what you supply voluntarily.  
 >  2\. Some site activities may require registration or ask you to submit some personally identifiable information, including but not limited to your name, address, e-mail address, phone number, payment information, last four digits of your social security number, or birthdate. In each case, we will ask ONLY for the necessary information. Examples of such activities include:
 >
->> a. educational services, such as KET Fast Forward, Distance Learning Programs, and Professional Development;  
+>> a. educational services, such as KET FastForward, Online Campus distance learning Programs, and Professional Development;  
 >  b. donating to KET;  
 >  c. commenting on videos, articles, or other content; and  
 >  d. subscribing to e-mail newsletters or requesting program reminder e-mails.
@@ -114,4 +114,4 @@ California Business & Professions Code Section 22575 (b) provides that Californi
 
 If you are a California resident you are entitled to receive, once a year, information identifying the categories of Personal Information we share with our affiliates and/or third parties for marketing purposes and the contact information for such affiliates and/or third parties (under California Civil Code Sections 1798.83-1798.84). If you are a California resident and would like a copy of this information, please submit a written request to [feedback@ket.org](mailto:feedback@ket.org). Please include your name and email address in your request.
 
-Revised September 09, 2015
+Revised July 27, 2017
