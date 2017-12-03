@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gs1.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610044415id_/http%3A//www.gs1.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gs1.org privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203145206id_/https%3A//www.gs1.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GS1
 
