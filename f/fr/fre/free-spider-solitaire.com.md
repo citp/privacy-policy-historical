@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-spider-solitaire.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061706id_/http%3A//www.treecardgames.com/privacy/en/web_app.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-spider-solitaire.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203101948id_/http%3A//www.treecardgames.com/privacy/en/web_app.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Ads appearing in any of our Free Online Games are provided by Google. They are u
 
 \- Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet.
 
-\- Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/)
+\- Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/)
 
 **Your Consent**
 
@@ -30,6 +30,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the following link: [www.treecardgames.com/support.htm](http://www.treecardgames.com/support.htm)
+If there are any questions regarding this privacy policy you may contact us using the following link: [www.treecardgames.com/support.htm](https://www.treecardgames.com/support.htm)
 
 This document was last updated on June 1, 2015.
