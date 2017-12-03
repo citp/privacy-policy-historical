@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilepricespakistan.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203906id_/http%3A//mobilepricespakistan.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilepricespakistan.pk privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203173431id_/http%3A//mobilepricespakistan.pk/privacy.php) for the most accurate reproduction.*
 
 # http://mobilepricespakistan.pk : Privacy Notice
 
