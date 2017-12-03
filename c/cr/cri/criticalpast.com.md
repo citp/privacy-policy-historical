@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criticalpast.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613103648id_/http%3A//www.criticalpast.com/all/safety) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticalpast.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203115356id_/http%3A//www.criticalpast.com/all/safety) for the most accurate reproduction.*
 
 # CriticalPast.com: Privacy Policy
 
