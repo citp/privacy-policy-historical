@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622171337id_/https%3A//www.dol.gov/general/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203225039id_/https%3A//www.dol.gov/general/privacynotice) for the most accurate reproduction.*
 
 # Privacy and Security Statement | United States Department of Labor
 
@@ -53,4 +53,6 @@ For security purposes and to ensure that this service remains available to all u
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and The National Information Infrastructure Protection Act of 1996.
 
-(Last Reviewed: 4/26/2017)
+This statement is about your privacy when using this website. For information about the Department’s privacy program and our Senior Agency Official for Privacy (SAOP), visit our [Department of Labor Privacy Program page](https://www.dol.gov/general/privacy). 
+
+(Last Reviewed: 9/18/2017)
