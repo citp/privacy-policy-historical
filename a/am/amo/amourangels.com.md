@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amourangels.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526165256id_/http%3A//www.amourangels.com/privacy_policy_v5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amourangels.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203234402id_/http%3A//amourangels.com/privacy_policy_v5.html) for the most accurate reproduction.*
 
 # Amour Angels - Nude Girls Pics, Movies and Videos of the Most Beautiful Teens, Teen Erotic Pictures from AmourAngels.com
 
