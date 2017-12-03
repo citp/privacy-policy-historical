@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154832id_/http%3A//op4g.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203085248id_/http%3A//op4g.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Op4G | Opinions 4 Good
-
-[](https://privacy.truste.com/privacy-seal/Op4G/validation?rid=ca5dd782-a045-4eb8-bbc0-9c5489d0f18d "TRUSTe online privacy certification")
 
 Effective Date: 4/1/2015 | [Home](http://op4g.com/) >> [Terms of Use](http://op4g.com/terms-of-use/)
 
