@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanmasti.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001003id_/http%3A//fanmasti.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanmasti.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203013441id_/http%3A//fanmasti.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FanMasti
 
