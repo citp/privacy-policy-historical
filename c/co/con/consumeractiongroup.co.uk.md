@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060810id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203224556id_/https%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # - The Consumer Forums
 
@@ -10,7 +10,7 @@ Includes energy companies, mobile phone providers, retailers, banks, insurance c
 £6.99
 
   
-[](http://www.consumeractiongroup.co.uk/paypal.php?go=donate) | 
+[](https://www.consumeractiongroup.co.uk/paypal.php?go=donate) | 
     
     
     THE CONSUMER FORUMS PRIVACY POLICY
@@ -139,6 +139,6 @@ Includes energy companies, mobile phone providers, retailers, banks, insurance c
     
 
   
-[Reclaim the Right Ltd. - reg.05783665 in the UK reg. office:- 923 Finchley Road London NW11 7PE](http://www.consumeractiongroup.co.uk/forum/feedback.php)   
-We use cookies to personalise content and ads and to provide social media features. We also share information about your use of our site with our advertising and analytics partners. [See details](http://www.consumeractiongroup.co.uk/forum/privacy-policy.php)  
+[Reclaim the Right Ltd. - reg.05783665 in the UK reg. office:- 923 Finchley Road London NW11 7PE](https://www.consumeractiongroup.co.uk/forum/feedback.php)   
+We use cookies to personalise content and ads and to provide social media features. We also share information about your use of our site with our advertising and analytics partners. [See details](https://www.consumeractiongroup.co.uk/forum/privacy-policy.php)  
 ---|---
