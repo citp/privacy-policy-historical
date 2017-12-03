@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salmoneus.net privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604011625id_/http%3A//runescape.salmoneus.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salmoneus.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203122434id_/http%3A//runescape.salmoneus.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sal's Realm of RuneScape
 
