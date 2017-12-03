@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectzone.in privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624152206id_/http%3A//www.connectzone.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectzone.in privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203124559id_/http%3A//www.connectzone.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Best Broadband in Punjab and Chandigarh Area - Connect Broadband
 
@@ -8,12 +8,10 @@ This Privacy Policy (“Policy”) governs the manner in which Quadrant Televent
   * What we do with the personal information we gather
   * Collection of personal Information 
   * Collection of Non-Personal Information
-  * Use of Personal and Non-Personal Information
   * Purpose of collecting personal information
   * Sharing of information with Authorities
   * Security
   * How we use cookies
-  * Disclosure, Sharing and Transfer of Personal Information
   * Retention of Personal Information
   * Retention of Personal Information
   * Third party websites
@@ -57,8 +55,6 @@ We may collect non-personal information about User whenever they interact with o
 This information is aggregated and used to help us provide more useful information to the User and to understand which part of the Services, its products and services are of most interest. We use your personally identifiable information to support and enhance your use of the Site and its features, including, without limitation, fulfilling your order, providing customer service, tracking email invitations you send, and otherwise supporting your use of the Site
 
 If you have opted to receiving marketing material from us, we may also provide your personal information to carefully selected third parties who we reasonably believe provide products or services that may be of interest to you and who have been contracted with QTL to keep the information confidential, or who are subject to obligations to protect your personal information.
-
-We may permit certain trusted third parties to track usage, analyse data such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site. We may use third parties to host the Site; operate various features available on the Site; send emails; analyse data; provide search results and links and assist in fulfilling your orders.
 
 We cannot protect any information that you make available to the general public in any publicly accessible area of our website or any other media. We use non-identifying and aggregate information to better design our website and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
 
@@ -110,23 +106,15 @@ Overall, cookies help us provide User with a better experience of the Services, 
 
 A User can choose to accept or decline cookies. Most web browsers automatically accept cookies, but a User can usually modify its browser setting to decline cookies if the User prefer. This may prevent the User from taking full advantage of the Services. 
 
-We may disclose and/or transfer your personal information or other information collected, stored and processed by us to our partners, affiliates, our group company only in case it is necessary for providing and improving services to you. Such affiliates and partners though external to QTL, are covered by contractual agreements. These agreements in turn include QTL’s guidelines to the management, treatment and secrecy of information. This may also include sharing of aggregated information with them in order for them to understand our environment and consequently, provide you with better services.
-
-  * Our group company;
-  * Partners or agents who are involved in delivering the products and services you have ordered or used;
-  * Credit-reference agencies, fraud-prevention agencies, business-scoring agencies or other credit-scoring agencies;
-  * Debt-collection agencies or other debt-recovery organizations;
-  * Law-enforcement agencies, regulatory organizations, courts or other public authorities if we have to or are authorized to by law; or
-  * Emergency services (if you make an emergency call), including your approximate location.
-  * Business partners of ours in delivering and improving 
+  * Law-enforcement agencies, regulatory organizations, courts or other public authorities if we have to or are authorized to by law.
 
 
 
 If we are reorganized or are sold to another organization, we may transfer any personal information we hold about you to that organization.
 
-QTL will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services to you on behalf of QTL, unless required to do so by law. Further, QTL may use this information to contact you regarding matters relevant to the underlying service provided and/or the information collected. 
+QTL will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services to you on behalf of QTL, unless required to do so by law. Further, QTL may use this information to contact you regarding matters relevant to the underlying service provided and/or the information collected.
 
-We will retain User’s personal information for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by law.
+We will retain User's personal information for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by law.
 
 Users may find advertising or other content on the Services that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and services and are not responsible for the practices employed by those websites and services linked to or from our Services. In addition, these sites and services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites and services which have a link to the Services, is subject to that websites and services’ own terms and policies
 
