@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxblueprint.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624002736id_/https%3A//inboxblueprint.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxblueprint.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203155904id_/https%3A//inboxblueprint.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Inbox Blueprint
 
