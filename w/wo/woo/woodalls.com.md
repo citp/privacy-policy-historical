@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123161950id_/http%3A//www.woodalls.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203101935id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Good Sam Club
 
@@ -10,7 +10,7 @@ CWGS Enterprises, LLC
 PO Box 6888  
 Englewood, CO 80155-6888  
 800-234-3450  
-[info@goodsamfamily.com](mailto:info@goodsamfamily.com)
+[info@goodsam.com](mailto:info@goodsam.com)
 
 ## Types of information we collect and how we collect it
 
@@ -84,11 +84,11 @@ We will disclose personal information and non-personal information as required b
 
 In many cases, if you have established an account with one of our business units, you can review your communication preferences through the "My Account" section of our websites. Communication preferences are permissions that you have granted us to communicate with you on specific areas of interest. You may make modifications to your communication preferences directly through this section of "My Account".
 
-If you don't have an account, can't find your account or our site doesn’t provide an account section, you can simply contact us via email by clicking [Contact Us](https://web.archive.org/contact.aspx) located at the bottom of all of our web pages or send an email directly to [info@goodsamfamily.com](mailto:info@goodsamfamily.com). Please include information in the email that will help us identify your account so we can assist you with your inquiry or request.
+If you don't have an account, can't find your account or our site doesn’t provide an account section, you can simply contact us via email by clicking [Contact Us](https://web.archive.org/contact.aspx) located at the bottom of all of our web pages or send an email directly to [info@goodsam.com](mailto:info@goodsam.com). Please include information in the email that will help us identify your account so we can assist you with your inquiry or request.
 
 ### E-mail Communications
 
-You can use much of our site without giving us any personally identifiable information. When you [register](https://www.goodsamclub.com/join/RegisterStep1.aspx) with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from us and our third-party marketing partners. At any time you can request that we not send e-mails to you anymore either by unsubscribing from the communication or by contacting us at [info@goodsamfamily.com](mailto:info@goodsamfamily.com).
+You can use much of our site without giving us any personally identifiable information. When you [register](https://www.goodsamclub.com/join/RegisterStep1.aspx) with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from us and our third-party marketing partners. At any time you can request that we not send e-mails to you anymore either by unsubscribing from the communication or by contacting us at [info@goodsam.com](mailto:info@goodsam.com).
 
 ### Direct Mail Communications
 
@@ -100,7 +100,7 @@ We do not control third parties' collection or use of your information. However 
 
 ### California Privacy Rights
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [info@goodsamfamily.com](mailto:info@goodsamfamily.com). Our website currently does not honor browser “do not track” signals.
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [info@goodsam.com](mailto:info@goodsam.com). Our website currently does not honor browser “do not track” signals.
 
 ## The Type of Security We Provide
 
