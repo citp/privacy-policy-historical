@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sterkinekor.co.za privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601013312id_/http%3A//movies.sterkinekor.co.za/Browsing/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterkinekor.co.za privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203053347id_/http%3A//movies.sterkinekor.co.za/Browsing/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Ster-Kinekor
 
