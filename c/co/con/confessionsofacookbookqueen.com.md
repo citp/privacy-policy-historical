@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confessionsofacookbookqueen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070143id_/http%3A//www.confessionsofacookbookqueen.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confessionsofacookbookqueen.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203124843id_/http%3A//www.confessionsofacookbookqueen.com/main/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Confessions of a Cookbook Queen
 
