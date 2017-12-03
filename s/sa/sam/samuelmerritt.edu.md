@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the samuelmerritt.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051247id_/http%3A//www.samuelmerritt.edu/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuelmerritt.edu privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203122803id_/http%3A//www.samuelmerritt.edu/privacy_policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Samuel Merritt University
 
 **Our Privacy Policy**
 
-(last update: Jun 2012)
+(last update: Oct 2017)
 
-This privacy policy sets out how Samuel Merritt University uses and protects any information that you give when you use this website.
+This privacy policy sets out how Samuel Merritt University uses and protects any information that you give when you use this website, SMU Mobile App and other SMU web services.
 
 Samuel Merritt University is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -33,6 +33,10 @@ When an authenticated user (someone that is logged in) submits a webform on our 
 **How we use the information we gather**
 
 We use the information to enhance the visitor's experience and to analyze website performance statistics. The information is not sold to any outside group or entity.  Inquiry and webform submission data may be used by the University for recruitment purposes.
+
+**Data Encryption**
+
+Samuel Merritt University follows industry-standard precautions and procedures in the transmission of electronic data to keep any personal information collected secure.  Samuel Merritt University uses secure socket layer (SSL) encryption to process secure information, allowing online users protection from interception of private information by any third party.
 
 **Our use of cookies**
 
