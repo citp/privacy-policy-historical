@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillstonenet.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612105630id_/http%3A//www.hillstonenet.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillstonenet.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203151256id_/http%3A//www.hillstonenet.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Hillstone Networks
 
@@ -54,7 +54,7 @@ Our website may contain links to enable you to visit other websites of interest 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [inquiries@hillstonenet.com](mailto:inquiries@hillstonenet.com)
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [inquiry@hillstonenet.com](mailto:inquiry@hillstonenet.com)
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
