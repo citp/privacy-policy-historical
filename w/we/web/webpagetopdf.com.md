@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpagetopdf.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512055058id_/http%3A//webpagetopdf.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagetopdf.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203060259id_/http%3A//webpagetopdf.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
