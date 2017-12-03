@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mp3banger.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206232847id_/http%3A//mp3banger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3banger.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203224641id_/http%3A//mp3banger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mp3banger
 
-[Chat With Over 200,000 Nigerian Hot Sexiest Girls On BBM, Click Here=>>](http://pin.bbm.com/C0034D187)
+[Chat With Over 200,000 Nigerian Hot Sexiest Girls On Facebook, Click Here=>>](https://m.facebook.com/groups/813999172046764?refid=18&__tn__=C)
 
-[](http://mp3bangerng.com/wp-content/uploads/2015/07/IMG_2617.jpg)
+[](https://i2.wp.com/mp3bangerng.com/wp-content/uploads/2015/07/IMG_2617.jpg)
 
 Mp3banger Privacy Policy
 
@@ -39,4 +39,4 @@ Email: Mp3bangermail@gmail.com
 
 If you have any questions about this Privacy Policy, please contact us.
 
-[Click Here » To Hookup With Sugar Mummy, Sugar Daddy and Lovers](https://m.facebook.com/groups/813999172046764?refid=18&__tn__=C)
+[Click Here » To Download Mp3banger Mobile Application On Your Andriod Phone](https://www.allfreeapk.com/mp3banger,12761924/)
