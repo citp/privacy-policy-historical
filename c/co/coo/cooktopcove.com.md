@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooktopcove.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630150401id_/http%3A//cooktopcove.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooktopcove.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203172548id_/http%3A//cooktopcove.com/privacy.php) for the most accurate reproduction.*
 
 # Cooktop Cove
 
