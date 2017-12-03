@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630214615id_/http%3A//innocentive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203021228id_/https%3A//www.innocentive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InnoCentive
 
-InnoCentive respects and protects your data privacy rights. This statement includes InnoCentive’s European Union – U.S. Safe Harbor Privacy Statement and our Website Privacy and Cookie Statements.
+InnoCentive respects and protects your data privacy rights. This statement includes InnoCentive’s European Union – U.S. Privacy Shield Notice and our Website Privacy and Cookie Statements.
 
-## U.S. – EU Safe Harbor Privacy Statement
+## EU-U.S. and Swiss-U.S. Privacy Shield Notice
 
-Personal data gathered by InnoCentive may be processed in the United States. Data transferred in to the U.S. will be protected by adherence to our privacy policy as detailed on this page below. InnoCentive complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. InnoCentive has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view InnoCentive’s certification, please visit the Safe Harbor [website](https://safeharbor.export.gov/swisslist.aspx).
+Personal data gathered by InnoCentive may be processed in the United States. Data transferred in to the U.S. will be protected by adherence to our privacy policy as detailed on this page below. InnoCentive complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. InnoCentive has certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, and to view InnoCentive’s certification, please visit the [Privacy Shield website](https://www.privacyshield.gov/). If you are a[ r](https://www.privacyshield.gov/)esident of a European country participating in the Privacy Shield and you believe InnoCentive holds your personal data as specified in this Privacy Shield Statement, you may contact InnoCentive with questions or complaints concerning our Privacy Shield compliance using the contact information at the end of this document. If you have not received timely response to your concern, or we have not addressed your concern to your satisfaction, you may seek further assistance from EU Data Protection Authorities (DPA) under the EU-U.S. Privacy Shield Framework or the Swiss Federal Data Protection and Information Commissioner under the Swiss-U.S. Privacy Shield Framework. Our Privacy Shield compliance is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 ## Information that We Collect and How We Use Information
 
@@ -45,7 +45,7 @@ We may also provide Your Information to a third party in connection with the sal
 
 ## Links to Third Party Websites
 
-As a convenience to our visitors, our Site may contain links to sites that we believe may offer useful information to you or the web sites of our Seekers. The policies and procedures described here do not apply to any third party sites. These sites are outwith our jurisdiction.
+As a convenience to our visitors, our Site may contain links to sites that we believe may offer useful information to you or the web sites of our Seekers. The policies and procedures described here do not apply to any third party sites. These sites are outside of our jurisdiction.
 
 ## Notices and Revision
 
@@ -60,4 +60,4 @@ InnoCentive, Inc.
 Waltham, MA 02451  
 USA
 
-Last Updated: June 21st, 2017
+Last Updated: October 24th, 2017
