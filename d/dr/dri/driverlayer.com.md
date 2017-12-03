@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverlayer.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604010852id_/http%3A//driverlayer.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverlayer.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203122629id_/http%3A//driverlayer.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ For some of our products, we use Google Analytics Advertising Features, includin
 
 DriverLayer may set and access DriverLayer or third party cookies on your computer. A cookie is a small data file that a site may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. We use cookie and web beacon technology to track which pages on the DriverLayer products our visitors view and which browsers or devices our visitors use. We may also use cookies to help us provide personalized features and preferences to you within various products in a way that may be linked to individual user information you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. Then we track where that number shows up on our site.
 
-We also engage third party ad networks that may place cookies on your device when accessing and using our products that collect anonymous, non-personal information regarding your access and use. This information may be used by DriverLayer and its third party ad network partners to identify and target related advertising to the user of such computer, when on our sites within the third partyâ€™s advertising network of sites. For information about opting-out of third party ad network cookies, please see the opt-out section below.
+We also engage third party ad networks that may place cookies on your device when accessing and using our products that collect anonymous, non-personal information regarding your access and use. This information may be used by DriverLayer and its third party ad network partners to identify and target related advertising to the user of such computer, when on our sites within the third party’s advertising network of sites. For information about opting-out of third party ad network cookies, please see the opt-out section below.
 
 ### Sharing.
 
