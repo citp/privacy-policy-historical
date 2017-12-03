@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the presto-changeo.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228133831id_/http%3A//www.presto-changeo.com/en/content/18-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presto-changeo.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203115610id_/http%3A//www.presto-changeo.com/en/content/18-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Presto-Changeo - Prestashop Modules and Website Development
+# Privacy Policy
 
 **What information do we collect?**
 
