@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sharedcount.com privacy policy that was archived on 2017-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170501001349id_/http%3A//www.sharedcount.com/admin/docs/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sharedcount.com privacy policy that was archived on 2017-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171203225432id_/http%3A//www.sharedcount.com/docs/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -27,17 +27,33 @@
 <meta name="msapplication-square310x310logo" content="/largetile.png">
 <meta name="google-site-verification" content="3tNgTpoX37-FIc7VT3QcnbS61DKyapZ81aP1XZDz8yo">
 <link rel="stylesheet" href="/css/style.css?v=20150224">
- 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W8WDX9"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.9&amp;appId=9080567582"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
- 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.3.1/css/buttons.dataTables.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/1.0.7/css/responsive.dataTables.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/select/1.2.2/css/select.dataTables.min.css">
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.3.1/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.3.1/js/buttons.html5.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/responsive/2.1.1/js/dataTables.responsive.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/select/1.2.2/js/dataTables.select.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mistic100-Bootstrap-Confirmation/2.4.0/bootstrap-confirmation.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet">
+<script type="text/javascript" src="//cdn.serpbook.com/serp/js/toastr.min.js"></script>
+<script src="https://use.fontawesome.com/3feda99d12.js"></script>
 <script>
 
 window.SharedCount = { 
 		settings : {
-			host : "free.sharedcount.com",
-			apikey : "eyJkYXRhIjoie1wiYXBpa2V5XCI6XCIxOTM0ZjUxOWE2M2UxNDJlMGQzYzg5M2U1OWNjMzdmZTAxNzJlOThhXCIsXCJkYXRlXCI6XCIyMDE3LTA1LTAxXCJ9Iiwic2lnIjoiRTNyTG52b0FSRzN4cmpFUFg5SGFuSCtaZUFZUkhqU0w5XC96RmpoQ2NvWWM9IiwicHViS2V5IjoicHVibGljX2tleV91c2VyX2lkXzk5OTkifQ==",
+			host : "api.sharedcount.com",
+			apikey : "eyJkYXRhIjoie1wiYXBpa2V5XCI6XCIxOTM0ZjUxOWE2M2UxNDJlMGQzYzg5M2U1OWNjMzdmZTAxNzJlOThhXCIsXCJkYXRlXCI6XCIyMDE3LTEyLTAzXCJ9Iiwic2lnIjoiOFNHYTJxMGxaUFlQUDNsUUVwaXhOOERMekIrdU5jejlhRjI2WDBweTlWZz0iLCJhcGlrZXkiOiIxOTM0ZjUxOWE2M2UxNDJlMGQzYzg5M2U1OWNjMzdmZTAxNzJlOThhIn0=",
 			login : null
 		},
 		trackEvent: function(category, action, label, value){
@@ -46,7 +62,13 @@ window.SharedCount = {
 			}
 		}
 };
+
+var loggedIn = false;
+
+// default_urls to load when the page loads
+var default_urls = [];
 </script>
+<script src="/js/dashboard.js"></script>
 <script>
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-19686383-1']);
@@ -98,6 +120,9 @@ $.get("/admin/user/info.php", function(data){
 			$(".loggedout-controls").hide();
 			$(".loggedin-controls").show();
 			var plan = data.host.split(".")[0];
+			if(plan == 'free' || plan == 'plus' || plan == 'business'){
+				plan = 'api';
+			}
 			(new Image()).src="https://docs.sharedcount.com/?app[plan]=" + plan + "&app[key]=" + data.apikey;
 		}
 		else{
@@ -113,9 +138,9 @@ $.get("/admin/user/info.php", function(data){
 
 
 <div id="container" style="">
-<header>
+<header id="sharedcount_header" style="">
 <a href="/"><img src="/sharedcount.svg" alt="Shared Count" style="width: 500px;"></a>
-<h2>Track URL shares, likes, and more.</h2>
+<h2 id="headingLine">Track URL shares, likes, and more.</h2>
 </header>
 <div class="navbar navbar-fixed-top navbar-inverse" style="border: 0;">
 <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
@@ -128,21 +153,28 @@ $.get("/admin/user/info.php", function(data){
 <div class="container" style="	padding-left: 0;	margin-left: 0;">
 <a class="navbar-brand" href="/"><img style="margin-top: -2px;width:inherit; height:19px" src="/sharedcount_white.svg" alt="Shared Count"></a>
 <div class="nav-collapse collapse navbar-collapse bs-navbar-collapse">
-<ul class="nav navbar-nav">
-<li class=""><a href="/">Home</a></li>
-<li><a href="/dashboard.php" title="Multi-URL Dashboard">URL Dashboard</a></li>
+<ul class="nav navbar-nav" style="margin-left: 0px;">
+<li id="categories_dropdown_item" style="display: none">
+<a id="category_dropdown" href="#" class="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Categories <span class="caret"></span>
+</a>
+<ul class="dropdown-menu" role="menu" id="category_list">
+<li><a href="#">Loading</a></li>
+</ul>
+</li>
+<li><a id="create_category" href="#" style="display: none;" data-toggle="modal" data-target="#add_category_modal">Create Category</a></li>
 <li><a href="/faq.php" title="Frequently Asked Questions">FAQ</a></li>
 <li><a href="http://docs.sharedcount.com/">API Docs</a></li>
 <li><a href="/pricing.php">Pricing</a></li>
 <li><a href="mailto:info@sharedcount.com">Contact</a></li>
 </ul>
-<ul class="nav navbar-nav navbar-right">
-<li class="loggedin-controls"><a href="/admin/user/home.php"><span class="hidden">Account</span></a></li>
+<ul class="nav navbar-nav navbar-right" style="margin-left: 0px;">
+<li class="loggedin-controls"><a href="/account.php"><span class="hidden">Account</span></a></li>
 <li class="loggedin-controls"><form action="/admin/logout.php" method="post"><input type="hidden" name="csrf" value=""> <button style="background: none!important;border: none;font: inherit;border-bottom: 1px solid #444;cursor: pointer;font-size: 90%;padding: 15px;"><span style="color: white;" class="hidden">Logout</span></button></form></li>
-<li class="loggedout-controls"><a href="/admin/login.php"><span class="hidden">Login</span></a></li>
-<li class="loggedout-controls"><a href="/admin/signup.php"><span class="hidden">Sign Up</span></a></li>
+<li class="loggedout-controls"><a href="/login.php"><span class="hidden">Login</span></a></li>
+<li class="loggedout-controls"><a href="/signup.php"><span class="hidden">Sign Up</span></a></li>
 </ul>
-</div> 
+</div>
 </div>
 </div>
 </div>
@@ -164,33 +196,352 @@ $.get("/admin/user/info.php", function(data){
 <p>If SharedCount, or substantially all of its assets, were acquired, or in the unlikely event that SharedCount goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of SharedCount may continue to use your personal information as set forth in this policy.</p>
 <h3>Privacy Policy Changes</h3>
 <p>Although most changes are likely to be minor, SharedCount may change its Privacy Policy from time to time, and in SharedCount’s sole discretion. SharedCount encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
-</div>  
+
+<div class="modal fade" id="modal_delete_category" tabindex="-1" role="dialog">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+<small><h3>Confirm Category Deletion</h3></small>
 </div>
- 
-<footer class="footer">
-<div class="">
-<p>
-</p><div style="white-space: nowrap;">
-<p class="twitter-button"><a href="http://twitter.com/sharedcount" class="twitter-follow-button" data-width="160px" data-show-count="false" data-align="bottom">Follow @sharedcount</a></p>
-<p>
-</p><div class="fb-like" data-href="https://www.facebook.com/sharedcount/" data-layout="button" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
-<p></p>
+<div class="modal-body">
+<p>Are you sure you want to delete the category <strong><i><span id="deleteConfirmationCategory"></span></i></strong>?</p>
 </div>
-<p>&nbsp;</p>
-<p class="">
-</p><p class=""><a href="http://amperslash.com/" target="_blank" style="color: inherit">Amperslash Ltd.</a></p>
-<p><small><a href="/admin/docs/privacy.php">Privacy Policy</a> | <a href="/admin/docs/terms.php">Terms of Service</a></small></p>
-<p></p>
+<div class="modal-footer">
+<a class="btn btn-danger" id="cat_cnfrm_del_btn" data-dismiss="modal" style="color:white;">Delete</a>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 </div>
-</footer>
- 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W8WDX9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+</div>
+</div>
+</div>
+<div class="modal fade" id="add_category_modal" tabindex="-1" role="dialog" aria-labelledby="add_category_modal">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+<h4 class="modal-title" id="myModalLabel">Create a Category</h4>
+</div>
+<form id="form_create_cat" onsubmit="">
+<div class="modal-body">
+
+<p><strong>Category Name</strong></p>
+<input id="input_create_cate" type="text" class="form-control" maxlength="100">
+
+
+
+</div>
+<div class="modal-footer">
+<button type="submit" id="btn_create_category" class="btn btn-primary">Create Category</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div> 
+</div>
+<style type="text/css">
+.lower-sections-1 {
+	display: flex;
+}
+.lower-section-content {
+	margin: 0 auto;
+}
+.lower-sections-1 {
+	background-color: #ffffff;
+}
+.lower-sections-2 {
+	background-color: #cfe2fe;
+	margin-top: 65px;
+}
+.lower-sections-3 {
+	background-color: #f5f7fa;
+}
+.companies {
+	flex-grow: 1;
+}
+.companies-heading {
+	text-align: center;
+	padding: 40px 0px;
+font-size: 24px;
+}
+.companies-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+.company-logo {
+  flex-grow: 1;
+  flex-basis: 100%;
+  padding: 20px 0px;
+  text-align: center;
+}
+.logo {
+	width: 200px;
+}
+
+
+.free-trail {
+	display: flex;
+}
+
+.mascot {
+  display: none;
+  flex-grow: 1;
+  flex-basis: 15%;
+}
+
+.mascot > img {
+	margin-top: -50px;
+	margin-left: 100px;
+}
+.offer {
+  flex-grow: 1;
+  flex-basis: 60%;
+  position: relative;
+}
+.offer-content {
+	flex-direction: column;
+display: flex;
+padding: 66px 0px;
+}
+.offer-button {
+	flex-basis: 40%;
+flex-grow: 1;
+text-align: center;
+}
+.offer-button > button {
+	border-radius: 0px;
+background: #f89d0e;
+outline:none;
+border-color: aliceblue;
+padding: 10px 10px;
+}
+.offer-text {
+	flex-basis: 40%;
+flex-grow: 1;
+width: 200px;
+align-self: center;
+padding-top: 30px;	
+text-align: center;
+}
+
+@media (min-width: 600px) {
+	.lower-section-content {
+		width: 100%;
+	}
+	.company-logo {
+	  flex-basis: 25%;
+	  padding: 0px;
+	}
+	.logo {
+		width: 150px;
+	}
+}
+@media (min-width: 768px) {
+	.mascot {
+		display: inline-block;
+	}
+	.offer-content {
+		flex-direction: row;
+		position: absolute;
+		top: 35%;
+		left: 15%;
+		padding: 0px;
+	}
+	.offer-text {
+    flex-basis: 40%;
+    width: 250px;
+    padding-top: 0px;
+    text-align: center;
+	}
+}
+@media (min-width: 992px) {
+	.lower-section-content {
+		width: 900px;
+	}
+}
+@media (min-width: 1200px) {
+	.lower-section-content {
+		width: 1100px;
+	}
+}
+	/*footer styles*/
+	.footer-content {
+		padding: 60px 0px 0px;
+	}
+	.border-top {
+		padding: 60px 0px;
+    border-top: 1px solid #ddd;
+	}
+
+	.border-top > div {
+		text-align: center;
+	}
+
+	.footer-logo {
+		width: 200px;
+	}
+	
+	.footer-options {
+	    margin-top: -45px;
+	}
+	.footer-options > div > ul {
+	  list-style: none;
+	}
+
+	.footer-options > div > ul > li {
+	  font-size: 13px;
+	  padding: 6px 0px;
+	  color: #777;
+	  transition: all 300ms linear;
+      text-align: left;
+	}
+
+	.footer-options > div > ul > li {
+		white-space: nowrap;		
+	}
+	.footer-options > div > ul > li > a:hover {
+	  color: #65a4da;
+	  text-decoration: none;
+	}
+
+	.footer-options > div > ul > li:first-child {
+	  font-size: 13px;
+    font-weight: 600;
+    padding-top: 20px;
+	}
+
+	.social-icons > ul > li {
+		display: inline-block;
+		font-size: 40px;
+    color: #777;
+    transition: all 300ms linear;
+	}
+
+	.social-icons > ul > li:hover {
+		color: blue;
+	}
+
+	.social-icons > ul {
+		text-align: center;
+		font-size: 30px;
+	}
+		
+	@media (min-width: 992px) {
+		.social-icons > ul {
+			float: right;
+			font-size: 20px;
+		}
+		.social-icons > ul > li {
+			font-size: 20px;
+		}
+	}
+
+</style>
+<div class="lower-sections-1" style="display:none">
+<div class="lower-section-content">
+<div class="companies">
+<div class="companies-heading"><h1><small>Companies Using SharedCount</small></h1></div>
+<div class="companies-container">
+<div class="company-logo">
+<a href="https://serpbook.com/" target="_blank"><img class="logo" src="https://cdn.serpbook.com/assets/images/logo-text.svg"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="lower-sections-2" style="display:none">
+<div class="lower-section-content">
+<div class="free-trail">
+<div class="mascot">
+<img src="/tuki-footer.png">
+</div>
+<div class="offer">
+<div class="offer-content">
+<div class="offer-button">
+<a href="/signup.php">
+<button class="btn-lg btn-primary" style="outline: none">
+Create an Account
+</button>
+</a>
+</div>
+<div class="offer-text"><h4><small>Receive up to 10,000 Free API Calls per Day</small></h4></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="lower-sections-3">
+<div class="lower-section-content footer-content">
+<div class="row border-top">
+<div class="col-md-4 col-sm-12">
+<a href="/"><img class="footer-logo" src="/sharedcount.svg"></a>
+</div>
+<div class="col-md-6 footer-options col-sm-12">
+<div class="col-md-3 col-sm-6">
+<ul>
+<li>Follow Us</li>
+<li><i class="fa fa-facebook-official"></i> <a href="https://www.facebook.com/sharedcount" target="_blank">Facebook</a></li>
+<li><i class="fa fa-twitter-square"></i> <a href="https://twitter.com/sharedcount" target="_blank">Twitter</a></li>
+<li><i class="fa fa-"></i> </li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6">
+<ul>
+<li>SharedCount</li>
+<li><i class="fa fa-file-o" aria-hidden="true"></i> <a href="https://docs.sharedcount.com/">Docs</a></li>
+<li><i class="fa fa-user-o" aria-hidden="true"></i> <a href="/faq.php">F.A.Q.</a></li>
+<li><i class="fa fa-credit-card" aria-hidden="true"></i> <a href="/pricing.php">Pricing</a></li>
+</ul>
+</div>
+<div class="col-md-3  col-sm-6">
+<ul>
+<li>Company</li>
+<li><i class="fa fa-user-secret" aria-hidden="true"></i> <a href="/docs/privacy.php" target="_blank">Privacy</a></li>
+<li><i class="fa fa-bullhorn" aria-hidden="true"></i> <a href="/docs/terms.php" target="_blank">Terms of Service</a></li>
+<li><i class="fa fa-rocket" aria-hidden="true"></i> <a href="https://amperslash.com/" target="_blank">Amperslash Ltd.</a></li>
+</ul>
+</div>
+<div class="col-md-3  col-sm-6">
+<ul>
+<li>Support</li>
+<li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@sharedcount.com">info@sharedcount.com</a><br><small>send us an email to automatically create a ticket</small></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" rel="stylesheet">
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+<script type="text/javascript">
+		toastr.options = {
+		  "closeButton": false,
+		  "debug": false,
+		  "newestOnTop": false,
+		  "progressBar": false,
+		  "positionClass": "toast-bottom-right",
+		  "preventDuplicates": false,
+		  "onclick": null,
+		  "showDuration": "300",
+		  "hideDuration": "1000",
+		  "timeOut": "5000",
+		  "extendedTimeOut": "1000",
+		  "showEasing": "swing",
+		  "hideEasing": "linear",
+		  "showMethod": "fadeIn",
+		  "hideMethod": "fadeOut"
+		}
+	</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W8WDX9"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-W8WDX9');</script>
- 
+
 
 
 </body></html>
