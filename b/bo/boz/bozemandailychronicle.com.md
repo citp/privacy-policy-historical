@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bozemandailychronicle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142226id_/http%3A//www.bozemandailychronicle.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bozemandailychronicle.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203154748id_/https%3A//www.bozemandailychronicle.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | bozemandailychronicle.com
 
