@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wabafun.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604040028id_/http%3A//www.relevantplay.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabafun.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203230530id_/http%3A//www.relevantplay.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
