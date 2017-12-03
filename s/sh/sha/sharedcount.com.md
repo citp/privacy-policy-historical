@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharedcount.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501001349id_/http%3A//www.sharedcount.com/admin/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharedcount.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203225432id_/http%3A//www.sharedcount.com/docs/privacy.php) for the most accurate reproduction.*
 
 # SharedCount: Social URL Analytics
 
@@ -35,3 +35,5 @@ If SharedCount, or substantially all of its assets, were acquired, or in the unl
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, SharedCount may change its Privacy Policy from time to time, and in SharedCount’s sole discretion. SharedCount encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+Are you sure you want to delete the category **__**?
