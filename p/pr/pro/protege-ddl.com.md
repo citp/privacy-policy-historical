@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the protege-ddl.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523065249id_/http%3A//protege-ddl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protege-ddl.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203174221id_/http%3A//protege-ddl.com/privacy.php) for the most accurate reproduction.*
 
 # Pricacy Policy | Protege-DDL
 
 **This is the web site of Protege-DDL.com.**
 
-We can be reached via [contact form.](https://web.archive.org/web/20170523065249id_/http%3A//protege-ddl.com/contact_us.php)
+We can be reached via [contact form.](https://web.archive.org/web/20171203174221id_/http%3A//protege-ddl.com/contact_us.php)
 
  **Cookies:** With respect to cookies: We use cookies to store visitors preferences.
 
