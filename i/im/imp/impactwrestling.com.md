@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactwrestling.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183231id_/http%3A//impactwrestling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactwrestling.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203024941id_/http%3A//impactwrestling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Impact Wrestling
 
