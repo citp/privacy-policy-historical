@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiskeyriff.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625141153id_/http%3A//www.whiskeyriff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiskeyriff.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203125825id_/http%3A//www.whiskeyriff.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Whiskey Riff
 
@@ -106,7 +106,7 @@ As we continue to develop our business, we may sell, buy, merge or partner with 
 
 **How You Can Access and Update Your Information**
 
-You may review and update certain user profile information by logging in to the relevant portions of the Whiskey Riff Services where such information may be updated (if available) or by contacting us at  **whiskeyriffwes [at] gmail [dot] com**
+You may review and update certain user profile information by logging in to the relevant portions of the Whiskey Riff Services where such information may be updated (if available) or by contacting us at  **wes [at] whiskeyriff [dot] com**
 
 **How We Protect Information**
 
@@ -128,11 +128,11 @@ Whiskey Riff prohibits registration or subscription by, and will not knowingly c
 
 **Contact Us**
 
-If you have any questions, comments, or concerns regarding our Privacy Policy or practices, please send an email to  **whiskeyriffwes [at] gmail [dot] com**
+If you have any questions, comments, or concerns regarding our Privacy Policy or practices, please send an email to  **wes [at] whiskeyriff [dot] com**
 
 **Your California Privacy Rights**
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to whiskeyriffstaff@gmail.com
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties.
 
 **No Rights of Third Parties**
 
@@ -142,26 +142,70 @@ This Privacy Policy does not create rights enforceable by third parties.
 
 Whiskey Riff reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the Whiskey Riff Services following the posting of changes to this policy will mean you accept those changes. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by email or by means of a notice on our website before such changes take effect. If the material changes concern practices where we have represented that we will obtain your consent to use or disclose your personally identifiable information, we will obtain your consent before taking any action inconsistent with those representations.
 
-**Copyright**
+**Copyright Policy**
 
-All images on WhiskeyRiff.com are either submitted to Whiskey Riff by email or are readily available in various places on the Internet and believed to be in the public domain. Whiskey Riff respects the intellectual property rights of others and expects its users to do the same. If you are a copyright owner of a photograph or other material that appears on WhiskeyRiff.com, that you claim violates your copyright, please notify us as follows and it will be removed.
+These Copyright Policy cover all of the websites and any associated content, including without limitation, any and all mobile or desktop applications, Apps, email, over-the-top-platforms, streaming services, software, services, RSS and Mobile Services (as defined below) or other materials or services made available on, from, or through websites (collectively, the “Websites”) of Momentum Media, LLC and its subsidiaries and affiliates (collectively, “Momentum Media”). All media on the Websites are either: licensed by Momentum Media, submitted to the Websites by users, readily available and believed to be in the public domain, or used in “fair use” under the U.S. Copyright Act.  Momentum Media respects the intellectual property rights of others and expects its users to do the same.
 
-**Digital Millennium Copyright Act**
+**For Copyright Owners.**
 
-If you are a copyright owner or an agent thereof and believe that any  content infringes upon your copyrights, you may submit a notification pursuant to the Digital Millennium Copyright Act (“DMCA”) by providing our Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail):
+If you are a copyright owner of a photograph, video, or other material that appears on any of the Websites, which you claim violates your copyright, please notify us as provided below.  If you are unsure whether the content you are reporting is infringing your legal rights, you may wish to seek legal guidance.  Keep in mind that submitting intentionally misleading reports of infringement may be punishable under the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (“DMCA”) in the United States or similar laws in other countries.
 
-• A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+**Notification of Copyright Infringement – DMCA**
 
-• Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+Momentum Media is an Online Service Provider under the DMCA.  Momentum Media respects the legitimate rights of copyright owners and has adopted an efficient notice and takedown procedure as required by the DMCA and described herein.  This policy is intended to guide copyright owners in utilizing that procedure, and also to guide users and webmasters in restoring access to websites or content that is disabled due to a mistake.
 
-• Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the service provider to locate the material;
+**Delivery of the Notice**
 
-• Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
+Deliver all takedown Notices as provided by this Copyright Policy to Momentum Media by Email as follows:
 
-• A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+BY EMAIL TO:  wes[at]whiskeyriff.com
 
-• A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+Upon receipt of a valid Notice, Momentum Media will process the claim, which may result in removing or disabling access to the allegedly infringing material, subject to the user’s or webmaster’s right to submit a Counter-Notification claiming lawful use of the disabled works. In appropriate circumstances, Momentum Media will have the disputed material removed from public view, and will also notify the user or webmaster who posted the allegedly infringing material, which notification may include a complete copy of the Notice submitted regarding that material.
 
-Whiskey Riff’s designated Copyright Agent to receive notifications of claimed infringement is: Wes Langeler; **whiskeyriffwes [at] gmail [dot] com**.  You acknowledge that if you fail to comply with all of the requirements of this Section 5(D), your DMCA notice may not be valid.
+**Notice to Owners of Copyrighted Works**
 
-Please note that submitting intentionally misleading reports of infringement may be punishable under the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (“DMCA”) in the United States
+If you are a copyright owner, authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through the Website by completing the following DMCA notice (“Notice”) and delivering it to Website’s Designated Copyright Agent, either in writing or by email, as provided for herein.
+
+As a copyright owner, to provide Momentum Media with a proper valid Notice your copyright claim, your notice must be in English and must substantially contain the following:
+
+i. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+
+ii. An identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single Notice, a representative list of such works at that site;
+
+iii. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material. This identification should include information reasonably sufficient to permit Momentum Media to locate the material, such as any URLs identifying the allegedly infringing material along with any other information that might assist Momentum Media’s Designated Copyright Agent in investigating your claim;
+
+iv. Information reasonably sufficient to permit Momentum Media to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the you may be contacted;
+
+v. A statement that the you have a good faith belief that use of the material in the manner complained of is not authorized by you, your agent, or the law; and
+
+vi. A statement that the information in the Notice is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+Failure to include all of the above information may result in a delay in processing the DMCA Notification.  If you materially misrepresent that any material infringes your copyright interest, you may be liable for damages, including court costs and attorneys’ fees, and could be subject to criminal prosecution for perjury.
+
+**Material Originating From Another Website**
+
+If the allegedly infringing material originates from another website and you believe that this Website has cached that material, then confirm any of the following that apply:
+
+i. The material has been removed from the originating site or access to the material on the originating site has been disabled;
+
+ii. A court has ordered that the material be removed from the originating site; and/or
+
+iii. A court has ordered that access to the material on the originating site be disabled.
+
+Failure to include all of the above information may result in a delay in processing the DMCA Notification.  If you materially misrepresent that any material infringes your copyright interest, you may be liable for damages, including court costs and attorneys’ fees, and could be subject to criminal prosecution for perjury.
+
+**Counter-Notifications**
+
+If you receive notice that material that you submitted has been removed by Momentum Media pursuant to a Notice, and you believe that removal was in error or not pursuant to a valid copyright claim, you may seek to have the material replaced by submitting a Counter-Notice to Momentum Media.
+
+Counter-Notifications must be submitted by the original uploader or an agent authorized to act on their behalf, such as an attorney.  After Momentum Media receives your Counter-Notification, it will forward the Counter-Notification to the party who submitted the original claim of copyright infringement.  Please note that when Momentum Media forwards the notice, it will include your personal information.  By submitting a counter notification, you consent to having your information revealed in this way. Momentum Media will not forward the counter notification to any party other than the original claimant.
+
+To be effective and valid, Counter-Notices must contain substantially the following:
+
+i. A physical or electronic signature of the subscriber;
+
+ii. Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled;
+
+iii. A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
+
+iv. Your name, address, and telephone number, and a statement that you consent to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if your address is outside of the United States, for any judicial district in which Momentum Media may be found, and that you will accept service of process from the uploader of the infringing material or an agent of such person.
