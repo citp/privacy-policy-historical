@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipiknow.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629183340id_/http%3A//www.filipiknow.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipiknow.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203204307id_/http%3A//www.filipiknow.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
