@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the heathrow-airport-guide.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630110806id_/http%3A//www.fubra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heathrow-airport-guide.co.uk privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203172116id_/http%3A//www.fubra.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fubra
 
 ## Good Privacy Practice = TRUST
 
-Fubra run a network of websites, and this privacy policy applies across them all. At Fubra we recognise the importance of your privacy, so this policy outlines the data we collect, how we use it and how we safeguard your information.
-
-Fubra may revise this privacy policy in the future to comply with any applicable European regulations, in order to utilise new technologies, to adapt to changing business strategy or to improve your user experience, so please check back periodically.
+Fubra run a network of websites, and this privacy policy applies across them all. At Fubra we recognise the importance of your privacy, so this policy outlines the data we collect, how we use it and how we safeguard your information. Fubra may revise this privacy policy in the future to comply with any applicable European regulations, in order to utilise new technologies, to adapt to changing business strategy or to improve your user experience, so please check back periodically. 
 
 * * *
 
 ## Our Privacy Principles
 
-Fubra is responsible for the personal data of millions of web users, and as such we take privacy very seriously. This page outlines the principles behind our privacy policy, and explains how and why we use your information.
-
-T.R.U.S.T is an acronym for Transparency, Regulations, User control, Secure and Temporary. These are the five principles we adhere to so that you can be sure we are really looking after your data. We hope through good practice we can gain, and more importantly keep, your trust in our services.
+Fubra is responsible for the personal data of millions of web users, and as such we take privacy very seriously. This page outlines the principles behind our privacy policy, and explains how and why we use your information. T.R.U.S.T is an acronym for Transparency, Regulations, User control, Secure and Temporary. These are the five principles we adhere to so that you can be sure we are really looking after your data. We hope through good practice we can gain, and more importantly keep, your trust in our services. 
 
 ### Transparency
 
-We believe transparency is where all good data retention policies start. Every piece of data we store is stored for a reason – mostly to improve our services. By being transparent about what we store, we hope you will understand that we only need to store information to make our services better.
+We believe transparency is where all good data retention policies start. Every piece of data we store is stored for a reason – mostly to improve our services. By being transparent about what we store, we hope you will understand that we only need to store information to make our services better. 
 
 ### Regulations
 
@@ -26,15 +22,15 @@ As a company we are registered by law with the Data Protection Commissioner in t
 
 ### User Control
 
-Much of the data collected by online companies is gathered without your knowledge. Fubra does create user profiles so that we can advertise to our users and deliver them relevant content but you are free at any time to cancel your account with us which will remove any data we hold about you from our systems, putting you fully in control.
+Much of the data collected by online companies is gathered without your knowledge. Fubra does create user profiles so that we can advertise to our users and deliver them relevant content but you are free at any time to cancel your account with us which will remove any data we hold about you from our systems, putting you fully in control. 
 
 ### Secure
 
-Our policy is to make sure we only store data when you ask us to. This is important because it allows you to make the most of the services you like, and opt out of the ones you don’t. We hope you find all our services useful but if they aren’t, we want you to be able to contact us or control the information you receive.
+Our policy is to make sure we only store data when you ask us to. This is important because it allows you to make the most of the services you like, and opt out of the ones you don’t. We hope you find all our services useful but if they aren’t, we want you to be able to contact us or control the information you receive. 
 
 ### Temporary
 
-If we have data that is no longer needed, we delete it. We only keep data as long as necessary and by doing this, we reduce the risks associated with holding personal information.
+If we have data that is no longer needed, we delete it. We only keep data as long as necessary and by doing this, we reduce the risks associated with holding personal information. 
 
 * * *
 
@@ -65,7 +61,7 @@ If we have data that is no longer needed, we delete it. We only keep data as lon
 
 ### Contacting Us
 
-If you contact us via email or phone, your details and a history of the communication will be stored by us in order for us to deal with inquiries adequately and improve our customer support services. We record all of the phone calls to our company for training and security purposes.
+If you contact us via email or phone, your details and a history of the communication will be stored by us in order for us to deal with inquiries adequately and improve our customer support services. We record all of the phone calls to our company for training and security purposes. 
 
 ### Fubra Passport
 
@@ -107,10 +103,8 @@ If you contact us via email or phone, your details and a history of the communic
 
 ### Cookies
 
-Cookies are simply a way for us to record small pieces of information on your computer when you visit one of our sites, so that we can recognise your browser in future visits. This is typically used to record things like your login details so that when you return to our sites, you don’t need to type in them every time. The cookie itself is a small file that is stored by your web browser and tied to a specific website. Each website can create its own cookie but it can not read information from any other sites, or anywhere else on your computer.
+Cookies are simply a way for us to record small pieces of information on your computer when you visit one of our sites, so that we can recognise your browser in future visits. This is typically used to record things like your login details so that when you return to our sites, you don’t need to type in them every time. The cookie itself is a small file that is stored by your web browser and tied to a specific website. Each website can create its own cookie but it can not read information from any other sites, or anywhere else on your computer. 
 
 ### App
 
-Software application used on a handheld device.
-
-If you have any questions about this privacy statement, the practices or your dealings with any Fubra site, you may [contact us](https://web.archive.org/contact/).
+Software application used on a handheld device. If you have any questions about this privacy statement, the practices or your dealings with any Fubra site, you may [contact us](https://web.archive.org/contact/). 
