@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520103549id_/https%3A//www.casinomeister.com/legal-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203100353id_/https%3A//www.casinomeister.com/legal-statements) for the most accurate reproduction.*
 
 # Legal Statements - Casinomeister
 
