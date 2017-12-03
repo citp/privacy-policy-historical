@@ -1,63 +1,111 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614232404id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203174330id_/http%3A//www.crash.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Crash.Net
+# | Crash
 
-###  Our Commitment
+This Privacy Policy explains the practices employed by CMG (UK) Ltd in collecting and using your information and the ways in which you can influence these. This Privacy Policy relates to websites operated from time to time by CMG (UK) Ltd.
 
-Crash.Net has a firm commitment to the privacy of our members' personal information. The following discloses our information gathering and dissemination practices for this website.
+CMG (UK) Ltd will collect various types of information about you through your use of our websites to process your requests and orders, to provide a more personalised web and shopping experience and to help us improve the services we offer. In doing this we may also collect anonymous information about you through the use of cookies. CMG (UK) Ltd will be the Data Controller of any personal data we collect about you.
 
-This site also contains links to other sites; Crash.Net is not responsible for the privacy practices or the content of such Web sites.
+##  What information do we collect about you?
 
-Our site's registration form requires users to give us contact information (i.e. name and email address). We use this information to send the users information and news from Crash.Net and trusted content partners. A registered user can opt-out of first and third party mailings during the registration process or by editing their Crash.Net profile at any time.
+Through CMG (UK) Ltd websites you can, amongst other things, order products and services, enter competitions, subscribe to our publications, vote in polls, play games, complete surveys and place postings on forums.
 
-This site makes chat rooms, forums, message boards, and/or newsgroups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+In order to process your requests and orders and other activities, it may be necessary to collect personally identifiable information about you. The type of personally identifiable information that may be collected includes, but is not limited to: your name, address, e-mail address, telephone number, and credit/debit card information. You may also be asked to provide additional (non-mandatory) pieces of information for our research purposes or choose to provide information by making a posting on a forum.
 
-  
+In addition, we may collect anonymous information about you and your website usage through the use of cookies. Such information will not be personally identifiable to you. If you choose, you may opt out of allowing our cookies to collect information about you. For further information please go to the section on cookies below.
 
+Some CMG (UK) Ltd websites offer services that require you to set up an account prior to receiving such services. To create a secure account you may use your email address and a password or, if the CMG (UK) Ltd website offers a Facebook single-sign-on service, you will be able to register for and log in to your CMG (UK) Ltd website account using your Facebook account.
 
-###  Third Party Advertising
+If you choose to use the Facebook single-sign-on service we will gain access, upon your explicit consent, to your basic Facebook profile information, such as your name, profile picture and list of friends and any other information notified to you by Facebook prior to you completing the single-sign-on authorisation process.
 
-The adverts appearing on this website are delivered to you, on our behalf, by our trusted web advertising partners. Information such as number of times you have viewed an ad (but not your name, address, or any other personal information) may used to serve ads to you on this site, providing a richer user experience.
+## How will we use the information about you?
 
-  
+We will use the personal information you provide to us to process your orders and requests. We may also use this information to communicate with you directly, for example to notify you in the event you have won a competition or to contact you in relation to an account you hold with us.
 
+We will use the anonymous information we collect about you to analyse web usage and compile aggregate statistics about our users. We will use this non-personally identifiable information, for advertising and marketing purposes and to enable us to provide a more personalised Internet experience. For further information please go to the section on cookies below.
 
-###  Cookies
+## Marketing
 
-Our website uses cookies increase performance and enhance the user's experience. Cookies are small text files which a website may place on your computer when you visit a web site or page. The cookie will enable the website to recognise your browser or device or settings next time you visit the site. Apart from the cookie we use for the (optional) process of logging a user into the website, all the cookies on the website are anonymous.
+From time to time we will ask you whether you wish to receive marketing material from CMG (UK) Ltd containing information about our products and services. If you do not wish to receive such information please ensure that you opt-in or opt-out of receiving such information as appropriate. If you have consented to receiving such material you may opt-out at a later stage from:
 
-**Non-Persistent "Session" Cookies**
+**Emails** \- by clicking on an email unsubscribe link;
 
-We use a session cookie to remember your site preferences. If these are disabled then the functionality of the site may be compromised. Session cookies are automatically deleted once the web browser is closed.
+**SMS** \- by following the instructions in any SMS message received;
 
-###  Persistent Cookies for Site Analytics and Performance
+Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material. If this is the case you may unsubscribe to receiving such marketing material at any time by clicking on the e-mail unsubscribe link.
 
-  * **Crash.Net Cookies** \- We use persistent cookies to remember your home page preference, and to sign you into the Crash.Net website for increased functionality benefits.
-  * **Google AdSense** \- this cookie is used by Google to report to us how the adverts shown on our website are performing. User data is all anonymous.
-  * You can find out more generally about Google and its policies and principles as regards advertising by visiting <http://www.google.com/policies/privacy/ads/>
-  * **DoubleClick (Google)** \- this is very similar to the Google Adsense cookie above (both are owned/controlled by Google) but is specific to the display advertising on the site. User data is anonymous.
-  * As with Google AdSense, you can find out more generally about Google and its policies and principles as regards advertising at <http://www.google.com/policies/privacy/ads/>
-  * **Google Analytics** \- we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous.
-  * You can find out more about Google's privacy as regards its analytics service at [ http://www.google.co.uk/intl/en/analytics/privacyoverview.html](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)
-  * **Quantcast** \- this captures information on site traffic and usage so that we can publish this information on the Quantcast site for anyone to see. User data is all anonymous.
-  * You can see Crash.Net's site traffic profile on Quantcast at <http://www.quantcast.com/crash.net>
-  * **Scorecard Research Beacon** \- this cookie is used to track internet trends and behavior helping us to target the site to our audience's needs. Data is all anonymous.
-  * You can find out more about Scorecard Research (Full Circle Studies) and its policies and practices at [ http://www.fullcirclestudies.com/privacy.aspx](http://www.fullcirclestudies.com/privacy.aspx).
-  * **Social Buttons** \- On many of the pages of the site you will see "social buttons". These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook "Like", LinkedIn "Share", and StumbleUpon. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of Crash.Net. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on our site. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting Crash.Net, and the specific pages you are on, even if you don't click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
-  * **Additional Third Party Cookies** \- Advertisers sometimes use their own cookies to provide you with targeted advertising. For example, advertisers may use a profile they have built on sites that you have previously visited to present you with more relevant advertisements while visiting Crash.Net. _We believe that it is useful to our users to see advertisements that are more relevant to their interests_. However it is possible to block all third-party cookies on Crash.Net and other websites by changing the settings on your browser - see "how to manage cookies" for further information. Please remember, if you choose to disable some or all cookies, this website may not function correctly.
+## What will we disclose to third parties?
 
-  
+If you consent we may sell, rent or trade your personal information to third parties for their marketing purposes. Such third parties will be carefully selected and registered with the Information Commissioner.
 
+We may also pass your personal information to third parties to enable them to process a request, order or service; or to supply you with a prize in the event you win a competition or in order to obtain professional advice.
 
-###  How To Manage Cookies
+We may provide anonymous, non-personally identifiable aggregate information to advertisers and our business partners, including information relating to sales and web-usage, to enable us to sell advertising and monitor the efficacy of our business partnerships. We may also pass such statistical information onto reputable third parties for onward sale.
 
-We recommend that your browser is updated to the most recent version available. This will provide the best safefy and security when browsing the internet.
+It is possible that CMG (UK) Ltd could merge or be acquired by another business. If this happens we may share the information that relates to you. You will be sent notice of such an event. CMG (UK) Ltd reserves the right to disclose personally identifiable information in order to comply with the law, applicable regulations and government requests. We also reserve the right to use such information in order to protect our operating systems and integrity as well as other users.
 
-  * **Google Chrome** \- There are various levels of cookie enablement and disablement in Chrome. For more information visit the following browser support page [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647).
-  * **Microsoft Internet Explorer** \- There are various levels of cookie enablement and disablement in Internet Explorer. For more information visit the following browser support page <http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies>.
-  * **Mozilla Firefox** \- There are various levels of cookie enablement and disablement in Firefox. For more information visit the following browser support page [http://support.mozilla.org/en-US/kb/Enabling and disabling cookies](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies).
-  * **Opera** \- There are various levels of cookie enablement and disablement in Opera. For more information visit the following browser support page <http://www.opera.com/browser/tutorials/security/privacy/>.
-  * **Safari** \- There are various levels of cookie enablement and disablement in Safari. For more information visit the following browser support page <http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html>.
-  * **Older Browser Versions & Other Browsers** \- Please look for a help function in the browser menus or contact the browser provider directly.
+Any third parties employed by us to process your data on our behalf are subject to contractual obligations to protect the security of your data in accordance with the terms of this Privacy Policy.
 
+## How do we protect your information?
 
+Once we have received your data we will ensure that it is treated with the utmost respect and in accordance with the Data Protection Act 1998 and any applicable regulations. Your data will be stored on our secure server within the UK. We follow strict security procedures in order that the data we collect is stored and disclosed appropriately and securely. Unfortunately the transmission of information via the Internet is not completely secure. Although CMG (UK) Ltd will do its best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.
+
+## Other Websites
+
+Please note that clicking on links and advertisements on our websites may result in your transferal to another website, where data privacy practices may vary to that of CMG (UK) Ltd. If transferred to another site you should consult their privacy policy as we are not responsible for and have no control over information that is submitted to or collected by these third parties.
+
+## Changes to our privacy policy
+
+CMG (UK) Ltd keeps this privacy policy under review and may update it at any time. Any updates will be made on this page so that you can always find out what information we collect, how we use it and under what circumstances we will disclose it.
+
+## How to contact us
+
+If you have any queries relating to the CMG (UK) Ltd Privacy Policy please contact us by writing to **The Head of Database Marketing, 78/80 St Johns Street, London, EC1M 4EH.**
+
+## What is a cookie?
+
+A cookie is a small text file that we, and in certain circumstances third parties, place on your browser when you visit our websites or open some of our emails. Cookies, amongst other things, allow CMG (UK) Ltd to recognise you each time you re-visit one of our websites and provide you with a more personalised user experience. There are in existence a variety of different cookies, which are designed for use in specific sets of circumstances.
+
+## How do third parties and we use cookies?
+
+You should be aware that information on you might be collected through the use of cookies when you use CMG (UK) Ltd websites and/or selected third party sites. It is essential that we use some cookies in order to provide you with the services you have requested from us. Some cookies, however, whilst useful, are not essential, and when using CMG (UK) Ltd websites you agree to the use of these non-essential cookies unless you specifically set your browser to reject them. Please see 'How to manage or refuse cookies' below for further details.
+
+When you initially enter one of our sites we may place an anonymous cookie on your browser to enable us to recognise you the next time you visit the website. We may also place a further cookie on your browser when you register for one of our services, this will enable us to remember you next time you come to sign in, eliminating the need for you to re-enter your login details and customising your future uses of our sites.
+
+Cookies may also be used to track your use of CMG (UK) Ltd websites to better develop them, for example, determining which parts of the websites are more popular and determining content accordingly.
+
+We may also place cookies on your browser to provide you with behavioural advertising and monitor the advertising on our sites to, amongst other things, ensure that you are not subjected to intrusive advertising.
+
+Small pieces of code called pixel tags, web beacons or GIF files, are used in conjunction with cookies to help us manage and monitor our online advertising and wider business arrangements with third parties. These files will allow us to aggregate anonymous information relating to advertising and website usage. The type of information collected includes, but is not limited to, information relating to advertising responses, page views, promotion views and purchases made. Such pixel tags may be used to recognise third party cookies (cookies generated by third parties) and inform us and/or third parties of which advertisement or link brought you to our website, allowing us to monitor the efficacy of our business relationships with third parties. Please see the section below entitled 'Use of different cookies' for more detail on the various cookies in use by CMG (UK) Ltd and how they work.
+
+## How to manage or refuse cookies
+
+If you do not want your browser to accept cookies and use them in the ways described above it is possible to change your browser settings. It is also possible to delete existing cookies from your browser. However blocking all cookies will affect your web experience and may result in some parts of CMG (UK) Ltd websites not functioning properly. Some cookies are designed to help save you time, for example, by remembering your contact details when you are making an order for the second time this means that you will not have to complete the contact section again unless your details have changed. The procedure for modifying your privacy preferences is different for each Internet browser and we recommend you visit the following websites for further information on altering your cookie settings:
+
+## Use of different cookies
+
+We will use different cookies at various different stages of your use of our websites.
+
+### _Tracking and Customisation Cookies_
+
+These are used to recognise repeat visitors to CMG (UK) Ltd websites and customise the visitor experience, as described above. They may also be used in conjunction with other information we or our third party partners hold to attempt to record specific browsing information (for example, regarding the way visitors arrive at CMG (UK) Ltd websites, pages viewed, options selected, information entered and the path taken through the CMG (UK) Ltd websites.
+
+### _Session Cookie_
+
+These are used to maintain your session when you sign in on CMG (UK) Ltd websites, allowing you to access CMG (UK) Ltd online services without the need to sign in on every page you visit. The session cookie is used to tailor advertising to you on CMG (UK) Ltd online services and websites and selected third party websites. If you opt out of tailored advertising, we stop using this cookie for this purpose.
+
+### _Advertising Cookies_
+
+In addition CMG (UK) Ltd works with third parties for the purpose of delivering targeted behavioural advertising to the CMG (UK) Ltd websites. Through the use of cookies, anonymous information about your use of our websites and other websites will be used to provide more relevant adverts about goods and services of interest to you.
+
+For more information on online behavioural advertising and about how to turn this feature off, please visit <http://www.youronlinechoices.com/opt-out>.
+
+Google DoubleClick serves advertising to CMG (UK) Ltd websites. When an advertisement is requested by a website, DoubleClick receives information from your browser which influences the type of advertisement displayed. To opt-out of DoubleClick using this cookie data please visit <https://support.google.com/adsense/answer/2839090?hl=en-GB>.
+
+Opting out of behavioural advertising or DoubleClick tracking does not mean that you will no longer receive advertising when you are using CMG (UK) Ltd websites. It simply means the advertising you see will not be customised for you.
+
+More general information about behavioural advertising can be found at [www.youronlinechoices.com](http://www.youronlinechoices.com/). 
+
+Cookies placed independently by third parties
+
+Third parties will have placed the majority of adverts you see on CMG (UK) Ltd websites. These third parties may choose to generate their own cookies for the purposes of collecting anonymous information relating to the viewing of their advertising. The information collected cannot be used to personally identify someone. You can find out more about this method of advertising by visiting these sites:
