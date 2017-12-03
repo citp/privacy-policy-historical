@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fossbytes.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612174921id_/https%3A//fossbytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fossbytes.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203130848id_/https%3A//fossbytes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - fossBytes
 
@@ -52,6 +52,14 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 **Google Adsense**
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+
+**Reproduction and use:**
+
+The users acknowledge and agree that all copyright and trademarks and other intellectual property rights in the Website and all material or content related to the website shall remain, at all times, owned by Fossbytes Media Private Limited and/or their respective owners. All material and content contained is made available for user’s personal and non-commercial use only. Any other use of the material/content on the platform is strictly prohibited.
+
+All the information, all without special notice, the copyright belongs to M/s Fossbytes Media Private Limited. In case any material which is approved by Fossbytes Media Private is approved, it must be marked with the source of the document and full credits to the copyright owners should be given. If any person is found to be in infringement of this requirement, the offender shall be held accountable according to law.
+
+Fossbytes Private Limited shall hold the right to modify and update the copyrighted material at any time.
 
 **Changes to this privacy policy**
 
