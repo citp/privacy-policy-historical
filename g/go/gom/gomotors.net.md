@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomotors.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115710id_/http%3A//gomotors.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomotors.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203170754id_/http%3A//gomotors.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Photos, News, Reviews, Specs, Car listings
 
@@ -83,4 +83,4 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 ### Contact Information
 
-Please contact GoMotors with any questions or comments about this Privacy Notice at [gomotors.net@gmail.com](https://web.archive.org/web/20170606115710id_/http://gomotors.net/privacy/gomotors.net@gmail.com)
+Please contact GoMotors with any questions or comments about this Privacy Notice at [gomotors.net@gmail.com](https://web.archive.org/web/20171203170754id_/http://gomotors.net/privacy/gomotors.net@gmail.com)
