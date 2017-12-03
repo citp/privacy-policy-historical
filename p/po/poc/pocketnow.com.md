@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketnow.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101090806id_/http%3A//pocketnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketnow.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203150451id_/http%3A//pocketnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pocketnow
 
@@ -123,4 +123,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
 
 Email:  
-amir@bwb.marketing
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
