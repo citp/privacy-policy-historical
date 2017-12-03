@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bharathlisting.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606112638id_/http%3A//bharathlisting.com/p/2/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bharathlisting.com privacy policy that was archived on 2017-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171204001215id_/http%3A//bharathlisting.com/p/2/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Policy - BharathListing.com</title>
@@ -36,15 +36,18 @@ var baseurl = 'http://bharathlisting.com';
 
 		<div class="right-block">
 			<!-- collapsible block -->
+			<a href="http://bharathlisting.com/user/select-plan" class="btn btn-ghost mobBtnCreate visible-xs-block">
+							<i class="fa fa-pencil" aria-hidden="true"></i>
+							Add your Business here</a>
 			<div class="collapse navbar-collapse" id="bs-navbar">
 				<div class="collapse-header clearfix">
 					<!-- member drop down menu -->
 					<ul class="nav navbar-nav navbar-right" id="main-menu">
 						<!-- create listing link -->
 						<li>
-							<a href="http://bharathlisting.com/user/select-plan" class="btn btn-ghost">
+							<a href="http://bharathlisting.com/user/select-plan" class="btn btn-ghost hidden-xs">
 							<i class="fa fa-pencil" aria-hidden="true"></i>
-							Create Listing</a>
+							Add your Business here</a>
 						</li>
 
 						<!-- all categories link -->
@@ -56,7 +59,7 @@ var baseurl = 'http://bharathlisting.com';
 						<!-- change city link -->
 													<li>
 								<a href="http://bharathlisting.com/#" data-toggle="modal" data-target="#change-city-modal" class="btn btn-ghost">
-									<i class="fa fa-location-arrow" aria-hidden="true"></i> Change City								</a>
+									<i class="fa fa-location-arrow" aria-hidden="true"></i> Location								</a>
 							</li>
 							
 						<!-- search link -->
@@ -76,7 +79,7 @@ var baseurl = 'http://bharathlisting.com';
 		<div class="clearfix"></div>
 	</div><!-- .navbar-inner -->
 </nav>
-<div class="wrapper"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="wrapper noPadding"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- addyp.com -->
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5057375154868360" data-ad-slot="5988792970" data-ad-format="auto"></ins>
 <script>
@@ -95,6 +98,47 @@ var baseurl = 'http://bharathlisting.com';
 		</form>
 	</div>
 </div>
+
+<!--<div class="modal fade in" id="popAd" tabindex="-1" role="dialog" style="display: block;">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Do you want this space?</h4>
+      </div>
+      <div class="modal-body">
+        <p class="text-center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-5057375154868360"
+     data-ad-slot="8203884977"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p><button type="button" class="close" data-dismiss="modal" aria-label="Close">Close and proceed to Business listing</button>
+      </div>
+      
+    </div>
+  </div>
+</div><!-- /.modal -->
+
+
+<!-- set rating -->
+
+<script>
+
+$('#city-input').change(function() {
+	// alert('hellloooooo');
+	// alert($(this).val());
+});
+
+//$(document).ready(function () {
+
+   // $('#popAd').modal('show');
+
+//});
+
+</script>
 <div class="wrapper">
 	<div class="full-block">
 		<h2>Privacy Policy</h2>
@@ -184,7 +228,7 @@ var baseurl = 'http://bharathlisting.com';
 			BharathListing.com		</div>
 		<div class="footer-inner-right">
 			<ul>
-				<li><a href="http://bharathlisting.com/p/1/about">About</a></li><li><a href="http://bharathlisting.com/p/2/privacy-policy">Privacy Policy</a></li>				<li><a href="http://bharathlisting.com/_contact">Contact</a>
+				<li><a href="http://bharathlisting.com/p/1/about">About</a></li><li><a href="http://bharathlisting.com/p/2/privacy-policy">Privacy Policy</a></li>				<li><a href="http://addyp.com/p/1/contact-us">Contact Us</a>
 			</li></ul>
 		</div>
 		<div class="clear"></div>
@@ -197,16 +241,30 @@ var baseurl = 'http://bharathlisting.com';
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-				<h3 class="modal-title" id="myModalLabel">Select your city</h3>
+				<h3 class="modal-title" id="myModalLabel">Select your location</h3>
 			</div>
 			<div class="modal-body">
 				<form id="city-change-form" method="post">
-					<div class="block"><select id="city-change" name="city-change"></select></div>
+					<!-- <div class="block">
+					<select id="country-change" name="country-change">
+						 <option selected="selected" value=""></option>
+					</select>
+				</div>
+					<div class="block">
+						<select id="state-change" name="state-change">
+							<option id="statess" selected="selected" value=""></option>
+						</select>
+					</div> -->
+					<div class="block">
+						<select id="city-change" name="city-change">
+							<option selected="selected" value=""></option>
+						</select>
+					</div>
 				</form>
 			</div><!-- .modal-body -->
 			<div class="modal-footer">
-				<button type="button" class="btn btn-blue" data-dismiss="modal">Close</button>
-				<button type="button" class="btn btn-default" data-dismiss="modal" id="clear-city">Clear City</button>
+				<button type="button" id="select-location" class="btn btn-blue" data-dismiss="modal">Submit</button>
+				<button type="button" class="btn btn-default" data-dismiss="modal" id="clear-city">Clear Location</button>
 			</div>
 		</div><!-- .modal-content -->
 	</div><!-- .modal-dialog -->
@@ -224,6 +282,73 @@ var baseurl = 'http://bharathlisting.com';
 /* SELECT2 */
 // #city-input (main search form in header)
 
+// ---------------------------
+/* SELECT2 */
+
+// #city-change (in modal triggered by navbar city change)
+
+
+// $('#country-change').select2({
+	
+// 	ajax: {
+// 		url: 'http://bharathlisting.com' + '/_return_countries_select2.php',
+// 		dataType: 'json',
+// 		delay: 250,
+// 		data: function (params) {
+// 			return {
+// 				query: params.term, // search term
+// 				page: params.page
+				
+// 			};
+// 		},
+// 	},
+
+// 	escapeMarkup: function (markup) { return markup; }, // let our custom formatter work
+// 	minimumInputLength: 1,
+// 	dropdownAutoWidth : true,
+// 	placeholder: "Select Country",
+// 	language: "en",
+
+// });
+
+// $('#country-change').change(function() {
+// 	$('#state-change').select2('val','');
+// 	$('#city-change').select2('val','');
+// });
+// $('#state-change').change(function() {
+// 	$('#city-change').select2('val','');
+// });
+
+
+
+// ----------------------
+// ---------------------------
+
+
+// #city-change (in modal triggered by navbar city change)
+// $('#state-change').select2({
+// 	ajax: {
+// 		url: 'http://bharathlisting.com' + '/_return_states_select2.php',
+// 		dataType: 'json',
+// 		delay: 250,
+// 		data: function (params) {
+// 			return {
+// 				query: params.term, // search term
+// 				country:$("#country-change").val(),
+// 				page: params.page
+// 			};
+// 		}
+// 	},
+// 	escapeMarkup: function (markup) { return markup; }, // let our custom formatter work
+// 	minimumInputLength: 1,
+// 	dropdownAutoWidth : true,
+// 	placeholder: "Select State",
+// 	language: "en"
+// });
+
+
+
+//----------------------
 $('#city-input').select2({
 	ajax: {
 		url: 'http://bharathlisting.com/_return_cities_select2.php',
@@ -239,40 +364,89 @@ $('#city-input').select2({
 	escapeMarkup: function (markup) { return markup; }, // let our custom formatter work
 	minimumInputLength: 1,
 	dropdownAutoWidth : true,
-	placeholder: "Select a city",
+	placeholder: "Select a location",
 	language: "en"
 });
 
 // #city-change (in modal triggered by navbar city change)
-$('#city-change').select2({
-	ajax: {
-		url: 'http://bharathlisting.com' + '/_return_cities_select2.php',
-		dataType: 'json',
-		delay: 250,
-		data: function (params) {
-			return {
-				query: params.term, // search term
-				page: params.page
-			};
-		}
-	},
-	escapeMarkup: function (markup) { return markup; }, // let our custom formatter work
-	minimumInputLength: 1,
-	dropdownAutoWidth : true,
-	placeholder: "Select a city",
-	language: "en"
-});
+//if (($('#state-change').select2('val')) != '' ) {
+	$('#city-change').select2({
+		ajax: {
+			url: 'http://bharathlisting.com' + '/city_select_change_locn.php',
+			dataType: 'json',
+			delay: 250,
+			
+			data: function (params) {
+				return {
+					query: params.term, // search term
+					state:$("#state-change").val(),
+					page: params.page
+				};
+			}
+		},
+		escapeMarkup: function (markup) { return markup; }, // let our custom formatter work
+		minimumInputLength: 1,
+		dropdownAutoWidth : true,
+		placeholder: "Select a location",
+		language: "en"
+	});
+//}
 
-$(document.body).on('change', '#city-change', function(){
+//$(document.body).on('change', '#city-change', function(){
+//	delete_cookie('city_name');
+//	createCookie('city_id', this.value, 90);
+//	location.reload(true);
+//});
+$(document.body).on('click', '#select-location', function(){
 	delete_cookie('city_name');
-	createCookie('city_id', this.value, 90);
+	delete_cookie('state_name');
+	delete_cookie('country_name');
+	if($("#city-change").val()){
+		var city_id=$("#city-change option:selected").text();
+		var selectd=$("#city-change").val();
+		
+		var selected_data=selectd.split("-");
+		var selected_type = selected_data[0];
+		var selected_loc_id = selected_data[1];
+		var selected_loc_name = selected_data[2];
+		
+		createCookie('selected_type', selected_type, 90);
+		createCookie('selected_loc_id', selected_loc_id, 90);
+		createCookie('selected_loc_name', selected_loc_name, 90);
+
+		createCookie('city_id', city_id, 90);	
+	}	
+	else if($("#state-change").val()){
+		createCookie('state_id', $("#state-change").val(), 90); 
+		delete_cookie('city_id');
+		delete_cookie('city_name');
+		delete_cookie('country_id');
+		delete_cookie('country_name');
+	}else if($("#country-change").val()){
+		createCookie('country_id', $("#country-change").val(), 90);
+		delete_cookie('city_id');
+		delete_cookie('city_name');
+		delete_cookie('state_id');
+		delete_cookie('state_name');
+	}
+		
+
 	location.reload(true);
 });
 
 $(document.body).on('click', '#clear-city', function(e){
 	e.preventDefault();
+	
+delete_cookie('selected_type');
+delete_cookie('selected_loc_id');
+delete_cookie('selected_loc_name');
+
 	delete_cookie('city_id');
 	delete_cookie('city_name');
+	delete_cookie('state_id');
+	delete_cookie('state_name');
+	delete_cookie('country_id');
+	delete_cookie('country_name');
 	location.reload(true);
 });
 
