@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfandsunshine.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618171259id_/http%3A//www.surfandsunshine.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfandsunshine.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203051051id_/http%3A//www.surfandsunshine.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy -
 
