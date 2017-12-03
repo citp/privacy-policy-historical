@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the favefreeporn.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623040119id_/http%3A//www.favefreeporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favefreeporn.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203101753id_/http%3A//favefreeporn.com/privacy) for the most accurate reproduction.*
 
 # Fave Free Porn Tube
 
-Effective Date: Friday 23rd of June 2017 06:01:19 AM  
+Effective Date: Sunday 3rd of December 2017 11:17:53 AM  
 Sites Covered: www.favefreeporn.com 
 
 Pursuant to our [Terms of Use](http://www.favefreeporn.com/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
