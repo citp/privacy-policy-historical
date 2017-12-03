@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the maxiget.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024022534id_/http%3A//www.maxiget.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxiget.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204001303id_/http%3A//maxiget.com/privacy.jsp) for the most accurate reproduction.*
 
 # MaxiGet Download Manager
 
-Copyright (c) 2013-2014, Maxiget Ltd
+Copyright (c) 2013-2017, Maxiget Ltd
 
 All rights reserved.
 
@@ -52,10 +52,10 @@ Maxiget Manager reserves the right to revise this Policy from time to time. Maxi
 
 ### Change or Removal of Information
 
-In case a user decides to change or remove his/her e-mail address or other personal information, contact us at support@maxiget.com with the request.
+In case a user decides to change or remove his/her e-mail address or other personal information, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with the request.
 
 ### Contact Information
 
-Please send all questions concerning the Policy via e-mail to: support@maxiget.com as well.
+Please send all questions concerning the Policy via e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) as well.
 
 Date of last revision July 31, 2014
