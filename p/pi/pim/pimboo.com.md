@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pimboo.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409135515id_/http%3A//pimboo.com/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimboo.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203145429id_/http%3A//www.pimboo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Pimboo - Privacy Policy
 
-The following describes the Privacy Policy for our Pimboo OÜ website.
+The following describes the Privacy Policy for our Pimboo.com website.
 
 ### Your Privacy
 
-Your privacy is important to us at Pimboo OÜ To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
+Your privacy is important to us at Pimboo.com to better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
 
 ### State Law & Accompanying Rights
 
@@ -20,15 +20,15 @@ Under our Terms of Service and Conditions of Use, children under 18 are not allo
 
 ### Collection of Personal Information
 
-When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+We will never sell, rent or barter your email address. When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
 Other information may be collected as well by Pimboo OÜ, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience.
 
-Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience at TOOBRAINS.COM  to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you.
+Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience at pimboo.com  to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you.
 
 At times, you will be fully aware of information received, as you are the direct source providing it. For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise. Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on. Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested.
 
-A prime example of limited access to our website is where some Pimboo OÜ content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username and password must necessarily be tied to your other account data. Usernames and passwords, by their very nature, should be kept private.
+A prime example of limited access to our website is where some Pimboo.comcontent may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username and password must necessarily be tied to your other account data. Usernames and passwords, by their very nature, should be kept private.
 
 ### Handling of Personal Information
 
@@ -38,11 +38,11 @@ Our primary intention for collecting personal and private information from you i
 
 However, of course, your information does comprise part of an overall whole. This aggregate of information, by contrast, may be used to understand our overall user base. Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion.
 
-While we are staunch privacy advocates at Pimboo OÜ, there are times when even we may be forced to abandon these ideals. Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our TOOBRAINS.COM  website. Illegal activity or other serious acts or allegations could create legal liability for our website. In those cases, we reserve the right to share your information, or else may simply be compelled to do so by law. On the other hand, there may be times when we would need to share your private information in order to protect our own interests. For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
+While we are staunch privacy advocates at Pimboo OÜ, there are times when even we may be forced to abandon these ideals. Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our pimboo.com  website. Illegal activity or other serious acts or allegations could create legal liability for our website. In those cases, we reserve the right to share your information, or else may simply be compelled to do so by law. On the other hand, there may be times when we would need to share your private information in order to protect our own interests. For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
 
 ### Google Adsense and the DoubleClick DART Cookie
 
-Google, as a third party advertisement vendor, may use cookies to serve ads on this Pimboo OÜ website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.
+Google, as a third party advertisement vendor, may use cookies to serve ads on this Pimboo.com website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
@@ -54,11 +54,11 @@ We have included links on this website for your use and reference. We are not re
 
 ### CHANGE NOTICE:
 
-As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out by Too Brains, INC., in order to protect you and our TOOBRAINS.COM  website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
+As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out by Pimboo OÜ in order to protect you and our pimboo.com  website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
 
 ### COPYRIGHT WARNING:
 
-The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at Pimboo OÜ have paid to license the use of these legal notices and administrative pages on PIMBOO.COM for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
+The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at Pimboo.com have paid to license the use of these legal notices and administrative pages on pimboo.com for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
 
 ### QUESTIONS/COMMENTS/CONCERNS:
 
@@ -66,4 +66,5 @@ If you have any questions about the contents of this page, or simply wish to rea
 
 Pimboo OÜ  
 Laki tn 30 PK 302-3  
-Tallinn, Estonia 12915
+Tallinn, Estonia 12915  
+Info (at) pimboo.com
