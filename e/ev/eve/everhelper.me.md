@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everhelper.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045536id_/https%3A//www.everhelper.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everhelper.me privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203032116id_/http%3A//everhelper.me/privacy.php) for the most accurate reproduction.*
 
 # Everhelper - Privacy Policy
 
