@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funmediatv.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603192320id_/http%3A//www.funmediatv.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funmediatv.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203183851id_/http%3A//www.funmediatv.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy and Policy
 
@@ -110,7 +110,3 @@ Some apps on iOS 6 devices use Apple’s Advertising Identifier; to learn more a
 Open the Google Search app on your device  
 Press the Settings icon  
 Go to Ads Preferences
-
-Please support the site
-
-By clicking this button you help our site get better 
