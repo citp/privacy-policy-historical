@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicedirectory.net privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516215731id_/http%3A//www.nicedirectory.net/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicedirectory.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203223656id_/http%3A//www.nicedirectory.net/privacy.txt) for the most accurate reproduction.*
 
 # 
 
