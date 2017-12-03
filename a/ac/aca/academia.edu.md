@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the academia.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031209id_/http%3A//www.academia.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academia.edu privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203041818id_/http%3A//www.academia.edu/privacy) for the most accurate reproduction.*
 
 # Academia.edu | Privacy
+
+Last Updated: August 23, 2017
 
 Academia, Inc. (“ **Academia.edu** ” or “ **we** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [academia.edu](http://www.academia.edu/) (this “ **Site** ”). This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time.  We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Use](http://www.academia.edu/terms).
 
@@ -32,7 +34,22 @@ As part of the Academia.edu Service, Academia.edu Members can invite non-registe
 
 Like many websites, Academia.edu uses cookies and similar technologies, including mobile application identifiers (collectively “Cookies”), to collect information. Cookies include small data files that we transfer to your computer’s hard disk for record-keeping purposes. We use Cookies for two purposes. First, we utilize persistent Cookies to save your registration ID and login password for future logins to the Site. Second, we utilize session ID Cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Academia.edu Users and web traffic routing on the Site. Unlike persistent Cookies, session Cookies are deleted from your computer when you log off from the Site and Academia.edu Service and then close your browser. By visiting Academia.edu Services, you consent to the placement of Cookies in your browser in accordance with this Privacy Policy.
 
-We do not link the information we store in Cookies to any Personal Information. You may be able to instruct your browser, by changing its options, to accept or reject all or some Cookies, or to prompt you before accepting a Cookie from the websites you visit. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. If you do not accept Cookies, however, you may not be able to use all portions of the Site or all functionality of the Service. Please note that third party payment processors, such as Stripe, and third party advertisers on the Site may also place or read Cookies on your browser. Our Privacy Policy only governs information collected on Academia.edu and the use of such Cookies is governed by the privacy policies or statements of such third parties.
+We do not link the information we store in Cookies to any Personal Information. You may be able to instruct your browser, by changing its options, to accept or reject all or some Cookies, or to prompt you before accepting a Cookie from the websites you visit. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. If you do not accept Cookies, however, you may not be able to use all portions of the Site or all functionality of the Service. Please note that third party payment processors and third party advertisers on the Site may also place or read Cookies on your browser. Our Privacy Policy only governs information collected on Academia.edu and the use of such Cookies is governed by the privacy policies or statements of such third parties.
+
+The following is a partial list of suppliers authorized to place cookies on our website:
+
+  * Stripe (<https://stripe.com/us/privacy>): Enables payment processing for premium products
+  * Criteo (<http://www.criteo.com/us/privacy-policy>): Enables re/targeting users of our website to display personalized advertisements in their future navigation.
+
+
+
+Users can also express their privacy choices through the following platforms:
+
+  * [IAB opt-out platform](http://youronlinechoices.eu/)
+  * [Network Advertising Initiative opt-out platform](http://www.networkadvertising.org/managing/opt_out.aspa)
+  * [Digital Advertising Alliance](http://www.aboutads.info/choices)
+
+
 
 **Phishing**
 
