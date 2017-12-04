@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630194251id_/https%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204145835id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Globat's Privacy Policy
 
 | 
-
-On June 29, 2017, we updated these terms and policies. You may review the archived [version](http://www.globat.com/legal/legal_privacy_archive_24052017.bml). 
 
 We respect your privacy and want to make your experience visiting our website located at [www.globat.com](http://www.globat.com/) and using our services as enjoyable and rewarding as possible. This Privacy Policy describes what personal information of our subscribers ("Subscribers") and visitors ("Visitors") (collectively, "Users") is collected and how and when it might be used or shared by Globat ("Globat") with its parent company, The Endurance International Group, Inc. ("Endurance," and collectively with Globat, the "Company") or trusted partners to deliver or enhance our services. 
 
@@ -31,11 +29,11 @@ We respect your privacy and want to make your experience visiting our website lo
     * **Public Forums.** Please remember that any information you may disclose or post in our User directory, spotlights/case studies, testimonials, forums, or other public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from our community forums or testimonials, contact us at [legal@globat-inc.com](mailto:legal@globat-inc.com). In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so. 
     * **Unsubscribe/Opt-out.** When you become a Subscriber of Globat, you are automatically subscribed to receive transactional notices about your account, email newsletters and news of special promotions offered through Globat and/or in conjunction with our partners.
 
-To unsubscribe from Globat newsletters and promotional mailings, please update your preferences with the [Subscription Manager tool](http://www.globat.com/utils/Subscribe.bml) or email us at [Globat support](mailto:support@globat-inc.com). If you would like to cancel your Globat subscription, please contact Globat support using [Live Chat](https://chatserver.globat.com/#start_chat) or call us at 877-245-6228. You may also unsubscribe through the links provided in promotional email messages sent by us or our partners/affiliates. 
+To unsubscribe from Globat newsletters and promotional mailings, please update your preferences with the [Subscription Manager tool](http://www.globat.com/utils/Subscribe.bml) or email us at [Globat support](mailto:support@globat-inc.com). If you would like to cancel your Globat subscription, please contact Globat support using [Live Chat](https://helpchat.globat.com/#start_chat) or call us at 877-245-6228. You may also unsubscribe through the links provided in promotional email messages sent by us or our partners/affiliates. 
 
     * **How to Access or Modify Your Information.** We allow you to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information we have in our custody or control by accessing your personal profile in your account or by contacting support via email, phone or online chat. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records. 
 
-To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Control Panel. Alternatively, you can contact Globat support using [Live Chat](https://chatserver.globat.com/#start_chat) or call us at 877-245-6228. 
+To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Control Panel. Alternatively, you can contact Globat support using [Live Chat](https://helpchat.globat.com/#start_chat) or call us at 877-245-6228. 
 
   * **OUR COMMITMENT TO DATA SECURITY.** We have implemented measures designed to protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Unfortunately, no data storage or transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information in transit and as stored on our systems or the systems of our third party service providers, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this website cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
     * **Password.** Your online access to certain personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages). 
@@ -49,7 +47,7 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on June 29, 2017.**
+**This file was last modified on August 24, 2017.**
 
  ****  
 ---|---
