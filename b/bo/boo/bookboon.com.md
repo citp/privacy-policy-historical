@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookboon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052127id_/http%3A//bookboon.com/blog/en/about-the-website/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookboon.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204195717id_/http%3A//bookboon.com/blog/en/about-the-website/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Bookboon Blog
 
