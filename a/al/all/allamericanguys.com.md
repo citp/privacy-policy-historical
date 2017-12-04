@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allamericanguys.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070018id_/http%3A//www.allamericanguys.com/allamericanguys/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allamericanguys.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204224113id_/http%3A//www.allamericanguys.com/allamericanguys/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | All American Guys
+# Privacy Policy - All American Guys
 
 AllAmericanGuys.com and its subsidiaries and corporate affiliates (collectively, “AAG,” “our,” “us,” or “we”) operate websites, provide products and services through mobile and other applications, and develops software. We refer to these as “site(s),” “service(s),” or “our sites and services.”
 
