@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escort-magazine.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625113956id_/http%3A//www.vivastreet.co.uk/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escort-magazine.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204071932id_/http%3A//www.vivastreet.co.uk/s/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ For example, we use cookies to store your login details so that it's easier for 
 
 [Click here to view Vivastreet's Cookie list and to find out more about how to minimise the number you receive](http://www.vivastreet.co.uk/s/cookies).
 
-To find out more about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20170625113956id_/http%3A//www.vivastreet.co.uk/s/www.allaboutcookies.org)
+To find out more about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20171204071932id_/http%3A//www.vivastreet.co.uk/s/www.allaboutcookies.org)
 
 **Consent**
 
