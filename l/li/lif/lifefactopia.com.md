@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifefactopia.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627174649id_/http%3A//www.lifefactopia.com/legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifefactopia.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204235307id_/http%3A//www.lifefactopia.com/legal/Privacy) for the most accurate reproduction.*
 
 # Contact Us - LifeStyle Mag
 
