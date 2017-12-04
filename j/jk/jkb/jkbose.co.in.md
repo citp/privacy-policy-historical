@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jkbose.co.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134358id_/http%3A//www.jkbose.co.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jkbose.co.in privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204033408id_/http%3A//www.jkbose.co.in/privacy-policy.php) for the most accurate reproduction.*
 
 # JKBOSE - Official website of J&K Board of School Education India
 
