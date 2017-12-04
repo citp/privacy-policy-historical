@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the video-post.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605210444id_/http%3A//www.video-post.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the video-post.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204122421id_/http%3A//www.video-post.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,6 @@
   8. Our Commitment to Data Security. 
     1. We take measures to protect the transmission of all sensitive user information. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
   9. Where to Direct Questions About Our Privacy Policy. 
-    1. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20porzo.com%20site).
+    1. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20video-post.com%20site).
 
 
