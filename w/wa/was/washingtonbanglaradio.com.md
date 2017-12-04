@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtonbanglaradio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034322id_/http%3A//www.washingtonbanglaradio.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtonbanglaradio.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204033338id_/http%3A//www.washingtonbanglaradio.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WBRi | Washington Bangla Radio on internet
 
