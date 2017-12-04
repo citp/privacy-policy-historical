@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playcombo.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626045734id_/http%3A//www.playcombogames.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playcombo.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204010613id_/http%3A//www.playcombo.com/service/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PlaycomboGames game portal
+# Privacy Policy - Free games online - Playcombo.com
 
-Privacy PolicyPlaycombo Games ("Playcombo") is committed to ensuring our websites (www.playcombo.com; www.playcombo.*;www.*.playcombo.*) and any published apps (under the publisher name: Playcombo or Playcombo Games) are fun and safe environments. Playcombo does not actively run a user registration system, forum, chat or instant messaging function and thereby does not directly collect any personally identifiable information about our users unless they directly contact us or respond to a feedback survey and provide such information.
+Privacy Policy Playcombo Games ("Playcombo") is committed to ensuring our websites (www.playcombo.com; www.playcombo.*;www.*.playcombo.*) and any published apps (under the publisher name: Playcombo or Playcombo Games) are fun and safe environments. Playcombo does not actively run a user registration system, forum, chat or instant messaging function and thereby does not directly collect any personally identifiable information about our users unless they directly contact us or respond to a feedback survey and provide such information.
 
 Some games featured or hosted on Playcombo that are managed by third-party publishers may contain features such as user registration systems, forums, chat rooms and so forth; which are not managed by Playcombo and are dictated by the privacy policy of the game's publisher.
 
@@ -37,6 +37,8 @@ For more information on Google Analytics please see their complete privacy polic
 <http://www.google.com.au/policies/privacy/>
 
 **Updates to this Privacy Policy:**
+
+This Privacy Policy may be changed or modified from time to time. If our information practices change 
 
 This Privacy Policy may be changed or modified from time to time. If our information practices change at some time in the future we will post the policy changes to this page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back to our Privacy Policy periodically. 
 
