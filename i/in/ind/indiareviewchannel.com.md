@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220215012id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204205423id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IndiaReviewChannel.com privacy policy
 
@@ -29,6 +29,3 @@ We use advertisements from third party companies. We try to avoid any kind of of
  **Business Transfers**
 
 As we continue to develop and grow our web site, we may sell IndiaReviewChannel.com or part of it. In such transactions, member information generally is one of the transferred business assets. 
-
-  
-
