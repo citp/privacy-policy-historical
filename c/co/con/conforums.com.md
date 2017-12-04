@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conforums.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612002702id_/http%3A//www.conforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conforums.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204212725id_/http%3A//www.conforums.com/privacy.html) for the most accurate reproduction.*
 
 # Conforums.com - Free Message Boards & Free Forums, Privacy Policy
 
