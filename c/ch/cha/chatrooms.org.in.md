@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatrooms.org.in privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603215855id_/http%3A//www.chatrooms.org.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatrooms.org.in privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204204552id_/http%3A//www.chatrooms.org.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
