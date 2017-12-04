@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621235437id_/http%3A//www.apnapaisa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204171329id_/http%3A//www.apnapaisa.com/privacy-policy) for the most accurate reproduction.*
 
 # ApnaPaisa.com Privacy Policy
 
@@ -22,7 +22,7 @@ We will automatically receive and collect certain anonymous information in stand
   * mobile phone number and contact details
   * ZIP/Postal code
   * demographic profile (like your age, gender, occupation, address)
-  * preferences (such as housing loan, personal loan, Loan against Property, Business Loan);
+  * preferences (such as [housing loan](https://web.archive.org/home-loan/), [personal loan](https://web.archive.org/personal-loan/), [Loan against Property](https://web.archive.org/loan-against-property/), [Business Loan](https://web.archive.org/business-loan/));
   * financial information (like salary)
 
 
@@ -53,7 +53,7 @@ The Site contains links to other Web sites. We are not responsible for the priva
 We will not use or rent your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission:
 
   * to provide products or services you’ve requested
-  * to help investigate violations of apnapaisa.com’s terms of use or to defend against legal claims;
+  * to help investigate violations of apnapaisa.com’s [terms of use](http://www.apnapaisa.com/terms-of-use/) or to defend against legal claims;
   * to disclose the information under special circumstances such as compliance with applicable local law, court summons, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
 
 
