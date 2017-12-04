@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coroflot.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605234032id_/http%3A//www.coroflot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coroflot.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204142015id_/http%3A//www.coroflot.com/privacy) for the most accurate reproduction.*
 
 # Coroflot — Design Jobs & Portfolios
 
