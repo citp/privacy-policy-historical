@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiedb.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519034950id_/http%3A//www.indiedb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiedb.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204221418id_/http%3A//www.indiedb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indie DB - Indie DB
 
