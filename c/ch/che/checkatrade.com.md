@@ -1,97 +1,100 @@
-> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114212id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204222159id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
 
-# Checkatrade: Privacy policy
+# Checkatrade: HomeServe Group privacy notice
 
-When you use **Checkatrade** you may need to provide us with personal information about yourself and perhaps other people. When you provide such information, you consent to the use by us of such information in accordance with the following privacy policy. If you send us information about another person, you confirm that you do so in good faith and with full accuracy to the best of your knowledge. 
+Here at the **HomeServe Group** we know how important it is to keep your personal data safe, that’s why we’re committed to making sure that you receive the service you’d expect and that your privacy is protected every step of the way. 
 
-Checkatrade have formed a partnership with a number of local authorities trading standards department (“ **Partners** ”) 
+In this notice you’ll discover exactly what information we collect from you and how we then use this to deliver our services, as well as your rights. It might not be something you’re interested in, but it’s really important you have a read and of course, let us know if you have any questions. 
 
-## Your Information
+The **HomeServe Group** (' **we** ' and ' **us** ') means HomeServe plc, together with any entity in which HomeServe plc directly or indirectly has at least a 50% shareholding. HomeServe plc uses a variety of well-known brand and trading names including (but not limited to): HomeServe Membership Ltd, Checkatrade, Help-Link, HomeServe Heating, HomeServe Connect and HomeServe Labs. We may transfer your personal information among the members of the **HomeServe Group** for the purposes contemplated in this privacy notice. 
 
-Unless we specifically notify you otherwise or you have elected otherwise, any information you provide (including any content you upload) to **Checkatrade** will only be used by **Checkatrade** or Partners to view, conduct vetting procedures and for the delivery of **Checkatrade** ’s services to you and/or your nominated acquaintances. **Checkatrade** will use the information for administration purposes and for the provision to you of any information and services that you have requested. We will only disclose your personal information without notice to you when we believe such disclosure to be required by law or regulation, or to be necessary to protect or defend the rights or property of **Checkatrade** or the safety of the public. 
+  * ## So, how do we use your information?
 
-Members of the public submitting feedback about Checkatrade members will not have their details made public, but please note Partners may view this feedback and any content submitted. Furthermore, the respective Checkatrade members will be made aware of the details privately where appropriate. 
+When you buy a product or service through us, we’ll collect some of your personal details, to make sure you have everything you need to make the most of our services. Please rest assured that we’ll only use this for administering your contract and to support the delivery of the services or products you’ve asked for. 
 
-We will only keep a record of your information for as long as is necessary for the purposes it was provided: for example, we will only hold your personal information on our systems for as long as you use the service that you have requested. We will ensure that all personal information supplied is held securely. 
+Examples of the types of personal information we usually collect are: 
 
-## IP Address Logging and Cookie Policy
+    * Name
+    * Address
+    * Telephone number (including mobile)
+    * Email address
+    * Date of birth
+    * Payment details (Direct Debit, credit/debit card number)
+    * Property type (flat, house etc.)
+    * Boiler details (make and model)
+    * Any additional requirements such as large print or Braille documentation
+    * Details of any additional authorised parties who can manage your requirements on your behalf
+    * I.P. address for your device (if visiting our website or using our app)
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
+The information requested during the application process is required to complete the sale of the product on offer and forms part of your contract with us. Unless otherwise stated, the information you provide will never be used for any other purpose without your permission. If any of the data is missing from the application form or is incorrect, we may not be able to process your request. 
 
-Checkatrade.com uses small files called cookies to help the website to function and to improve our web-based services. Cookies are stored on your computer, and used by your web browser. 
+  * ## Using information provided by third parties
 
-You can choose not to accept cookies from Checkatrade.com by changing your browser's settings, and switching off cookies. Choosing not to use cookies might make some parts of the website inaccessible, and some features may not work as expected. If you have not switched off cookies in your browser's settings, we will issue cookies when you access our site. 
+We sometimes use data from third parties or publicly available sources such as Experian, the edited electoral roll or the deceased preference service. Using this data helps us to ensure that our records are accurate and up to date by filling in any gaps on an address or clarifying vanity addresses and house numbers. It also allows us to remove anyone from our mailings that has passed away. 
 
-These are the cookies Checkatrade.com is currently using: 
+We also use data for marketing purposes. Any data we use in this way is thoroughly checked by both the supplier and our own internal teams to ensure that the correct marketing permissions are in place and that the data is being used fairly. 
 
-Cookie Type | Overview | Use on Checkatrade.com | Cookies used  
----|---|---|---  
-Performance | 
+  * ## Keeping and storing your data
 
-Performance cookies collect information about how Checkatrade.com is used so that we can improve the site. All information collected by these cookies is aggregated and therefore anonymous.
+If you’re a current or past customer, we’ll keep a copy of your personal details for no longer than 6 years, from the time your active relationship with us ends. Holding on to data allows us to keep accurate records for tax purposes and to handle any future complaints. All other personal data used for prospecting and quotation requests is kept for a maximum of 90 days, unless otherwise required by law. 
 
-Accepting these cookies is a condition of using Checkatrade.com. If you block these cookies we cannot be sure how the website will perform during your visit.
+Some of the data that we collect may be transferred to and stored at a destination outside the European Economic Area ('EEA'), for example some of our IT systems are run on servers hosted in the USA. We take all steps reasonably necessary to ensure that your data is treated in accordance with this privacy notice and applicable privacy laws. 
 
-| 
+  * ## Sharing your data with third parties
 
-We use these cookies to:
+We often work with a number of carefully selected third parties, who introduce us to their customers, so we can promote the products and services we offer. 
 
-  * Provide internal use statistics on how Checkatrade.com is used
-  * Help us improve Checkatrade.com by measuring any errors that occur
-  * Test Checkatrade.com design and operability
-  * Remember if we've already asked you if you want to fill in a survey
+If you’ve been introduced to us through one of our partners, we may share details of the products and services you’ve purchased with them. Sharing data in this way helps us resolve individual complaints and helps us ensure that we’re offering the right products, to the right people. 
 
-| 
+We respect your privacy and that’s why we don’t give your data to any third parties for marketing purposes. However, on occasion and in addition to the above, we may pass your information to a limited number of third parties for the following reasons: 
 
-  * _ga
-  * __utma/b/c/v/z
+    * To deliver the services you’ve asked for, which might include giving information to members of your family, household, or other people who have an interest in the property, for instance, landlords or letting agents
+    * For legal or regulatory purposes including fraud prevention
+    * If we buy or sell any business or company assets
 
-  
-Functional | 
+  * ## We’ll always keep you in the loop
 
-Functional cookies allow Checkatrade.com to remember choices you make such as your search preferences, and any customisations you make to pages on Checkatrade.com during your visit.
+Whenever we collect your personal information we’ll give you the opportunity to let us know how you’d like us to get in touch in the future. We promise not to inundate you with marketing messages, but we also understand if you’d prefer not to receive anything from us. 
 
-Accepting these cookies is a condition of using Checkatrade.com. If you block these cookies certain features and services may be affected and we cannot be sure how Checkatrade.com will perform during your visit.
+If you’ve asked us to send you marketing material, you can change your mind at any time by contacting us using the details in the Contact Us section. You’ll also find an unsubscribe link at the bottom of every marketing email we send to you. 
 
-| 
+If you’ve given us an email address you may receive messages related to the management of your policy via email, which include policy and renewal documents. If you’d prefer not to receive these messages in this way, just let us know and we’ll be happy to provide them in paper form instead. 
 
-We use these cookies to:
+  * ## Your rights matter
 
-  * Remember selections or information you have entered when you navigate to different pages during your session on Checkatrade.com (for example options you have selected when searching) 
-  * Provide individual services, such as giving feedback on our members.
+If you’d like to see the personal information that we hold about you, you can request a copy any time. If you find that this information is incorrect you can ask for it to be updated. Or, if you believe the information is being processed without a legal basis, you can ask us to stop or request that it’s deleted from our systems. 
 
-| 
+To action any of the above, send an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b3834352f3a382f1b38333e38303a2f293a3f3e75383436) or alternatively you can write to us at: 
 
-  * .ASPXANONYMOUS
-  * ASP.NET_SessionId
-  * .ASPXAUTH
-  * showFeedbackMap
-  * NoMobileRedirect
-  * LastSearch
-  * RecentlyViewedCompanies
+Checkatrade Head Office  
+5 - 6 Sherrington Mews, Ellis Square,  
+Selsey,  
+West Sussex,  
+PO20 0FJ
 
-  
-  
-### Sharing cookies
+We won’t ever charge you for a copy of your personal data but we may ask you for proof of your identity before we disclose any information. Once we’ve seen this, we’ll send you a copy of the personal data we hold within 30 days. In addition, if you decide to move away from us for any reason, you can also request for your personal data to be transferred to a new provider on your behalf. 
 
-We use sharing tools for Facebook and Twitter (such as the "like" button). These services may send you cookies from their websites. We don't directly control the setting of these cookies, but you can find out more about how they use and set cookies on their websites. 
+  * ## Customer profiles
 
-## Data Protection Compliance
+We carry out something called ‘profiling’ so we can understand the needs, behaviours and socio-demographic characteristics of our customers. This helps us make sure that we‘re offering the right products and services to the right people, for example, not offering gas products to people without a gas supply or products to people living in sheltered accommodation, who don’t need our services. Profiling also means we can tailor our offerings to current customers, enhancing the potential benefits of being a customer.
 
-**Checkatrade** is a trading name of **Vetted Ltd**. 
+  * ## Contact us
 
-Vetted Ltd is a company registered in England and Wales no. 04285394. Registered office: Unit 6 Sherrington Mews, Ellis Square, Selsey, Chichester, West Sussex, PO20 0FJ. 
+  * ## Got any worries?
 
-In accordance with the Data Protection Act 1998, Vetted Ltd is registered as a data controller with the Information Commissioner's office. Registration number Z6851067. 
+If, at any time, you feel that we haven’t processed your data fairly or you’re not satisfied with how we’ve handled your personal information, you can contact the Information Commissioners Office, who will look into this for you. For full details about how to share any concerns you may have, visit [www.ico.org.uk/concerns](http://www.ico.org.uk/concerns/)
 
-## International Transfer
+  * ## Links to other Websites
 
-In order to provide you with the products and services you require, we may need to transfer your personal information to agents in countries outside the European Union, some of which do not protect privacy rights as extensively as in the United Kingdom. In addition your information may be stored on computers not in the United Kingdom. However in such cases we will ensure that the agent is contractually bound to protect your details to the same extent as regulated by Data Protection Act 1998. 
+Any links to other websites are provided solely as pointers to information on topics that may be useful to the users of our website. Please remember that when you use a link to go from our website to another website, this privacy notice will no longer apply. Your browsing and interaction on any other website, including those which have a link on our website, are subject to that site's own rules and policies. We recommend that you read the rules and policies relating to that website before submitting any personal information.
 
-## Your Rights
+  * ## Updates
 
-You have the right to receive a copy of the personal information that we hold about you. Access can be granted by means of a specific link and ID number which we can send to you upon request. We may charge a small fee towards the cost of administering any request you make. 
+This notice will be updated from time to time and we recommend that you check back regularly but we will notify you of any changes through our website. The version number and date released will always be listed below:
 
-If you wish to correct any information you have provided to us or if you have any questions about this privacy statement, the practices of this site, or your dealings with the site, [please contact us](https://web.archive.org/Contact/). 
+**Version number: 1.0**
 
-**(Revised: 2 January 2015)**
+**Date released: December 2017**
+
+
+
