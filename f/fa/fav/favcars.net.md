@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favcars.net privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602194142id_/http%3A//favcars.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favcars.net privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204023253id_/http%3A//favcars.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Favcars.net
 
