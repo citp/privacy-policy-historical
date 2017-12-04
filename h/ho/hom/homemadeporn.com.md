@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadeporn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043400id_/http%3A//www.homemadeporn.com/info.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadeporn.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204035129id_/http%3A//www.homemadeporn.com/info.php) for the most accurate reproduction.*
 
 # Homemadeporn.com - Amateur & homemade porn community! Upload your homemade sex photos and videos or download user submitted amateur porn!
 
@@ -38,4 +38,4 @@ At this time, this web site does not produce or license any 18 U.S.C Section 225
 
 Visitors who have any questions about out Privacy Policy, Terms and Conditions, the practices of this site, or their interactions with this website, should visit the Customer Service section of this site. Alternatively you can contact us by electronic or conventional mail.
 
-Send us an email using the [contact form](https://web.archive.org/web/20170606043400id_/http%3A//www.homemadeporn.com/contact.php).
+Send us an email using the [contact form](https://web.archive.org/web/20171204035129id_/http%3A//www.homemadeporn.com/contact.php).
