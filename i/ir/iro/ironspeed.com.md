@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironspeed.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525083002id_/http%3A//www.ironspeed.com/company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironspeed.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204035138id_/http%3A//www.ironspeed.com/company/Privacy.aspx) for the most accurate reproduction.*
 
 # Iron Speed
 
