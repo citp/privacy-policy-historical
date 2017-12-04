@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowrestlingtees.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128203141id_/http%3A//www.prowrestlingtees.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestlingtees.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204065413id_/http%3A//www.prowrestlingtees.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,16 +58,16 @@ Our Website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * Whenever you are asked to fill in a form on the Website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes [W4] 
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at shipping@prowrestlingtees.com
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. [W5] 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us at [shipping@prowrestlingtees.com](mailto:shipping@prowrestlingtees.com) or 2348 N. Damen Ave., Chicago, Illinois 60647. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3b4853524b4b52555c7b4b49544c495e484f5752555c4f5e5e4815585456) or 2348 N. Damen Ave., Chicago, Illinois 60647. We will promptly correct any information found to be incorrect.
 
 **California Privacy Rights**  
-California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates for those entities’ direct marketing purposes. We do not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about our privacy practices, please contact us at [info@prowrestlingtees.com](mailto:info@prowrestlingtees.com).
+California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates for those entities’ direct marketing purposes. We do not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about our privacy practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd94939b92bd8d8f928a8f988e899194939a8998988ed39e9290).
 
 **Changes to Privacy Policy**
 
