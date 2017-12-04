@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181643id_/http%3A//www.wickes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204221348id_/http%3A//www.wickes.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wickes.co.uk
 
 When you shop with Wickes or visit our website, you trust us with your information. This Privacy Policy explains what information we collect and how we use it.
 
 Wickes is committed to protecting your privacy and complying with the data protection laws in the United Kingdom. This Privacy Policy, together with our Cookies Policy, explains how we use any information we collect about you and forms part of our Conditions of Website Use.
+
+Any payments made via PayPal will be subject to the [PayPal Privacy Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full).
 
 #### Information we collect from you and how we use it
 
