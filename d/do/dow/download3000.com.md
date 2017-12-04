@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the download3000.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041738id_/http%3A//www.download3000.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download3000.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204030824id_/http%3A//www.download3000.com/privacy) for the most accurate reproduction.*
 
-# Privacy statement
+# Download3000
 
 This is the web site of Elerion ltd.
 
-We can be reached via our [help desk](http://support.download3000.com/)
+We can be reached via our [contact form](https://web.archive.org/contact)
 
 #### Registration
 
