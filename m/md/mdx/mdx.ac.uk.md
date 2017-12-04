@@ -1,93 +1,190 @@
-> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618025243id_/http%3A//www.mdx.ac.uk/about-us/policies/web-privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204030736id_/http%3A//www.mdx.ac.uk/about-us/policies/privacy) for the most accurate reproduction.*
 
-# Web privacy and cookies | Middlesex University London
+# Privacy | Middlesex University London
 
-_General_
+The Data Protection Act 1998 (DPA) (the General Data Protection Regulation GDPR from May 2018) protects the rights of individuals by setting out certain rules as to what organisations can and cannot do with information about people. A key element to this is the principle to process individuals’ data lawfully and fairly. In order to meet the fairness part of this we need to provide information on how we process personal data.
 
-This policy explains what information we gather when you visit the University's central web site, and explains how that information is used.
+The University takes its obligations under the Data Protection Act very seriously and will always ensure personal data is collected, handled, stored and shared in a secure manner.
 
-It is important for you to appreciate that the central web site provides extensive links to other independent sites, both within the University and elsewhere. This policy applies only to direct accesses to the central web site - URLs starting <http://www.mdx.ac.uk/> You will need to consult the appropriate information on other sites for information on their policies.
+The following statement will outline what personal data we collect, how we use it and who we share it with. It will also provide guidance on your individual rights and how to make a complaint to the Information Commissioner’s Office, the regulator for data protection in the UK.
 
- _Data collected_
+The University’s official contact details are:
 
-In common with most web sites, this site automatically logs certain information about every request made of it (see below for more details). This information is used for system administration, for bug tracking, and for producing usage statistics.
+Middlesex University  
+The Burroughs  
+London  
+NW4 4BT
 
-We may collect and process the following data about you:
+Tel: +44 (0)20 8411 5555
 
-Information that you provide by filling in forms provided on this website for a specific purpose. By supplying this information you are consenting to the University holding and using it for the purposes for which it was provided.
+The University’s Data Protection Officer is Teresa Kelly([dpaofficer@mdx.ac.uk](mailto:dpaofficer@mdx.ac.uk)).
 
-If you contact us, we may keep a record of that correspondence.
+## How and why does the University use personal data?
 
- _Logged data_
+The largest volume of personal data the University processes is in relation to students, at both undergraduate and postgraduate level. The primary purposes we process information about these individuals include:
 
-The following data is automatically collected for each request:
-
-  * The name or network address of the computer making the request. Note that under some (but not all) circumstances it may be possible to infer from this the identity of the person making the request. Note also that the data recorded may be that of a web proxy rather than that of the originating client
-  * The date and time of connection
-  * The HTTP request, which contains the identification of the document requested
-  * The status code of the request (success or failure etc.)
-  * The number of data bytes sent in response
-  * The contents of the HTTP Referrer header supplied by the browser
-  * The content of the HTTP User-Agent header supplied by the browser
-
-
-
-Logging of additional data may be enabled temporarily from time to time for specific purposes.
-
-In addition, the computers on which the web site is hosted keep records of attempts (authorised and unauthorised) to use them for purposes other than access to the web server. This data typically includes:
-
-  * the date and time of the attempt,
-  * the service to which access was attempted,
-  * the name or network address of the computer making the connection,
-  * and may include details of what was done or was attempted to be done.
+  * to enable us to administer student-related functions from original applications through to graduation and to provide alumni services;
+  * to plan and account for the use of the services provided;
+  * to produce information including statistics for relevant external agencies such as the Higher Education Statistical Agency (HESA) and the Higher Education Funding Council for England (HEFCE) which allocates funds to the University on the basis of student numbers;
+  * to enable University staff to communicate with students;
+  * to monitor academic progress over the period of enrolment towards completion of a qualification;
+  * to carry out assessment, authorise award of qualifications and verification of awarded qualifications post-study;
+  * to monitor, complaints, disciplinary cases and academic appeals;
+  * to provide student support services, including financial, pastoral and IT/learning resources;
+  * to comply with immigration compliance checks in relation to sponsored migrants;
+  * to ensure all eligible students have access to University accommodation;
+  * to monitor, develop and update University systems to ensure they continue to operate effectively and securely; and
+  * to monitor equality and diversity objectives within the University.
 
 
 
-#### Disclosure and uses of personal information
+The University also processes personal data in relation to staff, both academic and non-teaching. This is undertaken to facilitate recruitment activity and to administer the requirements the University must meet as an employer in line with UK law. In addition, it is used to facilitate operational activity within the relevant faculty / professional service.
 
-We use information held about you in the following ways:
+Finally, the University processes personal data as part of research activity. This is done in line with the [University's Code of Practice for Research](http://www.mdx.ac.uk/__data/assets/word_doc/0025/217393/CoP-for-Research-approved-15-Apr-2016.doc), which includes meeting the requirements of current data protection legislation.
 
-  * to ensure that content from our website is presented in the most effective manner for you and for your computer or device by gathering aggregate information about our users using it to analyse the effectiveness and popularity of this website
-  * to allow you to participate in interactive features of our service, when you choose to do so.
+## What personal data does the University collect?
+
+The University collects personal data from students at various stages. The volume and nature of the personal data collected is outlined below:
+
+  * Initial email/telephone enquiry: 
+    * name and address
+    * contact details (telephone number, email address)
+    * subject / area of interest
+  * Details from application forms: 
+    * name and address
+    * contact details (telephone number, email address)
+    * age / date of birth
+    * gender
+    * nationality and country of residence
+    * educational records to date
+    * academic references (including personal statement and predictive grades)
+    * disability declaration
+    * criminal conviction declaration
+  * Further data collected at enrolment or updated during a student’s time at the University: 
+    * Home address and next of kin
+    * Term-time address
+    * Entry and other qualifications
+    * Demographic information
+    * Funding, bursary and fee related information
+    * Information needed to provide services in relation to disability, wellbeing or any other type of pastoral support
+    * Course and stage details
+    * Attendance, progress and current status
+    * Assessment results
+    * Photograph for identification badge
+    *  _For students undertaking courses in nursing, social work and midwifery a DBS Clearance and a full occupational health check will be completed to allow a student to commence a placement_
+  * Data collected for statutory monitoring and reporting purposes: 
+    * Religious belief
+    * Parental occupation and education
+    * Sexual orientation
+    * Ethnic origin
+  * Data collected from international students on a Tier 4 (or similar) visa to meet UK Visa and Immigration requirements: 
+    * passport details
+    * visa lifecycle details
+    * data to evidence attendance on course of study
 
 
 
-We may disclose your personal information to third parties in the following circumstances:
+Additional personal data may be collected by the University where relevant in relation to placements, professional body requirements, extenuating circumstances applications, appeals/complaints/disciplinary cases and any further optional student services.
 
-  * if we have obtained your consent to do so
-  * when we are required or authorised by law, court order, regulatory or governmental authority to disclose your personal data
-  * if required to protect the rights, property or safety of Middlesex University, its members or others.
+The University collects the following information from academic and non-teaching staff which is outlined below:
+
+  * initial application: 
+    * name and address
+    * national insurance number
+    * contact details (telephone number, email address)
+    * self-declaration of permission to work in the UK and upload of passport/visa copy if necessary
+    * relevant qualifications or indication of highest qualification held
+    * professional development / training and membership of any professional body
+    * employment history
+    * supporting statement
+    * Referee details
+    * Criminal record disclosure
+    * Data captured for equal opportunities monitoring (gender, date of birth, nationality, marital status, sexual orientation, religious belief, ethnicity)
+    * Declaration about any disability as defined under the Equality Act 2010
+  * Once a candidate has been made an offer of employment: 
+    * Bank details
+    * Emergency contact details
+    * Qualification information required to be shared with HESA
+    * Data captured for equal opportunities monitoring (as above)
+    * Health information
+    * Certain positions also require a DBS compliance check to be completed
 
 
 
-Relevant subsets of this data may be passed to computer security teams as part of investigations of computer misuse involving this site or other computing equipment in the University.
+Further personal data captured about an employee is likely to relate to any performance or appraisal process and any information needed to maintain a sickness/absence record.
 
-In addition, this site uses Google Analytics to help us analyse site usage and to improve it. To support this, selected information about your interaction with the site is sent to Google for them to analyse on our behalf. For more information about Google Analytics see [http://www.google.com/analytics/](http://www.google.com/analytics).
+## Sharing of personal data
 
- _  Links to other websites_
+The University is required to share personal data with certain other organisations in order to meet statutory requirements or to provide services to students. Sharing will always be undertaken in line with the requirements of data protection law, either through the consent of the individual, or another relevant legal gateway. The personal data that is actually shared will always be limited precisely to what the other organisation needs to meet its requirements or deliver its services.
 
-This website contains links to and from third-party sites. This policy only covers use of cookies on this site. You should consult privacy and cookie policies on third-party sites before you submit and personal data. Middlesex University is not responsible for any cookies that may be set by third party websites that are linked to from pages on [www.mdx.ac.uk](http://www.mdx.ac.uk/).
+The information below outlines the key partners with whom the University shares personal data with on a periodic basis:
 
- _Access to personal data_
+  * Middlesex University Students’ Union in order for the administration of the Union and its clubs/societies, administration of elections and student representation and communication to students to promote Union services and events. For further information please see the MDXSU privacy notice;
+  * The University has two overseas campuses in Dubai and Mauritius which are both outside of the European Economic Area (EEA) and personal data will need to be shared with these campuses for student/staff administration and research activity;
+  * Professional and Funding Bodies: 
+    * Validation of registrations and awards; and
+    * Approval of funding applications.
+  * National/Local Government Departments and other public bodies: 
+    * [Higher Education Statistics Agency](https://www.hesa.ac.uk/) (HESA) to produce a variety of statistical reports about higher education that are required to be published in the public interest;
+    * Skills Funding Agency in order to make them aware who are enrolled apprenticeships students are and subsequently the academic progress those students are making;
+    * UK Immigration agencies to ensure compliance with the conditions attached to student/staff visas;
+    * the Student Loans Company in connection with grants, fees, loans and bursaries;
+    * the courts, the police and other organisations with a crime prevention or law enforcement function (subject to meeting the conditions of Section 29 of the DPA);
+    * The NHS for the purpose of coordinating student placement activity for nursing and midwifery students; and
+    * Local authorities for the purposes of assessing and collecting council tax.
+  * Other individuals / organisations: 
+    * External examiners for examination, assessment and moderation purposes;
+    * International recruitment consultants and agents (for relevant international students);
+    * Housing providers for students;
+    * The University’s insurers and legal advisers for the purpose of providing insurance cover or in the event of a claim;
+    * The Office Of The Independent Adjudicator to review student complaints;
+    * The University’s recognised Trade Unions, the University and College Union and Unison (for staff with an active membership only); and
+    * Employers who request a reference from the University (for relevant staff and students).
 
-For the purpose of the UK Data Protection Act 1998, the 'Data Controller' for the processing of data collected by this site is Middlesex University, and the point of contact for subject access requests is the ** ** University Data Protection Officer [DPA-Officer@mdx.ac.uk](mailto:DPA-Officer@mdx.ac.uk)
 
-  **Images**
 
-The images on this site are covered by our own copyright or, in cases where the original copyright holder is another person or organisation, we've been given their permission to use it.
+## How long does the University keep personal data?
 
-We always seek written permission when taking and using photos of people, who are clearly identifiable, on our grounds and involved in our activities. We may use these photos on our website, in our publications or in other materials.
+The University takes its obligations under the DPA very seriously in terms of not holding onto personal data for any longer than is necessary. The University has a retention schedule in place for the different categories of data it holds.
 
-If you're in an image on our website, you haven't given us permission to use it and would like it removed, please [contact us](mailto:webadmin@mdx.ac.uk).
+In some cases, there are good reasons as to why the University needs to retain data about students and other individuals for a significant period of time. The most important reasons are outlined below:
 
- **Cookies**
+  * in order that student awards can be verified in the long-term;
+  * to produce transcripts and references;
+  * for alumni services and ongoing relations with the University;
+  * for careers and employability services;
+  * to deal with complaints, appeals and disciplinary cases;
+  * for statutory reporting purposes and in order to complete statutory surveys such as the Destination of Leavers from higher Education Surveys;
+  * to produce references on request from previous employees; and
+  * in order to meet pension obligations.
 
- _Cookies_
 
-This website uses cookies, which are small pieces of information that are issued to your computer or other internet-enabled device when you visit the website. Cookies are stored by your browser and hard drive and are used to distinguish you from other visitors to the site.
 
-For more details about cookies, how to disable them and the cookies we use (including Google Analytics cookies), there is a separate cookie policy for pages with URLs starting <http://www.mdx.ac.uk/>.
+## Your rights
 
-Our website uses these [cookies](http://www.mdx.ac.uk/about-us/policies/web-privacy-and-cookies/privacy-policy-chart "Cookie information"). 
+An individual has the right to ask the University what personal data we hold about them, and to ask for a copy of that information. This is called making a Data Protection Subject Access Request.
 
-The web browsers of most computers are set up to accept cookies. You can enable your web browser to disable cookies or prompt you when a website is attempting to add a cookie. You can also delete cookies that have previously been added to your computer's cookie file. Please visit the[ Information Commissioner's Office](http://ico.org.uk/) website to find out how to disable and delete cookies.
+A Subject Access Request should be submitted in writing to the Data Protection Officer ([dpaofficer@mdx.ac.uk](mailto:dpaofficer@mdx.ac.uk)) or in hard copy to the postal address provided earlier. The University reserves the right to ask you to provide proof of identification and for you to clarify your request if it is unclear in the first instance. You will receive a reply no longer than 40 calendar days from the date you make the request in writing.
+
+If you are unhappy with the initial response you can ask the University to undertake a further search if there is specific information you have good reason to believe exists but that hasn’t been provided.
+
+You also have the right to complain to the UK Regulator the Information Commissioner’s Office (ICO’s) if you believe you request has not been dealt with properly or you have a complaint to raise against the University for any other data protection related issue. A complaint can be raised via the [ICO’s website](https://www.ico.org.uk/concerns) or write to the following address:
+
+The Office of the Information Commissioner  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
+
+You also have the right to withdraw consent from the processing of your personal data by the University at any time, if your consent was sought initially to use your personal data.
+
+### Right to rectify
+
+If you believe the University holds information about you that is factually incorrect please contact Academic Registry ([a.r.admin@mdx.ac.uk](mailto:a.r.admin@mdx.ac.uk)) if you are a student or Human Resources ([HRSS@mdx.ac.uk](mailto:HRSS@mdx.ac.uk)) if you are a member of staff providing the correct information, and the University should update it within one month.
+
+From May 2018 you will also have a number of new individual rights under the GDPR. The means to exercise these new rights with the University will be published early 2018 in the run-up to the rights coming into effect.
+
+### Your responsibilities
+
+All students, staff and any other relevant individual who handles personal information of which the University is responsible for must following the requirements of the Data Protection Policy.
