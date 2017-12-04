@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qr-code-generator.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608135757id_/http%3A//www.qr-code-generator.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qr-code-generator.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204201138id_/http%3A//www.qr-code-generator.com/company/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -11,8 +11,8 @@ We respect your private and personal sphere, because privacy is a matter of trus
 Responsible office in accordance with the German Data Protection Act, for the collection, processing and use of your personal data, is:
 
 Egoditor UG (haftungsbeschränkt)  
-Weststraße 93  
-33615 Bielefeld
+Am Lenkwerk 13  
+33609 Bielefeld
 
 In case you want to disagree with the collection, processing or use of your personal data according this Privacy Policy, you can do so via email, fax or letter using the following contact data:
 
