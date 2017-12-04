@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiledokan.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616163023id_/http%3A//www.mobiledokan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiledokan.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204071838id_/http%3A//www.mobiledokan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobileDokan
 
