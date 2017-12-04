@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061623id_/http%3A//www.phunware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapit.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204235945id_/http%3A//www.phunware.com/privacy) for the most accurate reproduction.*
 
 # Phunware Service Level Agreement and Privacy Policy | Phunware
 
@@ -14,7 +14,7 @@ Exclusions to the uptime guarantee include but are not limited to scheduled down
 
 Phunware shall use its logs and other reporting tools to verify up time.
 
-## Privacy Policy
+### Privacy Policy
 
 Last Updated: April 7, 2017
 
