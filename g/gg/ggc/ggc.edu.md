@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ggc.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142058id_/http%3A//www.ggc.edu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggc.edu privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205002256id_/http%3A//www.ggc.edu/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Georgia Gwinnett College
 
