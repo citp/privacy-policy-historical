@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatdoumeme.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531033123id_/http%3A//www.whatdoumeme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatdoumeme.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204055743id_/http%3A//www.whatdoumeme.com/privacy-policy) for the most accurate reproduction.*
 
 # What Do U Meme - Make A Meme
 
@@ -20,4 +20,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 ## Changes to this Privacy Policy
 
-The contents of this policy may be altered at any time, at our discretion. If you have any questions regarding the Privacy Policy, then you may contact us at thememeco@gmail.com 
+The contents of this policy may be altered at any time, at our discretion. If you have any questions regarding the Privacy Policy, then you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
