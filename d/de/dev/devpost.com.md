@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devpost.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610235051id_/https%3A//info.devpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devpost.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204155350id_/https%3A//info.devpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
