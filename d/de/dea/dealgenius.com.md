@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealgenius.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609044347id_/http%3A//www.dealgenius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealgenius.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204155423id_/http%3A//www.dealgenius.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
