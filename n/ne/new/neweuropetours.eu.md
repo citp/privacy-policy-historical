@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neweuropetours.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162409id_/http%3A//www.neweuropetours.eu/main/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neweuropetours.eu privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204223154id_/http%3A//www.neweuropetours.eu/main/en/privacy-policy) for the most accurate reproduction.*
 
 # SANDEMANs NEW Europe - Privacy Policy
 
