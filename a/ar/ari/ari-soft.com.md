@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175723id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204133756id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
 
 You currently have **0 items** in your cart.
 
-  * 14/04/2017 Happy Easter
+  * 18/11/2017 Black Friday is coming
 
-Wish a Happy Easter and give 30% discount for all our WordPress and Joomla! extensions. Use EASTER17 coupon code. The offer is valid till 17 April.
+Don't wait BLACK FRIDAY, use **FRIDAY17** coupon code to get 35% discount for all our extensions right now.
 
-  * 16/03/2017 Celebrate St. Patrick's Day together
+  * 05/09/2017 BIG Autumn SALE
 
-Get 25% discount for Joomla! and WordPress extensions with **PATRICK17** coupon code. Hurry up the offer is valid till 20 March.
+Use **AUTUMN17** coupon code to buy our WordPress or Joomla! extensions with 25% discount. Hurry up! The offer is valid till 11 September.
 
 
   
