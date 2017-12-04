@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacy-search.biz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041243id_/http%3A//www.privacy-search.biz/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacy-search.biz privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204235411id_/http%3A//www.privacy-search.biz/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # web.archive.org
 
@@ -62,7 +62,7 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 ### Uninstalling web.archive.org
 
-You can uninstall SearchPrivacy by following the instructions [here](https://web.archive.org/web/20170606041243id_/http%3A//www.privacy-search.biz/uninstall.html).
+You can uninstall SearchPrivacy by following the instructions [here](https://web.archive.org/web/20171204235411id_/http%3A//www.privacy-search.biz/uninstall.html).
 
 ### Contacting Us
 
