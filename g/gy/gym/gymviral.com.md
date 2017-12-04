@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gymviral.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028010111id_/http%3A//gymviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gymviral.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204105600id_/http%3A//www.gymviral.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GymViral
+# Privacy Policy – GymViral
 
 This privacy policy sets out how Gymviral.com uses and protects any information that you give us when you use this website. Gymviral.com  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Gymviral.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 18, 2013.
 
@@ -18,13 +18,13 @@ Additionally, we collect non-personally identifiable information for aggregation
 
 Additionally, Gymviral.com utilizes cookies to show our advertisements to you on various websites on the Internet.
 
-You may opt out of Google’s use of cookies by visiting Google’s [Ads Settings](http://www.google.com/settings/ads "Google Ads Settings").
+You may opt out of Google’s use of cookies by visiting Google’s [Ads Settings](https://www.google.com/settings/ads "Google Ads Settings").
 
 **Third Party Vendors**
 
   * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Gymviral.com and/or other sites on the Internet.
-  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
   * Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads.
 
 
