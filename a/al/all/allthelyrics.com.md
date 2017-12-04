@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthelyrics.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626212146id_/http%3A//www.allthelyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthelyrics.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204182658id_/http%3A//www.allthelyrics.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | All The Lyrics
 
@@ -20,7 +20,7 @@ This site contains many links to other sites on the Web. We cannot control and a
 
 ## Use of Cookies
 
-Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record keeping purposes. Cookies make using our website and technologies easier by, among other things, saving your preferences for you. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. You may also opt-out from third party tracking via an industry-standard opt-out page such as the Network Advertising Initiative’s page accessible via its consumer website at [www.networkadvertising.org](https://web.archive.org/web/20170626212146id_/http%3A//www.allthelyrics.com/www.networkadvertising.org).
+Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record keeping purposes. Cookies make using our website and technologies easier by, among other things, saving your preferences for you. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. You may also opt-out from third party tracking via an industry-standard opt-out page such as the Network Advertising Initiative’s page accessible via its consumer website at [www.networkadvertising.org](https://web.archive.org/web/20171204182658id_/http%3A//www.allthelyrics.com/www.networkadvertising.org).
 
 ## Your Acceptance of These Terms
 
