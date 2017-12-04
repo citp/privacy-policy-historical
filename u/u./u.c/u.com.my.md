@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the u.com.my privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124161443id_/http%3A//www.u.com.my/tnc/1209) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u.com.my privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204110136id_/http%3A//u.com.my/tnc/227) for the most accurate reproduction.*
 
-# U Mobile - Policies, Terms & Conditions
+# Policies, Terms & Conditions | U Mobile
+
+Privacy Policy
 
 This policy explains the way we collect and use the personal information that we collect from you in the course of providing Services to you. We will protect and maintain your privacy in accordance with this policy. This policy forms part of and shall be read together with all other terms and conditions applicable to the U Mobile Service that you use.
 
@@ -20,13 +22,13 @@ The meaning of general words is not limited by specific examples introduced by "
 
 " **U Mobile Sites** " means U Mobile websites and WAP portal and any other sites or portals that we own or operate.
 
-### Agreement to processing of your personal information
+### **Agreement to processing of your personal information**
 
 By providing your personal information or obtaining the Services or by visiting or using the U Mobile Sites, you acknowledge and consent to your personal information being processed by us and disclosed to third parties according to this policy.
 
 If you provide personal information about someone other than yourself (for example about your family members if you have acquired and is responsible for a Service that they will use). we rely on you to inform them that you are providing their personal information to us and to ensure they have consented to you giving us their information. By giving their personal information, you are regarded to have obtained their consent for disclosure of their personal information to us.
 
-### Types of personal information we collect
+### **Types of personal information we collect**
 
 The personal information we collect depends on the types of Services you use and subscribe to. The information we collect include-
 
@@ -47,15 +49,15 @@ We also collect and process details of your usage of our Services including:-
 
 
 
-### Obligatory or voluntary personal information
+### **Obligatory or voluntary personal information**
 
 Your personal information that we collect may be obligatory or voluntary. The information which are required in the registration form (marked with *) are examples of obligatory information that you need to provide to enable us to process your application and subsequently provide Services to you. Other obligatory information includes the information referred to above under "Types of personal information we collect". Such personal information is collected automatically and if you do not agree to provide such obligatory information we will not be able to or continue to provide the relevant Services or we may limit the provision of the relevant Services.
 
-### Sensitive personal information
+### **Sensitive personal information**
 
 We generally do not require sensitive personal information about you for the provision of Service to you unless required by applicable laws. if you do not want sensitive personal information collected, please do not submit it. " **sensitive personal information** " includes any personal information as to the physical or mental health or condition, political opinions, religious beliefs or other beliefs of a similar nature, the commission or alleged commission of any offence.
 
-### Ways of collecting personal information
+### **Ways of collecting personal information**
 
 Your personal information is collected through various methods and channels directly from you or from our own records of how you use our Services or from third parties, including:
 
@@ -77,7 +79,7 @@ Your personal information is collected through various methods and channels dire
 
 
 
-### Purpose of collecting and processing personal information
+### **Purpose of collecting and processing personal information**
 
 We process your personal information for purposes which are necessary or related to the provision of our Services including the following:-
 
@@ -105,7 +107,7 @@ We process your personal information for purposes which are necessary or related
 
 
 
-### Classes of third parties who may have access to your personal information
+### **Classes of third parties who may have access to your personal information**
 
 In the course of providing you with our Services, your personal information may be disclosed to certain third parties that U Mobile works with. Some examples of these third parties are: -
 
@@ -124,7 +126,7 @@ In the course of providing you with our Services, your personal information may 
 
 
 
-### Your right to access or update/correct your personal information or withdraw your consent
+### **Your right to access or update/correct your personal information or withdraw your consent**
 
 If you are an individual:-
 
@@ -146,11 +148,11 @@ If you request for access to the personal information, we will endeavour to reve
 
 There are some exceptions by law where we may refuse your request for access or correction of personal information. We will notify you accordingly in such an event.
 
-### Accuracy of your personal information
+### **Accuracy of your personal information**
 
 You are responsible for providing accurate and complete information to us about yourself and any other person whose personal information you provide us and for updating this personal information as and when it becomes incorrect or out of date by contacting us.
 
-### Transfer of personal information to places outside Malaysia
+### **Transfer of personal information to places outside Malaysia**
 
 We may need to transfer your personal information to a place outside Malaysia if our suppliers or service providers involved in any part of our provision of Services to you are located outside of Malaysia or if you use the Services while visiting countries outside Malaysia. We will take reasonable precautions to ensure that any such suppliers or service providers are contractually bound not to use your personal information for any reason other than to provide the Services.
 
