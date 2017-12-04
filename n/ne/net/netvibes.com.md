@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netvibes.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624150711id_/http%3A//www.netvibes.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netvibes.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204070723id_/http%3A//www.netvibes.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Netvibes | Privacy Policy
 
