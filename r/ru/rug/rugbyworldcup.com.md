@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628114055id_/http%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204211512id_/https%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
 
 # Rugby World Cup 2019 Privacy Statement
 
@@ -108,14 +108,15 @@ You can contact us by emailing us at website@rugbyworldcup.com (for RWC) or [Or
 
 _This privacy policy was last updated on 20 September 2016.  _
 
-_Rugby World Cup Limited,  
-Huguenot House,  
-35-38 St. Stephen's Green,  
-Dublin, Ireland._
+_Rugby World Cup Limited  
+World Rugby House  
+_ _8-10 Pembroke Street Lower  
+_ _Dublin    
+_ _D04 AE93_
 
   
-Rugby World Cup 2019 Organising Committee  
-2-8-35, Kitaaoyama, Minato-ku, Tokyo 107-0061 Japan
+_Rugby World Cup 2019 Organising Committee_  
+ _2-8-35, Kitaaoyama, Minato-ku, Tokyo 107-0061 Japan_
 
   
-Copyright © Rugby World Cup Limited 2016  All rights reserved.
+_Copyright © Rugby World Cup Limited 2016   All rights reserved._
