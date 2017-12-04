@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610082511id_/http%3A//www.cvisiontech.com/legal/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204104909id_/http%3A//cvisiontech.com/legal/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy - CVISION Technologies
 
 This is the web site of **CVISION Technologies**.
 
 Our postal address is   
-**118-35 Queens Blvd. 14th Floor  
+**118-35 Queens Blvd. Suite #910  
 Forest Hills, NY 11375**
 
 We can be reached via e-mail at [info@cvisiontech.com](mailto:info@cvisiontech.com)  
