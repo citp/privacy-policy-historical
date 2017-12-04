@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the like4.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062039id_/http%3A//www.like4.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the like4.us privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204155422id_/http%3A//www.like4.us/privacy) for the most accurate reproduction.*
 
 # Free Facebook Likes - Facebook Like Exchange - Like4.us Facebook Likes Exchange
 
@@ -81,7 +81,7 @@ You cannot withdraw added funds.
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact us at: contact [at] like4.us 
 
-## Contacting Us: [_Contact Us_](https://web.archive.org/web/20170606062039id_/http%3A//www.like4.us/contact.php)
+## Contacting Us: [_Contact Us_](https://web.archive.org/web/20171204155422id_/http%3A//www.like4.us/contact.php)
 
 
 
