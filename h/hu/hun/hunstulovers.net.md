@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hunstulovers.net privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603235157id_/http%3A//www.hunstulovers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunstulovers.net privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204023419id_/http%3A//www.hunstulovers.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Hunstu Lovers
+# Privacy Policy - Hunstu Lovers - Hunstu Lovers
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://www.hunstulovers.net/contact-us](mailto:hunstu.ajah@gmail.com).
 
