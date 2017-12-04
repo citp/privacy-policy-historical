@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoyparazzi.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602104958id_/http%3A//www.pinoyparazzi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyparazzi.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204033413id_/http%3A//www.pinoyparazzi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pinoy Parazzi
 
