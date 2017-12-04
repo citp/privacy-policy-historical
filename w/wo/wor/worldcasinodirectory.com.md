@@ -1,25 +1,21 @@
-> *The following text is extracted and transformed from the worldcasinodirectory.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219013938id_/http%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcasinodirectory.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204181413id_/https%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.*
 
 # Privacy Policy : World Casino Directory
 
-THIS PRIVACY POLICY DESCRIBES WORLD CASINO DIRECTORY'S USE OF, AND ATTITUDE TO, YOUR PERSONAL INFORMATION.
+World Casino Directory ("WCD", the "Site") respects and protects the privacy of our visitors. Please see our [Terms and Conditions](http://www.worldcasinodirectory.com/wcdtac.htm) for other important visitor information. These pages, separately and together form the Policy of the Site. 
 
-  
+We do not collect personally identifiable information when you visit our site. When visitors share personal information such as name and email address, that information is used only for a specific purpose such as newsletter delivery. In order to be removed from any subscribed services please email accounts@worldcasinodirectory.com. You will be removed from any email lists but our systems will retain the information in a secure archive. If the website is ever sold this policy will remain in effect until changed. If you have registered an email address with us you will be informed of any such sale. 
 
+In the course of developing, designing, operating, and delivering the most comprehensive and up-to-date directory of casinos around the globe, it is necessary for us to collect certain data for specific uses. This data will never be sold, conveyed, or revealed to any third party entities except as noted herein. Our privacy policy in regard to commercial users, paid and pro-bono clients, advertisers, and others who contract with us is separate and at our sole discretion, this statement applies to them only as visitors. 
 
- World Casino Directory does not, under any circumstances collect, share, sell or pass on any of your personally identifiable information for use any other party whatsoever, for marketing or advertising, or for any other reason whatsoever, apart from the reasons listed below.  While we cannot guarantee that unscrupulous persons will never be able to acquire your information by underhand electronic means, we continually strive to implement all of the means we can to try to stop them.  
- When you register with World Casino Directory as a member, you submit the personal information necessary for us to administer our system.   
- Disclosure of Your Information - we may decide to, or be forced to, reveal your personal information for the following reasons:  
+No personal information collected will ever be shared except for security reasons, the investigation or the pursuit of legal matters against a user, or if instructed to by a law enforcement agency, court, regulator or another official government body. 
 
+In order to display the most relevant information possible from more than 100,000 pages of internal and external network content, we collect the IP address of users and stores cookies on your computer to help us identify you upon subsequent visits. Your IP address tells us which country you are accessing our services from and we use this information to display only the most pertinent information possible. For instance - if you are in the U.S. and are reading about a casino that does not accept players from your jurisdiction, every effort is made to not display detailed information or links to such web sites. Minor technical issues, visitors' use of VPN's and clicking through after being advised otherwise are beyond our control and are the sole responsibility of visitors. Please see our Terms and Conditions pages for more on your responsibilities when using our services and our responsibilities after you have left our site. 
 
-  1. To send out prizes purchased in store or won in our contests / casinos. 
-  2. We use your email to send out our newsletter (which you can easily opt-out of at any time) once a month. 
-  3. To invoice users or advertisers (if applicable) / or other accounting reasons. 
-  4. Trying to resolve any support and technical problems users may have. 
-  5. By supplying your information it also helps us to ensure a safe environment for all users of World Casino Directory's site (in the case of tracking down unscroupulous users should they appear) 
-  6. In the rare case that World Casino Directory should ever change ownership the new owner will receive our records. 
-  7. When officially instructed to do so by an authorized representative of a law enforcement agency or other official government body. 
-  8. If we decide to pursue any legal matter involving a user. 
+World Casino Directory also uses Cookie and IP data. This data does not identify you personally. We use this data and may share it with analytics services such as those provided by Google and others who have their own privacy policies. Your personally identifiable information is never known by us or shared with our partners in these instances. This generic data is used for purposes such as identifying visitor trends in order to improve our services for all visitors. 
 
-  
- We need to be able to have a measure of certainty that users are who they purport to be, in order to keep all Users as free as possible from the risk of fraud and harm.  For this reason, your application for membership may be vetted, or in some cases denied, in order to keep members safe from unlawful or unethical use of their information. 
+For those who register for news updates, newsletters, contests, to become a member of the World Casino Directory; or for any other reason willingly provide their email address to us or a third party service deployed on our web site: Your email address and site-specific password are collected by us and may be collected by or shared with aWeber or other delivery services we may contract with or use the services of from time to time. This data will not be used for any purpose other than that clearly detailed to, or reasonably assumed by visitors. 
+
+For instance, if you sign up for news updates or newsletters you give us and our third party partners permission to send you the information you have requested. By commenting on news articles you agree that we may contact you for more information. You also understand that we record your IP address and may use that information to help determine if it is reasonable to assume you are who you purport to be. For example; A person with a US IP address claims to be an online player from Romania. A visitor from Hong Kong comments on a great meal they claim to have had several hours earlier at a casino on the other side of the world. 
+
+We have proper security measures in place at the physical location of all servers in order to safeguard against any unauthorized intrusion, theft, alteration, or other misuses of information we collect at our web site. Only high-level administrative employees have access to any of this information. The information is encrypted and password protected. 
