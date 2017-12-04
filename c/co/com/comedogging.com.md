@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedogging.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152636id_/http%3A//uk.comedogging.com/help/privacy.cfm%3Fwldsite%3D30520) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedogging.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204171840id_/http%3A//uk.comedogging.com/help/privacy.cfm%3Fwldsite%3D30520) for the most accurate reproduction.*
 
 # Come Dogging UK :: Come Dogging UK Member Privacy Policy
 
