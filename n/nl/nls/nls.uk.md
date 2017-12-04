@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605014941id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204205913id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - National Library of Scotland
 
@@ -30,7 +30,7 @@ We use several types of cookies on National Library of Scotland websites, but no
 
 If you have any concerns about the information we may hold about you, please contact us.
 
-  * Email [f.saunderson@nls.uk](mailto:f.saunderson@nls.uk)
+  * Email [privacy@nls.uk](mailto:privacy@nls.uk)
   * Tel: 0131 623 3700
   * Write to us at:
 
