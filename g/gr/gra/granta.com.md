@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the granta.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528122858id_/https%3A//granta.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the granta.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204154457id_/https%3A//granta.com/privacy-statement) for the most accurate reproduction.*
 
 # Granta | The Magazine of New Writing
 
