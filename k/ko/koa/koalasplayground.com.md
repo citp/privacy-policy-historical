@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koalasplayground.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616145750id_/http%3A//koalasplayground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koalasplayground.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204213936id_/http%3A//koalasplayground.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | A Koala's Playground
+# Privacy Policy - A Koala's Playground
 
 **1\. Introduction**
 
@@ -23,6 +23,8 @@ Koalasplayground.com uses your personal and non-personal information in order to
 Koalasplayground.com does not share your personal information with third parties, except to the extent necessary to process transactions with you, for example, credit card processing companies, or in the case of contests that include a third party partner, or promotional offers. However, Koalasplayground.com may disclose any such information pursuant to law, including subpoena, warrants or other orders; in order to enforce the Terms of Use or other Website policies and rules with respect to a particular Koalasplayground.com product or service, including reporting suspected cheating or intellectual property rights violations, or any other related agreements between you and Koalasplayground.com; or as otherwise may be required to protect the rights of Koalasplayground.com, its directors, officers, representatives and agents, or its Members, Guests or Visitors.
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you.
+
+We work with DigiTrust to set a first-party cookie in your browser to enable us and [DigiTrust Partners](http://www.digitru.st/participating-companies/) to collect web viewing data that includes visits to this website and non-affiliated websites over time. This data may be used to infer whether you share interests with other users, and deliver advertising relevant to those inferences. This type of advertising is called interest-based advertising. You can exercise choice about the collection of data in this way for interest-based advertising by visiting the Digital Advertising Alliance’s choice [page](http://www.aboutads.info/choices) and opting out from DigiTrust. Opting out from DigiTrust will stop DigiTrust Partners from using the DigiTrust identifier. Through the DAA choice [page](http://www.aboutads.info/choices), you may make other choices for companies that participate in the DAA, some of which are DigiTrust Partners. Please note that limiting third-party cookies via your browser controls does not prevent a first-party cookie from being set in this way.
 
 In addition, Koalasplayground.com may share some or all of your personal information with another entity in the event of a change in business structure, including merger or acquisition, as well as with the representatives of the entity to the extent required.
 
