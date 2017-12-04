@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warcraftmovies.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040549id_/http%3A//www.warcraftmovies.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcraftmovies.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204165738id_/http%3A//www.warcraftmovies.com/pp.php) for the most accurate reproduction.*
 
 # WarcraftMovies.com - World of Warcraft Movies
 
@@ -19,4 +19,4 @@ We use reasonable precautions to keep the personal information you disclose both
 By using our Web site, you give WarcraftMovies.com permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register at WarcraftMovies.com, you authorize WarcraftMovies.com to use information you provide to personalize the information we deliver to you and to use your demographic information when calculating aggregate customer data. WarcraftMovies.com may occasionally amend this policy. We suggest that you bookmark this page and check to see if it has changed from time to time. 
 
 **Questions?**  
-If you wish to change any information you have given us, or have any questions on our Privacy Policy, you can contact us at [contact@warcraftmovies.com](mailto:contact@warcraftmovies.com). 
+If you wish to change any information you have given us, or have any questions on our Privacy Policy, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8deee2e3f9eceef9cdfaecffeeffecebf9e0e2fbe4e8fea3eee2e0). 
