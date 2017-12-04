@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecampus.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613123106id_/http%3A//www.ecampus.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecampus.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204014846id_/http%3A//www.ecampus.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Help Desk | eCampus.com
 
