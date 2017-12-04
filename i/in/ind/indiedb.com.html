@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indiedb.com privacy policy that was archived on 2017-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170519034950id_/http%3A//www.indiedb.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiedb.com privacy policy that was archived on 2017-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171204221418id_/http%3A//www.indiedb.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<title>Privacy Policy - Indie DB - Indie DB</title>
@@ -20,7 +20,7 @@
 	<meta property="twitter:description" content="Indie games are changing the world, one giant pixel at a time. With Indie DB we aim to support independent developers and their games, by providing them with a place to showcase their hard work (in-progress or complete) to fans seeking original gaming...">
 	<meta property="twitter:url" content="http://www.indiedb.com/groups/indiedb"> 
 	<meta property="twitter:image" content="http://media.indiedb.com/images/groups/1/3/2915/indiedb-profile.png"> 
-	<link rel="stylesheet" type="text/css" media="all" href="http://static.indiedb.com/html/external/min/index.php?g=css&amp;68">
+	<link rel="stylesheet" type="text/css" media="all" href="http://static.indiedb.com/html/external/min/index.php?g=css&amp;69">
 	<link rel="icon" href="http://www.indiedb.com/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="http://www.indiedb.com/favicon.png" type="image/png" sizes="96x96">
 	<link rel="icon" href="http://www.indiedb.com/favicon-192x192.png" type="image/png" sizes="192x192">
@@ -45,23 +45,17 @@
 					 
 					<li><a href="/platforms/pc/set">PC</a></li> 
 					 
-					<li><a href="/platforms/linux/set">Linux</a></li> 
-					 
 					<li><a href="/platforms/mac/set">Mac</a></li> 
 					 
+					<li><a href="/platforms/linux/set">Linux</a></li> 
+					 
 					<li><a href="/platforms/vr/set">VR</a></li> 
-					 
-					<li><a href="/platforms/ar/set">AR</a></li> 
-					 
-					<li><a href="/platforms/ios/set">iOS</a></li> 
-					 
-					<li><a href="/platforms/android/set">Android</a></li> 
 					 
 					<li><a href="/platforms/xone/set">XONE</a></li> 
 					 
 					<li><a href="/platforms/ps4/set">PS4</a></li> 
 					 
-					<li><a href="/platforms/wiiu/set">WiiU</a></li> 
+					<li><a href="/platforms/switch/set">Switch</a></li> 
 					 
 					<li class="special"><a href="/platforms/selection" rel="iframe=true;innerHeight=480;innerWidth=670" class="thickbox">Customize</a></li>
 				</ul>
@@ -262,7 +256,7 @@
 				</li>
 			</ul>
 			<ul class="copyright clear">
-				<li>© 2010 - 2017 <a href="http://www.dbolical.com" target="_blank">DBolical Pty Ltd.</a>&nbsp; All Rights Reserved.&nbsp; No katana.</li>
+				<li>© 2010 - 2017 <a href="http://www.dbolical.com" target="_blank">DBolical Pty Ltd.</a>&nbsp; All Rights Reserved.&nbsp; Making games the indie way.</li>
 				<li class="privacy"><a href="/privacy-policy">Privacy Policy</a></li>
 				<li class="terms"><a href="/terms-of-use">Terms of Use</a></li>
 			</ul>
@@ -274,7 +268,7 @@
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"Item":{"@id":"http://www.indiedb.com/groups","name":"Groups"}},{"@type":"ListItem","position":2,"Item":{"@id":"http://www.indiedb.com/groups/indiedb","name":"Indie DB"}},{"@type":"ListItem","position":3,"Item":{"@id":"http://www.indiedb.com/groups/indiedb/privacy","name":"Privacy"}}]}</script>
 <script src="http://static.indiedb.com/html/external/min/index.php?g=js&amp;17"></script>
 <script src="http://static.indiedb.com/html/external/min/index.php?g=jswub&amp;4"></script>
-<script><!--
+<script>
 $(document).ready(function() { 
 						var canHide = false;
 						$("#header ul.tabs li.n").hover(function(){
@@ -289,12 +283,23 @@ $(document).ready(function() {
 						});
 $("#sitesearch").suggestClick("http://www.indiedb.com/html/scripts/autocomplete.php?a=search&p=groups",{resultsClass: "suggest_search", positionIn: "#searchbox", limit: 10});
 
+			var createSvBeacon = function() {
+				var p = location.protocol;
+				var url = (p === "https:"? p : "http:") + "//ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13396668";
+				var scr = document.createElement("script");
+				scr.id = "sBeacon";
+				scr.src = url;
+				scr.async = false;
+				var s0 = document.getElementsByTagName("script")[0];
+				s0.parentNode.insertBefore(scr, s0);
+			};
+			createSvBeacon();
 			var custom_variables = {};
 			custom_variables["url"] = document.location.pathname.substr(0,40);
 			custom_variables["channel"] = "community";
 			custom_variables["source"] = "profile";
 			
-			custom_variables["tags"] = ["pc"];
+			custom_variables["tags"] = ["developer","pc"];
 			
 			
 			$(".DBsupporter").getDFPads({"custom_variables":custom_variables, "acceptable_ads_show":true});
@@ -321,7 +326,26 @@ $("#sitesearch").suggestClick("http://www.indiedb.com/html/scripts/autocomplete.
 	
 				$("div.nextmediaboxtop,div.footermediabox").remove();
 				$("div.nextmediabox div.supporter").html("<iframe src=\"http://www.indiedb.com/media/block/300/250?sad=t\" width=300 height=250 frameborder=0></iframe>");
-				$("div.headermediabox div.supporter").html("<iframe src=\"http://www.indiedb.com/media/block/728/90?sad=t\" width=728 height=90 frameborder=0></iframe>");
+				$("div.headermediabox").remove();
+	
+					var topimg = new Image();
+					topimg.src = "http://media.indiedb.com/images/articles/1/47/46360/hfgsjgdfjsvfvgs.jpg";
+
+					topimg.onload = function() {
+						$("#subheader").css({"position": "relative",
+											"padding-bottom": this.height+43,
+											"background-image": "url("+this.src+")",
+											"background-repeat": "no-repeat",
+											"background-position": "center bottom"})
+										.append("<a href=\"http://bit.ly/2yUgmAk\" target=\"_blank\" style=\"position: absolute; display: block; bottom: 0; left: 0; width: 100%; height: "+this.height+"px;\" alt=\"Start exploring\"></a>");
+						if(this.width > 930) {
+							$("#subheader").css({"box-sizing": "border-box",
+												"width": this.width,
+												"padding-left": (this.width-930)/2+208,
+												"margin-left": (this.width-930)/-2
+											});
+						}
+					};
 			}
 		}
 	
@@ -330,7 +354,6 @@ $("#sitesearch").suggestClick("http://www.indiedb.com/html/scripts/autocomplete.
 		}
 $("a.thickbox").click(function() { $.colorbox({href:$(this).attr("href"), rel:$(this).attr("rel"), open:true, onOpen:function(){ $(".nextmediabox").hide(); }, onClosed:function(){ $(".nextmediabox").show(); }}); return false; });
  });
-//-->
 </script>
 <script>
 var _comscore = _comscore || [];
