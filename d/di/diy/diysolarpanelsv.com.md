@@ -1,30 +1,24 @@
-> *The following text is extracted and transformed from the diysolarpanelsv.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903151553id_/http%3A//diysolarpanelsv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diysolarpanelsv.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204223338id_/http%3A//diysolarpanelsv.com/s/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | DIY Solar Panels
+# Privacy Policy.
 
-## Privacy Policy
+### Privacy Policy
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+1\. We collect
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+Our servers are designed to automatically record information about your activity on our website which also includes all the information sent by your browser time to time. This information includes differnet things such as your IP address, name of type of the browser you are using and also the webpage you were visiting before you came to http://diysolarpanelsv.com. It also includes the data about your Windows and the language you are using.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+2\. Cookies
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, DIY Solar Panels has no access or control over these cookies that may be used by third party advertisers. 
+Cookies are used to store your personal information while you are on the site and this also incresaes the security.  
+This doesn't take much of your time as only one pop-up launches every time you come to the website.
 
-**Collection of Personal Information**  
-When visiting DIY Solar Panels, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+Some third party advertisements are also used to support our website http://diysolarpanelsv.com financially.   
+Some advertisers may also use different technologies such as cookies and web beacons while they advertise on our site . This also sends these advertisers(such as Google through the Google AdSense account) some information which includes your IP, ISP and the version and name of the browser you've installed, and in some cases, the version of flash you've installed. The purpose of this is to achieve geotargeting (showing London real estate ads to someone in London, for example) or to show specific ads such as showing sports ads to someone who frequently visits sports websites. 
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
+3\. DoubleClick Cookies
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion. 
+Cookies can also be used for ad serving through Google DoubleClick which stores a cookie on your PC while you are browsing a website and visit a site using DoubleClick advertising (this may also include some of the Google AdSense advertisements). Interest based targeting can also be enable through cookies which shows specific ads to you according to your preferences. Ads shown to you will be based on your previous browsing history so that only relevant ads are shown to you. (For example, if you have been visiting cooking sites, you may visit a cooking website while visiting a non-relevant site such as a sports website). It is to be made sure that it does NOT track your personal information such as your name, email address, physicall address, IP address, telephone number, social security number, bank accoutn number or credit card number etc. You also have the option to opt out of this ad-serving on all the sites using the link http://www.google.com/doubleclick/ .
 
-If you have any questions regarding the privacy policy of DIY Solar Panels then you may contact us at mskbwk69@honestdietpillsreviews.com 
-
-This policy was generated by Easy Privacy Policy Plugin [rac car insurance](http://raccarinsurance.me.uk/) for WordPress.
-
-Last updated Sun, 20 Mar 2011 06:34
+Here you can choose to disable or selectively turn on off your cookies or third party cookies in your browser settings. Also this is the page you should visit to set any preferences in programs such as Norton Internet Security.  
+In short, this affects how you interact with our site as well as the other sites. This may also include the inability to login to service programs, such as logging into forums and accounts. However, it is also to be remembered that deleting cookies will not allow you to permanently opt out of any advertising programs.
