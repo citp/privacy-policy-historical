@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggymoms.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102141353id_/http%3A//bloggymoms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggymoms.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204223406id_/http%3A//bloggymoms.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bloggy Moms
+# Privacy Policy - Bloggy Moms Social Media Influencers
 
 This Privacy Policy governs the manner in which Bloggy Moms collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://bloggymoms.com website (“Site”).
 
@@ -73,3 +73,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on October 23, 2015
+
+Do you create great content? Join us to submit your articles **[here](http://bloggymoms.com/join-us/)**!
+
+  
+  [ ](http://www.bloggyconference.com/)  **Would you like Bloggy Moms to feature your product or attraction?[Please contact us here.](http://bloggymoms.com/contact/)**
+
+| |   
+---|---|---
