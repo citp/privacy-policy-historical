@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historyfanatic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175355id_/http%3A//www.historyfanatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyfanatic.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204211517id_/http%3A//www.historyfanatic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ We will primarily use Your Personally Identifiable Information to provide Our Se
 
 Release **of Information and Opt-Out**
 
-We reserve the right to share the postal addresses, phone numbers or email addresses of users with third parties, including advertisers. To prevent Us from sharing this information in the future, please email Us at: info@HistoryFanatic.com. We will not share users’ credit card numbers. Occasionally, we send e-mail messages to users to inform them of features and services available on our Sites.
+We reserve the right to share the postal addresses, phone numbers or email addresses of users with third parties, including advertisers. To prevent Us from sharing this information in the future, please email Us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will not share users’ credit card numbers. Occasionally, we send e-mail messages to users to inform them of features and services available on our Sites.
 
 Occasionally We may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use Our Services for illegal activities. We reserve the right to report to law enforcement agencies any activities that We in good faith believe to be unlawful.
 
@@ -40,15 +40,15 @@ We may also provide Non-Personally Identifiable Information about Our customers�
 
 Under California’s “Shine the Light” law [California Civil Code Section 1798.83], California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from Us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2008 will receive information regarding 2007 sharing activities).
 
-To obtain this information on behalf of HistoryFanatic, please send an email message to info@HistoryFanatic.com with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Alternatively, you can request the information by writing to us at ADDRESS. To prevent Us from sharing Personally Identifiable Information with third party advertisers in the future, please indicate this preference by sending Us an email at: info@HistoryFanatic.com.
+To obtain this information on behalf of HistoryFanatic, please send an email message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Alternatively, you can request the information by writing to us at ADDRESS. To prevent Us from sharing Personally Identifiable Information with third party advertisers in the future, please indicate this preference by sending Us an email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
 
-In accordance with the “Shine the Light” requirements, California residents are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; by phone at (916) 445-1254; toll free at 1-800-952-5210; or by e-mail to:dca@dca.ca.org.
+In accordance with the “Shine the Light” requirements, California residents are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; by phone at (916) 445-1254; toll free at 1-800-952-5210; or by e-mail to:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Updating and Correcting Information**
 
-In the event that You provide Us with Personally Identifiable Information, We believe You should have the ability to access and edit it. If You provide Us with Personally Identifiable Information, You may also access and correct Your personal information and privacy preferences by emailing us at info@HistoryFanatic.com or writing Us at: ADDRESS. Please include Your name, address, and/or email address when You contact Us.
+In the event that You provide Us with Personally Identifiable Information, We believe You should have the ability to access and edit it. If You provide Us with Personally Identifiable Information, You may also access and correct Your personal information and privacy preferences by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or writing Us at: ADDRESS. Please include Your name, address, and/or email address when You contact Us.
 
 We encourage You to promptly update Your Personally Identifiable Information if it changes. If You provide Us with Personally Identifiable Information, You may ask to have the information deleted or removed; however, because We keep track of past transactions, You cannot delete information associated with past transactions on this Site. In addition, it may be impossible to completely delete Your information without some residual information because of backups.
 
@@ -82,4 +82,4 @@ History Fanatic
 
 ADDRESS
 
-You may also contact Us by email at info@HistoryFanatic.com
+You may also contact Us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
