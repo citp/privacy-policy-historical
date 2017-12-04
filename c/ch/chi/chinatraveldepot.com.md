@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatraveldepot.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602080517id_/http%3A//www.chinatraveldepot.com/US39-Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatraveldepot.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205003633id_/http%3A//www.chinatraveldepot.com/US39-Privacy-Security) for the most accurate reproduction.*
 
 # Privacy and Security Policy- China Travel Depot
 
@@ -32,8 +32,8 @@ You are entitled to a copy of the information held by us. If you would like to s
 By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by ChinaTravelDepot as stated in this Privacy Policy.   
 ChinaTravelDepot may also use this information to contact you with details of other products and services offered by ChinaTravelDepot. If you would prefer your information not to be used in this way, you should specify your preference on the Member Sign Up page or Reservation page indicating this. If you like to change your preference, want any further information or have any queries, please contact us at:   
 E-mail address: webmaster@Chinatraveldepot.com   
-Toll Free Call Center: 888-598-2008.   
-Fax:0086-10-58158827   
+Tel: +86-10-89192109   
+Fax: +86-10-58158855-8827   
 Postal address:   
 E-Travel Department of China CYTS Tours Holding Co,.Ltd   
 19th floor, CYTS Plaza, No.5 Dongzhimen South Avenue, Dongcheng District, Beijing, China 100007 
