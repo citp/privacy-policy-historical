@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubarticles.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509014405id_/http%3A//www.pubarticles.com/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubarticles.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204040130id_/http%3A//www.pubarticles.com/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Pubarticles.COM - Privacy Policy
 
@@ -65,5 +65,5 @@ We have the right to change or update our Policy at any time. And we wil give Po
 
 **Contact Information**
 
-If you have any question or advice, please contact us by sending email to support@pubarticles.com.  
+If you have any question or advice, please contact us by sending email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
