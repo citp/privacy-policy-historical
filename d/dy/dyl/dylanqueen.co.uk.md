@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dylanqueen.co.uk privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221054429id_/http%3A//www.dylanqueen.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dylanqueen.co.uk privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204172017id_/http%3A//www.dylanqueen.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - DylanQueen
 
-At DylanQueen.co.uk, our target is to make your shopping experience safe, convenient and care-free. Our privacy and security programs make sure that every transaction made at our site is 100% safe and guaranteed.
+At dylanqueen.co.uk, our target is to make your shopping experience safe, convenient and care-free. Our privacy and security programs make sure that every transaction made at our site is 100% safe and guaranteed.
 
 **What Information Do We Collect?**
 
