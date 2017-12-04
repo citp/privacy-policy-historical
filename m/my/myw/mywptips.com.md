@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywptips.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092610id_/http%3A//mywptips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywptips.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204215214id_/https%3A//mywptips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My WP Tips
 
