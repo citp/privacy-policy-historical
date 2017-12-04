@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldlingo.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605181142id_/http%3A//www.worldlingo.com/en/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlingo.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204185306id_/http%3A//www.worldlingo.com/en/company/privacy.html) for the most accurate reproduction.*
 
 # WorldLingo Privacy Policy
 
@@ -29,7 +29,7 @@ WorldLingo' Privacy Policy is designed to help you understand how we collect and
 
 By using or accessing WorldLingo, you are accepting the practices described in this Privacy Policy.
 
-If you have questions or concerns regarding this statement, you should contact our privacy staff at [privacy@worldlingo.com](https://web.archive.org/web/20170605181142id_/http%3A//www.worldlingo.com/en/company/privacy@worldlingo.com).
+If you have questions or concerns regarding this statement, you should contact our privacy staff at [privacy@worldlingo.com](https://web.archive.org/web/20171204185306id_/http%3A//www.worldlingo.com/en/company/privacy@worldlingo.com).
 
 * * *
 
