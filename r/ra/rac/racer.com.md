@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racer.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629055357id_/http%3A//www.racer.com/site_content/512-content/101641-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racer.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204144706id_/http%3A//www.racer.com/site_content/512-content/101641-privacy-policy) for the most accurate reproduction.*
 
 # Content - PRIVACY POLICY
 
