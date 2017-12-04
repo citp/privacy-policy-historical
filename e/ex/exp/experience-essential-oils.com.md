@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053612id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204022720id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -56,9 +56,9 @@ Your use of this site indicates acceptance of this privacy policy. Thank you for
 
 [Return from **Privacy Policy** to **Experience Essential Oils**](http://www.experience-essential-oils.com/)
 
-[](http://www.kqzyfj.com/click-7970139-12374673-1458576291000)
+[](http://refer.dna.ancestry.com/s/nan023)
 
-_**Ready to Discover All of   YOU in 2016?**_
+_**Ready to Discover All of   YOU?**_
 
 [ **Find the Gift of You   and Your Inner GPS with Nan's Coaching and Intuitive Guidance **](http://www.experience-essential-oils.com/nan-martin-client-testimonials.html)  
 
@@ -107,11 +107,10 @@ on Facebook](http://www.facebook.com/ExperienceEssentialOils "Experience Essenti
 ###   
 The Oil Shop is Open!
 
-**Searching for**  
- **Therapeutic Grade Essential Oils**  
- **Online?**
-
-Look no further! Place your order at our online essential oil store, The [Oil Shop](http://shop.experience-essential-oils.com/)!
+[](https://www.experience-essential-oils-shop.com/)
 
 For Canadian and international orders please contact me with a product request and shipping address for a quote today!  
+
+
+**Starseed Powered**  
 
