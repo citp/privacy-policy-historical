@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montefiore.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081357id_/http%3A//www.montefiore.org/body.cfm%3Fid%3D1557) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montefiore.org privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204145558id_/http%3A//www.montefiore.org/body.cfm%3Fid%3D1557) for the most accurate reproduction.*
 
 # Montefiore Medical Center - Terms of Service and User Privacy Policy
 
