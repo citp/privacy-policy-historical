@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noipfraud.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622164540id_/http%3A//noipfraud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noipfraud.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204182627id_/http%3A//noipfraud.com/privacy-policy) for the most accurate reproduction.*
 
 # NoIpFraud
 
@@ -52,6 +52,6 @@ You are responsible for maintaining the confidentiality of your account informat
 
 If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please email support@NoIPFraud.com.
 
-Our address is 51 Sachem St Norwich, CT 06360, Attention: NoIPFraud.com Counsel.
+Our address is PB Services LLC , 340 S LEMON AVE #8486, WALNUT, CA 91789, Attention: NoIPFraud.com Counsel.
 
 \- top -
