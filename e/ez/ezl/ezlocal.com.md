@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the ezlocal.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602221850id_/http%3A//ezlocal.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezlocal.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205000112id_/http%3A//ezlocal.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | EZlocal
 
 ## EZlocal Privacy Policy
 
+**
+
 Updated 6/24/09
+
+**
 
 EZlocal is committed to protecting the privacy of visitors of our website. This privacy statement describes what we do with the information that we receive about you when you visit our website. The information that we receive about you depends on what you do when you visit our website. This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed. Your continued use of our site signifies your acceptance of our Privacy Policy.
 
@@ -59,7 +63,7 @@ EZlocal takes our users' privacy concerns seriously. If you believe that EZlocal
 EZlocal  
 377 E Butterfield Rd  
 Suite 300  
-Lombard, IL 60148
+Lombard, IL 60148 
 
 In your letter, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
 
