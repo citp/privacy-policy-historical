@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotnetnuke.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626115722id_/http%3A//www.dnnsoftware.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetnuke.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204145351id_/http%3A//www.dnnsoftware.com/Privacy) for the most accurate reproduction.*
 
 # Content Management System - .NET CMS Software from DNN
 
@@ -44,4 +44,4 @@ DNN Software will occasionally update this Statement of Privacy to reflect compa
 
 Contact Information
 
-DNN Software welcomes your comments regarding this Statement of Privacy. If you believe that DNN Software has not adhered to this Statement, please contact DNN Software at [no-reply@dnnsoftware.com](mailto:no-reply@dnnsoftware.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+DNN Software welcomes your comments regarding this Statement of Privacy. If you believe that DNN Software has not adhered to this Statement, please contact DNN Software at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90feffbde2f5e0fce9d0f4fefee3fff6e4e7f1e2f5bef3fffd). We will use commercially reasonable efforts to promptly determine and remedy the problem.
