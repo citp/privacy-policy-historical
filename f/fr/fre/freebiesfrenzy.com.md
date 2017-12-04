@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freebiesfrenzy.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622141519id_/http%3A//freebiesfrenzy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiesfrenzy.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204130520id_/http%3A//freebiesfrenzy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
-**Effective and Last Updated:** 9/1/15
+**Effective and Last Updated:** 8/16/17
 
 This website is owned and operated by Elite Web Holding, LLC. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”). This Privacy Policy applies to the Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
@@ -38,7 +38,7 @@ FreebiesFrenzy.com reserves the right to contact you regarding matters relevant 
 
 Please note that personally identifiable information is used only to provide you with a more enjoyable, convenient online experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site.
 
-FreebiesFrenzy.com may use your personal information for target advertising toward you based on things such as region, gender, interests, goals, habits, etc. You may receive relevant third party offers from our other email partners.
+FreebiesFrenzy.com may use your personal information for target advertising toward you based on things such as region, gender, interests, goals, habits, etc.
 
 We may permit certain trusted third parties to track usage, analyze data such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site. We may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders.
 
