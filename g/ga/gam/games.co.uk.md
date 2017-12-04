@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the games.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002404id_/http%3A//www.games.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.co.uk privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204034216id_/http%3A//www.games.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Games - Free Online Games
+# Our Privacy Policy | Games - Play Free Online Games at Games.co.uk
 
 This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that we provide on or through our websites. (Our websites, all the web pages that are part of the websites and such games and activities are hereafter collectively referred to as the "Websites.") SPIL GAMES BV, having its registered office at Mussenstraat 15, 1223 RB, Hilversum, the Netherlands (hereafter referred to as "SPIL"), is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens). SPIL may use the services of affiliates or reputable third parties to process personal data collected on or through the Websites. By using or accessing our Websites, you are accepting the practices described in this Privacy Policy.
 
