@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dqindia.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610031401id_/http%3A//www.ciol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dqindia.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204154225id_/http%3A//www.ciol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CIOL
 
-[](http://ciol-6ac9.kxcdn.com/wp-content/uploads/2014/09/cybermedia.jpg)
+[](http://www.ciol.com/wp-content/uploads/2014/09/cybermedia.jpg)
 
 **Privacy Statement for Cyber Media India Limited**
 
