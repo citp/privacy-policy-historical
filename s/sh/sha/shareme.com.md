@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623014839id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204215730id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
@@ -55,54 +55,78 @@ An intelligent freeware to fix common PC...
 
 ####  New Downloads
 
-  * [PDF-XChange Editor 6.0.322.4](https://web.archive.org/details/pdf-xchange-editor.html)
+  * [Office Timeline Free Edition 3.17.03](https://web.archive.org/details/office-timeline-free-edition.html)
 
-Comprehensive PDF Viewing File manipulation,...
+Office Timeline is a PowerPoint add-in that...
 
-  * [DipTrace 3.1](https://web.archive.org/details/diptrace.html)
+  * [SoftPerfect Connection Emulator 1.7.5](https://web.archive.org/details/softperfect-connection-emulator.html)
 
-DipTrace is an advanced PCB design software...
+A utility for developers that imitates network...
 
-  * [CAD VCL: 2D/3D CAD in Delphi/C++Builder 12](https://web.archive.org/details/cad-vcl--2d-3d-cad-in-delphi-c--builder.html)
+  * [PopMessenger 1.62.3](https://web.archive.org/details/popmessenger.html)
 
-SDK for developing software in Delphi and...
+Use this complete small to large enterprise...
 
-  * [AnyStock Stock and Financial JS Charts 7.14.0](https://web.archive.org/details/anystock-stock-and-financial-js-charts.html)
+  * [CompactSections 2.0.4](https://web.archive.org/details/compactsections.html)
 
-AnyStock Stock and Financial JS Charts is a...
+Construction of arbitrary 2D compact...
 
-  * [Blasting Fax Server 4.0.02.30](https://web.archive.org/details/blasting-fax-server.html)
+  * [Eassos Photo Recovery 2.6.1.417](https://web.archive.org/details/eassos-photo-recovery.html)
 
-Blasting Fax Server is a cost-effective and...
+Eassos Photo Recovery is specialized photo...
 
-  * [Mytoolsoft File Renamer 1.8.1](https://web.archive.org/details/mytoolsoft-file-renamer.html)
+  * [Audials Radiotracker 2018](https://web.archive.org/details/audials-radiotracker.html)
 
-Mytoolsoft File Renamer is a rename files...
+Radio Player and recorder of 100,000 Radios +...
 
-  * [Mgosoft XPS To PS SDK 7.2.8](https://web.archive.org/details/mgosoft-xps-to-ps-sdk.html)
+  * [Audials Tunebite Platinum 2018](https://web.archive.org/details/audials-tunebite-platinum.html)
 
-Mgosoft XPS To PS Converter is a fast,...
+Audio &Video Converter for PC, Smartphone,...
 
-  * [Mgosoft XPS To PS Command Line 7.2.8](https://web.archive.org/details/mgosoft-xps-to-ps-command-line.html)
+  * [Syncios Data Transfer 1.6.1](https://web.archive.org/details/syncios-data-transfer.html)
 
-Mgosoft XPS To PS Converter is a fast,...
+Syncios Data Transfer provides simply yet...
 
-  * [Mgosoft PCL To PS SDK 7.2.5](https://web.archive.org/details/mgosoft-pcl-to-ps-sdk.html)
+  * [Active@ KillDisk 11.0.77](https://web.archive.org/details/active--killdisk.html)
 
-Mgosoft PCL To PS Converter is a fast,...
+Active@ KillDisk provides the ultimate solution...
 
-  * [Mgosoft XPS To PS Converter 7.2.8](https://web.archive.org/details/mgosoft-xps-to-ps-converter.html)
+  * [Eassos Recovery Free 4.3.1.316](https://web.archive.org/details/eassos-recovery-free.html)
 
-Mgosoft XPS To PS Converter is a fast,...
+Eassos Recovery Free is user-friendly and free...
 
 
 
 
 ####  Recent Searches
 
-[Asus P5ql Pro Acpi Bios Update Revision 1004](https://web.archive.org/programs/asus/p5ql-pro-acpi-bios-update-revision-1004), [Realistic Drive Gta San Andreas](https://web.archive.org/programs/realistic/drive-gta-san-andreas), [Pradis Niv Commentary](https://web.archive.org/programs/pradis/niv-commentary), [Jungle Heart](https://web.archive.org/programs/jungle/heart), [Virtual Vault](https://web.archive.org/programs/virtual/vault), [Music Matching](https://web.archive.org/programs/music/matching), [Lorry Traders](https://web.archive.org/programs/lorry/traders), [Ascendis Caller Id For Windows 7 Phone](https://web.archive.org/programs/ascendis/caller-id-for-windows-7-phone), [Sirial Harmony Engine Vst](https://web.archive.org/programs/sirial/harmony-engine-vst), [Iran Gps Map](https://web.archive.org/programs/iran/gps-map), [Fortec Lifetime Ultra](https://web.archive.org/programs/fortec/lifetime-ultra), [Ship Control Games](https://web.archive.org/programs/ship/control-games), [Free Download Winamp Dvd Player](https://web.archive.org/programs/free/download-winamp-dvd-player), [Developmental Disability Administration Maryland](https://web.archive.org/programs/developmental/disability-administration-maryland), [Spain Email Id](https://web.archive.org/programs/spain/email-id)
+[Free Games On Samsung Reclaim M560 Brick Breaker](https://web.archive.org/programs/free/games-on-samsung-reclaim-m560-brick-breaker), [As3 Timed Quiz](https://web.archive.org/programs/as3/timed-quiz), [Guitar Tuner Storm 2](https://web.archive.org/programs/guitar/tuner-storm-2), [Limewire Turbo Accelerator Free](https://web.archive.org/programs/limewire/turbo-accelerator-free), [Ldm Calculator](https://web.archive.org/programs/ldm/calculator), [Avnera Audio Devices](https://web.archive.org/programs/avnera/audio-devices), [Printable Coins Bingo Game](https://web.archive.org/programs/printable/coins-bingo-game), [Master Budget Project](https://web.archive.org/programs/master/budget-project), [Steel Shapes For Turbocad](https://web.archive.org/programs/steel/shapes-for-turbocad), [1990 Rookie Baseball Cards](https://web.archive.org/programs/1990/rookie-baseball-cards), [Driver Usb Vcom Port Gt E2120 Samsung](https://web.archive.org/programs/driver/usb-vcom-port-gt-e2120-samsung), [Smartlink Sl2800 Modem Drivers 32 Bit](https://web.archive.org/programs/smartlink/sl2800-modem-drivers-32-bit), [Forge UserSettings](https://web.archive.org/programs/forge/usersettings), [Danmarks Statsminister](https://web.archive.org/programs/danmarks/statsminister), [Decrypt 32 Hash](https://web.archive.org/programs/decrypt/32-hash)
 
 #### Latest Reviews
+
+  * [Lodgit Desk Hotel Software for Mac ](https://web.archive.org/details/lodgit-desk-hotel-software-for-mac.html)   (Arnold)
+
+I run a small guest house in Nepal where this software is in use for last two years, we felt this is good enough for any... 
+
+  * [XolidoSign ](https://web.archive.org/details/xolidosign.html)   (Zico)
+
+Allows me to insert signature on any document automatically before dispatching, other software requires manual instruction. 
+
+  * [Wurlie ](https://web.archive.org/details/wurlie.html)   (Tenesy)
+
+Make unlimited number of short urls with this script without knowing much about processes that take place in background. 
+
+  * [Start Hotspot ](https://web.archive.org/details/start-hotspot.html)   (heltvet)
+
+You may turn your android phone to a wifi hotspot but your data may be misused unless you have some sort of control over... 
+
+  * [NCheck Bio Attendance Trial for Windows ](https://web.archive.org/details/ncheck-bio-attendance-trial-for-windows.html)   (Jeusme)
+
+The system is implemented in my office premises, it maintains the employees in and out time accurately, helps the accounts... 
+
+  * [FirePlotter ](https://web.archive.org/details/fireplotter.html)   (Kacper)
+
+Monitors all in-coming and outgoing traffic to your PC, also shows the consumed bandwidth to calculate internet bill. 
 
   * [FolderMill ](https://web.archive.org/details/foldermill.html)   (Fairyn)
 
@@ -119,30 +143,6 @@ Restricts access to the public computers and kiosks to prevent changes or viruse
   * [Vrode Script Editor ](https://web.archive.org/details/vrode-script-editor.html)   (Brochan)
 
 If you are a script coder you must have gone through some of the popular editors for writing new scripts or editing the... 
-
-  * [Print Inspector ](https://web.archive.org/details/print-inspector.html)   (simpson)
-
-Maintains a log of printing job, can see what is being printed and the user who are printing with document name and date etc. 
-
-  * [Emsisoft Internet Security ](https://web.archive.org/details/emsisoft-internet-security.html)   (Shino)
-
-We all experience some mischievous things takes place while accessing internet, its due to the unsafe website we visit and... 
-
-  * [CompactSections ](https://web.archive.org/details/compactsections.html)   (Tyler)
-
-Calculates the cross sections for the engineers using the any of existing database either it is excel or matlab, can be... 
-
-  * [Proposal Pack Wizard Software ](https://web.archive.org/details/proposal-pack-wizard-software.html)   (Consuelo)
-
-We usually prepare the business proposals and the contract papers using the popular word processor Microsoft word which... 
-
-  * [UNFORMAT ](https://web.archive.org/details/unformat.html)   (nayel)
-
-We often loose data due to unwanted drive crash and ending up with formatting them, those partition data can be easily... 
-
-  * [DB AppMaker ](https://web.archive.org/details/db-appmaker.html)   (Reliabet)
-
-Can easily make apps for android and iOS even if you are not experienced, most of commonly used database can be utilized. 
 
 
   
