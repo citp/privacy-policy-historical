@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esoteric-information.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094549id_/http%3A//esoteric-information.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoteric-information.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204210733id_/http%3A//esoteric-information.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Esoteric information
 
