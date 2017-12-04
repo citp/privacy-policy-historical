@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shockwave.com privacy policy that was archived on 2017-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625195649id_/http%3A//www.shockwave.com/about/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shockwave.com privacy policy that was archived on 2017-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171204103604id_/http%3A//www.shockwave.com/about/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope="" itemtype="http://schema.org/LocalBusiness"><head prefix="og: http://ogp.me/ns# shockwavegames: http://ogp.me/ns/apps/shockwavegames#">
 		<title>
@@ -76,16 +76,16 @@
 </script>
 		
 		<script type="text/javaScript">
-    var dartGenre = 'wordgames';
-    var dartCategory = 'wordgames';
-    var dartKeyword = 'jumblewordvault';
+    var dartGenre = 'puzzle';
+    var dartCategory = 'puzzle';
+    var dartKeyword = 'daily-spot-the-pic';
 </script>
 <script type="text/javaScript">
     SW.adSettings = {};
     SW.adSettings.DoubleClickDartSite = 'sw.nol';
     SW.adSettings.DoubleClickPositionThreshold = '1';
-    SW.adSettings.DoubleClickSections='wordgames/jumblewordvault';
-    SW.adSettings.DoubleClickKeyValues = '!category=wordgames;!category=pop;!category=float;!category=expand;';
+    SW.adSettings.DoubleClickSections='puzzle/daily-spot-the-pic';
+    SW.adSettings.DoubleClickKeyValues = '!category=puzzle;!category=pop;!category=float;!category=expand;';
     SW.adSettings.DoubleClickAutoDcopt=true;
 </script>
 
@@ -269,7 +269,7 @@
     
 
 
-<script type="text/javascript" src="//pubportal.brkmd.com/tms/hblt08975259d7c5a4606567f8ea7d036aa5.js"></script>
+<script type="text/javascript" src="//pubportal.brkmd.com/tms/hblt3191922f29e72fc8f4b94dd9b1e57070.js"></script>
 
 
 
@@ -296,17 +296,29 @@
         var node = document.getElementsByTagName('script')[0];
         node.parentNode.insertBefore(gads, node);
     })();
-    
+
     // Setup Ads
     googletag.cmd.push(function() {
+    	<!-- The 2 300x250 ad units on the right hand-side will alway be displayed unless the wide game is displayed -->
     	
+    	  
     	  
     	  
     	    googletag.defineSlot('/4678/shockwave_web/ros-right-atf', [[300, 250]], 'ad300x250-right-atf').addService(googletag.companionAds()).addService(googletag.pubads());
     	    googletag.defineSlot('/4678/shockwave_web/ros-right-mid', [[300, 250]], 'ad300x250-right-mid').addService(googletag.companionAds()).addService(googletag.pubads());
     	  
     	
-    	googletag.defineSlot('/4678/shockwave_web/ros-top', [[728, 90],[960,1]], 'ad728x90-top').addService(googletag.pubads());
+    	
+        <!-- In the home page the leaderboard ad can be only 728 wide. -->
+        <!-- Also beween Word & Strategy games there are 2 300x250 ad units. -->
+        <!-- In all other pages, the leaderboard ad can be 728x90 OR 970x90. -->
+    	
+    	  
+          
+            googletag.defineSlot('/4678/shockwave_web/ros-top', [[728, 90],[970,90], [960,1]], 'ad728x90-top').addService(googletag.pubads());
+          
+        
+    	
     	googletag.defineSlot('/4678/shockwave_web/ros-bottom', [[728, 90],[970, 250]], 'ad728x90-bottom').addService(googletag.pubads());
     	googletag.defineSlot('/4678/shockwave_web/ros-top-popout', [[728, 90],[960,1]], 'ad728x90-top-popout').addService(googletag.pubads());
     	
