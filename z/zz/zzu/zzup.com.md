@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zzup.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621101450id_/http%3A//zzup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zzup.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204194128id_/http%3A//www.zzup.com/privacy.html) for the most accurate reproduction.*
 
 # zzup.com - Privacy Policy
 
