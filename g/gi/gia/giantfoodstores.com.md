@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630073118id_/https%3A//giantfoodstores.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204223841id_/https%3A//giantfoodstores.com/privacy-policy) for the most accurate reproduction.*
 
-# Home - privacy policy - GIANT Food Stores
-
-## privacy policy
+# Home - Privacy Policy - Giant Food Stores
 
 GIANT® Food Stores, (GIANT) believes in protecting the confidentiality of customer information in accordance with our customers' wishes and applicable laws. Our reason for collecting customer information is to help us deliver greater value and improve the shopping experience of our customers. The GIANT BonusCard is our primary means of collecting such information which helps us to target benefits and services to our customers. This may include advising our customers about products, services and other opportunities.
 
