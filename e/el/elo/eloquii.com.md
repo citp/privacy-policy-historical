@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eloquii.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618094447id_/http%3A//www.eloquii.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloquii.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204211516id_/http%3A//www.eloquii.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ELOQUII
 
