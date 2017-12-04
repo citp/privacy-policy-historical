@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getaudiofromvideo.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604024937id_/http%3A//www.getaudiofromvideo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaudiofromvideo.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204223147id_/http%3A//www.getaudiofromvideo.com/privacy-policy) for the most accurate reproduction.*
 
 # Convert YouTube To MP3. YouTube MP3 Converter. Download YouTube Videos
 
