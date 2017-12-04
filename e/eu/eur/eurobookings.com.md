@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurobookings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153816id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobookings.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204140619id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.*
 
 # Eurobookings.com - Privacy statement
 
@@ -19,7 +19,7 @@ This Privacy Statement is an integral part of our website and the services offer
 
 
 
-If users have questions or concerns regarding this statement, they should contact [Eurobookings.com customer service](mailto:customerservice@eurobookings.com).
+If users have questions or concerns regarding this statement, they should contact [Eurobookings.com customer service](http://www.eurobookings.com/customer-service.html).
 
 **Member Registration**
 
@@ -101,7 +101,7 @@ If you were referred to Eurobookings.com from another website, we may personally
 
 Our users are given the opportunity to opt-out of having their information used for purposes not directly related to our website at the point where we ask for information. For example, our order form has an opt-out mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address and fax number off of our lists.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or by [email here](mailto:customerservice@eurobookings.com). We also offer an opt-out mechanism on the member profile page.
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or by [email here](http://www.eurobookings.com/customer-service.html). We also offer an opt-out mechanism on the member profile page.
 
 Users of our website are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
@@ -121,13 +121,13 @@ When our reservation order form asks users to enter sensitive information (such 
 
 While we use SSL encryption to protect sensitive information online, we also protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
 
-If users have any questions about the security at our website, users can send an email to [Customer Care](mailto:customerservice@eurobookings.com).
+If users have any questions about the security at our website, users can send an email to [Customer Care](http://www.eurobookings.com/customer-service.html).
 
 In order for this website to properly fulfill its obligation to users, it is necessary for us to supplement the information we receive with information from third party sources.
 
 **Correcting / Updating /Deleting / Deactivating Personal Information**
 
-If a user's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user's personally identifiable information. Members can change their personal information on the member profile page of our website. Members and users can all email our Customer Support at [Customer Care](mailto:customerservice@eurobookings.com) or contact us by telephone or postal mail at the contact information listed below.
+If a user's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user's personally identifiable information. Members can change their personal information on the member profile page of our website. Members and users can all email our Customer Support at [Customer Care](http://www.eurobookings.com/customer-service.html) or contact us by telephone or postal mail at the contact information listed below.
 
 **Notification of Material Changes**
 
@@ -139,7 +139,7 @@ If, however, we are going to use users' personally identifiable information in a
 
 If users have any questions or suggestions regarding our Privacy Statement, please contact us:
 
-Via Email: [Customer Care](mailto:customerservice@eurobookings.com)
+Via Email: [Customer Care](http://www.eurobookings.com/customer-service.html)
 
 Postal Address:  
 Eurobookings.com, L.P.  
