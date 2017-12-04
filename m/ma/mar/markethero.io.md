@@ -1,0 +1,94 @@
+> *The following text is extracted and transformed from the markethero.io privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204094815id_/https%3A//markethero.io/inv/privacy) for the most accurate reproduction.*
+
+# Market Hero Privacy Policy — Market Hero
+
+### Last Updated on December 5, 2016
+
+Market Hero is committed to respecting your privacy. This privacy statement discloses the privacy practices for the Market Hero.com website hosted by Market Hero, INC.
+
+Market Hero, INC welcomes your feedback about this privacy policy. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@Market Hero.com.
+
+What’s Covered Here?
+
+Why is my information needed?  
+What information does Market Hero, INC gather/track and how is it used?  
+With whom does Market Hero, INC share the information?  
+How can I review, correct and update my personal information?  
+How can I opt out of Market Hero, INC’s collection, use and distribution of my information?  
+How does Market Hero, INC protect my information from loss, misuse or alteration?  
+Who can I ask if I have additional questions?  
+From time to time, Market Hero, INC may introduce new products and services. To the extent that these new products and services affect this policy, this policy will be updated. Please see item number 5 for details on how we notify users of updates to our privacy policy.
+
+1\. Why is my information needed?
+
+Market Hero, INC is a web based and desktop based application; because of this they may require the use of first and last names, billing contact information, a password and a valid email address as a login. Therefore, at a minimum, we may require such necessary information in order to establish your account with us.
+
+2\. What information does Market Hero, INC gather/track and how is it used?
+
+PERSONAL INFORMATION: We collect personal information from users including (at minimum) first and last names, an email address to be used as a login, billing contact information, credit card number and a password. Your email address may be used to send you periodic product newsletters, offers and usage tips from Market Hero, INC . You can opt out of promotional emails at any time, but will still receive communications such as receipts, confirmation emails and customer service updates that are considered necessary to provide the service to you. We use the information collected to deliver services, process payments, update our records, communicate with you about products and services, and generally maintain your accounts with us. We will retain your information for as long as your account is active, as needed to provide you services, to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@Market Hero.com . We do not share, sell, trade, or rent your personal information to third parties except as described in this privacy policy.
+
+Information gathered at either http://Market Hero.com is done so on a voluntary basis. You need not provide us with any personal information to use these sites. Information submitted on these sites can include contact information such as email addresses, comments on blog postings and job and press inquires. You should be aware that any information you provide in the comment or blog areas may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at support@Market Hero.com . In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+In-session information collected during meeting, webinar and training sessions is protected by the use of end-to-end encryption and only accessible by the authorized users, organizers and participants. “In-session information” includes all screen sharing data, keyboard/mouse control data and text chat information. This information is never exposed in unencrypted form while temporarily resident within Market Hero, INC’s communication infrastructure servers or during transmission across public or private networks. Information about scheduled and prior meetings, webinars and/or trainings is stored on our website and is available to our customers and their authenticated users that have received an invitation from the organizer via email, instant message, phone or other communication method.
+
+Because of our commitment to present the best possible product to all our users, we track the category of services selected by our individual users as well as all information pertaining to user satisfaction. To ensure the quality of our product, we reserve the right to maintain evaluation and feedback records.
+
+BUSINESS INFORMATION: Information that is collected by webinar coordinators or moderators is considered confidential. We will not view Business Information except as necessary to appropriately support the service or as required by law. (Business Information includes schedules, attendee lists, subject names, email addresses, names, session records, and any other business information used while in session) When an attendee registers with one of our customers for an online meeting, webinar or training, that information is provided to the organizer of the session. Market Hero, INC may store that information to fulfill our obligation to our customers, but we will not use the information to send marketing communications for Market Hero, INC services or third party offers to attendees. You should be aware that any personally identifiable information you submit while in session and utilizing the chat feature can be read, collected or used by the meeting organizer and other meeting participants. Chat logs and meeting recordings are not stored or viewable by Market Hero, INC and are only available locally to meeting coordinators and moderators. We will not view business information, except as necessary to appropriately support the service and for the purpose of anticipating, diagnosing, supporting or resolving any problems that might limit or disrupt the quality of our customers’ service experience or as required by law.
+
+PARTNERS: In some cases we provide services or sell product lines jointly with other businesses. For these co-branded offerings in which a third party is involved in your transactions, we will sometimes share or jointly collect customer information related to those transactions with that third party. On the co-branded registration pages we will state who is collecting or receiving the information and whose privacy statement governs its use so that you will know at the time you create your account exactly how your information will be used. If you are registered with Market Hero, INC through a partnership and you request to opt out of receiving promotional updates, in order to comply with the provisions in the Can Spam Act, we will also provide your email address to that partner so that they may also discontinue sending you messages on behalf of Market Hero, INC .
+
+AFFILIATES: We may sometimes share or jointly collect information with our parent entity and the wholly owned subsidiaries and affiliated divisions of our parent company entity. Sharing this information helps us make your customer experience more seamless and efficient by allowing us to improve our marketing efforts to better target customer needs, streamline our processes and consolidate our backend business systems.
+
+SESSION RECORDS: To maintain our quality of service and to assist in the analysis of product performance, we may also gather data on connection information, including the timing and size of all packets sent over the Internet during a session. The gathered information is used only to ensure the highest quality experience possible when using Market Hero, LLC products.
+
+SECURITY INFORMATION: Market Hero, INC also collects certain standard information about your computer for security and identification purposes. This information may include: IP addresses, domain names, access times, cookies and other unique identifying information of machines that have our software downloaded and installed on them. This information is used for the operation of the service, to identify and protect our customers and to control unauthorized use or abuse of our services. All information is encrypted during transmission and is stored securely within our servers.
+
+SURVEYS: In addition to required member information, we may conduct surveys and ask users to volunteer demographic information to be used on an aggregate basis for internal market research, presentation to advertisers and joint research projects with outside companies involved in product development. We use such information to better focus our product and personalize the scope of services offered to each individual user.
+
+SOCIAL MEDIA: Our Site includes Social Media Features, such as the Facebook and Twitter buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. These services will also authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. These Services may give you the option to post information about your activities on our websites to your profile page to share with others within your network. Your interactions with these Features are governed by the privacy policy of the company providing them.
+
+TESTIMONIALS: With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us via one of the methods listed in this Online Privacy Policy.
+
+ANALYTICS: We continuously improve our websites and our products and we utilize different third party web analytics tools to help us do so. We are interested in how visitors use our websites, our desktop tools, our mobile applications, what they like and dislike, and where they have problems. Our products, desktop tools and mobile applications use analytical tools to understand feature usage patterns, to enhance and improve your product experience and offer you specific usage tips and guidance. In connection with normal business operations, as well as to increase functionality and enhance your user experience, this usage information may be linked to personal information that we have about individual users. We maintain ownership of this data and we do not share this type of data about individual users with third parties.
+
+Our mobile applications will also use analytical tools to help gather non-personally identifiable data about download and application usage. In our use of mobile applications we may utilize GeoLocation data but only if you specifically opt-in to collection of such data in connection with a particular service. We may use information such as IP addresses to determine the general geographic locations areas of our visitors, but this information is not correlated to personal information about individual users. The web beacons used in conjunction with these tools may gather data such as what browser a person uses, what operating systems are used, domain names, MIME types, what is downloaded, and what content, products and services are reviewed when visiting or registering for services at one of our websites or using one of our mobile applications.
+
+This information is used solely to assist Market Hero, INC in maintaining a more effective and useful websites and products for our customers. This data will not be shared with third parties without your prior consent or unless required by law.
+
+COOKIES: A cookie is a small data file that certain websites write to your hard drive when you visit them. We use cookies to track user traffic patterns and hold certain registration information. When you register at Market Hero, INC sites, we use cookies to store unique, randomly assigned user IDs that we generate for administrative purposes. These cookies enable you to enter the Market Hero, INC sites without having to log on each time. We do not store passwords or any Personal Information about you in the cookies.
+
+Local shared objects, also known as Flash cookies, may be used by third parties for some of our product training videos. These cookies are used to store preferences for the videos such as volume control. Flash cookies are not used to back-up, recreate or re-spawn a browser cookie that a user may delete. Flash cookies are different from browser cookies because of the amount of, type of, and way data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies please click here.
+
+3\. With whom does Market Hero, INC share the information?
+
+Ensuring your privacy is important to us. We do not sell, trade or rent your personal information to third parties.
+
+Market Hero, INC products and services by necessity require us to provide some of your information to third parties. We may occasionally employ other companies to perform functions on our behalf. Examples include processing credit card payments, sending postal mail and email, analyzing data and providing marketing assistance. They have access to personal information needed only to perform their functions and may not use it for any other purpose. Further, they must process the personal information in accordance with this Privacy Policy. Also, in the event that Market Hero, INC or substantially all of its assets are acquired, customer information will be one of the transferred assets. For more information on how you will be notified in this instance, see Section 5 below.
+
+Occasionally we send offers to select groups of Market Hero, INC customers on behalf of other businesses. When we do this, we do not share your personal information with the other businesses. Except in the limited instances as stated above, we will never voluntarily share personally identifiable information with any third party without the user’s express consent or unless compelled by applicable state and federal laws. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+
+Market Hero, INC does not control the practices of our affiliates. If you have questions about how affiliates use the information gathered when you link to them, please read their privacy policies.
+
+Links to other sites: This website may contain links to other sites that are not owned or controlled by Market Hero, INC . Please be aware that we, Market Hero, INC , are not responsible for the privacy practices of such other sites.
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
+
+4\. How can I review, correct and update my personal information?
+
+If you wish to change or review your personal information, go to your My Profile page. There you can access or update the personal information and account history we have on file. Please contact us at support@Market Hero.com if you need assistance in updating or reviewing your information. Market Hero, INC will respond to your request to review the information we have on file for you within 30 days.
+
+5\. How can I opt out of Market Hero, INC’s collection, use and distribution of my information?
+
+To change your email subscription status to receive or to stop receiving marketing communications or third-party promotions administered by Market Hero, INC or to opt out of Market Hero, INC’s collection, use and distribution of your information as stated above, please go to the Unsubscribe page, enter your email address and then click Submit. Users who would like to deactivate their account can contact us at support@Market Hero.com for assistance.
+
+This privacy policy is subject to change. If we are going to use your personally identifiable information in a manner materially different from that stated at the time of collection, we will notify you via email prior to the changes taking effect. If Market Hero, INC or any of its assets are acquired by another company we will notify you via email about this transaction and the transfer of your personal information. You will have a choice as to whether or not you consent to the usage of your information in a different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change.
+
+6\. How does Market Hero, INC protect my information from loss, misuse or alteration?
+
+Market Hero, INC uses industry-standard efforts to safeguard the confidentiality of personally identifiable information, including encryption, firewalls and SSL (Secure Sockets Layer). Nevertheless, we remind you that no security measure is perfect.
+
+Market Hero, INC is not liable for loss of passwords due to user carelessness. If you lose control over your password, you may lose control over your personally identifiable information. If you believe your password has been compromised, we recommend that you immediately change your password. For information on how to do this, please see email our support chat at: support@Market Hero.com
+
+7\. Who can I ask if I have additional questions?
+
+For additional inquiries about the privacy of your information, you can contact Market Hero, INC by emailing us at support@Market Hero.com.Market Hero
