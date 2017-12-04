@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serialnumber.in privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602142935id_/http%3A//www.serialnumber.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serialnumber.in privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204023307id_/http%3A//www.serialnumber.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Serialnumber.in
 
@@ -30,6 +30,6 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of SerialNumber.in then you may contact us at webmaster@SerialNumber.in 
+If you have any questions regarding the privacy policy of SerialNumber.in then you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Last updated Tue, 29 Sep 2009 03:03
