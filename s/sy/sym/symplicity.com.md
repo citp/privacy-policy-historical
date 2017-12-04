@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405061322id_/http%3A//symplicity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204161005id_/https%3A//www.symplicity.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Symplicity | Privacy Policy
+# Privacy Policy | Symplicity
 
 You are now on a web site that is owned and operated by Symplicity Corporation (“Symplicity” or “we”). Symplicity is committed to maintaining the privacy of personal information of the persons and entities (“you” or “user”) that use this web site or any of its web applications, contents or features (the “Site”). By utilizing the Site, you consent to the collection and use of your information in accordance with the terms and conditions of this Privacy Policy and agree to comply with the terms of this Privacy Policy.
 
@@ -8,21 +8,29 @@ This Privacy Policy is subject to our Terms of Use and is incorporated into and 
 
 As noted below, Symplicity reserves the right to modify this Privacy Policy at any time. Modifications to this Privacy Policy will be posted on this page, and use of the Site following any such modifications constitutes your express acceptance of the revised Privacy Policy then in effect. This Privacy Policy was last updated on March 1, 2017.
 
-## YOUR USE OF THE SITE
+### YOUR USE OF THE SITE
 
 Employers may use the Site to post employment opportunities through the Site or a college’s or university’s web site. Employers may also search student resumes posted on the Site if a student or alumni agrees to release their resume through the act of applying to jobs or participating in resume books or other employment activities. Employers posting jobs through the Site are required to comply with all applicable laws, including without limitation equal employment opportunity and anti-discrimination laws. Colleges and universities may use the Site to coordinate the interactions of employers with students and alumni for the purpose of connecting employers with their students for hiring purposes. Students and alumni may use the Site though their college or university to perform various activities related to the college or university department that uses the Site, such as to post resumes and review job opportunities. Colleges and universities, students and alumni must also at all times comply with applicable laws that relate to the Site, their use of the Site or the information posted therein.
 
-## STUDENT AND ALUMNI SHARING OF DATA
+### NOTICE FOR STUDENT AND ALUMNI USERS
+
+If you are a user who was given access to the Site by the organization you are affiliated with (such as a college or university), this Privacy Policy does not govern that organization’s collection, use, or disclosure of personal information through the Site. Any educational records that are stored on the Site by you or your organization may be subject to FERPA (The Family Educational Rights and Privacy Act of 1974) and are governed by your organization’s privacy policies and procedures.  Such records would also be treated as personal information by Symplicity and handled by Symplicity only in compliance with this privacy policy and our terms of use. We are not responsible for your organization’s collection, use, or disclosure of your personal information. Symplicity will retain personal information we process on behalf of organizations for as long as needed to provide services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### HOW CAN I MAKE A CHANGE TO MY ACCOUNT OR DATA?
+
+Most account and data requests by students or alumni can be completed by logging into the Site or by contacting the office at your institution responsible for the Symplicity system in use at your institution.  Please contact your organization to better understand your organization’s privacy practices.
+
+### STUDENT AND ALUMNI SHARING OF DATA
 
 Students and alumni share information with us when they complete the registration form that is required when registering with the Site and when they take any action on the Site or choose to upload or add documents, personal information, or other content to the Site, including without limitation resumes, cover letters, transcripts and letters of recommendation. By sharing data on the Site, such student or alumni data may be included in aggregate reports to state agencies, in reports developed for institutional studies, or in similar circumstances.
 
 Students and alumni should contact their college or university or other institution (a) if they have any concerns regarding the use of their data or (b) if they wish to view, correct or change their data.
 
-## USE OF DATA BY COLLEGES AND UNIVERSITIES AND EMPLOYERS
+### USE OF DATA BY COLLEGES AND UNIVERSITIES AND EMPLOYERS
 
 Colleges and universities may use student or alumni data they obtain from the Site only for the purpose of conducting business related to the office that uses a Symplicity product or otherwise in compliance with the college or university’s own privacy policies. Employers using the Site have access to and must use student and alumni data only for recruiting, interviewing, and hiring purposes. Employers have access to limited information from student and alumni profiles—the student or alumnus name, college or university, graduation date, and e-mail address. Employers also have access to resumes from students or alumni who have opted to be included in on-line resume books offered through the Career Services Manager system. Employers have access to resumes of students and alumni who have opted to be promoted in Symplicity’s ONESTOP network, independent of a college or university’s use of Symplicity software. Symplicity cannot control the use of resumes by third parties who access the Site. Once your resume has been disclosed, Symplicity is not able to retrieve it or ensure the destruction of it by the third parties who accessed it. You should not put sensitive information, personality profiles, or other information you would not want made public, in your resume. Resumes you give to us must not contain sensitive data relating to your (i) racial or ethnic origin, (ii) political beliefs (iii) philosophical or religious beliefs (iv) membership of a trade union or political party (v) physical or mental health or biometric details or genetic makeup (vi) addictions, sexual life (vii) the commission of criminal offences or proceedings and associated penalties or fines, (viii) the commission of any unlawful or objectionable conduct and associated penalties, or (ix) any Social Security Number or national identification number. If your resume does contain this information, then you agree that it is at your own risk. We cannot control third parties’ access to such information from our searchable database. Employers to whom student or alumni data is released must use such data in accordance with this Privacy Policy, the Terms of Use and their own internal privacy policies. Students or alumni that have questions regarding the privacy practices and policies of employers with respect to personal information should contact the employer directly.
 
-## USE OF PERSONALLY IDENTIFIABLE INFORMATION
+### USE OF PERSONALLY IDENTIFIABLE INFORMATION
 
 We collect personally identifiable information through the Site in connection with the purpose of connecting employers with students and alumni to enable students and alumni to conduct business processes related to the college and university department that is utilizing a Symplicity product. We use such information in accordance with this Privacy Policy.
 
@@ -40,23 +48,23 @@ Symplicity utilizes other companies to provide limited services on its behalf, i
 
 From time to time, Symplicity may also disclose personally identifiable information to fulfill certain legal and regulatory requirements or if we believe, in good faith, that such disclosure is legally required or necessary to protect our own or others’ rights or to prevent or mitigate harm.
 
-## UPDATING ACCOUNT INFORMATION
+### UPDATING ACCOUNT INFORMATION
 
 You may change or correct the personal information that you have provided to us at any time. To do so, simply log in to your account, go to your profile, and you will find options for editing the information you have submitted.
 
-## INTERNET PROTOCOL (IP)
+### INTERNET PROTOCOL (IP)
 
 When you enter the Site, our servers log your IP address. This is done to monitor our users on the Site collectively. We only use such data anonymously and in the aggregate. We do not use IP addresses to identify information of individual users.
 
-## COOKIE DISCLOSURE
+### COOKIE DISCLOSURE
 
 Like most companies, Symplicity uses cookies and similar technologies on our website to improve and streamline your online experience.
 
-## What are cookies?
+### What are cookies?
 
 Cookies are text files containing small amounts of information downloaded to your computer or device when you visit a site. Cookies are then sent back to the originating site on each subsequent visit, or to another site that recognizes that cookie. Cookies are useful because they allow a site to recognize a user’s device. Cookies do a lot of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and they generally improve the user experience. They can also help to ensure that the advertisements you see online are more relevant to you and your interests.
 
-## How we use cookies
+### How we use cookies
 
 Cookies contain small amounts of information which are downloaded to your device when you visit our website. Cookies are also sent back to our website to allow us to recognize your device. Symplicity may periodically collect information from you through automated means. When you browse the Site, use the Services, or read our emails or newsletters, we may use “cookies” or other online tracking mechanisms in order to provide better service, facilitate your use of the Site or Services, store online preferences, track usage of the Site or Services, tailor the marketing of business services to our institutional customers, or enhance security.
 
@@ -68,11 +76,11 @@ In some cases Advertising Cookies may be used to make advertising messages more 
 
 You can disable the use of cookies on our website by changing your browser settings. However, if you do so, the site may not function optimally. Unless you disable the cookies, by using our website you agree to our use of those cookies.
 
-## CHILDREN
+### CHILDREN
 
 We do not knowingly collect or solicit personally identifiable information from or about children under 13. If you are under 13, please do not use the Site.
 
-## SECURITY
+### SECURITY
 
 We use our best efforts to protect the personally identifiable information submitted by users through the Site in a commercially reasonable manner. We use encryption for credit card information. Access to our users’ personally identifiable information is restricted only to the Symplicity employees who need the information to perform a specific job (for example, our billing assistant or a customer service representative).
 
@@ -82,20 +90,20 @@ All personally identifiable information that the Site collects about you is stor
 
 Although Symplicity strives to provide a high standard of security and privacy, no data transmission over the Internet or any wireless network can be guaranteed to be absolutely secure or effective, and Symplicity does not guarantee or warrant to the security and privacy of any data, information or content. You should be mindful to share only the information that they feel comfortable under these circumstances.
 
-## PRIVACY POLICY CHANGES
+### PRIVACY POLICY CHANGES
 
 Symplicity may deem it necessary or appropriate from time to time to modify this Privacy Policy to reflect changes in the way Symplicity collects or uses information or changes in privacy-related laws, regulations, or industry standards. Accordingly, Symplicity reserves the right to change this Privacy Policy at any time by posting the revised policy on this Site. Information will be handled according to the Privacy Policy in effect at the time the information is used.
 
-## CALIFORNIA RESIDENTS
+### CALIFORNIA RESIDENTS
 
-California law permits its residents to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for their use in direct marketing. If you are a California resident and a user of the Site, you can request a copy of this information from Symplicity by sending an email to [privacy@symplicity.com](mailto:privacy@symplicity.com) or a letter to Symplicity, Privacy Officer, 1560 Wilson Blvd, Suite 550, Arlington, VA 22209.
+California law permits its residents to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for their use in direct marketing. If you are a California resident and a user of the Site, you can request a copy of this information from Symplicity by sending an email to [privacy@symplicity.com](mailto:privacy@symplicity.com) or a letter to Symplicity, Privacy Officer, 3003 Washington Blvd. STE900 Arlington, VA 22201.
 
 Please include your name and email address in email requests, and your name and postal address in mail requests.
 
-## QUESTIONS OR CONCERNS
+### QUESTIONS OR CONCERNS
 
 If you have any questions, concerns, or complaints regarding this Privacy Policy or privacy issues relating to the Site, you can contact us, at [privacy@symplicity.com](mailto:privacy@symplicity.com).
 
-## PRIVACY SHIELD AND SWISS SAFE HARBOR
+### PRIVACY SHIELD AND SWISS SAFE HARBOR
 
-Symplicity complies with the EU-U.S. Privacy Shield Framework and the U.S-Swiss Safe Harbor as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Symplicity has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. See our Privacy Shield Statement [here](https://web.archive.org/privacy_shield_statement/). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. To see our Swiss Safe Harbor certification, please visit <https://safeharbor.export.gov/swisslist.aspx>
+Symplicity complies with the EU-U.S. Privacy Shield Framework and the U.S-Swiss Safe Harbor as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Symplicity has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. [See our Privacy Shield Statement](https://web.archive.org/support/privacy-shield-statement). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. To see our Swiss Safe Harbor certification, please visit <https://safeharbor.export.gov/swisslist.aspx>
