@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lyricsoundtrack.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081522id_/http%3A//www.lyricsoundtrack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsoundtrack.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204212843id_/http%3A//lyricsoundtrack.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Soundtracks
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@lyricsoundtrack.com.
 
