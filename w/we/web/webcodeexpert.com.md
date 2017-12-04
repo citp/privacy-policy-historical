@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcodeexpert.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152003id_/http%3A//www.webcodeexpert.com/p/termsof-service-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcodeexpert.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204215239id_/http%3A//www.webcodeexpert.com/p/termsof-service-1.html) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy ~ Asp.Net,C#.Net,VB.Net,MVC,jQuery,JavaScipt,AJAX,WCF,Sql Server example
 
