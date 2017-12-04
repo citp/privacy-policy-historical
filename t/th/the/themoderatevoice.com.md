@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoderatevoice.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053008id_/http%3A//themoderatevoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoderatevoice.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204173936id_/http%3A//themoderatevoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Moderate Voice
 
@@ -123,8 +123,6 @@ themoderatevoice.com
 2260 El Cajon Blvd. #165  
 San Diego, CA 92104  
 United States  
-gandypro@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Last Edited on 2016-04-06
-
-Apr 6, 2016
