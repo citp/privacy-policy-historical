@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chopra.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203102611id_/http%3A//www.chopra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chopra.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205130027id_/http%3A//www.chopra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Chopra Center
 
