@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningfarm.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608064931id_/http%3A//www.learningfarm.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningfarm.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205122622id_/https%3A//www.learningfarm.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -27,9 +27,13 @@ Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties any of your information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. 
 
-Children's Online Privacy Protection Act Compliance 
+Children's Online Privacy Protection Act Compliance (COPPA)
 
 We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+
+Family Educational Rights and Privacy Act (FERPA)
+
+The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. Should you choose to enter in any information that is considered an educational record protected by the act, then students have the right to expect that those records within Learning Farm will not be viewable by guests and others who are not school officials. 
 
 Your Consent 
 
