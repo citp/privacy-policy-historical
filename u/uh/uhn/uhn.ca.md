@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uhn.ca privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611103517id_/http%3A//www.uhn.ca/PatientsFamilies/Patient_Safety_Advocacy/Privacy/Pages/website_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhn.ca privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205230530id_/http%3A//www.uhn.ca/PatientsFamilies/Patient_Safety_Advocacy/Privacy/Pages/website_privacy.aspx) for the most accurate reproduction.*
 
 # Website Privacy
 
-Thank you for visiting University Health Network’s (UHN) website. UHN places a high value on privacy. Please visit our [Privacy website](https://web.archive.org/PatientsFamilies/Patient_Safety_Advocacy/Privacy "Link to Privacy") to learn more about UHN’s commitment to protecting the personal information of our patients and to view our full [Privacy Policy](https://web.archive.org/PatientsFamilies/Patient_Safety_Advocacy/Privacy/Pages/privacy_policy.aspx "Link to Privacy Policy").
+Thank you for visiting University Health Network’s (UHN) website. UHN places a high value on privacy. Please visit our [Privacy website](https://web.archive.org/PatientsFamilies/Patient_Safety_Advocacy/Privacy "Link to Privacy") to learn more about UHN’s commitment to protecting the personal information of our patients and to view [our full Privacy Policy](https://web.archive.org/PatientsFamilies/Patient_Safety_Advocacy/Privacy/Pages/privacy_policy.aspx "Link to Privacy Policy").
 
 The [Terms and Conditions](https://web.archive.org/Pages/terms_conditions.aspx "Link to Terms & Conditions") for our website describe the information we collect about you during your online visit and are summarized below: 
 
