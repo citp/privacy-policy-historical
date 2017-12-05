@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415143245id_/https%3A//www.dollar.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206004713id_/https%3A//www.dollar.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | About Us | Car Rental Lowest Rates | Dollar
+# Privacy
 
 **CONTACT US:**  We hope this policy answers your questions about our collection, use and disclosure of your personal data.  If it does not, or if you have any questions, please contact us by following the instructions in the Contact Us section below.
 
