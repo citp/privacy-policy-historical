@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchthatbus.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075834id_/http%3A//www.catchthatbus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchthatbus.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205083337id_/http%3A//www.catchthatbus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CatchThatBus
 
@@ -12,15 +12,15 @@ Email marketing (if applicable): With your permission, wemay send you emails abo
 
 Consent
 
-**How do you get my consent?**
+**How do we get your consent?**
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to us collecting it and using it for that specific reason only. 
+Whenever you provide us with personal information to complete transaction, verify your credit card, place an order(s), arrange for a delivery(s) or return of purchase(s), we imply your consent to us to collect and use for specific reasons. 
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
+If we require your personal information for secondary uses (marketing, etc), we will contact you directly for your expressed consent or provide you with the option to reject. 
 
 **How do I withdraw my consent?**
 
-If after you opt-in, you change your mind, you may withdraw your consent to us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at admin@catchthatbus.com or mailing us at: Catch That Bus Sdn. Bhd. A-32 Menara Nu, 50470 Kuala Lumpur, Wilayah Persekutuan, Malaysia. 
+You may withdraw your consent from us regarding continued collection, use or disclosure of your information, by contacting us at [admin@catchthatbus.com](mailto:admin@catchthatbus.com) or mailing us at: **Catch That Bus Pte Ltd, 79, Ayer Rajah Crescent #04-09, 139955 Singapore**. 
 
 Disclosure
 
@@ -46,7 +46,7 @@ In particular, remember that certain providers may be located in or have facilit
 
 As an example, if you are located in Singapore and your transaction is processed by a payment gateway located in the Malaysia, then your personal information used in completing that transaction may be subject to disclosure under Malaysian legislation. 
 
-Once you leave our storeâs website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our websiteâs Terms of Service. 
+Once you leave our store's website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website's Terms of Service. 
 
 **Links**
 
@@ -60,7 +60,7 @@ If you provide us with your credit card information, the information is encrypte
 
 Cookies
 
-Here is a list of cookies that we use. Weâve listed them here so you that you can choose if you want to opt-out of cookies or not. 
+Here is a list of cookies that we use. We've listed them here so you that you can choose if you want to opt-out of cookies or not. 
 
 JSESSIONID, currencyCode, departDate, returnDate, from, toCity are the cookies used by [www.catchthatbus.com](http://www.catchthatbus.com/). All of them are session related cookies and store the information related to your search query. JSESSIONID is the unique session identifier cookie. 
 
@@ -76,8 +76,4 @@ If our store is acquired or merged with another company, your information may be
 
 Question and Contact information
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at admin@catchthatbus.com or by mail at Catch That Bus Sdn. Bhd. 
-
-[Re: Privacy Compliance Officer] 
-
-[A-32, Menara Nu Kuala Lumpur Wilayah Persekutuan Malaysia 50470] 
+If you would like to access, amend or remove any personal information, lodge a complaint or request for more information, kindly contact our Privacy Compliance Officer at [admin@catchthatbus.com](mailto:admin@catchthatbus.com) or mail us at: **Catch That Bus Pte Ltd, 79, Ayer Rajah Crescent #04-09, 139955 Singapore**.
