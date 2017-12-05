@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the yatedo.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524065658id_/http%3A//about.yatedo.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatedo.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205054213id_/http%3A//about.yatedo.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Policy | About Yatedo
+# About Yatedo - Policy
 
-**1\. Data controller**
+## 1\. Data controller
 
 The person processing your personal data is:
 
 Yatedo France, 54 rue de Paradis, 75010 Paris, France.
 
-**2\. Information collected and purpose of the processing**
+## 2\. Information collected and purpose of the processing
 
 Yatedo collects personal data made publicly available on the Internet or given by the user when he or she creates an account, for the purpose of editing a people search engine.
 
@@ -24,7 +24,7 @@ The account creation form specifies whether the questions are optional or compul
 
 In compliance with article 6-II of French law n°2001-575 dated 21 June 2004, and with its regulation n°2011-219 dated 25 February 2011, Yatedo will collect connection data enabling to identify the person at the origin of the contents published, such as the IP address and the connection identifier.
 
-**3\. Recipients of the data collected**
+## 3\. Recipients of the data collected
 
 Personal data collected by Yatedo is processed by Yatedo.
 
@@ -32,7 +32,7 @@ Information published on the Yatedo search engine can be seen by any person brow
 
 Yatedo may also transmit your data to customers, service providers and commercial partners for recruiting and marketing purposes.
 
-**4\. Right to access, rectify or object to the data processing related to the Yatedo profiles**
+## 4\. Right to access, rectify or object to the data processing related to the Yatedo profiles
 
 **4.1 Right to access**
 
