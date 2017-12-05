@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shotatlife.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623193600id_/http%3A//shotatlife.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shotatlife.org privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205041047id_/http%3A//shotatlife.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shot at Life : Shot at Life
 
