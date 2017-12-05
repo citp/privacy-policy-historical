@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the broadcastyourass.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529120527id_/http%3A//www.broadcastyourass.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastyourass.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206002057id_/http%3A//www.broadcastyourass.com/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 **PRIVACY POLICY FOR BROADCASTYOURASS.COM**
 
-This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of BROADCASTYOURASS.COM (hereafter the “Site”) or the services provided by this Site.
+This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of BROADCASTYOURASS.COM (hereafter the �Site�) or the services provided by this Site.
 
   CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.
 
@@ -18,7 +18,7 @@ This Privacy Policy statement sets forth the policies and practices with respect
 
   The only personally-identifying information we collect and store about you is the information you, voluntarily choose to provide to us, such as your Username, e-mail address, address, zip code, etc. In addition, we may ask you to voluntarily provide us with personal information when you become a Member for billing and shipping purposes.
 
-  When a Member, visitor or User of this Site requests web pages from the Site’s server or clicks on banners or other hypertext links, the Site may automatically collect some information or data about the Member, visitor or User, including the IP address from which the Site is being accessed, the pages or links that were requested, the special preferences or requests of the Member, visitor or User and cookie information received from the computer of the Member, visitor or User; all that information and data may be collected by the Site and included in its database.
+  When a Member, visitor or User of this Site requests web pages from the Site�s server or clicks on banners or other hypertext links, the Site may automatically collect some information or data about the Member, visitor or User, including the IP address from which the Site is being accessed, the pages or links that were requested, the special preferences or requests of the Member, visitor or User and cookie information received from the computer of the Member, visitor or User; all that information and data may be collected by the Site and included in its database.
 
   If a Member, visitor or User sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its database.
 
@@ -26,7 +26,7 @@ This Privacy Policy statement sets forth the policies and practices with respect
 
   BROADCASTYOURASS.COM uses cookies to store and sometimes track information to make your online experience easier and more personalized. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Most major Web browsers are set up so that they will initially accept cookies, but you may modify your computers preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. If you choose to reject all cookies, there are areas of this Site and other websites that may not function properly.
 
-  You may obtain further information about “cookies” and how they function at: http://www.cookiecentral.com
+  You may obtain further information about �cookies� and how they function at: http://www.cookiecentral.com
 
   **3\. USE OF PERSONAL INFORMATION AND DISCLAIMER**
 
@@ -38,9 +38,9 @@ This Privacy Policy statement sets forth the policies and practices with respect
 
 By your acts of signing up as a subscriber to the Site, accepting the Terms and Conditions of the Site and affirmatively consenting to accept emails from this Site, you are agreeing to all of the following: (1) that Site has your permission to collect your email address and all personal information you supply relating to that email address; (2) that Site has your permission to disclose and transfer your email address and all other personal information you supply to its affiliates, agents or service providers that provide goods and services in accordance with the Terms and Conditions of BROADCASTYOURASS.COM .
 
-  **4\. “OPT-OUT” – REVOCATION OF CONSENT PROCEDURE**
+  **4\. �OPT-OUT� � REVOCATION OF CONSENT PROCEDURE**
 
-  The Site also offers all Members and Users a procedure for “Opting-Out” if the Member or User subsequently chooses to revoke or withdraw any consent to receive Offers by sending an e-mail to [cs@BROADCASTYOURASS.COM](mailto:cs@) clearly stating that the Member or User has revoked or withdrawn consent to receive any future Offers.
+  The Site also offers all Members and Users a procedure for �Opting-Out� if the Member or User subsequently chooses to revoke or withdraw any consent to receive Offers by sending an e-mail to [cs@BROADCASTYOURASS.COM](mailto:cs@) clearly stating that the Member or User has revoked or withdrawn consent to receive any future Offers.
 
   **5\. DISCLOSURE**
 
