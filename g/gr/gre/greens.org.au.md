@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greens.org.au privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608104416id_/http%3A//greens.org.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greens.org.au privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206005833id_/https%3A//greens.org.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Australian Greens
 
@@ -34,16 +34,16 @@ We do not identify users or their browsing activities except, in the event of an
 
 Individuals joining our email lists will have their contact details stored on password protected databases. Staff members have access to our website’s backend system which is password protected. Our website server, hosted by our internet service provider, is also password protected.
 
-## Cookies
+## Trackers
 
-Our website uses cookies to monitor how visitors find and use our site. We report on this activity in aggregate, and use this information solely for the purposes of monitoring and improving our website. 
+Our website uses trackers to monitor how visitors find and use our site. We report on this activity in aggregate, and use this information for the purposes of improving our website and how we engage our audience.
 
-In addition to these, your browser may load cookies from third parties. Third party cookies are cookies created by an external service when you use a page on our website. These cookies are specific to the third-party's domain and accordingly the data held in them can be seen and managed by the third party and not by us. 
+In addition to these, your browser may load trackers from external third party services when you use a page on our website. These trackers are specific to the third-party and accordingly the data held in them can be seen and managed by the third party and not by us.
 
-We use a variety of widely used third-party plugins to help improve your experience while using our site. We control whether or not we use the third-party service with our website, and how it is integrated and presented on our website. We do not have control over the cookies themselves. No personal information is maintained which might identify an individual should they visit our website at a later date.
+We use a variety of widely used third-party plugins to help improve your experience while using our site. We control whether or not we use the third-party service with our website, and how it is integrated and presented on our website. We do not have control over the trackers themselves. No personal information is maintained which might identify an individual should they visit our website at a later date.
 
 Whilst every attempt has been made to protect visitors’ privacy, The Australian Greens accept no fault if these systems result in a breach of privacy.
 
-If you have concerns about the privacy implications of the cookies we use, you can block cookies using the [cookie management tools in your web browser](http://www.cookiepedia.co.uk/how-to-manage-cookies).
+If you have concerns about the privacy implications of the trackers we use, you can block trackers using the [cookie management tools in your web browser](http://www.cookiepedia.co.uk/how-to-manage-cookies). Additional steps to protect your privacy online can be found in [these recommendations from the Electronic Frontiers Foundation](https://www.eff.org/deeplinks/2016/09/five-eff-tools-help-you-protect-yourself-online).
 
 **Whilst every attempt has been made to protect visitors’ privacy, The Australian Greens accept no fault if these systems result in a breach of privacy.**
