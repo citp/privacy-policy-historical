@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luther.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124358id_/http%3A//www.luther.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luther.edu privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205133548id_/http%3A//www.luther.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Luther College
 
@@ -28,6 +28,19 @@ Luther College considers privacy, security, and service in our online operations
 Luther College uses a variety of proven protections to maintain the security of visitors information. For example, we make use of secure socket layer connections, firewall technology and encryption to protect your information.
 
 When you visit Luther Colleges website, we may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our websites. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our web design and function.
+
+Luther College uses demographic information gathered through Google Analytics, including its Demographics and Interests reports, to gain a deeper understanding of who our visitors are, what they are interested in, and how they are using our website.
+
+In addition, as you browse our website, advertising cookies may be placed on your computer so that we can understand what you are interested in. This allows our display advertising partners to present you with targeted advertising on other sites based on your previous interactions with our websites. You can visit this page to opt out of targeted advertising.
+
+We may also use the information we collect from you to:
+
+  * Understand your interest in Luther College as part of our admission process
+  * Send you emails related to your interest in Luther College
+  * Administer surveys and other site features
+  * Track our advertising on third-party websites
+
+
 
 In the event that Luther College becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, we shall take reasonable measures which we deem appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding other provisions of this Privacy Statement.
 
