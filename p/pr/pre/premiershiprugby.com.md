@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiershiprugby.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605101959id_/http%3A//www.premiershiprugby.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiershiprugby.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205135924id_/http%3A//www.premiershiprugby.com/legal) for the most accurate reproduction.*
 
 # Legal Notice & Privacy Policy | Premiership Rugby
 
@@ -16,7 +16,7 @@ At Premier Rugby Limited we are committed to protecting your privacy & security.
 
 ## Controllers of Information
 
-Any personal information provided to or gathered by <http://www.premiershiprugby.com/> is controlled by Premier Rugby Ltd, Registered office Lion House, Red Lion Street, London WC1R 4GB. Details of the current Data Protection Officer at Premier Rugby Ltd can be obtained by emailing [enquiries@premiershiprugby.com](mailto:enquiries@premiershiprugby.com).
+Any personal information provided to or gathered by <https://www.premiershiprugby.com/> is controlled by Premier Rugby Ltd, Registered office Lion House, Red Lion Street, London WC1R 4GB. Details of the current Data Protection Officer at Premier Rugby Ltd can be obtained by emailing [enquiries@premiershiprugby.com](mailto:enquiries@premiershiprugby.com).
 
 ## What Information do we collect? How do we use it?
 
