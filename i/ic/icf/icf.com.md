@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icf.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204024948id_/https%3A//www.icf.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icf.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205065614id_/https%3A//www.icf.com/privacy-statement) for the most accurate reproduction.*
 
-# » ICF
+# Online Privacy Statement | ICF
 
 Effective Date: September 20, 2016
 
@@ -101,9 +101,9 @@ ICF and its trusted business partners, agents, subcontractors, or third-party ve
   1. **Marketing**  
 The information you provide to us, as well as the information we have collected about you indirectly, may be used by us for marketing purposes. Before we do so, however, we will offer you the opportunity to choose whether or not to have your information used in this way.
   2. **ICF's Contracted Third-Party Websites**  
-ICF contracts with a number of third-party vendors to enhance your experience on our Sites and provide special features, such as online payment processing, online job applications, and investor materials. All such third-party vendors are prohibited from using your Personal Information except to provide these services to ICF, and we require them to maintain the confidentiality of your information. In addition, these third-party vendors are subject to contractual prohibitions on selling or sharing any Personal Information. The [Investor section](http://investor.icf.com/ "View the Investor Relations section") is hosted by Thomson Reuters. You can [access Thomson Reuters' Terms of Use for Interactive Data](http://www.interactivedata.com/index.php/Contents/show/content/quoteTerms "Thomson Reuters' Terms of Use"). The [Career Opportunities section](https://web.archive.org/careers) (or Career Center) is hosted by Taleo. You can [access Taleo's Privacy Policy](http://www.taleo.com/privacy/privacy-policy "Access Taleo's Privacy Policy"). Also see Cookies, Web Beacon and Other Technologies below for information on how these third-party sites may be using cookies.
+ICF contracts with a number of third-party vendors to enhance your experience on our Sites and provide special features, such as online payment processing, online job applications, and investor materials. All such third-party vendors are prohibited from using your Personal Information except to provide these services to ICF, and we require them to maintain the confidentiality of your information. In addition, these third-party vendors are subject to contractual prohibitions on selling or sharing any Personal Information. The [Investor section](http://investor.icf.com/ "View the Investor Relations section") is hosted by Nasdaq. You can [access Nasdaq's Terms of Use for Interactive Data](http://www.interactivedata.com/index.php/Contents/show/content/quoteTerms "Thomson Reuters' Terms of Use"). The [Career Opportunities section](https://icfi.taleo.net/) (or Career Center) is hosted by Taleo. You can [access Taleo's Privacy Policy](http://www.taleo.com/privacy/privacy-policy "Access Taleo's Privacy Policy"). Also see Cookies, Web Beacon and Other Technologies below for information on how these third-party sites may be using cookies.
   3. **Job Applicant Data**  
-If candidates visit and submit their Personal Information through the third-party website that facilitates [ICF’s Career Center](https://web.archive.org/careers/apply-now), we may use such information for recruiting-related purposes. See "ICF's Contracted Third-Party Websites" above for more information. We may use cookies and other tracking technology to provide applicants with a personalized online experience, to send relevant information about careers and opportunities at ICF, and to analyze the effectiveness of our recruitment efforts and resources. More information about how we may use applicants’ data may be found below in Cookies, Web Beacon and Other Technologies.
+If candidates visit and submit their Personal Information through the third-party website that facilitates [ICF’s Career Center](https://icfi.taleo.net/), we may use such information for recruiting-related purposes. See "ICF's Contracted Third-Party Websites" above for more information. We may use cookies and other tracking technology to provide applicants with a personalized online experience, to send relevant information about careers and opportunities at ICF, and to analyze the effectiveness of our recruitment efforts and resources. More information about how we may use applicants’ data may be found below in Cookies, Web Beacon and Other Technologies.
 
 When we disclose information to a third party, for example, to check a reference or obtain a background check, we will inform you beforehand and receive your prior written consent. ICF Human Resources also will provide additional related information during the recruitment process. Unless you tell us not to do so, ICF Human Resources will retain your Personal Information and other data for future consideration in accordance with the Retention section below. We also retain non-personally identifiable statistical information about applicants.
 
@@ -180,27 +180,15 @@ Expiration
 Purpose  
   
 ---|---|---|---  
-icf.com  
-icfi.com/china  
-icfi.com/canada | ASP.NET_SessionId  | Session  | This necessary cookie is automatically created by ASP.NET—the web application framework that runs the website—and holds a unique value that is used to identify your return visits.   
 icf.com  | SC_ANALYTICS_GLOBAL_COOKIE  | 1 Year  | This necessary cookie is automatically created by the Sitecore Content Management System (CMS) and holds a unique value that is used to identify your return visits.   
 icf.com  | SC_ANALYTICS_SESSION_COOKIE  | Session  | This necessary cookie is automatically created by the Sitecore Content Management System (CMS) to remember your activity during a single visit to the site. This includes pages you've visited and the date and time you visited them.   
   
 icf.com  
-ecommerceaccel.com  
-blog.ecommerceaccel.com  
-highlights.icf.com  
 investor.icf.com  
-media.icfi.com  
-products.icfi.com  
-icfithinking.com  
 mostra.com  
-citytechinc.com  
 olson.com  
 olson1to1.com  
-olsonengage.com  
-ca.olson.com  
-pulsepointgroup.com
+olsonengage.com
 
 | 
 
@@ -217,78 +205,19 @@ _utmz
 icf.com | cuvid | 2 years from set/update | This cookie is set by the Click Dimensions tracking script and is used to determine unique visitors to the site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that the application uses to ensure both the validity and accessibility of the cookie as an extra security measure. Learn more about Click Dimensions web analytics cookies at: <http://help.clickdimensions.com/clickdimensions-cookies-for-web-analytics/>.  
 icf.com | cusid | 30 minutes from set/update | This cookie is set by the Click Dimensions tracking script and is used to establish and continue a user session with the site. Learn more about Click Dimensions web analytics cookies at: <http://help.clickdimensions.com/clickdimensions-cookies-for-web-analytics/>.  
 icf.com | cuvon | 30 minutes from set/update | This cookie is set by the Click Dimensions tracking script and is used to signal the last time a visitor viewed a page. Learn more about Click Dimensions web analytics cookies at: <http://help.clickdimensions.com/clickdimensions-cookies-for-web-analytics/>.  
-icf.com  | icfi  | 90 days  | If you check the "Remember Me" checkbox on any of our forms, the information entered into the form (name, email, phone, etc.) will be stored in this functional cookie for your convenience so that you will not have to enter the information again.   
-icf.com.br  
-| ASPSESSIONIDQSBQARCT  
-| Session  | This necessary cookie is automatically created by Classic ASP, the web application framework that runs these websites. This cookie holds a unique value that is used to identify your return visits.   
-jobs.icfi.com  
-(icfi.taleo.net)  | lastFollowedLinkId  
-JSESSIONID  | Session  | These first-party cookies are automatically set by Taleo's web application, which powers ICF's job applicant system in the Careers Opportunities section. They are used to identify your return visits and click paths.   
-icf.com—only used on forms with paid registration  | smSessionID  | Session  | This functional cookie is used to validate each step within the registration and payment process and retrieve previously entered data.   
-icf.com  | homepagealert_xxx  
-(name changes)  
-| 30 days  | This functional cookie is set when you dismiss the alert message that may appear underneath the primary image on the homepage so as not to continue displaying the message when you return to the homepage.   
-icf.com | CartID | 7 days | This secure functional cookie is set when you add products to your shopping cart on ICFi.com. Its primary purpose is to persist your order across multiple visits to the website. No personally identifiable information is stored within the cookie.  
 icf.com  
-icfithinking.com  
 google.com | __gads  
 NID  
 PREF  
 OGPC | 2 years | 
 
-These third-party Google Analytics cookies are used to collect anonymous information about how you use icfi.com when coming from an online ad provided by Resonate Networks. We use the information to compile reports and to help us improve the effectiveness of advertising.   
-  
-icf.com  
-technologyforgreat.com  
-| pid | Up to 2 years | 
-
-This cookie is generated by the Twitter widgets and buttons and is used to track which pages you visit. Learn more about Twitter's privacy policy at: <https://twitter.com/privacy>.  
+These third-party Google Analytics cookies are used to collect anonymous information about how you use icf.com when coming from an online ad provided by Resonate Networks. We use the information to compile reports and to help us improve the effectiveness of advertising.   
   
 mostra.com | PHPSESSID | Session | 
 
 This cookie is generated by the PHP web framework and is used to hold a unique value that identifies current and returning visitors to the site.  
   
-google.com | GAPS   
-HSID  
-SSID  
-APISID  
-SAPISID  
-ACCOUNT_CHOOSER  
-LSID  
-BEAT  
-SID  
-| Up to 2 years | 
-
-These cookies are used on citytechinc.com by Google to track usage of their products and services including Google Maps, Google Calendar, Google Translate, Google Docs and YouTube. More information about Google's privacy policy at: <http://www.google.com/privacypolicy.html>.   
-  
-google.com | NID  
-NSID  | 6 months | 
-
-These cookies are used on citytechinc.com by Google to track usage of their products and services including Google Maps, Google Calendar, Google Translate, Google Docs and YouTube. More information about Google's privacy policy at: <http://www.google.com/privacypolicy.html>.   
-  
-google.com | GoogleAccountsLocale_session  | Session | 
-
-These cookies are used on citytechinc.com by Google to track usage of their products and services including Google Maps, Google Calendar, Google Translate, Google Docs and YouTube. More information about Google's privacy policy at: <http://www.google.com/privacypolicy.html>.   
-  
-investor.icf.com  | CP  | Session  | This first-party cookie is automatically set by Thomson Reuters, which hosts the Investor Relations section of icfi.com. The cookie holds a unique value that remembers your activity during a single visit to the site.  
-products.icfi.com | SESS | 20 days | This necessary cookie is automatically generated by the Drupal system and is used to hold a unique value that identifies current and returning visitors to the site.  
-products.icfi.com | has_js | Session | 
-
-This functional cookie is used to alter the system behavior depending on whether you have JavaScript enabled in your browser.  
-  
-quantserve.com | mc | Up to 2 years | 
-
-This third-party cookie is used by the TypePad blogging platform on our [http://icfithinking.com](http://icfithinking.com/) blog for advertising purposes. To learn more about TypePad's use of cookies, visit: <http://www.typepad.com/privacy>.  
-  
-scorecardresearch.com | UID  
-UIDR | Up to 2 years | 
-
-These third-party cookies are used by ShareThis to provide buttons that help share articles on our TypePad-powered blog, [http://icfithinking.com](http://icfithinking.com/). ShareThis makes use of Scorecard Research tracking, which sets the UID and UIDR cookies. To learn more about ShareThis' use of cookies, visit: <http://sharethis.com/privacy>.  
-  
-icfithinking.com | __qca | Up to 2 years | 
-
-This third-party cookie is set by the TypePad blogging platform and is used to collect anonymous information about how you use [http://icfithinking.com](http://icfithinking.com/) when coming from an online ad provided by Quantcast. To learn more about TypePad's use of cookies, visit: <http://www.typepad.com/privacy>.  
-  
+investor.icf.com  | CP  | Session  | This first-party cookie is automatically set by NASDAQ, which hosts the Investor Relations section of icf.com. The cookie holds a unique value that remembers your activity during a single visit to the site.  
 olson1to1.com  
 olsonengage.com | s_vnum  
 s_ev11  
@@ -304,78 +233,8 @@ olsonengage.com | s_sq
 s_cc | Session | These third-party Adobe Site Catalyst cookies are used to collect nonpersonally identifiable information about how you use the website. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, how visitors arrived at the site, and pages visited.  
 olson.com  
 olson1to1.com  
-ca.olson.com | balanceid | Session | This necessary cookie is automatically created by network infrastructure, which balances the load of web traffic to increase performance and load times.  
-pulsepointgroup.com | has_js | Session | This cookie is used by [http://pulsepointgroup.com](http://pulsepointgroup.com/) site's JavaScript to enable styling and enhanced user experience.  
-linkedin.com | X-LI-IDC | Session | 
-
-This cookie is generated by the LinkedIn share and follow buttons and is used to track which pages you visit. Learn more about LinkedIn's cookie policy at: <http://www.linkedin.com/legal/cookie-policy>  
-  
-linkedin.com | bcookie | Up to 2 years | 
-
-This cookie is generated by the LinkedIn share and follow buttons and is used to track which pages you visit. Learn more about LinkedIn's cookie policy at: <http://www.linkedin.com/legal/cookie-policy>  
-  
-linkedin.com | lidc | 24 hours | 
-
-This cookie is generated by the LinkedIn share and follow buttons and is used to track which pages you visit. Learn more about LinkedIn's cookie policy at: <http://www.linkedin.com/legal/cookie-policy>  
-  
-sharethis.com | __unam | 9 months | 
-
-This cookie is used on citytechinc.com and is generated by ShareThis which facilitates the easy sharing of pages/links. It is used to track which pages you visit and activity. More information about ShareThis' privacy policy at: <http://www.sharethis.com/privacy>.  
-  
-sharethis.com | __stid  
-__uset  | Session | 
-
-This cookie is used on citytechinc.com and is  generated by ShareThis which facilitates the easy sharing of pages/links. It is used to track which pages you visit and activity. More information about ShareThis' privacy policy at: <http://www.sharethis.com/privacy>.  
-  
-sharethis.com | __stdlxmap  
-__stgmap  | 1 week | 
-
-This cookie is used on citytechinc.com and is generated by ShareThis which facilitates the easy sharing of pages/links. It is used to track which pages you visit and activity. More information about ShareThis' privacy policy at: <http://www.sharethis.com/privacy>.  
-  
-sharethis.com | user_segment  | 1 month | 
-
-This cookie is used on citytechinc.com and is generated by ShareThis which facilitates the easy sharing of pages/links. It is used to track which pages you visit and activity. More information about ShareThis' privacy policy at: <http://www.sharethis.com/privacy>.  
-  
-sharethis.com | user_segment  | 1 month  | 
-
-This cookie is used on citytechinc.com and is generated by ShareThis which facilitates the easy sharing of pages/links. It is used to track which pages you visit and activity. More information about ShareThis' privacy policy at: <http://www.sharethis.com/privacy>.  
-  
-twitter.com
-
-| _twitter_sess  
-guest_id  
-tz_offset_sec  
-_utma  
-_utmb  
-_utmc  
-_utmz  
-_utmv  
-| Session | 
-
-These cookies are generated by the Twitter share and follow buttons and are used to track which pages you visit. Learn more about Twitter's cookie policy at: <https://support.twitter.com/articles/20170514>.  
-  
-twitter.com
-
-| external_referer | 24 hours | This cookie is generated by the Twitter share button and is used to track which pages you visit. Learn more about Twitter's cookie policy at: <https://support.twitter.com/articles/20170514>.  
-  
-youtube.com
-
-| VISITOR_INFO1_LIVE  | Up to 1 year | 
-
-This cookie is generated by the YouTube share button and attempts to estimate your bandwidth. Learn more about YouTube's cookie policy at: <http://www.google.com/intl/en/policies/privacy/>.  
-  
-youtube.com
-
-| YSC  | Session | 
-
-This cookie is generated by the YouTube share button and attempts to estimate your bandwidth. Learn more about YouTube's cookie policy at: <http://www.google.com/intl/en/policies/privacy/>.  
-  
-youtube.com
-
-| PREF | Session | 
-
-This cookie is generated by the YouTube share button and stores session preferences that relate to your activity when watching the embedded videos. Learn more about YouTube's cookie policy at: <http://www.google.com/intl/en/policies/privacy/>.  
-  
+| balanceid | Session | This necessary cookie is automatically created by network infrastructure, which balances the load of web traffic to increase performance and load times.  
+|   |   |    
   
 
   2. **Web beacons and other technologies**  
@@ -426,8 +285,7 @@ If you have subscribed to one or more of our newsletters or receive information 
 
 You can exercise any of your rights by [Contacting Us](https://web.archive.org/contact-us) or submitting any requests regarding exercising your rights in writing to: 
 
-**ATTN: Dan Smith  
-Online Data Privacy Manager  
+**ATTN: Online Data Privacy Manager  
 ICF  
 9300 Lee Highway  
 Fairfax, VA 22031-1207 USA  
