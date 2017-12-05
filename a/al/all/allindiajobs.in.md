@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the allindiajobs.in privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608082539id_/http%3A//www.allindiajobs.in/2012/02/disclaimer-all-india-jobs-jobs-in-india.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiajobs.in privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205084248id_/http%3A//www.allindiajobs.in/2012/02/disclaimer-all-india-jobs-jobs-in-india.html) for the most accurate reproduction.*
 
 # Privacy Policy and DISCLAIMER
-
-_Advertisements_   
-  
-
 
 [](http://4.bp.blogspot.com/-VeryUMAsGnk/T1elLt5gGQI/AAAAAAAAFac/n9g7u4-zfEA/s1600/123.jpg)
 
@@ -42,5 +38,3 @@ We take reasonable steps to secure your personally identifiable information agai
 If you have any questions or concerns about our privacy policies, please contact us: admin@allindiajobs.in
 
 **Thank you very much.**
-
-**Share This Job Opening...!!**
