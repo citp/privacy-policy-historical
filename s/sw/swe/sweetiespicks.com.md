@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetiespicks.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628160744id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiespicks.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205043740id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,9 +11,9 @@ These policies are valid from June 24, 2008 and were updated December 5, 2015. L
 
 Personal information submitted to Sweeties Sweeps is only accessible only the owner of this site.
 
-**Referral, Affiliate and Tracking Links Policies**
+**Affiliate and Tracking Links Policies**
 
-Sweeties Sweeps may use our own referral links in our posts, sweepstakes listings, on Twitter, on Facebook, Google Plus, Pinterest, Instagram and Snapchat to get extra entries in sweepstakes. If you don’t want to use our referral links, [join the Secret site](https://sweetiessecretsweeps.com/join/). We do not use any referral links on the Secret site. We also allow our regular readers and visitors to share their referral links in the comments on a giveaway listing, and anywhere a comment is allowed (ie, Facebook, Instagram, Pinterest, Google Plus) to get extra entries into a sweepstakes or contest. We use affiliate links and tracking links in some of our posts, sweepstakes listings and ads. Affiliate links help us generate income to keep Sweeties Sweeps free to use. If you do not like ads, please consider joining our private, member only site, Sweeties Secret Sweeps. There are no ads on the Secret site and all sweepstakes found on SweetiesSweeps.com can also be found on [Sweeties Secret Sweeps](http://sweetiessecretsweeps.com/join/) along with up to 1,000 member-only sweepstakes each month that are never found on SweetiesSweeps.com. Tracking links are used to help companies and bloggers who run sweepstakes and other giveaways know how many people are entering their sweepstakes that they find on Sweeties Sweeps.
+Sweeties Sweeps may use our own affiliate and tracking links in our posts, sweepstakes listings and on social media. Affiliate links help us generate income to keep SweetiesSweeps.com free for the public to use. If you do not like ads, please consider joining our private, member only site, Sweeties Secret Sweeps. There are no ads on the Secret site and all sweepstakes found on SweetiesSweeps.com can also be found on [Sweeties Secret Sweeps](http://sweetiessecretsweeps.com/join/) along with up to 1,000 member-only bonus sweepstakes each month that are never found on SweetiesSweeps.com. Tracking links are used to help companies and bloggers who run sweepstakes and other giveaways know how many people are entering their sweepstakes that they find on Sweeties Sweeps.
 
 You can read about our Ad and Affiliate Policies [here](http://sweetiessweeps.com/about/product-review-and-ad-policies)
 
