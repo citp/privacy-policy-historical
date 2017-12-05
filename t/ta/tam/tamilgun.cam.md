@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilgun.cam privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429235210id_/http%3A//tamilgun.cam/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilgun.cam privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205235450id_/http%3A//tamilgun.cam/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TamilGun
 
@@ -26,7 +26,7 @@ Tamilgun does not provide any personally identifiable information to these third
 You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. Tamilgun’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
 More Information  
 For questions concerning the product or your account, please. For more information about our privacy practices, write to us at:  
-Tamilan@asia.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Talk To Us :- +91 9704763888
 
