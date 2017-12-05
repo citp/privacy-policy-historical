@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the walterfootball.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135301id_/http%3A//www.walterfootball.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walterfootball.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205131607id_/http%3A//walterfootball.com/privacy.php) for the most accurate reproduction.*
 
 # WalterFootball.com: Links
 
 Policy 2016 Update: 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 Policy 2011: 
 
@@ -87,3 +87,10 @@ Policy 2010:
 **11\. Third Parties.** We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [ www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 **12\. Contacting the Web Site.** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at wpc112@gmail.com. 
+
+* * *
+
+  
+
+
+#### WalterFootball.com is part of the NESN digital network.
