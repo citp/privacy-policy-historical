@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontariohockeyleague.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629215927id_/http%3A//www.chl.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontariohockeyleague.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205234537id_/http%3A//www.chl.ca/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy – CHL
 
