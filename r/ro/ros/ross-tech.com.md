@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ross-tech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115951id_/http%3A//www.ross-tech.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ross-tech.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205125232id_/http%3A//www.ross-tech.com/privacy.php) for the most accurate reproduction.*
 
 # Ross-Tech: Privacy
 
@@ -32,4 +32,4 @@
 
 **4\. Ownership:**   You acknowledge and agree that the information collected by us from you, and all right, title and interest thereto, is and shall remain our exclusive property. 
 
-**5\. Corrections:**   You may [contact us](https://web.archive.org/web/20170606115951id_/http%3A//www.ross-tech.com/contact.php) at any time to with updates or corrections to personal information we have collected from you. 
+**5\. Corrections:**   You may [contact us](https://web.archive.org/web/20171205125232id_/http%3A//www.ross-tech.com/contact.php) at any time to with updates or corrections to personal information we have collected from you. 
