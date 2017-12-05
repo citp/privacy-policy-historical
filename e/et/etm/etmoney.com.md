@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etmoney.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210093726id_/http%3A//etmoney.com/staticPage/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etmoney.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205124941id_/http%3A//etmoney.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy: ETMONEY
 
@@ -38,9 +38,9 @@ Information from other Sources
 
 We may receive information about you from other sources, add it to our account information and treat it in accordance with this Privacy Policy. If you provide information to the platform provider or other partner, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the services or to communicate with you. 
 
-Demographic and purchase information 
+Demographic and User Behaviour 
 
-We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the User behaviour on our Website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our Users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. If you don't want Analytics to be used in your browser, you can install the Google Analytics browser add-on. 
+We may refer other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics among others, to track the User Behaviour and derive product related insight for our Website/Mobile application in order to facilitate better services to the respective User. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our Users' Demographics and Interests. If you don't want Analytics to be used in your browser, you can install the Google Analytics browser add-on. 
 
 Links to Third Party Sites / AD-Servers 
 
@@ -49,8 +49,8 @@ The Website or application may include links to other websites or applications. 
 Information Sharing
 
 Company may share the sensitive Personal Information to any third party/Service Provider/Alliance Partner without obtaining the prior consent of the User in the following limited circumstances: a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms and Conditions; for complying with the applicable laws and regulations.  
-b) Company proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing Personal Information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
-c) Company may use third-party advertising companies to serve ads when the User's visits the Website. These companies may use Personal Information about the User's visit to the Website and other websites in order to provide advertisements about goods and services of interest to the User.  
+b) Company proposes to share such information within its group companies and officers and employees of such group companies and/or third party service provider for the purpose of processing Personal Information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
+c) Company may use third-party advertising companies and/or within group companies to serve ads when the User's visits the Website. These companies may use Personal Information about the User's visit to the Website and other websites in order to provide advertisements about goods and services of interest to the User.  
 d) Company shall transfer information about the User in case Company is acquired by or merged with another company.  
 e) Company may share the personal information with the Service Provider, in case the User shows interest in applying for User.  
 
