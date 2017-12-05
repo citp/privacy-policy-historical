@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mainetoday.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630192816id_/http%3A//mainetoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainetoday.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205234311id_/http%3A//mainetoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - mainetoday
 
-Your privacy is important to us. The following Privacy Policy explains the privacy practices for the Web sites operated by MaineToday Media, Inc., which include but are not limited to: pressherald.com, kjonline.com, onlinesentinel.com, mainejobs.com, mainetoday.com. Among other things, this policy informs you about the types of information we gather about you, how we may use that information, whether we disclose it to anyone else, and the choices you have regarding your information. Please be aware that the Web sites may contain links to other web sites for your convenience and information. We are not responsible for the privacy practices or the content of those sites and you should check the privacy policy of that web site sponsor.
+Your privacy is important to us. The following Privacy Policy explains the privacy practices for the Web sites operated by MaineToday Media, Inc., which include but are not limited to: pressherald.com, centralmaine.com, kjonline.com, onlinesentinel.com, mainejobs.com, mainetoday.com. Among other things, this policy informs you about the types of information we gather about you, how we may use that information, whether we disclose it to anyone else, and the choices you have regarding your information. Please be aware that the Web sites may contain links to other web sites for your convenience and information. We are not responsible for the privacy practices or the content of those sites and you should check the privacy policy of that web site sponsor.
 
 ## What information do we gather about you?
 
@@ -36,17 +36,17 @@ If you choose to receive text updates from us, the information you provide to re
 
 We may contract with other companies to provide services including credit card processing, email distribution or other services. We only provide those companies with the information they require to provide their services. Those service providers are prohibited from sharing, selling or using your information for their own direct marketing purposes.
 
-If you are a print subscriber to any MaineToday Media, Inc. newspaper, we may exchange or rent your name and mailing address and certain other information (but not your email address) with other reputable companies that offer marketing information or products through the mail. If you would like to opt-out, please email [sbryan@mainetoday.com ](mailto:sbryan@mainetoday.com) or contact us by mail at MaineToday.com, Attn: Member Services, 7 Custom House Street, Floor. 5, Portland, ME 04101.
+If you are a print subscriber to any MaineToday Media, Inc. newspaper, we may exchange or rent your name and mailing address and certain other information (but not your email address) with other reputable companies that offer marketing information or products through the mail. If you would like to opt-out, please email [lbridgers@mainetoday.com](mailto:lbridgers@mainetoday.com) or contact us by mail at MaineToday.com, Attn: Member Services, 7 Custom House Street, Floor. 5, Portland, ME 04101.
 
 ## Email policy
 
-MaineToday Media, Inc. complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your email address for commercial purposes without your permission. If you feel you have received an email from us in error, please contact [sbyran@mainetoday.com](mailto:sbryan@mainetoday.com). We may send you periodic emails about your account status, asking for your feedback, explaining services offered by MaineToday, Inc. and its advertisers, notifying you of changes to our policies, or other matters.
+MaineToday Media, Inc. complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your email address for commercial purposes without your permission. If you feel you have received an email from us in error, please contact [lbridgers@mainetoday.com](mailto:lbridgers@mainetoday.com). We may send you periodic emails about your account status, asking for your feedback, explaining services offered by MaineToday, Inc. and its advertisers, notifying you of changes to our policies, or other matters.
 
 To opt out of receiving messages about products and services that may be of interest to you, follow the “unsubscribe” instructions located near the bottom of each email. If you send us emails, you should be aware that information disclosed in emails may not be secure or encrypted and thus may be available to others.
 
 ## Children’s guidelines under COPPA
 
-Our sites are not intentionally targeted at children under 13, but some educational areas of our sites are targeted to middle-school and high-school age children. We require written parental consent for children under 13 to register or submit personal information on our sites. Contact [sbryan@mainetoday.com ](mailto:sbryan@mainetoday.com)for information on how to provide parental consent.
+Our sites are not intentionally targeted at children under 13, but some educational areas of our sites are targeted to middle-school and high-school age children. We require written parental consent for children under 13 to register or submit personal information on our sites. Contact [lbridgers@mainetoday.com](mailto:lbridgers@mainetoday.com) for information on how to provide parental consent.
 
 Children: Be sure to ask your parents for permission before you send any personal information about yourself to us or anyone else over the Internet.
 
@@ -68,6 +68,6 @@ This Privacy Policy may be amended from time to time. Our current procedures wil
 
 If you have any questions about this privacy policy, the practices of our Web sites, or to resolve a dispute, you can contact us:
 
-By email: [sbyran@mainetoday.com](mailto:sbyran@mainetoday.com)
+By email: [lbridgers@mainetoday.com](mailto:lbridgers@mainetoday.com)
 
-By mail: MaineToday.com, Attn: Member Services, 1 City Center, Floor 5, ME 04101
+By mail: MaineToday.com, Attn: Member Services, 295 Gannett Drive, South Portland, Maine 04106
