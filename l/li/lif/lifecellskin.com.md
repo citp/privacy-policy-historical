@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lifecellskin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085528id_/http%3A//www.lifecellskin.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecellskin.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205173127id_/http%3A//www.lifecellskin.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy - LifeCell
 
 **Effective Date: January 9, 2015  **
 
-South Beach Skin Care is committed to advising you of the right to your privacy, and strives to provide a safe and secure user experience.  This Privacy Policy explains how we collect, store and use personal information, provided by you on our website.  By accessing and using our website, you explicitly accept, without limitation or qualification, the collection, use and transfer of the personal information provided by you in the manner described in this Privacy Policy.  Please read this Policy carefully, as it affects your rights and liabilities under the law.  If you disagree with the way we collect and process personal information, please do not use this website.
+Lifecellskin.com is committed to advising you of the right to your privacy, and strives to provide a safe and secure user experience. This Privacy Policy explains how we collect, store and use personal information, provided by you on our website. By accessing and using our website, you explicitly accept, without limitation or qualification, the collection, use and transfer of the personal information provided by you in the manner described in this Privacy Policy. Please read this Policy carefully, as it affects your rights and liabilities under the law. If you disagree with the way we collect and process personal information, please do not use this website.
 
 **1.** ******Scope of Policy** **.**
 
@@ -76,8 +76,16 @@ We reserve the right to make material changes to the substance of this Privacy P
 
 **8.** **** **California Resident Rights** **.**
 
-California law permits California residents who provide personal information in obtaining products or services for personal, family, or household use to request certain information regarding third parties to whom their information was shared once a calendar year.  If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year.  To obtain this information from us, please send an email message to [privacy@lifecellskin.com](mailto:privacy@lifecellskin.com)  with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.  In addition, California Residents have the right to know how we respond to their web browser “do not track” signals or other mechanisms.  We do not respond to such signals or other mechanisms.
+California law permits California residents who provide personal information in obtaining products or services for personal, family, or household use to request certain information regarding third parties to whom their information was shared once a calendar year.  If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year.  To obtain this information from us, please send an email message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ddadafb4abbcbea49db1b4bbb8beb8b1b1aeb6b4b3f3beb2b0)  with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.  In addition, California Residents have the right to know how we respond to their web browser “do not track” signals or other mechanisms.  We do not respond to such signals or other mechanisms.
 
 **10.** **** **Contact US With Any Questions** **.**
 
-Please do not hesitate to contact us with any questions or requests you have regarding our services or this Privacy Statement.  We can be reached as follows: support@lifecellskin.com
+Please do not hesitate to contact us with any questions or requests you have regarding our services or this Privacy Statement.  We can be reached as follows: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Please do not hesitate to contact us with any questions or requests you have regarding our services or this Privacy Statement. We can be reached as follows: 
+
+South Beach Skincare Inc. 1909 Tyler St Suite 701, Hollywood, Fl 33020. 
+
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Tel: +1 954-606-5057 or 866.977.1412 
