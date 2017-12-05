@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mariomayhem.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003821id_/http%3A//www.mariomayhem.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariomayhem.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205051610id_/http%3A//www.mariomayhem.com/privacy.php) for the most accurate reproduction.*
 
 # Mario Mayhem Privacy
 
 Privacy Policy for www.mariomayhem.com 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at jesus_drinks_fanta@hotmail.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At www.mariomayhem.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.mariomayhem.com and how it is used. 
 
