@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203173650id_/http%3A//home.38degrees.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205182926id_/http%3A//home.38degrees.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - 38 Degrees
 
-38 Degrees is committed to safeguarding the privacy of our website visitors. We believe you have the right to privacy on the web. This policy sets out how we will treat your personal information.
+38 Degrees is committed to safeguarding the privacy of our website visitors, and anyone else about whom we process personal information. We believe you have the right to privacy on the web. This policy sets out how we will treat your personal information.
 
 ### **1\. What information do we collect?**
 
@@ -13,6 +13,7 @@ We may collect, store and use the following kinds of personal data:
   3. Information that you provide to us for the purpose of registering with us e.g. your email address and other personal information when you sign up;
   4. Information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters;
   5. Any other information that you choose to send to us.
+  6. Where the law allows us to do so, on occasion we may also collect information (such as your telephone number) from the public domain, either directly or from third parties, and may combine that with the information we currently hold.
 
 
 
@@ -41,21 +42,22 @@ We may use your personal information to:
   5. Send you general (non-marketing) communications;
   6. Send you email notifications which you have specifically requested;
   7. Send you marketing and fundraising communications relating to 38 Degrees and our campaigns, which we think may be of interest to you;
-  8. Provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
-  9. Deal with enquiries and complaints made by or about you relating to the website;
-  10. Make petition submissions to third parties, where you have signed the petition and the third party is a target of the campaign to which the petition relates.
+  8. Conduct research into the impact of our campaigns;
+  9. Provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
+  10. Deal with enquiries and complaints made by or about you relating to the website;
+  11. Make petition submissions to third parties, where you have signed the petition and the third party is a target of the campaign to which the petition relates.
 
 
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
-We will not sell, rent or share your personal data with third party organisations.
+Apart from set out in this policy, we will not sell, rent or share your personal data with third party organisations.
 
 ### **4\. Donations**
 
 All our one-off website financial transactions are handled through our payment services provider, Stripe. You should only provide your personal information to Stripe after reviewing the Stripe privacy policy (available at <https://stripe.com/gb/privacy>). We will share information with Stripe only to the extent necessary for the purposes of processing payments you make via our website. We do not store your financial or credit card details.
 
-We have a refund policy in case you make a donation in error. If you [contact us](http://www.38degrees.org.uk/contact-us "Contact Us") within 7 days of making the donation we will return it to you within 40 days without charge.
+We have a refund policy in case you make a donation in error. If you [contact us](https://home.38degrees.org.uk/about/contact-us/ "Contact Us") within 7 days of making the donation we will return it to you within 40 days without charge.
 
 If we are unable to use your contribution for the purpose you specify, either because of oversubscription or for another unforeseen reason, it is our policy to use your contribution for campaign advertising, public relations, advocacy or organising activities related to the campaign that you donated to. When you make a donation not related to a specific campaign we will use our discretion to decide where those funds are allocated.
 
@@ -77,15 +79,15 @@ The website contains links to other websites. We are not responsible for the pri
 
 ### **9\. Updating information**
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated by contacting us via [emailtheteam@38degrees.org.uk](mailto:emailtheteam@38degrees.org.uk).
+Please let us know if the personal information which we hold about you needs to be corrected or updated by contacting us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21444c40484d5549445544404c611219454446534444520f4e53460f544a).
 
 ### **10\. Unsubscribing**
 
-You may unsubscribe from 38 Degrees at any time by entering your email address on our [unsubscribe page](http://38degrees.org.uk/unsubscribe/) or by contacting [emailtheteam@38degrees.org.uk](mailto:emailtheteam@38degrees.org.uk).
+You may unsubscribe from 38 Degrees at any time by entering your email address on our [unsubscribe page](https://id.38degrees.org.uk/subscriptions/unsubscribe?subscription=1) or by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#07626a666e6b736f627362666a47343f636260756262742968756029726c).
 
 ### **11\. Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please email us on [emailtheteam@38degrees.org.uk](mailto:emailtheteam@38degrees.org.uk) or write to:
+If you have any questions about this privacy policy or our treatment of your personal data, please email us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c0a5ada1a9acb4a8a5b4a5a1ad80f3f8a4a5a7b2a5a5b3eeafb2a7eeb5ab) or write to:
 
 _The Data Protection Manager  
 38 Degrees  
