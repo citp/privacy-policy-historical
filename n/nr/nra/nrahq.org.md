@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrahq.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623211858id_/https%3A//membership.nrahq.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrahq.org privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205045233id_/https%3A//membership.nrahq.org/privacy.asp) for the most accurate reproduction.*
 
 # National Rifle Association - Privacy Policy
 
