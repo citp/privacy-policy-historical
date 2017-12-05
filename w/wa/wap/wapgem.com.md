@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wapgem.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209042156id_/http%3A//xtgem.com/privacy%3Fsessid%3Dr7n98f7ifjad2ha8mnk68qd1p4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapgem.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205234826id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
 
-# Политика конфиденциальности - XtGem.com — Визуальный инструмент для постройки мобильного сайта
+# Privacy Policy - XtGem.com — Visual mobile site building tool
 
 XTGEM Service Provider aims to ensure the protection of XTGEM website visitors’ and service users’ privacy. This privacy policy is applied only to XTGEM website.
 
@@ -21,4 +21,4 @@ XTGEM service user understands and agrees that the risks related to the submissi
 
 Also the log in name of an XTGEM service user may be shown to other XTGEM service users when the user sends or uploads information on XTGEM website and so other service users who receive this information may contact the user by writing messages or using XTGEM services.
 
-© 2014 xtgem.com 
+© 2017 xtgem.com 
