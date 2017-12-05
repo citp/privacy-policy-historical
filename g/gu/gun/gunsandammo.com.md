@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070826id_/http%3A//www.imoutdoors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205165458id_/http%3A//www.imoutdoors.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Outdoor Sportsman Group
 
@@ -163,9 +163,4 @@ We will occasionally update this Privacy Policy.  We recommend that you check t
 
 ## CONTACT INFORMATION
 
-If you have any questions about this Privacy Policy or our privacy practices, please email us at  ** _[privacycoordinator@outdoorsg.com](mailto:privacycoordinator@outdoorsg.com)_**. Please include the URL of the website and/or name of the publication involved in your request.   Or you can contact us by mail at:
-
-Privacy Coordinator  
-Outdoor Sportsman Group Integrated Media  
-1040 Sixth Avenue, FL 12  
-New York, NY 10018
+If you have any questions about this Privacy Policy or our privacy practices, please email us at  ** _[privacycoordinator@outdoorsg.com](mailto:privacycoordinator@outdoorsg.com)_**. Please include the URL of the website and/or name of the publication involved in your request.
