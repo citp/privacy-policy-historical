@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.wa.us privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629142103id_/http%3A//access.wa.gov/siteinformation/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.wa.us privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205200138id_/http%3A//access.wa.gov/siteinformation/privacynotice) for the most accurate reproduction.*
 
 # Access Washington - Privacy Notice
 
