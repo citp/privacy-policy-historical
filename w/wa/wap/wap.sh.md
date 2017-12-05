@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wap.sh privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608130052id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wap.sh privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205234826id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XtGem.com — Visual mobile site building tool
 
