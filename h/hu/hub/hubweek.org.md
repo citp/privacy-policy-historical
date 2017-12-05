@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hubweek.org privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212151015id_/https%3A//hubweek.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubweek.org privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205205903id_/https%3A//hubweek.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HUBweek
+# Privacy Policy - HUBweek 2017
 
 **This Privacy Policy discloses the privacy practices for HUBweek.org**
 
