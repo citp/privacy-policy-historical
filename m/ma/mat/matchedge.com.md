@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchedge.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214200238id_/http%3A//matchedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchedge.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205192845id_/http%3A//matchedge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - matchedge.com
 
