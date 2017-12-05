@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adesignaward.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231113210id_/http%3A//competition.adesignaward.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adesignaward.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205232732id_/https%3A//competition.adesignaward.com/privacypolicy.html) for the most accurate reproduction.*
 
 # A' Design Award and Competition - Privacy Policy
 
-[****](https://web.archive.org/web/20161231113210id_/http%3A//competition.adesignaward.com/winners-category.php?CATEGORY=1)Your privacy is critically important to us. At A' Design Award and Competition we have a few fundamental principles:
+[****](https://web.archive.org/web/20171205232732id_/https%3A//competition.adesignaward.com/winners-category.php?CATEGORY=1)Your privacy is critically important to us. At A' Design Award and Competition we have a few fundamental principles:
 
   * We don’t ask you for personal information unless we truly need it. 
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
