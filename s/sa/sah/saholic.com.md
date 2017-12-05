@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saholic.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530101012id_/http%3A//www.saholic.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saholic.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205121536id_/http%3A//www.saholic.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | saholic.com
 
