@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pima.gov privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621050203id_/http%3A//webcms.pima.gov/hipaa_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pima.gov privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205204640id_/http%3A//webcms.pima.gov/hipaa_privacy_statement) for the most accurate reproduction.*
 
 # HIPAA/Privacy Statement - Pima County
 
@@ -12,7 +12,7 @@ The Pima County web site contains links to other non-county (external) web sites
 
 Pima County collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. In addition, Pima County Web servers may place a "cookie" on the hard drive of a user's computer. The cookie itself does not contain any personally identifying information.
 
-Among the information that may be collected to manage the communications between the server and the browser are:
+Among the information that may be collected to manage the communications between the server and the browser are: 
 
   * The name of the domain and IP address from which you access our web site 
   * The type of browser used to access our site 
@@ -49,7 +49,7 @@ Pima County does not allow third parties to gather information from users of its
 
 ## 7\. HIPAA/Privacy Practices
 
-Pima County is required by law to take reasonable steps to ensure the privacy of personally identifiable health information and to inform individuals about:
+Pima County is required by law to take reasonable steps to ensure the privacy of personally identifiable health information and to inform individuals about: 
 
   * Pima County's uses and disclosures of PHI; 
   * Your rights with respect to your PHI; 
