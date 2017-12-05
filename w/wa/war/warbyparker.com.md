@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616150301id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205185858id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warby Parker
 
-## New Privacy Policy
+## Privacy Policy
 
-## Effective Date: May 1, 2017
+## Effective Date: June 28, 2017
 
 At Warby Parker, we’re all about helping you see things a little more clearly. And we believe that you have a right to know what information we collect from you and how we protect your privacy. So we’ve created this Privacy Policy to let you know what to expect when you interact with us. To keep things simple, we stick to this Privacy Policy no matter which of our stores, sites, applications, or website features you use or access, as well as any mobile application (each, an “App”) that includes an authorized link to this Privacy Policy (together the stores, our websites and Apps are referred to as the “Services”). Your use of our Services is also subject to our [Terms of Use](https://web.archive.org/terms-of-use).
 
@@ -18,7 +18,7 @@ If you have any questions, please reach out to us at [privacy@warbyparker.com](m
 
   *  **When you create an account.** When you create an account with us, you provide a name, email address, and password. Your account password isn’t stored by us, and we’ll never have access to it.
 
-  *  **When you make a purchase or use our Services.** If you make a purchase, we request information from you to facilitate the transaction and get you the goods. You may also provide us with information when you use certain online features, such as Home Try-On or when you book an eye exam. This information may include (i) your name, email address, phone number, shipping address, and date of birth, (ii) prescription information, including any images of prescriptions you may provide to us and any information you give us through the pupillary distance measurement function of our Services, (iii) medical history and information about your vision, and (iv) information about the products you try on and purchase. If you provide us with an image of your prescription, we obtain any information that appears on the prescription form. For some online and in-store features, we may ask you to submit a photo of yourself.
+  *  **When you make a purchase or use our Services.** If you make a purchase, we request information from you to facilitate the transaction and get you the goods. You may also provide us with information when you use certain online features, such as Home Try-On or when you book an eye exam. This information may include (i) your name, email address, phone number, shipping address, and date of birth, (ii) prescription information, including any images of prescriptions you may provide to us and any information you give us through the pupillary distance measurement function of our Services, (iii) medical history and information about your vision, and (iv) information about the products you try on and purchase. If you provide us with an image of your prescription, we obtain any information that appears on the prescription form. For some online and in-store features, we may ask you to submit a photo of yourself or we may ask your permission to take a photo of you.
 
 When you make a purchase, we ask you to provide payment information, which may include payment card information (such as credit card number, type, and expiration date), billing address, and shipping address. Our payment processor, which is required by credit card issuers to meet specific security requirements, will collect, store, and process your credit card and other payment information on our behalf using industry-standard security measures. We do not store any payment card information.
 
