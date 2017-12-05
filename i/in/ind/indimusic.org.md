@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indimusic.org privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312053955id_/http%3A//indimusic.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indimusic.org privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205054745id_/http%3A//mp3bumq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Indi Music
+# Privacy Policy | Mp3bumQ.com
 
 Privacy has become a major concern on the Internet. this website knows that you care how information about you is used and shared. This privacy statement describes how this website deals with your information. By visiting this website, you are accepting the practices described in this privacy statement.
 
