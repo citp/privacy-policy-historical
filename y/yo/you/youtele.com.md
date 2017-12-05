@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627175033id_/https%3A//youbroadband.in/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205110613id_/https%3A//youbroadband.in/policy.php) for the most accurate reproduction.*
 
 # YOU Broadband India Limited.
 
@@ -43,7 +43,7 @@ Changes to this Privacy Policy
 
 The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.
 
-Contention ratio for the current quarter (Apr 17 - Jun 17)
+Contention ratio for the current quarter (Oct 17 - Dec 17)
 
 2
 
