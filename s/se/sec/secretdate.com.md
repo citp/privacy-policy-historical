@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretdate.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015029id_/http%3A//www.secretdate.com/legal/privacy-statement-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretdate.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205160324id_/http%3A//www.secretdate.com/legal/privacy-statement-en) for the most accurate reproduction.*
 
 # Privacy statement
 
