@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the online-web-hosting.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505010238id_/http%3A//webhostingreviewplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-web-hosting.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205044037id_/http%3A//webhostingreviewplanet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WebHostingReviewPlanet.com - Web Hosting Reviews
+# Privacy Policy | WebHostingReviewPlanet.com - 2017 Top 10 Web Hosting Reviews
 
   
 
