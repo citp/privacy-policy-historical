@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the historicenvironment.scot privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210191820id_/https%3A//www.historicenvironment.scot/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historicenvironment.scot privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205174717id_/https%3A//www.historicenvironment.scot/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 We recognise the importance of protecting the privacy of the users of our websites. Any personal data collected through this website will only be held and used with care and in accordance with this policy and the Data Protection Act 1998. This policy was updated on 01/07/11 in accordance with the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011.
 
