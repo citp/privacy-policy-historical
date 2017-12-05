@@ -1,24 +1,32 @@
-> *The following text is extracted and transformed from the osqa.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163602id_/https%3A//answerhub-1.hs-sites.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osqa.net privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205154303id_/http%3A//dzonesoftware.com/privacy) for the most accurate reproduction.*
 
 # DZoneSoftware.com Privacy Policy
 
-DZone, Inc. (“DZone”), the provider of the AnswerHub service, takes privacy very seriously. This Privacy Policy applies to the AnswerHub service and the web site at [www.dzonesoftware.com](https://web.archive.org/), other sites using the “Powered by TeamHub” engine, and related software (collectively, the “Service”). We are providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personal information that we collect and receive from you in connection with the Service.
+DZone, Inc. (“DZone”), the provider of the AnswerHub service, takes privacy very seriously. This Privacy Policy applies to the AnswerHub service and the web site at [www.dzonesoftware.com](https://web.archive.org/), other sites using the “Powered by AnswerHub” engine, and related software (collectively, the “Service”). We are providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personal information that we collect and receive from you in connection with the Service.
 
 This Privacy Policy does not apply to: (1) activities that occur offline; or (2) to information we collect outside of the Service, including through [www.dzone.com](http://www.dzone.com/) and other websites not related to the AnswerHub Service provided by DZone.
 
 This Service may be provided to you or recommended by our customer, which may be your employer or another third party (“Customer”). This Privacy Policy does not modify any agreements or privacy policies in place between you and any Customer. We encourage you to review any such documents and see how your personal information may be used or disclosed by any Customer.
 
-DZone adheres to the principles set forth in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. DZone has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DZone's certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+**Privacy Shield**
 
-Collection of Personal Data
+DZone participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. DZone is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, you may visit [www.privacyshield.gov](https://www.privacyshield.gov/welcome). In particular, you may view participants in the Privacy Shield list at [www.privacyshield.gov/list](https://www.privacyshield.gov/list).
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, DZone is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (“FTC”).
+
+You may direct any questions or concerns regarding the use or disclosure of personal information to the DZone contact information below. DZone will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy. DZone has committed to refer unresolved Privacy Shield complaints to the International Centre for Dispute Resolution/American Arbitration Association, an alternative dispute resolution provider located in the United States. For any Privacy Shield complaints that cannot be resolved with DZone directly, please contact or visit the ICDR/AAA at [www.icdr.org](https://www.icdr.org/icdr/faces/home;jsessionid=zEx1Len3-j6Kvp0t8dG5C1a5BnBWx-0CLvRBqqVY1m09AdKN-b-x!-2099758379?_afrLoop=35001107939733&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D35001107939733%26_afrWindowMode%3D0%26_adf.ctrl-state%3Ddop0a5qof_4) for more information or to file a complaint. The services of the ICDR/AAA are provided at no cost to you.
+
+In addition, under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/welcome), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+**Personal Data Collected**
 
 When inquiring about use of or using the Service, you may be required to provide certain personally identifiable information necessary for use of the Service and for communicating with you. The data collected includes information about you that can be used to contact or identify you, and information related to your use or potential use of Service (collectively, “Personal Information”). Personal Information that we collect may include without limitation name, email address, and phone number.
 
 The main reason we collect Personal Information from you is to provide you an efficient and personalized user experience. The collection of Personal Information also enables our users to establish a user account that can be used to interact with other users through the Service. We use your Personal Information to provide the Service and respond to your Service-related inquiries.
 
-Within our Service, if you interact with other users, the Service may share additional information with such other Users. The additional information you share by participating in these types of communications is your choice and responsibility and the privacy of such information cannot be guaranteed. Similarly, information you share through messaging within our Service is solely your responsibility.
+Within our Service, if you interact with other users, the Service may share additional information with such other users. The additional information you share by participating in these types of communications is your choice and responsibility and the privacy of such information cannot be guaranteed. Similarly, information you share through messaging within our Service is solely your responsibility.
 
-Use of Cookies and Tracking Technologies
+**Use of Cookies and Tracking Technologies**
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies as part of the Service. We do not link the information we store in cookies to any Personal Information you submit while using the Service.
 
@@ -26,7 +34,7 @@ We use session ID cookies to make it easier for you to navigate our Service. A s
 
 On our general, marketing site, we also may use web beacons and other similar technologies to track your use of the site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize our site and to measure the overall effectiveness of our site’s content, programming and other activities.
 
-Use and Disclosure of Information
+**Use and Disclosure of Information**
 
 We do not sell, rent, use or share your personal information with others except as indicated in this Privacy Policy.
 
@@ -47,7 +55,9 @@ DZone may aggregate your information with other users’ information to determin
 
 **Onward transfer of Information**
 
-DZone will not disclose any personally identifiable information to a third party who is not a DZone contractor or agent (“Agent”) except as outlined above. For third parties acting as DZone’s Agent, DZone will ascertain that the third party subscribes to the Safe Harbor principles, is subject to the EU Data Protection Directive or Swiss Federal Act on Data Protection, or has entered into an agreement with DZone that is consistent with the Safe Harbor principles.
+DZone will not disclose any personally identifiable information to a third party who is not a DZone contractor or agent (“Agent”) except as outlined above. For third parties acting as DZone’s Agent, DZone will ascertain that the third party subscribes to the Privacy Shield principles, is subject to the EU Data Protection Directive, or has entered into an agreement with DZone that is consistent with the Privacy Shield principles.
+
+In the context of an onward transfer, DZone has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to an Agent on its behalf. DZone shall remain liable under the Privacy Shield principles if its Agent processes such personal information in a manner inconsistent with such principles, unless DZone proves that it is not responsible for the event giving rise to the damage.
 
 **Third Parties and Links**
 
@@ -67,7 +77,7 @@ DZone will offer you the opportunity to choose (opt-out) whether their personal 
 
 **Opt-Out**
 
-You may opt-out of receiving certain marketing communications from us, by emailing us at info@dzonesoftware.com. In addition, all marketing e-mails from DZone will provide you with the opportunity to unsubscribe from future marketing mailings. Even if you opt out of such mailings, however, we reserve the right to send you e-mail and other communications to disclose maintenance and other service-related issues.
+You may opt-out of receiving certain marketing communications from us, by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) In addition, all marketing e-mails from DZone will provide you with the opportunity to unsubscribe from future marketing mailings. Even if you opt out of such mailings, however, we reserve the right to send you e-mail and other communications to disclose maintenance and other service-related issues.
 
 For sensitive personal information, DZone will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a third party (other than a DZone Agent) or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
 
@@ -79,17 +89,13 @@ We intend to protect your privacy to the fullest extent possible as described in
 
 **United States**
 
-Certain parts of the Service, including our general marketing site and our support systems, are hosted in the United States. If you are accessing the Service from outside the United States, please be advised that through your continued use of the Service, which is governed by U.S. law and this Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer.
+Certain parts of the Service, including our general marketing site and our support systems, are hosted in the United States. If you are accessing the Service from outside the United States, please be advised that through your continued use of the Service, which is governed by U.S. law and this Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer; subject to the terms of this Privacy Policy.
 
 **Security Measures**
 
 We have implemented reasonable and industry standard security measures on the Service to help protect against the loss, misuse and alteration of the personal information under our control. We take reasonable measures to ensure that your information is reliable for its intended use, and is accurate, complete and current. Additionally, we take reasonable steps to ensure that our third party business partners, including our hosting partners, provide sufficient protection for personal information. We will take reasonable efforts to maintain Personal Information in the area (e.g., country or continent) as specified by our Customer. We will promptly make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data.
 
 You acknowledge that no method of transmission over the Internet, or method of electronic storage, is 100% secure, and that we cannot guarantee absolute security. If you have any questions about security on our Service, you may contact us.
-
-**Dispute Resolution**
-
-Any questions or concerns regarding the use or disclosure of personal information should be directed to DZone pursuant to the contact information below. DZone will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy. Disputes that cannot be resolved after good faith discussions will be referred to the American Arbitration Association for resolution.
 
 **Privacy of Children**
 
@@ -108,6 +114,6 @@ If you have any questions regarding this Privacy Policy, please email us or writ
 DZone, Inc.   
 150 Preston Executive, Suite 201   
 Cary, NC 27513 USA   
-info@dzonesoftware.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Last Revised: August 2015
+Last Revised: October 2017
