@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glamorboutiques.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018000410id_/http%3A//glamorboutiques.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamorboutiques.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205121433id_/http%3A//glamorboutiques.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Glamor Boutiques
 
