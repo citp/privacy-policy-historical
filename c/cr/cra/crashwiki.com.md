@@ -1,135 +1,116 @@
-> *The following text is extracted and transformed from the crashwiki.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927001147id_/http%3A//www.crashwiki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crashwiki.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205225120id_/http%3A//crashwiki.com/privacy-policy) for the most accurate reproduction.*
 
-# crashwiki.com | Privacy Policy
+# Privacy Policy
 
-**What information do we collect?**
+[](https://store.uniblue.com/278/cookie?affiliate=20526&redirectto=http%3a%2f%2fwww.uniblue.com%2fcm%2fgeneral%2fdriverscanner%2fdsunit%2fdownload%2f)
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+What personal information do we collect from the people that visit our blog, website or app?
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+We do not collect information from visitors of our site.  
+or other details to help you with your experience.
 
- **DoubleClick DART Cookie**
+When do we collect information?
 
-.:: Google, as a third party vendor, uses cookies to serve ads on crashwiki.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to crashwiki.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
+We collect information from you when you register on our site or enter information on our site.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+How do we use your information?
 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on crashwiki.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+• To improve our website in order to better serve you.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+How do we protect your information?
 
-crashwiki.com has no access to or control over these cookies that are used by third-party advertisers. 
+We do not use vulnerability scanning and/or scanning to PCI standards.  
+We only provide articles and information. We never ask for credit card numbers.  
+We use regular Malware Scanning.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. crashwiki.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+We do not use an SSL certificate  
+• We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+Do we use ‘cookies’?
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+We do not use cookies for tracking purposes
 
-**What do we use your information for?**
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-Any of the information we collect from you may be used in one of the following ways: 
+If you turn cookies off, some features will be disabled. that make your site experience more efficient and may not function properly.
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+However, you will still be able to place orders .
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Third-party disclosure
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
-\- To process transactions
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Third-party links
 
-\- To administer a contest, promotion, survey or other site feature
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+Google
 
-\- To send periodic emails
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+We have not enabled Google AdSense on our site but we may do so in the future.  
+We use them to compile data regarding user interactions to sell that data to interested parties.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+California Online Privacy Protection Act
 
- **How do we protect your information?**
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+According to CalOPPA, we agree to the following:  
+Users can visit our site anonymously.  
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.  
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
 
-**Do we use cookies?**
+You will be notified of any Privacy Policy changes:  
+• On our Privacy Policy Page  
+Can change your personal information:  
+• By logging in to your account
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+How does our site handle Do Not Track signals?  
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Does our site allow third-party behavioral tracking?  
+It’s also important to note that we allow third-party behavioral tracking
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+COPPA (Children Online Privacy Protection Act)
 
- **Do we disclose any information to outside parties?**
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We do not specifically market to children under the age of 13 years old.
 
-**Third party links**
+Fair Information Practices
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
- **California Online Privacy Protection Act Compliance**
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
+We will notify the users via in-site notification  
+• Within 7 business days
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
- **Childrens Online Privacy Protection Act Compliance**
+CAN SPAM Act
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
- **Online Privacy Policy Only**
+We collect your email address in order to:  
+• Send information, respond to inquiries, and/or other requests or questions
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+To be in accordance with CANSPAM, we agree to the following:  
+• Not use false or misleading subjects or email addresses.  
+• Identify the message as an advertisement in some reasonable way.  
+• Include the physical address of our business or site headquarters.  
+• Monitor third-party email marketing services for compliance, if one is used.  
+• Honor opt-out/unsubscribe requests quickly.  
+• Allow users to unsubscribe by using the link at the bottom of each email.
 
-**Your Consent**
+If at any time you would like to unsubscribe from receiving future emails, you can email us at  
+• Follow the instructions at the bottom of each email.  
+and we will promptly remove you from ALL correspondence.
 
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
-
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
-
-crashwiki.com 
-
-Email:  
-contact@crashwiki.com  
+  
 
