@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardensalive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041520id_/http%3A//www.gardensalive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardensalive.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205104251id_/http%3A//www.gardensalive.com/privacy_policy) for the most accurate reproduction.*
 
 # Gardens Alive! Privacy Policy
 
@@ -59,4 +59,4 @@ From time to time, it may become necessary for us to change our privacy policy i
 
 ### Your Feedback 
 
-If you would like to give us your feedback regarding our privacy policy and practice, please do so by emailing us or writing to us at Gardens Alive Brands, c/o Gardens Alive Marketing Dept., 5100 Schenley Place, Lawrenceburg, IN 47025. 
+If you would like to give us your feedback regarding our privacy policy and practice, please do so by emailing us or writing to us at Gardens Alive Brands, c/o Gardens Alive Marketing Dept., PO Box 4028, Lawrenceburg, IN 47025. 
