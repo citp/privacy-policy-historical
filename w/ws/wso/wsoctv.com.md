@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wsoctv.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630210205id_/http%3A//www.wsoctv.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsoctv.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206161440id_/http%3A//www.wsoctv.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | WSOC-TV
-
-Updated: Jan 11, 2016 - 4:02 PM
 
 **Privacy Policy**  
 Last Updated: _August 4, 2014_
