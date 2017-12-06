@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tappytoon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011659id_/http%3A//app.tappytoon.com/terms/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tappytoon.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206222533id_/http%3A//app.tappytoon.com/terms/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TappyToon
 
-##### This page is the Privacy Policy. To view the [Terms of Service, click here](https://web.archive.org/web/20170606011659id_/http%3A//app.tappytoon.com/terms/termsofservice.html).
+##### This page is the Privacy Policy. To view the [Terms of Service, click here](https://web.archive.org/web/20171206222533id_/http%3A//app.tappytoon.com/terms/termsofservice.html).
 
 ##  TappyToon User Privacy Policy  
 
