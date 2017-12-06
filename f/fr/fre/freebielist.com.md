@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebielist.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627083709id_/http%3A//www.freebielist.com/info/termsprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebielist.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206050554id_/http%3A//www.freebielist.com/info/termsprivacy) for the most accurate reproduction.*
 
 # Terms, Cookies and Privacy Policy
 
