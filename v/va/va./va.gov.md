@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the va.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627182518id_/https%3A//www.va.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the va.gov privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206191502id_/https%3A//www.va.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,15 +27,33 @@ Personal information may include your name; email, home, and/or business address
 
 
 
-## Privacy Act Rights
+##  Information Privacy Protection
 
-VA follows the requirements of the Privacy Act, which protects your personal information that VA maintains in “systems of records”.  A system of records is a file, database, or program from which personal information is retrieved by name or other personal identifier.  The Privacy Act provides a number of protections for your personal information.  These typically include how information is collected, used, disclosed, stored, and disposed.  Our System of Records Notices are available at: [Department of Veterans Affairs Privacy Act Systems of Records](http://www.rms.oit.va.gov/sor_records.asp "Department of Veterans Affairs  Privacy Act Systems of Records")
+We will not disclose your personal information to third parties outside VA without your consent, except to facilitate required business activity to act on your behalf at your request, or as authorized by law.
 
-We will not disclose your personal information to third parties outside VA without your consent, except to facilitate the transaction, to act on your behalf at your request, or as authorized by law. 
+When we do collect personal information from you online, we will tell you in advance in the Limited Privacy Policy's Privacy Act Statement. The Privacy Act Statement will contain any additional privacy policies that apply to the information collected on a particular VA Web page. The Web pages that collect personal information will have a hyperlink to the Limited Privacy Policy that applies to that particular Web page.
 
-When we do collect personal information from you online, we will tell you in advance in the Limited Privacy Policy’s Privacy Act Statement.  The Privacy Act Statement will contain any additional privacy policies that apply to the information collected on a particular VA Web page.  The Web pages that collect personal information will have a hyperlink to the Limited Privacy Policy that applies to that particular Web page. 
+We will use your information to process requests for services or information. When VA collects information from you, we will reference the relevant authority in the appropriate Limited Privacy Policy. Providing the information is generally voluntary, but if it is not provided, we may not be able to execute a required action. When information is required to process your request, we will advise you of this fact in the appropriate Limited Privacy Policy.
 
-We will use your information to process requests for services or information.  When VA collects information from you, we will reference the relevant authority in the appropriate Limited Privacy Policy.  Providing the information is generally voluntary, but if it is not provided, we may not be able to process your transaction.   When information is required to process your request, we will advise you of this fact in the appropriate Limited Privacy Policy. 
+VA follows the requirements of the Privacy Act of 1974 (5 U.S.C. Â§ 552a), which requires VA to protect your personal information that VA maintains in Systems of Records. The Computer Matching and Privacy Protection Act of 1988 (P.L. 100-503), amended the Privacy Act of 1974 by adding certain protections for the subjects of Privacy Act records whose records are used in automated Matching Programs. Notices of Systems of Records and Matching Programs must be published in the Federal Register at [www.federalregister.gov](https://www.federalregister.gov/) .
+
+A System of Records is a file, database, or program from which personal information is retrieved by name or other personal identifier. The Privacy Act provides a number of protections for your personal information. These typically include how information is collected, used, disclosed, stored, and disposed. Our System of Record Notices with links to the Federal Register are available at: : <https://www.oprm.va.gov/privacy/systems_of_records.aspx> . The Systems of Records that claim certain exemptions from the Privacy Act are identified in the Federal Register and are available at: <https://www.gpo.gov/fdsys/pkg/CFR-2016-title38-vol1/pdf/CFR-2016-title38-vol1-sec1-582.pdf>
+
+Privacy Impact Assessments (PIA) is an assessment of how information in identifiable form is collected, stored, protected, shared, and managed. The purpose of a PIA is to demonstrate that system owners and developers have incorporated privacy protections throughout the entire life cycle of a system.   
+A listing of VA PIAs is available at: <https://www.oprm.va.gov/privacy/pia.aspx>
+
+Computer Matching Programs allow matching of data from two or more information systems in order to detect or prevent fraud, waste and abuse in government programs. You can view the VA's Computer Matching Activities Report, Computer Matching Agreements and Federal Register Notices at <https://www.oprm.va.gov/privacy/cma.aspx> .
+
+The VA Privacy Act implementation rules are 38 CFR 1.575 - 38 CFR 1.580, and can be found at   
+<https://www.gpo.gov/fdsys/granule/CFR-2014-title38-vol1/CFR-2014-title38-vol1-sec1-575>.
+
+Instructions for submitting a Privacy Act request:
+
+  * [VA Form 10-5345](https://www.va.gov/vaforms/medical/pdf/vha-10-5345-fill.pdf)
+  * [VA Form 10 - 5345a](https://www.va.gov/vaforms/medical/pdf/vha-10-5345a-fill.pdf)
+  * [VA Form 21-0845](https://www.vba.va.gov/pubs/forms/VBA-21-0845-ARE.pdf)
+
+
 
 ## Information Collected and Stored Automatically
 
