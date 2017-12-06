@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerosoles.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610102912id_/http%3A//www.aerosoles.com/store/jump/static/SecurityPrivacy/8600010) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerosoles.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206115002id_/http%3A//www.aerosoles.com/store/jump/static/SecurityPrivacy/8600010) for the most accurate reproduction.*
 
 # Privacy Policy | Aerosoles
 
@@ -17,8 +17,6 @@ At Aerosoles your privacy is a priority.
 At Aerosoles we seek to provide products, services, and offers of value to you and your family. We use information from our interactions with you and other customers, and from other parties, to help us achieve that goal. 
 
 We also recognize and respect your concerns about security and privacy. Accordingly, we have procedures intended to help ensure that your personal information is handled in a safe, secure, and responsible manner. 
-
-Aerosoles is a member of the Direct Marketing Association (DMA) and complies with its standards for the use of your personal information.
 
 The Information We Collect
 
