@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cookinggames.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629090228id_/http%3A//www.cookinggames.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinggames.net privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206125735id_/http%3A//www.cookinggames.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CookingGames.net
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@cookinggames.net. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At www.CookingGames.net, herein known as This Website, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by This Website and how it is used. 
 
