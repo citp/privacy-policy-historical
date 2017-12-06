@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekindlife.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608013259id_/http%3A//thekindlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekindlife.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206141105id_/http%3A//thekindlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Kind Life
 
@@ -51,4 +51,4 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-If you have any questions about our privacy policy email them at thekindlife@gmail.com
+If you have any questions about our privacy policy email them at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
