@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the theparentingvillage.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114657id_/http%3A//video.theparentingvillage.com/privacyTPV.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparentingvillage.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206021527id_/http%3A//video.theparentingvillage.com/privacyTPV.html) for the most accurate reproduction.*
 
-# Privacy | The Parenting Village
+# PRIVACY POLICY| The Parenting Village
 
-* * *
+[](https://web.archive.org/index.html)
 
-**THE PARENTING VILLAGE**
+## THE PARENTING VILLAGE
 
-**PRIVACY POLICY**
+### PRIVACY POLICY
 
 _Last Modified: January 25, 2017_
 
@@ -14,7 +14,7 @@ _Last Modified: January 25, 2017_
 
 This Privacy Policy applies to this website located at _http://www.theparentingvillage.com_ (the “Web Site”), which is owned and operated by Web Value, Inc. d/b/a The Parenting Village (“The Parenting Village”, “we” or “us”). This Privacy Policy describes what information is collected by us from any user of the Web Site (collectively or individually “User(s),” “yourself,” “you”, or “your”), as well as our use and disclosure of that information. Please read this Privacy Policy carefully, as it acts as an official Terms of Use statement, which governs your use of the Web Site. Your use of our Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy and our Terms of Use.
 
-MINORS UNDER THE AGE OF 18 MUST NOT PROVIDE ANY PERSONAL INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO THE PARENTING VILLAGE. IF THE PARENTING VILLAGE IS NOTIFIED IT HAS PERSONAL INFORMATION ABOUT A MINOR UNDER THE AGE OF 18, THAT INFORMATION WILL BE PROMPTLY DELETED FROM OUR DATABASE.
+MINORS UNDER THE AGE OF 18 MUST NOT PROVIDE ANY PERSONAL INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO THE PARENTING VILLAGE . IF THE PARENTING VILLAGE IS NOTIFIED IT HAS PERSONAL INFORMATION ABOUT A MINOR UNDER THE AGE OF 18, THAT INFORMATION WILL BE PROMPTLY DELETED FROM OUR DATABASE.
 
 **Applicability**
 
@@ -61,7 +61,3 @@ To opt out of other ad networks that serve interest-based advertisements please 
 **Contact Us**
 
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the The Parenting Village homepage.
-
-  
-  
-
