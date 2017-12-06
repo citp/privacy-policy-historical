@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossout.net privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607082149id_/http%3A//crossout.net/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossout.net privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206063233id_/https%3A//crossout.net/en/support/privacypolicy) for the most accurate reproduction.*
 
 # Crossout - Free to Play MMO action gamePrivacy Policy
 
@@ -10,7 +10,7 @@ We will not sell or rent your personally identifiable information or a list of o
 
 This Privacy Policy contains numerous general and technical details describing the steps that we take to protect your privacy.  We have organized this Privacy Policy by major topic areas so that you can quickly locate to the information of most interest to you.  Meeting your needs and expectations forms the foundation of everything that we do —including protecting your privacy.
 
-If after reviewing this Privacy Policy you still have questions or privacy concerns please contact us at: [legals@gaijinent.com](mailto:legals@gaijinent.com).
+If after reviewing this Privacy Policy you still have questions or privacy concerns please contact us at: [legals@gaijinent.com](mailto:legals@gaijinent.com) or visit [Gaijin Support site](https://support.gaijin.net/).
 
 **Summary**
 
@@ -54,7 +54,7 @@ When ordering products and Services from our Website, you may be asked to provid
 
 When you use the Website, Gaijin or third parties authorized by us may collect certain technical and routing information about your computer (also known as “environmental variables”) to facilitate your use of the Website and related Services.  In short, when you browse the Internet, your Internet browser (such as Mozilla Firefox or Microsoft Internet Explorer) automatically transmits some information to us every time you access content on one of our internet domains.  Examples of such information include the URL of the particular Web page you visited, the IP (Internet Protocol) address of the computer you are using, or the browser version that you are using to access the Website.  All of this information may be collected by Gaijin and used to help improve our offerings to you.  Without expressly informing you in each circumstance, we do not match this information with any of your personal information.
 
-You may be provided a periodic newsletter and product updates from us. You will be given the opportunity to choose the type of information we provide to you and will be provided with an opportunity to opt-out from receiving the information altogether by either making appropriate choice to your account or by writing to [legals@gaijinent.com](mailto:legals@gaijinent.com). However, we reserve the right to provide you notices and communications via email in connection with transactions initiated by you. For example, we will send you communications in connection with successful purchase made by you on the Website. You may be asked to retain some information that we provide you to continue to use the Services.
+You may be provided a periodic newsletter and product updates from us. You will be given the opportunity to choose the type of information we provide to you and will be provided with an opportunity to opt-out from receiving the information altogether by either making appropriate choice to your account or by writing to [legals@gaijinent.com](mailto:legals@gaijinent.com) or [Gaijin Support site](https://support.gaijin.net/). However, we reserve the right to provide you notices and communications via email in connection with transactions initiated by you. For example, we will send you communications in connection with successful purchase made by you on the Website. You may be asked to retain some information that we provide you to continue to use the Services.
 
 The information you submit to us may be transferred across national boundaries and may be stored and processed in the UK and any of the countries in which we (and our affiliates or operating partners) maintain offices or web hosting servers.  In certain countries, or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by our affiliates, operating partners or trusted vendors. 
 
@@ -64,11 +64,11 @@ We may establish relationships with certain third party service providers.  Typ
 
 You may be given an opportunity to create a personal account, which may be required for receiving Services offered or to be offered on the Website.  Once the personal account is created, you will be able to access, review and update your personal account information via the Website.
 
-If you wish to deactivate your personal account, you can contact us at [legals@gaijinent.com](mailto:legals@gaijinent.com).  When you deactivate your personal account, all information stored and maintained as part of your account may be retained for archival, backup and record purposes.  You may change your nickname once free of charge by logging into your personal account. You may not change your registered e-mail without Gaijin prior written request which can be withheld without reason (the absence of a response does not constitute consent).
+If you wish to deactivate your personal account, you can contact us at [legals@gaijinent.com](mailto:legals@gaijinent.com) or [Gaijin Support site](https://support.gaijin.net/).  When you deactivate your personal account, all information stored and maintained as part of your account may be retained for archival, backup and record purposes.  You may change your nickname once free of charge by logging into your personal account. You may not change your registered e-mail without Gaijin prior written request which can be withheld without reason (the absence of a response does not constitute consent).
 
 **Information Relating to Children**
 
-Our Website and any products or Services available on our Website are  **not**  directed to children under 13 years of age.  However, despite our intent, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter or purchase products and Services. Parents and Legal Guardians may request for us to review, delete, or stop the collection of their child’s personally identifiable information by contacting us at [legals@gaijinent.com](mailto:legals@gaijinent.com).  Information for US residents: for additional information and resources regarding child online privacy, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>.
+Our Website and any products or Services available on our Website are  **not**  directed to children under 13 years of age.  However, despite our intent, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter or purchase products and Services. Parents and Legal Guardians may request for us to review, delete, or stop the collection of their child’s personally identifiable information by contacting us at [legals@gaijinent.com](mailto:legals@gaijinent.com) or [Gaijin Support site](https://support.gaijin.net/).  Information for US residents: for additional information and resources regarding child online privacy, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>.
 
 **Securing the Transmission and Storage of Information**
 
@@ -98,7 +98,7 @@ Although we will always strive to guard your identity, we may disclose your pers
 
 You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Website.  However, as previously discussed, withholding certain requested information may prevent us from providing you with certain Services (e.g. participating in a forum or playing the game).
 
-You can choose at any time to opt out of receiving emails from Gaijin or from having your personally identifiable information shared with selected companies. If you wish to opt out, you can do so by editing your personal account preferences with respect to e-mail or the sharing of information or contacting us at [legals@gaijinent.com](mailto:legals@gaijinent.com). If you elect to “opt out” we will not share your personal information with third parties or send you regular emails.  However, we may continue to use your personal information for internal purposes, such as to enhance your user experience or as necessary to administer the Website or Services or comply with applicable laws and regulations.
+You can choose at any time to opt out of receiving emails from Gaijin or from having your personally identifiable information shared with selected companies. If you wish to opt out, you can do so by editing your personal account preferences with respect to e-mail or the sharing of information or contacting us at  [legals@gaijinent.com](mailto:legals@gaijinent.com) or [Gaijin Support site](https://support.gaijin.net/). If you elect to “opt out” we will not share your personal information with third parties or send you regular emails.  However, we may continue to use your personal information for internal purposes, such as to enhance your user experience or as necessary to administer the Website or Services or comply with applicable laws and regulations.
 
 We may send a one-time registration confirmation email, and infrequent “service alert” messages to you informing you of specific changes that may impact your ability to use Service you have previously signed up for, regardless of email contact opt-in status.  Also, we may contact you if compelled to do so as part of a legal proceeding or if there has been a violation of any applicable licensing, warranty and purchase agreements.
 
@@ -130,7 +130,7 @@ Web beacons are used in combination with cookies to help website operators under
 
 _**C.   PRIVACY-RELATED INQUIRIES ANDCOMPLAINTS**_
 
-We take our users’ privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact us at [legals@gaijinent.com](mailto:legals@gaijinent.com).
+We take our users’ privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact us at  [legals@gaijinent.com](mailto:legals@gaijinent.com) or [Gaijin Support site](https://support.gaijin.net/).
 
 In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Privacy Policy has not been complied with.  We will investigate your inquiry or complaint promptly.
 
