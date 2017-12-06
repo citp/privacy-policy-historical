@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimensionsdance.ie privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110105949id_/http%3A//dimensionsdance.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensionsdance.ie privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206050032id_/http%3A//dimensionsdance.ie/privacy) for the most accurate reproduction.*
 
 # Dimensions Dance 2016
 
