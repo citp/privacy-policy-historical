@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majorleaguefishing.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503195316id_/http%3A//majorleaguefishing.com/contentpage%3Fcontent-id%3D5523) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorleaguefishing.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206200944id_/http%3A//www.majorleaguefishing.com/contentpage%3Fcontent-id%3D5523) for the most accurate reproduction.*
 
 # Privacy Policy - Major League Fishing
 
@@ -28,7 +28,7 @@ The Site is a general audience website intended for use by adults. Neither the S
 
 Furthermore, if you are under eighteen (18) years of age, then you (or your parent or legal guardian) may at any time request that MLF remove content or information about you that is posted on the Site or the App. Please submit any such request (" ** _Request for Removal of Minor Information_** ") to any one of the following:
 
-By mail: Major League Fishing, Attn.: Support, 4500 South 129th East Avenue, Tulsa, OK 74134, with a subject line of "Removal of Minor Information."
+By mail: Major League Fishing, Attn.: Support, with a subject line of "Removal of Minor Information."
 
 By email: web-support@majorleaguefishing.com, with a subject line of "Removal of Minor Information."  
 For each Request for Removal of Minor Information, please state "Removal of Minor Information" in the email or letter subject line, and clearly state the following in the body:
@@ -196,7 +196,7 @@ To help maintain the security of your personal information, MLF asks that you pl
 
 You may request at any time that MLF provide you with an opportunity to review and change your personal information collected through the Site or the App or to no longer use your personal information to provide you with any products or services. Please submit any such request (" ** _Request Concerning Personal Information_** ") to any one of the following:
 
-By mail: Major League Fishing, Attn.: Support, 4500 South 129th East Avenue, Tulsa, OK 74134, with a subject line of "Your Personal Information."
+By mail: Major League Fishing, Attn.: Support, with a subject line of "Your Personal Information."
 
 By email: [web-support@majorleaguefishing.com](mailto:web-support@majorleaguefishing.com), with a subject line of "Your Personal Information."
 
@@ -219,7 +219,7 @@ You are solely responsible for the accuracy and content of your personal informa
 
 If you are a resident of the State of California and MLF has an established business relationship with you, then, pursuant to Section 1798.83 of the California Civil Code, you have the right to request the following at any time: (a) information from MLF free of charge regarding the manner in which MLF shares certain personal information collected through the Site and/or the App with third parties who use such information for direct marketing purposes; and (b) the discontinuation (or opt-out) of MLF's sharing of such information with such third parties. Please submit any such request (" ** _California Privacy Rights Request_** ") to any one of the following:
 
-By mail: Major League Fishing, Attn.: Support, 4500 South 129th East Avenue, Tulsa, OK 74134, with a subject line of "Your California Privacy Rights."
+By mail: Major League Fishing, Attn.: Support, with a subject line of "Your California Privacy Rights."
 
 By email: web-support@majorleaguefishing.com, with a subject line of "Your California Privacy Rights."
 
@@ -264,7 +264,7 @@ If any term or condition of this Privacy Policy is deemed invalid or unenforceab
 
 Please direct any questions you may have about this Privacy Policy to any one of the following
 
-By mail: Major League Fishing, Attn.: Support, 4500 South 129th East Avenue, Tulsa, OK 74134, with a subject line of "Privacy Policy."
+By mail: Major League Fishing, Attn.: Support, with a subject line of "Privacy Policy."
 
 By email: web-support@majorleaguefishing.com, with a subject line of "Privacy Policy."
 
