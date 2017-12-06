@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115936id_/http%3A//www.outdoorchannel.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206072131id_/http%3A//outdoorchannel.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Outdoor Channel
 
@@ -44,4 +44,23 @@ Upon request, we provide site visitors to our web site with access to all inform
 
 If you feel that this web site is not following its stated information policy Privacy Policy, you may contact us at the [Contact Us](https://web.archive.org/contactus.aspx?subject=For%20Web%20Dept) page.
 
-Our postal address is: 1000 Chopper Circle, Denver, CO 80204. We can be reached via the [Contact Us](https://web.archive.org/contactus.aspx) page.
+### Your California Privacy Rights.
+
+If you are a resident of the State of California and Outdoor Channel has an established business relationship with you, then, pursuant to Section 1798.83 of the California Civil Code, you have the right to request the following at any time: (a) information from Outdoor Channel free of charge regarding the manner in which Outdoor Channel shares certain personal information collected through the Site with third parties who use such information for direct marketing purposes; and (b) the discontinuation (or opt-out) of Outdoor Channel’s sharing of such information with such third parties. Please submit any such request (“California Privacy Rights Request”) to email, support@outdoorchannel.com, with a subject line of “Your California Privacy Rights.”
+
+For each California Privacy Rights Request, please state “Your California Privacy Rights” in the email or letter subject line, and clearly state the following in the body:
+
+  1. the nature of your request;
+  2. that the request is related to “Your California Privacy Rights;”
+  3. your name, street address, city, state, zip code and email address; and
+  4. whether you prefer to receive a response to your request by mail or email.
+
+
+
+Outdoor Channel is not responsible for a California Privacy Rights Request that is incomplete, incorrectly labeled or incorrectly sent.
+
+You are solely responsible for the accuracy and content of your personal information, and for keeping your personal information current and correct.
+
+Further, Outdoor Channel does not respond to “do not track” (DNT) signals.
+
+Finally, as explained further above, Outdoor Channel does not authorize third parties to collect your personal information when you use the Site, except as expressly stated in this Privacy Policy. To the fullest extent permitted by law, Outdoor Channel is not responsible for, and you hereby release Outdoor Channel from any and all liability which may arise from, such third parties’ unauthorized collection of your personal information.
