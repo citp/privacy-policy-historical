@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleblazer.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628082526id_/http%3A//styleblazer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleblazer.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206232512id_/http%3A//styleblazer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,19 +10,19 @@ Revised as of May 27, 2015
 
 This Policy explains:
 
-A. The Types of Information We Collect from You and Why We Collect It
+[A. The Types of Information We Collect from You and Why We Collect It](http://styleblazer.com/privacy/#info)
 
-B. How We Use and Share Your Information
+[B. How We Use and Share Your Information](http://styleblazer.com/privacy/#use)
 
-C. Access to Your Information and Choices
+[C. Access to Your Information and Choices](http://styleblazer.com/privacy/#access)
 
-D. Security of Your Information
+[D. Security of Your Information](http://styleblazer.com/privacy/#security)
 
-E. California Privacy Rights
+[E. California Privacy Rights](http://styleblazer.com/privacy/#california)
 
-F. Changes to Our Privacy Policy
+[F. Changes to Our Privacy Policy](http://styleblazer.com/privacy/#changes)
 
-G. Questions and How to Contact Us
+[G. Questions and How to Contact Us](http://styleblazer.com/privacy/#questions)
 
 **_Notice With Regard To Third-Party Sites_**. This Policy applies only to information that we collect through our Sites. It is important that you understand that our Sites contain links to third-party sites that are not owned, operated or controlled in any way by us. Please be aware that we cannot be, and are not responsible for the privacy practices of websites that are not owned, operated or controlled by us, even if our Sites contain links through which you may choose to visit such websites. Be aware that when you choose to leave our Sites to visit any website not owned or operated by us, you should always read the privacy policy of that website, since the privacy policies of that website that would govern how its owners collect and use your personal information.
 
