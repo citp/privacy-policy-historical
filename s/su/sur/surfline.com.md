@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfline.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617065318id_/http%3A//www.surfline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfline.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206233347id_/http%3A//www.surfline.com/privacy.cfm) for the most accurate reproduction.*
 
 # Surfline Privacy Policy and Promise | SURFLINE.COM
 
@@ -6,32 +6,33 @@
 
 **OUR PROMISE**
 
-Surfline/Wavetrak, Inc. (Surfline) respects your privacy and promises to earn and keep your trust. At Surfline, we understand the importance of privacy, and we want you to be as comfortable as possible visiting our site and using its services. All information about you is kept confidential and will not be used in ways that you have not consented, and we will not sell or disclose any information that identifies you to a third party without your explicit approval. We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
+Surfline ("Surfline"), a service provided by Surfline\Wavetrak, Inc. ("Surfline", "we", "our", or "us"), respects your privacy and promises to earn and keep your trust. 
 
-Questions regarding this policy and our practice should be directed to Surfline Customer Service, by e-mail to [customerservice@surfline.com](mailto:customerservice@surfline.com), by telephone at 1-800-229-7873, or by postal mail to Surfline, 300 Pacific Coast Highway, Suite 300, Huntington Beach, CA 92648.
+This Privacy Policy applies to information we collect from all sources, including in connection with our websites, mobile sites, applications ("apps"), widgets, and electronic newsletters or communications (collectively the "Services") that link to this Privacy Policy. 
+
+Questions regarding this policy and our practice should be directed to Surfline Support, by e-mail to [Support@Surfline.com](mailto:Support@FishTrack.com), or by postal mail to Surfline, 300 Pacific Coast Highway, Suite 310, Huntington Beach, CA 92648.
 
 **Privacy Policy**
 
-This Privacy Policy is incorporated into and subject to the [Terms and Conditions](https://web.archive.org/terms_conditions.cfm) of use. It tells you what information we collect, how we protect it and what choices you have about how that information is used. Most information collected is to enable us to best meet your needs as an action sports participant in a highly customized and responsive manner.
+This Privacy Policy is incorporated into and subject to our [Terms of Use](http://www.surfline.com/terms_conditions.cfm). It tells you what information we collect, how we protect it and what choices you have about how that information is used. Most information collected is to enable us to best meet your needs as an action sports participant in a highly customized and responsive manner.
 
-**Under Age 13**
+**Children's Privacy**
 
-Surfline does not allow children under the age of thirteen (13) to register because Surfline must comply with the Children's Online Privacy Protection Act, which prohibits the online collection of personal information from people under 13.
+Protecting the privacy of young children is especially important. For that reason, Surfline does not knowingly collect or maintain personal information from persons under 13 years-of-age. If Surfline learns that personal information of persons under 13-years-of-age has been collected on or through the Services, Surfline will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 who has become a Surfline Registered user or Subscriber, then please contact Surfline at support@Surfline.com to have that child's account terminated and personal information deleted.
 
 **Public Forum Discussions and Comments**
 
-Please note that any information that you reveal in a public forum (such as a bulletin board or chat room/event, comments) will be seen by third parties not related to Surfline and is therefore not subject to this privacy policy.
+Please note that any information that you reveal in a public forum (such as a bulletin board or comments) will be seen by third parties not related to Surfline and is therefore not subject to this privacy policy.
 
 **SECTION 1 - PERSONAL INFORMATION WE COLLECT**
 
-We collect information in four distinct areas:
+We collect information in five distinct areas:
 
   1. Alerts / Newsletter subscriptions: name, e-mail address
-  2. Membership enrollment and Profile creation: name, address, phone number, password, and information about specific interests (when provided). All Personal information is protected by your password.
-  3. Interaction with the web site and solution tools: personal usage information. Surfline presents interactive tools to assist you in making purchasing decisions and weather forecasts, in doing so; Surfline collects personal usage information for the sole purpose in helping you make the best decisions.
-  4. Store and Mail Order Catalog(s): Surfline's store and applicable catalog(s) is operated and managed by Swell. Click here to read the [Swell Privacy & Security Policy](http://www.swell.com/c/privacyandsecurity.htm) and [Terms of Use](http://www.swell.com/c/termsofuse.htm)
-  5. Cookies: personal usage information. Please see the "Cookies and Web Beacons" below for more information.
-  6. Location: We may collect and store information about your location if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information. Location data is not shared with 3rd. party sites, advertisers or sponsors.
+  2. Subscription enrollment and Profile creation: email, name, zip/postal code, and password.  All Personal information is protected by your password.
+  3. Interaction with the web site and solution tools: personal usage information. Surfline presents interactive tools to assist you in making surfing decisions, in doing so; Surfline collects personal usage information for the sole purpose in helping you make the best decisions.
+  4. Cookies: personal usage information. Please see the "Cookies and Web Beacons" section below for more information.
+  5. Location: We may collect and store information about your location if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information. Location data is not shared with third party sites, advertisers, or sponsors.
 
 
 
@@ -39,62 +40,62 @@ Surfline does not store any credit card information. Surfline uses a secure host
 
 **SECTION 2 - USE AND DISCLOSURE OF PERSONAL INFORMATION**
 
-Personal information will not be released to third parties without your explicit permission. Surfline may provide your information to third parties in aggregate with others' information, which does not allow you to be identified or contacted ("Aggregate Information"). For example, we might inform third parties regarding the number of users of our site and the activities they conduct while on our site. We might also inform a pharmaceutical company (that may or may not be an advertiser on our site) that "30 percent of our users live east of the Mississippi" or that "25 percent of our users have looked into wave forecasts in Orange County." Depending on the circumstances, we may or may not charge for this information.
+Personal information will not be released to third parties without your explicit permission. Surfline may provide your information to third parties in aggregate with others' information, which does not allow you to be identified or contacted ("Aggregate Information"). For example, we might inform third parties regarding the number of users of our site and the activities they conduct while on our site. We might also inform a pharmaceutical company (that may or may not be an advertiser on our site) that "30 percent of our users live east of the Mississippi" or that "25 percent of our users have looked into surfing charts in Orange County." Depending on the circumstances, we may or may not charge for this information.
 
 **SECTION 3 - SECURITY**
 
-We use encryption and authentication tools to protect the security of Personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect Personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
+We use encryption and authentication tools to protect the security of Personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect Personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Service, and you do so at your own risk.
 
-We restrict access to Personal information to Surfline employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We restrict access to Personal information to Surfline employees, contractors, and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
 
 **SECTION 4 - YOUR PRIVACY CHOICES**
 
-You always have options on our site. You can opt in to or out of any of our e-mail lists. If you'd like to get on an e-mail list (for Surfline's Surf Alert®, for instance, or to receive information about new products from our store), simply go to that area and sign up. If you'd like your name to be taken off a list, follow the "unsubscribe" directions in any e-mail you receive from us. If you have any questions about how seriously we take your privacy, have a look at the other sections here. 
+If you would like to opt out from our sharing of your personal Information with unaffiliated third parties for the third parties' direct marketing purposes you may contact support at support@Surfline.com and request that we opt you out of such sharing. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
 
-**SECTION 6 - COOKIES AND WEB BEACONS**
+If you have signed up to receive our e-mails and prefer not to receive marketing information from this Service, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this Service. 
+
+**California Residents \-- Your California Privacy Rights**
+
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.
+
+As discussed above in Your Privacy Choices, if you wish to opt-out of our sharing of your personal Information with third parties for the third parties' direct marketing purposes or to find out more about your opt-out rights, please contact Surfline support as described above.
+
+**SECTION 5 - COOKIES AND WEB BEACONS**
 
 To enhance your online experience, we use "cookies" or similar technologies. Cookies are text files placed in your computer's browser to store your preferences. Cookies do not contain personally identifiable information; however, once you choose to provide a site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
 We use cookies to understand site and Internet usage and to improve or customize Surfline content, offerings or advertisements. For example, we may use cookies to personalize your experience with Surfline (e.g., to recognize you by name when you return to a site), save your password in password-protected areas, and enable you to use interactive products on our sites. We also may use cookies to help us offer you products, programs, or services that may be of interest to you and to deliver relevant advertising on Surfline or other websites you visit.
 
-We, our third party service providers, advertisers or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or Surfline. This also helps us, our service providers and partners provide more relevant advertising. For more information regarding third-party ad servers, see "Collection of Information by Third-Party Sites, Ad Servers, and Sponsors" below.
+We, our third party service providers, advertisers or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or Surfline. This also helps us, our service providers, and partners provide more relevant advertising. For more information regarding third-party ad servers, see "Collection of Information by Third-Party Sites, Ad Servers, and Sponsors" below.
 
-We, our third party service providers, advertiser or our partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
+We, our third party service providers, advertiser or our partners may also use "web beacons" (also known as clear gifs or pixel tags) or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We use other technologies that are similar to cookies, such as browser storage and plugins (e.g., HTML5, IndexedDB, and WebSQL). Like cookies, some of these technologies may store small amounts of data on your device. 
 
 You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Surfline. Please consult the "Help" section of your browser for more information.
 
-**SECTION 7 - COLLECTION OF INFORMATION BY THIRD-PARTY SITES, AD SERVERS, SPONSORS**
+**SECTION 6 - COLLECTION OF INFORMATION BY THIRD-PARTY SITES, AD SERVERS, SPONSORS**
 
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+Some of our Services contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-Surfline sites covered by this privacy statement sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+Surfline Services covered by this privacy statement sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
 We also use the services of reputable third parties to provide us with data collection, reporting and web analytics, as well as to assist with delivery of relevant content, marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. For more information on how our sites may use third-party ad servers and your ability to opt-out of targeted advertising from such third party ad servers, please see the section below on "Third Party Ad Servers".
 
-**SECTION 8 - THIRD PARTY AD SERVERS**
+**SECTION 7 - THIRD PARTY AD SERVERS**
 
-We, our partners and/or our advertisers may use third parties to serve or present the ads that appear on our sites and to conduct research about the advertisements. Below is a representative list of such third parties. For more information, please visit or contact the companies listed below:
+Our advertising service vendors and other third parties will at times also use Tracking Technologies to serve you advertisements tailored to interests you have shown by browsing on this website and other sites, applications, destinations, and services you have visited, and for other lawful business purposes. In doing so, these third parties will collect non-personally identifiable data including for example the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of your computer, mobile or other device, as well as date/time stamp, IP address, pages visited, time of visits, content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data. The use of Tracking Technologies by third parties is subject to their own privacy policies, not this Privacy Policy, and we have no responsibility or liability in connection therewith. If you do not want the services that Tracking Technologies provide, you may be able to opt-out by visiting [http://optout.networkadvertising.org](http://optout.networkadvertising.org/)
 
-  * 24/7 Real Media
-  * Google
-  * DoubleClick
-  * TribalFusion
-  * Atlas
+**SECTION 8 - UPDATING YOUR PERSONAL INFORMATION AND CONTACTING SURFLINE**
 
+You can always contact us in order to delete your Personal information from our systems by e-mailing us at support@Surfline.com. You can always update the Personal information that you have provided to us and change your Privacy choices by updating the "[My Account](https://www.surfline.com/account/overview)" section on the web site.
 
+Any other questions? Contact Surfline Support at [support@Surfline.com](mailto:support@FishTrack.com)
 
-To protect the enjoyment and privacy of the users of Surfline products, it is against Surfline policy for third party advertisers to deploy any software code, beyond that which is used to render industry standard advertising, through Surfline hosted advertising creative, without the express written permission of Surfline. Surfline takes reasonable precautions to insure that third party advertisers are not deploying technology through ads hosted on Surfline and or to remove such campaigns immediately as we are notified of such a policy violation. In the case unauthorized code or interaction is served through a third party ad, without our knowledge, Surfline takes no responsibility or liability for interactions your device may have with third party advertising units hosted on Surfline or any of it's sub-domains. This applies to computers, mobile phones, tablets/pads, or any device that is used to access Surfline content.
+**DO NOT TRACK DISCLOSURE**
 
-The NAI (Network Advertising Initiative) is a cooperative group of ad serving providers. The NAI has developed a set of privacy principles to which its members adhere. The NAI is committed to provide consumers with clear explanations of Internet advertising practices and how they affect you and the Internet generally. For more information about the NAI, third party ad servers generally, and the opt-out opportunities available through the NAI, visit <http://www.networkadvertising.org/index.asp>
-
-The NAI has developed a tool that assists consumers in identifying member companies that have placed an advertising cookie file on his/her computer, and provides a method to "Opt out" of targeted advertising delivered by NAI member ad networks. Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. For more information or to begin using the tool, visit <http://www.networkadvertising.org/managing/opt_out.asp>
-
-**SECTION 9 - UPDATING YOUR PERSONAL INFORMATION AND CONTACTING SURFLINE**
-
-You can always contact us in order to delete your Personal information from our systems by e-mailing us at customerservice@surfline.com. You can always update the Personal information that you have provided to us and change your Privacy choices by updating the "[My Account](https://web.archive.org/myaccount)" section on the web site.
-
-Any other questions? Contact Surfline Customer Service at [customerservice@surfline.com](mailto:customerservice@surfline.com)
+Some browsers or other tools include "Do Not Track" (DNT) features which, when turned on, send a signal to websites you visit indicating that you do not wish to be tracked across websites over time. The Worldwide Web Consortium (W3C) has been working with industry groups and regulators to develop a DNT browser technology standard to provide a common understanding as to how to interpret the DNT signals, but to date no standard has been adopted. Since there is no standard at this time, Surfline does not currently respond to DNT signals. 
 
 **CHANGES TO THIS PRIVACY POLICY**
 
 Surfline may change this Privacy Policy at any time by posting revisions to our site. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. In the event that any changes are made to use of your Personal information, you will be informed via e-mail, and will afford you the opportunity to opt-out of any further use. Your use of the site constitutes acceptance of the provisions of this Privacy Policy and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Policy. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately.
+
+Last updated: November 27, 2017
