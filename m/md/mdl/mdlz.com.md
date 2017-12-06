@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdlz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043021id_/http%3A//www.mondelezinternational.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlz.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206042740id_/http%3A//www.mondelezinternational.com/privacy-policy) for the most accurate reproduction.*
 
 # Mondelēz International, Inc. Privacy Policy
 
@@ -189,7 +189,7 @@ Protecting your personal information is important to us. We maintain administrat
 
 ### Choice & Control Over Your Personal Information
 
-You are ultimately in control of the personal information you provide to us on our sites. For example, you can change your preference for follow-up contacts by e-mailing the Online Team at the address found at the paged linked to below or by changing the information in the Your Profile (or similar) section of our sites. If you prefer, you can cancel your registration and we will take steps to remove your personal information from our database. E-mail the Online team using the form at the page linked to below if you wish to take this action: [Consumer Response Email](http://mdlz.custhelp.com/app/contact/sa/1/)
+You are ultimately in control of the personal information you provide to us on our sites. For example, you can change your preference for follow-up contacts by e-mailing the Online Team at the address found at the paged linked to below or by changing the information in the Your Profile (or similar) section of our sites. If you prefer, you can cancel your registration and we will take steps to remove your personal information from our database. E-mail the Online team using the form at the page linked to below if you wish to take this action: [Consumer Response Email](http://www.mdlzcusthelp.com/feedbackform)
 
 ### Your California Privacy Rights
 
