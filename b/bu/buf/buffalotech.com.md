@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610102141id_/http%3A//www.buffalotech.com/about/legal%23tab-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206135023id_/http%3A//www.buffalotech.com/about/legal%23tab-privacy-policy) for the most accurate reproduction.*
 
 # Legal | Buffalo Americas
 
@@ -26,7 +26,7 @@ Below are the guidelines we use for protecting your personal information based o
 
 #### Information This Site Collects
 
-Buffalotech.com uses cookies to collect anonymous traffic data and does not track personally identifiable information. This site also collects information via voluntary forms for those inquiring to purchase our products or for warranty registration of our products. Additionally, we collect the e-mail addresses via voluntary forms of those who opt-in to communicate with us via e-mail or those requesting Technical Support. Buffalo Americas will never sell your email address and conforms to the  [CAN-SPAM Act](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business/).
+Buffalotech.com uses cookies to collect anonymous traffic data and does not track personally identifiable information. This site also collects information via voluntary forms for those inquiring to purchase our products or for warranty registration of our products. Additionally, we collect the e-mail addresses via voluntary forms of those who opt-in to communicate with us via e-mail or those requesting Technical Support. Buffalo Americas will never sell your email address and conforms to the [CAN-SPAM Act](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business/)
 
 #### How We Use Information
 
