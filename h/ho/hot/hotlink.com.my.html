@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotlink.com.my privacy policy that was archived on 2017-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170621104105id_/http%3A//www.hotlink.com.my/en/privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotlink.com.my privacy policy that was archived on 2017-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171206165706id_/http%3A//www.hotlink.com.my/en/privacy-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head><script type="text/javascript" async="async" src="https://www.adobetag.com/d4/maxismobileservice/live/MaxisGlobal.js"></script>
 <!-- BEGIN Krux ControlTag for "hotlink.com.my" -->
@@ -59,7 +59,6 @@
 <!-- custom tags end -->
 
 <script src="/dtagent_bootstrap.js?app=Hotlink+Portal"></script>
-
 
 
 
@@ -200,7 +199,7 @@
 <!--
 
 DEBUG
-Wed Jun 21 18:12:35 MYT 2017
+Thu Dec 07 00:57:05 MYT 2017
 .my
 www.hotlink.com.my
 DEBUG
@@ -358,7 +357,6 @@ CQURLInfo = {
 
 
 
-
    
 
 
@@ -418,12 +416,11 @@ CQURLInfo = {
         color: #ffffff !important;;
     }
     .close-popbox{
-        padding: 8px 13px !important;
+        padding: 0px 6px !important;
         position: absolute;
-        top:0;
-        right:0;
+        top:8px;
+        right: 8px;
         color: #dddddd !important;
-        z-index: 99999;
     }
     .close-popbox:hover{
         text-decoration: none !important;
@@ -437,7 +434,7 @@ CQURLInfo = {
     
     function setAppCookie() {   
         var appCookie = new Date;
-        appCookie.setMonth(appCookie.getMonth() + 3);
+        appCookie.setDate(appCookie.getDate() + 7);
         document.cookie="appMobile=true; expires='" + appCookie.toGMTString() + "'; path=/";
     }
     
@@ -459,7 +456,7 @@ CQURLInfo = {
 
     $(function() {
         if (getCookie('appMobile') != null) {
-            //isAppBanner = true;
+            isAppBanner = true;
         }
         
         if (!isAppBanner) {
@@ -549,13 +546,12 @@ CQURLInfo = {
 
 
 
-
 <header role="banner" class="clearfix">
 
   
     <div class="navcontent">
         <div class="logopanel">
-            <div class="container-fluid">
+            <div class="container-fluid top-header">
                 <div class="logo parbase websitelogo">
 
 
@@ -581,17 +577,22 @@ CQURLInfo = {
                                 
                 </div>
                 
-                <ul class="subnav">
-                     <li class="login ssologinarea" style="display:block"><span class="login-caption">Stay active with MyHotlink</span><br>
-                          <a id="SSORegistertButton" onclick="MaxisSSORegister(cpid);" class="signup"><i class="icon-signup"></i>Sign Up</a><span class="seperator"> | </span>
-                         
-              <a id="SSOLogintButton" href="javascript:void(0)" onclick="MaxisSSOLogin(cpid);"><i class="icon-lock"></i>Login</a>
-                   
+                <ul class="subnav subnav-desktop">
+                     <li class="login ssologinarea" style="display:block">
+                          <span class="login-caption">Stay active with MyHotlink</span><br>
+                          <span class="login-menu">
+                              <a href="https://store.maxis.com.my/maxis/cart/hos" class="cart"><i class="icon-shopping-cart" style="color: red"></i>Cart</a><span class="seperator"> | </span>
+                              <a id="SSORegistertButton" onclick="MaxisSSORegister(cpid);" class="login-link"><i class="icon-signup"></i>Sign Up</a><span class="seperator"> | </span>
+                              <a id="SSOLogintButton" href="javascript:void(0)" onclick="MaxisSSOLogin(cpid);" class="login-link"><i class="icon-lock"></i>Login</a>
+                          </span>
                       </li>
 
-                      <li class="logout ssologoutarea" style="display:none">                                   
+                      <li class="logout ssologoutarea" style="display:none">
+                          <span class="logout-menu">
+                          <a href="https://store.maxis.com.my/maxis/cart/hos" class="cart-logout"><i class="icon-shopping-cart"></i>Cart</a><span class="seperator"> | </span>
                           <a href="/en/hlp/dashboard.html" class="myhotlink"><i class="icon-myhotlink"></i>MyHotlink</a><span class="seperator"> | </span>
-                          <a id="SSOLogoutButton" href="javascript:void(0)" onclick="MaxisSSOLogout(cpid);"><i class="icon-unlock"></i>&nbsp;Logout</a>
+                          <a id="SSOLogoutButton" href="javascript:void(0)" onclick="MaxisSSOLogout(cpid);" class="cart-logout"><i class="icon-unlock"></i>&nbsp;Logout</a>
+                          </span>
                       </li>
                       
                     <li class="language-spacer hidden-xs"></li>
@@ -615,35 +616,59 @@ CQURLInfo = {
                     <li class="clearfix hidden-xs"></li>
                     
                     
-                            <li><a href="http://hotlink.com.my/" title="What's New" id="whats-new">What's New</a></li>
+                                <li><a href="http://hotlink.com.my/" title="What's New" id="whats-new">What's New</a></li>
+                         
                             
                         
-                            <li><a href="/en/plans.html" title="Plans" id="plans">Plans</a></li>
+                                <li><a href="/en/plans.html" title="Plans" id="plans">Plans</a></li>
+                         
                             
                         
-                            <li><a href="/en/internet.html" title="Internet" id="internet">Internet</a></li>
+                                <li><a href="/en/internet.html" title="Internet" id="internet">Internet</a></li>
+                         
                             
                         
-                            <li><a href="/en/games.html" title="Games" id="games">Games</a></li>
+                                <li><a href="/en/games.html" title="Games" id="games">Games</a></li>
+                         
                             
                         
-                            <li><a href="/en/rewards.html" title="Rewards" id="rewards">Rewards</a></li>
+                                <li><a href="/en/rewards.html" title="Deals" id="rewards">Deals</a></li>
+                         
                             
                         
-                            <li><a href="/en/my-hotlink.html" title="Services" id="my-hotlink">Services</a></li>
+                              <li class="nav-submenu">
+                                      <a title="Shop" id="shop" href="https://store.maxis.com.my/maxis/personal/devices//maxis/next-by-maxis-m1-darkgrey/p/100003925001/hotlink">Shop</a>
+                                           <ul class="subMenu">
+                                                
+                                                   <li class="subMenu-item"><a href="https://store.maxis.com.my/maxis/personal/devices//maxis/next-by-maxis-m1-darkgrey/p/100003925001/hotlink">Buy Online</a></li>
+                                                 
+                                                
+                                                
+                                                   <li class="subMenu-item"><a href="https://store.maxis.com.my/maxis/hosorderTracking">Track My Order</a></li>
+                                                 
+                                                
+                                                 
+                                            </ul>
+                                     </li> 
+                             
+                                <li><a href="/en/my-hotlink.html" title="Services" id="my-hotlink">Services</a></li>
+                         
                             
                                     
                 </ul>
                 <div class="clearfix"></div>
+                
             </div>
+                <div class="navbar-bottom" style="height: 0px;">
+                    <div class="subnav-background"></div>
+                </div>
         </div>        
     </div>
 </header>
 
 <script>
 
-function changeLanguage(lang, newLang) {
-  
+function changeLanguage(lang, newLang) {   
     var selectedlang = lang.split("/");
     setHeaderLangCookie(newLang);
     
@@ -655,6 +680,30 @@ function setHeaderLangCookie(header_cookie_lang) {
         
     document.cookie="headerlang=" + header_cookie_lang+ "; expires='" + CookieDate.toGMTString( ) + "'; path=/";
 }
+
+$(document).ready(function(){    
+    $('.subnav-desktop > li').on('mouseenter', function(e) {
+      $('.subnav-desktop > li').removeClass('hovered');
+      $(this).addClass('hovered');
+       if ($(this).find('.subMenu').length > 0) {
+        $('.navbar-bottom').stop();
+         $('.navbar-bottom').animate({height: 50}, 250);
+       } else {
+        $('.navbar-bottom').stop();
+        $('.navbar-bottom').animate({height: 0});
+       }
+    });
+    
+    $('.subnav-desktop > li').on('mouseleave', function(e) {
+     if (!$(e.toElement).is('.top-header .navbar-bottom') && !$(e.toElement).parent().is('.top-header .navbar-bottom')) {
+        $('.subnav-desktop > li.hovered').removeClass('hovered');    
+        $(this).closest('li').removeClass('hovered');  
+        $('.navbar-bottom').stop();
+        $('.navbar-bottom').animate({height: 0}, 500);
+      }
+    });
+  
+});
 </script>
 </div>
 
@@ -676,7 +725,6 @@ function setHeaderLangCookie(header_cookie_lang) {
         
      
       <div class="parbase searchpar gsasearchbox">
-
 
 
 
@@ -706,10 +754,10 @@ function setHeaderLangCookie(header_cookie_lang) {
                         
                     </div> 
                     <div class="col-md-2 col-sm-3 col-xs-1 search-topup-container">
-                        <a onclick="window.open('https://www.hotlink.com.my/en/htu-payment.html', 'Hotlink_Top_Up', 'menubar=no,location=no,resizable=no,scrollbars=yes,titlebar=no,toolbar=no,status=yes,height=550,width=650')" href="javascript:void(0);">
+                        <a onclick="window.open('https://www.hotlink.com.my/en/htu-payment.html', 'Hotlink_Top_Up', 'menubar=no,location=no,resizable=no,scrollbars=yes,titlebar=no,toolbar=no,status=yes,height=550,width=650'); gaSubmitEventHandlerPopUp('Top Up Now');" href="javascript:void(0);">
                                 <div class="topup">
                                     <div class="topup-txt">
-                                        <span class="txtblock-1">TOP UP</span><span class="txtblock-2">NOW</span>
+                                        <span class="txtblock-1">Top Up</span><span class="txtblock-2">Online</span>
                                     </div>
                                 </div>
                             </a>
@@ -719,6 +767,21 @@ function setHeaderLangCookie(header_cookie_lang) {
         </div>
     </div>
 </div>    
+<script>
+function gaSubmitEventHandlerPopUp(inLabel) {
+    var inCategory = 'Landing Page Banner';
+                   
+    dataLayer.push({
+        'event': 'sendEvent',
+        'gaCategory': inCategory,
+        'gaAction': 'Click',
+        'gaLabel': inLabel,
+        'gaValue': 0
+    });
+               
+      setTimeout(2000);
+}
+</script>
     
 <input type="hidden" id="gsars" value="/content/hotlink/en/search-results/jcr:content/par/gsasearchresults">
 <script type="text/javascript">
@@ -933,8 +996,9 @@ We collect information about your use of our websites from cookies. Cookies are 
 
 
 
+
 <nav class="mobilenav">
-    <ul class="subnav">
+    <ul class="subnav subnav-mobile">
 
             <li class="subnavitem"><a title="What's New" id="whats-new" href="http://hotlink.com.my/">What's New<span class="arrow"></span></a></li>
 
@@ -944,7 +1008,22 @@ We collect information about your use of our websites from cookies. Cookies are 
 
             <li class="subnavitem"><a title="Games" id="games" href="/en/games.html">Games<span class="arrow"></span></a></li>
 
-            <li class="subnavitem"><a title="Rewards" id="rewards" href="/en/rewards.html">Rewards<span class="arrow"></span></a></li>
+            <li class="subnavitem"><a title="Deals" id="rewards" href="/en/rewards.html">Deals<span class="arrow"></span></a></li>
+
+                     <li class="subnavitem"><a title="Shop" id="shop" class="link-submenu">Shop<span class="arrow"></span></a>
+                     <ul class="" style="padding: 0px">
+                                                
+                                                   <li class=""><a href="https://store.maxis.com.my/maxis/personal/devices//maxis/next-by-maxis-m1-darkgrey/p/100003925001/hotlink" style="padding: 10px 20px;">Buy Online</a></li>                                               
+                                                 
+                                                
+                                                
+                                                   <li class=""><a href="https://store.maxis.com.my/maxis/hosorderTracking" style="padding: 10px 20px;">Track My Order</a></li> 
+                                                 
+                                                
+                                                 
+                                            </ul>
+                     
+                     </li>
 
             <li class="subnavitem"><a title="Services" id="my-hotlink" href="/en/my-hotlink.html">Services<span class="arrow"></span></a></li>
 
@@ -956,11 +1035,13 @@ We collect information about your use of our websites from cookies. Cookies are 
     <div class="loginpanel shadowbg">
         <ul>
      
-         <li class="login ssologinarea" style="display:none">
+         <li class="login ssologinarea" style="display:block">
+         <a href="https://store.maxis.com.my/maxis/cart/hos">Cart</a><br><br>
          <a id="btnSSOLogin" href="javascript:void(0)" onclick="MaxisSSOLogin(cpid);">Login</a><br>to do more with Hotlink
          </li>
 
          <li class="logout ssologoutarea" style="display:none">
+         <a href="https://store.maxis.com.my/maxis/cart/hos">Cart</a><br><br>
          <a id="SSOLoginButton" href="javascript:void(0)" onclick="MaxisSSOLogout(cpid);">Logout</a>
          </li>
 
@@ -983,6 +1064,19 @@ $('#mobLanguage').change(function(){
     var option = $(this).val();
     //console.log('language::::'+option);
     window.location = option;
+});
+
+$(document).ready(function(){
+    
+      $(document).on('click','.link-submenu', function(e) {
+        var open = $(this).parent().toggleClass('open');
+        if(open.hasClass("open")) {
+            $(this).find(".arrow").css({'-webkit-transform': 'rotate(90deg)' , '-moz-transform': 'rotate(90deg)', '-ms-transform': 'rotate(90deg)', '-o-transform': 'rotate(90deg)', 'transform': 'rotate(90deg)'});
+        } else {
+            $(this).find(".arrow").css({'-webkit-transform': 'rotate(0deg)' , '-moz-transform': 'rotate(0deg)', '-ms-transform': 'rotate(0deg)', '-o-transform': 'rotate(0deg)', 'transform': 'rotate(0deg)'});
+        }
+      });
+  
 });
 </script>
 
@@ -1014,7 +1108,7 @@ $('#mobLanguage').change(function(){
 <div style="font-size:12px;margin-top:5px">(Hotlink Mobile)</div>
 <div class="bold" style="margin-top:10px;font-size:25px">1300-820-120</div>
 <div style="font-size:12px;margin-top:5px">(non-Hotlink Mobile)</div>
-<div style="font-size:13px;margin-top:10px;margin-bottom:20px"><a href="/en/support.html">Need more support? Click here ›</a></div>
+<!--<div style="font-size:13px;margin-top:10px;margin-bottom:20px"><a href="/content/hotlink/en/support.html">Need more support? Click here ›</a></div>-->
 </div>
 <div class="freeform parbase section">
 
@@ -1099,7 +1193,7 @@ function quickLinkGo() {
     <ul> 
     <li><a title="What is Hotlink Friendz?" href="/en/support/faq-library/mobile/hotlink-fast-plan/5-friendz/q1.html">What is Hotlink Friendz?</a></li> 
             
-    <li>Are all existing Hotlink customers eligible to upgrade to Hotlink FAST Plan?</li>
+    <li><a title="What is the ‘Unbeatable all-in-one 4G prepaid phone'?" href="/en/support/faq-library/shop/hotlink-online-store/device-offer/q1.html">What is the ‘Unbeatable all-in-one 4G prepaid phone'?</a></li>
         
         
         
@@ -1263,18 +1357,6 @@ function setVisibility(id, visibility) {
              
             <div class="col-xs-12 col-md-10 footer-countries">
                 <ul>
-                    
-                             <li class="nodivider"><a href="/en/plans/indonesia.html">Indonesia</a></li>
-                    
-                             <li class="nodivider"><a href="/en/plans/bangladesh.html">Bangladesh</a></li>
-                    
-                             <li class="nodivider"><a href="/en/plans/india.html">India</a></li>
-                    
-                             <li class="nodivider"><a href="/en/plans/nepal.html">Nepal</a></li>
-                    
-                             <li class="nodivider"><a href="/en/plans/philippines.html">Philippines</a></li>
-                    
-                             <li class="nodivider"><a href="/en/plans/myanmar.html">Myanmar</a></li>
                     
                 </ul>
             </div>
