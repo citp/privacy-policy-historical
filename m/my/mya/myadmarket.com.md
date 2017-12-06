@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126070850id_/http%3A//www.myadmarket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206181351id_/http%3A//myadmarket.com/privacy.php) for the most accurate reproduction.*
 
 # Ad Serving Platform – MyAdMarket.com
 
@@ -42,6 +42,6 @@ Please note that we send all new members a verification email to verify password
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@MyAdMarket.com](mailto:info@MyAdMarket.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8d1d6ded7f8f5c1f9dcf5d9cad3ddcc96dbd7d5)
 
 ﻿ 
