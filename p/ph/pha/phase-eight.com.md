@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phase-eight.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065739id_/http%3A//www.phase-eight.com/fcp/content/PrivacyPolicy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phase-eight.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206132303id_/http%3A//www.phase-eight.com/fcp/content/PrivacyPolicy/content) for the most accurate reproduction.*
 
 # Privacy Policy | Phase Eight
 
@@ -62,14 +62,14 @@ We may use your information in the following ways:
 
 2\. Through your consent to our use of cookies:
 
-  * to remind you that you have items in your basket or that a transaction is incomplete (this is recorded by use of a cookie file, further details about our use of cookies is set out in our [Cookie Policy here](https://web.archive.org/fcp/content/Cookies/content)
+  * to remind you that you have items in your basket or that a transaction is incomplete (this is recorded by use of a cookie file, further details about our use of cookies is set out in our [Cookie Policy here](https://web.archive.org/fcp/content/Cookies/content))
 
 
 
 3\. If you have consented to receive marketing information from us, we may use your information in the following way:
 
   * details of transactions you carry out through our website and the fulfilment of your orders will be processed and used to contact you by email with information about goods and services which may be of interest because they are similar to those which were the subject of a previous sale to you (however we never store your payment details);
-  * if you have consented for us to do so, will share your information internally within the TFG Brands (London) group in order to send you tailored offers or other information we believe will be of interest
+  * if you have consented for us to do so, we will share your information internally within the TFG Brands (London) group in order to send you tailored offers or other information we believe will be of interest
 
 
 
