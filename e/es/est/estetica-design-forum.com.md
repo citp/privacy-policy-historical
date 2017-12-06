@@ -1,65 +1,47 @@
-> *The following text is extracted and transformed from the estetica-design-forum.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009140332id_/http%3A//www.estetica-design-forum.com/advertising/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estetica-design-forum.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206182612id_/http%3A//www.estetica-design-forum.com/privacy-policy) for the most accurate reproduction.*
 
-# Graphic Design Forum Privacy Policy
+# Privacy Policy - Estetica Design
 
-Privacy Policy for estetica-design-forum.com
+This privacy policy (“Policy”) describes how Website Operator (“Website Operator”, “we”, “us” or “our”) collects, protects and uses the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) may provide on the [http://estetica-design-forum.com](http://estetica-design-forum.com/) website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-The privacy of our visitors to estetica-design-forum.com is important to us.
+## Collection of personal information
 
-This Privacy Policy governs the manner in which Estetica Design Forum collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.estetica-design-forum.com](http://www.estetica-design-forum.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Estetica Design Forum.
+We receive and store any information you knowingly provide to us when you fill any online forms on the Website. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Website’s features.
 
-**Personal identification information**
+## Collection of non-personal information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+When you visit the Website our servers automatically record information that your browser sends. This data may include information such as your device’s IP address, browser type and version, operating system type and version, language preferences or the webpage you were visiting before you came to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics.
 
-**Non-personal identification information**
+## Use of collected information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Any of the information we collect from you may be used to send notification emails such as password reminders, updates, etc; run and operate our Website and Services. Non-personal information collected is used only to identify potential cases of abuse and establish statistical information regarding Website usage. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.
 
-**Web browser cookies**
+## Children
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+We do not knowingly collect any personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information through our Website or Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personal information through our Website or Service without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us through our Website or Service, please contact us.
 
-**How we use collected information**
+## Links to other websites
 
-Estetica Design Forum collects and uses Users personal information for the following purposes:
+Our Website contains links to other websites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other websites or third parties. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every website that may collect personal information.
 
-  * _\- To improve our Site_  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To send periodic emails_  
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. 
+## Information security
 
+We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of personal information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your personal information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Website cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third-party, despite best efforts.
 
+## Data breach
 
-**How we protect your information**
+In the event we become aware that the security of the Website has been compromised or users Personal Information has been disclosed to unrelated third parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law. When we do we will post a notice on the Website, send you an email.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+## Changes and amendments
 
-**Sharing your personal information**
+We reserve the right to modify this privacy policy relating to the Website or Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do we will send you an email to notify you. Continued use of the Website after any such changes shall constitute your consent to such changes. Policy was created with [WebsitePolicies.com](https://www.websitepolicies.com/privacy-policy-generator "Create privacy policy")
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+## Acceptance of this policy
 
-**Third party websites**
+You acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Website or its Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Website and its Services.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+## Contacting us
 
-**Google Adsense**
+If you have any questions about this Policy, please contact us.
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
-
-**Changes to this privacy policy**
-
-Estetica Design Forum has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Estetica Design Forum](http://www.estetica-design-forum.com/)  
-[http://www.estetica-design-forum.com](http://www.estetica-design-forum.com/)  
-andicreffield@yahoo.co.uk
-
-This document was last updated on May 23, 2012
+This document was last updated on July 11, 2017
