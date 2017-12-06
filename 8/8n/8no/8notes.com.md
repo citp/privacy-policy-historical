@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507203526id_/https%3A//www.8notes.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206224500id_/https%3A//www.8notes.com/help/privacy.asp) for the most accurate reproduction.*
 
 # 8notes.com Privacy Policy
 
