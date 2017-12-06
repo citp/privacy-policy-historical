@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prcboard.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235100id_/http%3A//www.prcboard.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prcboard.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206012542id_/http%3A//www.prcboard.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PRCBoard.com
 
@@ -10,12 +10,9 @@ PRCboard.com does not specifically collect information from its visitors.
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-We use cookies to:
+We use cookies to understand and save user's preferences for future visits and compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future.
 
-  * Understand and save user's preferences for future visits.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
-
-
+We may also use trusted third party services that track this information on our behalf.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
