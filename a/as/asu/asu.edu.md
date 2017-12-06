@@ -1,76 +1,52 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617101557id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206222823id_/https%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statements
 
-ASU provides online information and services to students, employees and the public to supplement services provided on campus. This privacy statement provides information required by Arizona law about privacy, confidentiality, and related policies for individuals who use our web sites and online services. Individual web sites may provide additional information about privacy. [ACD 125](http://www.asu.edu/aad/manuals/acd/acd125.html) (ASU Computer, Internet and Electronic Communications Policy) provides additional information about the use of computing and communications systems at ASU and is available at [asu.edu/aad/manuals/acd/acd125.html](http://www.asu.edu/aad/manuals/acd/acd125.html). 
+### Introduction
 
-ASU provides online services that are not hosted on ASU web sites. These external web sites include for example, Dropbox, Amazon Web Services, Microsoft Office 365, and Google Apps for Education, which includes Gmail. ASU is not responsible for the privacy practices or policies of web sites or online services, which sites or services are not managed or are not hosted by ASU. For web sites or online services not housed on ASU servers, we recommend that users review the privacy practices and policies of each provider of the online services. 
+This Arizona State University ( **ASU** ) Privacy Statement provides information required by Arizona law about ASU’s online information gathering and dissemination practices. Individual pages on ASU websites may provide additional information. 
 
-If you are a for profit, child-directed site, do not download ASU plug ins or application programming interface (API) tools that you may find on any ASU web sites. 
+In addition to the information in this Privacy Statement, [ASU’s Terms of Use](https://web.archive.org/tou/) and [Computer, Internet, and Electronic Communications Information Management Policy](https://www.asu.edu/aad/manuals/acd/acd125.html) set forth requirements that you must follow when using ASU’s websites and technology network. 
 
-### Information Collected by ASU
+We encourage you to periodically review this Privacy Statement because we may update it from time to time. 
 
-#### Log Data and Cookies
+### What Services ASU Provides Online
 
-In addition to information actively provided by individuals using ASU web sites and online services, the ASU web servers and services routinely record the following information each time the sites are used: 
+ASU’s websites provide online information and services to all users of ASU’s technology network ( **Users** ) consistent with [ASU’s Charter and Mission](https://president.asu.edu/about/asucharter). 
 
-  * Internet address of the computer being used.
-  * Web pages requested.
-  * Network software access.
-  * Referring web page.
-  * Browser used.
-  * Date, time and duration of activity.
-  * Passwords and accounts accessed.
-  * Volume of data storage and transfers.
-  * Server space used for e-mail.
+In addition to information and services provided on ASU websites, ASU may also provide connections to external services and information provided by non-ASU service providers. These non-ASU provided services may include the education versions of Dropbox, Amazon Web Services, and Google, which includes Gmail. Non-ASU service providers have their own privacy policies that are not covered by this Privacy Statement. ASU is not responsible for the privacy practices or policies of non-ASU service providers. We recommend you review the privacy practices and policies of all non-ASU service providers.
 
+### Information ASU Collects from Users and How We Use it
 
+ASU collects information actively provided by Users. We may also collect information about the computers, mobile devices, or other devices you use to access ASU’s technology network, such as IP address, unique device identifiers, browser types, browser languages, web pages requested, network software access, referring web pages, date, time, and duration of activity, passwords, and accounts accessed, volume of data storage and transfers, and locations of User devices when connected to ASU’s technology network. Logs of this information may be retained. We may contract with non-ASU service providers to help us better understand Users. These non-ASU service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our services.
 
-ASU uses this information to monitor and preserve the functioning and integrity of the system. ASU may use such aggregate information to improve access to content based on visitors’ browsers and operating system types to make content available to as many online visitors as possible. ASU does not link the log data collected to the personal information that one submits online when participating in or signing up for ASU programs and activities. 
+Cookies are small files that are stored on your computing devices. We use cookies to understand and save your preferences for future visits and compile aggregate data about network traffic and network interaction so that we can offer better network experiences and tools in the future. Cookies may be set by an organization other than ASU. These non-ASU cookies may, for example, originate from social media services such as YouTube and Facebook. Because the cookie policies of these services change over time, you should review their policies by visiting the privacy policies of these services directly. Users may disable cookies through their individual browser options. 
 
-In cases of suspected violations of ASU policies, especially unauthorized access to computing systems, the system administrator concerned may authorize detailed session logging. This may involve capturing and retaining a complete keystroke log of an entire session. In addition, a system administrator for the equipment involved may authorize limited searching of user files on individual or networked computers to gather evidence on a suspected violation. 
+ASU uses information collected to provide services, in support of ASU’s Charter and Mission, to protect the security of ASU’s technology network, to support academic integrity, and to provide safety and security services to Users, as well as to monitor, preserve, and enhance the use, functioning, and integrity of ASU’s technology network. ASU may also use information collected from you for analysis and statistical purposes consistent with ASU’s Charter and Mission.
 
-Cookies are short pieces of information used by web browsers to remember information provided by the user, such as passwords and preferences from past visits. Additional information on cookies is available at the Cookie Central web site [cookiecentral.com/](http://www.cookiecentral.com/) and in this publication from the Department of Energy Computer Incident Advisory Center. Some ASU web sites, such as the Interactive Registrar's web site, use cookies to store service information. Some web-based services require cookies for access. 
+### Alternatives to Website Transactions
 
-#### Electronic Postcards and E-mail Messages 
-
-A variety of ASU departments offer online visitors the opportunity to send electronic postcards or e-messages to family or friends. ASU may ask for a name and e-mail address, but does not require a person to submit personally identifiable information about him/herself in order to send an electronic postcard or e-message to family or friends. We do, however, ask a person to submit the e-mail address of the recipient of such electronic postcards or e-mail messages. 
-
-ASU may also provide the opportunity to send e-mail to ASU. ASU requests no personally identifiable information except an e-mail address, which is used solely for the purpose of responding to messages and/or requests. All information collected for electronic postcards and e-mail messages is used only to send the requested electronic postcard or e-mail message and to respond to e-mail questions and/or requests and is deleted from our system once the electronic postcard, e-mail message or e-mail response is sent. 
-
-#### Parental Access 
-
-Parents or legal guardians have the right to review any personal information relating to a child under the age of 13 that may be collected by ASU’s web site. Parents and legal guardians can print out and mail or fax a signed form that allows them to review any identifiable information collected about their child under the age of 13, have this information deleted, and/or request that there be no further collection or use of their underage child’s information. ASU will take steps to verify the identity of anyone requesting information about a child under the age of 13, and to ensure that the person is in fact the child’s parent or legal guardian. You can link to the form [here](http://www.asu.edu/privacy/parentalform.pdf). 
-
-### Alternatives to Web Site Transactions
-
-ASU web sites provide access to information and services for students, employees, and members of the public. If you prefer not to provide any information to ASU online, you may contact the administrative unit responsible for the service to learn about available options for conducting business in person, by mail or by telephone. 
+If you prefer not to provide information to ASU through our technology network, you may contact the ASU administrative unit responsible for the service to learn about available options.
 
 ### Disclosure of Information
 
-ASU does not sell or distribute confidential information it collects online to individuals or entities not affiliated with the university, except in the very limited circumstances described below. Non-confidential information may be sold or distributed pursuant to Arizona Public Records laws. 
+ASU does not disclose confidential information we collect online to individuals or entities not affiliated with ASU, except in the limited circumstances described below. Non-confidential information may be disclosed or distributed pursuant to federal laws, state laws, including Arizona’s public records laws, and ASU and Arizona Board of Regents (ABOR) policies. These laws and policies explain what information may be shared or disclosed. They also explain what information is protected as confidential.
 
-University and Arizona Board of Regents policies protect the confidentiality of student educational records and employee personnel information. These policies explain what information may be shared with the public or anyone who requests it. They also explain what information is protected as confidential; confidential information will not be disclosed without the consent of the student or employee, except under subpoena or court order or in case of an emergency. 
+**Student Records.** Certain records of students are protected by the federal [Family Educational Rights and Privacy Act (FERPA)](https://students.asu.edu/policies/ferpa), Arizona law, and ASU Policy. Information about students’ access to their education records and protection of education records is available in ASU’s [Student Services Manual in Section 107-01](https://www.asu.edu/aad/manuals/ssm/ssm107-01.html). This policy also provides information on students’ rights to limit access to their directory information. ASU may disclose confidential student information with the consent of the student, under subpoena or court order, or in other limited circumstances as permitted by FERPA. 
 
-**Student Records.** Student records are protected by the federal Family Education Rights and Privacy Act (FERPA), Arizona law and university policy. Information about student access to education records and protection of education records is available in [SSM 107-01](http://www.asu.edu/aad/manuals/ssm/ssm107-01.html) (Release of Student Information [asu.edu/aad/manuals/ssm/ssm107-01.html](http://www.asu.edu/aad/manuals/ssm/ssm107-01.html)). That policy also provides information on a student’s right to limit access to otherwise public directory information. 
+**Employee Records.** Access to ASU personnel records is governed by ABOR Policy [6-912](http://www.abor.asu.edu/1_the_regents/policymanual/chap6/6-912.pdf), [ACD 811](https://www.asu.edu/aad/manuals/acd/acd811.html), [SPP 1101](https://www.asu.edu/aad/manuals/policyarchives/SPP/Mar2008/spp1101.html), and Arizona law. 
 
-**Chat Rooms, Forums, Message Boards, and News Groups.** ASU does not routinely retain logs or copies of chat rooms, forums, message boards, or news groups available to its users. Information disclosed in these areas is public, however. Academic chat rooms and discussions conducted in connection with ASU classes may be logged but may be treated as confidential educational records under FERPA. 
+**Public Records Laws.** ASU may be required to provide access to ASU records to third parties pursuant to Arizona’s public records laws [ARS §§ 39-121 through 39-161](http://www.azleg.gov/arsDetail/?title=39). Additional information about Arizona’s public records laws is available at [ogc.asu.edu/public-records/](https://ogc.asu.edu/public-records/). 
 
-**Employee Records.** Employee records are protected by Arizona Board of Regents Policy [6-912](http://www.abor.asu.edu/1_the_regents/policymanual/chap6/6-912.pdf), by university policies [ACD 811](http://www.asu.edu/aad/manuals/acd/acd811.html) (Access to and Release of Official Personnel Records Information [asu.edu/aad/manuals/acd/acd811.html](http://www.asu.edu/aad/manuals/acd/acd811.html)) and [SPP 1101](http://www.asu.edu/aad/manuals/spp/spp1101.html) (Personnel Records [asu.edu/aad/manuals/spp/spp1101.html](http://www.asu.edu/aad/manuals/spp/spp1101.html)) and by Arizona law. 
+**Court Order or Public Safety.** ASU may be required to disclose confidential information pursuant to a valid court order or lawfully issued and served subpoena, search warrant, or other legal order. In addition, ASU may disclose confidential information to law enforcement if ASU believes that disclosure is necessary to protect ASU, to protect the health or safety of individuals, or if law enforcement believes that ASU’s resources have been used in the commission of a crime.
 
-**Public Records Laws.** Under the Arizona Public Records Laws, ASU may be required to provide information in university records to a third party. Commercial users may purchase public record information, such as non-confidential lists of students and employees. Confidential information protected by FERPA or by other laws or Board policy will not be disclosed in response to a public records request. Additional information about Arizona public records laws is available at [ogc.asu.edu/public-records/.](https://ogc.asu.edu/public-records/)
+**Contractors.** ASU may contract with non-ASU service providers to provide services and information through ASU’s technology network. ASU may provide information, including personal information collected on our technology network; to non-ASU service providers to assist ASU deliver classes, programs, products, information, and services. ASU also contracts with non-ASU service providers to perform analysis, research, and administrative activities for ASU. ASU requires non-ASU service providers to protect personal information on our behalf. 
 
-**Contractors.** From time to time, individuals or companies under contract with the university may have access to confidential information in the course of the service they provide to the university, but those entities are not permitted to use or re-disclose that information for unauthorized purposes. No other entities are authorized to collect information through ASU’s sites. 
+ASU does not allow any non-ASU entities to collect information from ASU’s technology network unless those entities have received written permission from an ASU authorized signatory.
 
 ### Security
 
-Although every effort is made to secure network communications, ASU cannot ensure the privacy of online communications. Individuals using online services should also take steps to protect personal information, such as closing the web browser when finished using the site. Failure to do so may result in personal information being viewed by someone else using the same computer. 
-
-ASU takes steps to ensure that personally identifiable information collected is secure, including limiting the number of people who have access to our database servers as well as electronic security systems with password protections that guard against unauthorized access. 
-
-ASU accepts credit card payments online for a variety of goods and services. Unless otherwise noted on the site, all university credit card transactions are encrypted. Confidential information entered to complete a transaction will not be used by ASU for any other purpose unless the purpose is described on the site. 
-
-Under the [Computer, Internet, and Electronic Communications Policy](http://www.asu.edu/aad/manuals/acd/acd125.html), university-owned computers and equipment may be examined by ASU authorized individuals to detect illegal software and to evaluate the security of the network. 
+ASU takes steps to ensure that confidential information collected online is secure. These steps include: ongoing User education; using tools in an effort to restrict unauthorized access, viruses, phishing, and hacking attempts; and monitoring activity to identify potential system threats. ASU routinely assesses and enhances tools and processes available to strengthen our online security.
 
 The ASU Alumni Association is committed to protecting your privacy by employing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the ASU Alumni Association website and governs data and usage. By using the ASU Alumni Association website, you consent to the data practices described in this statement.
 
