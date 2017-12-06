@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedroom.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609000015id_/http%3A//feedroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedroom.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206135614id_/http%3A//feedroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for feedroom.com
 
@@ -21,12 +21,11 @@ Cookies are small files that a site or its service provider transfers to your co
 feedroom.com uses cookies to:
 
   * Understand and save user's preferences for future visits.
+  * Keep track of advertisements.
 
 
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies.
-
-If you disable cookies off, some features will be disabled. It won't affect the user's experience that make your site experience more efficient and some of our services will not function properly.
 
 Third-party disclosure
 
@@ -50,8 +49,8 @@ To be in accordance with CANSPAM feedroom.com agrees to the following:
 
   * NOT use false or misleading subjects or email addresses.
   * Identify the message as an advertisement in some reasonable way.
-  * Include the physical address of our business or site headquarters.
   * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
   * Allow users to unsubscribe by using the link at the bottom of each email.
 
 
