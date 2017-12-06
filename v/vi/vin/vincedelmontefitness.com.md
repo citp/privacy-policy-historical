@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vincedelmontefitness.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625143024id_/http%3A//www.vincedelmontefitness.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincedelmontefitness.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207003032id_/http%3A//www.vincedelmontefitness.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vince DelMonte's Muscle Building Secrets and Programs
 
