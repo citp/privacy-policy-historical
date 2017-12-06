@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-daily.buzz privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618195359id_/http%3A//the-daily.buzz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-daily.buzz privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206231239id_/http%3A//the-daily.buzz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -134,7 +134,7 @@ We will try to comply with your request(s) as soon as reasonably practicable. Pl
 
 If you would like to review or update your Personal Information that has been previously provided to us by you, you may contact us at the following: 
 
-editor@the-daily.buzz
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 1001 Avenue of the Americas, 14th Floor, New York NY 10018  
 [t] (347) 244-7437 / [f] (917) 591-4391  
@@ -144,7 +144,7 @@ In your request, please make clear what information you would like to have chang
 
 Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed.
 
-[If you are a resident of California, under 18 and a registered user of the Site, you may ask us to remove content or information that you have posted to the Site by writing to editor@the-daily.buzz. Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.] 
+[If you are a resident of California, under 18 and a registered user of the Site, you may ask us to remove content or information that you have posted to the Site by writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)cial-edge.com. Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.] 
 
 ## USE OF SITE BY MINORS
 
@@ -160,7 +160,7 @@ We ask that you not send us, and you not disclose, any sensitive Personal Inform
 
 ## CONTACTING US
 
-If you have any questions about this Privacy Policy, please contact us by email at editor@the-daily.buzz, or please write to the following address:
+If you have any questions about this Privacy Policy, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or please write to the following address:
 
 1001 Avenue of the Americas, 14th Floor, New York NY 10018  
 [t] (347) 244-7437 / [f] (917) 591-4391 
