@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the apparelsearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160546id_/http%3A//apparelsearch.com/privacy-policy.html%3Fez_orig%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apparelsearch.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206144354id_/http%3A//www.apparelsearch.com/privacy-policy.html%3Fez_orig%3D1) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for Fashion Industry
+
+The Fashion Privacy Policy is that you should always _dress well_ when you go outside because you are no longer in private.  Look your best at all times.
 
 * * *
 
-If you have any questions regarding our Privacy Policy, please [contact us](http://www.apparelsearch.com/contact_us.htm).
-
-Apparel Search is wholly owned and operated by the Apparel Search Company LLC. 
+[Apparel Search](http://www.apparelsearch.com/) is wholly owned and operated by the Apparel Search Company LLC.  As you know, our website is regarding clothing, shoes, style, and every other topic relevant to the fashion industry.
 
 By using Apparel Search content, you accept our  [Terms and Conditions](http://www.apparelsearch.com/legal_notice.htm) which includes this Privacy Policy. If you do not want to be bound by Apparel Search's Privacy Policy, or Terms and Conditions, you should stop using ApparelSearch.com or our other websites content.
 
@@ -40,7 +40,7 @@ Apparel Search has no control over, and is not responsible for, the ways these o
 
 As a third party advertising vendor, Google will place a DART cookie on your computer when you visit a site using DoubleClick or Google AdSense advertising. Google uses this cookie to serve ads specific to you and your interests. The ads shown may be targeted based on your previous browsing history. DART cookies only use non-personally identifiable information. They _do not_ track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You may prevent Google from using DART cookies on your computer by visiting the [ Google ad and content network privacy policy](http://www.doubleclick.com/privacy/dart_adserving.aspx "http://www.doubleclick.com/privacy/dart_adserving.aspx"). 
 
-We also currently (February 2014) utilize Google Analytics.  You can learn more about their service at [ https://www.google.com/analytics/learn/privacy.html](https://www.google.com/analytics/learn/privacy.html "https://www.google.com/analytics/learn/privacy.html")
+We also currently (February 2014) utilize Google Analytics.  You can learn more about their service at https://www.google.com/analytics/learn/privacy.html 
 
 ###  Policy Changes
 
@@ -50,5 +50,9 @@ Please note that we may change our Privacy Policy from time to time. Users can v
 
 If you have any questions about our Privacy Policy, feel free to contact us by email.  If for some reason we do not answer in a timely manner, please discontinue use of our site if you are not clear or concerned at all regarding our policy.
 
-[Apparel Search](http://www.apparelsearch.com/)   [Add Your Company](http://www.apparelsearch.com/addyour.htm)   [Contact Us](http://www.apparelsearch.com/contact_us.htm)   [About Us](http://www.apparelsearch.com/about_us.htm)   [News Letter](http://www.apparelsearch.com/news_letter_fashion_industry.htm)   [Legal](http://www.apparelsearch.com/legal_notice.htm)   [Help  
-](http://www.apparelsearch.com/help.htm)Copyright © 1999-2017  Apparel Search Company.   All Rights Reserved. 
+* * *
+
+If you are done reading about privacy policies, you may want to actually learn more about fashion & style by reading our [fashion blog](http://www.blog.apparelsearch.com/).  You may find that to be much more enjoyable.
+
+[Apparel Search](http://www.apparelsearch.com/)   [Add Your Company](http://www.apparelsearch.com/addyour.htm)   [ Contact Us](http://www.apparelsearch.com/contact_us.htm)   [About Us](http://www.apparelsearch.com/about_us.htm)   [News Letter](http://www.apparelsearch.com/news_letter_fashion_industry.htm)   [Legal](http://www.apparelsearch.com/legal_notice.htm)   [ Help  
+](http://www.apparelsearch.com/help.htm)Copyright © 1999-2017  Apparel Search Company.  All Rights Reserved. 
