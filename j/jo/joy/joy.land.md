@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joy.land privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155953id_/http%3A//www.joy.land/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joy.land privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206131011id_/http%3A//www.joy.land/page/privacy.html) for the most accurate reproduction.*
 
 # None
 
