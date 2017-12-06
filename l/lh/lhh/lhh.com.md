@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lhh.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626154915id_/http%3A//www.lhh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhh.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206055252id_/http%3A//www.lhh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
