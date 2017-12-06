@@ -1,88 +1,115 @@
-> *The following text is extracted and transformed from the gg-l.xyz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060156id_/http%3A//googleurls.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gg-l.xyz privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206041923id_/http%3A//adbitly.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Adbitly Privacy Policy
 
-The term 'Googleurls.com' or 'us' or 'we' refers to the owner of the website 'Googleurls.com'. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
+We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of the personal data and other information we receive from Publishers.
 
-We at Googleurls.com respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts.
+We may update this Privacy Policy from time to time and after that we will handle your personal data in accordance with the version of the Privacy Policy that was in force when you submitted them. We will notify you of any changes to this Privacy Policy by posting the new version of the Privacy Policy on the Site. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you here, by e-mail, or by means of a notice on the home page of the Site.
 
-Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you.
+Unless otherwise defined in this Privacy Policy, capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Use. By continuing to use the Site and/or Service after notice of changes has been sent to you or published on the Site in the manner described above, you are consenting to these changes.
 
-This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally.
+You willingly provide us certain personal data, which we collect in order to allow you to benefit from the Site and/or Service functionalities. If you have any hesitation about providing such personal data to us or otherwise used in any manner permitted in this Privacy Policy and in our Terms of Use, you should not become a Publisher.
 
-1\. Collected Information  
- 
+#### The Site and Third Party Sites
 
-Data can be collected and processed during the operations of our website. The following are ways we may perform these actions:
+This Privacy Policy applies solely to the Site. The Site may contain links to third parties' sites which are not owned or controlled by the Provider. The Provider has no control over, and assumes no responsibility for, the content, privacy policies (if any), or practices of any third parties' sites. You acknowledge that you are responsible for reviewing and understanding the privacy policies (if any) of any third parties' sites you may access through this Site. By using this Site, you release the Provider from any and all liability arising from your use of any third parties' sites to which this Site may link.
 
-1.1 Data regarding your visit(s) to our website and any resources used are collected. The following is included and not limited to: location data, weblogs, traffic data, and any other communication information.
+Our primary goals in collecting your personal data are to provide and improve the Site and Service and the related features, to administer your subscription and to enable Publishers to enjoy and easily navigate the Site and Service. Below are the types and categories of information we collect.
 
-1.2 Any forms you filled out on our site allows us to collect data such as registering for information or when you complete a purchase.
+#### Personal Data Collected
 
-1.3 If for any reason you communicate with our personnel or site we may collect information.
+We collect your personal data in the following ways:
 
-2\. Cookie Usage  
- 
+#### Sign-up
 
-There are instances where we may use cookies to gather information regarding our services in a mathematical collection for our website and our advertisers.
+To use the Service you are required to provide the following information, which you recognize and expressly acknowledge are personal data allowing others, including the Provider, to identify you: first and last name, full address e-mail address, You are responsible for ensuring the accuracy of any personal information you submit. Inaccurate information will affect the information you receive when using the Site and Service and our ability to contact you as described in this Privacy Policy.
 
-Any information collected will not have any identifying data. It is statistical data about our visitors and how they have used our site. No personal details will be shared that could identify you.
+#### Log Data
 
-We may assemble information about your common internet use with a cookie file. When used, the cookies are downloaded to your computer automatically. The cookie is stored on the hard drive, with transferred information. The data sought by the cookie helps us improve our website and any service offered to you.
+When you visit the Site our servers automatically record information about your use and your visit to the Site ("Log Data"). The Log Data may include information such as your computer Internet Protocol (IP) address, time and date of your requests, your browser type, what software you were using, the web page you were visiting immediately prior to visiting the Site, access times and dates, your location, mobile network information and other statistics. We use this information to monitor and analyze the use of the Site and for the Site's technical administration, to improve the Site's functionalities and Publisher-friendliness, and to better tailor it to the Publishers' needs.
 
-Your browser has the ability to decline cookies. This is done by setting your browser options to decline all cookies. Note: if you do decline the download of cookies, some aspects of our site may not work or allow you access.
+In the course of serving advertisements or optimizing Service to our Publishers, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through such cookies will not be personally identifiable. If you would like more information about this practice and to know your choices about not having this information used by third parties. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use the Site. The Provider does not store personal data in the cookies.
 
-Our advertisers may download cookies to which we have no control. If used, these cookies are downloaded by clicking on an advertisement found on our website.
+#### Log files, IP and Information About Your Computer
 
-3\. Our Use of Your Information
+Due to the communications standards on the Internet, when you visit the Site we automatically receive the URL of the site from which you came and the site to which you are going when you leave the Site. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, e-mail patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Site. The linkage between your IP address and your personal data is not shared with third parties without your prior consent or except when allowed or required by law.
 
-Information stored or collected regarding you helps us improve and offer services you need. The following list contains how we might use your data:
+#### Communications
 
-3.1 Any request you make of our site or personnel allows us to use information you provided us with, relating to the products or services we have. We may also send information on products or services you may be interested in, as long as consent has been received.
+The Provider will communicate with you through e-mail and notices posted on the Site or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access (including text messaging charges for messages to your mobile device). Please be aware that you will always receive certain e-mails from the Provider related to the proper functioning of the Service.
 
-3.2 Contract Commitments: To meet any Commitment we make to you.
+#### Sharing Information with Third Parties
 
-3.3 Changes or Improvements made to the site can warrant use of your information, with regard to notification of such changes.
+The Provider takes the privacy of Publishers very seriously. Thus, we do not sell, rent, or otherwise provide your personal data to third parties for marketing purposes. We will only share your personal data with third parties to carry out your instructions or to provide specific services or information. Unless you have agreed to it, these third parties do not retain, share, or store any personal data except to provide these services and they are bound by confidentiality agreements which limit their use of such information.
 
-3.4 An existing customer may be contacted regarding products and services related to any item of previous sale you made on our site.
+We may provide aggregated anonymous data about the use of the Site to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on the Site.
 
-3.5 We may use data or allow third parties to use information that is not related to goods or services you may be interested in. We or third parties contact you only if consent has been provided by you at anytime, based on information we collected.
+#### Teaming with Third Parties
 
-3.6 Any new customer can only be contacted by us or third parties if consent has been offered via our site. We only send communications you have consented to.
+The Provider allows other companies to place advertisements on the Site. These companies use technology to deliver advertisements you see on the Site directly to your browser. In doing so, they may automatically receive your IP address. Other companies that place advertising on the Site may have the ability to use cookies and/or web beacons to collect information, including information about your use of the Site. We do not control the processes that advertisers use to collect the information. However, IP addresses, cookies and web beacons alone are not considered as personal data and generally cannot be used to identify individuals, only machines. Therefore, advertisers and others whose advertisements or content may appear on the Site generally will not know who you are, unless you provide additional information to them, by responding to an advertisement, by entering into an agreement with them, or by some other means.
 
-3.7 Anyone who does not wish to give consent for our site or third party use has the opportunity to decline. Once we receive your withhold for consent we will remove your details from any mailings or third party communications.
+#### Legal Disclaimer
 
-3.8 None of the information collected about you will offer identifiable characteristics. Information shared to a third party is statistical only. We will not reveal who you are, only mathematical information about our visitors.
+The Provider cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation a court action), to protect the property and rights of the Provider or a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical.
 
-4\. Personal Data Storage  
- 
+#### Disclosures to Others
 
-4.1 Locations outside the European Economic Area may be used for transferring data we collect about you. These data sites are for storing or processing of your information. The information we share outside the European Economic Area may be shared with staff based on the process and storage of said data. It may include such processes as processing a payment or offering support for your service or product needs. The staff processing or storing information may work for our suppliers outside the European Economic Area. By submitting your data to use you have agreed to this transfer and storage of data. We take all reasonable action to ensure the safety of your personal data in agreement with this Privacy Policy.
+The Provider may also disclose your personal data and other information you provide, to another third party as part of reorganization or a sale of the assets of the Provider's division or company. Any third party to which we transfer or sell our assets will have the right to continue to use the personal data and other information that you provide to us.
 
-4.2 Information we are provided will be stored on secure servers. Transaction data is encrypted for your safety.
+#### Aggregate Information and Non-Identifying Information
 
-4.3 You should understand data via online transmission is not completely secure. We cannot guarantee full protection and security data, only that we take all reasonable action to protect information sent to us electronically. Transmission of any data by you is at your own risk. Where applicable you may be given access to sections of our site that require a password. You are responsible for the passwords safety and confidentiality.
+We may share aggregated information that does not include personal data and we may otherwise disclose non-identifying information and Log Data to third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your personal data.
 
-5\. Information Disclosure  
- 
+#### International Transfer
 
-5.1 At times we may disclose personal information to persons in our group. This can include subsidiaries, holding companies, or any other subsidiaries involved in our business, if applicable.
+Your information may be transferred to and maintained on computers and servers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Your consent to this Privacy Policy followed by your submission of such information represents your consent to such transfer.
 
-5.2 Third Party disclosure may occur for the following reasons:
+#### Links to Other Sites
 
-5.2.1 Selling any or all of our business to a third party may result in sharing your information.
+Our Site contains links to other websites. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, you will be directed to those third parties' websites. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third parties' websites. These other websites may place their own cookies or other files on your computer, collect personal data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal data you submit to them. We encourage you to read the privacy policies (if any) or statements of the other websites you visit.
 
-5.2.2 At any time when we are legally required to we may disclose information about you and your visits to our sites.
+Accessing and Changing Your Information
 
-5.2.3 To prevent fraud and help in fraud protection in order to reduce credit risk, we may disclose information.
+You can review the information you provided us with and make any desired changes to them at any time. Please be aware that even after your request for a change is processed, the Provider may, for a time, retain residual information about you in its backup and/or archival copies of its database. We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us \- info@adbitly.com   or    Whatsapp  +91 9121959918
 
-6\. Third Party Links  
- 
+#### Your Obligations
 
-Third party links may be discovered on our site. These third party links have their own privacy policy, which you agree to when you click on the link. We are not responsible nor do we accept responsibility for third party links. Our liability covers us only on our site, and thus we do not accept liability for third party links as we have no control over them.  
- 
+As a Publisher, you have certain obligations imposed by applicable law and regulations:
 
-7\. Contacting Us  
- 
+  1. You must, at all times, respect the terms and conditions of the then-current Privacy Policy and the Terms of Use. This includes respecting all intellectual property rights which may belong to third parties.
+  2. You must not download, upload or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic.
 
-Please feel free to Contact us - support@googleurls.com  with queries, requests, or comments you may have about our Privacy Policy..
+
+
+Any violation of these obligations may lead to the restriction, suspension or termination of your use of the Site and/or Service by the Provider, as we take these principles seriously and consider them to be the basis on which the Publishers adhere to the Site and the Service which it offers.
+
+#### Security
+
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable laws related to security breach notification) to you via e-mail or conspicuous posting on the Site in the most expedient time possible and without unreasonable delay, insofar as consistent with: (i) the legitimate needs of law enforcement; or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+#### Data Retention Policy
+
+The Provider may retain your personal data and other information as long as they are required for purposes they were collected. The Provider will retain personal data consistent with applicable legal requirements. Generally, at a minimum, the Provider will retain personal data collected from you in its active, internal company databases for five years, at which point it will migrate them to its offline archival systems, where the Provider will retain them for a period of one year (together, the "Retention Period"). After the Retention Period, if no longer required the Provider will purge personal data from its systems. In the event of an investigation by law enforcement or a response to claims or legal process, the Provider may retain personal data until such investigation or process is completed, which may be longer than the Retention Period.
+
+#### The Provider hereby declares as follows:
+
+  1. All personal data provided to the Provider will be stored in the Provider's database.
+  2. Publishers have the right to verify, review and correct their personal data processed by the Provider. The right can be exercised by a Publisher by sending a relevant request using the following email us \- info@adbitly.com   or    Whatsapp  +91 9121959918
+  3. Publishers have the right to withdraw their consent to the processing of their personal data, giving the Provider a notice to that effect. Though Publishers provide their personal data to the Provider voluntarily, refusal to provide them renders entry into the agreement with the Provider and access to the Site and use of the Service impossible.
+  4. The Provider shall have the right to disclose the personal data only to the authorities entitled under the provisions of the law in force (e.g. a court, the police).
+  5. Personal data provided to the Provider in a Contact Form and/or a Sign-up Form or in any other way will be used by the Provider and its affiliates exclusively for the following purposes: (i) Publisher's use of the Site and Service (a possibility of using the functionalities offered by the Site which includes processing payments, resolving disputes, preventing prohibited or illegal activities; a Publisher is a party to the agreement on services provided by electronic means); (ii) processing complaints and providing customer support; (iii) contacting Publishers and replying to correspondence sent through the Contact Form; (iv) technical operation of the Site and Service; (v) direct marketing (based on Publisher’s preferences); (vi) maintaining the Site’s statistics; and (vii) performing research and analysis aimed at improving the Site and Service.
+
+
+
+After reviewing the above Privacy Policy, by using or accessing the Site, and especially by clicking the "SIGN UP NOW" button during the subscription process, you hereby:
+
+  1. Consent to the processing and use by the Provider all the personal data provided to the Provider, including data obtained as a result of your use of the Site and/or Service, for the above mentioned purposes.
+  2. Consent to transfer of your personal data abroad, and in particular to the Provider affiliated companies or associated entities, or to the Provider’s parent company, with their registered office outside the Poland, for the purposes of processing in computer systems belonging to the Provider and its business partners. You understand that the above entities may be located in countries that do not guarantee the same level of personal data protection as the level guaranteed in Poland.
+  3. Agree that your consent remains valid for the entire period of your use of the Site and/or Service.
+  4. Declare and confirm that you have read the Terms of Use, you understand them and you will comply with them, both in its current wording and with any later amendments.
+
+
+
+#### How to contact us
+
+If you have any queries regarding your personal data or comments on this Privacy Policy, please email us - info@adbitly.com   or    Whatsapp  +91 9121959918
