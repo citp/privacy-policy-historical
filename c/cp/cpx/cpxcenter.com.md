@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpxcenter.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513213246id_/http%3A//www.cpxcenter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpxcenter.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206181351id_/http%3A//www.myadmarket.com/privacy.php) for the most accurate reproduction.*
 
-# Web & Mobile Tracking Software for Affiliate & Performance Marketing
+# Ad Serving Platform – MyAdMarket.com
 
 ### Personal Information
 
@@ -38,8 +38,10 @@ This site contains links to other sites. YesUp is not responsible for the privac
 
 ### Sending Emails to Our Members
 
-Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from CPXCenter, as well as any companies affiliated with CPXCenter as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly.
+Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from MyAdMarket, as well as any companies affiliated with MyAdMarket as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly.
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@cpxcenter.com](mailto:info@cpxcenter.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8d1d6ded7f8f5c1f9dcf5d9cad3ddcc96dbd7d5)
+
+﻿ 
