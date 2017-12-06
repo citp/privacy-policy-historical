@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairdirect.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000025id_/http%3A//www.hairdirect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairdirect.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206133044id_/http%3A//www.hairdirect.com/privacy.aspx) for the most accurate reproduction.*
 
 # Hair Direct's Privacy Policy for Selling and Shipping Hair Replacement Systems
 
@@ -40,20 +40,35 @@ We implement and utilize the latest technology and a variety of security measure
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers. We do not store credit card information. Instead, we use tokenization to help prevent credit card fraud and digital breaches. 
 
-## Do we use 'cookies'?
+## Cookie Policy
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+HairDirect, Inc. ("us", "we", or "our") uses cookies on our website (referred to as the "Service"). By using the Service, you consent to the use of cookies.
 
-**We use cookies to:**
+Our Cookies Policy explains what cookies are, how we use cookies, how third parties we may partner with may use cookies on the Service, and your choices regarding cookies.
 
-  * Help remember and process the items in the shopping cart.
-  * Understand and save users' preferences for future visits.
+## What are cookies
 
+Cookies are small pieces of text sent to your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third party to recognize you, making your next visit easier.
 
+## How HairDirect, Inc. uses cookies
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
+When you use and access the Service, we may place a number of cookies files in your web browser.
 
-If you turn cookies off, some features may be disabled. However, you will still be able to place orders.
+We use cookies to enable certain functions of the Service, provide analytics, and store your preferences.
+
+We use both session and persistent cookies on the Service, and we use different types of cookies to run the Service.
+
+We may use essential cookies to authenticate users and prevent fraudulent use of user accounts.
+
+## Third-party cookies
+
+In addition to our own cookies, we may also use various third-party cookies to report usage statistics of the Service.
+
+## Your choices regarding cookies
+
+If you'd like to delete cookies, or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.
+
+Please note, however, that if you delete cookies or refuse to accept them, you may not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages may not display properly.
 
 ## Third-party disclosure
 
