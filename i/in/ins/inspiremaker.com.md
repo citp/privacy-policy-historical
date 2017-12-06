@@ -1,17 +1,51 @@
-> *The following text is extracted and transformed from the inspiremaker.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremaker.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206031526id_/http%3A//www.inspiremaker.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy
 
-* * *
+Thank you for visiting inspiremaker.com. We understand your privacy is important to you.
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+### The Information We Collect
 
+We collect transaction information and email addresses. We collect only the minimum information necessary to complete your order online; this is the same information required to complete telephone orders - name, billing and shipping address, telephone number, and payment information.
 
+We require customer email address for online orders so that we may notify you of your order status or merchandise return status if you purchase from inspiremaker.com, your email will be added to the inspiremaker.com's e-newsletter list and database.
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We may send you emails promoting our products, announcing special events and offering other special limited-time discounts, such as free shipping, that may be used by online customers. You may opt-out of receiving any email promotional communication at any time.
+
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 7 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+
+### How We Use the Information
+
+We may use the information you provide about yourself to fulfill your requests for our products, programs and services, to respond to your inquiries about our offerings and to offer you other products, programs or services that we believe may be of interest to you.
+
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements or to contact you about your account with us.
+
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs or services.
+
+We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+
+Employees of inspiremaker.com who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for inspiremaker.com.
+
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+
+Finally, we will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+
+### Collection of Information by Third-Party Sites and Sponsors
+
+inspiremaker.com may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies as we have no control over information that is submitted to, or collected by, these third parties.
+
+### Cookies
+
+To enhance your experience with our site, many of our Web pages use "cookies." Cookies are text files placed in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+
+We use cookies to understand site usage and to improve the content and offerings. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our site. We also may use cookies to offer you products, programs, or services.
+
+### Our Commitment to Security
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+### How to Contact Us
+
+If you have any questions or concerns about the inspiremaker.com. online policy or its implementation, you may Contact Us.
