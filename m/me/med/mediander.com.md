@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediander.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206143741id_/http%3A//www.mediander.com/info/privacy_policy/%23%21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediander.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206141026id_/http%3A//www.mediander.com/info/privacy_policy/%23%21) for the most accurate reproduction.*
 
 # Privacy Policy | Mediander
 
@@ -82,7 +82,7 @@ We may use third party advertising companies and advertising networks to serve a
 
 <http://www.networkadvertising.org/optout_nonppii.asp>   
 <http://www.doubleclick.com/us/about_doubleclick/privacy>  
-<http://www.operative.com/privacy-policy/>
+
 
 ##### USE OF IP ADDRESS
 
