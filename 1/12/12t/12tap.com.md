@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12tap.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605205205id_/https%3A//12tap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12tap.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206090420id_/http%3A//12tap.com/privacy) for the most accurate reproduction.*
 
 # 12TAP.COM | Privacy Policy
 
