@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circuitbasics.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627014032id_/http%3A//www.circuitbasics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuitbasics.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206221854id_/http%3A//www.circuitbasics.com/privacy-policy) for the most accurate reproduction.*
 
 # Circuit Basics - Privacy Policy
 
@@ -60,9 +60,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-We use Google AdSense Advertising on our website.
-
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+We use Google AdSense Advertising on our website. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
  **We have implemented the following:**
 
