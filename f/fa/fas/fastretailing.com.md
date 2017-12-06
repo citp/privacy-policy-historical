@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615024530id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206223310id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FAST RETAILING CO., LTD.
 
@@ -80,7 +80,7 @@ The Company conducts joint operations with FAST RETAILING group companies (Relat
 
 **◆4 The Company's personal information Customer Inquiry Desk**
 
-Regarding personal information used jointly with Related Companies, upon receipt of any request from an individual to query, amend, cease usage or delete personal information, we follow prescribed procedures to respond swiftly having first confirmed that the request originates from the individual him/herself. To find out who to contact regarding personal information, please go to our  [Customer Inquiry Desk](https://faqnavi12a.csview.jp/faq2/usermailform.do?user=frgroup&faq=Fastretailing "別ウィンドウが開きます") on the Company website. 
+Regarding personal information used jointly with Related Companies, upon receipt of any request from an individual to query, amend, cease usage or delete personal information, we follow prescribed procedures to respond swiftly having first confirmed that the request originates from the individual him/herself. To find out who to contact regarding personal information, please go to our  [Customer Inquiry Desk](https://faq.uniqlo.com/contactus/ "別ウィンドウが開きます") on the Company website. 
 
 The Company reserves the right to change or revise this policy without prior notice to incorporate any changes in its procedures for protecting personal information or any regulatory changes. 
 
