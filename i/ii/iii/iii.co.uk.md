@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090508id_/http%3A//www.iii.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206223939id_/http%3A//www.iii.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | interactive investor
 
@@ -73,7 +73,7 @@ You can contact us by:
 
   * By telephone: 0345 200 3637
   * By writing to us at: Interactive Investor, Standon House, 21 Mansell Street, London E1 8AA
-  * By email: [help@iii.co.uk](mailto:help@iii.co.uk)
+  * By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c8a0ada4b888a1a1a1e6aba7e6bda3)
 
 
 
