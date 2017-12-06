@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stacktips.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627010800id_/http%3A//stacktips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacktips.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206194315id_/http%3A//stacktips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – StackTips
 
