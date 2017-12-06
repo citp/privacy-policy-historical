@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noblemaster.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020213255id_/http%3A//www.noblemaster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noblemaster.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206040851id_/http%3A//www.noblemaster.com/privacy.html) for the most accurate reproduction.*
 
 # Noble Master Games - Privacy Policy
 
@@ -22,4 +22,4 @@ Also note that our servers do not store credit card or banking information. Paym
 
 ### Still have questions?
 
-We realize everyone has a different view on privacy. We take your privacy very seriously. If you still have concerns, or are unclear about any aspect of our privacy policy, please [contact us](https://web.archive.org/web/20161020213255id_/http%3A//www.noblemaster.com/contact.html), and we will be happy to discuss the matter with you. 
+We realize everyone has a different view on privacy. We take your privacy very seriously. If you still have concerns, or are unclear about any aspect of our privacy policy, please [contact us](https://web.archive.org/web/20171206040851id_/http%3A//www.noblemaster.com/contact.html), and we will be happy to discuss the matter with you. 
