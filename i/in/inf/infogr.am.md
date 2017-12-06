@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the infogr.am privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607054246id_/https%3A//infogr.am/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infogr.am privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206080115id_/https%3A//infogram.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Infogr.am
+# Privacy Policy - Infogram
 
 ## Effective as of January 15, 2015 
 
 ### 1\. INTRODUCTION
 
-Infogram (“us,” “we,” or “Company”) is committed to respecting the privacy rights of visitors at http://www.infogr.am/ (“the Site”) and users of Infogram’s products and features (“Services”). We created this Privacy Policy (“Privacy Policy”) to demonstrate our commitment to fair information practices and the protection of privacy. Infogram’s Services include software that enables its users to create dynamic and compelling charts and infographs. The personal information that Infogram processes, collects, and stores is for the purpose of enabling your use of the Services.
+Infogram (“us,” “we,” or “Company”) is committed to respecting the privacy rights of visitors at [infogram.com](https://infogram.com/ "Infogram") or [infogr.am](https://infogr.am/ "Infogram") (the "Site") and users of Infogram’s products and features (“Services”). We created this Privacy Policy (“Privacy Policy”) to demonstrate our commitment to fair information practices and the protection of privacy. Infogram’s Services include software that enables its users to create dynamic and compelling charts and infographs. The personal information that Infogram processes, collects, and stores is for the purpose of enabling your use of the Services.
 
 This Privacy Policy is only applicable to the Site and the Services available thereon, and not applicable to any other websites that you may be able to access from the Site via links, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. By using Company’s Services you consent to Company’s use of the information you provide in connection with creating a free or non-free Infogram account, as set forth in this Privacy Policy. Please be aware that we are not responsible for the privacy practices of any third parties.
 
