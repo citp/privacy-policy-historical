@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130733id_/http%3A//www.destinationlighting.com/faq.html%23general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206023338id_/http%3A//www.destinationlighting.com/faq.html%23general) for the most accurate reproduction.*
 
 # Frequently Asked Questions | Destination Lighting
 
@@ -10,7 +10,7 @@ When you make a purchase, your e-mail address is used to send automated confirma
 
 Will my e-mail address be used for purposes other than purchasing, shipping and tracking information?
 
-While we do not disclose or sell personal information such as your name, mailing address, e-mail address or telephone number to third party companies, we retain the right to use your information for our own marketing purposes. All registered users will receive the My Design Advisor newsletter and may receive other promotional offers from Destination Lighting. Users can choose to opt-in (subscribe) or opt-out (unsubscribe) at any time. Please read our Privacy Policy for more details.
+While we do not disclose or sell personal information such as your name, mailing address, e-mail address or telephone number to third party companies, we retain the right to use your information for our own marketing purposes. All registered users will receive the our newsletter and may receive other promotional offers from Destination Lighting. Users can choose to opt-in (subscribe) or opt-out (unsubscribe) at any time. Please read our Privacy Policy for more details.
 
 Is the information I give you secure?
 
@@ -56,7 +56,7 @@ We collect the following general data that is not personally identifiable inform
 
 #### E-mail Communication
 
-Destination Lighting offers registered users the option to receive regular communication about our products and services via email. By default, all registered users will automatically receive the complimentary My Design Advisor newsletter. You can opt-out of this email subscription at any time by deselecting the check box on the My Account page, then saving your user settings. You can also discontinue your subscription by clicking the "Unsubscribe" link found in the body of your emailed newsletter message. If you would like to subscribe to our newsletter, simply leave the check box selected during registration or return to the My Account page. You may also opt-in by supplying your first and last name and email address on our list management site.
+Destination Lighting offers registered users the option to receive regular communication about our products and services via email. By default, all registered users will automatically receive our newsletter and promotional codes. You can opt-out of this email subscription at any time by deselecting the check box on the My Account page, then saving your user settings. You can also discontinue your subscription by clicking the "Unsubscribe" link found in the body of your emailed newsletter message. If you would like to subscribe to our newsletter, simply leave the check box selected during registration or return to the My Account page. You may also opt-in by supplying your first and last name and email address on our list management site.
 
 There are certain e-mails that Destination Lighting may continue to send per your request or that are necessary for you to receive the full benefit of our services. For example, we use e-mail to deliver information that registered users request, as well as provide details about customer account(s), delivery information, and operational information regarding existing products, services and systems.
 
