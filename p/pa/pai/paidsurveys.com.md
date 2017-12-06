@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paidsurveys.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629131132id_/http%3A//paidsurveys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveys.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206141756id_/http%3A//paidsurveys.com/privacy.html) for the most accurate reproduction.*
 
-# PaidSurveys
+# Online Surveys at Home | Paid Surveys
 
 Revised January, 2013
 
@@ -8,7 +8,7 @@ PaidSurveys.com takes your privacy seriously, and has created this Privacy Polic
 
 #### IP Addresses
 
-We may use your IP address to help diagnose problems with our site or web server, and for the general administration of our website. Your IP address, should you decide to register and/or create a PaidSurveys account, is also used to help prevent you from creating duplicate accounts. 
+We may use your IP address to help diagnose problems with our site or web server, and for the general administration of our website. Your IP address, should you decide to register and/or create a Online Surveys at Home | Paid Surveys account, is also used to help prevent you from creating duplicate accounts. 
 
 #### Cookies
 
@@ -20,21 +20,21 @@ Secondly, we use cookies as part of our authenticaton system when you login to y
 
 #### Information Gathering
 
-This Privacy Policy applies to end-users that access the Site, and/or register for the products and/or services offered by and through the Site. The types of personally identifiable information that we collect at the Site, during registration and when you participate in surveys or contest may include, without limitation, any of the following: your full name, street address, e-mail address, password, date of birth, ethnicity, and gender. In addition, we may request information about your use of, or interest in, the types of products and services offered by the third party sellers with whom we have partnered to offer you the products and services available at the Site. Email communication may come from PaidSurveys.com and/or PaidSurveys-mail.com. 
+This Privacy Policy applies to end-users that access the Site, and/or register for the products and/or services offered by and through the Site. The types of personally identifiable information that we collect at the Site, during registration and when you participate in surveys or contest may include, without limitation, any of the following: your full name, street address, e-mail address, password, date of birth, ethnicity, and gender. In addition, we may request information about your use of, or interest in, the types of products and services offered by the third party sellers with whom we have partnered to offer you the products and services available at the Site. Email communication may come from PaidSurveys.com and/or Online Surveys at Home | Paid Surveys-mail.com. 
 
 Users may opt-out of receiving future mailings; see the opt-out/modify section below. 
 
 #### Information Dissemination and Use
 
-All information PaidSurveys collects, as described above, is used to tailor our content and help our advertisers and partners understand the demographic breakdown of PaidSurveys’s members. These practices are essential to keep PaidSurveys’s membership free. All personally identifiable information submitted to PaidSurveys remains your property, however, all information you submit to PaidSurveys grants PaidSurveys the right to use that information as set forth herein. Without limitation, PaidSurveys may user your personal information, within and subject to state and federal law, for legal purposes to: 
+All information Online Surveys at Home | Paid Surveys collects, as described above, is used to tailor our content and help our advertisers and partners understand the demographic breakdown of Online Surveys at Home | Paid Surveys’s members. These practices are essential to keep Online Surveys at Home | Paid Surveys’s membership free. All personally identifiable information submitted to Online Surveys at Home | Paid Surveys remains your property, however, all information you submit to Online Surveys at Home | Paid Surveys grants Online Surveys at Home | Paid Surveys the right to use that information as set forth herein. Without limitation, Online Surveys at Home | Paid Surveys may user your personal information, within and subject to state and federal law, for legal purposes to: 
 
   1. bring selected market research, retail, and other opportunities and promotional offers to you via direct mail marketing, e-mail marketing, telemarketing and/or online banner advertising;
-  2. when responding to offers and opportunities provided by PaidSurveys or when necessary and;
+  2. when responding to offers and opportunities provided by Online Surveys at Home | Paid Surveys or when necessary and;
   3. for validation, suppression, content improvement and feedback purposes.
 
 
 
-PaidSurveys uses the information you provide to provide you free information and personalized content about products and services that may be of interest to you. Additionally, we use contact information collected from our Site to send you information about the company, to keep you informed of products and services that may be of interest to you, and to notify you of changes to this policy or changes/improvements to the site itself. In addition, you agree that we may contact you with updates and/or any other information that we may deem appropriate for you to receive in connection with your account and/or the Site. We also use this information to personalize your experience with PaidSurveys. Contact information is also used to reach you, when necessary, regarding the use of our Site, products and/or services. None of the personal information collected will be sold or distributed to third party companies except on an aggregate basis to help our advertisers and partners understand the demographic breakdown of PaidSurveys’s members or if required by law. 
+Online Surveys at Home | Paid Surveys uses the information you provide to provide you free information and personalized content about products and services that may be of interest to you. Additionally, we use contact information collected from our Site to send you information about the company, to keep you informed of products and services that may be of interest to you, and to notify you of changes to this policy or changes/improvements to the site itself. In addition, you agree that we may contact you with updates and/or any other information that we may deem appropriate for you to receive in connection with your account and/or the Site. We also use this information to personalize your experience with Online Surveys at Home | Paid Surveys. Contact information is also used to reach you, when necessary, regarding the use of our Site, products and/or services. None of the personal information collected will be sold or distributed to third party companies except on an aggregate basis to help our advertisers and partners understand the demographic breakdown of Online Surveys at Home | Paid Surveys’s members or if required by law. 
 
 #### Links to Other Sites
 
@@ -58,7 +58,7 @@ PaidSurveys.com provides every user with the opportunity to opt-out of receiving
 
 
 
-If you're a PaidSurveys member and you simply wish to cancel your account, you are encouraged to click on the unsubscribe link in your email. Upon entering your email, if created,your account - and all information we have on file for you - will be instantly and permanently deleted from PaidSurveys. 
+If you're a Online Surveys at Home | Paid Surveys member and you simply wish to cancel your account, you are encouraged to click on the unsubscribe link in your email. Upon entering your email, if created,your account - and all information we have on file for you - will be instantly and permanently deleted from Online Surveys at Home | Paid Surveys. 
 
 #### Contacting PaidSurveys.com
 
