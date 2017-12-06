@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media24by7.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627155340id_/http%3A//media24by7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media24by7.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206083403id_/http%3A//media24by7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MEDIA24BY7
 
@@ -66,4 +66,4 @@ Meida24by7 will not distribute, sell or lease the user’s personal information 
 
 Users may also request details of personal information which Media24by7 holds. A small amount of fee may be payable for this information. Contact us if users would like to obtain a copy of the information held on them.
 
-If the users believe that any of the information we hold on them is incomplete or not true, please send an email or write Media24by7 as soon as possible, Media24by7 team will verify and correct any information found to be incorrect. Further contact details are available on [CONTACT US](http://www.media24by7.com/contact-us/) page.
+If the users believe that any of the information we hold on them is incomplete or not true, please send an email or write Media24by7 as soon as possible, Media24by7 team will verify and correct any information found to be incorrect. Further contact details are available on **[CONTACT US](http://www.media24by7.com/contact-us/)** page.
