@@ -1,114 +1,97 @@
-> *The following text is extracted and transformed from the afghanstar.tv privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503130204id_/http%3A//www.afghanstar.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afghanstar.tv privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206071146id_/http%3A//www.afghanstar.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Afghan Star
 
-Afghan Star and this website (the "Site") is owned and operated by MOBY GROUP, Afghanistan  
-We are committed to protecting your privacy on-line. We use the information we collect about you to provide services to you when you visit the Site. We appreciate that you do not want any personal information you provide to us distributed indiscriminately and here, we explain how we collect information, what we do with it and what controls you have.  
-It is your responsibility to read and understand this Privacy Policy. If you do not understand or accept this Privacy Policy then you should call our Information Protection Officer whose contact details are set out below. If you do not agree to all of this Privacy Policy and do not wish to be bound by it, you are not authorized to access or otherwise use the Site.
+**ONLINE DATA PROTECTION POLICY**
 
-1\. What Information we Collect 
+Effective Date: June 2017
 
-So that we can provide a personalized service, we may, upon registration or at other times on our Sites, ask you to submit personal information to us. You may also be required to provide personal information to order products or participate in one of our online forums or communities. The types of information that may be collected at these pages include: your name, e-mail address, postal address, telephone/mobile number, your gender and date of birth. Different web pages on the Site may ask for different personal information. We may ask you for other information, including, but not limited to, your interests, opinions and the way you use our service to assist us in our initiatives outlined above and to improve our understanding of customer trends and patterns.  
-You are under no obligation to provide such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.  
-Please note that sometimes on particular web pages on the Site we will require you to provide additional personal information. When we do this we will specify further on these web pages why we are collecting your information and how we will use it.
+Moby Group and/or its affiliates and entities (collectively “Moby”, “we” or “us”) collects information about you when you use or access our websites and other web-based products, information or services (collectively, the “Online Services”) and through other interactions and communications you have with us. This privacy policy sets out the basis on which any information, including any personal data, we collect from you, or you provide to us, will be processed by Moby. Each time you access or use the Online Services or provide us with information, by doing so you are accepting and consenting to the practices described in this privacy policy.
 
-2\. How we Store Your Information
+This privacy policy (this “Privacy Policy") applies to persons anywhere in the world who access or use our Online Services (“Users”).
 
-Information you submit via the Site is sent to a computer located in the USA. Information submitted by you may be transferred to, stored and processed by, our affiliates as well as our service providers and to other reputable third party organizations, which may be situated outside the USA. 
+_Information You Provide to Us_
 
- In addition if you use our services while you are outside the USA, your information may be transferred outside the USA in order to provide you with those services.  
-By submitting information, you agree to the collection, transfer, storage or processing of information about you for the purposes described in this Privacy Policy. We will take all reasonable steps to ensure that information about you is treated securely in accordance with this policy and that all information you provide to us is stored on secure servers.
+We collect information you provide directly to us through your access or use the Online Services or otherwise communicate with us. This information may include: your name, email address, phone number, postal address, profile picture, payment method, financial and credit card information, and other information you choose to provide.
 
-3\. How Your Information Is Used
+Please note that we do not knowingly collect, keep or maintain personal information from children under the age of 18 through the Online Services, as we require that all users represent to us that they are at least 18 years old.
 
-We will use the information you provide to us to:
+_Information We Collect Through Your Use of the Moby websites_
 
-  * monitor, develop and improve the Site, services and your experience;
-  * assist in and administer the provision of services to you (i.e. dispatch news and communications relating to Afghan Star or any related sites or services via email, post, fax or phone, or to notify you that a particular service has been suspended for maintenance);
-  * process and deal with any complaints or enquiries made about you;
-  * contact you about a submission you have made to the Site, including any content you provide; and understand customer trends and patterns.
+When you use any Moby Online Services, we may collect personal information (i.e. information that could be used to contact you directly such as full name, postal address, phone number, credit/debit card information, or email address; “Personal Information”) and demographic information (i.e. information that you submit, or that we collect, that is not personal information; this may include, but is not limited to, post code, hometown, gender, username, device information, including the type of mobile device you use, a unique device identifier (for example, your device's IMEI number, the MAC address of the device's wireless network interface, or the mobile phone number used by the device), mobile network information, your mobile operating system, the type of mobile browser you use, time zone setting, device location, IP address, SMS data, transaction information, age/birth date, browsing history information, searching history information, and registration history information) (“Demographic Information” and, together with Personal Information, “Personal Data”).
 
+We may use Personal Data which you provide to us or we collect from you to:
 
+· Provide, maintain, and improve our Online Services, including, for example, to facilitate payments, send receipts, provide products and services you request (and send related information), develop new features, provide customer support to Users, authenticate users, and send administrative messages;
 
-4\. When We May Contact You
+· Perform internal administration and operations, including, for example, to prevent fraud and abuse of our Online Services; to troubleshoot software bugs and operational problems; to conduct data analysis, testing, and research; and to monitor and analyze usage and activity trends;
 
- We may contact you:
+· Send you communications we think will be of interest to you, including information about products, services, promotions, news, and events of Moby and other companies, where permissible and according to local applicable laws; and to process contest, sweepstake, or other promotion entries and fulfill any related awards;
 
-  * in relation to the functioning of any service you have signed up for in order to ensure that we can deliver the services to you;
-  * where you have opted to receive further correspondence;
-  * in relation to any contribution you have made to the Site, e.g. in relation to any blogs, message boards or forums made available to you on the Site;
-  * to invite you to participate in surveys about our services (participation is always voluntary); and for marketing purposes where you have specifically agreed to this (see paragraph 5 below).
+· Notify you about changes to our Online Services;
 
+· Allow you to participate in any interactive features of our Online Services;
 
+· Keep our Online Services safe and secure; and
 
-     Local pages will give you information about how we will contact you in relation to specific services.
+· Personalize and improve the Online Services, including to provide or recommend features, content, social connections, referrals, and advertisements.
 
-5\. Will I Be Contacted For Marketing Purposes?
+You agree that we have the right to transfer the Personal Data described in this privacy policy to and from, and process and store it in, the United Arab Emirates and other countries, some of which may have less protective data protection laws than the region in which you reside. Where this is the case, we will take appropriate measures to protect your Personal Data in accordance with this privacy policy. By submitting your Personal Data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure your data is treated securely and in accordance with this privacy policy.
 
-Where and only where requested by you we will:
+To preserve the integrity of our databases, to carry out on-going Online Services on your behalf, for research, analytics and statistics purposes and to ensure compliance with applicable laws and regulations, we retain Personal Information and Demographic Information submitted by Users for a reasonable length of time. Moby is not responsible for the accuracy of the information you provide, and will modify or update your Personal Information in our databases upon your request. If required by law or at your request, we will erase or archive from active use your Personal Information. By accessing or using the Online Services, you do hereby represent and warrant that you understand that all information submitted by you through the Online Services or otherwise to Moby may be used by Moby in accordance with applicable laws and this privacy policy.
 
-  * send you and keep you updated with information by email, telephone (including SMS) or mail about existing and new services, products and special offers from us; and/or
-  * send you information by email, telephone or mail about related products or services of selected third parties that may be of interest to you. However, you always have the opportunity to remove your consent to such use by contacting us with your request;
+We may share Personal Data which we collect about you as described in this privacy policy or as described at the time of collection or sharing, including as follows:
 
+_Through Our Online Services_
 
+We may share your Personal Data:
 
-We will not send you unsolicited premium rate SMS messages (which are SMS messages you pay to receive), although your service provider may impose a charge on messages that you receive. Please check with your service provider for details.  
-You can tell us not to contact you or share the information with a third party either at initial registration or later through updates or amendments to your personal information. We may occasionally contact you about products and services we feel may be of interest to you. This will only come from us (or our agents) and only if you have indicated that you do not object to these offers.
+· With third parties to provide you a service you requested through a partnership or promotional offering made by a third party or us;
 
-6\. Will We Share Your Personal Information With Anyone Else?
+· With third parties with whom you choose to let us share your Personal Data, for example other apps or websites that integrate with our API or Online Services, or those with an API or Service with which we integrate; and
 
-We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7. Generally, we will only use your information within MOBY GROUP Network Limited or its group of companies. However, sometimes we will use third parties to process your information. We will require these third parties to comply strictly with its instructions and will require that they do not use your personal information for their own business purposes.
+_Other Important Sharing_
 
-7\. Offensive or Inappropriate Content ona Site
+We may share your Personal Data:
 
-If you post or send offensive, inappropriate or objectionable content anywhere on or to the Site, or otherwise engage in any disruptive behavior on the Site, we may use your personal information to stop such behavior. Where we reasonably believe that you are or may be in breach of any of applicable laws (for example, but without limitation, content you have posted may be defamatory), we may use your personal information to inform relevant third parties such as your employer, school email/Internet provider or law enforcement agencies about the content and your behavior.
+· With Moby subsidiaries and affiliated entities;
 
-8\. What If I Am A User Aged 16 or Under?
+· With vendors, consultants, marketing and advertising partners, and other service providers who need access to such Personal Data to carry out work on our behalf or to perform any contract we enter into with them;
 
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the Site. Users without this consent are not allowed to provide us with personal information. If we become aware that you are under 16 and are attempting to or have submitted personal information via the Site without your parent/guardian's permission, we will not accept such information and we will take steps to remove such information from our records. This may involve us having to access and verify your age and other relevant details.
+· In response to a request for information by a competent authority if we believe disclosure is in accordance with, or is otherwise required by, any applicable law, regulation, or legal process;
 
-9\. Keeping Our Records Accurate
+· With law enforcement officials, government authorities, or other third parties as required by law;
 
-We aim to keep our information about you as accurate as possible, but we depend on our users to update their personal information whenever necessary.
+· With third parties in connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or into another company;
 
-10\. Limitation of Liability
+· If we otherwise notify you and you consent to the sharing;
 
-The Site may contain links to other websites where information practices may be different to ours. For example, if you "click" on a link, the "click" may take you off the Site. You should consult the other websites' privacy notices as we are not responsible for and have no control over information that is submitted to, or collected by, these third parties.  
-We may sometimes offer content (e.g., competitions or promotions) sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that you voluntarily submit to participate in the website activity. We are not responsible for and have no control over these third parties' use of this information. However, we will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.  
-We may use a reputable third party to present or serve the advertisements that you may see at the Site. This Privacy Policy does not cover any use of information that a third-party ad server may have collected from you.
+· With third parties in an aggregated and/or anonymized form which cannot reasonably be used to identify you
 
-11\. Legal Disclaimer
+_Marketing and Opting Out_
 
-We are not responsible nor will be liable to you in any way for events beyond our direct control. Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that our performance will be error free, and to the maximum extent permitted by law we will not be liable for any direct, indirect, incidental, consequential or punitive damages or other loss suffered by you and relating to the use or release of your personal information.
+Moby provides Users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. You have the option to ask us not to process your Personal Data for marketing purposes and to remove it from our database, to not receive future communications or to no longer receive our Online Services.
 
-12\. How Long Will We Keep Your Personal Information?
+_Access to Information_
 
-We will hold your personal information on our systems for as long as is necessary for the relevant service. In the case that you wish to cancel your registration as a member of the Site, once an account is deleted, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.  
-Where you contribute to the Site, we will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted.
+You have the right to access information held about you. Your right of access can be exercised in accordance with the Acts. Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you.
 
-13\. Can I Find Out What Personal Information We Hold About You?
+_Changes to this Privacy Policy_
 
-Under the Data Protection Act 1998 you have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. We charge $10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification. We will use reasonable efforts to supply, correct or delete personal information about you on our files.  
-Please address requests and questions about this or any other question about this Privacy Policy to The Information Protection Officer, Email: [info@mobygroup.com](mailto:info@mobygroup.com).
+We may change this privacy policy from time to time. If we make significant changes in the way we treat your Personal Data, or to the privacy policy, we will provide you notice through the Online Services or by some other means, such as email. Your continued use of the Online Services after such notice constitutes your consent to the changes. We encourage you to periodically review this privacy policy for the latest information on our privacy practice.
 
-14\. Updates
+Moby makes every effort to ensure that your Personal Data is secure on its system. Moby has staff dedicated to maintaining our privacy policy as set forth herein and other privacy initiatives, periodically reviewing Web security and making sure that every Moby employee is aware of our security practices. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, Moby cannot guarantee the security of any Personal Data you transmit to us, and you do so at your own risk. If You have any further questions on this issue, refer to our customer terms of use. To the extent permitted by applicable law, Moby expressly disclaims any liability that may arise should any other individuals obtain the Personal Data you submit.
 
-We reserve the right, from time to time, and at our sole discretion, to change or update this Privacy Policy.  
-All changes to this Privacy Policy will be published on this page and on the Site. Upon publication, each change will become effective and you will be deemed to be aware of and bound by it. You should therefore review this Privacy Policy regularly to ensure that you are up-to-date with the current terms of the Privacy Policy.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our website and the Online Services we provide. By accessing and browsing our website, you are agreeing to our use of cookies.
 
-15\. Cookies
+If you have any questions, comments and requests related to this Privacy Statement, or if you have any complaints related to how Moby processes your personal data, please contact us at:
 
-Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. However, you may not be able totake full advantage of a website if you do so. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web. Although they do identify a user's computer, cookies do not personally identify users and passwords and credit card information are not stored in cookies.  
-We may use cookies to:
+Legal Department Or at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aec2cbc9cfc2eec3c1ccd783c6df80cdc1c3)
 
-  * identify who you are and to access your account information;
-  * estimate our audience size and patterns;
-  * control how often visitors see similar ads; and
-  * track preferences and to improve and update our Site.
+Moby Media FZ-LLC
 
+PO Box 478802
 
+Office 408, 4th Floor, Bldg. 3
 
-16\. Security
-
-Due to the nature of the Internet, we can't guarantee the protection of your personal information and we can't be responsible for any outcomes resulting from a breach of security when the Site is used. We're confident in our security, and it is always a top priority to ensure we do not get any problems.  
-This Privacy Policy was last updated on 2 March 2010.
+Studio City, Dubai, UAE
