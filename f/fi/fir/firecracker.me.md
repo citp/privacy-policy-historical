@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firecracker.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094955id_/http%3A//firecracker.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecracker.me privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206053402id_/http%3A//firecracker.me/privacy) for the most accurate reproduction.*
 
 # Firecracker - Privacy Policy
 
@@ -140,7 +140,7 @@ Our Website is not directed to people under 13 years of age. If you become aware
 
 _Terms of Service_
 
-Please also visit our [Terms of Service](https://app.firecracker.me/terms) which establish the use, disclaimers, and limitations of liability governing the use of our Services. 
+Please also visit our [Terms of Service](http://www.firecracker.me/terms) which establish the use, disclaimers, and limitations of liability governing the use of our Services. 
 
 _Changes to this Privacy Policy_
 
