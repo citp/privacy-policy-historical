@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123142802id_/http%3A//mygrande.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206210832id_/http%3A//mygrande.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement and Policy - Grande Communications
 
-Grande Communications Networks, LLC, ("Grande Communications"), created this privacy statement outlining your privacy rights in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the websites operated by Grande Communications which can be found at [mygrande.com](http://mygrande.com/austin/), [mygrande.net](http://mygrande.net/)and [grandecom.net](http://grandecom.net/) (collectively, the 'Site').
+Grande Communications Networks, LLC, ("Grande Communications"), created this privacy statement outlining your privacy rights in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the websites operated by Grande Communications which can be found at [mygrande.com](http://mygrande.com/austin/), [mygrande.net](http://mygrande.net/) and [grandecom.net](http://grandecom.net/) (collectively, the 'Site').
 
 Grande Communications is the sole owner of the information collected on the Site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Grande Communications collects information from our users at several different points on our Site as further described in this statement.
 
