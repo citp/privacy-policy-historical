@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acme.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527095229id_/http%3A//www.acme.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acme.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206035525id_/http%3A//www.acme.com/privacy.html) for the most accurate reproduction.*
 
 # ACME Labs Privacy Policy
 
