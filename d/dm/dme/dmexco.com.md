@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dmexco.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110836id_/http%3A//www.koelnmesse.com/Koelnmesse/security-and-data-protection-2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmexco.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206131347id_/http%3A//www.koelnmesse.com/Koelnmesse/security-and-data-protection-2.php) for the most accurate reproduction.*
 
 # Security and data protection | Koelnmesse
 
-Wherever this website enables the user to enter personal or business details (email addresses, names, postal addresses), the user reveals such information on an expressly voluntary basis. All of the services provided may also be used and paid for without entering such data or by entering anonymous data or a pseudonym, provided this is technically possible and reasonable.
+Wherever this website enables the user to enter personal or business details (e-mail addresses, names, postal addresses), the user reveals such information on an expressly voluntary basis. All of the services provided may also be used and paid for without entering such data or by entering anonymous data or a pseudonym, provided this is technically possible and reasonable.
 
 ### Data protection declaration for the use of Google Analytics and Google Tag Manager
 
-This website uses Google Analytics and Google Tag Manager, Web analysis services from Google Inc. (“Google”). Both tools employ “cookies”, which are text files that are stored on your computer and make it possible to analyze how you are using the website. The information created by the cookie concerning your use of this website is normally transferred to a Google server in the U.S. and stored there. The activation of IP anonymization on this website with the code "anonymizeIp" means that your IP address is, however, shortened by Google within the member states of the European Union or in other states that are signatories of the Agreement on the European Economic Area.
+This website uses Google Analytics and Google Tag Manager, Web analysis services from Google Inc. („Google”). Both tools employ „cookies”, which are text files that are stored on your computer and make it possible to analyze how you are using the website. The information created by the cookie concerning your use of this website is normally transferred to a Google server in the U.S. and stored there. The activation of IP anonymization on this website with the code „anonymizeIp" means that your IP address is, however, shortened by Google within the member states of the European Union or in other states that are signatories of the Agreement on the European Economic Area.
 
 Only in exceptional cases is the complete IP address transferred to a Google server in the U.S. and shortened there. Google uses this information at the request of, and on behalf of, the operator of this website to evaluate your use of the website, to create reports on the website activities, and to provide the website’s operator with additional services connected with the use of the website and the Internet. 
 
@@ -31,7 +31,7 @@ We offer you on our website the possibility to use so-called social plugins from
 
 
 
-To protect the privacy of your data, we implement this with the solution “Shariff”. By doing this, the plugins are displayed on our website merely as graphics (images) that contain a link to the website of the plugin provider. By clicking on the graphic you will be forwarded to the services of the provider. Only then will your data be sent to the providers. As long as you do not click on the plugin graphic, there will be no transmission of data between you and the so-called social networks.
+To protect the privacy of your data, we implement this with the solution „Shariff”. By doing this, the plugins are displayed on our website merely as graphics (images) that contain a link to the website of the plugin provider. By clicking on the graphic you will be forwarded to the services of the provider. Only then will your data be sent to the providers. As long as you do not click on the plugin graphic, there will be no transmission of data between you and the so-called social networks.
 
 More information about the collection and usage of your data in social networks can be found in the terms and conditions of the individual service providers. More information about the Shariff solution can be found  [ here ](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html) .
 
@@ -81,7 +81,7 @@ Whenever you visit one of our websites, our servers generally store not only the
 
 ### Cookies and website logs
 
-Some of our web pages transmit a cookie (a small text file) to your computer, which allows us to recognize your computer the next time you visit our website. If you do not want to receive any cookies, select your Internet browser’s “Help” function to find out how to either deactivate all cookies or receive a warning before a cookie can be saved. If you would like to learn more about cookies, visit:  [ www.cookiecentral.com ](http://www.cookiecentral.com/)
+Some of our web pages transmit a cookie (a small text file) to your computer, which allows us to recognize your computer the next time you visit our website. If you do not want to receive any cookies, select your Internet browser’s „Help” function to find out how to either deactivate all cookies or receive a warning before a cookie can be saved. If you would like to learn more about cookies, visit:  [ www.cookiecentral.com ](http://www.cookiecentral.com/)
 
 Whenever you visit our website to browse, read articles or download information, we collect and save data related to your visit: e.g. a clearly defined ID; the name of the host and the domain from which you have accessed the Internet, your computer’s Internet Protocol (IP) address, the date and time at which you accessed the website, and the URL of the website from which you have directly accessed our website. We use this information to monitor visits to our websites and to recognize repeat visitors. This information helps us make our websites even more useful. However, we delete this information again after a certain amount of time has elapsed.
 
