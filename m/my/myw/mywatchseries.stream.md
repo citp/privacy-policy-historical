@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywatchseries.stream privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605120635id_/http%3A//www.mywatchseries.stream/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywatchseries.stream privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206105435id_/http%3A//www.mywatchseries.stream/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
