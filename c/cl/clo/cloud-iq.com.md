@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the cloud-iq.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627001435id_/http%3A//www.cloud-iq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud-iq.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206114245id_/https%3A//www.cloud-iq.com/privacy) for the most accurate reproduction.*
 
-# Privacy - cloud.IQ
+# Privacy | Cloud IQ
 
 ###   
 Our Privacy Policy explains:
 
 cloud.IQ Limited ("We/Us/Our") is committed to protecting and respecting your privacy.
 
-This Privacy Policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read the following carefully to understand Our views and practices regarding your personal data and how We will treat it. Either by visiting [www.engage.cloud-iq.com/](https://web.archive.org/) or by using our products, you are accepting and consenting to the practices described in this Policy.
+This Privacy Policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read the following carefully to understand Our views and practices regarding your personal data and how We will treat it. Either by visiting [www.cloud-iq.com](https://www.cloud-iq.com/) or by using our products, you are accepting and consenting to the practices described in this Policy.
 
 Our nominated representative for the purpose of the Data Protection Act 1998 (the Act), is [Paul Phillips].
 
