@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-clocks.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512090313id_/http%3A//www.top-clocks.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-clocks.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206191608id_/http%3A//www.top-clocks.com/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WWW.TOP-CLOCKS.COM
 
