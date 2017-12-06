@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627050837id_/https%3A//www.fantasyleague.com/Content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206215418id_/http%3A//www.fantasyleague.com/Pro/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies - Fantasy League
+# Auction - 2017/18 - Fantasy League
 
 This document refers to privacy and personal information relating to www.fantasyleague.com and associated properties and services. At Fantasy League we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.
 
 This Privacy Policy, together with our Terms of Use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. We do update this Policy from time to time so please do review this Policy regularly. For the purpose of the Data Protection Act 1998 our data controller is Fantasy League Limited.
 
-#### Information We Collect
+####  Information We Collect
 
 In using our website and associated services, we may collect and process the following data about you:
 
@@ -17,7 +17,7 @@ In using our website and associated services, we may collect and process the fol
 
 
 
-#### Use Of Cookies
+####  Use Of Cookies
 
 A cookie is a piece of data stored on your hard drive that allows us to recognise your computer from one visit and from one page access to the next. This helps us to customise the Site to reflect your individual preferences and to compile anonymous, aggregated statistics that allow us to understand how you and other users use the site so that we can improve the Site. We may share such aggregated information with our advertisers, but it will not identify you as an individual. If you configure your browser to reject cookies, you may still use some, but not all, portions of the Site. For example, the login process and all member functionality requires that your browser is set to accept cookies.
 
@@ -43,7 +43,7 @@ Please note that should you choose to decline cookies, you may be unable to acce
 
 You can also visit the trade body representing the advertising companies for more information on how to opt out of all such cookies: http://www.youronlinechoices.com
 
-#### Use of Your Information
+####  Use of Your Information
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
@@ -59,13 +59,13 @@ If you do not want us to use your data you will have the opportunity to withhold
 
 Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors. 
 
-#### Storing Your Personal Data
+####  Storing Your Personal Data
 
 By submitting your personal data, you agree to Fantasy League transferring, storing or processing this data. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy. Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will securely stored; we do not store payment card details.
 
 The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
-#### Disclosing Your Information
+####  Disclosing Your Information
 
 Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).
 
@@ -76,19 +76,19 @@ We may only disclose your personal information to third parties:
 
 
 
-#### Third Party Links
+####  Third Party Links
 
 You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
-#### Access To Information
+####  Access To Information
 
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £5, which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
-#### Facebook Apps for Third Party Games
+####  Facebook Apps for Third Party Games
 
 Games hosted and managed by Fantasy League may enable you to post/share content to Facebook or invite others to play the game. Please note, the Facebook app created to facilitate such functionality may use, display, share or transfer the following data when performing the required action: your name, profile picture, gender, network, user ID, list of friends and any other information you have made publically available.
 
-#### Contacting Us
+####  Contacting Us
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us by writing to or emailing us at:
 
