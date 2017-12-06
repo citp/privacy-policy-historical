@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the learningjquery.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619000304id_/http%3A//www.learningjquery.com/1899-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningjquery.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206140312id_/http%3A//www.learningjquery.com/1899-2) for the most accurate reproduction.*
 
 # Learning jQuery Privacy Policy | Learning jQuery
 
 ### Your privacy is critically important to us.
 
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * We donâ€™t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We donâ€™t store personal information on our servers unless required for the on-going operation of one of our services.
 
 
 
@@ -13,15 +13,15 @@
 
 Like most website operators, Learning jQuery collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor request. Learning jQuery’s purpose in collecting non-personally identifying information is to better understand how Learning jQuery’s visitors use its website.
 
-Learning jQuery also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users.
+Learning jQueryÂ also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users.
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Learning jQuery uses cookies to help Learning jQuery identify and track visitors, their usage of Learning jQuery website, and their website access preferences. Learning jQuery visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Learning jQuery’s websites, with the drawback that certain features of Learning jQuery’s websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitorâ€™s computer, and that the visitorâ€™s browser provides to the website each time the visitor returns. Learning jQueryÂ uses cookies to help Learning jQueryÂ identify and track visitors, their usage of Learning jQueryÂ website, and their website access preferences. Learning jQueryÂ visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Learning jQuery’s websites, with the drawback that certain features of Learning jQuery’s websites may not function properly without the aid of cookies.
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Learning jQuery may change its Privacy Policy from time to time, and in Learning jQuery’s sole discretion. Learning jQuery encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, Learning jQueryÂ may change its Privacy Policy from time to time, and in Learning jQueryâ€™s sole discretion. Learning jQueryÂ encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 ### Third Party Advertising
 
