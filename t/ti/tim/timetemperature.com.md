@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519012424id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206163033id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Our website has text and graphical links to other web sites, companies and gover
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. We have no control over the information collected by such ad servers or how that information is used
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DoubleClick DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the Double Click DART cookie by visiting [ad settings](http://www.google.com/ads/preferences/) and also view the[ Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DoubleClick DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the Double Click DART cookie by visiting [ad settings](https://www.google.com/ads/preferences/) and also view the[ Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
 
 Tribal Fusion, as a third party vendor, uses cookies to serve ads on our site. Users may opt out of the use of the Tribal Fusion cookie by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) cookie opt-out page. Tribal Fusion is a member of the Network Advertising Initiative (the "NAI") and is committed to maintaining compliance with the NAI's Self-Regulatory Principles.
 
@@ -46,4 +46,4 @@ _www.timetemperature.com, Inc. reserves the right to change, alter or modify the
 
 Visit this page to check for the most up to date privacy policy.
 
-Copyright © 2000-2017 www.TimeTemperature.com, Inc. All Rights Reserved
+Copyright 2000-2017 www.TimeTemperature.com, Inc. All Rights Reserved
