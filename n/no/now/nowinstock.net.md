@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145406id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206024339id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
@@ -97,4 +97,4 @@ We continually add new products, let us know if you have any you would like to s
 
 #### Testimonials
 
-"I just want to say THANK YOU! I just received the alert that Lego Minecraft was back in stock and was able to place my order. You deliver a wonderful service and I really appreciate what you do." -Sheryl
+"Bravo! Two for two using your service. First my Nikon 7000 a while back when they were in short supply and now a Chromecast." -Dave
