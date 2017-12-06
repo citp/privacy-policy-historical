@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the viralxfiles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163742id_/http%3A//www.viralxfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralxfiles.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206163041id_/http%3A//www.viralxfiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viral X Files
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:info@viralxfiles.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](http://www.viralxfiles.com/contact-us/).
 
 At http://www.viralxfiles.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.viralxfiles.com/ and how we use it.
 
