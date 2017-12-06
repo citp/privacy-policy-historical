@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmclue.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154726id_/http%3A//mlmclue.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmclue.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206133927id_/http%3A//mlmclue.com/Privacy.aspx) for the most accurate reproduction.*
 
 # mlm,India mlm news,mlm classifieds,India mlm companies,networker views,mlm articles,mlm directory,mlm software,Network marketing in Andhrapradesh,India
 
@@ -21,7 +21,12 @@ We protect against the loss, misuse and alteration of personal information with 
 Corrections/Contact  
 Users of this Site may contact [mlmclue.com](http://www.mlmclue.com/) to modify or correct any of their personal information that is under our control. An individual may also direct a written complaint regarding compliance with this Privacy Statement to us and, within a reasonable time upon receiving the written complaint, we will conduct an investigation into the matter, and we will take necessary measure/s to rectify the source of the complaint, as appropriate.  
    
-|   
+| 
+
+[ ](http://contactus.aspx/)  
+  
 ---  
-[ ](http://softwaresmlm.com/)  
- 
+  
+[ ](https://regalcoin.co/ref/RISHALLEVION)  
+  
+[](http://pnplindia.net/)
