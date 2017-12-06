@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowebguide.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527133950id_/http%3A//gowebguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowebguide.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206065131id_/http%3A//gowebguide.com/privacy.html) for the most accurate reproduction.*
 
 # Go WebGuide | Human-Edited deep link directory - Privacy Policy
 
