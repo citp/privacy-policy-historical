@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the state.ar.us privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606201307id_/http%3A//www.arkansas.gov/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the state.ar.us privacy policy that was archived on 2017-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171206130942id_/http%3A//www.arkansas.gov/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<title>Arkansas.gov</title>
@@ -44,20 +44,35 @@
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 
 		<link href="//static.ark.org/2014portal_eethemes/site_themes/portal/assets/css/jquery.multiselect.css" rel="stylesheet">
-		<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/8114.js?439487" async="" type="text/javascript"></script><script async="" src="//widgets.getsitecontrol.com/69765/script.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=151161011795"></script><script type="text/javascript" async="" src="//cdn.feedbackify.com/f.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script type="text/javascript" async="" src="https://widget.intercom.io/widget/t3z5ksiv"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/8114.js?439487" async="" type="text/javascript"></script><script async="" src="//widgets.getsitecontrol.com/69765/script.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=151161011795"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		
 		
-		<script type="text/javascript">
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-9349161-1']);
-  _gaq.push(['_trackPageview']);
+  ga('create', 'UA-9349161-1', 'auto');
+  ga('send', 'pageview');
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+$(function() {
+  //add class to all external links
+  $('a').filter(function() {
+    return this.hostname && this.hostname !== location.hostname;
+  }).addClass("tracked");
+    //only create event tracking if ga has loaded and link has the right class
+    ga(function(){
+        $("a.tracked").click(function(e) {
+            var url = $(this).attr("href");
+            ga("send", "event", "outbound", "click", url, {"hitCallback":
+                function () {
+                    document.location = url;
+                }
+            });
+            e.preventDefault();
+        });
+    });
+});  
 
 </script>
 
@@ -72,6 +87,7 @@ var _prum = [['id', '52a88b71abe53d9932000000'],
     s.parentNode.insertBefore(p, s);
 })();
 </script>
+
 		<link href="//static.ark.org/2014portal_eethemes/site_themes/portal/assets/css/back.css" rel="stylesheet">
 	</head>
 
@@ -456,18 +472,7 @@ a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 
-<!-- Feedbackify -->
-<script type="text/javascript">
-var fby = fby || [];
-fby.push(['showTab', {id: '5072', position: 'left', color: '#000000'}]);
-(function () {
-    var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
-    f.src = '//cdn.feedbackify.com/f.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
-    
-})();
 
-</script>
 
 
 <!-- Libraries -->
@@ -615,5 +620,14 @@ fby.push(['showTab', {id: '5072', position: 'left', color: '#000000'}]);
     t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
   })(window, document, '_gscq','script','//widgets.getsitecontrol.com/69765/script.js');
 </script>
+
+<script>
+  window.intercomSettings = {
+    app_id: "t3z5ksiv",
+    hide_default_launcher: true,
+    custom_launcher_selector: '#launch_bot'
+  };
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/t3z5ksiv';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
 
 </div></body></html>
