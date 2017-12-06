@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auditionsea.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430000129id_/http%3A//www.auditionsea.com/index.phpsupport/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auditionsea.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206132402id_/http%3A//www.auditionsea.com/support/privacy-policy) for the most accurate reproduction.*
 
 # AuditionSEA - Best Online Dancing Game in Singapore/Malaysia from Korea!
 
