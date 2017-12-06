@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kean.edu privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629091253id_/http%3A//www.kean.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kean.edu privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206141302id_/http%3A//www.kean.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kean University World Class Education
 
