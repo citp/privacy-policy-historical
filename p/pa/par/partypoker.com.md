@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partypoker.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227222708id_/https%3A//www.partypoker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partypoker.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206225547id_/https%3A//www.partypoker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | partypoker
 
@@ -93,7 +93,7 @@ Session cookies: this type of cookie is only assigned to Your computer for the d
 
 Detailed below are the third parties that can configure and access cookies on Your device, as well as the purposes for which the information they store is used:
 
-**Analysis cookies** (used by Adobe Omniture): These cookies are chosen to study the internal movement around pages and to provide analytical information about visitors, including mouse clicks and mouse movements. Adobe Omniture provides Us with statistical information. Adobe guarantees the anonymity of the data about visits to Our Websites on Our behalf. This information is used to study volumes of usage on Our web pages and to improve these pages. The cookies used to collect these data are both first- and third-party cookies, and include data on traffic and visitors. These cookies do not include or collect any personal data. They allow Us to assess the number of users and, thus, measure and carry out statistical analysis on the use that users make of the service. For this purpose, Your browsing activity across Our website is analysed to enable us to improve the range of services We offer to You. You can find more information at: <http://www.adobe.com/en/privacy/cookies.html>
+**Analysis cookies** (used by Adobe Omniture): These cookies are chosen to study the internal movement around pages and to provide analytical information about visitors, including mouse clicks and mouse movements. Adobe Omniture provides Us with statistical information. Adobe guarantees the anonymity of the data about visits to Our Websites on Our behalf. This information is used to study volumes of usage on Our web pages and to improve these pages. The cookies used to collect these data are both first- and third-party cookies, and include data on traffic and visitors. These cookies do not include or collect any personal data. They allow Us to assess the number of users and, thus, measure and carry out statistical analysis on the use that users make of the service. For this purpose, Your browsing activity across Our website is analysed to enable us to improve the range of services We offer to You. You can find more information at: <http://www.adobe.com/privacy/cookies.html>
 
 **Advertising cookies** (used by Doubleclick and Adform): These cookies allow the most efficient way possible of managing advertising space on the website, application or platform providing the requested service based on criteria, such as edited content or how often adverts are shown. You can find more information at: <https://support.google.com/adsense/answer/2839090?hl=en>.
 
@@ -156,6 +156,22 @@ If You do not wish to allow any Flash Player data to be stored, uncheck the boxe
 
 **7.7 Withdrawal of consent to the use of cookies (opt-out)  
 **
+
+Users can withdraw their consent to the use of cookies in their browser using the manufacturer options of the browser being used or by installing a rejection system (“opt-out”) via the links of certain third parties that install cookies on partypoker.com web pages.  
+
+
+Adobe Omniture opt-out: <http://www.adobe.com/privacy/opt-out.html>  
+Doubleclick opt-out: <http://www.google.com/ads/preferences/html/opt-out.html>  
+
+
+To remove flash cookies already installed on Your computer:[ http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+
+Select the option “Delete all sites” or choose the specific website that You wish to remove and select “Delete website”.
+
+You should be aware that certain features of the content on Our Websites are only available if You allow the installation of cookies in Your browser. If You decide to refuse cookies You may not be able to experience all or part of the interactive functionality of Our websites.
+
+Alternatively, You can visit <https://www.aboutcookies.org/> in order to obtain information on deleting or controlling cookies.  
+
 
 If You choose to decline cookies, You may not be able to experience all of the interactive features on Our sites. 
 
