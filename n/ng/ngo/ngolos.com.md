@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the ngolos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015253id_/https%3A//www.ngolos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngolos.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207060505id_/http%3A//www.ngolos.com/privacy) for the most accurate reproduction.*
 
 # nGolos.com | Latest Video Highlights and Goals
+
+Our website is made possible by displaying online advertisements to our visitors.  
+Please consider supporting us by disabling your ad blocker.
 
 ###### **Privacy Policy**
 
