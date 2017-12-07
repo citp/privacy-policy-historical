@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoythinking.info privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607214143id_/http%3A//www.pinoythinking.info/p/pinoy-thinking-us-we-or-our-operates.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoythinking.info privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207102604id_/http%3A//www.pinoythinking.info/p/pinoy-thinking-us-we-or-our-operates.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pinoy Thinking
 
