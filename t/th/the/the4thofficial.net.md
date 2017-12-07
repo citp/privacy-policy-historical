@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the4thofficial.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090423id_/http%3A//the4thofficial.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the4thofficial.net privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207212906id_/http%3A//the4thofficial.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The 4th Official
 
