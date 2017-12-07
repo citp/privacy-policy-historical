@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caspio.net privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021080525id_/https%3A//www.caspio.com/caspio-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caspio.net privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207075707id_/https%3A//www.caspio.com/caspio-privacy-statement) for the most accurate reproduction.*
 
 # Caspio Privacy Statement - Caspio
 
@@ -12,7 +12,7 @@ Caspio, Inc. is committed to respecting your privacy and the privacy of the info
 
 We want you to know that we are not in the business of selling or renting individuals’ personal data to other companies for any purpose. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](https://web.archive.org/contact-us/).
 
-**COLLECTION AND USE OF YOUR INFORMATION**
+#### **COLLECTION AND USE OF YOUR INFORMATION**
 
 Caspio collects personally identifiable information when you register for a Caspio service account, when you sign up to become a Caspio affiliate, when you sign up to become a Caspio reseller, when you fill out any form requesting information, support, or product and service information, and when you subscribe to our news. Caspio may also receive personally identifiable information from its business partners.
 
@@ -35,10 +35,16 @@ Caspio hosts the data stored in your Caspio account. That data is strictly your 
 Certain Caspio employees have various access levels to Caspio systems, including databases, for the purposes of support, backups, maintenance, debugging, and other administrative and programming activities. However, Caspio will not monitor, edit, disclose, sell, or rent neither the data stored in your Caspio account, nor your personally identifiable information to anyone other than what is disclosed below. It is only under the following circumstances that we may send your information to other companies or people:
 
   * When we have your consent to share the information.
+  * When we need to share your information to provide you with a service or product you are requesting. For example, if you sign up for Caspio service through one of our authorized resellers.
+  * When we need to send the information to companies that work on our behalf to process an order you have made, or so they can provide a product or service to you. Note that these companies are not allowed to use your information for any reason other than to support us in assisting you. We employ the services of third-party payment processors to complete the payment fulfillment process for purchases made on the Site.
+  * When we conform to edicts of the law, to respond to subpoenas, court orders, or legal processes.
+  * When you have violated our Terms of Service Agreement for the service you are using or have used.
+  * When we act under exigent circumstances to protect the personal safety of our customers or the public.
 
 
 
-From time to time we may share aggregate data about our customers with other companies. In such cases no personally identifiable data will be made available to third parties.  
+From time to time we may share aggregate data about our customers with other companies. In such cases no personally identifiable data will be made available to third parties.
+
 By using our website and our services and providing us with your personal data, you consent to this transfer of your personal data.
 
 #### **CHILDREN AND PRIVACY**
@@ -113,21 +119,19 @@ We provide real time live chat capabilities on the Site through a third party ag
 
 We reserve the right to make changes to this statement at our discretion. Should we make material changes to the manner in which your collected personal information is utilized, we shall post a prominent notice on the Site, or notify you by email of the change and your choices prior to the change becoming effective.
 
-Privacy Statement for Users of Websites Operated by Caspio Customers
-
-#### **OUR PRIVACY PRINCIPLES**
+### **Privacy Statement for Users of Websites Operated by Caspio Customers**
 
 Because your trust and confidence is important to us, Caspio conducts its Caspio services under the following privacy principles:
 
-#### **CASPIO ACTS AS AN AGENT FOR OUR CUSTOMERS**
+##### **CASPIO ACTS AS AN AGENT FOR OUR CUSTOMERS**
 
 Caspio acts as an Agent for each of our Customers, in that we provide our services solely for the benefit of the customer. Each of our customers uses Caspio services to collect data, or to provide information to their websites visitors; they use our services to create and operate database-powered web forms and applications. Each customer instructs us as to what types of data it would like us to collect on its behalf. This data may include the information you explicitly enter in web forms including personally identifiable information, or data implicitly collected through visiting a webpage or logging in to a password-protected area. We also collect certain technical information, such as the browser version and operating system. In each customer agreement, we promise that we will not make use of any data that we collect on the customer’s behalf except as necessary to provide our services to that customer. We do not aggregate, sell, transfer, or otherwise disclose it to anyone but the customer, or pursuant to the customer’s instructions. We do, however, reserve a limited right to disclose any data we collect if required by law or valid order of a court or other governmental authority.
 
-#### **OUR CUSTOMERS’ USE OF CASPIO SERVICES**
+##### **OUR CUSTOMERS’ USE OF CASPIO SERVICES**
 
 We ask each of our customers to abide by all applicable laws, rules and regulations, as we promise our clients that we will do ourselves. We also recommend that each customer obtain all necessary consents from visitors to its website(s), post an online privacy policy that provides each visitor with notice of its data collection and use practices (including the customer’s use of Caspio’s services), and provide a link to the Caspio’s privacy policy.
 
-#### **USE OF COOKIES AND OTHER DATA COLLECTION METHODS**
+##### **USE OF COOKIES AND OTHER DATA COLLECTION METHODS**
 
 In providing services to our customers, it is Caspio’s policy to use cookies only when necessary to maintain the identity of the user in a given session. The cookie information does not include personal data such as name, age, phone number, e-mail address or mailing address. Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to reject cookies, however this may interfere with your usage of some of the services offered by Caspio’s customers. Caspio’s customers use customized JavaScript code provided by Caspio to contact Caspio’s servers, to receive a form or application, to load an image or content, or to submit and update information.
 
