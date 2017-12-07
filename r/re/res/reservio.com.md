@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reservio.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024101556id_/https%3A//www.reservio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reservio.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207073250id_/https%3A//www.reservio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Reservio
 
@@ -52,4 +52,4 @@ This Privacy Policy may be revised periodically and this will be reflected on th
 
 Please contact Reservio with any questions or comments about this Privacy Policy or the Reservio Sites by email to: [support@Reservio.com](mailto:support@Reservio.com)
 
-Last modified January 31, 2016.
+Last modified January 31, 2017.
