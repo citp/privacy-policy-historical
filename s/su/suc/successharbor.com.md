@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the successharbor.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630011625id_/https%3A//www.successharbor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successharbor.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207021717id_/https%3A//www.successharbor.com/privacy-policy) for the most accurate reproduction.*
 
 # Disclosure - Small Business Advice Help For Startups and Entrepreneurs
+
+Per FTC guidelines, Success Harbor may be compensated by companies mentioned through advertising, affiliate programs, or otherwise. Any references to third party products, rates, or websites are subject to change without notice. Please do the appropriate research before participating in any third party offers.
+
+Success Harbor is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 Since this blog is a source of income and may occasionally incorporate endorsement or testimonials, we feel that it is important to disclose the following to you, our readers:
 
