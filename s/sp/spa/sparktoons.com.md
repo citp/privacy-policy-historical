@@ -1,100 +1,77 @@
-> *The following text is extracted and transformed from the sparktoons.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630170048id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparktoons.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207234722id_/https%3A//smutcam.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Live Sexcams: XXX Adult Shows - Free Porn Chat - smutcam.com
 
-**GoDaddy Respects Your Privacy**
+## LAST REVISION: SEPTEMBER 19, 2013
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+PLEASE READ THIS smutcam.com PRIVACY POLICY ("Beronata Services PRIVACY POLICY") CAREFULLY. IT SETS FORTH THE PRACTICES OF Beronata Services, LTD ("Beronata Services") WITH RESPECT TO INFORMATION COLLECTED FROM BASIC MEMBERS, PREMIUM MEMBERS, GUESTS AND VISITORS TO smutcam.com WITH RESPECT TO ALL SERVICES PROVIDED BY Beronata Services OR SERVICES REQUIRING A LOG-IN OR PASSWORD (THE "SERVICES"). BY VISITING THE SITE, OR COMPLETING THE REGISTRATION PROCESS AND CLICKING THE "SUBMIT" BUTTON, YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Beronata Services DOES NOT KNOWINGLY COLLECT PERSONAL DATA FROM CHILDREN. IF YOU ARE UNDER THE AGE OF EIGHTEEN (18), PLEASE DO NOT GIVE US ANY PERSONAL DATA. IF YOU HAVE REASON TO BELIEVE THAT ANYONE UNDER 18 HAS PROVIDED PERSONAL DATA TO Beronata Services, PLEASE CONTACT US, AND WE WILL ENDEAVOR TO DELETE THAT INFORMATION FROM OUR DATABASES
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Beronata Services may change the Privacy Policy at any time by posting a revised version in place of this document. The last revision will be indicated at the top of this document and takes precedence over all previous versions. You agree to review the Privacy Policy periodically to be aware of such changes. If any change is unacceptable to you, you may terminate your membership as provided in your Subscriber Agreement. Your use, or continued use of the Services following the Effective Date of any such change to the Privacy Policy constitutes acceptance of all such changes.
 
-**Information Collection and Use**
+## 1\. Introduction.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+1.1. General.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+The following presents important information relating to Beronata Services's Privacy Policy. Because protecting your privacy is very important to Beronata Services, we have established a privacy policy that safeguards your personal information, and are committed to protecting its confidentiality. We will limit the collection and use of personally identifiable information ("Individual Information"), to what is necessary to administer our business, provide you with the quality Services, and offer you opportunities we think will be of interest. We will NOT disclose any Individual Information unless (i) we believe that such action is necessary to comply with applicable law or valid legal process (including without limitation search warrants, court orders, or providing assistance to law-enforcement authorities investigating the alleged commission of a crime), (2) with respect to payment processing and billing (e.g., to a credit-card bank may help us prove the legitimacy of a credit-card charge or bill), (3) if the disclosure of Individual Information is necessary to provide services that third parties provide to you on Beronata Services's behalf, or (4) as otherwise set forth herein (i.e., in Section 5 hereunder).
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+1.2. Types of Individual Information.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Individual Information is any information, data or records that relate to your Beronata Services membership or use of Beronata Services and identifies you or your individual Member account. The three types of Individual Information are; (1) "identity and billing information," including without limitation your name, street address, telephone number, billing information, and any account information associated with your screen names; (2) "navigational and transactional information," including without limitation information about which pages or products or services you access through Beronata Services; and (3) "private communications," including without limitation the contents of e-mail, or private chat room communications.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+## 2\. Member Identity and Billing Information.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+2.1. Collection and Storage.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We maintain various types of identity and billing information ("Billing Information"), including without limitation, your name, street address, telephone number(s), length of membership, and payment information. We may also keep information on your communications with our customer service department, employees or contractors, and general account history, such as accumulated usage credits or written complaints relating to your account. We safeguard Billing Information from unauthorized access and only authorized employees or agents who need to carry out legitimate business functions are permitted access to Individual Information. Beronata Services employees who violate Beronata Services's privacy policies are subject to disciplinary actions, including possible termination. We may use agents, who are bound by strict confidentiality guidelines, to perform storage, processing, and other limited functions on Beronata Services's behalf.
 
-**Security**
+2.2. Use.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+We use Billing Information to administer our business, ensure that you are properly billed and to communicate with you if the need arises.
 
-**Updating Your Information**
+2.3. Disclosure.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Except as set forth in Section 5 herein, our policy is not to disclose Billing Information to third parties, unless required to do so by applicable law or valid legal process (including without limitation search warrants, court orders or providing assistance to law-enforcement authorities investigating the alleged commission of a crime) or as required to process any payments made to Beronata Services by you or Beronata Services bills. Beronata Services, at its sole discretion, reserves the right to make exceptions to this policy in extraordinary circumstances (including without limitation a bomb or suicide threat, or instances of suspected illegal activity) on a case-by-case basis. When feasible, we do allow our Members to access and verify their Billing Information. We also allow our Members to request corrections to this information. Beronata Services intends to abide by applicable laws governing the disclosure to governmental entities of Individual Information and other records. If we are under a legal obligation to disclose Individual Information to a private citizen or entity, we may make efforts under the circumstances to notify the affected Member(s) in advance of releasing it in order to provide the Member(s) an opportunity to pursue any available legal protection.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+2.4. Compelling Obligation.
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Although Beronata Services will take reasonable measures not to disclose Billing Information, we may be compelled to do so in the good faith belief that such action is reasonably necessary (a) to comply with the law; (b) to comply with legal process; (c) to enforce Beronata Services's terms and conditions; (d) to respond to claims that any content violates the rights of third parties; or (e) to protect the interests of Beronata Services or others.
 
-      iii.      You may call us at: (480) 505-8800
+## 3\. Navigational and Transactional Information.
 
-       iv.      You may fax us at: (480) 505-8844
+3.1. Collection.
 
-**Sending Emails**
+We may collect and store certain navigational and transactional information ("Navigational Information"), such as data on the choices you make from the range of available services, and the times and ways you use Beronata Services.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+3.2. Use.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Beronata Services uses Navigational Information to personalize Beronata Services and for programming and editorial research. For example, we may use this information to understand our Members' reactions to menu items, and Services, and to customize Beronata Services based on our Members' interests.
 
-**Compliance with Laws and Law Enforcement**
+3.3. Disclosure.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Except as set forth in section 5, Beronata Services will not disclose to third parties Navigational Information (e.g., what you view or access through Beronata Services), except to comply with applicable law or valid legal process (including without limitation search warrant, court order, or providing assistance to law-enforcement authorities investigating the alleged commission of a crime).
 
-**Third Party Service Providers**
+## 4\. Private Communications.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+4.1. Collection and Storage.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The Beronata Services computer system automatically records and retains all chat room communications ("Communications"). However, to keep copies of any communications, you should store them on your personal computer hard drive or in print form. You agree that Beronata Services may employ e-mail virus-checking technology to protect its system and its members from viruses.
 
-**Supplementation of Information**
+TO THE EXTENT NECESSARY, YOU EXPLICITLY CONSENT AND AGREE TO Beronata Services's RECORDATION OF ALL CHAT ROOM COMMUNICATIONS, AND HEREBY WAIVE ANY RIGHTS YOU MAY HAVE UNDER STATE, FEDERAL, OR LOCAL LAW, INCLUDING BUT NOT LIMITED TO THE STORED COMMUNICATIONS ACT, STATE EAVESDROPPING LAWS, AND THE ELECTRONIC COMMUNICATIONS PRIVACY ACT.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+4.2. Use.
 
-**Contests/Surveys**
+Beronata Services treats Communications as strictly confidential. Beronata Services does not access, use or disclose the contents of Communications, except in limited circumstances as specifically provided herein. You acknowledge that private communications directed at a person or entity, including Beronata Services, may be used or disclosed by the intended recipient(s) without restrictions relating to privacy or confidentiality.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+4.3. Disclosure.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Beronata Services does not access or disclose the contents of Communications (e.g., e-mail, Member-created private rooms, online communications), unless it in good faith believes that such action is necessary (1) to comply with applicable law or valid legal process (including without limitation search warrants, court orders or providing assistance to law-enforcement authorities investigating the alleged commission of a crime); (2) to protect the rights or property of Beronata Services; or (3) in emergencies when Beronata Services believes that physical safety is at risk. Beronata Services reserves the right to treat as public any private chat room whose directory or room name is published or becomes generally known or available.
 
-**Tell-A-Friend**
+## 5\. Sale, Merger or other Corporate Transaction.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Beronata Services reserves the right to disclose any Individual Information to any person or entity in the event of a sale (of all or a portion of Beronata Services's assets), merger, reorganization, dissolution or similar event.
 
-**What Happens to my Personal Information if I Opt Out?**
+## 6\. Questions.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions whatsoever regarding Beronata Services's Subscriber Privacy Policy, e-mail [support@beronata.com](mailto:support@beronata.com).
