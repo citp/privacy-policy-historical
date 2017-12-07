@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowritingaid.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630224855id_/https%3A//prowritingaid.com/en/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowritingaid.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207035911id_/https%3A//prowritingaid.com/en/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
