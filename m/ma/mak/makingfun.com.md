@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615071035id_/https%3A//makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207064632id_/https%3A//makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Making Fun, Inc.
 
