@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129200243id_/https%3A//geebo.com/pages/view/id/2-privacy-policy-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207072044id_/https%3A//geebo.com/pages/view/id/2-privacy-policy-) for the most accurate reproduction.*
 
 # Privacy Policy at Geebo
 
