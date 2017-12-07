@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insaf.pk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613220424id_/http%3A//www.insaf.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insaf.pk privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207111700id_/http%3A//insaf.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,6 +76,6 @@ We also allow members to opt out from getting emails from our website as describ
 
  **(f) Changes to this Policy:**
 
-We will revise or update this policy if our practices change, or as we develop new tools or services to keep you informed. You should refer back to this page [insaf.pk/privacy](http://insaf.pk/privacy) often for the latest information and the effective date of any changes. If we decide to change this policy, we will change the 'Last Updated' date at the top of this page.
+We will revise or update this policy if our practices change, or as we develop new tools or services to keep you informed. You should refer back to this page [insaf.pk/privacy](http://www.insaf.pk/privacy) often for the latest information and the effective date of any changes. If we decide to change this policy, we will change the 'Last Updated' date at the top of this page.
 
 If you have any questions or concerns, please contact us at [admins@insaf.pk](mailto:admins@insaf.pk)
