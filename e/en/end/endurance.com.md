@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endurance.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630013508id_/https%3A//www.endurance.com/our-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endurance.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207214912id_/https%3A//www.endurance.com/our-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Endurance International Group
 
