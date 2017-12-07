@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehormonecurebook.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607143004id_/http%3A//www.saragottfriedmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehormonecurebook.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207060102id_/http%3A//www.saragottfriedmd.com/privacy-policy) for the most accurate reproduction.*
 
 # The Gottfried Institute Privacy Policy | Sara Gottfried MD
 
