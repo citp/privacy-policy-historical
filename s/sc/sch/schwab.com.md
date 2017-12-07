@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624060424id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207210105id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Charles Schwab
 
-Rev. July 2016
+[View this notice in PDF format](http://www.schwab.com/public/file?cmsid=P-974035&cv3)  
+
+
+Rev. July 2017
 
 FACTS | **WHAT DOES THE CHARLES SCHWAB CORPORATION DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -31,13 +34,13 @@ Reasons we can share your personal information | Does The Charles Schwab Corpora
 **If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
   
 ---|---  
-**Questions?** | Call **877-812-1817** or **800-435-4000** or go to [www.schwab.com/privacy](http://www.schwab.com/public/schwab/nn/legal_compliance/privacy).  
+**Questions?** | Call **877-812-1817** or **800-435-4000** or go to [www.schwab.com/privacy](https://www.schwab.com/privacy).  
 **Who we are**  
 ---  
 **Who is providing this notice?** | The Charles Schwab Corporation (also "Schwab") and its affiliates. See list of affiliates below.  
 **What we do**  
 ---  
-**How does Schwab protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. To learn more about security at Schwab, please visit [www.schwab.com/schwabsafe](http://www.schwab.com/public/schwab/nn/legal_compliance/schwabsafe).  
+**How does Schwab protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. To learn more about security at Schwab, please visit [www.schwab.com/schwabsafe](https://www.schwab.com/schwabsafe).  
 **How does Schwab collect my personal information?** | We collect your personal information, for example, when you
 
   * open an account or give us your income information 
@@ -77,14 +80,13 @@ _
 **State and International Laws**  
 If you are a Vermont resident, we will automatically limit sharing of your information. Nevada law requires us to disclose that you may request to be placed on Schwab's internal "do not call" list at any time by calling **800-435-4000** , and that we are providing this notice to you pursuant to state law, and that you may obtain further information by contacting the Nevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101; phone **702-486-3132** ; email [BCPINFO@ag.state.nv.us](mailto:%20BCPINFO@ag.state.nv.us).
 
-Charles Schwab, U.K., Limited   
-Charles Schwab, U.K., Limited (“Schwab U.K.”) introduces residents of the United Kingdom or Switzerland to Charles Schwab & Co., Inc. and processes personal information in accordance with the privacy policy of Schwab and various privacy laws of the United Kingdom. Clients introduced by Schwab U.K. may obtain further information at [www.schwab.co.uk](http://www.schwab.co.uk/).
+This notice does not apply to clients who reside in the European Economic Area (“EEA”). To learn more about Schwab’s privacy policy for EEA resident clients [www.schwab.co.uk/privacy](http://www.schwab.co.uk/public/schwab-uk-en/nn/legal_compliance/privacy.html).
 
 Charles Schwab, Hong Kong, Limited   
-Charles Schwab, Hong Kong, Limited (“Schwab H.K.”) has contracted with Charles Schwab & Co., Inc. to perform certain services for their customers (such as execution, clearance, settlement of trades, and custody of assets), and processes personal information in accordance with Schwab’s privacy policy and various privacy laws of Hong Kong. Clients of Schwab H.K. should also review the privacy terms contained in their account agreement, available at [www.schwab.com.hk](http://www.schwab.com.hk/).
+Charles Schwab, Hong Kong, Limited (“Schwab H.K.”) has contracted with Charles Schwab & Co., Inc. to perform certain services for their customers (such as execution, clearance, settlement of trades, and custody of assets), and processes personal information in accordance with Schwab’s privacy policy and various privacy laws of Hong Kong. Clients of Schwab H.K. should also review the privacy terms contained in their account agreement, available at [www.schwab.com.hk](http://www.schwab.com.hk/public/hk/us-investing).
 
-To learn more about our online privacy practices (e.g. "tracking"), please go to [www.schwab.com/privacy](http://www.schwab.com/privacy).
+To learn more about our online privacy practices (e.g. "tracking"), please go to [www.schwab.com/privacy](https://www.schwab.com/privacy).
 
-©2016 The Charles Schwab Corporation. All rights reserved. CC0494006 REG60835FM-06 (07/16)  
+©2017 The Charles Schwab Corporation. All rights reserved. CC1054007 REG60835FM-07 (07/17) (0717-ZAN5)  
   
 
