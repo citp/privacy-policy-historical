@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the havasmedia.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619025530id_/http%3A//www.havasmedia.com/utilites/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the havasmedia.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207183937id_/http%3A//www.havasmedia.com/utilites/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Havas Media
 
-##  19 June 2017
+##  07 December 2017
 
 ## PRIVACY AND PERSONAL DATA  
 
 
-We inform you that the website [www.havasmedia.com](http://www.havasmedia.com/) (the “Website”) is operated by Havas Media Group Spain, S.A.U.. (hereinafter, “HMGS”, “we”, “us” or “our”), with Tax I.D. Code (“C.I.F.”) A–78.809.662, entered at the Commercial Registry of Barcelona on volume 37.673, folio 220, page B-221.687, and registered office at Barcelona, Avda Diagonal, 575, Edificio L’Illa. HMGS is adhered to Confianza On-line. You may obtain further information on HMGS in the section “Who we are” and “What we do” of the Website or by sending an e-mail to the following e-mail address [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com) “You” and “Your” means you as the user of our Website.
+We inform you that the website [www.havasmedia.com](http://www.havasmedia.com/) (the “Website”) is operated by Havas Media Group Spain, S.A.U.. (hereinafter, “HMGS”, “we”, “us” or “our”), with Tax I.D. Code (“C.I.F.”) A–78.809.662, entered at the Commercial Registry of Barcelona on volume 37.673, folio 220, page B-221.687, and registered office at Barcelona, Avda Diagonal, 575, Edificio L’Illa. HMGS is adhered to Confianza On-line. You may obtain further information on HMGS in the section “Who we are” and “What we do” of the Website or by sending an e-mail to the following e-mail address [privacy@havasmedia.com](mailto:privacy@havasmedia.com) “You” and “Your” means you as the user of our Website.
 
 This privacy policy ("Privacy Policy") is intended to inform You how we gather, define, and use Your Information (as defined below). This Privacy Policy, and our separate Terms of Use and our Cookies Policy, make up our Website “Terms and Conditions”.
 
 Access to and use of the Website by You implies Your full acceptance of the Website Terms and Conditions. In this regard, if You access and use the Website You agree to comply with the provisions indicated in the mentioned legal documents. The provision of the Website service is limited to the period during which You are connected to the Website or to any of the services provided via same. Therefore, You must read this Privacy Policy carefully each time You intend to use the Website, since it may undergo changes.  
-All Your personal Information shall be held and used in accordance with the Personal Data Protection Law (the "Legislation"). If You want to know what information we collect and hold about You, please write to us at [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com).
+All Your personal Information shall be held and used in accordance with the Personal Data Protection Law (the "Legislation"). If You want to know what information we collect and hold about You, please write to us at [privacy@havasmedia.com](mailto:privacy@havasmedia.com).
 
 HMGS is the data controller of the personal data that we will collect from You.  
 
@@ -47,7 +47,7 @@ In limited circumstances we may pass Your Information to other third party organ
 ## COMMERCIAL COMMUNICATIONS  
 
 
-We inform You that we can collect Your consent with the purposes to send You commercial communications through each data collection form. Where You have expressly consented, by filling in the opt-in box that may appear in the data collection form when browsing our Website we may contact You by email, post, sms, or through any other equivalent electronic communication mean, with information about our products or services that we feel may be of interest to You. You can let us know at any time if You no longer wish to receive these communications by contacting [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com).  
+We inform You that we can collect Your consent with the purposes to send You commercial communications through each data collection form. Where You have expressly consented, by filling in the opt-in box that may appear in the data collection form when browsing our Website we may contact You by email, post, sms, or through any other equivalent electronic communication mean, with information about our products or services that we feel may be of interest to You. You can let us know at any time if You no longer wish to receive these communications by contacting [privacy@havasmedia.com](mailto:privacy@havasmedia.com).  
 
 
 ## COOKIES
@@ -66,7 +66,7 @@ We also inform You that You may revoke the consent given for the processing of Y
 ## HOW CAN YOU ACCESS YOUR INFORMATION  
 
 
-We inform You that You may exercise at any time Your rights of access, rectification, cancellation and objection to the processing of Your personal data by sending a written notice, attaching a photocopy of a document evidencing Your identity, to the following address: Eloy Gonzalo 10, Madrid 28010 or [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com). Such notice shall be sent for the attention of the L.O.P.D. Consultation Office (Oficina de Consulta L.O.P.D.).
+We inform You that You may exercise at any time Your rights of access, rectification, cancellation and objection to the processing of Your personal data by sending a written notice, attaching a photocopy of a document evidencing Your identity, to the following address: Eloy Gonzalo 10, Madrid 28010 or [privacy@havasmedia.com](mailto:privacy@havasmedia.com). Such notice shall be sent for the attention of the L.O.P.D. Consultation Office (Oficina de Consulta L.O.P.D.).
 
 ## WHERE WE STORE YOUR PERSONAL DATA  
 
