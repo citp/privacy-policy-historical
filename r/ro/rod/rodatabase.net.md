@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rodatabase.net privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611135347id_/http%3A//rodatabase.net/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodatabase.net privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208003759id_/http%3A//rodatabase.net/us/privacy) for the most accurate reproduction.*
 
 # Items - Revelation Online Database
 
