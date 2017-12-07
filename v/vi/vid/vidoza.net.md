@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidoza.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001851id_/https%3A//vidoza.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidoza.net privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207234605id_/https%3A//vidoza.net/privacypolicy) for the most accurate reproduction.*
 
 # Vidoza
 
