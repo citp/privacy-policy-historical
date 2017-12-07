@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilikeyou.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414151131id_/https%3A//ilikeyou.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilikeyou.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207080526id_/https%3A//ilikeyou.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Ilikeyou - Meet, chat, date
 
