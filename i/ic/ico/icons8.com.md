@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icons8.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516073442id_/https%3A//icons8.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icons8.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207074314id_/https%3A//icons8.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Icons8
+# Privacy Policy
 
 Our Privacy Policy was last updated and posted on 22 August 2014. It governs the privacy terms of our Website, located at http://icons8.com, sub-domains, and any associated web-based and mobile applications (collectively, "Website"), as owned and operated by Icons8. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
