@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loklist.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607191505id_/http%3A//www.loklist.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loklist.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207045216id_/http%3A//www.loklist.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Post Free classified ads India-Post Free ads-Classified sites in India
 
