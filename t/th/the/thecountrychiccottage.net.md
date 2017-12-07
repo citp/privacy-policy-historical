@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecountrychiccottage.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015529id_/http%3A//www.thecountrychiccottage.net/p/terms-and-disclosure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecountrychiccottage.net privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207054509id_/https%3A//www.thecountrychiccottage.net/p/terms-and-disclosure.html) for the most accurate reproduction.*
 
 # Terms and Disclosure - The Country Chic Cottage
 
