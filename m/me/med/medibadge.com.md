@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medibadge.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604033549id_/http%3A//www.medibadge.com/customer-service-W11C322.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medibadge.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207194946id_/http%3A//www.medibadge.com/customer-service-W11C322.aspx%23privacy) for the most accurate reproduction.*
 
 # customer service | Kids Love Stickers from MediBadge
 
@@ -12,7 +12,7 @@ We are pleased to fill and ship your orders, regardless of the size. We require 
 
 Our friendly Customer Service Team is ready to take your order, answer your questions, or assist you in any way. With 5 easy ways to contact us, ordering has never been easier.
 
-**Order Online** \- Simply browse our online catalog, place selected items in your shopping cart and process the order when you're done. If you are shopping with a catalog and know your item numbers, use our handy [Quick Order Form](https://web.archive.org/web/20170604033549id_/http%3A//www.medibadge.com/Quick_Order.cfm)to quickly add several items to your shopping cart.
+**Order Online** \- Simply browse our online catalog, place selected items in your shopping cart and process the order when you're done. If you are shopping with a catalog and know your item numbers, use our handy [Quick Order Form](https://web.archive.org/web/20171207194946id_/http%3A//www.medibadge.com/Quick_Order.cfm)to quickly add several items to your shopping cart.
 
 **Call Toll Free** 1-800-228-0040 for fast service throughout the U.S.A. and Canada. (Monday - Friday, 8am to 6pm, Eastern Standard Time.)
 
