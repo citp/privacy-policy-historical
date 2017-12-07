@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedics.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605225018id_/http%3A//www.homedics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedics.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207013706id_/http%3A//www.homedics.com/privacy-policy) for the most accurate reproduction.*
 
 # HoMedics.com | Privacy Policy
 
