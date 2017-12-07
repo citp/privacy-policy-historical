@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the moneyville.ca privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624075545id_/https%3A//www.thestar.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyville.ca privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207080033id_/https%3A//www.thestar.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Toronto Star
 
-**Our commitment to privacy:**
+**Our Privacy Policy is updating effective Dec. 14, 2017.[Click here](https://www.thestar.com/about/privacy-policy.html) to see more.**
+
+ **Our commitment to privacy:**
 
 Toronto Star Newspapers Limited (excluding its publication The Kit) (the "Star") know that protecting the privacy and confidentiality of your personal information is important to you. This Privacy Policy governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by the Star. The collection, use and disclosure of your personal information is governed by the _Personal Information Protection and Electronic Documents Act_ (the "Act"), and any applicable provincial legislation. This Privacy Policy explains what personal information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices.
 
