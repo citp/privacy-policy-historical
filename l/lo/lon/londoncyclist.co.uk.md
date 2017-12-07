@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607080512id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207125335id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies - London Cyclist
 
@@ -35,7 +35,7 @@ Andreas
 
   * eShop
   * Newsletter
-  * Apps (Bike Doctor, London Cyclist app, London Bike Rides)
+  * Apps (Bike Doctor, London Cyclist app)
   * eBooks
   * Discussion area where you can leave comments beneath posts
 
@@ -86,17 +86,14 @@ Our apps:
 
   * Bike Doctor
   * London Cyclist App
-  * London Bike Rides
 
 
 
 **Geolocation**
 
-Both the London Cyclist app and London Bike Rides app request your permission to provide us with your location data.
+The London Cyclist app requests your permission to provide us with your location data.
 
 On the London Cyclist App, this allows us to show you a list of your nearest bike related businesses. It also allows us to show you your location on a map, so that you can find your nearest bike business.
-
-On the London Bike Rides App, we use your location to show your position on a map, so you can follow a cycle route more easily.
 
 The Bike Doctor app does not require your location.
 
@@ -115,8 +112,6 @@ We use third parties to help administer the applications (e.g., storage and host
 **Advertising**
 
 The London Cyclist app allows companies to buy a featured spot at the top of the listings, in return for a discount or special deal for users. We will never share any personal information with these companies, we only share usage data such as how many views their advertisement has had.
-
-The Bike Doctor app and the London Bike Rides app have no advertising.
 
 **eShop**
 
