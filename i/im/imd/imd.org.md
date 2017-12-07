@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imd.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607110345id_/https%3A//www.imd.org/settings/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imd.org privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207144107id_/https%3A//www.imd.org/settings/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | IMD Business School
 
 IMD Privacy policy
 
