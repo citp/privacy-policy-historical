@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the purlsoho.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516160923id_/https%3A//www.purlsoho.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purlsoho.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207093530id_/https%3A//www.purlsoho.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Any personal information you provide to us on our site such as: name, e-mail address, telephone number, credit card information and address is kept in private files on our secure web server. [Purlsoho.com](https://web.archive.org/web/20170516160923id_/https://www.purlsoho.com/privacy-policy/%20Collection%20of%20information "http://www.purlsoho.com/") will not sell, rent or share your e-mail address with others for them to send you unsolicited e-mail. We would only disclose information about you if required to do so by law.
+Any personal information you provide to us on our site such as: name, e-mail address, telephone number, credit card information and address is kept in private files on our secure web server. [Purlsoho.com](https://web.archive.org/web/20171207093530id_/https://www.purlsoho.com/privacy-policy/%20Collection%20of%20information "http://www.purlsoho.com/") will not sell, rent or share your e-mail address with others for them to send you unsolicited e-mail. We would only disclose information about you if required to do so by law.
 
 Access  
 You will provide and be responsible for all equipment used and all telephone and other charges incurred to access the purlsoho service and the site. If you have a question regarding long distance charges, contact your telephone company. You acknowledge that from time to time [purlsoho.com](http://www.purlsoho.com/) and the purlsoho service may be inaccessible or inoperable for any reason, including, but not limited to:(i) equipment malfunctions; (ii) periodic maintenance procedures or repairs which [purlsoho.com](http://www.purlsoho.com/) may undertake from time to time; or (iii) causes beyond the control of [purlsoho.com](http://www.purlsoho.com/).
@@ -20,7 +20,7 @@ Cookies
 Like many web sites, ours uses "cookies" to make your shopping experience faster. A cookie is a piece of data stored on your computer's hard drive that allows [purlsoho.com](http://www.purlsoho.com/) to identify you. Cookies cannot be used to access sensitive account information. You will always have to log in with a user name and password to place an order. Please note that if you disable cookies on your browser, certain features of the site may be disabled.
 
 Third party information providers and merchants _  
-_ In the future, the purlsoho service may permit you to order and receive products, information and services from businesses that are not owned or operated by [purlsoho.com](http://www.purlsoho.com/). In such instances, [purlsoho.com](http://www.purlsoho.com/) will only act as the link between you and such businesses. 
+_In the future, the purlsoho service may permit you to order and receive products, information and services from businesses that are not owned or operated by  [purlsoho.com](http://www.purlsoho.com/). In such instances, [purlsoho.com](http://www.purlsoho.com/) will only act as the link between you and such businesses. 
 
 Children’s privacy
 
