@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blazdesign.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604123208id_/https%3A//blazdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazdesign.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207054309id_/https%3A//blazdesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blaz Design
 
@@ -20,19 +20,19 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Blaz Design, LLC may collect and use Users personal information for the following purposes:
 
- **To improve customer service**
+**To improve customer service**
 
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
- **To personalize user experience**
+**To personalize user experience**
 
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
- **To improve our Site**
+**To improve our Site**
 
 We may use feedback you provide to improve our products and services.
 
- **To send periodic emails**
+**To send periodic emails**
 
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
@@ -60,9 +60,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
- **Blaz Design, LLC  
+**Blaz Design, LLC  
 **[www.blazdesign.com  
-](http://www.blazdesign.com/)216.282.0099  
+](https://www.blazdesign.com/)216.282.0099  
 shannon@blazdesign.com
 
- _This document was last updated on March 13, 2014_
+_This document was last updated on March 13, 2014_ ainer] 
